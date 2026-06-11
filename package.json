@@ -1,0 +1,18 @@
+{
+  "name": "ai-news-tracker",
+  "version": "1.0.0",
+  "description": "AI & Robotics daily news aggregator",
+  "main": "fetcher.js",
+  "scripts": {
+    "start": "node fetcher.js",
+    "fetch": "node fetcher.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "rss-parser": "^3.13.0"
+  },
+  "keywords": ["ai", "robotics", "news", "aggregator"],
+  "author": "",
+  "license": "MIT",
+  "private": true
+}

@@ -1,0 +1,14 @@
+{
+  "ai": {
+    "zh": ["人工智能", "大模型", "LLM", "生成式AI", "AI Agent", "多模态", "机器学习", "深度学习", "自然语言处理", "计算机视觉", "AI芯片", "算力", "AI融资", "AI创业", "OpenAI", "GPT", "百度文心", "阿里通义", "字节豆包", "Claude", "Gemini", "智能体", "大语言模型", "AIGC", "Transformer"],
+    "en": ["artificial intelligence", "large language model", "LLM", "generative AI", "AI agent", "multimodal", "machine learning", "deep learning", "NLP", "computer vision", "AI chip", "AI funding", "AI startup", "OpenAI", "GPT", "Claude", "Gemini", "transformer", "foundation model", "neural network", "AGI"]
+  },
+  "robotics": {
+    "zh": ["人形机器人", "协作机器人", "工业机器人", "服务机器人", "具身智能", "机械臂", "AMR", "AGV", "无人机", "自动驾驶", "机器人融资", "波士顿动力", "宇树科技", "优必选", "特斯拉Optimus", "Figure", "灵巧手", "四足机器人", "双足机器人", "机器人操作", "机器人", "机器狗", "仿生", "灵巧操作", "传感器", "激光雷达", "SLAM", "运动控制", "减速器", "伺服电机", "智能制造", "柔性生产", "产线自动化"],
+    "en": ["humanoid robot", "collaborative robot", "cobot", "industrial robot", "service robot", "embodied intelligence", "robotic arm", "AMR", "AGV", "drone", "autonomous driving", "robotics funding", "Boston Dynamics", "Figure AI", "Unitree", "Tesla Optimus", "dexterous hand", "quadruped", "bipedal robot", "manipulation", "robot", "robotics", "actuator", "lidar", "SLAM", "motion control", "automation", "ROS", "end effector", "pick and place", "warehouse robot"]
+  },
+  "application": {
+    "zh": ["无人配送", "配送机器人", "无人车", "仓储自动化", "智能分拣", "智能供应链", "智能零售", "无人店", "智能客服", "需求预测", "智能选品", "自动化物流", "智慧物流", "机器人餐厅", "自动驾驶配送"],
+    "en": ["autonomous delivery", "delivery robot", "warehouse automation", "smart sorting", "smart supply chain", "smart retail", "unmanned store", "AI customer service", "demand forecasting", "automated logistics", "robotic fulfillment", "last mile delivery", "ghost kitchen", "dark store", "micro-fulfillment"]
+  }
+}
