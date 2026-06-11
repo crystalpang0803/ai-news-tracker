@@ -1,7 +1,7 @@
 const categoryLabels = {
-  ai: { name: 'AI 人工智能', icon: '🤖', color: '#6366f1' },
-  robotics: { name: '机器人', icon: '🦾', color: '#ec4899' },
-  application: { name: '商业应用', icon: '🏪', color: '#10b981' }
+  ai: { name: 'AI 人工智能', icon: '🤖', color: '#0ea5e9' },
+  robotics: { name: '机器人', icon: '🦾', color: '#6366f1' },
+  application: { name: '商业应用', icon: '🏪', color: '#059669' }
 };
 
 function generateHTML(items, date) {
@@ -24,9 +24,13 @@ function generateHTML(items, date) {
     .map(([cat, items]) => {
       const label = categoryLabels[cat];
       const newsItems = items.map(item => {
-        const titleDisplay = item.titleZh 
-          ? `${escapeHtml(item.titleZh)}<br><span class="en-title">${escapeHtml(item.title)}</span>`
-          : escapeHtml(item.title);
+        let titleDisplay;
+        if (item.titleZh) {
+          // English as main title, Chinese translation below
+          titleDisplay = `<span class="main-title">${escapeHtml(item.title)}</span><br><span class="zh-title">${escapeHtml(item.titleZh)}</span>`;
+        } else {
+          titleDisplay = `<span class="main-title">${escapeHtml(item.title)}</span>`;
+        }
         return `
         <div class="news-item">
           <a href="${item.link}" target="_blank" rel="noopener">${titleDisplay}</a>
@@ -36,8 +40,11 @@ function generateHTML(items, date) {
       }).join('');
 
       return `
-        <section class="category" style="border-left-color: ${label.color}">
-          <h2>${label.icon} ${label.name}</h2>
+        <section class="category">
+          <div class="category-header" style="border-color: ${label.color}">
+            <span class="category-icon">${label.icon}</span>
+            <h2>${label.name}</h2>
+          </div>
           ${newsItems}
         </section>
       `;
@@ -52,107 +59,125 @@ function generateHTML(items, date) {
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-      background: #0f172a;
-      color: #e2e8f0;
-      padding: 2rem;
-      max-width: 800px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+      background: #f8fafc;
+      color: #1e293b;
+      padding: 2.5rem 1.5rem;
+      max-width: 860px;
       margin: 0 auto;
+      line-height: 1.6;
     }
     header {
       text-align: center;
       margin-bottom: 2rem;
-      padding-bottom: 1rem;
-      border-bottom: 1px solid #334155;
+      padding-bottom: 1.5rem;
+      border-bottom: 2px solid #e2e8f0;
     }
     header h1 {
-      font-size: 1.8rem;
-      background: linear-gradient(135deg, #6366f1, #ec4899);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      margin-bottom: 0.5rem;
+      font-size: 2rem;
+      font-weight: 700;
+      color: #0369a1;
+      margin-bottom: 0.4rem;
+      letter-spacing: -0.5px;
     }
     header .date {
-      color: #94a3b8;
+      color: #64748b;
       font-size: 0.9rem;
-    }
-    .category {
-      margin-bottom: 2rem;
-      padding-left: 1rem;
-      border-left: 3px solid;
-    }
-    .category h2 {
-      font-size: 1.2rem;
-      margin-bottom: 0.8rem;
-      color: #f1f5f9;
-    }
-    .news-item {
-      margin-bottom: 0.8rem;
-      padding: 0.6rem 0;
-      border-bottom: 1px solid #1e293b;
-    }
-    .news-item:last-child { border-bottom: none; }
-    .news-item a {
-      color: #e2e8f0;
-      text-decoration: none;
-      font-size: 0.95rem;
-      line-height: 1.5;
-      display: block;
-    }
-    .news-item a:hover {
-      color: #818cf8;
-    }
-    .en-title {
-      font-size: 0.8rem;
-      color: #64748b;
-      font-style: italic;
-    }
-    .source {
-      display: inline-block;
-      margin-top: 0.3rem;
-      font-size: 0.75rem;
-      color: #64748b;
-      background: #1e293b;
-      padding: 0.15rem 0.5rem;
-      border-radius: 3px;
-    }
-    footer {
-      text-align: center;
-      color: #475569;
-      font-size: 0.8rem;
-      margin-top: 2rem;
-      padding-top: 1rem;
-      border-top: 1px solid #334155;
     }
     .nav {
       display: flex;
       justify-content: center;
       align-items: center;
-      gap: 1rem;
-      margin-bottom: 1.5rem;
+      gap: 0.8rem;
+      margin-bottom: 2rem;
     }
-    .nav a, .nav button {
-      background: #1e293b;
-      color: #818cf8;
-      border: 1px solid #334155;
-      padding: 0.4rem 1rem;
-      border-radius: 6px;
+    .nav a {
+      background: #ffffff;
+      color: #0369a1;
+      border: 1px solid #bae6fd;
+      padding: 0.5rem 1.2rem;
+      border-radius: 8px;
       text-decoration: none;
       font-size: 0.85rem;
-      cursor: pointer;
+      font-weight: 500;
+      transition: all 0.2s;
     }
-    .nav a:hover, .nav button:hover { background: #334155; }
+    .nav a:hover { background: #e0f2fe; border-color: #0ea5e9; }
     .nav input[type="date"] {
-      background: #1e293b;
-      color: #e2e8f0;
-      border: 1px solid #334155;
-      padding: 0.4rem 0.8rem;
-      border-radius: 6px;
+      background: #ffffff;
+      color: #1e293b;
+      border: 1px solid #cbd5e1;
+      padding: 0.5rem 0.8rem;
+      border-radius: 8px;
       font-size: 0.85rem;
     }
+    .category {
+      margin-bottom: 2rem;
+      background: #ffffff;
+      border-radius: 12px;
+      padding: 1.5rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+    }
+    .category-header {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+      padding-bottom: 0.8rem;
+      border-bottom: 2px solid;
+    }
+    .category-icon { font-size: 1.3rem; }
+    .category h2 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #334155;
+    }
+    .news-item {
+      padding: 0.8rem 0;
+      border-bottom: 1px solid #f1f5f9;
+    }
+    .news-item:last-child { border-bottom: none; }
+    .news-item a {
+      color: #1e293b;
+      text-decoration: none;
+      display: block;
+      transition: color 0.2s;
+    }
+    .news-item a:hover { color: #0369a1; }
+    .main-title {
+      font-size: 0.95rem;
+      font-weight: 500;
+      line-height: 1.5;
+    }
+    .zh-title {
+      font-size: 0.85rem;
+      color: #64748b;
+      line-height: 1.5;
+      margin-top: 2px;
+      display: inline-block;
+    }
+    .source {
+      display: inline-block;
+      margin-top: 0.4rem;
+      font-size: 0.7rem;
+      color: #94a3b8;
+      background: #f1f5f9;
+      padding: 0.2rem 0.6rem;
+      border-radius: 4px;
+      font-weight: 500;
+    }
+    footer {
+      text-align: center;
+      color: #94a3b8;
+      font-size: 0.8rem;
+      margin-top: 2.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid #e2e8f0;
+    }
     @media (max-width: 600px) {
-      body { padding: 1rem; }
-      header h1 { font-size: 1.4rem; }
+      body { padding: 1.5rem 1rem; }
+      header h1 { font-size: 1.5rem; }
+      .category { padding: 1rem; }
     }
   </style>
 </head>
