@@ -75,17 +75,18 @@ function matchesKeywords(title, category) {
 async function fetchRSS(source) {
   try {
     const feed = await parser.parseURL(source.url);
-    const today = new Date();
-    today.setHours(0, 0, 0, 0);
+    const now = new Date();
+    const cutoff = new Date(now.getTime() - 24 * 60 * 60 * 1000); // 24 hours ago
     
     const items = [];
     for (const item of (feed.items || []).slice(0, 20)) {
       const pubDate = item.pubDate ? new Date(item.pubDate) : null;
-      // Only include items from today or yesterday (for early morning runs)
+      // Strictly only include items from the past 24 hours
       if (pubDate) {
-        const yesterday = new Date(today);
-        yesterday.setDate(yesterday.getDate() - 1);
-        if (pubDate < yesterday) continue;
+        if (pubDate < cutoff) continue;
+      } else {
+        // No date available, skip to avoid old news
+        continue;
       }
       
       const category = matchesKeywords(item.title);
@@ -94,7 +95,7 @@ async function fetchRSS(source) {
           title: item.title.trim(),
           link: item.link,
           source: source.name,
-          date: pubDate ? pubDate.toISOString().split('T')[0] : new Date().toISOString().split('T')[0],
+          date: pubDate.toISOString().split('T')[0],
           category
         });
       }
@@ -107,6 +108,8 @@ async function fetchRSS(source) {
 }
 
 // Fetch web page and scrape headlines
+// Note: scraped items have no date info, so we mark them as "today" 
+// but only take top matches to reduce noise from old content
 async function fetchScrape(source) {
   try {
     const controller = new AbortController();
@@ -125,11 +128,16 @@ async function fetchScrape(source) {
     
     const items = [];
     $('a').each((_, el) => {
-      const title = $(el).text().trim();
+      const title = $(el).text().trim().replace(/\s+/g, ' ');
       let link = $(el).attr('href');
       
-      if (!title || title.length < 10 || title.length > 200) return;
+      // Stricter filtering: title must be 15-150 chars, no navigation links
+      if (!title || title.length < 15 || title.length > 150) return;
       if (!link) return;
+      if (link === '#' || link.startsWith('javascript:')) return;
+      
+      // Skip common navigation patterns
+      if (/^(首页|关于|联系|登录|注册|more|home|about|contact)/i.test(title)) return;
       
       // Make relative URLs absolute
       if (link.startsWith('/')) {
@@ -149,7 +157,7 @@ async function fetchScrape(source) {
       }
     });
     
-    return items.slice(0, 10); // Limit per source
+    return items.slice(0, 5); // Limit per source to reduce old content noise
   } catch (err) {
     console.log(`[Scrape Error] ${source.name}: ${err.message}`);
     return [];
