@@ -2,8 +2,9 @@ name: Daily News Fetch
 
 on:
   schedule:
-    - cron: '15 1 * * 1-5'
-  workflow_dispatch:
+    # 每天 UTC 1:15 (北京时间 9:15)
+    - cron: '15 1 * * *'
+  workflow_dispatch: # 支持手动触发
 
 permissions:
   contents: write
@@ -32,8 +33,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/
-          git diff --cached --quiet || git commit -m "Daily news update $(date +%Y-%m-%d)"
+          git add output/ 
+          git diff --cached --quiet || git commit -m "📰 Daily news update $(date +%Y-%m-%d)"
           git push
 
   deploy:
