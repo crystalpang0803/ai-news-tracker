@@ -53,9 +53,18 @@ async function asyncPool(limit, items, fn) {
 }
 
 // Check if title matches any keyword
+// Uses word boundary matching for short English keywords to avoid false positives
 function matchesKeywords(title, category) {
   if (!title) return false;
+  
+  // Skip aggregated news titles (晚报、早报、快讯合集等)
+  const skipPatterns = /晚报|早报|日报合集|快讯合集|氪星晚报|一周回顾|本周回顾|周报|morning brief|evening brief|daily roundup|weekly roundup|newsletter/i;
+  if (skipPatterns.test(title)) return null;
+  
   const titleLower = title.toLowerCase();
+  
+  // Short keywords that need word boundary matching (<=4 chars or prone to false match)
+  const needBoundary = new Set(['ai', 'llm', 'nlp', 'gpt', 'amr', 'agv', 'ros', 'agi']);
   
   // Check all categories if no specific category
   const categories = category ? [category] : Object.keys(keywords);
@@ -65,7 +74,14 @@ function matchesKeywords(title, category) {
     if (!kw) continue;
     const allKeywords = [...(kw.zh || []), ...(kw.en || [])];
     for (const keyword of allKeywords) {
-      if (titleLower.includes(keyword.toLowerCase())) return cat;
+      const kwLower = keyword.toLowerCase();
+      if (needBoundary.has(kwLower)) {
+        // Use word boundary regex for short keywords
+        const regex = new RegExp(`\\b${kwLower}\\b`, 'i');
+        if (regex.test(title)) return cat;
+      } else {
+        if (titleLower.includes(kwLower)) return cat;
+      }
     }
   }
   return null;
