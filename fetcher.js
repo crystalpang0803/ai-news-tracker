@@ -27,8 +27,8 @@ function isEnglish(text) {
 // Config
 const MAX_NEWS_ITEMS = 12;
 const MIN_NEWS_ITEMS = 8;
-const REQUEST_TIMEOUT = 10000;
-const CONCURRENT_LIMIT = 5;
+const REQUEST_TIMEOUT = 15000;
+const CONCURRENT_LIMIT = 8;
 
 // Load configs
 const sources = JSON.parse(fs.readFileSync(path.join(__dirname, 'sources.json'), 'utf8'));
@@ -57,9 +57,22 @@ async function asyncPool(limit, items, fn) {
 function matchesKeywords(title, category) {
   if (!title) return false;
   
-  // Skip aggregated news titles (晚报、早报、快讯合集等)
-  const skipPatterns = /晚报|早报|日报合集|快讯合集|氪星晚报|一周回顾|本周回顾|周报|morning brief|evening brief|daily roundup|weekly roundup|newsletter/i;
-  if (skipPatterns.test(title)) return null;
+  // Skip low-quality content: aggregated titles, clickbait, soft articles, social news
+  const skipPatterns = [
+    // Aggregated news
+    /晚报|早报|日报合集|快讯合集|氪星晚报|一周回顾|本周回顾|周报|morning brief|evening brief|daily roundup|weekly roundup|newsletter/i,
+    // Clickbait / sensational
+    /去世|死亡|离世|自杀|惊呆|震惊|崩溃|炸了|疯了|吓人|恐怖|细思极恐|万万没想到|竟然|居然/i,
+    // Soft articles / PR / marketing
+    /创业故事|创业一年|师兄弟|夫妻档|合伙人故事|独家专访创始人|从0到1|白手起家/i,
+    // Lawsuits / social drama (not tech-focused)
+    /起诉|被告|法院判决|离婚|出轨|丑闻|八卦/i,
+    // Listicles / opinion pieces that are usually low quality
+    /你不知道的|必看|盘点|排行榜|TOP\s*\d+|榜单/i,
+    // Ads / promotions
+    /优惠|折扣|促销|限时|免费领|薅羊毛|红包|补贴大战/i
+  ];
+  if (skipPatterns.some(p => p.test(title))) return null;
   
   const titleLower = title.toLowerCase();
   
@@ -234,6 +247,28 @@ let allItems = [];
   allItems = deduplicate(allItems);
   console.log(`After dedup: ${allItems.length}`);
   
+  // Cross-day dedup: exclude news already published in recent days
+  const outputDir = path.join(__dirname, 'output');
+  const historyPath = path.join(outputDir, 'history.json');
+  let publishedLinks = new Set();
+  if (fs.existsSync(historyPath)) {
+    try {
+      const history = JSON.parse(fs.readFileSync(historyPath, 'utf8'));
+      // Keep last 7 days of history
+      const cutoff = new Date();
+      cutoff.setDate(cutoff.getDate() - 7);
+      const cutoffStr = cutoff.toISOString().split('T')[0];
+      for (const [date, links] of Object.entries(history)) {
+        if (date >= cutoffStr) {
+          links.forEach(l => publishedLinks.add(l));
+        }
+      }
+    } catch (e) { console.log('History read error, continuing without history'); }
+  }
+  const beforeFilter = allItems.length;
+  allItems = allItems.filter(item => !publishedLinks.has(item.link));
+  console.log(`After cross-day dedup: ${allItems.length} (removed ${beforeFilter - allItems.length} already published)`);
+  
   // Score and sort
   allItems.sort((a, b) => scoreItem(b) - scoreItem(a));
   
@@ -274,7 +309,6 @@ let allItems = [];
   
   // Generate output
   const today = new Date().toISOString().split('T')[0];
-  const outputDir = path.join(__dirname, 'output');
   if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
   
   const outputPath = path.join(outputDir, `${today}.html`);
@@ -292,6 +326,21 @@ let allItems = [];
     manifest.sort();
     fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2), 'utf8');
   }
+
+  // Update history (record published links for cross-day dedup)
+  let history = {};
+  if (fs.existsSync(historyPath)) {
+    try { history = JSON.parse(fs.readFileSync(historyPath, 'utf8')); } catch (e) {}
+  }
+  history[today] = selected.map(item => item.link);
+  // Clean up entries older than 7 days
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - 7);
+  const cutoffStr = cutoff.toISOString().split('T')[0];
+  for (const date of Object.keys(history)) {
+    if (date < cutoffStr) delete history[date];
+  }
+  fs.writeFileSync(historyPath, JSON.stringify(history, null, 2), 'utf8');
 
   console.log(`\nDone! Output: ${outputPath}`);
   console.log(`Open in browser: file:///${outputPath.replace(/\\/g, '/')}`);
