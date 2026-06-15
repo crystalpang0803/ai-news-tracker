@@ -187,6 +187,7 @@ function generateHTML(items, date) {
     <p class="date">${date} | 共 ${items.length} 条精选</p>
   </header>
   <div class="nav">
+    <a href="../index.html">🏠 主页</a>
     <a href="${prevDate}.html">← 前一天</a>
     <input type="date" value="${date}" onchange="window.location.href=this.value+'.html'">
     <a href="${nextDate}.html">后一天 →</a>
