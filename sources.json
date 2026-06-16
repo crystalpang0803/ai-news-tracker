@@ -20,7 +20,7 @@
       {"name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "category": "ai"},
       {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "category": "ai"},
       {"name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/", "category": "ai"},
-      {"name": "VentureBeat", "url": "https://venturebeat.com/feed/", "category": "ai"},
+     {"name": "VentureBeat", "url": "https://venturebeat.com/feed/", "category": "ai"},
       {"name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/", "category": "ai"},
       {"name": "Wired", "url": "https://www.wired.com/feed/rss", "category": "ai"},
       {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index", "category": "ai"},
@@ -53,23 +53,16 @@
       {"name": "搜狐科技", "url": "https://it.sohu.com/", "selector": "article"},
       {"name": "东方财富网", "url": "https://www.eastmoney.com/", "selector": "article"},
       {"name": "中国机器人网", "url": "https://www.robot-china.com/news/", "selector": "article"},
-      {"name": "科技日报", "url": "http://www.stdaily.com/", "selector": "article"},
       {"name": "新华网科技", "url": "http://www.xinhuanet.com/tech/", "selector": "article"}
     ],
     "english": [
       {"name": "Crunchbase News", "url": "https://news.crunchbase.com/", "selector": "article"},
-      {"name": "CB Insights", "url": "https://www.cbinsights.com/research/", "selector": "article"},
-      {"name": "WSJ Tech", "url": "https://www.wsj.com/tech", "selector": "article"},
-      {"name": "Bloomberg Tech", "url": "https://www.bloomberg.com/technology", "selector": "article"},
-      {"name": "Financial Times Tech", "url": "https://www.ft.com/technology", "selector": "article"},
       {"name": "Restaurant Dive", "url": "https://www.restaurantdive.com/", "selector": "article"},
       {"name": "QSR Magazine", "url": "https://www.qsrmagazine.com/", "selector": "article"},
       {"name": "NRN", "url": "https://www.nrn.com/", "selector": "article"},
       {"name": "Food On Demand", "url": "https://foodondemand.com/", "selector": "article"},
       {"name": "Retail Gazette", "url": "https://www.retailgazette.co.uk/", "selector": "article"},
-      {"name": "NVIDIA Blog", "url": "https://blogs.nvidia.com/", "selector": "article"},
-      {"name": "DoorDash Engineering", "url": "https://doordash.engineering/", "selector": "article"},
-      {"name": "Instacart Tech Blog", "url": "https://tech.instacart.com/", "selector": "article"}
+      {"name": "NVIDIA Blog", "url": "https://blogs.nvidia.com/", "selector": "article"}
     ]
   }
 }
