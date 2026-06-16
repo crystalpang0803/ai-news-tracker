@@ -206,13 +206,28 @@ async function fetchScrape(source) {
   }
 }
 
-// Deduplicate by title similarity
+// Deduplicate by title similarity (prefix match + word overlap)
 function deduplicate(items) {
-  const seen = new Set();
+  const seen = [];
   return items.filter(item => {
-    const key = item.title.toLowerCase().replace(/[^\u4e00-\u9fa5a-z0-9]/g, '').slice(0, 30);
-    if (seen.has(key)) return false;
-    seen.add(key);
+    const key = item.title.toLowerCase().replace(/[^\u4e00-\u9fa5a-z0-9]/g, '');
+    const prefix = key.slice(0, 30);
+    // Extract meaningful words (length > 3) for similarity check
+    const words = new Set(item.title.toLowerCase().split(/\s+/).filter(w => w.length > 3));
+    for (const prev of seen) {
+      // Exact prefix match
+      if (prev.prefix === prefix) return false;
+      // Word overlap: if 60%+ of words are shared, treat as duplicate
+      if (words.size > 2 && prev.words.size > 2) {
+        let overlap = 0;
+        for (const w of words) {
+          if (prev.words.has(w)) overlap++;
+        }
+        const similarity = overlap / Math.min(words.size, prev.words.size);
+        if (similarity >= 0.6) return false;
+      }
+    }
+    seen.push({ prefix, words });
     return true;
   });
 }
