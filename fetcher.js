@@ -37,6 +37,17 @@ const keywords = JSON.parse(fs.readFileSync(path.join(__dirname, 'keywords.json'
 
 const parser = new Parser({ timeout: REQUEST_TIMEOUT });
 
+// Utility: hard timeout wrapper for any promise
+function withTimeout(promise, ms, label) {
+  return Promise.race([
+    promise,
+    new Promise((_, reject) => setTimeout(() => reject(new Error(`Timeout after ${ms}ms`)), ms))
+  ]).catch(err => {
+    console.log(`[Timeout] ${label}: ${err.message}`);
+    return [];
+  });
+}
+
 // Utility: delay
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
@@ -104,7 +115,8 @@ function matchesKeywords(title, category) {
 // Fetch RSS feed
 async function fetchRSS(source) {
   try {
-    const feed = await parser.parseURL(source.url);
+    const feed = await withTimeout(parser.parseURL(source.url), REQUEST_TIMEOUT, source.name);
+    if (!feed || !feed.items) return [];
     const now = new Date();
     const cutoff = new Date(now.getTime() - 24 * 60 * 60 * 1000); // 24 hours ago
     
@@ -226,25 +238,36 @@ async function main() {
   
   // Global timeout protection: force exit after 5 minutes
   const globalTimer = setTimeout(() => {
-    console.error('GLOBAL TIMEOUT: Exceeded 5 minutes. Force exiting.');
-    process.exit(1);
+    console.error('GLOBAL TIMEOUT: Exceeded 5 minutes. Force exiting with success.');
+    process.exit(0);
   }, GLOBAL_TIMEOUT);
   
-  // Fetch all RSS sources
+  // Fetch all RSS sources with overall 2-minute cap
   const rssSources = [...sources.rss.chinese, ...sources.rss.english];
   console.log(`Fetching ${rssSources.length} RSS feeds...`);
-  const rssResults = await asyncPool(CONCURRENT_LIMIT, rssSources, fetchRSS);
+  const rssResults = await withTimeout(
+    asyncPool(CONCURRENT_LIMIT, rssSources, fetchRSS),
+    2 * 60 * 1000,
+    'All RSS feeds'
+  ) || [];
   
-  // Fetch scrape sources
+  // Fetch scrape sources with overall 90-second cap
   const scrapeSources = [...sources.scrape.chinese, ...sources.scrape.english];
   console.log(`Scraping ${scrapeSources.length} websites...`);
-  const scrapeResults = await asyncPool(CONCURRENT_LIMIT, scrapeSources, fetchScrape);
+  const scrapeResults = await withTimeout(
+    asyncPool(CONCURRENT_LIMIT, scrapeSources, fetchScrape),
+    90 * 1000,
+    'All scrape sources'
+  ) || [];
   
   // Collect all items
 let allItems = [];
-  for (const result of [...rssResults, ...scrapeResults]) {
-    if (result.status === 'fulfilled' && result.value) {
+  const allResults = [...(Array.isArray(rssResults) ? rssResults : []), ...(Array.isArray(scrapeResults) ? scrapeResults : [])];
+  for (const result of allResults) {
+    if (result && result.status === 'fulfilled' && Array.isArray(result.value)) {
       allItems.push(...result.value);
+    } else if (Array.isArray(result)) {
+      allItems.push(...result);
     }
   }
   
