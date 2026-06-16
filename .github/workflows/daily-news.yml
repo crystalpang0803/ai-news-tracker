@@ -2,8 +2,10 @@ name: Daily News Fetch
 
 on:
   schedule:
-    # 每个工作日 UTC 1:15 (北京时间 9:15)
-    - cron: '15 1 * * 1-5'
+    # 每天 UTC 0:30 (北京时间 8:30) - 主时间
+    - cron: '30 0 * * *'
+    # 每天 UTC 1:30 (北京时间 9:30) - 备用时间，防止第一次被跳过
+    - cron: '30 1 * * *'
   workflow_dispatch: # 支持手动触发
 
 permissions:
@@ -14,6 +16,7 @@ permissions:
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
+    timeout-minutes: 8
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -21,13 +24,14 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: Install dependencies
         run: npm install
 
       - name: Fetch news
         run: node fetcher.js
+        timeout-minutes: 6
 
       - name: Commit and push
         run: |

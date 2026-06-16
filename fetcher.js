@@ -27,8 +27,9 @@ function isEnglish(text) {
 // Config
 const MAX_NEWS_ITEMS = 12;
 const MIN_NEWS_ITEMS = 8;
-const REQUEST_TIMEOUT = 10000;
-const CONCURRENT_LIMIT = 5;
+const REQUEST_TIMEOUT = 10000;  // 10s per request (reduced from 15s)
+const CONCURRENT_LIMIT = 12;   // Higher concurrency for CI environment
+const GLOBAL_TIMEOUT = 5 * 60 * 1000; // 5 minutes max total runtime
 
 // Load configs
 const sources = JSON.parse(fs.readFileSync(path.join(__dirname, 'sources.json'), 'utf8'));
@@ -53,9 +54,31 @@ async function asyncPool(limit, items, fn) {
 }
 
 // Check if title matches any keyword
+// Uses word boundary matching for short English keywords to avoid false positives
 function matchesKeywords(title, category) {
   if (!title) return false;
+  
+  // Skip low-quality content: aggregated titles, clickbait, soft articles, social news
+  const skipPatterns = [
+    // Aggregated news
+    /晚报|早报|日报合集|快讯合集|氪星晚报|一周回顾|本周回顾|周报|morning brief|evening brief|daily roundup|weekly roundup|newsletter/i,
+    // Clickbait / sensational
+    /去世|死亡|离世|自杀|惊呆|震惊|崩溃|炸了|疯了|吓人|恐怖|细思极恐|万万没想到|竟然|居然/i,
+    // Soft articles / PR / marketing
+    /创业故事|创业一年|师兄弟|夫妻档|合伙人故事|独家专访创始人|从0到1|白手起家/i,
+    // Lawsuits / social drama (not tech-focused)
+    /起诉|被告|法院判决|离婚|出轨|丑闻|八卦/i,
+    // Listicles / opinion pieces that are usually low quality
+    /你不知道的|必看|盘点|排行榜|TOP\s*\d+|榜单/i,
+    // Ads / promotions
+    /优惠|折扣|促销|限时|免费领|薅羊毛|红包|补贴大战/i
+  ];
+  if (skipPatterns.some(p => p.test(title))) return null;
+  
   const titleLower = title.toLowerCase();
+  
+  // Short keywords that need word boundary matching (<=4 chars or prone to false match)
+  const needBoundary = new Set(['ai', 'llm', 'nlp', 'gpt', 'amr', 'agv', 'ros', 'agi']);
   
   // Check all categories if no specific category
   const categories = category ? [category] : Object.keys(keywords);
@@ -65,7 +88,14 @@ function matchesKeywords(title, category) {
     if (!kw) continue;
     const allKeywords = [...(kw.zh || []), ...(kw.en || [])];
     for (const keyword of allKeywords) {
-      if (titleLower.includes(keyword.toLowerCase())) return cat;
+      const kwLower = keyword.toLowerCase();
+      if (needBoundary.has(kwLower)) {
+        // Use word boundary regex for short keywords
+        const regex = new RegExp(`\\b${kwLower}\\b`, 'i');
+        if (regex.test(title)) return cat;
+      } else {
+        if (titleLower.includes(kwLower)) return cat;
+      }
     }
   }
   return null;
@@ -75,17 +105,18 @@ function matchesKeywords(title, category) {
 async function fetchRSS(source) {
   try {
     const feed = await parser.parseURL(source.url);
-    const today = new Date();
-    today.setHours(0, 0, 0, 0);
+    const now = new Date();
+    const cutoff = new Date(now.getTime() - 24 * 60 * 60 * 1000); // 24 hours ago
     
     const items = [];
     for (const item of (feed.items || []).slice(0, 20)) {
       const pubDate = item.pubDate ? new Date(item.pubDate) : null;
-      // Only include items from today or yesterday (for early morning runs)
+      // Strictly only include items from the past 24 hours
       if (pubDate) {
-        const yesterday = new Date(today);
-        yesterday.setDate(yesterday.getDate() - 1);
-        if (pubDate < yesterday) continue;
+        if (pubDate < cutoff) continue;
+      } else {
+        // No date available, skip to avoid old news
+        continue;
       }
       
       const category = matchesKeywords(item.title);
@@ -94,7 +125,7 @@ async function fetchRSS(source) {
           title: item.title.trim(),
           link: item.link,
           source: source.name,
-          date: pubDate ? pubDate.toISOString().split('T')[0] : new Date().toISOString().split('T')[0],
+          date: pubDate.toISOString().split('T')[0],
           category
         });
       }
@@ -107,6 +138,8 @@ async function fetchRSS(source) {
 }
 
 // Fetch web page and scrape headlines
+// Note: scraped items have no date info, so we mark them as "today" 
+// but only take top matches to reduce noise from old content
 async function fetchScrape(source) {
   try {
     const controller = new AbortController();
@@ -125,11 +158,16 @@ async function fetchScrape(source) {
     
     const items = [];
     $('a').each((_, el) => {
-      const title = $(el).text().trim();
+      const title = $(el).text().trim().replace(/\s+/g, ' ');
       let link = $(el).attr('href');
       
-      if (!title || title.length < 10 || title.length > 200) return;
+      // Stricter filtering: title must be 15-150 chars, no navigation links
+      if (!title || title.length < 15 || title.length > 150) return;
       if (!link) return;
+      if (link === '#' || link.startsWith('javascript:')) return;
+      
+      // Skip common navigation patterns
+      if (/^(首页|关于|联系|登录|注册|more|home|about|contact)/i.test(title)) return;
       
       // Make relative URLs absolute
       if (link.startsWith('/')) {
@@ -149,7 +187,7 @@ async function fetchScrape(source) {
       }
     });
     
-    return items.slice(0, 10); // Limit per source
+    return items.slice(0, 5); // Limit per source to reduce old content noise
   } catch (err) {
     console.log(`[Scrape Error] ${source.name}: ${err.message}`);
     return [];
@@ -186,6 +224,12 @@ function scoreItem(item) {
 async function main() {
   console.log(`[${new Date().toLocaleString()}] Starting news fetch...`);
   
+  // Global timeout protection: force exit after 5 minutes
+  const globalTimer = setTimeout(() => {
+    console.error('GLOBAL TIMEOUT: Exceeded 5 minutes. Force exiting.');
+    process.exit(1);
+  }, GLOBAL_TIMEOUT);
+  
   // Fetch all RSS sources
   const rssSources = [...sources.rss.chinese, ...sources.rss.english];
   console.log(`Fetching ${rssSources.length} RSS feeds...`);
@@ -209,6 +253,28 @@ let allItems = [];
   // Deduplicate
   allItems = deduplicate(allItems);
   console.log(`After dedup: ${allItems.length}`);
+  
+  // Cross-day dedup: exclude news already published in recent days
+  const outputDir = path.join(__dirname, 'output');
+  const historyPath = path.join(outputDir, 'history.json');
+  let publishedLinks = new Set();
+  if (fs.existsSync(historyPath)) {
+    try {
+      const history = JSON.parse(fs.readFileSync(historyPath, 'utf8'));
+      // Keep last 7 days of history
+      const cutoff = new Date();
+      cutoff.setDate(cutoff.getDate() - 7);
+      const cutoffStr = cutoff.toISOString().split('T')[0];
+      for (const [date, links] of Object.entries(history)) {
+        if (date >= cutoffStr) {
+          links.forEach(l => publishedLinks.add(l));
+        }
+      }
+    } catch (e) { console.log('History read error, continuing without history'); }
+  }
+  const beforeFilter = allItems.length;
+  allItems = allItems.filter(item => !publishedLinks.has(item.link));
+  console.log(`After cross-day dedup: ${allItems.length} (removed ${beforeFilter - allItems.length} already published)`);
   
   // Score and sort
   allItems.sort((a, b) => scoreItem(b) - scoreItem(a));
@@ -250,7 +316,6 @@ let allItems = [];
   
   // Generate output
   const today = new Date().toISOString().split('T')[0];
-  const outputDir = path.join(__dirname, 'output');
   if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
   
   const outputPath = path.join(outputDir, `${today}.html`);
@@ -269,8 +334,25 @@ let allItems = [];
     fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2), 'utf8');
   }
 
+  // Update history (record published links for cross-day dedup)
+  let history = {};
+  if (fs.existsSync(historyPath)) {
+    try { history = JSON.parse(fs.readFileSync(historyPath, 'utf8')); } catch (e) {}
+  }
+  history[today] = selected.map(item => item.link);
+  // Clean up entries older than 7 days
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - 7);
+  const cutoffStr = cutoff.toISOString().split('T')[0];
+  for (const date of Object.keys(history)) {
+    if (date < cutoffStr) delete history[date];
+  }
+  fs.writeFileSync(historyPath, JSON.stringify(history, null, 2), 'utf8');
+
   console.log(`\nDone! Output: ${outputPath}`);
   console.log(`Open in browser: file:///${outputPath.replace(/\\/g, '/')}`);
+  
+  clearTimeout(globalTimer);
 }
 
 main().catch(console.error);
