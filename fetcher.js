@@ -29,7 +29,7 @@ const MAX_NEWS_ITEMS = 12;
 const MIN_NEWS_ITEMS = 8;
 const REQUEST_TIMEOUT = 10000;  // 10s per request (reduced from 15s)
 const CONCURRENT_LIMIT = 12;   // Higher concurrency for CI environment
-const GLOBAL_TIMEOUT = 5 * 60 * 1000; // 5 minutes max total runtime
+const GLOBAL_TIMEOUT = 8 * 60 * 1000; // 8 minutes max total runtime
 
 // Load configs
 const sources = JSON.parse(fs.readFileSync(path.join(__dirname, 'sources.json'), 'utf8'));

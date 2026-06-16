@@ -16,7 +16,7 @@ permissions:
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 12
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -31,7 +31,7 @@ jobs:
 
       - name: Fetch news
         run: node fetcher.js
-        timeout-minutes: 6
+        timeout-minutes: 10
 
       - name: Commit and push
         run: |
