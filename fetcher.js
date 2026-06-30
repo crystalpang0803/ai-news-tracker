@@ -183,7 +183,7 @@ function flattenOutlets() {
       try { domain = new URL(src.url).hostname.replace(/^www\./, ''); } catch { continue; }
       if (seen.has(domain)) continue;          // dedup outlets sharing a domain
       seen.add(domain);
-      outlets.push({ name: src.name, domain, category: src.category || 'ai', lang: g.lang });
+      outlets.push({ name: src.name, url: src.url, domain, category: src.category || 'ai', lang: g.lang });
     }
   }
   return outlets;
@@ -218,6 +218,43 @@ async function fetchGoogleNews(outlet) {
     console.log(`[GNews Error] ${outlet.name}: ${err.message}`);
     return [];
   }
+}
+
+// Try an outlet's NATIVE RSS feed directly. Used for Chinese outlets, whose own
+// feeds are usually fresher and more complete than Google News' sparse indexing of
+// them. The feed is the whole site, so we filter strictly with matchesKeywords.
+async function fetchNativeRSS(outlet) {
+  try {
+    const xml = await fetchText(outlet.url, 'application/rss+xml, application/xml, text/xml, */*');
+    if (!xml) return [];
+    const feed = await parser.parseString(xml);
+    if (!feed || !feed.items) return [];
+    const cutoff = new Date(Date.now() - 48 * 60 * 60 * 1000);
+    const items = [];
+    for (const item of feed.items.slice(0, 30)) {
+      if (!item.title || SKIP_TITLE.test(item.title)) continue;
+      const pubDate = item.pubDate ? new Date(item.pubDate) : null;
+      if (!pubDate || pubDate < cutoff) continue;
+      const category = matchesKeywords(item.title);
+      if (!category) continue;
+      items.push({ title: item.title.trim(), link: item.link, source: outlet.name, date: pubDate.toISOString().split('T')[0], category });
+      if (items.length >= 5) break;
+    }
+    return items;
+  } catch (err) {
+    console.log(`[Native RSS] ${outlet.name}: ${err.message}`);
+    return [];
+  }
+}
+
+// Dispatch per outlet: Chinese outlets prefer their own RSS and fall back to Google
+// News search; English outlets use Google News search (reliable, well-indexed).
+async function fetchOutlet(outlet) {
+  if (outlet.lang === 'zh') {
+    const native = await fetchNativeRSS(outlet);
+    if (native.length) return native;
+  }
+  return fetchGoogleNews(outlet);
 }
 
 // Deduplicate by title similarity (prefix match + word overlap)
@@ -273,11 +310,11 @@ async function main() {
   
   // Fetch every outlet via Google News search (overall 2.5-minute cap)
   const outlets = flattenOutlets();
-  console.log(`Searching ${outlets.length} outlets via Google News...`);
+  console.log(`Fetching ${outlets.length} outlets (中文优先原生RSS, 英文/兜底走Google News)...`);
   const newsResults = await withTimeout(
-    asyncPool(CONCURRENT_LIMIT, outlets, fetchGoogleNews),
+    asyncPool(CONCURRENT_LIMIT, outlets, fetchOutlet),
     150 * 1000,
-    'All Google News searches'
+    'All outlet fetches'
   ) || [];
 
   // Collect all items
