@@ -4,6 +4,17 @@ const fs = require('fs');
 const path = require('path');
 const { generateHTML } = require('./generator');
 
+// Return YYYY-MM-DD in Beijing time (Asia/Shanghai, UTC+8).
+// We deliberately do NOT use new Date().toISOString() because that is UTC:
+// when the GitHub Actions run lands in the Beijing early-morning window
+// (which is the previous UTC day) a UTC filename would be off by one day.
+function getEditionDate() {
+  return new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Asia/Shanghai',
+    year: 'numeric', month: '2-digit', day: '2-digit'
+  }).format(new Date());
+}
+
 // Simple translation via Google Translate (free, no API key)
 async function translateToZh(text) {
   try {
@@ -353,7 +364,7 @@ let allItems = [];
   console.log(`Selected ${selected.length} items: AI=${categoryCounts.ai}, Robotics=${categoryCounts.robotics}, Application=${categoryCounts.application}`);
   
   // Generate output
-  const today = new Date().toISOString().split('T')[0];
+  const today = getEditionDate();
   if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
   
   const outputPath = path.join(outputDir, `${today}.html`);

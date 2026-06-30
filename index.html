@@ -92,7 +92,12 @@
   <ul class="archive-list" id="archiveList"></ul>
 
   <script>
-    const today = new Date().toISOString().split('T')[0];
+    // Default the date picker to *Beijing* today, not UTC today,
+    // so it matches the edition the site publishes.
+    const today = new Intl.DateTimeFormat('en-CA', {
+      timeZone: 'Asia/Shanghai',
+      year: 'numeric', month: '2-digit', day: '2-digit'
+    }).format(new Date());
     document.getElementById('dateInput').value = today;
 
     function goToDate() {

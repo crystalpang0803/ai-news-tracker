@@ -194,7 +194,7 @@ function generateHTML(items, date) {
   </div>
   ${sections}
   <footer>
-    <p>数据来源：60+ 中英文科技媒体 | 自动生成于 ${new Date().toLocaleTimeString('zh-CN')}</p>
+    <p>数据来源：60+ 中英文科技媒体 | 自动生成于 ${new Date().toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })}</p>
   </footer>
 </body>
 </html>`;

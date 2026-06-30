@@ -2,10 +2,19 @@ name: Daily News Fetch
 
 on:
   schedule:
-    # 每天 UTC 0:30 (北京时间 8:30) - 主时间
-    - cron: '30 0 * * *'
-    # 每天 UTC 1:30 (北京时间 9:30) - 备用时间，防止第一次被跳过
-    - cron: '30 1 * * *'
+    # GitHub Actions cron is best-effort and often delayed under load, so we
+    # fire several times across the Beijing early-morning window (and use
+    # off-peak minutes, never :00 / :30) to maximize the chance one run lands
+    # before users open the site. All times are UTC; Beijing = UTC+8.
+    # The edition date is computed in Beijing time inside fetcher.js, so every
+    # run below produces that same Beijing calendar day's edition.
+    - cron: '13 16 * * *'   # Beijing 00:13
+    - cron: '7 18 * * *'    # Beijing 02:07
+    - cron: '41 19 * * *'   # Beijing 03:41
+    - cron: '23 21 * * *'   # Beijing 05:23
+    - cron: '47 22 * * *'   # Beijing 06:47
+    - cron: '17 0 * * *'    # Beijing 08:17 (morning backstop)
+    - cron: '37 3 * * *'    # Beijing 11:37 (daytime backstop)
   workflow_dispatch: # 支持手动触发
 
 permissions:
@@ -17,6 +26,8 @@ jobs:
   fetch-news:
     runs-on: ubuntu-latest
     timeout-minutes: 12
+    env:
+      TZ: Asia/Shanghai
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -37,7 +48,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/ 
+          git pull --rebase --autostash origin main || true
+          git add output/
           git diff --cached --quiet || git commit -m "📰 Daily news update $(date +%Y-%m-%d)"
           git push
 
