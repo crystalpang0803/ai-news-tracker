@@ -37,7 +37,6 @@ function isEnglish(text) {
 
 // Config
 const MAX_NEWS_ITEMS = 12;
-const MIN_NEWS_ITEMS = 8;
 const REQUEST_TIMEOUT = 10000;  // 10s per request (reduced from 15s)
 const CONCURRENT_LIMIT = 12;   // Higher concurrency for CI environment
 const GLOBAL_TIMEOUT = 8 * 60 * 1000; // 8 minutes max total runtime
@@ -262,9 +261,9 @@ function scoreItem(item) {
 async function main() {
   console.log(`[${new Date().toLocaleString()}] Starting news fetch...`);
   
-  // Global timeout protection: force exit after 5 minutes
+  // Global timeout protection: force exit after 8 minutes
   const globalTimer = setTimeout(() => {
-    console.error('GLOBAL TIMEOUT: Exceeded 5 minutes. Force exiting with success.');
+    console.error('GLOBAL TIMEOUT: Exceeded 8 minutes. Force exiting with success.');
     process.exit(0);
   }, GLOBAL_TIMEOUT);
   
