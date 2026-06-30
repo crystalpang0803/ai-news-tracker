@@ -4,6 +4,17 @@ const fs = require('fs');
 const path = require('path');
 const { generateHTML } = require('./generator');
 
+// Return YYYY-MM-DD in Beijing time (Asia/Shanghai, UTC+8).
+// We deliberately do NOT use new Date().toISOString() because that is UTC:
+// when the GitHub Actions run lands in the Beijing early-morning window
+// (which is the previous UTC day) a UTC filename would be off by one day.
+function getEditionDate() {
+  return new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Asia/Shanghai',
+    year: 'numeric', month: '2-digit', day: '2-digit'
+  }).format(new Date());
+}
+
 // Simple translation via Google Translate (free, no API key)
 async function translateToZh(text) {
   try {
@@ -26,10 +37,11 @@ function isEnglish(text) {
 
 // Config
 const MAX_NEWS_ITEMS = 12;
-const MIN_NEWS_ITEMS = 8;
-const REQUEST_TIMEOUT = 10000;  // 10s per request (reduced from 15s)
-const CONCURRENT_LIMIT = 12;   // Higher concurrency for CI environment
-const GLOBAL_TIMEOUT = 8 * 60 * 1000; // 8 minutes max total runtime
+const REQUEST_TIMEOUT = 8000;   // 8s per request
+const CONCURRENT_LIMIT = 8;    // concurrency (lowered to ease memory/parse pressure)
+const GLOBAL_TIMEOUT = 7 * 60 * 1000; // 7-minute backstop (CI step hard-limit is 10m)
+const MAX_BODY_BYTES = 1500000;       // cap each response BEFORE any sync parse, so a huge
+                                      // page/feed can't block the event loop and stall every timer
 
 // Load configs
 const sources = JSON.parse(fs.readFileSync(path.join(__dirname, 'sources.json'), 'utf8'));
@@ -112,10 +124,35 @@ function matchesKeywords(title, category) {
   return null;
 }
 
+// Fetch a URL as text with BOTH a time cap (AbortController) and a size cap.
+// The size cap is the key fix: parsing an unbounded huge body runs synchronously
+// (cheerio / XML) and blocks the event loop, which stops every setTimeout timer
+// (including the global backstop) from firing -> the CI step hard-times-out.
+async function fetchText(url, accept) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), REQUEST_TIMEOUT);
+  try {
+    const res = await fetch(url, {
+      signal: controller.signal,
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        ...(accept ? { 'Accept': accept } : {})
+      }
+    });
+    let text = await res.text();
+    if (text.length > MAX_BODY_BYTES) text = text.slice(0, MAX_BODY_BYTES);
+    return text;
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
 // Fetch RSS feed
 async function fetchRSS(source) {
   try {
-    const feed = await withTimeout(parser.parseURL(source.url), REQUEST_TIMEOUT, source.name);
+    const xml = await fetchText(source.url, 'application/rss+xml, application/xml, text/xml, */*');
+    if (!xml) return [];
+    const feed = await parser.parseString(xml);
     if (!feed || !feed.items) return [];
     const now = new Date();
     const cutoff = new Date(now.getTime() - 24 * 60 * 60 * 1000); // 24 hours ago
@@ -154,18 +191,8 @@ async function fetchRSS(source) {
 // but only take top matches to reduce noise from old content
 async function fetchScrape(source) {
   try {
-    const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), REQUEST_TIMEOUT);
-    
-    const response = await fetch(source.url, {
-      signal: controller.signal,
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-      }
-    });
-    clearTimeout(timeout);
-    
-    const html = await response.text();
+    const html = await fetchText(source.url);
+    if (!html) return [];
     const $ = cheerio.load(html);
     
     const items = [];
@@ -251,27 +278,27 @@ function scoreItem(item) {
 async function main() {
   console.log(`[${new Date().toLocaleString()}] Starting news fetch...`);
   
-  // Global timeout protection: force exit after 5 minutes
+  // Global timeout protection: force exit after 7 minutes
   const globalTimer = setTimeout(() => {
-    console.error('GLOBAL TIMEOUT: Exceeded 5 minutes. Force exiting with success.');
+    console.error('GLOBAL TIMEOUT: Exceeded 7 minutes. Force exiting with success.');
     process.exit(0);
   }, GLOBAL_TIMEOUT);
   
-  // Fetch all RSS sources with overall 2-minute cap
+  // Fetch all RSS sources with overall 90-second cap
   const rssSources = [...sources.rss.chinese, ...sources.rss.english];
   console.log(`Fetching ${rssSources.length} RSS feeds...`);
   const rssResults = await withTimeout(
     asyncPool(CONCURRENT_LIMIT, rssSources, fetchRSS),
-    2 * 60 * 1000,
+    90 * 1000,
     'All RSS feeds'
   ) || [];
   
-  // Fetch scrape sources with overall 90-second cap
+  // Fetch scrape sources with overall 75-second cap
   const scrapeSources = [...sources.scrape.chinese, ...sources.scrape.english];
   console.log(`Scraping ${scrapeSources.length} websites...`);
   const scrapeResults = await withTimeout(
     asyncPool(CONCURRENT_LIMIT, scrapeSources, fetchScrape),
-    90 * 1000,
+    75 * 1000,
     'All scrape sources'
   ) || [];
   
@@ -353,7 +380,7 @@ let allItems = [];
   console.log(`Selected ${selected.length} items: AI=${categoryCounts.ai}, Robotics=${categoryCounts.robotics}, Application=${categoryCounts.application}`);
   
   // Generate output
-  const today = new Date().toISOString().split('T')[0];
+  const today = getEditionDate();
   if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
   
   const outputPath = path.join(outputDir, `${today}.html`);
