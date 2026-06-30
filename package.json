@@ -8,10 +8,14 @@
     "fetch": "node fetcher.js"
   },
   "dependencies": {
-    "cheerio": "^1.0.0",
     "rss-parser": "^3.13.0"
   },
-  "keywords": ["ai", "robotics", "news", "aggregator"],
+  "keywords": [
+    "ai",
+    "robotics",
+    "news",
+    "aggregator"
+  ],
   "author": "",
   "license": "MIT",
   "private": true

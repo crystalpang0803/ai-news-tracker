@@ -1,5 +1,4 @@
 const Parser = require('rss-parser');
-const cheerio = require('cheerio');
 const fs = require('fs');
 const path = require('path');
 const { generateHTML } = require('./generator');
@@ -126,7 +125,7 @@ function matchesKeywords(title, category) {
 
 // Fetch a URL as text with BOTH a time cap (AbortController) and a size cap.
 // The size cap is the key fix: parsing an unbounded huge body runs synchronously
-// (cheerio / XML) and blocks the event loop, which stops every setTimeout timer
+// (XML / HTML) and blocks the event loop, which stops every setTimeout timer
 // (including the global backstop) from firing -> the CI step hard-times-out.
 async function fetchText(url, accept) {
   const controller = new AbortController();
@@ -147,88 +146,76 @@ async function fetchText(url, accept) {
   }
 }
 
-// Fetch RSS feed
-async function fetchRSS(source) {
+// --- Google News RSS search layer -------------------------------------------
+// Instead of relying on each outlet's flaky native RSS/HTML (dead URLs, anti-bot
+// pages, malformed XML), we query Google News' RSS search scoped to each outlet's
+// domain (site:) plus a few topical keywords. Google News returns clean, standard
+// RSS that parses reliably and covers virtually every outlet.
+
+// Compact topical query terms per category + language (joined with OR).
+const CATEGORY_TERMS = {
+  ai:          { zh: ['人工智能', '大模型', 'AI', '生成式'],            en: ['AI', '"artificial intelligence"', 'LLM', '"machine learning"'] },
+  robotics:    { zh: ['机器人', '人形机器人', '具身智能'],               en: ['robot', 'robotics', 'humanoid'] },
+  application: { zh: ['无人配送', '仓储自动化', '机器人', '人工智能'],    en: ['"delivery robot"', '"warehouse automation"', 'robot', 'AI'] }
+};
+
+const GNEWS_PARAMS = {
+  zh: 'hl=zh-CN&gl=CN&ceid=CN:zh',
+  en: 'hl=en-US&gl=US&ceid=US:en'
+};
+
+// Obvious low-quality patterns to drop even when scoped (digests / ads / listicles).
+const SKIP_TITLE = /晚报|早报|合集|周报|roundup|newsletter|盘点|榜单|促销|优惠|限时|免费领|薅羊毛/i;
+
+// Flatten sources.json into a deduped list of outlets: { name, domain, category, lang }.
+function flattenOutlets() {
+  const groups = [
+    { list: sources.rss.chinese,    lang: 'zh' },
+    { list: sources.rss.english,    lang: 'en' },
+    { list: sources.scrape.chinese, lang: 'zh' },
+    { list: sources.scrape.english, lang: 'en' }
+  ];
+  const seen = new Set();
+  const outlets = [];
+  for (const g of groups) {
+    for (const src of (g.list || [])) {
+      let domain;
+      try { domain = new URL(src.url).hostname.replace(/^www\./, ''); } catch { continue; }
+      if (seen.has(domain)) continue;          // dedup outlets sharing a domain
+      seen.add(domain);
+      outlets.push({ name: src.name, domain, category: src.category || 'ai', lang: g.lang });
+    }
+  }
+  return outlets;
+}
+
+// Query Google News RSS for one outlet, scoped to its domain + topical terms.
+async function fetchGoogleNews(outlet) {
   try {
-    const xml = await fetchText(source.url, 'application/rss+xml, application/xml, text/xml, */*');
+    const terms = (CATEGORY_TERMS[outlet.category] || CATEGORY_TERMS.ai)[outlet.lang];
+    const query = `site:${outlet.domain} (${terms.join(' OR ')}) when:2d`;
+    const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&${GNEWS_PARAMS[outlet.lang]}`;
+    const xml = await fetchText(url, 'application/rss+xml, application/xml, text/xml, */*');
     if (!xml) return [];
     const feed = await parser.parseString(xml);
     if (!feed || !feed.items) return [];
-    const now = new Date();
-    const cutoff = new Date(now.getTime() - 24 * 60 * 60 * 1000); // 24 hours ago
-    
+
+    const cutoff = new Date(Date.now() - 48 * 60 * 60 * 1000); // last 48h
     const items = [];
-    for (const item of (feed.items || []).slice(0, 20)) {
+    for (const item of feed.items.slice(0, 25)) {
+      if (!item.title || SKIP_TITLE.test(item.title)) continue;
       const pubDate = item.pubDate ? new Date(item.pubDate) : null;
-      // Strictly only include items from the past 24 hours
-      if (pubDate) {
-        if (pubDate < cutoff) continue;
-      } else {
-        // No date available, skip to avoid old news
-        continue;
-      }
-      
-      const category = matchesKeywords(item.title);
-      if (category) {
-        items.push({
-          title: item.title.trim(),
-          link: item.link,
-          source: source.name,
-          date: pubDate.toISOString().split('T')[0],
-          category
-        });
-      }
+      if (!pubDate || pubDate < cutoff) continue;
+      // Google News titles look like "Headline - Source"; drop the trailing source.
+      const title = item.title.replace(/\s+-\s+[^-]+$/, '').trim();
+      if (title.length < 8) continue;
+      const category = matchesKeywords(title) || outlet.category;
+      items.push({ title, link: item.link, source: outlet.name, date: pubDate.toISOString().split('T')[0], category });
+      if (items.length >= 5) break; // cap per outlet
     }
     return items;
   } catch (err) {
-    console.log(`[RSS Error] ${source.name}: ${err.message}`);
-    return [];
-  }
-}
-
-// Fetch web page and scrape headlines
-// Note: scraped items have no date info, so we mark them as "today" 
-// but only take top matches to reduce noise from old content
-async function fetchScrape(source) {
-  try {
-    const html = await fetchText(source.url);
-    if (!html) return [];
-    const $ = cheerio.load(html);
-    
-    const items = [];
-    $('a').each((_, el) => {
-      const title = $(el).text().trim().replace(/\s+/g, ' ');
-      let link = $(el).attr('href');
-      
-      // Stricter filtering: title must be 15-150 chars, no navigation links
-      if (!title || title.length < 15 || title.length > 150) return;
-      if (!link) return;
-      if (link === '#' || link.startsWith('javascript:')) return;
-      
-      // Skip common navigation patterns
-      if (/^(首页|关于|联系|登录|注册|more|home|about|contact)/i.test(title)) return;
-      
-      // Make relative URLs absolute
-      if (link.startsWith('/')) {
-        const urlObj = new URL(source.url);
-        link = `${urlObj.origin}${link}`;
-      }
-      
-      const category = matchesKeywords(title);
-      if (category) {
-        items.push({
-          title,
-          link,
-          source: source.name,
-          date: new Date().toISOString().split('T')[0],
-          category
-        });
-      }
-    });
-    
-    return items.slice(0, 5); // Limit per source to reduce old content noise
-  } catch (err) {
-    console.log(`[Scrape Error] ${source.name}: ${err.message}`);
+    console.log(`[GNews Error] ${outlet.name}: ${err.message}`);
     return [];
   }
 }
@@ -284,35 +271,25 @@ async function main() {
     process.exit(0);
   }, GLOBAL_TIMEOUT);
   
-  // Fetch all RSS sources with overall 90-second cap
-  const rssSources = [...sources.rss.chinese, ...sources.rss.english];
-  console.log(`Fetching ${rssSources.length} RSS feeds...`);
-  const rssResults = await withTimeout(
-    asyncPool(CONCURRENT_LIMIT, rssSources, fetchRSS),
-    90 * 1000,
-    'All RSS feeds'
+  // Fetch every outlet via Google News search (overall 2.5-minute cap)
+  const outlets = flattenOutlets();
+  console.log(`Searching ${outlets.length} outlets via Google News...`);
+  const newsResults = await withTimeout(
+    asyncPool(CONCURRENT_LIMIT, outlets, fetchGoogleNews),
+    150 * 1000,
+    'All Google News searches'
   ) || [];
-  
-  // Fetch scrape sources with overall 75-second cap
-  const scrapeSources = [...sources.scrape.chinese, ...sources.scrape.english];
-  console.log(`Scraping ${scrapeSources.length} websites...`);
-  const scrapeResults = await withTimeout(
-    asyncPool(CONCURRENT_LIMIT, scrapeSources, fetchScrape),
-    75 * 1000,
-    'All scrape sources'
-  ) || [];
-  
+
   // Collect all items
-let allItems = [];
-  const allResults = [...(Array.isArray(rssResults) ? rssResults : []), ...(Array.isArray(scrapeResults) ? scrapeResults : [])];
-  for (const result of allResults) {
+  let allItems = [];
+  for (const result of (Array.isArray(newsResults) ? newsResults : [])) {
     if (result && result.status === 'fulfilled' && Array.isArray(result.value)) {
       allItems.push(...result.value);
     } else if (Array.isArray(result)) {
       allItems.push(...result);
     }
   }
-  
+
   console.log(`Total raw items: ${allItems.length}`);
   
   // Deduplicate
