@@ -41,7 +41,9 @@ jobs:
         run: npm install
 
       - name: Fetch news
-        run: node fetcher.js
+        # Belt-and-suspenders: kill node at 9min (SIGTERM) / 9.5min (SIGKILL) so a
+        # runaway run can never hit the 10min step hard-limit (which marks the job red).
+        run: timeout --kill-after=30 540 node fetcher.js || echo "::warning::fetcher timed out or exited non-zero; continuing to commit step"
         timeout-minutes: 10
 
       - name: Commit and push
