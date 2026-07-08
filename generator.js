@@ -15,11 +15,10 @@ function fmtTime(iso) {
   if (!iso) return '';
   try {
     const parts = new Intl.DateTimeFormat('zh-CN', {
-      timeZone: 'Asia/Shanghai', month: '2-digit', day: '2-digit',
-      hour: '2-digit', minute: '2-digit', hour12: false
+      timeZone: 'Asia/Shanghai', year: 'numeric', month: '2-digit', day: '2-digit'
     }).formatToParts(new Date(iso));
     const g = t => (parts.find(x => x.type === t) || {}).value || '';
-    return `${g('month')}-${g('day')} ${g('hour')}:${g('minute')}`;
+    return `${g('year')}-${g('month')}-${g('day')}`;
   } catch { return ''; }
 }
 
