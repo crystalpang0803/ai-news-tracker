@@ -78,7 +78,9 @@ const SKIP_PATTERNS = [
   /你不知道的|必看|盘点|排行榜|TOP\s*\d+|榜单|合集/i,
   /优惠|折扣|促销|限时|免费领|薅羊毛|红包|补贴大战|预售|首销|秒杀|领券|带货|种草|大促|好物|值得买/i,
   /广告|赞助|推广|软文|白皮书下载|报名|招聘|活动预告|直播预告|沙龙|峰会|大会|颁奖|评选/i,
-  /sponsored|presented by|advertisement|\bdeal[s]?\b|discount|coupon|giveaway|\d+%\s*off|black friday|cyber monday|webinar|register now|sign up|whitepaper/i
+  /sponsored|presented by|advertisement|\bdeal[s]?\b|discount|coupon|giveaway|\d+%\s*off|black friday|cyber monday|webinar|register now|sign up|whitepaper/i,
+  /标签_|_标签|专题页|频道页|_网易出品|_腾讯网|资讯列表|新闻汇总|_专栏|专区$|栏目$|出品$/,
+  /我花\d|我买了|我花了|我试了|我用了|我带着|亲测|开箱|结果它|真香|翻车|踩坑|吐槽|夹子音|陪我聊|你敢信|绝了|离谱|逼疯|种草|安利|花了\d+元|买了台|买了个/
 ];
 function isLowQuality(title) {
   if (!title) return true;
@@ -398,6 +400,7 @@ function deduplicate(items) {
   });
 }
 
+const BUSINESS_SIGNAL = /发布|推出|上线|首发|量产|落地|融资|收购|并购|合作|签约|中标|订单|营收|财报|政策|规划|战略|突破|新品|发布会|开源|商用|入股|投资|估值|IPO|专利|标准|技术|模型|芯片|算力|机器人|自动驾驶|涨价|降价|扩产|产能|发布会/;
 function scoreItem(item) {
   let score = 0;
   const title = item.title.toLowerCase();
@@ -408,6 +411,8 @@ function scoreItem(item) {
   if (topSources.some(s => item.source.includes(s))) score += 2;
   if (item.summary) score += 1;
   if (item.lang === 'zh') score += 1;
+  // Boost formal, business/product/trend-relevant headlines (发布/融资/量产/政策/突破...).
+  if (BUSINESS_SIGNAL.test(item.title)) score += 2;
   return score;
 }
 
