@@ -28,6 +28,9 @@ jobs:
     timeout-minutes: 12
     env:
       TZ: Asia/Shanghai
+      # Add repo secret ZHIPU_API_KEY to enable AI one-sentence summaries (free GLM-4-Flash).
+      # If unset, fetcher falls back to free meta-description summaries automatically.
+      ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
