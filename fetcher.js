@@ -4,9 +4,6 @@ const path = require('path');
 const { generateHTML } = require('./generator');
 
 // Return YYYY-MM-DD in Beijing time (Asia/Shanghai, UTC+8).
-// We deliberately do NOT use new Date().toISOString() because that is UTC:
-// when the GitHub Actions run lands in the Beijing early-morning window
-// (which is the previous UTC day) a UTC filename would be off by one day.
 function getEditionDate() {
   return new Intl.DateTimeFormat('en-CA', {
     timeZone: 'Asia/Shanghai',
@@ -14,10 +11,12 @@ function getEditionDate() {
   }).format(new Date());
 }
 
-// Simple translation via Google Translate (free, no API key)
+// Free Google Translate (no API key). Used for English titles + summaries.
 async function translateToZh(text) {
+  if (!text) return null;
   try {
-    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-CN&dt=t&q=${encodeURIComponent(text)}`;
+    const clipped = text.slice(0, 400);
+    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-CN&dt=t&q=${encodeURIComponent(clipped)}`;
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 5000);
     const res = await fetch(url, { signal: controller.signal });
@@ -35,20 +34,19 @@ function isEnglish(text) {
 }
 
 // Config
-const MAX_NEWS_ITEMS = 12;
-const REQUEST_TIMEOUT = 8000;   // 8s per request
-const CONCURRENT_LIMIT = 8;    // concurrency (lowered to ease memory/parse pressure)
-const GLOBAL_TIMEOUT = 7 * 60 * 1000; // 7-minute backstop (CI step hard-limit is 10m)
-const MAX_BODY_BYTES = 1500000;       // cap each response BEFORE any sync parse, so a huge
-                                      // page/feed can't block the event loop and stall every timer
+const MAX_NEWS_ITEMS = 18;      // overall safety cap (per-category caps drive the real size)
+const ZH_RATIO = 0.7;           // Chinese content must be >= 70%
+const REQUEST_TIMEOUT = 8000;
+const CONCURRENT_LIMIT = parseInt(process.env.CONC || '12', 10);
+const SOURCE_CAP = 2;           // max items per outlet, so coverage spreads across many sources
+const GLOBAL_TIMEOUT = 7 * 60 * 1000;
+const MAX_BODY_BYTES = 1500000;
 
-// Load configs
 const sources = JSON.parse(fs.readFileSync(path.join(__dirname, 'sources.json'), 'utf8'));
 const keywords = JSON.parse(fs.readFileSync(path.join(__dirname, 'keywords.json'), 'utf8'));
 
 const parser = new Parser({ timeout: REQUEST_TIMEOUT });
 
-// Utility: hard timeout wrapper for any promise
 function withTimeout(promise, ms, label) {
   return Promise.race([
     promise,
@@ -59,10 +57,6 @@ function withTimeout(promise, ms, label) {
   });
 }
 
-// Utility: delay
-const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
-
-// Utility: run promises with concurrency limit
 async function asyncPool(limit, items, fn) {
   const results = [];
   const executing = [];
@@ -75,36 +69,27 @@ async function asyncPool(limit, items, fn) {
   return Promise.allSettled(results);
 }
 
-// Check if title matches any keyword
-// Uses word boundary matching for short English keywords to avoid false positives
+// ---- Quality / anti-marketing filters -------------------------------------
+const SKIP_PATTERNS = [
+  /晚报|早报|日报合集|快讯合集|氪星晚报|一周回顾|本周回顾|周报|早知道|速览|一图看懂|一图读懂|新闻早餐|资讯早餐|夜读|简报|the download|morning brief|evening brief|daily roundup|weekly roundup|newsletter|每日一图/i,
+  /去世|死亡|离世|自杀|惊呆|震惊|崩溃|炸了|疯了|吓人|恐怖|细思极恐|万万没想到|竟然|居然/i,
+  /创业故事|创业一年|师兄弟|夫妻档|合伙人故事|独家专访创始人|从0到1|白手起家/i,
+  /起诉|被告|法院判决|离婚|出轨|丑闻|八卦/i,
+  /你不知道的|必看|盘点|排行榜|TOP\s*\d+|榜单|合集/i,
+  /优惠|折扣|促销|限时|免费领|薅羊毛|红包|补贴大战|预售|首销|秒杀|领券|带货|种草|大促|好物|值得买/i,
+  /广告|赞助|推广|软文|白皮书下载|报名|招聘|活动预告|直播预告|沙龙|峰会|大会|颁奖|评选/i,
+  /sponsored|presented by|advertisement|\bdeal[s]?\b|discount|coupon|giveaway|\d+%\s*off|black friday|cyber monday|webinar|register now|sign up|whitepaper/i
+];
+function isLowQuality(title) {
+  if (!title) return true;
+  return SKIP_PATTERNS.some(p => p.test(title));
+}
+
 function matchesKeywords(title, category) {
-  if (!title) return false;
-  
-  // Skip low-quality content: aggregated titles, clickbait, soft articles, social news
-  const skipPatterns = [
-    // Aggregated news
-    /晚报|早报|日报合集|快讯合集|氪星晚报|一周回顾|本周回顾|周报|morning brief|evening brief|daily roundup|weekly roundup|newsletter/i,
-    // Clickbait / sensational
-    /去世|死亡|离世|自杀|惊呆|震惊|崩溃|炸了|疯了|吓人|恐怖|细思极恐|万万没想到|竟然|居然/i,
-    // Soft articles / PR / marketing
-    /创业故事|创业一年|师兄弟|夫妻档|合伙人故事|独家专访创始人|从0到1|白手起家/i,
-    // Lawsuits / social drama (not tech-focused)
-    /起诉|被告|法院判决|离婚|出轨|丑闻|八卦/i,
-    // Listicles / opinion pieces that are usually low quality
-    /你不知道的|必看|盘点|排行榜|TOP\s*\d+|榜单/i,
-    // Ads / promotions
-    /优惠|折扣|促销|限时|免费领|薅羊毛|红包|补贴大战/i
-  ];
-  if (skipPatterns.some(p => p.test(title))) return null;
-  
+  if (!title) return null;
   const titleLower = title.toLowerCase();
-  
-  // Short keywords that need word boundary matching (<=4 chars or prone to false match)
   const needBoundary = new Set(['ai', 'llm', 'nlp', 'gpt', 'amr', 'agv', 'ros', 'agi']);
-  
-  // Check all categories if no specific category
   const categories = category ? [category] : Object.keys(keywords);
-  
   for (const cat of categories) {
     const kw = keywords[cat];
     if (!kw) continue;
@@ -112,21 +97,57 @@ function matchesKeywords(title, category) {
     for (const keyword of allKeywords) {
       const kwLower = keyword.toLowerCase();
       if (needBoundary.has(kwLower)) {
-        // Use word boundary regex for short keywords
-        const regex = new RegExp(`\\b${kwLower}\\b`, 'i');
-        if (regex.test(title)) return cat;
-      } else {
-        if (titleLower.includes(kwLower)) return cat;
+        if (new RegExp(`\\b${kwLower}\\b`, 'i').test(title)) return cat;
+      } else if (titleLower.includes(kwLower)) {
+        return cat;
       }
     }
   }
   return null;
 }
 
-// Fetch a URL as text with BOTH a time cap (AbortController) and a size cap.
-// The size cap is the key fix: parsing an unbounded huge body runs synchronously
-// (XML / HTML) and blocks the event loop, which stops every setTimeout timer
-// (including the global backstop) from firing -> the CI step hard-times-out.
+// Strip leading clock time / trailing column tag / bracket chars. Otherwise keep verbatim.
+function cleanTitle(t) {
+  if (!t) return '';
+  let s = String(t).trim();
+  s = s.replace(/^\d{1,2}[:：]\d{2}([:：]\d{2})?\s*/, '');      // leading clock time
+  s = s.replace(/\s*[|｜丨]\s*[^|｜丨]{1,12}\s*$/, '');           // trailing column tag e.g. "| 极客早知道"
+  s = s.replace(/[【】「」『』［］]/g, '');                            // drop bracket chars, keep inner text
+  s = s.replace(/^[\s·|｜丨、,，:：]+/, '').replace(/\s+$/, '');    // tidy edges
+  return s.trim();
+}
+
+// Reduce a raw description to ONE clean, complete sentence that fits a card.
+function cleanSummary(raw) {
+  if (!raw) return '';
+  let s = String(raw)
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&[a-z#0-9]+;/gi, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+  s = s.replace(/^.{0,40}?(消息|报道|讯)[，,]\s*/, '');
+  s = s.replace(/(作者|编辑|编译|策划|校对|责编|来源|图源|文)\s*[|｜丨:：\/]\s*[^\s，。|｜丨:：]{1,6}/g, ' ');
+  s = s.replace(/^(智东西|36氪|硬氪|量子位|机器之心|钛媒体|IT之家|界面新闻|第一财经|新华社|新华网)\s*/, '');
+  s = s.replace(/^[\s|｜丨·、,，]+/, '').replace(/\s+/g, ' ').trim();
+  if (!s) return '';
+  const cjk = s.search(/[。！？]/);
+  if (cjk >= 0) {
+    s = s.slice(0, cjk + 1);
+  } else {
+    const en = s.match(/^.*?[.!?](?=\s|$)/);
+    if (en) s = en[0].trim();
+    else s = s + '。';
+  }
+  if (s.length > 120) {
+    let cut = s.slice(0, 120);
+    const lp = Math.max(cut.lastIndexOf('，'), cut.lastIndexOf(','), cut.lastIndexOf('、'));
+    if (lp > 60) cut = cut.slice(0, lp);
+    s = cut.replace(/[，,、\s]+$/, '') + '…';
+  }
+  s = s.replace(/[.．。…]{2,}$/, '…');
+  return s.trim();
+}
+
 async function fetchText(url, accept) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), REQUEST_TIMEOUT);
@@ -146,28 +167,13 @@ async function fetchText(url, accept) {
   }
 }
 
-// --- Google News RSS search layer -------------------------------------------
-// Instead of relying on each outlet's flaky native RSS/HTML (dead URLs, anti-bot
-// pages, malformed XML), we query Google News' RSS search scoped to each outlet's
-// domain (site:) plus a few topical keywords. Google News returns clean, standard
-// RSS that parses reliably and covers virtually every outlet.
-
-// Compact topical query terms per category + language (joined with OR).
 const CATEGORY_TERMS = {
   ai:          { zh: ['人工智能', '大模型', 'AI', '生成式'],            en: ['AI', '"artificial intelligence"', 'LLM', '"machine learning"'] },
   robotics:    { zh: ['机器人', '人形机器人', '具身智能'],               en: ['robot', 'robotics', 'humanoid'] },
   application: { zh: ['无人配送', '仓储自动化', '机器人', '人工智能'],    en: ['"delivery robot"', '"warehouse automation"', 'robot', 'AI'] }
 };
+const GNEWS_PARAMS = { zh: 'hl=zh-CN&gl=CN&ceid=CN:zh', en: 'hl=en-US&gl=US&ceid=US:en' };
 
-const GNEWS_PARAMS = {
-  zh: 'hl=zh-CN&gl=CN&ceid=CN:zh',
-  en: 'hl=en-US&gl=US&ceid=US:en'
-};
-
-// Obvious low-quality patterns to drop even when scoped (digests / ads / listicles).
-const SKIP_TITLE = /晚报|早报|合集|周报|roundup|newsletter|盘点|榜单|促销|优惠|限时|免费领|薅羊毛/i;
-
-// Flatten sources.json into a deduped list of outlets: { name, domain, category, lang }.
 function flattenOutlets() {
   const groups = [
     { list: sources.rss.chinese,    lang: 'zh' },
@@ -181,7 +187,7 @@ function flattenOutlets() {
     for (const src of (g.list || [])) {
       let domain;
       try { domain = new URL(src.url).hostname.replace(/^www\./, ''); } catch { continue; }
-      if (seen.has(domain)) continue;          // dedup outlets sharing a domain
+      if (seen.has(domain)) continue;
       seen.add(domain);
       outlets.push({ name: src.name, url: src.url, domain, category: src.category || 'ai', lang: g.lang });
     }
@@ -189,56 +195,29 @@ function flattenOutlets() {
   return outlets;
 }
 
-// Query Google News RSS for one outlet, scoped to its domain + topical terms.
-async function fetchGoogleNews(outlet) {
-  try {
-    const terms = (CATEGORY_TERMS[outlet.category] || CATEGORY_TERMS.ai)[outlet.lang];
-    const query = `site:${outlet.domain} (${terms.join(' OR ')}) when:2d`;
-    const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&${GNEWS_PARAMS[outlet.lang]}`;
-    const xml = await fetchText(url, 'application/rss+xml, application/xml, text/xml, */*');
-    if (!xml) return [];
-    const feed = await parser.parseString(xml);
-    if (!feed || !feed.items) return [];
+const cutoffMs = () => new Date(Date.now() - 24 * 60 * 60 * 1000); // strict past 24h
 
-    const cutoff = new Date(Date.now() - 48 * 60 * 60 * 1000); // last 48h
-    const items = [];
-    for (const item of feed.items.slice(0, 25)) {
-      if (!item.title || SKIP_TITLE.test(item.title)) continue;
-      const pubDate = item.pubDate ? new Date(item.pubDate) : null;
-      if (!pubDate || pubDate < cutoff) continue;
-      // Google News titles look like "Headline - Source"; drop the trailing source.
-      const title = item.title.replace(/\s+-\s+[^-]+$/, '').trim();
-      if (title.length < 8) continue;
-      const category = matchesKeywords(title) || outlet.category;
-      items.push({ title, link: item.link, source: outlet.name, date: pubDate.toISOString().split('T')[0], category });
-      if (items.length >= 5) break; // cap per outlet
-    }
-    return items;
-  } catch (err) {
-    console.log(`[GNews Error] ${outlet.name}: ${err.message}`);
-    return [];
-  }
-}
-
-// Try an outlet's NATIVE RSS feed directly. Used for Chinese outlets, whose own
-// feeds are usually fresher and more complete than Google News' sparse indexing of
-// them. The feed is the whole site, so we filter strictly with matchesKeywords.
-async function fetchNativeRSS(outlet) {
+async function fetchNativeRSS(outlet, cap) {
   try {
     const xml = await fetchText(outlet.url, 'application/rss+xml, application/xml, text/xml, */*');
     if (!xml) return [];
     const feed = await parser.parseString(xml);
     if (!feed || !feed.items) return [];
-    const cutoff = new Date(Date.now() - 48 * 60 * 60 * 1000);
+    const cutoff = cutoffMs();
     const items = [];
-    for (const item of feed.items.slice(0, 30)) {
-      if (!item.title || SKIP_TITLE.test(item.title)) continue;
-      const pubDate = item.pubDate ? new Date(item.pubDate) : null;
-      if (!pubDate || pubDate < cutoff) continue;
+    for (const item of feed.items.slice(0, 40)) {
+      if (!item.title || isLowQuality(item.title)) continue;
+      const pub = item.isoDate || item.pubDate;
+      const pubDate = pub ? new Date(pub) : null;
+      if (!pubDate || isNaN(pubDate) || pubDate < cutoff) continue;
       const category = matchesKeywords(item.title);
       if (!category) continue;
-      items.push({ title: item.title.trim(), link: item.link, source: outlet.name, date: pubDate.toISOString().split('T')[0], category });
-      if (items.length >= 5) break;
+      items.push({
+        title: cleanTitle(item.title), link: item.link, source: outlet.name,
+        lang: outlet.lang, category, pubDate: pubDate.toISOString(),
+        summary: cleanSummary(item.contentSnippet || item.content)
+      });
+      if (items.length >= (cap || 5)) break;
     }
     return items;
   } catch (err) {
@@ -247,35 +226,171 @@ async function fetchNativeRSS(outlet) {
   }
 }
 
-// Dispatch per outlet: Chinese outlets prefer their own RSS and fall back to Google
-// News search; English outlets use Google News search (reliable, well-indexed).
-async function fetchOutlet(outlet) {
-  if (outlet.lang === 'zh') {
-    const native = await fetchNativeRSS(outlet);
-    if (native.length) return native;
+async function fetchGoogleNews(outlet, cap) {
+  try {
+    const terms = (CATEGORY_TERMS[outlet.category] || CATEGORY_TERMS.ai)[outlet.lang];
+    const query = `site:${outlet.domain} (${terms.join(' OR ')}) when:1d`;
+    const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&${GNEWS_PARAMS[outlet.lang]}`;
+    const xml = await fetchText(url, 'application/rss+xml, application/xml, text/xml, */*');
+    if (!xml) return [];
+    const feed = await parser.parseString(xml);
+    if (!feed || !feed.items) return [];
+    const cutoff = cutoffMs();
+    const items = [];
+    for (const item of feed.items.slice(0, 25)) {
+      if (!item.title) continue;
+      const raw = item.title.replace(/\s+-\s+[^-]+$/, '');   // drop trailing " - Source"
+      if (isLowQuality(raw)) continue;                       // check digests/ads on raw title
+      const title = cleanTitle(raw);
+      if (title.length < 8) continue;
+      const pubDate = item.pubDate ? new Date(item.pubDate) : null;
+      if (!pubDate || isNaN(pubDate) || pubDate < cutoff) continue;
+      const category = matchesKeywords(title);
+      if (!category) continue;
+      items.push({
+        title, link: item.link, source: outlet.name, lang: outlet.lang,
+        category, pubDate: pubDate.toISOString(), summary: ''
+      });
+      if (items.length >= (cap || 5)) break;
+    }
+    return items;
+  } catch (err) {
+    console.log(`[GNews] ${outlet.name}: ${err.message}`);
+    return [];
   }
-  return fetchGoogleNews(outlet);
 }
 
-// Deduplicate by title similarity (prefix match + word overlap)
+// Native RSS (real summaries) and Google News (broad coverage) in parallel; merge,
+// preferring the native copy of a link. Parallel keeps per-outlet cost ~one request.
+async function fetchOutlet(outlet) {
+  const cap = outlet.lang === 'zh' ? 6 : 4;
+  const [native, gnews] = await Promise.all([fetchNativeRSS(outlet, cap), fetchGoogleNews(outlet, cap)]);
+  const byLink = new Map();
+  [...native, ...gnews].forEach(it => { if (it && it.link && !byLink.has(it.link)) byLink.set(it.link, it); });
+  return Array.from(byLink.values()).slice(0, cap);
+}
+
+// ---- Summary enrichment: resolve link to the real article, read meta description ----
+function pickMetaDesc(html) {
+  const pats = [
+    /<meta[^>]+property=["']og:description["'][^>]+content=["']([^"']+)/i,
+    /<meta[^>]+name=["']description["'][^>]+content=["']([^"']+)/i,
+    /<meta[^>]+name=["']twitter:description["'][^>]+content=["']([^"']+)/i
+  ];
+  for (const p of pats) { const m = html.match(p); if (m && m[1].trim().length > 10) return m[1].trim(); }
+  return '';
+}
+
+async function resolveGoogleNewsUrl(url) {
+  const m = url.match(/articles\/([^?]+)/);
+  if (!m) return null;
+  const id = m[1];
+  const page = await fetchText('https://news.google.com/rss/articles/' + id, 'text/html');
+  const sg = page.match(/data-n-a-sg="([^"]+)"/);
+  const ts = page.match(/data-n-a-ts="([^"]+)"/);
+  if (!sg || !ts) return null;
+  const inner = JSON.stringify(['garturlreq', [['X', 'X', ['X', 'X'], null, null, 1, 1, 'US:en', null, 1, null, null, null, null, null, 0, 1], 'X', 'X', 1, [1, 1, 1], 1, 1, null, 0, 0, null, 0], id, Number(ts[1]), sg[1]]);
+  const payload = JSON.stringify([[['Fbv4je', inner]]]);
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), REQUEST_TIMEOUT);
+  try {
+    const res = await fetch('https://news.google.com/_/DotsSplashUi/data/batchexecute', {
+      method: 'POST', signal: controller.signal,
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'User-Agent': 'Mozilla/5.0' },
+      body: 'f.req=' + encodeURIComponent(payload)
+    });
+    const txt = await res.text();
+    const um = txt.match(/https?:\/\/[^\s"\\]+/);
+    return um ? um[0] : null;
+  } finally { clearTimeout(timer); }
+}
+
+// Site-wide taglines that some pages expose as og:description (not article summaries).
+const GENERIC_DESC = /官方网站|7[xX×]24|为用户提供|致力于成为|全媒体|新闻网站|提供.{0,8}资讯|一站式|下载客户端|品质源于|comprehensive.{0,20}coverage|aggregated from sources/i;
+
+// ---- Optional AI summarization (Zhipu GLM / OpenAI-compatible) -------------
+// Set ZHIPU_API_KEY to enable AI one-sentence summaries (free model glm-4-flash).
+// To use another OpenAI-compatible provider, set LLM_API_KEY + LLM_BASE_URL + LLM_MODEL.
+const LLM_KEY = process.env.ZHIPU_API_KEY || process.env.LLM_API_KEY || '';
+const LLM_URL = process.env.LLM_BASE_URL || 'https://open.bigmodel.cn/api/paas/v4/chat/completions';
+const LLM_MODEL = process.env.LLM_MODEL || 'glm-4-flash';
+
+// Strip an article page down to readable body text for the model.
+function extractArticleText(html) {
+  return String(html || '')
+    .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&[a-z#0-9]+;/gi, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .slice(0, 2000);
+}
+
+// Ask the LLM for one accurate Chinese sentence summarizing the article.
+async function aiSummarize(title, text) {
+  if (!LLM_KEY || !text) return '';
+  try {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 20000);
+    const res = await fetch(LLM_URL, {
+      method: 'POST', signal: controller.signal,
+      headers: { 'content-type': 'application/json', 'authorization': `Bearer ${LLM_KEY}` },
+      body: JSON.stringify({
+        model: LLM_MODEL,
+        max_tokens: 200,
+        temperature: 0.3,
+        messages: [
+          { role: 'system', content: '你是中文科技新闻编辑，只输出一句话，不加任何前后缀。' },
+          { role: 'user', content: `请用一句简洁、客观、准确的中文概括这条新闻的核心内容，不超过45字；直接陈述事实，不要评论或夸张，不要以“据悉/本文/这篇/近日”等套话开头。只输出这一句话。\n\n标题：${title}\n正文摘录：${text}` }
+        ]
+      })
+    });
+    clearTimeout(timer);
+    const data = await res.json();
+    const out = (data && data.choices && data.choices[0] && data.choices[0].message)
+      ? (data.choices[0].message.content || '').trim() : '';
+    return cleanSummary(out);
+  } catch { return ''; }
+}
+
+// Best-effort: set item.summary from the real article's meta description (a whole-article
+// one-liner). Prefer it over the RSS lede. Leaves any existing summary if this fails.
+async function enrichSummary(item) {
+  try {
+    let realUrl = item.link;
+    if (/news\.google\.com/.test(item.link)) {
+      realUrl = await resolveGoogleNewsUrl(item.link);
+      if (!realUrl) return;
+    }
+    const html = await fetchText(realUrl, 'text/html');
+    if (LLM_KEY) {
+      const ai = await aiSummarize(item.title, extractArticleText(html));
+      if (ai) { item.summary = ai; item.summaryZh = ''; return; } // AI summary is already Chinese
+    }
+    const raw = pickMetaDesc(html);
+    if (raw && !GENERIC_DESC.test(raw)) {
+      const desc = cleanSummary(raw);
+      if (desc) item.summary = desc;
+    }
+  } catch { /* best-effort, keep existing summary */ }
+}
+
+function normTitle(t) {
+  return (t || '').toLowerCase().replace(/[^一-龥a-z0-9]/g, '').slice(0, 24);
+}
+
 function deduplicate(items) {
   const seen = [];
   return items.filter(item => {
-    const key = item.title.toLowerCase().replace(/[^\u4e00-\u9fa5a-z0-9]/g, '');
-    const prefix = key.slice(0, 30);
-    // Extract meaningful words (length > 3) for similarity check
+    const prefix = normTitle(item.title);
     const words = new Set(item.title.toLowerCase().split(/\s+/).filter(w => w.length > 3));
     for (const prev of seen) {
-      // Exact prefix match
-      if (prev.prefix === prefix) return false;
-      // Word overlap: if 60%+ of words are shared, treat as duplicate
+      if (prefix && prev.prefix === prefix) return false;
       if (words.size > 2 && prev.words.size > 2) {
         let overlap = 0;
-        for (const w of words) {
-          if (prev.words.has(w)) overlap++;
-        }
-        const similarity = overlap / Math.min(words.size, prev.words.size);
-        if (similarity >= 0.6) return false;
+        for (const w of words) if (prev.words.has(w)) overlap++;
+        if (overlap / Math.min(words.size, prev.words.size) >= 0.6) return false;
       }
     }
     seen.push({ prefix, words });
@@ -283,154 +398,165 @@ function deduplicate(items) {
   });
 }
 
-// Score items for importance (simple heuristic)
 function scoreItem(item) {
   let score = 0;
   const title = item.title.toLowerCase();
-  // Boost for multiple keyword matches
-  const allKeywords = [...keywords[item.category].zh, ...keywords[item.category].en];
-  for (const kw of allKeywords) {
-    if (title.includes(kw.toLowerCase())) score += 1;
-  }
-  // Boost for well-known sources
-  const topSources = ['TechCrunch', 'MIT Technology Review', '36氪', '机器之心', 'The Verge', 'Reuters', 'Bloomberg', 'IEEE Spectrum', 'The Robot Report', '智东西', 'Robohub', '中国机器人网'];
+  const kw = keywords[item.category] || keywords.ai;
+  for (const k of [...(kw.zh || []), ...(kw.en || [])]) if (title.includes(k.toLowerCase())) score += 1;
+  const topSources = ['36氪', '机器之心', '量子位', '智东西', '界面', '第一财经', '财联社', '钛媒体', 'IT之家', '晚点',
+    'TechCrunch', 'MIT Technology Review', 'The Verge', 'Reuters', 'Bloomberg', 'IEEE Spectrum', 'The Robot Report', 'VentureBeat', 'Ars Technica', 'Wired'];
   if (topSources.some(s => item.source.includes(s))) score += 2;
+  if (item.summary) score += 1;
+  if (item.lang === 'zh') score += 1;
   return score;
 }
 
-// Main
 async function main() {
   console.log(`[${new Date().toLocaleString()}] Starting news fetch...`);
-  
-  // Global timeout protection: force exit after 7 minutes
   const globalTimer = setTimeout(() => {
     console.error('GLOBAL TIMEOUT: Exceeded 7 minutes. Force exiting with success.');
     process.exit(0);
   }, GLOBAL_TIMEOUT);
-  
-  // Fetch every outlet via Google News search (overall 2.5-minute cap)
+
   const outlets = flattenOutlets();
-  console.log(`Fetching ${outlets.length} outlets (中文优先原生RSS, 英文/兜底走Google News)...`);
+  console.log(`Fetching ${outlets.length} outlets (native RSS + Google News in parallel)...`);
   const newsResults = await withTimeout(
     asyncPool(CONCURRENT_LIMIT, outlets, fetchOutlet),
-    150 * 1000,
-    'All outlet fetches'
+    150 * 1000, 'All outlet fetches'
   ) || [];
 
-  // Collect all items
   let allItems = [];
   for (const result of (Array.isArray(newsResults) ? newsResults : [])) {
-    if (result && result.status === 'fulfilled' && Array.isArray(result.value)) {
-      allItems.push(...result.value);
-    } else if (Array.isArray(result)) {
-      allItems.push(...result);
-    }
+    if (result && result.status === 'fulfilled' && Array.isArray(result.value)) allItems.push(...result.value);
+    else if (Array.isArray(result)) allItems.push(...result);
   }
-
   console.log(`Total raw items: ${allItems.length}`);
-  
-  // Deduplicate
+
   allItems = deduplicate(allItems);
-  console.log(`After dedup: ${allItems.length}`);
-  
-  // Cross-day dedup: exclude news already published in recent days
+  console.log(`After same-day dedup: ${allItems.length}`);
+
   const outputDir = path.join(__dirname, 'output');
   const historyPath = path.join(outputDir, 'history.json');
-  let publishedLinks = new Set();
-  if (fs.existsSync(historyPath)) {
-    try {
-      const history = JSON.parse(fs.readFileSync(historyPath, 'utf8'));
-      // Keep last 7 days of history
-      const cutoff = new Date();
-      cutoff.setDate(cutoff.getDate() - 7);
-      const cutoffStr = cutoff.toISOString().split('T')[0];
-      for (const [date, links] of Object.entries(history)) {
-        if (date >= cutoffStr) {
-          links.forEach(l => publishedLinks.add(l));
-        }
-      }
-    } catch (e) { console.log('History read error, continuing without history'); }
-  }
-  const beforeFilter = allItems.length;
-  allItems = allItems.filter(item => !publishedLinks.has(item.link));
-  console.log(`After cross-day dedup: ${allItems.length} (removed ${beforeFilter - allItems.length} already published)`);
-  
-  // Score and sort
-  allItems.sort((a, b) => scoreItem(b) - scoreItem(a));
-  
-  // Take top items, ensuring category diversity
-  const selected = [];
-  const categoryCounts = { ai: 0, robotics: 0, application: 0 };
-  
-  // First pass: guarantee at least 3 robotics and 2 application items
-  const minPerCategory = { ai: 0, robotics: 3, application: 2 };
-  for (const [cat, min] of Object.entries(minPerCategory)) {
-    const catItems = allItems.filter(i => i.category === cat);
-    for (let i = 0; i < Math.min(min, catItems.length); i++) {
-      selected.push(catItems[i]);
-      categoryCounts[cat]++;
-    }
-  }
-  
-  // Second pass: fill remaining slots by score
-  for (const item of allItems) {
-    if (selected.length >= MAX_NEWS_ITEMS) break;
-    if (selected.includes(item)) continue;
-    selected.push(item);
-    categoryCounts[item.category]++;
-  }
-  
-  // Translate English titles to Chinese
-  console.log('Translating English titles...');
-  for (const item of selected) {
-    if (isEnglish(item.title)) {
-      const zhTitle = await translateToZh(item.title);
-      if (zhTitle) {
-        item.titleZh = zhTitle;
-      }
-    }
-  }
-  
-  console.log(`Selected ${selected.length} items: AI=${categoryCounts.ai}, Robotics=${categoryCounts.robotics}, Application=${categoryCounts.application}`);
-  
-  // Generate output
-  const today = getEditionDate();
-  if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
-  
-  const outputPath = path.join(outputDir, `${today}.html`);
-  const html = generateHTML(selected, today);
-  fs.writeFileSync(outputPath, html, 'utf8');
-  
-  // Update manifest
-  const manifestPath = path.join(outputDir, 'manifest.json');
-  let manifest = [];
-  if (fs.existsSync(manifestPath)) {
-    manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
-  }
-  if (!manifest.includes(today)) {
-    manifest.push(today);
-    manifest.sort();
-    fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2), 'utf8');
-  }
-
-  // Update history (record published links for cross-day dedup)
+  const seenLinks = new Set();
+  const seenTitles = new Set();
   let history = {};
   if (fs.existsSync(historyPath)) {
-    try { history = JSON.parse(fs.readFileSync(historyPath, 'utf8')); } catch (e) {}
+    try {
+      history = JSON.parse(fs.readFileSync(historyPath, 'utf8'));
+      const cut = new Date(); cut.setDate(cut.getDate() - 14);
+      const cutStr = cut.toISOString().split('T')[0];
+      for (const [date, rec] of Object.entries(history)) {
+        if (date < cutStr) continue;
+        const links = Array.isArray(rec) ? rec : (rec.links || []);
+        const titles = Array.isArray(rec) ? [] : (rec.titles || []);
+        links.forEach(l => seenLinks.add(l));
+        titles.forEach(t => seenTitles.add(t));
+      }
+    } catch (e) { console.log('History read error, continuing'); }
   }
-  history[today] = selected.map(item => item.link);
-  // Clean up entries older than 7 days
-  const cutoff = new Date();
-  cutoff.setDate(cutoff.getDate() - 7);
-  const cutoffStr = cutoff.toISOString().split('T')[0];
-  for (const date of Object.keys(history)) {
-    if (date < cutoffStr) delete history[date];
+  const before = allItems.length;
+  allItems = allItems.filter(it => !seenLinks.has(it.link) && !seenTitles.has(normTitle(it.title)));
+  console.log(`After cross-day dedup: ${allItems.length} (removed ${before - allItems.length})`);
+
+  allItems.sort((a, b) => scoreItem(b) - scoreItem(a));
+
+  // Per-category sizing: AI and robotics each 6-12; application optional up to 6.
+  // Chinese >= 70% overall: Chinese-first only to the floor, English to the floor,
+  // then top up (Chinese freely; English only while zh ratio stays >= 70%).
+  const CAT_MIN = { ai: 6, robotics: 6, application: 0 };
+  const CAT_MAX = { ai: 12, robotics: 12, application: 6 };
+  const catCount = { ai: 0, robotics: 0, application: 0 };
+  const selected = [];
+  const inSel = new Set();
+  const srcCount = {};
+  const zhCountNow = () => selected.reduce((n, s) => n + (s.lang === 'zh' ? 1 : 0), 0);
+  const tryAdd = (it, srcCap) => {
+    if (!it || inSel.has(it)) return false;
+    const c = it.category;
+    if (catCount[c] >= CAT_MAX[c]) return false;
+    if ((srcCount[it.source] || 0) >= srcCap) return false;
+    selected.push(it); inSel.add(it);
+    srcCount[it.source] = (srcCount[it.source] || 0) + 1; catCount[c]++;
+    return true;
+  };
+  for (const cat of ['robotics', 'ai', 'application']) {
+    for (const it of allItems.filter(i => i.category === cat && i.lang === 'zh')) {
+      if (catCount[cat] >= CAT_MIN[cat]) break;
+      tryAdd(it, SOURCE_CAP);
+    }
   }
+  for (const cat of ['robotics', 'ai']) {
+    for (const it of allItems.filter(i => i.category === cat && i.lang === 'en')) {
+      if (catCount[cat] >= CAT_MIN[cat]) break;
+      tryAdd(it, SOURCE_CAP);
+    }
+  }
+  for (const it of allItems) {
+    if (inSel.has(it)) continue;
+    if (it.lang === 'en') {
+      const ratioAfter = zhCountNow() / (selected.length + 1);
+      if (ratioAfter < ZH_RATIO) continue;
+    }
+    tryAdd(it, SOURCE_CAP);
+  }
+  for (const cat of ['robotics', 'ai']) {
+    if (catCount[cat] >= CAT_MIN[cat]) continue;
+    for (const it of [...allItems.filter(i => i.category === cat && i.lang === 'zh'),
+                      ...allItems.filter(i => i.category === cat && i.lang === 'en')]) {
+      if (catCount[cat] >= CAT_MIN[cat]) break;
+      tryAdd(it, Infinity);
+    }
+  }
+
+  selected.sort((a, b) => scoreItem(b) - scoreItem(a));
+  const heroIdx = selected.findIndex(i => i.lang === 'zh');
+  if (heroIdx > 0) { const [h] = selected.splice(heroIdx, 1); selected.unshift(h); }
+
+  // Give every item a whole-article one-liner: resolve link -> meta description.
+  console.log('Enriching summaries...');
+  await asyncPool(8, selected, enrichSummary);
+
+  // Translate English titles + summaries to Chinese (concurrent).
+  console.log('Translating English items...');
+  await asyncPool(6, selected.filter(item => item.lang === 'en'), async (item) => {
+    const needSum = !LLM_KEY && item.summary; // AI summaries are already Chinese
+    const [zhTitle, zhSum] = await Promise.all([
+      translateToZh(item.title),
+      needSum ? translateToZh(item.summary) : Promise.resolve(null)
+    ]);
+    if (zhTitle) item.titleZh = zhTitle;
+    if (zhSum) item.summaryZh = cleanSummary(zhSum);
+  });
+
+  // Drop any summary that repeats across items (a sign of site-boilerplate, not article text).
+  const sumCount = {};
+  for (const it of selected) { const k = it.summaryZh || it.summary; if (k) sumCount[k] = (sumCount[k] || 0) + 1; }
+  for (const it of selected) { const k = it.summaryZh || it.summary; if (k && sumCount[k] > 1) { it.summary = ''; it.summaryZh = ''; } }
+
+  const counts = selected.reduce((a, i) => (a[i.category] = (a[i.category] || 0) + 1, a), {});
+  const zhCount = selected.filter(s => s.lang === 'zh').length;
+  console.log(`Selected ${selected.length}: AI=${counts.ai || 0} Robotics=${counts.robotics || 0} App=${counts.application || 0} | 中文=${zhCount} 英文=${selected.length - zhCount}`);
+
+  const today = getEditionDate();
+  if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
+
+  fs.writeFileSync(path.join(outputDir, `${today}.html`), generateHTML(selected, today), 'utf8');
+  fs.writeFileSync(path.join(outputDir, `${today}.json`),
+    JSON.stringify({ date: today, generatedAt: new Date().toISOString(), items: selected }, null, 2), 'utf8');
+
+  const manifestPath = path.join(outputDir, 'manifest.json');
+  let manifest = [];
+  if (fs.existsSync(manifestPath)) manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+  if (!manifest.includes(today)) { manifest.push(today); manifest.sort(); }
+  fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2), 'utf8');
+
+  history[today] = { links: selected.map(i => i.link), titles: selected.map(i => normTitle(i.title)) };
+  const cut = new Date(); cut.setDate(cut.getDate() - 14);
+  const cutStr = cut.toISOString().split('T')[0];
+  for (const date of Object.keys(history)) if (date < cutStr) delete history[date];
   fs.writeFileSync(historyPath, JSON.stringify(history, null, 2), 'utf8');
 
-  console.log(`\nDone! Output: ${outputPath}`);
-  console.log(`Open in browser: file:///${outputPath.replace(/\\/g, '/')}`);
-  
+  console.log(`\nDone! Output: ${path.join(outputDir, today + '.html')}`);
   clearTimeout(globalTimer);
 }
 

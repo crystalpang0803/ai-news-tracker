@@ -1,133 +1,146 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI & 机器人行业日报</title>
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
-      background: #f8fafc;
-      color: #1e293b;
-      padding: 2.5rem 1.5rem;
-      max-width: 600px;
-      margin: 0 auto;
-      line-height: 1.6;
-    }
-    header {
-      text-align: center;
-      margin-bottom: 2rem;
-    }
-    header h1 {
-      font-size: 2rem;
-      font-weight: 700;
-      color: #0369a1;
-      margin-bottom: 0.4rem;
-    }
-    header p { color: #64748b; font-size: 0.9rem; }
-    .loading {
-      text-align: center;
-      color: #64748b;
-      margin: 3rem 0;
-      font-size: 1.1rem;
-    }
-    .archive-list { list-style: none; margin-top: 1.5rem; }
-    .archive-list li {
-      padding: 0.8rem 1rem;
-      background: #ffffff;
-      margin-bottom: 0.5rem;
-      border-radius: 8px;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.06);
-    }
-    .archive-list a {
-      color: #0369a1;
-      text-decoration: none;
-      font-size: 1rem;
-      font-weight: 500;
-    }
-    .archive-list a:hover { color: #0ea5e9; }
-    .nav {
-      display: flex;
-      justify-content: center;
-      gap: 0.5rem;
-      margin: 1.5rem 0;
-    }
-    .nav input[type="date"] {
-      background: #ffffff;
-      color: #1e293b;
-      border: 1px solid #cbd5e1;
-      padding: 0.5rem 1rem;
-      border-radius: 8px;
-      font-size: 1rem;
-    }
-    .nav button {
-      background: #0369a1;
-      color: white;
-      border: none;
-      padding: 0.5rem 1.5rem;
-      border-radius: 8px;
-      cursor: pointer;
-      font-size: 1rem;
-      font-weight: 500;
-    }
-    .nav button:hover { background: #0ea5e9; }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI & 机器人日报</title>
+<style>
+  :root{color-scheme:light;--ink:#14171c;--muted:#6b7280;--line:#e7e9ec;--bg:#f2f3f5;--card:#ffffff;--accent:#e5484d;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased;}
+  a{color:inherit;text-decoration:none;}
+  .topbar{background:#111418;color:#fff;border-bottom:3px solid var(--accent);}
+  .topbar-inner{max-width:1120px;margin:0 auto;padding:0.95rem 1.5rem;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
+  .brand{font-size:1.4rem;font-weight:800;letter-spacing:-0.02em;display:flex;align-items:center;gap:0.5rem;}
+  .brand .dot{color:var(--accent);}
+  .masthead-meta{font-size:0.8rem;color:#a9afb8;font-variant-numeric:tabular-nums;}
+  .wrap{max-width:1120px;margin:0 auto;padding:1.4rem 1.5rem 3rem;}
+  .hero{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:1.7rem 1.9rem;box-shadow:0 1px 2px rgba(16,24,40,.05);}
+  .hero .kicker{display:inline-flex;align-items:center;gap:.4rem;font-size:0.72rem;font-weight:800;letter-spacing:.08em;color:#fff;background:var(--accent);padding:0.24rem 0.65rem;border-radius:6px;margin-bottom:0.9rem;}
+  .hero h2{font-size:1.75rem;line-height:1.25;font-weight:800;letter-spacing:-0.015em;}
+  .hero .trans{margin-top:0.5rem;}
+  .hero .head{margin-top:0.95rem;}
+  .tabs{position:sticky;top:0;z-index:20;display:flex;gap:0.5rem;flex-wrap:wrap;background:var(--bg);padding:0.8rem 0 0.7rem;margin:0.8rem 0 0.2rem;border-bottom:1px solid var(--line);}
+  .tab{background:#fff;border:1px solid var(--line);border-radius:999px;padding:0.5rem 1.05rem;font-family:inherit;font-size:0.94rem;font-weight:700;color:#4b5563;cursor:pointer;display:flex;align-items:center;gap:0.5rem;transition:all .15s;}
+  .tab:hover{border-color:#c7cbd1;color:var(--ink);}
+  .tab .ic{font-size:1rem;}
+  .tab .n{font-size:0.72rem;font-weight:800;opacity:.65;font-variant-numeric:tabular-nums;}
+  .tab.active{color:#fff;border-color:transparent;box-shadow:0 2px 8px rgba(16,24,40,.12);}
+  .tab.active .n{opacity:.95;}
+  .tab[data-cat="ai"].active{background:#2563eb;}
+  .tab[data-cat="robotics"].active{background:#7c3aed;}
+  .tab[data-cat="application"].active{background:#0d9488;}
+  .section{scroll-margin-top:72px;margin-top:1.7rem;}
+  .sec-head{display:flex;align-items:center;gap:0.5rem;margin-bottom:0.95rem;font-size:1.18rem;font-weight:800;letter-spacing:-0.01em;}
+  .sec-head .bar{width:4px;height:1.2rem;border-radius:2px;flex:none;}
+  .sec-head .ic{font-size:1.15rem;}
+  .sec-head .n{margin-left:0.15rem;font-size:0.74rem;font-weight:800;color:var(--muted);background:#eceef1;border-radius:999px;padding:0.08rem 0.55rem;}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:0.85rem;}
+  .item{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:0.95rem 1.1rem;transition:border-color .15s,box-shadow .15s,transform .15s;}
+  .item:hover{border-color:#d3d6db;box-shadow:0 6px 18px rgba(16,24,40,.07);transform:translateY(-1px);}
+  .head{display:flex;align-items:center;gap:0.45rem;font-size:0.74rem;color:var(--muted);margin-bottom:0.5rem;}
+  .head .cdot{width:7px;height:7px;border-radius:50%;flex:none;}
+  .head .src{font-weight:700;color:#4b5563;}
+  .head .sep{color:#cbd0d6;}
+  .head .time{color:#9aa1ab;font-variant-numeric:tabular-nums;}
+  .title{font-size:1.02rem;font-weight:680;line-height:1.42;color:var(--ink);display:block;}
+  .item:hover .title{color:var(--accent);}
+  .trans{display:block;margin-top:0.4rem;font-size:0.85rem;line-height:1.5;color:#8b9199;font-style:italic;}
+  .trans b{font-style:normal;font-weight:700;color:#9aa1ab;background:#f1f2f4;padding:0.02rem 0.4rem;border-radius:4px;margin-right:0.45rem;font-size:0.72rem;letter-spacing:.02em;}
+  .desc{margin-top:0.5rem;font-size:0.85rem;line-height:1.55;color:#565d68;}
+  .hero .desc{font-size:0.98rem;color:#3a4150;margin-top:0.65rem;}
+  .loading{text-align:center;color:var(--muted);padding:3rem 1rem;}
+  footer{max-width:1120px;margin:0 auto;padding:1.5rem;text-align:center;color:#9aa1ab;font-size:0.78rem;border-top:1px solid var(--line);}
+  @media(max-width:760px){.grid{grid-template-columns:1fr;}.hero h2{font-size:1.35rem;}.wrap{padding:1rem;}}
+</style>
 </head>
 <body>
-  <header>
-    <h1>AI & 机器人行业日报</h1>
-    <p id="subtitle">选择日期查看新闻</p>
-  </header>
+<div class="topbar"><div class="topbar-inner">
+  <span class="brand"><span class="dot">●</span> AI &amp; 机器人日报</span>
+  <span class="masthead-meta" id="masthead">加载中…</span>
+</div></div>
+<div class="wrap" id="app"><p class="loading">加载中…</p></div>
+<footer>数据来源：80+ 中英文科技与产业媒体（中文优先）· 每日自动更新（北京时间）</footer>
 
-  <div class="nav">
-    <input type="date" id="dateInput">
-    <button onclick="goToDate()">查看</button>
-  </div>
-
-  <div id="content">
-    <p class="loading">加载中...</p>
-  </div>
-
-  <ul class="archive-list" id="archiveList"></ul>
-
-  <script>
-    // Default the date picker to *Beijing* today, not UTC today,
-    // so it matches the edition the site publishes.
-    const today = new Intl.DateTimeFormat('en-CA', {
-      timeZone: 'Asia/Shanghai',
-      year: 'numeric', month: '2-digit', day: '2-digit'
-    }).format(new Date());
-    document.getElementById('dateInput').value = today;
-
-    function goToDate() {
-      const date = document.getElementById('dateInput').value;
-      if (date) window.location.href = 'output/' + date + '.html';
-    }
-
-    fetch('output/manifest.json')
-      .then(r => r.json())
-      .then(dates => {
-        if (dates.length > 0) {
-          const latest = dates[dates.length - 1];
-          document.getElementById('subtitle').textContent = '最新: ' + latest + ' | 共 ' + dates.length + ' 天记录';
-          document.getElementById('content').innerHTML = 
-            '<p class="loading"><a href="output/' + latest + '.html" style="color:#0369a1;font-size:1.2rem;font-weight:600;">查看最新一期 (' + latest + ') →</a></p>';
-          
-          const list = document.getElementById('archiveList');
-          dates.slice().reverse().forEach(date => {
-            const li = document.createElement('li');
-            li.innerHTML = '<a href="output/' + date + '.html">' + date + '</a>';
-            list.appendChild(li);
-          });
-        } else {
-          document.getElementById('content').innerHTML = '<p class="loading">暂无新闻数据</p>';
-        }
-      })
-      .catch(() => {
-        document.getElementById('subtitle').textContent = '';
-        document.getElementById('content').innerHTML = '<p class="loading">暂无历史记录，请等待首次抓取完成</p>';
-      });
-  </script>
+<script>
+const categoryLabels = {
+  ai:          { name: 'AI 人工智能', icon: '🖥️', color: '#2563eb' },
+  robotics:    { name: '机器人',      icon: '🤖', color: '#7c3aed' },
+  application: { name: '商业应用',    icon: '🏪', color: '#0d9488' }
+};
+function escapeHtml(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+function fmtTime(iso){
+  if(!iso) return '';
+  try{
+    const p=new Intl.DateTimeFormat('zh-CN',{timeZone:'Asia/Shanghai',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false}).formatToParts(new Date(iso));
+    const g=t=>(p.find(x=>x.type===t)||{}).value||'';
+    return g('month')+'-'+g('day')+' '+g('hour')+':'+g('minute');
+  }catch(e){return '';}
+}
+function transLine(it){
+  return (it.titleZh&&it.titleZh!==it.title)?'<span class="trans"><b>中文翻译</b>'+escapeHtml(it.titleZh)+'</span>':'';
+}
+function descLine(it){
+  const sm=it.summaryZh||it.summary;
+  return sm?'<p class="desc">'+escapeHtml(sm)+'</p>':'';
+}
+function headLine(it){
+  const color=(categoryLabels[it.category]||categoryLabels.ai).color;
+  const time=fmtTime(it.pubDate);
+  return '<div class="head"><span class="cdot" style="background:'+color+'"></span><span class="src">'+escapeHtml(it.source)+'</span>'+(time?'<span class="sep">·</span><span class="time">'+time+'</span>':'')+'</div>';
+}
+function itemHtml(it){
+  return '<div class="item">'+headLine(it)+'<a class="title" href="'+escapeHtml(it.link)+'" target="_blank" rel="noopener">'+escapeHtml(it.title)+'</a>'+transLine(it)+descLine(it)+'</div>';
+}
+function heroHtml(it){
+  if(!it) return '';
+  return '<div class="hero"><span class="kicker">🔥 今日头条</span><h2><a href="'+escapeHtml(it.link)+'" target="_blank" rel="noopener">'+escapeHtml(it.title)+'</a></h2>'+transLine(it)+descLine(it)+headLine(it)+'</div>';
+}
+function initSpy(){
+  var tabs = Array.prototype.slice.call(document.querySelectorAll('.tab'));
+  var map = {}; tabs.forEach(function(t){ map[t.getAttribute('data-cat')] = t; });
+  var secs = Array.prototype.slice.call(document.querySelectorAll('.section'));
+  if(!secs.length || !('IntersectionObserver' in window)) return;
+  var obs = new IntersectionObserver(function(entries){
+    entries.forEach(function(en){
+      if(en.isIntersecting){
+        var cat = en.target.getAttribute('data-cat');
+        tabs.forEach(function(x){ x.classList.remove('active'); });
+        if(map[cat]) map[cat].classList.add('active');
+      }
+    });
+  }, { rootMargin: '-72px 0px -55% 0px', threshold: 0 });
+  secs.forEach(function(s){ obs.observe(s); });
+}
+function render(data){
+  document.getElementById('masthead').textContent = data.date + ' · 每日精选 ' + data.items.length + ' 条';
+  const hero=data.items[0], rest=data.items.slice(1);
+  const grouped={ai:[],robotics:[],application:[]};
+  rest.forEach(it=>{(grouped[it.category]||grouped.ai).push(it);});
+  const cats=['ai','robotics','application'].filter(c=>grouped[c].length>0);
+  let tabs='', sections='';
+  cats.forEach((c,i)=>{
+    const L=categoryLabels[c];
+    tabs+='<a class="tab'+(i===0?' active':'')+'" data-cat="'+c+'" href="#sec-'+c+'"><span class="ic">'+L.icon+'</span>'+L.name+'<span class="n">'+grouped[c].length+'</span></a>';
+    sections+='<section class="section" id="sec-'+c+'" data-cat="'+c+'"><div class="sec-head"><span class="bar" style="background:'+L.color+'"></span><span class="ic">'+L.icon+'</span>'+L.name+'<span class="n">'+grouped[c].length+' 条</span></div><div class="grid">'+grouped[c].map(itemHtml).join('')+'</div></section>';
+  });
+  document.getElementById('app').innerHTML = heroHtml(hero)+'<div class="tabs">'+tabs+'</div>'+sections;
+  initSpy();
+}
+async function boot(){
+  if(window.__PREVIEW__){ render(window.__PREVIEW__.data); return; }
+  try{
+    const manifest = await (await fetch('output/manifest.json')).json();
+    if(!manifest.length){ document.getElementById('app').innerHTML='<p class="loading">暂无新闻数据，请等待首次抓取完成。</p>'; return; }
+    const date = manifest[manifest.length-1];
+    const data = await (await fetch('output/'+date+'.json')).json();
+    render(data);
+  }catch(e){
+    document.getElementById('app').innerHTML='<p class="loading">加载失败，请稍后重试。</p>';
+  }
+}
+boot();
+</script>
 </body>
 </html>

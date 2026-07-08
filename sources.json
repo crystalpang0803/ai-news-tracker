@@ -1,68 +1,419 @@
 {
   "rss": {
     "chinese": [
-      {"name": "36氪", "url": "https://36kr.com/feed", "category": "ai"},
-      {"name": "机器之心", "url": "https://www.jiqizhixin.com/rss", "category": "ai"},
-      {"name": "量子位", "url": "https://www.qbitai.com/feed", "category": "ai"},
-      {"name": "虎嗅", "url": "https://www.huxiu.com/rss/0.xml", "category": "ai"},
-      {"name": "钛媒体", "url": "https://www.tmtpost.com/rss.xml", "category": "ai"},
-      {"name": "极客公园", "url": "https://www.geekpark.net/rss", "category": "ai"},
-      {"name": "IT之家", "url": "https://www.ithome.com/rss/", "category": "ai"},
-      {"name": "智东西", "url": "https://zhidx.com/rss", "category": "robotics"},
-      {"name": "界面新闻", "url": "https://www.jiemian.com/rss.html", "category": "ai"},
-      {"name": "晚点LatePost", "url": "https://www.latepost.com/rss", "category": "ai"},
-      {"name": "第一财经", "url": "https://www.yicai.com/rss/feed.xml", "category": "ai"},
-      {"name": "财联社", "url": "https://www.cls.cn/rss", "category": "ai"},
-      {"name": "每日经济新闻", "url": "https://www.nbd.com.cn/rss", "category": "ai"}
+      {
+        "name": "36氪",
+        "url": "https://36kr.com/feed",
+        "category": "ai"
+      },
+      {
+        "name": "机器之心",
+        "url": "https://www.jiqizhixin.com/rss",
+        "category": "ai"
+      },
+      {
+        "name": "量子位",
+        "url": "https://www.qbitai.com/feed",
+        "category": "ai"
+      },
+      {
+        "name": "虎嗅",
+        "url": "https://www.huxiu.com/rss/0.xml",
+        "category": "ai"
+      },
+      {
+        "name": "钛媒体",
+        "url": "https://www.tmtpost.com/rss.xml",
+        "category": "ai"
+      },
+      {
+        "name": "极客公园",
+        "url": "https://www.geekpark.net/rss",
+        "category": "ai"
+      },
+      {
+        "name": "IT之家",
+        "url": "https://www.ithome.com/rss/",
+        "category": "ai"
+      },
+      {
+        "name": "智东西",
+        "url": "https://zhidx.com/rss",
+        "category": "robotics"
+      },
+      {
+        "name": "界面新闻",
+        "url": "https://www.jiemian.com/rss.html",
+        "category": "ai"
+      },
+      {
+        "name": "晚点LatePost",
+        "url": "https://www.latepost.com/rss",
+        "category": "ai"
+      },
+      {
+        "name": "第一财经",
+        "url": "https://www.yicai.com/rss/feed.xml",
+        "category": "ai"
+      },
+      {
+        "name": "财联社",
+        "url": "https://www.cls.cn/rss",
+        "category": "ai"
+      },
+      {
+        "name": "每日经济新闻",
+        "url": "https://www.nbd.com.cn/rss",
+        "category": "ai"
+      }
     ],
     "english": [
-      {"name": "TechCrunch", "url": "https://techcrunch.com/feed/", "category": "ai"},
-      {"name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "category": "ai"},
-      {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "category": "ai"},
-      {"name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/", "category": "ai"},
-     {"name": "VentureBeat", "url": "https://venturebeat.com/feed/", "category": "ai"},
-      {"name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/", "category": "ai"},
-      {"name": "Wired", "url": "https://www.wired.com/feed/rss", "category": "ai"},
-      {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index", "category": "ai"},
-      {"name": "IEEE Spectrum Robotics", "url": "https://spectrum.ieee.org/feeds/topic/robotics.rss", "category": "robotics"},
-      {"name": "The Robot Report", "url": "https://www.therobotreport.com/feed/", "category": "robotics"},
-      {"name": "Robotics Business Review", "url": "https://www.roboticsbusinessreview.com/feed/", "category": "robotics"},
-      {"name": "Retail Dive", "url": "https://www.retaildive.com/feeds/news/", "category": "application"},
-      {"name": "Supply Chain Dive", "url": "https://www.supplychaindive.com/feeds/news/", "category": "application"},
-      {"name": "Grocery Dive", "url": "https://www.grocerydive.com/feeds/news/", "category": "application"},
-      {"name": "Modern Retail", "url": "https://www.modernretail.co/feed/", "category": "application"},
-      {"name": "The Batch (Andrew Ng)", "url": "https://www.deeplearning.ai/the-batch/feed/", "category": "ai"},
-      {"name": "Reuters Technology", "url": "https://www.reuters.com/technology/rss", "category": "ai"},
-      {"name": "CNBC Tech", "url": "https://www.cnbc.com/id/19854910/device/rss/rss.html", "category": "ai"},
-      {"name": "BBC News Tech", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml", "category": "ai"},
-      {"name": "Automation World", "url": "https://www.automationworld.com/rss.xml", "category": "robotics"},
-      {"name": "Robohub", "url": "https://robohub.org/feed/", "category": "robotics"},
-      {"name": "The Spoon", "url": "https://thespoon.tech/feed/", "category": "application"},
-      {"name": "FreightWaves", "url": "https://www.freightwaves.com/feed", "category": "application"},
-      {"name": "Tech Xplore", "url": "https://techxplore.com/rss-feed/", "category": "ai"},
-      {"name": "PYMNTS", "url": "https://www.pymnts.com/feed/", "category": "application"}
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/feed/",
+        "category": "ai"
+      },
+      {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "category": "ai"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "category": "ai"
+      },
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/feed/",
+        "category": "ai"
+      },
+      {
+        "name": "VentureBeat",
+        "url": "https://venturebeat.com/feed/",
+        "category": "ai"
+      },
+      {
+        "name": "VentureBeat AI",
+        "url": "https://venturebeat.com/category/ai/feed/",
+        "category": "ai"
+      },
+      {
+        "name": "Wired",
+        "url": "https://www.wired.com/feed/rss",
+        "category": "ai"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://feeds.arstechnica.com/arstechnica/index",
+        "category": "ai"
+      },
+      {
+        "name": "IEEE Spectrum Robotics",
+        "url": "https://spectrum.ieee.org/feeds/topic/robotics.rss",
+        "category": "robotics"
+      },
+      {
+        "name": "The Robot Report",
+        "url": "https://www.therobotreport.com/feed/",
+        "category": "robotics"
+      },
+      {
+        "name": "Robotics Business Review",
+        "url": "https://www.roboticsbusinessreview.com/feed/",
+        "category": "robotics"
+      },
+      {
+        "name": "Retail Dive",
+        "url": "https://www.retaildive.com/feeds/news/",
+        "category": "application"
+      },
+      {
+        "name": "Supply Chain Dive",
+        "url": "https://www.supplychaindive.com/feeds/news/",
+        "category": "application"
+      },
+      {
+        "name": "Grocery Dive",
+        "url": "https://www.grocerydive.com/feeds/news/",
+        "category": "application"
+      },
+      {
+        "name": "Modern Retail",
+        "url": "https://www.modernretail.co/feed/",
+        "category": "application"
+      },
+      {
+        "name": "The Batch (Andrew Ng)",
+        "url": "https://www.deeplearning.ai/the-batch/feed/",
+        "category": "ai"
+      },
+      {
+        "name": "Reuters Technology",
+        "url": "https://www.reuters.com/technology/rss",
+        "category": "ai"
+      },
+      {
+        "name": "CNBC Tech",
+        "url": "https://www.cnbc.com/id/19854910/device/rss/rss.html",
+        "category": "ai"
+      },
+      {
+        "name": "BBC News Tech",
+        "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "category": "ai"
+      },
+      {
+        "name": "Automation World",
+        "url": "https://www.automationworld.com/rss.xml",
+        "category": "robotics"
+      },
+      {
+        "name": "Robohub",
+        "url": "https://robohub.org/feed/",
+        "category": "robotics"
+      },
+      {
+        "name": "The Spoon",
+        "url": "https://thespoon.tech/feed/",
+        "category": "application"
+      },
+      {
+        "name": "FreightWaves",
+        "url": "https://www.freightwaves.com/feed",
+        "category": "application"
+      },
+      {
+        "name": "Tech Xplore",
+        "url": "https://techxplore.com/rss-feed/",
+        "category": "ai"
+      },
+      {
+        "name": "PYMNTS",
+        "url": "https://www.pymnts.com/feed/",
+        "category": "application"
+      },
+      {
+        "name": "Robotics & Automation News",
+        "url": "https://roboticsandautomationnews.com/feed/",
+        "category": "robotics"
+      }
     ]
   },
   "scrape": {
     "chinese": [
-      {"name": "华尔街见闻", "url": "https://wallstreetcn.com/news/global", "selector": "article"},
-      {"name": "腾讯科技", "url": "https://new.qq.com/ch/tech/", "selector": "article"},
-      {"name": "新浪科技", "url": "https://tech.sina.com.cn/", "selector": "article"},
-      {"name": "澎湃新闻科技", "url": "https://www.thepaper.cn/channel_25951", "selector": "article"},
-      {"name": "网易科技", "url": "https://tech.163.com/", "selector": "article"},
-      {"name": "搜狐科技", "url": "https://it.sohu.com/", "selector": "article"},
-      {"name": "东方财富网", "url": "https://www.eastmoney.com/", "selector": "article"},
-      {"name": "中国机器人网", "url": "https://www.robot-china.com/news/", "selector": "article"},
-      {"name": "新华网科技", "url": "http://www.xinhuanet.com/tech/", "selector": "article"}
+      {
+        "name": "华尔街见闻",
+        "url": "https://wallstreetcn.com/news/global",
+        "selector": "article"
+      },
+      {
+        "name": "腾讯科技",
+        "url": "https://new.qq.com/ch/tech/",
+        "selector": "article"
+      },
+      {
+        "name": "新浪科技",
+        "url": "https://tech.sina.com.cn/",
+        "selector": "article"
+      },
+      {
+        "name": "澎湃新闻科技",
+        "url": "https://www.thepaper.cn/channel_25951",
+        "selector": "article"
+      },
+      {
+        "name": "网易科技",
+        "url": "https://tech.163.com/",
+        "selector": "article"
+      },
+      {
+        "name": "搜狐科技",
+        "url": "https://it.sohu.com/",
+        "selector": "article"
+      },
+      {
+        "name": "东方财富网",
+        "url": "https://www.eastmoney.com/",
+        "selector": "article"
+      },
+      {
+        "name": "中国机器人网",
+        "url": "https://www.robot-china.com/news/",
+        "selector": "article"
+      },
+      {
+        "name": "新华网科技",
+        "url": "http://www.xinhuanet.com/tech/",
+        "selector": "article"
+      },
+      {
+        "name": "与非网",
+        "url": "https://www.eefocus.com/",
+        "category": "robotics"
+      },
+      {
+        "name": "央视网",
+        "url": "https://www.cctv.com/",
+        "category": "ai"
+      },
+      {
+        "name": "新浪财经",
+        "url": "https://finance.sina.com.cn/",
+        "category": "ai"
+      },
+      {
+        "name": "人民网科技",
+        "url": "http://scitech.people.com.cn/",
+        "category": "ai"
+      },
+      {
+        "name": "金融界",
+        "url": "https://www.jrj.com.cn/",
+        "category": "ai"
+      },
+      {
+        "name": "21财经",
+        "url": "https://www.21jingji.com/",
+        "category": "ai"
+      },
+      {
+        "name": "经济观察网",
+        "url": "https://www.eeo.com.cn/",
+        "category": "ai"
+      },
+      {
+        "name": "同花顺财经",
+        "url": "https://www.10jqka.com.cn/",
+        "category": "ai"
+      },
+      {
+        "name": "腾讯新闻",
+        "url": "https://news.qq.com/",
+        "category": "ai"
+      },
+      {
+        "name": "凤凰财经",
+        "url": "https://finance.ifeng.com/",
+        "category": "ai"
+      },
+      {
+        "name": "光明网",
+        "url": "https://www.gmw.cn/",
+        "category": "ai"
+      },
+      {
+        "name": "新华社",
+        "url": "http://www.news.cn/",
+        "category": "ai"
+      },
+      {
+        "name": "央广网",
+        "url": "https://www.cnr.cn/",
+        "category": "ai"
+      },
+      {
+        "name": "中国新闻网",
+        "url": "https://www.chinanews.com.cn/",
+        "category": "ai"
+      },
+      {
+        "name": "科技日报",
+        "url": "http://www.stdaily.com/",
+        "category": "ai"
+      },
+      {
+        "name": "中国经济网",
+        "url": "https://www.ce.cn/",
+        "category": "ai"
+      },
+      {
+        "name": "财新网",
+        "url": "https://www.caixin.com/",
+        "category": "ai"
+      },
+      {
+        "name": "中国经营网",
+        "url": "https://www.cb.com.cn/",
+        "category": "ai"
+      },
+      {
+        "name": "新京报",
+        "url": "https://www.bjnews.com.cn/",
+        "category": "ai"
+      },
+      {
+        "name": "网易财经",
+        "url": "https://money.163.com/",
+        "category": "ai"
+      }
     ],
     "english": [
-      {"name": "Crunchbase News", "url": "https://news.crunchbase.com/", "selector": "article"},
-      {"name": "Restaurant Dive", "url": "https://www.restaurantdive.com/", "selector": "article"},
-      {"name": "QSR Magazine", "url": "https://www.qsrmagazine.com/", "selector": "article"},
-      {"name": "NRN", "url": "https://www.nrn.com/", "selector": "article"},
-      {"name": "Food On Demand", "url": "https://foodondemand.com/", "selector": "article"},
-      {"name": "Retail Gazette", "url": "https://www.retailgazette.co.uk/", "selector": "article"},
-      {"name": "NVIDIA Blog", "url": "https://blogs.nvidia.com/", "selector": "article"}
+      {
+        "name": "Crunchbase News",
+        "url": "https://news.crunchbase.com/",
+        "selector": "article"
+      },
+      {
+        "name": "Restaurant Dive",
+        "url": "https://www.restaurantdive.com/",
+        "selector": "article"
+      },
+      {
+        "name": "QSR Magazine",
+        "url": "https://www.qsrmagazine.com/",
+        "selector": "article"
+      },
+      {
+        "name": "NRN",
+        "url": "https://www.nrn.com/",
+        "selector": "article"
+      },
+      {
+        "name": "Food On Demand",
+        "url": "https://foodondemand.com/",
+        "selector": "article"
+      },
+      {
+        "name": "Retail Gazette",
+        "url": "https://www.retailgazette.co.uk/",
+        "selector": "article"
+      },
+      {
+        "name": "NVIDIA Blog",
+        "url": "https://blogs.nvidia.com/",
+        "selector": "article"
+      },
+      {
+        "name": "AZoRobotics",
+        "url": "https://www.azorobotics.com/",
+        "category": "robotics"
+      },
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/",
+        "category": "ai"
+      },
+      {
+        "name": "WSJ Tech",
+        "url": "https://www.wsj.com/",
+        "category": "ai"
+      },
+      {
+        "name": "Financial Times",
+        "url": "https://www.ft.com/",
+        "category": "ai"
+      },
+      {
+        "name": "eMarketer",
+        "url": "https://www.emarketer.com/",
+        "category": "application"
+      },
+      {
+        "name": "Retail Tech Innovation Hub",
+        "url": "https://retailtechinnovationhub.com/",
+        "category": "application"
+      }
     ]
   }
 }

@@ -1,211 +1,191 @@
+// Portal-style daily edition page (self-contained HTML): single page, all categories
+// stacked, with a sticky jump-tab bar that smooth-scrolls to each section.
 const categoryLabels = {
-  ai: { name: 'AI 人工智能', icon: '🤖', color: '#0ea5e9' },
-  robotics: { name: '机器人', icon: '🦾', color: '#6366f1' },
-  application: { name: '商业应用', icon: '🏪', color: '#059669' }
+  ai:          { name: 'AI 人工智能', icon: '🖥️', color: '#2563eb' },
+  robotics:    { name: '机器人',      icon: '🤖', color: '#7c3aed' },
+  application: { name: '商业应用',    icon: '🏪', color: '#0d9488' }
 };
 
+function escapeHtml(str) {
+  return String(str == null ? '' : str)
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+function fmtTime(iso) {
+  if (!iso) return '';
+  try {
+    const parts = new Intl.DateTimeFormat('zh-CN', {
+      timeZone: 'Asia/Shanghai', month: '2-digit', day: '2-digit',
+      hour: '2-digit', minute: '2-digit', hour12: false
+    }).formatToParts(new Date(iso));
+    const g = t => (parts.find(x => x.type === t) || {}).value || '';
+    return `${g('month')}-${g('day')} ${g('hour')}:${g('minute')}`;
+  } catch { return ''; }
+}
+
+const PORTAL_CSS = `
+  :root{color-scheme:light;--ink:#14171c;--muted:#6b7280;--line:#e7e9ec;--bg:#f2f3f5;--card:#ffffff;--accent:#e5484d;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased;}
+  a{color:inherit;text-decoration:none;}
+  .topbar{background:#111418;color:#fff;border-bottom:3px solid var(--accent);}
+  .topbar-inner{max-width:1120px;margin:0 auto;padding:0.95rem 1.5rem;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
+  .brand{font-size:1.4rem;font-weight:800;letter-spacing:-0.02em;display:flex;align-items:center;gap:0.5rem;}
+  .brand .dot{color:var(--accent);}
+  .masthead-meta{font-size:0.8rem;color:#a9afb8;font-variant-numeric:tabular-nums;}
+  .nav{max-width:1120px;margin:0 auto;padding:0.6rem 1.5rem;display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap;font-size:0.82rem;}
+  .nav a,.nav input{background:#fff;border:1px solid var(--line);border-radius:8px;padding:0.35rem 0.85rem;color:#374151;font-weight:600;transition:all .15s;}
+  .nav a:hover{border-color:var(--accent);color:var(--accent);}
+  .nav .spacer{flex:1;}
+  .wrap{max-width:1120px;margin:0 auto;padding:1.4rem 1.5rem 3rem;}
+
+  .hero{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:1.7rem 1.9rem;box-shadow:0 1px 2px rgba(16,24,40,.05);}
+  .hero .kicker{display:inline-flex;align-items:center;gap:.4rem;font-size:0.72rem;font-weight:800;letter-spacing:.08em;color:#fff;background:var(--accent);padding:0.24rem 0.65rem;border-radius:6px;margin-bottom:0.9rem;}
+  .hero h2{font-size:1.75rem;line-height:1.25;font-weight:800;letter-spacing:-0.015em;}
+  .hero .trans{margin-top:0.5rem;}
+  .hero .head{margin-top:0.95rem;}
+
+  /* Sticky jump-tab bar */
+  .tabs{position:sticky;top:0;z-index:20;display:flex;gap:0.5rem;flex-wrap:wrap;background:var(--bg);padding:0.8rem 0 0.7rem;margin:0.8rem 0 0.2rem;border-bottom:1px solid var(--line);}
+  .tab{background:#fff;border:1px solid var(--line);border-radius:999px;padding:0.5rem 1.05rem;font-family:inherit;font-size:0.94rem;font-weight:700;color:#4b5563;cursor:pointer;display:flex;align-items:center;gap:0.5rem;transition:all .15s;}
+  .tab:hover{border-color:#c7cbd1;color:var(--ink);}
+  .tab .ic{font-size:1rem;}
+  .tab .n{font-size:0.72rem;font-weight:800;opacity:.65;font-variant-numeric:tabular-nums;}
+  .tab.active{color:#fff;border-color:transparent;box-shadow:0 2px 8px rgba(16,24,40,.12);}
+  .tab.active .n{opacity:.95;}
+  .tab[data-cat="ai"].active{background:#2563eb;}
+  .tab[data-cat="robotics"].active{background:#7c3aed;}
+  .tab[data-cat="application"].active{background:#0d9488;}
+
+  /* Stacked sections */
+  .section{scroll-margin-top:72px;margin-top:1.7rem;}
+  .sec-head{display:flex;align-items:center;gap:0.5rem;margin-bottom:0.95rem;font-size:1.18rem;font-weight:800;letter-spacing:-0.01em;}
+  .sec-head .bar{width:4px;height:1.2rem;border-radius:2px;flex:none;}
+  .sec-head .ic{font-size:1.15rem;}
+  .sec-head .n{margin-left:0.15rem;font-size:0.74rem;font-weight:800;color:var(--muted);background:#eceef1;border-radius:999px;padding:0.08rem 0.55rem;}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:0.85rem;}
+
+  .item{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:0.95rem 1.1rem;transition:border-color .15s,box-shadow .15s,transform .15s;}
+  .item:hover{border-color:#d3d6db;box-shadow:0 6px 18px rgba(16,24,40,.07);transform:translateY(-1px);}
+  .head{display:flex;align-items:center;gap:0.45rem;font-size:0.74rem;color:var(--muted);margin-bottom:0.5rem;}
+  .head .cdot{width:7px;height:7px;border-radius:50%;flex:none;}
+  .head .src{font-weight:700;color:#4b5563;}
+  .head .sep{color:#cbd0d6;}
+  .head .time{color:#9aa1ab;font-variant-numeric:tabular-nums;}
+  .title{font-size:1.02rem;font-weight:680;line-height:1.42;color:var(--ink);display:block;}
+  .item:hover .title{color:var(--accent);}
+  .trans{display:block;margin-top:0.4rem;font-size:0.85rem;line-height:1.5;color:#8b9199;font-style:italic;}
+  .trans b{font-style:normal;font-weight:700;color:#9aa1ab;background:#f1f2f4;padding:0.02rem 0.4rem;border-radius:4px;margin-right:0.45rem;font-size:0.72rem;letter-spacing:.02em;}
+  .desc{margin-top:0.5rem;font-size:0.85rem;line-height:1.55;color:#565d68;}
+  .hero .desc{font-size:0.98rem;color:#3a4150;margin-top:0.65rem;}
+
+  footer{max-width:1120px;margin:0 auto;padding:1.5rem;text-align:center;color:#9aa1ab;font-size:0.78rem;border-top:1px solid var(--line);}
+  @media(max-width:760px){.grid{grid-template-columns:1fr;}.hero h2{font-size:1.35rem;}.wrap{padding:1rem;}}
+`;
+
+// Scrollspy: highlight the tab for the section currently in view.
+const SPY_SCRIPT = `
+  (function(){
+    var tabs = Array.prototype.slice.call(document.querySelectorAll('.tab'));
+    var map = {}; tabs.forEach(function(t){ map[t.getAttribute('data-cat')] = t; });
+    var secs = Array.prototype.slice.call(document.querySelectorAll('.section'));
+    if(!secs.length || !('IntersectionObserver' in window)) return;
+    var obs = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){
+        if(en.isIntersecting){
+          var cat = en.target.getAttribute('data-cat');
+          tabs.forEach(function(x){ x.classList.remove('active'); });
+          if(map[cat]) map[cat].classList.add('active');
+        }
+      });
+    }, { rootMargin: '-72px 0px -55% 0px', threshold: 0 });
+    secs.forEach(function(s){ obs.observe(s); });
+  })();
+`;
+
+function transLine(item) {
+  return (item.titleZh && item.titleZh !== item.title)
+    ? `<span class="trans"><b>中文翻译</b>${escapeHtml(item.titleZh)}</span>` : '';
+}
+function headLine(item) {
+  const color = (categoryLabels[item.category] || categoryLabels.ai).color;
+  const time = fmtTime(item.pubDate);
+  return `<div class="head"><span class="cdot" style="background:${color}"></span>` +
+    `<span class="src">${escapeHtml(item.source)}</span>` +
+    (time ? `<span class="sep">·</span><span class="time">${time}</span>` : '') + `</div>`;
+}
+function descLine(item) {
+  const sm = item.summaryZh || item.summary;
+  return sm ? `<p class="desc">${escapeHtml(sm)}</p>` : '';
+}
+function renderHero(item) {
+  return `<span class="kicker">🔥 今日头条</span>` +
+    `<h2><a href="${escapeHtml(item.link)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></h2>` +
+    transLine(item) + descLine(item) + headLine(item);
+}
+function renderItem(item) {
+  return headLine(item) +
+    `<a class="title" href="${escapeHtml(item.link)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a>` +
+    transLine(item) + descLine(item);
+}
+
 function generateHTML(items, date) {
-  // Calculate prev/next dates
   const d = new Date(date);
   const prev = new Date(d); prev.setDate(prev.getDate() - 1);
   const next = new Date(d); next.setDate(next.getDate() + 1);
   const prevDate = prev.toISOString().split('T')[0];
   const nextDate = next.toISOString().split('T')[0];
 
+  const hero = items[0];
+  const rest = items.slice(1);
   const grouped = { ai: [], robotics: [], application: [] };
-  for (const item of items) {
-    if (grouped[item.category]) {
-      grouped[item.category].push(item);
-    }
-  }
+  for (const it of rest) (grouped[it.category] || grouped.ai).push(it);
+  const cats = ['ai', 'robotics', 'application'].filter(c => grouped[c].length > 0);
 
-  const sections = Object.entries(grouped)
-    .filter(([_, items]) => items.length > 0)
-    .map(([cat, items]) => {
-      const label = categoryLabels[cat];
-      const newsItems = items.map(item => {
-        let titleDisplay;
-        if (item.titleZh) {
-          // English as main title, Chinese translation below
-          titleDisplay = `<span class="main-title">${escapeHtml(item.title)}</span><br><span class="zh-title">${escapeHtml(item.titleZh)}</span>`;
-        } else {
-          titleDisplay = `<span class="main-title">${escapeHtml(item.title)}</span>`;
-        }
-        return `
-        <div class="news-item">
-          <a href="${item.link}" target="_blank" rel="noopener">${titleDisplay}</a>
-          <span class="source">${escapeHtml(item.source)}</span>
-        </div>
-      `;
-      }).join('');
-
-      return `
-        <section class="category">
-          <div class="category-header" style="border-color: ${label.color}">
-            <span class="category-icon">${label.icon}</span>
-            <h2>${label.name}</h2>
-          </div>
-          ${newsItems}
-        </section>
-      `;
-    }).join('');
+  const heroHtml = hero ? `<div class="hero">${renderHero(hero)}</div>` : '';
+  const tabs = cats.map((c, i) => {
+    const L = categoryLabels[c];
+    return `<a class="tab${i === 0 ? ' active' : ''}" data-cat="${c}" href="#sec-${c}"><span class="ic">${L.icon}</span>${L.name}<span class="n">${grouped[c].length}</span></a>`;
+  }).join('');
+  const sections = cats.map(c => {
+    const L = categoryLabels[c];
+    const lis = grouped[c].map(it => `<div class="item">${renderItem(it)}</div>`).join('');
+    return `<section class="section" id="sec-${c}" data-cat="${c}">
+      <div class="sec-head"><span class="bar" style="background:${L.color}"></span><span class="ic">${L.icon}</span>${L.name}<span class="n">${grouped[c].length} 条</span></div>
+      <div class="grid">${lis}</div>
+    </section>`;
+  }).join('');
 
   return `<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI & 机器人行业日报 - ${date}</title>
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
-      background: #f8fafc;
-      color: #1e293b;
-      padding: 2.5rem 1.5rem;
-      max-width: 860px;
-      margin: 0 auto;
-      line-height: 1.6;
-    }
-    header {
-      text-align: center;
-      margin-bottom: 2rem;
-      padding-bottom: 1.5rem;
-      border-bottom: 2px solid #e2e8f0;
-    }
-    header h1 {
-      font-size: 2rem;
-      font-weight: 700;
-      color: #0369a1;
-      margin-bottom: 0.4rem;
-      letter-spacing: -0.5px;
-    }
-    header .date {
-      color: #64748b;
-      font-size: 0.9rem;
-    }
-    .nav {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      gap: 0.8rem;
-      margin-bottom: 2rem;
-    }
-    .nav a {
-      background: #ffffff;
-      color: #0369a1;
-      border: 1px solid #bae6fd;
-      padding: 0.5rem 1.2rem;
-      border-radius: 8px;
-      text-decoration: none;
-      font-size: 0.85rem;
-      font-weight: 500;
-      transition: all 0.2s;
-    }
-    .nav a:hover { background: #e0f2fe; border-color: #0ea5e9; }
-    .nav input[type="date"] {
-      background: #ffffff;
-      color: #1e293b;
-      border: 1px solid #cbd5e1;
-      padding: 0.5rem 0.8rem;
-      border-radius: 8px;
-      font-size: 0.85rem;
-    }
-    .category {
-      margin-bottom: 2rem;
-      background: #ffffff;
-      border-radius: 12px;
-      padding: 1.5rem;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
-    }
-    .category-header {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      margin-bottom: 1rem;
-      padding-bottom: 0.8rem;
-      border-bottom: 2px solid;
-    }
-    .category-icon { font-size: 1.3rem; }
-    .category h2 {
-      font-size: 1.1rem;
-      font-weight: 600;
-      color: #334155;
-    }
-    .news-item {
-      padding: 0.8rem 0;
-      border-bottom: 1px solid #f1f5f9;
-    }
-    .news-item:last-child { border-bottom: none; }
-    .news-item a {
-      color: #1e293b;
-      text-decoration: none;
-      display: block;
-      transition: color 0.2s;
-    }
-    .news-item a:hover { color: #0369a1; }
-    .main-title {
-      font-size: 0.95rem;
-      font-weight: 500;
-      line-height: 1.5;
-    }
-    .zh-title {
-      font-size: 0.85rem;
-      color: #64748b;
-      line-height: 1.5;
-      margin-top: 2px;
-      display: inline-block;
-    }
-    .source {
-      display: inline-block;
-      margin-top: 0.4rem;
-      font-size: 0.7rem;
-      color: #94a3b8;
-      background: #f1f5f9;
-      padding: 0.2rem 0.6rem;
-      border-radius: 4px;
-      font-weight: 500;
-    }
-    footer {
-      text-align: center;
-      color: #94a3b8;
-      font-size: 0.8rem;
-      margin-top: 2.5rem;
-      padding-top: 1.5rem;
-      border-top: 1px solid #e2e8f0;
-    }
-    @media (max-width: 600px) {
-      body { padding: 1.5rem 1rem; }
-      header h1 { font-size: 1.5rem; }
-      .category { padding: 1rem; }
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI & 机器人日报 · ${date}</title>
+<style>${PORTAL_CSS}</style>
 </head>
 <body>
-  <header>
-    <h1>AI & 机器人行业日报</h1>
-    <p class="date">${date} | 共 ${items.length} 条精选</p>
-  </header>
-  <div class="nav">
-    <a href="../index.html">🏠 主页</a>
-    <a href="${prevDate}.html">← 前一天</a>
-    <input type="date" value="${date}" onchange="window.location.href=this.value+'.html'">
-    <a href="${nextDate}.html">后一天 →</a>
-  </div>
+<div class="topbar"><div class="topbar-inner">
+  <a href="../index.html" class="brand"><span class="dot">●</span> AI &amp; 机器人日报</a>
+  <span class="masthead-meta">${date} · 每日精选 ${items.length} 条</span>
+</div></div>
+<div class="nav">
+  <a href="../index.html">🏠 首页</a>
+  <a href="${prevDate}.html">← 前一天</a>
+  <a href="${nextDate}.html">后一天 →</a>
+  <span class="spacer"></span>
+  <input type="date" value="${date}" onchange="if(this.value)window.location.href=this.value+'.html'">
+</div>
+<div class="wrap">
+  ${heroHtml}
+  <div class="tabs">${tabs}</div>
   ${sections}
-  <footer>
-    <p>数据来源：50+ 中英文科技媒体 | 自动生成于 ${new Date().toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })}</p>
-  </footer>
+</div>
+<footer>数据来源：80+ 中英文科技与产业媒体（中文优先）· 自动生成于 ${new Date().toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })}（北京时间）</footer>
+<script>${SPY_SCRIPT}</script>
 </body>
 </html>`;
 }
 
-function escapeHtml(str) {
-  return str
-    .replace(/&/g, '&')
-    .replace(/</g, '<')
-    .replace(/>/g, '>')
-    .replace(/"/g, '"');
-}
-
-module.exports = { generateHTML };
+module.exports = { generateHTML, PORTAL_CSS };
