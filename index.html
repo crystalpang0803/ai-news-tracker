@@ -50,6 +50,8 @@
   .trans b{font-style:normal;font-weight:700;color:#9aa1ab;background:#f1f2f4;padding:0.02rem 0.4rem;border-radius:4px;margin-right:0.45rem;font-size:0.72rem;letter-spacing:.02em;}
   .desc{margin-top:0.5rem;font-size:0.85rem;line-height:1.55;color:#565d68;}
   .hero .desc{font-size:0.98rem;color:#3a4150;margin-top:0.65rem;}
+  .datebar{max-width:1120px;margin:0 auto;padding:0.8rem 1.5rem 0;display:flex;align-items:center;gap:0.5rem;font-size:0.85rem;color:var(--muted);}
+  .datebar input{border:1px solid var(--line);border-radius:8px;padding:0.35rem 0.7rem;font-family:inherit;font-size:0.85rem;color:var(--ink);background:#fff;}
   .loading{text-align:center;color:var(--muted);padding:3rem 1rem;}
   footer{max-width:1120px;margin:0 auto;padding:1.5rem;text-align:center;color:#9aa1ab;font-size:0.78rem;border-top:1px solid var(--line);}
   @media(max-width:760px){.grid{grid-template-columns:1fr;}.hero h2{font-size:1.35rem;}.wrap{padding:1rem;}}
@@ -60,6 +62,7 @@
   <span class="brand"><span class="dot">●</span> AI &amp; 机器人日报</span>
   <span class="masthead-meta" id="masthead">加载中…</span>
 </div></div>
+<div class="datebar">📅 按日期查看往期：<input type="date" id="dateInput"></div>
 <div class="wrap" id="app"><p class="loading">加载中…</p></div>
 <footer>数据来源：80+ 中英文科技与产业媒体（中文优先）· 每日自动更新（北京时间）</footer>
 
@@ -128,14 +131,26 @@ function render(data){
   document.getElementById('app').innerHTML = heroHtml(hero)+'<div class="tabs">'+tabs+'</div>'+sections;
   initSpy();
 }
+function setupDatePicker(manifest){
+  const el=document.getElementById('dateInput');
+  if(!el || !manifest || !manifest.length) return;
+  const latest=manifest[manifest.length-1];
+  el.value=latest; el.min=manifest[0]; el.max=latest;
+  el.addEventListener('change',function(){
+    const v=this.value; if(!v) return;
+    if(manifest.indexOf(v)>=0) location.href='output/'+v+'.html';
+    else alert('该日期暂无日报（有记录范围：'+manifest[0]+' 至 '+latest+'）');
+  });
+}
 async function boot(){
-  if(window.__PREVIEW__){ render(window.__PREVIEW__.data); return; }
+  if(window.__PREVIEW__){ render(window.__PREVIEW__.data); setupDatePicker(window.__PREVIEW__.manifest); return; }
   try{
     const manifest = await (await fetch('output/manifest.json')).json();
     if(!manifest.length){ document.getElementById('app').innerHTML='<p class="loading">暂无新闻数据，请等待首次抓取完成。</p>'; return; }
     const date = manifest[manifest.length-1];
     const data = await (await fetch('output/'+date+'.json')).json();
     render(data);
+    setupDatePicker(manifest);
   }catch(e){
     document.getElementById('app').innerHTML='<p class="loading">加载失败，请稍后重试。</p>';
   }

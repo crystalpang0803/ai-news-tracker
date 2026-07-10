@@ -329,31 +329,55 @@ function extractArticleText(html) {
     .slice(0, 2000);
 }
 
-// Ask the LLM for one accurate Chinese sentence summarizing the article.
-async function aiSummarize(title, text) {
-  if (!LLM_KEY || !text) return '';
+// Generic one-shot chat call to the OpenAI-compatible LLM.
+async function llmChat(userText, maxTokens, system) {
+  if (!LLM_KEY) return '';
   try {
     const controller = new AbortController();
-    const timer = setTimeout(() => controller.abort(), 20000);
+    const timer = setTimeout(() => controller.abort(), 25000);
     const res = await fetch(LLM_URL, {
       method: 'POST', signal: controller.signal,
       headers: { 'content-type': 'application/json', 'authorization': `Bearer ${LLM_KEY}` },
       body: JSON.stringify({
-        model: LLM_MODEL,
-        max_tokens: 200,
-        temperature: 0.3,
+        model: LLM_MODEL, max_tokens: maxTokens || 200, temperature: 0.2,
         messages: [
-          { role: 'system', content: '你是中文科技新闻编辑，只输出一句话，不加任何前后缀。' },
-          { role: 'user', content: `请用一句简洁、客观、准确的中文概括这条新闻的核心内容，不超过45字；直接陈述事实，不要评论或夸张，不要以“据悉/本文/这篇/近日”等套话开头。只输出这一句话。\n\n标题：${title}\n正文摘录：${text}` }
+          { role: 'system', content: system || '你是严谨的中文编辑，严格按要求输出。' },
+          { role: 'user', content: userText }
         ]
       })
     });
     clearTimeout(timer);
     const data = await res.json();
-    const out = (data && data.choices && data.choices[0] && data.choices[0].message)
+    return (data && data.choices && data.choices[0] && data.choices[0].message)
       ? (data.choices[0].message.content || '').trim() : '';
-    return cleanSummary(out);
   } catch { return ''; }
+}
+
+// Ask the LLM for one accurate Chinese sentence summarizing the article.
+async function aiSummarize(title, text) {
+  if (!LLM_KEY || !text) return '';
+  const out = await llmChat(
+    `请用一句简洁、客观、准确的中文概括这条新闻的核心内容，不超过45字；直接陈述事实，不要评论或夸张，不要以“据悉/本文/这篇/近日”等套话开头。只输出这一句话。\n\n标题：${title}\n正文摘录：${text}`,
+    200, '你是中文科技新闻编辑，只输出一句话，不加任何前后缀。');
+  return cleanSummary(out);
+}
+
+// Semantic de-duplication: ask the LLM which items report the SAME event (paraphrased
+// headlines the heuristic dedup misses), and drop all but one per group.
+async function aiDedupe(items) {
+  if (!LLM_KEY || items.length < 2) return items;
+  const list = items.map((it, i) => `${i}. ${it.title}`).join('\n');
+  const out = await llmChat(
+    `下面是今日新闻标题（带编号）。请找出“讲的是同一件事/同一个事件”的重复报道——即使措辞、角度、来源不同，只要核心事件相同就算重复（例如“OpenAI推出ChatGPT Work智能体”和“OpenAI推出ChatGPT Work智能体：GPT-5.6支持”是同一件事；“工信部发布Claude Code风险提示”和“工信部定调Claude Code危害严重”是同一件事）。每一组同一事件只保留信息最完整的一条，其余全部标记为删除。只输出一个 JSON 数组，列出所有要删除的编号，如 [3,7,9]；没有重复输出 []。不要输出任何其他文字。\n\n${list}`,
+    600, '你负责识别报道同一事件的重复新闻，判断要果断，只输出 JSON 数组，不要解释。');
+  try {
+    const m = out.match(/\[[\d,\s]*\]/);
+    if (!m) return items;
+    const drop = new Set(JSON.parse(m[0]).filter(n => Number.isInteger(n)));
+    if (!drop.size) return items;
+    console.log(`AI dedupe removed ${drop.size} duplicate(s)`);
+    return items.filter((_, i) => !drop.has(i));
+  } catch { return items; }
 }
 
 // Best-effort: set item.summary from the real article's meta description (a whole-article
@@ -464,6 +488,12 @@ async function main() {
   console.log(`After cross-day dedup: ${allItems.length} (removed ${before - allItems.length})`);
 
   allItems.sort((a, b) => scoreItem(b) - scoreItem(a));
+
+  // Semantic de-dup on the top candidates (catches same-event paraphrases across outlets).
+  if (LLM_KEY) {
+    const head = await aiDedupe(allItems.slice(0, 60));
+    allItems = head.concat(allItems.slice(60));
+  }
 
   // Per-category sizing: AI and robotics each 6-12; application optional up to 6.
   // Chinese >= 70% overall: Chinese-first only to the floor, English to the floor,
