@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI & 机器人日报 · 2026-07-11</title>
+<style>
+  :root{color-scheme:light;--ink:#14171c;--muted:#6b7280;--line:#e7e9ec;--bg:#f2f3f5;--card:#ffffff;--accent:#e5484d;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased;}
+  a{color:inherit;text-decoration:none;}
+  .topbar{background:#111418;color:#fff;border-bottom:3px solid var(--accent);}
+  .topbar-inner{max-width:1120px;margin:0 auto;padding:0.95rem 1.5rem;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
+  .brand{font-size:1.4rem;font-weight:800;letter-spacing:-0.02em;display:flex;align-items:center;gap:0.5rem;}
+  .brand .dot{color:var(--accent);}
+  .masthead-meta{font-size:0.8rem;color:#a9afb8;font-variant-numeric:tabular-nums;}
+  .nav{max-width:1120px;margin:0 auto;padding:0.6rem 1.5rem;display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap;font-size:0.82rem;}
+  .nav a,.nav input{background:#fff;border:1px solid var(--line);border-radius:8px;padding:0.35rem 0.85rem;color:#374151;font-weight:600;transition:all .15s;}
+  .nav a:hover{border-color:var(--accent);color:var(--accent);}
+  .nav .spacer{flex:1;}
+  .wrap{max-width:1120px;margin:0 auto;padding:1.4rem 1.5rem 3rem;}
+
+  .hero{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:1.7rem 1.9rem;box-shadow:0 1px 2px rgba(16,24,40,.05);}
+  .hero .kicker{display:inline-flex;align-items:center;gap:.4rem;font-size:0.72rem;font-weight:800;letter-spacing:.08em;color:#fff;background:var(--accent);padding:0.24rem 0.65rem;border-radius:6px;margin-bottom:0.9rem;}
+  .hero h2{font-size:1.75rem;line-height:1.25;font-weight:800;letter-spacing:-0.015em;}
+  .hero .trans{margin-top:0.5rem;}
+  .hero .head{margin-top:0.95rem;}
+
+  /* Sticky jump-tab bar */
+  .tabs{position:sticky;top:0;z-index:20;display:flex;gap:0.5rem;flex-wrap:wrap;background:var(--bg);padding:0.8rem 0 0.7rem;margin:0.8rem 0 0.2rem;border-bottom:1px solid var(--line);}
+  .tab{background:#fff;border:1px solid var(--line);border-radius:999px;padding:0.5rem 1.05rem;font-family:inherit;font-size:0.94rem;font-weight:700;color:#4b5563;cursor:pointer;display:flex;align-items:center;gap:0.5rem;transition:all .15s;}
+  .tab:hover{border-color:#c7cbd1;color:var(--ink);}
+  .tab .ic{font-size:1rem;}
+  .tab .n{font-size:0.72rem;font-weight:800;opacity:.65;font-variant-numeric:tabular-nums;}
+  .tab.active{color:#fff;border-color:transparent;box-shadow:0 2px 8px rgba(16,24,40,.12);}
+  .tab.active .n{opacity:.95;}
+  .tab[data-cat="ai"].active{background:#2563eb;}
+  .tab[data-cat="robotics"].active{background:#7c3aed;}
+  .tab[data-cat="application"].active{background:#0d9488;}
+
+  /* Stacked sections */
+  .section{scroll-margin-top:72px;margin-top:1.7rem;}
+  .sec-head{display:flex;align-items:center;gap:0.5rem;margin-bottom:0.95rem;font-size:1.18rem;font-weight:800;letter-spacing:-0.01em;}
+  .sec-head .bar{width:4px;height:1.2rem;border-radius:2px;flex:none;}
+  .sec-head .ic{font-size:1.15rem;}
+  .sec-head .n{margin-left:0.15rem;font-size:0.74rem;font-weight:800;color:var(--muted);background:#eceef1;border-radius:999px;padding:0.08rem 0.55rem;}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:0.85rem;}
+
+  .item{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:0.95rem 1.1rem;transition:border-color .15s,box-shadow .15s,transform .15s;}
+  .item:hover{border-color:#d3d6db;box-shadow:0 6px 18px rgba(16,24,40,.07);transform:translateY(-1px);}
+  .head{display:flex;align-items:center;gap:0.45rem;font-size:0.74rem;color:var(--muted);margin-bottom:0.5rem;}
+  .head .cdot{width:7px;height:7px;border-radius:50%;flex:none;}
+  .head .src{font-weight:700;color:#4b5563;}
+  .head .sep{color:#cbd0d6;}
+  .head .time{color:#9aa1ab;font-variant-numeric:tabular-nums;}
+  .title{font-size:1.02rem;font-weight:680;line-height:1.42;color:var(--ink);display:block;}
+  .item:hover .title{color:var(--accent);}
+  .trans{display:block;margin-top:0.4rem;font-size:0.85rem;line-height:1.5;color:#8b9199;font-style:italic;}
+  .trans b{font-style:normal;font-weight:700;color:#9aa1ab;background:#f1f2f4;padding:0.02rem 0.4rem;border-radius:4px;margin-right:0.45rem;font-size:0.72rem;letter-spacing:.02em;}
+  .desc{margin-top:0.5rem;font-size:0.85rem;line-height:1.55;color:#565d68;}
+  .hero .desc{font-size:0.98rem;color:#3a4150;margin-top:0.65rem;}
+
+  footer{max-width:1120px;margin:0 auto;padding:1.5rem;text-align:center;color:#9aa1ab;font-size:0.78rem;border-top:1px solid var(--line);}
+  @media(max-width:760px){.grid{grid-template-columns:1fr;}.hero h2{font-size:1.35rem;}.wrap{padding:1rem;}}
+</style>
+</head>
+<body>
+<div class="topbar"><div class="topbar-inner">
+  <a href="../index.html" class="brand"><span class="dot">●</span> AI &amp; 机器人日报</a>
+  <span class="masthead-meta">2026-07-11 · 每日精选 24 条</span>
+</div></div>
+<div class="nav">
+  <a href="../index.html">🏠 首页</a>
+  <a href="2026-07-10.html">← 前一天</a>
+  <a href="2026-07-12.html">后一天 →</a>
+  <span class="spacer"></span>
+  <input type="date" value="2026-07-11" onchange="if(this.value)window.location.href=this.value+'.html'">
+</div>
+<div class="wrap">
+  <div class="hero"><span class="kicker">🔥 今日头条</span><h2><a href="https://www.qbitai.com/2026/07/447691.html" target="_blank" rel="noopener">GPT-5.6一发布，Claude终于舍得重置Fable 5额度了</a></h2><p class="desc">GPT-5.6发布后，Claude重置Fable 5额度。</p><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">量子位</span><span class="sep">·</span><span class="time">2026-07-10</span></div></div>
+  <div class="tabs"><a class="tab active" data-cat="ai" href="#sec-ai"><span class="ic">🖥️</span>AI 人工智能<span class="n">11</span></a><a class="tab" data-cat="robotics" href="#sec-robotics"><span class="ic">🤖</span>机器人<span class="n">12</span></a></div>
+  <section class="section" id="sec-ai" data-cat="ai">
+      <div class="sec-head"><span class="bar" style="background:#2563eb"></span><span class="ic">🖥️</span>AI 人工智能<span class="n">11 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">VentureBeat</span><span class="sep">·</span><span class="time">2026-07-11</span></div><a class="title" href="https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars" target="_blank" rel="noopener">OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars</a><span class="trans"><b>中文翻译</b>OpenAI 推出 ChatGPT Work，这是一种基于云的 AI 代理，可跨电子邮件、Slack 和日历管理任务</span><p class="desc">OpenAI推出ChatGPT Work，云AI代理，跨平台管理任务。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-07-10</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sU3R1d3NiNmZoZ2RDQ0lSNzBDenZtc3YwSy1fWl9QdkdGazZpUVRIMEJlR2ptcHBjNnJSbmRVUXNpbVAweVFkbnB1NGFkakRQ?oc=5" target="_blank" rel="noopener">OpenAI，终于把大模型做成 iPhone 了</a><p class="desc">OpenAI发布GPT-5.6系列大模型，引入Pro Max、Pro和标准版命名体系。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">钛媒体</span><span class="sep">·</span><span class="time">2026-07-10</span></div><a class="title" href="https://www.tmtpost.com/8056791.html" target="_blank" rel="noopener">被238MTr/mm²掩盖的真相：AI算力链的颠覆不在晶体管，在“去DSP”</a><p class="desc">AI算力链颠覆性变革源于“去DSP”架构，而非晶体管密度提升。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">智东西</span><span class="sep">·</span><span class="time">2026-07-10</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiRkFVX3lxTE5XdlFycDhISjZVNmF2MTFDRXhlcTVZZGtfZFNycWFQNE5xN05JaGFBOHkzd0tYQnJTbndRR01OYnVrMUVySEE?oc=5" target="_blank" rel="noopener">OpenAI投的机器人公司，发布全新灵巧手</a><p class="desc">1X发布全新25自由度灵巧手，具备高分辨率触觉传感能力和顺应性功能。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">第一财经</span><span class="sep">·</span><span class="time">2026-07-10</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xekZnNWx2UWRxNVU2bjlHa2N6c2o0RGhZZU94LVhXcnRmQ2dBMU9iS1hrbWlLZ1loQ2xmdm5CdjRiX2thSUFYbGhVc2lrVmtvWHc0?oc=5" target="_blank" rel="noopener">中信建投：全球大模型商业化进程加速，CPU等算力硬件环节持续提价</a><p class="desc">全球大模型商业化加速，算力硬件环节持续涨价。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-07-10</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iUnkzV3V5ZDdhZldwdmZpTnN3TjFFUGV3bTdfT1hKY1RKZXRWTG9fZklVejU3ZmhZUjVJV3h6eGJFSWNTY0VpZXMtdHpzcnJw?oc=5" target="_blank" rel="noopener">160亿，国产大模型又要融资了</a><p class="desc">MiniMax计划融资160亿港元，主要用于AI基础设施建设和基础模型研发。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">钛媒体</span><span class="sep">·</span><span class="time">2026-07-10</span></div><a class="title" href="https://www.tmtpost.com/8059324.html" target="_blank" rel="noopener">Grok 4.5和Claude 4.8，在我电脑里“打”起来了</a><p class="desc">Grok 4.5和Claude 4.8在电脑中发生误删事件，Grok致歉并承诺改进。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">智东西</span><span class="sep">·</span><span class="time">2026-07-10</span></div><a class="title" href="https://zhidx.com/p/574755.html" target="_blank" rel="noopener">突发！OpenAI“二号人物”离职</a><p class="desc">OpenAI“二号人物”Fidji Simo宣布离职，将担任兼职顾问。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">界面新闻</span><span class="sep">·</span><span class="time">2026-07-10</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE45RllnZUtYQkRLVjVJbEpjbTZiQVlKd095NXdtX25aZk12bnEyZFpvR2ZhUFFwM0VNQUNJLXBWM2pwVEI0Zm5GUk5sTTRrdmFXVmJ6MUtR?oc=5" target="_blank" rel="noopener">港股大模型概念股日报（2026-07-10）</a><p class="desc">港股大模型概念股波动，智谱等股暴跌，OpenAI推出GPT-5.6。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">第一财经</span><span class="sep">·</span><span class="time">2026-07-10</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLc29JMnVuUXluY1U5MnBqWHlzSEhuNUhIZWNxbkVMaVNzWEF0Z0tacjFfbmNWclR4ZllZQnNReG1EUnZaRWJnRGpjS0gwazROMHJhdg?oc=5" target="_blank" rel="noopener">从数学研究到算力生态 AI的不同解法在上海开始具象化︱一探·活力中国调研行</a><p class="desc">上海AI产业链各环节创新活跃，共同塑造产业未来图景。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">财联社</span><span class="sep">·</span><span class="time">2026-07-11</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE84STlzLVg0TXdySWtJSkJEVm55Ukw5ZmhWVkNBRUg1TDV2RXhqTHl1UVB3bndVTWpMci1NUGRTeDdDWU5MRXRJNw?oc=5" target="_blank" rel="noopener">投资100亿美元！Meta拟建其美国以外最大数据中心 “算力过剩”又被证伪了？</a></div></div>
+    </section><section class="section" id="sec-robotics" data-cat="robotics">
+      <div class="sec-head"><span class="bar" style="background:#7c3aed"></span><span class="ic">🤖</span>机器人<span class="n">12 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">IT之家</span><span class="sep">·</span><span class="time">2026-07-10</span></div><a class="title" href="https://www.ithome.com/0/975/339.htm" target="_blank" rel="noopener">1099 元骁途 S7 Pro Max 运动相机上市，首发海思自研 1/1.28 英寸 5000 万像素 RYYB 传感器</a><p class="desc">骁途 S7 Pro Max 运动相机上市，首发海思自研 5000 万像素 RYYB 传感器。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">IT之家</span><span class="sep">·</span><span class="time">2026-07-10</span></div><a class="title" href="https://www.ithome.com/0/975/318.htm" target="_blank" rel="noopener">上纬新材将在 WAIC 2026 发布全球首款可变形个人机器人启元 T1</a><p class="desc">上纬新材将在WAIC 2026发布全球首款可变形个人机器人启元T1。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">The Robot Report</span><span class="sep">·</span><span class="time">2026-07-11</span></div><a class="title" href="https://www.therobotreport.com/ai%c2%b2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/" target="_blank" rel="noopener">AI² Robotics raises $735M at $3B valuation for wheeled humanoid robots</a><span class="trans"><b>中文翻译</b>AI² Robotics 轮式人形机器人融资 7.35 亿美元，估值 30 亿美元</span><p class="desc">AI² Robotics融资7.35亿美元，估值达30亿美元。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">新华网科技</span><span class="sep">·</span><span class="time">2026-07-10</span></div><a class="title" href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOc2d0ZUpIRmVFVGtXX29tWWpWRnFjcWJXczhQRTQ4VTh4X05tQWRJeDZuTlZUdkdIOVl4YzBlS0VIeWtEc1pjb05YVjEtTEZqTDQwSzlZTkhaTGRsa1ZUS2pmT20wdHh1ZEZZNkhKSUhOblJBUC1MamsxN2d1VHc4ZlZoazU?oc=5" target="_blank" rel="noopener">原力灵机发布五大新品 加速具身智能从模型走向生产力</a><p class="desc">原力灵机发布五大新品，推动具身智能从模型走向生产力。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">与非网</span><span class="sep">·</span><span class="time">2026-07-10</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WU3JFVmZETno4LWVJYUkxQmZVWmx4N3pZUzZrZWt4MFFzcGN4cmtKRHhuYUtMVDJycVJPT0dLaTQ2OHpCeGctUUZpZFlZNzNOX01aSUVYUQ?oc=5" target="_blank" rel="noopener">具身机器人年出货量有望达百万级，定制芯片需求将爆发！</a><p class="desc">具身机器人年出货量预计百万级，带动定制芯片需求激增。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">腾讯新闻</span><span class="sep">·</span><span class="time">2026-07-10</span></div><a class="title" href="https://news.google.com/rss/articles/CBMibEFVX3lxTE95VjF5V1JSUmltemxDdXgtNHFTeDFFNk5aNGgtUVV0Sy1FeGpvZXFfLVI1d2hMdVNwdDV3YUxVUTdtYTliOVJKNDRIVDRkSkRCS0dfVUctYVFhdmR1YlltZThsZUNVZzJKN3JHVQ?oc=5" target="_blank" rel="noopener">关于 AI、具身智能和芯片，启明创投周志峰的17个干货分享</a><p class="desc">启明创投周志峰分享AI、具身智能和芯片投资干货，强调“快半步”投资策略。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">科技日报</span><span class="sep">·</span><span class="time">2026-07-10</span></div><a class="title" href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBjcU9sdlBxNFNEYUstYlp4YmhmSDVrTTJkcEwyN08yQ1ZWeTJTVTYyanNQYzhCLWVzUmxtNDc0SXhLQk1UU3JZcVM0RjVJVzg4NEoxTEg0UnVkVGRUenl5VTZwQl9yRy0xc3pwb0FBNHk?oc=5" target="_blank" rel="noopener">开创可信具身智能架构新范式 无界智航获亿元天使轮融资</a><p class="desc">无界智航获亿元天使轮融资，专注可信具身智能架构研发。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">IEEE Spectrum Robotics</span><span class="sep">·</span><span class="time">2026-07-11</span></div><a class="title" href="https://spectrum.ieee.org/video-friday-robot-world-cup" target="_blank" rel="noopener">Video Friday: A World Cup for Robots</a><span class="trans"><b>中文翻译</b>周五视频：机器人世界杯</span><p class="desc">机器人世界杯在IEEE Spectrum视频周五栏目中展示。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">IEEE Spectrum Robotics</span><span class="sep">·</span><span class="time">2026-07-10</span></div><a class="title" href="https://spectrum.ieee.org/ukraine-ground-drones" target="_blank" rel="noopener">Ground Robots Inherit the Kill Zone</a><span class="trans"><b>中文翻译</b>地面机器人继承杀伤区</span><p class="desc">乌克兰地面无人机在夜间执行猎杀任务。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">新京报</span><span class="sep">·</span><span class="time">2026-07-10</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rdm5FcnpJM2FkZ3JFMWVjZml3Z1BfUWdqR3FmYUVmY2psWWM0b0wxMUtVc2c0Y3ozNGxiUDJkek9QaXVQdDRhMUdZVzQ0QmlHUEhlWGFoTHJ5QTJ2RjFIWnhB?oc=5" target="_blank" rel="noopener">机器人“变脸”、AI把脉，这场科技消费论坛“剧透”未来生活</a><p class="desc">科技消费论坛展示未来生活场景，机器人换脸、AI诊疗等前沿科技亮相。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">Robotics &amp; Automation News</span><span class="sep">·</span><span class="time">2026-07-11</span></div><a class="title" href="https://roboticsandautomationnews.com/2026/07/10/fort-robotics-extends-physical-ai-safety-platform-with-nvidia-halos/103254/" target="_blank" rel="noopener">FORT Robotics extends physical AI safety platform with Nvidia Halos</a><span class="trans"><b>中文翻译</b>FORT Robotics 利用 Nvidia Halos 扩展物理 AI 安全平台</span><p class="desc">FORT Robotics与Nvidia合作，扩展物理AI安全平台，利用Nvidia Halos实现机器人实时安全认证。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">Robotics &amp; Automation News</span><span class="sep">·</span><span class="time">2026-07-11</span></div><a class="title" href="https://roboticsandautomationnews.com/2026/07/10/fieldwork-robotics-secures-seed-innovations-investment-to-scale-berry-harvesting-robots/103251/" target="_blank" rel="noopener">Fieldwork Robotics secures SEED Innovations investment to scale berry harvesting robots</a><span class="trans"><b>中文翻译</b>Fieldwork Robotics 获得 SEED Innovations 投资以扩大浆果采摘机器人规模</span><p class="desc">Fieldwork Robotics获SEED Innovations投资，扩大浆果采摘机器人规模。</p></div></div>
+    </section>
+</div>
+<footer>数据来源：80+ 中英文科技与产业媒体（中文优先）· 自动生成于 2026/7/11 04:51:57（北京时间）</footer>
+<script>
+  (function(){
+    var tabs = Array.prototype.slice.call(document.querySelectorAll('.tab'));
+    var map = {}; tabs.forEach(function(t){ map[t.getAttribute('data-cat')] = t; });
+    var secs = Array.prototype.slice.call(document.querySelectorAll('.section'));
+    if(!secs.length || !('IntersectionObserver' in window)) return;
+    var obs = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){
+        if(en.isIntersecting){
+          var cat = en.target.getAttribute('data-cat');
+          tabs.forEach(function(x){ x.classList.remove('active'); });
+          if(map[cat]) map[cat].classList.add('active');
+        }
+      });
+    }, { rootMargin: '-72px 0px -55% 0px', threshold: 0 });
+    secs.forEach(function(s){ obs.observe(s); });
+  })();
+</script>
+</body>
+</html>
