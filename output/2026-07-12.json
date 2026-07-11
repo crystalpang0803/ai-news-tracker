@@ -1,0 +1,250 @@
+{
+  "date": "2026-07-12",
+  "generatedAt": "2026-07-11T19:56:18.097Z",
+  "items": [
+    {
+      "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
+      "link": "https://36kr.com/p/3889516712065799?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-11T01:00:00.000Z",
+      "summary": "上交大00后博士研发仿生扑翼机器人，实现流体理解与驾驭。",
+      "summaryZh": ""
+    },
+    {
+      "title": "京东首个 RoboBase 项目落地广州，打造机器人全生命周期产业基础设施",
+      "link": "https://www.ithome.com/0/975/578.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-11T11:24:15.000Z",
+      "summary": "京东RoboBase项目在广州黄埔开工，打造机器人全生命周期产业基础设施。",
+      "summaryZh": ""
+    },
+    {
+      "title": "104天过会、募资42亿，宇树科技把人形机器人推上台前，订单最先挤爆的是减速器和丝杠",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TbE1VbEREdllPVmY5M181VGh4R05wRUc1RDZJN3UxVmp4Q3FuTmg0Vmt1ZF9RVHY5clJuMXdRYUVCZ3VfZFFxclF6WXJnNUlt?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-10T23:32:48.000Z",
+      "summary": "宇树科技募资42亿，人形机器人订单激增，核心零部件受关注。",
+      "summaryZh": ""
+    },
+    {
+      "title": "GPT-5.6开放，跑分之外的隐忧：Anthropic反超、微软去OpenAI化",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rQUVtcGduZFBnWjZVWElUN0Z6bThvN25EbzZzQUYzS1hnOGZpS0xXMWduZkJCOE1TTjZVeWRzX2t1RnpsZ2U4aGotUjY?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-11T00:00:00.000Z",
+      "summary": "GPT-5.6开放，OpenAI面临Anthropic反超和微软去OpenAI化挑战。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-11T14:13:00.000Z",
+      "summary": "OpenAI招聘产品经理，专注于为家庭用户打造ChatGPT体验。",
+      "summaryZh": "",
+      "titleZh": "随着 ChatGPT 深入家庭，OpenAI 押注家庭"
+    },
+    {
+      "title": "昇视唯盛完成数亿元B轮融资，自研焊接具身大脑模型，以“智能焊工”切入工业制造具身智能赛道",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBV2Y5aGRtOHR0TWpuU19NSTdkbFdPRWVhd1l2eXN2LVg0dml2UW1WSmRKcTFIbFJsX3dRa2x2V0dfNEx2MzVySW9iNjhoa1JzOTFOeHZRc3M?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-11T09:53:17.000Z",
+      "summary": "昇视唯盛完成数亿元B轮融资，自研焊接具身大脑模型，以“智能焊工”切入工业制造具身智能赛道。",
+      "summaryZh": ""
+    },
+    {
+      "title": "灵巧手--人形机器人的“圣杯”",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zSDd1MExZcTZSUXFyaEFaVEc0cnBqMHl3NWJQbjItLVpwQWl5a1lWeTk5YTNIM1laMFNISHMxbGpGTEhOeGdPdkhJa19zRXg3akE?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-10T22:11:14.000Z",
+      "summary": "灵巧手成为人形机器人研发关键。",
+      "summaryZh": ""
+    },
+    {
+      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+      "link": "https://www.qbitai.com/2026/07/447873.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-11T05:30:11.000Z",
+      "summary": "GPT-5.6一小时证明50年数学猜想，使用700词Prompt和64个子Agent。",
+      "summaryZh": ""
+    },
+    {
+      "title": "谷歌 Voice 十年来最大调整告别“纯免费”：个人订阅每月 10 美元起，Gemini 纪要功能首次下放",
+      "link": "https://www.ithome.com/0/975/573.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-11T11:01:54.000Z",
+      "summary": "谷歌Voice推出两款付费订阅套餐，个人用户每月最低10美元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "全球首款AI智能体手机发布在即 如何把握产业链布局机会？",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sZXpMdm5KY0NhNEx4Mk9sRTQxNi1xOTdyU0s4azFIaVBwckNNNG9JSUhOTUpVeXdDMnlLLTUweDYyMDk1OFEwZXYwNHBtY2hhSkI5Qg?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-11T10:58:43.000Z",
+      "summary": "全球首款AI智能体手机即将发布，产业链布局机会显现。",
+      "summaryZh": ""
+    },
+    {
+      "title": "SemiAnalysis又发报告：Meta算力采购将加速 明年资本支出或大增！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43NDVybjBoV3hucXN4ZnFpU0JDVUFka09tUTNHSjBKNnlTbkZodHEwSzRSV1JFQ1ozR2tDa2IxdngzU0h3SUxkYg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-11T09:42:26.000Z",
+      "summary": "Meta明年资本支出或大增，算力采购加速。",
+      "summaryZh": ""
+    },
+    {
+      "title": "慧仑科技与京东达成深度战略合作，共建具身智能机器人规模化应用新生态",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jYmpxTUZHTW9rcjVrNlJwWWRCUksxY3JTYUZXd3U5ZTJ5SmRFN2Q5NS0yRXdrcktyeVNTeTNDbFAyVmltNkk3SkxVeUs?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-11T11:08:02.000Z",
+      "summary": ""
+    },
+    {
+      "title": "欧洲央行的Moulin认为人工智能可能加剧通胀波动",
+      "link": "https://36kr.com/newsflashes/3890739624540680?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-11T04:52:52.000Z",
+      "summary": "欧洲央行Moulin认为AI可能加剧通胀波动。",
+      "summaryZh": ""
+    },
+    {
+      "title": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?",
+      "link": "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-10T20:58:32.000Z",
+      "summary": "企业AI代理错误率高达57%，需引入代理上下文层解决。",
+      "summaryZh": "",
+      "titleZh": "57% 的企业目睹人工智能代理自信地犯了错误。解决办法是代理上下文层，但谁有一个呢？"
+    },
+    {
+      "title": "Why robotics teams need virtual gyms before deployment",
+      "link": "https://www.therobotreport.com/why-robotics-teams-need-virtual-gyms-before-deployment/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-11T12:36:16.000Z",
+      "summary": "机器人团队在部署前需借助虚拟训练场进行训练。",
+      "summaryZh": "",
+      "titleZh": "为什么机器人团队在部署之前需要虚拟健身房"
+    },
+    {
+      "title": "OpenAI power consolidates under co-founder Greg Brockman ahead of prospective IPO",
+      "link": "https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html",
+      "source": "CNBC Tech",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-10T20:51:09.000Z",
+      "summary": "OpenAI权力巩固，创始人Greg Brockman接任CEO，公司筹备IPO。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 在联合创始人 Greg Brockman 的领导下巩固权力，准备进行首次公开​​募股"
+    },
+    {
+      "title": "扎克伯格称Meta在AI上落后OpenAI等公司，预告“西瓜”模型打造极致智能",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HcEFId1dLeVpJZXhBT19wZXRpenJGekliS1MzX0I2TXdFUDBZeEhYR0czTEt5ckV1TlZFNlZmWGJxTGQ4TVJsZFZzdDh1NzQ2SWJKdXMzM0thX2F5SFFRRzdGLTFxWk1aVEFHQ0R5OGNiWGM5?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-11T05:33:43.000Z",
+      "summary": "Meta CEO扎克伯格预告“西瓜”模型，力图在AI领域赶超OpenAI等公司。",
+      "summaryZh": ""
+    },
+    {
+      "title": "华为Token Centric Fabric大模型智算网络方案，筑牢西部AI算力底座",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aUzFkR2JrWDVIeVV2dnJpdTZWOWlUeEI0UUJhSEY1MEFpRHNaQTZxSEwycW5UV0Y5QlQyTFFmcEdENC1wLW1LbFU5VEF3UzNkZzNZalprWnNtMGxoWTRoUFlR?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-11T01:37:47.000Z",
+      "summary": "华为展出Token Centric Fabric智算网络方案，助力西部AI算力底座建设。",
+      "summaryZh": ""
+    },
+    {
+      "title": "ACL 2026 | 用图异常检测抓出多智能体网络中的内鬼！XG-Guard：首个无监督、可解释、细粒度的MAS安全防线",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LR0xYX0xaNzduUzMzbUtLRE1oS0lhZzFKMVgxalVDNEJRb21VM3VET3cyci1vcFBIZWRjZ0NNb1oxNkFOVHB5dUF0Q0RGdDhLSUYtMG1QRzNtM1o1?oc=5",
+      "source": "机器之心",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-11T02:53:44.000Z",
+      "summary": "XG-Guard成首个无监督、可解释、细粒度MAS安全防线，用图异常检测识别内鬼。",
+      "summaryZh": ""
+    },
+    {
+      "title": "别人还在叠衣服，至简动力的100台机器人已下车间",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1dU53ckFMeE5tSmxPRVlib1RvS196cHluVFFuZmdsUGp2Q2xBd1M1UTIxTC1WUGk5RUQ3RVZaM2NjNlRnUWlTdHZWbWg?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-11T09:24:21.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Beatbot AquaSense X Review: A Pool Robot That Cleans Itself",
+      "link": "https://www.wired.com/review/beatbot-aquasense-x/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-11T11:02:00.000Z",
+      "summary": "首款自清洁泳池机器人Beatbot AquaSense X上市，售价约4250美元。",
+      "summaryZh": "",
+      "titleZh": "Beatbot AquaSense X 评测：自动清洁的泳池机器人"
+    },
+    {
+      "title": "Are suppliers ready for new robot safety standards?",
+      "link": "https://www.therobotreport.com/are-suppliers-ready-for-new-robot-safety-standards/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-11T13:30:02.000Z",
+      "summary": "机器人供应商准备应对新的安全标准。",
+      "summaryZh": "",
+      "titleZh": "供应商准备好迎接新的机器人安全标准了吗？"
+    },
+    {
+      "title": "两岸和平小天使走进重庆机器人AI应用展示中心 感受科技魅力",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ieVpvc2JyUlBmRnBReWhJdFF0WHNzRV9WTkRCU0I0RG52c0hrT0w5ejVtZXRaSFRLcUxxMG12bFZsUDgwRmdvNVJhQmVfM0dhTTJsdU1VS093d3M1SkJ5RmVMa1Utb0lX?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-11T11:21:48.000Z",
+      "summary": "两岸和平小天使在重庆体验机器人AI应用，感受科技创新。",
+      "summaryZh": ""
+    },
+    {
+      "title": "活力中国调研行丨机器人“秘书”还有多久上岗",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00Vmh4emNNbHhxRDU4Wm1nWU4zb1ZYNTV2S1BRMTdpdk9ETURkOFVWNk5uWjhzejF5OHJBRl9TZUFhNUNYUWxVaHNLOGdQS3ZMUWZlTkM2TU5xYkNKWkl1dHVVeHVFVHBISG5rZm9ZOGE?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-11T07:31:05.000Z",
+      "summary": "上海创智学院探索人工智能教育，机器人“小智”展示智能服务能力。",
+      "summaryZh": ""
+    }
+  ]
+}
