@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI & 机器人日报 · 2026-07-13</title>
+<style>
+  :root{color-scheme:light;--ink:#14171c;--muted:#6b7280;--line:#e7e9ec;--bg:#f2f3f5;--card:#ffffff;--accent:#e5484d;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased;}
+  a{color:inherit;text-decoration:none;}
+  .topbar{background:#111418;color:#fff;border-bottom:3px solid var(--accent);}
+  .topbar-inner{max-width:1120px;margin:0 auto;padding:0.95rem 1.5rem;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
+  .brand{font-size:1.4rem;font-weight:800;letter-spacing:-0.02em;display:flex;align-items:center;gap:0.5rem;}
+  .brand .dot{color:var(--accent);}
+  .masthead-meta{font-size:0.8rem;color:#a9afb8;font-variant-numeric:tabular-nums;}
+  .nav{max-width:1120px;margin:0 auto;padding:0.6rem 1.5rem;display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap;font-size:0.82rem;}
+  .nav a,.nav input{background:#fff;border:1px solid var(--line);border-radius:8px;padding:0.35rem 0.85rem;color:#374151;font-weight:600;transition:all .15s;}
+  .nav a:hover{border-color:var(--accent);color:var(--accent);}
+  .nav .spacer{flex:1;}
+  .wrap{max-width:1120px;margin:0 auto;padding:1.4rem 1.5rem 3rem;}
+
+  .hero{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:1.7rem 1.9rem;box-shadow:0 1px 2px rgba(16,24,40,.05);}
+  .hero .kicker{display:inline-flex;align-items:center;gap:.4rem;font-size:0.72rem;font-weight:800;letter-spacing:.08em;color:#fff;background:var(--accent);padding:0.24rem 0.65rem;border-radius:6px;margin-bottom:0.9rem;}
+  .hero h2{font-size:1.75rem;line-height:1.25;font-weight:800;letter-spacing:-0.015em;}
+  .hero .trans{margin-top:0.5rem;}
+  .hero .head{margin-top:0.95rem;}
+
+  /* Sticky jump-tab bar */
+  .tabs{position:sticky;top:0;z-index:20;display:flex;gap:0.5rem;flex-wrap:wrap;background:var(--bg);padding:0.8rem 0 0.7rem;margin:0.8rem 0 0.2rem;border-bottom:1px solid var(--line);}
+  .tab{background:#fff;border:1px solid var(--line);border-radius:999px;padding:0.5rem 1.05rem;font-family:inherit;font-size:0.94rem;font-weight:700;color:#4b5563;cursor:pointer;display:flex;align-items:center;gap:0.5rem;transition:all .15s;}
+  .tab:hover{border-color:#c7cbd1;color:var(--ink);}
+  .tab .ic{font-size:1rem;}
+  .tab .n{font-size:0.72rem;font-weight:800;opacity:.65;font-variant-numeric:tabular-nums;}
+  .tab.active{color:#fff;border-color:transparent;box-shadow:0 2px 8px rgba(16,24,40,.12);}
+  .tab.active .n{opacity:.95;}
+  .tab[data-cat="ai"].active{background:#2563eb;}
+  .tab[data-cat="robotics"].active{background:#7c3aed;}
+  .tab[data-cat="application"].active{background:#0d9488;}
+
+  /* Stacked sections */
+  .section{scroll-margin-top:72px;margin-top:1.7rem;}
+  .sec-head{display:flex;align-items:center;gap:0.5rem;margin-bottom:0.95rem;font-size:1.18rem;font-weight:800;letter-spacing:-0.01em;}
+  .sec-head .bar{width:4px;height:1.2rem;border-radius:2px;flex:none;}
+  .sec-head .ic{font-size:1.15rem;}
+  .sec-head .n{margin-left:0.15rem;font-size:0.74rem;font-weight:800;color:var(--muted);background:#eceef1;border-radius:999px;padding:0.08rem 0.55rem;}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:0.85rem;}
+
+  .item{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:0.95rem 1.1rem;transition:border-color .15s,box-shadow .15s,transform .15s;}
+  .item:hover{border-color:#d3d6db;box-shadow:0 6px 18px rgba(16,24,40,.07);transform:translateY(-1px);}
+  .head{display:flex;align-items:center;gap:0.45rem;font-size:0.74rem;color:var(--muted);margin-bottom:0.5rem;}
+  .head .cdot{width:7px;height:7px;border-radius:50%;flex:none;}
+  .head .src{font-weight:700;color:#4b5563;}
+  .head .sep{color:#cbd0d6;}
+  .head .time{color:#9aa1ab;font-variant-numeric:tabular-nums;}
+  .title{font-size:1.02rem;font-weight:680;line-height:1.42;color:var(--ink);display:block;}
+  .item:hover .title{color:var(--accent);}
+  .trans{display:block;margin-top:0.4rem;font-size:0.85rem;line-height:1.5;color:#8b9199;font-style:italic;}
+  .trans b{font-style:normal;font-weight:700;color:#9aa1ab;background:#f1f2f4;padding:0.02rem 0.4rem;border-radius:4px;margin-right:0.45rem;font-size:0.72rem;letter-spacing:.02em;}
+  .desc{margin-top:0.5rem;font-size:0.85rem;line-height:1.55;color:#565d68;}
+  .hero .desc{font-size:0.98rem;color:#3a4150;margin-top:0.65rem;}
+
+  footer{max-width:1120px;margin:0 auto;padding:1.5rem;text-align:center;color:#9aa1ab;font-size:0.78rem;border-top:1px solid var(--line);}
+  @media(max-width:760px){.grid{grid-template-columns:1fr;}.hero h2{font-size:1.35rem;}.wrap{padding:1rem;}}
+</style>
+</head>
+<body>
+<div class="topbar"><div class="topbar-inner">
+  <a href="../index.html" class="brand"><span class="dot">●</span> AI &amp; 机器人日报</a>
+  <span class="masthead-meta">2026-07-13 · 每日精选 24 条</span>
+</div></div>
+<div class="nav">
+  <a href="../index.html">🏠 首页</a>
+  <a href="2026-07-12.html">← 前一天</a>
+  <a href="2026-07-14.html">后一天 →</a>
+  <span class="spacer"></span>
+  <input type="date" value="2026-07-13" onchange="if(this.value)window.location.href=this.value+'.html'">
+</div>
+<div class="wrap">
+  <div class="hero"><span class="kicker">🔥 今日头条</span><h2><a href="https://www.ithome.com/0/975/786.htm" target="_blank" rel="noopener">宇树科技王兴兴：机器人一定会走向普通消费者，今天的机器人就像 30 年前的个人电脑</a></h2><p class="desc">机器人将像30年前个人电脑一样走向普通消费者。</p><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">IT之家</span><span class="sep">·</span><span class="time">2026-07-12</span></div></div>
+  <div class="tabs"><a class="tab active" data-cat="ai" href="#sec-ai"><span class="ic">🖥️</span>AI 人工智能<span class="n">12</span></a><a class="tab" data-cat="robotics" href="#sec-robotics"><span class="ic">🤖</span>机器人<span class="n">11</span></a></div>
+  <section class="section" id="sec-ai" data-cat="ai">
+      <div class="sec-head"><span class="bar" style="background:#2563eb"></span><span class="ic">🖥️</span>AI 人工智能<span class="n">12 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://36kr.com/p/3892222176574211?f=rss" target="_blank" rel="noopener">全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型</a><p class="desc">Anthropic澄清：Claude模型变笨非模型问题，而是Effort设置调整。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">钛媒体</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://www.tmtpost.com/8061647.html" target="_blank" rel="noopener">算力基建，遭遇急刹车？</a><p class="desc">全球AI算力基建投资遇阻，巨头转向算力变现。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pTVgwS1FDN0VkR2t3anFQenlabGxNbU5hRU05UWlXelNjc3ljcWtWaE1ZcHljVWVjTlJfdUhrQmtQcjBIc2p1NjNnQmM0Zw?oc=5" target="_blank" rel="noopener">315曝光AI大模型“投毒”黑产，39.9元篡改AI答案</a><p class="desc">AI大模型被曝39.9元篡改答案，虚假信息可操控AI推荐。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">钛媒体</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiTEFVX3lxTE56OUUtaDBFaW9WcWFXLUtqWVVMWlQ0bmZLZnlocnlCWEFtdFJIZW1nbU5jZHcwV2FKWkROYkFmYWQ4LXJrWUFRVUIzRmg?oc=5" target="_blank" rel="noopener">大模型的百亿融资背后：解锁MiniMax的韧性长跑模式</a><p class="desc">MiniMax完成160亿港元融资，展现AI长跑韧性。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">界面新闻</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vNVNwQmhRZU4ySEVFbHdvbE8yTE41YkRnekR4UW9aZWRNWEtKdXFRZWpVYmFoaFF6eU4yZzdKclRfRi1yd3I5Y3ZVTTl0VlZWLWg1RlBQbmg?oc=5" target="_blank" rel="noopener">大模型Token推理服务：读懂AI时代的数字燃料与天翼云一站式解决方案</a><p class="desc">天翼云推出一站式大模型Token推理服务，助力AI应用普及。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">财联社</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yZmJwa2xDUnQzbWg1TF9iMVZNTXR4WnVnS2hOak5aLWJvNGFtcFBITkppcHM5QVhvYXVBTms1TVhiamhqcGNEWQ?oc=5" target="_blank" rel="noopener">从“坐不上主桌”到“算力挤爆” 腾讯AI重回牌桌？</a></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">金融界</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5JUTl4eFUzRTNFOFViYWV3VDU5dl9hUkFpUi1UUGFrVHV5eEsxUnJOQVVlUHB4dnZZU09yRm9uenIzTjQ3dWw0aFFnNS0yM3prMVN4UDJ6WUxITnRMaHhHWVJyaldSLXNLU3ZlOE9ON2RZdVNF?oc=5" target="_blank" rel="noopener">OpenAI与Anthropic2026年收入或达2000亿！月增收入超Meta谷歌，Palantir直指AI落地痛点-观察君</a><p class="desc">OpenAI与Anthropic2026年收入预测达2000亿，月增收入超Meta、谷歌，AI落地痛点引发关注。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">腾讯新闻</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9jdlJIOTJuOFJZdXIybXV3OWQ3VmxyZFl0MWFMbzJqUmV1RTlLalpPaW9vUFI5andKUXlmWm5obzg1dTVsWkNHakhzcGthUmFCNzk1WDA4dXNqbzBkczBIRDJJbm1uNkQ2TnYxaQ?oc=5" target="_blank" rel="noopener">IPO前夕高管接连流失，OpenAI核心高层因病情恶化离职</a><p class="desc">OpenAI核心高管因病情恶化离职，IPO计划受影响。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">央广网</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://news.google.com/rss/articles/CBMicEFVX3lxTE84ZGl0QmExUjluRjd4d3c1bVBWemtvOGNDLTdPSVZOTnJOTDI1cm9reDh1aVlpRnQycFVQeEZ4Z2VneS1Tb1V2ajlYRDBSeVVBZ0Vpay1VczhUNWtfYlpydG8yV0dJaWl0VERPYW56dHg?oc=5" target="_blank" rel="noopener">工信部警示Claude Code严重后门隐患！自主安全已成企业AI落地关键</a><p class="desc">工信部警示Claude Code存在严重后门隐患，强调自主安全对AI落地至关重要。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">虎嗅</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xRTRRRTBWeUV6MHpJUUJSem5teXlqbXFGWFQ5X0JxQ2hiaUZ2VkdGOFFtNlJYVGRSOWpsRnpndUQzUEZBN1BSOXpELWNManhsdzM0bg?oc=5" target="_blank" rel="noopener">港股大模型双雄智谱与MiniMax发布内部信 解禁期股价走势分化</a><p class="desc">智谱与MiniMax发布内部信，解禁后股价走势分化。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">每日经济新闻</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE13SjZfdFZVanNsUzNCeVZfc2M1XzNMR2MwUGE0MVh2RzhSc2VfWUVRUnJ0OEo3WmFLdjFLdlJZbVczSmhPemZ2R0s0dTRYTWYzVEFVTnFfMVlMbUJhVk1kNUM3TWY2UQ?oc=5" target="_blank" rel="noopener">阶跃星辰拟进军终端，即将推出首款AI智能体手机</a><p class="desc">阶跃星辰将推出全球首款AI智能体手机。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">The Verge</span><span class="sep">·</span><span class="time">2026-07-13</span></div><a class="title" href="https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra" target="_blank" rel="noopener">Apple’s failed self-driving car program left a legacy of powerful AI chips</a><span class="trans"><b>中文翻译</b>苹果失败的自动驾驶汽车计划留下了强大的人工智能芯片的遗产</span><p class="desc">苹果自动驾驶项目失败，留下强大AI芯片遗产。</p></div></div>
+    </section><section class="section" id="sec-robotics" data-cat="robotics">
+      <div class="sec-head"><span class="bar" style="background:#7c3aed"></span><span class="ic">🤖</span>机器人<span class="n">11 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">量子位</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://www.qbitai.com/2026/07/448034.html" target="_blank" rel="noopener">98年哈工大教授创业，要做人形灵巧操作世界模型</a><p class="desc">哈工大教授创办公司，研发人形机器人触觉世界模型。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">界面新闻</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hQ3c4U1ZCaWV0T3Z4MGd5OWo1ejBQeGR1OTF2Zklfc0JicUpQQVROTEN6RXEtVnR2b2xfY0h0WXBkZm5Yb2lCbThLNzUwNmw3aktvYmlTaEQ?oc=5" target="_blank" rel="noopener">2026具身智能产业观察：5家企业如何推动机器人大脑升级？</a><p class="desc">五家企业推动机器人大脑升级，聚焦具身大模型与真实场景应用。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">IT之家</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://www.ithome.com/0/975/802.htm" target="_blank" rel="noopener">大疆无人机助力中国科考队珠峰任务：实现 8861 米大气数据观测、首次完成昆布冰川核心区厘米级建模</a><p class="desc">大疆无人机助力中国科考队完成珠峰8861米大气数据观测和昆布冰川核心区厘米级建模。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">央广网</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://news.google.com/rss/articles/CBMic0FVX3lxTE1RRDZaNExVaWpSbVE2MF9RbHJZNGlkZHQwakVlcHJWMXM4OHhBcXhBSzdTOVFaQlZVXy1VdjdiNTNtX0g0OWJPUXk5S0ZwSHhMZE56ZUFKbGx6ZTBJVGplbkhMZ0x6Rmx4Vm4xX0Y1bWhjZDA?oc=5" target="_blank" rel="noopener">全国首个机器人街区超级应用场景落地成都</a><p class="desc">成都全国首个机器人街区超级应用场景正式落地。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">新京报</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XYldNWGRjQlozZ1NTZEMyU1ZkUlFaNzBJdlpkbUQxby1TSDFnaGV2M3BiQlpHMXp0QW1XakFOLURNa3hrajhRSS1VYkR6MzBER0cwOW45TVhoNm1TOG56ZXF3?oc=5" target="_blank" rel="noopener">活力中国调研行｜机器人系列04：机器人总装配环节</a><p class="desc">记者探访机器人总装配环节，体验从生产到训练全过程。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">TechCrunch</span><span class="sep">·</span><span class="time">2026-07-13</span></div><a class="title" href="https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/" target="_blank" rel="noopener">TechCrunch Mobility: A robotaxi ultimatum</a><span class="trans"><b>中文翻译</b>TechCrunch Mobility：机器人出租车最后通牒</span><p class="desc">Uber与Waymo在凤凰城的合作结束，未来机器人出租车市场竞争加剧。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">Wired</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pSWVnSUtBWXdUcDNQLWV6a0pHaXNUdzFxRzFFSG02RXMtT0lfLVBEb05Ld1Jmam1EQ21UdlFxVG1QT2Q2eGk2ZTNGUFVpUGp1RTI2aFNtSXpCQUdsTXNpd2RqREE?oc=5" target="_blank" rel="noopener">The Right Pool-Cleaning Robot for Every Budget and Backyard</a><span class="trans"><b>中文翻译</b>适合各种预算和后院的泳池清洁机器人</span><p class="desc">2026年最佳泳池清洁机器人：Beatbot、iGarden、Dreame等亮相市场。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">IEEE Spectrum Robotics</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE51OGMtb08zY3VVOGdhelFUaHRtT255UTFJbU9IS2Z5cWRkeGgtQndqV2pYblJTMEN0eDJnUERUaV9zaUlJaUVwbXUwS01OOThzSmU4Y1o3QjlJcFU?oc=5" target="_blank" rel="noopener">How Cheap Ground Robots Are Rewriting Frontline Warfare in Ukraine</a><span class="trans"><b>中文翻译</b>廉价地面机器人如何改写乌克兰前线战争</span><p class="desc">乌克兰战场使用低成本地面机器人改变前线作战方式。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">IEEE Spectrum Robotics</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUU4VGlSX2JyTkZtUmt2UU9xTWxTZ3E2cEhJUTN1NXYyWDAxV1ZsbExyXzJPV1J4bFF1ZzZqUHVWVkF2TGkyTi1xeGVEWU03aHFBb0xNdGdNcnRkcG1CYkQ4VHpFY1hWbFpIaUtkUU9tR1J3ZWE4VWtsSDJ0bF9LQWJoeXozSGVzb3dwTTlwQ0J4a1NxOEV0dkNyVUlLTVBtOFp2NUZRV2w?oc=5" target="_blank" rel="noopener">Inside DARPA’s Mission to Send a Repair Robot to Geosynchronous Orbit</a><span class="trans"><b>中文翻译</b>DARPA 将维修机器人送入地球同步轨道的任务</span><p class="desc">美国DARPA计划将维修机器人送入地球同步轨道。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">Reuters Technology</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTEJUQkhzN1ZwbUdlc2ZtLUpkNmxObUoydGFsUTJZY2lrX2k4WUh4WnYzN2l4V1h2V0hiNGY5RzgxaW1Iczlpb00tcnhCXy1lVDhQdkJzMnlLMFVCRFE4M2lNRy1rdmwycXliQTRjQWJSa1hCUHFEbWhMWGItbjBrektMaG9rQXV0c1l2dWxZUDd4b2Z5bTVHVElOMW1qSVVJaVJHd2RPNzlZMExHNnRhUjJ3Q3ByelhT?oc=5" target="_blank" rel="noopener">Russia says four killed in Ukrainian drone attack on Russian-controlled Enerhodar</a><span class="trans"><b>中文翻译</b>俄罗斯称，乌克兰无人机袭击俄罗斯控制的埃内霍达尔，造成四人死亡</span><p class="desc">俄称乌无人机袭击俄控区，造成四人死亡。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">Reuters Technology</span><span class="sep">·</span><span class="time">2026-07-12</span></div><a class="title" href="https://news.google.com/rss/articles/CBMimwFBVV95cUxObmw1bUVFVGYxWlZDbmR2eVB0QkZreWY0SW8wUW9rYkdSXzF6QVJWa1QyeDhOLVRjWVNiSkhSVURjdFg4RHA5eW9peC14SzZ3cHNqLVNTS0VsbWdFTlNVREtzTEFnaHpfSFEzWEppbG9taElxMUlHMllGenJiSGJzemQyRFBGS0labzdCX1dYQlEzcDh0ODJ2enpScw?oc=5" target="_blank" rel="noopener">Germany funds 50,000 strike drones for Ukraine, source says</a><span class="trans"><b>中文翻译</b>消息人士称，德国资助乌克兰5万架无人机</span><p class="desc">德国资助乌克兰购买5万架无人机。</p></div></div>
+    </section>
+</div>
+<footer>数据来源：80+ 中英文科技与产业媒体（中文优先）· 自动生成于 2026/7/13 01:13:05（北京时间）</footer>
+<script>
+  (function(){
+    var tabs = Array.prototype.slice.call(document.querySelectorAll('.tab'));
+    var map = {}; tabs.forEach(function(t){ map[t.getAttribute('data-cat')] = t; });
+    var secs = Array.prototype.slice.call(document.querySelectorAll('.section'));
+    if(!secs.length || !('IntersectionObserver' in window)) return;
+    var obs = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){
+        if(en.isIntersecting){
+          var cat = en.target.getAttribute('data-cat');
+          tabs.forEach(function(x){ x.classList.remove('active'); });
+          if(map[cat]) map[cat].classList.add('active');
+        }
+      });
+    }, { rootMargin: '-72px 0px -55% 0px', threshold: 0 });
+    secs.forEach(function(s){ obs.observe(s); });
+  })();
+</script>
+</body>
+</html>
