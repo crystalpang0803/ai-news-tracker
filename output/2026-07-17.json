@@ -1,250 +1,35 @@
 {
   "date": "2026-07-17",
-  "generatedAt": "2026-07-16T22:26:38.665Z",
+  "generatedAt": "2026-07-16T23:39:42.639Z",
   "items": [
     {
-      "title": "9750亿参数！OpenAI前CTO的明星独角兽，发首个开放权重模型",
-      "link": "https://zhidx.com/p/576146.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-16T14:45:09.000Z",
-      "summary": "OpenAI前CTO创办的AI独角兽发布首个多模态MoE开放权重模型Inkling。",
-      "summaryZh": ""
-    },
-    {
-      "title": "世界人工智能合作组织协定签署仪式举行",
-      "link": "https://36kr.com/newsflashes/3898282729899911?f=rss",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-16T12:18:15.000Z",
-      "summary": "世界人工智能合作组织协定在上海签署。",
-      "summaryZh": ""
-    },
-    {
-      "title": "靳玉志：未来 5 年，华为乾崑在算力研发上将持续投入，达 700 到 800 亿元",
-      "link": "https://www.ithome.com/0/977/819.htm",
+      "title": "OpenAI 推出一系列官方周边，含 ChatGPT 篮球、Codex T 恤等",
+      "link": "https://www.ithome.com/0/977/830.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-16T16:07:20.000Z",
-      "summary": "华为乾崑未来五年算力研发投入将达700至800亿元。",
+      "pubDate": "2026-07-16T22:50:05.000Z",
+      "summary": "OpenAI 推出官方周边产品，包括 ChatGPT 篮球和 Codex T 恤。",
       "summaryZh": ""
     },
     {
-      "title": "挚达科技全球首发“AI能源+机器人”一体化解决方案",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GVkhKV3l3R0E2emxqeWRMMmNuNmNZb2lQWmVCRnRtR1pKWXpKWGp0R3BlSm12OWxWd0dUZktCQVVtSEN5TG90Y3JBY1d5a25LYXpQbjBNSGh5UkE?oc=5",
+      "title": "谷歌据悉推迟发布Gemini 3.5 Pro，因持续提升模型编程能力",
+      "link": "https://36kr.com/newsflashes/3898936840701571?f=rss",
       "source": "36氪",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-16T19:21:22.000Z",
-      "summary": "挚达科技发布“AI能源+机器人”一体化解决方案，面向家庭和公共场景。",
-      "summaryZh": ""
-    },
-    {
-      "title": "英伟达发布多款物理AI产品，两款机器人计算模组明年上市",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQUmY3bTRLcWlEWUxETmJPSFk4Q1dqZThRUjctSmVxWkFmbkZKYnVyY2Z0Ujk5LUctZVk2VTdwNVdMTFFPR1VFLUs0Um1lTVRYa2o2WjA5eUpEdw?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-16T04:58:00.000Z",
-      "summary": "英伟达发布多款物理AI产品，两款机器人计算模组明年上市。",
-      "summaryZh": ""
-    },
-    {
-      "title": "财联社7月16日电，日本计划采购27,500枚英伟达Rubin系列芯片，用于发展机器人AI。",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKRzMycHVfak0tUDJiSW1ZaU9GZE8tQ3c2QnY5YUhCTGNFMXUzOXhQU2tsMi14UVJZNnV4Nzk3LTRBbHZWOVlOZg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-16T07:42:39.000Z",
-      "summary": "日本将采购英伟达Rubin系列芯片以推进机器人AI发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "联合国：希望推动人工智能技术惠及更多国家",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42MGNmTndxUEJnV01nOHNNYWVpRDg5RjJ2cjFrUk9INVFfR1lHS1BXVnBTbnQ2akFUdlBGQmxraVUxSWlwZ2pMQ0RqU0dUb1o3bVhpUHF6WlRMQQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-16T08:48:00.000Z",
-      "summary": "联合国呼吁通过世界人工智能大会推动AI技术共享与发展。",
+      "pubDate": "2026-07-16T23:37:35.000Z",
+      "summary": "谷歌推迟发布Gemini 3.5 Pro，专注提升模型编程能力。",
       "summaryZh": ""
     },
     {
-      "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SZGpwNTFsUmRldmVNWkpmTjQzUFNvWUVkX1RHd0NjZzk3UzR6OWVFVlY0anEtQnNFdmVwbGNGUUxHUmstY1pwUg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-16T03:15:00.000Z",
-      "summary": "AI芯片三龙头业绩预增，再签大单，市场前景看好。",
-      "summaryZh": ""
-    },
-    {
-      "title": "刚刚，逐际动力放出一段Demo，Figure：睡不着啊",
-      "link": "https://www.qbitai.com/2026/07/451084.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-16T08:04:18.000Z",
-      "summary": "逐际动力发布全自主人形机器人Oli家务Demo，展示长程移动操作能力突破。",
-      "summaryZh": ""
-    },
-    {
-      "title": "荣耀黄非晒 Robot Phone 新机 AI 功能，称对未来科技的想象真照进了现实",
-      "link": "https://www.ithome.com/0/977/816.htm",
+      "title": "1Password for Claude 上线：AI 交互场景下用户无需手动填写密码",
+      "link": "https://www.ithome.com/0/977/831.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-16T15:49:23.000Z",
-      "summary": "荣耀Robot Phone新机AI功能展示，黄非称实现科技想象。",
-      "summaryZh": ""
-    },
-    {
-      "title": "半年揽4亿美元融资，人形机器人进入上市生死局",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oTkgyOW5MZGlHRXpzbkdvaUFuWm1GWE1WMVhORjdXRllsSVJFdVE0MWhEMFBmYVkxWUw5bTdPS1NzM1JVQ0wySVdsYmoweHBBWXhTZlZKVQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-16T08:15:29.000Z",
-      "summary": "人形机器人逐际动力半年内融资4亿美元，筹备赴港上市。",
-      "summaryZh": ""
-    },
-    {
-      "title": "新信号！中国金融大模型及智能体市场份额出炉 蚂蚁数科位列第一",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yWC1lckZfTmVWUk1scmNCdnAwTTBUNE1nRE0zWVdnMDNPTmYyc0llM1pncmx3ZE9Zd19EcVNEYnpTcUk4SVpKamJyUQ?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-16T08:29:47.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook",
-      "link": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-16T16:00:00.000Z",
-      "summary": "Google将AI研究产品NotebookLM更名为Gemini Notebook。",
-      "summaryZh": "",
-      "titleZh": "谷歌继续其更名之路，将 NotebookLM 改为 Gemini Notebook"
-    },
-    {
-      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "source": "VentureBeat",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-16T19:02:38.000Z",
-      "summary": "企业AI代理安全漏洞：54%企业已发生事故，多数代理共享凭证。",
-      "summaryZh": "",
-      "titleZh": "代理安全漏洞：54%的企业已经发生过人工智能代理事件，大多数企业仍然让代理共享凭证"
-    },
-    {
-      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-      "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
-      "source": "Wired",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-16T22:17:27.000Z",
-      "summary": "苹果起诉OpenAI涉嫌窃取硬件机密，纽约实施数据中心禁令，美国多州爆发肠孢子虫病疫情。",
-      "summaryZh": "",
-      "titleZh": "苹果为何起诉 OpenAI、纽约对数据中心发起攻击以及有关环孢子虫病的知识"
-    },
-    {
-      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
-      "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-07-16T20:09:48.000Z",
-      "summary": "韩国现代汽车工厂工人因担心人形机器人而罢工。",
-      "summaryZh": "",
-      "titleZh": "对人形机器人的恐惧促使人类工人在现代汽车工厂罢工"
-    },
-    {
-      "title": "研报 | 照护、情感需求发酵，预估陪伴型人形机器人2030年产值达11亿美元",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93TVJwMGpCeERoUXlJZ2RPS0VpV2ZzdzhSajhXREZXTzRGU0trcDZ6NEN4Wmt6bDNBcERuYzloVnhSSEM2NDg1dTk0MmtmRG9uY1d0N05DMA?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-16T02:43:14.000Z",
-      "summary": "2030年陪伴型人形机器人产值预计达11亿美元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "“天翼领航者”号入列 助力中国算力和人工智能发展向海图强",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ob1R4S3BKOXBvXzYzMUVmSXpxUHA0UExWZk5ZUXB5LS1EVDRSRmdsX1JzYXBqNVlfclM0MXJqMkR2MVJTRHpQdnpzdEZwNXNMaWV3MndlNUtXeTkzd0NTUWljZlczSl9NSi12SHZtWWVlQUxtT0tyUQ?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-16T03:46:13.000Z",
-      "summary": "“天翼领航者”号加入，推动中国算力和AI向海洋拓展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "7款手机端侧大模型备案通过 AI智能体手机热度激增",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DcWV4QW81cVVjQXZ2RWxDS19LOXNQYi1YY1VxeEpvRDVFVU9obUxkeFU1QUJ5Rm1ha0dEQVhESEtKZWpiWk9wRzdmNHRSX19TczQwWmJGMA?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-16T12:13:00.000Z",
-      "summary": "七款手机端侧大模型备案通过，AI智能体手机市场热度上升。",
-      "summaryZh": ""
-    },
-    {
-      "title": "英伟达：新建AI工厂将为日本开发面向物理AI的多模态基础模型项目提供算力基础设施",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVdDVGcWVxWUN5TVgtQzdwSkx4TjlqTUNKMG9CWW1ld05XTF9KcFhsNWpwRkJEd1RuSmJJNUVRc1JlVTRMRG8tbVFXSWlpZXdVSkRrdHVWYnJTc2lBaXc?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-16T08:19:51.000Z",
-      "summary": "英伟达新建AI工厂助力日本物理AI多模态模型项目。",
-      "summaryZh": ""
-    },
-    {
-      "title": "TerraFirma raises $115M to build robotic infrastructure for construction",
-      "link": "https://www.therobotreport.com/terrafirma-raises-115m-build-robotic-infrastructure-construction/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-07-16T18:51:40.000Z",
-      "summary": "TerraFirma获1150万美元投资，用于建设建筑机器人基础设施。",
-      "summaryZh": "",
-      "titleZh": "TerraFirma 筹集 1.15 亿美元用于建设建筑机器人基础设施"
-    },
-    {
-      "title": "Lockheed Martin taps Machina’s robots for mission-critical missile parts",
-      "link": "https://www.therobotreport.com/lockheed-martin-taps-machinas-robots-for-mission-critical-missile-parts/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-07-16T12:30:12.000Z",
-      "summary": "Lockheed Martin采用Machina机器人制造关键导弹部件。",
-      "summaryZh": "",
-      "titleZh": "洛克希德·马丁公司利用 Machina 的机器人生产关键任务导弹零件"
-    },
-    {
-      "title": "报道：日本斥资24亿美元购入英伟达Rubin芯片，用于建设机器人AI系统",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hVnNIenVDTWxHb2ptS2tkd0E2TkhQMXJySmtjY1o2bUtOV21ZOTVYNnUyYU1sODR2NDFkLW5UdlN6REN6MDRSeDE3UV9zdnpDb0pj?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-16T07:43:24.000Z",
-      "summary": "日本投资24亿美元购买英伟达Rubin芯片，用于AI机器人系统开发。",
-      "summaryZh": ""
-    },
-    {
-      "title": "黄仁勋日本行：见30年前“救命恩人”，签约机器人三巨头，英伟达笼络日本AI供应链",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UZHcwMmI4MHNqTWxWbHhWb0E2QXdtZjdjN1p2TWtzM3JyLWtVdXBNUnF1aW9QZ3VxYjlnNm5sTWx4M1V0QnZjaEhwYzFnTXUxdGhV?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-16T07:52:02.000Z",
-      "summary": "黄仁勋访问日本，会见旧友并签约机器人三巨头，加强英伟达在日AI供应链合作。",
+      "pubDate": "2026-07-16T22:59:30.000Z",
+      "summary": "1Password for Claude 推出，AI可自动填写密码完成多步骤任务。",
       "summaryZh": ""
     }
   ]
