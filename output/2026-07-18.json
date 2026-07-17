@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "generatedAt": "2026-07-17T20:32:00.714Z",
+  "generatedAt": "2026-07-17T22:10:02.422Z",
   "items": [
     {
       "title": "腾讯 Robotics X 实验室新一代示范性机器人“小六”首次公开亮相，系“小五”迭代之作",
@@ -13,13 +13,13 @@
       "summaryZh": ""
     },
     {
-      "title": "强脑科技全球首发脑控机器人训练平台，10 分钟解锁意念控制",
-      "link": "https://www.ithome.com/0/978/289.htm",
+      "title": "工信部召开重点车企座谈会，强调抵制非理性竞争、加强自动驾驶安全评估",
+      "link": "https://www.ithome.com/0/978/299.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-17T12:27:53.000Z",
-      "summary": "强脑科技发布全球首个脑控机器人训练平台，10分钟实现意念控制。",
+      "pubDate": "2026-07-17T13:09:49.000Z",
+      "summary": "工信部强调车企抵制非理性竞争，加强自动驾驶安全评估。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-17T03:56:20.000Z",
-      "summary": "现代汽车工人因人形机器人争议发起罢工，影响约5000辆汽车生产。",
+      "summary": "现代汽车工人因人形机器人争议发起罢工，影响生产。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
+      "link": "https://36kr.com/p/3899597215745664?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-17T10:45:58.000Z",
+      "summary": "2026年最受投资人关注人工智能/具身智能企业50强名单揭晓。",
       "summaryZh": ""
     },
     {
@@ -49,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-17T17:09:14.000Z",
-      "summary": "国产AI芯片挑战CUDA，而非英伟达GPU。",
+      "summary": "国产AI芯片挑战英伟达，关键在于超越CUDA生态。",
       "summaryZh": ""
     },
     {
@@ -59,7 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-17T12:00:56.000Z",
-      "summary": "达卯科技在WAIC发布算电协同2.0平台，推动AI算力与绿色能源融合。",
+      "summary": "达卯科技在WAIC发布算电协同2.0平台，融合AI算力与绿色能源。",
       "summaryZh": ""
     },
     {
@@ -69,7 +79,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-17T10:09:47.000Z",
-      "summary": "AI正加速从技术展示转向专业场景应用，垂直场景智能体产品涌现。",
+      "summary": "AI正从技术展示转向专业场景应用，垂直场景智能体产品涌现。",
       "summaryZh": ""
     },
     {
@@ -79,7 +89,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-07-17T17:45:46.000Z",
-      "summary": "苹果对OpenAI提起的诉讼可能干扰其IPO计划。",
+      "summary": "苹果对OpenAI提起的诉讼可能影响其IPO计划。",
       "summaryZh": "",
       "titleZh": "苹果的大诉讼如何扰乱 OpenAI 的 IPO 计划"
     },
@@ -90,7 +100,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-17T11:26:03.000Z",
-      "summary": "风险投资推动未经验证的机器人初创企业估值达数百亿，行业从硬件销售转向人力金融化。",
+      "summary": "风险投资推动未经验证的机器人初创企业估值达数百亿，行业从硬件销售转向金融化人力。",
       "summaryZh": ""
     },
     {
@@ -100,7 +110,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-17T10:22:00.000Z",
-      "summary": "美格智能产品在端侧AI、机器人等领域应用前景广阔，效益不确定性高。",
+      "summary": "美格智能关注端侧AI、机器人等领域应用，效益存在不确定性。",
       "summaryZh": ""
     },
     {
@@ -120,7 +130,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-17T10:10:46.000Z",
-      "summary": "大模型备案潮涌，AI合规成为必答题，监管趋严。",
+      "summary": "大模型备案潮涌，AI合规成为企业必答题。",
+      "summaryZh": ""
+    },
+    {
+      "title": "与AI共存的未来：爱、陪伴和机器人",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5SnduaTVxdW9qdWVGcTBpd184cnZtUVhodWhrMnY0TzZRZUU5RmJwYkRfTTBHdnBnZ2tqQlZDcVQ5ZUM4M3ZPdDRmR0F0UmdpQjktQg?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-17T15:56:08.000Z",
+      "summary": "WAIC大放送探讨AI在爱、陪伴和产业应用中的未来。",
       "summaryZh": ""
     },
     {
@@ -129,18 +149,27 @@
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-17T15:44:00.000Z",
-      "summary": "中国在2026世界人工智能大会上强调人工智能普惠性，打造全球科技合作策源地。",
+      "pubDate": "2026-07-17T16:21:00.000Z",
+      "summary": "中国在2026世界人工智能大会上强调打造全球科技合作策源地，推动人工智能普惠发展。",
       "summaryZh": ""
     },
     {
-      "title": "英矽智能首席执行官：中国正在搭建“桥梁”让人工智能技术更普惠︱未来・♾️",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FLXhhSkxpUTFxUGt1TWx6MFJhSjRjczdIZVFmM3lFU2VTeF9PZmxyOGRCTVZjeGNPT1Y3MHBhLXpaeW1mYjNyRHB1c3p3VEEtTGJDRg?oc=5",
-      "source": "第一财经",
+      "title": "国家发改委发布《人工智能合作发展行动计划》",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1teUFyaVZ3N1YzMm9yNjE4VmxVbTRYSGF5OGhXZjZTWlc0NFJlTXc2Z0dHaXZDWGJIVkNMZ05NS0NrdllPa0htQQ?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-17T10:54:03.000Z",
-      "summary": "英矽智能CEO称中国搭建AI技术“桥梁”促普惠发展。",
+      "pubDate": "2026-07-17T04:43:59.000Z",
+      "summary": ""
+    },
+    {
+      "title": "上海市副市长陈杰：加快前沿模型、具身智能、智算芯片等关键领域技术全链突破",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9yV01XLXFYOTJKYUs1aV9TRVgwblE3VFd5V0JEOU4ybEd6WnBKX0FUQWhaSmZ5b2ZsVDlTb1liZ1gwUnJEcjRPbA?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-17T12:43:01.000Z",
+      "summary": "上海市副市长陈杰强调加快人工智能关键领域技术全链突破。",
       "summaryZh": ""
     },
     {
@@ -155,13 +184,13 @@
       "titleZh": "Weave Robotics 推出首款移动人形机器人 Isaac"
     },
     {
-      "title": "人形机器人减速器2025年卖了43万台，真正的增量才刚刚开始！",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DVUUweHhjaGVpTG9CMFNJRVRHcFdBVnJEVEk5N0g4Q1NJS3dlZWh5WWRGdkxYNTc3NEVRR2pfUVR6M0NaeUZhRGR1bG42SjhjZk1QNWplSQ?oc=5",
-      "source": "与非网",
+      "title": "OpenAI 的大模型价格战，历史早已写过结局",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yb2xpaVR4Z3A2WkdGc3RKZ2JmNE1CLVZMUXhpaHJYd2dCRzZoNEJ2SEdiZXJORkFyOU9kTFJJRUNoYTM2ZVZhb24zNmJ6ejZuR3VJ?oc=5",
+      "source": "华尔街见闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-17T02:45:57.000Z",
-      "summary": "2025年人形机器人减速器销量达43万台，未来增长潜力巨大。",
+      "category": "ai",
+      "pubDate": "2026-07-17T08:27:00.000Z",
+      "summary": "OpenAI大模型价格战历史已定。",
       "summaryZh": ""
     },
     {
@@ -180,7 +209,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-17T20:19:49.000Z",
-      "summary": "Agility Robotics在特斯拉工厂附近开设新设施，其机器人Digit已在多个场景中应用并盈利。",
+      "summary": "Agility Robotics在特斯拉工厂附近开设新设施，培训人形机器人。",
       "summaryZh": "",
       "titleZh": "Agility Robotics 在特斯拉后院插上了自己的旗帜"
     },
@@ -191,57 +220,31 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-07-17T17:41:32.000Z",
-      "summary": "苹果涉嫌通过诉讼打压OpenAI。",
+      "summary": "苹果涉嫌起诉OpenAI以打压竞争对手。",
       "summaryZh": "",
       "titleZh": "苹果粉碎 OpenAI 的阴谋"
     },
     {
-      "title": "Founder of Maximo discusses how robotics is accelerating solar construction",
-      "link": "https://www.therobotreport.com/transforming-solar-construction-through-robotics-deise-yumi-asami-maximo/",
-      "source": "The Robot Report",
+      "title": "Intuit scrapped its own AI agent architecture twice in four months. At VB Transform 2026, its AI VP called that the fast path",
+      "link": "https://venturebeat.com/orchestration/intuit-scrapped-its-own-ai-agent-architecture-twice-in-four-months-at-vb-transform-2026-its-ai-vp-called-that-the-fast-path",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-17T20:46:55.000Z",
+      "summary": "Intuit在四个月内两次放弃自研AI架构，AI副总裁称其为快速路径。",
+      "summaryZh": "",
+      "titleZh": "Intuit 在四个月内两次废弃了自己的人工智能代理架构。在 VB Transform 2026 上，其 AI 副总裁称这是快速路径"
+    },
+    {
+      "title": "Would You Let This Humanoid Robot Do Your Laparoscopic Surgery?",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51M0NZMjlVMUNYZnl4ZUg0U1lqVVlLNkRZM1hOREpWSklzTkdfX2IwaE42M3F2M01SQmF3UGo5VHFkMWQ5Qkc0c3l5QVVYT3hqZ1lwbTJKUVcxOTNUSklMa2dDRmg?oc=5",
+      "source": "IEEE Spectrum Robotics",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-07-17T19:17:39.000Z",
-      "summary": "Maximo创始人分享如何通过机器人加速太阳能建设。",
+      "pubDate": "2026-07-17T16:01:19.000Z",
+      "summary": "人形机器人进行腹腔镜手术技术展示。",
       "summaryZh": "",
-      "titleZh": "Maximo 创始人讨论机器人技术如何加速太阳能建设"
-    },
-    {
-      "title": "DeepSeek时刻来了，3万亿大模型优先适配国产算力加存储",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS3VST3owT0Y1RmhiOWItSDNKb3ZqaXJHZVlMMUJXS2RXOVZGa3lKOFFWdGstTWV3ZjAxcFZ1UmR4cWlPRzJ3RjcxSVZ0cG9Na2VhbHZfODRiVHNyV0J4aDFhZHU0THlrQXlGQ2licWRrcWlQN1FoeUtRQ1ZGejNUaTU0RzFHYng5dVVEUGZUeDBqX0pVMkl3b2lzZEZpd3c2cDBBR3IyV3o1U3BpTjdXSV9UVQ?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-17T17:28:34.000Z",
-      "summary": ""
-    },
-    {
-      "title": "谷歌Gemini模型发布延期传闻",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS21fM25fWXhiRHJENFNYbndFQVhZWWZSb1NYbXNXUjNpblZYaFpZcFk0bFI0cFF3aHJrb2EtTDAyOVFEQlVrcklfNm5Pcnc1RmlhV0J3aVhrUnR6QmtUT01kdE1ZY3RKMlpaRnI5T3kyNmR2SXg1MHdTQ01RSmswWUtiYVdaWUg1d3dzUA?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-17T03:01:00.000Z",
-      "summary": "谷歌Gemini 3.5 Pro发布延期，技术表现未达目标，市场担忧AI竞争力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "市场动态谷歌据悉推迟发布Gemini 3.5 Pro 因持续提升模型编程能力",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DLTdpMVR5R1BtQXNyMmh6Q0NPc0tqUy1VNmpTUWE1MEV4SG94Um1FMGM4LUQyME9zbkx5c0JROXZlNVdycTFJbXplTnVGZS1ZSHBUWHNPY1BVaHJfTTI1VUVTSQ?oc=5",
-      "source": "财新网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-17T01:23:00.000Z",
-      "summary": "7月16日，谷歌股价一度下跌3.2%。"
-    },
-    {
-      "title": "沐曦股份黄向军：和优必选合作开发具身智能芯片与商业策略有关",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82azdsVWNsS2lXOXIwdE1QUmdyUUhfLTYzRnA1ZEdiRWVpS3VuVEY2UFl2NkRJdEFGdEdNVk5STmhKdU1vOTFtRmhWcFFUNU55bnBYQWNQTEFVR1ZpdW1LUC1R?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-17T14:34:00.000Z",
-      "summary": ""
+      "titleZh": "你会让这个人形机器人为你做腹腔镜手术吗？"
     }
   ]
 }
