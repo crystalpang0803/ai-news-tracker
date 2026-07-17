@@ -1,36 +1,258 @@
 {
   "date": "2026-07-17",
-  "generatedAt": "2026-07-16T23:39:42.639Z",
+  "generatedAt": "2026-07-17T01:36:06.974Z",
   "items": [
     {
-      "title": "OpenAI 推出一系列官方周边，含 ChatGPT 篮球、Codex T 恤等",
-      "link": "https://www.ithome.com/0/977/830.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-16T22:50:05.000Z",
-      "summary": "OpenAI 推出官方周边产品，包括 ChatGPT 篮球和 Codex T 恤。",
-      "summaryZh": ""
-    },
-    {
-      "title": "谷歌据悉推迟发布Gemini 3.5 Pro，因持续提升模型编程能力",
-      "link": "https://36kr.com/newsflashes/3898936840701571?f=rss",
+      "title": "36氪首发 | 这家人形机器人ODM厂商获千万融资，飞荣达、索辰科技接连下注",
+      "link": "https://36kr.com/p/3899057634363266?f=rss",
       "source": "36氪",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-16T23:37:35.000Z",
-      "summary": "谷歌推迟发布Gemini 3.5 Pro，专注提升模型编程能力。",
+      "category": "robotics",
+      "pubDate": "2026-07-17T01:26:47.000Z",
+      "summary": "人形机器人ODM厂商半醒具身获千万融资，飞荣达、索辰科技投资。",
       "summaryZh": ""
     },
     {
-      "title": "1Password for Claude 上线：AI 交互场景下用户无需手动填写密码",
-      "link": "https://www.ithome.com/0/977/831.htm",
+      "title": "消息称谷歌旗舰 AI 模型 Gemini 3.5 Pro 已延期数月，技术表现未达目标",
+      "link": "https://www.ithome.com/0/977/847.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-16T22:59:30.000Z",
-      "summary": "1Password for Claude 推出，AI可自动填写密码完成多步骤任务。",
+      "pubDate": "2026-07-16T23:57:59.000Z",
+      "summary": "谷歌AI模型Gemini 3.5 Pro延期，技术表现未达预期。",
       "summaryZh": ""
+    },
+    {
+      "title": "9750亿参数！OpenAI前CTO的明星独角兽，发首个开放权重模型",
+      "link": "https://zhidx.com/p/576146.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-16T14:45:09.000Z",
+      "summary": "OpenAI前CTO创办的AI独角兽发布首个开放权重模型Inkling，参数量达9750亿。",
+      "summaryZh": ""
+    },
+    {
+      "title": "字节上车、英伟达架构调整、跑出第一股…自动驾驶开启下半场",
+      "link": "https://www.tmtpost.com/8067840.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-17T00:56:04.000Z",
+      "summary": "自动驾驶行业迎来下半场，巨头与新贵重构产业版图。",
+      "summaryZh": ""
+    },
+    {
+      "title": "钛晨报教育部增设27个职业教育新专业，2027年开始招生；日本拟采购2.75万颗英伟达Rubin芯片，开发本土机器人AI模型；DeepSeek估值超3500亿元",
+      "link": "https://www.tmtpost.com/8067923.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-16T23:20:00.000Z",
+      "summary": "教育部增设27个职业教育新专业，2027年开始招生，日本拟采购英伟达芯片开发AI模型，DeepSeek估值超3500亿元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "美国旧金山市长回应 Waymo 自动驾驶出租车事故，敦促交通部门加强监管",
+      "link": "https://www.ithome.com/0/977/850.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-17T00:08:39.000Z",
+      "summary": "旧金山市长敦促加州加强自动驾驶出租车监管。",
+      "summaryZh": ""
+    },
+    {
+      "title": "小米扔深水炸弹：100000h真实数据，首次系统验证机器人Scaling Law",
+      "link": "https://zhidx.com/p/576208.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-16T08:05:21.000Z",
+      "summary": "小米发布Xiaomi-Robotics-1具身基座模型，验证机器人Scaling Law，实现大规模数据训练。",
+      "summaryZh": ""
+    },
+    {
+      "title": "金山办公发布两款AI办公智能体，AI人工智能ETF平安(512930)日均成交2.82亿",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEeC1jNWxKekZGdnp2d0RCMzVMVF94NnlNWUtfVFA5TmwyZGJVZkRnLWxtTlZ2c1VFWVhDeFR3Q19RZE1uSGIzSXk1QW4yTlhnX3M5NWt3MVA?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-16T07:00:00.000Z",
+      "summary": "金山办公发布两款AI办公智能体，AI人工智能ETF平安日均成交2.82亿。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-16T15:31:09.000Z",
+      "summary": "OpenAI推出ChatGPT篮球，售价70美元。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 为什么要销售 ChatGPT 篮球？"
+    },
+    {
+      "title": "挚达科技全球首发“AI能源+机器人”一体化解决方案",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GVkhKV3l3R0E2emxqeWRMMmNuNmNZb2lQWmVCRnRtR1pKWXpKWGp0R3BlSm12OWxWd0dUZktCQVVtSEN5TG90Y3JBY1d5a25LYXpQbjBNSGh5UkE?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-16T19:21:22.000Z",
+      "summary": "挚达科技发布“AI能源+机器人”一体化解决方案，面向家庭和公共场景。",
+      "summaryZh": ""
+    },
+    {
+      "title": "一句哈哈引发的苹果OpenAI窃密大战",
+      "link": "https://www.qbitai.com/2026/07/450921.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-16T04:47:55.000Z",
+      "summary": "苹果因前员工访问内部网络引发与OpenAI的窃密诉讼。",
+      "summaryZh": ""
+    },
+    {
+      "title": "京东推出京麦AI经营中心，AI人工智能ETF平安(512930)备受关注",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45ek14dWFjUVlsM0FTMEVySFV0WElnSnJzb2ZoSUh5U0R6azRZLTI4RTZuTndaY3VrNlNOdTk3UTFFVENRU1JYMkl0c3dCQ1RjVm9rMnp3NWQ?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-16T07:00:00.000Z",
+      "summary": "京东推出京麦AI经营中心，AI人工智能ETF平安备受关注。",
+      "summaryZh": ""
+    },
+    {
+      "title": "MiniMax M3全球首发算力几毛一天！AI炒股或强于普通人下一代交互视频模型来了！︱未来・♾️",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5RnlxSHB1UXc4d204akU3UjNWeGhMY2tUdzVuTHhxR2Q3WjBfWlNLOW13QnI5cnVVSWxveWhmc04tdDk0Y1lia1g0UUtRNlhLeS1mSQ?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-16T14:53:36.000Z",
+      "summary": "MiniMax M3全球首发，AI炒股模型亮相，交互视频体验升级。",
+      "summaryZh": ""
+    },
+    {
+      "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SZGpwNTFsUmRldmVNWkpmTjQzUFNvWUVkX1RHd0NjZzk3UzR6OWVFVlY0anEtQnNFdmVwbGNGUUxHUmstY1pwUg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-16T03:15:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "焦点复盘科创50连续2日大跌超4%，算力硬件板块持续低迷，850亿“中药茅”现久违涨停",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIVEFxYjhGWDNjXzFTYjg0T3hKOEdUMmE0azUzMmhnb0tXSVhFNVdzZE4zd0lNYkhlWVkwb3NSc0tzZ1MzcVFPTg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-16T09:18:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "刚刚，逐际动力放出一段Demo，Figure：睡不着啊",
+      "link": "https://www.qbitai.com/2026/07/451084.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-16T08:04:18.000Z",
+      "summary": "逐际动力发布人形机器人Oli全自主家务Demo，展示长程移动操作能力突破。",
+      "summaryZh": ""
+    },
+    {
+      "title": "新信号！中国金融大模型及智能体市场份额出炉 蚂蚁数科位列第一",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yWC1lckZfTmVWUk1scmNCdnAwTTBUNE1nRE0zWVdnMDNPTmYyc0llM1pncmx3ZE9Zd19EcVNEYnpTcUk4SVpKamJyUQ?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-16T08:29:47.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
+      "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-16T20:07:14.000Z",
+      "summary": "Founders Fund聘请前OpenAI高管Ryan Beiermeister担任合伙人。",
+      "summaryZh": "",
+      "titleZh": "Founders Fund 聘请前 OpenAI 高管 Ryan Beiermeister（并不是因为她的“黑手党”技能）"
+    },
+    {
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-16T19:02:38.000Z",
+      "summary": "企业AI代理安全漏洞：过半企业已遭遇安全事件，多数代理共享凭证。",
+      "summaryZh": "",
+      "titleZh": "代理安全漏洞：54%的企业已经发生过人工智能代理事件，大多数企业仍然让代理共享凭证"
+    },
+    {
+      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+      "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-16T20:09:48.000Z",
+      "summary": "韩国现代汽车工厂工人因担心人形机器人而罢工。",
+      "summaryZh": "",
+      "titleZh": "对人形机器人的恐惧促使人类工人在现代汽车工厂罢工"
+    },
+    {
+      "title": "半年揽4亿美元融资，人形机器人进入上市生死局",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oTkgyOW5MZGlHRXpzbkdvaUFuWm1GWE1WMVhORjdXRllsSVJFdVE0MWhEMFBmYVkxWUw5bTdPS1NzM1JVQ0wySVdsYmoweHBBWXhTZlZKVQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-16T08:15:29.000Z",
+      "summary": "人形机器人逐际动力半年内融资4亿美元，筹备赴港上市。",
+      "summaryZh": ""
+    },
+    {
+      "title": "研报 | 照护、情感需求发酵，预估陪伴型人形机器人2030年产值达11亿美元",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93TVJwMGpCeERoUXlJZ2RPS0VpV2ZzdzhSajhXREZXTzRGU0trcDZ6NEN4Wmt6bDNBcERuYzloVnhSSEM2NDg1dTk0MmtmRG9uY1d0N05DMA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-16T02:43:14.000Z",
+      "summary": "预计2030年陪伴型人形机器人产值将达11亿美元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "TerraFirma raises $115M to build robotic infrastructure for construction",
+      "link": "https://www.therobotreport.com/terrafirma-raises-115m-build-robotic-infrastructure-construction/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-16T18:51:40.000Z",
+      "summary": "TerraFirma获1150万美元投资，用于建设建筑机器人基础设施。",
+      "summaryZh": "",
+      "titleZh": "TerraFirma 筹集 1.15 亿美元用于建设建筑机器人基础设施"
+    },
+    {
+      "title": "Lockheed Martin taps Machina’s robots for mission-critical missile parts",
+      "link": "https://www.therobotreport.com/lockheed-martin-taps-machinas-robots-for-mission-critical-missile-parts/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-16T12:30:12.000Z",
+      "summary": "Lockheed Martin采用Machina机器人制造关键导弹部件。",
+      "summaryZh": "",
+      "titleZh": "洛克希德·马丁公司利用 Machina 的机器人生产关键任务导弹零件"
+    },
+    {
+      "title": "无人车开上“丝绸之路”经济带，百度萝卜快跑全球化布局落子哈萨克斯坦",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LeFN0VXhFdVJELWF2T2x5YlZyYklnZEE3cmpPanJha2tXZ016dG11NE5ud3c1NFY1d1RzdmlTMlotd3I3RERiU1ZIakY4UWJVSTJVVDVrTzhRWkhBWVQ3aDUwcjU?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-07-16T12:50:00.000Z",
+      "summary": ""
     }
   ]
 }

@@ -373,8 +373,9 @@ async function aiDedupe(items) {
   try {
     const m = out.match(/\[[\d,\s]*\]/);
     if (!m) return items;
-    const drop = new Set(JSON.parse(m[0]).filter(n => Number.isInteger(n)));
+    const drop = new Set(JSON.parse(m[0]).filter(n => Number.isInteger(n) && n >= 0 && n < items.length));
     if (!drop.size) return items;
+    if (drop.size > items.length * 0.4) { console.log(`AI dedupe drop too large (${drop.size}), ignoring`); return items; }
     console.log(`AI dedupe removed ${drop.size} duplicate(s)`);
     return items.filter((_, i) => !drop.has(i));
   } catch { return items; }
@@ -474,8 +475,12 @@ async function main() {
       history = JSON.parse(fs.readFileSync(historyPath, 'utf8'));
       const cut = new Date(); cut.setDate(cut.getDate() - 14);
       const cutStr = cut.toISOString().split('T')[0];
+      const todayStr = getEditionDate();
       for (const [date, rec] of Object.entries(history)) {
-        if (date < cutStr) continue;
+        // Exclude today's own earlier runs: multiple daily cron runs must NOT dedup
+        // against each other (that would shrink the edition every run). Only avoid
+        // repeating content from PREVIOUS days.
+        if (date < cutStr || date === todayStr) continue;
         const links = Array.isArray(rec) ? rec : (rec.links || []);
         const titles = Array.isArray(rec) ? [] : (rec.titles || []);
         links.forEach(l => seenLinks.add(l));

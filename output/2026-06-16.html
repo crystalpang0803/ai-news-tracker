@@ -1,224 +1,111 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI & 机器人行业日报 - 2026-06-16</title>
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
-      background: #f8fafc;
-      color: #1e293b;
-      padding: 2.5rem 1.5rem;
-      max-width: 860px;
-      margin: 0 auto;
-      line-height: 1.6;
-    }
-    header {
-      text-align: center;
-      margin-bottom: 2rem;
-      padding-bottom: 1.5rem;
-      border-bottom: 2px solid #e2e8f0;
-    }
-    header h1 {
-      font-size: 2rem;
-      font-weight: 700;
-      color: #0369a1;
-      margin-bottom: 0.4rem;
-      letter-spacing: -0.5px;
-    }
-    header .date {
-      color: #64748b;
-      font-size: 0.9rem;
-    }
-    .nav {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      gap: 0.8rem;
-      margin-bottom: 2rem;
-    }
-    .nav a {
-      background: #ffffff;
-      color: #0369a1;
-      border: 1px solid #bae6fd;
-      padding: 0.5rem 1.2rem;
-      border-radius: 8px;
-      text-decoration: none;
-      font-size: 0.85rem;
-      font-weight: 500;
-      transition: all 0.2s;
-    }
-    .nav a:hover { background: #e0f2fe; border-color: #0ea5e9; }
-    .nav input[type="date"] {
-      background: #ffffff;
-      color: #1e293b;
-      border: 1px solid #cbd5e1;
-      padding: 0.5rem 0.8rem;
-      border-radius: 8px;
-      font-size: 0.85rem;
-    }
-    .category {
-      margin-bottom: 2rem;
-      background: #ffffff;
-      border-radius: 12px;
-      padding: 1.5rem;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
-    }
-    .category-header {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      margin-bottom: 1rem;
-      padding-bottom: 0.8rem;
-      border-bottom: 2px solid;
-    }
-    .category-icon { font-size: 1.3rem; }
-    .category h2 {
-      font-size: 1.1rem;
-      font-weight: 600;
-      color: #334155;
-    }
-    .news-item {
-      padding: 0.8rem 0;
-      border-bottom: 1px solid #f1f5f9;
-    }
-    .news-item:last-child { border-bottom: none; }
-    .news-item a {
-      color: #1e293b;
-      text-decoration: none;
-      display: block;
-      transition: color 0.2s;
-    }
-    .news-item a:hover { color: #0369a1; }
-    .main-title {
-      font-size: 0.95rem;
-      font-weight: 500;
-      line-height: 1.5;
-    }
-    .zh-title {
-      font-size: 0.85rem;
-      color: #64748b;
-      line-height: 1.5;
-      margin-top: 2px;
-      display: inline-block;
-    }
-    .source {
-      display: inline-block;
-      margin-top: 0.4rem;
-      font-size: 0.7rem;
-      color: #94a3b8;
-      background: #f1f5f9;
-      padding: 0.2rem 0.6rem;
-      border-radius: 4px;
-      font-weight: 500;
-    }
-    footer {
-      text-align: center;
-      color: #94a3b8;
-      font-size: 0.8rem;
-      margin-top: 2.5rem;
-      padding-top: 1.5rem;
-      border-top: 1px solid #e2e8f0;
-    }
-    @media (max-width: 600px) {
-      body { padding: 1.5rem 1rem; }
-      header h1 { font-size: 1.5rem; }
-      .category { padding: 1rem; }
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI & 机器人日报 · 2026-06-16</title>
+<style>
+  :root{color-scheme:light;--ink:#14171c;--muted:#6b7280;--line:#e7e9ec;--bg:#f2f3f5;--card:#ffffff;--accent:#e5484d;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased;}
+  a{color:inherit;text-decoration:none;}
+  .topbar{background:#111418;color:#fff;border-bottom:3px solid var(--accent);}
+  .topbar-inner{max-width:1120px;margin:0 auto;padding:0.95rem 1.5rem;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
+  .brand{font-size:1.4rem;font-weight:800;letter-spacing:-0.02em;display:flex;align-items:center;gap:0.5rem;}
+  .brand .dot{color:var(--accent);}
+  .masthead-meta{font-size:0.8rem;color:#a9afb8;font-variant-numeric:tabular-nums;}
+  .nav{max-width:1120px;margin:0 auto;padding:0.6rem 1.5rem;display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap;font-size:0.82rem;}
+  .nav a,.nav input{background:#fff;border:1px solid var(--line);border-radius:8px;padding:0.35rem 0.85rem;color:#374151;font-weight:600;transition:all .15s;}
+  .nav a:hover{border-color:var(--accent);color:var(--accent);}
+  .nav .spacer{flex:1;}
+  .wrap{max-width:1120px;margin:0 auto;padding:1.4rem 1.5rem 3rem;}
+
+  .hero{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:1.7rem 1.9rem;box-shadow:0 1px 2px rgba(16,24,40,.05);}
+  .hero .kicker{display:inline-flex;align-items:center;gap:.4rem;font-size:0.72rem;font-weight:800;letter-spacing:.08em;color:#fff;background:var(--accent);padding:0.24rem 0.65rem;border-radius:6px;margin-bottom:0.9rem;}
+  .hero h2{font-size:1.75rem;line-height:1.25;font-weight:800;letter-spacing:-0.015em;}
+  .hero .trans{margin-top:0.5rem;}
+  .hero .head{margin-top:0.95rem;}
+
+  /* Sticky jump-tab bar */
+  .tabs{position:sticky;top:0;z-index:20;display:flex;gap:0.5rem;flex-wrap:wrap;background:var(--bg);padding:0.8rem 0 0.7rem;margin:0.8rem 0 0.2rem;border-bottom:1px solid var(--line);}
+  .tab{background:#fff;border:1px solid var(--line);border-radius:999px;padding:0.5rem 1.05rem;font-family:inherit;font-size:0.94rem;font-weight:700;color:#4b5563;cursor:pointer;display:flex;align-items:center;gap:0.5rem;transition:all .15s;}
+  .tab:hover{border-color:#c7cbd1;color:var(--ink);}
+  .tab .ic{font-size:1rem;}
+  .tab .n{font-size:0.72rem;font-weight:800;opacity:.65;font-variant-numeric:tabular-nums;}
+  .tab.active{color:#fff;border-color:transparent;box-shadow:0 2px 8px rgba(16,24,40,.12);}
+  .tab.active .n{opacity:.95;}
+  .tab[data-cat="ai"].active{background:#2563eb;}
+  .tab[data-cat="robotics"].active{background:#7c3aed;}
+  .tab[data-cat="application"].active{background:#0d9488;}
+
+  /* Stacked sections */
+  .section{scroll-margin-top:72px;margin-top:1.7rem;}
+  .sec-head{display:flex;align-items:center;gap:0.5rem;margin-bottom:0.95rem;font-size:1.18rem;font-weight:800;letter-spacing:-0.01em;}
+  .sec-head .bar{width:4px;height:1.2rem;border-radius:2px;flex:none;}
+  .sec-head .ic{font-size:1.15rem;}
+  .sec-head .n{margin-left:0.15rem;font-size:0.74rem;font-weight:800;color:var(--muted);background:#eceef1;border-radius:999px;padding:0.08rem 0.55rem;}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:0.85rem;}
+
+  .item{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:0.95rem 1.1rem;transition:border-color .15s,box-shadow .15s,transform .15s;}
+  .item:hover{border-color:#d3d6db;box-shadow:0 6px 18px rgba(16,24,40,.07);transform:translateY(-1px);}
+  .head{display:flex;align-items:center;gap:0.45rem;font-size:0.74rem;color:var(--muted);margin-bottom:0.5rem;}
+  .head .cdot{width:7px;height:7px;border-radius:50%;flex:none;}
+  .head .src{font-weight:700;color:#4b5563;}
+  .head .sep{color:#cbd0d6;}
+  .head .time{color:#9aa1ab;font-variant-numeric:tabular-nums;}
+  .title{font-size:1.02rem;font-weight:680;line-height:1.42;color:var(--ink);display:block;}
+  .item:hover .title{color:var(--accent);}
+  .trans{display:block;margin-top:0.4rem;font-size:0.85rem;line-height:1.5;color:#8b9199;font-style:italic;}
+  .trans b{font-style:normal;font-weight:700;color:#9aa1ab;background:#f1f2f4;padding:0.02rem 0.4rem;border-radius:4px;margin-right:0.45rem;font-size:0.72rem;letter-spacing:.02em;}
+  .desc{margin-top:0.5rem;font-size:0.85rem;line-height:1.55;color:#565d68;}
+  .hero .desc{font-size:0.98rem;color:#3a4150;margin-top:0.65rem;}
+
+  footer{max-width:1120px;margin:0 auto;padding:1.5rem;text-align:center;color:#9aa1ab;font-size:0.78rem;border-top:1px solid var(--line);}
+  @media(max-width:760px){.grid{grid-template-columns:1fr;}.hero h2{font-size:1.35rem;}.wrap{padding:1rem;}}
+</style>
 </head>
 <body>
-  <header>
-    <h1>AI & 机器人行业日报</h1>
-    <p class="date">2026-06-16 | 共 12 条精选</p>
-  </header>
-  <div class="nav">
-    <a href="../index.html">🏠 主页</a>
-    <a href="2026-06-15.html">← 前一天</a>
-    <input type="date" value="2026-06-16" onchange="window.location.href=this.value+'.html'">
-    <a href="2026-06-17.html">后一天 →</a>
-  </div>
-  
-        <section class="category">
-          <div class="category-header" style="border-color: #0ea5e9">
-            <span class="category-icon">🤖</span>
-            <h2>AI 人工智能</h2>
-          </div>
-          
-        <div class="news-item">
-          <a href="https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/" target="_blank" rel="noopener"><span class="main-title">Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions</span><br><span class="zh-title">马来西亚人工智能代理驱动的消息应用 Respond.io 融资 6250 万美元，计划进行收购</span></a>
-          <span class="source">TechCrunch</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/" target="_blank" rel="noopener"><span class="main-title">Android 17 launches with new multitasking tools as Google expands Gemini features</span><br><span class="zh-title">随着谷歌扩展 Gemini 功能，Android 17 推出新的多任务工具</span></a>
-          <span class="source">TechCrunch</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/" target="_blank" rel="noopener"><span class="main-title">Leaked financial docs show OpenAI is losing billions of dollars a year</span><br><span class="zh-title">泄露的财务文件显示 OpenAI 每年损失数十亿美元</span></a>
-          <span class="source">Ars Technica</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://techxplore.com/news/2026-06-japan-tech-business-softbank-openai.html" target="_blank" rel="noopener"><span class="main-title">Japan's tech business SoftBank rolls out OpenAI 'patches' against cyberattacks</span><br><span class="zh-title">日本科技企业软银推出 OpenAI 针对网络攻击的“补丁”</span></a>
-          <span class="source">Tech Xplore</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://techxplore.com/news/2026-06-spacex-buys-ai-coding-startup.html" target="_blank" rel="noopener"><span class="main-title">SpaceX buys AI coding startup Cursor for $60 billion in race for an edge over Anthropic and OpenAI</span><br><span class="zh-title">SpaceX 以 600 亿美元收购人工智能编码初创公司 Cursor，以争夺对 Anthropic 和 OpenAI 的优势</span></a>
-          <span class="source">Tech Xplore</span>
-        </div>
-      
-        </section>
-      
-        <section class="category">
-          <div class="category-header" style="border-color: #6366f1">
-            <span class="category-icon">🦾</span>
-            <h2>机器人</h2>
-          </div>
-          
-        <div class="news-item">
-          <a href="https://www.therobotreport.com/kawasaki-robotics-debut-rl030n-physical-ai-platform-automate/" target="_blank" rel="noopener"><span class="main-title">Kawasaki Robotics to debut RL030N physical AI platform at Automate</span><br><span class="zh-title">川崎机器人公司将在 Automate 展会上首次亮相 RL030N 物理人工智能平台</span></a>
-          <span class="source">The Robot Report</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://www.therobotreport.com/xlab-and-built-robotics-partner-to-advance-construction/" target="_blank" rel="noopener"><span class="main-title">Built Robotics, Penn xLAB to develop physical AI for construction</span><br><span class="zh-title">Building Robotics 与 Penn xLAB 共同开发用于建筑的物理人工智能</span></a>
-          <span class="source">The Robot Report</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://36kr.com/p/3855262364488969?f=rss" target="_blank" rel="noopener"><span class="main-title">融了数亿美金的「大晓机器人」，其创始人揭开了具身行业的割裂一面</span></a>
-          <span class="source">36氪</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/" target="_blank" rel="noopener"><span class="main-title">Mobileye’s US robotaxi launch will put it on both sides of the AV business</span><br><span class="zh-title">Mobileye 在美国推出机器人出租车，将进军自动驾驶领域</span></a>
-          <span class="source">TechCrunch</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/" target="_blank" rel="noopener"><span class="main-title">This startup’s super metals could soon be in military drones, luxury watches, and chef’s knives</span><br><span class="zh-title">这家初创公司的超级金属很快就会出现在军用无人机、豪华手表和厨师刀中</span></a>
-          <span class="source">TechCrunch</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://www.therobotreport.com/genesis-ai-launches-eno-general-purpose-robot/" target="_blank" rel="noopener"><span class="main-title">Genesis AI launches Eno general-purpose robot</span><br><span class="zh-title">Genesis AI推出Eno通用机器人</span></a>
-          <span class="source">The Robot Report</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://techxplore.com/news/2026-06-elephant-trunk-skin-reveals-reshape.html" target="_blank" rel="noopener"><span class="main-title">Elephant trunk skin reveals design that could reshape soft robotics</span><br><span class="zh-title">象鼻皮肤揭示了可以重塑软机器人的设计</span></a>
-          <span class="source">Tech Xplore</span>
-        </div>
-      
-        </section>
-      
-  <footer>
-    <p>数据来源：60+ 中英文科技媒体 | 自动生成于 18:23:02</p>
-  </footer>
+<div class="topbar"><div class="topbar-inner">
+  <a href="../index.html" class="brand"><span class="dot">●</span> AI &amp; 机器人日报</a>
+  <span class="masthead-meta">2026-06-16 · 每日精选 12 条</span>
+</div></div>
+<div class="nav">
+  <a href="../index.html">🏠 首页</a>
+  <a href="2026-06-15.html">← 前一天</a>
+  <a href="2026-06-17.html">后一天 →</a>
+  <span class="spacer"></span>
+  <input type="date" value="2026-06-16" onchange="if(this.value)window.location.href=this.value+'.html'">
+</div>
+<div class="wrap">
+  <div class="hero"><span class="kicker">🔥 今日头条</span><h2><a href="https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/" target="_blank" rel="noopener">Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions</a></h2><span class="trans"><b>中文翻译</b>马来西亚人工智能代理驱动的消息应用 Respond.io 融资 6250 万美元，计划进行收购</span><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">TechCrunch</span><span class="sep">·</span><span class="time">2026-06-16</span></div></div>
+  <div class="tabs"><a class="tab active" data-cat="ai" href="#sec-ai"><span class="ic">🖥️</span>AI 人工智能<span class="n">4</span></a><a class="tab" data-cat="robotics" href="#sec-robotics"><span class="ic">🤖</span>机器人<span class="n">7</span></a></div>
+  <section class="section" id="sec-ai" data-cat="ai">
+      <div class="sec-head"><span class="bar" style="background:#2563eb"></span><span class="ic">🖥️</span>AI 人工智能<span class="n">4 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">TechCrunch</span><span class="sep">·</span><span class="time">2026-06-16</span></div><a class="title" href="https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/" target="_blank" rel="noopener">Android 17 launches with new multitasking tools as Google expands Gemini features</a><span class="trans"><b>中文翻译</b>随着谷歌扩展 Gemini 功能，Android 17 推出新的多任务工具</span></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">Ars Technica</span><span class="sep">·</span><span class="time">2026-06-16</span></div><a class="title" href="https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/" target="_blank" rel="noopener">Leaked financial docs show OpenAI is losing billions of dollars a year</a><span class="trans"><b>中文翻译</b>泄露的财务文件显示 OpenAI 每年损失数十亿美元</span></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">Tech Xplore</span><span class="sep">·</span><span class="time">2026-06-16</span></div><a class="title" href="https://techxplore.com/news/2026-06-japan-tech-business-softbank-openai.html" target="_blank" rel="noopener">Japan's tech business SoftBank rolls out OpenAI 'patches' against cyberattacks</a><span class="trans"><b>中文翻译</b>日本科技企业软银推出 OpenAI 针对网络攻击的“补丁”</span></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">Tech Xplore</span><span class="sep">·</span><span class="time">2026-06-16</span></div><a class="title" href="https://techxplore.com/news/2026-06-spacex-buys-ai-coding-startup.html" target="_blank" rel="noopener">SpaceX buys AI coding startup Cursor for $60 billion in race for an edge over Anthropic and OpenAI</a><span class="trans"><b>中文翻译</b>SpaceX 以 600 亿美元收购人工智能编码初创公司 Cursor，以争夺对 Anthropic 和 OpenAI 的优势</span></div></div>
+    </section><section class="section" id="sec-robotics" data-cat="robotics">
+      <div class="sec-head"><span class="bar" style="background:#7c3aed"></span><span class="ic">🤖</span>机器人<span class="n">7 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">The Robot Report</span><span class="sep">·</span><span class="time">2026-06-16</span></div><a class="title" href="https://www.therobotreport.com/kawasaki-robotics-debut-rl030n-physical-ai-platform-automate/" target="_blank" rel="noopener">Kawasaki Robotics to debut RL030N physical AI platform at Automate</a><span class="trans"><b>中文翻译</b>川崎机器人公司将在 Automate 展会上首次亮相 RL030N 物理人工智能平台</span></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">The Robot Report</span><span class="sep">·</span><span class="time">2026-06-16</span></div><a class="title" href="https://www.therobotreport.com/xlab-and-built-robotics-partner-to-advance-construction/" target="_blank" rel="noopener">Built Robotics, Penn xLAB to develop physical AI for construction</a><span class="trans"><b>中文翻译</b>Building Robotics 与 Penn xLAB 共同开发用于建筑的物理人工智能</span></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-06-16</span></div><a class="title" href="https://36kr.com/p/3855262364488969?f=rss" target="_blank" rel="noopener">融了数亿美金的「大晓机器人」，其创始人揭开了具身行业的割裂一面</a></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">TechCrunch</span><span class="sep">·</span><span class="time">2026-06-16</span></div><a class="title" href="https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/" target="_blank" rel="noopener">Mobileye’s US robotaxi launch will put it on both sides of the AV business</a><span class="trans"><b>中文翻译</b>Mobileye 在美国推出机器人出租车，将进军自动驾驶领域</span></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">TechCrunch</span><span class="sep">·</span><span class="time">2026-06-16</span></div><a class="title" href="https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/" target="_blank" rel="noopener">This startup’s super metals could soon be in military drones, luxury watches, and chef’s knives</a><span class="trans"><b>中文翻译</b>这家初创公司的超级金属很快就会出现在军用无人机、豪华手表和厨师刀中</span></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">The Robot Report</span><span class="sep">·</span><span class="time">2026-06-16</span></div><a class="title" href="https://www.therobotreport.com/genesis-ai-launches-eno-general-purpose-robot/" target="_blank" rel="noopener">Genesis AI launches Eno general-purpose robot</a><span class="trans"><b>中文翻译</b>Genesis AI推出Eno通用机器人</span></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">Tech Xplore</span><span class="sep">·</span><span class="time">2026-06-16</span></div><a class="title" href="https://techxplore.com/news/2026-06-elephant-trunk-skin-reveals-reshape.html" target="_blank" rel="noopener">Elephant trunk skin reveals design that could reshape soft robotics</a><span class="trans"><b>中文翻译</b>象鼻皮肤揭示了可以重塑软机器人的设计</span></div></div>
+    </section>
+</div>
+<footer>数据来源：80+ 中英文科技与产业媒体（中文优先）· 自动生成于 2026/7/10 17:12:23（北京时间）</footer>
+<script>
+  (function(){
+    var tabs = Array.prototype.slice.call(document.querySelectorAll('.tab'));
+    var map = {}; tabs.forEach(function(t){ map[t.getAttribute('data-cat')] = t; });
+    var secs = Array.prototype.slice.call(document.querySelectorAll('.section'));
+    if(!secs.length || !('IntersectionObserver' in window)) return;
+    var obs = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){
+        if(en.isIntersecting){
+          var cat = en.target.getAttribute('data-cat');
+          tabs.forEach(function(x){ x.classList.remove('active'); });
+          if(map[cat]) map[cat].classList.add('active');
+        }
+      });
+    }, { rootMargin: '-72px 0px -55% 0px', threshold: 0 });
+    secs.forEach(function(s){ obs.observe(s); });
+  })();
+</script>
 </body>
 </html>

@@ -1,232 +1,114 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI & 机器人行业日报 - 2026-06-15</title>
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
-      background: #f8fafc;
-      color: #1e293b;
-      padding: 2.5rem 1.5rem;
-      max-width: 860px;
-      margin: 0 auto;
-      line-height: 1.6;
-    }
-    header {
-      text-align: center;
-      margin-bottom: 2rem;
-      padding-bottom: 1.5rem;
-      border-bottom: 2px solid #e2e8f0;
-    }
-    header h1 {
-      font-size: 2rem;
-      font-weight: 700;
-      color: #0369a1;
-      margin-bottom: 0.4rem;
-      letter-spacing: -0.5px;
-    }
-    header .date {
-      color: #64748b;
-      font-size: 0.9rem;
-    }
-    .nav {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      gap: 0.8rem;
-      margin-bottom: 2rem;
-    }
-    .nav a {
-      background: #ffffff;
-      color: #0369a1;
-      border: 1px solid #bae6fd;
-      padding: 0.5rem 1.2rem;
-      border-radius: 8px;
-      text-decoration: none;
-      font-size: 0.85rem;
-      font-weight: 500;
-      transition: all 0.2s;
-    }
-    .nav a:hover { background: #e0f2fe; border-color: #0ea5e9; }
-    .nav input[type="date"] {
-      background: #ffffff;
-      color: #1e293b;
-      border: 1px solid #cbd5e1;
-      padding: 0.5rem 0.8rem;
-      border-radius: 8px;
-      font-size: 0.85rem;
-    }
-    .category {
-      margin-bottom: 2rem;
-      background: #ffffff;
-      border-radius: 12px;
-      padding: 1.5rem;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
-    }
-    .category-header {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      margin-bottom: 1rem;
-      padding-bottom: 0.8rem;
-      border-bottom: 2px solid;
-    }
-    .category-icon { font-size: 1.3rem; }
-    .category h2 {
-      font-size: 1.1rem;
-      font-weight: 600;
-      color: #334155;
-    }
-    .news-item {
-      padding: 0.8rem 0;
-      border-bottom: 1px solid #f1f5f9;
-    }
-    .news-item:last-child { border-bottom: none; }
-    .news-item a {
-      color: #1e293b;
-      text-decoration: none;
-      display: block;
-      transition: color 0.2s;
-    }
-    .news-item a:hover { color: #0369a1; }
-    .main-title {
-      font-size: 0.95rem;
-      font-weight: 500;
-      line-height: 1.5;
-    }
-    .zh-title {
-      font-size: 0.85rem;
-      color: #64748b;
-      line-height: 1.5;
-      margin-top: 2px;
-      display: inline-block;
-    }
-    .source {
-      display: inline-block;
-      margin-top: 0.4rem;
-      font-size: 0.7rem;
-      color: #94a3b8;
-      background: #f1f5f9;
-      padding: 0.2rem 0.6rem;
-      border-radius: 4px;
-      font-weight: 500;
-    }
-    footer {
-      text-align: center;
-      color: #94a3b8;
-      font-size: 0.8rem;
-      margin-top: 2.5rem;
-      padding-top: 1.5rem;
-      border-top: 1px solid #e2e8f0;
-    }
-    @media (max-width: 600px) {
-      body { padding: 1.5rem 1rem; }
-      header h1 { font-size: 1.5rem; }
-      .category { padding: 1rem; }
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI & 机器人日报 · 2026-06-15</title>
+<style>
+  :root{color-scheme:light;--ink:#14171c;--muted:#6b7280;--line:#e7e9ec;--bg:#f2f3f5;--card:#ffffff;--accent:#e5484d;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased;}
+  a{color:inherit;text-decoration:none;}
+  .topbar{background:#111418;color:#fff;border-bottom:3px solid var(--accent);}
+  .topbar-inner{max-width:1120px;margin:0 auto;padding:0.95rem 1.5rem;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
+  .brand{font-size:1.4rem;font-weight:800;letter-spacing:-0.02em;display:flex;align-items:center;gap:0.5rem;}
+  .brand .dot{color:var(--accent);}
+  .masthead-meta{font-size:0.8rem;color:#a9afb8;font-variant-numeric:tabular-nums;}
+  .nav{max-width:1120px;margin:0 auto;padding:0.6rem 1.5rem;display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap;font-size:0.82rem;}
+  .nav a,.nav input{background:#fff;border:1px solid var(--line);border-radius:8px;padding:0.35rem 0.85rem;color:#374151;font-weight:600;transition:all .15s;}
+  .nav a:hover{border-color:var(--accent);color:var(--accent);}
+  .nav .spacer{flex:1;}
+  .wrap{max-width:1120px;margin:0 auto;padding:1.4rem 1.5rem 3rem;}
+
+  .hero{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:1.7rem 1.9rem;box-shadow:0 1px 2px rgba(16,24,40,.05);}
+  .hero .kicker{display:inline-flex;align-items:center;gap:.4rem;font-size:0.72rem;font-weight:800;letter-spacing:.08em;color:#fff;background:var(--accent);padding:0.24rem 0.65rem;border-radius:6px;margin-bottom:0.9rem;}
+  .hero h2{font-size:1.75rem;line-height:1.25;font-weight:800;letter-spacing:-0.015em;}
+  .hero .trans{margin-top:0.5rem;}
+  .hero .head{margin-top:0.95rem;}
+
+  /* Sticky jump-tab bar */
+  .tabs{position:sticky;top:0;z-index:20;display:flex;gap:0.5rem;flex-wrap:wrap;background:var(--bg);padding:0.8rem 0 0.7rem;margin:0.8rem 0 0.2rem;border-bottom:1px solid var(--line);}
+  .tab{background:#fff;border:1px solid var(--line);border-radius:999px;padding:0.5rem 1.05rem;font-family:inherit;font-size:0.94rem;font-weight:700;color:#4b5563;cursor:pointer;display:flex;align-items:center;gap:0.5rem;transition:all .15s;}
+  .tab:hover{border-color:#c7cbd1;color:var(--ink);}
+  .tab .ic{font-size:1rem;}
+  .tab .n{font-size:0.72rem;font-weight:800;opacity:.65;font-variant-numeric:tabular-nums;}
+  .tab.active{color:#fff;border-color:transparent;box-shadow:0 2px 8px rgba(16,24,40,.12);}
+  .tab.active .n{opacity:.95;}
+  .tab[data-cat="ai"].active{background:#2563eb;}
+  .tab[data-cat="robotics"].active{background:#7c3aed;}
+  .tab[data-cat="application"].active{background:#0d9488;}
+
+  /* Stacked sections */
+  .section{scroll-margin-top:72px;margin-top:1.7rem;}
+  .sec-head{display:flex;align-items:center;gap:0.5rem;margin-bottom:0.95rem;font-size:1.18rem;font-weight:800;letter-spacing:-0.01em;}
+  .sec-head .bar{width:4px;height:1.2rem;border-radius:2px;flex:none;}
+  .sec-head .ic{font-size:1.15rem;}
+  .sec-head .n{margin-left:0.15rem;font-size:0.74rem;font-weight:800;color:var(--muted);background:#eceef1;border-radius:999px;padding:0.08rem 0.55rem;}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:0.85rem;}
+
+  .item{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:0.95rem 1.1rem;transition:border-color .15s,box-shadow .15s,transform .15s;}
+  .item:hover{border-color:#d3d6db;box-shadow:0 6px 18px rgba(16,24,40,.07);transform:translateY(-1px);}
+  .head{display:flex;align-items:center;gap:0.45rem;font-size:0.74rem;color:var(--muted);margin-bottom:0.5rem;}
+  .head .cdot{width:7px;height:7px;border-radius:50%;flex:none;}
+  .head .src{font-weight:700;color:#4b5563;}
+  .head .sep{color:#cbd0d6;}
+  .head .time{color:#9aa1ab;font-variant-numeric:tabular-nums;}
+  .title{font-size:1.02rem;font-weight:680;line-height:1.42;color:var(--ink);display:block;}
+  .item:hover .title{color:var(--accent);}
+  .trans{display:block;margin-top:0.4rem;font-size:0.85rem;line-height:1.5;color:#8b9199;font-style:italic;}
+  .trans b{font-style:normal;font-weight:700;color:#9aa1ab;background:#f1f2f4;padding:0.02rem 0.4rem;border-radius:4px;margin-right:0.45rem;font-size:0.72rem;letter-spacing:.02em;}
+  .desc{margin-top:0.5rem;font-size:0.85rem;line-height:1.55;color:#565d68;}
+  .hero .desc{font-size:0.98rem;color:#3a4150;margin-top:0.65rem;}
+
+  footer{max-width:1120px;margin:0 auto;padding:1.5rem;text-align:center;color:#9aa1ab;font-size:0.78rem;border-top:1px solid var(--line);}
+  @media(max-width:760px){.grid{grid-template-columns:1fr;}.hero h2{font-size:1.35rem;}.wrap{padding:1rem;}}
+</style>
 </head>
 <body>
-  <header>
-    <h1>AI & 机器人行业日报</h1>
-    <p class="date">2026-06-15 | 共 12 条精选</p>
-  </header>
-  <div class="nav">
-    <a href="../index.html">🏠 主页</a>
-    <a href="2026-06-14.html">← 前一天</a>
-    <input type="date" value="2026-06-15" onchange="window.location.href=this.value+'.html'">
-    <a href="2026-06-16.html">后一天 →</a>
-  </div>
-  
-        <section class="category">
-          <div class="category-header" style="border-color: #0ea5e9">
-            <span class="category-icon">🤖</span>
-            <h2>AI 人工智能</h2>
-          </div>
-          
-        <div class="news-item">
-          <a href="https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general?srnd=phx-technology" target="_blank" rel="noopener"><span class="main-title">OpenAI Probed by Coalition of State Attorneys General</span><br><span class="zh-title">OpenAI 受到州总检察长联盟的调查</span></a>
-          <span class="source">Bloomberg Tech</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://www.163.com/dy/article/KVB3VKCF055284JB.html" target="_blank" rel="noopener"><span class="main-title">Claude最强模型全球禁用 智谱：AI的未来是开放</span></a>
-          <span class="source">网易科技</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://www.163.com/dy/article/KVET60AV0512B07B.html" target="_blank" rel="noopener"><span class="main-title">OpenAI再收传票；星源智发布具身交互世界模型｜ 07:52</span></a>
-          <span class="source">网易科技</span>
-        </div>
-      
-        </section>
-      
-        <section class="category">
-          <div class="category-header" style="border-color: #6366f1">
-            <span class="category-icon">🦾</span>
-            <h2>机器人</h2>
-          </div>
-          
-        <div class="news-item">
-          <a href="https://www.robot-china.com/news/202606/09/95844.html" target="_blank" rel="noopener"><span class="main-title">具身智能下半场，开普勒走出人形机器人产业整合新路径</span></a>
-          <span class="source">中国机器人网</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://36kr.com/p/3853670570743040?f=rss" target="_blank" rel="noopener"><span class="main-title">8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买</span></a>
-          <span class="source">36氪</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://www.robot-china.com/news/202606/09/95843.html" target="_blank" rel="noopener"><span class="main-title">斩获机器人界“诺贝尔奖”，卧安机器人家庭具身智能路线获产业验证</span></a>
-          <span class="source">中国机器人网</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://www.robot-china.com/news/202606/01/95796.html" target="_blank" rel="noopener"><span class="main-title">第10000台下线！刷新量产速度纪录，国产具身智能机器人走向“真交付”</span></a>
-          <span class="source">中国机器人网</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://www.robot-china.com/news/202605/26/95753.html" target="_blank" rel="noopener"><span class="main-title">LimX Luna 发布：定义新一代交互型全尺寸人形机器人</span></a>
-          <span class="source">中国机器人网</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://www.robot-china.com/news/202605/25/95733.html" target="_blank" rel="noopener"><span class="main-title">人力成本直降40%！方寸1㎡，国产协作机器人引爆产线效率革命</span></a>
-          <span class="source">中国机器人网</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://36kr.com/p/3853011900142848?f=rss" target="_blank" rel="noopener"><span class="main-title">硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎、淡马锡押注</span></a>
-          <span class="source">36氪</span>
-        </div>
-      
-        </section>
-      
-        <section class="category">
-          <div class="category-header" style="border-color: #059669">
-            <span class="category-icon">🏪</span>
-            <h2>商业应用</h2>
-          </div>
-          
-        <div class="news-item">
-          <a href="https://www.restaurantdive.com/news/chickfila-ghost-kitchen-miami-cloudkitchens/822013/" target="_blank" rel="noopener"><span class="main-title">Chick-fil-A opens ghost kitchen in Miami</span><br><span class="zh-title">Chick-fil-A 在迈阿密开设幽灵厨房</span></a>
-          <span class="source">Restaurant Dive</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://www.inc.com/jennifer-conrad/goop-turned-a-ghost-kitchen-into-new-yorks-hottest-restaurant/91335339" target="_blank" rel="noopener"><span class="main-title">How Goop Turned a Ghost Kitchen Into New York’s Hottest Restaurant</span><br><span class="zh-title">Goop 如何将幽灵厨房变成纽约最热门的餐厅</span></a>
-          <span class="source">Restaurant Dive</span>
-        </div>
-      
-        </section>
-      
-  <footer>
-    <p>数据来源：60+ 中英文科技媒体 | 自动生成于 10:23:44</p>
-  </footer>
+<div class="topbar"><div class="topbar-inner">
+  <a href="../index.html" class="brand"><span class="dot">●</span> AI &amp; 机器人日报</a>
+  <span class="masthead-meta">2026-06-15 · 每日精选 12 条</span>
+</div></div>
+<div class="nav">
+  <a href="../index.html">🏠 首页</a>
+  <a href="2026-06-14.html">← 前一天</a>
+  <a href="2026-06-16.html">后一天 →</a>
+  <span class="spacer"></span>
+  <input type="date" value="2026-06-15" onchange="if(this.value)window.location.href=this.value+'.html'">
+</div>
+<div class="wrap">
+  <div class="hero"><span class="kicker">🔥 今日头条</span><h2><a href="https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general?srnd=phx-technology" target="_blank" rel="noopener">OpenAI Probed by Coalition of State Attorneys General</a></h2><span class="trans"><b>中文翻译</b>OpenAI 受到州总检察长联盟的调查</span><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">Bloomberg Tech</span><span class="sep">·</span><span class="time">2026-06-15</span></div></div>
+  <div class="tabs"><a class="tab active" data-cat="ai" href="#sec-ai"><span class="ic">🖥️</span>AI 人工智能<span class="n">2</span></a><a class="tab" data-cat="robotics" href="#sec-robotics"><span class="ic">🤖</span>机器人<span class="n">7</span></a><a class="tab" data-cat="application" href="#sec-application"><span class="ic">🏪</span>商业应用<span class="n">2</span></a></div>
+  <section class="section" id="sec-ai" data-cat="ai">
+      <div class="sec-head"><span class="bar" style="background:#2563eb"></span><span class="ic">🖥️</span>AI 人工智能<span class="n">2 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">网易科技</span><span class="sep">·</span><span class="time">2026-06-15</span></div><a class="title" href="https://www.163.com/dy/article/KVB3VKCF055284JB.html" target="_blank" rel="noopener">Claude最强模型全球禁用 智谱：AI的未来是开放</a></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">网易科技</span><span class="sep">·</span><span class="time">2026-06-15</span></div><a class="title" href="https://www.163.com/dy/article/KVET60AV0512B07B.html" target="_blank" rel="noopener">OpenAI再收传票；星源智发布具身交互世界模型｜ 07:52</a></div></div>
+    </section><section class="section" id="sec-robotics" data-cat="robotics">
+      <div class="sec-head"><span class="bar" style="background:#7c3aed"></span><span class="ic">🤖</span>机器人<span class="n">7 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">中国机器人网</span><span class="sep">·</span><span class="time">2026-06-15</span></div><a class="title" href="https://www.robot-china.com/news/202606/09/95844.html" target="_blank" rel="noopener">具身智能下半场，开普勒走出人形机器人产业整合新路径</a></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-06-15</span></div><a class="title" href="https://36kr.com/p/3853670570743040?f=rss" target="_blank" rel="noopener">8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买</a></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">中国机器人网</span><span class="sep">·</span><span class="time">2026-06-15</span></div><a class="title" href="https://www.robot-china.com/news/202606/09/95843.html" target="_blank" rel="noopener">斩获机器人界“诺贝尔奖”，卧安机器人家庭具身智能路线获产业验证</a></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">中国机器人网</span><span class="sep">·</span><span class="time">2026-06-15</span></div><a class="title" href="https://www.robot-china.com/news/202606/01/95796.html" target="_blank" rel="noopener">第10000台下线！刷新量产速度纪录，国产具身智能机器人走向“真交付”</a></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">中国机器人网</span><span class="sep">·</span><span class="time">2026-06-15</span></div><a class="title" href="https://www.robot-china.com/news/202605/26/95753.html" target="_blank" rel="noopener">LimX Luna 发布：定义新一代交互型全尺寸人形机器人</a></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">中国机器人网</span><span class="sep">·</span><span class="time">2026-06-15</span></div><a class="title" href="https://www.robot-china.com/news/202605/25/95733.html" target="_blank" rel="noopener">人力成本直降40%！方寸1㎡，国产协作机器人引爆产线效率革命</a></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-06-15</span></div><a class="title" href="https://36kr.com/p/3853011900142848?f=rss" target="_blank" rel="noopener">硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎、淡马锡押注</a></div></div>
+    </section><section class="section" id="sec-application" data-cat="application">
+      <div class="sec-head"><span class="bar" style="background:#0d9488"></span><span class="ic">🏪</span>商业应用<span class="n">2 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#0d9488"></span><span class="src">Restaurant Dive</span><span class="sep">·</span><span class="time">2026-06-15</span></div><a class="title" href="https://www.restaurantdive.com/news/chickfila-ghost-kitchen-miami-cloudkitchens/822013/" target="_blank" rel="noopener">Chick-fil-A opens ghost kitchen in Miami</a><span class="trans"><b>中文翻译</b>Chick-fil-A 在迈阿密开设幽灵厨房</span></div><div class="item"><div class="head"><span class="cdot" style="background:#0d9488"></span><span class="src">Restaurant Dive</span><span class="sep">·</span><span class="time">2026-06-15</span></div><a class="title" href="https://www.inc.com/jennifer-conrad/goop-turned-a-ghost-kitchen-into-new-yorks-hottest-restaurant/91335339" target="_blank" rel="noopener">How Goop Turned a Ghost Kitchen Into New York’s Hottest Restaurant</a><span class="trans"><b>中文翻译</b>Goop 如何将幽灵厨房变成纽约最热门的餐厅</span></div></div>
+    </section>
+</div>
+<footer>数据来源：80+ 中英文科技与产业媒体（中文优先）· 自动生成于 2026/7/10 17:12:23（北京时间）</footer>
+<script>
+  (function(){
+    var tabs = Array.prototype.slice.call(document.querySelectorAll('.tab'));
+    var map = {}; tabs.forEach(function(t){ map[t.getAttribute('data-cat')] = t; });
+    var secs = Array.prototype.slice.call(document.querySelectorAll('.section'));
+    if(!secs.length || !('IntersectionObserver' in window)) return;
+    var obs = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){
+        if(en.isIntersecting){
+          var cat = en.target.getAttribute('data-cat');
+          tabs.forEach(function(x){ x.classList.remove('active'); });
+          if(map[cat]) map[cat].classList.add('active');
+        }
+      });
+    }, { rootMargin: '-72px 0px -55% 0px', threshold: 0 });
+    secs.forEach(function(s){ obs.observe(s); });
+  })();
+</script>
 </body>
 </html>

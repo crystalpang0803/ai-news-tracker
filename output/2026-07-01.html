@@ -1,232 +1,114 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI & 机器人行业日报 - 2026-07-01</title>
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
-      background: #f8fafc;
-      color: #1e293b;
-      padding: 2.5rem 1.5rem;
-      max-width: 860px;
-      margin: 0 auto;
-      line-height: 1.6;
-    }
-    header {
-      text-align: center;
-      margin-bottom: 2rem;
-      padding-bottom: 1.5rem;
-      border-bottom: 2px solid #e2e8f0;
-    }
-    header h1 {
-      font-size: 2rem;
-      font-weight: 700;
-      color: #0369a1;
-      margin-bottom: 0.4rem;
-      letter-spacing: -0.5px;
-    }
-    header .date {
-      color: #64748b;
-      font-size: 0.9rem;
-    }
-    .nav {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      gap: 0.8rem;
-      margin-bottom: 2rem;
-    }
-    .nav a {
-      background: #ffffff;
-      color: #0369a1;
-      border: 1px solid #bae6fd;
-      padding: 0.5rem 1.2rem;
-      border-radius: 8px;
-      text-decoration: none;
-      font-size: 0.85rem;
-      font-weight: 500;
-      transition: all 0.2s;
-    }
-    .nav a:hover { background: #e0f2fe; border-color: #0ea5e9; }
-    .nav input[type="date"] {
-      background: #ffffff;
-      color: #1e293b;
-      border: 1px solid #cbd5e1;
-      padding: 0.5rem 0.8rem;
-      border-radius: 8px;
-      font-size: 0.85rem;
-    }
-    .category {
-      margin-bottom: 2rem;
-      background: #ffffff;
-      border-radius: 12px;
-      padding: 1.5rem;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
-    }
-    .category-header {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      margin-bottom: 1rem;
-      padding-bottom: 0.8rem;
-      border-bottom: 2px solid;
-    }
-    .category-icon { font-size: 1.3rem; }
-    .category h2 {
-      font-size: 1.1rem;
-      font-weight: 600;
-      color: #334155;
-    }
-    .news-item {
-      padding: 0.8rem 0;
-      border-bottom: 1px solid #f1f5f9;
-    }
-    .news-item:last-child { border-bottom: none; }
-    .news-item a {
-      color: #1e293b;
-      text-decoration: none;
-      display: block;
-      transition: color 0.2s;
-    }
-    .news-item a:hover { color: #0369a1; }
-    .main-title {
-      font-size: 0.95rem;
-      font-weight: 500;
-      line-height: 1.5;
-    }
-    .zh-title {
-      font-size: 0.85rem;
-      color: #64748b;
-      line-height: 1.5;
-      margin-top: 2px;
-      display: inline-block;
-    }
-    .source {
-      display: inline-block;
-      margin-top: 0.4rem;
-      font-size: 0.7rem;
-      color: #94a3b8;
-      background: #f1f5f9;
-      padding: 0.2rem 0.6rem;
-      border-radius: 4px;
-      font-weight: 500;
-    }
-    footer {
-      text-align: center;
-      color: #94a3b8;
-      font-size: 0.8rem;
-      margin-top: 2.5rem;
-      padding-top: 1.5rem;
-      border-top: 1px solid #e2e8f0;
-    }
-    @media (max-width: 600px) {
-      body { padding: 1.5rem 1rem; }
-      header h1 { font-size: 1.5rem; }
-      .category { padding: 1rem; }
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI & 机器人日报 · 2026-07-01</title>
+<style>
+  :root{color-scheme:light;--ink:#14171c;--muted:#6b7280;--line:#e7e9ec;--bg:#f2f3f5;--card:#ffffff;--accent:#e5484d;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased;}
+  a{color:inherit;text-decoration:none;}
+  .topbar{background:#111418;color:#fff;border-bottom:3px solid var(--accent);}
+  .topbar-inner{max-width:1120px;margin:0 auto;padding:0.95rem 1.5rem;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
+  .brand{font-size:1.4rem;font-weight:800;letter-spacing:-0.02em;display:flex;align-items:center;gap:0.5rem;}
+  .brand .dot{color:var(--accent);}
+  .masthead-meta{font-size:0.8rem;color:#a9afb8;font-variant-numeric:tabular-nums;}
+  .nav{max-width:1120px;margin:0 auto;padding:0.6rem 1.5rem;display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap;font-size:0.82rem;}
+  .nav a,.nav input{background:#fff;border:1px solid var(--line);border-radius:8px;padding:0.35rem 0.85rem;color:#374151;font-weight:600;transition:all .15s;}
+  .nav a:hover{border-color:var(--accent);color:var(--accent);}
+  .nav .spacer{flex:1;}
+  .wrap{max-width:1120px;margin:0 auto;padding:1.4rem 1.5rem 3rem;}
+
+  .hero{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:1.7rem 1.9rem;box-shadow:0 1px 2px rgba(16,24,40,.05);}
+  .hero .kicker{display:inline-flex;align-items:center;gap:.4rem;font-size:0.72rem;font-weight:800;letter-spacing:.08em;color:#fff;background:var(--accent);padding:0.24rem 0.65rem;border-radius:6px;margin-bottom:0.9rem;}
+  .hero h2{font-size:1.75rem;line-height:1.25;font-weight:800;letter-spacing:-0.015em;}
+  .hero .trans{margin-top:0.5rem;}
+  .hero .head{margin-top:0.95rem;}
+
+  /* Sticky jump-tab bar */
+  .tabs{position:sticky;top:0;z-index:20;display:flex;gap:0.5rem;flex-wrap:wrap;background:var(--bg);padding:0.8rem 0 0.7rem;margin:0.8rem 0 0.2rem;border-bottom:1px solid var(--line);}
+  .tab{background:#fff;border:1px solid var(--line);border-radius:999px;padding:0.5rem 1.05rem;font-family:inherit;font-size:0.94rem;font-weight:700;color:#4b5563;cursor:pointer;display:flex;align-items:center;gap:0.5rem;transition:all .15s;}
+  .tab:hover{border-color:#c7cbd1;color:var(--ink);}
+  .tab .ic{font-size:1rem;}
+  .tab .n{font-size:0.72rem;font-weight:800;opacity:.65;font-variant-numeric:tabular-nums;}
+  .tab.active{color:#fff;border-color:transparent;box-shadow:0 2px 8px rgba(16,24,40,.12);}
+  .tab.active .n{opacity:.95;}
+  .tab[data-cat="ai"].active{background:#2563eb;}
+  .tab[data-cat="robotics"].active{background:#7c3aed;}
+  .tab[data-cat="application"].active{background:#0d9488;}
+
+  /* Stacked sections */
+  .section{scroll-margin-top:72px;margin-top:1.7rem;}
+  .sec-head{display:flex;align-items:center;gap:0.5rem;margin-bottom:0.95rem;font-size:1.18rem;font-weight:800;letter-spacing:-0.01em;}
+  .sec-head .bar{width:4px;height:1.2rem;border-radius:2px;flex:none;}
+  .sec-head .ic{font-size:1.15rem;}
+  .sec-head .n{margin-left:0.15rem;font-size:0.74rem;font-weight:800;color:var(--muted);background:#eceef1;border-radius:999px;padding:0.08rem 0.55rem;}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:0.85rem;}
+
+  .item{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:0.95rem 1.1rem;transition:border-color .15s,box-shadow .15s,transform .15s;}
+  .item:hover{border-color:#d3d6db;box-shadow:0 6px 18px rgba(16,24,40,.07);transform:translateY(-1px);}
+  .head{display:flex;align-items:center;gap:0.45rem;font-size:0.74rem;color:var(--muted);margin-bottom:0.5rem;}
+  .head .cdot{width:7px;height:7px;border-radius:50%;flex:none;}
+  .head .src{font-weight:700;color:#4b5563;}
+  .head .sep{color:#cbd0d6;}
+  .head .time{color:#9aa1ab;font-variant-numeric:tabular-nums;}
+  .title{font-size:1.02rem;font-weight:680;line-height:1.42;color:var(--ink);display:block;}
+  .item:hover .title{color:var(--accent);}
+  .trans{display:block;margin-top:0.4rem;font-size:0.85rem;line-height:1.5;color:#8b9199;font-style:italic;}
+  .trans b{font-style:normal;font-weight:700;color:#9aa1ab;background:#f1f2f4;padding:0.02rem 0.4rem;border-radius:4px;margin-right:0.45rem;font-size:0.72rem;letter-spacing:.02em;}
+  .desc{margin-top:0.5rem;font-size:0.85rem;line-height:1.55;color:#565d68;}
+  .hero .desc{font-size:0.98rem;color:#3a4150;margin-top:0.65rem;}
+
+  footer{max-width:1120px;margin:0 auto;padding:1.5rem;text-align:center;color:#9aa1ab;font-size:0.78rem;border-top:1px solid var(--line);}
+  @media(max-width:760px){.grid{grid-template-columns:1fr;}.hero h2{font-size:1.35rem;}.wrap{padding:1rem;}}
+</style>
 </head>
 <body>
-  <header>
-    <h1>AI & 机器人行业日报</h1>
-    <p class="date">2026-07-01 | 共 12 条精选</p>
-  </header>
-  <div class="nav">
-    <a href="../index.html">🏠 主页</a>
-    <a href="2026-06-30.html">← 前一天</a>
-    <input type="date" value="2026-07-01" onchange="window.location.href=this.value+'.html'">
-    <a href="2026-07-02.html">后一天 →</a>
-  </div>
-  
-        <section class="category">
-          <div class="category-header" style="border-color: #0ea5e9">
-            <span class="category-icon">🤖</span>
-            <h2>AI 人工智能</h2>
-          </div>
-          
-        <div class="news-item">
-          <a href="https://zhidx.com/p/571089.html" target="_blank" rel="noopener"><span class="main-title">Hermes新功能上线！比Opus 4.8和GPT-5.5还猛</span></a>
-          <span class="source">智东西</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://zhidx.com/p/570790.html" target="_blank" rel="noopener"><span class="main-title">高考志愿填报，成了检验AI Agent的一场大考</span></a>
-          <span class="source">智东西</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxNa2huR3VaVzlfTTFxbW5IOEhtT1FrVnV1VmQ2b1RzNTBtYXctSV9uQWtjV3lxOVdxMFBKd2tQa0ZSQVJpTVFqcEJ3RVhNRTl0Vjk1WVRvSjBhd3prbHQybjM0b1ZRVDlFYk5UZU9HeEZXU2NrZ0hFa3p4dlg5VHhxblNjSU4xYk11dDl5cmtGem5SOFVXVmk5TXgyWi1zdkk3WWVxazZ3?oc=5" target="_blank" rel="noopener"><span class="main-title">Amazon launches new $1 billion FDE org, following OpenAI and Anthropic</span><br><span class="zh-title">继 OpenAI 和 Anthropic 之后，亚马逊推出价值 10 亿美元的新 FDE 组织</span></a>
-          <span class="source">TechCrunch</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://36kr.com/p/3877057215393793?f=rss" target="_blank" rel="noopener"><span class="main-title">硬氪首发 | 清华系芯片企业再获数千万融资，要以新技术突破AI算力瓶颈</span></a>
-          <span class="source">36氪</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://36kr.com/newsflashes/3877069027913989?f=rss" target="_blank" rel="noopener"><span class="main-title">Meta考虑出售闲置AI算力使用权以创收</span></a>
-          <span class="source">36氪</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://36kr.com/newsflashes/3877046632460553?f=rss" target="_blank" rel="noopener"><span class="main-title">行云科技：控股子公司签订55.08亿元算力服务合同</span></a>
-          <span class="source">36氪</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3hSWElqZnFjZUdYS1VaUVBJdjA0X2hNeGc2TndkaXJUVktaZWdPeXdiX0Y1eHFBOFZ0akZTZEZTcEZqaTlTR3pVRERvNHhET1N4U2hISGRIU3VaLWxBS0VXYmhjckZwVUFqNm5ZRHhKYXdPZkxhX2N6Ujh6T2dGOHBPX2ZzVXU4TV9aWUJ0VWZ4eVFFalRXVVdmYjgzSmI2cXNj?oc=5" target="_blank" rel="noopener"><span class="main-title">Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip</span><br><span class="zh-title">Nvidia 竞争对手 Etched 估值达到 50 亿美元，AI 芯片销售额达到 10 亿美元</span></a>
-          <span class="source">TechCrunch</span>
-        </div>
-      
-        </section>
-      
-        <section class="category">
-          <div class="category-header" style="border-color: #6366f1">
-            <span class="category-icon">🦾</span>
-            <h2>机器人</h2>
-          </div>
-          
-        <div class="news-item">
-          <a href="https://36kr.com/p/3877060559433984?f=rss" target="_blank" rel="noopener"><span class="main-title">硬氪首发 | 北航机器人所团队创业，首创智能变刚度关节，完成近亿元天使轮融资</span></a>
-          <span class="source">36氪</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://zhidx.com/p/571121.html" target="_blank" rel="noopener"><span class="main-title">花99万，买个机器人男友谈恋爱</span></a>
-          <span class="source">智东西</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPY1VDMlFjX25sM2dDRWF3bzc5UEF5M0dabm9KX1JNVF9UdnBhWU1PYndJRGFlOWFLZWdVM1JaeUpSSzMzYkhBVnRzdThHV1Q0ZlhiTUxWM1FRcGF3T2lLTFc3eU13TGhBbEhielh3T09lMFg3T2JMck5xRTcyV3ZaNDZvTjJYV0dtTk41Umw5d1hvTzV3ZlVIMDNqM2FDemx3Y2c?oc=5" target="_blank" rel="noopener"><span class="main-title">X Square Robot brings its valuation to $2.8B with four consecutive funding rounds</span><br><span class="zh-title">X Square Robot 连续四轮融资使其估值达到 $2.8B</span></a>
-          <span class="source">The Robot Report</span>
-        </div>
-      
-        </section>
-      
-        <section class="category">
-          <div class="category-header" style="border-color: #059669">
-            <span class="category-icon">🏪</span>
-            <h2>商业应用</h2>
-          </div>
-          
-        <div class="news-item">
-          <a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3RobEUzY2tjUmxSdFRkSldocnVMNnV1aEJFVTlrRUxXM015ZVk5NnNEMVdXcVpoVURsTm1ra05GMERZMXBaY2YwSlU0QTdQbFl3MnlkVHA5dy1MbGhpTE5uRU1YMzc1SGZrak5zTWg0S012V1NiSmp4Z0pmd2xWTTU5VmE5RzNvZXY0MlJ0RjNrWG45X1ZOR0dIb2N6VHo3eTdtdHNCOEQ4UnYzUUo3WVVR?oc=5" target="_blank" rel="noopener"><span class="main-title">Saks Global exits Chapter 11 as ‘Exemplar Luxury Group.’ Here are 5 other things it dumped along the way</span><br><span class="zh-title">Saks Global 以“奢侈品集团典范”的身份退出第 11 章。以下是该公司在此过程中放弃的其他 5 项内容</span></a>
-          <span class="source">Retail Dive</span>
-        </div>
-      
-        <div class="news-item">
-          <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE42cnZzUjBDQUw1ZndkX2hmUnNnRHkyMWlyOXRfWHBJZzF5VTlSMkUyUlBYRmRtZThoMmx6eVc2ejBLNXNSXzRhOW1CNUp4eDN1eTQtWVBSeFNxX2M?oc=5" target="_blank" rel="noopener"><span class="main-title">What We’re Reading</span><br><span class="zh-title">我们正在读什么</span></a>
-          <span class="source">Retail Dive</span>
-        </div>
-      
-        </section>
-      
-  <footer>
-    <p>数据来源：50+ 中英文科技媒体 | 自动生成于 2026/7/1 21:35:44</p>
-  </footer>
+<div class="topbar"><div class="topbar-inner">
+  <a href="../index.html" class="brand"><span class="dot">●</span> AI &amp; 机器人日报</a>
+  <span class="masthead-meta">2026-07-01 · 每日精选 12 条</span>
+</div></div>
+<div class="nav">
+  <a href="../index.html">🏠 首页</a>
+  <a href="2026-06-30.html">← 前一天</a>
+  <a href="2026-07-02.html">后一天 →</a>
+  <span class="spacer"></span>
+  <input type="date" value="2026-07-01" onchange="if(this.value)window.location.href=this.value+'.html'">
+</div>
+<div class="wrap">
+  <div class="hero"><span class="kicker">🔥 今日头条</span><h2><a href="https://zhidx.com/p/571089.html" target="_blank" rel="noopener">Hermes新功能上线！比Opus 4.8和GPT-5.5还猛</a></h2><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">智东西</span><span class="sep">·</span><span class="time">2026-07-01</span></div></div>
+  <div class="tabs"><a class="tab active" data-cat="ai" href="#sec-ai"><span class="ic">🖥️</span>AI 人工智能<span class="n">6</span></a><a class="tab" data-cat="robotics" href="#sec-robotics"><span class="ic">🤖</span>机器人<span class="n">3</span></a><a class="tab" data-cat="application" href="#sec-application"><span class="ic">🏪</span>商业应用<span class="n">2</span></a></div>
+  <section class="section" id="sec-ai" data-cat="ai">
+      <div class="sec-head"><span class="bar" style="background:#2563eb"></span><span class="ic">🖥️</span>AI 人工智能<span class="n">6 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">智东西</span><span class="sep">·</span><span class="time">2026-07-01</span></div><a class="title" href="https://zhidx.com/p/570790.html" target="_blank" rel="noopener">高考志愿填报，成了检验AI Agent的一场大考</a></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">TechCrunch</span><span class="sep">·</span><span class="time">2026-07-01</span></div><a class="title" href="https://news.google.com/rss/articles/CBMipgFBVV95cUxNa2huR3VaVzlfTTFxbW5IOEhtT1FrVnV1VmQ2b1RzNTBtYXctSV9uQWtjV3lxOVdxMFBKd2tQa0ZSQVJpTVFqcEJ3RVhNRTl0Vjk1WVRvSjBhd3prbHQybjM0b1ZRVDlFYk5UZU9HeEZXU2NrZ0hFa3p4dlg5VHhxblNjSU4xYk11dDl5cmtGem5SOFVXVmk5TXgyWi1zdkk3WWVxazZ3?oc=5" target="_blank" rel="noopener">Amazon launches new $1 billion FDE org, following OpenAI and Anthropic</a><span class="trans"><b>中文翻译</b>继 OpenAI 和 Anthropic 之后，亚马逊推出价值 10 亿美元的新 FDE 组织</span></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-07-01</span></div><a class="title" href="https://36kr.com/p/3877057215393793?f=rss" target="_blank" rel="noopener">硬氪首发 | 清华系芯片企业再获数千万融资，要以新技术突破AI算力瓶颈</a></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-07-01</span></div><a class="title" href="https://36kr.com/newsflashes/3877069027913989?f=rss" target="_blank" rel="noopener">Meta考虑出售闲置AI算力使用权以创收</a></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-07-01</span></div><a class="title" href="https://36kr.com/newsflashes/3877046632460553?f=rss" target="_blank" rel="noopener">行云科技：控股子公司签订55.08亿元算力服务合同</a></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">TechCrunch</span><span class="sep">·</span><span class="time">2026-07-01</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3hSWElqZnFjZUdYS1VaUVBJdjA0X2hNeGc2TndkaXJUVktaZWdPeXdiX0Y1eHFBOFZ0akZTZEZTcEZqaTlTR3pVRERvNHhET1N4U2hISGRIU3VaLWxBS0VXYmhjckZwVUFqNm5ZRHhKYXdPZkxhX2N6Ujh6T2dGOHBPX2ZzVXU4TV9aWUJ0VWZ4eVFFalRXVVdmYjgzSmI2cXNj?oc=5" target="_blank" rel="noopener">Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip</a><span class="trans"><b>中文翻译</b>Nvidia 竞争对手 Etched 估值达到 50 亿美元，AI 芯片销售额达到 10 亿美元</span></div></div>
+    </section><section class="section" id="sec-robotics" data-cat="robotics">
+      <div class="sec-head"><span class="bar" style="background:#7c3aed"></span><span class="ic">🤖</span>机器人<span class="n">3 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-07-01</span></div><a class="title" href="https://36kr.com/p/3877060559433984?f=rss" target="_blank" rel="noopener">硬氪首发 | 北航机器人所团队创业，首创智能变刚度关节，完成近亿元天使轮融资</a></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">智东西</span><span class="sep">·</span><span class="time">2026-07-01</span></div><a class="title" href="https://zhidx.com/p/571121.html" target="_blank" rel="noopener">花99万，买个机器人男友谈恋爱</a></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">The Robot Report</span><span class="sep">·</span><span class="time">2026-07-01</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPY1VDMlFjX25sM2dDRWF3bzc5UEF5M0dabm9KX1JNVF9UdnBhWU1PYndJRGFlOWFLZWdVM1JaeUpSSzMzYkhBVnRzdThHV1Q0ZlhiTUxWM1FRcGF3T2lLTFc3eU13TGhBbEhielh3T09lMFg3T2JMck5xRTcyV3ZaNDZvTjJYV0dtTk41Umw5d1hvTzV3ZlVIMDNqM2FDemx3Y2c?oc=5" target="_blank" rel="noopener">X Square Robot brings its valuation to $2.8B with four consecutive funding rounds</a><span class="trans"><b>中文翻译</b>X Square Robot 连续四轮融资使其估值达到 $2.8B</span></div></div>
+    </section><section class="section" id="sec-application" data-cat="application">
+      <div class="sec-head"><span class="bar" style="background:#0d9488"></span><span class="ic">🏪</span>商业应用<span class="n">2 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#0d9488"></span><span class="src">Retail Dive</span><span class="sep">·</span><span class="time">2026-07-01</span></div><a class="title" href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3RobEUzY2tjUmxSdFRkSldocnVMNnV1aEJFVTlrRUxXM015ZVk5NnNEMVdXcVpoVURsTm1ra05GMERZMXBaY2YwSlU0QTdQbFl3MnlkVHA5dy1MbGhpTE5uRU1YMzc1SGZrak5zTWg0S012V1NiSmp4Z0pmd2xWTTU5VmE5RzNvZXY0MlJ0RjNrWG45X1ZOR0dIb2N6VHo3eTdtdHNCOEQ4UnYzUUo3WVVR?oc=5" target="_blank" rel="noopener">Saks Global exits Chapter 11 as ‘Exemplar Luxury Group.’ Here are 5 other things it dumped along the way</a><span class="trans"><b>中文翻译</b>Saks Global 以“奢侈品集团典范”的身份退出第 11 章。以下是该公司在此过程中放弃的其他 5 项内容</span></div><div class="item"><div class="head"><span class="cdot" style="background:#0d9488"></span><span class="src">Retail Dive</span><span class="sep">·</span><span class="time">2026-07-01</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE42cnZzUjBDQUw1ZndkX2hmUnNnRHkyMWlyOXRfWHBJZzF5VTlSMkUyUlBYRmRtZThoMmx6eVc2ejBLNXNSXzRhOW1CNUp4eDN1eTQtWVBSeFNxX2M?oc=5" target="_blank" rel="noopener">What We’re Reading</a><span class="trans"><b>中文翻译</b>我们正在读什么</span></div></div>
+    </section>
+</div>
+<footer>数据来源：80+ 中英文科技与产业媒体（中文优先）· 自动生成于 2026/7/10 17:12:23（北京时间）</footer>
+<script>
+  (function(){
+    var tabs = Array.prototype.slice.call(document.querySelectorAll('.tab'));
+    var map = {}; tabs.forEach(function(t){ map[t.getAttribute('data-cat')] = t; });
+    var secs = Array.prototype.slice.call(document.querySelectorAll('.section'));
+    if(!secs.length || !('IntersectionObserver' in window)) return;
+    var obs = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){
+        if(en.isIntersecting){
+          var cat = en.target.getAttribute('data-cat');
+          tabs.forEach(function(x){ x.classList.remove('active'); });
+          if(map[cat]) map[cat].classList.add('active');
+        }
+      });
+    }, { rootMargin: '-72px 0px -55% 0px', threshold: 0 });
+    secs.forEach(function(s){ obs.observe(s); });
+  })();
+</script>
 </body>
 </html>
