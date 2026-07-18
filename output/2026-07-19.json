@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "generatedAt": "2026-07-18T19:19:21.057Z",
+  "generatedAt": "2026-07-18T20:27:05.327Z",
   "items": [
     {
       "title": "RoboSense 发布第二代全固态数字化激光雷达 E2，可无缝嵌入机器人头部、腕部",
@@ -39,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-18T13:23:21.000Z",
-      "summary": "梅卡曼德机器人展示的“眼脑手”系统让机器人在真实场景中具备干活能力。",
+      "summary": "梅卡曼德机器人展示的“眼脑手”组件使机器人具备真实世界工作能力。",
       "summaryZh": ""
     },
     {
@@ -49,7 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-18T12:51:14.000Z",
-      "summary": "全球首款机器人手机荣耀Robot Phone开启预约，具备多模态交互功能。",
+      "summary": "全球首款机器人手机荣耀Robot Phone开启预购，具备多模态交互功能。",
       "summaryZh": ""
     },
     {
@@ -59,7 +59,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-18T02:55:07.000Z",
-      "summary": "小米 Robotics-U0 通过统一生成模型，破解具身智能数据采集难题。",
+      "summary": "小米 Robotics-U0 通过统一生成模型解决具身智能数据短缺难题。",
       "summaryZh": ""
     },
     {
@@ -93,13 +93,13 @@
       "summaryZh": ""
     },
     {
-      "title": "算力定价权的转移——从\"你有多少张卡\"到\"Token成本多少\"",
-      "link": "https://www.tmtpost.com/8070307.html",
+      "title": "天谱乐大模型发布4.7，让AI音乐更懂“二次创作”",
+      "link": "https://www.tmtpost.com/8070478.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-18T07:32:20.000Z",
-      "summary": "算力定价权转向Token成本，产业链估值坐标从芯片数量向单位Token经济性迁移。",
+      "pubDate": "2026-07-18T12:14:00.000Z",
+      "summary": "天谱乐大模型V4.7发布，AI音乐更懂二次创作。",
       "summaryZh": ""
     },
     {
@@ -109,7 +109,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-18T16:26:16.000Z",
-      "summary": "华为云CEO周跃峰在WAIC上分享智能体规模化落地步骤，强调提升基础模型和长任务执行能力。",
+      "summary": "华为云CEO周跃峰在WAIC上分享智能体规模化落地步骤，强调提升AI能力下限和基础模型能力。",
       "summaryZh": ""
     },
     {
@@ -119,7 +119,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-18T16:07:09.000Z",
-      "summary": "荣耀发布全球首款机器人手机，开启AI伙伴型终端新时代。",
+      "summary": "荣耀发布全球首款机器人手机，引领AI终端创新进入中国。",
       "summaryZh": ""
     },
     {
@@ -129,7 +129,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-18T09:27:16.000Z",
-      "summary": "天翼AI发布TeleAgent智能体，推动个人办公智能化升级。",
+      "summary": "天翼AI发布星辰超级智能体TeleAgent，推动个人办公智能化升级。",
       "summaryZh": ""
     },
     {
@@ -149,7 +149,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-18T15:14:56.000Z",
-      "summary": "Minimax大模型M3亮相，研发投入持续，商业化反馈良好。",
+      "summary": "Minimax新一代基座模型M3亮相，大模型研发需重金投入，商业化反馈良好。",
       "summaryZh": ""
     },
     {
@@ -177,7 +177,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-18T02:04:51.000Z",
-      "summary": "芯原戴伟民指出，人形机器人技术挑战大于自动驾驶，RISC-V优势在于架构“留白”。",
+      "summary": "芯原戴伟民指出人形机器人技术挑战大于自动驾驶，RISC-V优势在于架构“留白”。",
       "summaryZh": ""
     },
     {
@@ -208,7 +208,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-18T12:30:20.000Z",
-      "summary": "Palm Garden AI研发Coherence Guard关系决策层，助力服务机器人适应人类环境。",
+      "summary": "Palm Garden AI开发适用于人机交互机器人的Coherence Guard关系决策层。",
       "summaryZh": "",
       "titleZh": "Palm Garden AI 为人脸机器人开发 Coherence Guard 关系决策层"
     },
