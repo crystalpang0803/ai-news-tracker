@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "generatedAt": "2026-07-18T20:27:05.327Z",
+  "generatedAt": "2026-07-18T22:11:08.415Z",
   "items": [
     {
       "title": "RoboSense 发布第二代全固态数字化激光雷达 E2，可无缝嵌入机器人头部、腕部",
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-18T09:47:26.000Z",
-      "summary": "思特威与地瓜机器人联合推出1:1方形视觉传感器，提升机器人图像捕捉与感知能力。",
+      "summary": "思特威与地瓜机器人联合推出1:1方形视觉传感器，提升机器人感知能力。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-18T13:23:21.000Z",
-      "summary": "梅卡曼德机器人展示的“眼脑手”组件使机器人具备真实世界工作能力。",
+      "summary": "梅卡曼德机器人展示的“眼脑手”系统让机器人在真实场景中具备干活能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "让VLA更懂接触，优理奇UniTac让机器人拥有“触觉想象力”",
+      "link": "https://www.qbitai.com/2026/07/453897.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-18T10:55:47.000Z",
+      "summary": "优理奇UniTac技术让机器人具备“触觉想象力”，提升接触物体时的精准度和安全性。",
       "summaryZh": ""
     },
     {
@@ -49,7 +59,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-18T12:51:14.000Z",
-      "summary": "全球首款机器人手机荣耀Robot Phone开启预购，具备多模态交互功能。",
+      "summary": "全球首款机器人手机荣耀Robot Phone开启预约，具备多模态交互功能。",
       "summaryZh": ""
     },
     {
@@ -59,7 +69,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-18T02:55:07.000Z",
-      "summary": "小米 Robotics-U0 通过统一生成模型解决具身智能数据短缺难题。",
+      "summary": "小米 Robotics-U0 通过统一生成模型解决具身智能数据短缺问题。",
       "summaryZh": ""
     },
     {
@@ -70,26 +80,6 @@
       "category": "ai",
       "pubDate": "2026-07-18T09:00:06.000Z",
       "summary": "腾讯云发布首款接入WorkBuddy AI记忆眼镜，加速智能体硬件生态布局。",
-      "summaryZh": ""
-    },
-    {
-      "title": "B2B行业首份AI智能体全球支付白皮书发布",
-      "link": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-18T07:15:18.000Z",
-      "summary": "B2B行业首份AI智能体全球支付白皮书发布，阐述AI智能体如何重塑B2B跨境支付全链路。",
-      "summaryZh": ""
-    },
-    {
-      "title": "后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新",
-      "link": "https://www.qbitai.com/2026/07/453705.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-18T07:20:19.000Z",
-      "summary": "后摩智能M50 Inside终端亮相WAIC 2026，推动端侧AI算力与终端创新。",
       "summaryZh": ""
     },
     {
@@ -109,18 +99,19 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-18T16:26:16.000Z",
-      "summary": "华为云CEO周跃峰在WAIC上分享智能体规模化落地步骤，强调提升AI能力下限和基础模型能力。",
+      "summary": "华为云CEO周跃峰在WAIC大会上分享智能体规模化落地步骤。",
       "summaryZh": ""
     },
     {
-      "title": "Robot Phone落地 “伙伴型”AI创新进入中国时刻",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YQjcwOTZkUDVGV0t3YmswS1BBdURfWHU0S1NocXFSRGo3V0FXOXo1dXg0cUhJRExhLXVZUmhPMXI3X2VYVkpsaGJxem9ZX2IyZ09j?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-18T16:07:09.000Z",
-      "summary": "荣耀发布全球首款机器人手机，引领AI终端创新进入中国。",
-      "summaryZh": ""
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-18T20:54:42.000Z",
+      "summary": "Dave Eggers向OpenAI员工表示ChatGPT“正在压制一代人”。",
+      "summaryZh": "",
+      "titleZh": "Dave Eggers 告诉 OpenAI 员工，ChatGPT 正在“压制整整一代人的声音”"
     },
     {
       "title": "天翼AI发布星辰超级智能体TeleAgent ： 从＂数字员工＂走向＂数字团队＂",
@@ -143,13 +134,23 @@
       "summaryZh": ""
     },
     {
+      "title": "Robot Phone落地 “伙伴型”AI创新进入中国时刻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YQjcwOTZkUDVGV0t3YmswS1BBdURfWHU0S1NocXFSRGo3V0FXOXo1dXg0cUhJRExhLXVZUmhPMXI3X2VYVkpsaGJxem9ZX2IyZ09j?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-18T16:07:09.000Z",
+      "summary": "荣耀发布全球首款机器人手机，引领AI终端创新进入中国。",
+      "summaryZh": ""
+    },
+    {
       "title": "大模型头部玩家Minimax：模型“进化”仍需重金投入 已具备健康“造血”能力︱未来・♾️",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1akliZWh0VGpyMnFraGwzNUpMOUtVcmVGYW9nRUFxRk1fdTdTajNoRlpXWG5OMndEbC10V1hXWFRoNVRDOG1BM3hvMHVrQWFXNnVBVw?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-18T15:14:56.000Z",
-      "summary": "Minimax新一代基座模型M3亮相，大模型研发需重金投入，商业化反馈良好。",
+      "summary": "Minimax新一代基座模型M3亮相，大模型研发仍需重金投入，商业化反馈良好。",
       "summaryZh": ""
     },
     {
@@ -162,12 +163,12 @@
       "summary": ""
     },
     {
-      "title": "SpaceX拟向五角大楼提供AI算力 合同规模或达数十亿美元",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xaVFvcDBvams3VGhyRkhhVlhsdXlVV1VvWldCb3FGX0txV2tHYy0zbHNDNGR6eF9FMEowVHpTa1NvSmFtbU1UOQ?oc=5",
+      "title": "平头哥开源AI软件栈T-Head SAIL 可最大程度释放芯片算力",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KNXhRYXJzXzdtSUxlRE5iQkNyRDRjR2E2X0pmSXZmR19vX1NuSy16RDZDV1MtS2xxTy1zTVpqTDNkcWJ0RXhVdw?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-17T22:00:53.000Z",
+      "pubDate": "2026-07-18T15:01:04.000Z",
       "summary": ""
     },
     {
@@ -177,7 +178,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-18T02:04:51.000Z",
-      "summary": "芯原戴伟民指出人形机器人技术挑战大于自动驾驶，RISC-V优势在于架构“留白”。",
+      "summary": "芯原戴伟民认为人形机器人技术难度高于自动驾驶，RISC-V优势在于架构的“留白”设计。",
+      "summaryZh": ""
+    },
+    {
+      "title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界",
+      "link": "https://36kr.com/p/3900439867147909?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-18T00:53:35.000Z",
+      "summary": "印奇在WAIC 2026发表演讲，探讨智能体进入物理世界的影响。",
       "summaryZh": ""
     },
     {
@@ -190,6 +201,16 @@
       "summary": "Vertu推出售价6880美元的AI智能机，实际表现如何。",
       "summaryZh": "",
       "titleZh": "Vertu 希望高管支付 6,880 美元购买人工智能代理——以下是它的实际表现"
+    },
+    {
+      "title": "凯文·凯利：AI不会取代人类，人形机器人需要十年才能突破瓶颈",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45TmQ5V2JRd3Jvejd3MmE3NnRsd0FLbHgyNkhVMmFtRVRoYm9VcE05YnBvLThMUUJpdUpkYzdZV2xsOU13cDhob29QVnhJSVdlcUEtVmdYN0c1TXRLMkZqOGozbnVvYk83bEJ1OGN4Q0s5UEJkWi1yT3BvS3U?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-18T21:36:00.000Z",
+      "summary": "凯文·凯利认为AI不会取代人类，人形机器人突破瓶颈需十年。",
+      "summaryZh": ""
     },
     {
       "title": "WAIC大咖说 | 对话大晓机器人首席科学家陶大程：物理AI商用核心瓶颈是高质量交互数据不足",
@@ -208,7 +229,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-18T12:30:20.000Z",
-      "summary": "Palm Garden AI开发适用于人机交互机器人的Coherence Guard关系决策层。",
+      "summary": "Palm Garden AI研发Coherence Guard关系决策层，助力服务机器人适应人类环境。",
       "summaryZh": "",
       "titleZh": "Palm Garden AI 为人脸机器人开发 Coherence Guard 关系决策层"
     },
@@ -222,26 +243,6 @@
       "summary": "mimic Robotics发布M1机器人手及全栈物理AI平台，旨在提升工业机器人灵活操作能力。",
       "summaryZh": "",
       "titleZh": "imit Robotics 推出用于灵巧机器人操作的全栈平台"
-    },
-    {
-      "title": "世界模型重塑机器人“智慧大脑”",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lcGRsblF1SDA1U21fRzNSeVpNQkR5cnA0ODhDZ2VSbmdsRGdHeVZ5UC1rSWxOUjNuWlJsYkhVQmFWVFpjSWxpNnNnRHpCa0lkYms0d0xBa05XeVQyY1R5cUs1b2V5SEt4WHRWRC0yUGhTSFloMDBxcGdlU0Y0UmM?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-18T05:20:25.000Z",
-      "summary": "2026世界人工智能大会展示世界模型重塑机器人“智慧大脑”。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI不再炫技，开始干活！2026 WAIC直击：超300款新品全球首发、200家具身智能企业参展",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mR2ZwZjVZTVBTOEcyQVJGZVNyckpaR0s5Y3NYTW0xOUlsMkdMR05aY1cySHRkSS1NS3A5VGl4NmdROEVMdjVyMF9NY2poWUtzaUF6ZzN0dXkzYjZOLXQ2ZzFQajJzZ0JSdWFPUm80MkZ5X2xL?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-18T05:30:22.000Z",
-      "summary": "2026 WAIC展示超300款AI新品，200家具身智能企业参展，AI技术转向实用化。",
-      "summaryZh": ""
     }
   ]
 }
