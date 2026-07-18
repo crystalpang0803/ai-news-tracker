@@ -1,25 +1,25 @@
 {
   "date": "2026-07-18",
-  "generatedAt": "2026-07-17T23:35:59.578Z",
+  "generatedAt": "2026-07-18T03:35:52.006Z",
   "items": [
     {
-      "title": "工信部召开重点车企座谈会，强调抵制非理性竞争、加强自动驾驶安全评估",
-      "link": "https://www.ithome.com/0/978/299.htm",
+      "title": "OpenAI 更新 Mac 端 ChatGPT 应用：增强整合聊天、工作和编程",
+      "link": "https://www.ithome.com/0/978/358.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-17T13:09:49.000Z",
-      "summary": "工信部强调车企抵制非理性竞争，加强自动驾驶安全评估。",
+      "category": "ai",
+      "pubDate": "2026-07-18T01:34:14.000Z",
+      "summary": "OpenAI更新Mac端ChatGPT应用，增强聊天、工作和编程整合。",
       "summaryZh": ""
     },
     {
-      "title": "强脑科技全球首发脑控机器人训练平台，10 分钟解锁意念控制",
-      "link": "https://www.ithome.com/0/978/289.htm",
+      "title": "OpenAI 回应 GPT-5.6 Sol AI 意外删除用户文件：已采取措施降低风险",
+      "link": "https://www.ithome.com/0/978/347.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-17T12:27:53.000Z",
-      "summary": "强脑科技发布全球首个脑控机器人训练平台，实现10分钟意念控制机器人。",
+      "category": "ai",
+      "pubDate": "2026-07-18T00:36:56.000Z",
+      "summary": "OpenAI回应GPT-5.6 Sol AI意外删除用户文件，已采取措施降低风险。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-17T10:45:58.000Z",
-      "summary": "2026年最受投资人关注人工智能/具身智能企业50强揭晓，市场规模预计突破万亿。",
+      "summary": "2026年最受投资人关注人工智能/具身智能企业50强揭晓，市场规模突破万亿，投融资事件激增。",
+      "summaryZh": ""
+    },
+    {
+      "title": "日媒：印企越来越依赖中国AI大模型",
+      "link": "https://36kr.com/newsflashes/3900548047177344?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-18T03:15:30.000Z",
+      "summary": "印度企业日益依赖中国AI大模型以降低AI成本。",
+      "summaryZh": ""
+    },
+    {
+      "title": "刚刚，GPT-5.6全面上线，Codex被合并，生产力工具ChatGPT Work来了",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pMDg3THBjSG81d3J0NWxRcV9nZHJmY1NzUUJ2Yi0walRlX2RWblB3LVdvdGx5ME5NS21GeEpuc3ZkaTllQmEtMTZPaDNuXzYzaGFPWHppbWxIZw?oc=5",
+      "source": "机器之心",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-17T09:07:24.000Z",
+      "summary": "GPT-5.6全面上线，Codex合并，ChatGPT Work生产力工具发布。",
       "summaryZh": ""
     },
     {
@@ -49,7 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-17T17:09:14.000Z",
-      "summary": "国产AI芯片挑战CUDA，而非英伟达GPU。",
+      "summary": "国产AI芯片挑战CUDA生态，而非单纯比拼英伟达GPU。",
       "summaryZh": ""
     },
     {
@@ -63,16 +83,6 @@
       "summaryZh": ""
     },
     {
-      "title": "从大模型到智能体，AI正加速进入专业场景",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yNHF2dXl1dlN4MENXcmZrX09KNlZfczk1SmJCY3VXRlVESDNvSGhFeUtJUFI2bHpVSXZwWmkwbnR0UnAtcUlvNnRBNXBOWDhZNjFxTklCeHg?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-17T10:09:47.000Z",
-      "summary": "AI技术正加速从大模型向智能体发展，深入专业场景应用。",
-      "summaryZh": ""
-    },
-    {
       "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE11VFlGMGdTNUtLZFNxdmpMUTFRNmd5S2xpNEl1YjdBRXgzaERGaTVWcXFBaF8wSVZwaDkwaTBJYlpDY2p3RzdLNw?oc=5",
       "source": "财联社",
@@ -82,13 +92,23 @@
       "summary": ""
     },
     {
+      "title": "中国AI模型花48小时跑通芯片设计，美国EDA巨头股价暴跌！Kimi K3搭载2.8万亿参数开源挑战GPT、Claude双雄，马斯克：令人印象深刻",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83dGd1bTBUSFhlNm1MZ0lKTXNyOGVMWE9QMXRLMUFnOGo5Rkt3ZVF4ak9GbmhqSGQ5WUpMQnFhbnNSM2VZTVFEZzg1TjhRNjU0TDRSRDZHZDJWSk9uOElJOVFBRVdSQQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-18T03:10:00.000Z",
+      "summary": "中国AI模型Kimi K3跑通芯片设计，挑战GPT、Claude，马斯克点赞。",
+      "summaryZh": ""
+    },
+    {
       "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
       "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
       "source": "TechCrunch",
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-07-17T17:45:46.000Z",
-      "summary": "苹果对OpenAI提起的诉讼可能干扰其IPO计划。",
+      "summary": "苹果对OpenAI提起的诉讼可能影响其IPO计划。",
       "summaryZh": "",
       "titleZh": "苹果的大诉讼如何扰乱 OpenAI 的 IPO 计划"
     },
@@ -109,7 +129,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-17T10:22:00.000Z",
-      "summary": "美格智能产品在端侧AI、机器人等领域应用前景广阔，效益不确定性高。",
+      "summary": "美格智能产品在端侧AI、机器人等领域应用前景广阔，但效益不确定性高。",
       "summaryZh": ""
     },
     {
@@ -123,43 +143,43 @@
       "summaryZh": ""
     },
     {
+      "title": "与AI共存的未来：爱、陪伴和机器人",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5SnduaTVxdW9qdWVGcTBpd184cnZtUVhodWhrMnY0TzZRZUU5RmJwYkRfTTBHdnBnZ2tqQlZDcVQ5ZUM4M3ZPdDRmR0F0UmdpQjktQg?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-17T15:56:08.000Z",
+      "summary": "WAIC大放送探讨AI在爱、陪伴和产业应用中的未来。",
+      "summaryZh": ""
+    },
+    {
+      "title": "上海市副市长陈杰：加快前沿模型、具身智能、智算芯片等关键领域技术全链突破",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9yV01XLXFYOTJKYUs1aV9TRVgwblE3VFd5V0JEOU4ybEd6WnBKX0FUQWhaSmZ5b2ZsVDlTb1liZ1gwUnJEcjRPbA?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-17T12:43:01.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Meta据悉洽谈向Anthropic出租AI算力，拟进军云计算市场",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MSVh2RnJ5SGI2UUJKYXI0dVlJUDVDYzQ4Z0ZKSUdzRS12MU1GRUc4Z3hZS2IwWHU4SURnNmNRTHk5M0QzLXg5c1dOZmVvTkVXb1NxYzNvc00?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-18T01:09:16.000Z",
+      "summary": "Meta洽谈向Anthropic出租AI算力，计划进军云计算市场。",
+      "summaryZh": ""
+    },
+    {
       "title": "大模型备案潮涌，AI合规从选择题变成必答题",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlYUR4V3RGNFpUNzdzbTNtUnVvZGZxX1dmZm5XRVRRUndpYUk2VzBqMnk1M3FCVGpaX2YybEZGalA2MG9xdkk3ODNqQjlXd25DbEtaZUdneU8?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-17T10:10:46.000Z",
-      "summary": "国家网信办发布AI服务管理细则，大模型备案成AI合规必答题。",
+      "summary": "大模型备案潮涌，AI合规成为必答题，监管趋严。",
       "summaryZh": ""
-    },
-    {
-      "title": "人工智能是普惠的，中国拿出大国格局，打造全球科技合作策源地︱未来・♾️",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VTTNHRXF4a0ppX0FWT3loWm4xWjFKeVB4N0QtZk80ZVpNWl8zcXF0QUJ5NThmWkd4MzZVaHdRcXVRYUpNVUF5Nk1POXVsSnJ2V3Jmcw?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-17T22:21:01.000Z",
-      "summary": "中国在2026世界人工智能大会上强调打造全球科技合作策源地，推动AI普惠发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "英矽智能首席执行官：中国正在搭建“桥梁”让人工智能技术更普惠︱未来・♾️",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FLXhhSkxpUTFxUGt1TWx6MFJhSjRjczdIZVFmM3lFU2VTeF9PZmxyOGRCTVZjeGNPT1Y3MHBhLXpaeW1mYjNyRHB1c3p3VEEtTGJDRg?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-17T16:14:22.000Z",
-      "summary": "中国正搭建国际合作桥梁，推动人工智能技术普惠发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国家发改委发布《人工智能合作发展行动计划》",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1teUFyaVZ3N1YzMm9yNjE4VmxVbTRYSGF5OGhXZjZTWlc0NFJlTXc2Z0dHaXZDWGJIVkNMZ05NS0NrdllPa0htQQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-17T04:43:59.000Z",
-      "summary": ""
     },
     {
       "title": "Weave Robotics launches Isaac, its first mobile humanoid robot",
@@ -168,29 +188,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-17T17:35:02.000Z",
-      "summary": "Weave Robotics发布其首款移动类人机器人Isaac 1。",
+      "summary": "Weave Robotics发布首款移动类人机器人Isaac 1。",
       "summaryZh": "",
       "titleZh": "Weave Robotics 推出首款移动人形机器人 Isaac"
-    },
-    {
-      "title": "OpenAI 的大模型价格战，历史早已写过结局",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yb2xpaVR4Z3A2WkdGc3RKZ2JmNE1CLVZMUXhpaHJYd2dCRzZoNEJ2SEdiZXJORkFyOU9kTFJJRUNoYTM2ZVZhb24zNmJ6ejZuR3VJ?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-17T08:27:00.000Z",
-      "summary": "OpenAI大模型价格战历史已定。",
-      "summaryZh": ""
-    },
-    {
-      "title": "人形机器人减速器2025年卖了43万台，真正的增量才刚刚开始！",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DVUUweHhjaGVpTG9CMFNJRVRHcFdBVnJEVEk5N0g4Q1NJS3dlZWh5WWRGdkxYNTc3NEVRR2pfUVR6M0NaeUZhRGR1bG42SjhjZk1QNWplSQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-17T02:45:57.000Z",
-      "summary": "2025年人形机器人减速器销量达43万台，未来增长潜力巨大。",
-      "summaryZh": ""
     },
     {
       "title": "云迹科技 WAIC 首发世界价值模型，服务机器人行业迈入空间智能下半场",
@@ -202,15 +202,15 @@
       "summary": ""
     },
     {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
       "source": "TechCrunch",
       "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-17T22:55:09.000Z",
-      "summary": "Vertu推出售价6880美元的AI智能助手，实际表现如何。",
+      "category": "robotics",
+      "pubDate": "2026-07-17T20:19:49.000Z",
+      "summary": "Agility Robotics在特斯拉工厂附近开设新设施，培训人形机器人。",
       "summaryZh": "",
-      "titleZh": "Vertu 希望高管支付 6,880 美元购买人工智能代理——以下是它的实际表现"
+      "titleZh": "Agility Robotics 在特斯拉后院插上了自己的旗帜"
     },
     {
       "title": "Would You Let This Humanoid Robot Do Your Laparoscopic Surgery?",
@@ -235,13 +235,13 @@
       "titleZh": "Maximo 创始人讨论机器人技术如何加速太阳能建设"
     },
     {
-      "title": "哈工大航天博士团队造出全球第一梯队重载人形机器人，在手订单破亿斩获Pre-A轮融资！",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZSW5HYjJsTG9FOXpZMHJ0OVZ2SXFSSl9OaWgwaldqMy1FTDR2TUhZSmptNnVWenlYUXoydWI4QjVPWTJLNzVUZWxXZjBWRFBPVHJ0aXFZYw?oc=5",
-      "source": "与非网",
+      "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vUG9tay1qZjZkSjFSSU9fdkRyZW5qVkswaHJjdVpPSE1zajcyYXJJeHlxNTZsX2xvczZyLXU5T0U4b0dBUjFxWGhYUmxYZGxC?oc=5",
+      "source": "凤凰财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-17T02:14:31.000Z",
-      "summary": "哈工大航天博士团队研发全球领先重载人形机器人，订单破亿获Pre-A轮融资。",
+      "pubDate": "2026-07-17T23:15:35.000Z",
+      "summary": "2026WAIC开幕，AI技术百花齐放，数百项新品首秀，逾300台人形机器人竞技。",
       "summaryZh": ""
     }
   ]
