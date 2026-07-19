@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "generatedAt": "2026-07-19T17:12:03.454Z",
+  "generatedAt": "2026-07-19T19:21:26.418Z",
   "items": [
     {
       "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-19T08:55:14.000Z",
-      "summary": "新易盛上半年净利预增78%-103%，主要受益于人工智能算力投资增长。",
+      "summary": "新易盛上半年净利预增78%-103%，主要受益于人工智能算力投资增长和产品结构优化。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-19T08:32:36.000Z",
-      "summary": "黎曼动力Riemann-1.0模型通过分析20万小时人类干活视频，在RoboCasa-365家务大考中取得62.6%的优异成绩。",
+      "summary": "黎曼动力Riemann-1.0模型通过分析20万小时人类干活视频，在RoboCasa-365家务大考中取得62.6%的优异成绩，成为榜首。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-19T10:14:24.000Z",
-      "summary": "上汽发布Robotaxi量产定制车项目，新车2027年亮相。",
+      "summary": "上汽发布Robotaxi量产定制车项目，2027年亮相。",
       "summaryZh": ""
     },
     {
@@ -83,13 +83,23 @@
       "summaryZh": ""
     },
     {
-      "title": "在WAIC现场，我摸到了机器人干活真正需要的那只手",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYZzhCeHh6VUlOSURGNE1jRW90WHBaLVE1akZoYU9QalZHdnFoMFRxMlYyWGw1dXpGdU4xNGNtWUhIcUxzenc3Mw?oc=5",
+      "title": "总部设上海，世界人工智能合作组织未来将鼓励共建开源生态",
+      "link": "https://www.ithome.com/0/978/797.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-19T13:50:45.000Z",
+      "summary": "世界人工智能合作组织总部设上海，将鼓励共建开源生态。",
+      "summaryZh": ""
+    },
+    {
+      "title": "给机器人造触觉，又一家百亿独角兽诞生",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9EcWcwRTAxQUNLMk1MVFR5bEx6TEhSMHZWTTBvbzJCSGNTVHZZWEhQNFBmTS1IZXBaUUNOUUt1SWJHQWI4R3c?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-18T17:42:00.000Z",
-      "summary": "曦诺未来推出全球首款“腱绳+电机直驱”混合驱动仿生灵巧手Flex 2，具备23个自由度、0.05N力控精度，支持机器人精细操作。",
+      "pubDate": "2026-07-19T04:30:56.000Z",
+      "summary": "一目科技完成数十亿元E轮融资，估值突破百亿，专注机器人触觉感知技术。",
       "summaryZh": ""
     },
     {
@@ -103,13 +113,23 @@
       "summaryZh": ""
     },
     {
+      "title": "机器人“班味儿”重了 但物理AI“还非常早期”",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GOENfdzFBVEN4WDFZamc0VjkyelM3RklJalQ4ZkxtRzhkbU10Zm51ajk0QzJPVUxicUxsRmxFaFRzOFdXbXc?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-18T22:00:00.000Z",
+      "summary": "物理AI技术正从实验室走向实际应用，但发展仍处于早期阶段。",
+      "summaryZh": ""
+    },
+    {
       "title": "大模型进不了内网之后，企业 AI 的生意才真正开始",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zalJRUlI5RDBtaUhXX09ZVGp2Z3M1SWZOLTFzUV9fSkVfU1lJN09rbGV4UDJxc240a0FPTkR4Q0V4TFJ4WFQ2ZGVpS28?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-19T08:15:00.000Z",
-      "summary": "企业AI市场因内网限制转向项目化，需求激增，项目交付复杂。",
+      "summary": "企业AI市场因内网限制转向项目化运营，大模型私有化部署需求增长。",
       "summaryZh": ""
     },
     {
@@ -119,7 +139,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-19T15:47:42.000Z",
-      "summary": "大模型大脑能力提升至五个等级，AI应用前景广阔。",
+      "summary": "大模型大脑能力提升至五个等级。",
       "summaryZh": ""
     },
     {
@@ -128,8 +148,8 @@
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-19T09:13:11.000Z",
-      "summary": "世界人工智能合作组织推进会在上海召开，各国代表共议AI全球治理与合作。",
+      "pubDate": "2026-07-19T15:13:11.000Z",
+      "summary": "世界人工智能合作组织推进会在上海召开，各国代表共议全球治理与合作。",
       "summaryZh": ""
     },
     {
@@ -143,23 +163,13 @@
       "summaryZh": ""
     },
     {
-      "title": "DJI 大疆 Osmo Pocket 影像大赛开启：设置六大创作方向、最高奖 Mavic 4 Pro 512GB 无人机创作者套装及 3 万元现金",
-      "link": "https://www.ithome.com/0/978/771.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-19T10:34:28.000Z",
-      "summary": "DJI大疆Osmo Pocket影像大赛启动，设六大创作方向，最高奖Mavic 4 Pro无人机套装及3万现金。",
-      "summaryZh": ""
-    },
-    {
       "title": "How to avoid the teleoperation trap in robotics development",
       "link": "https://www.therobotreport.com/how-to-avoid-teleoperation-trap-robotics-development/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-19T12:30:25.000Z",
-      "summary": "机器人开发应避免过度依赖远程操控和数据问题。",
+      "summary": "机器人开发应避免过度依赖远程操作和数据问题。",
       "summaryZh": "",
       "titleZh": "机器人开发中如何避免遥操作陷阱"
     },
@@ -170,7 +180,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-19T06:53:12.000Z",
-      "summary": "中国平安推出智能体平台，创新专病服务矩阵，平安银行融合积分与算力。",
+      "summary": "中国平安推出智能体平台，创新专病服务矩阵，平安银行实现积分与算力融合。",
       "summaryZh": ""
     },
     {
@@ -184,23 +194,13 @@
       "summaryZh": ""
     },
     {
-      "title": "从卷算法算力转向卷数据，刘烈宏：进一步构建服务人工智能的高质量数据供给体系",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55WUg1d1hCUGgtSTBNOUlyR0pBSV9sYmRHRWVwb25yQk1tcmk1YjlNaTBjX1ItcEFvYktyWUNhNjJrMnN2MGJuT1NOckIyWkg5dkVzY3g4Y3FreDdwSkNmNg?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-19T10:19:00.000Z",
-      "summary": ""
-    },
-    {
       "title": "AI机器人从实验室走向工厂，物理世界智能竞争加剧",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KdnJDOU5USjVidWMydzVweFdRVktpcTV0N0MxVTNQLWdjTGtsQ3U5ZmthcGFXVnE2QlZpSUhmSWI2R1B2VXpMS01ZejBMTE5IVnJ3cg?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-19T15:09:36.000Z",
-      "summary": "物理AI机器人从实验室走向工厂，竞争焦点从数字延伸至物理世界感知执行。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "TechCrunch Mobility: The battle over robotaxi rules",
@@ -209,18 +209,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-19T16:05:00.000Z",
-      "summary": "Uber和Waymo在自动驾驶车政策上立场对立，争夺机器人出租车规则制定权。",
+      "summary": "Uber与Waymo在自动驾驶车政策上立场对立，争夺规则制定权。",
       "summaryZh": "",
       "titleZh": "TechCrunch Mobility：机器人出租车规则之争"
     },
     {
       "title": "启明创投发布2026 AI十大展望：机器人数据将跃升至“百万小时级”",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14OUJtbUpWWDFQTDRadXdmQUdrdDZIMEpvaXNlYW1SSWNqNWlOVXN4TmtuNTU2bkx0ZDJzTjBvaU1mR1FCU1dMY1N0dFRKZUlHeUJmRC0yYmxkX1FaQ2NQb2thTE9hWFFZdFZz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pc0hDbHRRSGxWYlFnb0NucVdIcFlrQTVJUmkyM3NzMlZCVG8weEY2V2dYUkRLc1N0UWpzb1E1aUdlMWNRQ0FDeFh3N2pPb3kyWlhXZGdLZlBqSEVnblE?oc=5",
       "source": "澎湃新闻科技",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-19T12:39:00.000Z",
-      "summary": ""
+      "summary": "启明创投预测2026年AI机器人数据将达“百万小时级”。",
+      "summaryZh": ""
     },
     {
       "title": "创业板指跌超3%，AI硬件权重股遭遇重挫，机器人概念逆势爆发6月5日，市场冲高回",
@@ -233,13 +234,13 @@
       "summaryZh": ""
     },
     {
-      "title": "中国万天控股(01854.HK)附属与衡阳极索订立战略合作框架协议 布局AI外骨骼机器人智能医疗赛道",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxdUcxYWNFZ0szMWwwdnc2eGxzVEh0dDIxMVBrUmhvS2NkdTVrNDNIQVdhVVd4Y01IMW4yalZqTFhaS1UzZk51T2toUUY1YVRoTDU4ZnlRbktuQWFyWG9zWWlxY0Ezdw?oc=5",
-      "source": "金融界",
+      "title": "机器人工作室腾_技术资料",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZNTRGeGVnTllORGNaTENTVUs1ZU4xQ1oyRF9JM0RNeTZkT1FzdVpnS2VjbnVnOG1uVlBhX2RkUkU5cVo4SFpBQ193UmJ4WDBlbno0QmJtWXBhZw?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-19T12:12:15.000Z",
-      "summary": "中国万天控股附属与衡阳极索合作布局AI外骨骼机器人智能医疗领域。",
+      "pubDate": "2026-07-19T01:13:36.000Z",
+      "summary": "机器人工作室腾_技术资料提供设计助手、元器件查询等资源。",
       "summaryZh": ""
     }
   ]
