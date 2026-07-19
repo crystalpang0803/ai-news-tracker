@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI & 机器人日报 · 2026-07-20</title>
+<style>
+  :root{color-scheme:light;--ink:#14171c;--muted:#6b7280;--line:#e7e9ec;--bg:#f2f3f5;--card:#ffffff;--accent:#e5484d;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased;}
+  a{color:inherit;text-decoration:none;}
+  .topbar{background:#111418;color:#fff;border-bottom:3px solid var(--accent);}
+  .topbar-inner{max-width:1120px;margin:0 auto;padding:0.95rem 1.5rem;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
+  .brand{font-size:1.4rem;font-weight:800;letter-spacing:-0.02em;display:flex;align-items:center;gap:0.5rem;}
+  .brand .dot{color:var(--accent);}
+  .masthead-meta{font-size:0.8rem;color:#a9afb8;font-variant-numeric:tabular-nums;}
+  .nav{max-width:1120px;margin:0 auto;padding:0.6rem 1.5rem;display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap;font-size:0.82rem;}
+  .nav a,.nav input{background:#fff;border:1px solid var(--line);border-radius:8px;padding:0.35rem 0.85rem;color:#374151;font-weight:600;transition:all .15s;}
+  .nav a:hover{border-color:var(--accent);color:var(--accent);}
+  .nav .spacer{flex:1;}
+  .wrap{max-width:1120px;margin:0 auto;padding:1.4rem 1.5rem 3rem;}
+
+  .hero{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:1.7rem 1.9rem;box-shadow:0 1px 2px rgba(16,24,40,.05);}
+  .hero .kicker{display:inline-flex;align-items:center;gap:.4rem;font-size:0.72rem;font-weight:800;letter-spacing:.08em;color:#fff;background:var(--accent);padding:0.24rem 0.65rem;border-radius:6px;margin-bottom:0.9rem;}
+  .hero h2{font-size:1.75rem;line-height:1.25;font-weight:800;letter-spacing:-0.015em;}
+  .hero .trans{margin-top:0.5rem;}
+  .hero .head{margin-top:0.95rem;}
+
+  /* Sticky jump-tab bar */
+  .tabs{position:sticky;top:0;z-index:20;display:flex;gap:0.5rem;flex-wrap:wrap;background:var(--bg);padding:0.8rem 0 0.7rem;margin:0.8rem 0 0.2rem;border-bottom:1px solid var(--line);}
+  .tab{background:#fff;border:1px solid var(--line);border-radius:999px;padding:0.5rem 1.05rem;font-family:inherit;font-size:0.94rem;font-weight:700;color:#4b5563;cursor:pointer;display:flex;align-items:center;gap:0.5rem;transition:all .15s;}
+  .tab:hover{border-color:#c7cbd1;color:var(--ink);}
+  .tab .ic{font-size:1rem;}
+  .tab .n{font-size:0.72rem;font-weight:800;opacity:.65;font-variant-numeric:tabular-nums;}
+  .tab.active{color:#fff;border-color:transparent;box-shadow:0 2px 8px rgba(16,24,40,.12);}
+  .tab.active .n{opacity:.95;}
+  .tab[data-cat="ai"].active{background:#2563eb;}
+  .tab[data-cat="robotics"].active{background:#7c3aed;}
+  .tab[data-cat="application"].active{background:#0d9488;}
+
+  /* Stacked sections */
+  .section{scroll-margin-top:72px;margin-top:1.7rem;}
+  .sec-head{display:flex;align-items:center;gap:0.5rem;margin-bottom:0.95rem;font-size:1.18rem;font-weight:800;letter-spacing:-0.01em;}
+  .sec-head .bar{width:4px;height:1.2rem;border-radius:2px;flex:none;}
+  .sec-head .ic{font-size:1.15rem;}
+  .sec-head .n{margin-left:0.15rem;font-size:0.74rem;font-weight:800;color:var(--muted);background:#eceef1;border-radius:999px;padding:0.08rem 0.55rem;}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:0.85rem;}
+
+  .item{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:0.95rem 1.1rem;transition:border-color .15s,box-shadow .15s,transform .15s;}
+  .item:hover{border-color:#d3d6db;box-shadow:0 6px 18px rgba(16,24,40,.07);transform:translateY(-1px);}
+  .head{display:flex;align-items:center;gap:0.45rem;font-size:0.74rem;color:var(--muted);margin-bottom:0.5rem;}
+  .head .cdot{width:7px;height:7px;border-radius:50%;flex:none;}
+  .head .src{font-weight:700;color:#4b5563;}
+  .head .sep{color:#cbd0d6;}
+  .head .time{color:#9aa1ab;font-variant-numeric:tabular-nums;}
+  .title{font-size:1.02rem;font-weight:680;line-height:1.42;color:var(--ink);display:block;}
+  .item:hover .title{color:var(--accent);}
+  .trans{display:block;margin-top:0.4rem;font-size:0.85rem;line-height:1.5;color:#8b9199;font-style:italic;}
+  .trans b{font-style:normal;font-weight:700;color:#9aa1ab;background:#f1f2f4;padding:0.02rem 0.4rem;border-radius:4px;margin-right:0.45rem;font-size:0.72rem;letter-spacing:.02em;}
+  .desc{margin-top:0.5rem;font-size:0.85rem;line-height:1.55;color:#565d68;}
+  .hero .desc{font-size:0.98rem;color:#3a4150;margin-top:0.65rem;}
+
+  footer{max-width:1120px;margin:0 auto;padding:1.5rem;text-align:center;color:#9aa1ab;font-size:0.78rem;border-top:1px solid var(--line);}
+  @media(max-width:760px){.grid{grid-template-columns:1fr;}.hero h2{font-size:1.35rem;}.wrap{padding:1rem;}}
+</style>
+</head>
+<body>
+<div class="topbar"><div class="topbar-inner">
+  <a href="../index.html" class="brand"><span class="dot">●</span> AI &amp; 机器人日报</a>
+  <span class="masthead-meta">2026-07-20 · 每日精选 24 条</span>
+</div></div>
+<div class="nav">
+  <a href="../index.html">🏠 首页</a>
+  <a href="2026-07-19.html">← 前一天</a>
+  <a href="2026-07-21.html">后一天 →</a>
+  <span class="spacer"></span>
+  <input type="date" value="2026-07-20" onchange="if(this.value)window.location.href=this.value+'.html'">
+</div>
+<div class="wrap">
+  <div class="hero"><span class="kicker">🔥 今日头条</span><h2><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SQzhaOG1yUFJqNjdTQkNjOWstYkxzVVZBNmFKallLQ2tmdnhGdlZnT0VIVjNOQU1MVUJhN1d3eGxaU1BpTjJLd1NHZHdFdkhfWUI5OE80ZUI?oc=5" target="_blank" rel="noopener">TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high</a></h2><p class="desc">TCL华星自主研发大模型在显示领域评测中超越国际主流模型。</p><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">界面新闻</span><span class="sep">·</span><span class="time">2026-07-19</span></div></div>
+  <div class="tabs"><a class="tab active" data-cat="ai" href="#sec-ai"><span class="ic">🖥️</span>AI 人工智能<span class="n">11</span></a><a class="tab" data-cat="robotics" href="#sec-robotics"><span class="ic">🤖</span>机器人<span class="n">12</span></a></div>
+  <section class="section" id="sec-ai" data-cat="ai">
+      <div class="sec-head"><span class="bar" style="background:#2563eb"></span><span class="ic">🖥️</span>AI 人工智能<span class="n">11 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://36kr.com/newsflashes/3902322110170761?f=rss" target="_blank" rel="noopener">新易盛：上半年净利同比预增78%-103% 受益于人工智能相关算力投资持续增长产品结构优化</a><p class="desc">新易盛上半年净利预增78%-103%，主要受益于人工智能算力投资增长。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://36kr.com/newsflashes/3902324507281026?f=rss" target="_blank" rel="noopener">世界人工智能合作组织未来将重点开展三方面工作</a><p class="desc">世界人工智能合作组织将重点推进国际合作、供需对接和全球治理体系建设。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">量子位</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://www.qbitai.com/2026/07/454771.html" target="_blank" rel="noopener">商汤大装置与国信数算达成战略合作，共建全国一体化算力网试验场</a><p class="desc">商汤大装置与国信数算共建全国一体化算力网试验场，推动算力资源协同调度。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">钛媒体</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://www.tmtpost.com/8071079.html" target="_blank" rel="noopener">论坛直击｜向内探索量子、向外寻求太空：一场”新算力文明”的起点对话</a><p class="desc">2026世界人工智能大会专题论坛探讨后摩尔时代算力范式重构。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">钛媒体</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zalJRUlI5RDBtaUhXX09ZVGp2Z3M1SWZOLTFzUV9fSkVfU1lJN09rbGV4UDJxc240a0FPTkR4Q0V4TFJ4WFQ2ZGVpS28?oc=5" target="_blank" rel="noopener">大模型进不了内网之后，企业 AI 的生意才真正开始</a><p class="desc">企业AI市场因内网限制转向项目化，需求激增，项目交付复杂。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">第一财经</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BSjhJc2U4bGlHVmNfUlRoUFF4WTB6ZERpZTAyUVI0U3dTd1ZWUE1uQWd4LVFnT1lUQzAxY2gxX3pCNlZqZzNPX3FJQVZEcTVFQVFwTQ?oc=5" target="_blank" rel="noopener">大模型大脑能力进步的五个等级</a><p class="desc">大模型大脑能力提升至五个等级，AI应用前景广阔。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">第一财经</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsT0RTd0U2V2pGeERvczFETjd2cTRhaTlpWjlzbTNjaUlLUWxwV0ZTWDZQQ1lsbWN0bXVfQ2RPNXIxZnI2aGNEMDJzOGhDZVpOTjRz?oc=5" target="_blank" rel="noopener">世界人工智能合作组织(WAICO)推进会成功召开</a><p class="desc">世界人工智能合作组织推进会在上海召开，各国代表共议AI全球治理与合作。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">财联社</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiSEFVX3lxTFAwcHQ2YVFwUHRPOVBOWkRnS2hUeUZ3Um90YnluUUJNemx5QVhIV3doMHRLYnFHRGd2RkttRWdsT2VqU2N3czVVZg?oc=5" target="_blank" rel="noopener">启明创投WAIC发布2026 AI十大展望 算力需求重心转向推理</a><p class="desc">启明创投发布2026 AI十大展望，算力需求转向推理。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">华尔街见闻</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hQjJYMnNxNldSeWZMcmtQLVFGbklxaWZ3MTRoTnNoZGdCZmY1MFlJTzR5ekYtVlVHVkhoSG1Cald1UUJQMnA5YXUzcm8tNDJERC1n?oc=5" target="_blank" rel="noopener">中国平安正加速“All in AI”：亮相智能体平台，首创专病服务矩阵，平安银行打通积分和算力</a><p class="desc">中国平安推出智能体平台，创新专病服务矩阵，平安银行融合积分与算力。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">华尔街见闻</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iRURCZF9HZFlvR1FtcWwwQUpvNzhUSDA2MW9FRFduT1hhcWh4eUVzdGJMNV9LOXo3SFlWV0xIS25SdHZxUkZXSDlWSFNqRC1SUzNn?oc=5" target="_blank" rel="noopener">英伟达：从“一次性训练”的大模型到“后训练改进”的Agent，算力需求正在变化</a><p class="desc">英伟达称，大模型算力需求转向后训练改进，从一次性训练转向Agent。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">澎湃新闻科技</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE55WUg1d1hCUGgtSTBNOUlyR0pBSV9sYmRHRWVwb25yQk1tcmk1YjlNaTBjX1ItcEFvYktyWUNhNjJrMnN2MGJuT1NOckIyWkg5dkVzY3g4Y3FreDdwSkNmNg?oc=5" target="_blank" rel="noopener">从卷算法算力转向卷数据，刘烈宏：进一步构建服务人工智能的高质量数据供给体系</a></div></div>
+    </section><section class="section" id="sec-robotics" data-cat="robotics">
+      <div class="sec-head"><span class="bar" style="background:#7c3aed"></span><span class="ic">🤖</span>机器人<span class="n">12 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">量子位</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://www.qbitai.com/2026/07/454592.html" target="_blank" rel="noopener">看了20万小时人类干活实录，机器人悟了</a><p class="desc">黎曼动力Riemann-1.0模型通过分析20万小时人类干活视频，在RoboCasa-365家务大考中取得62.6%的优异成绩。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">IT之家</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://www.ithome.com/0/978/760.htm" target="_blank" rel="noopener">上汽 Robotaxi 量产定制车项目发布，新车计划 2027 年亮相</a><p class="desc">上汽发布Robotaxi量产定制车项目，新车2027年亮相。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">智东西</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://zhidx.com/p/577413.html" target="_blank" rel="noopener">穹彻智能WAIC展示具身智能“大脑”：零遥操实时选投球队，智能药房方案已落地</a><p class="desc">穹彻智能在WAIC展示具身智能“大脑”，实现零遥操实时选投球队，智能药房方案已落地。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">智东西</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYZzhCeHh6VUlOSURGNE1jRW90WHBaLVE1akZoYU9QalZHdnFoMFRxMlYyWGw1dXpGdU4xNGNtWUhIcUxzenc3Mw?oc=5" target="_blank" rel="noopener">在WAIC现场，我摸到了机器人干活真正需要的那只手</a><p class="desc">曦诺未来推出全球首款“腱绳+电机直驱”混合驱动仿生灵巧手Flex 2，具备23个自由度、0.05N力控精度，支持机器人精细操作。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">界面新闻</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsblBWeFBYeEpEd3g2UjBQQmdCVTVRWE5JcEQzZndQYW1teGU4YU43ZHBHWjROSFBUaGk0NFRsSFRHSGNPSWNTc0ZvTU9PQnBXeEpJMW4xcnE?oc=5" target="_blank" rel="noopener">AI开始走进药房，机器人打通夜间买药最后一公里</a><p class="desc">AI机器人应用于夜间药房，实现24小时药品配送服务。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">IT之家</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://www.ithome.com/0/978/771.htm" target="_blank" rel="noopener">DJI 大疆 Osmo Pocket 影像大赛开启：设置六大创作方向、最高奖 Mavic 4 Pro 512GB 无人机创作者套装及 3 万元现金</a><p class="desc">DJI大疆Osmo Pocket影像大赛启动，设六大创作方向，最高奖Mavic 4 Pro无人机套装及3万现金。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">The Robot Report</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://www.therobotreport.com/how-to-avoid-teleoperation-trap-robotics-development/" target="_blank" rel="noopener">How to avoid the teleoperation trap in robotics development</a><span class="trans"><b>中文翻译</b>机器人开发中如何避免遥操作陷阱</span><p class="desc">机器人开发应避免过度依赖远程操控和数据问题。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">虎嗅</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KdnJDOU5USjVidWMydzVweFdRVktpcTV0N0MxVTNQLWdjTGtsQ3U5ZmthcGFXVnE2QlZpSUhmSWI2R1B2VXpMS01ZejBMTE5IVnJ3cg?oc=5" target="_blank" rel="noopener">AI机器人从实验室走向工厂，物理世界智能竞争加剧</a><p class="desc">物理AI机器人从实验室走向工厂，竞争焦点从数字延伸至物理世界感知执行。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">TechCrunch</span><span class="sep">·</span><span class="time">2026-07-20</span></div><a class="title" href="https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/" target="_blank" rel="noopener">TechCrunch Mobility: The battle over robotaxi rules</a><span class="trans"><b>中文翻译</b>TechCrunch Mobility：机器人出租车规则之争</span><p class="desc">Uber和Waymo在自动驾驶车政策上立场对立，争夺机器人出租车规则制定权。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">澎湃新闻科技</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://news.google.com/rss/articles/CBMia0FVX3lxTE14OUJtbUpWWDFQTDRadXdmQUdrdDZIMEpvaXNlYW1SSWNqNWlOVXN4TmtuNTU2bkx0ZDJzTjBvaU1mR1FCU1dMY1N0dFRKZUlHeUJmRC0yYmxkX1FaQ2NQb2thTE9hWFFZdFZz?oc=5" target="_blank" rel="noopener">启明创投发布2026 AI十大展望：机器人数据将跃升至“百万小时级”</a></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">东方财富网</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBxUWtKcHdDWEZRcWF5S2R3RXJhTE5TX25pQlhSODVOakpleXRTZkdINTYwTkJpeXhBVWNFVklzVVJQdTRUdG9vaEt1QjFmUWdTZWprWEZmNkRoejhKWUFDdWN5SkVUMlVaelJ4Ng?oc=5" target="_blank" rel="noopener">创业板指跌超3%，AI硬件权重股遭遇重挫，机器人概念逆势爆发6月5日，市场冲高回</a><p class="desc">创业板指跌超3%，AI硬件股重挫，机器人概念股逆势上涨。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">金融界</span><span class="sep">·</span><span class="time">2026-07-19</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxdUcxYWNFZ0szMWwwdnc2eGxzVEh0dDIxMVBrUmhvS2NkdTVrNDNIQVdhVVd4Y01IMW4yalZqTFhaS1UzZk51T2toUUY1YVRoTDU4ZnlRbktuQWFyWG9zWWlxY0Ezdw?oc=5" target="_blank" rel="noopener">中国万天控股(01854.HK)附属与衡阳极索订立战略合作框架协议 布局AI外骨骼机器人智能医疗赛道</a><p class="desc">中国万天控股附属与衡阳极索合作布局AI外骨骼机器人智能医疗领域。</p></div></div>
+    </section>
+</div>
+<footer>数据来源：80+ 中英文科技与产业媒体（中文优先）· 自动生成于 2026/7/20 01:12:03（北京时间）</footer>
+<script>
+  (function(){
+    var tabs = Array.prototype.slice.call(document.querySelectorAll('.tab'));
+    var map = {}; tabs.forEach(function(t){ map[t.getAttribute('data-cat')] = t; });
+    var secs = Array.prototype.slice.call(document.querySelectorAll('.section'));
+    if(!secs.length || !('IntersectionObserver' in window)) return;
+    var obs = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){
+        if(en.isIntersecting){
+          var cat = en.target.getAttribute('data-cat');
+          tabs.forEach(function(x){ x.classList.remove('active'); });
+          if(map[cat]) map[cat].classList.add('active');
+        }
+      });
+    }, { rootMargin: '-72px 0px -55% 0px', threshold: 0 });
+    secs.forEach(function(s){ obs.observe(s); });
+  })();
+</script>
+</body>
+</html>
