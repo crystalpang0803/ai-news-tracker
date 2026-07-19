@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "generatedAt": "2026-07-19T03:58:48.273Z",
+  "generatedAt": "2026-07-19T06:15:11.263Z",
   "items": [
     {
       "title": "商汤发布旗舰级SenseNova U1 Pro，多模态智能体实现长程任务闭环",
@@ -29,7 +29,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-18T13:23:21.000Z",
-      "summary": "梅卡曼德机器人展示的“眼脑手”系统让机器人在真实场景中具备干活能力。",
+      "summary": "梅卡曼德机器人展示的“眼脑手”系统使机器人在真实场景中具备高效作业能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "全国首个具身智能实训场样板点发布",
+      "link": "https://www.ithome.com/0/978/673.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-19T04:07:37.000Z",
+      "summary": "全国首个具身智能实训场样板点发布，实现多品牌机器人统一训练。",
       "summaryZh": ""
     },
     {
@@ -43,33 +53,23 @@
       "summaryZh": ""
     },
     {
-      "title": "本田推出商用自动驾驶电动割草机，售价 32999 美元",
-      "link": "https://www.ithome.com/0/978/627.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-19T01:14:04.000Z",
-      "summary": "本田推出售价32999美元的商用自动驾驶电动割草机。",
-      "summaryZh": ""
-    },
-    {
       "title": "全球首台机器人手机，能预购了！与阿里合作",
       "link": "https://zhidx.com/p/577144.html",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-18T12:51:14.000Z",
-      "summary": "荣耀Robot Phone开启全渠道预约，是全球首款机器人手机。",
+      "summary": "全球首款机器人手机荣耀Robot Phone开启预购，具备多模态智能体操作系统。",
       "summaryZh": ""
     },
     {
-      "title": "蚂蚁数科WAIC发布“智能体超级工厂”，首批预置近200个岗位级数字专家",
-      "link": "https://36kr.com/newsflashes/3901996167513985?f=rss",
+      "title": "“人工智能+防震减灾”行动方案发布",
+      "link": "https://36kr.com/newsflashes/3902090005743493?f=rss",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-19T03:15:45.000Z",
-      "summary": "蚂蚁数科发布“智能体超级工厂”，首批预置近200个岗位级数字专家。",
+      "pubDate": "2026-07-19T05:00:07.000Z",
+      "summary": "中国地震局发布“人工智能+防震减灾”行动方案，2028年实现AI技术对防震减灾业务有效支撑。",
       "summaryZh": ""
     },
     {
@@ -79,7 +79,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-18T12:14:00.000Z",
-      "summary": "天谱乐大模型V4.7升级，AI音乐更懂二次创作，提升音乐生成与修改能力。",
+      "summary": "天谱乐大模型V4.7发布，AI音乐更懂二次创作。",
       "summaryZh": ""
     },
     {
@@ -89,7 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-18T16:26:16.000Z",
-      "summary": "华为云CEO周跃峰在WAIC上分享智能体规模化落地步骤，强调重构SaaS生态和沉淀行业资产。",
+      "summary": "华为云CEO周跃峰在WAIC大会上分享智能体规模化落地步骤。",
       "summaryZh": ""
     },
     {
@@ -99,18 +99,28 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-07-18T20:54:42.000Z",
-      "summary": "Dave Eggers向OpenAI员工表示，ChatGPT“正在压制整整一代人”。",
+      "summary": "Dave Eggers向OpenAI员工表示ChatGPT“正在压制一代人”。",
       "summaryZh": "",
       "titleZh": "Dave Eggers 告诉 OpenAI 员工，ChatGPT 正在“压制整整一代人的声音”"
     },
     {
-      "title": "B2B行业首份AI智能体全球支付白皮书发布",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vaHV4b1hMQlVkZml1ZDROSF8zVlhJNVRUbnY0TVdJZFhmaklSOE5XZ2EtLVlKc0NBUVRyUnpZTEZMRzNSMGdWeUtvNXZxeWI5aldwTy1lUjU?oc=5",
-      "source": "界面新闻",
+      "title": "Robot Phone落地 “伙伴型”AI创新进入中国时刻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YQjcwOTZkUDVGV0t3YmswS1BBdURfWHU0S1NocXFSRGo3V0FXOXo1dXg0cUhJRExhLXVZUmhPMXI3X2VYVkpsaGJxem9ZX2IyZ09j?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-18T16:07:09.000Z",
+      "summary": "荣耀发布全球首款机器人手机，引领AI终端创新进入中国。",
+      "summaryZh": ""
+    },
+    {
+      "title": "WAIC五位首席科学家交锋：多模态是LLM的“外挂”，还是下一代智能的“灵魂”？",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wa2gzVXBEQlFSYXIxQmtZVVFXeEhxNENBRi1KcTd5RjV1Y0gwNFVPaUtXODRhc1R3WW9Zck9kaUxsTDZhVGJGNHF3MjJFNDJs?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-18T12:21:55.000Z",
-      "summary": "B2B行业首份AI智能体全球支付白皮书发布，阐述AI智能体如何重塑跨境支付全链路。",
+      "pubDate": "2026-07-18T10:01:00.000Z",
+      "summary": "WAIC五位首席科学家就多模态在LLM中的角色展开辩论。",
       "summaryZh": ""
     },
     {
@@ -124,13 +134,23 @@
       "summaryZh": ""
     },
     {
-      "title": "大模型头部玩家Minimax：模型“进化”仍需重金投入 已具备健康“造血”能力︱未来・♾️",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1akliZWh0VGpyMnFraGwzNUpMOUtVcmVGYW9nRUFxRk1fdTdTajNoRlpXWG5OMndEbC10V1hXWFRoNVRDOG1BM3hvMHVrQWFXNnVBVw?oc=5",
+      "title": "世界人工智能合作组织落地上海，AI全球治理进入中国时刻",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ncEsyY1Z3elFhbVdka1BLVXZ1S0N3cnlIaW4wUTVxWXQyczdPd0FOX3NDSllWbVJMR2h3X0lXWFVOS1BhUEpsRXJJQVhhSUdaMHkyQWs3Zm0?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-18T07:58:51.000Z",
+      "summary": "世界人工智能合作组织在上海成立，AI全球治理进入中国时刻。",
+      "summaryZh": ""
+    },
+    {
+      "title": "人工智能在上海生根落地有历史的必然性",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIa0xXT1lTQXBPWHpVM1FEU3MyWkNsUlhpZ050X2l5MmR4YXJmUWV6WG1TWDF4QmVlTlZvd0hISC1kZ1BPblZlV0U0UWV3LTMxS3U0aw?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-18T15:14:56.000Z",
-      "summary": "Minimax大模型M3亮相AI大会，研发需重金投入，产品商业化反馈良好。",
+      "pubDate": "2026-07-19T04:20:19.000Z",
+      "summary": "上海成为人工智能发展重镇，历史因素促其必然。",
       "summaryZh": ""
     },
     {
@@ -140,49 +160,57 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-18T10:52:00.000Z",
-      "summary": "上海发布太空算力星座工程，目标千星部署，推动商业航天发展。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
-      "title": "财跃星辰联合上海交大发布金融智能体评测新框架",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mT0g4Nk12cVQzZHR0OTlhT1NpSlJfOE5vUTJCYTR6aTc3dXRXWWg0WkhSNEtfOUZSZ0hWaDVWVEtIWGZyODhhTg?oc=5",
+      "title": "平头哥开源AI软件栈T-Head SAIL 可最大程度释放芯片算力",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KNXhRYXJzXzdtSUxlRE5iQkNyRDRjR2E2X0pmSXZmR19vX1NuSy16RDZDV1MtS2xxTy1zTVpqTDNkcWJ0RXhVdw?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-18T04:47:50.000Z",
-      "summary": "财跃星辰与上海交大发布金融智能体评测新框架。",
-      "summaryZh": ""
+      "pubDate": "2026-07-18T15:01:04.000Z",
+      "summary": ""
     },
     {
-      "title": "被调侃为北美大豆包，谷歌回应大模型Gemini 3.5 Pro不及预期",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nQjVrNVRZYkVfUzU3RFduQUhTSUxlUDZ1MU5ybzJGR3JudTV4eVFJbkExRWFveUhTMUdSV01sM3NEcnQtRTZBMzc0Wlo4dDJF?oc=5",
-      "source": "凤凰财经",
+      "title": "WAIC 2026观察：大模型不再独占C位，智能体、机器人和算力走到台前",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jTUNXUnV0UVlmWU4xZG53a0xIZWJRVWlRZi1WNW05QmJIQW1PcGsxUmZsc1d5NEFuUFBqX2dIb0s0di01WlpoVF9kZG11YTlYX01ZaDJfTmxlMnRXRjJxM3VpTHlDbllBVlRPX2pR?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-18T23:58:44.000Z",
-      "summary": "谷歌回应大模型Gemini 3.5 Pro跳票及性能不及预期。",
+      "pubDate": "2026-07-19T03:41:00.000Z",
+      "summary": "WAIC 2026聚焦智能体、机器人和算力，大模型技术融入更多应用场景。",
       "summaryZh": ""
     },
     {
-      "title": "我国具身智能正加速迈向产业应用阶段",
-      "link": "https://36kr.com/newsflashes/3901848349165441?f=rss",
-      "source": "36氪",
+      "title": "千款AI新品齐亮相，仿生机器人惊艳全场",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHMC11djhzUzRIdjJNcE5VbXJreEdYY19TTXZXRThLZFowamxWWHRtMm5XbHN0OXlkU3d3UmEwdHVwOXE0V1FhV1RlNG1TbXdnTDFvR19valdjaXpNay0xUDB5ZEZXUG9NWmJrLWhiNlY?oc=5",
+      "source": "科技日报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-19T02:10:18.000Z",
-      "summary": "我国具身智能技术加速向产业应用过渡。",
+      "pubDate": "2026-07-19T04:41:32.000Z",
+      "summary": "2026世界人工智能大会上，千款AI新品亮相，仿生机器人吸睛。",
       "summaryZh": ""
     },
     {
-      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
-      "link": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
-      "source": "Wired",
+      "title": "WAIC大咖说 | 对话大晓机器人首席科学家陶大程：物理AI商用核心瓶颈是高质量交互数据不足",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMcHFMSlFwQjk4WGhQV2hQZ1lNZWw1MldObkZvZGljaXR4RUYyMzB6TUZ3d3pOYXN0S0pRMzZBa2JLTjRmdlZhWVF4ZGhoM2tuYVY3UGxtVDkzSjdoYkZfS0xTMmhCZw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-18T08:55:00.000Z",
+      "summary": "物理AI商用瓶颈在于高质量交互数据不足。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Palm Garden AI develops Coherence Guard relational decision layer for human-facing robots",
+      "link": "https://www.therobotreport.com/palm-garden-ai-develops-coherence-guard-relational-decision-layer-human-facing-robots/",
+      "source": "The Robot Report",
       "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-18T10:00:00.000Z",
-      "summary": "谷歌更新Gemini AI计费方式，用户需关注使用量变化。",
+      "category": "robotics",
+      "pubDate": "2026-07-18T12:30:20.000Z",
+      "summary": "Palm Garden AI开发适用于人机交互机器人的Coherence Guard关系决策层。",
       "summaryZh": "",
-      "titleZh": "Google 的新 Gemini 费率如何运作以及如何跟踪您的使用情况"
+      "titleZh": "Palm Garden AI 为人脸机器人开发 Coherence Guard 关系决策层"
     },
     {
       "title": "mimic Robotics unveils full-stack platform for dexterous robot manipulation",
@@ -202,27 +230,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-19T00:12:52.000Z",
-      "summary": "上海WAIC展馆智能机器人亮相，人形机器人产量有望突破10万台。",
-      "summaryZh": ""
-    },
-    {
-      "title": "世界模型重塑机器人“智慧大脑”",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QaUNSM0FJMjZZako3TmI2UkJhbVQ4TnB5NWJpck9hc20yNEdMNXBMVmp6M3ZvUDVKd0c2ckhzSnhvU2VkUHZNVGxzcHRSRjc2WVhKeVVFaWRDdkMwMmM0OFY2TGJGWjdJeDRqRmUyWDNsSUR4SGo2emx3?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-18T05:20:25.000Z",
-      "summary": "2026世界人工智能大会展示世界模型重塑机器人“智慧大脑”。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI不再炫技，开始干活！2026 WAIC直击：超300款新品全球首发、200家具身智能企业参展",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mR2ZwZjVZTVBTOEcyQVJGZVNyckpaR0s5Y3NYTW0xOUlsMkdMR05aY1cySHRkSS1NS3A5VGl4NmdROEVMdjVyMF9NY2poWUtzaUF6ZzN0dXkzYjZOLXQ2ZzFQajJzZ0JSdWFPUm80MkZ5X2xL?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-18T05:30:22.000Z",
-      "summary": "2026 WAIC展示超300款AI新品，200家具身智能企业参展，AI技术转向实用化。",
+      "summary": "上海WAIC展馆智能机器人亮相，人形机器人产量望破10万台。",
       "summaryZh": ""
     },
     {
@@ -232,17 +240,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-18T10:01:00.000Z",
-      "summary": "200家机器人企业WAIC竞技，物理AI竞争聚焦闭环玩家。",
-      "summaryZh": ""
-    },
-    {
-      "title": "2026年WRC青少年机器人设计大赛重庆市选拔赛在黔江举行",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wS3piNXZhUGRCbE5MNjlTaW8xR0VjRzlEZTRGRVQyY2RWMDN0OGVjeHlxVWJ1bWl5V3pDTzNwMldRUnR4RVI3bXM4d19aZUZzdUtyUnd3?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-18T10:44:00.000Z",
-      "summary": "2026年WRC青少年机器人设计大赛重庆市选拔赛在黔江举行，涵盖多项目竞技，推动区域科技体育交流。",
+      "summary": "200家机器人企业竞逐物理AI，京东布局闭环系统。",
       "summaryZh": ""
     }
   ]
