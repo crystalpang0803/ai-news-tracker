@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "generatedAt": "2026-07-19T19:21:26.418Z",
+  "generatedAt": "2026-07-19T20:27:55.700Z",
   "items": [
     {
       "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
@@ -39,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-19T10:14:24.000Z",
-      "summary": "上汽发布Robotaxi量产定制车项目，2027年亮相。",
+      "summary": "上汽发布量产定制Robotaxi项目，新车2027年亮相。",
       "summaryZh": ""
     },
     {
@@ -69,7 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-19T09:40:18.000Z",
-      "summary": "商汤大装置与国信数算共建全国一体化算力网试验场，推动算力资源协同调度。",
+      "summary": "商汤大装置与国信数算共建全国一体化算力网试验场，推动算力网工程落地。",
       "summaryZh": ""
     },
     {
@@ -79,17 +79,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-19T14:32:32.000Z",
-      "summary": "2026世界人工智能大会专题论坛探讨后摩尔时代算力范式重构。",
-      "summaryZh": ""
-    },
-    {
-      "title": "总部设上海，世界人工智能合作组织未来将鼓励共建开源生态",
-      "link": "https://www.ithome.com/0/978/797.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-19T13:50:45.000Z",
-      "summary": "世界人工智能合作组织总部设上海，将鼓励共建开源生态。",
+      "summary": "2026世界人工智能大会专题论坛聚焦“新算力文明”，探讨算力范式重构。",
       "summaryZh": ""
     },
     {
@@ -109,7 +99,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-19T08:57:14.000Z",
-      "summary": "AI机器人应用于夜间药房，实现24小时药品配送服务。",
+      "summary": "AI机器人进入药房，实现24小时无人值守，解决夜间购药难题。",
       "summaryZh": ""
     },
     {
@@ -119,7 +109,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-18T22:00:00.000Z",
-      "summary": "物理AI技术正从实验室走向实际应用，但发展仍处于早期阶段。",
+      "summary": "物理AI技术尚处于早期阶段，机器人应用逐渐从实验室走向实际场景。",
       "summaryZh": ""
     },
     {
@@ -129,17 +119,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-19T08:15:00.000Z",
-      "summary": "企业AI市场因内网限制转向项目化运营，大模型私有化部署需求增长。",
+      "summary": "企业AI市场因内网限制转向项目化，硬件和运维成本推高“进门费”。",
       "summaryZh": ""
     },
     {
-      "title": "大模型大脑能力进步的五个等级",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BSjhJc2U4bGlHVmNfUlRoUFF4WTB6ZERpZTAyUVI0U3dTd1ZWUE1uQWd4LVFnT1lUQzAxY2gxX3pCNlZqZzNPX3FJQVZEcTVFQVFwTQ?oc=5",
+      "title": "中国地震局发布“人工智能 + 防震减灾”三年行动方案，剑指 2028 年",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MX1RMUzJ3NGRkRnh5ckpVYXB0RWlaV2dUZTlsSjh3endNY0xydHpiT2wteHlSaDlzMTV2Ni03OTRWQlBFN19NQlVfM3Q?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-19T06:41:16.000Z",
+      "summary": "中国地震局发布三年行动方案，聚焦“人工智能+防震减灾”，目标2028年实现技术有效支撑。",
+      "summaryZh": ""
+    },
+    {
+      "title": "联合国秘书长数字与新兴技术特使高级顾问：人工智能全球治理 开源是可行之路 ︱未来・♾️",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FMVhyUXl5ejFaM2ZFS1VxU3E3enNZR1FRLVFsbVhYVTVyaHFyaThVckxHZ1pXelFnd2k5LWFOUkVrNmFPUF9ZcDR2RmFGQ2g3bzBsTw?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-19T15:47:42.000Z",
-      "summary": "大模型大脑能力提升至五个等级。",
+      "pubDate": "2026-07-19T10:44:06.000Z",
+      "summary": "联合国顾问认为开源是人工智能全球治理可行路径。",
       "summaryZh": ""
     },
     {
@@ -159,8 +159,18 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-19T08:41:49.000Z",
-      "summary": "启明创投发布2026 AI十大展望，算力需求转向推理。",
-      "summaryZh": ""
+      "summary": ""
+    },
+    {
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-19T19:24:45.000Z",
+      "summary": "苹果起诉OpenAI可能影响其硬件计划及上市计划。",
+      "summaryZh": "",
+      "titleZh": "苹果的诉讼会破坏 OpenAI 的硬件计划吗？"
     },
     {
       "title": "How to avoid the teleoperation trap in robotics development",
@@ -180,17 +190,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-19T06:53:12.000Z",
-      "summary": "中国平安推出智能体平台，创新专病服务矩阵，平安银行实现积分与算力融合。",
-      "summaryZh": ""
-    },
-    {
-      "title": "英伟达：从“一次性训练”的大模型到“后训练改进”的Agent，算力需求正在变化",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iRURCZF9HZFlvR1FtcWwwQUpvNzhUSDA2MW9FRFduT1hhcWh4eUVzdGJMNV9LOXo3SFlWV0xIS25SdHZxUkZXSDlWSFNqRC1SUzNn?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-19T08:45:08.000Z",
-      "summary": "英伟达称，大模型算力需求转向后训练改进，从一次性训练转向Agent。",
+      "summary": "中国平安推出智能体平台，创新专病服务矩阵，平安银行实现积分与算力互通。",
       "summaryZh": ""
     },
     {
@@ -209,9 +209,20 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-19T16:05:00.000Z",
-      "summary": "Uber与Waymo在自动驾驶车政策上立场对立，争夺规则制定权。",
+      "summary": "Uber与Waymo在自动驾驶车政策上立场对立，争夺机器人出租车规则制定权。",
       "summaryZh": "",
       "titleZh": "TechCrunch Mobility：机器人出租车规则之争"
+    },
+    {
+      "title": "What Robotics Experts Think of Tesla’s Optimus Robot",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzU1ZqWk5OSEFQZHJtV1VtZXo5UGZlejZoSUNORHB1Z1pHX0tfWmhpcEJLeWhoV1B1MXg3SzRRU19XVW9fd05Rdk9DSDRlbGpZcjU4NUI4blhYTG1wSDJBTUNqVUpFSkYyRDdhSFU1MkozekV5dHF2OWFZb1E?oc=5",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-19T00:38:33.000Z",
+      "summary": "特斯拉Optimus机器人获机器人专家评价。",
+      "summaryZh": "",
+      "titleZh": "机器人专家对特斯拉擎天柱机器人的看法"
     },
     {
       "title": "启明创投发布2026 AI十大展望：机器人数据将跃升至“百万小时级”",
@@ -220,8 +231,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-19T12:39:00.000Z",
-      "summary": "启明创投预测2026年AI机器人数据将达“百万小时级”。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "创业板指跌超3%，AI硬件权重股遭遇重挫，机器人概念逆势爆发6月5日，市场冲高回",
@@ -231,16 +241,6 @@
       "category": "robotics",
       "pubDate": "2026-07-19T02:36:39.000Z",
       "summary": "创业板指跌超3%，AI硬件股重挫，机器人概念股逆势上涨。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机器人工作室腾_技术资料",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZNTRGeGVnTllORGNaTENTVUs1ZU4xQ1oyRF9JM0RNeTZkT1FzdVpnS2VjbnVnOG1uVlBhX2RkUkU5cVo4SFpBQ193UmJ4WDBlbno0QmJtWXBhZw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-19T01:13:36.000Z",
-      "summary": "机器人工作室腾_技术资料提供设计助手、元器件查询等资源。",
       "summaryZh": ""
     }
   ]
