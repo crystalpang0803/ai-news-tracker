@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "generatedAt": "2026-07-19T20:27:55.700Z",
+  "generatedAt": "2026-07-19T22:12:22.618Z",
   "items": [
     {
       "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-19T08:55:14.000Z",
-      "summary": "新易盛上半年净利预增78%-103%，主要受益于人工智能算力投资增长和产品结构优化。",
+      "summary": "新易盛上半年净利预增78%-103%，主要受益于人工智能算力投资增长。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-19T08:32:36.000Z",
-      "summary": "黎曼动力Riemann-1.0模型通过分析20万小时人类干活视频，在RoboCasa-365家务大考中取得62.6%的优异成绩，成为榜首。",
+      "summary": "黎曼动力Riemann-1.0模型通过分析20万小时人类干活视频，在RoboCasa-365家务大考中取得62.6%的成绩，成为榜首。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-19T10:14:24.000Z",
-      "summary": "上汽发布量产定制Robotaxi项目，新车2027年亮相。",
+      "summary": "上汽发布Robotaxi量产定制车项目，新车2027年亮相。",
       "summaryZh": ""
     },
     {
@@ -79,7 +79,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-19T14:32:32.000Z",
-      "summary": "2026世界人工智能大会专题论坛聚焦“新算力文明”，探讨算力范式重构。",
+      "summary": "2026世界人工智能大会专题论坛探讨后摩尔时代算力范式重构。",
       "summaryZh": ""
     },
     {
@@ -89,7 +89,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-19T04:30:56.000Z",
-      "summary": "一目科技完成数十亿元E轮融资，估值突破百亿，专注机器人触觉感知技术。",
+      "summary": "一目科技完成数十亿元E轮融资，估值突破百亿，专注机器人触觉感知技术研发。",
       "summaryZh": ""
     },
     {
@@ -103,33 +103,13 @@
       "summaryZh": ""
     },
     {
-      "title": "机器人“班味儿”重了 但物理AI“还非常早期”",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GOENfdzFBVEN4WDFZamc0VjkyelM3RklJalQ4ZkxtRzhkbU10Zm51ajk0QzJPVUxicUxsRmxFaFRzOFdXbXc?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-18T22:00:00.000Z",
-      "summary": "物理AI技术尚处于早期阶段，机器人应用逐渐从实验室走向实际场景。",
-      "summaryZh": ""
-    },
-    {
       "title": "大模型进不了内网之后，企业 AI 的生意才真正开始",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zalJRUlI5RDBtaUhXX09ZVGp2Z3M1SWZOLTFzUV9fSkVfU1lJN09rbGV4UDJxc240a0FPTkR4Q0V4TFJ4WFQ2ZGVpS28?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-19T08:15:00.000Z",
-      "summary": "企业AI市场因内网限制转向项目化，硬件和运维成本推高“进门费”。",
-      "summaryZh": ""
-    },
-    {
-      "title": "中国地震局发布“人工智能 + 防震减灾”三年行动方案，剑指 2028 年",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MX1RMUzJ3NGRkRnh5ckpVYXB0RWlaV2dUZTlsSjh3endNY0xydHpiT2wteHlSaDlzMTV2Ni03OTRWQlBFN19NQlVfM3Q?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-19T06:41:16.000Z",
-      "summary": "中国地震局发布三年行动方案，聚焦“人工智能+防震减灾”，目标2028年实现技术有效支撑。",
+      "summary": "企业AI市场因内网限制转向项目化，需求增长推动硬件和集成服务需求。",
       "summaryZh": ""
     },
     {
@@ -149,7 +129,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-19T15:13:11.000Z",
-      "summary": "世界人工智能合作组织推进会在上海召开，各国代表共议全球治理与合作。",
+      "summary": "世界人工智能合作组织推进会在上海召开，各国代表共议AI全球治理与合作。",
       "summaryZh": ""
     },
     {
@@ -162,13 +142,32 @@
       "summary": ""
     },
     {
+      "title": "锦富技术：卡位AI算力液冷新赛道，精密制造能力获产业链验证",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9MR2d2Q0lJVkpQWFM3T1hjTXRDOUZXc09JR1l4SHdDU2U1Uk14UHkyUEQ3eGhFU1hZZEZLQ01yeWU1R2ltaFNQMg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-19T09:06:53.000Z",
+      "summary": ""
+    },
+    {
+      "title": "DJI 大疆 Osmo Pocket 影像大赛开启：设置六大创作方向、最高奖 Mavic 4 Pro 512GB 无人机创作者套装及 3 万元现金",
+      "link": "https://www.ithome.com/0/978/771.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-19T10:34:28.000Z",
+      "summary": "DJI大疆Osmo Pocket影像大赛启动，设六大创作方向，最高奖Mavic 4 Pro 512GB无人机套装及3万元现金。",
+      "summaryZh": ""
+    },
+    {
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
       "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
       "source": "TechCrunch",
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-07-19T19:24:45.000Z",
-      "summary": "苹果起诉OpenAI可能影响其硬件计划及上市计划。",
+      "summary": "苹果起诉OpenAI可能影响其硬件业务计划。",
       "summaryZh": "",
       "titleZh": "苹果的诉讼会破坏 OpenAI 的硬件计划吗？"
     },
@@ -179,7 +178,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-19T12:30:25.000Z",
-      "summary": "机器人开发应避免过度依赖远程操作和数据问题。",
+      "summary": "机器人发展应避免过度依赖远程操控和数据问题。",
       "summaryZh": "",
       "titleZh": "机器人开发中如何避免遥操作陷阱"
     },
@@ -194,13 +193,24 @@
       "summaryZh": ""
     },
     {
+      "title": "科技赋能绿茵 少年逐梦赛场——首届北京市中学生人形机器人足球赛东城赛区赛事举办",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wLTRGRGxjVE1aRENhQ0lnSVNZSE1fQjIxU2kzRVRNOGNKMm8tM1lXMEJLUzhUS0xYMjdBeTRtS2NENEp1MWxnWUpBUktsbmRnd2h2WWJvR3BYeHNFaUFoQW1ReEQ?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-19T13:59:00.000Z",
+      "summary": "首届北京市中学生人形机器人足球赛东城赛区成功举办，展现青少年科创素养。",
+      "summaryZh": ""
+    },
+    {
       "title": "AI机器人从实验室走向工厂，物理世界智能竞争加剧",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KdnJDOU5USjVidWMydzVweFdRVktpcTV0N0MxVTNQLWdjTGtsQ3U5ZmthcGFXVnE2QlZpSUhmSWI2R1B2VXpMS01ZejBMTE5IVnJ3cg?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-19T15:09:36.000Z",
-      "summary": ""
+      "summary": "物理AI机器人从实验室走向工厂，竞争焦点从数字延伸至物理世界感知执行。",
+      "summaryZh": ""
     },
     {
       "title": "TechCrunch Mobility: The battle over robotaxi rules",
@@ -209,7 +219,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-19T16:05:00.000Z",
-      "summary": "Uber与Waymo在自动驾驶车政策上立场对立，争夺机器人出租车规则制定权。",
+      "summary": "Uber与Waymo在自动驾驶车政策上立场对立，激烈争夺规则制定权。",
       "summaryZh": "",
       "titleZh": "TechCrunch Mobility：机器人出租车规则之争"
     },
@@ -231,16 +241,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-19T12:39:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "创业板指跌超3%，AI硬件权重股遭遇重挫，机器人概念逆势爆发6月5日，市场冲高回",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxUWtKcHdDWEZRcWF5S2R3RXJhTE5TX25pQlhSODVOakpleXRTZkdINTYwTkJpeXhBVWNFVklzVVJQdTRUdG9vaEt1QjFmUWdTZWprWEZmNkRoejhKWUFDdWN5SkVUMlVaelJ4Ng?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-19T02:36:39.000Z",
-      "summary": "创业板指跌超3%，AI硬件股重挫，机器人概念股逆势上涨。",
+      "summary": "启明创投预测2026年AI机器人数据将达百万小时级。",
       "summaryZh": ""
     }
   ]
