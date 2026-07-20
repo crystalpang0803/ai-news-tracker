@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generatedAt": "2026-07-20T20:52:22.753Z",
+  "generatedAt": "2026-07-20T22:17:09.202Z",
   "items": [
     {
       "title": "硬氪首发 | 一台80cm高的毛绒人形机器人，配一套面向未来的自研OS系统",
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-20T08:37:39.000Z",
-      "summary": "2026年18家国产医疗机器人企业获融资，眼科、显微外科成热点。",
+      "summary": "2026年18家国产医疗机器人企业获融资，眼科、显微外科成融资热点。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-20T12:23:37.000Z",
-      "summary": "荣耀Robot Phone形态独特，专利保护，1TB版售价预计15999元。",
+      "summary": "荣耀Robot Phone形态独特，专利保护，1TB版预计售价15999元。",
       "summaryZh": ""
     },
     {
@@ -49,7 +49,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-20T15:57:41.000Z",
-      "summary": "AI算力版图扩展至太空，国星宇航与商汤科技共建“商汤算力星座”，推动太空算力产业化。",
+      "summary": "AI算力版图拓展至太空，国星宇航与商汤科技共建“商汤算力星座”，推动太空算力产业化。",
       "summaryZh": ""
     },
     {
@@ -59,17 +59,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-20T11:36:47.000Z",
-      "summary": "AI大模型将推动审计行业回归专业本源，提升效率和精准度。",
+      "summary": "安永毛鞍宁认为AI将推动审计回归专业本源，提升效率并转向高阶领域。",
       "summaryZh": ""
     },
     {
-      "title": "工信部：深入实施“人工智能+制造”行动，加强算力、模型、数据等核心技术供给",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nMTlGRVB1LW1adEwyRnZRVGQ0VDR0dE5venhkVHZ1TG5fRFFkTEJMbFFrLVh6d1hrNGVoM1J1OW5GUVpiUkhJMy1oSDk1dHNBMk5MZVlibWo?oc=5",
+      "title": "AI算力需求提振CPO龙头业绩“报喜”，AI人工智能ETF平安(512930)涨超4.6%",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4RkZvcHAxdnFoMHpJbU5yWWc2MUxZSG9kaXFxOEZyNnhkWl9JNFZWaHNOc2F0OTJlZG16MXV6TVRMbGxydy1CeFhnTGdVQ3ZDV043T21B?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-20T12:00:00.000Z",
-      "summary": "工信部推动“人工智能+制造”行动，强化核心技术供给。",
+      "pubDate": "2026-07-20T01:38:00.000Z",
+      "summary": "AI算力需求推动CPO龙头业绩上涨，AI人工智能ETF平安涨超4.6%。",
       "summaryZh": ""
     },
     {
@@ -89,7 +89,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-20T05:52:15.000Z",
-      "summary": "光鉴科技发布具身智能视觉感知方案，提升机器人三维视觉感知能力。",
+      "summary": "光鉴科技发布具身智能视觉感知方案，助力机器人更精准感知环境。",
       "summaryZh": ""
     },
     {
@@ -108,7 +108,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-20T13:43:00.000Z",
-      "summary": "美股AI芯片股AMD、英特尔等涨超5%。",
+      "summary": "AMD、英特尔等美股AI芯片股涨超5%。",
       "summaryZh": ""
     },
     {
@@ -128,7 +128,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-20T05:41:18.000Z",
-      "summary": "中国最大端侧模型独角兽面壁智能发布开源具身智能模型，助力机器人落地。",
+      "summary": "中国最大端侧模型独角兽面壁智能发布开源具身智能模型，填补端侧大脑空白。",
       "summaryZh": ""
     },
     {
@@ -138,7 +138,19 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-20T02:22:24.000Z",
-      "summary": ""
+      "summary": "超节点亮相WAIC，国产算力迈入系统级竞争时代。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-20T21:21:15.000Z",
+      "summary": "Google研发新型AI芯片以提升Gemini模型效率。",
+      "summaryZh": "",
+      "titleZh": "谷歌正在开发一款新的人工智能芯片，旨在提高 Gemini 的效率"
     },
     {
       "title": "Claude杀入全美教室：一周干49小时的老师，终于等来免费AI助教",
@@ -147,17 +159,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-20T01:47:23.000Z",
-      "summary": "美国教师可免费使用AI助教Claude，助教可自动备课、分层教学和数据分析。",
+      "summary": "美国教师可免费使用AI助教Claude，助力教学效率提升。",
       "summaryZh": ""
-    },
-    {
-      "title": "广和通携手璇玑动力，提升四足机器人复杂环境连续定位能力",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11X1JieGRJbUtaS0RlMl9IU2psR2xGQTVPd2hHLXd1b1ZUcFlGX2Z5NmV6MjdnX0VCWUdvUlVjWlkwc1FNZktUY1Y1dw?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-20T08:20:44.000Z",
-      "summary": ""
     },
     {
       "title": "OpenAI is scared of open-weight models. Should the US be?",
@@ -171,24 +174,13 @@
       "titleZh": "OpenAI 害怕开放权重模型。美国应该如此吗？"
     },
     {
-      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
-      "link": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-20T19:11:25.000Z",
-      "summary": "Natural融资3000万美元，旨在革新AI代理支付系统，挑战Stripe。",
-      "summaryZh": "",
-      "titleZh": "Natural 筹集了 3000 万美元，以重塑人工智能代理的支付方式，并挑战 Stripe"
-    },
-    {
       "title": "A single AI agent conversation can look perfect and still be broken, leaders from LangChain, Conviva and CoreWeave said at VB Transform 2026",
       "link": "https://venturebeat.com/data/a-single-ai-agent-conversation-can-look-perfect-and-still-be-broken-leaders-from-langchain-conviva-and-coreweave-said-at-vb-transform-2026",
       "source": "VentureBeat",
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-07-20T18:24:33.000Z",
-      "summary": "AI对话看似完美仍可能存在问题，企业评估转向用户群体基准对比。",
+      "summary": "AI对话看似完美仍可能存在缺陷，企业评估转向用户群体对比基准。",
       "summaryZh": "",
       "titleZh": "LangChain、Conviva 和 CoreWeave 的领导者在 VB Transform 2026 上表示，单个 AI 代理对话可能看起来很完美，但仍然会被破坏。"
     },
@@ -210,7 +202,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-20T17:53:58.000Z",
-      "summary": "Boston Dynamics将探讨人机交互的艺术，强调安全性。",
+      "summary": "Boston Dynamics将探讨人机交互的艺术。",
       "summaryZh": "",
       "titleZh": "波士顿动力讨论人机交互背后的艺术"
     },
@@ -221,7 +213,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-20T11:38:02.000Z",
-      "summary": "大晓机器人发布开源Kairos 3.1世界模型，重新定义机器人世界理解能力。",
+      "summary": "大晓机器人发布开源世界模型Kairos 3.1，实现机器人对环境的理解与动作预测。",
       "summaryZh": ""
     },
     {
@@ -231,7 +223,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-20T11:12:48.000Z",
-      "summary": "千觉研发具身触觉模型，助力机器人实现精准触觉感知与操作。",
+      "summary": "千觉研发触觉模型，助力机器人实现精准操作。",
       "summaryZh": ""
     },
     {
@@ -243,6 +235,17 @@
       "pubDate": "2026-07-20T02:41:08.000Z",
       "summary": "我国人形机器人整机产品数量超全球半数。",
       "summaryZh": ""
+    },
+    {
+      "title": "Building robots for unpredictable, infrastructure-free environments",
+      "link": "https://www.therobotreport.com/building-robots-for-unpredictable-infrastructure-free-environments/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-20T18:39:57.000Z",
+      "summary": "研发适应无基础设施、不可预测环境的机器人技术。",
+      "summaryZh": "",
+      "titleZh": "为不可预测、无基础设施的环境构建机器人"
     }
   ]
 }
