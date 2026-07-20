@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generatedAt": "2026-07-20T22:17:09.202Z",
+  "generatedAt": "2026-07-20T23:41:25.751Z",
   "items": [
     {
       "title": "硬氪首发 | 一台80cm高的毛绒人形机器人，配一套面向未来的自研OS系统",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-20T09:12:42.000Z",
-      "summary": "青心意创发布80cm高毛绒人形机器人Amoo，搭载自研OS系统Dino OS。",
+      "summary": "青心意创发布80cm高毛绒人形机器人，搭载自研Dino OS系统。",
       "summaryZh": ""
     },
     {
@@ -33,13 +33,13 @@
       "summaryZh": ""
     },
     {
-      "title": "消息称荣耀 Robot Phone 形态有专利友商难跟进，行业预测 1TB 版价格在 15999 元左右",
-      "link": "https://www.ithome.com/0/979/221.htm",
-      "source": "IT之家",
+      "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场",
+      "link": "https://36kr.com/p/3901396207584902?f=rss",
+      "source": "36氪",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-20T12:23:37.000Z",
-      "summary": "荣耀Robot Phone形态独特，专利保护，1TB版预计售价15999元。",
+      "category": "ai",
+      "pubDate": "2026-07-20T01:30:27.000Z",
+      "summary": "腾讯云发布ADP 4.0海外版，旨在全球推广企业级智能体。",
       "summaryZh": ""
     },
     {
@@ -59,17 +59,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-20T11:36:47.000Z",
-      "summary": "安永毛鞍宁认为AI将推动审计回归专业本源，提升效率并转向高阶领域。",
+      "summary": "AI大模型将推动审计行业回归专业本源，提升效率和人才数字化能力。",
       "summaryZh": ""
     },
     {
-      "title": "AI算力需求提振CPO龙头业绩“报喜”，AI人工智能ETF平安(512930)涨超4.6%",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4RkZvcHAxdnFoMHpJbU5yWWc2MUxZSG9kaXFxOEZyNnhkWl9JNFZWaHNOc2F0OTJlZG16MXV6TVRMbGxydy1CeFhnTGdVQ3ZDV043T21B?oc=5",
+      "title": "工信部：深入实施“人工智能+制造”行动，加强算力、模型、数据等核心技术供给",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nMTlGRVB1LW1adEwyRnZRVGQ0VDR0dE5venhkVHZ1TG5fRFFkTEJMbFFrLVh6d1hrNGVoM1J1OW5GUVpiUkhJMy1oSDk1dHNBMk5MZVlibWo?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-20T01:38:00.000Z",
-      "summary": "AI算力需求推动CPO龙头业绩上涨，AI人工智能ETF平安涨超4.6%。",
+      "pubDate": "2026-07-20T12:00:00.000Z",
+      "summary": "工信部推动“人工智能+制造”行动，强化核心技术供给。",
       "summaryZh": ""
     },
     {
@@ -102,13 +102,33 @@
       "summary": ""
     },
     {
+      "title": "具身智能落地缺的端侧大脑，中国最大端侧模型独角兽出手了",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1sWGxKYnhxbHhMLVEyWWR6T29wd1hyR2dINFdHREVYamlFVFRNMG5Cb2dOVkVjUHNMN2NPODZkLWZrcWVMVHc?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-20T05:41:18.000Z",
+      "summary": "中国最大端侧模型独角兽面壁智能发布开源具身智能模型，填补端侧大脑空白。",
+      "summaryZh": ""
+    },
+    {
       "title": "美股AI芯片板块走高，AMD、英特尔涨超5%",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VV3JILXVWWlFoSkJKcE1NNGo5UlRpb0d3dDJ1dEhFMGlreGVDckxfVFU5dWJDN0E1WXR5Sm0xX3BqUXhESzdHU3FoUTRCT2pUcHdCMHFPeDRFQQ?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-20T13:43:00.000Z",
-      "summary": "AMD、英特尔等美股AI芯片股涨超5%。",
+      "summary": "美股AI芯片股AMD、英特尔等涨超5%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI 董事会主席布雷特 · 泰勒大胆预测：一年后企业将不再担心 Token 成本",
+      "link": "https://www.ithome.com/0/979/279.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-20T23:30:50.000Z",
+      "summary": "OpenAI 董事长预测一年后企业无需担忧 AI Token 成本。",
       "summaryZh": ""
     },
     {
@@ -122,24 +142,13 @@
       "summaryZh": ""
     },
     {
-      "title": "具身智能落地缺的端侧大脑，中国最大端侧模型独角兽出手了",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1sWGxKYnhxbHhMLVEyWWR6T29wd1hyR2dINFdHREVYamlFVFRNMG5Cb2dOVkVjUHNMN2NPODZkLWZrcWVMVHc?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-20T05:41:18.000Z",
-      "summary": "中国最大端侧模型独角兽面壁智能发布开源具身智能模型，填补端侧大脑空白。",
-      "summaryZh": ""
-    },
-    {
       "title": "超节点集中亮相WAIC 国产算力进入系统级竞争时代",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBET01ldVRHSWNnSHBFU1JPSlJqUXFGSkkxWHZ4Mng3V2hQcEZudHVhRENvUWNtUE5OM0I1NHZxZVhEbGRHLUpBRw?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-20T02:22:24.000Z",
-      "summary": "超节点亮相WAIC，国产算力迈入系统级竞争时代。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "Google is working on a new AI chip designed to make Gemini more efficient",
@@ -148,19 +157,9 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-07-20T21:21:15.000Z",
-      "summary": "Google研发新型AI芯片以提升Gemini模型效率。",
+      "summary": "谷歌研发新型AI芯片，旨在提升Gemini模型效率。",
       "summaryZh": "",
       "titleZh": "谷歌正在开发一款新的人工智能芯片，旨在提高 Gemini 的效率"
-    },
-    {
-      "title": "Claude杀入全美教室：一周干49小时的老师，终于等来免费AI助教",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1id2QtZnhnQnB3LVFsdnViQzA0SWhGVEVMaXdwN25fM0M1X2RxeDBSQW8tQWpwUjRDMVJsWXcxd1VMWjNFdEQ4TklLb1ZmbjBB?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-20T01:47:23.000Z",
-      "summary": "美国教师可免费使用AI助教Claude，助力教学效率提升。",
-      "summaryZh": ""
     },
     {
       "title": "OpenAI is scared of open-weight models. Should the US be?",
@@ -180,20 +179,9 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-07-20T18:24:33.000Z",
-      "summary": "AI对话看似完美仍可能存在缺陷，企业评估转向用户群体对比基准。",
+      "summary": "AI对话看似完美仍可能存在缺陷，企业评估转向用户群体基准对比。",
       "summaryZh": "",
       "titleZh": "LangChain、Conviva 和 CoreWeave 的领导者在 VB Transform 2026 上表示，单个 AI 代理对话可能看起来很完美，但仍然会被破坏。"
-    },
-    {
-      "title": "Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems",
-      "link": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
-      "source": "VentureBeat",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-20T15:49:20.000Z",
-      "summary": "Hugging Face遭AI攻击，安全防护阻止了防御者而非攻击者。",
-      "summaryZh": "",
-      "titleZh": "当人工智能代理入侵其系统时，安全护栏阻止了 Hugging Face 的防御者，而不是攻击者"
     },
     {
       "title": "Boston Dynamics to discuss the art behind human-robot interaction",
@@ -213,7 +201,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-20T11:38:02.000Z",
-      "summary": "大晓机器人发布开源世界模型Kairos 3.1，实现机器人对环境的理解与动作预测。",
+      "summary": "大晓机器人发布开源Kairos 3.1世界模型，重新定义机器人世界理解能力。",
       "summaryZh": ""
     },
     {
@@ -223,7 +211,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-20T11:12:48.000Z",
-      "summary": "千觉研发触觉模型，助力机器人实现精准操作。",
+      "summary": "千觉研发具身触觉模型，助力机器人实现精准触觉感知与操作。",
       "summaryZh": ""
     },
     {
@@ -237,15 +225,24 @@
       "summaryZh": ""
     },
     {
-      "title": "Building robots for unpredictable, infrastructure-free environments",
-      "link": "https://www.therobotreport.com/building-robots-for-unpredictable-infrastructure-free-environments/",
-      "source": "The Robot Report",
+      "title": "2026 WAIC深度观察：具身智能告别“秀场时代”",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Kc19kblYtaTRLMXVkcDRFWnZsWThTYm1XNUhTc2tQRHdiREtMUXh6Y0JiUE0wZUtNbkpmZWdoaUQybmd3ZHFFaw?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-19T23:41:54.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
+      "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+      "source": "Ars Technica",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-07-20T18:39:57.000Z",
-      "summary": "研发适应无基础设施、不可预测环境的机器人技术。",
+      "pubDate": "2026-07-20T21:55:52.000Z",
+      "summary": "美国研发灭火无人机应对频发的野火。",
       "summaryZh": "",
-      "titleZh": "为不可预测、无基础设施的环境构建机器人"
+      "titleZh": "野火几乎全年困扰美国，消防无人机投入使用"
     }
   ]
 }
