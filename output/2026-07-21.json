@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generatedAt": "2026-07-20T19:54:18.309Z",
+  "generatedAt": "2026-07-20T20:52:22.753Z",
   "items": [
     {
       "title": "硬氪首发 | 一台80cm高的毛绒人形机器人，配一套面向未来的自研OS系统",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-20T09:12:42.000Z",
-      "summary": "青心意创发布80cm高毛绒人形机器人Amoo，搭载自研Dino OS系统。",
+      "summary": "青心意创发布80cm高毛绒人形机器人Amoo，搭载自研OS系统Dino OS。",
       "summaryZh": ""
     },
     {
@@ -39,27 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-20T12:23:37.000Z",
-      "summary": "荣耀Robot Phone形态独特，专利保护，1TB版预计售价15999元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场",
-      "link": "https://36kr.com/p/3901396207584902?f=rss",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-20T01:30:27.000Z",
-      "summary": "腾讯云发布ADP 4.0海外版，旨在全球推广企业级智能体。",
-      "summaryZh": ""
-    },
-    {
-      "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
-      "link": "https://www.qbitai.com/2026/07/455805.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-20T10:33:23.000Z",
-      "summary": "国产大模型公司共同选择无问芯穹作为AI基础设施合作伙伴。",
+      "summary": "荣耀Robot Phone形态独特，专利保护，1TB版售价预计15999元。",
       "summaryZh": ""
     },
     {
@@ -69,7 +49,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-20T15:57:41.000Z",
-      "summary": "AI算力版图拓展至太空，国星宇航与商汤科技共建“商汤算力星座”，推动太空算力产业化。",
+      "summary": "AI算力版图扩展至太空，国星宇航与商汤科技共建“商汤算力星座”，推动太空算力产业化。",
       "summaryZh": ""
     },
     {
@@ -103,6 +83,16 @@
       "summaryZh": ""
     },
     {
+      "title": "光鉴科技发布具身智能视觉感知方案，为物理AI提供视觉感知基础",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84RUhXR1BGOS1jUTNNaEpCbEVtNlFTb2NHWEZvQ29xZnNCZWVtQ3NiNHBiLWtYWFdlOVdyVWhNQmlVQ1RaZ1Q4Wmp6dUd2VFJQeGY0NQ?oc=5",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-20T05:52:15.000Z",
+      "summary": "光鉴科技发布具身智能视觉感知方案，提升机器人三维视觉感知能力。",
+      "summaryZh": ""
+    },
+    {
       "title": "思灵机器人 Agile Robots 亮相 WAIC 2026：具身智能独角兽展示物理 AI 全栈实力",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zbEhSM0hNRThSSVZjZHc3cE5fX3NFS0JpaE1FelBHMTdrWmswSk1yX21pbThUZFNyV2ltekZDQVdkSkdmaWZCWlZQMkE?oc=5",
       "source": "极客公园",
@@ -110,16 +100,6 @@
       "category": "robotics",
       "pubDate": "2026-07-20T17:48:16.000Z",
       "summary": ""
-    },
-    {
-      "title": "具身智能落地缺的端侧大脑，中国最大端侧模型独角兽出手了",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1sWGxKYnhxbHhMLVEyWWR6T29wd1hyR2dINFdHREVYamlFVFRNMG5Cb2dOVkVjUHNMN2NPODZkLWZrcWVMVHc?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-20T05:41:18.000Z",
-      "summary": "中国最大端侧模型独角兽面壁智能发布开源具身智能模型，填补端侧大脑空白。",
-      "summaryZh": ""
     },
     {
       "title": "美股AI芯片板块走高，AMD、英特尔涨超5%",
@@ -137,8 +117,18 @@
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-20T10:06:52.000Z",
+      "pubDate": "2026-07-20T14:36:52.000Z",
       "summary": "上海市举行人工智能重点项目签约仪式，32个项目签约总金额409亿元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "具身智能落地缺的端侧大脑，中国最大端侧模型独角兽出手了",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1sWGxKYnhxbHhMLVEyWWR6T29wd1hyR2dINFdHREVYamlFVFRNMG5Cb2dOVkVjUHNMN2NPODZkLWZrcWVMVHc?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-20T05:41:18.000Z",
+      "summary": "中国最大端侧模型独角兽面壁智能发布开源具身智能模型，助力机器人落地。",
       "summaryZh": ""
     },
     {
@@ -149,6 +139,16 @@
       "category": "ai",
       "pubDate": "2026-07-20T02:22:24.000Z",
       "summary": ""
+    },
+    {
+      "title": "Claude杀入全美教室：一周干49小时的老师，终于等来免费AI助教",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1id2QtZnhnQnB3LVFsdnViQzA0SWhGVEVMaXdwN25fM0M1X2RxeDBSQW8tQWpwUjRDMVJsWXcxd1VMWjNFdEQ4TklLb1ZmbjBB?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-20T01:47:23.000Z",
+      "summary": "美国教师可免费使用AI助教Claude，助教可自动备课、分层教学和数据分析。",
+      "summaryZh": ""
     },
     {
       "title": "广和通携手璇玑动力，提升四足机器人复杂环境连续定位能力",
@@ -188,9 +188,20 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-07-20T18:24:33.000Z",
-      "summary": "AI对话看似完美仍可能存在问题，企业评估转向用户群体对比基准。",
+      "summary": "AI对话看似完美仍可能存在问题，企业评估转向用户群体基准对比。",
       "summaryZh": "",
       "titleZh": "LangChain、Conviva 和 CoreWeave 的领导者在 VB Transform 2026 上表示，单个 AI 代理对话可能看起来很完美，但仍然会被破坏。"
+    },
+    {
+      "title": "Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems",
+      "link": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-20T15:49:20.000Z",
+      "summary": "Hugging Face遭AI攻击，安全防护阻止了防御者而非攻击者。",
+      "summaryZh": "",
+      "titleZh": "当人工智能代理入侵其系统时，安全护栏阻止了 Hugging Face 的防御者，而不是攻击者"
     },
     {
       "title": "Boston Dynamics to discuss the art behind human-robot interaction",
@@ -199,7 +210,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-20T17:53:58.000Z",
-      "summary": "Boston Dynamics将探讨人机交互的艺术，强调预测性设计以建立信任与安全。",
+      "summary": "Boston Dynamics将探讨人机交互的艺术，强调安全性。",
       "summaryZh": "",
       "titleZh": "波士顿动力讨论人机交互背后的艺术"
     },
@@ -220,7 +231,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-20T11:12:48.000Z",
-      "summary": "千觉研发具身触觉模型，助力机器人实现精准操作。",
+      "summary": "千觉研发具身触觉模型，助力机器人实现精准触觉感知与操作。",
       "summaryZh": ""
     },
     {
@@ -232,15 +243,6 @@
       "pubDate": "2026-07-20T02:41:08.000Z",
       "summary": "我国人形机器人整机产品数量超全球半数。",
       "summaryZh": ""
-    },
-    {
-      "title": "2026 WAIC深度观察：具身智能告别“秀场时代”",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Kc19kblYtaTRLMXVkcDRFWnZsWThTYm1XNUhTc2tQRHdiREtMUXh6Y0JiUE0wZUtNbkpmZWdoaUQybmd3ZHFFaw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-19T23:41:54.000Z",
-      "summary": ""
     }
   ]
 }
