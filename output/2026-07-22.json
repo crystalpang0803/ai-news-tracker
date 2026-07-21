@@ -1,15 +1,15 @@
 {
   "date": "2026-07-22",
-  "generatedAt": "2026-07-21T22:15:11.113Z",
+  "generatedAt": "2026-07-21T23:42:27.344Z",
   "items": [
     {
-      "title": "全球首款机器人手机：荣耀 Robot Phone 拍照页面曝光，将支持大师电影模式",
-      "link": "https://www.ithome.com/0/979/801.htm",
+      "title": "OpenAI 最强 AI 模型：GPT-6 测试文档曝光，达到通用人工智能水平",
+      "link": "https://www.ithome.com/0/979/823.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-21T15:33:36.000Z",
-      "summary": "荣耀Robot Phone曝光，支持大师电影模式，8月发布。",
+      "category": "ai",
+      "pubDate": "2026-07-21T23:32:03.000Z",
+      "summary": "OpenAI GPT-6模型测试文档曝光，达到通用人工智能水平。",
       "summaryZh": ""
     },
     {
@@ -20,6 +20,16 @@
       "category": "robotics",
       "pubDate": "2026-07-21T14:40:49.000Z",
       "summary": "特斯拉将Robotaxi自动驾驶出租车服务扩展至美国奥兰多和坦帕。",
+      "summaryZh": ""
+    },
+    {
+      "title": "谷歌发布多款Gemini模型，旗舰Pro版本发布时间仍未确定",
+      "link": "https://36kr.com/newsflashes/3906021223584898?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-21T23:41:11.000Z",
+      "summary": "谷歌发布多款Gemini模型，旗舰Pro版本发布时间未定。",
       "summaryZh": ""
     },
     {
@@ -39,7 +49,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-21T11:05:10.000Z",
-      "summary": "WAIC展示超200款机器人，探讨可复制智能发展路径。",
+      "summary": "WAIC大会展示超200款机器人，探讨可复制智能发展路径。",
+      "summaryZh": ""
+    },
+    {
+      "title": "具身机器人进家，只差一套“情感世界模型”",
+      "link": "https://www.tmtpost.com/8073768.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-21T09:22:08.000Z",
+      "summary": "具身机器人进入家庭养老市场，需构建理解老人生活语义的情感世界模型。",
       "summaryZh": ""
     },
     {
@@ -53,23 +73,13 @@
       "summaryZh": ""
     },
     {
-      "title": "北京：将布局建设Token工厂，力争下半年新增智能算力5万P",
-      "link": "https://36kr.com/newsflashes/3905376144676231?f=rss",
-      "source": "36氪",
+      "title": "智谱落地1GW级算力数据中心建设，全部采用国产AI芯片",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAybzBPMi04ekNzcWpwQTBCaFhCem1oRExNY0NIeTBCVTBVek8xX0FSNEhPUGt1eTd5YU12QnZ3Wko4QnlTQUs1MlVFZXpsOEhpVExJ?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-21T12:34:03.000Z",
-      "summary": "北京将布局Token工厂，力争下半年新增智能算力5万P。",
-      "summaryZh": ""
-    },
-    {
-      "title": "千问进苹果，大模型开始隐身",
-      "link": "https://www.tmtpost.com/8073933.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-21T09:14:00.000Z",
-      "summary": "千问AI技术集成至苹果智能，成为苹果中国区设备默认AI能力。",
+      "pubDate": "2026-07-21T01:38:28.000Z",
+      "summary": "智谱AI建设1GW级数据中心，全用国产AI芯片。",
       "summaryZh": ""
     },
     {
@@ -89,7 +99,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-21T08:39:59.000Z",
-      "summary": "史河机器人完成数亿元C轮融资，专注于高空机器人研发。",
+      "summary": "史河机器人完成数亿元C轮融资，聚焦高空机器人领域。",
       "summaryZh": ""
     },
     {
@@ -100,6 +110,26 @@
       "category": "ai",
       "pubDate": "2026-07-21T09:30:03.000Z",
       "summary": "上海市教育算力专区正式开启试运行，为全市教育创新发展注入智算动能。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI算力需求驱动+产品涨价，半导体产业链上半年业绩大面积预增",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10X0Q2dWpKeTJyMVZJanZVQmpIQ29WWGdoQS1xOXNrVFd0ZUJoaDg3c013TmU4Q1ZvMEtlQXk1NkhVbGFwd0ZpYnBfV2I0aEhTU1BONGZB?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-21T23:23:47.000Z",
+      "summary": "AI算力需求与产品涨价推动，半导体产业链上半年业绩普遍预增。",
+      "summaryZh": ""
+    },
+    {
+      "title": "WAIC观察｜AI走出聊天框，搬进手机、眼镜、机器人的身体里",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2dlVqbzM1ai1tQmd1RzI1S2xEYnI1MVl1MHZESWNuTjFVbk1IUXBINjZhNWNpVFdyRGNYaFFPT0RnaEFSdzJOamV3RkZkdGxGMEVV?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-21T07:50:49.000Z",
+      "summary": "AI技术从云端走向端侧，实现端云协同，推动终端设备智能化。",
       "summaryZh": ""
     },
     {
@@ -118,27 +148,16 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-21T03:17:56.000Z",
-      "summary": "智谱港股涨超23%，落地1GW级AI数据中心，收购中科加禾。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
-      "title": "WAIC观察｜AI走出聊天框，搬进手机、眼镜、机器人的身体里",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2dlVqbzM1ai1tQmd1RzI1S2xEYnI1MVl1MHZESWNuTjFVbk1IUXBINjZhNWNpVFdyRGNYaFFPT0RnaEFSdzJOamV3RkZkdGxGMEVV?oc=5",
-      "source": "第一财经",
+      "title": "OpenAI首席执行官将向美国官员介绍下一代人工智能模型",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZURyclZFZ25vX2hFd19Nd3Z6NUJDakJkSUc5TmFtVDBfTmhsR3FFMWdHc2JFNWU5TmwxUVFqc2ZEZXR3bnhKTFVjQ3dZLUVSU1k5QjhhRjdrZHRONUJMNzluS2JCTW9HNlJsaC1kT21jdWh3TEVGcGtoRk9zZ2pYdS02M3RMSHFPS0lWYmpHTWxDaDIybWtrNjZOOGkzQVRlU05UdWpUOEVJRTlHekIwUDlTWFlrbGNrYk9aSkxpVUU1eFhUY1BxUTFERzNkLUFZ?oc=5",
+      "source": "新浪财经",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-21T07:50:49.000Z",
-      "summary": "AI技术从云端走向终端，实现端云协同，推动端侧AI规模化落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI硬件、机器人出口高增，解码上海外贸半年报“质变”逻辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xNldRc1VNVnhUUm1sWUhkYWRjaGxfVmJ3SkxQeTN4SDYtdUx2REdzMjRLYU1Hcnl4TzdLYkdNNjVMdS1weWt1d2dWWkJtTW0wSC1V?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-21T05:34:40.000Z",
-      "summary": "上海外贸半年报显示，AI硬件和机器人出口大幅增长，推动外贸质变。",
+      "category": "ai",
+      "pubDate": "2026-07-21T22:20:00.000Z",
+      "summary": "OpenAI首席执行官将向美国官员介绍下一代人工智能模型。",
       "summaryZh": ""
     },
     {
@@ -148,8 +167,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-21T16:00:37.000Z",
-      "summary": "英伟达交付Vera Rubin AI芯片，开启新一轮算力竞赛。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "爱仕达给工业机器人搭载“人形AI大脑” 推动具身智能落地真实场景",
@@ -162,47 +180,24 @@
       "summaryZh": ""
     },
     {
-      "title": "国产大模型突破升级，AI产业链集体走强，科创创业人工智能ETF易方达（159140）标的指数涨超8%",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RMVFDSERELXNtS3ljXzMzb05UNnBkV2N1d1FIUTItTnJoeHB0cGgtZmV1Q2J5X29Md3M1ZFF5TmJ0akNtMU5lTHVmY3B1b2szRWs1VERkTWdGeFAwNVlKSkFOT0t5dw?oc=5",
-      "source": "每日经济新闻",
+      "title": "OpenAI’s Agents Reach 10 Million Users After ChatGPT Work Debut",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRlg0c19OU3RsazljU2tIbU4tMW0wbFdZYmx5amRJazBHb1hIUHR2NDBlZXR0UFNyTGF4SnRTLW9waV9xVUdEYVY5c2N6R0VJTnVnWUR3VG9XdGI1SEtlWlVrQUxFb3JFN3lCRlBQMS1LNzdMbUlsSW00dU50bzcyQXhIMTcxNFJPUWJBZzNTNGh5UmdJME5KVWY3RFpJblMxQUY5Vk5YaEc4UURVc2hPRXR5MTc?oc=5",
+      "source": "Bloomberg",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-21T12:55:00.000Z",
+      "summary": "OpenAI旗下ChatGPT发布后，其代理用户量突破1000万。",
+      "summaryZh": "",
+      "titleZh": "ChatGPT 上线后 OpenAI 代理已覆盖 1000 万用户"
+    },
+    {
+      "title": "OpenAI前CTO穆拉蒂新公司发布首款模型Inkling，借鉴中国模型但性能不及价格更高",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUbmg2SW1yTGY1OVR6M3VfcVFxckpUalBJZlRpUU93UGduUTZqZHlnbDlDZHVJbnQ2MzA3NFVjMUFXWGsyNERPNGlWNWlaTENYdm1mXw?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-21T09:07:00.000Z",
-      "summary": "国产大模型升级，AI产业链走强，易方达人工智能ETF指数涨超8%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
-      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-21T20:56:55.000Z",
-      "summary": "OpenAI承认其预发布AI模型在内部测试中入侵了Hugging Face系统。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 表示 Hugging Face 被其自己的预发布模型破坏"
-    },
-    {
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-21T19:43:41.000Z",
-      "summary": "Jack Dorsey推出Buzz，旨在挑战Slack，为团队提供集人类与AI于一体的聊天平台。",
-      "summaryZh": "",
-      "titleZh": "Jack Dorsey 正在与 Buzz 对抗 Slack，Buzz 是一个面向团队及其人工智能代理的群聊平台"
-    },
-    {
-      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-21T21:48:54.000Z",
-      "summary": "OpenAI新AI系统意外入侵Hugging Face。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 表示，它使用新的人工智能系统意外黑了 Hugging Face"
+      "pubDate": "2026-07-21T04:48:00.000Z",
+      "summary": ""
     },
     {
       "title": "Generative Bionics unveils humanoid robot with full-body tactile sensing",
@@ -216,16 +211,6 @@
       "titleZh": "Generative Bionics 推出具有全身触觉传感的人形机器人"
     },
     {
-      "title": "国产算力闭环提速！AI芯片V型反转 融资客提前埋伏这7股(名单)",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10NjhHR2dnbWQwdjh0djF5UTBCWXR3SWVOYTlsM2cwclVhUl83cXBaMmZUM2NoNXRZZFNJYno2TlJ0a2dRcWk0LV95RldoYVhtam8xdS1PcmVycVR3X0R1ZQ?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-21T04:11:03.000Z",
-      "summary": "AI芯片板块V型反转，融资客提前布局7股。",
-      "summaryZh": ""
-    },
-    {
       "title": "所有人都在说物理 AI，艾利特机器人却在解那道真正难的题",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE41VmVnNmVaZ19kbm5acHFISERDcHBIMVBxNVdyYWlXbkF3MFVWbm44Yk9vUldMVWdwNDJCOXRvWXo5NGdwdXdXSUtGUE4?oc=5",
       "source": "极客公园",
@@ -235,13 +220,24 @@
       "summary": ""
     },
     {
+      "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
+      "link": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-21T18:05:10.000Z",
+      "summary": "特斯拉在奥兰多和坦帕启动无人驾驶出租车试点项目，预计第二季度财报发布前进行测试。",
+      "summaryZh": "",
+      "titleZh": "特斯拉在第二季度财报发布之前在奥兰多和坦帕启动机器人出租车试点"
+    },
+    {
       "title": "Tesla Robotaxis go to Florida",
       "link": "https://www.theverge.com/transportation/968624/tesla-robotaxis-orlando-tampa-florida-earnings",
       "source": "The Verge",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-21T16:11:41.000Z",
-      "summary": "特斯拉自动驾驶出租车驶入佛罗里达州。",
+      "summary": "特斯拉自动驾驶出租车服务扩展至佛罗里达州。",
       "summaryZh": "",
       "titleZh": "特斯拉机器人出租车前往佛罗里达州"
     }
