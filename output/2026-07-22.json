@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generatedAt": "2026-07-21T19:46:33.143Z",
+  "generatedAt": "2026-07-21T20:48:29.148Z",
   "items": [
     {
       "title": "全球首款机器人手机：荣耀 Robot Phone 拍照页面曝光，将支持大师电影模式",
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-21T11:05:10.000Z",
-      "summary": "WAIC展会上，机器人种类繁多，智能迁移复制技术尚无定论。",
+      "summary": "WAIC展示超200款机器人，探讨可复制智能发展路径。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-21T09:22:08.000Z",
-      "summary": "具身机器人居家养老需构建“情感世界模型”以理解老人生活语义。",
+      "summary": "具身机器人居家养老需构建“情感世界模型”以理解老人生活状态。",
       "summaryZh": ""
     },
     {
@@ -99,8 +99,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-21T09:23:32.000Z",
-      "summary": "超节点亮相WAIC，国产算力迈入系统级竞争时代。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "财联社7月21日电，港股智谱持续走高现涨超23%，消息面上，智谱落地1GW级国产AI算力数据中心，完成收购中科加禾。",
@@ -109,8 +108,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-21T03:17:56.000Z",
-      "summary": "智谱港股涨超23%，落地1GW级AI数据中心，收购中科加禾。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "英伟达(NVDA.US)AI“新王牌”来了！Vera Rubin已交付OpenAI等巨头 下一轮算力竞赛开启",
@@ -129,7 +127,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-21T07:50:49.000Z",
-      "summary": "AI技术从云端走向端侧，实现端云协同，推动终端设备智能化。",
+      "summary": "AI技术从云端走向终端，实现端云协同，推动端侧AI规模化落地。",
       "summaryZh": ""
     },
     {
@@ -180,7 +178,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-21T09:07:00.000Z",
-      "summary": "国产大模型升级，AI产业链走强，相关ETF指数涨超8%。",
+      "summary": "国产大模型升级，AI产业链走强，易方达人工智能ETF涨超8%。",
       "summaryZh": ""
     },
     {
@@ -212,17 +210,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-21T04:11:03.000Z",
-      "summary": "AI芯片板块V型反转，融资客提前布局7股。",
-      "summaryZh": ""
-    },
-    {
-      "title": "《贸泽电子新闻稿发布》贸泽电子全新EIT系列 探讨人形机器人的设计核心要点",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQdkhXdjlEUDlGcHBGZURqUGZCNF9kM3hTTUEySXVLREZ6RmZnWng3YlNxTlJOZW1FWmtBRFotUDJGTmVOZVl1eUpaWGsxb25hTkFxNTRFRQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-21T08:15:50.000Z",
-      "summary": "贸泽电子发布EIT系列，探讨人形机器人设计要点及变革潜力。",
+      "summary": "AI芯片板块V型反转，融资客逆势押注7股。",
       "summaryZh": ""
     },
     {
@@ -235,15 +223,26 @@
       "summary": ""
     },
     {
-      "title": "Tesla Robotaxis go to Florida",
-      "link": "https://www.theverge.com/transportation/968624/tesla-robotaxis-orlando-tampa-florida-earnings",
-      "source": "The Verge",
+      "title": "Friction is key to making better robot world models",
+      "link": "https://www.therobotreport.com/friction-is-key-to-making-better-robot-world-models/",
+      "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-07-21T16:11:41.000Z",
-      "summary": "特斯拉自动驾驶出租车服务扩展至佛罗里达州。",
+      "pubDate": "2026-07-21T12:19:30.000Z",
+      "summary": "摩擦力是提升机器人世界模型的关键。",
       "summaryZh": "",
-      "titleZh": "特斯拉机器人出租车前往佛罗里达州"
+      "titleZh": "摩擦是制作更好的机器人世界模型的关键"
+    },
+    {
+      "title": "Robotics startup Humanoid raises $152 million Series A round at $1.35 billion valuation",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHl0NDlsZVVjSk5iZGFHc3N6NEtqSG9JSExWVzg1Unkzb3RNRHpqWHpVR21NMVRQU2M5VDRPZjlrcGlUN21SalU2czZONVNBcGFLcUhXa0p6QjRVbGNrZ01hWDNNdnR2RGMwVXVLZklaZktqdkdqY01RTjJUcnN3QWhVTzJrX3M3MUE2NDR6R3JIeEFYMXZ5MU84Nk9vNm5EbnpfRWFzVVJGb0Y1Z1hYXzgySzVfVGlxaG5xWjFxa1V3Zw?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-21T13:17:13.000Z",
+      "summary": "人形机器人初创公司Humanoid完成1.35亿美元估值下的1.52亿美元A轮融资。",
+      "summaryZh": "",
+      "titleZh": "机器人初创公司 Humanoid 筹集 1.52 亿美元 A 轮融资，估值 13.5 亿美元"
     }
   ]
 }
