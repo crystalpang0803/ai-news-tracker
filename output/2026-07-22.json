@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generatedAt": "2026-07-21T17:41:01.326Z",
+  "generatedAt": "2026-07-21T19:46:33.143Z",
   "items": [
     {
       "title": "全球首款机器人手机：荣耀 Robot Phone 拍照页面曝光，将支持大师电影模式",
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-21T11:05:10.000Z",
-      "summary": "WAIC大会展示超200款机器人，探讨可复制智能发展路径。",
+      "summary": "WAIC展会上，机器人种类繁多，智能迁移复制技术尚无定论。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-21T09:22:08.000Z",
-      "summary": "具身机器人居家养老需建立“情感世界模型”以理解老人生活状态。",
+      "summary": "具身机器人居家养老需构建“情感世界模型”以理解老人生活语义。",
       "summaryZh": ""
     },
     {
@@ -49,7 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-21T07:31:58.000Z",
-      "summary": "一目科技展示机器人通过视触觉技术识别真伪花生，实现物理交互数据采集与AI学习。",
+      "summary": "一目科技在WAIC 2026展示机器人通过视触觉技术识别真伪花生。",
       "summaryZh": ""
     },
     {
@@ -59,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-21T12:34:03.000Z",
-      "summary": "北京计划下半年新增5万P智能算力，布局Token工厂。",
+      "summary": "北京将布局Token工厂，力争下半年新增智能算力5万P。",
       "summaryZh": ""
     },
     {
@@ -78,8 +78,8 @@
       "source": "36氪",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-21T13:30:47.000Z",
-      "summary": "厂长关注AI与机器人进厂的实际应用效果，而非技术参数。",
+      "pubDate": "2026-07-20T22:29:00.000Z",
+      "summary": "厂长关注AI与机器人进厂的实际应用效果和成本效益。",
       "summaryZh": ""
     },
     {
@@ -99,7 +99,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-21T09:23:32.000Z",
-      "summary": ""
+      "summary": "超节点亮相WAIC，国产算力迈入系统级竞争时代。",
+      "summaryZh": ""
     },
     {
       "title": "财联社7月21日电，港股智谱持续走高现涨超23%，消息面上，智谱落地1GW级国产AI算力数据中心，完成收购中科加禾。",
@@ -108,7 +109,18 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-21T03:17:56.000Z",
-      "summary": ""
+      "summary": "智谱港股涨超23%，落地1GW级AI数据中心，收购中科加禾。",
+      "summaryZh": ""
+    },
+    {
+      "title": "英伟达(NVDA.US)AI“新王牌”来了！Vera Rubin已交付OpenAI等巨头 下一轮算力竞赛开启",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XQklOOHlZSVY2bkd5akF2em5RY2RLakh6TDVyVUI3aVlfUDhua0RIZHUxS3B2MV9rTGd2UU0yR010QzF2QnpKLVBRVEs1TmFHb2NUWnMyZThXd24tSkdNbnh0VDZCRlhlaXJXb2FDUXZ0aGNV?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-21T16:00:37.000Z",
+      "summary": "英伟达交付Vera Rubin AI芯片，开启新一轮算力竞赛。",
+      "summaryZh": ""
     },
     {
       "title": "WAIC观察｜AI走出聊天框，搬进手机、眼镜、机器人的身体里",
@@ -117,7 +129,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-21T07:50:49.000Z",
-      "summary": "AI技术从云端走向端侧，实现端云协同，推动终端智能化发展。",
+      "summary": "AI技术从云端走向端侧，实现端云协同，推动终端设备智能化。",
       "summaryZh": ""
     },
     {
@@ -168,8 +180,19 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-21T09:07:00.000Z",
-      "summary": "国产大模型升级，AI产业链走强，易方达人工智能ETF涨超8%。",
+      "summary": "国产大模型升级，AI产业链走强，相关ETF指数涨超8%。",
       "summaryZh": ""
+    },
+    {
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-21T19:43:41.000Z",
+      "summary": "Jack Dorsey推出Buzz，一款集人类与AI于一体的团队聊天平台，挑战Slack。",
+      "summaryZh": "",
+      "titleZh": "Jack Dorsey 正在与 Buzz 对抗 Slack，Buzz 是一个面向团队及其人工智能代理的群聊平台"
     },
     {
       "title": "Google releases three new Gemini models — but no 3.5 Pro",
@@ -178,31 +201,9 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-07-21T17:11:50.000Z",
-      "summary": "Google发布三款新的Gemini模型，不包括3.5 Pro。",
+      "summary": "Google发布三款新Gemini模型，不包括3.5 Pro。",
       "summaryZh": "",
       "titleZh": "谷歌发布了三款新的 Gemini 型号，但没有 3.5 Pro"
-    },
-    {
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
-      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-20T19:33:25.000Z",
-      "summary": "OpenAI担忧开放权重模型，美国是否应效仿？",
-      "summaryZh": "",
-      "titleZh": "OpenAI 害怕开放权重模型。美国应该如此吗？"
-    },
-    {
-      "title": "A single AI agent conversation can look perfect and still be broken, leaders from LangChain, Conviva and CoreWeave said at VB Transform 2026",
-      "link": "https://venturebeat.com/data/a-single-ai-agent-conversation-can-look-perfect-and-still-be-broken-leaders-from-langchain-conviva-and-coreweave-said-at-vb-transform-2026",
-      "source": "VentureBeat",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-20T18:24:33.000Z",
-      "summary": "AI对话看似完美仍可能存在缺陷，企业评估转向用户群体基准对比。",
-      "summaryZh": "",
-      "titleZh": "LangChain、Conviva 和 CoreWeave 的领导者在 VB Transform 2026 上表示，单个 AI 代理对话可能看起来很完美，但仍然会被破坏。"
     },
     {
       "title": "国产算力闭环提速！AI芯片V型反转 融资客提前埋伏这7股(名单)",
@@ -211,7 +212,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-21T04:11:03.000Z",
-      "summary": "AI芯片板块V型反转，融资客押注7股。",
+      "summary": "AI芯片板块V型反转，融资客提前布局7股。",
+      "summaryZh": ""
+    },
+    {
+      "title": "《贸泽电子新闻稿发布》贸泽电子全新EIT系列 探讨人形机器人的设计核心要点",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQdkhXdjlEUDlGcHBGZURqUGZCNF9kM3hTTUEySXVLREZ6RmZnWng3YlNxTlJOZW1FWmtBRFotUDJGTmVOZVl1eUpaWGsxb25hTkFxNTRFRQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-21T08:15:50.000Z",
+      "summary": "贸泽电子发布EIT系列，探讨人形机器人设计要点及变革潜力。",
       "summaryZh": ""
     },
     {
@@ -233,17 +244,6 @@
       "summary": "特斯拉自动驾驶出租车服务扩展至佛罗里达州。",
       "summaryZh": "",
       "titleZh": "特斯拉机器人出租车前往佛罗里达州"
-    },
-    {
-      "title": "Friction is key to making better robot world models",
-      "link": "https://www.therobotreport.com/friction-is-key-to-making-better-robot-world-models/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-07-21T12:19:30.000Z",
-      "summary": "摩擦力是提升机器人世界模型的关键。",
-      "summaryZh": "",
-      "titleZh": "摩擦是制作更好的机器人世界模型的关键"
     }
   ]
 }
