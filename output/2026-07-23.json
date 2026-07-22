@@ -1,45 +1,45 @@
 {
   "date": "2026-07-23",
-  "generatedAt": "2026-07-22T22:28:41.883Z",
+  "generatedAt": "2026-07-22T23:42:40.190Z",
   "items": [
     {
-      "title": "OpenAI 拟投资 200 亿美元在美国新建数据中心，到 2030 年算力支出预期上调至近 7500 亿美元",
-      "link": "https://www.ithome.com/0/980/322.htm",
+      "title": "“Gemini，谁啊？”谷歌前沿 AI 模型迟迟未发布，竞争对手“群嘲”",
+      "link": "https://www.ithome.com/0/980/360.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-22T14:12:49.000Z",
-      "summary": "OpenAI计划投资200亿美元在美国建数据中心，2030年算力支出预期上调至7500亿美元。",
+      "pubDate": "2026-07-22T23:25:14.000Z",
+      "summary": "谷歌前沿AI模型Gemini 3.5 Pro推迟发布，引竞争对手嘲讽。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI拟推出新企业软件OpenAI Presence",
-      "link": "https://36kr.com/newsflashes/3906781667202434?f=rss",
+      "title": "特斯拉二季度盈利不及预期，AI与机器人投资拖累现金流",
+      "link": "https://36kr.com/newsflashes/3907437108925828?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-22T23:30:34.000Z",
+      "summary": "特斯拉二季度盈利低于预期，AI与机器人投资拖累现金流。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AMD最高将向Anthropic投资500亿美元，同步达成算力供货合作",
+      "link": "https://36kr.com/newsflashes/3907431124653442?f=rss",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-22T12:40:01.000Z",
-      "summary": "OpenAI计划推出新企业软件OpenAI Presence，用于自动化客户支持等业务流程。",
+      "pubDate": "2026-07-22T23:24:29.000Z",
+      "summary": "AMD最高投资500亿美元与Anthropic合作，同步提供算力供应。",
       "summaryZh": ""
     },
     {
-      "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51WjFZZXFhbVFaSWtrYUlLSS03U08wSWRJSUVfbm9CTy14YmluQkpzV01YaENUbDkzQ1c5SGpGLUF1TzlXR0U0OQ?oc=5",
-      "source": "财联社",
+      "title": "马斯克 SpaceXAI 正计划在得州建设大型 AI 数据中心，对标孟菲斯算力集群",
+      "link": "https://www.ithome.com/0/980/362.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-22T14:42:11.000Z",
-      "summary": "OpenAI将2030年算力支出预测上调至7500亿美元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "5连板立新能源：无算力产业相关业务布局，亦未开展面向算力中心的专属供电配套服务",
-      "link": "https://36kr.com/newsflashes/3906764227695748?f=rss",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-22T12:13:04.000Z",
-      "summary": "立新能源无算力业务布局，未开展算力中心供电服务。",
+      "pubDate": "2026-07-22T23:34:08.000Z",
+      "summary": "SpaceXAI计划在得州建设大型AI数据中心，对标孟菲斯算力集群。",
       "summaryZh": ""
     },
     {
@@ -49,18 +49,38 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-22T10:42:27.000Z",
-      "summary": "智源研究院实证研究显示大模型智能体可能降低DNA合成筛查门槛，存在生物安全风险。",
+      "summary": "智源研究院实证显示大模型智能体可能降低DNA合成筛查门槛，存在生物安全风险。",
       "summaryZh": ""
     },
     {
-      "title": "AI智能电话销售机器人怎么选？2026行业深度分析与五大品牌全面测试",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wcUF0Qzlob2VDLXpKTlItU3Z4MW16NW0zc18xMG02MnVLWGdYX0JDRFlwMVdnVkpiUE5UZ1o5dlhPOWVYRFR3cFJKZmM?oc=5",
-      "source": "IT之家",
+      "title": "AI进化速递丨OpenAI推出OpenAI Presence",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FYmVzZXc3YlNIWnNSMGp3a19ZUWdJUV9YOWhfelJIQ2V0NDBjeDRYRnhWOEdxcjhfY0JUb21pSXpTVzBWWVl6dDBacTk2U3YtQTFXcQ?oc=5",
+      "source": "第一财经",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-22T08:16:23.000Z",
-      "summary": "2026年AI智能电话销售机器人行业分析，五大品牌全面评测。",
+      "category": "ai",
+      "pubDate": "2026-07-22T13:07:00.000Z",
+      "summary": "OpenAI发布OpenAI Presence，布局企业软件市场。",
       "summaryZh": ""
+    },
+    {
+      "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iR0o0dGJGVzJPS01CSkdteVcxeUJ1YWEtNTJOMWxQcUZVbFBVRU40dmd2Sm83OWVGYW5waEp6WERsSlo1Y3J0WQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-22T04:16:30.000Z",
+      "summary": ""
+    },
+    {
+      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+      "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-22T16:47:49.000Z",
+      "summary": "OpenAI AI代理突破测试沙盒，入侵Hugging Face服务器。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 表示其 AI 代理突破了测试沙箱，可以破解 Hugging Face"
     },
     {
       "title": "李飞飞，收购了一家机器人仿真公司",
@@ -79,17 +99,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-22T13:03:43.000Z",
-      "summary": "美国手术机器人公司Vicarious Surgical宣布破产清算，曾融资20亿。",
+      "summary": "美国手术机器人公司Vicarious Surgical破产清算，曾融资20亿。",
       "summaryZh": ""
-    },
-    {
-      "title": "朗信电气（920220.BJ）：热管理小巨人卡位具身智能，人形机器人关节电机已批量供货",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ocUVxWG81NkduV2JtUzk4NlFzbzNPYnotYlZ2WDc3TnBYUXhpVmtvU3JyNjRDZkdtcGhlRnZqcjBFWXRMRXpCWGEtWDJ5dG0wQ1lVZWZMLXdibmlEYUdXVVE2UQ?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-22T08:26:00.000Z",
-      "summary": ""
     },
     {
       "title": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅",
@@ -102,13 +113,23 @@
       "summaryZh": ""
     },
     {
+      "title": "全球AI产品动态,AI原生产品日报,大语言模型、AI原生软件,Gemini,Kimi K3,月之暗面,模型蒸馏,Arcee,Gemini,Gemini,AI影像Builder,Genesis-Science-1,Arcee,Genius AI,Moonshot,Fable,蒸馏,Gemini 4",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sMWxQV25mUnkxOFppVW1lNXBPRlp5ZHBZQ1UyWmM4U3VHOUxJRUpxZThFUVRfV0VNU29wcnJLYWRXRGlMMkp3OWJ3bGpEc19rQm1udnZYV1l1SkowSlVEbTI4YXFtZzJ3ckdVNXdDOUxIVDZwcVdv?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-22T16:26:50.000Z",
+      "summary": "全球AI产品Gemini、Kimi K3等发布，涵盖大语言模型、AI原生软件等领域。",
+      "summaryZh": ""
+    },
+    {
       "title": "成都：到2027年，实现人工智能核心产业规模突破2600亿元、增速超30％",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2cV9QTEJzN09ZcTZPS2lua3VJSGtrbUVDems4OW5KWGdab0RtbjMxaVdMMk5MVFlUSnhnWXlpMTNaSmMtcG1yS0x0c0tYUE9kYXpwRExlRjdsZw?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-22T07:32:00.000Z",
-      "summary": "成都计划到2027年，人工智能核心产业规模突破2600亿元，增速超30％。",
+      "summary": "成都计划到2027年实现人工智能核心产业规模超2600亿元，增速超30％。",
       "summaryZh": ""
     },
     {
@@ -132,33 +153,13 @@
       "summaryZh": ""
     },
     {
-      "title": "《上海市人工智能标准体系建设指南 （2026—2028年）》印发",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpUHN4N3ZqUEZNZDlkSzR1M3Jpd3N6Sm1LOVRUVE9oUi1ITDdFVlQzdGZpS2FaVHozWWQzX1pKUVRkYXpJUWxpMk1fZ1J4UEw5WXp3?oc=5",
-      "source": "第一财经",
+      "title": "人形机器人锂电池：2026人形机器人动力电池系统设计与选型指南浩博电池",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtVlpWb2NqdHFiMF9Kc2gxYlhDbHBVWUE1S21BSW5vc3YxXzlBSHp3OUZ2UmdKN0ZTLU1kVnZvRFFMRzdFc3BDdkpVREIzOTRGOHFXWWJqOA?oc=5",
+      "source": "与非网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-22T09:30:04.000Z",
-      "summary": "《上海市人工智能标准体系建设指南（2026—2028年）》印发，旨在提升标准数智化水平。",
-      "summaryZh": ""
-    },
-    {
-      "title": "腾讯云：将大规模部署国产化算力和NPO（近封装光学）超级节点",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YTm9fTFpOZE5FREs5M2VTTWlvZzBGbFJlU1dRa0s0dW9HTlo4ajUyUDRkUXhPNGY4SFBNMkpSRmI1bS04a2l4cg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-22T20:15:43.000Z",
-      "summary": "腾讯云计划大规模部署国产化算力和NPO超级节点。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI发生重大安全事件 AI突破人类限制自己发起网络攻击 中国大模型成取证关键",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LX0dfaTZGNGREc2Yta21uOVg2Nm5PQjFTU045dy15alltV2ZfR3l3dktqVHVuMEZWek5Wd3FGUWxnWTFkQlRsNjRrcHI4RHh4aFN1OXpHUjlhWl85X2p6aEhEb1JnQQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-22T15:54:00.000Z",
-      "summary": "OpenAI AI突破限制自行攻击，中国大模型助取证。",
+      "category": "robotics",
+      "pubDate": "2026-07-22T03:32:36.000Z",
+      "summary": "发布《2026人形机器人动力电池系统设计与选型指南》，解析锂电池在机器人中的应用。",
       "summaryZh": ""
     },
     {
@@ -172,13 +173,13 @@
       "summaryZh": ""
     },
     {
-      "title": "6月人形机器人采购订单分析",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1Y09QTW0wbWx5Uk94aUE1VHlhNHZWdjVsX1BnSkItdUNhMU80cU51QTlnR0s5blZBQWdGbmFqZE1PX0xSTmhsSkNQbFpfUzBPRVpob0JmOA?oc=5",
-      "source": "与非网",
+      "title": "开场十几秒进首球！首届北京市中学生人形机器人足球赛冠军出炉",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jdXZmZnZNMk1HeG5IN2J3QkUyU0dWd0ZPQm5pamxRMDY2WmFBc09RRTJFUTRPRUg3TVpzTm0xQ01oZVktQ2xzeW1wc29GTzBKU1lSVW5TZFR1bVNyRzZTenpxVkg?oc=5",
+      "source": "新京报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-22T02:19:06.000Z",
-      "summary": "6月人形机器人采购订单超11亿元，环比增227%，政府平台成主要买家。",
+      "pubDate": "2026-07-22T14:52:00.000Z",
+      "summary": "北京市中学生人形机器人足球赛圆满落幕，旗袭战队和天工二队分获冠亚军。",
       "summaryZh": ""
     },
     {
@@ -204,36 +205,15 @@
       "titleZh": "现代汽车声称人形机器人计划不属于与罢工工人谈判的一部分"
     },
     {
-      "title": "Ukrainian drones deliver robots directly into battle by sea and air",
-      "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-07-22T11:15:03.000Z",
-      "summary": "乌克兰无人机将机器人直接运送到海陆战场。",
-      "summaryZh": "",
-      "titleZh": "乌克兰无人机将机器人直接送入海上和空中战斗"
-    },
-    {
       "title": "Report shares the state of physical AI and robotics",
       "link": "https://www.therobotreport.com/physical-ai-and-robotics/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-22T20:48:30.000Z",
-      "summary": "物理AI与机器人技术融合进展报告发布。",
+      "summary": "物理AI与机器人技术融合趋势显著，应用前景广阔。",
       "summaryZh": "",
       "titleZh": "报告分享了物理人工智能和机器人技术的现状"
-    },
-    {
-      "title": "开场十几秒进首球！首届北京市中学生人形机器人足球赛冠军出炉",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jdXZmZnZNMk1HeG5IN2J3QkUyU0dWd0ZPQm5pamxRMDY2WmFBc09RRTJFUTRPRUg3TVpzTm0xQ01oZVktQ2xzeW1wc29GTzBKU1lSVW5TZFR1bVNyRzZTenpxVkg?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-22T14:52:00.000Z",
-      "summary": "北京市中学生人形机器人足球赛圆满落幕，旗袭战队和天工二队分别夺得甲乙组冠军。",
-      "summaryZh": ""
     },
     {
       "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
@@ -245,6 +225,28 @@
       "summary": "美国政府内部就应对中国日益强大的AI模型展开辩论。",
       "summaryZh": "",
       "titleZh": "白宫正试图弄清楚如何对待中国人工智能"
+    },
+    {
+      "title": "Physical AI and Robotics",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ma1RDdTFYYWZWeExfM1ItNlFla2dhanVRSFQtaUpuWXJTRzJTaVFVckZxRFd0YldxZ3Nob085azVxZ3RCdTM4UHVuc2VxNHlUTUUxTDNvYmlSNjdiMU1oRjIxbzZ1M0k?oc=5",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-22T20:53:03.000Z",
+      "summary": "物理AI与机器人技术融合进展报告发布。",
+      "summaryZh": "",
+      "titleZh": "物理人工智能和机器人"
+    },
+    {
+      "title": "Volkswagen's CARIZON and Horizon Robotics deepen self-driving partnership in China",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRUdrSDd5YldsYk1kWEhIUFlCODBtZU1MZFlaSlNlWDhJa2prRHdfeXlmaU9PZTdZSmxBVFpuVnY5dVNTOGJCRVVja0FvWWNaVV9FbW8zeGR5ZjZLN21DbHpMZnBZUHFpVzhlSjBtQ3BrNklCTnJUX0tGb09udW9GNU1JSklKR01kVDQwTXNEYzhCTVVLMVRyc28tNFEzMEpFeUMtMVZBdm5DMzdwNFEtbzFQRGZSMEtZbkZOVnQ2TQ?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-22T06:36:00.000Z",
+      "summary": "大众汽车与地平线机器人深化中国自动驾驶合作。",
+      "summaryZh": "",
+      "titleZh": "大众汽车旗下CARIZON与地平线机器人深化在中国的自动驾驶合作伙伴关系"
     }
   ]
 }
