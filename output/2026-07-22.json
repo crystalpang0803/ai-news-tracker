@@ -1,35 +1,35 @@
 {
   "date": "2026-07-22",
-  "generatedAt": "2026-07-22T03:50:24.994Z",
+  "generatedAt": "2026-07-22T06:13:57.792Z",
   "items": [
     {
-      "title": "OpenAI 最强 AI 模型：GPT-6 测试文档曝光，达到通用人工智能水平",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kWHRBYzhDSVJDeDcxMkw0S3pXbTR4czFPTV9DdUV3c1dfQldSeGpLU0ZtZVliQlJjazJaakpadWY3UV9vcmZ0R2U5WEM?oc=5",
+      "title": "人工智能ETF华富(515980)盘中涨超2%冲击3连涨，国产大模型迭代周期缩短，机构称全面看好国产算力产业链",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pdjhWNS00dm1WbzBBRXp5N3VoMUdXZGdmRF9mb3lxZDloTzdFbTc5eU43TjhMOHItSDVzVkluZmRGLWxHTGJsMTJLZ2lVWnlhdVc1c1owVVE?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-22T02:38:00.000Z",
+      "summary": "人工智能ETF华富涨超2%，机构看好国产算力产业链。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI智能体用户突破1000万，ChatGPT Work发布后需求翻倍",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zVVllcC1JMzhxYjVZbS04SUZqSW1jRFdIXzJWUkNEczRhWWxLQnNmMXRXcm5IVkM0eU5TUTNXOTlheVJLbmF5UDVrVzlLOGMwSkxV?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-21T21:30:42.000Z",
+      "summary": "OpenAI智能体用户数突破1000万，ChatGPT Work发布后需求翻倍。",
+      "summaryZh": ""
+    },
+    {
+      "title": "中国工程院院士李骏：自动驾驶汽车上路必须保证全生命周期安全",
+      "link": "https://www.ithome.com/0/979/995.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-21T23:32:03.000Z",
-      "summary": "OpenAI GPT-6模型测试文档曝光，或达通用人工智能水平。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI AI Agent在ChatGPT Work推出后用户突破1000万",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DTHphTDVfZlBCVlZVQWdwakZlTjFFcFR2VHFTSmJLcU1rVkhhMmN1SkZCdHdNYmdDNmdjaFVWLWlVc3BUemE3emlFc0VaNGt5X2UwNVJwdHM4d3RBQ0tvdHItMTZlUWlhclVzTlJDaFp1Q3lV?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-21T14:23:31.000Z",
-      "summary": "OpenAI AI Agent在ChatGPT Work推出后用户数突破1000万。",
-      "summaryZh": ""
-    },
-    {
-      "title": "海南省“十五五”服务业发展规划：探索货运电动垂直起降飞行器、大载荷无人机跨海运输，全面提升物流时效",
-      "link": "https://36kr.com/newsflashes/3906209008227715?f=rss",
-      "source": "36氪",
-      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-22T02:41:17.000Z",
-      "summary": "海南省规划探索货运电动垂直起降飞行器等跨海运输，提升物流时效。",
+      "pubDate": "2026-07-22T04:26:44.000Z",
+      "summary": "李骏强调自动驾驶汽车上路需确保全生命周期安全。",
       "summaryZh": ""
     },
     {
@@ -39,17 +39,37 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-21T07:31:58.000Z",
-      "summary": "一目科技展示机器人通过视触觉技术识别真伪花生，实现物理交互数据采集与AI学习。",
+      "summary": "一目科技在WAIC 2026展示机器人通过视触觉技术识别真伪花生。",
+      "summaryZh": ""
+    },
+    {
+      "title": "腾讯AI创意智能体Miora全量上线",
+      "link": "https://36kr.com/newsflashes/3906336701175169?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-22T04:51:10.000Z",
+      "summary": "腾讯AI创意智能体Miora国际版全量上线，提供全流程创意产出能力。",
       "summaryZh": ""
     },
     {
       "title": "一次测试，逼 OpenAI 最高模型，黑进了全球最大 AI 开源平台",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tQ0JENk1OTmtkcWhMQzRZQnZXblNkakNVczJlOUcyMG9Pbjg0VVBVSV9ER0JRUVRnSDdxaWJER2lldFJCVm8yeFMxS0pXdnYy?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sMU9hN1VLYlp0N0ZqSlplOW5lbFR1NFdZY1ZPN2lJelVwV05MRjJnNnB0UmxkaXdlcHZyX0NOQ21OVkV4ZFlaaUo0NHlBZw?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-21T12:02:00.000Z",
-      "summary": "OpenAI最高模型GPT-5.6 Sol黑进Hugging Face平台，窃取数据和服务凭证。",
+      "summary": "OpenAI最高模型GPT-5.6 Sol在内部测试中黑进Hugging Face平台。",
+      "summaryZh": ""
+    },
+    {
+      "title": "天立启鸣发布教育AGI白皮书：破解教育“不可能三角”",
+      "link": "https://www.qbitai.com/2026/07/457040.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-22T03:54:49.000Z",
+      "summary": "天立启鸣发布教育AGI白皮书，提出认知仿真教育方案，破解教育“不可能三角”。",
       "summaryZh": ""
     },
     {
@@ -63,33 +83,13 @@
       "summaryZh": ""
     },
     {
-      "title": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅",
-      "link": "https://www.qbitai.com/2026/07/456061.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-22T00:34:33.000Z",
-      "summary": "小红书大模型dots-note-3.0在IMO数学竞赛中满分夺金，第三题解法获冠军选手赞誉。",
-      "summaryZh": ""
-    },
-    {
       "title": "AI算力的路、油与交规",
       "link": "https://www.tmtpost.com/8074797.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-22T02:17:04.000Z",
-      "summary": "中国AI算力面临政策、产业和供应链三重错配挑战。",
-      "summaryZh": ""
-    },
-    {
-      "title": "钛晨报IPv6技术创新和融合应用实施方案发布，部署10方面36项重点任务；证监会：持续加强市场基础制度建设，增强市场内在稳定性；北京：下半年将布局建设Token工厂，力争新增智能算力5万P",
-      "link": "https://www.tmtpost.com/8074503.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-21T23:20:00.000Z",
-      "summary": "IPv6实施方案发布，证监会加强市场基础建设，北京布局Token工厂。",
+      "summary": "AI算力面临政策、产业和供应链三重错配，制约产业发展。",
       "summaryZh": ""
     },
     {
@@ -99,7 +99,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-07-21T19:59:58.000Z",
-      "summary": "Google发布新AI模型，降低长期工程任务AI代理代币成本最多65%。",
+      "summary": "Google发布新AI模型，降低长期工程任务中AI代理代币成本最多65%。",
       "summaryZh": "",
       "titleZh": "Google 的 Gemini 3.6 Flash 模型可将长期工程任务中的 AI 代理代币成本降低高达 65%，3.5 Pro 即将推出"
     },
@@ -134,53 +134,53 @@
       "summaryZh": ""
     },
     {
+      "title": "Gemini 3.5 Pro难产，谷歌先交了两张草稿纸",
+      "link": "https://www.tmtpost.com/8074665.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-22T01:36:56.000Z",
+      "summary": "谷歌推出Gemini 3.6 Flash和3.5 Flash-Lite，旗舰模型3.5 Pro仍无音讯。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Claude Cowork 新增录屏教学：用户演示一遍即可教会 AI",
+      "link": "https://www.ithome.com/0/980/004.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-22T05:48:04.000Z",
+      "summary": "Claude Cowork新增录屏教学功能，用户可演示操作教会AI。",
+      "summaryZh": ""
+    },
+    {
       "title": "AI算力需求驱动+产品涨价，半导体产业链上半年业绩大面积预增",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hY3czWXE3MHhCMmt4T3ZlQ2EyRG9ublhiVEYyWWItYnltdmd0S21CdXgwY2w0QkFIeUVvOTlqbmtRWWY4cGFGMFphbHJPYkNHZTV4S1hVMms?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-21T23:56:57.000Z",
+      "pubDate": "2026-07-21T23:58:57.000Z",
       "summary": "AI算力需求与产品涨价推动，半导体产业链上半年业绩普遍预增。",
       "summaryZh": ""
     },
     {
-      "title": "科创50ETF华夏(588000)涨0.55%冲击3连涨，AI算力驱动板块业绩大面积预增景气度持续",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXQ09QM0lRUVhWdG9NQjRvbGlvTTNVTEFPcG5oOHBvOUczUzRYUXNLcTRkTTRSelMxNS16a29fRk5HeU9Ca2stdzgwNzVDaFFJNjV4T2x2UkQ?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-22T02:50:41.000Z",
-      "summary": "科创50ETF华夏涨0.55%，AI算力板块业绩预增，景气度持续。",
-      "summaryZh": ""
-    },
-    {
-      "title": "A股开盘｜沪指跌0.64% AI算力板块走低",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DRDJQMGZWWkpKUlVhOWVMOGhHaGJFcHJ0SzNVeHl5N0swUGtxN1ZOVmN2NVhLTnVaLVF4cmZjMTZtanFnV0tDUkx1aEVlbUhhTUVTTg?oc=5",
+      "title": "普华永道中国在沪成立人工智能研究院链接全球与本土生态，加速AI价值落地",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnT2dzbHNQOFBzZnh3Wmd2WGRtVEcwRExxU2w1TVFlWEx2cmR1OURHS2hrcUIxZUFzT1lLc3ZUNVNJZDZDVnlOcU5hYnBLSFBvSDhr?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-22T01:26:00.000Z",
-      "summary": "沪指开盘下跌0.64%，AI算力板块表现疲弱。",
+      "pubDate": "2026-07-22T05:56:42.000Z",
+      "summary": "普华永道中国在沪成立人工智能研究院，旨在加速AI价值落地。",
       "summaryZh": ""
     },
     {
-      "title": "超节点集中亮相WAIC 国产算力进入系统级竞争时代",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBET01ldVRHSWNnSHBFU1JPSlJqUXFGSkkxWHZ4Mng3V2hQcEZudHVhRENvUWNtUE5OM0I1NHZxZVhEbGRHLUpBRw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-21T09:23:32.000Z",
-      "summary": "国产超节点集中亮相，标志着国产算力进入系统级竞争时代。",
-      "summaryZh": ""
-    },
-    {
-      "title": "全新深蓝 S05 官宣，激光雷达、智驾小蓝灯上车",
-      "link": "https://www.ithome.com/0/979/912.htm",
-      "source": "IT之家",
+      "title": "《贸泽电子新闻稿发布》贸泽电子全新EIT系列 探讨人形机器人的设计核心要点",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQdkhXdjlEUDlGcHBGZURqUGZCNF9kM3hTTUEySXVLREZ6RmZnWng3YlNxTlJOZW1FWmtBRFotUDJGTmVOZVl1eUpaWGsxb25hTkFxNTRFRQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-22T02:31:14.000Z",
-      "summary": "深蓝S05宣布，将搭载激光雷达和智驾小蓝灯。",
+      "pubDate": "2026-07-21T08:15:50.000Z",
+      "summary": "贸泽电子发布EIT系列，探讨人形机器人设计要点及AI应用。",
       "summaryZh": ""
     },
     {
@@ -193,16 +193,6 @@
       "summary": "Generative Bionics发布具备全身触觉感知的人形机器人Gene.01。",
       "summaryZh": "",
       "titleZh": "Generative Bionics 推出具有全身触觉传感的人形机器人"
-    },
-    {
-      "title": "《贸泽电子新闻稿发布》贸泽电子全新EIT系列 探讨人形机器人的设计核心要点",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQdkhXdjlEUDlGcHBGZURqUGZCNF9kM3hTTUEySXVLREZ6RmZnWng3YlNxTlJOZW1FWmtBRFotUDJGTmVOZVl1eUpaWGsxb25hTkFxNTRFRQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-21T08:15:50.000Z",
-      "summary": "贸泽电子发布EIT系列，探讨人形机器人设计要点及AI应用。",
-      "summaryZh": ""
     },
     {
       "title": "所有人都在说物理 AI，艾利特机器人却在解那道真正难的题",
@@ -236,13 +226,24 @@
       "titleZh": "摩擦是制作更好的机器人世界模型的关键"
     },
     {
+      "title": "Humanoid raises $152 million at $1.35 billion valuation, becoming ‘Europe’s first pure-play humanoid robotics unicorn’",
+      "link": "https://roboticsandautomationnews.com/2026/07/22/humanoid-raises-152-million-at-1-35-billion-valuation-becoming-europes-first-pure-play-humanoid-robotics-unicorn/103561/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-22T05:29:55.000Z",
+      "summary": "欧洲首个纯人形机器人独角兽公司Humanoid完成1.35亿美元融资。",
+      "summaryZh": "",
+      "titleZh": "Humanoid 以 13.5 亿美元估值筹集 1.52 亿美元，成为“欧洲第一家纯人形机器人独角兽”"
+    },
+    {
       "title": "“AI护工”上岗 、机器人打螺丝......解锁上海经济半年报中的“新”力量",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BZXY4RG1KSGUxeUlTMUMtd2xLR2FydDhtRldHeVRSZDVJdmFYTHFpNG5aekxRaFJjcUw3UVpEWXVDX2J3Y3dGblZJRlA4SVN5X0NQOXRNcU5qVzJ3SkE?oc=5",
       "source": "澎湃新闻科技",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-21T12:10:00.000Z",
-      "summary": "上海AI制造业产值大涨21.8%，AI深度渗透赋能实体经济，推动经济稳定增长。",
+      "summary": "上海AI制造业产值大涨21.8%，AI深度渗透各行各业，推动经济稳定增长。",
       "summaryZh": ""
     }
   ]
