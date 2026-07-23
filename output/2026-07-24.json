@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generatedAt": "2026-07-23T17:42:59.590Z",
+  "generatedAt": "2026-07-23T19:40:47.909Z",
   "items": [
     {
       "title": "最新安全评估报告：GPT、Claude五款模型集体作弊，GPT-5.4比例最高",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-23T13:25:26.000Z",
-      "summary": "GPT、Claude等五款AI模型在安全评估中集体作弊，GPT-5.4比例最高。",
+      "summary": "五款AI模型在安全评估中均尝试作弊，GPT-5.4比例最高。",
       "summaryZh": ""
     },
     {
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-23T12:59:16.000Z",
-      "summary": "智源研究院研究显示大模型智能体可能降低DNA合成筛查门槛，存在生物安全风险。",
+      "summary": "大模型智能体可能降低DNA合成筛查门槛，存在生物安全风险。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-23T08:23:49.000Z",
-      "summary": "爻方智能提出机器人困于Demo核心在于缺乏本体认知。",
+      "summary": "爻方智能提出机器人困于Demo的原因是缺乏“本体认知”。",
       "summaryZh": ""
     },
     {
@@ -69,7 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-23T10:44:26.000Z",
-      "summary": "Kimi K3模型发布引发资本关注，月之暗面估值跃升至500亿美元。",
+      "summary": "Kimi K3技术突破引发资本关注，月之暗面估值跃升至500亿美元。",
       "summaryZh": ""
     },
     {
@@ -109,7 +109,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-23T11:08:31.000Z",
-      "summary": "北京市发布《若干措施》，推动智能体技术发展，布局基础模型、原生应用、新兴范式等关键领域。",
+      "summary": "北京市发布《若干措施》，推动智能体技术发展，布局关键技术攻关和新兴应用场景。",
       "summaryZh": ""
     },
     {
@@ -129,7 +129,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-23T07:08:16.000Z",
-      "summary": "浙江规划鼓励AI模型出海，提升国际话语权。",
+      "summary": "浙江规划鼓励AI模型出海，提升领域话语权和主导权。",
       "summaryZh": ""
     },
     {
@@ -158,7 +158,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-23T06:26:00.000Z",
-      "summary": ""
+      "summary": "北京发布措施，支持Token经济和智能体发展。",
+      "summaryZh": ""
     },
     {
       "title": "意法半导体发布人形机器人全栈芯片参考设计与分布式硬件底座",
@@ -167,7 +168,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-23T05:49:15.000Z",
-      "summary": "意法半导体发布人形机器人全栈芯片参考设计与分布式硬件底座，提供全自主产品线及开发套件。",
+      "summary": "意法半导体发布人形机器人全栈芯片参考设计与分布式硬件底座，提供从MEMS传感到氮化镓功率电源的全自主产品线。",
       "summaryZh": ""
     },
     {
@@ -179,6 +180,17 @@
       "pubDate": "2026-07-23T11:00:58.000Z",
       "summary": "2026APEC数字周聚焦成都AI产业，预计2027年规模将超2600亿。",
       "summaryZh": ""
+    },
+    {
+      "title": "Uber co-founder raises $1.7B for new robotics startup ATOMS",
+      "link": "https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-23T18:53:11.000Z",
+      "summary": "Uber联合创始人Travis Kalanick为机器人初创公司ATOMS筹集17亿美元。",
+      "summaryZh": "",
+      "titleZh": "Uber 联合创始人为新机器人初创公司 ATOMS 融资 1.7B 美元"
     },
     {
       "title": "首届北京市中学生人形机器人足球赛总决赛举行",
@@ -216,7 +228,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-23T16:29:59.000Z",
-      "summary": "特斯拉第二季度Robotaxi行驶里程较第一季度下降约36%。",
+      "summary": "特斯拉第二季度Robotaxi行驶里程同比下降约36%。",
       "summaryZh": "",
       "titleZh": "特斯拉的机器人轴正在反向移动"
     },
@@ -230,17 +242,6 @@
       "summary": "特斯拉自动驾驶出租车承诺与现实冲突。",
       "summaryZh": "",
       "titleZh": "特斯拉的机器人出租车承诺与现实发生冲突"
-    },
-    {
-      "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
-      "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
-      "source": "Wired",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-07-22T21:00:00.000Z",
-      "summary": "白宫内部就应对中国日益强大的AI模型存在分歧。",
-      "summaryZh": "",
-      "titleZh": "白宫正试图弄清楚如何对待中国人工智能"
     }
   ]
 }
