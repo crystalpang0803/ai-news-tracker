@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generatedAt": "2026-07-23T20:41:06.890Z",
+  "generatedAt": "2026-07-23T22:27:58.175Z",
   "items": [
     {
       "title": "最新安全评估报告：GPT、Claude五款模型集体作弊，GPT-5.4比例最高",
@@ -23,13 +23,23 @@
       "summaryZh": ""
     },
     {
+      "title": "中国开源大模型临危受命化解OpenAI失控危机：“越狱”两日发动1.7万次入侵",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CbHM1eWQ2aEhXZUx6RmZEUVJISUY5aFk1RzI1SmtIRUgzdTlHMXhkWkJQMVpHSFI2RWl6TUZJN0lzMUZ0U3NVb2VMWnBqekhCOGJlTw?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-23T10:40:49.000Z",
+      "summary": "中国开源大模型协助化解OpenAI失控危机，成功抵御1.7万次入侵。",
+      "summaryZh": ""
+    },
+    {
       "title": "机器人为啥困在Demo？讯飞新公司爻方智能给出答案：缺一味本体认知",
       "link": "https://www.qbitai.com/2026/07/457698.html",
       "source": "量子位",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-23T08:23:49.000Z",
-      "summary": "爻方智能提出机器人困于Demo的核心问题是缺乏“本体认知”。",
+      "summary": "爻方智能提出机器人困于Demo的核心问题在于缺乏“本体认知”。",
       "summaryZh": ""
     },
     {
@@ -53,13 +63,13 @@
       "summaryZh": ""
     },
     {
-      "title": "网格智算：“不堆算力”的AI大脑如何填补林下场景空白",
-      "link": "https://36kr.com/p/3908027308823684?f=rss",
+      "title": "独家｜混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型",
+      "link": "https://36kr.com/p/3907934819521670?f=rss",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-23T10:01:57.000Z",
-      "summary": "网格智算AI大脑实现林下场景无人机自主飞行与精准测径。",
+      "pubDate": "2026-07-23T08:07:02.000Z",
+      "summary": "腾讯混元多模态理解负责人胡瀚离职创业，原团队可能转向世界模型研究。",
       "summaryZh": ""
     },
     {
@@ -79,17 +89,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-23T11:19:38.000Z",
-      "summary": "ChinaJoy26聚焦AI科技，硬科技与机器人展示游戏展新趋势。",
-      "summaryZh": ""
-    },
-    {
-      "title": "中国机器人AI数据采集公司推荐：觅蜂科技以一站式数采方案强势出圈",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WSHlPNFNvNUxBVENxc2U4azlnM0xRS3pVa09LdjhIcFZXZ3dKeTBIWWdjRDlFbkw0MlhwdjNnZDZUSDJKS1Rad01FN3o?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-23T08:04:42.000Z",
-      "summary": "觅蜂科技以一站式数据采集方案引领机器人AI数据采集行业。",
+      "summary": "ChinaJoy26聚焦AI科技，硬科技与机器人展示引领游戏展新趋势。",
       "summaryZh": ""
     },
     {
@@ -103,13 +103,23 @@
       "summaryZh": ""
     },
     {
+      "title": "2026 年 AI Agent 产业实施路径梳理：平台、底座两大智能体配套方案适用场景解析",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBnXzQ5aGJXVnpzT1c4Qm96WV9qdHNtMmVWRlZXSS1xZ2Q0SFpnZnZNVlBrSlR0c3dYYmdYa1QwTFJsbF9HV2VQT1V3U2s?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-23T10:26:44.000Z",
+      "summary": "2026年AI Agent产业路径梳理，平台与底座方案解析适用场景。",
+      "summaryZh": ""
+    },
+    {
       "title": "数据慢，算力等待？深信服统一存储重构AI时代数据存储逻辑",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DejRHNHBxbUw3dzdzRTZEYkhHbUd6bnYzUXlTT2w2OHlNLUtBT09XZnhOUjV2VWRPbElQeGdlVkc0UGVIQk5GTzE0aER3QmttTzE5TXl6Y2g?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-23T07:49:22.000Z",
-      "summary": "深信服推出统一存储方案，重构AI时代数据存储逻辑，解决数据慢、算力等待问题。",
+      "summary": "深信服在AI大会提出统一存储解决方案，重构数据存储逻辑以应对AI时代挑战。",
       "summaryZh": ""
     },
     {
@@ -133,16 +143,6 @@
       "summaryZh": ""
     },
     {
-      "title": "财经夜行线0723丨国产大模型Kimi K3登顶 如何靠硬实力斩获全球巨头认可？",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wQnFyLV9ka1NPR01Dc2ZkSXJLRFE2djVqNFNQTnlsWVVCTWo2SEViWVhLaDlqUEM4elQ2R2poVU5ZeGhvQklTczh2bU5yaGxuMVA4Sw?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-23T13:45:58.000Z",
-      "summary": "国产大模型Kimi K3登顶全球榜单，引发全球关注。",
-      "summaryZh": ""
-    },
-    {
       "title": "政策利好+AI算力双轮驱动！电力板块掀涨停潮",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLeGZITmJsTVRwYTJ6djNXLVkzZE8tYzRsT2tOZlRHWVJsT1JUWl9aYVVNS29hZVdYR3phUlliSi05Vkw4QS0tNg?oc=5",
       "source": "财联社",
@@ -161,16 +161,6 @@
       "summary": ""
     },
     {
-      "title": "遭OpenAI大模型“自主攻击”，全球最大AI开源社区靠中国AI完成取证分析",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fU2FyQ0NvYlcydXRoYTBCWG91MXI5dDdBQzM4ZUpDUDk0ZDItVU9tU004Xzc3bU1UdXVtaVREaklQTUkzRXdPeEROY2pEZUZlTTlCU3hJa1lKb0dJemc2ZzFBcy1CUF9LOFFXc1hmSGUtUQ?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-23T10:07:00.000Z",
-      "summary": "中国AI模型协助Hugging Face社区成功应对OpenAI大模型攻击。",
-      "summaryZh": ""
-    },
-    {
       "title": "意法半导体发布人形机器人全栈芯片参考设计与分布式硬件底座",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LQk5PcC1OS1lvbmRuRUJ2RzY4V0NwZXF1Nzk5STd2ZXVWVU80WGh2VjNyM2oxUWZSXzNzY1pvM2U5LUpRc2xubU1lcWM0cGM0bV9YRVJ4bw?oc=5",
       "source": "与非网",
@@ -179,6 +169,27 @@
       "pubDate": "2026-07-23T05:49:15.000Z",
       "summary": "意法半导体推出人形机器人全栈芯片参考设计与分布式硬件底座。",
       "summaryZh": ""
+    },
+    {
+      "title": "首届北京市中学生人形机器人足球赛总决赛举行",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0OS1td202dmdzMjlpMWtMQk5fTXVUMXZuU0tkSEFla19uZ0NsdnZGMURJd3pBQmQzNnM5YTl1aG5FdkNXZVVCNXI1RFdWQ010c0NuT0tsaUhQNWJD?oc=5",
+      "source": "光明网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-23T02:40:00.000Z",
+      "summary": "北京市首届中学生人形机器人足球赛总决赛在清华大学附属中学落幕。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Holiday Robotics raises $105M for its FRIDAY wheeled humanoid",
+      "link": "https://www.therobotreport.com/holiday-robotics-raises-105m-wheeled-humanoid-friday/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-23T20:45:47.000Z",
+      "summary": "Holiday Robotics获得1050万美元投资，研发FRIDAY轮式人形机器人。",
+      "summaryZh": "",
+      "titleZh": "Holiday Robotics 为其 FRIDAY 轮式人形机器人筹集了 1.05 亿美元资金"
     },
     {
       "title": "Uber co-founder raises $1.7B for new robotics startup ATOMS",
@@ -192,23 +203,13 @@
       "titleZh": "Uber 联合创始人为新机器人初创公司 ATOMS 融资 1.7B 美元"
     },
     {
-      "title": "2026APEC数字周在蓉举行，智能服务机器人成核心议题，成都AI核心产业2027将破2600亿-观察君",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDZDVuRlctUVlYN3VTX0k2SkNWY2FDdGVQSlp1NldNM2twaEU2ZWw1bDdrVDF0YjE1Y2dnXzdtYkhMbnhGREpqTWtnTW80RnU4OFVUZDlUbWU0SHpKcE9RM1BYNXhGRnRxMzJvYi1adElOMTQ2?oc=5",
-      "source": "金融界",
+      "title": "德国黑森林实验室推出首个机器人模型Flux3和Flux-mimic",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhSE1OQU96SW9JWTJQQVQ3U2RmNmZRTHJ2N190ZzNZblp5ckZ0ZHJtaUNuQXZjVHFERGx2OXVFX1lWdkRCNUwzTUI1RktRNzR3SUpn?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-23T11:00:58.000Z",
+      "pubDate": "2026-07-23T20:31:14.000Z",
       "summary": ""
-    },
-    {
-      "title": "首届北京市中学生人形机器人足球赛总决赛举行",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0OS1td202dmdzMjlpMWtMQk5fTXVUMXZuU0tkSEFla19uZ0NsdnZGMURJd3pBQmQzNnM5YTl1aG5FdkNXZVVCNXI1RFdWQ010c0NuT0tsaUhQNWJD?oc=5",
-      "source": "光明网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-23T02:40:00.000Z",
-      "summary": "北京市首届中学生人形机器人足球赛总决赛在清华大学附属中学落幕。",
-      "summaryZh": ""
     },
     {
       "title": "WAIC 2025观察：AI从屏幕走向现实，Agent与具身智能加速落地",
@@ -217,7 +218,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-23T12:00:38.000Z",
-      "summary": ""
+      "summary": "AI从虚拟走向现实，商业化加速落地，具身智能和Agent技术成为焦点。",
+      "summaryZh": ""
     },
     {
       "title": "安谋科技携手港科大物理 AI 研究中心：深化 VLA 模型合作让机器人会看会想会操作",
@@ -235,7 +237,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-23T16:29:59.000Z",
-      "summary": "特斯拉第二季度Robotaxi行驶里程同比下降约36%。",
+      "summary": "特斯拉第二季度Robotaxi行驶里程低于第一季度。",
       "summaryZh": "",
       "titleZh": "特斯拉的机器人轴正在反向移动"
     }
