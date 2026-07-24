@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generatedAt": "2026-07-24T20:49:16.908Z",
+  "generatedAt": "2026-07-24T22:32:12.741Z",
   "items": [
     {
       "title": "智元启动赴港上市流程，2025 年通用人形机器人出货量全球第一",
@@ -10,6 +10,16 @@
       "category": "robotics",
       "pubDate": "2026-07-24T10:29:18.000Z",
       "summary": "智元启动赴港上市，2025年通用人形机器人出货量全球第一。",
+      "summaryZh": ""
+    },
+    {
+      "title": "65亿美金抢55人、日薪50万！全球机器人抢人，彻底失控",
+      "link": "https://www.tmtpost.com/8078129.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-24T09:28:48.000Z",
+      "summary": "全球机器人行业人才争夺激烈，年薪高达50万。",
       "summaryZh": ""
     },
     {
@@ -29,17 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-24T06:19:54.000Z",
-      "summary": "特朗普之子埃里克·特朗普投资并担任首席战略顾问，与AMD合作研发军用和工业人形机器人。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI进化速递 | 小鹏人形机器人开启小批量试生产",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QeU5MMnpUVWVjV2QzTlFRX2hVU2hIQ0Z6NzFualNpNzNBWXFKNU9obTBFbFBILThUNmV1YWJ1NDZFdktRbnhKMV9ZMUZnT1R1M2ZR?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-24T12:56:23.000Z",
-      "summary": "小鹏人形机器人正式开启小批量试生产。",
+      "summary": "特朗普之子埃里克·特朗普投资并参与研发基于AMD芯片的自主人形机器人。",
       "summaryZh": ""
     },
     {
@@ -49,8 +49,19 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-24T08:55:07.000Z",
-      "summary": "算力服务市场繁荣，但整合资源成算力服务是少数人游戏。",
+      "summary": "算力服务市场繁荣，但算力整合与交付能力成为少数企业优势。",
       "summaryZh": ""
+    },
+    {
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-24T13:36:42.000Z",
+      "summary": "ChatGPT桌面应用新增语音模式，支持用户通过语音控制AI代理和执行电脑任务。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 的新语音模式已登陆 ChatGPT 桌面应用程序"
     },
     {
       "title": "宇树最新轮足机器人亮相，轻松扛起三个成年人",
@@ -73,63 +84,33 @@
       "summaryZh": ""
     },
     {
+      "title": "新晋菲尔兹奖得主雅各布宣布加入OpenAI",
+      "link": "https://36kr.com/newsflashes/3909592817833349?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-24T12:03:28.000Z",
+      "summary": "菲尔兹奖得主雅各布宣布加入OpenAI，专注AI安全。",
+      "summaryZh": ""
+    },
+    {
       "title": "677亿，全球大模型“二道贩子”要卖身了",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DcmRPeE16QW11WG9PS3pLcVhwTmUzY25ETW1QaGJoQkFHMUY2aFBQanB0NG5JWkl3Qzc3QlR1RFVfdVk2NGhhTXMzdERtdw?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-24T10:14:16.000Z",
-      "summary": "美国金融科技公司Stripe洽谈收购大模型中转站OpenRouter，交易估值约677亿人民币。",
+      "summary": "全球大模型中转站OpenRouter拟以约677亿人民币估值出售。",
       "summaryZh": ""
     },
     {
-      "title": "大模型价格战下半场：将推理价格打下去",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tOUI5V3NKWnJFTnJWUGZULW1Qc3JzalNIZS11elBuR2U3SjBrT3FmWmJxM1BScW5FM01hM1lQUVI2dzItT3VJRXM0SXpmb0E?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-24T13:04:34.000Z",
-      "summary": "大模型厂商降价竞争，推理芯片成本成为关键。",
-      "summaryZh": ""
-    },
-    {
-      "title": "全球AI产品动态,AI原生产品日报,AI原生软件、大语言模型,适创科技,星旺空间,月之暗面,AegisAI,灵初智能,AI编程工具,VELMENI,AMD Helios,Cerebras,Grok Build,MAI-Image-2,ChatGPT语音功能,Grok 4.5,GitHub Bug Bounty Program,自拍视频（Selfie Video）,Alexa,",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44QUtzNGkzdm5wQTZpd3NwM01NaWIwOUhsd1NCMzBTWmJYYTdFY2NwVUdPUzlhb1J6dllxTWZiWUFSdE9Wa0JwNE1PbENUREExc1cyUmpLWlVFREx0S01VMEEtZEVEc2JYc1NGVmxYdllkVDB4NzZF?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-23T23:27:01.000Z",
-      "summary": "全球AI产品动态，多款AI原生软件及大语言模型发布。",
-      "summaryZh": ""
-    },
-    {
-      "title": "公募AI投资图谱：算力端“吃饱”，应用层“等风”",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHam92dGlqX2RUaDNqLUs3MWNlODBsM3B5V3ByMHJBc3NTM0dfMzdRWkdQdnNzWGdUUEVRMF9tajBkMm16SU55X3VMbWlndFlrbk9uTWhXU1JhZw?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-23T23:27:00.000Z",
-      "summary": "公募基金AI投资集中硬件端，应用层商业化待突破。",
-      "summaryZh": ""
-    },
-    {
-      "title": "浙江：支持运用人工智能赋能各领域科学发现与技术创新",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vamcxcnVTd1NURVRKbVNQdndHLTVRdVhHRXRyR3Z6cnRQcDQ4ckdXdGNJOUJwZE43d25Ua0czWnJYWWQwTEItS2tEaG5Ld09MRm8xMldCeHg?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-24T11:40:00.000Z",
-      "summary": "浙江发布意见，支持人工智能赋能各领域科学发现与技术创新。",
-      "summaryZh": ""
-    },
-    {
-      "title": "大模型的牌桌正在收敛，投资人的钱还在往哪里涌？",
+      "title": "大模型的牌桌正在收敛，投资人的钱还在往哪儿涌？",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tMDNqcGdmS0s1Z1d4UFFyQll4cDI1ZXJkWTN2dDZiRnVRekw5OXNjd2dDX3hhSUEzcnp0N0xzU0YyelFaWDFGc1FycWRBb25Ib3k0?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-24T08:22:24.000Z",
-      "summary": "大模型行业投资持续涌入，但细分赛道竞争激烈，头部企业尚未显现。",
+      "summary": "大模型行业投资持续涌入，但细分赛道竞争激烈，格局未定。",
       "summaryZh": ""
     },
     {
@@ -149,7 +130,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-24T14:42:32.000Z",
-      "summary": "合肥AI独角兽智象未来三个月内融资21亿，跻身全球AI独角兽行列。",
+      "summary": "合肥AI独角兽智象未来三个月内完成超21亿融资，跻身全球AI独角兽行列。",
       "summaryZh": ""
     },
     {
@@ -179,41 +160,31 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-07-24T19:34:29.000Z",
-      "summary": "企业AI代理治理未跟上部署步伐，多数企业计划在一年内更换供应商或增加新供应商。",
+      "summary": "企业AI代理治理未跟上部署步伐，多数企业计划年内更换供应商或增加新供应商。",
       "summaryZh": "",
       "titleZh": "VentureBeat Research：企业人工智能代理治理尚未跟上的地方"
     },
     {
-      "title": "How time series databases unlock real-time data for robotics",
-      "link": "https://www.therobotreport.com/how-time-series-databases-unlock-real-time-data-for-robotics/",
-      "source": "The Robot Report",
+      "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
+      "link": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows",
+      "source": "VentureBeat",
       "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-07-24T16:28:39.000Z",
-      "summary": "时间序列数据库助力机器人实时数据处理。",
+      "category": "ai",
+      "pubDate": "2026-07-24T17:00:00.000Z",
+      "summary": "Anthropic发布更便宜的AI模型Claude Opus 5，适用于编码、代理和企业工作流程。",
       "summaryZh": "",
-      "titleZh": "时间序列数据库如何解锁机器人的实时数据"
+      "titleZh": "Anthropic 推出 Claude Opus 5，这是一种更便宜的 AI 模型，适用于编码、代理和企业工作流程"
     },
     {
-      "title": "NEURA Robotics establishes NEURA Gym RWTH Aachen to train physical AI",
-      "link": "https://www.therobotreport.com/neura-robotics-establishes-neura-gym-rwth-aachen-train-physical-ai/",
-      "source": "The Robot Report",
+      "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast/",
+      "source": "Wired",
       "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-07-24T12:30:42.000Z",
-      "summary": "NEURA Robotics与RWTH Aachen合作建立NEURA Gym RWTH Aachen，以训练物理AI。",
+      "category": "ai",
+      "pubDate": "2026-07-24T17:53:01.000Z",
+      "summary": "中国AI公司涉嫌抄袭Anthropic，OpenAI在安全测试中失去对两个模型的控制。",
       "summaryZh": "",
-      "titleZh": "NEURA Robotics 建立 NEURA Gym RWTH Aachen 来训练物理人工智能"
-    },
-    {
-      "title": "为何能效对工业机器人至关重要",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HR29pX2tEdmw0ZmRJSzhKUVVyNjZacm1fZjlGWFhPSmtfS002MmVSa1U0Tzh1VWM4VWZvNVhtZ0dBeXpMbEtBb3NhbFlnaGt6OFBzUHlKcw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-23T23:09:33.000Z",
-      "summary": "能效优化成为工业机器人系统设计的关键突破口。",
-      "summaryZh": ""
+      "titleZh": "中国人工智能是否窃取了人类的技术，OpenAI 失去了对两种模型的控制"
     },
     {
       "title": "宇树科技基础教育具身智能实验室落地成都锦江区",
@@ -226,16 +197,6 @@
       "summaryZh": ""
     },
     {
-      "title": "极智嘉发布Gravity框架 人形机器人持续走向真实作业场",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vdkNfelNNYURoNUQ4dmdVeGpyenNUMm92VGN6dWhpR2N1MGFpdTR6SFZWdS13bllwTkdzeGpySHQ0Ry1mLVliWFgxWmQ4Vzh0ckFIZk81MDVLOHJXY0JyWU9hTXlaSXFqbTd6UDJNMXc?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-24T04:14:39.000Z",
-      "summary": "极智嘉发布Gravity框架，人形机器人实现真实作业场景应用。",
-      "summaryZh": ""
-    },
-    {
       "title": "This is the world's most advanced robotic servicing satellite—that we know about",
       "link": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
       "source": "Ars Technica",
@@ -245,6 +206,46 @@
       "summary": "全球已知最先进的机器人服务卫星已发射升空，开启十年卫星服务新篇章。",
       "summaryZh": "",
       "titleZh": "这是我们所知的世界上最先进的机器人服务卫星"
+    },
+    {
+      "title": "一文理解具身智能的基础模型：如何从“看懂世界”走向“动手完成任务”",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EcUtZdHZJVzJzanZwa3lPZGdiX0g5YXlWMUhpUGRxVTJNRXNXTGYtRVlsWnd5dFc3bnFCNm56akpCNW1wWWFhX2g0NU9iREdwdnRLV1Y2OA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-24T03:00:21.000Z",
+      "summary": "具身智能基础模型研究聚焦于将世界理解转化为真实动作，实现机器人在真实环境中的学习和行动。",
+      "summaryZh": ""
+    },
+    {
+      "title": "又有5家机器人相关企业采用GaN",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FVWMycWhKZnRqR0MzWC1fX2txUTBNcVpMV2tramo3LVpObTJYTkxaT3hXY3d5cnR3VVY3Qk5tY0dHblZZZDlYdkMyaFM4aTQ3c2RPY3BLTQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-24T08:17:08.000Z",
+      "summary": "5家机器人企业引入GaN技术。",
+      "summaryZh": ""
+    },
+    {
+      "title": "如何看待中国AI？外国人羡慕中国有送餐机器人",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QT243VHg5TV8yTmRac2JMS0xtQ0ZSOXR1clBrS2VOQWFydXE3c3B4ME1jWkdBRXVlVUg0WHd1a1dUZzFmMU9XR1JJY0tXdUhtRmpMdkdxNmc0dGpDcGY4WDNMdWd5dk5SMzlnSVQzREU4WC0tLVE?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-24T08:42:00.000Z",
+      "summary": "外国嘉宾称赞中国送餐机器人服务速度，表示本国缺乏此类技术。",
+      "summaryZh": ""
+    },
+    {
+      "title": "北京市中学生机器人足球赛决赛圆满收官",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pNThReUFZWGlNVkJ1Q0otSnl6RmU4UUZJSmpuWW9wR0pVdFBCV3VOVE55eEV6cFhXdFM4UlRCbDVtZkJYS0V5eGpKbzZ1bU9VUnV6dlZwSWhodGk4QkxaUlFnX0phNHpaWVBHMW5FUkQ?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-24T04:52:17.000Z",
+      "summary": "北京市中学生机器人足球赛决赛圆满落幕，国产机器人助力AI科创教育普及。",
+      "summaryZh": ""
     }
   ]
 }
