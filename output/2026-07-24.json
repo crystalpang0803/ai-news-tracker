@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generatedAt": "2026-07-24T03:46:59.910Z",
+  "generatedAt": "2026-07-24T06:12:34.690Z",
   "items": [
     {
       "title": "最新安全评估报告：GPT、Claude五款模型集体作弊，GPT-5.4比例最高",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-23T13:25:26.000Z",
-      "summary": "GPT、Claude等五款AI模型在安全评估中集体作弊，GPT-5.4比例最高。",
+      "summary": "五款AI模型在安全评估中集体作弊，GPT-5.4比例最高。",
       "summaryZh": ""
     },
     {
@@ -19,17 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-24T03:44:04.000Z",
-      "summary": "马斯克称当前爆红人形机器人演示多依赖远程遥控或剧本。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智源最新研究提出警报：大模型智能体可能带来生物安全风险",
-      "link": "https://www.tmtpost.com/8077514.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-23T12:59:16.000Z",
-      "summary": "智源研究院研究显示大模型智能体可能降低DNA合成筛查门槛，存在生物安全风险。",
+      "summary": "马斯克称当前爆红人形机器人演示多系远程遥控或剧本，Optimus机器人将具备通用任务能力。",
       "summaryZh": ""
     },
     {
@@ -43,13 +33,24 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI官宣Presence，大模型厂要抢软件商的饭碗了？",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LRllsSjZrSnFPWkNBZHNpNHZ5NU5PSVdjaWFSQVBmNm9qS0Z1RmNSMThoUjZxT2QzQU1xQ21YX2E3X3gtakIyRA?oc=5",
+      "title": "华泰证券：AI Agent加速推理算力与存力扩容，自主可控链国产化再加速",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1abkJURlZMbHM3VkxLdkFuaGJzc1JmbHE3d05rN3FJeTV3QTRMdENGMDlTMUhFdmYxaEk5SUxyTnluaE1BVzlOUkFoVGFzZkpnX2ZUV2p2MUw?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-24T00:36:04.000Z",
+      "summary": "华泰证券报告称AI Agent推动推理算力与存力扩容，自主可控链国产化加速。",
+      "summaryZh": ""
+    },
+    {
+      "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51WjFZZXFhbVFaSWtrYUlLSS03U08wSWRJSUVfbm9CTy14YmluQkpzV01YaENUbDkzQ1c5SGpGLUF1TzlXR0U0OQ?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-23T21:40:53.000Z",
-      "summary": ""
+      "pubDate": "2026-07-23T22:55:31.000Z",
+      "summary": "OpenAI将2030年算力支出预测上调至7500亿美元。",
+      "summaryZh": ""
     },
     {
       "title": "机器人为啥困在Demo？讯飞新公司爻方智能给出答案：缺一味本体认知",
@@ -58,17 +59,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-23T08:23:49.000Z",
-      "summary": "爻方智能提出机器人困于Demo的原因是缺乏“本体认知”。",
+      "summary": "爻方智能提出机器人困于Demo核心在于缺乏本体认知。",
       "summaryZh": ""
     },
     {
-      "title": "杀进机器人赛道，面壁智能怎么打出差异化？对话首席科学家",
-      "link": "https://zhidx.com/p/578941.html",
+      "title": "Uber创始人再创业，美国工业机器人公司完成115亿巨额融资，a16z领投",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OVzlMazJ0MnJ6SzJ1MHdCRHlFdVN0R0RLc0Z6NVprTjFfVGdaazRReGFCWnR4VTdubnc1endYNU9lTVB1dFloQg?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-23T04:55:04.000Z",
-      "summary": "面壁智能在WAIC 2026上开源首个具身智能技术成果，进军机器人领域。",
+      "pubDate": "2026-07-23T06:31:26.000Z",
+      "summary": "Uber创始人创立的工业机器人公司ATOMS完成115亿融资。",
       "summaryZh": ""
     },
     {
@@ -92,6 +93,49 @@
       "summaryZh": ""
     },
     {
+      "title": "不做通用大模型，这家公司凭什么在WAIC排起长队？",
+      "link": "https://www.tmtpost.com/8077217.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-24T06:06:57.000Z",
+      "summary": "趣丸科技以AI音乐和AI语音垂直整合，在WAIC展会上以AI吉他产品吸引关注。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI makes ChatGPT Health available to all US users",
+      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-23T17:00:00.000Z",
+      "summary": "OpenAI将ChatGPT Health功能向所有美国18岁以上用户开放。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 向所有美国用户提供 ChatGPT Health"
+    },
+    {
+      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-23T17:00:00.000Z",
+      "summary": "OpenAI推出面向大众的ChatGPT Health并宣称其具有重大价值。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 向所有人推出 ChatGPT Health 时发出了重大声明"
+    },
+    {
+      "title": "Agentic coding goes hands-free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop",
+      "link": "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-23T21:17:00.000Z",
+      "summary": "OpenAI将GPT-Live全双工语音控制引入Codex和ChatGPT桌面应用，实现免提编码。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 将 GPT-Live 的全双工语音控制引入桌面上的 Codex 和 ChatGPT，代理编码变得免提"
+    },
+    {
       "title": "新晋菲尔兹奖得主，当天宣布加入OpenAI",
       "link": "https://www.qbitai.com/2026/07/457792.html",
       "source": "量子位",
@@ -102,72 +146,23 @@
       "summaryZh": ""
     },
     {
-      "title": "数据慢，算力等待？深信服统一存储重构AI时代数据存储逻辑",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DejRHNHBxbUw3dzdzRTZEYkhHbUd6bnYzUXlTT2w2OHlNLUtBT09XZnhOUjV2VWRPbElQeGdlVkc0UGVIQk5GTzE0aER3QmttTzE5TXl6Y2g?oc=5",
+      "title": "北京发布智能体新政，AI上市企业数量追平去年全年，科创AIETF博时(588790)午后拉升涨超1%",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXWDRiQUpsT20zZUNHaWJfTmFzM2t6N2NnS1h4c0pRcGVGbXJ2NUxJVzdPQnZzNHZmTktrVDNIamhGdU5kUnluaS16QVRnVVlkN1otMHhSejY?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-23T07:49:22.000Z",
-      "summary": "深信服在AI大会提出统一存储解决方案，重构数据存储逻辑以应对AI时代挑战。",
+      "pubDate": "2026-07-24T05:20:00.000Z",
+      "summary": "北京发布智能体新政，AI上市企业数量追平去年全年，科创AIETF午后涨超1%。",
       "summaryZh": ""
     },
     {
-      "title": "10个月落地近600家AI企业 张江人工智能创新小镇重塑AI产业转化路径",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00Tkw1bGNSaEhQWkZsSnlIdU9RZTZ2NmR2M0VmcVRzOVQ3ejF6RFlDOVJhQmFJbzNoQUp6YzJGc1RqMnJJUUk2RU4tR2Iyd2xXMlUw?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-23T23:59:08.000Z",
-      "summary": "张江AI创新小镇10个月落地近600家AI企业，重塑产业转化路径。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Kimi K3登顶全球代码榜 中国大模型能否领跑AI新纪元？",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pa041U1p5elF3MjRZSGZKdi1zQ1luWWNveW5vd29WekxIMXVVbENhXy04NzZKOUJ1RnpwS2ZwOVBpQ0pTZTYyNTFodUo2NjZWdjVfdQ?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-24T00:16:16.000Z",
-      "summary": "Kimi K3登顶全球代码榜，中国大模型实力获国际认可。",
-      "summaryZh": ""
-    },
-    {
-      "title": "政策利好+AI算力双轮驱动！电力板块掀涨停潮",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLeGZITmJsTVRwYTJ6djNXLVkzZE8tYzRsT2tOZlRHWVJsT1JUWl9aYVVNS29hZVdYR3phUlliSi05Vkw4QS0tNg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-23T06:28:49.000Z",
-      "summary": ""
-    },
-    {
-      "title": "遭OpenAI大模型“自主攻击”，全球最大AI开源社区靠中国AI完成取证分析",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fU2FyQ0NvYlcydXRoYTBCWG91MXI5dDdBQzM4ZUpDUDk0ZDItVU9tU004Xzc3bU1UdXVtaVREaklQTUkzRXdPeEROY2pEZUZlTTlCU3hJa1lKb0dJemc2ZzFBcy1CUF9LOFFXc1hmSGUtUQ?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-23T10:07:00.000Z",
-      "summary": "中国AI模型GLM-5.2协助Hugging Face社区成功应对OpenAI大模型攻击。",
-      "summaryZh": ""
-    },
-    {
-      "title": "近 6 年首次未用自家 ISOCELL，曝三星 Galaxy S27/S27+ 手机主摄配索尼 5000 万传感器",
-      "link": "https://www.ithome.com/0/980/995.htm",
+      "title": "何小鹏：目标到明年下半年，广州 Robotaxi 业务实现单车盈亏平衡",
+      "link": "https://www.ithome.com/0/981/119.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-24T03:05:14.000Z",
-      "summary": "三星Galaxy S27/S27+手机主摄将采用索尼5000万像素传感器。",
-      "summaryZh": ""
-    },
-    {
-      "title": "意法半导体发布人形机器人全栈芯片参考设计与分布式硬件底座",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LQk5PcC1OS1lvbmRuRUJ2RzY4V0NwZXF1Nzk5STd2ZXVWVU80WGh2VjNyM2oxUWZSXzNzY1pvM2U5LUpRc2xubU1lcWM0cGM0bV9YRVJ4bw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-23T05:49:15.000Z",
-      "summary": "意法半导体发布人形机器人全栈芯片参考设计与分布式硬件底座，提供全自主产品线和开发套件。",
+      "pubDate": "2026-07-24T06:10:05.000Z",
+      "summary": "小鹏汽车计划2027年下半年实现广州Robotaxi业务单车盈亏平衡。",
       "summaryZh": ""
     },
     {
@@ -177,7 +172,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-23T22:40:08.000Z",
-      "summary": "Mobileye创始人兼CEO Amnon Shashua即将卸任，公司拓展机器人出租车和机器人领域。",
+      "summary": "Mobileye创始人兼CEO Amnon Shashua即将卸任，公司拓展机器人出租车和机器人业务。",
       "summaryZh": "",
       "titleZh": "Mobileye 首席执行官 Amnon Shashua 辞职，公司进军机器人出租车和机器人技术领域"
     },
@@ -199,9 +194,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-23T18:53:11.000Z",
-      "summary": "Uber联合创始人投资17亿美元创立新机器人公司ATOMS。",
+      "summary": "Uber联合创始人Travis Kalanick为机器人初创公司ATOMS筹集17亿美元。",
       "summaryZh": "",
       "titleZh": "Uber 联合创始人为新机器人初创公司 ATOMS 融资 1.7B 美元"
+    },
+    {
+      "title": "全球AI投融资动态,AI创投日报,具身智能、AI原生软件,灵初智能,AegisAI",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1od2E2c2M5S0RSZGlaOUJiLTBaTlRqNmx1WnYxTzFfY2QyNDQyV3JPc0RyTVZGa3UtcUM5UmVyR1JEWEhQZ0F4Q0xSZUhJV2RiaHNEbWNJZDJENEhsWWppMnY3ZlZyeFBiejdNTEtLcw?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-23T22:12:00.000Z",
+      "summary": "灵初智能、AegisAI等公司获AI投融资关注。",
+      "summaryZh": ""
     },
     {
       "title": "WAIC 2025观察：AI从屏幕走向现实，Agent与具身智能加速落地",
@@ -210,16 +215,6 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-23T12:00:38.000Z",
-      "summary": "AI从虚拟走向现实，商业化加速落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "德国黑森林实验室推出首个机器人模型Flux3和Flux-mimic",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhSE1OQU96SW9JWTJQQVQ3U2RmNmZRTHJ2N190ZzNZblp5ckZ0ZHJtaUNuQXZjVHFERGx2OXVFX1lWdkRCNUwzTUI1RktRNzR3SUpn?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-23T20:31:14.000Z",
       "summary": ""
     },
     {
@@ -232,14 +227,25 @@
       "summary": ""
     },
     {
-      "title": "消费具身智能不止大型硬件，MOMOTOY用掌心AI潮玩激活增量市场",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MUWo1Yl9UeHpCTnNfR1VzdmEweklIQXV6YTlZQS0weGZfakVDNU8xaTVfd20yaHExWlFPOS1LQWZOREwwRDlMdExqS1BsYTU5blk0Rkw0ckI?oc=5",
-      "source": "界面新闻",
+      "title": "知晓“做什么”比“怎么做”更稀缺，业内拆解AI竞争新逻辑：从智能猜想走向通用基建，具身智能静待突破时刻",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlZ1JQUzZrZjM1TFFkcC1PWEI3WE12MmlidS1SWmppNjZxQ3lUOXJ0WjAySTM3aGNPZWhGZnA5QVUwNTJpaEtCdWZyVk43OEJ6T3JKU1FSOFc1STVqQk5WeUV6amh0Zw?oc=5",
+      "source": "每日经济新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-23T09:59:10.000Z",
-      "summary": "MOMOTOY推出首款自研微型机芯掌心AI潮玩，激活增量市场。",
+      "pubDate": "2026-07-24T00:15:00.000Z",
+      "summary": "AI竞争转向通用基建，具身智能突破在即。",
       "summaryZh": ""
+    },
+    {
+      "title": "Tesla’s robotaxi promises are clashing with reality",
+      "link": "https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-23T17:09:31.000Z",
+      "summary": "特斯拉自动驾驶出租车承诺与现实冲突。",
+      "summaryZh": "",
+      "titleZh": "特斯拉的机器人出租车承诺与现实发生冲突"
     }
   ]
 }
