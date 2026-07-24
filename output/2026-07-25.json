@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generatedAt": "2026-07-24T19:42:35.232Z",
+  "generatedAt": "2026-07-24T20:49:16.908Z",
   "items": [
     {
       "title": "智元启动赴港上市流程，2025 年通用人形机器人出货量全球第一",
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-24T06:19:54.000Z",
-      "summary": "特朗普之子埃里克·特朗普投资并担任首席战略顾问，与AMD合作研发人形机器人。",
+      "summary": "特朗普之子埃里克·特朗普投资并担任首席战略顾问，与AMD合作研发军用和工业人形机器人。",
       "summaryZh": ""
     },
     {
@@ -49,7 +49,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-24T08:55:07.000Z",
-      "summary": "算力服务市场繁荣，但整合资源成稳定算力仍为少数人游戏。",
+      "summary": "算力服务市场繁荣，但整合资源成算力服务是少数人游戏。",
       "summaryZh": ""
     },
     {
@@ -79,7 +79,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-24T10:14:16.000Z",
-      "summary": "全球大模型中转站OpenRouter拟以约677亿人民币估值出售。",
+      "summary": "美国金融科技公司Stripe洽谈收购大模型中转站OpenRouter，交易估值约677亿人民币。",
       "summaryZh": ""
     },
     {
@@ -89,7 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-24T13:04:34.000Z",
-      "summary": "大模型厂商通过降价策略降低推理芯片成本，以推动AI大模型普及。",
+      "summary": "大模型厂商降价竞争，推理芯片成本成为关键。",
       "summaryZh": ""
     },
     {
@@ -99,7 +99,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-23T23:27:01.000Z",
-      "summary": "全球AI产品动态：适创科技等发布AI原生软件、大语言模型等。",
+      "summary": "全球AI产品动态，多款AI原生软件及大语言模型发布。",
       "summaryZh": ""
     },
     {
@@ -123,13 +123,23 @@
       "summaryZh": ""
     },
     {
-      "title": "大模型的牌桌正在收敛，投资人的钱还在往哪儿涌？",
+      "title": "大模型的牌桌正在收敛，投资人的钱还在往哪里涌？",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tMDNqcGdmS0s1Z1d4UFFyQll4cDI1ZXJkWTN2dDZiRnVRekw5OXNjd2dDX3hhSUEzcnp0N0xzU0YyelFaWDFGc1FycWRBb25Ib3k0?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-24T08:22:24.000Z",
-      "summary": "大模型行业投资持续涌入，但优质项目稀缺，行业竞争激烈。",
+      "summary": "大模型行业投资持续涌入，但细分赛道竞争激烈，头部企业尚未显现。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI与机器人盘前速递丨OpenAI计划与AMD合作开发MI500系列AI芯片，Black Forest Labs推出机器人模型",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KTzNoY2lpa19iY0lJbVo5Vkx0R3BXRjRHRy1JQ1RjbVZ1U1IxY1hNbFlSYkJCMm5fRVBmZXdTVEc0QndrQzN1VHllejRadGVaZTBfdjhvMDNIM0ZzN1kwelY4VldwZw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-24T00:57:00.000Z",
+      "summary": "OpenAI与AMD合作开发MI500系列AI芯片，Black Forest Labs推出机器人模型。",
       "summaryZh": ""
     },
     {
@@ -139,7 +149,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-24T14:42:32.000Z",
-      "summary": "合肥AI独角兽智象未来3个月融21亿，跻身全球AI独角兽行列。",
+      "summary": "合肥AI独角兽智象未来三个月内融资21亿，跻身全球AI独角兽行列。",
       "summaryZh": ""
     },
     {
@@ -149,8 +159,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-24T00:05:00.000Z",
-      "summary": "英特尔二季度营收同比增长25%，AI Agent推动CPU价值重估。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
@@ -170,20 +179,9 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-07-24T19:34:29.000Z",
-      "summary": "企业AI代理治理未跟上部署步伐，多数企业计划年内更换供应商或增加新供应商。",
+      "summary": "企业AI代理治理未跟上部署步伐，多数企业计划在一年内更换供应商或增加新供应商。",
       "summaryZh": "",
       "titleZh": "VentureBeat Research：企业人工智能代理治理尚未跟上的地方"
-    },
-    {
-      "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
-      "link": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows",
-      "source": "VentureBeat",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-24T17:00:00.000Z",
-      "summary": "Anthropic发布更便宜的AI模型Claude Opus 5，适用于编码、代理和企业工作流程。",
-      "summaryZh": "",
-      "titleZh": "Anthropic 推出 Claude Opus 5，这是一种更便宜的 AI 模型，适用于编码、代理和企业工作流程"
     },
     {
       "title": "How time series databases unlock real-time data for robotics",
@@ -208,6 +206,16 @@
       "titleZh": "NEURA Robotics 建立 NEURA Gym RWTH Aachen 来训练物理人工智能"
     },
     {
+      "title": "为何能效对工业机器人至关重要",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HR29pX2tEdmw0ZmRJSzhKUVVyNjZacm1fZjlGWFhPSmtfS002MmVSa1U0Tzh1VWM4VWZvNVhtZ0dBeXpMbEtBb3NhbFlnaGt6OFBzUHlKcw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-23T23:09:33.000Z",
+      "summary": "能效优化成为工业机器人系统设计的关键突破口。",
+      "summaryZh": ""
+    },
+    {
       "title": "宇树科技基础教育具身智能实验室落地成都锦江区",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SNG9OQzNiUHBvSU1YSFppVzRMREtHUThhWU1iRHNHV0pfRzZUc1djUXB1SUFBX1pndFRQcy0wLW1fbERISHF6RjB5OXdzNG52d29FLUNzX2JEUUZRcE1UVXpMRDUwS3d4UHp5eXdhNUY?oc=5",
       "source": "科技日报",
@@ -224,17 +232,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-24T04:14:39.000Z",
-      "summary": "极智嘉发布Gravity框架，人形机器人实现真实作业场应用。",
+      "summary": "极智嘉发布Gravity框架，人形机器人实现真实作业场景应用。",
       "summaryZh": ""
-    },
-    {
-      "title": "德国黑森林实验室推出首个机器人模型Flux3和Flux-mimic",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhSE1OQU96SW9JWTJQQVQ3U2RmNmZRTHJ2N190ZzNZblp5ckZ0ZHJtaUNuQXZjVHFERGx2OXVFX1lWdkRCNUwzTUI1RktRNzR3SUpn?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-23T20:31:14.000Z",
-      "summary": ""
     },
     {
       "title": "This is the world's most advanced robotic servicing satellite—that we know about",
