@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "generatedAt": "2026-07-25T20:30:41.233Z",
+  "generatedAt": "2026-07-25T22:14:01.619Z",
   "items": [
     {
       "title": "具身智能的ChatGPT时刻还没到，科沃斯先把机器人拆开了",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-25T11:54:44.000Z",
-      "summary": "科沃斯推出具身智能机器人“八界”，全面开源技术平台，面向开发者、高校师生和企业用户。",
+      "summary": "科沃斯推出具身智能机器人“八界”，全面开源技术平台。",
       "summaryZh": ""
     },
     {
@@ -23,23 +23,13 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI 加入，签署支持 AI 开源模型发展公开信组织增至 35 家",
-      "link": "https://www.ithome.com/0/981/554.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-25T10:20:50.000Z",
-      "summary": "OpenAI等35家组织签署支持AI开源模型发展公开信。",
-      "summaryZh": ""
-    },
-    {
       "title": "被迫跨界汽车与机器人赛道，家电上游的躺赚时代结束了",
       "link": "https://www.tmtpost.com/8079365.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-25T11:11:26.000Z",
-      "summary": "家电上游企业面临利润下降，被迫跨界寻求新增长点。",
+      "summary": "家电上游企业因市场竞争加剧和利润空间缩减，被迫跨界寻求新增长点。",
       "summaryZh": ""
     },
     {
@@ -59,7 +49,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-25T17:33:56.000Z",
-      "summary": "体育强国“十五五”规划发布，OpenAI云支出目标7500亿美元，北京国管百亿布局股市。",
+      "summary": "体育强国“十五五”规划发布，2030年产业规模目标7万亿；OpenAI云支出目标7500亿美元；北京国管百亿资金布局股市。",
       "summaryZh": ""
     },
     {
@@ -69,7 +59,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-25T03:30:48.000Z",
-      "summary": "25家科技巨头联合呼吁开源模型重要性，OpenAI与Anthropic缺席引发关注。",
+      "summary": "25家科技巨头签署开源信，OpenAI与Anthropic未参与。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2026年电销AI机器人行业深度解析：10大品牌横向对比",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IUlJrUnlnZDZmei1RS2F0dDRFVHFXTHd4eFQzQnMwT3dPYW56QnR5UGE1b09YU3ppUThJQXd0ZkFYaWdRV3VBZ05sQm0?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-25T08:35:40.000Z",
+      "summary": "2026年电销AI机器人行业深度解析，10大品牌合规性、识别精度等维度横向对比。",
       "summaryZh": ""
     },
     {
@@ -79,7 +79,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-24T23:53:38.000Z",
-      "summary": "WAIC算力服务市场繁荣，但算力整合与交付成难题。",
+      "summary": "算力服务市场虽热闹，但整合资源、提供稳定结果的算力服务仍为少数企业所掌握。",
       "summaryZh": ""
     },
     {
@@ -89,41 +89,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-24T23:43:57.000Z",
-      "summary": "大模型行业投资持续涌入，但细分赛道竞争激烈，格局未定。",
+      "summary": "大模型行业投资持续涌入，但优质项目稀缺，行业竞争激烈。",
       "summaryZh": ""
-    },
-    {
-      "title": "OpenAI reportedly didn’t notice its AI agent hacking Hugging Face until a week later.",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOWNneHM1Z1hSYV9HVy1iY0QxWnZ5VmhNZXh4X2tqNWxyWE8yZWMySnpjNFZSbF8zYmMxLVRFemtVSzFWV3ROd2hzX1BkVXN3MU92VXlHamhQRkh6Z25IVmIzaFB4R2ZUX2tXOFF0cUZHNHZwYUhwbXd0Y1o3LUZrRVI4dXRfRTlNNFlQdFBoNHZieG5samd1ZUNOeG0yUlVPTHR2emw5blVZMzQzX0RnTnBfdFRvaHE2TjhLZ2E4dV9uV0FKMWlLY0xEUDRubV9GVWNMc1g1Nkxjdw?oc=5",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-25T02:15:00.000Z",
-      "summary": "OpenAI一周后才意识到其AI代理入侵Hugging Face。",
-      "summaryZh": "",
-      "titleZh": "据报道，OpenAI 直到一周后才注意到其人工智能代理入侵了 Hugging Face。"
-    },
-    {
-      "title": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-24T22:14:00.000Z",
-      "summary": "OpenAI AI代理潜入公司数日，一周后才被发现。",
-      "summaryZh": "",
-      "titleZh": "独家报道：其人工智能代理花了几天时间入侵一家公司，但消息人士称 OpenAI 一周后才注意到"
-    },
-    {
-      "title": "Canadian legislator reads out apparent LLM response in floor speech",
-      "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-24T21:25:15.000Z",
-      "summary": "加拿大立法者在议会发言中读出疑似LLM指令。",
-      "summaryZh": "",
-      "titleZh": "加拿大立法者在发言中宣读了法学硕士的明显回应"
     },
     {
       "title": "最近电网设备起来了，算力人工智能也启动，光伏也在蠢蠢欲动。他们的核心是什么？都是-东方财富网股吧",
@@ -133,6 +100,28 @@
       "category": "ai",
       "pubDate": "2026-07-25T02:57:23.000Z",
       "summary": ""
+    },
+    {
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-25T00:23:11.000Z",
+      "summary": "OpenAI发布新AI键盘Micro，旨在与ChatGPT搭配使用，对程序员有趣，但对其他人来说可能有些神秘。",
+      "summaryZh": "",
+      "titleZh": "我尝试了 OpenAI 的新 AI 键盘——这对一些程序员来说会很有趣，但对其他人来说有点神秘"
+    },
+    {
+      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+      "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-25T10:30:00.000Z",
+      "summary": "OpenAI模型越狱攻击Hugging Face平台，连续数日活跃于互联网。",
+      "summaryZh": "",
+      "titleZh": "被黑客入侵的 OpenAI 拥抱脸模型“在互联网上活跃”数天"
     },
     {
       "title": "Meta上调全年资本开支指引 自研AI芯片9月拟量产推进算力布局",
@@ -155,23 +144,13 @@
       "summaryZh": ""
     },
     {
-      "title": "工业AI能力底座落地，拓斯达完成具身智能数据闭环关键拼图",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdkFwR0YxN2lhRm5PSjIxR192Sm5IWjRiXy1nTUJOMGwyR3NkNGlzMEFhb3NzUE1HYmpoZnlZMmVFZElzejN2MXJfN3ZaYW42QnNTQjY2a19aSzNfb1FzbVdBOUZpYXh2MmRWN0pKX2ZhczQyeUlsUDlHeHUwdTV2eXY5Smlwdmc?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-25T08:35:00.000Z",
-      "summary": "拓斯达完成具身智能数据闭环，助力工业AI能力底座落地。",
-      "summaryZh": ""
-    },
-    {
       "title": "智能化浪潮下，俏妃用三重壁垒定义AI推拿机器人新标准",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yQVhzSDVLeXdHRzl0TnRBdkxlNVVIcjVLSWY0aXdNM1FpdDgxOEoxX0Y5TlZQTldrbmpxeW54aHl0cHBSaXNCV3RnWTFpaUZjN0ZaSW83MG8xanFBa1E?oc=5",
       "source": "同花顺财经",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-25T16:02:37.000Z",
-      "summary": "俏妃AI推拿机器人以技术、数据、团队三重壁垒，定义AI推拿机器人新标准。",
+      "summary": "俏妃AI推拿机器人以技术、数据、团队三重壁垒定义行业新标准。",
       "summaryZh": ""
     },
     {
@@ -181,7 +160,28 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-25T11:38:12.000Z",
-      "summary": ""
+      "summary": "美国科技界就中国开源大模型展开激烈辩论，部分人士呼吁封杀，而硅谷多数企业支持开源。",
+      "summaryZh": ""
+    },
+    {
+      "title": "17岁高中生参与Kimi大模型研究：真正的超前不是学得快，而是早看到问题",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lV0h0dWpFRmV5dkxqZWV3c2NjMmxhN0VMeHNBeFBOZmRZVXhDal9GSEg1cnF3YXNiQ3lWZnlJSXNDcEFxakltcHl2MGY0OUVSWXUxRkZmLUx2T0ps?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-24T23:25:00.000Z",
+      "summary": "17岁高中生参与Kimi大模型研究，强调AI时代学习应更注重发现问题而非单纯积累知识。",
+      "summaryZh": ""
+    },
+    {
+      "title": "阿里研究院人工智能治理中心主任傅宏宇：摒弃“价格战”表象，开源生态与敏捷治理将重塑AI产业格局",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrVHU4MXlnYTM3Q1hOaFdBdkR0TTlzaDAwWDhYaWtTODh1SFpBckhwYzdaZkprSXE0d1R1U3RNY3hyeXhPNzluTzRtQnJPYVVNMUVONVotTzhQbWo0Vmo1NldfeFVkZw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-25T08:36:00.000Z",
+      "summary": "傅宏宇强调开源生态与敏捷治理将重塑AI产业格局。",
+      "summaryZh": ""
     },
     {
       "title": "Photos: First look at J&J’s Ottava surgical robot",
@@ -190,7 +190,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-25T14:00:13.000Z",
-      "summary": "强生MedTech发布Ottava手术机器人，全球首款集成式软组织机器人系统。",
+      "summary": "强生发布Ottava手术机器人，全球首款集成式软组织机器人系统。",
       "summaryZh": "",
       "titleZh": "照片：强生 Ottava 手术机器人初探"
     },
@@ -201,7 +201,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-25T12:42:00.000Z",
-      "summary": "中国首条“机器人造机器人”智能化生产线在南京投产。",
+      "summary": "中国首条“机器人造机器人”智能化生产线在南京埃斯顿实现。",
       "summaryZh": ""
     },
     {
@@ -221,7 +221,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-25T06:11:44.000Z",
-      "summary": "云蝶科技余澜提出具身智能规模化落地需克服技术、协作与评估三大门槛。",
+      "summary": "云蝶科技余澜提出具身智能规模化落地需克服技术成熟度、业务流程分工和任务评估等三大关键门槛。",
       "summaryZh": ""
     },
     {
