@@ -80,7 +80,9 @@ const SKIP_PATTERNS = [
   /广告|赞助|推广|软文|白皮书下载|报名|招聘|活动预告|直播预告|沙龙|峰会|大会|颁奖|评选/i,
   /sponsored|presented by|advertisement|\bdeal[s]?\b|discount|coupon|giveaway|\d+%\s*off|black friday|cyber monday|webinar|register now|sign up|whitepaper/i,
   /标签_|_标签|专题页|频道页|_网易出品|_腾讯网|资讯列表|新闻汇总|_专栏|专区$|栏目$|出品$/,
-  /我花\d|我买了|我花了|我试了|我用了|我带着|亲测|开箱|结果它|真香|翻车|踩坑|吐槽|夹子音|陪我聊|你敢信|绝了|离谱|逼疯|种草|安利|花了\d+元|买了台|买了个/
+  /我花\d|我买了|我花了|我试了|我用了|我带着|亲测|开箱|结果它|真香|翻车|踩坑|吐槽|夹子音|陪我聊|你敢信|绝了|离谱|逼疯|种草|安利|花了\d+元|买了台|买了个/,
+  /恐袭|恐怖袭击|枪击案|爆炸案|凶杀|谋杀案|命案|遇害|遇难|绑架|人质|难民|地震|洪灾|洪水|台风|飓风|山火|坠机|空难|骚乱|大选|竞选|弹劾|球赛|世界杯|奥运会|票房|演唱会|绯闻|婚变|涨停|跌停|龙虎榜|沪指|深指|北向资金/,
+  /\bislamist\b|\bterror(ism|ist)?\b|\bshooting\b|\bgunman\b|\bhostage\b|\bmissile\b|\brefugee\b|\bearthquake\b|\bwildfire\b|\bworld cup\b|\bolympic|box office|\bpride (parade|event|attack)\b/i
 ];
 function isLowQuality(title) {
   if (!title) return true;
@@ -362,69 +364,58 @@ async function aiSummarize(title, text) {
   return cleanSummary(out);
 }
 
-// Semantic de-duplication: ask the LLM which items report the SAME event (paraphrased
-// headlines the heuristic dedup misses), and drop all but one per group.
-async function aiDedupe(items) {
+// AI curation: in ONE call, ask the model to drop (1) off-topic items whose core
+// subject is not AI / robotics / their related industry, and (2) same-event duplicates.
+async function aiCurate(items) {
   if (!LLM_KEY || items.length < 2) return items;
-  const list = items.map((it, i) => `${i}. ${it.title}`).join('\n');
+  const list = items.map((it, i) => `${i}. [${it.category}] ${it.title}`).join('\n');
   const out = await llmChat(
-    `下面是今日新闻标题（带编号）。请找出“讲的是同一件事/同一个事件”的重复报道——即使措辞、角度、来源不同，只要核心事件相同就算重复（例如“OpenAI推出ChatGPT Work智能体”和“OpenAI推出ChatGPT Work智能体：GPT-5.6支持”是同一件事；“工信部发布Claude Code风险提示”和“工信部定调Claude Code危害严重”是同一件事）。每一组同一事件只保留信息最完整的一条，其余全部标记为删除。只输出一个 JSON 数组，列出所有要删除的编号，如 [3,7,9]；没有重复输出 []。不要输出任何其他文字。\n\n${list}`,
-    600, '你负责识别报道同一事件的重复新闻，判断要果断，只输出 JSON 数组，不要解释。');
+    `下面是候选新闻标题（带编号和类别）。请标出需要删除的编号，两类都要删：\n(1) 离题：核心主题与「AI/人工智能/机器人/具身智能及其相关产业」无关的——包括恐袭/犯罪/战争/灾难、与AI无关的政治时政/选举/外交、娱乐/体育/影视/社会八卦、纯股市涨跌行情。注意：与AI或机器人相关的科技、财经、融资、芯片算力、产业动态、相关政策要保留。特别要保留：AI/机器人/自动化在本地生活服务（外卖配送、酒旅、宠物、家政、银发经济、到店与零售、餐饮等）的商业落地新闻。\n(2) 重复：与列表中其他条报道同一事件的（措辞不同也算），每组只保留信息最完整的一条，其余删除。\n只输出一个 JSON 数组，列出所有要删除的编号，例如 [2,5,9]；没有要删的就输出 []。不要输出任何其他文字。\n\n${list}`,
+    700, '你是严格的中文科技新闻编辑，只保留与AI和机器人相关的新闻，只输出 JSON 数组。');
   try {
     const m = out.match(/\[[\d,\s]*\]/);
     if (!m) return items;
     const drop = new Set(JSON.parse(m[0]).filter(n => Number.isInteger(n) && n >= 0 && n < items.length));
     if (!drop.size) return items;
-    if (drop.size > items.length * 0.4) { console.log(`AI dedupe drop too large (${drop.size}), ignoring`); return items; }
-    console.log(`AI dedupe removed ${drop.size} duplicate(s)`);
+    if (drop.size > items.length * 0.6) { console.log(`aiCurate drop too large (${drop.size}), ignoring`); return items; }
+    console.log(`aiCurate removed ${drop.size} (off-topic + duplicates)`);
     return items.filter((_, i) => !drop.has(i));
   } catch { return items; }
-}
-
-// Best-effort: set item.summary from the real article's meta description (a whole-article
-// one-liner). Prefer it over the RSS lede. Leaves any existing summary if this fails.
-async function enrichSummary(item) {
-  try {
-    let realUrl = item.link;
-    if (/news\.google\.com/.test(item.link)) {
-      realUrl = await resolveGoogleNewsUrl(item.link);
-      if (!realUrl) return;
-    }
-    const html = await fetchText(realUrl, 'text/html');
-    if (LLM_KEY) {
-      const ai = await aiSummarize(item.title, extractArticleText(html));
-      if (ai) { item.summary = ai; item.summaryZh = ''; return; } // AI summary is already Chinese
-    }
-    const raw = pickMetaDesc(html);
-    if (raw && !GENERIC_DESC.test(raw)) {
-      const desc = cleanSummary(raw);
-      if (desc) item.summary = desc;
-    }
-  } catch { /* best-effort, keep existing summary */ }
 }
 
 function normTitle(t) {
   return (t || '').toLowerCase().replace(/[^一-龥a-z0-9]/g, '').slice(0, 24);
 }
 
+// Build a shingle set (English tokens + CJK bigrams) for fuzzy title similarity.
+function shingleSet(title) {
+  const set = new Set();
+  (String(title).toLowerCase().match(/[a-z0-9]{2,}/g) || []).forEach(w => set.add(w));
+  const cjk = (String(title).match(/[\u4e00-\u9fa5]/g) || []).join('');
+  for (let i = 0; i < cjk.length - 1; i++) set.add(cjk.slice(i, i + 2));
+  return set;
+}
+function shingleOverlap(a, b) {
+  if (!a.size || !b.size) return 0;
+  let inter = 0; for (const x of a) if (b.has(x)) inter++;
+  return inter / Math.min(a.size, b.size);
+}
 function deduplicate(items) {
   const seen = [];
   return items.filter(item => {
     const prefix = normTitle(item.title);
-    const words = new Set(item.title.toLowerCase().split(/\s+/).filter(w => w.length > 3));
+    const sig = shingleSet(item.title);
     for (const prev of seen) {
       if (prefix && prev.prefix === prefix) return false;
-      if (words.size > 2 && prev.words.size > 2) {
-        let overlap = 0;
-        for (const w of words) if (prev.words.has(w)) overlap++;
-        if (overlap / Math.min(words.size, prev.words.size) >= 0.6) return false;
-      }
+      // Near-identical titles (paraphrases differing by a few chars) -> duplicate.
+      if (shingleOverlap(sig, prev.sig) >= 0.6) return false;
     }
-    seen.push({ prefix, words });
+    seen.push({ prefix, sig });
     return true;
   });
 }
 
+const LOCAL_LIFE = /外卖|即时配送|即时零售|本地生活|到店|到家|酒旅|酒店|文旅|旅游|宠物|家政|养老|银发|无人零售|智慧门店|门店|餐饮|送餐|骑手|配送|商用机器人|服务机器人|清洁机器人|巡检机器人|商用落地|规模化落地|落地|部署/;
 const BUSINESS_SIGNAL = /发布|推出|上线|首发|量产|落地|融资|收购|并购|合作|签约|中标|订单|营收|财报|政策|规划|战略|突破|新品|发布会|开源|商用|入股|投资|估值|IPO|专利|标准|技术|模型|芯片|算力|机器人|自动驾驶|涨价|降价|扩产|产能|发布会/;
 function scoreItem(item) {
   let score = 0;
@@ -438,6 +429,7 @@ function scoreItem(item) {
   if (item.lang === 'zh') score += 1;
   // Boost formal, business/product/trend-relevant headlines (发布/融资/量产/政策/突破...).
   if (BUSINESS_SIGNAL.test(item.title)) score += 2;
+  if (LOCAL_LIFE.test(item.title)) score += 2;  // favor commercial / local-life deployment
   return score;
 }
 
@@ -494,9 +486,9 @@ async function main() {
 
   allItems.sort((a, b) => scoreItem(b) - scoreItem(a));
 
-  // Semantic de-dup on the top candidates (catches same-event paraphrases across outlets).
+  // AI curation on top candidates: drop off-topic items + same-event duplicates.
   if (LLM_KEY) {
-    const head = await aiDedupe(allItems.slice(0, 60));
+    const head = await aiCurate(allItems.slice(0, 60));
     allItems = head.concat(allItems.slice(60));
   }
 
@@ -504,7 +496,7 @@ async function main() {
   // Chinese >= 70% overall: Chinese-first only to the floor, English to the floor,
   // then top up (Chinese freely; English only while zh ratio stays >= 70%).
   const CAT_MIN = { ai: 6, robotics: 6, application: 0 };
-  const CAT_MAX = { ai: 12, robotics: 12, application: 6 };
+  const CAT_MAX = { ai: 12, robotics: 12, application: 8 };
   const catCount = { ai: 0, robotics: 0, application: 0 };
   const selected = [];
   const inSel = new Set();
