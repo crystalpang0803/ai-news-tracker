@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI & 机器人日报 · 2026-07-23</title>
+<style>
+  :root{color-scheme:light;--ink:#14171c;--muted:#6b7280;--line:#e7e9ec;--bg:#f2f3f5;--card:#ffffff;--accent:#e5484d;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased;}
+  a{color:inherit;text-decoration:none;}
+  .topbar{background:#111418;color:#fff;border-bottom:3px solid var(--accent);}
+  .topbar-inner{max-width:1120px;margin:0 auto;padding:0.95rem 1.5rem;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
+  .brand{font-size:1.4rem;font-weight:800;letter-spacing:-0.02em;display:flex;align-items:center;gap:0.5rem;}
+  .brand .dot{color:var(--accent);}
+  .masthead-meta{font-size:0.8rem;color:#a9afb8;font-variant-numeric:tabular-nums;}
+  .nav{max-width:1120px;margin:0 auto;padding:0.6rem 1.5rem;display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap;font-size:0.82rem;}
+  .nav a,.nav input{background:#fff;border:1px solid var(--line);border-radius:8px;padding:0.35rem 0.85rem;color:#374151;font-weight:600;transition:all .15s;}
+  .nav a:hover{border-color:var(--accent);color:var(--accent);}
+  .nav .spacer{flex:1;}
+  .wrap{max-width:1120px;margin:0 auto;padding:1.4rem 1.5rem 3rem;}
+
+  .hero{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:1.7rem 1.9rem;box-shadow:0 1px 2px rgba(16,24,40,.05);}
+  .hero .kicker{display:inline-flex;align-items:center;gap:.4rem;font-size:0.72rem;font-weight:800;letter-spacing:.08em;color:#fff;background:var(--accent);padding:0.24rem 0.65rem;border-radius:6px;margin-bottom:0.9rem;}
+  .hero h2{font-size:1.75rem;line-height:1.25;font-weight:800;letter-spacing:-0.015em;}
+  .hero .trans{margin-top:0.5rem;}
+  .hero .head{margin-top:0.95rem;}
+
+  /* Sticky jump-tab bar */
+  .tabs{position:sticky;top:0;z-index:20;display:flex;gap:0.5rem;flex-wrap:wrap;background:var(--bg);padding:0.8rem 0 0.7rem;margin:0.8rem 0 0.2rem;border-bottom:1px solid var(--line);}
+  .tab{background:#fff;border:1px solid var(--line);border-radius:999px;padding:0.5rem 1.05rem;font-family:inherit;font-size:0.94rem;font-weight:700;color:#4b5563;cursor:pointer;display:flex;align-items:center;gap:0.5rem;transition:all .15s;}
+  .tab:hover{border-color:#c7cbd1;color:var(--ink);}
+  .tab .ic{font-size:1rem;}
+  .tab .n{font-size:0.72rem;font-weight:800;opacity:.65;font-variant-numeric:tabular-nums;}
+  .tab.active{color:#fff;border-color:transparent;box-shadow:0 2px 8px rgba(16,24,40,.12);}
+  .tab.active .n{opacity:.95;}
+  .tab[data-cat="ai"].active{background:#2563eb;}
+  .tab[data-cat="robotics"].active{background:#7c3aed;}
+  .tab[data-cat="application"].active{background:#0d9488;}
+
+  /* Stacked sections */
+  .section{scroll-margin-top:72px;margin-top:1.7rem;}
+  .sec-head{display:flex;align-items:center;gap:0.5rem;margin-bottom:0.95rem;font-size:1.18rem;font-weight:800;letter-spacing:-0.01em;}
+  .sec-head .bar{width:4px;height:1.2rem;border-radius:2px;flex:none;}
+  .sec-head .ic{font-size:1.15rem;}
+  .sec-head .n{margin-left:0.15rem;font-size:0.74rem;font-weight:800;color:var(--muted);background:#eceef1;border-radius:999px;padding:0.08rem 0.55rem;}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:0.85rem;}
+
+  .item{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:0.95rem 1.1rem;transition:border-color .15s,box-shadow .15s,transform .15s;}
+  .item:hover{border-color:#d3d6db;box-shadow:0 6px 18px rgba(16,24,40,.07);transform:translateY(-1px);}
+  .head{display:flex;align-items:center;gap:0.45rem;font-size:0.74rem;color:var(--muted);margin-bottom:0.5rem;}
+  .head .cdot{width:7px;height:7px;border-radius:50%;flex:none;}
+  .head .src{font-weight:700;color:#4b5563;}
+  .head .sep{color:#cbd0d6;}
+  .head .time{color:#9aa1ab;font-variant-numeric:tabular-nums;}
+  .title{font-size:1.02rem;font-weight:680;line-height:1.42;color:var(--ink);display:block;}
+  .item:hover .title{color:var(--accent);}
+  .trans{display:block;margin-top:0.4rem;font-size:0.85rem;line-height:1.5;color:#8b9199;font-style:italic;}
+  .trans b{font-style:normal;font-weight:700;color:#9aa1ab;background:#f1f2f4;padding:0.02rem 0.4rem;border-radius:4px;margin-right:0.45rem;font-size:0.72rem;letter-spacing:.02em;}
+  .desc{margin-top:0.5rem;font-size:0.85rem;line-height:1.55;color:#565d68;}
+  .hero .desc{font-size:0.98rem;color:#3a4150;margin-top:0.65rem;}
+
+  footer{max-width:1120px;margin:0 auto;padding:1.5rem;text-align:center;color:#9aa1ab;font-size:0.78rem;border-top:1px solid var(--line);}
+  @media(max-width:760px){.grid{grid-template-columns:1fr;}.hero h2{font-size:1.35rem;}.wrap{padding:1rem;}}
+</style>
+</head>
+<body>
+<div class="topbar"><div class="topbar-inner">
+  <a href="../index.html" class="brand"><span class="dot">●</span> AI &amp; 机器人日报</a>
+  <span class="masthead-meta">2026-07-23 · 每日精选 24 条</span>
+</div></div>
+<div class="nav">
+  <a href="../index.html">🏠 首页</a>
+  <a href="2026-07-22.html">← 前一天</a>
+  <a href="2026-07-24.html">后一天 →</a>
+  <span class="spacer"></span>
+  <input type="date" value="2026-07-23" onchange="if(this.value)window.location.href=this.value+'.html'">
+</div>
+<div class="wrap">
+  <div class="hero"><span class="kicker">🔥 今日头条</span><h2><a href="https://www.tmtpost.com/8075805.html" target="_blank" rel="noopener">一目科技E轮融资超10亿：触觉传感器正在成为具身智能的最难的环节</a></h2><p class="desc">一目科技E轮融资超10亿，专注触觉传感器技术，推动具身智能发展。</p><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">钛媒体</span><span class="sep">·</span><span class="time">2026-07-23</span></div></div>
+  <div class="tabs"><a class="tab active" data-cat="ai" href="#sec-ai"><span class="ic">🖥️</span>AI 人工智能<span class="n">12</span></a><a class="tab" data-cat="robotics" href="#sec-robotics"><span class="ic">🤖</span>机器人<span class="n">11</span></a></div>
+  <section class="section" id="sec-ai" data-cat="ai">
+      <div class="sec-head"><span class="bar" style="background:#2563eb"></span><span class="ic">🖥️</span>AI 人工智能<span class="n">12 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-07-23</span></div><a class="title" href="https://36kr.com/p/3907461333144711?f=rss" target="_blank" rel="noopener">8点1氪丨小红书回应IPO因前员工举报而受阻传闻：均不属实；谷歌Gemini跌出全球排名前十；耐克宣布终止滔搏线上经销权</a><p class="desc">小红书否认IPO受阻传闻，谷歌Gemini跌出全球前十，耐克终止滔搏线上经销权。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">界面新闻</span><span class="sep">·</span><span class="time">2026-07-23</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhSlhXR2d3QURpVHYxNEs4S1VacDAxbkxhRF9qUlQzOHdQVE1GYUU1dUdEdF9NbjF5MHpEakw2NjdaVTFueXUzM3JIcGhuYXpFSkw0LTM4WjQ?oc=5" target="_blank" rel="noopener">上海：鼓励投资机构加大金融科技应用力度，利用人工智能大模型、智能体等技术提升投研能力</a><p class="desc">上海鼓励投资机构应用金融科技，提升投研能力。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">第一财经</span><span class="sep">·</span><span class="time">2026-07-23</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YZDdvTERaTjhpTUpocGZXYmNyaUVDcURqZnN0TmFGbGJma1hPM1Zjc255LWlyMkVRMFgxTzhTYW5JV1NrOC1iVFN0UnpkRTVBVnRtbA?oc=5" target="_blank" rel="noopener">一财主播说 | OpenAI模型失控入侵海外平台 中国大模型硬核救场</a><p class="desc">OpenAI模型失控入侵海外平台，中国大模型GLM 5.2紧急救场。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">钛媒体</span><span class="sep">·</span><span class="time">2026-07-23</span></div><a class="title" href="https://www.tmtpost.com/8075814.html" target="_blank" rel="noopener">郑纬民院士：国产算力的瓶颈不在芯片，在生态</a><p class="desc">郑纬民院士指出，国产算力瓶颈在于软件生态不成熟，而非芯片。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">IT之家</span><span class="sep">·</span><span class="time">2026-07-23</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKUWY2aGNnLS1hRXJVYkh4OWt0M19QZFZPNnhva3BDTDQwMEh2dy1GTlBvQzdJMzRmS01VQmNWZU5Db0FzcDNNRkk2dGY?oc=5" target="_blank" rel="noopener">“Gemini，谁啊？”谷歌前沿 AI 模型迟迟未发布，竞争对手“群嘲”</a><p class="desc">谷歌前沿AI模型Gemini 3.5 Pro推迟发布，引发竞争对手嘲讽。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">IT之家</span><span class="sep">·</span><span class="time">2026-07-23</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qMmExS0Z2YjBMaFl4dUJiUUFZSi00dTVqckw0NTZGNWk2OEQxQTJhSjJTVzk5V1VQaVl6ZWx4V3hUcUgwaDVOaGk4TGg?oc=5" target="_blank" rel="noopener">AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存“作弊”行为</a><p class="desc">AISI报告称GPT-5.6 Sol等5款AI模型存在“作弊”行为。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">财联社</span><span class="sep">·</span><span class="time">2026-07-23</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiRkFVX3lxTFB3UEVtelJhWk1CMzdheVdHdGJtbjZYR0pxNjBEYVJtOU44U0w0bGRBMHdzdkI5bzlWUWg0dXU2MDFlU3pTX2c?oc=5" target="_blank" rel="noopener">财联社7月23日电，谷歌母公司Alphabet的CEO称，公司在Gemini 4侧重于AI计算，公司将加快发布AI模型的速度。</a><p class="desc">Alphabet CEO表示将加快Gemini 4 AI计算项目AI模型发布速度。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">量子位</span><span class="sep">·</span><span class="time">2026-07-23</span></div><a class="title" href="https://www.qbitai.com/2026/07/457356.html" target="_blank" rel="noopener">太初元碁携手上海人工智能实验室举办AI4S和新型模型架构算子优化赛</a><p class="desc">太初元碁与上海人工智能实验室合作举办AI4S算子优化赛，聚焦高性能算子优化与国产算力生态建设。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">虎嗅</span><span class="sep">·</span><span class="time">2026-07-23</span></div><a class="title" href="https://news.google.com/rss/articles/CBMid0FVX3lxTE9sMWxQV25mUnkxOFppVW1lNXBPRlp5ZHBZQ1UyWmM4U3VHOUxJRUpxZThFUVRfV0VNU29wcnJLYWRXRGlMMkp3OWJ3bGpEc19rQm1udnZYV1l1SkowSlVEbTI4YXFtZzJ3ckdVNXdDOUxIVDZwcVdv?oc=5" target="_blank" rel="noopener">全球AI产品动态,AI原生产品日报,大语言模型、AI原生软件,Gemini,Kimi K3,月之暗面,模型蒸馏,Arcee,Gemini,Gemini,AI影像Builder,Genesis-Science-1,Arcee,Genius AI,Moonshot,Fable,蒸馏,Gemini 4</a><p class="desc">全球AI产品Gemini、Kimi K3等发布，涵盖大语言模型、AI原生软件等领域。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">第一财经</span><span class="sep">·</span><span class="time">2026-07-23</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE94VkUta2NGUXpSSkdabFdva1NOR1VEUnB0OHhpOU9UZ3lfVjBKN2VhT1dWck1jYmp1S0Nxb0loRmdVWXdvOFBWbFFnSlMzY3lNODFn?oc=5" target="_blank" rel="noopener">深圳华强：近期设立了智算技术公司 该公司定位为AI算力综合服务商</a><p class="desc">深圳华强成立全资子公司，定位为AI算力综合服务商。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">财联社</span><span class="sep">·</span><span class="time">2026-07-23</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YTm9fTFpOZE5FREs5M2VTTWlvZzBGbFJlU1dRa0s0dW9HTlo4ajUyUDRkUXhPNGY4SFBNMkpSRmI1bS04a2l4cg?oc=5" target="_blank" rel="noopener">腾讯云：将大规模部署国产化算力和NPO（近封装光学）超级节点</a></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">每日经济新闻</span><span class="sep">·</span><span class="time">2026-07-23</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tSnZRUm9rSUY2U0pydk1FZkxVdkFmaUtHdDA3NXRoa0J0MnpHNllBcW1CSkt5TTFjR2JPU3h0YkYxS0luTVlJQkQ5UmdpNlBUaGxaRmtvRjJkaFQ4Z1VjTTNDbTJpUQ?oc=5" target="_blank" rel="noopener">谷歌AI豪赌的“代价”：自由现金流数十年来首次转负，资本支出翻倍，全年上调至1950亿～2050亿美元！CEO皮查伊：AI回报处于早期阶段，投入大量算力开发Gemini 4</a><p class="desc">谷歌AI投资导致自由现金流首次转负，资本支出大幅增加至1950-2050亿美元。</p></div></div>
+    </section><section class="section" id="sec-robotics" data-cat="robotics">
+      <div class="sec-head"><span class="bar" style="background:#7c3aed"></span><span class="ic">🤖</span>机器人<span class="n">11 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-07-23</span></div><a class="title" href="https://36kr.com/newsflashes/3907709033747840?f=rss" target="_blank" rel="noopener">美的等入股钧舵机器人</a><p class="desc">美的等企业入股钧舵机器人，注册资本增至1235.4万人民币。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">智东西</span><span class="sep">·</span><span class="time">2026-07-22</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiRkFVX3lxTE5YM2J2MVo0NFd4TXlzbVVWcnBWSFI3bTlBMFZKV1BZQzZRQURYQnpJRWpMSXdvSFhqRF82VlJJT1BHWHFiMmc?oc=5" target="_blank" rel="noopener">李飞飞，收购了一家机器人仿真公司</a><p class="desc">李飞飞创办的World Labs收购机器人仿真公司SceniX。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">智东西</span><span class="sep">·</span><span class="time">2026-07-22</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiRkFVX3lxTE11VEZLMmFXbUZOWjRSZk5sR0FjRnhuVmZQazdUT0dpcWpJd0tvb0NhSXNVd3dqakoxU3I2bEZvaTJiMkRSZHc?oc=5" target="_blank" rel="noopener">又一家美国机器人公司，破产了，曾融资20亿</a><p class="desc">美国手术机器人公司Vicarious Surgical宣布破产清算，曾融资20亿人民币。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">界面新闻</span><span class="sep">·</span><span class="time">2026-07-23</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5MzMweHhpUzZaSzFCYmtHTXpNUGdrTjgtRTRqemtPNU90U0IzOG5ISzhxU2RiVXVKRENNWEx3UHpvVEVnaEhFMDM4dUZhLUxvNjVYMDVZVlA?oc=5" target="_blank" rel="noopener">特斯拉二季度盈利不及预期，AI与机器人投资拖累现金流</a><p class="desc">特斯拉二季度盈利低于预期，AI与机器人投资拖累现金流。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">中国经营网</span><span class="sep">·</span><span class="time">2026-07-22</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ocUVxWG81NkduV2JtUzk4NlFzbzNPYnotYlZ2WDc3TnBYUXhpVmtvU3JyNjRDZkdtcGhlRnZqcjBFWXRMRXpCWGEtWDJ5dG0wQ1lVZWZMLXdibmlEYUdXVVE2UQ?oc=5" target="_blank" rel="noopener">朗信电气（920220.BJ）：热管理小巨人卡位具身智能，人形机器人关节电机已批量供货</a></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">TechCrunch</span><span class="sep">·</span><span class="time">2026-07-23</span></div><a class="title" href="https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/" target="_blank" rel="noopener">Travis Kalanick’s robotics company raises $1.7B, led by a16z</a><span class="trans"><b>中文翻译</b>Travis Kalanick 的机器人公司筹集了 $1.7B，由 a16z 领投</span><p class="desc">Travis Kalanick的机器人公司Atoms获1.7亿美元融资，由Andreessen Horowitz领投。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">Ars Technica</span><span class="sep">·</span><span class="time">2026-07-23</span></div><a class="title" href="https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/" target="_blank" rel="noopener">Hyundai claims humanoid robot plan is not part of talks with striking workers</a><span class="trans"><b>中文翻译</b>现代汽车声称人形机器人计划不属于与罢工工人谈判的一部分</span><p class="desc">现代汽车否认人形机器人计划是罢工谈判内容。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">Ars Technica</span><span class="sep">·</span><span class="time">2026-07-22</span></div><a class="title" href="https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/" target="_blank" rel="noopener">Ukrainian drones deliver robots directly into battle by sea and air</a><span class="trans"><b>中文翻译</b>乌克兰无人机将机器人直接送入海上和空中战斗</span><p class="desc">乌克兰无人机将机器人直接运送到海陆战场。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">The Robot Report</span><span class="sep">·</span><span class="time">2026-07-23</span></div><a class="title" href="https://www.therobotreport.com/physical-ai-and-robotics/" target="_blank" rel="noopener">Report shares the state of physical AI and robotics</a><span class="trans"><b>中文翻译</b>报告分享了物理人工智能和机器人技术的现状</span><p class="desc">物理AI与机器人技术融合趋势显著，应用前景广阔。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">新京报</span><span class="sep">·</span><span class="time">2026-07-22</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jdXZmZnZNMk1HeG5IN2J3QkUyU0dWd0ZPQm5pamxRMDY2WmFBc09RRTJFUTRPRUg3TVpzTm0xQ01oZVktQ2xzeW1wc29GTzBKU1lSVW5TZFR1bVNyRzZTenpxVkg?oc=5" target="_blank" rel="noopener">开场十几秒进首球！首届北京市中学生人形机器人足球赛冠军出炉</a><p class="desc">北京市中学生人形机器人足球赛圆满落幕，旗袭战队和天工二队分获冠亚军。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">虎嗅</span><span class="sep">·</span><span class="time">2026-07-23</span></div><a class="title" href="https://news.google.com/rss/articles/CBMib0FVX3lxTE40Y19LT0lTUktaWXNyNWJDeS1VdWUyYmcxQzUxLThZVFdjMzQwdUgycXlNbTZvMm9YSkRjUGRqR2M5aHF2S01tblVRUUtBU2Z5Q1Fld2FzNjUyajRHQk1CVUgyMzRYZExsYi1wVFRDNA?oc=5" target="_blank" rel="noopener">全球AI投融资动态,AI创投日报,AI原生软件、具身智能,Atoms,Genius AI</a><p class="desc">AI原生软件和具身智能领域投融资活跃，Atom和Genius AI等企业受关注。</p></div></div>
+    </section>
+</div>
+<footer>数据来源：80+ 中英文科技与产业媒体（中文优先）· 自动生成于 2026/7/23 14:18:03（北京时间）</footer>
+<script>
+  (function(){
+    var tabs = Array.prototype.slice.call(document.querySelectorAll('.tab'));
+    var map = {}; tabs.forEach(function(t){ map[t.getAttribute('data-cat')] = t; });
+    var secs = Array.prototype.slice.call(document.querySelectorAll('.section'));
+    if(!secs.length || !('IntersectionObserver' in window)) return;
+    var obs = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){
+        if(en.isIntersecting){
+          var cat = en.target.getAttribute('data-cat');
+          tabs.forEach(function(x){ x.classList.remove('active'); });
+          if(map[cat]) map[cat].classList.add('active');
+        }
+      });
+    }, { rootMargin: '-72px 0px -55% 0px', threshold: 0 });
+    secs.forEach(function(s){ obs.observe(s); });
+  })();
+</script>
+</body>
+</html>

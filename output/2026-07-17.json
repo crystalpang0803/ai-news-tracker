@@ -1,36 +1,259 @@
 {
   "date": "2026-07-17",
-  "generatedAt": "2026-07-16T23:39:42.639Z",
+  "generatedAt": "2026-07-17T06:02:38.482Z",
   "items": [
     {
-      "title": "OpenAI 推出一系列官方周边，含 ChatGPT 篮球、Codex T 恤等",
-      "link": "https://www.ithome.com/0/977/830.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-16T22:50:05.000Z",
-      "summary": "OpenAI 推出官方周边产品，包括 ChatGPT 篮球和 Codex T 恤。",
-      "summaryZh": ""
-    },
-    {
-      "title": "谷歌据悉推迟发布Gemini 3.5 Pro，因持续提升模型编程能力",
-      "link": "https://36kr.com/newsflashes/3898936840701571?f=rss",
+      "title": "36氪首发 | 这家人形机器人ODM厂商获千万融资，飞荣达、索辰科技接连下注",
+      "link": "https://36kr.com/p/3899057634363266?f=rss",
       "source": "36氪",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-16T23:37:35.000Z",
-      "summary": "谷歌推迟发布Gemini 3.5 Pro，专注提升模型编程能力。",
+      "category": "robotics",
+      "pubDate": "2026-07-17T01:26:47.000Z",
+      "summary": "人形机器人ODM厂商半醒具身获千万融资，用于研发和海外市场拓展。",
       "summaryZh": ""
     },
     {
-      "title": "1Password for Claude 上线：AI 交互场景下用户无需手动填写密码",
-      "link": "https://www.ithome.com/0/977/831.htm",
+      "title": "9750亿参数！OpenAI前CTO的明星独角兽，发首个开放权重模型",
+      "link": "https://zhidx.com/p/576146.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-16T14:45:09.000Z",
+      "summary": "OpenAI前CTO创办的AI独角兽发布首个开放权重模型Inkling。",
+      "summaryZh": ""
+    },
+    {
+      "title": "36氪首发 | 港科大博士创业做机器人全身触觉系统，红杉、瓴智、智元共同押注",
+      "link": "https://36kr.com/p/3899128277452681?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-17T02:39:17.000Z",
+      "summary": "港科大博士创办模感科技，获红杉等投资，研发机器人全身触觉系统。",
+      "summaryZh": ""
+    },
+    {
+      "title": "最近，投资人都在研究给机器人“喂饭”",
+      "link": "https://www.tmtpost.com/8068658.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-17T04:43:00.000Z",
+      "summary": "机器人数据基础设施成为投资热点。",
+      "summaryZh": ""
+    },
+    {
+      "title": "努比亚 AI 宠物机器人 iMoochi 发售，1699 元",
+      "link": "https://www.ithome.com/0/977/959.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-17T03:01:23.000Z",
+      "summary": "努比亚AI宠物机器人iMoochi上市，售价1699元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "小米扔深水炸弹：100000h真实数据，首次系统验证机器人Scaling Law",
+      "link": "https://zhidx.com/p/576208.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-16T08:05:21.000Z",
+      "summary": "小米发布Xiaomi-Robotics-1具身基座模型，基于10万小时真实数据验证机器人Scaling Law。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI官方教你8招玩透ChatGPT！",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kSHR6UjBwWW5BWmF2cW9tX1prSE14LWRaRWljVUNzMzR3X254SnM2NHM3bXBfSHZqbkp6X0xibEdVNE1JZDN5TXRRSDVSc2M5REFvaA?oc=5",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-17T05:11:53.000Z",
+      "summary": "OpenAI发布8招ChatGPT使用技巧，助你高效生成内容。",
+      "summaryZh": ""
+    },
+    {
+      "title": "百度沈抖：为每位员工每月发放 1000 元额度，体验市面主流大模型产品",
+      "link": "https://www.ithome.com/0/978/016.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-16T22:59:30.000Z",
-      "summary": "1Password for Claude 推出，AI可自动填写密码完成多步骤任务。",
+      "pubDate": "2026-07-17T05:09:52.000Z",
+      "summary": "百度为员工每月提供1000元额度体验主流大模型产品。",
       "summaryZh": ""
+    },
+    {
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-16T15:31:09.000Z",
+      "summary": "OpenAI推出ChatGPT篮球，售价70美元。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 为什么要销售 ChatGPT 篮球？"
+    },
+    {
+      "title": "日本拟采购2.75万颗英伟达Rubin芯片，开发本土机器人AI模型",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oTVlfbkRYbE1vQmF1bkxvWF9BYktvV1hUWlVSb0pZdzJXTWpwbTRfOUVYdnhnZ2N1M0tJRS1GQkt3Yk9jQjY4SUZYTExkNFk3Q0pjMWVGdF9pQQ?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-16T07:54:00.000Z",
+      "summary": "日本计划采购英伟达Rubin芯片，开发本土机器人AI模型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "《国际人工智能伦理治理行动计划》发布",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YNU9NVGRWeURfZ04zOUtYRkZ0Vmx3czBjTFc2VGNTSkdoVDBoVFpaZGdFS3FFYzd1QnNmMVE2T2VWT2kyS01hZGI2UUR3dHNPZ2RQMXJ5NXg?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-17T05:43:39.000Z",
+      "summary": "《国际人工智能伦理治理行动计划》在上海发布，旨在全球范围内推动AI伦理治理。",
+      "summaryZh": ""
+    },
+    {
+      "title": "大模型概念股持续走低，智谱跌幅扩大至25%",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJeTBHeHBwc2s1NHBJYmtRTjNvZnROeVNqS2NsNGVOTFdnOVdrUmxqd1NTaHQ1ZWEyclRta0ZaUTVaRms2Vm8xbElncmtxc3Z0dl9hWm1KY2M?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-17T05:15:36.000Z",
+      "summary": "大模型概念股智谱跌幅扩大至25%，MINIMAX-W跌近15%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "焦点复盘科创50连续2日大跌超4%，算力硬件板块持续低迷，850亿“中药茅”现久违涨停",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIVEFxYjhGWDNjXzFTYjg0T3hKOEdUMmE0azUzMmhnb0tXSVhFNVdzZE4zd0lNYkhlWVkwb3NSc0tzZ1MzcVFPTg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-16T09:18:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "东土科技推出AI机器人通用学习训练平台MaDo",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5WmJQYXdjMWVXYmxMMEFLV2JmVzJtSUNBMHd3R1pVLTNyNzFYNlBsZm4tQkFlMUlKT0szTG1VTXZ1T0xMazJLbjVSSmdDcFlOWVhV?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-17T04:59:13.000Z",
+      "summary": "东土科技发布AI机器人通用学习训练平台MaDo。",
+      "summaryZh": ""
+    },
+    {
+      "title": "华为昇腾950超节点将首次真机亮相 国产算力板块高景气有望延续",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92cHNwVWxXdV9NeGpCSlB1Si1WekQ0REh0S1NtMUtnSWpJWWVrdzNhbUx2LWFCOWdPWkFaNEVrajdhUzhkNHp3WA?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-16T11:27:30.000Z",
+      "summary": ""
+    },
+    {
+      "title": "手握英伟达宁德时代相同剧本，具身智能的第一个基建商出现了",
+      "link": "https://www.qbitai.com/2026/07/451327.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-16T09:13:01.000Z",
+      "summary": "景烁科技成为具身智能领域首个专注数据基础设施的“基建商”。",
+      "summaryZh": ""
+    },
+    {
+      "title": "新信号！中国金融大模型及智能体市场份额出炉 蚂蚁数科位列第一",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yWC1lckZfTmVWUk1scmNCdnAwTTBUNE1nRE0zWVdnMDNPTmYyc0llM1pncmx3ZE9Zd19EcVNEYnpTcUk4SVpKamJyUQ?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-16T08:29:47.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
+      "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-16T20:07:14.000Z",
+      "summary": "Founders Fund聘请前OpenAI高管Ryan Beiermeister担任合伙人。",
+      "summaryZh": "",
+      "titleZh": "Founders Fund 聘请前 OpenAI 高管 Ryan Beiermeister（并不是因为她的“黑手党”技能）"
+    },
+    {
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-16T19:02:38.000Z",
+      "summary": "企业AI代理安全漏洞：过半企业已遭遇安全事件，多数代理共享凭证。",
+      "summaryZh": "",
+      "titleZh": "代理安全漏洞：54%的企业已经发生过人工智能代理事件，大多数企业仍然让代理共享凭证"
+    },
+    {
+      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+      "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-16T22:17:27.000Z",
+      "summary": "苹果起诉OpenAI涉嫌窃取硬件机密，纽约实施全国首个数据中心禁令。",
+      "summaryZh": "",
+      "titleZh": "苹果为何起诉 OpenAI、纽约对数据中心发起攻击以及有关环孢子虫病的知识"
+    },
+    {
+      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+      "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-16T20:09:48.000Z",
+      "summary": "韩国现代汽车工厂工人因担心人形机器人而罢工。",
+      "summaryZh": "",
+      "titleZh": "对人形机器人的恐惧促使人类工人在现代汽车工厂罢工"
+    },
+    {
+      "title": "对话地瓜机器人CEO王丛：具身智能没有绝对壁垒，拼的是实打实交付",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBST1FadmtBMFJEdVBac1lRUzYzSWZfLU4yME83TEF3RV8tczZSQnFiRnFMUDY3Q3B5OVVJTEsxTFlJZW5QQ0gzaHdlNjdJS1BFbjJjQ1VlQQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-16T09:06:45.000Z",
+      "summary": "地瓜机器人CEO王丛强调具身智能竞争在于实打实交付，而非技术壁垒。",
+      "summaryZh": ""
+    },
+    {
+      "title": "How to Make an Invisible Drone",
+      "link": "https://spectrum.ieee.org/invisible-spinning-drone",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-16T16:09:21.000Z",
+      "summary": "AI设计实现隐形旋转无人机。",
+      "summaryZh": "",
+      "titleZh": "如何制作隐形无人机"
+    },
+    {
+      "title": "TerraFirma raises $115M to build robotic infrastructure for construction",
+      "link": "https://www.therobotreport.com/terrafirma-raises-115m-build-robotic-infrastructure-construction/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-16T18:51:40.000Z",
+      "summary": "TerraFirma获1150万美元投资，用于建设建筑机器人基础设施。",
+      "summaryZh": "",
+      "titleZh": "TerraFirma 筹集 1.15 亿美元用于建设建筑机器人基础设施"
+    },
+    {
+      "title": "无人车开上“丝绸之路”经济带，百度萝卜快跑全球化布局落子哈萨克斯坦",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LeFN0VXhFdVJELWF2T2x5YlZyYklnZEE3cmpPanJha2tXZ016dG11NE5ud3c1NFY1d1RzdmlTMlotd3I3RERiU1ZIakY4UWJVSTJVVDVrTzhRWkhBWVQ3aDUwcjU?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-07-16T12:50:00.000Z",
+      "summary": ""
     }
   ]
 }
