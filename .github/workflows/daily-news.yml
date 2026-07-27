@@ -43,6 +43,9 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Keyword regression test
+        run: node test-keywords.js || echo "::warning::keyword regression test failed — check keywords.json"
+
       - name: Fetch news
         # Belt-and-suspenders: kill node at 9min (SIGTERM) / 9.5min (SIGKILL) so a
         # runaway run can never hit the 10min step hard-limit (which marks the job red).

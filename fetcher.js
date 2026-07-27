@@ -89,19 +89,24 @@ function isLowQuality(title) {
   return SKIP_PATTERNS.some(p => p.test(title));
 }
 
+function escapeRe(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
+// Match a title against category keywords.
+// Latin keywords use WHOLE-WORD matching (non-alphanumeric boundaries) so a keyword can
+// never match inside another word — e.g. "SLAM" must NOT hit "Islamist", "AI" must NOT
+// hit "brain". CJK keywords use substring (Chinese has no word boundaries).
 function matchesKeywords(title, category) {
   if (!title) return null;
   const titleLower = title.toLowerCase();
-  const needBoundary = new Set(['ai', 'llm', 'nlp', 'gpt', 'amr', 'agv', 'ros', 'agi']);
   const categories = category ? [category] : Object.keys(keywords);
   for (const cat of categories) {
     const kw = keywords[cat];
     if (!kw) continue;
-    const allKeywords = [...(kw.zh || []), ...(kw.en || [])];
-    for (const keyword of allKeywords) {
+    for (const keyword of [...(kw.zh || []), ...(kw.en || [])]) {
       const kwLower = keyword.toLowerCase();
-      if (needBoundary.has(kwLower)) {
-        if (new RegExp(`\\b${kwLower}\\b`, 'i').test(title)) return cat;
+      const isLatin = /[a-z]/.test(kwLower) && !/[\u4e00-\u9fa5]/.test(kwLower);
+      if (isLatin) {
+        const re = new RegExp(`(^|[^a-z0-9])${escapeRe(kwLower)}([^a-z0-9]|$)`, 'i');
+        if (re.test(titleLower)) return cat;
       } else if (titleLower.includes(kwLower)) {
         return cat;
       }

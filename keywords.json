@@ -25,7 +25,12 @@
       "智能体",
       "大语言模型",
       "AIGC",
-      "Transformer"
+      "Transformer",
+      "文心一言",
+      "通义千问",
+      "豆包",
+      "混元",
+      "讯飞星火"
     ],
     "en": [
       "artificial intelligence",
@@ -48,7 +53,17 @@
       "transformer",
       "foundation model",
       "neural network",
-      "AGI"
+      "AGI",
+      "ChatGPT",
+      "Copilot",
+      "Sora",
+      "DeepSeek",
+      "Kimi",
+      "Midjourney",
+      "Grok",
+      "Llama",
+      "Qwen",
+      "Agent"
     ]
   },
   "robotics": {
