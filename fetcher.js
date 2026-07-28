@@ -415,6 +415,26 @@ async function aiCurate(items) {
   } catch { return items; }
 }
 
+// Focused same-event dedup over the FINAL shortlist (short list => high recall).
+// Groups items reporting the same event (same company + same announcement) even
+// when wording/angle/source differ, and keeps one item per group.
+async function aiDedupe(items) {
+  if (!LLM_KEY || items.length < 3) return items;
+  const list = items.map((it, i) => `${i}. ${it.title}`).join('\n');
+  const out = await llmChat(
+    `下面是今日入选新闻标题（带编号）。请找出报道“同一件事”的重复组：同一公司/产品的同一动作、发布或事件，即使措辞、角度、来源不同也算同一件事。例如“腾讯复活QQ宠物加码AI社交”“时隔8年QQ宠物回归”“QQ宠物全新升级接入Hy3大模型”是同一件事。每组只保留信息最完整的一条，其余的编号都要删除。不同公司、不同事件即使同场活动也不算重复。\n只输出一个 JSON 数组，列出所有要删除的编号（例如 [3,7]）；没有重复就输出 []。不要输出其他任何文字。\n\n${list}`,
+    500, '你是严格的中文新闻编辑，只输出 JSON 数组。');
+  try {
+    const m = out.match(/\[[\d,\s]*\]/);
+    if (!m) return items;
+    const drop = new Set(JSON.parse(m[0]).filter(n => Number.isInteger(n) && n >= 0 && n < items.length));
+    if (!drop.size) return items;
+    if (drop.size > items.length * 0.4) { console.log(`aiDedupe drop too large (${drop.size}), ignoring`); return items; }
+    console.log(`aiDedupe removed ${drop.size} same-event duplicate(s)`);
+    return items.filter((_, i) => !drop.has(i));
+  } catch { return items; }
+}
+
 function normTitle(t) {
   return (t || '').toLowerCase().replace(/[^一-龥a-z0-9]/g, '').slice(0, 24);
 }
@@ -570,6 +590,12 @@ async function main() {
       if (catCount[cat] >= CAT_MIN[cat]) break;
       tryAdd(it, Infinity);
     }
+  }
+
+  // Focused same-event dedup on the final shortlist (LLM; high recall on a short list).
+  if (LLM_KEY) {
+    const kept = await aiDedupe(selected);
+    if (kept.length && kept.length < selected.length) { selected.length = 0; selected.push(...kept); }
   }
 
   selected.sort((a, b) => scoreItem(b) - scoreItem(a));
