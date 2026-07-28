@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generatedAt": "2026-07-28T02:46:43.595Z",
+  "generatedAt": "2026-07-28T03:40:00.742Z",
   "items": [
     {
       "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
@@ -19,7 +19,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-28T02:03:36.000Z",
-      "summary": "比亚迪计划于八月发布人形机器人。",
+      "summary": "比亚迪计划八月发布人形机器人。",
+      "summaryZh": ""
+    },
+    {
+      "title": "先落地再变聪明！深度对话星炽动力：用“家电逻辑”重构具身机器人",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1fWmVwMUN3YzBZckNKdVlVQm9RUGRiek16dGZ0Q0RJdnNCWEJFQ0c2LTkxYlBrbXVOWEEwODFXMjhyeGJPZXc?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-27T11:48:46.000Z",
+      "summary": "星炽动力以家电逻辑重构具身机器人，实现全面量产，力图降低成本提升品质。",
       "summaryZh": ""
     },
     {
@@ -29,17 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-27T12:03:54.000Z",
-      "summary": "璇玑动力以全栈自研和规模化量产，推动机器人技术在电力、消防等领域的应用落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "深圳餐饮机器人公司，获融资亿元，招商局投了",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5EVDNJQlZGRS1qOTZGWm93enZWVFBHX1ZYNlIwQXVKUHlpYVlHaUNWY0x6UzNKYUZjVlFHQXlsa2JGWWtMWVE?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-28T01:19:40.000Z",
-      "summary": "深圳餐饮机器人公司智谷天厨获招商局亿元投资，加速全球布局。",
+      "summary": "璇玑动力通过全栈自研和规模化量产，实现机器人从核心零部件到整机系统的完整链条落地。",
       "summaryZh": ""
     },
     {
@@ -53,13 +53,13 @@
       "summaryZh": ""
     },
     {
-      "title": "QQ 宠物全新升级归来，接入腾讯 Hy3 大模型",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RQ1J2WG5fU0wyblhkdmM1VnFJUno0RXJpZWhXVkJmVUVfSUxwOVNmSndmejFMZi1teTV2MkZ4S0pGTG15cF8tal9OWjE?oc=5",
+      "title": "荣耀 Robot Phone 首发自研影像芯片“驭光 H1”，与阿莱合作影像系统将下放至 Magic9 等手机",
+      "link": "https://www.ithome.com/0/982/445.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-27T05:59:01.000Z",
-      "summary": "QQ宠物升级接入腾讯Hy3大模型，实现3D形象和沉浸式养宠体验。",
+      "category": "robotics",
+      "pubDate": "2026-07-28T03:19:02.000Z",
+      "summary": "荣耀Robot Phone首发自研影像芯片“驭光H1”，与阿莱合作影像系统将下放至Magic9等手机。",
       "summaryZh": ""
     },
     {
@@ -79,7 +79,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-27T04:29:38.000Z",
-      "summary": "DeepSeek主动暂停第二轮融资签约，计划募资百亿。",
+      "summary": "DeepSeek主动暂停第二轮融资签约，原计划募资百亿。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI越懂你，风险越大：长期记忆为何成为情感大模型的第一道生死线？",
+      "link": "https://www.tmtpost.com/8081053.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-28T02:51:33.000Z",
+      "summary": "长期记忆成为情感AI风险关键，需确保记忆更新、可纠正、可删除。",
       "summaryZh": ""
     },
     {
@@ -89,17 +99,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-28T01:30:44.000Z",
-      "summary": "AMD与Anthropic签署AI服务器合作协议，挑战英伟达在AI芯片市场的地位。",
-      "summaryZh": ""
-    },
-    {
-      "title": "亿田智能算力狂飙之惑：一边收缩变现，一边加码扩产",
-      "link": "https://www.tmtpost.com/8081330.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-27T13:53:33.000Z",
-      "summary": "亿田智能算力投资规模激增，同时收缩变现，市场对其转型策略存疑。",
+      "summary": "AMD与Anthropic签署AI服务器合作协议，总额达数百亿美元，标志着AI算力供应链独立于英伟达。",
       "summaryZh": ""
     },
     {
@@ -158,7 +158,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-27T14:00:00.000Z",
-      "summary": "国务院国资委发布2026央企人工智能系列成果，推进AI赋能实体经济。",
+      "summary": "国务院国资委发布2026央企AI战略成果，推动AI赋能实体经济。",
       "summaryZh": ""
     },
     {
@@ -168,8 +168,18 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-27T20:17:21.000Z",
-      "summary": "特朗普政府确定人工智能模型提交框架。",
-      "summaryZh": ""
+      "summary": ""
+    },
+    {
+      "title": "ChatGPT starts blocking direct requests to copy an author's style",
+      "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-27T16:58:46.000Z",
+      "summary": "ChatGPT拒绝直接模仿著名作家风格生成文本。",
+      "summaryZh": "",
+      "titleZh": "ChatGPT 开始阻止复制作者风格的直接请求"
     },
     {
       "title": "自变量机器人获邀出席 APEC 活动，代表中国具身智能提出三点倡议，让技术走进千家万户",
@@ -181,15 +191,53 @@
       "summary": ""
     },
     {
+      "title": "人形机器人，拼脑子的时候到了",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zVFA4NjJrUnB2b2ptZUlIX3J0cW1Tc3ZIT2lRRDR3QUJIZDR4OTdERTdTU0ExZmVabTRuWm5iWnRhTW5hckhyRzl5cnVzU3pMUmRyelA5ZHR5X0pzLVE?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-27T06:45:00.000Z",
+      "summary": "中国AI公司发布全球最大开源模型，人形机器人领域竞争加剧。",
+      "summaryZh": ""
+    },
+    {
+      "title": "人形机器人产业化的挑战与应对_视频",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Ya0EwNjRaSVhkTUs5emdiczNNWTY3YXZxa2VlUWFTeVR1VG9kSkU2WkJGRHA0akpuMXFsSm1VOFJUalMtQ3VmNGppeGZzclNHS0Ffdg?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-27T08:23:45.000Z",
+      "summary": "人形机器人产业化面临技术挑战，需加强核心模块和通信技术。",
+      "summaryZh": ""
+    },
+    {
+      "title": "零次方亮相WAIC 2026：具身智能物理抓取API首秀，机器人在真实世界持续进化",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PTDk2Q3dGd1lJM0F6VkxMTVBPbEk4Z0NTR2Y1cmVxVzhPZjA0TFZSdVBCaUN4Y2JYSEU2THE2QzRzaUtRdmhRUFh6VHBPdUR3LTFEOTloYWtUVjdhUVVTc29sRQ?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-27T03:53:00.000Z",
+      "summary": ""
+    },
+    {
       "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
       "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
       "source": "TechCrunch",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-27T13:00:00.000Z",
-      "summary": "Enigma获7100万美元融资，旨在简化机器人控制。",
+      "summary": "Enigma机器人公司获7100万美元融资，旨在简化机器人控制。",
       "summaryZh": "",
       "titleZh": "Enigma 筹集了 7100 万美元，让控制机器人就像调节音量一样简单"
+    },
+    {
+      "title": "美国AI数据中心的债，都是养老金在背",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfd2RXV1R6VTZyMF91YkkzVTZUXzJWRjUtbU9tR2Z4M2czQ2JlUHJHblRfX2VlaXp0aWhleWI5a093WWZQN2xaZ1JTSDZHQnZycUE?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-07-28T03:36:07.000Z",
+      "summary": ""
     },
     {
       "title": "机器人产业掘金“情绪经济”",
@@ -198,17 +246,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-27T05:48:59.000Z",
-      "summary": "机器人产业借助情感计算技术，开拓“情绪经济”市场，市场规模预计2029年将突破4.5万亿元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "上海交大材料硕士创业8个月，盯上镁合金机器人关节：液氮罐救不了的场，它能救吗？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PSlFDTXlDTTZNS1VPZ0VlZWlYT0lrOFBpR0FIdjZDM19VMXNOc1lnMnJhbEZiTFFOc2M3d3NubnR4cEpPRDFkbXF6cEl0c1k3QlF6QmdWOA?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-27T05:18:59.000Z",
-      "summary": "上海交大硕士创业公司研发镁合金机器人关节，解决散热难题。",
+      "summary": "机器人产业借助情感智能技术，开拓“情绪经济”新增长点。",
       "summaryZh": ""
     },
     {
@@ -219,16 +257,6 @@
       "category": "application",
       "pubDate": "2026-07-27T13:23:00.000Z",
       "summary": "文旅人才市场新风向：AI能力成必备加分项。",
-      "summaryZh": ""
-    },
-    {
-      "title": "APEC嘉宾走进卡诺普，见证成都机器人产业的时代进阶",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81XzhOanpMQ0dlX0RicS1iQXlmUWtObFBEb2RGQVk1SWktT3pOTVIyRE1pLUtCWDNxaGIteFJLbUk1UFo3d1FTQXRRNHMzSDdZTHVqVGxPTWk5dS0wcng2aHZhcENSUFJOVkh3dDN3MGRLdTRoQ2Y3dA?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-27T03:32:00.000Z",
-      "summary": "APEC嘉宾参观成都卡诺普，见证机器人产业从跟跑到领跑的进阶。",
       "summaryZh": ""
     },
     {
@@ -252,23 +280,13 @@
       "summaryZh": ""
     },
     {
-      "title": "100%自动驾驶业务，却自称全球物理AI第一股，上市破发三年累亏92亿",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GbE9RMWt1WXVSSFRFWm1FVlJPRUhXUGNXYmJ1QTdpR0FsSWU2Mm1sal9kY3NnaUFmYXlzcS02NFMwQnpFS3BZSWlsVzV6Qkl5dzV6M21rT2x0U3JmR29KblpVRGp1d2I4NWM0bFRn?oc=5",
-      "source": "腾讯新闻",
+      "title": "山东政法学院与文登区文旅局共建大学生社会实践基地",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zT1hXQTBiZV81VTlqUmpfeGFjdkg4OU50LUtEbzRaZG9YM0o1Sng3UGpPWUxPZnJSSzZxWlIydjY3eVFsN0JfMWVXQ3Z2RFpPRHV1Sy1UM28tUGYtN1ZtdUY2dTdtR1dyNTJfVjdn?oc=5",
+      "source": "央广网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-27T08:54:00.000Z",
-      "summary": "自动驾驶企业Momenta上市三年累亏92亿，股价不及发行价。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国产手术机器人出口额大增330% “新新三样”圈粉全球",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpTjJibk1rLWE5aWR6eFRnaXNRc0xvQUJ5OXBqVG5HdVR4UzMzQU5qd0JVTFg3TXVaSDNFdm1ub1VveDUyVW9xYVduN3MyUXRGc2s1eFB4SmRSd3poT0toR2xJQlpTU1Nna0VmTURCZw?oc=5",
-      "source": "中国经济网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-28T01:12:00.000Z",
-      "summary": "国产手术机器人出口额增长330%，助力“新新三样”全球圈粉。",
+      "category": "application",
+      "pubDate": "2026-07-27T05:36:18.000Z",
+      "summary": "山东政法学院与文登区文旅局共建大学生社会实践基地。",
       "summaryZh": ""
     },
     {
@@ -278,7 +296,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-07-27T06:42:00.000Z",
-      "summary": "腾讯QQ宣布QQ宠物回归，新版本接入混元Hy3大模型，形象动作更自然。",
+      "summary": "腾讯QQ宣布QQ宠物回归，新版本升级3D形象并接入混元Hy3大模型。",
       "summaryZh": ""
     }
   ]
