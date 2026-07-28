@@ -1,17 +1,7 @@
 {
   "date": "2026-07-29",
-  "generatedAt": "2026-07-28T22:28:56.090Z",
+  "generatedAt": "2026-07-28T23:42:35.009Z",
   "items": [
-    {
-      "title": "2026年AI Agent私域落地调研：三类智能体建设路径适配企业需求详解",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2ZGcydDh5UEZMQW1UTThLZkFGRExhX3pUVldQc0hfTnN4NWp5RFlUS1N1b1FRVHlnRDdPWnplWWM4dE85cy1QV1ljU0k?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-28T09:06:11.000Z",
-      "summary": "2026年AI Agent私域落地调研揭示三类智能体建设路径满足企业需求。",
-      "summaryZh": ""
-    },
     {
       "title": "UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资",
       "link": "https://36kr.com/p/3913213962540164?f=rss",
@@ -23,13 +13,13 @@
       "summaryZh": ""
     },
     {
-      "title": "立昂技术：拟募资不超2.55亿元，用于立昂云数据人工智能算力资源池项目等",
-      "link": "https://36kr.com/newsflashes/3915250409270665?f=rss",
+      "title": "OpenAI在API中引入了两种新的转录模型",
+      "link": "https://36kr.com/newsflashes/3915932514496136?f=rss",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-28T12:15:35.000Z",
-      "summary": "立昂技术计划募资不超过2.55亿元，用于人工智能算力资源池项目等。",
+      "pubDate": "2026-07-28T23:32:32.000Z",
+      "summary": "OpenAI API新增两种转录模型，提升音频理解与转录准确性。",
       "summaryZh": ""
     },
     {
@@ -43,13 +33,23 @@
       "summaryZh": ""
     },
     {
-      "title": "前沿 AI 模型限制令生效之际，OpenAI 奥尔特曼本周将赴华盛顿",
-      "link": "https://www.ithome.com/0/982/779.htm",
+      "title": "OpenAI 引入两种转录模型：低延迟、更好理解上下文",
+      "link": "https://www.ithome.com/0/982/801.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-28T14:58:54.000Z",
-      "summary": "OpenAI CEO奥尔特曼将赴华盛顿讨论AI政策及最新模型。",
+      "pubDate": "2026-07-28T23:01:33.000Z",
+      "summary": "OpenAI发布两种转录模型，GPT-Live-Transcribe和GPT-Transcribe，支持低延迟和更准确理解上下文。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI 模型失控受害者不仅只有抱抱脸，Modal Labs 确认一名客户被黑",
+      "link": "https://www.ithome.com/0/982/800.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-28T22:59:56.000Z",
+      "summary": "Modal Labs确认客户被OpenAI失控模型入侵。",
       "summaryZh": ""
     },
     {
@@ -69,7 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-28T14:30:35.000Z",
-      "summary": "前Kimi AI搜索负责人曾歆勋创立的AI婚恋创业公司良配科技，3小时内获得风投女王徐新千万投资。",
+      "summary": "前Kimi AI搜索负责人曾歆勋创立的AI婚恋创业公司良配科技，3小时获得风投女王徐新千万投资。",
       "summaryZh": ""
     },
     {
@@ -89,16 +89,6 @@
       "category": "robotics",
       "pubDate": "2026-07-28T09:37:24.000Z",
       "summary": "前华为、百度高管创立的具身智能公司正奇未来完成数亿元天使轮融资。",
-      "summaryZh": ""
-    },
-    {
-      "title": "告别PPT时代，消费场景加速落地，具身智能迎来“洗牌”",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlNk5KRTJXRUFEWUdPQ3JNb0ZuSWc3VDhyRG5sYVB5UHdKeW9DRS0wMzExWEFHaUVQbzNCY0s5LUwzUHluU2ZhRzBsLWlhbXF2Y1hqUnplMnl6NkhiV0NXWTVCLWRmQQ?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-28T02:58:10.000Z",
-      "summary": "具身智能产业加速落地，迎来资本密集和行业洗牌。",
       "summaryZh": ""
     },
     {
@@ -127,7 +117,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-28T08:03:59.000Z",
-      "summary": "中国大模型性价比高，性能强，引发海外关注，或改写AI应用生态。",
+      "summary": "中国大模型性价比高，海外受关注，或改变AI应用生态。",
       "summaryZh": ""
     },
     {
@@ -160,7 +150,7 @@
       "summary": ""
     },
     {
-      "title": "How integrated actuators improve humanoid robot joint performance and systemintegration",
+      "title": "How integrated actuators improve humanoid robot joint performance and system integration",
       "link": "https://www.therobotreport.com/how-integrated-actuators-improve-humanoid-robot-joint-performance-and-system-integration/",
       "source": "The Robot Report",
       "lang": "en",
@@ -177,7 +167,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-07-28T14:06:29.000Z",
-      "summary": "机器人自动化企业可通过GEO、AEO等优化策略提升在ChatGPT等AI助手搜索结果中的可见度。",
+      "summary": "机器人自动化企业可借助GEO、AEO等优化策略提升在ChatGPT等AI助手搜索结果中的可见度。",
       "summaryZh": "",
       "titleZh": "机器人和自动化公司如何提高其在 ChatGPT、Gemini 和 Perplexity 搜索结果中的可见度？"
     },
@@ -197,17 +187,17 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-07-28T09:58:30.000Z",
-      "summary": "TripGuru.ai与广州酷旅合作，共建跨境旅游AI新生态。",
+      "summary": "TripGuru.ai与广州酷旅合作，共建跨境旅游AI新生态，推动美国旅游市场智能化升级。",
       "summaryZh": ""
     },
     {
-      "title": "具身智能将真正迎来“iPhone 时刻”：为什么是上纬新材？",
-      "link": "https://www.tmtpost.com/8082395.html",
-      "source": "钛媒体",
+      "title": "人形机器人“疯狂一周”：智元赴港、宇树登《时代》、日本拆机认输……",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HbkJ6Rlc2QjlscFFxTWIxZDVITVcyU1FEbXVCSzBEcGFiZUtXYkFYSUJXNVlkaVRXSUVfTWYxQVFRTmdCXzNicEtfUzh4bzlLY1lFc1JLYw?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-28T11:34:52.000Z",
-      "summary": "上纬新材凭借材料基因，推动人形机器人量产，引领具身智能进入“iPhone时刻”。",
+      "pubDate": "2026-07-28T07:21:30.000Z",
+      "summary": "人形机器人领域一周内发生多件大事，智元赴港上市、宇树登《时代》封面，日本拆机认输。",
       "summaryZh": ""
     },
     {
@@ -230,15 +220,15 @@
       "summary": ""
     },
     {
-      "title": "The robot NASA hired to lift a orbital telescope is tumbling out of control",
+      "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
       "link": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
       "source": "TechCrunch",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-28T19:07:31.000Z",
-      "summary": "NASA租用的机器人失控，无法提升轨道望远镜。",
+      "summary": "NASA租用的机器人失控坠落，导致太空望远镜提升任务受阻。",
       "summaryZh": "",
-      "titleZh": "美国宇航局雇佣来举升轨道望远镜的机器人失控翻滚"
+      "titleZh": "美国宇航局雇佣来举升轨道望远镜的机器人失控翻倒"
     },
     {
       "title": "信用体系建设助推杭州家政服务业高质量发展",
