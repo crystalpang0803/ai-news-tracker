@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generatedAt": "2026-07-28T03:40:00.742Z",
+  "generatedAt": "2026-07-28T05:26:13.129Z",
   "items": [
     {
       "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
@@ -13,13 +13,23 @@
       "summaryZh": ""
     },
     {
-      "title": "比亚迪：人形机器人计划八月发布",
-      "link": "https://36kr.com/newsflashes/3914665427899523?f=rss",
+      "title": "“抱抱脸”向OpenAI索赔1亿美元算力",
+      "link": "https://36kr.com/newsflashes/3914833773204610?f=rss",
       "source": "36氪",
       "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-28T04:54:51.000Z",
+      "summary": "“抱抱脸”向OpenAI索赔1亿美元算力，要求公开智能体轨迹。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国内首个能“飞檐走壁”的具身智能特种机器人亮相，还有“六臂玄甲”",
+      "link": "https://www.ithome.com/0/982/503.htm",
+      "source": "IT之家",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-28T02:03:36.000Z",
-      "summary": "比亚迪计划八月发布人形机器人。",
+      "pubDate": "2026-07-28T04:54:45.000Z",
+      "summary": "国内首款攀爬型具身智能特种机器人亮相，具备六臂多功能操作。",
       "summaryZh": ""
     },
     {
@@ -29,27 +39,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-27T11:48:46.000Z",
-      "summary": "星炽动力以家电逻辑重构具身机器人，实现全面量产，力图降低成本提升品质。",
+      "summary": "星炽动力以家电逻辑重构具身机器人，实现全面量产并力争年底千台交付。",
       "summaryZh": ""
     },
     {
-      "title": "全栈自研路线、规模化量产交付，拆解这家机器人黑马的落地路径",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8xQTFZNGVGOVBPNERQRlBrdC1kVmRMdjJVTElPRDg5eV95X2oteWdQWjhJVm1IZ0JESm51RzFpbFVJbUNPTFE?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-27T12:03:54.000Z",
-      "summary": "璇玑动力通过全栈自研和规模化量产，实现机器人从核心零部件到整机系统的完整链条落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "大模型重塑企业AI电销机器人：知微联智以自主研发推动智能化落地",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SQ0F3MjhPUEhrTzBveFVWcUoya003eWRaekZLdU51Zm1nUWIwQTRGTThmV05kNEJxS18ycDNyVFBBYTkyQU5tZGxEYWM?oc=5",
-      "source": "IT之家",
+      "title": "我国启动人工智能大模型IPv6能力提升专项行动",
+      "link": "https://36kr.com/newsflashes/3914821555213443?f=rss",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-28T02:17:22.000Z",
-      "summary": "知微联智推出大模型AI电销机器人，提升企业电话营销智能化水平。",
+      "pubDate": "2026-07-28T04:42:25.000Z",
+      "summary": "我国启动专项行动提升人工智能大模型IPv6能力。",
       "summaryZh": ""
     },
     {
@@ -63,23 +63,13 @@
       "summaryZh": ""
     },
     {
-      "title": "杭州：拟适当超前布局算力网、新型电网、新一代通信网等新型设施",
-      "link": "https://36kr.com/newsflashes/3914706682254473?f=rss",
-      "source": "36氪",
+      "title": "月耗万亿Token：金山办公为什么不自己训练大模型",
+      "link": "https://www.tmtpost.com/8081855.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-28T02:45:34.000Z",
-      "summary": "杭州拟超前布局算力网、新型电网等新型设施。",
-      "summaryZh": ""
-    },
-    {
-      "title": "DeepSeek被曝主动叫停了第二轮融资签约",
-      "link": "https://www.qbitai.com/2026/07/461220.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-27T04:29:38.000Z",
-      "summary": "DeepSeek主动暂停第二轮融资签约，原计划募资百亿。",
+      "pubDate": "2026-07-28T04:18:00.000Z",
+      "summary": "金山办公CEO章庆元表示，公司不投入基础大模型训练，专注模型应用层，推出独立AI办公助理灵犀专业版。",
       "summaryZh": ""
     },
     {
@@ -93,33 +83,13 @@
       "summaryZh": ""
     },
     {
-      "title": "AMD，撬动AI芯片的旧格局？",
-      "link": "https://www.tmtpost.com/8076049.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-28T01:30:44.000Z",
-      "summary": "AMD与Anthropic签署AI服务器合作协议，总额达数百亿美元，标志着AI算力供应链独立于英伟达。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI前首席科学家创办的AI公司SSI获英伟达投资；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jcEwyS3JmMGtzb29pR01TVkw0QjZnQzZKTlpkbm00eHhfQ3lReGNqak93Rm9fQUoxb1Q4YU9WdENsRlFybHh0ZmkyZWNBZjRzYVR6NnBxVWw?oc=5",
+      "title": "人工智能ETF华富(515980)整固蓄势，美股科技巨头AI资本开支仍在加码，AI算力基础设施进入全栈竞争阶段",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45RUxWMVRNSGNpWkFnX0pkVFM4OTZqRkNNeHdfRFp2U05xbXQ0WXJwQnB3YUdiaTlnX3JTUVpfYmNUa1F2eWUxLVhDdWhsR0hobWRHSmlB?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-28T00:25:11.000Z",
-      "summary": "英伟达投资OpenAI前首席科学家创办的AI公司SSI，并与多家企业成立AI安全联盟。",
-      "summaryZh": ""
-    },
-    {
-      "title": "新思科技携微软推出AI芯片设计自主智能体工作流，加速芯片研发",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeXpHS0pjNHVOc09kd1Y4UFl6QTBwQmtVdFlxRFg2b3NMUGVlOWp6SDZwWGthTFBVZTNUZHRRT3h3QXIyQ2w5OGtlMC0zSmhoV081TXRB?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-27T23:53:02.000Z",
-      "summary": "新思科技与微软合作推出AI芯片设计自主智能体工作流，旨在加速芯片研发。",
+      "pubDate": "2026-07-28T05:13:09.000Z",
+      "summary": "人工智能ETF华富整固蓄势，美股科技巨头AI资本开支增加，AI算力基础设施竞争加剧。",
       "summaryZh": ""
     },
     {
@@ -129,46 +99,67 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-27T07:01:08.000Z",
-      "summary": "连连数字与银联国际合作，推动全球采购智能体支付落地。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
-      "title": "不改造门店、不换设备，上海DQ门店试水机器人员工，Sharpa到底在押注什么？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GbmN2TS1YMGc4eWROS1phZ3dMQXgyMVVURjdhd3RQc3I5NTR2alhFVllCN211N1ZOTzF6QWszdTJIaHkyWmhTcnFTLXFaMl9hNlIwM1B4Zw?oc=5",
-      "source": "与非网",
+      "title": "大摩警告AI存储狂欢接近拐点？智元机器人启动赴港IPO流程！下半年黄金白银怎么看？丨20260728从华尔街到陆家嘴",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaWF9Xd0lPOTViMDBYenNFcS15MVFwV3JpNmhEbUdhUFRFS3lCc0owQTB2SENHb0RWOWhoaDlGeVlvbC1BWTdOV1l0Q0paLVdPcTVTUg?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-27T05:20:02.000Z",
-      "summary": "上海DQ门店试水机器人员工，Sharpa押注机器人适应人类环境。",
+      "pubDate": "2026-07-28T03:31:58.000Z",
+      "summary": "摩根士丹利警告AI存储行业狂欢接近拐点，智元机器人启动赴港IPO流程。",
       "summaryZh": ""
     },
     {
       "title": "Xsignal发布2026年上半年全球AI应用发展分析报告：AI竞争从模型转向智能体与产业应用落地",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VWVFqU2Y2YUdycWNub0ZBenBaVlgzcVZyRlYtYzktWTE0SldvUlRCTURrZl9FVHV6U1ZTVmNVbUFORllPOGM0QkRpWm8zczBjdnRwdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQl9ya3Fyb250Q0p6TUVyNjF0MzBpLTI0MXNOaWlzVVUwSkp5RzlhN0N1ZnFTTEo5Nnc4b0tZUGtYNXlsOGZPWUhFWEtad21jNHdLVmkwUWZwc25LaWRSVkU1bnJQZE5zRW1yeFFpUk1GWU5DX2tHQXNfZ3Fuandub0FUWjBSMndqSy04?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-27T08:18:26.000Z",
-      "summary": ""
-    },
-    {
-      "title": "国务院国资委发布2026央企人工智能战略性高价值场景等系列成果",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zZ3Jxc0lXWTdHczRKV284VkRzOUkzbWg4ZkZDOHRHemJGdTVSMmtpcEFmZTFoWENzZHdsRXpWbFBES0doa0xPMXlSYlFwbGZsckJHYg?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-27T14:00:00.000Z",
-      "summary": "国务院国资委发布2026央企AI战略成果，推动AI赋能实体经济。",
+      "summary": "2026年上半年，全球AI应用竞争转向智能体与产业应用落地。",
       "summaryZh": ""
     },
     {
-      "title": "财联社7月28日电，据报道，美国总统特朗普政府正在最终确定人工智能模型提交框架。",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SZHdWcHZndzJBNXM0Z1k4SWpOelltRXZIeHJ5eEJENmJ6cWZ6ZE5XZmlkVXQyeHlYNnFQM0hEZzN6eUFaY1cwTg?oc=5",
-      "source": "财联社",
+      "title": "AI概念股观察｜7月28日早盘港股大模型股普跌，调整期更考验商业化兑现",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nbzgzOHQ1NkZscDY0RF9QRWJTU0F4WFVBUEd3b0NHYmFoX002M3UxY3k4dWExa1ZLRmZjOG9TOWFQM1lQc05oaXc4eUk1Ri1ZYVZNWGk0WWg?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-27T20:17:21.000Z",
-      "summary": ""
+      "pubDate": "2026-07-28T04:43:10.000Z",
+      "summary": "7月28日港股大模型股普遍下跌，市场关注商业化兑现能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQRGYzeWhVRW5VWUVIemI5QTFxd19ZUnpzb1dkcHVjZ1hsYTdiU1VTckF0c09zMmxzYWVPN1ZNOWUzUHVYRXNR?oc=5",
+      "source": "晚点LatePost",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-28T02:05:11.000Z",
+      "summary": "SAP总裁原欣探讨AI对企业软件的冲击与边界。",
+      "summaryZh": ""
+    },
+    {
+      "title": "戴伟民：国产AI芯片的历史机遇",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00VzJEWFJPRWxLNm5saEkxNnZLbTFvTjJpSExGQXc1cS1tUHVHa0Nocm85QXV6VUUxSGY2eVJrY1pOV3NMN1Zvb0pmWmxYVWdTVjNCWg?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-28T05:18:46.000Z",
+      "summary": "戴伟民探讨国产AI芯片的历史机遇。",
+      "summaryZh": ""
+    },
+    {
+      "title": "阿里云真武超节点适配Kimi K3大模型，双方展开国产算力合作",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvM2NlUXoxUkhrSWRyR3ZQVG5ydFM1dklWR2hCMUFURm9GTUlGN00wWmRRSExnQWNUYjFVY3JnLVRqUGppUWlJUzhPWEJvdEZwSkh5dEQ3cTNMSTd6WGstXzhZUzZEdw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-28T02:30:00.000Z",
+      "summary": "阿里云真武超节点适配Kimi K3大模型，双方展开国产算力合作。",
+      "summaryZh": ""
     },
     {
       "title": "ChatGPT starts blocking direct requests to copy an author's style",
@@ -177,9 +168,19 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-07-27T16:58:46.000Z",
-      "summary": "ChatGPT拒绝直接模仿著名作家风格生成文本。",
+      "summary": "ChatGPT拒绝直接模仿著名作者风格生成文本。",
       "summaryZh": "",
       "titleZh": "ChatGPT 开始阻止复制作者风格的直接请求"
+    },
+    {
+      "title": "APEC秘书处执行主任：中国AI规模化落地惠及亚太各经济体",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLTY4Qi1pSkZ4M2pxalNLYjk4V2puWDhsRDlvMjhGMWhxRERmb1RLQVRsdDdqbFBfRnBvSlhETmdVc2FmYzFrc0dHUHpHUDJUcVFoVjlUOWlDS1B3NGZtNkFxdFNnb0tjN0lNLTV4ajcyYWpQejZyd181Q1g1NFFMbUtncGZiYVh3RVlHWjZDbE1kRTln?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-07-28T04:44:58.000Z",
+      "summary": "中国AI规模化落地助力亚太经济体发展。",
+      "summaryZh": ""
     },
     {
       "title": "自变量机器人获邀出席 APEC 活动，代表中国具身智能提出三点倡议，让技术走进千家万户",
@@ -189,16 +190,6 @@
       "category": "robotics",
       "pubDate": "2026-07-27T07:21:40.000Z",
       "summary": ""
-    },
-    {
-      "title": "人形机器人，拼脑子的时候到了",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zVFA4NjJrUnB2b2ptZUlIX3J0cW1Tc3ZIT2lRRDR3QUJIZDR4OTdERTdTU0ExZmVabTRuWm5iWnRhTW5hckhyRzl5cnVzU3pMUmRyelA5ZHR5X0pzLVE?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-27T06:45:00.000Z",
-      "summary": "中国AI公司发布全球最大开源模型，人形机器人领域竞争加剧。",
-      "summaryZh": ""
     },
     {
       "title": "人形机器人产业化的挑战与应对_视频",
@@ -211,13 +202,14 @@
       "summaryZh": ""
     },
     {
-      "title": "零次方亮相WAIC 2026：具身智能物理抓取API首秀，机器人在真实世界持续进化",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PTDk2Q3dGd1lJM0F6VkxMTVBPbEk4Z0NTR2Y1cmVxVzhPZjA0TFZSdVBCaUN4Y2JYSEU2THE2QzRzaUtRdmhRUFh6VHBPdUR3LTFEOTloYWtUVjdhUVVTc29sRQ?oc=5",
-      "source": "中国经营网",
+      "title": "智能仓储机器人电池如何选择？动力系统技术要求解析",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yMEVoOENRdnMzT3FhYkRyWWNNcVhIOGFsek5lbnI1M2REQVRia2g0OVBMTWRYYjZDS0ZYcURiSE90SjhoQThMTDZDS0Ytc0FQYUpWVHhGMA?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-27T03:53:00.000Z",
-      "summary": ""
+      "pubDate": "2026-07-27T08:38:28.000Z",
+      "summary": "智能仓储机器人专用电池需满足长循环寿命、稳定输出、快速充电等要求。",
+      "summaryZh": ""
     },
     {
       "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
@@ -240,13 +232,23 @@
       "summary": ""
     },
     {
+      "title": "晶采观察丨避暑游升温 乡村何以成暑期文旅“顶流”？",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUUTlBLXZjXzFzaGoxS0wybC12X0JwejB1M21aSzA4dmM2LVJPOUFMc1RYM2IyeXJrZ2JNTTNabU9jZUdpUlZTalF4LUpZWnQ1UTdUbw?oc=5",
+      "source": "腾讯科技",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-07-27T10:09:00.000Z",
+      "summary": "乡村避暑游成为暑期文旅“顶流”，游客停留时长拉长，消费模式转变。",
+      "summaryZh": ""
+    },
+    {
       "title": "机器人产业掘金“情绪经济”",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeGt0WGQtN1dwdzZqYTZheXRVRFN6REM1dFB2LVpBZ2FPelFseE11VHNaYVNEY2o5bkdHdUFxR3BOVWZTczhyTEgtaWpOX3hFbzJzNmRCcUUtQzdiOEsxWmtUajlhSzZPa2RvdEtMS1BuX3J0bmxONDZ3V092Y09QT3JjaEc?oc=5",
       "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-27T05:48:59.000Z",
-      "summary": "机器人产业借助情感智能技术，开拓“情绪经济”新增长点。",
+      "summary": "机器人产业依托情感计算技术，开拓“情绪经济”新增长点。",
       "summaryZh": ""
     },
     {
@@ -256,17 +258,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-07-27T13:23:00.000Z",
-      "summary": "文旅人才市场新风向：AI能力成必备加分项。",
-      "summaryZh": ""
-    },
-    {
-      "title": "腾讯“复活”QQ宠物！加码AI社交",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc3RDSzA5d3BPUndPa2s5M0dCTjBBNjg5QmVDMFBBQXRSTlpJb1pHbTdaeElPX3FxanJoWGdSdWVadzhDUEhDV2U0cGFjNkQzNDZ0bWJMMWVRTmpVOURjNUpuQkZSeW9DeFBDY2gxVW9FZC1KaEF5andGVDNmc0Jkb0VVVG0zdGNBNmtWYw?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-07-27T07:49:00.000Z",
-      "summary": "腾讯QQ宠物焕新回归，引入AI社交功能。",
+      "summary": "文旅人才市场重视AI能力，成为求职加分项。",
       "summaryZh": ""
     },
     {
@@ -276,28 +268,27 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-07-27T06:31:00.000Z",
-      "summary": "美团CatPaw全新上线，助力商家数字化经营，提升效率。",
+      "summary": "美团CatPaw全新上线，助力商家数字化经营。",
       "summaryZh": ""
     },
     {
-      "title": "山东政法学院与文登区文旅局共建大学生社会实践基地",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zT1hXQTBiZV81VTlqUmpfeGFjdkg4OU50LUtEbzRaZG9YM0o1Sng3UGpPWUxPZnJSSzZxWlIydjY3eVFsN0JfMWVXQ3Z2RFpPRHV1Sy1UM28tUGYtN1ZtdUY2dTdtR1dyNTJfVjdn?oc=5",
-      "source": "央广网",
+      "title": "AMD的物理AI棋局：从机器人“身体”到“大脑”，远不止一颗芯",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NY2w3VXBDZGRUNi1CVHN6YTNBYzR1aHJlNFRtZVJfZl9oNjhKMjdDZC1xUVh4dmM3WHhKeHRkUUVETEwzc3l4LVFoZ0RfTWRBamExcU9B?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-07-27T05:36:18.000Z",
-      "summary": "山东政法学院与文登区文旅局共建大学生社会实践基地。",
+      "category": "robotics",
+      "pubDate": "2026-07-27T10:02:00.000Z",
+      "summary": "AMD在AAI 2026大会上推出全栈AI计算方案，涵盖从芯片到软件，助力物理AI发展。",
       "summaryZh": ""
     },
     {
-      "title": "时隔8年，QQ宠物回归",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pN0NQOGtFLVlJU053bWJjNGdIeEJNejM0N09SemxwV0YtUzRsN1ZlLW5oTHB5VHBrcWNkcDE3NmNxUV9TWVdTYWtMTmtESGxyd0ViSXdNMnZQQU9xZlc1eEl3R28?oc=5",
-      "source": "新京报",
+      "title": "中国探索引进境外高水平家政职业院校来华办学 已有菲律宾机构展开培训",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10a3FtdllRbHlGZ2pNRG9VS282Z2ZrZWtDUGlOVi1qb0pnYW1JQmhfNVZzYXhrMmJTQUtrWUFtakh6ZmZPMFRSYjZlazljeDZmM0Z3TnFCX1hMdlk1QXpra3BB?oc=5",
+      "source": "中国经营网",
       "lang": "zh",
       "category": "application",
-      "pubDate": "2026-07-27T06:42:00.000Z",
-      "summary": "腾讯QQ宣布QQ宠物回归，新版本升级3D形象并接入混元Hy3大模型。",
-      "summaryZh": ""
+      "pubDate": "2026-07-27T12:34:00.000Z",
+      "summary": ""
     }
   ]
 }
