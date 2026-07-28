@@ -369,6 +369,33 @@ async function aiSummarize(title, text) {
   return cleanSummary(out);
 }
 
+// Give a selected item a whole-article one-liner.
+// With an LLM key: fetch the real article and summarize to one Chinese sentence.
+// Without a key: fall back to the article's meta description. Best-effort.
+async function enrichSummary(item) {
+  try {
+    let realUrl = item.link;
+    if (/news\.google\.com/.test(item.link || '')) {
+      const resolved = await resolveGoogleNewsUrl(item.link);
+      if (resolved) realUrl = resolved;
+    }
+    let html = '';
+    try { html = await fetchText(realUrl, 'text/html'); } catch { html = ''; }
+    if (LLM_KEY) {
+      const text = extractArticleText(html);
+      if (text && text.length > 80) {
+        const s = await aiSummarize(item.title, text);
+        if (s) { item.summary = s; item.summaryZh = ''; return; }
+      }
+    }
+    if (html) {
+      const desc = pickMetaDesc(html);
+      if (desc && !GENERIC_DESC.test(desc)) { item.summary = cleanSummary(desc); return; }
+    }
+    if (item.summary && GENERIC_DESC.test(item.summary)) item.summary = '';
+  } catch { /* best-effort: keep any existing summary */ }
+}
+
 // AI curation: in ONE call, ask the model to drop (1) off-topic items whose core
 // subject is not AI / robotics / their related industry, and (2) same-event duplicates.
 async function aiCurate(items) {
