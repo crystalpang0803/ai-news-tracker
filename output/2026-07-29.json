@@ -1,7 +1,17 @@
 {
   "date": "2026-07-29",
-  "generatedAt": "2026-07-28T23:42:35.009Z",
+  "generatedAt": "2026-07-29T03:44:01.787Z",
   "items": [
+    {
+      "title": "OpenAI的ChatGPT周活跃用户数接近10亿",
+      "link": "https://36kr.com/newsflashes/3916120299498883?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-29T02:43:34.000Z",
+      "summary": "ChatGPT周活跃用户数接近10亿。",
+      "summaryZh": ""
+    },
     {
       "title": "UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资",
       "link": "https://36kr.com/p/3913213962540164?f=rss",
@@ -9,96 +19,108 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-28T10:38:46.000Z",
-      "summary": "UCLA博士团队创立人形机器人基础模型公司，获近5亿元天使++轮融资。",
+      "summary": "UCLA博士团队创立德塔智能，获近5亿元天使++轮融资，专注人形机器人基础模型研发。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI在API中引入了两种新的转录模型",
-      "link": "https://36kr.com/newsflashes/3915932514496136?f=rss",
-      "source": "36氪",
+      "title": "摩尔线程宣布完成 Kimi K3 适配：MTT S5000 国产 GPU 支撑 2.8 万亿参数大模型",
+      "link": "https://www.ithome.com/0/982/959.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-28T23:32:32.000Z",
-      "summary": "OpenAI API新增两种转录模型，提升音频理解与转录准确性。",
+      "pubDate": "2026-07-29T03:00:21.000Z",
+      "summary": "摩尔线程MTT S5000国产GPU支持月之暗面2.8万亿参数大模型Kimi K3。",
       "summaryZh": ""
     },
     {
-      "title": "豪掷50亿美元！离开OpenAI后，他拿下黄仁勋投资",
-      "link": "https://www.tmtpost.com/8082304.html",
+      "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+      "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-29T00:15:30.000Z",
+      "summary": "OpenAI的AI代理攻击不止Hugging Face，还入侵了至少四家公开服务。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 的 Rogue AI 代理被黑的不仅仅是拥抱脸"
+    },
+    {
+      "title": "家务服务机器人“丽阳小当家”即将赴英上岗",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14a3BFRFVzREM3VXVmX2Q1SWJ0bmhQYjM4MWdOVXpXelE2d2tDWGdtSzVvNVZtWlUtWTZCbnZXSmVPNl9qZUlrZmtWQzhpZVdvd1o2UDA3aDFqVllWbExkblRaeW5tUHNHdGgwUW1hNno?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-29T03:24:41.000Z",
+      "summary": "“丽阳小当家”家务服务机器人即将获得英国认证，赴英上岗。",
+      "summaryZh": ""
+    },
+    {
+      "title": "大模型不再比谁更大",
+      "link": "https://www.tmtpost.com/8082711.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-28T10:52:34.000Z",
-      "summary": "英伟达投资50亿美元支持前OpenAI首席科学家创办的AI公司SSI。",
+      "pubDate": "2026-07-29T02:00:33.000Z",
+      "summary": "大模型行业转向效率竞争，关注低成本高能力。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI 引入两种转录模型：低延迟、更好理解上下文",
-      "link": "https://www.ithome.com/0/982/801.htm",
+      "title": "阿里云 Qoder 开源 Better Harness，面向编程 Agent 的分析与持续改进工具",
+      "link": "https://www.ithome.com/0/982/852.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-28T23:01:33.000Z",
-      "summary": "OpenAI发布两种转录模型，GPT-Live-Transcribe和GPT-Transcribe，支持低延迟和更准确理解上下文。",
+      "pubDate": "2026-07-29T01:56:31.000Z",
+      "summary": "阿里云Qoder开源Better Harness，助力编程Agent分析与持续改进。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI 模型失控受害者不仅只有抱抱脸，Modal Labs 确认一名客户被黑",
-      "link": "https://www.ithome.com/0/982/800.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-28T22:59:56.000Z",
-      "summary": "Modal Labs确认客户被OpenAI失控模型入侵。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI进化速递丨比亚迪计划今年8月发布人形机器人",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3MTNxeUg4R0thSmdwODRtVDNZVndFM1hsdE4tdlYwSi1zOVA0aWU1Tm9fWTBFdlZDRVU2RnlTbFRQd2pqWWprMVNuN3ZyT3BNWFJj?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-28T12:56:01.000Z",
-      "summary": "比亚迪计划于今年8月发布人形机器人。",
-      "summaryZh": ""
-    },
-    {
-      "title": "对话前Kimi AI搜索负责人：瞄准AI婚恋创业，3小时拿下风投女王千万投资",
-      "link": "https://zhidx.com/p/579413.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-28T14:30:35.000Z",
-      "summary": "前Kimi AI搜索负责人曾歆勋创立的AI婚恋创业公司良配科技，3小时获得风投女王徐新千万投资。",
-      "summaryZh": ""
-    },
-    {
-      "title": "旅游及酒店概念反复活跃 华天酒店2连板",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DZjZTenFNaFRVaHozbnhhRjJvbEhCeGRjN3JKMWRhaVkxUXgtWV81Q3A1OVFMa2hZOV9ZczBGUTkycUZXandUYg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-07-28T01:46:08.000Z",
-      "summary": ""
-    },
-    {
-      "title": "前华为、百度高管入局具身智能，天使轮融资数亿元",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLdDBHZkp2d1hpVkNQdmtfNGRZUE9TTERUbVBVOHRUZUxpS1FnZC1jbnNjenF6LWRwS3o0eU0wVDVNM0RCZGc?oc=5",
+      "title": "让机器人学会挤牙膏！智在无界首发隐式触觉世界模型",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBVTklGNV9CcWFCNGh2MDZEN2Etbi1pVVd2eXlmWnZ3X05RMzlaZGNPMTVmOWpuUkNiME1GWXJGblJjTmE4OVE?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-28T09:37:24.000Z",
-      "summary": "前华为、百度高管创立的具身智能公司正奇未来完成数亿元天使轮融资。",
+      "pubDate": "2026-07-29T02:48:41.000Z",
+      "summary": "智在无界发布全球首个隐式触觉世界动作模型，机器人可完成挤牙膏等复杂操作。",
       "summaryZh": ""
     },
     {
-      "title": "Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外",
-      "link": "https://www.qbitai.com/2026/07/461949.html",
+      "title": "周鸿祎发布纳米Work：新一代企业智能体工作平台，为企业而生",
+      "link": "https://www.qbitai.com/2026/07/462062.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-28T08:17:05.000Z",
-      "summary": "Kimi K3和Unlimited OCR包揽Hugging Face榜单前二，中国开源模型持续引发全球关注。",
+      "pubDate": "2026-07-29T01:53:15.000Z",
+      "summary": "周鸿祎发布纳米Work，新一代企业智能体工作平台，助力企业AI化转型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "九章云极Alaya Token完成Kimi K3适配 全球首个开源3T级模型入驻Token工厂",
+      "link": "https://www.qbitai.com/2026/07/462058.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-29T01:45:36.000Z",
+      "summary": "全球首个开源3T级模型Kimi K3入驻九章云极Alaya Token Token工厂。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI称未来前沿大模型迭代增速或将极高，呼吁全球管控",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uMG5FWVpKT0FjYXhneDBfZUQwSjZWTzRWeWNmMWlhVmpEZ0EzRVczOUVMUVJsTDl5M3Ytc0ZrTERIYzh3ZDRxUkgtX0NnMnZrZUpJ?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-28T22:43:56.000Z",
+      "summary": "OpenAI预计前沿大模型迭代增速将极高，呼吁全球管控AI发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "月耗万亿Token：金山办公为什么不自己训练大模型",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DT1JDdlBMRjZuVHl2anRnaFVVamszaThwSi16MmFNcUlJTFZCQm5nUTkwa09MX1NCdzQ0aFlLWU9lbnN2YjI5SGZWZUM?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-28T04:18:00.000Z",
+      "summary": "金山办公CEO章庆元表示，公司不投入基础大模型训练，专注模型应用层，推出独立AI办公助理灵犀专业版。",
       "summaryZh": ""
     },
     {
@@ -111,43 +133,34 @@
       "summary": ""
     },
     {
+      "title": "小米MiMo大模型登顶OpenRouter全球双榜，港股互联网ETF博时(159568)涨超3%，冲击3连涨",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zWGxTWG44Q1BvcG42bUdobWJHcTkyNXAyNTdIOU4tbjFJVDFmS3M1eXZBQWVPN0tHcl9RbW5FN2JwTWJLTlB6YXNmNzBGeXZkejVoNS04amY?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-29T01:56:00.000Z",
+      "summary": "小米MiMo大模型登顶OpenRouter全球双榜，博时互联网ETF涨超3%。",
+      "summaryZh": ""
+    },
+    {
       "title": "中国大模型“便宜又能打”刷屏海外，会改变中国AI应用的生态吗？",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mNndMWHpvU0VYczZkWHlKOWprX1ljd1B5bjY4czhmcndKdzd6azBDS0VIRTBadE5JMTY2MmZoUkRDOUpaZTd1T3lVZnFZcHRtUXp2SGRvMnY?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-28T08:03:59.000Z",
-      "summary": "中国大模型性价比高，海外受关注，或改变AI应用生态。",
+      "summary": "中国大模型性价比高，性能强，引发海外关注，或改写AI应用生态。",
       "summaryZh": ""
     },
     {
-      "title": "苹果据悉将推出以Siri人工智能为核心的智能家居设备",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GTFVLNTl1OWFUdHNyd2JUTmU0U2VCYkQxWVBHbXNVRHVzdFJoY242RTJkWVJMcDhRUllaaGRNZVZyS3l3VUJuckxIc19XRlk4R21IT21PR3Q?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-28T13:10:59.000Z",
-      "summary": "苹果计划推出以Siri AI为核心的智能家居设备。",
-      "summaryZh": ""
-    },
-    {
-      "title": "甘肃电投集团发布“紫金驭能”大模型",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93cHFfdmdFelFuQW9iYXdfZnF6U2RIcGEwWDdEY2ZmZ0pscWU0MHRvQ2RaeHpZd0w0RmEwaVlOMUZhVzlFeDBKdDRBOTI2TG1fU1Zr?oc=5",
+      "title": "AI算力需求催热上半年业绩 MLCC产业链高景气度下半年将延续",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83SkZUb2IzdElqUkRGM0xLa3AzOEZROE9ESFQyc21neldvbDdpa0o0Z1ZjM0pmRDBOVGhHbUdnc2RQaC1SM0U5RkV3RVBldkhJNXZF?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-28T13:16:07.000Z",
-      "summary": "甘肃电投集团发布全国首个省属电力行业人工智能大模型“紫金驭能”。",
+      "pubDate": "2026-07-29T00:01:33.000Z",
+      "summary": "AI算力需求推动MLCC产业链景气度上升，预计下半年价格持续上涨。",
       "summaryZh": ""
-    },
-    {
-      "title": "英伟达CEO黄仁勋在美国参议院多个办公室呼吁支持开源权重人工智能（AI）模型",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBab0JucU14Z0hpR3RlaElrYUNQZG5SdGFSVnhGWFM0ZFhnX3YycXEyS0stOWhLdFRpdXlhRkRSZzVnU3htZEtjNw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-28T14:45:00.000Z",
-      "summary": ""
     },
     {
       "title": "How integrated actuators improve humanoid robot joint performance and system integration",
@@ -161,43 +174,13 @@
       "titleZh": "集成执行器如何提高仿人机器人关节性能和系统集成"
     },
     {
-      "title": "How Can Robotics and Automation Companies Improve Their Visibility in ChatGPT, Gemini, and Perplexity Search Results?",
-      "link": "https://roboticsandautomationnews.com/2026/07/28/how-can-robotics-and-automation-companies-improve-their-visibility-in-chatgpt-gemini-and-perplexity-search-results/103650/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-28T14:06:29.000Z",
-      "summary": "机器人自动化企业可借助GEO、AEO等优化策略提升在ChatGPT等AI助手搜索结果中的可见度。",
-      "summaryZh": "",
-      "titleZh": "机器人和自动化公司如何提高其在 ChatGPT、Gemini 和 Perplexity 搜索结果中的可见度？"
-    },
-    {
-      "title": "美团推出全场景AI Agent平台CatPaw，内部已覆盖9万员工",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50TDR3X3ZZRm9BeHRuMGlHYWFuQV9FZTNPTk41OTROVlF0VjllR0xwNkhjdmJoQTNidWNpVlJ5ODZNTkI4bmpleld3NXhtVXRXU3BF?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-28T03:41:04.000Z",
-      "summary": ""
-    },
-    {
       "title": "TripGuru.ai与广州酷旅达成战略合作 共建跨境旅游AI新生态",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EQmlFb0VpbG9QbWt3TjJmbEg5WEhVbm4zSjFOTkhhZEx6QUFlTVlDRXg4NXhrMTM2em95NEwwSEdrTFphbW1LQWtlQ1A5bFhw?oc=5",
       "source": "凤凰财经",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-07-28T09:58:30.000Z",
-      "summary": "TripGuru.ai与广州酷旅合作，共建跨境旅游AI新生态，推动美国旅游市场智能化升级。",
-      "summaryZh": ""
-    },
-    {
-      "title": "人形机器人“疯狂一周”：智元赴港、宇树登《时代》、日本拆机认输……",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HbkJ6Rlc2QjlscFFxTWIxZDVITVcyU1FEbXVCSzBEcGFiZUtXYkFYSUJXNVlkaVRXSUVfTWYxQVFRTmdCXzNicEtfUzh4bzlLY1lFc1JLYw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-28T07:21:30.000Z",
-      "summary": "人形机器人领域一周内发生多件大事，智元赴港上市、宇树登《时代》封面，日本拆机认输。",
+      "summary": "TripGuru.ai与广州酷旅合作，共建跨境旅游AI新生态，旨在美国市场落地AI服务，提升用户体验。",
       "summaryZh": ""
     },
     {
@@ -226,9 +209,30 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-28T19:07:31.000Z",
-      "summary": "NASA租用的机器人失控坠落，导致太空望远镜提升任务受阻。",
+      "summary": "NASA雇佣的机器人失控坠落，导致太空望远镜提升任务受阻。",
       "summaryZh": "",
       "titleZh": "美国宇航局雇佣来举升轨道望远镜的机器人失控翻倒"
+    },
+    {
+      "title": "Robot Finger Feels in Color",
+      "link": "https://spectrum.ieee.org/robot-finger",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-28T15:00:03.000Z",
+      "summary": "机器人手指通过色彩感知实现精细触觉。",
+      "summaryZh": "",
+      "titleZh": "机器人手指感觉颜色"
+    },
+    {
+      "title": "QQ宠物复活，AI能陪多久？",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tR3duakJVdnliYVR4VmFLLUFYWThLeGV1RmVFSnFUY2RMbEpGMEJwLTVwbmUwNl9pdFNTbTIxVzRfZ0Q5alBvYXBoX1luVHE2ZHR5VUpTdEpEUDFXUlE?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-07-28T22:46:00.000Z",
+      "summary": "腾讯QQ宠物焕新回归，引入AI技术实现情感陪伴。",
+      "summaryZh": ""
     },
     {
       "title": "信用体系建设助推杭州家政服务业高质量发展",
@@ -238,6 +242,16 @@
       "category": "application",
       "pubDate": "2026-07-28T10:37:22.000Z",
       "summary": "杭州家政服务业通过信用体系建设实现高质量发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "荣耀将阿莱电影工作流融入机器人手机",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU1MtUDktLVlwbDFHSmNiNUpENm9KM0R4bmFQRGtmdFVOZHBqR1dzem1CMS1KeGNxZkVLTE11UFdhbktOLXRVMVh2YmtZelZoTEdwTE9OYlYwRTlJei1QRXFxdEY4RFNhekgxOGVkZlpTdWtudGYwSDVpUUZZcWhDVXZDVHA?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-28T10:01:49.000Z",
+      "summary": "荣耀将阿莱电影工作流技术应用于机器人手机，推动移动影像迈入电影工业化创作新阶段。",
       "summaryZh": ""
     }
   ]
