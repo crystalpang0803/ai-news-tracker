@@ -81,7 +81,7 @@ const SKIP_PATTERNS = [
   /sponsored|presented by|advertisement|\bdeal[s]?\b|discount|coupon|giveaway|\d+%\s*off|black friday|cyber monday|webinar|register now|sign up|whitepaper/i,
   /标签_|_标签|专题页|频道页|_网易出品|_腾讯网|资讯列表|新闻汇总|_专栏|专区$|栏目$|出品$/,
   /我花\d|我买了|我花了|我试了|我用了|我带着|亲测|开箱|结果它|真香|翻车|踩坑|吐槽|夹子音|陪我聊|你敢信|绝了|离谱|逼疯|种草|安利|花了\d+元|买了台|买了个/,
-  /恐袭|恐怖袭击|枪击案|爆炸案|凶杀|谋杀案|命案|遇害|遇难|绑架|人质|难民|地震|洪灾|洪水|台风|飓风|山火|坠机|空难|骚乱|大选|竞选|弹劾|球赛|世界杯|奥运会|票房|演唱会|绯闻|婚变|涨停|跌停|龙虎榜|沪指|深指|北向资金/,
+  /恐袭|恐怖袭击|枪击案|爆炸案|凶杀|谋杀案|命案|遇害|遇难|绑架|人质|难民|地震|洪灾|洪水|台风|飓风|山火|坠机|空难|骚乱|大选|竞选|弹劾|球赛|世界杯|奥运会|票房|演唱会|绯闻|婚变|涨停|跌停|连板|封板|个股|概念股|反复活跃|主力资金|游资|集合竞价|尾盘异动|盘中异动|龙虎榜|沪指|深指|北向资金/,
   /\bislamist\b|\bterror(ism|ist)?\b|\bshooting\b|\bgunman\b|\bhostage\b|\bmissile\b|\brefugee\b|\bearthquake\b|\bwildfire\b|\bworld cup\b|\bolympic|box office|\bpride (parade|event|attack)\b/i
 ];
 function isLowQuality(title) {
@@ -94,6 +94,9 @@ function escapeRe(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
 // Latin keywords use WHOLE-WORD matching (non-alphanumeric boundaries) so a keyword can
 // never match inside another word — e.g. "SLAM" must NOT hit "Islamist", "AI" must NOT
 // hit "brain". CJK keywords use substring (Chinese has no word boundaries).
+// An 'application' item must carry a real AI/robot/automation signal — otherwise a
+// bare local-life keyword (酒店/旅游/宠物…) lets pure stock or industry news slip in.
+const APP_TECH_SIGNAL = /AI|人工智能|智能|机器人|大模型|模型|算法|自动驾驶|自动化|无人|数字化|数智|智慧|具身|算力|智能体|agent|机器学习|深度学习|生成式|数字人|芯片|GPT|LLM/i;
 function matchesKeywords(title, category) {
   if (!title) return null;
   const titleLower = title.toLowerCase();
@@ -221,6 +224,7 @@ async function fetchNativeRSS(outlet, cap) {
       if (!pubDate || isNaN(pubDate) || pubDate < cutoff) continue;
       const category = matchesKeywords(item.title);
       if (!category) continue;
+      if (category === 'application' && !APP_TECH_SIGNAL.test(item.title)) continue;
       items.push({
         title: cleanTitle(item.title), link: item.link, source: outlet.name,
         lang: outlet.lang, category, pubDate: pubDate.toISOString(),
@@ -256,6 +260,7 @@ async function fetchGoogleNews(outlet, cap) {
       if (!pubDate || isNaN(pubDate) || pubDate < cutoff) continue;
       const category = matchesKeywords(title);
       if (!category) continue;
+      if (category === 'application' && !APP_TECH_SIGNAL.test(title)) continue;
       items.push({
         title, link: item.link, source: outlet.name, lang: outlet.lang,
         category, pubDate: pubDate.toISOString(), summary: ''
@@ -402,7 +407,7 @@ async function aiCurate(items) {
   if (!LLM_KEY || items.length < 2) return items;
   const list = items.map((it, i) => `${i}. [${it.category}] ${it.title}`).join('\n');
   const out = await llmChat(
-    `下面是候选新闻标题（带编号和类别）。请标出需要删除的编号，两类都要删：\n(1) 离题：核心主题与「AI/人工智能/机器人/具身智能及其相关产业」无关的——包括恐袭/犯罪/战争/灾难、与AI无关的政治时政/选举/外交、娱乐/体育/影视/社会八卦、纯股市涨跌行情。注意：与AI或机器人相关的科技、财经、融资、芯片算力、产业动态、相关政策要保留。特别要保留：AI/机器人/自动化在本地生活服务（外卖配送、酒旅、宠物、家政、银发经济、到店与零售、餐饮等）的商业落地新闻。\n(2) 重复：与列表中其他条报道同一事件的（措辞不同也算），每组只保留信息最完整的一条，其余删除。\n只输出一个 JSON 数组，列出所有要删除的编号，例如 [2,5,9]；没有要删的就输出 []。不要输出任何其他文字。\n\n${list}`,
+    `下面是候选新闻标题（带编号和类别）。请标出需要删除的编号，两类都要删：\n(1) 离题：核心主题与「AI/人工智能/机器人/具身智能及其相关产业」无关的——包括恐袭/犯罪/战争/灾难、与AI无关的政治时政/选举/外交、娱乐/体育/影视/社会八卦、纯股市涨跌行情（涨停/跌停/连板/概念股/概念反复活跃/个股异动/主力资金等，即使标题带酒店旅游宠物等字眼，只要核心是炒股行情就必须删）。注意：与AI或机器人相关的科技、财经、融资、芯片算力、产业动态、相关政策要保留。本地生活服务类（外卖配送、酒旅、宠物、家政、银发、到店零售、餐饮）只有在明确涉及AI/机器人/自动化落地时才保留；只是普通酒店/旅游/宠物行业或股市新闻、没有AI或机器人元素的，一律删除。\n(2) 重复：与列表中其他条报道同一事件的（措辞不同也算），每组只保留信息最完整的一条，其余删除。\n只输出一个 JSON 数组，列出所有要删除的编号，例如 [2,5,9]；没有要删的就输出 []。不要输出任何其他文字。\n\n${list}`,
     700, '你是严格的中文科技新闻编辑，只保留与AI和机器人相关的新闻，只输出 JSON 数组。');
   try {
     const m = out.match(/\[[\d,\s]*\]/);
