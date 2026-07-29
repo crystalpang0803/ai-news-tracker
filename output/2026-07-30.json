@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generatedAt": "2026-07-29T22:17:04.360Z",
+  "generatedAt": "2026-07-29T23:43:34.879Z",
   "items": [
     {
       "title": "比亚迪人形机器人8月郑州“上岗” 商业服务场景或率先落地",
@@ -12,13 +12,13 @@
       "summary": ""
     },
     {
-      "title": "Artium AI成为OpenAI高级合作伙伴，助力企业开发定制化智能体AI方案",
-      "link": "https://36kr.com/newsflashes/3916672399207816?f=rss",
-      "source": "36氪",
+      "title": "情感陪护机器人，不能阻止优必选股价下跌",
+      "link": "https://www.tmtpost.com/8083214.html",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-29T12:19:01.000Z",
-      "summary": "Artium AI成为OpenAI高级合作伙伴，共同开发定制化智能体AI方案。",
+      "category": "robotics",
+      "pubDate": "2026-07-29T10:51:12.000Z",
+      "summary": "优必选股价持续下跌，尽管推出情感陪护机器人。",
       "summaryZh": ""
     },
     {
@@ -28,7 +28,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-29T10:32:39.000Z",
-      "summary": "前字节女高管创业公司词元无限融资3轮，AI编程智能体InfCode跑赢GPT-5登顶编程榜。",
+      "summary": "前字节女高管创业公司词元无限成立一年内融资3轮，AI编程智能体InfCode跑赢GPT-5登顶编程榜。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Artium AI成为OpenAI高级合作伙伴，助力企业开发定制化智能体AI方案",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RMENvWnpVYkxHZEpFdkdEcTQ3Mnl6UEZlLWl1TWVUVVc3S1BEOVdKYW0yZkpHaEZtZ0pDaFY1TUdIOEQwekFFRGtydXFhd0MxZlpwek4zdlA?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-29T12:15:08.000Z",
+      "summary": "Artium AI成为OpenAI高级合作伙伴，共同开发定制化智能体AI方案。",
       "summaryZh": ""
     },
     {
@@ -58,7 +68,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-29T13:27:11.000Z",
-      "summary": "海尔与橡鹿合作研发全自动AI烹饪机器人。",
+      "summary": "海尔机器人与橡鹿机器人合作研发全自动家庭AI烹饪机器人。",
       "summaryZh": ""
     },
     {
@@ -68,27 +78,37 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-29T01:49:34.000Z",
-      "summary": "人形机器人从展台到工厂应用仍面临量产挑战。",
+      "summary": "人形机器人从展台到工厂应用仍面临量产挑战，技术积累推动商业落地。",
       "summaryZh": ""
     },
     {
-      "title": "腾讯混元开源AngelSpec",
-      "link": "https://36kr.com/newsflashes/3916684374371721?f=rss",
+      "title": "8点1氪丨韩国考虑为“借钱炒股”封顶20%；雷军打新长鑫科技浮盈7亿？小米高管回应；月之暗面Kimi K3正式开源",
+      "link": "https://36kr.com/p/3915953688604296?f=rss",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-29T12:17:22.000Z",
-      "summary": "腾讯混元团队开源AngelSpec框架及Hy3-A21B权重代码。",
+      "pubDate": "2026-07-28T23:54:15.000Z",
+      "summary": "韩国拟限制个股杠杆投资额，小米回应雷军打新长鑫科技获利。",
       "summaryZh": ""
     },
     {
-      "title": "大模型公司不想养AI朋友了，Agent没退潮，只是从陪伴走向工作流",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFUEdzS00zVktha2luU05RSlc4bXowMVFTY1FCdVBMSzZsSG9vLVNKbDY1LTJfV0ZZU3ZUTVlUcVJaamlMOFZHVTBUWEU0V3F4NUR4OA?oc=5",
-      "source": "钛媒体",
+      "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
+      "link": "https://www.qbitai.com/2026/07/462447.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-29T10:55:00.000Z",
-      "summary": "AI大模型公司减少陪聊型智能体，转向加强生产力Agent应用。",
+      "pubDate": "2026-07-29T08:13:03.000Z",
+      "summary": "国产AI安全智能体Sangfor AI在CyberGym评测中跻身全球前四，国内第一。",
+      "summaryZh": ""
+    },
+    {
+      "title": "智元全模态大模型，登顶全球第一！力压谷歌英伟达，跑赢大厂",
+      "link": "https://zhidx.com/p/580666.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-29T14:04:38.000Z",
+      "summary": "智元全模态大模型WITA-Omni登顶DailyOmni榜单，在具身智能领域跑赢大厂。",
       "summaryZh": ""
     },
     {
@@ -112,63 +132,65 @@
       "titleZh": "OpenAI 的流氓 AI 代理并没有停止攻击 Hugging Face"
     },
     {
-      "title": "国家能源集团“擎源”大模型加速落地，发电领域落地41个业务智能体",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ieEVUcmMyX1ViR1lWRktrOWNNQU9TbjE0LUhvQVp3VFBIWk5mVng0aURxb0tFTGcyT2syWmhkWC1mWVEwSFNJajJXODlHZU5iQ1lvanBiWUpiZmtWNDFCV2ozbk9DU24x?oc=5",
-      "source": "中国新闻网",
+      "title": "国家能源集团“擎源”大模型加速落地 发电领域落地41个业务智能体",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZbmVSMlNYOFBRdVA4SVk5elo3OFNVMzN3TjVyOWRtZjFSWERwSGN5Y1hMdGQ3VC1XMVdOLUVvLWhhbldSZzllZkh6UEVkbmF1UVRwZ2VkaHlEaE9CWUhFNW5vakhodw?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-29T13:30:17.000Z",
+      "pubDate": "2026-07-29T13:42:08.000Z",
       "summary": "国家能源集团“擎源”大模型在发电领域落地41个业务智能体。",
       "summaryZh": ""
     },
     {
-      "title": "机器人要成千上万走进人群， 先得\"看清身边这一米\"",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBBUEtic004QmZvZXFkckUwOXJJNEpwdEtldHJLanZ4VVhKbHc3NjBsdEotVjRGV0dfT3o2UXNUekRVSXd2dXc?oc=5",
-      "source": "智东西",
+      "title": "OpenAI首席财务官透露：公司7月年化收入超过整个第二季度",
+      "link": "https://36kr.com/newsflashes/3917355621527176?f=rss",
+      "source": "36氪",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-29T10:31:24.000Z",
-      "summary": "北醒发布固态阵列近场雷达NOVA20，为具身机器人提供5cm-1m安全感知。",
+      "category": "ai",
+      "pubDate": "2026-07-29T23:40:12.000Z",
+      "summary": "OpenAI 7月年化收入超第二季度总和。",
       "summaryZh": ""
     },
     {
-      "title": "AI进化速递 | Grok 4.6预计8月7日发布",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KdGJ3TG5jX0ZDTXAtejhoNk1KZGFRWUFMcThXMFUzQUpCb2Z4bmU4YWFYMXNvSmc3ekN5bzZ3SkRpMkM3OHNfRm5zejBQZWVKQnFF?oc=5",
+      "title": "马来西亚拟推出“全民人工智能计划”",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fTkZBU05qcHBzRTBYV0JhY2ZpQzJLYk9xbThUUEZ4OVBSNmNiSjFHTVFkU2lrZjB0NmFkNDN0X1o4dHctLXRsMkdFT3Y1cFdjbjdRNA?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-29T12:59:22.000Z",
-      "summary": "Grok 4.6 AI模型预计8月7日发布。",
+      "pubDate": "2026-07-29T10:22:00.000Z",
+      "summary": "马来西亚将推出针对青年的“全民人工智能计划”，旨在提升青年对AI的理解和应用能力。",
       "summaryZh": ""
     },
     {
-      "title": "重构终端底层计算架构 产业共探智能体规模化落地路径",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdUZJM2FRVXY5ZVZweDNyR2MzQWZHeXlrZkxIcWdxRVN4RjR0c1hyUUN6SGlGRlZyUEllRHI2a1U0RTAxdGZZcFZyRGRZZG5rN0dOYWVoN0p6WEN4bWpBZ2tWWlRwX1Iwd1FFdE5zU2JWdlNEWmdvcnd0MS05VXVSM0FWYlg?oc=5",
-      "source": "新华网科技",
+      "title": "AI 板块集体大跌启示：算力军备竞赛退潮，产业正式进入落地回本考核周期",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPeHFiRHIzQjlTTVdTRnJnUHRtMXd2TVNJVWp5Mkx3X0M5a0k3NXM2S0Naay05SjdfMjRNUUYtZnZwNUxxTlVZSk96dS1tWF9pYUZYMklwNzJUREhPdnRZS3NLa3hJdW9NOWlNSHJ3M2FXTU1ILWFYNFUyYW5ndHBWZFFwendCdFltQnp6SnBHWEx3SURIVmF4bENuRjU1TGhwZ3RURUVIT0JvTmhFb3NtNmNrNjFIelVqZkNwSGhLeXJOZVlkaV82YTJCZ0R5UEI5eG5GY0hzTUYzekh5UW9pQ0ZxbkN4d29DNXJDX0dWOEhIS3EtZDczVnpkeURBQQ?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-29T09:39:50.000Z",
-      "summary": "产业共探智能体规模化落地，重构终端底层计算架构。",
+      "pubDate": "2026-07-29T12:08:00.000Z",
+      "summary": "AI板块集体大跌，算力军备竞赛退潮，产业进入落地回本考核周期。",
       "summaryZh": ""
     },
     {
-      "title": "把AI“做小” 邮储银行如何破解大模型规模化落地的“成本之困”",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVW9KelI2N3VYbUp1cEE0TG5tSW90OWQ2UVJTdzZscEF1T2RNRzUySW9URTA3ajd1NWRyc2hneXAyMXZOY1cwMVc5X3NNZHBzdHNEVVNnT3Fsc0Fta3BvbnpoSjFBUDQ3NlpodXpQa08zUTVYcEloYlRQMS1NcFBFQm1QT2hsdUZtZHVKUw?oc=5",
-      "source": "21财经",
+      "title": "萝卜快跑抢跑无人车右舵：香港率先全无人，伦敦直面Waymo",
+      "link": "https://www.qbitai.com/2026/07/462071.html",
+      "source": "量子位",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-29T03:15:00.000Z",
-      "summary": ""
+      "category": "application",
+      "pubDate": "2026-07-29T05:36:38.000Z",
+      "summary": "萝卜快跑在香港和伦敦分别开展全无人自动驾驶测试，成为全球首个在右舵市场进行此类测试的企业。",
+      "summaryZh": ""
     },
     {
-      "title": "神思电子（300479）祝融大模型完成备案 落地应用降本成效显著",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1eDRNRV9EMERzRFhsNUxyYkZMMHkxcWpVY0NPWDk2WnBET2NwdXZoTjFvYWNwc2pJNFZhc3ctTmxnMmFoblo5a0hrZDFzbTZrYzE2ZmU1bw?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-29T06:11:00.000Z",
-      "summary": "神思电子祝融大模型完成备案，落地供热客服场景降本10%。",
-      "summaryZh": ""
+      "title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence",
+      "link": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-29T14:53:15.000Z",
+      "summary": "GMEX Robotics收购MediaMeta.ai，拓展自动化产品线，加强社交智能应用。",
+      "summaryZh": "",
+      "titleZh": "GMEX Robotics 将收购 MediaMeta.ai 以提供社交智能"
     },
     {
       "title": "从运动控制到AI感知，AR707为何是移动机器人的最优解？",
@@ -179,6 +201,15 @@
       "pubDate": "2026-07-29T07:09:23.000Z",
       "summary": "AR707集成AI算力和控制中枢，为移动机器人提供高效边缘计算解决方案。",
       "summaryZh": ""
+    },
+    {
+      "title": "邦耀机器人：荣任山东机器人和智能装备产业联盟副理事长单位",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zWWN2WFJnbUwxUVpCcmh4dFItOVpIRDlhTkNTTkNoOEcwNDR3V01aZy1ubnBfUHh5YUF1RXdNODlSeUpLZmRSWnptSjQ?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-29T17:34:08.000Z",
+      "summary": ""
     },
     {
       "title": "Bright Machines says its new hybrid robot cell could help solve a major AI infrastructure bottleneck",
@@ -192,23 +223,13 @@
       "titleZh": "Bright Machines 表示，其新型混合机器人单元可以帮助解决主要的人工智能基础设施瓶颈"
     },
     {
-      "title": "QQ宠物复活，AI能陪多久？",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tR3duakJVdnliYVR4VmFLLUFYWThLeGV1RmVFSnFUY2RMbEpGMEJwLTVwbmUwNl9pdFNTbTIxVzRfZ0Q5alBvYXBoX1luVHE2ZHR5VUpTdEpEUDFXUlE?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-07-28T22:46:00.000Z",
-      "summary": "腾讯QQ宠物焕新回归，引入AI技术实现情感陪伴。",
-      "summaryZh": ""
-    },
-    {
       "title": "小浪花在现场｜AI养老、工业创新、交通枢纽大升级......上海“新”庄拍了拍你！",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51MDBUOUhwanQ5aXRiQTBsVDJyT21vTUdmRVdWbTFYUXNWTVFEcHZ5LVhDZE5leWpWaTVUc2NuSldTczNsYzdlYlB5dmd4VFRBVlBCb1BoSFphTWVCZFE?oc=5",
       "source": "澎湃新闻科技",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-07-29T09:21:00.000Z",
-      "summary": "上海“新”庄聚焦AI养老、工业创新、交通枢纽升级。",
+      "summary": "上海新庄聚焦AI养老、工业创新和交通枢纽升级。",
       "summaryZh": ""
     },
     {
@@ -218,17 +239,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-29T13:19:28.000Z",
-      "summary": "国家级“机器人职校”在杭州启用，助力具身智能从仿真走向现实。",
-      "summaryZh": ""
-    },
-    {
-      "title": "福瑞泰克瞄准物理AI，智驾能力开始向机器人迁移",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mRjFoLXpWSE9MYXZJUjhSclV3Y1RESDU1MWZNT2NMdzJDUDFKVzhyTDBMUlEyOXhUV01VSEplWHpPajl3UnQyRWgtZjd5clY3LVRzX3NMaw?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-29T06:37:00.000Z",
-      "summary": "福瑞泰克将智驾能力向机器人领域迁移，构建全栈AI体系。",
+      "summary": "国家级“机器人职校”在杭州启用，助力机器人从仿真走向现实应用。",
       "summaryZh": ""
     }
   ]
