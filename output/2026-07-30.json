@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generatedAt": "2026-07-29T20:34:44.150Z",
+  "generatedAt": "2026-07-29T22:17:04.360Z",
   "items": [
     {
       "title": "比亚迪人形机器人8月郑州“上岗” 商业服务场景或率先落地",
@@ -9,8 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-29T06:55:22.000Z",
-      "summary": "比亚迪人形机器人将于8月在郑州商业服务场景中首次亮相。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "Artium AI成为OpenAI高级合作伙伴，助力企业开发定制化智能体AI方案",
@@ -29,7 +28,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-29T10:32:39.000Z",
-      "summary": "前字节女高管创业公司词元无限一年内融资3轮，AI编程智能体InfCode跑赢GPT-5登顶编程榜。",
+      "summary": "前字节女高管创业公司词元无限融资3轮，AI编程智能体InfCode跑赢GPT-5登顶编程榜。",
       "summaryZh": ""
     },
     {
@@ -59,7 +58,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-29T13:27:11.000Z",
-      "summary": "海尔机器人与橡鹿机器人合作研发全自动家庭AI烹饪机器人。",
+      "summary": "海尔与橡鹿合作研发全自动AI烹饪机器人。",
+      "summaryZh": ""
+    },
+    {
+      "title": "从展台明星到工厂伙伴，人形机器人距落地应用还有多远？——ADI慕展芯情观察局圆桌派",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50aURIWW5wU3piQjZqNXZvZi1nMC1CSjdUN3A0MXlBVWhUWFJvMUdxU3I3MFJ0Nlg1dGFzaTRrYVJuMmZwRTJiUDFxMFBQZWYxWFY1eTNMNA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-29T01:49:34.000Z",
+      "summary": "人形机器人从展台到工厂应用仍面临量产挑战。",
       "summaryZh": ""
     },
     {
@@ -73,13 +82,13 @@
       "summaryZh": ""
     },
     {
-      "title": "小米大模型拿下“全球第一”，有实力也是侥幸",
-      "link": "https://www.tmtpost.com/8083875.html",
+      "title": "大模型公司不想养AI朋友了，Agent没退潮，只是从陪伴走向工作流",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFUEdzS00zVktha2luU05RSlc4bXowMVFTY1FCdVBMSzZsSG9vLVNKbDY1LTJfV0ZZU3ZUTVlUcVJaamlMOFZHVTBUWEU0V3F4NUR4OA?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-29T10:53:01.000Z",
-      "summary": "小米MiMo-V2.5大模型在OpenRouter榜单中夺得全球第一，但需注意榜单局限性。",
+      "pubDate": "2026-07-29T10:55:00.000Z",
+      "summary": "AI大模型公司减少陪聊型智能体，转向加强生产力Agent应用。",
       "summaryZh": ""
     },
     {
@@ -98,7 +107,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-07-29T11:54:29.000Z",
-      "summary": "OpenAI的恶意AI代理不仅黑了Hugging Face。",
+      "summary": "OpenAI的恶意AI代理不仅入侵了Hugging Face。",
       "summaryZh": "",
       "titleZh": "OpenAI 的流氓 AI 代理并没有停止攻击 Hugging Face"
     },
@@ -119,17 +128,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-29T10:31:24.000Z",
-      "summary": "北醒发布固态阵列近场雷达NOVA20，为具身机器人提供5cm-1m安全感知，保障近身安全。",
+      "summary": "北醒发布固态阵列近场雷达NOVA20，为具身机器人提供5cm-1m安全感知。",
       "summaryZh": ""
     },
     {
-      "title": "马来西亚拟推出“全民人工智能计划”",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fTkZBU05qcHBzRTBYV0JhY2ZpQzJLYk9xbThUUEZ4OVBSNmNiSjFHTVFkU2lrZjB0NmFkNDN0X1o4dHctLXRsMkdFT3Y1cFdjbjdRNA?oc=5",
+      "title": "AI进化速递 | Grok 4.6预计8月7日发布",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KdGJ3TG5jX0ZDTXAtejhoNk1KZGFRWUFMcThXMFUzQUpCb2Z4bmU4YWFYMXNvSmc3ekN5bzZ3SkRpMkM3OHNfRm5zejBQZWVKQnFF?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-29T10:22:00.000Z",
-      "summary": "马来西亚将推出针对青年的“全民人工智能计划”，旨在提升青年对AI的理解和应用能力。",
+      "pubDate": "2026-07-29T12:59:22.000Z",
+      "summary": "Grok 4.6 AI模型预计8月7日发布。",
       "summaryZh": ""
     },
     {
@@ -143,16 +152,6 @@
       "summaryZh": ""
     },
     {
-      "title": "国家邮政局：“人工智能+”赋能邮政 无人机无人车加速落地",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UeDdVZXBLZEVtMURSLXViTXc4Sk8wLThJNmhtZHo4VGpRN2xZWTFPa0RwS3E0bzRNR192bFctNVZkTmRiWDQzaHlkcXRCUGlKU1FjX2MweFJLOHNEcTZETUtCc1dOa1NwdXR6d3Z3OEtidEw2N2JpeQ?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-29T07:08:23.000Z",
-      "summary": "国家邮政局推动无人机、无人车在邮政领域应用加速。",
-      "summaryZh": ""
-    },
-    {
       "title": "把AI“做小” 邮储银行如何破解大模型规模化落地的“成本之困”",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVW9KelI2N3VYbUp1cEE0TG5tSW90OWQ2UVJTdzZscEF1T2RNRzUySW9URTA3ajd1NWRyc2hneXAyMXZOY1cwMVc5X3NNZHBzdHNEVVNnT3Fsc0Fta3BvbnpoSjFBUDQ3NlpodXpQa08zUTVYcEloYlRQMS1NcFBFQm1QT2hsdUZtZHVKUw?oc=5",
       "source": "21财经",
@@ -162,36 +161,24 @@
       "summary": ""
     },
     {
-      "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
-      "link": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-07-29T17:41:09.000Z",
-      "summary": "The ban largely affects U.S.",
-      "titleZh": "美国政府以国家安全风险为由，禁止新型外国制造的人形机器人、机器狗和太阳能逆变器"
+      "title": "神思电子（300479）祝融大模型完成备案 落地应用降本成效显著",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1eDRNRV9EMERzRFhsNUxyYkZMMHkxcWpVY0NPWDk2WnBET2NwdXZoTjFvYWNwc2pJNFZhc3ctTmxnMmFoblo5a0hrZDFzbTZrYzE2ZmU1bw?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-29T06:11:00.000Z",
+      "summary": "神思电子祝融大模型完成备案，落地供热客服场景降本10%。",
+      "summaryZh": ""
     },
     {
-      "title": "DoorDash is building its own drone delivery business",
-      "link": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
-      "source": "TechCrunch",
-      "lang": "en",
+      "title": "从运动控制到AI感知，AR707为何是移动机器人的最优解？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oWDhHWjN2VEpTel92Nkk4WFozU2d5VVZsWGJpRS1TZWRfbFJoTHFVTURub0ZfOGwwd2w0dlplSjRDVkxzSGVuR2ZkeTBPeXRBWHpjVjgwdw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-29T13:00:00.000Z",
-      "summary": "DoorDash 正在开发自己的无人机配送业务，已获得FAA认证。",
-      "summaryZh": "",
-      "titleZh": "DoorDash 正在打造自己的无人机送货业务"
-    },
-    {
-      "title": "DoorDash is going airborne with new drone delivery division",
-      "link": "https://www.theverge.com/science/970731/doordash-air-drone-delivery-faa",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-07-29T13:00:00.000Z",
-      "summary": "DoorDash成立新无人机配送部门。",
-      "summaryZh": "",
-      "titleZh": "DoorDash 将与新的无人机交付部门一起进入空中"
+      "pubDate": "2026-07-29T07:09:23.000Z",
+      "summary": "AR707集成AI算力和控制中枢，为移动机器人提供高效边缘计算解决方案。",
+      "summaryZh": ""
     },
     {
       "title": "Bright Machines says its new hybrid robot cell could help solve a major AI infrastructure bottleneck",
@@ -203,6 +190,16 @@
       "summary": "Bright Machines推出新型混合机器人单元，旨在解决AI基础设施瓶颈问题。",
       "summaryZh": "",
       "titleZh": "Bright Machines 表示，其新型混合机器人单元可以帮助解决主要的人工智能基础设施瓶颈"
+    },
+    {
+      "title": "QQ宠物复活，AI能陪多久？",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tR3duakJVdnliYVR4VmFLLUFYWThLeGV1RmVFSnFUY2RMbEpGMEJwLTVwbmUwNl9pdFNTbTIxVzRfZ0Q5alBvYXBoX1luVHE2ZHR5VUpTdEpEUDFXUlE?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-07-28T22:46:00.000Z",
+      "summary": "腾讯QQ宠物焕新回归，引入AI技术实现情感陪伴。",
+      "summaryZh": ""
     },
     {
       "title": "小浪花在现场｜AI养老、工业创新、交通枢纽大升级......上海“新”庄拍了拍你！",
@@ -221,17 +218,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-29T13:19:28.000Z",
-      "summary": "国家级“机器人职校”在杭州启用，助力机器人技能训练与实际应用。",
+      "summary": "国家级“机器人职校”在杭州启用，助力具身智能从仿真走向现实。",
       "summaryZh": ""
     },
     {
-      "title": "抖音播放量上亿、三个月融资两轮数亿元——这张机器人“脸”什么来头？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FOXFMeUtNTjVyNzlaS0VCaDVSNWM1el9YVTA0Q3dfX0x4SUNmRUMwWGNVTE53SV83QWtTenVtT054M2lIN2lKN3BVaVBDNzlXSXItbzlLMA?oc=5",
-      "source": "与非网",
+      "title": "福瑞泰克瞄准物理AI，智驾能力开始向机器人迁移",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mRjFoLXpWSE9MYXZJUjhSclV3Y1RESDU1MWZNT2NMdzJDUDFKVzhyTDBMUlEyOXhUV01VSEplWHpPajl3UnQyRWgtZjd5clY3LVRzX3NMaw?oc=5",
+      "source": "经济观察网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-29T02:50:40.000Z",
-      "summary": "首形科技完成数亿元A2轮融资，专注于机器人脸部研发。",
+      "pubDate": "2026-07-29T06:37:00.000Z",
+      "summary": "福瑞泰克将智驾能力向机器人领域迁移，构建全栈AI体系。",
       "summaryZh": ""
     }
   ]
