@@ -1,7 +1,17 @@
 {
   "date": "2026-07-30",
-  "generatedAt": "2026-07-30T03:32:35.181Z",
+  "generatedAt": "2026-07-30T06:11:04.342Z",
   "items": [
+    {
+      "title": "OpenAI 部署 GPT-5.6 优化模型自身推理性能，端到端服务成本最多降低 20%",
+      "link": "https://www.ithome.com/0/983/590.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T06:06:15.000Z",
+      "summary": "OpenAI通过GPT-5.6 Sol模型优化推理性能，端到端服务成本降低最多20%。",
+      "summaryZh": ""
+    },
     {
       "title": "比亚迪人形机器人8月郑州“上岗” 商业服务场景或率先落地",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYU1R0R1lyM2kwam1NX0l1dFhSenFvUFRJNG1ZTnRCaHZIQmF3dkhvR1MzaVYxOUhrb0dBWjZ5NFpLcDNfYWZDTA?oc=5",
@@ -18,17 +28,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-30T02:49:47.000Z",
-      "summary": "OpenAI总裁布罗克曼承认ChatGPT桌面应用界面混乱，目标打造“零标签”设计。",
-      "summaryZh": ""
-    },
-    {
-      "title": "微软 2026 财年第四财季业绩会实录：算力供给依然不足，Copilot 变现渠道丰富",
-      "link": "https://www.ithome.com/0/983/416.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-30T01:49:47.000Z",
-      "summary": "微软第四财季业绩会强调算力供给不足，Copilot变现渠道多元化。",
+      "summary": "OpenAI总裁布罗克曼承认ChatGPT桌面应用界面混乱，目标实现“零标签”设计。",
       "summaryZh": ""
     },
     {
@@ -62,13 +62,13 @@
       "summaryZh": ""
     },
     {
-      "title": "商务部新闻发言人就美国联邦通信委员会将外国电力逆变器和先进机器人设备列入“覆盖清单”事答记者问",
-      "link": "https://36kr.com/newsflashes/3917475931958921?f=rss",
+      "title": "橡鹿机器人与海尔机器人达成战略合作",
+      "link": "https://36kr.com/newsflashes/3917608936942980?f=rss",
       "source": "36氪",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-30T01:42:35.000Z",
-      "summary": "美国FCC将外国电力逆变器和机器人设备列入“覆盖清单”，商务部发言人表示反对并敦促撤销。",
+      "pubDate": "2026-07-30T04:17:47.000Z",
+      "summary": "橡鹿机器人与海尔机器人合作研发全自动AI烹饪机器人。",
       "summaryZh": ""
     },
     {
@@ -78,7 +78,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-29T13:10:10.000Z",
-      "summary": "李飞飞团队推出R2S2R机器人训练闭环引擎，实现真机稳定运行一小时。",
+      "summary": "李飞飞团队推出R2S2R引擎，机器人训练后真机运行一小时无误差。",
+      "summaryZh": ""
+    },
+    {
+      "title": "8点1氪丨超1100名AI公司员工联名请愿美国政府；桃酥吃出假牙冠？山姆、泸溪河回应；月之暗面Kimi已完成超35亿美元F轮融资",
+      "link": "https://36kr.com/p/3917362478148993?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-29T23:50:17.000Z",
+      "summary": "超1100名AI员工联名请愿美政府，月之暗面Kimi完成35亿美金融资。",
       "summaryZh": ""
     },
     {
@@ -88,7 +98,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-29T08:13:03.000Z",
-      "summary": "国产AI安全智能体Sangfor AI在CyberGym评测中跻身全球前四，国内第一。",
+      "summary": "国产AI安全智能体Sangfor AI在CyberGym评测中跻身全球前四、国内第一。",
       "summaryZh": ""
     },
     {
@@ -108,7 +118,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-30T01:13:56.000Z",
-      "summary": "国产大模型在AI Coding等高价值场景下，因价格高昂而难以普及。",
+      "summary": "国产大模型在AI Coding等高价值场景下，因价格问题难以与国外顶尖模型竞争。",
       "summaryZh": ""
     },
     {
@@ -137,19 +147,49 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-07-29T11:54:29.000Z",
-      "summary": "OpenAI的恶意AI代理不仅入侵了Hugging Face。",
+      "summary": "OpenAI的恶意AI代理不仅黑了Hugging Face。",
       "summaryZh": "",
       "titleZh": "OpenAI 的流氓 AI 代理并没有停止攻击 Hugging Face"
     },
     {
-      "title": "国家能源集团“擎源”大模型加速落地 发电领域落地41个业务智能体",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZbmVSMlNYOFBRdVA4SVk5elo3OFNVMzN3TjVyOWRtZjFSWERwSGN5Y1hMdGQ3VC1XMVdOLUVvLWhhbldSZzllZkh6UEVkbmF1UVRwZ2VkaHlEaE9CWUhFNW5vakhodw?oc=5",
-      "source": "东方财富网",
+      "title": "思必驰获信通院首批认证，“模芯云用”协同创新能力打通AI规模化落地最后一公里",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnMFQ4b2RoT2o5aUcxNnFmaGxkb1hNemRhOUtjVVRhUmtzUWVuVmdma2I1aTA1di1sd2hnVWZlTzlGSlVNSTllaDhRZ1oxNXJBWnJIaXZodw?oc=5",
+      "source": "经济观察网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-29T13:42:08.000Z",
-      "summary": "国家能源集团“擎源”大模型在发电领域落地41个业务智能体。",
+      "category": "application",
+      "pubDate": "2026-07-30T03:33:24.000Z",
+      "summary": "思必驰获信通院首批认证，推动AI规模化落地。",
       "summaryZh": ""
+    },
+    {
+      "title": "传智教育：AI具身智能机器人开发首期课程将于10月开班",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KcEpGTG5yRFRZcmZqN0puN0dhclgtX2xNc2FaN0ZQckxkX19LUndyMGVNLW5iX0JtalJIb2JUUFB3czBwMDk0YjFjWDFaS3ZfbWZ6d29FQ3JwUHY1ODZPd3BZdDBIWEF5WUxGZmNGQXM2OV9EWTJpMw?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-30T05:13:00.000Z",
+      "summary": "传智教育将于10月开班AI具身智能机器人开发首期课程。",
+      "summaryZh": ""
+    },
+    {
+      "title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence",
+      "link": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-29T14:53:15.000Z",
+      "summary": "GMEX Robotics收购MediaMeta.ai，拓展自动化产品线，增强社交智能。",
+      "summaryZh": "",
+      "titleZh": "GMEX Robotics 将收购 MediaMeta.ai 以提供社交智能"
+    },
+    {
+      "title": "邦耀机器人：荣任山东机器人和智能装备产业联盟副理事长单位",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zWWN2WFJnbUwxUVpCcmh4dFItOVpIRDlhTkNTTkNoOEcwNDR3V01aZy1ubnBfUHh5YUF1RXdNODlSeUpLZmRSWnptSjQ?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-29T17:34:08.000Z",
+      "summary": ""
     },
     {
       "title": "Bright Machines says its new hybrid robot cell could help solve a major AI infrastructure bottleneck",
@@ -158,9 +198,20 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-29T13:00:00.000Z",
-      "summary": "Bright Machines推出混合机器人单元，旨在解决AI基础设施瓶颈问题。",
+      "summary": "Bright Machines推出新型混合机器人单元，旨在解决AI基础设施瓶颈问题。",
       "summaryZh": "",
       "titleZh": "Bright Machines 表示，其新型混合机器人单元可以帮助解决主要的人工智能基础设施瓶颈"
+    },
+    {
+      "title": "What Robotics Experts Think of Tesla’s Optimus Robot",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aSVZBc2JNOVZ2aHJQYVNnVjZEbGNBTnRwbENMYzVGdEJfVUNLLUVzSmxtWFZUT2RJd3FtazgzUGxGUjV6NzF4Z2FSaGgtVEhPZGpqLUlxZGxlbjBaa3lscWdnUTBMWTYxMUhzOHI4RU0yelUwa0tqNmdramY?oc=5",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-29T20:22:01.000Z",
+      "summary": "特斯拉Optimus机器人获机器人专家评价。",
+      "summaryZh": "",
+      "titleZh": "机器人专家对特斯拉擎天柱机器人的看法"
     },
     {
       "title": "小浪花在现场｜AI养老、工业创新、交通枢纽大升级......上海“新”庄拍了拍你！",
@@ -169,47 +220,27 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-07-29T09:21:00.000Z",
-      "summary": "上海新庄聚焦AI养老、工业创新和交通枢纽升级。",
-      "summaryZh": ""
-    },
-    {
-      "title": "活力中国调研行丨探访国家级“机器人职校”：从仿真走向现实",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3QUhnbUJjTzVFRXNaQXN1UmFmdnJGYVFWRjFkWmY5Q2h0d0ZBbktRWThNOEZuUHUyS2lIT2FPbjFjX0k4Qk9Vc2czZ3hob3pJeUJRVjBhMFpUYXRTTFlEUWZob2FXRFpVN2thcllHTHg5Vl9SU3lwMzV5QVEyYlU?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-29T13:19:28.000Z",
-      "summary": "国家级“机器人职校”在杭州启用，助力具身智能从实验室走向实际应用。",
-      "summaryZh": ""
-    },
-    {
-      "title": "福瑞泰克瞄准物理AI，智驾能力开始向机器人迁移",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mRjFoLXpWSE9MYXZJUjhSclV3Y1RESDU1MWZNT2NMdzJDUDFKVzhyTDBMUlEyOXhUV01VSEplWHpPajl3UnQyRWgtZjd5clY3LVRzX3NMaw?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-29T06:37:00.000Z",
-      "summary": "福瑞泰克将智驾技术向机器人领域迁移，构建全栈AI体系。",
-      "summaryZh": ""
-    },
-    {
-      "title": "先惠技术成立自动化技术公司 含AI及机器人业务",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnRlhHUFZ6Nm13bU0wZ0oxVm5CN3l1MmNJSDlyY0o0T2otU2ZKeVdURWRDMWwxdEJmSHJyY1NaMUthVV94LW16NGZRWWVMaXEt?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-29T09:45:03.000Z",
-      "summary": "先惠技术成立全资子公司，专注AI及机器人业务。",
+      "summary": "上海“新”庄聚焦AI养老、工业创新、交通枢纽升级。",
       "summaryZh": ""
     },
     {
       "title": "光轮智能联合西门子共建物理AI工业底座 为机器人进厂“铺路”",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80X2ZzbFRWcmh3SDRESnVyemdKclROaG1HOG5jT3lrdDFSTEtMQ1B4eHlXNmh5NjJGeVlsNXdMdUcwY1g4MEc1R2x4bTNYeXlD?oc=5",
-      "source": "凤凰财经",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84dm1hSU5rYk0xR0xNSGNkUERwakkzZWs0dEdpNlU3OHh6aFp2RlR6RGtJNDRNMVQ4VkM1NnJCNkI0TFRhbC1GZm5IdlNrZlpDUzBxRERMX01JSW1HeTBDOUtxTWN6UQ?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-29T11:40:10.000Z",
-      "summary": "光轮智能与西门子共建物理AI工业底座，助力机器人进厂应用。",
+      "pubDate": "2026-07-29T11:22:15.000Z",
+      "summary": "光轮智能与西门子合作，共建物理AI工业底座，助力机器人进厂应用。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Robotaxi 进入伦敦时刻，中美无人车抢占右舵高地",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xWGRNa3M1SUdGY3VTR0RwSkFQdDVDUW1QWTJldGNfOGl3RGc0UVpQOUV3ZlJ0S08tVUxVbHUwS1VWODVza1d1STB5S25IN2UwcUxPcXN1UQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-07-29T16:29:52.000Z",
+      "summary": "中美Robotaxi企业萝卜快跑和Waymo在伦敦展开右舵自动驾驶竞争。",
       "summaryZh": ""
     }
   ]
