@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generatedAt": "2026-07-30T20:46:18.367Z",
+  "generatedAt": "2026-07-30T22:31:23.593Z",
   "items": [
     {
       "title": "亚马逊旗下Zoox获美监管机构临时豁免，可商业部署至多5000辆自动驾驶出租车",
@@ -10,6 +10,16 @@
       "category": "robotics",
       "pubDate": "2026-07-30T12:57:35.000Z",
       "summary": "亚马逊旗下Zoox获美监管机构临时豁免，可商业部署最多5000辆自动驾驶出租车。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI总裁放出狠话：ChatGPT桌面端要消灭标签页，年底前大变天",
+      "link": "https://zhidx.com/p/580963.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T14:13:58.000Z",
+      "summary": "OpenAI总裁宣布ChatGPT桌面端将取消标签页，年底前界面大改。",
       "summaryZh": ""
     },
     {
@@ -29,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-30T12:09:33.000Z",
-      "summary": "AI聊天机器人实施情感诈骗能力超越人类。",
+      "summary": "AI聊天机器人情感诈骗能力超越人类。",
       "summaryZh": ""
     },
     {
@@ -39,7 +49,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-30T06:14:43.000Z",
-      "summary": "“接力跑”技术实现PD分离，大幅降低延迟和成本。",
+      "summary": "“接力跑”技术实现PD分离，大幅降低大模型推理延迟和成本。",
       "summaryZh": ""
     },
     {
@@ -49,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-30T10:18:57.000Z",
-      "summary": "AI大厂加大算力投资，通过借款和债券市场融资，推动数据中心建设。",
+      "summary": "AI大厂加大算力投资，通过债券市场融资建设数据中心。",
       "summaryZh": ""
     },
     {
@@ -63,33 +73,23 @@
       "summaryZh": ""
     },
     {
+      "title": "OpenAI承认AI模型失控入侵事件涉及多个平台",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41eGpfMVdWZ2VITms4WGNJN3puOFpaclY0T0NkQlBUVjVtX1RLNC12SHFSWHRVLXFwM2xIZ0V5dzZnTGtPN0pveEFqZklmUkZsZFpQR1U3Qnk?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T08:36:25.000Z",
+      "summary": "OpenAI承认AI模型失控入侵多个公开服务平台账户。",
+      "summaryZh": ""
+    },
+    {
       "title": "首个！细胞治疗行业多模态AI大模型落地",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGdTFUT0phY2dSRk9FMWpyV0xYNU1kZEVzTWhtUExtQ3h3bkt6VEZHRG1CelB5UTFzTllTVV9VcmJkOW1YYnVtYzhHc2p2c1h6RnAxWlhLWFcxVXRMaUxVczJNUnVfc2lPV00xamYxTEQ?oc=5",
       "source": "科技日报",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-30T09:25:24.000Z",
-      "summary": "细胞治疗行业首个多模态AI大模型RC-GPT V1.0发布，助力iPSC细胞制备标准化。",
-      "summaryZh": ""
-    },
-    {
-      "title": "北京手术机器人龙头，买了一家骨科植入物公司",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5IYjFiRFJzYTVUM2NQQ01PdTVudlFKb2pRZV9DQkY5SkdHcmxsZkp0VDFvbFQ1TDZTYk5Fd2x1TW5tUFdvQ1E?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-30T04:36:08.000Z",
-      "summary": "天智航拟收购上海微创骨科医疗科技有限公司62%股权，拓展骨科植入物业务。",
-      "summaryZh": ""
-    },
-    {
-      "title": "生成式AI专利数量：软银第一，中企排名靠前",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50eHNoQTdjUHU4NzBKWnhfaVJkQ0ZQRmQtZEljcFZFYm1jU1NPbzl2TDZFSmM1SC1INS1kM0QwZVJtb2tEdFptV0djc09NSnJ1?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-30T03:59:09.000Z",
-      "summary": "软银以2985项生成式AI专利居全球首位，中国机构占前十排名六席。",
+      "summary": "细胞治疗行业首个多模态AI大模型RC—GPT V1.0正式发布。",
       "summaryZh": ""
     },
     {
@@ -99,8 +99,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-30T07:10:38.000Z",
-      "summary": "AI落地价值取决于工程能力而非模型大小。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "中共中央政治局：扎实推进“六张网”规划建设，深入实施“人工智能+”行动",
@@ -109,7 +108,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-30T06:38:00.000Z",
-      "summary": "中共中央政治局推进“六张网”规划与“人工智能+”行动。",
+      "summary": "中共中央政治局推进“六张网”规划和“人工智能+”行动。",
       "summaryZh": ""
     },
     {
@@ -129,7 +128,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-30T10:01:14.000Z",
-      "summary": "MedBench评测基准升级至5.0版本，构建专科化评测体系。",
+      "summary": "MedBench评测基准升级至5.0，构建专科化评测体系。",
+      "summaryZh": ""
+    },
+    {
+      "title": "宇树科技：初步询价日为8月5日，网上网下申购日为8月10日",
+      "link": "https://36kr.com/newsflashes/3918161688505730?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-30T13:20:10.000Z",
+      "summary": "宇树科技首次公开发行股票，初步询价日8月5日，申购日8月10日。",
       "summaryZh": ""
     },
     {
@@ -141,27 +150,6 @@
       "pubDate": "2026-07-30T06:11:07.000Z",
       "summary": "国家级“机器人职校”在杭州启用，助力机器人技能训练与实际应用。",
       "summaryZh": ""
-    },
-    {
-      "title": "闪电递表三闯港股，斯坦德机器人何以如此心急？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CTlhRWDdKcXBacjMwUEM4VS0wWTc1RVl1MzE5dko1NXM3ajJ6Vk5ZY2ZGNXJDaDF4ekcxd2VqcmFJRWQwZGpnemxEbElDRFpfdFhZb25NOA?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-30T08:40:56.000Z",
-      "summary": "斯坦德机器人第三次递表港交所，急切融资以缓解资金压力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-      "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-07-30T17:18:45.000Z",
-      "summary": "DeepMind推出新型AI模型，可控制机器人全身。",
-      "summaryZh": "",
-      "titleZh": "谷歌DeepMind的新人工智能模型可以控制机器人的整个身体"
     },
     {
       "title": "Best Vacuum Cleaners (2026): Cordless Vacuums, Robot Vacuums, Dysons",
@@ -197,6 +185,16 @@
       "titleZh": "Dexory 部署 SimScale 的工程 AI 来加速仓库机器人的开发"
     },
     {
+      "title": "闪电递表三闯港股，斯坦德机器人何以如此心急？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CTlhRWDdKcXBacjMwUEM4VS0wWTc1RVl1MzE5dko1NXM3ajJ6Vk5ZY2ZGNXJDaDF4ekcxd2VqcmFJRWQwZGpnemxEbElDRFpfdFhZb25NOA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-30T08:40:56.000Z",
+      "summary": "斯坦德机器人第三次递表港股，急切寻求资金以缓解账期压力。",
+      "summaryZh": ""
+    },
+    {
       "title": "Waymo每百万英里发生1.28起事故，自动驾驶比人类更安全了吗？",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjdFI0RFZUVHFrc0NETlVBS01tblJSMjNkWG8ySWoyU1N1ZFU4U3BZenJ3YnhkTm9xd3JuM3hvcG15Zk8yNnRZbDEyMzQ4ZHYzM0Y1SkpWNA?oc=5",
       "source": "与非网",
@@ -204,16 +202,6 @@
       "category": "robotics",
       "pubDate": "2026-07-30T07:02:43.000Z",
       "summary": "Waymo自动驾驶每百万英里事故率1.28起，低于人类驾驶员。",
-      "summaryZh": ""
-    },
-    {
-      "title": "财富管理从业者迎来全新对手：客户手中的AI聊天机器人",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZS1teDdNT2lubXV2UGlCZHk4eUlGMnZHclpHYTkwUzhiSmhxSHNTd0ZBa1F5SWtLVjl5TndVZ2JPUHdXUXBBdjdCekNxZ0kzeExvU2d0eXdZMmNIR25yZG5TNEk4MU91OHRTaDJpWXJqWnRGX3ZLb0YtcEhEZUx3czA4VnNVb2V4UkpsMnprM3JXQVJ3ZXdocmduODRmYU53VnJpcl9jMnJKdTNBQXE2WkdfSm1VeHU1QWFEZURtR1piVDhiMUdGRENoR3ZjTThPUlpoNXhjVUZWMXBYeWI4?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-30T12:29:00.000Z",
-      "summary": "AI聊天机器人成为财富管理从业者新对手，倒逼行业升级。",
       "summaryZh": ""
     },
     {
@@ -227,13 +215,23 @@
       "summaryZh": ""
     },
     {
+      "title": "China warns of retaliation if US sticks with robot ban",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmdhbnhGZW9OcUE5SGUyUmQ2RDdyQkN4N3d0ZVhtT201UTd5MEd1clhZc21YaUxIUVFMRTc2aUU5RzJWZTVQd3RmM19kUVhoVjJ4RElZS2UwbjdfNUhNVnY5NU1kTzNoUGFaX3VrNFZELUJmemg1R084Mm80cjFXd3FEeWhWczZ4MXFvNUo3c2pWLS14WnlqQlh4Y2JYaXlCZnVmeEdQcy1Udw?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-30T02:09:00.000Z",
+      "summary": "",
+      "titleZh": "中国警告美国若坚持机器人禁令将遭到报复"
+    },
+    {
       "title": "Walgreens opens Washington micro-fulfillment center",
       "link": "https://www.supplychaindive.com/news/walgreens-opens-washington-micro-fulfillment-center/826480/",
       "source": "Supply Chain Dive",
       "lang": "en",
       "category": "application",
       "pubDate": "2026-07-30T13:26:00.000Z",
-      "summary": "沃尔格林在华盛顿开设微型配送中心，以提升处方处理效率。",
+      "summary": "沃尔格林在华盛顿开设微型配送中心，以支持196家门店的处方处理。",
       "summaryZh": "",
       "titleZh": "沃尔格林在华盛顿开设微型配送中心"
     },
@@ -244,7 +242,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-07-30T06:16:00.000Z",
-      "summary": "AI客服技术升级，开始具备处理复杂任务的能力。",
+      "summary": "AI客服技术升级，逐步从“问答机器人”向“任务处理者”转变。",
       "summaryZh": ""
     },
     {
