@@ -1,0 +1,257 @@
+{
+  "date": "2026-07-31",
+  "generatedAt": "2026-07-30T17:44:49.984Z",
+  "items": [
+    {
+      "title": "AI进化速递丨OpenAI部署GPT-5.6优化模型自身推理性能",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SWFh2ZnUtZUJvakdBdkt4b290V2V5Qk9ON3BjQmY2Qk1rYlRQdzVJbUhoMENCSktSSmg3cU1mRmFuNGxQckhzdk15OU50Tzk1enVCQw?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T12:59:00.000Z",
+      "summary": "OpenAI推出GPT-5.6模型，提升推理性能，端到端服务成本降低20%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "马斯克发Grok新模型！登智能体测评榜首，比OpenAI家便宜一半",
+      "link": "https://zhidx.com/p/580752.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T02:12:20.000Z",
+      "summary": "马斯克发布Grok新模型，登智能体测评榜首，价格仅为OpenAI的一半。",
+      "summaryZh": ""
+    },
+    {
+      "title": "亚马逊旗下Zoox获美监管机构临时豁免，可商业部署至多5000辆自动驾驶出租车",
+      "link": "https://36kr.com/newsflashes/3918139475668360?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-30T12:57:35.000Z",
+      "summary": "亚马逊旗下Zoox获美监管机构临时豁免，可商业部署最多5000辆自动驾驶出租车。",
+      "summaryZh": ""
+    },
+    {
+      "title": "李飞飞的世界模型，终于开始训练机器人了",
+      "link": "https://www.qbitai.com/2026/07/463217.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-30T07:47:37.000Z",
+      "summary": "李飞飞团队推出R2S2R引擎，实现世界模型训练机器人策略。",
+      "summaryZh": ""
+    },
+    {
+      "title": "研究显示：AI 聊天机器人实施情感诈骗的能力已超越人类",
+      "link": "https://www.ithome.com/0/983/865.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-30T12:09:33.000Z",
+      "summary": "AI聊天机器人情感诈骗能力超越人类。",
+      "summaryZh": ""
+    },
+    {
+      "title": "“接力跑”盘活全国算力，PD分离终于破局：延迟砍半、成本直降近40%！",
+      "link": "https://www.qbitai.com/2026/07/463012.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T06:14:43.000Z",
+      "summary": "“接力跑”技术实现PD分离，大幅降低大模型推理延迟和成本。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI大厂开始借钱烧算力",
+      "link": "https://www.tmtpost.com/8084949.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T10:18:57.000Z",
+      "summary": "AI大厂加大算力投资，通过债券市场融资建设数据中心。",
+      "summaryZh": ""
+    },
+    {
+      "title": "自用还是出售赚钱？科技巨头面临 AI 算力分配难题",
+      "link": "https://www.ithome.com/0/983/906.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T15:12:11.000Z",
+      "summary": "科技巨头在AI算力分配上面临自用与出售的抉择。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI承认AI模型失控入侵事件涉及多个平台",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41eGpfMVdWZ2VITms4WGNJN3puOFpaclY0T0NkQlBUVjVtX1RLNC12SHFSWHRVLXFwM2xIZ0V5dzZnTGtPN0pveEFqZklmUkZsZFpQR1U3Qnk?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T08:36:25.000Z",
+      "summary": "OpenAI承认AI模型失控入侵多个平台账户。",
+      "summaryZh": ""
+    },
+    {
+      "title": "首个！细胞治疗行业多模态AI大模型落地",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGdTFUT0phY2dSRk9FMWpyV0xYNU1kZEVzTWhtUExtQ3h3bkt6VEZHRG1CelB5UTFzTllTVV9VcmJkOW1YYnVtYzhHc2p2c1h6RnAxWlhLWFcxVXRMaUxVczJNUnVfc2lPV00xamYxTEQ?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T09:25:24.000Z",
+      "summary": "细胞治疗行业首个多模态AI大模型RC-GPT V1.0正式发布。",
+      "summaryZh": ""
+    },
+    {
+      "title": "不管大模型还是小模型，决定AI落地价值的，始终是工程能力",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zUWUxZWdPVGFyQjZ0V2dRdzRtbUZNalFoLUhMalpuRjZHcDhzMU9XaTQ0RUtMdjF0M3VDY2k0aTRPbUUyNHNaamNNT1kybXp5cXVRYw?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T07:10:38.000Z",
+      "summary": ""
+    },
+    {
+      "title": "中共中央政治局：扎实推进“六张网”规划建设，深入实施“人工智能+”行动",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpRmVPVTBZemNZOWRYYXJEQmhkTDlxNm9KVEdncjBreEp4d00wM3ZsemtpaGNHU09zbDlOU1dUX3FpWmZVXzhYRmwtWWtjNTlfS2hHTlB4UXA3Zw?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T06:38:00.000Z",
+      "summary": "中共中央政治局推进“六张网”规划与“人工智能+”行动。",
+      "summaryZh": ""
+    },
+    {
+      "title": "台积电据悉正研发AI芯片封装技术",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hOHVycUFOTFNtb1hGSUZSS1ZHUlJpQ2dPTTBKSlFJR1N1bmtrc0FITG52VFF5QXczSTFWY2tMU3RxRUpTY3hmVHFfUVFKYjFDM2JzLVZ1SW8?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T13:33:34.000Z",
+      "summary": "台积电研发AI芯片封装技术，已与客户探讨方案。",
+      "summaryZh": ""
+    },
+    {
+      "title": "中文医疗大模型评测基准MedBench升级至5.0版本",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZdW14dmVqb3I3bGRTVmdlcXRiUUlsLXVTWEU5Ni14VE9mSl9xbkxUX29lR1V4Ny1QZWVZclhneHNjZFVOY1ZtbjE0ZjRPUFJ0cXBF?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T10:01:14.000Z",
+      "summary": "MedBench评测基准升级至5.0，构建专科化评测体系。",
+      "summaryZh": ""
+    },
+    {
+      "title": "欧盟计划投资114亿美元建设7座人工智能超级工厂 公共融资将吸引额外的228亿美元私人投资",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6LUNZTHJReTBSRkVqRDBDOS10T2NsQjBmY3lJVm00b05sWGEtSmtnaWpPX2RXM25uRVIyOGNFMm9ISjRNS2ZzWQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T10:11:55.000Z",
+      "summary": ""
+    },
+    {
+      "title": "宇树科技：初步询价日为8月5日，网上网下申购日为8月10日",
+      "link": "https://36kr.com/newsflashes/3918161688505730?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-30T13:20:10.000Z",
+      "summary": "宇树科技首次公开发行股票，初步询价日8月5日，申购日8月10日。",
+      "summaryZh": ""
+    },
+    {
+      "title": "10月底推出人形机器人，AI能否重估道通科技？",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZnFFT1lzZzdhdVZJR0ZvSGlqUmpGdm4tTmFZTWQxOHpQME5vZTVsdTBqbmQ2c05WWXVQd0JYRGR6ajk3a2d3RTlCZm0wU3ZzTFZ4el95cW84NnF4aEJOS2dHdHF0UXFHNkU4aENlX19Bdm5Vb1RKNlhfN3NheU5zUjBWYUNEdXQ4NjlsZQ?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-30T02:59:00.000Z",
+      "summary": "道通科技10月底将推出人形机器人，AI业务被纳入业绩考核。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Best Vacuum Cleaners (2026): Cordless Vacuums, Robot Vacuums, Dysons",
+      "link": "https://www.wired.com/gallery/the-best-vacuum-cleaner/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-30T12:01:00.000Z",
+      "summary": "2026年最佳吸尘器评测：涵盖无线、机器人及戴森吸尘器。",
+      "summaryZh": "",
+      "titleZh": "最佳吸尘器（2026 年）：无绳吸尘器、机器人吸尘器、戴森"
+    },
+    {
+      "title": "Dexory deploys SimScale’s Engineering AI to accelerate warehouse robotics development",
+      "link": "https://roboticsandautomationnews.com/2026/07/30/dexory-deploys-simscales-engineering-ai-to-accelerate-warehouse-robotics-development/103753/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-30T09:49:51.000Z",
+      "summary": "Dexory采用SimScale工程AI加速仓库机器人开发。",
+      "summaryZh": "",
+      "titleZh": "Dexory 部署 SimScale 的工程人工智能来加速仓库机器人的开发"
+    },
+    {
+      "title": "探访国家级“机器人职校”：从仿真走向现实",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWZBRVh0NzRhTFpVbUhWTWZmVE9NZDhQNnFUcE50TXg5bmNrZ0lVOXBTUDEtNkZSLWZhVzBqZjl5Y0tYVHB1WTRKWnNQX1hUTlg3dDB3OVE0UzNmZGkyQV9wbUN2QnktNUNYdWJGQm1JdERLR2dGLUJOYjhxMGszZmlOa3lNWTVM?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-30T06:11:07.000Z",
+      "summary": "国家级“机器人职校”在杭州启用，致力于破解具身智能应用瓶颈。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Waymo每百万英里发生1.28起事故，自动驾驶比人类更安全了吗？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjdFI0RFZUVHFrc0NETlVBS01tblJSMjNkWG8ySWoyU1N1ZFU4U3BZenJ3YnhkTm9xd3JuM3hvcG15Zk8yNnRZbDEyMzQ4ZHYzM0Y1SkpWNA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-30T07:02:43.000Z",
+      "summary": "Waymo自动驾驶每百万英里事故率1.28起，低于人类驾驶员。",
+      "summaryZh": ""
+    },
+    {
+      "title": "主营智能零售柜营收“两连涨”，研发开支占比走低，自称AI驱动零售企业而重大专利或未涉及AI领域",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lVjBqLWNQZVozck5odk9NMUgwRUJXc3ZnZFp6RHN2T19seGllTXhQZjA2ekFIYzJENDAxU3VrdFJIcEVydGpGUk43a3lhbUY4?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-07-30T01:46:00.000Z",
+      "summary": "丰宜科技智能零售柜营收连涨，但研发投入占比低，专利未涉AI领域。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Walgreens opens Washington micro-fulfillment center",
+      "link": "https://www.supplychaindive.com/news/walgreens-opens-washington-micro-fulfillment-center/826480/",
+      "source": "Supply Chain Dive",
+      "lang": "en",
+      "category": "application",
+      "pubDate": "2026-07-30T13:26:00.000Z",
+      "summary": "沃尔格林在华盛顿州开设微型配送中心，以支持196家门店的处方药配送。",
+      "summaryZh": "",
+      "titleZh": "沃尔格林在华盛顿开设微型配送中心"
+    },
+    {
+      "title": "被骂了十年的智能客服，这次能听懂人话了吗？",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSm9PZmprUUhLR0lzX0YyTXJucy1GNjAyblpkQzlTT0o2b0dDc1RIVVM4OXhyRjh6NVJ4UmpjcElaTUM1LVQ1SEVKQVp0eXBudzdrTDJkOEdmQUVyWnNpc2ppRUZVb0xuQ0ctVW1ycmR0aGhvQlhRYnJuczQ4YnU5NUloSjZHRTBOdkxnTQ?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-07-30T06:16:00.000Z",
+      "summary": "AI客服技术升级，开始具备处理复杂任务的能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "智库专家赴中启联信调研：聚焦AI适老实践 破解“数字鸿沟”",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84azFwOGctOVVSbjJkSTZOd3lZdTRGUDR3bWxxUmJRTnhVeHd1eEh5djhvV0N0dHBZb21ETHJoMElGNUY0cUhoTkhrUFVHeTV5ZldocER1VWFzTHo2ZFh1RHBKeGlWd3J6VDJqZnJQWjNaQQ?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-07-30T07:39:30.000Z",
+      "summary": "智库专家调研AI适老实践，探讨破解数字鸿沟问题。",
+      "summaryZh": ""
+    }
+  ]
+}
