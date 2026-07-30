@@ -1,7 +1,27 @@
 {
   "date": "2026-07-31",
-  "generatedAt": "2026-07-30T22:31:23.593Z",
+  "generatedAt": "2026-07-30T23:43:05.339Z",
   "items": [
+    {
+      "title": "降价 80%！OpenAI 下调 GPT-5.6 Luna AI 模型费用，性价比超 DeepSeek V4 Pro",
+      "link": "https://www.ithome.com/0/983/912.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T22:58:46.000Z",
+      "summary": "OpenAI下调GPT-5.6 Luna AI模型费用，性价比超越DeepSeek V4 Pro。",
+      "summaryZh": ""
+    },
+    {
+      "title": "马斯克发Grok新模型！登智能体测评榜首，比OpenAI家便宜一半",
+      "link": "https://zhidx.com/p/580752.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T02:12:20.000Z",
+      "summary": "马斯克发布Grok新模型，登智能体测评榜首，价格比OpenAI低一半。",
+      "summaryZh": ""
+    },
     {
       "title": "亚马逊旗下Zoox获美监管机构临时豁免，可商业部署至多5000辆自动驾驶出租车",
       "link": "https://36kr.com/newsflashes/3918139475668360?f=rss",
@@ -13,13 +33,13 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI总裁放出狠话：ChatGPT桌面端要消灭标签页，年底前大变天",
-      "link": "https://zhidx.com/p/580963.html",
-      "source": "智东西",
+      "title": "谷歌最强具身推理模型：Gemini Robotics ER 2 登场，支持连续视频理解与多机器人协作",
+      "link": "https://www.ithome.com/0/983/915.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-30T14:13:58.000Z",
-      "summary": "OpenAI总裁宣布ChatGPT桌面端将取消标签页，年底前界面大改。",
+      "pubDate": "2026-07-30T23:12:07.000Z",
+      "summary": "谷歌发布Gemini Robotics ER 2模型，支持连续视频理解与多机器人协作。",
       "summaryZh": ""
     },
     {
@@ -29,17 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-30T07:47:37.000Z",
-      "summary": "李飞飞团队推出R2S2R引擎，实现世界模型训练机器人策略。",
-      "summaryZh": ""
-    },
-    {
-      "title": "研究显示：AI 聊天机器人实施情感诈骗的能力已超越人类",
-      "link": "https://www.ithome.com/0/983/865.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-30T12:09:33.000Z",
-      "summary": "AI聊天机器人情感诈骗能力超越人类。",
+      "summary": "李飞飞团队推出R2S2R引擎，实现世界模型从生成到真实机器人训练的闭环。",
       "summaryZh": ""
     },
     {
@@ -49,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-30T06:14:43.000Z",
-      "summary": "“接力跑”技术实现PD分离，大幅降低大模型推理延迟和成本。",
+      "summary": "“接力跑”技术实现PD分离，大幅降低延迟和成本。",
       "summaryZh": ""
     },
     {
@@ -59,17 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-30T10:18:57.000Z",
-      "summary": "AI大厂加大算力投资，通过债券市场融资建设数据中心。",
-      "summaryZh": ""
-    },
-    {
-      "title": "自用还是出售赚钱？科技巨头面临 AI 算力分配难题",
-      "link": "https://www.ithome.com/0/983/906.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-30T15:12:11.000Z",
-      "summary": "科技巨头在AI算力分配上面临自用与出售的抉择。",
+      "summary": "AI大厂加大算力投资，通过债券市场融资支持数据中心建设。",
       "summaryZh": ""
     },
     {
@@ -83,13 +83,24 @@
       "summaryZh": ""
     },
     {
-      "title": "首个！细胞治疗行业多模态AI大模型落地",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGdTFUT0phY2dSRk9FMWpyV0xYNU1kZEVzTWhtUExtQ3h3bkt6VEZHRG1CelB5UTFzTllTVV9VcmJkOW1YYnVtYzhHc2p2c1h6RnAxWlhLWFcxVXRMaUxVczJNUnVfc2lPV00xamYxTEQ?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
+      "title": "AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost",
+      "link": "https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost",
+      "source": "VentureBeat",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-07-30T09:25:24.000Z",
-      "summary": "细胞治疗行业首个多模态AI大模型RC—GPT V1.0正式发布。",
+      "pubDate": "2026-07-30T21:48:00.000Z",
+      "summary": "OpenAI大幅降低GPT-5.6 Luna和Terra模型价格，引发AI价格战。",
+      "summaryZh": "",
+      "titleZh": "AI价格战：模型竞争转向成本，OpenAI将GPT-5.6 Luna价格下调80%"
+    },
+    {
+      "title": "北京手术机器人龙头，买了一家骨科植入物公司",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5IYjFiRFJzYTVUM2NQQ01PdTVudlFKb2pRZV9DQkY5SkdHcmxsZkp0VDFvbFQ1TDZTYk5Fd2x1TW5tUFdvQ1E?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-30T04:36:08.000Z",
+      "summary": "天智航拟收购上海微创骨科医疗科技有限公司62%股权，拓展骨科植入物业务。",
       "summaryZh": ""
     },
     {
@@ -99,16 +110,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-30T07:10:38.000Z",
-      "summary": ""
-    },
-    {
-      "title": "中共中央政治局：扎实推进“六张网”规划建设，深入实施“人工智能+”行动",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpRmVPVTBZemNZOWRYYXJEQmhkTDlxNm9KVEdncjBreEp4d00wM3ZsemtpaGNHU09zbDlOU1dUX3FpWmZVXzhYRmwtWWtjNTlfS2hHTlB4UXA3Zw?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-30T06:38:00.000Z",
-      "summary": "中共中央政治局推进“六张网”规划和“人工智能+”行动。",
+      "summary": "AI落地价值取决于工程能力，而非模型大小。",
       "summaryZh": ""
     },
     {
@@ -122,56 +124,55 @@
       "summaryZh": ""
     },
     {
-      "title": "中文医疗大模型评测基准MedBench升级至5.0版本",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZdW14dmVqb3I3bGRTVmdlcXRiUUlsLXVTWEU5Ni14VE9mSl9xbkxUX29lR1V4Ny1QZWVZclhneHNjZFVOY1ZtbjE0ZjRPUFJ0cXBF?oc=5",
+      "title": "[ 盘前点金 AI算力引爆“最贵装机季”；A股封测巨头扩产竞速；宇树科技上市最新进展",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zM21fLXhOV2NaazFoeGlucDhPQXFicmxQZnBvNElnTzhUcWRKWFBJcmItOUlDY1JFc3BKRmxNRTROVzdNU09NV05fUE5uWTJFN2YzaHF0NHQ?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-30T10:01:14.000Z",
-      "summary": "MedBench评测基准升级至5.0，构建专科化评测体系。",
+      "pubDate": "2026-07-30T23:27:43.000Z",
+      "summary": "AI算力推动装机季，A股封测巨头扩产，宇树科技上市进展。",
       "summaryZh": ""
     },
     {
-      "title": "宇树科技：初步询价日为8月5日，网上网下申购日为8月10日",
-      "link": "https://36kr.com/newsflashes/3918161688505730?f=rss",
-      "source": "36氪",
+      "title": "谷歌发布新一代机器人AI模型，实现人形机器人全身控制",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XazZHa2ZhY3J2Sm9oWXhMVHRqRUVEM1JjckJKOGJnZzlvQ0hmMXNCWmk5aXNETVBxbjc5SThTalpmZ0JNT3VkZTBOc0w2bkxIUWZ3?oc=5",
+      "source": "华尔街见闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-30T13:20:10.000Z",
-      "summary": "宇树科技首次公开发行股票，初步询价日8月5日，申购日8月10日。",
-      "summaryZh": ""
+      "pubDate": "2026-07-30T15:22:17.000Z",
+      "summary": ""
     },
     {
-      "title": "探访国家级“机器人职校”：从仿真走向现实",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWZBRVh0NzRhTFpVbUhWTWZmVE9NZDhQNnFUcE50TXg5bmNrZ0lVOXBTUDEtNkZSLWZhVzBqZjl5Y0tYVHB1WTRKWnNQX1hUTlg3dDB3OVE0UzNmZGkyQV9wbUN2QnktNUNYdWJGQm1JdERLR2dGLUJOYjhxMGszZmlOa3lNWTVM?oc=5",
-      "source": "新华网科技",
+      "title": "10月底推出人形机器人，AI能否重估道通科技？",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZnFFT1lzZzdhdVZJR0ZvSGlqUmpGdm4tTmFZTWQxOHpQME5vZTVsdTBqbmQ2c05WWXVQd0JYRGR6ajk3a2d3RTlCZm0wU3ZzTFZ4el95cW84NnF4aEJOS2dHdHF0UXFHNkU4aENlX19Bdm5Vb1RKNlhfN3NheU5zUjBWYUNEdXQ4NjlsZQ?oc=5",
+      "source": "21财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-30T06:11:07.000Z",
-      "summary": "国家级“机器人职校”在杭州启用，助力机器人技能训练与实际应用。",
+      "pubDate": "2026-07-30T02:59:00.000Z",
+      "summary": "道通科技10月底将推出人形机器人，AI业务被纳入业绩考核。",
       "summaryZh": ""
     },
     {
-      "title": "Best Vacuum Cleaners (2026): Cordless Vacuums, Robot Vacuums, Dysons",
-      "link": "https://www.wired.com/gallery/the-best-vacuum-cleaner/",
-      "source": "Wired",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-07-30T12:01:00.000Z",
-      "summary": "2026年最佳吸尘器评测：涵盖无线、机器人及戴森吸尘器。",
-      "summaryZh": "",
-      "titleZh": "最佳吸尘器（2026 年）：无绳吸尘器、机器人吸尘器、戴森"
-    },
-    {
-      "title": "DoorDash gains FAA certification to operate its own drone delivery program",
-      "link": "https://www.therobotreport.com/doordash-gains-faa-certification-to-operate-its-own-drone-delivery-program/",
+      "title": "5 Physical AI Infrastructure Platforms Shaping Robotics in 2026",
+      "link": "https://www.therobotreport.com/5-physical-ai-infrastructure-platforms-shaping-robotics-in-2026/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-07-30T18:06:18.000Z",
-      "summary": "DoorDash获得FAA认证，推出自家的无人机配送项目。",
+      "pubDate": "2026-07-30T20:01:22.000Z",
+      "summary": "2026年，五款物理AI基础设施平台引领机器人技术发展。",
       "summaryZh": "",
-      "titleZh": "DoorDash 获得美国联邦航空局 (FAA) 认证，可运营自己的无人机送货计划"
+      "titleZh": "塑造 2026 年机器人技术的 5 个物理人工智能基础设施平台"
+    },
+    {
+      "title": "Teradyne Robotics revenue rises 33% year over year in Q2",
+      "link": "https://www.therobotreport.com/teradyne-robotics-revenue-rises-33-year-over-year-in-q2/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-30T17:38:52.000Z",
+      "summary": "Teradyne Robotics第二季度收入同比增长33%，达到1亿美元。",
+      "summaryZh": "",
+      "titleZh": "泰瑞达机器人第二季度收入同比增长 33%"
     },
     {
       "title": "Dexory deploys SimScale’s Engineering AI to accelerate warehouse robotics development",
@@ -182,26 +183,16 @@
       "pubDate": "2026-07-30T09:49:51.000Z",
       "summary": "Dexory采用SimScale工程AI加速仓库机器人开发。",
       "summaryZh": "",
-      "titleZh": "Dexory 部署 SimScale 的工程 AI 来加速仓库机器人的开发"
+      "titleZh": "Dexory 部署 SimScale 的工程人工智能来加速仓库机器人的开发"
     },
     {
-      "title": "闪电递表三闯港股，斯坦德机器人何以如此心急？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CTlhRWDdKcXBacjMwUEM4VS0wWTc1RVl1MzE5dko1NXM3ajJ6Vk5ZY2ZGNXJDaDF4ekcxd2VqcmFJRWQwZGpnemxEbElDRFpfdFhZb25NOA?oc=5",
-      "source": "与非网",
+      "title": "探访国家级“机器人职校”：从仿真走向现实",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWZBRVh0NzRhTFpVbUhWTWZmVE9NZDhQNnFUcE50TXg5bmNrZ0lVOXBTUDEtNkZSLWZhVzBqZjl5Y0tYVHB1WTRKWnNQX1hUTlg3dDB3OVE0UzNmZGkyQV9wbUN2QnktNUNYdWJGQm1JdERLR2dGLUJOYjhxMGszZmlOa3lNWTVM?oc=5",
+      "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-30T08:40:56.000Z",
-      "summary": "斯坦德机器人第三次递表港股，急切寻求资金以缓解账期压力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Waymo每百万英里发生1.28起事故，自动驾驶比人类更安全了吗？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjdFI0RFZUVHFrc0NETlVBS01tblJSMjNkWG8ySWoyU1N1ZFU4U3BZenJ3YnhkTm9xd3JuM3hvcG15Zk8yNnRZbDEyMzQ4ZHYzM0Y1SkpWNA?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-30T07:02:43.000Z",
-      "summary": "Waymo自动驾驶每百万英里事故率1.28起，低于人类驾驶员。",
+      "pubDate": "2026-07-30T06:11:07.000Z",
+      "summary": "国家级“机器人职校”在杭州启用，助力机器人从仿真走向现实应用。",
       "summaryZh": ""
     },
     {
@@ -211,18 +202,8 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-07-30T01:46:00.000Z",
-      "summary": "丰宜科技智能零售柜营收连涨，研发投入占比下降，专利未涉AI领域。",
+      "summary": "丰宜科技智能零售柜营收连涨，研发投入占比低，专利未涉AI领域。",
       "summaryZh": ""
-    },
-    {
-      "title": "China warns of retaliation if US sticks with robot ban",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmdhbnhGZW9OcUE5SGUyUmQ2RDdyQkN4N3d0ZVhtT201UTd5MEd1clhZc21YaUxIUVFMRTc2aUU5RzJWZTVQd3RmM19kUVhoVjJ4RElZS2UwbjdfNUhNVnY5NU1kTzNoUGFaX3VrNFZELUJmemg1R084Mm80cjFXd3FEeWhWczZ4MXFvNUo3c2pWLS14WnlqQlh4Y2JYaXlCZnVmeEdQcy1Udw?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-07-30T02:09:00.000Z",
-      "summary": "",
-      "titleZh": "中国警告美国若坚持机器人禁令将遭到报复"
     },
     {
       "title": "Walgreens opens Washington micro-fulfillment center",
@@ -231,7 +212,7 @@
       "lang": "en",
       "category": "application",
       "pubDate": "2026-07-30T13:26:00.000Z",
-      "summary": "沃尔格林在华盛顿开设微型配送中心，以支持196家门店的处方处理。",
+      "summary": "沃尔格林在华盛顿开设微型配送中心，以支持196家门店的处方药配送。",
       "summaryZh": "",
       "titleZh": "沃尔格林在华盛顿开设微型配送中心"
     },
@@ -242,7 +223,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-07-30T06:16:00.000Z",
-      "summary": "AI客服技术升级，逐步从“问答机器人”向“任务处理者”转变。",
+      "summary": "AI客服技术升级，开始具备处理复杂任务的能力。",
       "summaryZh": ""
     },
     {
