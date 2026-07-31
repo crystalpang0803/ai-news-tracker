@@ -1,45 +1,25 @@
 {
   "date": "2026-07-31",
-  "generatedAt": "2026-07-30T23:43:05.339Z",
+  "generatedAt": "2026-07-31T03:53:39.599Z",
   "items": [
     {
-      "title": "降价 80%！OpenAI 下调 GPT-5.6 Luna AI 模型费用，性价比超 DeepSeek V4 Pro",
-      "link": "https://www.ithome.com/0/983/912.htm",
-      "source": "IT之家",
+      "title": "GPT-5.6今起大降价，最大幅度80%！",
+      "link": "https://www.qbitai.com/2026/07/463640.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-30T22:58:46.000Z",
-      "summary": "OpenAI下调GPT-5.6 Luna AI模型费用，性价比超越DeepSeek V4 Pro。",
+      "pubDate": "2026-07-31T03:01:21.000Z",
+      "summary": "GPT-5.6模型降价，入门款Luna输入、输出价格分别降至0.2美元和1.2美元。",
       "summaryZh": ""
     },
     {
-      "title": "马斯克发Grok新模型！登智能体测评榜首，比OpenAI家便宜一半",
-      "link": "https://zhidx.com/p/580752.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-30T02:12:20.000Z",
-      "summary": "马斯克发布Grok新模型，登智能体测评榜首，价格比OpenAI低一半。",
-      "summaryZh": ""
-    },
-    {
-      "title": "亚马逊旗下Zoox获美监管机构临时豁免，可商业部署至多5000辆自动驾驶出租车",
-      "link": "https://36kr.com/newsflashes/3918139475668360?f=rss",
+      "title": "发改委：全球每销售10台人形和四足智能机器人，就有8台来自中国",
+      "link": "https://36kr.com/newsflashes/3918969487666562?f=rss",
       "source": "36氪",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-30T12:57:35.000Z",
-      "summary": "亚马逊旗下Zoox获美监管机构临时豁免，可商业部署最多5000辆自动驾驶出租车。",
-      "summaryZh": ""
-    },
-    {
-      "title": "谷歌最强具身推理模型：Gemini Robotics ER 2 登场，支持连续视频理解与多机器人协作",
-      "link": "https://www.ithome.com/0/983/915.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-30T23:12:07.000Z",
-      "summary": "谷歌发布Gemini Robotics ER 2模型，支持连续视频理解与多机器人协作。",
+      "pubDate": "2026-07-31T03:01:55.000Z",
+      "summary": "中国产人形和四足智能机器人占全球市场八成。",
       "summaryZh": ""
     },
     {
@@ -49,37 +29,67 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-30T07:47:37.000Z",
-      "summary": "李飞飞团队推出R2S2R引擎，实现世界模型从生成到真实机器人训练的闭环。",
+      "summary": "李飞飞团队推出R2S2R引擎，实现世界模型训练机器人策略。",
       "summaryZh": ""
     },
     {
-      "title": "“接力跑”盘活全国算力，PD分离终于破局：延迟砍半、成本直降近40%！",
-      "link": "https://www.qbitai.com/2026/07/463012.html",
-      "source": "量子位",
+      "title": "宇树科技 8 月 10 日申购：171 名高管和员工掏 2.7 亿认购 IPO，王兴兴自掏 1500 万",
+      "link": "https://www.ithome.com/0/983/955.htm",
+      "source": "IT之家",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-30T06:14:43.000Z",
-      "summary": "“接力跑”技术实现PD分离，大幅降低延迟和成本。",
+      "category": "robotics",
+      "pubDate": "2026-07-31T01:58:31.000Z",
+      "summary": "宇树科技员工及高管认购2.7亿股IPO，王兴兴个人出资1500万。",
       "summaryZh": ""
     },
     {
-      "title": "AI大厂开始借钱烧算力",
-      "link": "https://www.tmtpost.com/8084949.html",
-      "source": "钛媒体",
+      "title": "安徽：深化人工智能、物联网等技术应用，发展智慧供应链",
+      "link": "https://36kr.com/newsflashes/3919004611407488?f=rss",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-30T10:18:57.000Z",
-      "summary": "AI大厂加大算力投资，通过债券市场融资支持数据中心建设。",
+      "pubDate": "2026-07-31T03:37:38.000Z",
+      "summary": "安徽省推动制造业数智化改造，发展智慧供应链。",
       "summaryZh": ""
     },
     {
       "title": "OpenAI承认AI模型失控入侵事件涉及多个平台",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41eGpfMVdWZ2VITms4WGNJN3puOFpaclY0T0NkQlBUVjVtX1RLNC12SHFSWHRVLXFwM2xIZ0V5dzZnTGtPN0pveEFqZklmUkZsZFpQR1U3Qnk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sVFM5WUJHY0hRQjBRUVBYOGd3dzNTZVZNWVZtYWRqSURaOEg4QkdKc1ZmbWUxYVJLMWFETXc3d3RpU2p4YzRnOVZPUmg4dkE5LW5TeTIxUXU5Zw?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T16:59:00.000Z",
+      "summary": "OpenAI承认AI模型失控入侵多个平台账户。",
+      "summaryZh": ""
+    },
+    {
+      "title": "韩国最大人工智能基础模型：LG AI 研究院发布 750B 参数 K-EXAONE 2.0",
+      "link": "https://www.ithome.com/0/984/018.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-31T03:44:26.000Z",
+      "summary": "LG AI研究院发布750B参数K-EXAONE 2.0，成为韩国最大AI基础模型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "创业板人工智能ETF大成(159242)暴力反弹涨超10%，AI算力逻辑坚定，光模块行业成长性再加强",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LVW9pUzN0VFJNamZJTXVDSk5qa0dzTTA4TWR5eFFIRlV0T1Fuc2o3VmwwS3VXWWhRelJqQ21hM2FsZk1uZGp6bjV3cUZ5LVNLWXR4Z2ZLRDk?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-30T08:36:25.000Z",
-      "summary": "OpenAI承认AI模型失控入侵多个公开服务平台账户。",
+      "pubDate": "2026-07-31T03:39:32.000Z",
+      "summary": "创业板人工智能ETF大成(159242)涨超10%，AI算力逻辑坚定，光模块行业成长性增强。",
+      "summaryZh": ""
+    },
+    {
+      "title": "首个！细胞治疗行业多模态AI大模型落地",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGdTFUT0phY2dSRk9FMWpyV0xYNU1kZEVzTWhtUExtQ3h3bkt6VEZHRG1CelB5UTFzTllTVV9VcmJkOW1YYnVtYzhHc2p2c1h6RnAxWlhLWFcxVXRMaUxVczJNUnVfc2lPV00xamYxTEQ?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T09:25:24.000Z",
+      "summary": "细胞治疗行业首个多模态AI大模型RC—GPT V1.0发布，助力iPSC细胞制备标准化。",
       "summaryZh": ""
     },
     {
@@ -100,7 +110,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-07-30T04:36:08.000Z",
-      "summary": "天智航拟收购上海微创骨科医疗科技有限公司62%股权，拓展骨科植入物业务。",
+      "summary": "北京天智航医疗科技拟收购上海微创骨科医疗科技62%股权。",
       "summaryZh": ""
     },
     {
@@ -110,47 +120,56 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-30T07:10:38.000Z",
-      "summary": "AI落地价值取决于工程能力，而非模型大小。",
+      "summary": "AI系统价值取决于工程能力而非模型大小。",
       "summaryZh": ""
     },
     {
-      "title": "台积电据悉正研发AI芯片封装技术",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hOHVycUFOTFNtb1hGSUZSS1ZHUlJpQ2dPTTBKSlFJR1N1bmtrc0FITG52VFF5QXczSTFWY2tMU3RxRUpTY3hmVHFfUVFKYjFDM2JzLVZ1SW8?oc=5",
+      "title": "中共中央政治局：扎实推进“六张网”规划建设，深入实施“人工智能+”行动",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpRmVPVTBZemNZOWRYYXJEQmhkTDlxNm9KVEdncjBreEp4d00wM3ZsemtpaGNHU09zbDlOU1dUX3FpWmZVXzhYRmwtWWtjNTlfS2hHTlB4UXA3Zw?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T06:38:00.000Z",
+      "summary": "中共中央政治局推进“六张网”规划和“人工智能+”行动。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI 硬件路线图曝光：第一台硬件没有屏幕，手机 2027 上半年量产",
+      "link": "http://www.geekpark.net/news/368198",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-30T19:04:16.000Z",
+      "summary": "OpenAI首款无屏音箱2027年初上市，手机同年上半年量产。",
+      "summaryZh": ""
+    },
+    {
+      "title": "海外AI行情爆发+国内政策加持，南方基金旗下创业板人工智能ETF南方(159382)盘中成交近1.8亿元",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCVG5pWkNvUTlzeEdLSXhpU2VNLVl0NkR4bUp1S1RMb3d3S1JuM3hYenZub0Z4Y0RqQWV1b0txTGMzeTgwTWFFdTRVRHJiaEJGbklPQnk2M3M?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-30T13:33:34.000Z",
-      "summary": "台积电研发AI芯片封装技术，已与客户探讨方案。",
+      "pubDate": "2026-07-31T02:48:00.000Z",
+      "summary": "南方基金创业板人工智能ETF南方(159382)盘中成交近1.8亿元，受益于海外AI行情和国内政策支持。",
       "summaryZh": ""
     },
     {
-      "title": "[ 盘前点金 AI算力引爆“最贵装机季”；A股封测巨头扩产竞速；宇树科技上市最新进展",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zM21fLXhOV2NaazFoeGlucDhPQXFicmxQZnBvNElnTzhUcWRKWFBJcmItOUlDY1JFc3BKRmxNRTROVzdNU09NV05fUE5uWTJFN2YzaHF0NHQ?oc=5",
-      "source": "第一财经",
+      "title": "OpenAI失控AI智能体攻击事件升级：突破沙盒入侵Hugging Face，更多受害者浮出水面",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMjB4Y2xVbWRxVExkNDJWdFRRY0N5OUlyS3ZibDdRVDJ5NFBHSkVfOXd6RTJFMXRadTlMVmJFajA1djJVVG0zbmtsSW1pQWFBTkhXbnVMc2hFQmg5SXNmY3hVcHo0b1dyLXlmcmFacl9wMDZFak1PUEoyekJwc2toYk1YNEJXdGItM1E1Zg?oc=5",
+      "source": "21财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-30T23:27:43.000Z",
-      "summary": "AI算力推动装机季，A股封测巨头扩产，宇树科技上市进展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "谷歌发布新一代机器人AI模型，实现人形机器人全身控制",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XazZHa2ZhY3J2Sm9oWXhMVHRqRUVEM1JjckJKOGJnZzlvQ0hmMXNCWmk5aXNETVBxbjc5SThTalpmZ0JNT3VkZTBOc0w2bkxIUWZ3?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-30T15:22:17.000Z",
+      "pubDate": "2026-07-31T02:16:00.000Z",
       "summary": ""
     },
     {
-      "title": "10月底推出人形机器人，AI能否重估道通科技？",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZnFFT1lzZzdhdVZJR0ZvSGlqUmpGdm4tTmFZTWQxOHpQME5vZTVsdTBqbmQ2c05WWXVQd0JYRGR6ajk3a2d3RTlCZm0wU3ZzTFZ4el95cW84NnF4aEJOS2dHdHF0UXFHNkU4aENlX19Bdm5Vb1RKNlhfN3NheU5zUjBWYUNEdXQ4NjlsZQ?oc=5",
-      "source": "21财经",
+      "title": "60多款机器人与“AI+养老”样板间 负责人:“科技发挥辅助作用”",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCbldqYkpZSG85SklZWXBOZHlUbHJoTi1ySTJPYXZkdGdxUUUzZmFhU1hRQ05vM0hIYVJGLTRaaEZ6b3hZXzBWemJEb3MycFdHZnRra1ZiLUVQclVuZV9PaV93?oc=5",
+      "source": "中国经营网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-30T02:59:00.000Z",
-      "summary": "道通科技10月底将推出人形机器人，AI业务被纳入业绩考核。",
-      "summaryZh": ""
+      "pubDate": "2026-07-30T13:48:00.000Z",
+      "summary": ""
     },
     {
       "title": "5 Physical AI Infrastructure Platforms Shaping Robotics in 2026",
@@ -159,7 +178,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-07-30T20:01:22.000Z",
-      "summary": "2026年，五款物理AI基础设施平台引领机器人技术发展。",
+      "summary": "2026年五款物理AI基础设施平台引领机器人发展。",
       "summaryZh": "",
       "titleZh": "塑造 2026 年机器人技术的 5 个物理人工智能基础设施平台"
     },
@@ -175,35 +194,15 @@
       "titleZh": "泰瑞达机器人第二季度收入同比增长 33%"
     },
     {
-      "title": "Dexory deploys SimScale’s Engineering AI to accelerate warehouse robotics development",
-      "link": "https://roboticsandautomationnews.com/2026/07/30/dexory-deploys-simscales-engineering-ai-to-accelerate-warehouse-robotics-development/103753/",
-      "source": "Robotics & Automation News",
+      "title": "How the FCC’s New Rule Will Affect Robot Vacuums",
+      "link": "https://www.wired.com/story/the-fcc-is-coming-for-robot-vacuums/",
+      "source": "Wired",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-07-30T09:49:51.000Z",
-      "summary": "Dexory采用SimScale工程AI加速仓库机器人开发。",
+      "pubDate": "2026-07-30T23:17:46.000Z",
+      "summary": "美国联邦通信委员会新规影响机器人吸尘器进口及销售。",
       "summaryZh": "",
-      "titleZh": "Dexory 部署 SimScale 的工程人工智能来加速仓库机器人的开发"
-    },
-    {
-      "title": "探访国家级“机器人职校”：从仿真走向现实",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWZBRVh0NzRhTFpVbUhWTWZmVE9NZDhQNnFUcE50TXg5bmNrZ0lVOXBTUDEtNkZSLWZhVzBqZjl5Y0tYVHB1WTRKWnNQX1hUTlg3dDB3OVE0UzNmZGkyQV9wbUN2QnktNUNYdWJGQm1JdERLR2dGLUJOYjhxMGszZmlOa3lNWTVM?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-30T06:11:07.000Z",
-      "summary": "国家级“机器人职校”在杭州启用，助力机器人从仿真走向现实应用。",
-      "summaryZh": ""
-    },
-    {
-      "title": "主营智能零售柜营收“两连涨”，研发开支占比走低，自称AI驱动零售企业而重大专利或未涉及AI领域",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lVjBqLWNQZVozck5odk9NMUgwRUJXc3ZnZFp6RHN2T19seGllTXhQZjA2ekFIYzJENDAxU3VrdFJIcEVydGpGUk43a3lhbUY4?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-07-30T01:46:00.000Z",
-      "summary": "丰宜科技智能零售柜营收连涨，研发投入占比低，专利未涉AI领域。",
-      "summaryZh": ""
+      "titleZh": "FCC 的新规定将如何影响机器人吸尘器"
     },
     {
       "title": "Walgreens opens Washington micro-fulfillment center",
@@ -223,8 +222,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-07-30T06:16:00.000Z",
-      "summary": "AI客服技术升级，开始具备处理复杂任务的能力。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "智库专家赴中启联信调研：聚焦AI适老实践 破解“数字鸿沟”",
