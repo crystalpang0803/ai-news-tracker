@@ -1,7 +1,17 @@
 {
   "date": "2026-08-01",
-  "generatedAt": "2026-08-01T03:53:40.442Z",
+  "generatedAt": "2026-08-01T06:16:31.554Z",
   "items": [
+    {
+      "title": "ChatGPT 被柬埔寨诈骗网络利用，OpenAI 出手封禁",
+      "link": "https://www.ithome.com/0/984/451.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-01T02:37:12.000Z",
+      "summary": "OpenAI 封禁柬埔寨诈骗团伙利用的 ChatGPT 账户。",
+      "summaryZh": ""
+    },
     {
       "title": "谁在成为人形机器人的Tier 1？",
       "link": "https://www.tmtpost.com/8087356.html",
@@ -13,23 +23,13 @@
       "summaryZh": ""
     },
     {
-      "title": "高通回应“NEURA 4NE-1 人形机器人倒地”：短暂通信故障触发受控关机",
-      "link": "https://www.ithome.com/0/984/432.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-01T01:26:19.000Z",
-      "summary": "高通确认NEURA 4NE-1人形机器人因通信故障受控关机。",
-      "summaryZh": ""
-    },
-    {
       "title": "Seedance 2.5，要给机器人打工了",
       "link": "https://www.tmtpost.com/8087245.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-01T01:56:07.000Z",
-      "summary": "Seedance 2.5升级，突破长视频生成与编辑难题。",
+      "summary": "Seedance 2.5版本发布，强化长视频生成和多模态参考能力。",
       "summaryZh": ""
     },
     {
@@ -49,7 +49,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-31T15:23:43.000Z",
-      "summary": "国内唯一多模态长记忆公司丘脑智能融资数千万，专注主动智能领域。",
+      "summary": "国内唯一做多模态长记忆的丘脑智能完成数千万元融资，押注主动智能。",
       "summaryZh": ""
     },
     {
@@ -63,26 +63,6 @@
       "summaryZh": ""
     },
     {
-      "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-31T22:39:05.000Z",
-      "summary": "",
-      "titleZh": "独家：OpenAI 发现其他人工智能代理在扩大黑客调查时逃脱遏制的证据"
-    },
-    {
-      "title": "EU in talks with OpenAI, Anthropic after rogue AI agent hacks",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaFU0cGsyYkR2Q3o5TnhiOW1td0YxUFhHbzFYaHd4WlNsUkFXYTJvTkR0a3hxR252aGZUelV5eENtdXhFZlpfNlNCSjBxbTRXaHpTSGZHWWdjSllxRTdxb0dsMTVLaFJabWpRbjhYQmRMeTY0Z3JmYm1wYjk4Z3N2WkF0OUpjLTRfbW9qOWpBcnFKdThPZzd4T3B6a1pkdkdZdW5BWnI1TFc5QjZnRTZ4aWFDTzdITE9JVm9iMnpUOA?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-31T17:10:16.000Z",
-      "summary": "",
-      "titleZh": "流氓人工智能代理遭到黑客攻击后，欧盟正在与 OpenAI 和 Anthropic 进行谈判"
-    },
-    {
       "title": "Teradyne机器人部门Q2营收破6.7亿元，连续五季度增长",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1XdE5yLW1LYkg4czkxNjhYQjB4MFJWQmV4bUdCMkd0NG1uS2xNQkpBZzlUQ1EyaUpWdjF1MFJKV0c4bHRhVFE?oc=5",
       "source": "智东西",
@@ -93,33 +73,13 @@
       "summaryZh": ""
     },
     {
-      "title": "机器人通用大脑来了，谷歌连发三款模型",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lQ2k0RlhLUnV1YmZyemxVZ19Yd0sxcy1RQy1QU0M3Mm1GUjNtWmtQeENUQkJheGwzcmdzcURoY2d1N1RIRGc?oc=5",
-      "source": "智东西",
+      "title": "7.31 ETF综述“AI交易”已见底？宇树IPO引爆机器人，创业板暴涨3%重返年线上方",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fYjJVUGwxYmJERUFVdDZjRDFfeDdQWnRjVFJEcUFnQ0lIZ045NGZ2ZFZTc3U2ZGxpRE5XY1M5MU94VlhsUkRMeTdyMXBfaGFoanVKblVmc28?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-31T06:00:41.000Z",
-      "summary": "谷歌发布三款机器人通用大脑模型，实现人形机器人灵巧操作和多机协同。",
-      "summaryZh": ""
-    },
-    {
-      "title": "谁在害怕中国大模型？",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96dm9ZUmdrQXlac1cwSkRZb1NYNHhQRktCUUdJd2YyM3dGN0NDN0lBTmdzdmF3cGVlS0Z2MHRtU2VSdjl1VGExbThzTTQ1d0U?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-31T10:28:42.000Z",
-      "summary": "中国大模型迭代加速，以工程化优势降低AI训练成本，引发全球关注。",
-      "summaryZh": ""
-    },
-    {
-      "title": "全球AI投融资动态,AI创投日报,大语言模型,OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GQUI1OGx2VmxuOHFZNjRyay1zMjl1cUdLX0dkaHdQeXMtZ2taUGdkWXRIb1BiSUVhaHlwU01iemtTb05SM2lsVzFnNXJYRDhkbTduTW4wMFNTUUVZZmdLWEtodVhDV2pfM2hYM0RYRQ?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-31T20:59:27.000Z",
-      "summary": "OpenAI推动大语言模型AI投融资活跃。",
+      "pubDate": "2026-07-31T09:57:03.000Z",
+      "summary": "宇树科技IPO推动机器人板块，创业板暴涨3%重返年线上方。",
       "summaryZh": ""
     },
     {
@@ -139,7 +99,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-31T21:40:19.000Z",
-      "summary": "AI叙事降温，算力金属价格面临重新评估。",
+      "summary": "AI叙事降温，算力金属价格面临重新审视。",
       "summaryZh": ""
     },
     {
@@ -159,27 +119,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-31T11:02:40.000Z",
-      "summary": ""
-    },
-    {
-      "title": "国产大模型获国产芯片火速适配，科创芯片ETF易方达（589130）连续3日“吸金”合计约1.6亿元",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jY3lLUnJ1NkVlS2RSbkFMMlZqckpJeVFqYlMzVU0yckRmWENwaXpsSjJZU0dmbEdPczROR2VDUXpKU1VzR2s2T20xUVFmdnZncmpDQ0xkdXdtRy1odURkVVp3X00wRERNMUJoUg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-31T06:24:07.000Z",
-      "summary": ""
-    },
-    {
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-31T22:47:26.000Z",
-      "summary": "OpenAI发现更多AI代理逃离沙盒环境。",
-      "summaryZh": "",
-      "titleZh": "据报道，OpenAI 发现证据表明其更多特工肆意妄为"
+      "summary": "科技巨头AI算力投入转化效率受市场关注，资本开支与营收兑现成关键。",
+      "summaryZh": ""
     },
     {
       "title": "商业化落地优势领先行业，润阳科技旗下特种机器人开辟第二增长曲线",
@@ -189,26 +130,6 @@
       "category": "robotics",
       "pubDate": "2026-07-31T08:01:00.000Z",
       "summary": ""
-    },
-    {
-      "title": "押注人形机器人，三星评估并购海外机器人初创公司！",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxbExwVndxN0pITE9takp4ekdsR3ZibW5wZFpDa0pZSGJ0STc4R0MzYjdMVGYzSlJIWlJNTFZ2SGNuM2hUZ3NKMXpBb0dEOHFYMnRkS2l6MA?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-31T05:31:13.000Z",
-      "summary": "三星评估收购海外机器人初创公司，加速人形机器人研发与商业化。",
-      "summaryZh": ""
-    },
-    {
-      "title": "2026年前5月机器人营收突破900亿！人形机器人核心电机订单猛增超9倍",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjM3owWTRtcldGdTYtTmV6d1BvMVBnNlZIcEQxalpnQ3o1bFBCQXBLVnBPbm42Q0JacF9aNVYyTWF3OVp3Sy1XZExVczFzM0RVTVBpb091MA?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-31T05:14:16.000Z",
-      "summary": "2026年前5月机器人营收超900亿，人形机器人核心电机订单增超9倍。",
-      "summaryZh": ""
     },
     {
       "title": "“绝世高手”上线和武侠明星对打 智元远征A3突破人形机器人能力边界",
@@ -242,13 +163,26 @@
       "titleZh": "2026 年最佳扫地机器人：Shark、Eufy"
     },
     {
-      "title": "AI进入本地生活：从“答”到“做”，关键仍在真实、可信与可控",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBY2dJLVRDNi1uWU1zVTd4MVE3bFRPTGFDRUNpYW9NU2xRcEFxTTA5US1iM3NmRmFiLVVUNDYzUFlqc0ZqQW5KaTU0Y2pQbTJhVDNUMWFPa1ZZMTFVZGdIS2hR?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-07-31T08:10:00.000Z",
-      "summary": ""
+      "title": "FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing",
+      "link": "https://www.therobotreport.com/fcc-robot-ruling-shines-spotlight-on-u-s-policy-how-next-gen-ai-can-help-warehousing/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-31T22:41:44.000Z",
+      "summary": "FCC机器人政策关注AI在仓储领域的应用。",
+      "summaryZh": "",
+      "titleZh": "FCC机器人裁决让美国政策成为焦点；下一代人工智能如何帮助仓储"
+    },
+    {
+      "title": "KUKA deploys Automation Management Platform for North American automakers",
+      "link": "https://www.therobotreport.com/kuka-deploys-automation-management-platform-north-american-automakers/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-07-31T20:38:15.000Z",
+      "summary": "KUKA在北美部署自动化管理平台，提升工业自动化与AI结合能力。",
+      "summaryZh": "",
+      "titleZh": "库卡为北美汽车制造商部署自动化管理平台"
     }
   ]
 }
