@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "generatedAt": "2026-08-01T19:24:13.498Z",
+  "generatedAt": "2026-08-01T20:32:04.676Z",
   "items": [
     {
       "title": "人形机器人家政清洁服务走入现实，每小时 30 美元",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-01T09:36:50.000Z",
-      "summary": "人形机器人家政清洁服务在旧金山推出，每小时收费30美元。",
+      "summary": "人形机器人家政清洁服务在美国旧金山推出，每小时收费30美元。",
       "summaryZh": ""
     },
     {
@@ -19,17 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-01T14:01:47.000Z",
-      "summary": "2025年中国工业具身智能机器人市场规模预计达57.4亿元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "报道称OpenAI面临投资者担忧与竞争压力 IPO或推迟至明年",
-      "link": "https://36kr.com/newsflashes/3920415886061193?f=rss",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-01T04:45:09.000Z",
-      "summary": "OpenAI因投资者担忧和竞争压力，IPO可能推迟至明年。",
+      "summary": "2025年中国工业具身智能机器人市场规模预计达57.4亿元，商业化进程加速。",
       "summaryZh": ""
     },
     {
@@ -43,23 +33,13 @@
       "summaryZh": ""
     },
     {
-      "title": "自研大模型的马斯克，把豆包装进了特斯拉",
-      "link": "https://www.tmtpost.com/8087804.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-01T08:19:41.000Z",
-      "summary": "特斯拉中国车型接入字节跳动豆包大模型，实现智能语音助手功能。",
-      "summaryZh": ""
-    },
-    {
       "title": "天线宝宝机器人上门做保洁，200元/小时，纯·人工·智能",
       "link": "https://www.qbitai.com/2026/08/464781.html",
       "source": "量子位",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-01T10:45:46.000Z",
-      "summary": "美国公司推出遥控人形机器人提供家庭保洁服务。",
+      "summary": "美国公司推出遥控人形机器人提供家政服务，每小时200元人民币。",
       "summaryZh": ""
     },
     {
@@ -69,7 +49,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-01T07:30:11.000Z",
-      "summary": "美国企业采用中国大模型以降低成本。",
+      "summary": "美国企业开始采用中国大模型以降低成本。",
+      "summaryZh": ""
+    },
+    {
+      "title": "自研大模型的马斯克，把豆包装进了特斯拉",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LcjZXX1VoX0xuR0RnRnBoMy1SY2tOeXpRZXdWWmJFQklaZWc0c1oxcjk5N0FaSThWSU1OWGZDR1c1dk9zRUhYSkhMbEY?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-01T08:19:00.000Z",
+      "summary": "特斯拉在中国市场采用字节跳动豆包大模型，实现车机系统AI语音助手升级。",
       "summaryZh": ""
     },
     {
@@ -79,18 +69,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-01T02:50:42.000Z",
-      "summary": "中国开源基模复制DeepSeek，中美AGI人才差距缩小至零代。",
+      "summary": "中国开源基模批量复制DeepSeek，中美AGI人才差距缩小至零。",
       "summaryZh": ""
-    },
-    {
-      "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-07-31T20:16:00.000Z",
-      "summary": "",
-      "titleZh": "独家：OpenAI 发现其他人工智能代理在扩大黑客调查时逃脱遏制的证据"
     },
     {
       "title": "“异构算力驱动大模型应用落地”交流会在苏州举行",
@@ -113,32 +93,33 @@
       "summaryZh": ""
     },
     {
-      "title": "探访亦庄“AI+养老”样板间：30多个品牌60余款机器人",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50RGk2Vlh1SGhmc1g3OWxiaEdSQUdPTjJiMDhTRmVvYVR3a19WajBCSUh5bERabHVoVHo0U3pjaXBSS1VoYnRtUzc4NkVpeFdfMVowck1wZ2tGWGRKM3FqeWpqM0s?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-31T19:28:00.000Z",
-      "summary": ""
-    },
-    {
       "title": "全球AI投融资动态,AI创投日报,大语言模型,OpenAI",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GQUI1OGx2VmxuOHFZNjRyay1zMjl1cUdLX0dkaHdQeXMtZ2taUGdkWXRIb1BiSUVhaHlwU01iemtTb05SM2lsVzFnNXJYRDhkbTduTW4wMFNTUUVZZmdLWEtodVhDV2pfM2hYM0RYRQ?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-31T20:59:27.000Z",
-      "summary": "OpenAI推动大语言模型AI投融资活跃。",
+      "summary": "OpenAI等大语言模型领域投融资活跃。",
       "summaryZh": ""
     },
     {
-      "title": "FCC禁令之后，具身智能企业还能站上CES2027么？",
-      "link": "https://www.tmtpost.com/8087586.html",
+      "title": "消息称恩智浦洽谈收购边缘AI芯片设计企业Ambarella",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44cUdCaElST1ZLRDExeGxzXy1jX2VzeXJmN1NYX3czNE9jYS1nY21Zc3MwTVlUN2pXRnFqN3FqVldTVTVQU05KVlAwYTUyQ1BtRXN1ai14YWsydw?oc=5",
       "source": "钛媒体",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-01T06:31:24.000Z",
-      "summary": "FCC禁令影响具身智能企业CES2027参展，产品迭代受限制。",
+      "category": "ai",
+      "pubDate": "2026-08-01T02:45:00.000Z",
+      "summary": "恩智浦洽谈收购边缘AI芯片设计企业Ambarella。",
+      "summaryZh": ""
+    },
+    {
+      "title": "活力中国调研行｜制造AI芯片前，先要把一片晶圆片磨平：绍兴企业靠给芯片“磨地基”成为龙头",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vc3JFTUJMX3dZeUhwUEprS2dTcERncFVzd1ExaU5Ta1dKZE1ZSVducTNQSG9uTTJMSThOV0M4aUpLd09HTGNYMzdxUzVMSkJad1NVQ0dWelBtaEFZaWJ3Ug?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-01T10:55:43.000Z",
+      "summary": "绍兴企业晶盛机电以芯片磨平技术成为行业龙头。",
       "summaryZh": ""
     },
     {
@@ -152,13 +133,13 @@
       "summaryZh": ""
     },
     {
-      "title": "太阳岛共话人形机器人 冰城聚力打造寒地智能产业新高地",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xQktZM1dpZjFmb0hDNVRKVDNIM1NGLUhQaHc0Z1ZwYkJGRlh0OXBWa2JpTkM5TWxhNW9Kc0hmLXdZRDBPMFlpNXFOWHIxSmVuQjJMU2loQVlxWmRaVDBydC16aFBwMFBlVTZJUHJ3NWYtOGJWd0xZNEUzb1VmUQ?oc=5",
-      "source": "新华社",
+      "title": "WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NZlVCMnFaWGVFU29JcUIySF9SaVZ5YVVqWnZKQVpBbjJXNVVRVkFQTlRWMTdJOXFTbUV1VHd1YnhLR2pCZm1lOFhmSW84TEU3b0pnbTRn?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-01T07:36:31.000Z",
-      "summary": "哈尔滨太阳岛举办人形机器人论坛，共谋寒地智能产业发展。",
+      "pubDate": "2026-08-01T02:16:00.000Z",
+      "summary": "WAIC圆桌讨论聚焦AI重写工作流、产业链和技术范式，探讨AI对人类工作方式的影响。",
       "summaryZh": ""
     },
     {
@@ -172,13 +153,13 @@
       "summaryZh": ""
     },
     {
-      "title": "机器人发展看北京",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZMHl5WGVFV1g4ZS1GcUJiamhfaUh3UXVLQzNzRWd2dFdwanhRY0pKMXZMWUtMcXVySEVqbmFfbEgxU1prN0RSLWpLc1JUWW11b3JtVXJ4dlRtWXEwVzRZYnBR?oc=5",
-      "source": "新京报",
+      "title": "活力中国调研行丨机器人干得咋样？这家基地告诉你",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwQWpwOVNqUEdTQS1rU2ZZVzVtTU9TelB0WlFTZXpySDVtdThQMzg2V0Vta0M1bUYwNGQwR3R3VlkzZkRram9lZzZvOE5YSEI5MFBmNXRsZWc2U196TndDcjZBS1JaOHVCNUwyc1MtazJzbTNBR25R?oc=5",
+      "source": "新华社",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-01T09:26:00.000Z",
-      "summary": "北京加速进化科技备战世界人形机器人运动会，推动人形机器人成为通用智能终端。",
+      "pubDate": "2026-08-01T06:42:40.000Z",
+      "summary": "杭州具身智能展示中心展示各类机器人应用场景，推动技术成果规模化落地。",
       "summaryZh": ""
     },
     {
@@ -192,13 +173,13 @@
       "summaryZh": ""
     },
     {
-      "title": "深蓝具身智能_课程",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5eTZ1RTB2Q2lDZDBHNUd1eUNvaWExS0F4ZklGTklfdXpORXF6RWh1UXNjVklEZGk4em5FdEM3WndYVkwzNVQ4Q21VMFVYckc0c3o2QlF2Yw?oc=5",
+      "title": "智能制造时代：Bamtone ICT系列离子污染测试仪如何实现高效PCB离子污染检测",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10U2xwM21SNlhHOUFTUnZIWGxoblk1STdxOVh0c2hpdFR3LXZBejA5RTFRZi1ZUXNmb1pSNkVHYmZMRUlXT245SnNwYkY3VFdqNEFfSWxTOA?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-01T08:10:04.000Z",
-      "summary": "深蓝推出具身智能课程，涵盖设计资源与产业研究。",
+      "pubDate": "2026-08-01T01:50:13.000Z",
+      "summary": "Bamtone ICT系列离子污染测试仪采用ROSE测试法，实现高效PCB离子污染检测。",
       "summaryZh": ""
     }
   ]
