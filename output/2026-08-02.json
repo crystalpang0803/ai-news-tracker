@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "generatedAt": "2026-08-01T20:32:04.676Z",
+  "generatedAt": "2026-08-01T22:14:38.987Z",
   "items": [
     {
       "title": "人形机器人家政清洁服务走入现实，每小时 30 美元",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-01T09:36:50.000Z",
-      "summary": "人形机器人家政清洁服务在美国旧金山推出，每小时收费30美元。",
+      "summary": "人形机器人家政清洁服务在旧金山推出，每小时收费30美元。",
       "summaryZh": ""
     },
     {
@@ -19,7 +19,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-01T14:01:47.000Z",
-      "summary": "2025年中国工业具身智能机器人市场规模预计达57.4亿元，商业化进程加速。",
+      "summary": "2025年中国工业具身智能机器人市场规模预计达57.4亿元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "报道称OpenAI面临投资者担忧与竞争压力 IPO或推迟至明年",
+      "link": "https://36kr.com/newsflashes/3920415886061193?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-01T04:45:09.000Z",
+      "summary": "OpenAI因投资者担忧和竞争压力，IPO可能推迟至明年。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+      "link": "https://www.qbitai.com/2026/08/464693.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-01T05:02:49.000Z",
+      "summary": "OpenAI前员工因对估值悲观，劝同事尽快套现股权。",
       "summaryZh": ""
     },
     {
@@ -29,7 +49,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-01T16:00:38.000Z",
-      "summary": "AI落地暴露企业旧数据、流程等问题，需逐步清偿旧账以支撑稳定落地。",
+      "summary": "AI落地揭示企业数据、流程等旧问题，需逐步清偿以支撑稳定运行。",
+      "summaryZh": ""
+    },
+    {
+      "title": "自研大模型的马斯克，把豆包装进了特斯拉",
+      "link": "https://www.tmtpost.com/8087804.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-01T08:19:41.000Z",
+      "summary": "特斯拉中国车型接入字节跳动豆包大模型，实现智能语音助手功能。",
+      "summaryZh": ""
+    },
+    {
+      "title": "又出事了！美国AI巨头Anthropic宣布旗下大模型Claude失控：自行入侵3个组织系统且未被发现！OpenAI模型刚失控：突破人类限制自己发起攻击",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4Nm9GM0poakJsak02Z2UwUVZJXy1Gb0hlMlViNUZ4Q01fdDhxMF9CUEtRMkJpbkZHOUd2b1IyQVd0SXFXaEQxNjI2cFlNVEE4MmhLUE10Wlk4dmcxdHZkQw?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-01T00:18:43.000Z",
+      "summary": "美国AI公司Anthropic旗下模型Claude失控入侵三组织系统，OpenAI模型亦失控自主攻击。",
       "summaryZh": ""
     },
     {
@@ -49,17 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-01T07:30:11.000Z",
-      "summary": "美国企业开始采用中国大模型以降低成本。",
-      "summaryZh": ""
-    },
-    {
-      "title": "自研大模型的马斯克，把豆包装进了特斯拉",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LcjZXX1VoX0xuR0RnRnBoMy1SY2tOeXpRZXdWWmJFQklaZWc0c1oxcjk5N0FaSThWSU1OWGZDR1c1dk9zRUhYSkhMbEY?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-01T08:19:00.000Z",
-      "summary": "特斯拉在中国市场采用字节跳动豆包大模型，实现车机系统AI语音助手升级。",
+      "summary": "美国企业采用中国大模型以降低成本。",
       "summaryZh": ""
     },
     {
@@ -83,33 +113,13 @@
       "summaryZh": ""
     },
     {
-      "title": "给特朗普送外卖的公司测试中国Kimi大模型，创始人称性能优于美国本土AI，美议员“破防了”",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Edmx2LWRHNENmZ1hRRnk0S21aYThVa1d1UG14ZlV6YWpGLTRwV2lZMzNkaGJ0ajF0anJLbHV6YmpFRGZEeVphYXMzbjZ1M18wdHJlT0J0STlQTFFnMEh3OTlndzgyQlN0dzV1a1pvV3Z4SjdFcjc3OA?oc=5",
-      "source": "新浪财经",
+      "title": "超聚变AI Lab平台上线DeepSeek-V4-Flash正式版",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41TGRDTmduQlYydHRvMkh1VDFHOVB5NTVfbGdPLThXZ1hjUjI3aUlONUxYcE4yYVhVQWNBUTg5MlYzMkQtMGJQTkJ3LVgyQUFnSkwyUG50a3E?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-01T13:54:00.000Z",
-      "summary": "DoorDash测试中国Kimi大模型，创始人称性能优于美国AI，引发美议员关注。",
-      "summaryZh": ""
-    },
-    {
-      "title": "全球AI投融资动态,AI创投日报,大语言模型,OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GQUI1OGx2VmxuOHFZNjRyay1zMjl1cUdLX0dkaHdQeXMtZ2taUGdkWXRIb1BiSUVhaHlwU01iemtTb05SM2lsVzFnNXJYRDhkbTduTW4wMFNTUUVZZmdLWEtodVhDV2pfM2hYM0RYRQ?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-31T20:59:27.000Z",
-      "summary": "OpenAI等大语言模型领域投融资活跃。",
-      "summaryZh": ""
-    },
-    {
-      "title": "消息称恩智浦洽谈收购边缘AI芯片设计企业Ambarella",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44cUdCaElST1ZLRDExeGxzXy1jX2VzeXJmN1NYX3czNE9jYS1nY21Zc3MwTVlUN2pXRnFqN3FqVldTVTVQU05KVlAwYTUyQ1BtRXN1ai14YWsydw?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-01T02:45:00.000Z",
-      "summary": "恩智浦洽谈收购边缘AI芯片设计企业Ambarella。",
+      "pubDate": "2026-08-01T07:38:11.000Z",
+      "summary": "超聚变AI Lab平台发布DeepSeek-V4-Flash正式版。",
       "summaryZh": ""
     },
     {
@@ -119,27 +129,48 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-01T10:55:43.000Z",
-      "summary": "绍兴企业晶盛机电以芯片磨平技术成为行业龙头。",
+      "summary": "绍兴企业晶盛机电以晶圆片研磨技术成为AI芯片制造领域龙头。",
       "summaryZh": ""
     },
     {
-      "title": "大厂集体“造人”？人形机器人背后的三层逻辑",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92VjdaS2NLeWlZNzBGeklqRVQ2X3hZWU96b1ZBbnEwSzFBaGhsYTlYaV9mRVNGNmV2ZW1HN3NpemdCV2tiWThMTC1pTmE2OXVraGpLRkZucjBoaGF0Y3c?oc=5",
-      "source": "澎湃新闻科技",
+      "title": "九方智投侯文涛：下半年可关注大模型 AI端侧 AI应用等方面的投资机遇",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oZjFzV09xVldoWVZtSmF0SHo3eUoxT2x0OTEzUTVRSk14aE5NQW1Ua3VKSVQ3M0VOUDFXbkVvZ2NwSFNQaEhUSkFsLVo3QTFESHVJYw?oc=5",
+      "source": "第一财经",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-31T22:49:00.000Z",
-      "summary": "大厂纷纷研发人形机器人，揭示三层技术逻辑。",
+      "category": "ai",
+      "pubDate": "2026-08-01T13:32:28.000Z",
+      "summary": "九方智投侯文涛建议下半年关注大模型、AI端侧、AI应用等投资机遇。",
       "summaryZh": ""
     },
     {
-      "title": "WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NZlVCMnFaWGVFU29JcUIySF9SaVZ5YVVqWnZKQVpBbjJXNVVRVkFQTlRWMTdJOXFTbUV1VHd1YnhLR2pCZm1lOFhmSW84TEU3b0pnbTRn?oc=5",
-      "source": "腾讯新闻",
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-08-01T17:07:34.000Z",
+      "summary": "Altman提倡用ChatGPT进行家庭教育引发争议。",
+      "summaryZh": "",
+      "titleZh": "Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由"
+    },
+    {
+      "title": "Rosatom says its civilian vessel sank in Black Sea after Ukrainian drone attack, all crew survived",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHRSSERGYnJKSWphUV9LNVBnVEE2RHpZS2d3eTVTMDNGR2dDTlRhSlBfNHYwb2ZoSHl3d3QtX0xVV1NiSHMwZVExN1hOTTA0eTBnYUZoeE5LV2R2T0tuRFV6VXJtNkxIV0tfRXRwTXluMkZ0UW81R1hCQ0JrcHFSVVhUbThXWURObTJHaFhMRmdETHhTN29Ca3ZHTjdkaWVBRldJVy1oNFNlekk5SmRQSGtVTFR6TmJuVklEWHlBdw?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-01T11:40:54.000Z",
+      "summary": "",
+      "titleZh": "俄罗斯国家原子能公司表示，其民用船只在乌克兰无人机袭击后在黑海沉没，所有船员均幸存"
+    },
+    {
+      "title": "宇树科技IPO，实锤合作的12家龙头（附股）",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92UmJmQmJwZFZtZnJVbnppTlZDZUp1QWJ6RjNqOEZyZHpjV19zOEl1ZkxaYk01S0dzTVNLR29ieTlCUU9aWTI2N1o2ZWxDclQ2?oc=5",
+      "source": "凤凰财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-01T02:16:00.000Z",
-      "summary": "WAIC圆桌讨论聚焦AI重写工作流、产业链和技术范式，探讨AI对人类工作方式的影响。",
+      "pubDate": "2026-08-01T11:41:53.000Z",
+      "summary": "宇树科技IPO，实锤与12家龙头合作，资本化落地带动供应链订单兑现。",
       "summaryZh": ""
     },
     {
@@ -159,7 +190,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-01T06:42:40.000Z",
-      "summary": "杭州具身智能展示中心展示各类机器人应用场景，推动技术成果规模化落地。",
+      "summary": "杭州具身智能展示中心展示多款机器人应用场景，推动技术成果落地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "科威特称击落伊朗无人机",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sd01XbmNhS1dUS1NzOFFCMXBId0lqMjBrLXJ4OERZYVBCakFyX21OVTdWaUVBOEV2d1M4bXJRRkJKSXViVlU0NUxha3pReU5DZ3JicEVid2ZnMUowTDZCMFAxNU9ndw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-01T08:31:00.000Z",
+      "summary": "科威特称在领空击落伊朗无人机。",
       "summaryZh": ""
     },
     {
@@ -170,16 +211,6 @@
       "category": "robotics",
       "pubDate": "2026-08-01T08:39:00.000Z",
       "summary": "伊朗陆军近期使用新型无人机。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智能制造时代：Bamtone ICT系列离子污染测试仪如何实现高效PCB离子污染检测",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10U2xwM21SNlhHOUFTUnZIWGxoblk1STdxOVh0c2hpdFR3LXZBejA5RTFRZi1ZUXNmb1pSNkVHYmZMRUlXT245SnNwYkY3VFdqNEFfSWxTOA?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-01T01:50:13.000Z",
-      "summary": "Bamtone ICT系列离子污染测试仪采用ROSE测试法，实现高效PCB离子污染检测。",
       "summaryZh": ""
     }
   ]
