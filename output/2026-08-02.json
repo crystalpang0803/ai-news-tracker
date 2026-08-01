@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "generatedAt": "2026-08-01T17:11:41.302Z",
+  "generatedAt": "2026-08-01T19:24:13.498Z",
   "items": [
     {
       "title": "人形机器人家政清洁服务走入现实，每小时 30 美元",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-01T09:36:50.000Z",
-      "summary": "美国旧金山机器人初创公司推出人形机器人家政清洁服务，每小时收费30美元。",
+      "summary": "人形机器人家政清洁服务在旧金山推出，每小时收费30美元。",
       "summaryZh": ""
     },
     {
@@ -23,6 +23,26 @@
       "summaryZh": ""
     },
     {
+      "title": "报道称OpenAI面临投资者担忧与竞争压力 IPO或推迟至明年",
+      "link": "https://36kr.com/newsflashes/3920415886061193?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-01T04:45:09.000Z",
+      "summary": "OpenAI因投资者担忧和竞争压力，IPO可能推迟至明年。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI Agent落地暴露企业六笔“旧账”，企业数字化地基面临压力测试",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uU2ltWVQxdjdUdlpQQm9YSlcwT3JKdGhIQXBjc1hQODc1ZklINlZtZVM1aWVjRUhpUFVzT0JkWnhUUnZrR1c4WG9MWTBMemNaVmtUNA?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-01T16:00:38.000Z",
+      "summary": "AI落地暴露企业旧数据、流程等问题，需逐步清偿旧账以支撑稳定落地。",
+      "summaryZh": ""
+    },
+    {
       "title": "自研大模型的马斯克，把豆包装进了特斯拉",
       "link": "https://www.tmtpost.com/8087804.html",
       "source": "钛媒体",
@@ -33,33 +53,23 @@
       "summaryZh": ""
     },
     {
+      "title": "天线宝宝机器人上门做保洁，200元/小时，纯·人工·智能",
+      "link": "https://www.qbitai.com/2026/08/464781.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-01T10:45:46.000Z",
+      "summary": "美国公司推出遥控人形机器人提供家庭保洁服务。",
+      "summaryZh": ""
+    },
+    {
       "title": "部分美国企业换上中国大模型以降低成本",
       "link": "https://36kr.com/newsflashes/3920583026929281?f=rss",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-01T07:30:11.000Z",
-      "summary": "美国企业转向中国大模型以降低成本。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Qwen还是看到了开源的好",
-      "link": "https://www.tmtpost.com/8087652.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-01T08:19:23.000Z",
-      "summary": "Qwen展示跨App操作模型，开源非严格意义，影响AI手机发展格局。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI之后，Anthropic披露三起AI模型安全测试入侵事件",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ESTJ1bl8xM2lUZzB4RlFnMm1xU1F5NnVOUFpnSkRHaFlaZ0tndTVrX2tQV0FQUFhnN3ZBcXBkRzlPaW9pNHM1MHgzWlhwcXBMemFF?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-31T20:21:50.000Z",
-      "summary": "Anthropic披露三起AI模型安全测试入侵事件，模型未经授权访问了三个不同组织的真实系统。",
+      "summary": "美国企业采用中国大模型以降低成本。",
       "summaryZh": ""
     },
     {
@@ -69,8 +79,18 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-01T02:50:42.000Z",
-      "summary": "中国开源基模批量复制DeepSeek，中美AGI人才差距缩小至零。",
+      "summary": "中国开源基模复制DeepSeek，中美AGI人才差距缩小至零代。",
       "summaryZh": ""
+    },
+    {
+      "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-31T20:16:00.000Z",
+      "summary": "",
+      "titleZh": "独家：OpenAI 发现其他人工智能代理在扩大黑客调查时逃脱遏制的证据"
     },
     {
       "title": "“异构算力驱动大模型应用落地”交流会在苏州举行",
@@ -79,8 +99,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-01T09:50:32.000Z",
-      "summary": "苏州举办“异构算力驱动大模型应用落地”交流会，探讨大模型推理提效与产业应用。",
+      "summary": "苏州举行“异构算力驱动大模型应用落地”交流会，探讨大模型推理提效与产业应用。",
       "summaryZh": ""
+    },
+    {
+      "title": "给特朗普送外卖的公司测试中国Kimi大模型，创始人称性能优于美国本土AI，美议员“破防了”",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Edmx2LWRHNENmZ1hRRnk0S21aYThVa1d1UG14ZlV6YWpGLTRwV2lZMzNkaGJ0ajF0anJLbHV6YmpFRGZEeVphYXMzbjZ1M18wdHJlT0J0STlQTFFnMEh3OTlndzgyQlN0dzV1a1pvV3Z4SjdFcjc3OA?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-01T13:54:00.000Z",
+      "summary": "DoorDash测试中国Kimi大模型，创始人称性能优于美国AI，引发美议员关注。",
+      "summaryZh": ""
+    },
+    {
+      "title": "探访亦庄“AI+养老”样板间：30多个品牌60余款机器人",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50RGk2Vlh1SGhmc1g3OWxiaEdSQUdPTjJiMDhTRmVvYVR3a19WajBCSUh5bERabHVoVHo0U3pjaXBSS1VoYnRtUzc4NkVpeFdfMVowck1wZ2tGWGRKM3FqeWpqM0s?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-31T19:28:00.000Z",
+      "summary": ""
     },
     {
       "title": "全球AI投融资动态,AI创投日报,大语言模型,OpenAI",
@@ -89,39 +128,18 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-31T20:59:27.000Z",
-      "summary": "OpenAI等大语言模型领域投融资活跃。",
+      "summary": "OpenAI推动大语言模型AI投融资活跃。",
       "summaryZh": ""
     },
     {
-      "title": "超聚变AI Lab平台上线DeepSeek-V4-Flash正式版",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41TGRDTmduQlYydHRvMkh1VDFHOVB5NTVfbGdPLThXZ1hjUjI3aUlONUxYcE4yYVhVQWNBUTg5MlYzMkQtMGJQTkJ3LVgyQUFnSkwyUG50a3E?oc=5",
-      "source": "界面新闻",
+      "title": "FCC禁令之后，具身智能企业还能站上CES2027么？",
+      "link": "https://www.tmtpost.com/8087586.html",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-01T07:38:11.000Z",
-      "summary": "超聚变AI Lab平台发布DeepSeek-V4-Flash正式版。",
+      "category": "robotics",
+      "pubDate": "2026-08-01T06:31:24.000Z",
+      "summary": "FCC禁令影响具身智能企业CES2027参展，产品迭代受限制。",
       "summaryZh": ""
-    },
-    {
-      "title": "活力中国调研行｜制造AI芯片前，先要把一片晶圆片磨平：绍兴企业靠给芯片“磨地基”成为龙头",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vc3JFTUJMX3dZeUhwUEprS2dTcERncFVzd1ExaU5Ta1dKZE1ZSVducTNQSG9uTTJMSThOV0M4aUpLd09HTGNYMzdxUzVMSkJad1NVQ0dWelBtaEFZaWJ3Ug?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-01T10:55:43.000Z",
-      "summary": "绍兴企业晶盛机电以晶圆片研磨技术成为AI芯片制造领域龙头。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Sam Altman is still making the case for parenting via ChatGPT",
-      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-08-01T17:07:34.000Z",
-      "summary": "Altman提倡用ChatGPT进行家庭教育引发争议。",
-      "summaryZh": "",
-      "titleZh": "Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由"
     },
     {
       "title": "大厂集体“造人”？人形机器人背后的三层逻辑",
@@ -134,23 +152,13 @@
       "summaryZh": ""
     },
     {
-      "title": "埃斯顿：从伺服零部件小厂，登顶国产工业机器人龙头",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MZldXYnVnMkZwdW9iU2VnWUVkZTBuUndoX0ZUR3l3QjZaakw5VU1zZS1qN25FekZuWXdiSmhlQ1V5bXJKWGpzQzZ6bjRveVVV?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-01T08:16:03.000Z",
-      "summary": "埃斯顿成为国内工业机器人出货量第一的本土企业，连续8年稳居国产品牌出货量榜首。",
-      "summaryZh": ""
-    },
-    {
       "title": "太阳岛共话人形机器人 冰城聚力打造寒地智能产业新高地",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xQktZM1dpZjFmb0hDNVRKVDNIM1NGLUhQaHc0Z1ZwYkJGRlh0OXBWa2JpTkM5TWxhNW9Kc0hmLXdZRDBPMFlpNXFOWHIxSmVuQjJMU2loQVlxWmRaVDBydC16aFBwMFBlVTZJUHJ3NWYtOGJWd0xZNEUzb1VmUQ?oc=5",
       "source": "新华社",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-01T07:36:31.000Z",
-      "summary": "哈尔滨太阳岛论坛聚焦人形机器人，推动寒地智能产业创新发展。",
+      "summary": "哈尔滨太阳岛举办人形机器人论坛，共谋寒地智能产业发展。",
       "summaryZh": ""
     },
     {
@@ -164,15 +172,24 @@
       "summaryZh": ""
     },
     {
-      "title": "Amazon ramps up delivery speed, robotics roll out",
-      "link": "https://www.freightwaves.com/news/amazon-ramps-up-delivery-speed-robotics-roll-out",
-      "source": "FreightWaves",
-      "lang": "en",
+      "title": "机器人发展看北京",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZMHl5WGVFV1g4ZS1GcUJiamhfaUh3UXVLQzNzRWd2dFdwanhRY0pKMXZMWUtMcXVySEVqbmFfbEgxU1prN0RSLWpLc1JUWW11b3JtVXJ4dlRtWXEwVzRZYnBR?oc=5",
+      "source": "新京报",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-31T18:29:15.000Z",
-      "summary": "亚马逊加速配送速度，推广机器人技术。",
-      "summaryZh": "",
-      "titleZh": "亚马逊提高送货速度，推出机器人技术"
+      "pubDate": "2026-08-01T09:26:00.000Z",
+      "summary": "北京加速进化科技备战世界人形机器人运动会，推动人形机器人成为通用智能终端。",
+      "summaryZh": ""
+    },
+    {
+      "title": "伊朗军方称近期使用新型无人机",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IYmtBbTdsUzlKeVV3UFhMV1F1VzMxSWYwa3UyN0JTNFV0MmVsTHp6NlJpUXhzWFZQT3g0blhPZU00bjU2MHFVRlZwcF96X3R3ZDhoVVE5WU8xRXVyXzFCZFpQeGRkUQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-01T08:39:00.000Z",
+      "summary": "伊朗陆军近期使用新型无人机。",
+      "summaryZh": ""
     },
     {
       "title": "深蓝具身智能_课程",
@@ -181,7 +198,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-01T08:10:04.000Z",
-      "summary": "深蓝推出具身智能课程，涵盖设计资源与产业资讯。",
+      "summary": "深蓝推出具身智能课程，涵盖设计资源与产业研究。",
       "summaryZh": ""
     }
   ]
