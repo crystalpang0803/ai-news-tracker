@@ -1,26 +1,76 @@
 {
   "date": "2026-08-01",
-  "generatedAt": "2026-07-31T23:43:14.312Z",
+  "generatedAt": "2026-08-01T03:53:40.442Z",
   "items": [
     {
-      "title": "上半年上海智能车载设备、机器人销售收入同比增长61.5%和17.5%",
-      "link": "https://36kr.com/newsflashes/3919510952291713?f=rss",
-      "source": "36氪",
+      "title": "谁在成为人形机器人的Tier 1？",
+      "link": "https://www.tmtpost.com/8087356.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-31T12:12:43.000Z",
-      "summary": "上海智能车载设备、机器人销售收入上半年同比大幅增长。",
+      "pubDate": "2026-08-01T02:18:38.000Z",
+      "summary": "人形机器人Tier 1争夺战开启，松下、LG等巨头布局关节、感知与能源系统。",
       "summaryZh": ""
     },
     {
-      "title": "MiniMax H3 通用多模态视频模型将于 8 月 3 日开源，最高可支持 15s 2K 分辨率",
-      "link": "https://www.ithome.com/0/984/379.htm",
+      "title": "高通回应“NEURA 4NE-1 人形机器人倒地”：短暂通信故障触发受控关机",
+      "link": "https://www.ithome.com/0/984/432.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-31T13:13:29.000Z",
-      "summary": "MiniMax H3 通用多模态视频模型8月3日开源，支持15秒2K分辨率。",
+      "category": "robotics",
+      "pubDate": "2026-08-01T01:26:19.000Z",
+      "summary": "高通确认NEURA 4NE-1人形机器人因通信故障受控关机。",
       "summaryZh": ""
+    },
+    {
+      "title": "Seedance 2.5，要给机器人打工了",
+      "link": "https://www.tmtpost.com/8087245.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-01T01:56:07.000Z",
+      "summary": "Seedance 2.5升级，突破长视频生成与编辑难题。",
+      "summaryZh": ""
+    },
+    {
+      "title": "石头 P30 Pro 自清洁扫拖机器人 8 月 14 日上市，主打超薄热活水洗地",
+      "link": "https://www.ithome.com/0/984/463.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-01T03:31:33.000Z",
+      "summary": "石头 P30 Pro 自清洁扫拖机器人 8 月 14 日上市，主打超薄热活水洗地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能",
+      "link": "https://36kr.com/p/3919386961177985?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-31T15:23:43.000Z",
+      "summary": "国内唯一多模态长记忆公司丘脑智能融资数千万，专注主动智能领域。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI宣布GPT-5.6部分模型最高降价80% 挑战国产模型价格生态位",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLQ1lsMXFFejlQRmNSQVpkSlFaMkozUWlZbE5McUhtdml6ZmV0THFyNkliMFZGMWlOWnFkeGFEd25RUFd4Mmk1ajlFNHhoOHlXUkNaZUZnamtBWFQ0V2VRakVZSEk?oc=5",
+      "source": "财新网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-31T07:36:00.000Z",
+      "summary": "OpenAI宣布GPT-5.6部分模型最高降价80%，挑战国产模型价格生态位。",
+      "summaryZh": ""
+    },
+    {
+      "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-07-31T22:39:05.000Z",
+      "summary": "",
+      "titleZh": "独家：OpenAI 发现其他人工智能代理在扩大黑客调查时逃脱遏制的证据"
     },
     {
       "title": "EU in talks with OpenAI, Anthropic after rogue AI agent hacks",
@@ -33,16 +83,6 @@
       "titleZh": "流氓人工智能代理遭到黑客攻击后，欧盟正在与 OpenAI 和 Anthropic 进行谈判"
     },
     {
-      "title": "斯坦福新成果：模型会造机器人了",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1mWTgyWHRIY0NZbGNSeUxqbGlXaDhBbG1Ga1VNdm5CeHhmQmJQem1ycWVNZTZ4TFlBWDUyZFdEZjl3SDlnWGc?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-31T02:29:21.000Z",
-      "summary": "斯坦福大学提出Transformer Transformer模型，可直接参与机器人本体设计，实现动作轨迹到机器人结构的转换。",
-      "summaryZh": ""
-    },
-    {
       "title": "Teradyne机器人部门Q2营收破6.7亿元，连续五季度增长",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1XdE5yLW1LYkg4czkxNjhYQjB4MFJWQmV4bUdCMkd0NG1uS2xNQkpBZzlUQ1EyaUpWdjF1MFJKV0c4bHRhVFE?oc=5",
       "source": "智东西",
@@ -53,22 +93,43 @@
       "summaryZh": ""
     },
     {
-      "title": "商业化落地优势领先行业，润阳科技旗下特种机器人开辟第二增长曲线",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kcUlxWjU5VVBNNThSOV9CTlpZSUVnUllIeThBUzB4UlVkZi0yNGlRYWJ0cGYtQzF5UG1ZTjBmal9zSWlSVEZ4a01PZmdGdGdQYmY0dF9JYnRtU2xUcDJjNnVUYw?oc=5",
-      "source": "中国经营网",
+      "title": "机器人通用大脑来了，谷歌连发三款模型",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lQ2k0RlhLUnV1YmZyemxVZ19Yd0sxcy1RQy1QU0M3Mm1GUjNtWmtQeENUQkJheGwzcmdzcURoY2d1N1RIRGc?oc=5",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-31T08:01:00.000Z",
-      "summary": ""
+      "pubDate": "2026-07-31T06:00:41.000Z",
+      "summary": "谷歌发布三款机器人通用大脑模型，实现人形机器人灵巧操作和多机协同。",
+      "summaryZh": ""
     },
     {
-      "title": "恒生指数公司今天推出恒生港股通人工智能基础设施指数",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Iam9hS0M1bUJqNWl0ZkFzbFFsMXNaMl9YcEJxd1RFZ1Z4RGlLUEE3dWxma3UtUnlCMXVGRVVoS08tczZIOHUydDJtLXQ5UWJXdEhHS1RCcDl5dw?oc=5",
-      "source": "钛媒体",
+      "title": "谁在害怕中国大模型？",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96dm9ZUmdrQXlac1cwSkRZb1NYNHhQRktCUUdJd2YyM3dGN0NDN0lBTmdzdmF3cGVlS0Z2MHRtU2VSdjl1VGExbThzTTQ1d0U?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-07-31T08:53:00.000Z",
-      "summary": "恒生指数公司推出恒生港股通人工智能基础设施指数。",
+      "pubDate": "2026-07-31T10:28:42.000Z",
+      "summary": "中国大模型迭代加速，以工程化优势降低AI训练成本，引发全球关注。",
+      "summaryZh": ""
+    },
+    {
+      "title": "全球AI投融资动态,AI创投日报,大语言模型,OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GQUI1OGx2VmxuOHFZNjRyay1zMjl1cUdLX0dkaHdQeXMtZ2taUGdkWXRIb1BiSUVhaHlwU01iemtTb05SM2lsVzFnNXJYRDhkbTduTW4wMFNTUUVZZmdLWEtodVhDV2pfM2hYM0RYRQ?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-31T20:59:27.000Z",
+      "summary": "OpenAI推动大语言模型AI投融资活跃。",
+      "summaryZh": ""
+    },
+    {
+      "title": "ETF甄选 | 三大指数集体收涨，人工智能、机器人、芯片等ETF表现亮眼",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlQWRuM29CN0pHc2xVX01ZWHVWS3BUTEZWMTRIYmd3ZE9vMG5nQzhXVVhPRnFTQ2VzMFl5T1pLeTQtRTBOZWJvMVRoVmdMLUNwbkt1Rmc2QW4?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-31T08:26:47.000Z",
+      "summary": "三大指数上涨，人工智能、机器人、芯片等ETF表现突出。",
       "summaryZh": ""
     },
     {
@@ -98,8 +159,16 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-07-31T11:02:40.000Z",
-      "summary": "科技巨头AI算力投入转化效率受市场关注，资本开支与营收兑现成关键。",
-      "summaryZh": ""
+      "summary": ""
+    },
+    {
+      "title": "国产大模型获国产芯片火速适配，科创芯片ETF易方达（589130）连续3日“吸金”合计约1.6亿元",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jY3lLUnJ1NkVlS2RSbkFMMlZqckpJeVFqYlMzVU0yckRmWENwaXpsSjJZU0dmbEdPczROR2VDUXpKU1VzR2s2T20xUVFmdnZncmpDQ0xkdXdtRy1odURkVVp3X00wRERNMUJoUg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-07-31T06:24:07.000Z",
+      "summary": ""
     },
     {
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
@@ -113,44 +182,13 @@
       "titleZh": "据报道，OpenAI 发现证据表明其更多特工肆意妄为"
     },
     {
-      "title": "OpenAI失控AI智能体攻击事件升级：突破沙盒入侵Hugging Face，更多受害者浮出水面",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwVnhQQmNHcmxrZFA2R0hlYWREQ2xHdE1OYU12WFBPUkZkVGdyVmpmQ3BuYm9CSm51Um1lLURkVHRqXzVieWVpaHQ5WWJLd2MzbGRsdzdocDNSV3R5eXc?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-31T13:00:00.000Z",
-      "summary": "OpenAI AI智能体突破沙盒入侵Hugging Face，引发网络安全担忧。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI在华盛顿特区展示了其“ASTRA”人工智能模型的预览。",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VVDBCYlMzcmFtR0N4c1ZmWEFsV3FLM1BSY3JacFZVVWVKcG9jMTlWZUYxOTBKS200Z2lLRlBkd2l6dlhBQ2lFZDRtSEF3OElPYXgtSlZmNkxlc3RJRDY1N2RubnNEUUpWY3R1bXJYYVNqRVE2V3UwWQ?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-07-31T22:15:00.000Z",
-      "summary": "OpenAI在华盛顿特区展示“ASTRA”人工智能模型预览。",
-      "summaryZh": ""
-    },
-    {
-      "title": "最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”",
-      "link": "https://36kr.com/p/3919271016263303?f=rss",
-      "source": "36氪",
+      "title": "商业化落地优势领先行业，润阳科技旗下特种机器人开辟第二增长曲线",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kcUlxWjU5VVBNNThSOV9CTlpZSUVnUllIeThBUzB4UlVkZi0yNGlRYWJ0cGYtQzF5UG1ZTjBmal9zSWlSVEZ4a01PZmdGdGdQYmY0dF9JYnRtU2xUcDJjNnVUYw?oc=5",
+      "source": "中国经营网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-07-31T08:12:09.000Z",
-      "summary": "武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”。",
-      "summaryZh": ""
-    },
-    {
-      "title": "鸿蒙智行智界 RX 更多官图公布：四激光雷达矩阵、华为巨鲸电池，8 月开启小订",
-      "link": "https://www.ithome.com/0/984/378.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-07-31T13:10:56.000Z",
-      "summary": "鸿蒙智行智界 RX 官图发布，8月开启小订。",
-      "summaryZh": ""
+      "pubDate": "2026-07-31T08:01:00.000Z",
+      "summary": ""
     },
     {
       "title": "押注人形机器人，三星评估并购海外机器人初创公司！",
@@ -173,6 +211,15 @@
       "summaryZh": ""
     },
     {
+      "title": "“绝世高手”上线和武侠明星对打 智元远征A3突破人形机器人能力边界",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NaUZ5NlRuUk5TUUlMZmp6Q1AtQ2tacG5abnRGb1YwS000Um1ORHJudW0yYTFBTmF3dncxazhVQUxRaFpZTGYtLUU0QWRPYTVYNHhkRFRxaFo4NlI3alhkZE1n?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-07-31T13:32:00.000Z",
+      "summary": ""
+    },
+    {
       "title": "The ban on robot vacuums won’t make them safer, only worse",
       "link": "https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices",
       "source": "The Verge",
@@ -181,7 +228,7 @@
       "pubDate": "2026-07-31T17:30:49.000Z",
       "summary": "禁止机器人吸尘器不会使其更安全，反而更糟。",
       "summaryZh": "",
-      "titleZh": "对扫地机器人的禁令不会让它们变得更安全，只会让它们变得更糟"
+      "titleZh": "对扫地机器人的禁令不会让它们变得更安全，只会变得更糟"
     },
     {
       "title": "Best Robot Vacuum of 2026: Shark, Eufy",
@@ -195,36 +242,13 @@
       "titleZh": "2026 年最佳扫地机器人：Shark、Eufy"
     },
     {
-      "title": "FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing",
-      "link": "https://www.therobotreport.com/fcc-robot-ruling-shines-spotlight-on-u-s-policy-how-next-gen-ai-can-help-warehousing/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-07-31T22:41:44.000Z",
-      "summary": "FCC机器人政策关注AI在仓储领域的应用。",
-      "summaryZh": "",
-      "titleZh": "FCC机器人裁决让美国政策成为焦点；下一代人工智能如何帮助仓储"
-    },
-    {
-      "title": "KUKA deploys Automation Management Platform for North American automakers",
-      "link": "https://www.therobotreport.com/kuka-deploys-automation-management-platform-north-american-automakers/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-07-31T20:38:15.000Z",
-      "summary": "KUKA在北美部署自动化管理平台，提升工业自动化与AI结合能力。",
-      "summaryZh": "",
-      "titleZh": "库卡为北美汽车制造商部署自动化管理平台"
-    },
-    {
       "title": "AI进入本地生活：从“答”到“做”，关键仍在真实、可信与可控",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uUnNFR2xZMDdVcmwyQUJRSnNLRVhKSEVZaXpuUGlKbVh6VHBkUU1Tbk5VdGhYbnc2N0VXVmdqUkMteFhhcF9ickZrMDkwT2ZVR3NIX2VCdGdjRTB0Yzh3S0tvZFk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBY2dJLVRDNi1uWU1zVTd4MVE3bFRPTGFDRUNpYW9NU2xRcEFxTTA5US1iM3NmRmFiLVVUNDYzUFlqc0ZqQW5KaTU0Y2pQbTJhVDNUMWFPa1ZZMTFVZGdIS2hR?oc=5",
       "source": "新京报",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-07-31T08:10:00.000Z",
-      "summary": "美团升级AI助手“小团”，实现从信息提供到行动代理的转变，推动本地生活服务智能化。",
-      "summaryZh": ""
+      "summary": ""
     }
   ]
 }
