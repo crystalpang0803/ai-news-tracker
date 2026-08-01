@@ -1,17 +1,7 @@
 {
   "date": "2026-08-02",
-  "generatedAt": "2026-08-01T22:14:38.987Z",
+  "generatedAt": "2026-08-01T23:41:56.997Z",
   "items": [
-    {
-      "title": "人形机器人家政清洁服务走入现实，每小时 30 美元",
-      "link": "https://www.ithome.com/0/984/573.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-01T09:36:50.000Z",
-      "summary": "人形机器人家政清洁服务在旧金山推出，每小时收费30美元。",
-      "summaryZh": ""
-    },
     {
       "title": "IDC 报告：2025 年中国工业具身智能机器人市场达 57.4 亿元，商业化进程全面提速",
       "link": "https://www.ithome.com/0/984/627.htm",
@@ -19,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-01T14:01:47.000Z",
-      "summary": "2025年中国工业具身智能机器人市场规模预计达57.4亿元。",
+      "summary": "2025年中国工业具身智能机器人市场规模预计达57.4亿元，商业化进程加速。",
       "summaryZh": ""
     },
     {
@@ -49,7 +39,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-01T16:00:38.000Z",
-      "summary": "AI落地揭示企业数据、流程等旧问题，需逐步清偿以支撑稳定运行。",
+      "summary": "AI落地暴露企业旧数据、流程等问题，需逐步清偿旧账以支撑稳定落地。",
       "summaryZh": ""
     },
     {
@@ -83,6 +73,16 @@
       "summaryZh": ""
     },
     {
+      "title": "全程无遥操机器人比赛全国决赛在北京开赛，200 多支队伍冲击冠军",
+      "link": "https://www.ithome.com/0/984/608.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-01T10:58:15.000Z",
+      "summary": "北京举办全程无遥操机器人比赛，200多支队伍争夺冠军。",
+      "summaryZh": ""
+    },
+    {
       "title": "部分美国企业换上中国大模型以降低成本",
       "link": "https://36kr.com/newsflashes/3920583026929281?f=rss",
       "source": "36氪",
@@ -108,7 +108,7 @@
       "source": "东方财富网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-01T09:50:32.000Z",
+      "pubDate": "2026-08-01T09:31:39.000Z",
       "summary": "苏州举行“异构算力驱动大模型应用落地”交流会，探讨大模型推理提效与产业应用。",
       "summaryZh": ""
     },
@@ -139,7 +139,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-01T13:32:28.000Z",
-      "summary": "九方智投侯文涛建议下半年关注大模型、AI端侧、AI应用等投资机遇。",
+      "summary": "九方智投侯文涛建议下半年关注大模型、AI端侧、AI应用投资机遇。",
       "summaryZh": ""
     },
     {
@@ -149,7 +149,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-01T17:07:34.000Z",
-      "summary": "Altman提倡用ChatGPT进行家庭教育引发争议。",
+      "summary": "OpenAI CEO Altman提倡用ChatGPT进行家庭教育，引发网友争议。",
       "summaryZh": "",
       "titleZh": "Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由"
     },
@@ -170,7 +170,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-01T11:41:53.000Z",
-      "summary": "宇树科技IPO，实锤与12家龙头合作，资本化落地带动供应链订单兑现。",
+      "summary": "宇树科技IPO，实锤与12家龙头合作，推动人形机器人产业链发展。",
       "summaryZh": ""
     },
     {
@@ -184,23 +184,13 @@
       "summaryZh": ""
     },
     {
-      "title": "活力中国调研行丨机器人干得咋样？这家基地告诉你",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwQWpwOVNqUEdTQS1rU2ZZVzVtTU9TelB0WlFTZXpySDVtdThQMzg2V0Vta0M1bUYwNGQwR3R3VlkzZkRram9lZzZvOE5YSEI5MFBmNXRsZWc2U196TndDcjZBS1JaOHVCNUwyc1MtazJzbTNBR25R?oc=5",
-      "source": "新华社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-01T06:42:40.000Z",
-      "summary": "杭州具身智能展示中心展示多款机器人应用场景，推动技术成果落地。",
-      "summaryZh": ""
-    },
-    {
       "title": "科威特称击落伊朗无人机",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sd01XbmNhS1dUS1NzOFFCMXBId0lqMjBrLXJ4OERZYVBCakFyX21OVTdWaUVBOEV2d1M4bXJRRkJKSXViVlU0NUxha3pReU5DZ3JicEVid2ZnMUowTDZCMFAxNU9ndw?oc=5",
       "source": "每日经济新闻",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-01T08:31:00.000Z",
-      "summary": "科威特称在领空击落伊朗无人机。",
+      "summary": "科威特武装部队击落一架伊朗无人机。",
       "summaryZh": ""
     },
     {
@@ -210,7 +200,26 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-01T08:39:00.000Z",
-      "summary": "伊朗陆军近期使用新型无人机。",
+      "summary": "伊朗陆军称已使用新型无人机。",
+      "summaryZh": ""
+    },
+    {
+      "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kSmR0UGxkdUliNkpfdEhpRHQzQW9wOFlEaFZkVDNRWU5ka1diTHoycHdCSk9IdzI0dEFTOVFhWGYzdGI3NTZmMU5GbmJtLTh2Z2o4?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-01T08:29:41.000Z",
+      "summary": ""
+    },
+    {
+      "title": "民宿管家遇上AI轻创业 探访湖北宜昌特色职业技能培训班",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1odjZOcGR1MkJ2TGNaT21zWHU4R1ktX3BDdGRDYllkQU1JS3FpNTVFNmhicXJEbExYR1hMV0RHNHRfRHpWbTdKY2VpbHI3S0szemJMYmVRM2Rkb2VMMzJZVGRaTFRTU3NsTlhpbUU5Wk9BSkVB?oc=5",
+      "source": "新华社",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-08-01T06:04:28.000Z",
+      "summary": "湖北宜昌举办特色职业技能培训班，助力青年就业创业。",
       "summaryZh": ""
     }
   ]
