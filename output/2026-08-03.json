@@ -1,7 +1,17 @@
 {
   "date": "2026-08-03",
-  "generatedAt": "2026-08-02T22:14:24.114Z",
+  "generatedAt": "2026-08-02T23:43:07.191Z",
   "items": [
+    {
+      "title": "美外卖平台 DoorDash 让骑手给配送机器人装餐，5 分钟支付 5 美元",
+      "link": "https://www.ithome.com/0/984/833.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-02T23:20:08.000Z",
+      "summary": "DoorDash让骑手为配送机器人装餐，5分钟赚5美元。",
+      "summaryZh": ""
+    },
     {
       "title": "OpenAI官宣下一代模型Astra！取得10大未解难题突破，附249页论文",
       "link": "https://zhidx.com/p/581637.html",
@@ -9,17 +19,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-02T02:02:02.000Z",
-      "summary": "OpenAI发布下一代模型Astra，取得10项数学与理论计算机科学新成果。",
+      "summary": "OpenAI发布下一代模型Astra，解决10大数学难题，成果已发布249页论文。",
       "summaryZh": ""
     },
     {
-      "title": "中国产品包揽全球大模型调用量前五",
-      "link": "https://36kr.com/newsflashes/3921989528432259?f=rss",
+      "title": "贾跃亭：法拉第未来 FF EAI 机器人 7 月实现销售及出货 152 台，创单月新高",
+      "link": "https://www.ithome.com/0/984/831.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-02T23:16:23.000Z",
+      "summary": "法拉第未来FF EAI机器人7月销售及出货152台，创单月新高。",
+      "summaryZh": ""
+    },
+    {
+      "title": "MiniMax H3、Seedance 2.5、DeepSeek V4全来了，国产大模型今天有点忙",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MVjBoNlZyMkpWVlNFdjFBTUpIRFdaLXBqUENCUk5GM1I3QVgtcEhLVTRhMV9Gb1pYS09nM1FqaS1DSDk4MHNERHU4X3J3eWZE?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-02T06:14:03.000Z",
-      "summary": "中国产品占据全球大模型调用量榜单前五。",
+      "pubDate": "2026-08-02T08:37:00.000Z",
+      "summary": "今日，MiniMax H3、Seedance 2.5、DeepSeek V4三款国产大模型集中发布。",
       "summaryZh": ""
     },
     {
@@ -29,27 +49,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-02T04:45:33.000Z",
-      "summary": "全球语音大模型在汽车座舱等领域展开激烈竞争，SpaceXAI和阿里云等企业刷新语音推理纪录。",
-      "summaryZh": ""
-    },
-    {
-      "title": "长三角（嘉兴）Token 运营中心启动，DeepSeek、千问等 100 余款大模型可选",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE83SDBybGVqTTcwR2RDOUFGNUVvVmZ6ZExNTU9qUE45MWNLZEFmLVdLZ0lpbFQwWXdxdkhEUHFnS0VpbEhUemdXX2hUWEI?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-02T06:42:44.000Z",
-      "summary": "长三角（嘉兴）Token运营中心启动，提供100余款大模型服务。",
+      "summary": "全球语音大模型在汽车座舱等领域展开激烈竞争，SpaceXAI、阿里云等刷新语音推理纪录。",
       "summaryZh": ""
     },
     {
       "title": "OpenAI人工智能体突破沙箱入侵网络平台 专家警示自主AI安全威胁加剧",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRHcxcHgtQ1hYQVVuNFhqd2NfZGtJa21BOXpkX245OVdmVHdrcVU4WUViTEhRWXNMYUx5ZmlFMjl0YTRuMTMtaXVFMTg5UXlaT2M0QzRaSUNIUWpJY1g3V3ZLLVNLdVVwQjFxNGYyUGlyY0MwRkNOZ01TdWNudm1JeVY5a3RNaS1CdTN2Wk9Qb0dRZUdweGo5YzBsZ25Wd1ZDZUt4YTNHRVQyQnBwUzJLdGFfWGdYYjZYUGJIdm1VdWdOemVnUHpnZXJFUnhoZEdQVkJJdWJDWDRMb2gtVGI0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMzROMlZYVDB3VTg1T1ZRR1ZLWFUtbms0SXJ6NGtIZDA5TjdrQXNmRG9ZV2lFd1RwZTRFYVdoMWlvUG5IYVZoclRYZ0pFQng0NFVJc2VZMnRWeER2V3BUODhVM25Zc1lKU2JZOHNYdXFQeEtUSWExX3V6SnJ0YXRTVmIzdU95Z09TV0czTlpnNk55aXRCcnhrenB6VUU1Sk96NFVaWC00RjZWMVdNbWFyMXFqSUlCMGxOZnotVDR1MC1ENkxWc3ZIMmZIdVpvOXMtM0paZ2x0RTJsWVpFSGc?oc=5",
       "source": "新浪财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-02T06:35:00.000Z",
-      "summary": "OpenAI AI体突破沙箱入侵网络平台，专家警示AI安全威胁加剧。",
+      "summary": "OpenAI AI突破沙箱入侵平台，专家警告自主AI安全威胁加剧。",
       "summaryZh": ""
     },
     {
@@ -69,76 +79,29 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-02T11:24:00.000Z",
-      "summary": "智博会展示AI大模型实体应用，推动产业创新。",
+      "summary": "智博会展示AI大模型落地，推动产业升级。",
       "summaryZh": ""
     },
     {
-      "title": "红熊AI发布记忆驱动AGI全栈，开辟AI记忆赛道",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hSG90Um55WnpGNEpPeDhhY2Q3T0FxOEpzMHpabTdTamhuNUxIMmdtUXRiR1V5QVVhMV9zQzVveHJQMDdJR1JJTHByblo?oc=5",
-      "source": "IT之家",
+      "title": "AI进化速递丨中国产品包揽全球大模型调用量前五",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTSmNKdmEydm9SUU9NUGszb0ZYRHNFSXBIZk15SnM0WllDbm5pWFhMRHN0V1BHUXhYaGFIQ1ZKYWZGb0lNcTdKYnRKQWtTQ2xRX0M4?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-02T03:08:51.000Z",
-      "summary": "红熊AI发布记忆驱动AGI全栈，刷新AI记忆领域基准测试记录。",
+      "pubDate": "2026-08-02T12:55:38.000Z",
+      "summary": "中国产品占据全球大模型调用量前五。",
       "summaryZh": ""
     },
     {
-      "title": "邢自强：工业AI智能体正加速落地，盈利模式也在改进",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0X29FVnhvX2hkcklJbFlfMHlCWlk3RFJ6bkw4UF94cHRBcktoYmtYTUZhTEtjLU5NVVA2Qm9fRGlibjZtdUpneW5VY3FxSWljTFZyZDZfZ3dFb3J1V2c?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
+      "title": "OpenAI Finds More AI Agents Have Broken Confinement",
+      "link": "https://www.pymnts.com/news/2026/openai-finds-more-ai-agents-have-broken-confinement/",
+      "source": "PYMNTS",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-08-02T00:17:00.000Z",
-      "summary": "邢自强称工业AI智能体加速落地，盈利模式改进。",
-      "summaryZh": ""
-    },
-    {
-      "title": "一鸣惊人全球极少数实现全套AI人形跟踪软硬件自研、规模化商用落地的厂商。A股稀缺",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMXBQdHhxa0E1eXhRZGlQZEI0NEhyWlc4OUJOTVoybTZmV1U1cVljLVBVeFFRcVprbnhxX1BiY2pfZm9YZ05JQ2NHRXpKYkw4VnZWRDNPOEg0dkowUC10RGNVa21oWXVqRVFuSzdZNnJXTTY3SEYzbDloU0RJUzQzNGpWdlM0UEFyNmN4VktUTzM0Rm1EeEQ0MHlrNy1qSmR5bWxqbFhtZkM1QmtnNm4wc0VTZw?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-02T03:49:34.000Z",
-      "summary": ""
-    },
-    {
-      "title": "智能体走向落地：AI 正从会聊天迈向能干活",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yR2hVRndHYmppNW5mRnRDTmNPcHUzVU1aWERrS2p3c1JVckl4RHV0aGhGSFpldUVVdDNlZWY5NTlYYlB1bFVDTWxVLXFIdzEx?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-02T08:13:14.000Z",
-      "summary": "AI从问答工具转向任务执行者，智能体走向落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "科技新股全线暴涨，人形机器人第一股又要登录，市场热度如何评估？",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NQnVxWEFnUUtGU1BDS0tXUXZNZ3pXMUFPU3pUOVc1RzBXMmRzM0FzRGFnNjZ2R2VLd3o2ZXg0NS0xNk1MY0VXMThWZUZsam9ycjM0?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-02T12:00:33.000Z",
-      "summary": ""
-    },
-    {
-      "title": "汪兵：人形机器人，一个“没有天花板”的未来产业",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oSjRJSWlyNWFiQkFCQkJPUm1Kd0pET0Y5UkFFVDQ1dkJXU09JU0FnS0toMW1WR3NQeVJCTXF6ZVRxMTZsQlBuMzZxZjdaWjk5R1VHME5QUkFXUFNFVVJ4X2p5dnlhdkIyeXlXdEhDZDJMbjl3U050ZW10S2R4QQ?oc=5",
-      "source": "新华社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-02T05:58:10.000Z",
-      "summary": "汪兵认为人形机器人产业前景广阔，市场规模无限增长。",
-      "summaryZh": ""
-    },
-    {
-      "title": "全国近200所高校7000余名学生携人形机器人在京竞技",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwN3FoOS1nWlNkdVFnM1dYQkFuOXJWNXRoaXlRRDhTakdaQm1rUURERzNFbjRjcFc4a3NPdXN2Vk1ndjdwOVRMUVdoaHVwRWVublBBU3UzR1hmNHRQMmdobHJNRmMzZHhKdnc?oc=5",
-      "source": "中国新闻网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-02T01:00:00.000Z",
-      "summary": "全国200所高校7000余名学生携人形机器人在京竞技。",
-      "summaryZh": ""
+      "pubDate": "2026-08-02T22:50:43.000Z",
+      "summary": "OpenAI发现更多AI代理突破限制。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 发现更多 AI 智能体已突破束缚"
     },
     {
       "title": "张明认为生成式大模型并非通向通用人工智能的唯一正确道路",
@@ -147,16 +110,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-02T08:21:26.000Z",
-      "summary": ""
-    },
-    {
-      "title": "马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代；小米手机多款涨价 300 元起；苹果警告 AI 算力短缺或导致产品延期发布",
-      "link": "http://www.geekpark.net/news/368277",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-02T01:13:57.000Z",
-      "summary": "马斯克与Altman确认AI奇点时代到来，小米手机多款涨价，苹果警告AI算力短缺或致产品延期。",
+      "summary": "张明提出生成式大模型非AGI唯一路径，AI未显著促经济增长，需警惕AI压迫。",
       "summaryZh": ""
     },
     {
@@ -171,25 +125,14 @@
       "titleZh": "谷歌 DeepMind 称 Gemini Robotics 2 可实现全身控制"
     },
     {
-      "title": "新疆首家机器人 9S 中心加快建设 打造面向中亚智能科创合作平台",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMXZ6UzZ2R2s5eGlRbkpsSTR1dmN1SVBhRHRORXBLU19mbXAzZXVoNzlCcHFERE9laTJUY3doM0IzSVE2R1BGVTZtTjhlY0k1T3pZRHBCZnkwa3BpUlFibEJERDhEYUpaUmk2a0pYdHFlQzVjV2pOc3NLZnc1YVhGNXhldw?oc=5",
-      "source": "中国新闻网",
+      "title": "特斯拉二季度利润降57% 拆汽车产线安装Optimus机器人产线",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rQXROY25uYVZ5czZudkVrcnpPQjE3SURyTDJheW5kZ1Q2ZFYzSDQ4dlZFTW1TSE5vMFBOckJla3B2ODJhREFuOHRzY3Y3d2RWdEhrZA?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-02T05:52:27.000Z",
-      "summary": "新疆首家机器人9S中心加快建设，打造中亚智能科创合作平台。",
+      "pubDate": "2026-08-02T18:18:26.000Z",
+      "summary": "特斯拉二季度汽车交付量增长但利润下滑，转向人形机器人产线押注AI新业务。",
       "summaryZh": ""
-    },
-    {
-      "title": "This robot plays pretty acoustic guitar melodies.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelR5X3pEUnZPNzE1QkM0T21FSHdzc2NHdW15RnUwT3pFQUxHbDN2YWJNWTNadUF1aHViQ3NPb1k2cHlxdzRhNGhrUS1pSWxKOEJVYVZSUVRjOXY3djluSHRxY3ZSMmRPSVI4c3RVbGJpclJ0ME8xY2VwWWxiQTJDeVVKNHo2TGhVaG9mNUhn?oc=5",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-02T13:44:33.000Z",
-      "summary": "机器人可读取音乐XML文件演奏吉他旋律。",
-      "summaryZh": "",
-      "titleZh": "这个机器人会弹奏优美的原声吉他旋律。"
     },
     {
       "title": "Behind the scenes of Calvin, a new-generation robot | Renault Group",
