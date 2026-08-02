@@ -1,104 +1,26 @@
 {
   "date": "2026-08-02",
-  "generatedAt": "2026-08-02T03:56:01.093Z",
+  "generatedAt": "2026-08-02T06:19:53.887Z",
   "items": [
     {
-      "title": "2026年内嵌式AI Agent私域经营落地解读：智能体多元建设路径适配企业需求",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wOGo2d2FnSnNtQzBiMkVFcUd2ZVNaMWFsa2gxYTNJSmtTTUhTbWFENmhRTDNTc2VYSk9jM1VwRGhWd0lwa0JZVjBxZEg?oc=5",
+      "title": "前 DeepMind 研究员蒂博爆料：谷歌曾在 ChatGPT 发布一年前做出类似产品，但最终被雪藏",
+      "link": "https://www.ithome.com/0/984/716.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-01T08:15:57.000Z",
-      "summary": "2026年AI Agent私域经营落地，多元建设路径满足企业需求。",
+      "pubDate": "2026-08-02T04:34:27.000Z",
+      "summary": "谷歌曾研发类似ChatGPT产品，因竞争顾虑被雪藏。",
       "summaryZh": ""
-    },
-    {
-      "title": "因使用月之暗面模型写代码，美国最大外卖平台 DoorDash 被议员调查",
-      "link": "https://www.ithome.com/0/984/647.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-01T23:33:09.000Z",
-      "summary": "DoorDash因使用中国AI大模型被美国议员调查。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
-      "link": "https://www.qbitai.com/2026/08/464693.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-01T05:02:49.000Z",
-      "summary": "OpenAI前员工因对估值悲观，呼吁同事尽快套现股权。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI Agent落地暴露企业六笔“旧账”，企业数字化地基面临压力测试",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uU2ltWVQxdjdUdlpQQm9YSlcwT3JKdGhIQXBjc1hQODc1ZklINlZtZVM1aWVjRUhpUFVzT0JkWnhUUnZrR1c4WG9MWTBMemNaVmtUNA?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-01T16:00:38.000Z",
-      "summary": ""
     },
     {
       "title": "自研大模型的马斯克，把豆包装进了特斯拉",
-      "link": "https://www.tmtpost.com/8087804.html",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LcjZXX1VoX0xuR0RnRnBoMy1SY2tOeXpRZXdWWmJFQklaZWc0c1oxcjk5N0FaSThWSU1OWGZDR1c1dk9zRUhYSkhMbEY?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-01T08:19:41.000Z",
+      "pubDate": "2026-08-01T08:19:00.000Z",
       "summary": "特斯拉中国车型接入字节跳动豆包大模型，实现智能语音助手功能。",
       "summaryZh": ""
-    },
-    {
-      "title": "OpenAI官宣下一代模型Astra！取得10大未解难题突破，附249页论文",
-      "link": "https://zhidx.com/p/581637.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-02T02:02:02.000Z",
-      "summary": "OpenAI发布下一代模型Astra，取得10项数学与理论计算机科学突破。",
-      "summaryZh": ""
-    },
-    {
-      "title": "天线宝宝机器人上门做保洁，200元/小时，纯·人工·智能",
-      "link": "https://www.qbitai.com/2026/08/464781.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-01T10:45:46.000Z",
-      "summary": "美国公司推出遥控人形机器人提供家政服务，每小时200元人民币。",
-      "summaryZh": ""
-    },
-    {
-      "title": "部分美国企业换上中国大模型以降低成本",
-      "link": "https://36kr.com/newsflashes/3920583026929281?f=rss",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-01T07:30:11.000Z",
-      "summary": "美国企业开始采用中国大模型以降低成本。",
-      "summaryZh": ""
-    },
-    {
-      "title": "浙江实施人工智能OPC术语团体标准：由1名核心自然人主导",
-      "link": "https://36kr.com/newsflashes/3920435807923841?f=rss",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-01T06:15:22.000Z",
-      "summary": "浙江实施人工智能OPC术语团体标准，由1名自然人主导。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Anthropic Claude Code主导AI代码工具市场 面临OpenAI和开源模型竞争",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvSHg5cGNxS2VMSjVIelphOFQwN094MFdQT0ZXVXBtNkxBUzBlX3pOS2tVemdRaGhVSW9YMS1leVFfcjY0MWhKR2FCOW0zUDV0Ulpr?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-01T17:57:54.000Z",
-      "summary": ""
     },
     {
       "title": "“异构算力驱动大模型应用落地”交流会在苏州举行",
@@ -131,16 +53,6 @@
       "summaryZh": ""
     },
     {
-      "title": "数百万本书，被Claude“阅后即焚”",
-      "link": "https://www.tmtpost.com/8088012.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-01T08:41:40.000Z",
-      "summary": "AI公司Anthropic以“阅后即焚”方式购买数百万纸质书用于AI训练。",
-      "summaryZh": ""
-    },
-    {
       "title": "活力中国调研行｜制造AI芯片前，先要把一片晶圆片磨平：绍兴企业靠给芯片“磨地基”成为龙头",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vc3JFTUJMX3dZeUhwUEprS2dTcERncFVzd1ExaU5Ta1dKZE1ZSVducTNQSG9uTTJMSThOV0M4aUpLd09HTGNYMzdxUzVMSkJad1NVQ0dWelBtaEFZaWJ3Ug?oc=5",
       "source": "界面新闻",
@@ -151,42 +63,33 @@
       "summaryZh": ""
     },
     {
-      "title": "俄军袭击基辅一美国国防企业，摧毁无人机工厂",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Wdjdta29WckFOQVYzM0dZSUVITkpVclEybEV1VXBXdVdHSHZpR20xVnFBVlhkQmRBM0x4WFRSUl9fcWFGYjFqbngwZ0tSR3dUcF9aTEhWUDU?oc=5",
-      "source": "界面新闻",
+      "title": "九方智投侯文涛：下半年可关注大模型 AI端侧 AI应用等方面的投资机遇",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oZjFzV09xVldoWVZtSmF0SHo3eUoxT2x0OTEzUTVRSk14aE5NQW1Ua3VKSVQ3M0VOUDFXbkVvZ2NwSFNQaEhUSkFsLVo3QTFESHVJYw?oc=5",
+      "source": "第一财经",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-01T07:48:14.000Z",
-      "summary": "俄军袭击基辅无人机工厂，摧毁美国企业设施。",
+      "category": "ai",
+      "pubDate": "2026-08-01T13:32:28.000Z",
+      "summary": "九方智投侯文涛建议下半年关注大模型、AI端侧、AI应用投资机遇。",
       "summaryZh": ""
     },
     {
-      "title": "DeepMind 机器人 AI 拧灯泡成功率极高",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ET05HWkJCMmZyV2QxRi1JeUkxRG5qdmFxNWhvUU1ZRVI4ZmhwOXJ4R21ySlFfcG1xbjQwSHNzSUdLYUxJdGUxYXlWOGUwT3lEZVRNVmFR?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-01T05:17:00.000Z",
-      "summary": "DeepMind 机器人 AI 拧灯泡成功率极高。"
-    },
-    {
-      "title": "宇树科技IPO，实锤合作的12家龙头（附股）",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92UmJmQmJwZFZtZnJVbnppTlZDZUp1QWJ6RjNqOEZyZHpjV19zOEl1ZkxaYk01S0dzTVNLR29ieTlCUU9aWTI2N1o2ZWxDclQ2?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-01T11:41:53.000Z",
-      "summary": "宇树科技IPO，实锤与12家龙头合作，涵盖核心零部件、电源芯片、视觉AI等领域。",
-      "summaryZh": ""
-    },
-    {
-      "title": "活力中国调研行丨机器人干得咋样？这家基地告诉你",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwQWpwOVNqUEdTQS1rU2ZZVzVtTU9TelB0WlFTZXpySDVtdThQMzg2V0Vta0M1bUYwNGQwR3R3VlkzZkRram9lZzZvOE5YSEI5MFBmNXRsZWc2U196TndDcjZBS1JaOHVCNUwyc1MtazJzbTNBR25R?oc=5",
+      "title": "太阳岛共话人形机器人 冰城聚力打造寒地智能产业新高地",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xQktZM1dpZjFmb0hDNVRKVDNIM1NGLUhQaHc0Z1ZwYkJGRlh0OXBWa2JpTkM5TWxhNW9Kc0hmLXdZRDBPMFlpNXFOWHIxSmVuQjJMU2loQVlxWmRaVDBydC16aFBwMFBlVTZJUHJ3NWYtOGJWd0xZNEUzb1VmUQ?oc=5",
       "source": "新华社",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-01T06:42:40.000Z",
-      "summary": "杭州具身智能展示中心展示各类机器人应用场景，推动具身智能技术落地。",
+      "pubDate": "2026-08-01T07:36:31.000Z",
+      "summary": "哈尔滨太阳岛论坛聚焦人形机器人，推动寒地智能产业创新发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "世界人形机器人运动会RCAP北京大师赛首次迎来国家联队",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vSnlPVDFOeUJqdl84MklaUGpBcFpueXBrNFFod1NmVUpwMFNmY1ZHSUpPYnlYbGx0NWloTW9jWWJoX296ek5RWHNnRTJkMVdkd2V6ZnZUVVlyQ1Q3cUQyWWZ3?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-02T04:08:00.000Z",
+      "summary": "巴西国家联队首次参加RCAP北京大师赛全自主人形机器人足球赛。",
       "summaryZh": ""
     },
     {
@@ -200,36 +103,6 @@
       "summaryZh": ""
     },
     {
-      "title": "Rosatom says its civilian vessel sank in Black Sea after Ukrainian drone attack, all crew survived",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHRSSERGYnJKSWphUV9LNVBnVEE2RHpZS2d3eTVTMDNGR2dDTlRhSlBfNHYwb2ZoSHl3d3QtX0xVV1NiSHMwZVExN1hOTTA0eTBnYUZoeE5LV2R2T0tuRFV6VXJtNkxIV0tfRXRwTXluMkZ0UW81R1hCQ0JrcHFSVVhUbThXWURObTJHaFhMRmdETHhTN29Ca3ZHTjdkaWVBRldJVy1oNFNlekk5SmRQSGtVTFR6TmJuVklEWHlBdw?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-01T11:40:54.000Z",
-      "summary": "",
-      "titleZh": "俄罗斯国家原子能公司表示，其民用船只在乌克兰无人机袭击后在黑海沉没，所有船员均幸存"
-    },
-    {
-      "title": "科威特称击落伊朗无人机",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sd01XbmNhS1dUS1NzOFFCMXBId0lqMjBrLXJ4OERZYVBCakFyX21OVTdWaUVBOEV2d1M4bXJRRkJKSXViVlU0NUxha3pReU5DZ3JicEVid2ZnMUowTDZCMFAxNU9ndw?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-01T08:31:00.000Z",
-      "summary": "科威特武装部队击落伊朗无人机，造成设施受损。",
-      "summaryZh": ""
-    },
-    {
-      "title": "伊朗军方称近期使用新型无人机",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IYmtBbTdsUzlKeVV3UFhMV1F1VzMxSWYwa3UyN0JTNFV0MmVsTHp6NlJpUXhzWFZQT3g0blhPZU00bjU2MHFVRlZwcF96X3R3ZDhoVVE5WU8xRXVyXzFCZFpQeGRkUQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-01T08:39:00.000Z",
-      "summary": "伊朗陆军称已使用新型无人机。",
-      "summaryZh": ""
-    },
-    {
       "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kSmR0UGxkdUliNkpfdEhpRHQzQW9wOFlEaFZkVDNRWU5ka1diTHoycHdCSk9IdzI0dEFTOVFhWGYzdGI3NTZmMU5GbmJtLTh2Z2o4?oc=5",
       "source": "华尔街见闻",
@@ -239,13 +112,13 @@
       "summary": ""
     },
     {
-      "title": "民宿管家遇上AI轻创业 探访湖北宜昌特色职业技能培训班",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1odjZOcGR1MkJ2TGNaT21zWHU4R1ktX3BDdGRDYllkQU1JS3FpNTVFNmhicXJEbExYR1hMV0RHNHRfRHpWbTdKY2VpbHI3S0szemJMYmVRM2Rkb2VMMzJZVGRaTFRTU3NsTlhpbUU5Wk9BSkVB?oc=5",
-      "source": "新华社",
+      "title": "深蓝具身智能_课程",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5eTZ1RTB2Q2lDZDBHNUd1eUNvaWExS0F4ZklGTklfdXpORXF6RWh1UXNjVklEZGk4em5FdEM3WndYVkwzNVQ4Q21VMFVYckc0c3o2QlF2Yw?oc=5",
+      "source": "与非网",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-01T06:04:28.000Z",
-      "summary": "湖北宜昌举办特色职业技能培训班，助力青年就业创业。",
+      "category": "robotics",
+      "pubDate": "2026-08-01T08:10:04.000Z",
+      "summary": "深蓝推出具身智能课程，涵盖设计资源与产业链客户资源。",
       "summaryZh": ""
     },
     {
