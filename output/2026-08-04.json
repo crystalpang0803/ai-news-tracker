@@ -1,15 +1,25 @@
 {
   "date": "2026-08-04",
-  "generatedAt": "2026-08-03T22:29:56.103Z",
+  "generatedAt": "2026-08-03T23:48:59.118Z",
   "items": [
     {
-      "title": "王慧文家族办公室押注的AI版图：从大模型到AI Agent",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RMTkzS1d5TTRGNTNIbHByMEVYVVUyTnRacllqS2dhY3hkMmJNSTAxMzE4ZWJYUGh2X2JIUW04c1d0SGtRVUUwd0ZDMFFDOW8?oc=5",
-      "source": "36氪",
+      "title": "2026 各规模企业 BI 系统解决方案探析——AI Agent 驱动瓴羊 Quick BI 全链路落地",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sZ1NsLW5wR2hySkV0UUc5Zl9yeng5VXZOeS1MNTdJaXdjSUZXX1d0OHU3WnBHall4T0oyV21WRlN4XzJjX2gxZzR1aXU?oc=5",
+      "source": "极客公园",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-03T03:35:04.000Z",
-      "summary": "王慧文家族办公室投资覆盖AI产业链多个关键环节，聚焦大模型、AI Agent及基础设施。",
+      "pubDate": "2026-08-03T09:13:49.000Z",
+      "summary": "瓴羊Quick BI以AI Agent驱动，实现企业级智能分析全链路落地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI外呼行业观察：通信运营能力成大模型落地分水岭，高斯通智能如何破局",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3clk0Y0JfdDMtN05yXzN4NG53RC0yWDVOZW1Hd1NnWlBURGJNYzE2MXN1WUdpZnAwczlnWEpSRk45bG1iaEtDZkpKX0I?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-03T07:22:19.000Z",
+      "summary": "高斯通智能以通信底座、AI大模型和运营服务组合，破局AI外呼行业。",
       "summaryZh": ""
     },
     {
@@ -19,27 +29,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-03T11:48:09.000Z",
-      "summary": "博登智能赵捷称，具身智能发展面临数据质量瓶颈，十亿订单在手，数据仍是关键。",
+      "summary": "博登智能赵捷称，具身智能发展面临高质量数据短缺挑战。",
       "summaryZh": ""
     },
     {
-      "title": "奔图科技切入清扫机器人赛道，打通“制造+安全”双引擎，开启第二增长曲线",
-      "link": "https://www.tmtpost.com/8089565.html",
+      "title": "小鹏的物理AI前夜：机器人一号位出走，X9召回拷问量产基本功",
+      "link": "https://www.tmtpost.com/8089399.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-03T11:33:51.000Z",
-      "summary": "奔图科技跨界清扫机器人赛道，以“制造+安全”双引擎开启第二增长曲线。",
+      "pubDate": "2026-08-03T10:15:57.000Z",
+      "summary": "小鹏机器人负责人离职，X9因安全隐患召回，拷问量产基本功。",
       "summaryZh": ""
     },
     {
-      "title": "人形机器人的2026，产量狂欢与落地迷思",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rTkR3V2FIbG1XSjNXNl8tUEJCd2FfV1FtV1RubWFsQXNfYldyMUJyX2RoRHBjRzhPRFk0YUc2YlBVckVidXJBYUY2cWVOSlhraW1SbExtaw?oc=5",
-      "source": "与非网",
+      "title": "荣耀俱乐部负责人透露 Robot Phone 样机稀缺，正式发布后或一机难求",
+      "link": "https://www.ithome.com/0/985/247.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-03T02:30:35.000Z",
-      "summary": "2026年人形机器人产量激增，但量产与落地仍存差距。",
+      "pubDate": "2026-08-03T15:12:18.000Z",
+      "summary": "荣耀Robot Phone样机稀缺，正式发布后可能一机难求。",
       "summaryZh": ""
     },
     {
@@ -53,6 +63,26 @@
       "summaryZh": ""
     },
     {
+      "title": "机构预测：AI芯片建设潮将掀起逾5000亿美元发债高峰",
+      "link": "https://36kr.com/newsflashes/3923960964938118?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-03T23:29:15.000Z",
+      "summary": "AI芯片建设预计将引发5000亿美元以上发债潮。",
+      "summaryZh": ""
+    },
+    {
+      "title": "赛博义父Tibo爆料：谷歌早一年就做出了ChatGPT，硬是没敢发！",
+      "link": "https://www.qbitai.com/2026/08/465176.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-03T04:29:44.000Z",
+      "summary": "谷歌曾开发类似ChatGPT的产品，因担心冲击现有业务而未发布。",
+      "summaryZh": ""
+    },
+    {
       "title": "手绘图直接变海报，国产开源多模态模型把图片玩“活”了",
       "link": "https://zhidx.com/p/581769.html",
       "source": "智东西",
@@ -60,6 +90,16 @@
       "category": "ai",
       "pubDate": "2026-08-03T08:40:48.000Z",
       "summary": "国产开源多模态模型SenseNova U1.5-Lite-Preview可将手绘图直接转换为高精海报。",
+      "summaryZh": ""
+    },
+    {
+      "title": "欧盟人工智能法案分阶段落地，通用大模型强制标注AI生成内容，防范系统性风险-观察君",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlT21uZ1Z3YThxZklMQnF0UjRSaG5OWkw3dU9OUDFrRko1MEJkQmVBclpxbGVoR2hVZDlRc2FkRHhTNVh0amtvTEpZdXUxZ1EzdmhYdzMwUTI0REYzdUJiRlJmR1FTdFk3SnRjd1dIaDhtSDlD?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-03T11:32:00.000Z",
+      "summary": "欧盟人工智能法案实施，通用大模型强制标注AI生成内容。",
       "summaryZh": ""
     },
     {
@@ -74,33 +114,13 @@
       "titleZh": "苹果 vs. OpenAI：Siri AI 如何与新的 ChatGPT 抗衡"
     },
     {
-      "title": "杭州物理AI产值破千亿：机器狗份额80%，人形机器人50%",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yREkxVWFKcnJHOERaOUFBNE5LM3VPNUFFelE0VXFtQTNZYWJZcHhKc2ZKdzF3Z3dBTzlSbXVHaDhGZHFnN0VTd0VMamphbnhO?oc=5",
-      "source": "凤凰财经",
+      "title": "小米投的北京家庭机器人公司，完成亿美元级融资",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9FSHQxV3lJRDJhcWx6REVVMXJ4SGVUNUNvcHJhdlhRbVRjenBEVUViUEpYX282a29UcTNBS1RfQkNST3doa3c?oc=5",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-03T11:39:53.000Z",
-      "summary": "杭州物理AI产值超千亿，机器狗、人形机器人市场份额高。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI 大模型周榜：阿里千问 3.8-Max 空降综合前五，字节即梦 5.0 生图第六",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FMGdXS2pwa2xMQ1FWLXYyUjFzaVhBX3d1UENMb0NPREZRV2dIVnB3WWVVdUlvaUU3NFlXYk9KVUJNRU1TLXJpQXpPdGw?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-03T08:08:26.000Z",
-      "summary": "阿里千问3.8-Max进入AI大模型综合榜前五，字节即梦5.0生图第六。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机构预测：AI芯片建设潮将掀起逾5000亿美元发债高峰",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RUE52VmNvZnh3cnZjQzNzQ1hiczNkTzZxMjdSTmo4WGhfbmt6UUJ2M2VRWnp5TjIwN3ZIeV9zVFVENkhlbFV4cjBHUlhvc1p5dFRuWTNSRlo?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-03T16:26:42.000Z",
-      "summary": "AI芯片建设预计将引发5000亿美元以上发债潮。",
+      "pubDate": "2026-08-03T08:18:54.000Z",
+      "summary": "北京家庭机器人公司破壳机器人完成亿美元级Pre-A轮融资。",
       "summaryZh": ""
     },
     {
@@ -110,17 +130,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-03T13:35:22.000Z",
-      "summary": "韩国AI芯片初创公司DeepX融资估值达22亿美元。",
+      "summary": "韩国AI芯片初创公司DeepX融资估值升至22亿美元。",
       "summaryZh": ""
     },
     {
-      "title": "上半年3000亿元涌入中国AI创业公司 创投资金加速涌向AI和硬科技",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1feUZGbDJoRjE5UFpVUkJPbmFGVHhibVdualljZ3htMlJVem9kNC1fdkpQakFoNm9PbFBES01lcV9yNU1NcFFhNklFSHFvWl83alpj?oc=5",
-      "source": "第一财经",
+      "title": "商汤迎来二次创业？2026年国产大模型真变了",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KSzhYUGoySU83ZkNWTUoyY0V3ZjhieDVOVFZJNHFUQUNkNHZ0c0VfUGxGRG16VHZKUUtuWTlRaGtjUXZ3SzZxOU95N244ZG05cE9ySjlrLU4?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-03T15:01:20.000Z",
-      "summary": "2026年上半年中国AI创业公司融资超3000亿元。",
+      "pubDate": "2026-08-03T07:10:10.000Z",
+      "summary": "商汤科技在2026年推出国产大模型，标志着二次创业和产品升级。",
       "summaryZh": ""
     },
     {
@@ -130,7 +150,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-03T08:58:39.000Z",
-      "summary": "AI大模型价格战引发亚洲科技股下跌，投资者担忧AI产业链利润可持续性。",
+      "summary": "OpenAI降价引发亚洲科技股下跌，投资者担忧AI大模型盈利能力。",
       "summaryZh": ""
     },
     {
@@ -140,7 +160,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-03T16:40:55.000Z",
-      "summary": "ChatGPT成为国会AI工具首选，花费超10万美元。",
+      "summary": "ChatGPT成为国会最青睐的AI工具，支出占比高达90%。",
       "summaryZh": "",
       "titleZh": "国会最喜欢的人工智能工具？聊天GPT"
     },
@@ -156,57 +176,15 @@
       "titleZh": "HEBI Robotics 获得 NASA SBIR 拨款用于快速跟踪微型执行器"
     },
     {
-      "title": "宇树科技8.10申购，机器人ETF开盘+5.23%，大族激光、绿的谐波、昊志电机涨超15%！",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yRFNuTkMyekRSdG8zdFU0Wjk0NXUxUVQweldRTURDTWFiX21ZVXY0bFA3NkZ1RDItLTR0YnhkRnFpMkJOcGUyQnVjckRBS25QMUEyYWxaQQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-03T08:03:42.000Z",
-      "summary": "宇树科技申购，机器人ETF开盘上涨5.23%，相关个股涨超15%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Trump’s AI protectionism has come for robotics",
-      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "source": "MIT Technology Review",
+      "title": "How NTT DATA AIVista closes the last mile of agentic AI for enterprise agents",
+      "link": "https://venturebeat.com/orchestration/how-ntt-data-aivista-closes-the-last-mile-of-agentic-ai-for-enterprise-agents",
+      "source": "VentureBeat",
       "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-03T18:43:30.000Z",
-      "summary": "美国联邦贸易委员会禁止进口外国先进机器人，包括类人形机器人，将其纳入美国人工智能产业政策。",
+      "category": "application",
+      "pubDate": "2026-08-03T07:00:00.000Z",
+      "summary": "NTT DATA AIVista解决企业代理AI的最后一英里挑战。",
       "summaryZh": "",
-      "titleZh": "特朗普的人工智能保护主义针对机器人"
-    },
-    {
-      "title": "Walden Robotics Partners With Toyota on Practical Humanoids",
-      "link": "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-03T16:05:39.000Z",
-      "summary": "Walden Robotics与丰田合作开发实用型人形机器人。",
-      "summaryZh": "",
-      "titleZh": "瓦尔登机器人公司与丰田合作开发实用人形机器人"
-    },
-    {
-      "title": "Reimagine Robotics emerges from stealth with robots that ‘learn on the job’",
-      "link": "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-03T07:00:51.000Z",
-      "summary": "Reimagine Robotics发布可“边工作边学习”的机器人。",
-      "summaryZh": "",
-      "titleZh": "Reimagine Robotics 推出“在工作中学习”的机器人"
-    },
-    {
-      "title": "浙江人形机器人加速多场景应用",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZYUlrQldFNG9hWm1FZFBlMVpvcFVLMWJLUkxjNzUzX2Y1OVVrVFJVYVRrVkJSN1Fsc0lUOEhkaGhQVFpnU2xJeEROVUFKNXQ3emtUOGRna1FQQVR0NkR4SGcxWWpMYTViZUROUm9JSjl4eHVKNmRwUA?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-03T03:30:21.000Z",
-      "summary": "浙江人形机器人创新中心产品在多场景应用中加速落地。",
-      "summaryZh": ""
+      "titleZh": "NTT DATA AIVista 如何为企业代理关闭代理人工智能的最后一英里"
     },
     {
       "title": "Best Robot Lawn Mowers (2026): My Picks After 3 Years of Testing",
@@ -218,6 +196,37 @@
       "summary": "2026年最佳机器人割草机：三年测试后的精选推荐。",
       "summaryZh": "",
       "titleZh": "最佳机器人割草机（2026 年）：经过 3 年测试后我的选择"
+    },
+    {
+      "title": "Designing Companion Mobile Apps for Robotics and Automation Systems",
+      "link": "https://roboticsandautomationnews.com/2026/08/03/designing-companion-mobile-apps-for-robotics-and-automation-systems/103837/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-03T12:16:56.000Z",
+      "summary": "机器人辅助移动应用设计成为自动化系统核心基础设施。",
+      "summaryZh": "",
+      "titleZh": "为机器人和自动化系统设计配套移动应用程序"
+    },
+    {
+      "title": "AI机器人担当手术“导航员” 破解微小肺结节定位难题",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IVFItakpBQ2lTODdYQk1NZnkxVThWTlBEX3g1V25OMDg3UUFMcGVOWks3TWllV3FPTWdCU3pYUTVXUlM4UEs2dDZ1QVd3ckJYWjNia20xTGo0VmRENS1McEdCZlVrOHZma0xr?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-03T03:00:00.000Z",
+      "summary": "AI机器人助力微小肺结节定位，提高手术精准度。",
+      "summaryZh": ""
+    },
+    {
+      "title": "农业机器人助力山西旱作农业高质量发展",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2U1VicXhSSlRwdjR2S2VDZHl5aEtqNVlCenJSYVIxTGRFaDJ5NnZHVC0taFBmemRtVVRqVm1Xcl9nczVnUVFuV0U3VTlyMW9kWXlrbmZGUVNMeXYzallQSUhzbThkdFJ1N242Qy1jeGc?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-03T03:58:20.000Z",
+      "summary": "山西研发智能覆膜精量播种机器人，助力旱作农业高质量发展。",
+      "summaryZh": ""
     }
   ]
 }
