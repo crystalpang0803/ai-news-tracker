@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generatedAt": "2026-08-04T19:50:51.636Z",
+  "generatedAt": "2026-08-04T20:53:56.228Z",
   "items": [
     {
       "title": "ST信源：目前已经接入了国内优秀的大模型AI产品，如百度文心一言、阿里通译千问、智普ChatGLM、Kimi、DeepSeek以及科大讯飞星火大模型等",
@@ -13,23 +13,13 @@
       "summaryZh": ""
     },
     {
-      "title": "由三星SDS牵头的韩国国家人工智能算力中心正式开工",
-      "link": "https://36kr.com/newsflashes/3925199434611072?f=rss",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-04T12:39:20.000Z",
-      "summary": "三星SDS牵头建设的韩国国家人工智能算力中心正式开工。",
-      "summaryZh": ""
-    },
-    {
       "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
       "link": "https://www.qbitai.com/2026/08/466386.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-04T13:14:27.000Z",
-      "summary": "开源科研智能体OpenAI4S发布，内置30+科研Skills，支持“代码即行动”。",
+      "summary": "开源科研智能体OpenAI4S发布，内置30+科研Skills，支持代码即行动。",
       "summaryZh": ""
     },
     {
@@ -39,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-04T08:10:36.000Z",
-      "summary": "DeepSeek开源招募引发120万星关注，开发者积极参与Agent开源生态探索。",
+      "summary": "DeepSeek开源招募引发120万星关注，开发者积极参与Agent项目探索。",
       "summaryZh": ""
     },
     {
@@ -49,7 +39,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-04T12:32:55.000Z",
-      "summary": ""
+      "summary": "HappyRobot完成C轮融资，估值达12亿美元。",
+      "summaryZh": ""
     },
     {
       "title": "盈峰环境：无人环卫机器人等业务占整体营收比例较小",
@@ -58,7 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-04T11:59:49.000Z",
-      "summary": "盈峰环境无人环卫机器人等业务营收占比小，短期不影响业绩。",
+      "summary": "盈峰环境无人环卫机器人等业务营收占比小，对公司业绩影响有限。",
       "summaryZh": ""
     },
     {
@@ -68,7 +59,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-04T10:14:56.000Z",
-      "summary": "蚂蚁灵波拟募资15亿，聚焦通用机器人大脑研发。",
+      "summary": "蚂蚁灵波启动首轮融资，拟募资15亿，聚焦通用机器人大脑。",
       "summaryZh": ""
     },
     {
@@ -78,27 +69,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-04T09:56:33.000Z",
-      "summary": "2026年，情感陪伴机器人面临技术、伦理和商业化三重挑战。",
-      "summaryZh": ""
-    },
-    {
-      "title": "“未来已来”：华为智选车产品总监彭磊晒享界 G9 汽车 L3 自动驾驶功能按键，可亮蓝光",
-      "link": "https://www.ithome.com/0/985/681.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-04T12:32:16.000Z",
-      "summary": "华为智选车享界G9汽车展示L3级自动驾驶蓝光功能按键。",
-      "summaryZh": ""
-    },
-    {
-      "title": "直击萤石网络业绩会：智能服务机器人等新赛道处于孵化阶段 将打造具身级AI",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzQWFPVUt4czdIZGlnZWhtNjl6YS1iUjFHbzZLV0h5UWVLaDhvbE1ZeHNoLWNSSEExa2pyb0I0VlB5VjBpNFI4NHZSQ0x6WVZzc2xBZC1teDZ6U1Y1WDhENg?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-03T23:45:41.000Z",
-      "summary": "萤石网络业绩会透露，智能服务机器人等新赛道孵化中，将打造具身级AI。",
+      "summary": "2026年，情感陪伴机器人面临技术、伦理和商业三重挑战。",
       "summaryZh": ""
     },
     {
@@ -128,7 +99,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-04T07:30:35.000Z",
-      "summary": "AI机器人项目招商需关注技术、产品、资质、支持与市场空间。",
+      "summary": "AI机器人项目招商需关注技术、产品、资质、支持、市场潜力等五个维度。",
       "summaryZh": ""
     },
     {
@@ -142,13 +113,13 @@
       "summaryZh": ""
     },
     {
-      "title": "晒完整聊天记录硬刚苹果，OpenAI：这场诉讼草率、咄咄逼人，与苹果声誉不符",
-      "link": "https://zhidx.com/p/582177.html",
-      "source": "智东西",
+      "title": "Cloudflare 推出新开源库，为每个 AI 智能体配备独立工作计算机",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zcDUyOGFqZUFFR1BJS1lFZ1VYZG9lb3ZVaEFFaVlMcUV5WkxNZUpSYkYyMlVicl82S1c2b2xzSmV6QXpTV2VIdFpaNTY?oc=5",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-04T13:07:41.000Z",
-      "summary": "OpenAI公开与苹果的邮件和聊天记录，反驳苹果的诉讼指控。",
+      "pubDate": "2026-08-04T06:18:31.000Z",
+      "summary": "Cloudflare推出开源库，为AI智能体提供独立工作计算机。",
       "summaryZh": ""
     },
     {
@@ -168,7 +139,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-04T09:29:00.000Z",
-      "summary": ""
+      "summary": "创业板指放量大涨5.64%，算力硬件股集体反弹。",
+      "summaryZh": ""
     },
     {
       "title": "边缘Physical AI：FPGA赋能工业机器人与运动控制_直播",
@@ -196,7 +168,7 @@
       "source": "Bloomberg",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-08-04T06:19:00.000Z",
+      "pubDate": "2026-08-04T06:40:57.000Z",
       "summary": "中国初创公司AI² Robotics考虑在香港进行IPO。",
       "summaryZh": "",
       "titleZh": "据称中国初创公司AI² Robotics考虑在香港IPO"
@@ -208,7 +180,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-04T11:00:01.000Z",
-      "summary": "美国FCC禁止新外国移动机器人，机器人公司看法各异。",
+      "summary": "美国FCC禁止新外国移动机器人，机器人公司看法不一。",
       "summaryZh": "",
       "titleZh": "机器人公司对美国外国机器人禁令的看法"
     },
@@ -229,18 +201,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-04T12:11:00.000Z",
-      "summary": "美乌加速研发AI人形机器人用于战场。",
+      "summary": "美乌加速研发搭载AI的人形机器人用于战场。",
       "summaryZh": ""
     },
     {
-      "title": "Wetour Robotics发布Orchestra平台 推进平台化转型",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tU1A4T3VQd0hmaTVUc1liMXpaX0IxYURMakpCYnVDV3ZyV2ZzZjJOaUg1dThOOER0RGtzMnhmUDdTUjBoNmdoSExlYjQwdFdXeWI2Nm00OA?oc=5",
-      "source": "经济观察网",
+      "title": "铁脚板的角力：当人形机器人在“冰丝带”玩起拔河，比的不是力气",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMd0JlTEQzdFpuVUM3TktwbUlKQlJmbndQNk9WMFJjdmFZN1R3bG9uXzRxYVRZUEtIcVNKM2FJNmRPWTRPeWRVbDBfRUJLbGZjWXAxdlFjdmdGZHpnZ3FLYTBB?oc=5",
+      "source": "新京报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-03T20:06:00.000Z",
-      "summary": "Wetour Robotics发布Orchestra平台，标志着公司平台化转型关键节点。",
-      "summaryZh": ""
+      "pubDate": "2026-08-04T08:55:00.000Z",
+      "summary": ""
     },
     {
       "title": "2026 高性价比智能客服产品推荐：瓴羊 Quick Service 技术方案与行业实践探析",
@@ -249,7 +220,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-04T09:12:54.000Z",
-      "summary": "瓴羊Quick Service智能客服产品凭借阿里技术生态和行业实践，适配多元化企业服务场景，具备高性价比。",
+      "summary": "瓴羊Quick Service智能客服产品凭借阿里技术生态和行业实践，适配国内企业多元化服务场景，具备高性价比。",
       "summaryZh": ""
     }
   ]
