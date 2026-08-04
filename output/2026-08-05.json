@@ -1,7 +1,17 @@
 {
   "date": "2026-08-05",
-  "generatedAt": "2026-08-04T18:01:19.382Z",
+  "generatedAt": "2026-08-04T19:50:51.636Z",
   "items": [
+    {
+      "title": "ST信源：目前已经接入了国内优秀的大模型AI产品，如百度文心一言、阿里通译千问、智普ChatGLM、Kimi、DeepSeek以及科大讯飞星火大模型等",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mMWRjaVBHQXFXY0QzZUQ4cnEzZ0VuVjQxbnZNOTFyai1mWjRyMWlicGJidU4wWTJxSmx3dGF0SEVPdVZGTUFqMWh4TGRueWFid1RDLWFkZS1jaHk2Y3BzQUstUGdyNzBK?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-04T12:59:33.000Z",
+      "summary": "ST信源接入多款国内大模型AI产品。",
+      "summaryZh": ""
+    },
     {
       "title": "由三星SDS牵头的韩国国家人工智能算力中心正式开工",
       "link": "https://36kr.com/newsflashes/3925199434611072?f=rss",
@@ -9,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-04T12:39:20.000Z",
-      "summary": "韩国国家人工智能算力中心开工，总投资2.5万亿韩元。",
+      "summary": "三星SDS牵头建设的韩国国家人工智能算力中心正式开工。",
       "summaryZh": ""
     },
     {
@@ -29,7 +39,26 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-04T08:10:36.000Z",
-      "summary": "DeepSeek内测招募帖引发120万星关注，开发者积极参与开源Agent项目。",
+      "summary": "DeepSeek开源招募引发120万星关注，开发者积极参与Agent开源生态探索。",
+      "summaryZh": ""
+    },
+    {
+      "title": "财联社8月4日电，AI Agent初创公司HappyRobot C轮融资后估值达12亿美元。",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rMzI4bmdHUlhEVmJPZGJPeEI5RmtZV084T3FFaXAtWnhyeTEzbF9tcjZ3TFZud0JpTkJpdzd1ZVN2eG5LeDNocw?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-04T12:32:55.000Z",
+      "summary": ""
+    },
+    {
+      "title": "盈峰环境：无人环卫机器人等业务占整体营收比例较小",
+      "link": "https://36kr.com/newsflashes/3925160587344258?f=rss",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-04T11:59:49.000Z",
+      "summary": "盈峰环境无人环卫机器人等业务营收占比小，短期不影响业绩。",
       "summaryZh": ""
     },
     {
@@ -39,7 +68,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-04T10:14:56.000Z",
-      "summary": "蚂蚁灵波拟募资15亿，专注通用机器人大脑研发。",
+      "summary": "蚂蚁灵波拟募资15亿，聚焦通用机器人大脑研发。",
       "summaryZh": ""
     },
     {
@@ -53,6 +82,16 @@
       "summaryZh": ""
     },
     {
+      "title": "“未来已来”：华为智选车产品总监彭磊晒享界 G9 汽车 L3 自动驾驶功能按键，可亮蓝光",
+      "link": "https://www.ithome.com/0/985/681.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-04T12:32:16.000Z",
+      "summary": "华为智选车享界G9汽车展示L3级自动驾驶蓝光功能按键。",
+      "summaryZh": ""
+    },
+    {
       "title": "直击萤石网络业绩会：智能服务机器人等新赛道处于孵化阶段 将打造具身级AI",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzQWFPVUt4czdIZGlnZWhtNjl6YS1iUjFHbzZLV0h5UWVLaDhvbE1ZeHNoLWNSSEExa2pyb0I0VlB5VjBpNFI4NHZSQ0x6WVZzc2xBZC1teDZ6U1Y1WDhENg?oc=5",
       "source": "东方财富网",
@@ -60,6 +99,16 @@
       "category": "robotics",
       "pubDate": "2026-08-03T23:45:41.000Z",
       "summary": "萤石网络业绩会透露，智能服务机器人等新赛道孵化中，将打造具身级AI。",
+      "summaryZh": ""
+    },
+    {
+      "title": "每日新闻0804-科创创业人工智能ETF鹏华(588410)涨超7%，全球AI大模型周调用量达62.8万亿",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRc1RVUlhqMHFlMWdaeS0yUGloSG5weER1Rmo4VVd5Q2d6WFpfaDVMNUMzdXdPcnpuMWR4MEtKTTZJeE5hNDB5Q0NYbXhHTUx6bXF3bk5NMHo?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-04T12:17:56.000Z",
+      "summary": "科创创业人工智能ETF鹏华涨超7%，全球AI大模型周调用量达62.8万亿。",
       "summaryZh": ""
     },
     {
@@ -73,13 +122,13 @@
       "titleZh": "Meta、Anthropic、谷歌、OpenAI 将在流氓人工智能代理的影响下与特朗普顾问会面"
     },
     {
-      "title": "深圳机器人零部件公司陶世获1.4亿A轮融资，南山、前海都投了",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9zSWh6eWZjYlJ5UDM1VnRZRjVNYmpRV0x4Qkg4VE5Nbm1WWTMyUkJoLXVNbjJWZWZJM0U0QlJINnNjZU5NRUE?oc=5",
-      "source": "智东西",
+      "title": "AI机器人项目招商哪个好？看懂这五个维度，选对合作伙伴",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtSTJUTHpFeVJiemc0VXlzLXN2eUlTS3lxYzVhcWw4RW4tZVVYVzZ2RWY5bmxOaE5WYzhuMjBzR2V6ajE4Sk93SWJBcEM?oc=5",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-04T04:26:16.000Z",
-      "summary": "深圳陶世智能科技获1.4亿A轮融资，资金用于研发和市场拓展。",
+      "pubDate": "2026-08-04T07:30:35.000Z",
+      "summary": "AI机器人项目招商需关注技术、产品、资质、支持与市场空间。",
       "summaryZh": ""
     },
     {
@@ -93,23 +142,13 @@
       "summaryZh": ""
     },
     {
-      "title": "Cloudflare 推出新开源库，为每个 AI 智能体配备独立工作计算机",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zcDUyOGFqZUFFR1BJS1lFZ1VYZG9lb3ZVaEFFaVlMcUV5WkxNZUpSYkYyMlVicl82S1c2b2xzSmV6QXpTV2VIdFpaNTY?oc=5",
-      "source": "IT之家",
+      "title": "晒完整聊天记录硬刚苹果，OpenAI：这场诉讼草率、咄咄逼人，与苹果声誉不符",
+      "link": "https://zhidx.com/p/582177.html",
+      "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-04T06:18:31.000Z",
-      "summary": "Cloudflare发布开源库，为AI智能体提供独立工作计算机。",
-      "summaryZh": ""
-    },
-    {
-      "title": "推荐AI Agent搜索Skill，登顶周榜更省Token",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XRDc3OWlIMVk5TXhQUmVzb0xVM08wb1R1bzR6Z0REcThWUDJqQ1pmQm9INEpscWRYU2ZSemZFb3p5UU5yUGo4NlBsc1Y?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-04T09:51:10.000Z",
-      "summary": "AI Agent搜索Skill工具AnySearch登顶Product Hunt周榜，提供高效数据检索服务。",
+      "pubDate": "2026-08-04T13:07:41.000Z",
+      "summary": "OpenAI公开与苹果的邮件和聊天记录，反驳苹果的诉讼指控。",
       "summaryZh": ""
     },
     {
@@ -123,13 +162,22 @@
       "summaryZh": ""
     },
     {
-      "title": "头部大模型力拼“降价开源”，企业级AI部署有望加快；大数据ETF华夏（516000）上涨0.43%；软件ETF华夏（159068）上涨2.33%",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50cDZ3Y0NCbjk3NnMybWh5MklzYkZaZkxNcTU0a2lqTVRpLXR0d05BTEdlLVJfTEJ5NkV3VjRfbGVTMlBkZDlCYWZNVkdESzI2YUFzZHVhNDdRdVhMM2d0dw?oc=5",
-      "source": "东方财富网",
+      "title": "收评：创业板指放量大涨5.64% 算力硬件股集体反弹",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJUEhic2xEbzZiNGpBQWRaZGFVUGZpQUlnajlQWnFqVzNRZmE4blg2YlRXLXplNGQ0WnZrYVpKMDEwckNScmVHSw?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-03T20:00:37.000Z",
-      "summary": "头部大模型降价开源，推动企业级AI部署加速，相关ETF上涨。",
+      "pubDate": "2026-08-04T09:29:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "边缘Physical AI：FPGA赋能工业机器人与运动控制_直播",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xX0ZiaDdqYUtsUW96OHRMd0Rja1QweU1iZlctLThkNTNfOTdsZ3NkOFhnMUtDbDJqNzNXT1Zac3ZnNlVmRFFDNXZOT0tKa0MtSkh3?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-04T03:17:58.000Z",
+      "summary": "边缘Physical AI技术利用FPGA提升工业机器人和运动控制性能。",
       "summaryZh": ""
     },
     {
@@ -148,20 +196,10 @@
       "source": "Bloomberg",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-08-04T06:40:57.000Z",
+      "pubDate": "2026-08-04T06:19:00.000Z",
       "summary": "中国初创公司AI² Robotics考虑在香港进行IPO。",
       "summaryZh": "",
       "titleZh": "据称中国初创公司AI² Robotics考虑在香港IPO"
-    },
-    {
-      "title": "自动驾驶是具身智能的上半场？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzVmJmWkl0NU9Kdm5Md0QtYTZiS1h5YklTNm5NdDlQQnVDUG5zdnFvRVVkVzNPRlNCVTRvSjc5cjlkSkdET3hTdmFkbG5yRlBzeEZ4RWs3SQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-04T02:42:57.000Z",
-      "summary": "自动驾驶被视为具身智能发展的早期阶段。",
-      "summaryZh": ""
     },
     {
       "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
@@ -175,46 +213,44 @@
       "titleZh": "机器人公司对美国外国机器人禁令的看法"
     },
     {
-      "title": "铁脚板的角力：当人形机器人在“冰丝带”玩起拔河，比的不是力气",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMd0JlTEQzdFpuVUM3TktwbUlKQlJmbndQNk9WMFJjdmFZN1R3bG9uXzRxYVRZUEtIcVNKM2FJNmRPWTRPeWRVbDBfRUJLbGZjWXAxdlFjdmdGZHpnZ3FLYTBB?oc=5",
-      "source": "新京报",
+      "title": "自动驾驶是具身智能的上半场？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzVmJmWkl0NU9Kdm5Md0QtYTZiS1h5YklTNm5NdDlQQnVDUG5zdnFvRVVkVzNPRlNCVTRvSjc5cjlkSkdET3hTdmFkbG5yRlBzeEZ4RWs3SQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-04T08:55:00.000Z",
-      "summary": ""
+      "pubDate": "2026-08-04T02:42:57.000Z",
+      "summary": "自动驾驶被视为具身智能发展的基础阶段。",
+      "summaryZh": ""
     },
     {
-      "title": "How One Startup Built a (Mostly) China-Free Robot",
-      "link": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
-      "source": "Wired",
-      "lang": "en",
+      "title": "[今日亚洲]搭载AI 美乌加速让人形机器人走向战场",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmQnQwdFcxQXlOc3RreW9jZjcwYVQ3cGxaeDZjeHdiaG10WlpJY3RETjFEV3JRa3VCZlhNWTNQaDhabG5heW94YWVYWWJPaWxJS3hza2l5MXdaM3RueWpkVXg1c25vcVRRQjVpTGVWVllrbXF1ZGc?oc=5",
+      "source": "央视网",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-04T10:45:00.000Z",
-      "summary": "Ati Robotics在印度组装机器人，使用少量中国部件，以应对美国对国家安全担忧。",
-      "summaryZh": "",
-      "titleZh": "一家初创公司如何打造一款（大部分）不受中国影响的机器人"
+      "pubDate": "2026-08-04T12:11:00.000Z",
+      "summary": "美乌加速研发AI人形机器人用于战场。",
+      "summaryZh": ""
     },
     {
-      "title": "Litter-Robot Promo Codes: Up to $150 Off",
-      "link": "https://www.wired.com/story/litter-robot-promo-code/",
-      "source": "Wired",
-      "lang": "en",
+      "title": "Wetour Robotics发布Orchestra平台 推进平台化转型",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tU1A4T3VQd0hmaTVUc1liMXpaX0IxYURMakpCYnVDV3ZyV2ZzZjJOaUg1dThOOER0RGtzMnhmUDdTUjBoNmdoSExlYjQwdFdXeWI2Nm00OA?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-04T05:00:00.000Z",
-      "summary": "Litter-Robot推出促销代码，最高优惠150美元。",
-      "summaryZh": "",
-      "titleZh": "Litter-Robot 促销代码：最高折扣 150 美元"
+      "pubDate": "2026-08-03T20:06:00.000Z",
+      "summary": "Wetour Robotics发布Orchestra平台，标志着公司平台化转型关键节点。",
+      "summaryZh": ""
     },
     {
-      "title": "Unitree expects first-half revenue growth as demand for humanoid robots accelerates",
-      "link": "https://roboticsandautomationnews.com/2026/08/04/unitree-expects-first-half-revenue-growth-as-demand-for-humanoid-robots-accelerates/103876/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-04T11:34:05.000Z",
-      "summary": "Unitree预计上半年收入增长，人形机器人需求加速。",
-      "summaryZh": "",
-      "titleZh": "随着人形机器人需求加速，Unitree预计上半年收入增长"
+      "title": "2026 高性价比智能客服产品推荐：瓴羊 Quick Service 技术方案与行业实践探析",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fa1RMQU50Rk9FY2JlYV9VNWU3WFdSdnpHVHRPQ2l4OWU5T3IwblVmYk0wTjJ4OGN6d1pzQm9lOWJwNzd0c1B3Y1lIM0c?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-08-04T09:12:54.000Z",
+      "summary": "瓴羊Quick Service智能客服产品凭借阿里技术生态和行业实践，适配多元化企业服务场景，具备高性价比。",
+      "summaryZh": ""
     }
   ]
 }
