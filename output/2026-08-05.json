@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generatedAt": "2026-08-04T20:53:56.228Z",
+  "generatedAt": "2026-08-04T22:32:05.704Z",
   "items": [
     {
       "title": "ST信源：目前已经接入了国内优秀的大模型AI产品，如百度文心一言、阿里通译千问、智普ChatGLM、Kimi、DeepSeek以及科大讯飞星火大模型等",
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-04T13:14:27.000Z",
-      "summary": "开源科研智能体OpenAI4S发布，内置30+科研Skills，支持代码即行动。",
+      "summary": "开源科研智能体OpenAI4S发布，内置30+科研Skills，支持“代码即行动”。",
       "summaryZh": ""
     },
     {
@@ -29,17 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-04T08:10:36.000Z",
-      "summary": "DeepSeek开源招募引发120万星关注，开发者积极参与Agent项目探索。",
-      "summaryZh": ""
-    },
-    {
-      "title": "财联社8月4日电，AI Agent初创公司HappyRobot C轮融资后估值达12亿美元。",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rMzI4bmdHUlhEVmJPZGJPeEI5RmtZV084T3FFaXAtWnhyeTEzbF9tcjZ3TFZud0JpTkJpdzd1ZVN2eG5LeDNocw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-04T12:32:55.000Z",
-      "summary": "HappyRobot完成C轮融资，估值达12亿美元。",
+      "summary": "DeepSeek开源招募引发120万星关注，开发者热议AI Coding Agent生态。",
       "summaryZh": ""
     },
     {
@@ -49,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-04T11:59:49.000Z",
-      "summary": "盈峰环境无人环卫机器人等业务营收占比小，对公司业绩影响有限。",
+      "summary": "盈峰环境无人环卫机器人等业务营收占比小，短期不影响业绩。",
       "summaryZh": ""
     },
     {
@@ -59,7 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-04T10:14:56.000Z",
-      "summary": "蚂蚁灵波启动首轮融资，拟募资15亿，聚焦通用机器人大脑。",
+      "summary": "蚂蚁灵波拟募资15亿，专注通用机器人大脑研发。",
       "summaryZh": ""
     },
     {
@@ -69,7 +59,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-04T09:56:33.000Z",
-      "summary": "2026年，情感陪伴机器人面临技术、伦理和商业三重挑战。",
+      "summary": "2026年，情感陪伴机器人面临技术、伦理和商业化的三重挑战。",
       "summaryZh": ""
     },
     {
@@ -83,23 +73,13 @@
       "summaryZh": ""
     },
     {
-      "title": "Meta, Anthropic, Google, OpenAI to meet with Trump advisers amid rogue AI agent fallout",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1dFYnlpdVZxSzIyWnptbDAxbjlwMzNtdEFtVFRkYXQ5OWpxbTBBaU44LUg5Tl9oX2ZnT2R2REQ0S2JWdjVid1NkWmM5aUJyOTZFZE9lQnNRWHhhS1NIVXBsTW9CRGZoRHlQTVZTOXhzVndCYkxZUEFUcElGdG9leU1ISlpLaWJER3dZUC13NmQ2SjNGMVpPcXc4NzdrbWlhekFiV19aYWZKaGJCblhvNnVFbWo0UVJUSWQ4eWVCSHZtRXFqU01zOQ?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-08-04T15:34:28.000Z",
-      "summary": "",
-      "titleZh": "Meta、Anthropic、谷歌、OpenAI 将在流氓人工智能代理的影响下与特朗普顾问会面"
-    },
-    {
-      "title": "AI机器人项目招商哪个好？看懂这五个维度，选对合作伙伴",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtSTJUTHpFeVJiemc0VXlzLXN2eUlTS3lxYzVhcWw4RW4tZVVYVzZ2RWY5bmxOaE5WYzhuMjBzR2V6ajE4Sk93SWJBcEM?oc=5",
-      "source": "IT之家",
+      "title": "边缘Physical AI：FPGA赋能工业机器人与运动控制_直播",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xX0ZiaDdqYUtsUW96OHRMd0Rja1QweU1iZlctLThkNTNfOTdsZ3NkOFhnMUtDbDJqNzNXT1Zac3ZnNlVmRFFDNXZOT0tKa0MtSkh3?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-04T07:30:35.000Z",
-      "summary": "AI机器人项目招商需关注技术、产品、资质、支持、市场潜力等五个维度。",
+      "pubDate": "2026-08-04T03:17:58.000Z",
+      "summary": "边缘Physical AI技术利用FPGA提升工业机器人和运动控制性能。",
       "summaryZh": ""
     },
     {
@@ -123,33 +103,23 @@
       "summaryZh": ""
     },
     {
-      "title": "AI碳基时代：AI应用或带来算力需求再次爆发！国产AI包揽全球调用前五！源杰科技涨超12%，科创芯片ETF汇添富(588750)涨超2%，融资客增仓！",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vczdpai1OM09wc05aVll1NkNhSThpLV9SOUs3WkFUOXlLVzJGVmFVRnRaeDlJcFBnV0xoNERkbmtVZ0YxU0Zhd3Z5VGtiSTk1dzZSeERB?oc=5",
-      "source": "界面新闻",
+      "title": "详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBjelpMRldXZkhhYS1Uekw2Z3NNUGZ0WnJPYnZ2WEhabTk2X3JJOXNybURZSWJwdGVham5uWFN1MHByX1lwcW1B?oc=5",
+      "source": "晚点LatePost",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-04T02:37:18.000Z",
-      "summary": "国产AI包揽全球调用前五，AI应用或引发算力需求爆发，相关芯片股上涨。",
+      "pubDate": "2026-08-04T07:19:15.000Z",
+      "summary": "Kimi K3模型详解：开源权重引发开源大辩论，技术解析引发关注。",
       "summaryZh": ""
     },
     {
-      "title": "收评：创业板指放量大涨5.64% 算力硬件股集体反弹",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJUEhic2xEbzZiNGpBQWRaZGFVUGZpQUlnajlQWnFqVzNRZmE4blg2YlRXLXplNGQ0WnZrYVpKMDEwckNScmVHSw?oc=5",
+      "title": "奥尼电子成立算力公司 含量子计算技术服务业务",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lQUg4QVc2Nnp6azFFZlk2aHdFZEZnVDRmMldNd1dMN1JoS0NRODA3cDZmV013bVFvYmNVOVhYVW5HUmlBY2p5Yw?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-04T09:29:00.000Z",
-      "summary": "创业板指放量大涨5.64%，算力硬件股集体反弹。",
-      "summaryZh": ""
-    },
-    {
-      "title": "边缘Physical AI：FPGA赋能工业机器人与运动控制_直播",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xX0ZiaDdqYUtsUW96OHRMd0Rja1QweU1iZlctLThkNTNfOTdsZ3NkOFhnMUtDbDJqNzNXT1Zac3ZnNlVmRFFDNXZOT0tKa0MtSkh3?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-04T03:17:58.000Z",
-      "summary": "边缘Physical AI技术利用FPGA提升工业机器人和运动控制性能。",
+      "pubDate": "2026-08-04T03:03:28.000Z",
+      "summary": "奥尼电子成立算力公司，涉量子计算技术服务。",
       "summaryZh": ""
     },
     {
@@ -163,6 +133,16 @@
       "summaryZh": ""
     },
     {
+      "title": "人工智能多项成果落地生根 河南AI产业全搜索",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zWVg4SXRwY1NCLXZBSTczc2FVeW9GTTExN2JKc2lTZ2lzNElXVlJURUdndjVQeERRaG9CU0VNdFE1SmlCTmNBcGFIMTJBNTdnUHBNYkc5ZF9TM0RNc2FJa0hlYXVjaTNKbndKaTVpMA?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-04T00:43:00.000Z",
+      "summary": "河南AI产业多项成果落地，助力企业数字化转型。",
+      "summaryZh": ""
+    },
+    {
       "title": "Chinese Startup AI² Robotics Is Said to Consider Hong Kong IPO",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb01ZbVV5TERudC1JVXBJX0ZzcGpCLVVTSU12ZS05V1VQc1FtRTdPWW5PUGRuclRlbnJDRkF0U281X2I4aTdoOHRZdktLM1RWYzJTSzh1Q2UydTh3TlJEY2xtcXcyeHBZQkkyWmJUNVJReG50cmJTUVFtVm1TSW5qckd0WWY1TmRtZGZpdXZMblBhaUZTVmRXTklVVm9xWG5rUk11MTZISE1FbTRqOHBIRmdn?oc=5",
       "source": "Bloomberg",
@@ -172,6 +152,16 @@
       "summary": "中国初创公司AI² Robotics考虑在香港进行IPO。",
       "summaryZh": "",
       "titleZh": "据称中国初创公司AI² Robotics考虑在香港IPO"
+    },
+    {
+      "title": "英伟达从芯片供应商走向AI基础设施组织者，拟为OpenAI数据中心提供2500亿美元担保",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96X2hsbmtzOS0yb0JxaHJ1ZUwxbUtRb3R2dVFTQjlGQUJyWkJ1aGswYVNIN3VheWRVd1UwdmdSOUhqSWJpVHBJN1gzRWxvcTNxa1k5SQ?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-04T07:39:23.000Z",
+      "summary": "英伟达拟为OpenAI数据中心提供2500亿美元担保，介入AI基础设施建设。",
+      "summaryZh": ""
     },
     {
       "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
@@ -214,13 +204,23 @@
       "summary": ""
     },
     {
-      "title": "2026 高性价比智能客服产品推荐：瓴羊 Quick Service 技术方案与行业实践探析",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fa1RMQU50Rk9FY2JlYV9VNWU3WFdSdnpHVHRPQ2l4OWU5T3IwblVmYk0wTjJ4OGN6d1pzQm9lOWJwNzd0c1B3Y1lIM0c?oc=5",
+      "title": "鹿明发布 Lumos Ego Vue 与自研数据管线，打通机器人从经验获取到技能进化闭环",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tRXBLLUpvQXZnLVVWMXY3TXJQNGxKTnhrRUhKRVZ6dk9IaGtISm1POGhIbnpkMzB2MmJCVk5iVjJmTk5qSTBNMHJWLWo?oc=5",
       "source": "极客公园",
       "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-04T17:14:21.000Z",
+      "summary": "鹿明发布Lumos Ego Vue与自研数据管线，实现机器人技能从经验获取到进化的闭环。",
+      "summaryZh": ""
+    },
+    {
+      "title": "西藏启动智慧文旅项目 将建古建筑数字孪生系统",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NOWdJei1RNGNIQVBNdUNIYzJydlY0ZGxGZmRReHpYVk8zX1o3S1pOZWJBaWVKRldiZWVHQ2RicDdHd0NVN3lUdmZYUWJVRWt5c2hVRjRfZVBULW9xZXRLNnBnUm5IMGtzUjJCVl90SnQ?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
       "category": "application",
-      "pubDate": "2026-08-04T09:12:54.000Z",
-      "summary": "瓴羊Quick Service智能客服产品凭借阿里技术生态和行业实践，适配国内企业多元化服务场景，具备高性价比。",
+      "pubDate": "2026-08-04T07:57:17.000Z",
+      "summary": "西藏启动智慧文旅项目，将建古建筑数字孪生系统。",
       "summaryZh": ""
     }
   ]
