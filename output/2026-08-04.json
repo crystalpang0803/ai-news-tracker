@@ -1,7 +1,27 @@
 {
   "date": "2026-08-04",
-  "generatedAt": "2026-08-04T03:41:23.220Z",
+  "generatedAt": "2026-08-04T06:14:06.267Z",
   "items": [
+    {
+      "title": "中美 AI 大模型竞争加剧：OpenAI 等海外巨头大幅降价对标 Kimi、DeepSeek",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fS3FydDlmeFI0dHNuMkpuUGExR3pPN2t0YXI1QzlGMDNRdkdmdVBRemNZOUNlMUJtZW9VeHpENTBzUkk5cFUwQTlGUkU?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-04T01:12:20.000Z",
+      "summary": "OpenAI等海外AI巨头大幅降价，对标中国Kimi、DeepSeek等大模型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "北京一酒吧上线“不限量免费 Token”服务，到店连接 Wi-Fi 即可畅用 DeepSeek V4 Flash 模型",
+      "link": "https://www.ithome.com/0/985/450.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-04T05:46:39.000Z",
+      "summary": "北京酒吧AGI Bar推出“Token免费畅饮”服务，顾客可免费使用DeepSeek V4 Flash模型。",
+      "summaryZh": ""
+    },
     {
       "title": "36氪首发 | 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿",
       "link": "https://36kr.com/p/3924628805351811?f=rss",
@@ -23,53 +43,42 @@
       "summaryZh": ""
     },
     {
-      "title": "AI外呼行业观察：通信运营能力成大模型落地分水岭，高斯通智能如何破局",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3clk0Y0JfdDMtN05yXzN4NG53RC0yWDVOZW1Hd1NnWlBURGJNYzE2MXN1WUdpZnAwczlnWEpSRk45bG1iaEtDZkpKX0I?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-03T07:22:19.000Z",
-      "summary": "高斯通智能以通信底座、AI大模型和运营服务组合，重新定义AI外呼价值。",
-      "summaryZh": ""
-    },
-    {
-      "title": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
-      "link": "https://36kr.com/p/3924467692927369?f=rss",
+      "title": "IDC：2025年中国外骨骼机器人市场规模超16亿元，出货量约2.6万台",
+      "link": "https://36kr.com/newsflashes/3924692768127112?f=rss",
       "source": "36氪",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-04T00:18:04.000Z",
-      "summary": "宗馥莉兄弟任新公司董事长，DeepSeek全球调用量第一，iPhone或最高涨千元。",
+      "category": "robotics",
+      "pubDate": "2026-08-04T04:38:50.000Z",
+      "summary": "2025年中国外骨骼机器人市场规模将超16亿元，出货量约2.6万台。",
       "summaryZh": ""
     },
     {
-      "title": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
-      "link": "https://www.qbitai.com/2026/08/465732.html",
-      "source": "量子位",
+      "title": "资本加注引爆前夜，眼科手术机器人首证倒计时",
+      "link": "https://www.tmtpost.com/8090361.html",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-04T01:27:41.000Z",
-      "summary": "亿级日活App通过跨云架构和GPU选型优化，成功降低75%的GPU集群成本。",
+      "category": "robotics",
+      "pubDate": "2026-08-04T06:03:00.000Z",
+      "summary": "国内三家企业同步冲刺眼科手术机器人首证。",
       "summaryZh": ""
     },
     {
-      "title": "赛博义父Tibo爆料：谷歌早一年就做出了ChatGPT，硬是没敢发！",
-      "link": "https://www.qbitai.com/2026/08/465176.html",
-      "source": "量子位",
+      "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9remh3Mi1pVTZBYXZ0dU1MQU5yMkw0ZTFuVm81NzR0dnRoVEdITWQtZlZGbEJmZ1dzRHh0SDQyQWh5cjJBY0ZqYQ?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-03T04:29:44.000Z",
-      "summary": "谷歌曾研发类似ChatGPT的产品，因担心冲击现有业务而未发布。",
-      "summaryZh": ""
+      "pubDate": "2026-08-04T06:03:46.000Z",
+      "summary": ""
     },
     {
-      "title": "2026年内嵌式AI Agent选型参考SaaS一体化智能体产品能力梳理",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TTTBxVVdBNzI4Ni1lTG5kTGxPd09GR1hPN3U1bnRHaWVORi1vaWNzM1pvWFBmYi1OcVpKaW0tdzRJNUZYSUctZG9XeGE?oc=5",
-      "source": "IT之家",
+      "title": "谷歌地球AI生图功能紧急叫停；阿里正式发布旗舰大模型Qwen3.8；京东外卖发布AI智能头盔",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2MXRLU1I3QjlaY3NsN1RDQndZN3EzTDkyNTdLSVBnZy14Qy1FeG5SZk9iM0RWanhGM0E3MTh1V0JOajlHMFZuN2RQNlFNSTNmajVzQldR?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-03T13:23:47.000Z",
-      "summary": "2026年AI Agent选型参考梳理，多款SaaS一体化智能体产品能力对比。",
+      "pubDate": "2026-08-03T12:01:00.000Z",
+      "summary": "谷歌地球AI生图功能紧急叫停，阿里发布旗舰大模型Qwen3.8，京东外卖发布AI智能头盔。",
       "summaryZh": ""
     },
     {
@@ -79,7 +88,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-03T23:50:58.000Z",
-      "summary": "Qwen3.8-Max在自主计算基准测试中超越GPT-5.6 Sol Max和Fable 5。",
+      "summary": "Qwen3.8-Max在自主计算领域超越GPT-5.6 Sol Max和Fable 5。",
       "summaryZh": "",
       "titleZh": "Qwen3.8-Max 提出了一个大胆的主张：它在代理计算机使用方面优于 GPT-5.6 Sol Max 和 Fable 5"
     },
@@ -94,23 +103,13 @@
       "titleZh": "美国众议院小组寻求有关 OpenAI 人工智能代理安全漏洞的简报"
     },
     {
-      "title": "苹果组建AI芯片团队叠加算力债券落地，科创芯片设计ETF易方达（589030）催化不断-ETF火线",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10dWhIRmVyMUNJR0E2cmlKYUsyXzJ0MUU0MzhCTzRsNDQzc01PcEhnaFEtWVlMRHR5bll4WkZNc3lqeUxhNVFPZWl4X2s4OTlMN2phWnF3dGgzTDQ0Ujc0MEl3?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-04T02:33:46.000Z",
-      "summary": "苹果成立AI芯片团队，算力债券落地，科创芯片ETF易方达催化市场上涨。",
-      "summaryZh": ""
-    },
-    {
       "title": "Apple vs. OpenAI: How Siri AI Stacks Up Against the New ChatGPT",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbnhfUXdoLVpyUHB6VUhXbzY1OUJtOHQ5b2NadGh4c3pKNWpOVGlSajQzeVcxVVIwQWtkQnZaM3hjUTFCQy1Va2xjcldnNFFseklPaHphZ2JtcmRZN0Q4ZzBWeUlGcFlmb0hXQmxiLVVEd0haSldmbGlScnhkaV9tdldEOVk3T2x1VGRXUHJmaW1jeGpfOWs5aGRaYXdZNzB1MDhYcVVWcw?oc=5",
       "source": "Bloomberg",
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-03T09:30:04.000Z",
-      "summary": "苹果Siri AI与OpenAI ChatGPT对比分析。",
+      "summary": "苹果Siri与OpenAI ChatGPT对比分析。",
       "summaryZh": "",
       "titleZh": "苹果 vs. OpenAI：Siri AI 如何与新的 ChatGPT 抗衡"
     },
@@ -131,7 +130,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-04T02:25:27.000Z",
-      "summary": "北京建筑机器人公司获数千万元融资，产品已应用于中建八局工地。",
+      "summary": "北京建筑机器人公司完成数千万元融资，产品已应用于中建八局工地。",
       "summaryZh": ""
     },
     {
@@ -145,23 +144,13 @@
       "summaryZh": ""
     },
     {
-      "title": "杭州物理AI产值破千亿：机器狗份额80%，人形机器人50%",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yREkxVWFKcnJHOERaOUFBNE5LM3VPNUFFelE0VXFtQTNZYWJZcHhKc2ZKdzF3Z3dBTzlSbXVHaDhGZHFnN0VTd0VMamphbnhO?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-03T11:39:53.000Z",
-      "summary": "杭州物理AI产值超千亿，机器狗占80%，人形机器人占50%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Claude焚书又\"越狱\" ，边界在哪？",
-      "link": "https://www.tmtpost.com/8089644.html",
-      "source": "钛媒体",
+      "title": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lWENPX2s3d2xrQzJ1YndJSlFnQmhoOFJVV214NFljOWZwQVRRcWZjNVI1X1JHYTJGRTNRRGdzUkhORHNwM01rYUZtN0F0ZFRpWWZNRA?oc=5",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-04T02:27:11.000Z",
-      "summary": "Anthropic焚书事件引发边界争议，同时AI模型越狱事件暴露安全漏洞。",
+      "pubDate": "2026-08-04T01:27:41.000Z",
+      "summary": "亿级日活App通过跨云架构和GPU选型优化，成功降低75% GPU集群成本。",
       "summaryZh": ""
     },
     {
@@ -175,6 +164,36 @@
       "summaryZh": ""
     },
     {
+      "title": "机构预测：AI芯片建设潮将掀起逾5000亿美元发债高峰",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RUE52VmNvZnh3cnZjQzNzQ1hiczNkTzZxMjdSTmo4WGhfbmt6UUJ2M2VRWnp5TjIwN3ZIeV9zVFVENkhlbFV4cjBHUlhvc1p5dFRuWTNSRlo?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-03T16:26:42.000Z",
+      "summary": "AI芯片建设预计将引发5000亿美元以上发债潮。",
+      "summaryZh": ""
+    },
+    {
+      "title": "韩国AI芯片初创公司DeepX融资估值暴涨至22亿美元",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90VFkzWUdGOHI0TkNVYkl1Z2FBX3ZVUjBUa3hrOVdZZm1BQkk2WmZYdVRjdExoS2dWak41UEJMejRwdkdxSl9DOERkaEp2SWs1bU0yQkFGR1M?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-03T13:35:22.000Z",
+      "summary": "韩国AI芯片初创公司DeepX融资估值升至22亿美元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "上半年3000亿元涌入中国AI创业公司 创投资金加速涌向AI和硬科技",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1feUZGbDJoRjE5UFpVUkJPbmFGVHhibVdualljZ3htMlJVem9kNC1fdkpQakFoNm9PbFBES01lcV9yNU1NcFFhNklFSHFvWl83alpj?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-03T15:01:20.000Z",
+      "summary": "2026年上半年中国AI创业公司融资超3000亿元。",
+      "summaryZh": ""
+    },
+    {
       "title": "HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators",
       "link": "https://www.therobotreport.com/hebi-robotics-earns-nasa-sbir-grant-fast-track-miniaturized-actuators/",
       "source": "The Robot Report",
@@ -184,6 +203,16 @@
       "summary": "HEBI Robotics获NASA SBIR资助，加速微型执行器研发。",
       "summaryZh": "",
       "titleZh": "HEBI Robotics 获得 NASA SBIR 拨款用于快速跟踪微型执行器"
+    },
+    {
+      "title": "杭州物理AI产值破千亿：机器狗份额80%，人形机器人50%",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yREkxVWFKcnJHOERaOUFBNE5LM3VPNUFFelE0VXFtQTNZYWJZcHhKc2ZKdzF3Z3dBTzlSbXVHaDhGZHFnN0VTd0VMamphbnhO?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-03T11:39:53.000Z",
+      "summary": "杭州物理AI产值超千亿，机器狗和人形机器人市场份额分别达80%和50%。",
+      "summaryZh": ""
     },
     {
       "title": "Trump’s AI protectionism has come for robotics",
@@ -203,7 +232,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-03T16:05:39.000Z",
-      "summary": "Walden Robotics与丰田合作开发实用型类人机器人。",
+      "summary": "Walden Robotics与丰田合作开发实用型人形机器人。",
       "summaryZh": "",
       "titleZh": "瓦尔登机器人公司与丰田合作开发实用人形机器人"
     },
@@ -214,29 +243,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-03T07:00:51.000Z",
-      "summary": "Reimagine Robotics推出可“边工作边学习”的机器人。",
+      "summary": "Reimagine Robotics发布可“边工作边学习”的机器人。",
       "summaryZh": "",
       "titleZh": "Reimagine Robotics 推出“在工作中学习”的机器人"
-    },
-    {
-      "title": "三星SDI：全固态电池首单瞄准人形机器人，2027 H2量产",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92cFYzS3BTelh5UFlVRzBPVzNVU0x5Z045UWJWS0JvcmZUSXA0b1VxZTJrZXppa0w5aS1rVEpBQktwa0p5QUlVd0FIWEpQWDNUdFVTaDZTdw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-03T08:14:07.000Z",
-      "summary": "三星SDI将量产全固态电池，首单应用于人形机器人，目标2027年下半年。",
-      "summaryZh": ""
-    },
-    {
-      "title": "宇树科技8.10申购，机器人ETF开盘+5.23%，大族激光、绿的谐波、昊志电机涨超15%！",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yRFNuTkMyekRSdG8zdFU0Wjk0NXUxUVQweldRTURDTWFiX21ZVXY0bFA3NkZ1RDItLTR0YnhkRnFpMkJOcGUyQnVjckRBS25QMUEyYWxaQQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-03T08:03:42.000Z",
-      "summary": "宇树科技申购，机器人ETF及多股开盘上涨。",
-      "summaryZh": ""
     },
     {
       "title": "How NTT DATA AIVista closes the last mile of agentic AI for enterprise agents",
@@ -256,7 +265,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-04T00:00:00.000Z",
-      "summary": "AI赋能文旅，八大场景创新暑期消费体验。",
+      "summary": "AI赋能文旅，暑期消费场景创新活跃。",
       "summaryZh": ""
     }
   ]
