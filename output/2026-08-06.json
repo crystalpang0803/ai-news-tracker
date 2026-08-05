@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generatedAt": "2026-08-05T22:31:34.248Z",
+  "generatedAt": "2026-08-05T23:39:14.476Z",
   "items": [
     {
       "title": "8GB 内存也能跑 Kimi K3？2026 本地部署大模型配置全指南",
@@ -9,17 +9,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-05T07:21:13.000Z",
-      "summary": "Kimi K3大模型可在8GB内存上运行，本地部署配置指南发布。",
+      "summary": "Kimi K3大模型可在8GB内存下运行，本地部署配置指南发布。",
       "summaryZh": ""
     },
     {
-      "title": "Anthropic 首次确认自研 AI 芯片：专为 Claude 定制，公司正在组建团队",
-      "link": "https://www.ithome.com/0/986/228.htm",
+      "title": "继 OpenAI、Anthropic 之后，Meta AI 模型测试期间也发生“越界”事件",
+      "link": "https://www.ithome.com/0/986/269.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-05T13:00:44.000Z",
-      "summary": "Anthropic 首次确认自研 AI 芯片，专为 Claude 模型定制。",
+      "pubDate": "2026-08-05T23:15:37.000Z",
+      "summary": "Meta AI模型测试期间发生入侵其他公司系统事件。",
       "summaryZh": ""
     },
     {
@@ -43,13 +43,43 @@
       "summaryZh": ""
     },
     {
+      "title": "Anthropic百亿美元算力长协浮出水面",
+      "link": "https://www.tmtpost.com/8092430.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-05T10:21:15.000Z",
+      "summary": "Anthropic与Volta Infra签署百亿美元算力长协，重构AI基础设施供应链。",
+      "summaryZh": ""
+    },
+    {
+      "title": "挑战 Codex 等，Meta 推出其首个编程 AI 智能体工具 Muse Code",
+      "link": "https://www.ithome.com/0/986/268.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-05T23:13:48.000Z",
+      "summary": "Meta发布编程AI工具Muse Code，挑战Codex等编程Agent工具。",
+      "summaryZh": ""
+    },
+    {
+      "title": "从工业到家庭：越疆具身全栖机器人正式发布",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15QUZjdG5nS21lUUpSUDczdmVsTFNvU0lkLTJrSURfdnBLVFFVYzlXY0R5WmdpRFZwU2NxdVdiOG5TMHliblVjRnZ2Z1Q?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-05T09:56:39.000Z",
+      "summary": "越疆发布全球首款具身全栖人形机器人越疆鹿萌，实现多模态情绪感知等三大核心突破，引领智能陪伴市场升级。",
+      "summaryZh": ""
+    },
+    {
       "title": "数智新生活 | AI机器人“上岗”：智慧养老托起幸福“夕阳红”",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa3poTlNjbkFrbk1LUU1tYnpWSzNkT3BZSmJiSGhsakVfUHJpMDBnNGduMWd2amVmUTlQdk5qTHIwaWwtOGJhd204X2J6WmVBS0IyT2Y0NV93NGlGZDJyNUZoUzdPdUtkQld1RDI5UGE3SGlCdnJfOXRRVW1JYXRsa0hnYWxkTFk?oc=5",
       "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-05T03:08:15.000Z",
-      "summary": "武汉推进智慧养老，AI机器人助力居家健康监护。",
+      "summary": "武汉推进智慧养老，AI机器人助力养老服务体系。",
       "summaryZh": ""
     },
     {
@@ -59,7 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-05T09:38:18.000Z",
-      "summary": "骁龙端侧算力助力AI加速游戏开发，让普通人也能快速创作游戏。",
+      "summary": "骁龙端侧算力助力，AI技术让普通人快速开发移动游戏。",
       "summaryZh": ""
     },
     {
@@ -69,7 +99,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-05T03:13:29.000Z",
-      "summary": "千问AI平台推出Qwen-Image-3.0图像生成模型，面向用户开放API。",
+      "summary": "千问AI平台推出Qwen-Image 3.0图像生成模型。",
       "summaryZh": ""
     },
     {
@@ -89,28 +119,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-05T09:09:40.000Z",
-      "summary": "AI变现关键期，投资逻辑转变，部分公司有望成为算力正向循环赢家。",
+      "summary": "AI变现关键期，投资转向，头部企业有望成算力正向循环赢家。",
       "summaryZh": ""
     },
     {
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-08-05T21:21:28.000Z",
-      "summary": "Meta发布Muse Code，AI代码助手，旨在简化大型代码库的复杂任务。",
-      "summaryZh": "",
-      "titleZh": "Meta 推出 Muse Code，一款适用于大型代码库的 AI 代理"
-    },
-    {
-      "title": "Meta推出首款AI编程智能体，正面挑战Anthropic与OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15V2hsNmo0ZE1YejhzcjczY0Q0bFFoRWVpclVWYlNHczB0Ynhkd2xSei1SLWlOMllsWjBXNzBqZ1RjNEFkSkRpOXl3YUx2UWt4clFr?oc=5",
+      "title": "Anthropic确认组建自研AI芯片团队，采用“多芯片”策略支撑Claude扩张",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KMm40VExLOTdfRGc5RTRBYzdNNXM3eElqQVdLQWd5UkJwR2FtSE5ZZmVkOUx1R0R5cFViazdmS1FQTWVwVS1INU96dk9DdmlNdlZz?oc=5",
       "source": "华尔街见闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-05T19:08:00.000Z",
+      "pubDate": "2026-08-05T12:54:13.000Z",
       "summary": ""
+    },
+    {
+      "title": "全线冲高，存储芯片引爆盘面，全球AI算力部署提速",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Gby1ERzhUSGlORHVvMllMY2NrSUFpTVBySEw1bHVMVkRNUnJma1lzcjh3WWlzVmNDejBsanJUNWhuaDl2aXpWemF4bmdmVVBP?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-05T05:10:06.000Z",
+      "summary": "存储芯片概念股上涨，全球AI算力部署加速推动需求增长。",
+      "summaryZh": ""
     },
     {
       "title": "人形机器人技术全览：感知系统",
@@ -119,37 +148,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-05T01:58:07.000Z",
-      "summary": "人形机器人感知系统技术全览，涵盖视觉、雷达、触觉等传感器，实现环境与自身状态感知。",
+      "summary": "人形机器人感知系统技术全览，涵盖环境与自身感知，推动产业快速发展。",
       "summaryZh": ""
     },
     {
-      "title": "中国联通签约成为第二届世界人形机器人运动会全球独家通信服务合作伙伴",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YT3J1NkpUVkltUHJDNU80OTgxS29tNFhGbUpDUWw5b0x6TVRnWnNqVEF1U2lyeTFpeXRmWlRBNWVnTVRoOG8zeXk0Q05oNk9SSFRUcW9XM3JBTFNvN2lIbHdpQ3h1RXo0ZkR0akgxa04?oc=5",
-      "source": "科技日报",
+      "title": "Claude Science",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2eXFSUDNhYzZMWUM4RWVFN2RkVkdhMWlraWZRZk5TMlVkb0h3a1lubk8yc3dUemoycDRVQ2U3Q3FOZjNIcThHR2Zudmo3RTJqelhr?oc=5",
+      "source": "量子位",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-05T11:43:09.000Z",
-      "summary": "中国联通签约成为第二届世界人形机器人运动会全球独家通信服务合作伙伴。",
-      "summaryZh": ""
-    },
-    {
-      "title": "宇树科技开启询价 具身智能估值跑在业绩前？",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwT2dRSi1yWlprclFVSml1dGxFUC1qakhuT1FEV21kZGJXWXRfUzc5M1NNNy16Z3VHVWFDNW9VMGU0c0VkTjlsYW5XbW82RkhEdlBRUndkaDg5YVVleHJoMFZ3?oc=5",
-      "source": "财新网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-05T10:24:00.000Z",
-      "summary": "宇树科技IPO询价开启，市场估值预期超420亿。",
-      "summaryZh": ""
-    },
-    {
-      "title": "越疆发布具身全栖人形机器人",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83a3R0a1ViM1ZIWExYUE53UjIzUG9oWUNWMkFsX1JRbG5YNVZRNTFsUjNWNnRBWkl0di1sbVFpMEl4Tzh0OWpaQlBZeE45T3RhUmhNU1MzeXpzUDdxb3hXT2hn?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-05T01:33:00.000Z",
-      "summary": "越疆发布首款具身全栖人形机器人DOBOT LUMO，实现多模态情绪感知等三大突破。",
+      "category": "ai",
+      "pubDate": "2026-08-05T04:24:44.000Z",
+      "summary": "Claude Science开源版发布，内置30+科研技能。",
       "summaryZh": ""
     },
     {
@@ -159,41 +168,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-05T21:26:40.000Z",
-      "summary": "前Uber财务总监加入Travis Kalanick的机器人初创公司Atoms担任CFO。",
+      "summary": "Travis Kalanick的机器人公司Atoms聘请前Uber财务总监Gautam Gupta担任CFO。",
       "summaryZh": "",
       "titleZh": "Travis Kalanick 的机器人初创公司 Atoms 任命 Uber 前财务总监为首席财务官"
-    },
-    {
-      "title": "University of Florida opens new robotics lab dedicated to industrialized construction",
-      "link": "https://www.therobotreport.com/university-of-florida-opens-new-robotics-lab-dedicated-to-industrialized-construction/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-05T17:41:55.000Z",
-      "summary": "佛罗里达大学开设专注于工业化建筑的机器人实验室。",
-      "summaryZh": "",
-      "titleZh": "佛罗里达大学开设新的机器人实验室，致力于工业化建设"
-    },
-    {
-      "title": "2026 年 AI 智能客服的下半场：拼的不是模型，是全链路闭环能力",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Mbi1wbV84QUU0YlJHY1UxWHlEM1hqQWxXWklUNThzUkFqSTR6WGRvSktrLWZqN1o0QUJOX25qTVdoLVZXb1dobDNwWnM?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-05T11:45:40.000Z",
-      "summary": "AI智能客服下半场竞争焦点转向全链路闭环能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Avnet and Weston Robot partner to launch edge AI inspection platform",
-      "link": "https://www.therobotreport.com/avnet-and-weston-robot-partner-to-launch-edge-ai-inspection-platform/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-05T19:10:05.000Z",
-      "summary": "Avnet与Weston Robot合作推出边缘AI检测平台。",
-      "summaryZh": "",
-      "titleZh": "安富利与 Weston Robot 合作推出边缘人工智能检测平台"
     },
     {
       "title": "Data-centre reality check could slam brakes on AI earnings boom",
@@ -212,7 +189,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-05T09:06:37.000Z",
-      "summary": "荣耀“闪电”机器人以50分26秒成绩获马拉松冠军，技术突破源于全栈技术底座和整机全链路协同优化。",
+      "summary": "荣耀“闪电”机器人以50分26秒成绩夺冠，实现马拉松机器人性能跨越式突破。",
       "summaryZh": ""
     },
     {
@@ -222,7 +199,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-05T12:10:00.000Z",
-      "summary": "人力资源社会保障部公开征求意见123个职业标准。",
+      "summary": "人力资源社会保障部公开征求意见，123个职业标准向社会征集建议。",
       "summaryZh": ""
     },
     {
@@ -246,13 +223,23 @@
       "summaryZh": ""
     },
     {
+      "title": "长沙AI炒菜机器人完美复刻大厨\"锅气\"，实现\"千店一味\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ER0lXOURwdXpzYzZMeDJPR3VxRldCcXN6MGl4X2JjYzZvY3JIUmtONm94NnF2MGkwMTZ2aFNtN0RueW5iVmVLTW5NWEFHTXVGV19FUWRUdXRwUjVoTVdaUHEtYUlFaGlHOHVkRG9QeFI?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-05T01:06:00.000Z",
+      "summary": "长沙AI炒菜机器人复刻大厨技艺，实现千店一味。",
+      "summaryZh": ""
+    },
+    {
       "title": "天津社区养老服务有了“智慧大脑”",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lWTNNc3hSZjhLOHJPS3FSU3NaOW9YemlKSC1KWUlNaGZPZ0g3MTJhc3Y3dzBZRVBpNDF4R05sdVFfNjNwNm9NTmZZVjFXUlN5d245YlEtbldqUFBTYl9KRV9NdVFhQ3Ffb2xDd0x3U0Y?oc=5",
       "source": "科技日报",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-05T02:18:55.000Z",
-      "summary": "天津社区养老服务引入百度智能云技术，实现智能化服务管理。",
+      "summary": "天津社区养老服务引入“智慧大脑”，实现智能点餐和AI辅助服务。",
       "summaryZh": ""
     }
   ]
