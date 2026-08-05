@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generatedAt": "2026-08-05T20:47:14.004Z",
+  "generatedAt": "2026-08-05T22:31:34.248Z",
   "items": [
     {
       "title": "8GB 内存也能跑 Kimi K3？2026 本地部署大模型配置全指南",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-05T07:21:13.000Z",
-      "summary": "Kimi K3大模型可在8GB内存设备上运行，本地部署配置指南发布。",
+      "summary": "Kimi K3大模型可在8GB内存上运行，本地部署配置指南发布。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-05T10:21:18.000Z",
-      "summary": "中国机器人企业出货量全球前五，特斯拉商业化进度落后。",
+      "summary": "中国机器人企业出货量全球前五，商业化落地加速。",
       "summaryZh": ""
     },
     {
@@ -40,16 +40,6 @@
       "category": "ai",
       "pubDate": "2026-08-05T07:51:01.000Z",
       "summary": "中国大模型Kimi K3登顶全球评测，引发价格战。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Anthropic百亿美元算力长协浮出水面",
-      "link": "https://www.tmtpost.com/8092430.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-05T10:21:15.000Z",
-      "summary": "Anthropic与Volta Infra签署百亿算力长协，重构AI基础设施供应链。",
       "summaryZh": ""
     },
     {
@@ -69,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-05T09:38:18.000Z",
-      "summary": "骁龙端侧算力助力AI加速游戏开发，降低开发门槛。",
+      "summary": "骁龙端侧算力助力AI加速游戏开发，让普通人也能快速创作游戏。",
       "summaryZh": ""
     },
     {
@@ -79,7 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-05T03:13:29.000Z",
-      "summary": "千问AI平台上线Qwen-Image 3.0图像生成模型。",
+      "summary": "千问AI平台推出Qwen-Image-3.0图像生成模型，面向用户开放API。",
       "summaryZh": ""
     },
     {
@@ -93,6 +83,27 @@
       "summaryZh": ""
     },
     {
+      "title": "[ 研报金选 行业丨AI变现生死考已至，投资逻辑剧变，这些公司望成算力\"正向循环\"最大赢家",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OVThJUGRDTkhYNzdrZUtvcmxJWXlQcjFkc0gzS3lBWVVETHhranFIT0dneHlJcnBoUzEtU05OcTJoNUx2TVdqcEQ5a0RCNURTeWNPRUJJa1k?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-05T09:09:40.000Z",
+      "summary": "AI变现关键期，投资逻辑转变，部分公司有望成为算力正向循环赢家。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-08-05T21:21:28.000Z",
+      "summary": "Meta发布Muse Code，AI代码助手，旨在简化大型代码库的复杂任务。",
+      "summaryZh": "",
+      "titleZh": "Meta 推出 Muse Code，一款适用于大型代码库的 AI 代理"
+    },
+    {
       "title": "Meta推出首款AI编程智能体，正面挑战Anthropic与OpenAI",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15V2hsNmo0ZE1YejhzcjczY0Q0bFFoRWVpclVWYlNHczB0Ynhkd2xSei1SLWlOMllsWjBXNzBqZ1RjNEFkSkRpOXl3YUx2UWt4clFr?oc=5",
       "source": "华尔街见闻",
@@ -102,23 +113,23 @@
       "summary": ""
     },
     {
-      "title": "东方证券：看好AI加速渗透专业影视创作和工业化场景落地 关注多模态技术领先且商业化闭环公司",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PZjZNQVM5dEc0ekFUeFpZa1o3UXR6UHdIYUFLeGxOYzFlTzRkOU01bkptYTVYWGFtak8zRXJ5LWxyMVJPUDJHejFKcXlOQ3VYUkhYM2ZpVTBtMDVNQzNqNnNUcjNBTEFfZXV4NldGNzdwb2c1?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-05T02:35:21.000Z",
-      "summary": "东方证券研报看好AI在影视和工业场景应用，关注多模态技术领先公司。",
-      "summaryZh": ""
-    },
-    {
       "title": "人形机器人技术全览：感知系统",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtOHk0N0ZqX2d4VEx0OGpRZmpMclRaTklwb0h5aHFHNC1CNE5odVYxWFFYbURLQWpNVVNwSG53XzBPcl9hV3UtcjVVbktnemZRWktPNkwyQQ?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-05T01:58:07.000Z",
-      "summary": "人形机器人感知系统技术全览，涵盖环境与自身感知。",
+      "summary": "人形机器人感知系统技术全览，涵盖视觉、雷达、触觉等传感器，实现环境与自身状态感知。",
+      "summaryZh": ""
+    },
+    {
+      "title": "中国联通签约成为第二届世界人形机器人运动会全球独家通信服务合作伙伴",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YT3J1NkpUVkltUHJDNU80OTgxS29tNFhGbUpDUWw5b0x6TVRnWnNqVEF1U2lyeTFpeXRmWlRBNWVnTVRoOG8zeXk0Q05oNk9SSFRUcW9XM3JBTFNvN2lIbHdpQ3h1RXo0ZkR0akgxa04?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-05T11:43:09.000Z",
+      "summary": "中国联通签约成为第二届世界人形机器人运动会全球独家通信服务合作伙伴。",
       "summaryZh": ""
     },
     {
@@ -130,6 +141,27 @@
       "pubDate": "2026-08-05T10:24:00.000Z",
       "summary": "宇树科技IPO询价开启，市场估值预期超420亿。",
       "summaryZh": ""
+    },
+    {
+      "title": "越疆发布具身全栖人形机器人",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83a3R0a1ViM1ZIWExYUE53UjIzUG9oWUNWMkFsX1JRbG5YNVZRNTFsUjNWNnRBWkl0di1sbVFpMEl4Tzh0OWpaQlBZeE45T3RhUmhNU1MzeXpzUDdxb3hXT2hn?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-05T01:33:00.000Z",
+      "summary": "越疆发布首款具身全栖人形机器人DOBOT LUMO，实现多模态情绪感知等三大突破。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+      "link": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-05T21:26:40.000Z",
+      "summary": "前Uber财务总监加入Travis Kalanick的机器人初创公司Atoms担任CFO。",
+      "summaryZh": "",
+      "titleZh": "Travis Kalanick 的机器人初创公司 Atoms 任命 Uber 前财务总监为首席财务官"
     },
     {
       "title": "University of Florida opens new robotics lab dedicated to industrialized construction",
@@ -174,6 +206,16 @@
       "titleZh": "数据中心的现实检查可能会阻碍人工智能盈利的繁荣"
     },
     {
+      "title": "荣耀首席答海报新闻：马拉松冠军机器人“闪电”如何实现跨越式突破",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaZk1DTFFYSWZlUVo5S3Y1T2RCX0xzSmJwWVQzT3JJeURpMWtLM0M5OERsakVkSHUxSU9CZW40SU1qNWJLdUxjSUZVQ0lMZ1k1QXdtaw?oc=5",
+      "source": "腾讯科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-05T09:06:37.000Z",
+      "summary": "荣耀“闪电”机器人以50分26秒成绩获马拉松冠军，技术突破源于全栈技术底座和整机全链路协同优化。",
+      "summaryZh": ""
+    },
+    {
       "title": "AI训练师、民宿管家等123个职业标准向社会公开征求意见",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByc2MtM3lJcENReTJMRDBEanFSSlZvRkV3WmRLNE5uVTFPeFctNXJIRzE4dWYweHF2TGlUTFFOSEl3VzVmQjJDUGg5Nl93MlROUVBEeWlaSnEwMl9ZbENWMw?oc=5",
       "source": "澎湃新闻科技",
@@ -184,23 +226,13 @@
       "summaryZh": ""
     },
     {
-      "title": "美股盘前要闻一览：SpaceX将“独家”采用英伟达AI计算架构；黄仁勋发推力挺自家自动驾驶模型；闪迪和西部数据Q4财报来袭",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zWEU3TWlOaDZQRXFGMThOX082bkY3czVqazZhSmVJcUV5RVNqZjJncVRLZEhrQzAya1hqNDhKNUNOVmhYbzNuTjNKeWZ5VFBtMlVON25Dc1FoZm1UYTVqV1FYbWNrUQ?oc=5",
-      "source": "东方财富网",
+      "title": "首个具身智能数据集质量标准发布",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWk95LVl4djkzQ2I4SldLZHVoSFBnYTJPcnJmdmE2bU4zUnZBZmdBbTR3a3JEWlBtY3dMa1RvQ1QxWUJlQVZBNG9VbnlvLTJTMmpDUE9NeHZPQ2ZBcm5fSWhYWk1WdEFOZWRiRzQ4RVVPVl95ckxrNGMzZm81MGdkZGZ4M3E?oc=5",
+      "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-05T13:02:35.000Z",
-      "summary": "SpaceX将独家采用英伟达AI计算架构，黄仁勋力挺自家自动驾驶模型，闪迪和西部数据将发布Q4财报。",
-      "summaryZh": ""
-    },
-    {
-      "title": "20人团队，5个月拿下两轮亿元融资，破壳剑指家庭机器人",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lUUtpNWswSldCTzhCbmNLMXF2R1RqZnVMVUtEZ0dNdXplZnpVSFhPNGlQazJjd2ItM2twa2JaaGR5SUQtelJoR2xzNGliSXlLZGg0NFdqcw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-05T15:56:23.000Z",
-      "summary": "20人团队5个月获两轮亿元融资，专注家庭机器人领域。",
+      "pubDate": "2026-08-05T01:15:50.000Z",
+      "summary": "首个具身智能数据集质量标准发布，填补行业标准空白。",
       "summaryZh": ""
     },
     {
@@ -211,6 +243,16 @@
       "category": "application",
       "pubDate": "2026-08-05T00:08:31.000Z",
       "summary": "北京“市民技能课堂”全市推广首批AI课程。",
+      "summaryZh": ""
+    },
+    {
+      "title": "天津社区养老服务有了“智慧大脑”",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lWTNNc3hSZjhLOHJPS3FSU3NaOW9YemlKSC1KWUlNaGZPZ0g3MTJhc3Y3dzBZRVBpNDF4R05sdVFfNjNwNm9NTmZZVjFXUlN5d245YlEtbldqUFBTYl9KRV9NdVFhQ3Ffb2xDd0x3U0Y?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-08-05T02:18:55.000Z",
+      "summary": "天津社区养老服务引入百度智能云技术，实现智能化服务管理。",
       "summaryZh": ""
     }
   ]
