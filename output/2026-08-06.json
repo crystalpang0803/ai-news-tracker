@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "generatedAt": "2026-08-05T19:49:52.052Z",
+  "generatedAt": "2026-08-05T20:47:14.004Z",
   "items": [
     {
       "title": "8GB 内存也能跑 Kimi K3？2026 本地部署大模型配置全指南",
@@ -9,17 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-05T07:21:13.000Z",
-      "summary": "Kimi K3大模型可在8GB内存的设备上运行，配置指南发布。",
-      "summaryZh": ""
-    },
-    {
-      "title": "消息称阶跃星辰内部确立大模型与智能体终端两条战略线，手机业务独立运营、将进入海外市场",
-      "link": "https://www.ithome.com/0/986/233.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-05T13:29:22.000Z",
-      "summary": "阶跃星辰确立大模型与智能体终端战略，手机业务独立运营并拓展海外市场。",
+      "summary": "Kimi K3大模型可在8GB内存设备上运行，本地部署配置指南发布。",
       "summaryZh": ""
     },
     {
@@ -30,16 +20,6 @@
       "category": "ai",
       "pubDate": "2026-08-05T13:00:44.000Z",
       "summary": "Anthropic 首次确认自研 AI 芯片，专为 Claude 模型定制。",
-      "summaryZh": ""
-    },
-    {
-      "title": "从大模型到一盏灯：AI如何走进酒店服务的每一个夜晚",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zSkJmNHRyRGVabmNsRWtCVEh3cUhyalRaQzFSUThjWnZMb252ZVM4aVVQbjBMbVRsZE1jUE9OcnpSQVpnQjQxQ3dHU2kzN0g4eWp1dWNWb3Y?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-04T20:30:52.000Z",
-      "summary": "AI技术正逐步融入酒店服务流程，提升用户体验。",
       "summaryZh": ""
     },
     {
@@ -69,7 +49,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-05T10:21:15.000Z",
-      "summary": "Anthropic与Volta Infra签署百亿美元算力长协，重构AI基础设施供应链。",
+      "summary": "Anthropic与Volta Infra签署百亿算力长协，重构AI基础设施供应链。",
       "summaryZh": ""
     },
     {
@@ -79,17 +59,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-05T03:08:15.000Z",
-      "summary": "武汉推进智慧养老，AI机器人与人工照护结合提升养老服务。",
+      "summary": "武汉推进智慧养老，AI机器人助力居家健康监护。",
       "summaryZh": ""
-    },
-    {
-      "title": "跃伴如厕机器人冰城首秀 助力银发颐养新生态",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15bmlsX3pMb0dqdThkNkQySjRNaVhJX1cxdlRvV2hTVFBlMl9QWF9WTm5qMzdnMTFuRzEzbk1iRnhuS2JaT2NEQ0MxVlBpVVROM1VNYXpZbE9qcEVQMGFxekw1MA?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-05T01:38:00.000Z",
-      "summary": ""
     },
     {
       "title": "AI 重塑移动游戏：骁龙端侧算力加持，普通人也能快速开发游戏",
@@ -102,33 +73,24 @@
       "summaryZh": ""
     },
     {
+      "title": "Qwen-Image-3.0正式上线千问AI平台",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yX21QdUp3cjFubEhXZG5pZXM3b3IxZUZybVhUYzhWUDYzdnpuMExvS0NXWjZtbnVTcGdRX2FsQzBUM21RUGdOLTV5eGQ0dnowNkFfUTN5WHE?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-05T03:13:29.000Z",
+      "summary": "千问AI平台上线Qwen-Image 3.0图像生成模型。",
+      "summaryZh": ""
+    },
+    {
       "title": "AI进化速递丨SpaceX联合英伟达打造太空算力卫星",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8za1pVTlkxR1hkY0ozaDlKYnBpME5EWnVyZFVzUXE3amp1OWphZ2YxcmNYcHJUZ0ZCMkhRY1l5ak9YSDZuOExQWm0xUWQxWEFFV3Bj?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-05T04:46:18.000Z",
+      "pubDate": "2026-08-05T12:16:18.000Z",
       "summary": "SpaceX与英伟达合作开发具备数据中心级算力的太空卫星。",
       "summaryZh": ""
-    },
-    {
-      "title": "[ 研报金选 行业丨AI变现生死考已至，投资逻辑剧变，这些公司望成算力\"正向循环\"最大赢家",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OVThJUGRDTkhYNzdrZUtvcmxJWXlQcjFkc0gzS3lBWVVETHhranFIT0dneHlJcnBoUzEtU05OcTJoNUx2TVdqcEQ5a0RCNURTeWNPRUJJa1k?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-05T09:09:40.000Z",
-      "summary": "AI变现关键期，投资逻辑转变，头部企业有望成算力正向循环最大赢家。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Anthropic确认组建自研AI芯片团队，采用“多芯片”策略支撑Claude扩张",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KMm40VExLOTdfRGc5RTRBYzdNNXM3eElqQVdLQWd5UkJwR2FtSE5ZZmVkOUx1R0R5cFViazdmS1FQTWVwVS1INU96dk9DdmlNdlZz?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-05T12:54:13.000Z",
-      "summary": ""
     },
     {
       "title": "Meta推出首款AI编程智能体，正面挑战Anthropic与OpenAI",
@@ -146,7 +108,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-05T02:35:21.000Z",
-      "summary": "东方证券看好AI在影视创作和工业化场景的应用，关注多模态技术领先公司。",
+      "summary": "东方证券研报看好AI在影视和工业场景应用，关注多模态技术领先公司。",
       "summaryZh": ""
     },
     {
@@ -160,13 +122,13 @@
       "summaryZh": ""
     },
     {
-      "title": "中国联通签约成为第二届世界人形机器人运动会全球独家通信服务合作伙伴",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YT3J1NkpUVkltUHJDNU80OTgxS29tNFhGbUpDUWw5b0x6TVRnWnNqVEF1U2lyeTFpeXRmWlRBNWVnTVRoOG8zeXk0Q05oNk9SSFRUcW9XM3JBTFNvN2lIbHdpQ3h1RXo0ZkR0akgxa04?oc=5",
-      "source": "科技日报",
+      "title": "宇树科技开启询价 具身智能估值跑在业绩前？",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwT2dRSi1yWlprclFVSml1dGxFUC1qakhuT1FEV21kZGJXWXRfUzc5M1NNNy16Z3VHVWFDNW9VMGU0c0VkTjlsYW5XbW82RkhEdlBRUndkaDg5YVVleHJoMFZ3?oc=5",
+      "source": "财新网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-05T11:43:09.000Z",
-      "summary": "中国联通签约成为第二届世界人形机器人运动会全球独家通信服务合作伙伴。",
+      "pubDate": "2026-08-05T10:24:00.000Z",
+      "summary": "宇树科技IPO询价开启，市场估值预期超420亿。",
       "summaryZh": ""
     },
     {
@@ -179,25 +141,6 @@
       "summary": "佛罗里达大学开设专注于工业化建筑的机器人实验室。",
       "summaryZh": "",
       "titleZh": "佛罗里达大学开设新的机器人实验室，致力于工业化建设"
-    },
-    {
-      "title": "宇树科技开启询价 具身智能估值跑在业绩前？",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwT2dRSi1yWlprclFVSml1dGxFUC1qakhuT1FEV21kZGJXWXRfUzc5M1NNNy16Z3VHVWFDNW9VMGU0c0VkTjlsYW5XbW82RkhEdlBRUndkaDg5YVVleHJoMFZ3?oc=5",
-      "source": "财新网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-05T10:24:00.000Z",
-      "summary": "宇树科技IPO询价开启，市场估值预期超420亿。",
-      "summaryZh": ""
-    },
-    {
-      "title": "世界人形机器人运动会首设拔河赛，不靠蛮力靠智控！",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmYnkycEZaSWdPVXNqbWZ0UWNSUXRRU1I1X2JseG5Ed3VwYmI1Rk1jS25vRE5kaTBkTGZTeWYwendWWnY2REVHY09heXlaWE9uX3BPeTlYa2hGejBGblRROU9WeTc?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-05T13:00:00.000Z",
-      "summary": ""
     },
     {
       "title": "2026 年 AI 智能客服的下半场：拼的不是模型，是全链路闭环能力",
@@ -238,6 +181,26 @@
       "category": "application",
       "pubDate": "2026-08-05T12:10:00.000Z",
       "summary": "人力资源社会保障部公开征求意见123个职业标准。",
+      "summaryZh": ""
+    },
+    {
+      "title": "美股盘前要闻一览：SpaceX将“独家”采用英伟达AI计算架构；黄仁勋发推力挺自家自动驾驶模型；闪迪和西部数据Q4财报来袭",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zWEU3TWlOaDZQRXFGMThOX082bkY3czVqazZhSmVJcUV5RVNqZjJncVRLZEhrQzAya1hqNDhKNUNOVmhYbzNuTjNKeWZ5VFBtMlVON25Dc1FoZm1UYTVqV1FYbWNrUQ?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-05T13:02:35.000Z",
+      "summary": "SpaceX将独家采用英伟达AI计算架构，黄仁勋力挺自家自动驾驶模型，闪迪和西部数据将发布Q4财报。",
+      "summaryZh": ""
+    },
+    {
+      "title": "20人团队，5个月拿下两轮亿元融资，破壳剑指家庭机器人",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lUUtpNWswSldCTzhCbmNLMXF2R1RqZnVMVUtEZ0dNdXplZnpVSFhPNGlQazJjd2ItM2twa2JaaGR5SUQtelJoR2xzNGliSXlLZGg0NFdqcw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-05T15:56:23.000Z",
+      "summary": "20人团队5个月获两轮亿元融资，专注家庭机器人领域。",
       "summaryZh": ""
     },
     {
