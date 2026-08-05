@@ -1,25 +1,15 @@
 {
   "date": "2026-08-05",
-  "generatedAt": "2026-08-05T03:36:25.209Z",
+  "generatedAt": "2026-08-05T06:11:15.254Z",
   "items": [
     {
-      "title": "越疆新一代具身全栖人形机器人亮相：情绪感知与空间行动双突破",
-      "link": "https://www.ithome.com/0/985/852.htm",
+      "title": "AI 智能体“失控”风险再现：OpenAI、Anthropic 模型被发现执行未授权操作",
+      "link": "https://www.ithome.com/0/985/859.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-05T02:56:15.000Z",
-      "summary": "越疆发布新一代全栖人形机器人，实现情绪感知与空间行动突破。",
-      "summaryZh": ""
-    },
-    {
-      "title": "新架构·新能力：智齿科技发布 AI Agent 驱动的新一代客户联络平台",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mZVRmZWFGTzhOcTJCRHd3X1ZiQjl6LXNLU0U0RjRyRUVCRldZbU1XdV9BZnhRQWZ0a1FpV3RBdVJ3aXVoSWVGUktWM3hGMzNK?oc=5",
-      "source": "36氪",
-      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-04T09:22:06.000Z",
-      "summary": "智齿科技发布AI Agent驱动新一代客户联络平台，实现智能体自主进化与多场景应用。",
+      "pubDate": "2026-08-05T03:16:30.000Z",
+      "summary": "OpenAI、Anthropic AI模型测试中暴露未授权操作风险。",
       "summaryZh": ""
     },
     {
@@ -39,7 +29,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-04T08:10:36.000Z",
-      "summary": "DeepSeek开源招募引发120万星关注，开发者热议AI Coding Agent走向工程化。",
+      "summary": "DeepSeek内测招募帖引发120万星关注，开发者热议开源Agent生态。",
+      "summaryZh": ""
+    },
+    {
+      "title": "微牛拓展AI投资生态系统，支持ChatGPT等原生连接",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UZGU4cEl6RFFfZnZJdWV1d212eFdsbUJrcVVOc2VRVV8yT3JVZVJYYVZmNVpqUEdKY3hwNUJvZENqNDdsVFUwV19lOHlRZDVTUG5TQUtIM3I?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-05T02:14:42.000Z",
+      "summary": "微牛支持ChatGPT等AI原生连接，拓展AI投资生态系统。",
       "summaryZh": ""
     },
     {
@@ -52,23 +52,43 @@
       "summary": ""
     },
     {
-      "title": "钛晨报事关自动驾驶系统安全，强制性国标正式发布；央行今日将开展5000亿元买断式逆回购；申通快递被立案调查、鸿蒙智行回应“竹知了”事件",
-      "link": "https://www.tmtpost.com/8091566.html",
+      "title": "离开200亿星海图，清华博导做机器人，雷军追着给他投资",
+      "link": "https://www.tmtpost.com/8091178.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-04T23:20:00.000Z",
-      "summary": "强制性国标发布，自动驾驶系统安全要求明确；央行逆回购，申通快递被调查，鸿蒙智行回应“竹知了”事件。",
+      "pubDate": "2026-08-05T04:22:47.000Z",
+      "summary": "清华博导许华哲离开200亿独角兽星海图，创立破壳机器人，获雷军等投资。",
       "summaryZh": ""
     },
     {
-      "title": "东风日产预告 NX7 车型即将发布，搭载激光雷达",
-      "link": "https://www.ithome.com/0/985/796.htm",
+      "title": "29 秒视频教会机器人新技能，清华北理工自变量联合开源 HOST",
+      "link": "https://www.tmtpost.com/8091702.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-05T03:35:00.000Z",
+      "summary": "清华北理工开源HOST框架，29秒视频教会机器人新技能。",
+      "summaryZh": ""
+    },
+    {
+      "title": "消息称宇树科技 IPO 发行价约 104 元，市值将达 400 亿元以上",
+      "link": "https://www.ithome.com/0/985/901.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-05T01:58:34.000Z",
-      "summary": "东风日产预告NX7车型发布，搭载激光雷达。",
+      "pubDate": "2026-08-05T05:09:35.000Z",
+      "summary": "宇树科技IPO发行价约104元，市值预计超400亿元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报",
+      "link": "https://www.qbitai.com/2026/08/466454.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-05T04:28:31.000Z",
+      "summary": "SpaceX首份财报显示，AI业务收入激增，但资本开支巨大，股价先涨后跌。",
       "summaryZh": ""
     },
     {
@@ -78,17 +98,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-05T01:22:57.000Z",
-      "summary": "OpenAI AI模型评估期间误连公网，已叫停并隔离封堵。",
-      "summaryZh": ""
-    },
-    {
-      "title": "每日新闻0804-科创创业人工智能ETF鹏华(588410)涨超7%，全球AI大模型周调用量达62.8万亿",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRc1RVUlhqMHFlMWdaeS0yUGloSG5weER1Rmo4VVd5Q2d6WFpfaDVMNUMzdXdPcnpuMWR4MEtKTTZJeE5hNDB5Q0NYbXhHTUx6bXF3bk5NMHo?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-04T12:17:56.000Z",
-      "summary": "科创创业人工智能ETF鹏华涨超7%，全球AI大模型周调用量达62.8万亿。",
+      "summary": "OpenAI AI模型评估测试期间误连公网，已叫停并隔离封堵。",
       "summaryZh": ""
     },
     {
@@ -112,96 +122,24 @@
       "titleZh": "OpenAI、Anthropic AI 代理涉嫌新的安全漏洞"
     },
     {
-      "title": "OpenAI据悉获美国批准全面推出GPT-5.6",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrME4zZWdPcG8zUEthQk9GS0I0ZmZITHJtWXN1ZkIwcDdPTzBMVzVvMFVJZ1Vlc3NoWG1WXzJCMWt0aDFkMFZwOWEtaUxlbXpqUHRGLU9B?oc=5",
-      "source": "腾讯新闻",
+      "title": "政策密集落地叠加算力需求激增，人工智能ETF易方达（159819）景气度上行-ETF火线",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DRGpSMGgwSFdrd1BJcVZRY19aV1E1Mkt4U1JydkMyTk5PN1hUUTFIYXNaSEtReXBxaEFFamRmSjdfVE9rZUNYbm55S01JbXZaZDdQS0FaU0FuSlQwWnZsYTVR?oc=5",
+      "source": "金融界",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-04T16:15:00.000Z",
-      "summary": "OpenAI获美批准全面推出GPT-5.6模型。",
-      "summaryZh": ""
+      "pubDate": "2026-08-05T03:45:56.000Z",
+      "summary": ""
     },
     {
-      "title": "深圳机器人零部件公司陶世获1.4亿A轮融资，南山、前海都投了",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9zSWh6eWZjYlJ5UDM1VnRZRjVNYmpRV0x4Qkg4VE5Nbm1WWTMyUkJoLXVNbjJWZWZJM0U0QlJINnNjZU5NRUE?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-04T04:26:16.000Z",
-      "summary": "深圳陶世智能科技获1.4亿A轮融资，资金用于研发和市场拓展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "数智新生活丨AI机器人“上岗”：智慧养老托起幸福“夕阳红”",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzR0Y1ZTVqRWEwbEFoTFJsVWhVNVRWZGVJN0ZzNW5Kd1ptOUdueVNBUmVacGxLc0FEYnluTHU2bEJGQ1AwNlhSaE5Ndzh4b3g5YVhLaEVTd1BBbE1kVG5vMDRzWmhpUk80dVlDWnhQaW1nU0c2ekJjQWNBQmxEUQ?oc=5",
-      "source": "新华社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-05T02:21:32.000Z",
-      "summary": "武汉推进智慧养老，AI机器人与人工服务结合提升养老质量。",
-      "summaryZh": ""
-    },
-    {
-      "title": "一个月9款旗舰，大模型进入“月抛”时代？",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PV2NTQU5JSU90TWNIRHV3OXNVUExBcnB1NUlPODZ0dGIyWG9NSW9NajM3Y2VISVFhc3ZWQWlkaXZoR0lkMW9TTU1fMUF5ZDA0?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-04T11:14:30.000Z",
-      "summary": "7月大模型行业密集发布9款旗舰，模型能力差距缩小，开源模型进入竞争。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI天价网红公关活动，捅马蜂窝了",
-      "link": "https://www.qbitai.com/2026/08/466032.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-04T09:13:57.000Z",
-      "summary": "OpenAI高端网红活动引发争议，网友质疑其虚伪。",
-      "summaryZh": ""
-    },
-    {
-      "title": "详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBjelpMRldXZkhhYS1Uekw2Z3NNUGZ0WnJPYnZ2WEhabTk2X3JJOXNybURZSWJwdGVham5uWFN1MHByX1lwcW1B?oc=5",
-      "source": "晚点LatePost",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-04T07:19:15.000Z",
-      "summary": "Kimi K3模型详解：开源权重引发开源大辩论，技术细节解析引发关注。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Chinese Startup AI² Robotics Is Said to Consider Hong Kong IPO",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb01ZbVV5TERudC1JVXBJX0ZzcGpCLVVTSU12ZS05V1VQc1FtRTdPWW5PUGRuclRlbnJDRkF0U281X2I4aTdoOHRZdktLM1RWYzJTSzh1Q2UydTh3TlJEY2xtcXcyeHBZQkkyWmJUNVJReG50cmJTUVFtVm1TSW5qckd0WWY1TmRtZGZpdXZMblBhaUZTVmRXTklVVm9xWG5rUk11MTZISE1FbTRqOHBIRmdn?oc=5",
+      "title": "China’s AI Agent Unicorn Lovart Is Said to Explore Hong Kong IPO",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTm1pM3pSNVo2QkJKM2p3NWtQbXFCdVpHcnI4dFBselVjRWdqTGdPT055Y0RaVEF3RXNWbXFJdXUzLXhHRnpDeVNOaHhZZjVZeVZ5YVVnaV9vQjQtTzBNYUlnRkFoT3gtdmRldXpuUHV4Rld4Ykd0OU9jRlBxMmpTdC1FVl9wSVNuODByZ1JNbmlIQWVQMFA2MEJYVm54c1VkUjBTaUFoaXZTNDAtTVY1c1NrTUdLZw?oc=5",
       "source": "Bloomberg",
       "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-04T06:19:00.000Z",
-      "summary": "中国初创公司AI² Robotics考虑在香港进行IPO。",
+      "category": "ai",
+      "pubDate": "2026-08-05T02:47:00.000Z",
+      "summary": "中国AI代理Unicorn Lovart拟在香港进行IPO。",
       "summaryZh": "",
-      "titleZh": "据称中国初创公司AI² Robotics考虑在香港IPO"
-    },
-    {
-      "title": "工业具身智能已经进厂发挥价值了",
-      "link": "https://www.tmtpost.com/8090638.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-05T02:20:55.000Z",
-      "summary": "工业具身智能技术助力焊接行业，提升效率和安全性。",
-      "summaryZh": ""
-    },
-    {
-      "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
-      "link": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-04T11:00:01.000Z",
-      "summary": "美国FCC禁止新外国移动机器人，机器人公司看法不一。",
-      "summaryZh": "",
-      "titleZh": "机器人公司对美国外国机器人禁令的看法"
+      "titleZh": "传中国AI代理商独角兽Lovart探索香港IPO"
     },
     {
       "title": "面对“人形机器人战争”，世界准备好了吗",
@@ -224,13 +162,25 @@
       "summaryZh": ""
     },
     {
+      "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
+      "link": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-04T11:00:01.000Z",
+      "summary": "美国FCC禁止新外国移动机器人，机器人公司看法不一。",
+      "summaryZh": "",
+      "titleZh": "机器人公司对美国外国机器人禁令的看法"
+    },
+    {
       "title": "铁脚板的角力：当人形机器人在“冰丝带”玩起拔河，比的不是力气",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMd0JlTEQzdFpuVUM3TktwbUlKQlJmbndQNk9WMFJjdmFZN1R3bG9uXzRxYVRZUEtIcVNKM2FJNmRPWTRPeWRVbDBfRUJLbGZjWXAxdlFjdmdGZHpnZ3FLYTBB?oc=5",
       "source": "新京报",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-04T08:55:00.000Z",
-      "summary": ""
+      "summary": "人形机器人“冰丝带”拔河赛考验摩擦力与智能控制。",
+      "summaryZh": ""
     },
     {
       "title": "2026 高性价比智能客服产品推荐：瓴羊 Quick Service 技术方案与行业实践探析",
@@ -239,17 +189,39 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-04T09:12:54.000Z",
-      "summary": "瓴羊Quick Service智能客服产品凭借阿里技术生态和行业实践，适配国内企业多元化服务场景，具备高性价比。",
+      "summary": "瓴羊Quick Service智能客服产品凭借阿里技术生态和行业实践，适配国内企业多元化客户服务场景，具备高性价比。",
       "summaryZh": ""
     },
     {
-      "title": "鹿明发布 Lumos Ego Vue 与自研数据管线，打通机器人从经验获取到技能进化闭环",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tRXBLLUpvQXZnLVVWMXY3TXJQNGxKTnhrRUhKRVZ6dk9IaGtISm1POGhIbnpkMzB2MmJCVk5iVjJmTk5qSTBNMHJWLWo?oc=5",
-      "source": "极客公园",
+      "title": "How One Startup Built a (Mostly) China-Free Robot",
+      "link": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-04T10:45:00.000Z",
+      "summary": "Ati Robotics在印度组装机器人，使用少量中国零件，以应对美国对华机器人进口限制。",
+      "summaryZh": "",
+      "titleZh": "一家初创公司如何打造一款（大部分）不受中国影响的机器人"
+    },
+    {
+      "title": "Unitree expects first-half revenue growth as demand for humanoid robots accelerates",
+      "link": "https://roboticsandautomationnews.com/2026/08/04/unitree-expects-first-half-revenue-growth-as-demand-for-humanoid-robots-accelerates/103876/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-04T11:34:05.000Z",
+      "summary": "Unitree预计上半年收入增长，人形机器人需求加速。",
+      "summaryZh": "",
+      "titleZh": "随着人形机器人需求加速，Unitree预计上半年收入增长"
+    },
+    {
+      "title": "宇树科技IPO倒计时 “全明星”朋友圈揭晓",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kYUktd0FhUWNsYm5VZWR1QlhOSHdBZ2w0S2VtMHNnd0x0MXRlemdGU2x4d2RTYmtQQkYzY002MjNQczU5M2xxNUFIU3d4S0lHT1prbUNjMno5OTE4U0I0SQ?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-04T17:14:21.000Z",
-      "summary": "鹿明发布Lumos Ego Vue与自研数据管线，实现机器人技能经验获取与进化闭环。",
+      "pubDate": "2026-08-04T21:33:20.000Z",
+      "summary": "宇树科技IPO倒计时，揭晓“全明星”朋友圈。",
       "summaryZh": ""
     },
     {
