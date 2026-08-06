@@ -1,17 +1,7 @@
 {
   "date": "2026-08-06",
-  "generatedAt": "2026-08-06T03:42:36.711Z",
+  "generatedAt": "2026-08-06T06:14:14.338Z",
   "items": [
-    {
-      "title": "30美元一小时的人形机器人保洁，真人躲在屏幕后",
-      "link": "https://www.tmtpost.com/8093480.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-06T02:53:53.000Z",
-      "summary": "人形机器人保洁服务背后依赖真人操作，成本高昂。",
-      "summaryZh": ""
-    },
     {
       "title": "Meta推出首款AI智能体，欲向Anthropic和OpenAI发起挑战",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8weUlfNGRxUTk4bDRNM2Rpa3lLeTJKWER1VWhMa0JReWlhQk1FTEdxS3RHaWFzX1otVzhad3d5NG5TV2RSakNrYUJSRWNQVF80Z29n?oc=5",
@@ -19,19 +9,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-05T23:57:55.000Z",
-      "summary": "Meta推出AI智能体Muse Code，挑战Anthropic和OpenAI。",
+      "summary": "Meta推出编程AI智能体Muse Code，挑战Anthropic和OpenAI。",
       "summaryZh": ""
-    },
-    {
-      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-      "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-      "source": "Wired",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-08-06T00:15:04.000Z",
-      "summary": "OpenAI未察觉AI代理在留言板上策划黑客攻击。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 没有注意到它的人工智能代理使用留言板来计划他们的黑客攻击"
     },
     {
       "title": "鹿明机器人联席CTO丁琰离职，任期不足280天",
@@ -44,14 +23,13 @@
       "summaryZh": ""
     },
     {
-      "title": "上线仅 1 周，微软撤回 M365 Copilot 的“AI 引用黑名单”功能",
-      "link": "https://www.ithome.com/0/986/342.htm",
-      "source": "IT之家",
+      "title": "家净即入佳境，大疆DJI ROMO系列清洁机器人周年礼遇全面开启",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uXzdlYXhBR1JQYzhfUGZXZmp1X1gySXRxclg4b2szOG42RW1EQlZuY3BGLVVHaHBiZ3JOOHpoMXdrV0d0alZXc0Q3R0h1YXBLZkhJQTZwNWFma2dBakpzYkNnTQ?oc=5",
+      "source": "中国经营网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-06T01:51:03.000Z",
-      "summary": "微软撤回 M365 Copilot 的“AI 引用黑名单”功能。",
-      "summaryZh": ""
+      "category": "robotics",
+      "pubDate": "2026-08-06T03:38:00.000Z",
+      "summary": ""
     },
     {
       "title": "字节跳动推出大模型SeedRealtime 国产算力逻辑有望持续加强",
@@ -63,23 +41,42 @@
       "summary": ""
     },
     {
-      "title": "AI机器人“上岗”：智慧养老托起幸福“夕阳红”",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qM3RZVnVXY3BnU3N2XzE1Tm02VXNGb3hlNG9QTXZhcjA0MTJrcVBEbHNWNi05MWFsdXNMWUJ1bG4wZVdRZVVxdFkyd2xuLVgyOVBhNmRST1FhVFN5S21CaA?oc=5",
-      "source": "光明网",
+      "title": "瞄准机器人数据赛道，新加坡创企Ropedia融数千万美元",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE80bFJ1UVk5ekN3Z215c3ltNjk1WXRMRWUyVGN0WkJLSjZMazFEQ0F5QjctRzA2UlBmS1N4RS11TzgtU3VRaFE?oc=5",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-06T02:19:00.000Z",
-      "summary": "武汉推进智慧养老，AI机器人辅助照护老人。",
+      "pubDate": "2026-08-06T06:05:49.000Z",
+      "summary": "新加坡创企Ropedia完成数千万美元天使轮融资，专注机器人数据采集服务。",
       "summaryZh": ""
     },
     {
-      "title": "清华唐杰团队揭示大模型记忆全景",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TMlBkMi1TNW5HaG1YWUhqZ0FXTGxfNVNIS3dNdTVmTFQtUE1WU01oLXBRSHRXdzRZOFVPczF6WHhnWU95ekl0NkRCSktaY2M?oc=5",
+      "title": "机器人、AI与创新药，如何成为中国支柱产业？",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UX3FwdlJVMTRqdUJVQzJZaDRSNXNJYTVhc1RhTDdwQ3FVVlB1XzlvTGN4R3dJOUFuOXBlX0lWUG9FaXA0QlMxN1ljalZGbUF5MVVj?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-06T03:44:21.000Z",
+      "summary": "机器人、AI与创新药被定位为中国新兴支柱产业。",
+      "summaryZh": ""
+    },
+    {
+      "title": "氪大事 | AI圈集体\"焚书\"？数百万册被粉碎，只为训练大模型_精彩视频为您呈现",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4UmxHNldmeF9WbjE0ak5feVhCbmc4S1JWV1cyMUZIT1BvQ1BmVlpIWTBIanBWcUxJZG5LUzRyRkdTeGlGdDJGUnBybU5raFFQcnJv?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-05T07:41:10.000Z",
-      "summary": "清华唐杰团队发布大模型记忆全景图，提出三维记忆分类学。",
+      "pubDate": "2026-08-05T13:07:53.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Cloudflare 宣布推出开源“Cloudflare OS”：面向 AI 智能体和企业工作的开放平台",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4teF9FZW4wVWxWOE5BMkhzN0taYm0zQkwxcmVraGNvVlM1eHFhODBNdlRTSmJ5V3VFaW1IVlE0cGYwdTZyLWZKWU9Ec3I?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-05T15:11:39.000Z",
+      "summary": "Cloudflare推出开源AI平台“Cloudflare OS”，面向智能体和企业工作流程。",
       "summaryZh": ""
     },
     {
@@ -93,42 +90,62 @@
       "summaryZh": ""
     },
     {
-      "title": "一个月9款旗舰，大模型进入“月抛”时代？",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41MDV6WEtuWGNha1NzZHVhZWhtY0tHMnFMcjhoQ0RqUTJrNHlVMk4yZGpfM1dYUk5oZUt6aUVHcUJvbGl1c01yZHNnbFp1SGJTWkRMZFREUmM?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-05T09:51:23.000Z",
-      "summary": "7月大模型密集发布，能力差距缩小，开源模型进入竞争。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI进化速递丨SpaceX联合英伟达打造太空算力卫星",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8za1pVTlkxR1hkY0ozaDlKYnBpME5EWnVyZFVzUXE3amp1OWphZ2YxcmNYcHJUZ0ZCMkhRY1l5ak9YSDZuOExQWm0xUWQxWEFFV3Bj?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-05T16:46:18.000Z",
-      "summary": "SpaceX与英伟达合作开发太空算力卫星。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Anthropic确认组建芯片团队 自研AI芯片以降低对英伟达的依赖",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LVHdCNHgtQlpDR19yYmFLZlNTU285RGg3M1hITEszcGRqa0p3RGw0ek1iZ3Zvd1ZBMlFiZkFiQjV3VHhMRkFWeA?oc=5",
+      "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5xdU1zUnQ3ZlRQZUM5YjNQVmdla0FuRldSQTZBODlHbFVEV1NVbU9FUmZleWZRZmJmM2xLNmttbDZTZDU0M1dBVw?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-05T14:45:44.000Z",
+      "pubDate": "2026-08-06T04:26:00.000Z",
       "summary": ""
     },
     {
-      "title": "工信部公布物联网赋能典型案例名单，AI融合应用规模化落地，物联网ETF易方达（159895）关注度提升",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jdVBHM3NuaUJONjVvMUhQcFNWSHBZMW01dXFLenl5c2RxT2Z3UC1lN1F2ckNOdVF3X1pYT256UDJ2dW9jd3hkaG1XaVA1V3FUMC1CU21aMDFBM1NLTTl6RmVB?oc=5",
+      "title": "OpenAI brings product carousels to ChatGPT ads",
+      "link": "https://www.modernretail.co/marketing/openai-brings-product-carousels-to-chatgpt-ads/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+      "source": "Modern Retail",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-08-06T04:00:00.000Z",
+      "summary": "OpenAI为ChatGPT广告引入产品轮播功能。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 将产品轮播引入 ChatGPT 广告"
+    },
+    {
+      "title": "Anthropic确认组建自研AI芯片团队，采用“多芯片”策略支撑Claude扩张",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KMm40VExLOTdfRGc5RTRBYzdNNXM3eElqQVdLQWd5UkJwR2FtSE5ZZmVkOUx1R0R5cFViazdmS1FQTWVwVS1INU96dk9DdmlNdlZz?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-05T12:54:13.000Z",
+      "summary": ""
+    },
+    {
+      "title": "AI应用或进入规模化落地阶段，人工智能ETF易方达（159819）昨日获超1亿元资金净流入-ETF火线",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vTXhhRDRXVWxjcE1LaE5ZRDBJdkp1RWdmbjMwZVFDRnJNRWJwbVo0WEtNOUhEZUtWREpTazlWRDRleVdKcS1wYVJhNVZMTFZsOE5YZXZUcVF2em53SDBORmxnLUtKSUs0NFo3MDBNekY?oc=5",
       "source": "金融界",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-06T02:58:57.000Z",
-      "summary": "工信部发布物联网典型案例，AI应用规模化，易方达物联网ETF关注度上升。",
+      "category": "ai",
+      "pubDate": "2026-08-06T04:50:53.000Z",
+      "summary": "人工智能ETF易方达（159819）昨日获超1亿元资金净流入，AI应用进入规模化落地阶段。",
+      "summaryZh": ""
+    },
+    {
+      "title": "政治局会议部署“人工智能+”行动，产业规模突破万亿，人工智能ETF易方达（159819）热度攀升-ETF火线",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQVERhdlJob3NweUVHU01rYjZHRTJ2VGN5MWg4bEktMU9tdzQyTUlBNS1abnBwSkVRSTVIcTJIczBFZUUteXprbVpOcElXRHN1UnRZOVVqNWE1R21MeTg0Q3pOTldNYVRtbnpOUXgyNFU?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-06T03:38:55.000Z",
+      "summary": "政治局会议部署“人工智能+”行动，产业规模突破万亿，人工智能ETF易方达热度攀升。",
+      "summaryZh": ""
+    },
+    {
+      "title": "第一批炒具身智能的股票，已经跌惨了",
+      "link": "https://www.tmtpost.com/8093427.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-06T05:01:55.000Z",
+      "summary": "具身智能概念股多数回调，部分公司股价跌幅超三成。",
       "summaryZh": ""
     },
     {
@@ -139,58 +156,6 @@
       "category": "robotics",
       "pubDate": "2026-08-06T02:58:17.000Z",
       "summary": "东风日产NX7亮相，配激光雷达和半隐藏式门把手。",
-      "summaryZh": ""
-    },
-    {
-      "title": "中国联通签约成为第二届世界人形机器人运动会全球独家通信服务合作伙伴",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YT3J1NkpUVkltUHJDNU80OTgxS29tNFhGbUpDUWw5b0x6TVRnWnNqVEF1U2lyeTFpeXRmWlRBNWVnTVRoOG8zeXk0Q05oNk9SSFRUcW9XM3JBTFNvN2lIbHdpQ3h1RXo0ZkR0akgxa04?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-05T11:43:09.000Z",
-      "summary": "中国联通成为第二届世界人形机器人运动会全球独家通信服务合作伙伴。",
-      "summaryZh": ""
-    },
-    {
-      "title": "宇树科技开启询价 具身智能估值跑在业绩前？",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwT2dRSi1yWlprclFVSml1dGxFUC1qakhuT1FEV21kZGJXWXRfUzc5M1NNNy16Z3VHVWFDNW9VMGU0c0VkTjlsYW5XbW82RkhEdlBRUndkaDg5YVVleHJoMFZ3?oc=5",
-      "source": "财新网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-05T10:24:00.000Z",
-      "summary": "宇树科技IPO询价开启，市场预计估值超500亿元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
-      "link": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-05T21:26:40.000Z",
-      "summary": "Travis Kalanick的机器人初创公司Atoms聘请前Uber财务总监Gautam Gupta担任CFO。",
-      "summaryZh": "",
-      "titleZh": "Travis Kalanick 的机器人初创公司 Atoms 任命 Uber 前财务总监为首席财务官"
-    },
-    {
-      "title": "University of Florida opens new robotics lab dedicated to industrialized construction",
-      "link": "https://www.therobotreport.com/university-of-florida-opens-new-robotics-lab-dedicated-to-industrialized-construction/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-05T17:41:55.000Z",
-      "summary": "佛罗里达大学开设专注于工业化建筑的机器人实验室。",
-      "summaryZh": "",
-      "titleZh": "佛罗里达大学开设新的机器人实验室，致力于工业化建设"
-    },
-    {
-      "title": "2026 年 AI 智能客服的下半场：拼的不是模型，是全链路闭环能力",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Mbi1wbV84QUU0YlJHY1UxWHlEM1hqQWxXWklUNThzUkFqSTR6WGRvSktrLWZqN1o0QUJOX25qTVdoLVZXb1dobDNwWnM?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-05T11:45:40.000Z",
-      "summary": "2026年AI智能客服竞争焦点转向全链路闭环能力。",
       "summaryZh": ""
     },
     {
@@ -215,13 +180,23 @@
       "titleZh": "数据中心的现实检查可能会阻碍人工智能盈利的繁荣"
     },
     {
+      "title": "荣耀首席答海报新闻：马拉松冠军机器人“闪电”如何实现跨越式突破",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaZk1DTFFYSWZlUVo5S3Y1T2RCX0xzSmJwWVQzT3JJeURpMWtLM0M5OERsakVkSHUxSU9CZW40SU1qNWJLdUxjSUZVQ0lMZ1k1QXdtaw?oc=5",
+      "source": "腾讯科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-05T09:06:37.000Z",
+      "summary": "荣耀“闪电”机器人以50分26秒成绩夺冠，实现马拉松机器人性能跨越式突破。",
+      "summaryZh": ""
+    },
+    {
       "title": "AI训练师、民宿管家等123个职业标准向社会公开征求意见",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByc2MtM3lJcENReTJMRDBEanFSSlZvRkV3WmRLNE5uVTFPeFctNXJIRzE4dWYweHF2TGlUTFFOSEl3VzVmQjJDUGg5Nl93MlROUVBEeWlaSnEwMl9ZbENWMw?oc=5",
       "source": "澎湃新闻科技",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-05T12:10:00.000Z",
-      "summary": "人力资源社会保障部公开征求意见，123个职业标准向社会征集建议。",
+      "summary": "人力资源社会保障部公开征求意见123个职业标准。",
       "summaryZh": ""
     },
     {
@@ -241,7 +216,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-05T12:57:00.000Z",
-      "summary": "浙江推出“教机器人”新岗位，为AI时代就业带来新机遇。",
+      "summary": "浙江推出“教机器人”新岗位，AI时代就业新机遇显现。",
       "summaryZh": ""
     }
   ]
