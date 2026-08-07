@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generatedAt": "2026-08-07T22:00:12.444Z",
+  "generatedAt": "2026-08-07T23:18:16.444Z",
   "items": [
     {
       "title": "宇树科技王兴兴：公司与DeepSeek将在AGI、高性能通用机器人、AI大模型三方面开展重点合作",
@@ -10,6 +10,16 @@
       "category": "ai",
       "pubDate": "2026-08-07T12:07:00.000Z",
       "summary": "宇树科技与DeepSeek将在AGI、高性能通用机器人、AI大模型三方面开展重点合作。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Open AI为免费用户默认提供最新入门模型GPT-5.6 Luna；阿里发布2.4万亿参数大模型Qwen3.8；DeepSeek宣布即将涨价",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rU1U4RzdhQ1QyMmczeTNmX1Zha3FJYWR0R2MwMGt5anFRNmdsYU1WVFJQaUFPSS12TGdKV2dPLWk0ZEtEZXBFNTFBamZHOWp6WmxVZ1dmYlpRTzJFTWllZDJLMFo?oc=5",
+      "source": "财新网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-07T08:55:00.000Z",
+      "summary": "OpenAI推出GPT-5.6 Luna模型，阿里发布Qwen3.8大模型，DeepSeek宣布涨价。",
       "summaryZh": ""
     },
     {
@@ -60,7 +70,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-07T10:45:19.000Z",
-      "summary": "六大科技巨头发布统一AI插件开放规范，Anthropic缺席。",
+      "summary": "六大科技巨头发布AI插件统一规范，Anthropic缺席。",
       "summaryZh": ""
     },
     {
@@ -80,7 +90,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-07T02:56:46.000Z",
-      "summary": "AI SSD技术推动大模型推理存储范式变革，实现算力、网络、内存与存储协同。",
+      "summary": "AI SSD成为大模型推理关键资源，推动存储范式转移。",
       "summaryZh": ""
     },
     {
@@ -100,7 +110,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-07T09:34:26.000Z",
-      "summary": "河北84个制造业场景应用大模型，加速“人工智能+制造”落地。",
+      "summary": "河北84个制造业场景应用大模型，加速人工智能与制造业融合。",
       "summaryZh": ""
     },
     {
@@ -110,7 +120,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-07T05:59:45.000Z",
-      "summary": "苹果三星Intel团队创业公司Ommo完成数千万美元融资，研发空间定位系统。",
+      "summary": "苹果三星Intel团队创立公司，融资千万美元，研发机器人空间感知技术。",
       "summaryZh": ""
     },
     {
@@ -124,14 +134,13 @@
       "summaryZh": ""
     },
     {
-      "title": "三七互娱AI能力体系2026全景拆解：自研小七大模型如何重塑游戏工业化管线",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5NjRqSUZjZW5NM25xXzh3V3otNDRSdGpXOUtXN1NMR0g1WGxTdERxRlZQM3pkbE5YOC1RRFYzcVZxZk1obUVNS1pESGg?oc=5",
-      "source": "IT之家",
+      "title": "加速跨越商业化落地“最后一公里” 具身智能告别“炫技”时代",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNd1FvYjNqMUZ4T1BPbnR6YU1uQ0o4MnlLZElMZHFYd0pwcnpMeTRrVFQ2YWJNajBncER2MFFFZEtGc2xrTXY1VkxibERiQncyYWs5ZDhRNV95LVk3eWdUN0lGbXQ?oc=5",
+      "source": "中国经营网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-07T06:51:33.000Z",
-      "summary": "三七互娱自研小七大模型助力游戏工业化管线升级。",
-      "summaryZh": ""
+      "category": "robotics",
+      "pubDate": "2026-08-07T20:19:00.000Z",
+      "summary": ""
     },
     {
       "title": "AI驱动下PCB迎来新一轮扩产周期，创业板ETF华夏(159957)收涨超1.2%，机构看好AI算力建设和半导体自主可控",
@@ -154,6 +163,17 @@
       "summaryZh": ""
     },
     {
+      "title": "Tencent's Team Memory shares AI agent memory across a team — with no governance yet for when it's wrong",
+      "link": "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-08-07T16:30:29.000Z",
+      "summary": "腾讯推出跨团队AI代理共享记忆系统，暂无错误治理机制。",
+      "summaryZh": "",
+      "titleZh": "腾讯的团队内存在整个团队中共享人工智能代理内存——当出现错误时还没有治理"
+    },
+    {
       "title": "数据基础设施支撑AI规模化落地",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4WkJUS1RjZTVMWWhybjVFdHZrMUJzOEVOT1lENFN5ZlY3VGtPeFBPbXY4MHRIYkg3SF9rZndZM0NqZF9PLTE5bTFTOElpR0lYN0VDSmdVV3oxa3VJNjRVVGYxVkhpOHJUQk54MzhHVQ?oc=5",
       "source": "中国经济网",
@@ -170,7 +190,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-07T09:40:17.000Z",
-      "summary": "穹彻智能与阿里云合作，打造云端自动化数据处理产线，提升机器人训练效率。",
+      "summary": "穹彻智能与阿里云合作，打造云端自动化数据处理产线，提升机器人训练数据效率。",
       "summaryZh": ""
     },
     {
@@ -191,17 +211,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-07T01:58:36.000Z",
-      "summary": "ICDIA 2026“AI机器人展区”展示具身智能机器人应用及产业化落地路径。",
+      "summary": "ICDIA 2026 AI机器人展区展示具身智能机器人应用路径。",
       "summaryZh": ""
-    },
-    {
-      "title": "王兴兴最新发声！谈及上市、具身智能行业发展",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GWlN2VTZ4Z1B3VTNNaXRtRzM0cHk2MkdhMWFRSzlCRWVsbUhJdDhGY250VWExbGEzWDdrTkNsYllIdkg4UHFHbg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-07T02:38:00.000Z",
-      "summary": ""
     },
     {
       "title": "Airbnb大涨！业绩指引超预期，欧美旅游需求强劲",
