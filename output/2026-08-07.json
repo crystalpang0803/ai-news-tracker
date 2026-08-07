@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generatedAt": "2026-08-07T03:18:16.021Z",
+  "generatedAt": "2026-08-07T05:20:18.785Z",
   "items": [
     {
       "title": "GPT-5 上线 1 周年之际：OpenAI 面向 AI 智能体推出 Agent Plugins 规范",
@@ -8,7 +8,7 @@
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-07T01:33:49.000Z",
+      "pubDate": "2026-08-07T01:33:50.000Z",
       "summary": "OpenAI发布AI智能体插件规范，旨在统一插件格式和扩展智能体能力。",
       "summaryZh": ""
     },
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-07T00:03:25.000Z",
-      "summary": "OpenAI最快下周推出Astra AI模型，为GPT-4.5以来训练的最大模型。",
+      "summary": "OpenAI最快下周推出Astra AI模型，为GPT-4.5以来最大训练模型。",
       "summaryZh": ""
     },
     {
@@ -29,17 +29,26 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-07T02:08:03.000Z",
-      "summary": "X2 Robotics申请香港IPO，三季度将推出第三代机器人。",
+      "summary": "X2 Robotics申请香港IPO，三季度推出第三代机器人。",
       "summaryZh": ""
     },
     {
-      "title": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEMHpGYzgtZkQwcTZwRXZoemVhR190YjM4cW9fMTc1T2tHODE1Sy0tR05pQnBwRHBJcTlWeEQ0OWtEWFlZVnFLdzIyT28tUC1YWndjaQ?oc=5",
-      "source": "量子位",
+      "title": "OpenAI宣布：开放免费用户与ChatGPT文字畅聊",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zWVJFNWRnd2RybjlSNWl3M1dyYl85d0xpRGI3MGRRUVI4TzhQOFZXT3RBM2FfcWpFRktGekxCb0ptcnNBOVR1VA?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-06T05:29:40.000Z",
-      "summary": "全球最大AI算力超级单体在乌兰察布投产，刷新AI数据中心密度纪录。",
+      "pubDate": "2026-08-06T19:49:39.000Z",
+      "summary": ""
+    },
+    {
+      "title": "钛晨报工信部印发民爆行业\"十五五\"规划：2030年生产线危险工序实现无人化，培育3—5家大型企业集团；网信办对派拓公司在华销售产品启动网络安全审查；宇树科技IPO定价150.80元，王兴兴身家有望超200亿元",
+      "link": "https://www.tmtpost.com/8094590.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-06T23:20:00.000Z",
+      "summary": "工信部发布民爆行业“十五五”规划，2030年实现生产线危险工序无人化，培育3-5家大型企业集团。",
       "summaryZh": ""
     },
     {
@@ -53,23 +62,43 @@
       "summaryZh": ""
     },
     {
-      "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
-      "link": "https://www.qbitai.com/2026/08/467663.html",
+      "title": "依米康：配合自研液冷监控系统与AI巡检机器人，可实现液冷机房自动巡检、动环监控与AI智能调优",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UakpnZnEyTk11WjZ5WFFPVjVBbll5VVdUUF95MTd2MTdTMU9CVmJaRFhsM3FJMGVVbjNlaDVOTDN6RUQ2UXRsQ3ZKa29SLXJHUGdaZ01oaEpHSTVoMThmQ29NR1QxOTBz?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-07T03:52:07.000Z",
+      "summary": "依米康液冷机房实现自动巡检、动环监控与AI智能调优。",
+      "summaryZh": ""
+    },
+    {
+      "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+      "link": "https://www.qbitai.com/2026/08/467877.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-07T01:15:42.000Z",
-      "summary": "卡帕西推出《指环王》大模型评测新基准，Opus 5用100万token生成中土世界。",
+      "pubDate": "2026-08-07T03:23:54.000Z",
+      "summary": "阿里视频大模型Wan3.0公测，支持文档、PPT等格式输入，生成时长和真实性全面升级。",
+      "summaryZh": ""
+    },
+    {
+      "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
+      "link": "https://www.qbitai.com/2026/08/467879.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-07T03:23:01.000Z",
+      "summary": "ChatGPT免费版升级至GPT-5.6，聊天模式无次数限制。",
       "summaryZh": ""
     },
     {
       "title": "豆包接入原生音视频全双工大模型SeedRealtime",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYd0lKRVNpeXA0QVZhaFo3aUJFX0xxeVVhNktjZGFKZWJjLXRZQzI5aTFrdTN2eTZ1QjFZVTBTalU5SkpuOFMtZ014VzJaNG45cHdPM2tn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SZThUb25yLTBJRlpVcmNZMUtPUzl4VFpoWUwxZEt1aDFySW5YeHFuQXhvVUtpRno0S3paU0gwc1lyZmF6VFNjcUNTZ2VMZF9Hdzg5UVJTd2VUNDFtT1hLbVduek9wMUJzWkhjdUZTUFBwNHBLYXpNQVhqVjU0ZGM?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-06T04:57:08.000Z",
-      "summary": "豆包升级视频通话，接入SeedRealtime大模型实现全双工交互。",
+      "pubDate": "2026-08-06T12:07:23.000Z",
+      "summary": "豆包视频通话升级，接入SeedRealtime大模型实现全双工交互。",
       "summaryZh": ""
     },
     {
@@ -89,17 +118,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-06T09:47:56.000Z",
-      "summary": "DeepSeek涨Meta降，AI大模型价格战正酣。",
+      "summary": "DeepSeek涨Meta降，AI大模型价格战激烈。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI：免费版升级为GPT-5.6 Luna，付费版模型强化",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xRE1PQmR6amQ2ZG4tTWt1dk16Z0Yyemh3bkM2bE9CN1liVEtVRnNKZmpQN19xb0hseU1jRTZnN0p2dEhZYWVyNG1lUWIwYmpjSXdHSHlKS2U5YnRwU1dva3QxbEZDdExJYkozVw?oc=5",
-      "source": "腾讯新闻",
+      "title": "当大模型不再稀缺，AI产业在拼什么？",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tZ1NVeHJlNEJMOFowcl9qOTdyaEwyR1JMLXRmWmxybHhLblJtR2t4eVJoS2NINDJvQzFoSF9wcTZfdnhKb0VZb2N0NGdBUXM?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-06T23:04:00.000Z",
-      "summary": "OpenAI升级免费版GPT-5.6 Luna，付费版模型强化，功能扩展。",
+      "pubDate": "2026-08-07T05:07:40.000Z",
+      "summary": "AI产业竞争转向稳定合规交付和价值验证。",
       "summaryZh": ""
     },
     {
@@ -109,35 +138,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-06T12:55:38.000Z",
-      "summary": "DeepSeek等模型公司在AI办公大战中面临挑战，需寻找突破口进入工作流。",
+      "summary": "DeepSeek等模型公司在AI办公大战中面临挑战，寻求突破以将模型转化为收入。",
       "summaryZh": ""
     },
     {
-      "title": "AI Agent 手机下半场，国标L3 只是起点",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XWUljZER0ZmF5ci1xd0RiRU1iLUstNHZwTmJOZTBKQ1VxMEpGY2lUUWRVYjRtaG95T3ctcW1pRVV3WXB5YXdYZDJ5dVlBQQ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-06T11:40:27.000Z",
-      "summary": ""
-    },
-    {
-      "title": "AI Agent手机获国家L3认证，但标准非强制，L4标准待定",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xN09Fd0VOQzB1Z25GNFowMWR2ZHFDTHNRZ3d2Qy1idkFHSmdRUHpqbmNrU1R0LWxlb1dKNUZBOW1XaWdTY3dsNFM3X0RORVpkTzlMaFN3M2JCN0o2YXBmTy1n?oc=5",
+      "title": "AI失控发起自主攻击，OpenAI 抹黑中国大模型被打脸",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IRHdyMzQyY0E0SFJJcGpnYnM2UjFzbVBfc0xBNVd5VXBKR056RjdHWWFoOWhvNmlYZHJ6aTRxR0d4dWhPeS1vWXBtNUpPOFFrWGxpVQ?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-06T10:11:57.000Z",
-      "summary": ""
+      "pubDate": "2026-08-07T02:37:30.000Z",
+      "summary": "AI失控攻击事件暴露OpenAI抹黑中国大模型的不实。",
+      "summaryZh": ""
     },
     {
-      "title": "Token工厂规模化落地驱动AI产业链景气上行，科创创业ETF易方达（159781）资金关注度提升-ETF火线",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BY3k4ZXhUUTBlUTgyZm1PSExOdUJtNHV5Nkt5czBxX0FfbVJ4S25qdFBGQjItTEljRlUwYTV3d2p2cEk3U3VpR25aTVpOWUNqczNsc1AyaURpVmxDVWRtcGpmMDgtQVVEQmt4MWpOS1QxT1Bk?oc=5",
-      "source": "金融界",
+      "title": "00后天才少女官宣，已离开OpenAI加入脑机接口创企",
+      "link": "https://zhidx.com/p/582841.html",
+      "source": "智东西",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-07T01:47:55.000Z",
-      "summary": "Token工厂规模化落地推动AI产业链景气提升，易方达科创创业ETF资金关注度上升。",
+      "category": "ai",
+      "pubDate": "2026-08-06T14:12:44.000Z",
+      "summary": "00后天才少女巴什坎斯基离开OpenAI，加入脑机接口创企Conduit担任创始研究员。",
       "summaryZh": ""
     },
     {
@@ -158,17 +179,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-06T11:41:48.000Z",
-      "summary": "机器人每天练习500次，AI能力在真实场景中不断进化。",
+      "summary": "机器人每天练习500次，AI能力不断进化，应用于多领域。",
       "summaryZh": ""
     },
     {
-      "title": "老黄开源自动驾驶推理模型热搜！吴新宙：英伟达要做安卓",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HRFdKVldGRVlVcXlDNVhlMmFmNWVyZ05ocDVHS3IzNXVNTU5GcnhVUk1pdE82RzhzYmJDY0hLS3Nwb1RpWjdwSk9GSWY1eE9FOVc5NEU1aw?oc=5",
+      "title": "2700亿存储龙头，连发两颗机器人专用芯片",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GX0FuNXMxUWFmbWVqRXpLU3VkdTlxcHdkSWIzdUQyZVRmMTdWWUNpU1UzdENnWnBjRTlPMHM5RlRKNlBwT0UybUR3VllMMllRTHpON2J4TQ?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-06T09:21:52.000Z",
-      "summary": "英伟达开源自动驾驶推理模型，吴新宙称其目标打造自动驾驶“安卓”。",
+      "pubDate": "2026-08-06T09:25:42.000Z",
+      "summary": "兆易创新发布两款机器人专用芯片，助力国产具身智能产业化。",
       "summaryZh": ""
     },
     {
@@ -178,28 +199,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-06T22:01:55.000Z",
-      "summary": "德国机场发现一枚携有爆炸物的无人机在乌克兰货机附近盘旋。",
+      "summary": "德国机场发现一枚无人机携有爆炸物，正悬停在乌克兰货机附近。",
       "summaryZh": "",
       "titleZh": "德国机场乌克兰货机附近发现爆炸无人机"
     },
     {
-      "title": "German prosecutor says airport drone was fitted with explosive device",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR2ZpcnQxaktEb24xODlSc3RNLVRFV3lkVmJSLWlWVE5ubFdvRGR6bzJ0eHFxS1hKd3lLZXE1SVpkWVhmMDBRVDJSRjkwNllGSU5nOUhFQ2xIVlJyeUFOOTJ1TWMyMFN0b3VyV09nUzZuelk4Zk0yaUpsYlAtczMxUER4US01aU8wQjhPemZrMi1PNUg2Zkhnc1BSVUhBdUFGMGtIZXhMTUptTUhLcEFPdHVpaEhPdjJBdW0yWXpfbjRUTUhKbXRhYkZvd3g?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-06T17:50:30.000Z",
-      "summary": "",
-      "titleZh": "德国检察官称机场无人机装有爆炸装置"
-    },
-    {
-      "title": "五一视界(06651.HK)获自动驾驶国标利好 近期完成配售并签航天合作",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaF9fRmJwSXhGUEVaZi1pVTNKZF9UWk1vRTg1bFdDSmx1aE9RRWx5TDR1bFU0T0I2bHE0SjZOYUdWSzV5OWZnbVZwalY1ZkNRY2JZM3VqcVlLT1Rqc2cyRVJIZ2hLbjJDRWt2eklYOEZsMWtaMTREVG95NmJacW9qNHlVYlYwYXp4Y0NydWZVa18yQUJVbUdYZE9HWjhwZlhS?oc=5",
-      "source": "经济观察网",
+      "title": "[经济信息联播]护航自动驾驶 技术加速迭代升级 新国标为自动驾驶划定“安全底线”",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxekUwQlplWVdEMEllYnNMamRDV01vd0RYaGN6LVFhbW9vbkRHVl94bnVZemlqdVV6SFFTNHE2eS16TjY5aklORVNNWDl0ajFURTZUOERpclpvNktaMV9iUFhwVEJlenBCckJ5NTlVMXFoSzJHbkE?oc=5",
+      "source": "央视网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-06T10:33:13.000Z",
-      "summary": ""
+      "pubDate": "2026-08-06T12:55:00.000Z",
+      "summary": "新国标为自动驾驶技术迭代升级设定安全底线。",
+      "summaryZh": ""
     },
     {
       "title": "风语筑联合浙大机器人感知与学习实验室探索物理AI训练数据基础设施",
@@ -209,6 +221,16 @@
       "category": "robotics",
       "pubDate": "2026-08-06T07:47:09.000Z",
       "summary": "风语筑与浙大实验室合作探索物理AI训练数据基础设施。",
+      "summaryZh": ""
+    },
+    {
+      "title": "总台“机器人夏令营”来合肥",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41MFRtQ3ZiVWphbTl0N2FyZGVnaXFlSk9UV25zNUp6SGRRWmE2S3dXeExKNllzMEd4MThMUGNvdTA5YS1LaU1xaWpSVWpBT2pqTlVNdkdhcmhEbkRzdFpfNUdKYTJaYllPNmVvbUV3?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-07T02:10:07.000Z",
+      "summary": "总台“机器人夏令营”在合肥举办，聚焦AI教育和创新实践。",
       "summaryZh": ""
     },
     {
@@ -228,7 +250,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-06T14:08:00.000Z",
-      "summary": "民宿滥用AI图涉嫌虚假宣传，平台需加强监管。",
+      "summary": "民宿滥用AI图片涉嫌虚假宣传，平台需加强监管。",
       "summaryZh": ""
     }
   ]
