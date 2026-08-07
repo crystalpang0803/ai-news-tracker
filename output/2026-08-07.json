@@ -1,15 +1,15 @@
 {
   "date": "2026-08-07",
-  "generatedAt": "2026-08-07T01:03:21.585Z",
+  "generatedAt": "2026-08-07T01:38:37.650Z",
   "items": [
     {
-      "title": "ST豆神：目前算力业务尚未落地",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kQlJtRi1YUjZuSXNpclZRR0NtWkpybVdUNFFpUGw2LUVDRExLSGNLNldkTUNELVdWQ1ZOakhoUnlVQzdWazJkZA?oc=5",
-      "source": "财联社",
+      "title": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
+      "link": "https://www.qbitai.com/2026/08/467262.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-06T14:00:28.000Z",
-      "summary": "ST豆神称算力业务尚未落地，正积极申请IDC牌照及合规资质。",
+      "pubDate": "2026-08-06T05:29:40.000Z",
+      "summary": "全球最大AI算力超级单体在乌兰察布投产，刷新AI数据中心密度纪录。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-06T23:36:35.000Z",
-      "summary": "前小鹏副总裁陈永海加入众擎机器人，任运营总裁。",
+      "summary": "前小鹏副总裁陈永海加盟众擎机器人，任运营总裁。",
       "summaryZh": ""
     },
     {
@@ -49,7 +49,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-06T11:07:55.000Z",
-      "summary": "全球首份人形机器人专利报告显示，中国专利数量占据前五名。",
+      "summary": "全球首份人形机器人专利报告发布，中国专利数量占据前五名。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
+      "link": "https://www.qbitai.com/2026/08/467663.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-07T01:15:42.000Z",
+      "summary": "卡帕西推出《指环王》大模型评测新基准，Opus 5用代码生成中土世界。",
       "summaryZh": ""
     },
     {
@@ -63,28 +73,28 @@
       "summaryZh": ""
     },
     {
+      "title": "OpenAI撑起微软七成AI收入，合作背后竞争升温",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Fa1QyUUJBVzBRTTBkLVNic0VCSVd4ZGQ0S3ZhakhNOG1wS0lLX3FaTUtpQ25EbnNWcUJKQkJtY3Mxem1EdHctaGh5N3ZaQk5ldlNn?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-07T01:21:38.000Z",
+      "summary": "OpenAI为微软贡献七成AI收入，双方合作竞争加剧。",
+      "summaryZh": ""
+    },
+    {
       "title": "DeepSeek涨价，Meta降价，全球AI大模型价格乱战“鹿死谁手”？",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kY21icHYxQjNfUVU3Z0RxSlFtMVdSZmh2X1JIdGwwTDlkWWlncEF1ZHdlWEQzaUNfTTNGV2xBNFF0TWw3UEdLd1ZoWlZKWno4TG1RcQ?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-06T09:47:56.000Z",
-      "summary": "DeepSeek涨Meta降，AI大模型价格战加剧。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Rubin AI服务器规模化出货，首批机柜落地OpenAI谷歌，AI基建建设加速",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kT1N2WUNpQXZMMmEtNUxyZjRLWmQ0SVN6eURGeVFqQlZVVVFUY0liTEthMlVKaXZxbDJsLURrVnpxbGo4VGhuMm9HNG1XZEVDSzRvZ0lzNHJkWFdYdVNObmRwWXo0UQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-06T02:19:00.000Z",
-      "summary": "Rubin AI服务器规模化出货，首批机柜部署于OpenAI和谷歌数据中心。",
+      "summary": "DeepSeek涨Meta降，AI大模型价格战激烈。",
       "summaryZh": ""
     },
     {
       "title": "OpenAI：免费版升级为GPT-5.6 Luna，付费版模型强化",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfeE1Vb05jSURLTHliUXE4Z0NpYjE1bWhwTmpwUlRTdEhRc3BuRGlVVmNwb2RveTNVWXJEUVFrRDlRblptZ2ZtTGUyb0Yxc25ZV2lYN3BxdkhjUTFMYlk1REktY3hlM2hiWVQtWktn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xRE1PQmR6amQ2ZG4tTWt1dk16Z0Yyemh3bkM2bE9CN1liVEtVRnNKZmpQN19xb0hseU1jRTZnN0p2dEhZYWVyNG1lUWIwYmpjSXdHSHlKS2U5YnRwU1dva3QxbEZDdExJYkozVw?oc=5",
       "source": "腾讯新闻",
       "lang": "zh",
       "category": "ai",
@@ -93,14 +103,14 @@
       "summaryZh": ""
     },
     {
-      "title": "Chinese humanoid robot maker Unitree prices IPO at $9 billion valuation",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGNISE45RzhZZ0wySkR0VE5KeG9QbnhYNFRLTWhVSTNrX0FhLWlDX0d4enJpRWVKZmdoYzRyOUZabl9MQTF2ZVNybDdxb2UxYjJnUnRscW12dU13WWNhUmRhaE5vM2k0MnZLMWN1QVNSYlZBa0twTWdlSUpDeHdIRTVLODRBbVFGNUxHbHFxQjBqU2g1cnJMdzVZQWxhVmlfcEJ1ZA?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
+      "title": "2700亿存储龙头，连发两颗机器人专用芯片",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1HRmw4OHNyM1A2OUtiOU9wT0VJbXFQd0NTMkltOS1FbVZhRjdvWUZMWXZiX0F5YS1kck44dGwtU2VDenRBM2c?oc=5",
+      "source": "智东西",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-06T19:33:16.000Z",
-      "summary": "",
-      "titleZh": "中国人形机器人制造商Unitree将首次公开募股定价为90亿美元"
+      "pubDate": "2026-08-06T03:54:50.000Z",
+      "summary": "兆易创新发布两款机器人专用MCU芯片，GD32H77R和GD32F50MxxG。",
+      "summaryZh": ""
     },
     {
       "title": "宝鼎科技：公司电子铜箔不能应用于AI服务器及算力领域",
@@ -118,27 +128,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-06T12:55:38.000Z",
-      "summary": "DeepSeek等模型公司在AI办公大战中面临挑战，寻求突破口以将模型转化为收入。",
+      "summary": "DeepSeek等模型公司在AI办公大战中面临挑战，需拓展应用生态和客户关系。",
       "summaryZh": ""
     },
     {
-      "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoTUpvQ0NXQmJ1VVNhRm9mcGNDb2VoLU9mLTdoZm5WY3F6SEtkZFlPeUtaa19GY1d0ZWhLQkF3LTFBR2JrQl9mclJtR3dhY1ZaQU1mWg?oc=5",
-      "source": "量子位",
+      "title": "AI Agent手机获国家L3认证，但标准非强制，L4标准待定",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xN09Fd0VOQzB1Z25GNFowMWR2ZHFDTHNRZ3d2Qy1idkFHSmdRUHpqbmNrU1R0LWxlb1dKNUZBOW1XaWdTY3dsNFM3X0RORVpkTzlMaFN3M2JCN0o2YXBmTy1n?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-07T00:25:07.000Z",
-      "summary": "DeepSeek以1.4亿战略投资宇树科技IPO，双方合作推进AI大模型与人形机器人研发。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI算力“吃掉”高端MLCC产能，三大日韩巨头业绩大增",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YRzV4cE40UHRPdEFDNHJXVExYcFBtMkhnN3IyWm91cHM5clNVRmo0VF9TbjNTMVNYQk5sMFBvb0FrenVEYUFqc2RIRUVLM3JUdkpN?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-06T15:10:47.000Z",
-      "summary": "AI算力推动下，日韩三大MLCC巨头业绩显著增长。",
+      "pubDate": "2026-08-06T10:11:57.000Z",
+      "summary": "AI Agent手机获国家L3认证，但非强制标准，L4标准待定。",
       "summaryZh": ""
     },
     {
@@ -153,6 +153,16 @@
       "titleZh": "ChatGPT 为免费用户带来无限的文本聊天"
     },
     {
+      "title": "又一家百亿估值灵巧手独角兽落地杭州！",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lMFl3SjVOS0hTcTBQdnFKVW14dV9tVVlGRU9sYk45eDR3VXhKUUo3eURndGltRi03a3E3Y0RQNFBXdVZxVVlIdGRyQzdTY3N3dHlMaTVWRQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-06T08:17:04.000Z",
+      "summary": "杭州成立百亿估值灵巧手独角兽子公司。",
+      "summaryZh": ""
+    },
+    {
       "title": "HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics",
       "link": "https://www.therobotreport.com/hii-signs-up-to-900m-agreement-with-path-robotics-graymatter-robotics/",
       "source": "The Robot Report",
@@ -164,25 +174,25 @@
       "titleZh": "HII 与 Path Robotics、GrayMatter Robotics 签署价值 9 亿美元的协议"
     },
     {
-      "title": "39起融资、超110亿元！7月人形机器人赛道融资图谱",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPSnRtNlZwR2owLWRWcGhqQjNUZUJybWhMMjJvamxjQ2hWNlZ5OW9vM1JYa3RxZjYzR0JkRXhwWHZyc2lRbTVMU05PZ3F2X2RaeVJkTEV3OA?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-06T01:18:24.000Z",
-      "summary": "7月人形机器人赛道融资39起，总金额超110亿元。",
-      "summaryZh": ""
-    },
-    {
       "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
       "link": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
       "source": "Ars Technica",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-06T22:01:55.000Z",
-      "summary": "德国机场发现一枚携有爆炸物的无人机在乌克兰货机附近盘旋。",
+      "summary": "德国机场发现一枚靠近乌克兰货机的爆炸性无人机。",
       "summaryZh": "",
       "titleZh": "德国机场乌克兰货机附近发现爆炸无人机"
+    },
+    {
+      "title": "German prosecutor says airport drone was fitted with explosive device",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR2ZpcnQxaktEb24xODlSc3RNLVRFV3lkVmJSLWlWVE5ubFdvRGR6bzJ0eHFxS1hKd3lLZXE1SVpkWVhmMDBRVDJSRjkwNllGSU5nOUhFQ2xIVlJyeUFOOTJ1TWMyMFN0b3VyV09nUzZuelk4Zk0yaUpsYlAtczMxUER4US01aU8wQjhPemZrMi1PNUg2Zkhnc1BSVUhBdUFGMGtIZXhMTUptTUhLcEFPdHVpaEhPdjJBdW0yWXpfbjRUTUhKbXRhYkZvd3g?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-06T17:50:30.000Z",
+      "summary": "",
+      "titleZh": "德国检察官称机场无人机装有爆炸装置"
     },
     {
       "title": "机器人“比武招亲”：哪款电机驱动方案最能“打”？",
@@ -191,7 +201,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-06T01:40:55.000Z",
-      "summary": "比武招亲活动展示多款电机驱动方案在机器人应用中的性能对比。",
+      "summary": "比武招亲活动评选机器人电机驱动方案优劣。",
       "summaryZh": ""
     },
     {
@@ -201,7 +211,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-06T10:33:00.000Z",
-      "summary": "五一视界完成配售并签航天合作，受益自动驾驶国标。",
+      "summary": "五一视界近期完成配售并签署航天合作，受益自动驾驶国标利好。",
       "summaryZh": ""
     },
     {
@@ -211,8 +221,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-06T14:08:00.000Z",
-      "summary": "民宿滥用AI图涉嫌虚假宣传，平台应加强监管。",
-      "summaryZh": ""
+      "summary": ""
     }
   ]
 }
