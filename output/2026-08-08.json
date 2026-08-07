@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generatedAt": "2026-08-07T20:20:22.874Z",
+  "generatedAt": "2026-08-07T22:00:12.444Z",
   "items": [
     {
       "title": "宇树科技王兴兴：公司与DeepSeek将在AGI、高性能通用机器人、AI大模型三方面开展重点合作",
@@ -11,6 +11,17 @@
       "pubDate": "2026-08-07T12:07:00.000Z",
       "summary": "宇树科技与DeepSeek将在AGI、高性能通用机器人、AI大模型三方面开展重点合作。",
       "summaryZh": ""
+    },
+    {
+      "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
+      "link": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-08-07T21:45:39.000Z",
+      "summary": "四AI代理实时协作在企业编码任务上超越Claude Opus 4.8。",
+      "summaryZh": "",
+      "titleZh": "四个实时协调的 AI 代理在企业编码任务上的表现优于 Claude Opus 4.8"
     },
     {
       "title": "一签7.5万、估值609亿，机构投资人都在疯抢宇树科技？",
@@ -59,7 +70,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-07T03:08:51.000Z",
-      "summary": "蚂蚁集团开源Avernet，打造多智能体协作平台。",
+      "summary": "蚂蚁集团开源Avernet，推动多智能体高效协作。",
       "summaryZh": ""
     },
     {
@@ -69,7 +80,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-07T02:56:46.000Z",
-      "summary": "AI SSD技术推动大模型推理存储范式变革，实现存储与计算协同。",
+      "summary": "AI SSD技术推动大模型推理存储范式变革，实现算力、网络、内存与存储协同。",
       "summaryZh": ""
     },
     {
@@ -79,17 +90,18 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-07T15:16:26.000Z",
-      "summary": "国内AI应用及Agent进入百花齐放，大模型商业化拐点显现。",
+      "summary": "国内AI应用及Agent将进入百花齐放阶段，中国大模型商业化价值拐点已至。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI：免费版升级为GPT-5.6 Luna，付费版模型强化",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXbVFhX1NFMHdZaUwzd3BmdVN3VzM4c2ZKRVpZNEktYVUtYnN6YzhEcVozT0RtdENhVDNYZG13dkFXalRsaWNIS1JjOENySlB0ZTFV?oc=5",
-      "source": "华尔街见闻",
+      "title": "84个制造业场景用上大模型！河北“人工智能+制造”加速落地",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nSnVrTzU5R3hXWFllZ21ycU1EUjQyemZMOFpSWUw1ZVRVcUNabzRsbHV2NnlkN0dnYXRBYm5CQksxSGJRVmJEbml2WUhqWFJNWFlOOVYzRGMxelpWLWlGbWwxc0JHX3dGVXdyMU5UMkxsdw?oc=5",
+      "source": "央广网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-06T21:47:31.000Z",
-      "summary": ""
+      "pubDate": "2026-08-07T09:34:26.000Z",
+      "summary": "河北84个制造业场景应用大模型，加速“人工智能+制造”落地。",
+      "summaryZh": ""
     },
     {
       "title": "苹果三星Intel班底创业，融资数千万美元！让机器人有空间直觉",
@@ -98,7 +110,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-07T05:59:45.000Z",
-      "summary": "苹果三星Intel团队创立公司，融资千万美元，研发机器人空间感知技术。",
+      "summary": "苹果三星Intel团队创业公司Ommo完成数千万美元融资，研发空间定位系统。",
       "summaryZh": ""
     },
     {
@@ -138,48 +150,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-07T02:59:04.000Z",
-      "summary": "AMD收购AI芯片公司Taalas，拓展全栈AI平台，走向异构计算。",
+      "summary": "AMD收购AI推理芯片公司Taalas，拓展全栈AI平台，走向芯片异构计算。",
       "summaryZh": ""
-    },
-    {
-      "title": "Anthropic确认组建芯片团队 自研AI芯片以降低对英伟达的依赖",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LVHdCNHgtQlpDR19yYmFLZlNTU285RGg3M1hITEszcGRqa0p3RGw0ek1iZ3Zvd1ZBMlFiZkFiQjV3VHhMRkFWeA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-06T21:03:26.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Tencent's Team Memory shares AI agent memory across a team — with no governance yet for when it's wrong",
-      "link": "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong",
-      "source": "VentureBeat",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-08-07T16:30:29.000Z",
-      "summary": "腾讯推出跨团队AI代理共享记忆系统，暂无错误治理机制。",
-      "summaryZh": "",
-      "titleZh": "腾讯的团队内存在整个团队中共享人工智能代理内存——当出现错误时还没有治理"
-    },
-    {
-      "title": "Unitree targets $9 billion valuation in landmark IPO as humanoid robot race accelerates",
-      "link": "https://roboticsandautomationnews.com/2026/08/07/unitree-targets-9-billion-valuation-in-landmark-ipo-as-humanoid-robot-race-accelerates/104008/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-07T13:07:50.000Z",
-      "summary": "Unitree计划以90亿美元估值在科创板上市，成为国内首个A股上市的类人机器人制造商。",
-      "summaryZh": "",
-      "titleZh": "随着人形机器人竞赛的加速，Unitree 在具有里程碑意义的 IPO 中目标估值达到 90 亿美元"
-    },
-    {
-      "title": "ChatGPT时代首次！“科技七巨头”财报引爆超预期波动，美股分化创三十余年新高",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02TGZndDJsbXN3cnViTE5iTlVYYW5ndW1Yekp5SzVBLUFoeFI0ZFJkUTFHcWlvMkE1SDRHMVFyV2tKUXNxaHR3YnJmVEhfSzl2UU5N?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-06T21:06:49.000Z",
-      "summary": ""
     },
     {
       "title": "数据基础设施支撑AI规模化落地",
@@ -198,8 +170,19 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-07T09:40:17.000Z",
-      "summary": "穹彻智能与阿里云合作打造云端自动化数据处理产线，提升机器人训练数据效率。",
+      "summary": "穹彻智能与阿里云合作，打造云端自动化数据处理产线，提升机器人训练效率。",
       "summaryZh": ""
+    },
+    {
+      "title": "Avatar Robotics raises seed round to address industrial labor constraints",
+      "link": "https://www.therobotreport.com/avatar-robotics-raises-6-5-m-seed-round-address-industrial-labor-constraints/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-07T19:57:22.000Z",
+      "summary": "Avatar Robotics完成650万美元种子轮融资，旨在解决工业劳动力限制问题。",
+      "summaryZh": "",
+      "titleZh": "Avatar Robotics 筹集种子轮资金以解决工业劳动力限制"
     },
     {
       "title": "欢迎来ICDIA 2026 “AI机器人展区”看具身智能机器人的“应用门道”！",
@@ -208,17 +191,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-07T01:58:36.000Z",
-      "summary": "ICDIA 2026 AI机器人展区展示具身智能机器人应用路径。",
-      "summaryZh": ""
-    },
-    {
-      "title": "IPO定价150.8元，宇树科技IPO将改写机器人产业格局",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oNDJpTDAyUnlmc01FbW43aEk0OVl4Z3BocHFnMzE5eXFPQklyN2JfNFRKYWZkb1NWMnYzVlQ2THQ4bDNGbnhlT01TOFMzZlQ4b2RQVHdYTlZsajE2TVVQUHRVS09oSHpzNHFHUnZ3bG5pZGpTb0JGRWFHdTU?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-07T02:06:00.000Z",
-      "summary": "宇树科技150.8元IPO，成A股人形机器人第一股，改写行业格局。",
+      "summary": "ICDIA 2026“AI机器人展区”展示具身智能机器人应用及产业化落地路径。",
       "summaryZh": ""
     },
     {
@@ -231,26 +204,23 @@
       "summary": ""
     },
     {
-      "title": "Avatar Robotics raises seed round to address industrial labor constraints",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMFEzRWdyMF9jTHNwWTlhdmZTZ1c0a3B5Z01EV0hIc3ZlQXllSl81eFg2emtMeENid2pXWm1SeXhaYTVoSUlGNU1FZVVpNVpiRENBMjFnZHhfVWwtMnNYc2pIUjVOaEpaZExYVzVVUzFRNElMRGhpY1gyY1V4VGRwLVlGZUE3dmxHU1drUXBPVUtpTWd1LWhmd3l3WWUwakY3Tk1VbFUyN1d3S2VQ?oc=5",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-07T20:04:34.000Z",
-      "summary": "Avatar Robotics完成650万美元种子轮融资，旨在解决工业劳动力限制问题。",
-      "summaryZh": "",
-      "titleZh": "Avatar Robotics 筹集种子轮资金以解决工业劳动力限制"
+      "title": "Airbnb大涨！业绩指引超预期，欧美旅游需求强劲",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tbUs3bXNUZ1NNb3djSlpMd0lWSC1wRVhqMjVqUGVsNUwwUERzSnVqYkpZRlY3R0FXMUIyTk9mVlhXSFZLT3ROTFMyU3Q3WFQzeXVZ?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-08-06T23:20:43.000Z",
+      "summary": ""
     },
     {
-      "title": "Robotics News, Analysis & Research",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YU0hjeGRSNF9SZmFjMzd1eU1SX1h0dWMyTkZwMlRiNWE5RWZnamRPdUNGZC04OGE5QWN3bUxhQTJJczZTemNCdXlZWS1mcVVwRkhScXMtSGQ?oc=5",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-07T03:09:37.000Z",
-      "summary": "Avatar Robotics获650万美元种子轮融资，用于扩展人形机器人和远程遥控技术。",
-      "summaryZh": "",
-      "titleZh": "机器人新闻、分析与研究"
+      "title": "盼了三年，酒店人终于等来了能上手的系统级AI",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjYkNqWFZrbUhpeGNlUkJ3YVhEOXBndERRLXBFaEVsbGNJV3JFSHRsYkhMQ28wOTNqWEhFVFdqQ2NpTVd2TXo2YzZIYk45VGUzSUs5NENn?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-08-06T23:22:32.000Z",
+      "summary": "酒店业迎来系统级AI操作系统，助力经营自动化。",
+      "summaryZh": ""
     },
     {
       "title": "天津探索完善AI居家养老新模式",
@@ -269,17 +239,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-07T10:51:00.000Z",
-      "summary": "暑期策划揭露民宿AI照骗引流现象。",
-      "summaryZh": ""
-    },
-    {
-      "title": "新京报快评 | AI民宿“照骗”一眼假，平台岂能“睁眼瞎”",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzZkxVTUEzWm1BNzZzM2tsOVF0WjVXZWs1UW9qOEFWUjZNeVpZVXBLTTNMRlZoTGpOMms5RlhIbGJvQ0hueFNfbXJqUlR2OFJtbG1Nby1SV0dHeFJwRFl6cmUySVg?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-07T03:00:00.000Z",
-      "summary": "AI民宿图片造假，平台监管需加强。",
+      "summary": "暑期民宿AI“照骗”引流现象引关注。",
       "summaryZh": ""
     }
   ]
