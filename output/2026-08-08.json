@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generatedAt": "2026-08-08T02:24:02.253Z",
+  "generatedAt": "2026-08-08T04:38:33.370Z",
   "items": [
     {
       "title": "小米前高管押注的咖啡机器人赛道，要用10万家门店PK瑞幸们？",
@@ -13,13 +13,13 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-      "link": "https://www.ithome.com/0/987/221.htm",
-      "source": "IT之家",
+      "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
+      "link": "https://www.qbitai.com/2026/08/468305.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-07T23:08:56.000Z",
-      "summary": "OpenAI因网络安全风险推迟发布Astra模型。",
+      "pubDate": "2026-08-07T06:18:51.000Z",
+      "summary": "openJiuwen发布企业级智能体分布式蜂群架构，成功应用于邮储银行生产环境。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-07T21:45:39.000Z",
-      "summary": "实时协调的四个AI代理在企业编码任务上超越Claude Opus 4.8。",
+      "summary": "实时协调的四个AI代理在企业编码任务上优于Claude Opus 4.8。",
       "summaryZh": "",
       "titleZh": "四个实时协调的 AI 代理在企业编码任务上的表现优于 Claude Opus 4.8"
     },
@@ -49,7 +49,7 @@
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-07T16:18:59.000Z",
+      "pubDate": "2026-08-08T04:18:13.000Z",
       "summary": "中科慧思发布四款灵巧手，助力机器人实现精细操作。",
       "summaryZh": ""
     },
@@ -64,26 +64,6 @@
       "summaryZh": ""
     },
     {
-      "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
-      "link": "https://www.qbitai.com/2026/08/467871.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-07T03:08:51.000Z",
-      "summary": "蚂蚁集团开源Avernet，推动多智能体高效协作。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI SSD：大模型推理的存储范式转移",
-      "link": "https://www.qbitai.com/2026/08/467840.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-07T02:56:46.000Z",
-      "summary": "AI SSD技术推动大模型推理存储范式转变，实现算力、网络、内存与存储协同。",
-      "summaryZh": ""
-    },
-    {
       "title": "国内AI应用及Agent将进入百花齐放阶段，中国大模型商业化价值兑现拐点已至，聚焦港股互联网布局窗口",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02MGJPVDliVVB6ZE9JVEVENkFWdkZ6WFNaU25FMmU2ZWU3RldEdHdFVXFjbEY5Yk5ZLVBtT3U4czl2WHVBNlNvV0QzaDl3dEtCVjU5TDBR?oc=5",
       "source": "界面新闻",
@@ -94,33 +74,23 @@
       "summaryZh": ""
     },
     {
+      "title": "下一代AI模型能力逼近“危险边界” OpenAI暂停Astra部分研发工作",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhWGpnOXdYN3RMRjVqTnl0b3RVdlhmeUNxdEZ0ZFZvbGdZLWJOaDFiSngtdGt4elhWUEwyMmI4YzZSNXRjRWJ1NQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-07T22:13:15.000Z",
+      "summary": ""
+    },
+    {
       "title": "苹果三星Intel班底创业，融资数千万美元！让机器人有空间直觉",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xOTZDc2FOazZUd0hLQlc3QjhpUWtMVFpSYVZERi1LSjFuUDF5Z3Q0bXd3dlhpY1NrckZLeG13RlBxZTJlbkRqQQ?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-07T05:59:45.000Z",
-      "summary": "苹果三星Intel团队创立公司，获数千万美元融资，研发机器人空间感知技术。",
+      "summary": "苹果三星Intel团队创业公司Ommo完成数千万美元融资，研发机器人空间感知技术。",
       "summaryZh": ""
-    },
-    {
-      "title": "AI进化速递丨华中地区最大规模机器人在光谷集中交付",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0MFdrNWw2Z3JoaGpnaVRFVjJJQU1tbXZoaXd5RGE4U2RRVU5RZGxsN3dvcno2bVI5dG1yNENXTEhWQWI3V21NNElIMmc4R0lPdlhZ?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-07T12:55:14.000Z",
-      "summary": "华中地区最大规模机器人在光谷集中交付。",
-      "summaryZh": ""
-    },
-    {
-      "title": "加速跨越商业化落地“最后一公里” 具身智能告别“炫技”时代",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNd1FvYjNqMUZ4T1BPbnR6YU1uQ0o4MnlLZElMZHFYd0pwcnpMeTRrVFQ2YWJNajBncER2MFFFZEtGc2xrTXY1VkxibERiQncyYWs5ZDhRNV95LVk3eWdUN0lGbXQ?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-07T20:19:00.000Z",
-      "summary": ""
     },
     {
       "title": "Claude Code v2.1.224 现支持 AI 跨会话消息传递",
@@ -130,6 +100,16 @@
       "category": "ai",
       "pubDate": "2026-08-08T02:04:32.000Z",
       "summary": "Claude Code v2.1.224新增跨会话消息传递功能。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Pro、Max 和 Team 用户 8 月 14 日起 Claude Code 默认权限调整为自动模式",
+      "link": "https://www.ithome.com/0/987/249.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-08T01:17:30.000Z",
+      "summary": "Anthropic宣布8月14日起，Pro、Max和Team用户Claude Code默认权限调整为自动模式。",
       "summaryZh": ""
     },
     {
@@ -143,46 +123,15 @@
       "summaryZh": ""
     },
     {
-      "title": "宇树科技王兴兴：募资后将加码具身大模型和数据采集研发投入",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84V2ZSYmZfNTJqN0dLams3QUpPQmlVV2ktLWhXemlELS04bE04Qml3d0ZQVmtKcGZXM0xjSDFQZHFmSWtCdEVVODdyYS16MFp6bTdB?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-07T09:16:12.000Z",
-      "summary": "宇树科技募资后加大具身大模型和数据采集研发投入。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Tencent's Team Memory shares AI agent memory across a team — with no governance yet for when it's wrong",
-      "link": "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong",
-      "source": "VentureBeat",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-08-07T16:30:29.000Z",
-      "summary": "腾讯推出跨团队AI代理共享记忆系统，暂无错误治理机制。",
-      "summaryZh": "",
-      "titleZh": "腾讯的团队内存在整个团队中共享人工智能代理内存——当出现错误时还没有治理"
-    },
-    {
       "title": "Unitree targets $9 billion valuation in landmark IPO as humanoid robot race accelerates",
       "link": "https://roboticsandautomationnews.com/2026/08/07/unitree-targets-9-billion-valuation-in-landmark-ipo-as-humanoid-robot-race-accelerates/104008/",
       "source": "Robotics & Automation News",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-07T13:07:50.000Z",
-      "summary": "Unitree计划以90亿美元估值在科创板上市，成为国内首个A股上市的类人机器人制造商。",
+      "summary": "中国机器人公司Unitree计划以约90亿美元估值在科创板上市。",
       "summaryZh": "",
       "titleZh": "随着人形机器人竞赛的加速，Unitree 在具有里程碑意义的 IPO 中目标估值达到 90 亿美元"
-    },
-    {
-      "title": "融资密集落地 AI视频大模型竞速商业化",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wUmdlLVZQRzFFb3FONkNPWWpVZFQxWnpkVGhkLXVRSlNJM2o1RGpxUkZDaTFfXy1hRk5GNHRRN05lQWR2TlNleWttMUtZTzVXbEFQZGxaOERHNXo4Q195UE5hZw?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-07T02:35:16.000Z",
-      "summary": "AI视频大模型领域融资密集，头部企业融资额超300亿，商业化加速。",
-      "summaryZh": ""
     },
     {
       "title": "数据基础设施支撑AI规模化落地",
@@ -191,17 +140,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-07T08:41:00.000Z",
-      "summary": "华为提出AI DC数据基础设施参考架构，推动智能体加速融入全场景应用。",
-      "summaryZh": ""
-    },
-    {
-      "title": "从PPT到生产线，巨头们跨过具身智能“理想国”",
-      "link": "https://www.tmtpost.com/8095622.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-08T01:58:00.000Z",
-      "summary": "巨头们在具身智能领域从PPT走向生产线，展开激烈竞争。",
+      "summary": "华为提出AI DC数据基础设施参考架构，推动AI规模化落地。",
       "summaryZh": ""
     },
     {
@@ -221,37 +160,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-07T19:57:22.000Z",
-      "summary": "Avatar Robotics完成650万美元种子轮融资，旨在解决工业劳动力限制。",
+      "summary": "Avatar Robotics完成650万美元种子轮融资，以解决工业劳动力限制问题。",
       "summaryZh": "",
       "titleZh": "Avatar Robotics 筹集种子轮资金以解决工业劳动力限制"
     },
     {
-      "title": "宇树王兴兴：中国企业有望占据机器人产业发展先机，人形机器人尚待突破两方面瓶颈",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6RTkxZ2VoZUpCeW9td2ZIcVoxR0ZwWXhDX0d6YU5JSWdPejRVRHA4NzdEeGFLSFdRTlUxbGt4a2dVOC1ETGFJeWFORE8yYmU2Wi1Z?oc=5",
-      "source": "华尔街见闻",
+      "title": "AI高阶辅助驾驶PCR具身智能代步机器人新品发布会在深圳龙岗举行",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIRHZTWUl1ZnRKVDBEZlNwMnZpUG1PdXhUNkxGTW4yamZwNUw2RWQyMDFZNnpCZGlINmF2UE5KUUcwZmIzZVZRUlpIVG5rTXUzaW5Hc0Myei0tZENqbFR2bUx6blM1eWxlTHZJdzhFUDdBM00?oc=5",
+      "source": "央广网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-07T09:51:38.000Z",
-      "summary": ""
-    },
-    {
-      "title": "人形机器人的安全级数据通信",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QR2hDcHlZLUQ5UWdWZExjVlUxT1prQ1RZdWRteF84QVptWkdiS25VQXRwVkpFdHNkZ2RhWmlETTZoRUVwMnJtR0c2cFA5VWNOVFdDalhqaw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-07T03:04:03.000Z",
-      "summary": "人形机器人安全级数据通信需遵循IEC 61508等标准，并针对不同传输类别采取不同防护措施。",
+      "pubDate": "2026-08-07T11:07:33.000Z",
+      "summary": "AI高阶辅助驾驶PCR及具身智能代步机器人新品发布。",
       "summaryZh": ""
-    },
-    {
-      "title": "王兴兴最新发声！谈及上市、具身智能行业发展",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GWlN2VTZ4Z1B3VTNNaXRtRzM0cHk2MkdhMWFRSzlCRWVsbUhJdDhGY250VWExbGEzWDdrTkNsYllIdkg4UHFHbg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-07T02:38:00.000Z",
-      "summary": ""
     },
     {
       "title": "天津探索完善AI居家养老新模式",
@@ -270,17 +191,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-07T10:51:00.000Z",
-      "summary": "暑期策划揭露民宿AI照骗引流现象。",
-      "summaryZh": ""
-    },
-    {
-      "title": "总台中国之声曝光民宿AI图乱象，统一回复“近期没房”、推荐其他房源",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3QTU0Mnlkc2FoMG1sZXlGZEtZRkp4dTU4a25URHFVVXhtVk9DQmxzUmpGYWJ5NGxOTFE1SzJlOUUyeG5GOVRfVFVVMU5YOGFTU21kTkRYRUY3Y21NbnoyMlRBS2ZPMzdLQldIYXZxR1FRNnd6?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-07T06:13:05.000Z",
-      "summary": "民宿行业AI图乱象频发，商家以假图引流，虚假广告行为引关注。",
+      "summary": "暑期民宿AI“照骗”引流现象引关注。",
       "summaryZh": ""
     }
   ]
