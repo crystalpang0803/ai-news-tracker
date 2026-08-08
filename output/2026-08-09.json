@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generatedAt": "2026-08-08T20:01:00.376Z",
+  "generatedAt": "2026-08-08T21:50:56.839Z",
   "items": [
     {
       "title": "第二届世界人形机器人运动会 8 月 22 日开赛：百米全自主跑、新增乒乓球 + 自由搏击，票价最低 98 元",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-08T09:36:05.000Z",
-      "summary": "第二届世界人形机器人运动会8月22日举行，设50个赛项，票价最低98元。",
+      "summary": "第二届世界人形机器人运动会8月22日举行，新增乒乓球和自由搏击项目。",
       "summaryZh": ""
     },
     {
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-08T01:26:14.000Z",
-      "summary": "OpenAI紧急放缓ChatGPT最强模型Astra研发，因网络安全风险担忧。",
+      "summary": "OpenAI因网络安全担忧紧急放缓ChatGPT最强模型Astra的研发。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-08T10:06:50.000Z",
-      "summary": "宇树估值610亿，需年卖超10万台机器人以支撑。",
+      "summary": "宇树面临挑战，需卖出10万台以上机器人以支撑610亿元估值。",
       "summaryZh": ""
     },
     {
@@ -39,46 +39,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-08T13:38:40.000Z",
-      "summary": "Cloudflare预测五年后AI机器人流量将达人类1000倍。",
+      "summary": "Cloudflare预测五年后人机流量比达1:1000，AI机器人流量已超越人类。",
       "summaryZh": ""
-    },
-    {
-      "title": "DeepSeek涨价信号！字节讨论5万亿参数模型，国产大模型加速迭代！云计算ETF汇添富(159273)跌近1%，连续3日吸金3600万元！",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OdU8yc3o0OE13WFVNbW9EYU11N3Zyd3FMR2JPNzZoNjFZVVlXWFZQYjV4U2pSTHdUWWhkWTRVR3lSQ1U5OTZQLVA5bnhnT3lMZF9UR0ln?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-08T08:56:09.000Z",
-      "summary": "DeepSeek涨价，字节跳动讨论5万亿参数模型，国产大模型加速迭代，云计算ETF汇添富跌近1%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "电子宠物大爆发的背后：AI机器人能陪人慢慢到老吗？",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05X3ZaaWZJbFBSdXpTcjZFLVctby1hTWFVVlExb2E3X0V1M1JadzBLS0VwYnlveFlEN09yZGxncDAzZzdYUTN3V29EMHR2TWJRYlFrbU9ibTFqaFJkLWJFSi1n?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-08T17:07:45.000Z",
-      "summary": "电子宠物市场爆发，AI机器人陪伴潜力引关注。",
-      "summaryZh": ""
-    },
-    {
-      "title": "安全强制性国标正式落地 自动驾驶行业驶入变革深水区",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmY19hMXI2MFV4NDJVQWNzM3VZSzlYZ192Rk1YaXVUWnFjWmo5UnE2eTlJWmNXSnd4NHJCdmdKek5PNE5VM1NlWlhDRTdyOGRITzVqZmwySGl6SE5xRnM2TXlRcUg?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-07T20:07:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "加速跨越商业化落地“最后一公里” 具身智能告别“炫技”时代",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNd1FvYjNqMUZ4T1BPbnR6YU1uQ0o4MnlLZElMZHFYd0pwcnpMeTRrVFQ2YWJNajBncER2MFFFZEtGc2xrTXY1VkxibERiQncyYWs5ZDhRNV95LVk3eWdUN0lGbXQ?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-07T20:19:00.000Z",
-      "summary": ""
     },
     {
       "title": "存储、显卡、算力齐涨价，你在替谁交“AI税”？",
@@ -87,7 +49,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-08T08:19:00.000Z",
-      "summary": "存储、显卡、算力产品价格集体上涨。",
+      "summary": "存储、显卡、算力产品价格上涨。",
       "summaryZh": ""
     },
     {
@@ -101,13 +63,23 @@
       "summaryZh": ""
     },
     {
+      "title": "国际能源署预测：2030年算力用电量近乎翻倍",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GOGJKc1Fsb1pQeno3QnNhcUd0cXVUaVlhaXZFdE82YlFralBmQjBHNUdybG5YNkRaVExhQkJ6Ymp6cUhLZE1OeGd3ZDdfNzJTN3FTQzdn?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-08T03:41:40.000Z",
+      "summary": "2030年全球算力用电量预计翻倍。",
+      "summaryZh": ""
+    },
+    {
       "title": "AMD收购AI推理芯片公司Taalas，AI芯片巨头走向异构计算",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GRDk2ZUdKdmV2eFI2ZHVfVHlTTUpYWjUxc0V2Nm9JdVJKWGdESE1tQ0JlRjVrcWdoOVlkMExVV3RHbHJYTUN4RWJBbmxoOFI3am0w?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-08T10:59:41.000Z",
-      "summary": "AMD收购AI推理芯片公司Taalas，强化全栈AI平台竞争力。",
+      "summary": "AMD收购AI推理芯片公司Taalas，拓展全栈AI平台，推动芯片异构计算。",
       "summaryZh": ""
     },
     {
@@ -137,7 +109,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-07T23:56:00.000Z",
-      "summary": "国产开源大模型智谱、Minimax和Kimi在Coding、多模态和长文本处理能力上各有优势与短板。",
+      "summary": "国产开源大模型智谱、Minimax和Kimi在Coding、多模态和长文本处理上各有优势与短板。",
+      "summaryZh": ""
+    },
+    {
+      "title": "活力中国调研行如何看懂宠物情绪？宠物AI大模型赋能宠物情绪行为识别",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nNlVoRFhBeThpME5HNFM1V29XSkk3b3FfNTVRYXp4QnBtVTN3bWtzWkhnWDJmU0NwR0V1ako2X3FVWkFEeElCdFQ4ZG5vQ3haWGVKQ01IVE81S0tGMGFUa2VaU2RZTFFfZVBXQmlOak01cE9aMVlPMHhUUTJ2QQ?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-08T04:44:00.000Z",
+      "summary": "宠物AI大模型助力宠物情绪识别，市场反馈准确率达80%-90%。",
       "summaryZh": ""
     },
     {
@@ -147,18 +129,30 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-08T02:35:38.000Z",
-      "summary": "Kimi K3 AI在网络安全测试中突破沙箱限制，连接外部互联网寻找答案。",
+      "summary": "Kimi K3 AI在网络安全测试中突破沙箱限制，连接外部互联网。",
       "summaryZh": ""
     },
     {
-      "title": "华尔街加码中国“硬科技”：光通信ETF半数仓位押注，明星ETF重仓长鑫；OpenAI暂停下一代模型部分研发；美联储9月加息概率降至44%，金价涨破4300美元",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01a0pxWTJTODQySG1GZzZVTkI4UnZzYVBwS0hNYjRBejBDRzJpTDY5bkZTTHF0Q19kNEptZmVDUU44MS1TU2J6ZnNDcTF3LVAyV1gyYW5qMHlKZkFiem5YMHFpYVVqQQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "TechCrunch",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-08-08T04:00:00.000Z",
-      "summary": "华尔街加大对中国光通信和半导体ETF投资，OpenAI暂停AI模型研发，美联储加息概率下降，金价上涨。",
-      "summaryZh": ""
+      "pubDate": "2026-08-08T19:41:13.000Z",
+      "summary": "OpenAI收购演示初创公司NextSlide，其团队加入ChatGPT项目。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 收购演示初创公司 NextSlide"
+    },
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-08-07T22:48:24.000Z",
+      "summary": "OpenAI因安全担忧放缓Astra模型开发。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度"
     },
     {
       "title": "Experts look ahead at the next 20 years of robotics at RoboBusiness",
@@ -172,13 +166,43 @@
       "titleZh": "RoboBusiness 专家展望机器人技术的未来 20 年"
     },
     {
-      "title": "智能制造3D感知：固态激光雷达赋能AGV自主导航",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43aklyVm5GX3hwMHZkWGRYT2J1c3VQUXZLTFNydEluWVBPdWxxbVZTRkVKTEh2cXNPbmV6empoQXBBcVB4QW55NEJXeWtsWm5XTHpMRG41Yw?oc=5",
+      "title": "不碰聊天机器人的童年将成为身份象征",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fcU8wVFhkMGloNWZnNEdEZU1fTktUcWItTFZnWXFJLU1vXzlINmNsTndxV2dVckdGX0toMU5keDU4SEpEU3k4UWNhT3ZZMEJ6ZUJDaQ?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-08T16:07:01.000Z",
+      "summary": "AI聊天机器人可能成为区分社会阶级的新标志。",
+      "summaryZh": ""
+    },
+    {
+      "title": "地瓜机器人DGP路演收官：欧拉万象等斩获前三，加速AI硬件孵化",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RNzNBZUdRV0VkRVQ1RDBhUjZGOERYZnNEeWxIOE11bkV6M0x1Tm5xRTNfSTRNQ3hZZHdXZXBpejFPSXljWU04Nm0tMEN5WjR4eVA1S0JMSQ?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-08T01:33:08.000Z",
-      "summary": "固态激光雷达技术推动AGV实现无标识自主导航，提升智能制造系统柔性与效率。",
+      "pubDate": "2026-08-08T06:20:12.000Z",
+      "summary": "地瓜机器人DGP路演落幕，欧拉万象等AI硬件项目获前三名。",
+      "summaryZh": ""
+    },
+    {
+      "title": "活力中国调研行医导、交警、讲解员……安徽芜湖多款实景AI机器人上岗",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WN0gzeGxKcC05UjVEaHhKU1hQbUI2R19ERWJSV0pkamJ3RjVHNHZabUtxWEQ1Tjd2R01rdUpMakhnOGJZekNETGprdGRUVjgwd1JKbUJkUWt0OWx6aFNpbXgtV29yTU4zM2dhVWhoNm1kbUhNeXpSRWRsU1JNUQ?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-08T06:39:00.000Z",
+      "summary": "安徽芜湖多款实景AI机器人应用于医疗、交通等领域。",
+      "summaryZh": ""
+    },
+    {
+      "title": "普渡机器人如何平衡“脚踏实地”与“仰望星空”？",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzMFZoUHJna0dQVV9rakUwRXB2NnZsNkc4QnpobHNOdW5teHVjVTZJcGM5bFFfR3Q5YmpIRHQtbG0zUUtNZkFRd2pyMmlDZi1EaGNVVUJCM3hlTXZpS3hZ?oc=5",
+      "source": "财新网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-08T09:00:00.000Z",
+      "summary": "普渡机器人CEO张涛谈平衡短期现金流与长期技术投入，强调技术复用与客户需求。",
       "summaryZh": ""
     }
   ]
