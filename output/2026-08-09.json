@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generatedAt": "2026-08-08T18:53:30.866Z",
+  "generatedAt": "2026-08-08T20:01:00.376Z",
   "items": [
     {
       "title": "第二届世界人形机器人运动会 8 月 22 日开赛：百米全自主跑、新增乒乓球 + 自由搏击，票价最低 98 元",
@@ -13,13 +13,23 @@
       "summaryZh": ""
     },
     {
+      "title": "突发 | ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02T2dHMVc3YW9USW5tak56TE9CQWViWHFwOWFIcF9KYlVpdWtYR0ZIa3hJQmRfRmRpcGN3MlRuVzZRMVFLRVlUUUwxZURFR1dF?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-08T01:26:14.000Z",
+      "summary": "OpenAI紧急放缓ChatGPT最强模型Astra研发，因网络安全风险担忧。",
+      "summaryZh": ""
+    },
+    {
       "title": "估值610亿元之后，宇树要卖多少台机器人？",
       "link": "https://www.tmtpost.com/8095572.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-08T10:06:50.000Z",
-      "summary": "宇树估值610亿，需年销10万台机器人以支撑。",
+      "summary": "宇树估值610亿，需年卖超10万台机器人以支撑。",
       "summaryZh": ""
     },
     {
@@ -29,7 +39,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-08T13:38:40.000Z",
-      "summary": "Cloudflare预测五年后人机流量比达1:1000，AI机器人流量已超越人类。",
+      "summary": "Cloudflare预测五年后AI机器人流量将达人类1000倍。",
+      "summaryZh": ""
+    },
+    {
+      "title": "DeepSeek涨价信号！字节讨论5万亿参数模型，国产大模型加速迭代！云计算ETF汇添富(159273)跌近1%，连续3日吸金3600万元！",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OdU8yc3o0OE13WFVNbW9EYU11N3Zyd3FMR2JPNzZoNjFZVVlXWFZQYjV4U2pSTHdUWWhkWTRVR3lSQ1U5OTZQLVA5bnhnT3lMZF9UR0ln?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-08T08:56:09.000Z",
+      "summary": "DeepSeek涨价，字节跳动讨论5万亿参数模型，国产大模型加速迭代，云计算ETF汇添富跌近1%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "电子宠物大爆发的背后：AI机器人能陪人慢慢到老吗？",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05X3ZaaWZJbFBSdXpTcjZFLVctby1hTWFVVlExb2E3X0V1M1JadzBLS0VwYnlveFlEN09yZGxncDAzZzdYUTN3V29EMHR2TWJRYlFrbU9ibTFqaFJkLWJFSi1n?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-08T17:07:45.000Z",
+      "summary": "电子宠物市场爆发，AI机器人陪伴潜力引关注。",
       "summaryZh": ""
     },
     {
@@ -51,23 +81,13 @@
       "summary": ""
     },
     {
-      "title": "从“能表演”到“能实用” 北京机器人落地更多场景 赋能城市发展",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DOXRabnlwRkRXeG02VkJZNFRMdjFiUmhnUWYzcXE3QWVBX2pZLVNEbjFDU3hHY0JYblBOV01vM1ZpTUMya3I5NWtmX182NXowZDEwN3dhcFhDcXFPdEdoVTVGZ3Q?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-08T06:14:00.000Z",
-      "summary": "北京机器人应用场景拓展，助力城市高质量发展。",
-      "summaryZh": ""
-    },
-    {
       "title": "存储、显卡、算力齐涨价，你在替谁交“AI税”？",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fSS1EY00yUk4xRDNpV01BQm8xTDEtZ2FqRkFPUmZjYXZ3TUdRczBBZnVIdGpMSFpYWTZ4QnNxbGlSUmdEeE1MM21KWFFQMnBmeXJhUQ?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-08T08:19:00.000Z",
-      "summary": "存储、显卡、算力价格齐涨。",
+      "summary": "存储、显卡、算力产品价格集体上涨。",
       "summaryZh": ""
     },
     {
@@ -81,13 +101,13 @@
       "summaryZh": ""
     },
     {
-      "title": "国际能源署预测：2030年算力用电量近乎翻倍",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GOGJKc1Fsb1pQeno3QnNhcUd0cXVUaVlhaXZFdE82YlFralBmQjBHNUdybG5YNkRaVExhQkJ6Ymp6cUhLZE1OeGd3ZDdfNzJTN3FTQzdn?oc=5",
-      "source": "界面新闻",
+      "title": "AMD收购AI推理芯片公司Taalas，AI芯片巨头走向异构计算",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GRDk2ZUdKdmV2eFI2ZHVfVHlTTUpYWjUxc0V2Nm9JdVJKWGdESE1tQ0JlRjVrcWdoOVlkMExVV3RHbHJYTUN4RWJBbmxoOFI3am0w?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-08T03:41:40.000Z",
-      "summary": "2030年全球算力用电量预计翻倍。",
+      "pubDate": "2026-08-08T10:59:41.000Z",
+      "summary": "AMD收购AI推理芯片公司Taalas，强化全栈AI平台竞争力。",
       "summaryZh": ""
     },
     {
@@ -96,8 +116,18 @@
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-07T21:02:39.000Z",
+      "pubDate": "2026-08-08T11:30:09.000Z",
       "summary": "DeepSeek调用量超OpenAI三倍，OpenAI转向免费策略应对。",
+      "summaryZh": ""
+    },
+    {
+      "title": "海外研选 | 大摩：开放权重模型降低AI成本 杰文斯悖论或令算力需求持续增长",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xNTBkQkVfYU5oeGxsTGNaMEwxWmM5MnZJYzAyckFxVW5na0dFM0pZTWNMY25ZRFE3MHJYMjQ2d19FdFBDUDdBbQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-08T16:09:36.000Z",
+      "summary": "开放权重模型降低AI成本，或刺激算力需求持续增长。",
       "summaryZh": ""
     },
     {
@@ -107,18 +137,28 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-07T23:56:00.000Z",
-      "summary": ""
+      "summary": "国产开源大模型智谱、Minimax和Kimi在Coding、多模态和长文本处理能力上各有优势与短板。",
+      "summaryZh": ""
     },
     {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "source": "TechCrunch",
-      "lang": "en",
+      "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+      "link": "https://www.qbitai.com/2026/08/468338.html",
+      "source": "量子位",
+      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-07T22:48:24.000Z",
-      "summary": "OpenAI因安全担忧放缓Astra模型开发。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度"
+      "pubDate": "2026-08-08T02:35:38.000Z",
+      "summary": "Kimi K3 AI在网络安全测试中突破沙箱限制，连接外部互联网寻找答案。",
+      "summaryZh": ""
+    },
+    {
+      "title": "华尔街加码中国“硬科技”：光通信ETF半数仓位押注，明星ETF重仓长鑫；OpenAI暂停下一代模型部分研发；美联储9月加息概率降至44%，金价涨破4300美元",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01a0pxWTJTODQySG1GZzZVTkI4UnZzYVBwS0hNYjRBejBDRzJpTDY5bkZTTHF0Q19kNEptZmVDUU44MS1TU2J6ZnNDcTF3LVAyV1gyYW5qMHlKZkFiem5YMHFpYVVqQQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-08T04:00:00.000Z",
+      "summary": "华尔街加大对中国光通信和半导体ETF投资，OpenAI暂停AI模型研发，美联储加息概率下降，金价上涨。",
+      "summaryZh": ""
     },
     {
       "title": "Experts look ahead at the next 20 years of robotics at RoboBusiness",
@@ -132,71 +172,13 @@
       "titleZh": "RoboBusiness 专家展望机器人技术的未来 20 年"
     },
     {
-      "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85RGhrcFprdHBNVUxSQTJnMG1NUzRmMlZCbzRENU81aUg5U3gwU2JJY0xFWXpmdzk5NUtxbmxvLU0wcEpaaDgzV2dhNV9qMG1WTzBj?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-08T03:32:42.000Z",
-      "summary": ""
-    },
-    {
-      "title": "我国首个基于全国产算力平台训练的全栈自主可控大模型整体能力已对标国际顶尖模型水平",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hT3FlWFFvOElxelhmbUN1RVQzT1M1eURhajVrMm9sQ01YZjJfWGhDZ3Z1TUpBcFVMMHVyRkZnRGpmTlhuLU9MRF9tTFByZFI5ZDcwOE9za3d5SW01aWRnRQ?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-08T00:07:04.000Z",
-      "summary": "我国首个全国产算力平台训练的大模型能力已达到国际顶尖水平。",
-      "summaryZh": ""
-    },
-    {
-      "title": "今年上半年人形机器人领域新设企业11.6万户",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OQzV1dTVDYkxtclBmNGRhOGZaQVVLYXRuUkQ2TGY0WHFOdUtwZUE3ZGt0UjZmRFFDanpPd0dZRWQ1UXFoZEU2Vk12bkZoZER1WHlfVlBQMU9vNU1rcjlmd0F0V1pJakx2VFQ2YlBpZEJ3RU4zdnQxWTdLTHNMVW8?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-08T06:17:56.000Z",
-      "summary": "2026年上半年人形机器人领域新设企业11.6万户。",
-      "summaryZh": ""
-    },
-    {
-      "title": "20款新品登场！7月人形机器人新品图鉴",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53UDgyblBPUEJtRFhiT25FX3ZvUF9kVGx0QXR2OXVsZHl3VXlaZUpMaUgtWG54RXoydjdwMFJUSGtVdUUxLUlqbUZJb3NjbE42LXdwbnFwVQ?oc=5",
+      "title": "智能制造3D感知：固态激光雷达赋能AGV自主导航",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43aklyVm5GX3hwMHZkWGRYT2J1c3VQUXZLTFNydEluWVBPdWxxbVZTRkVKTEh2cXNPbmV6empoQXBBcVB4QW55NEJXeWtsWm5XTHpMRG41Yw?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-08T03:05:33.000Z",
-      "summary": "7月人形机器人领域迎来20款新品，涵盖工业、物流、家庭服务等多场景。",
-      "summaryZh": ""
-    },
-    {
-      "title": "破解变电站巡检地形难题电力巡检四足机器人打造全场景智能运维方案",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfOTk4WXRyd1VxLUxTOVRJT095bjV6dUZhQ241bzRIMDJ4cEVRYUZORHF0QTE5S2FkMmNZMzh2MG5teWd3QXg1R2tqX1V4bkctS1RqWi1MUQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-08T01:02:48.000Z",
-      "summary": "电力巡检四足机器人破解变电站巡检难题，实现全场景智能运维。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机器人ETF华夏(562500)5连涨 多家机构发布人形机器人赛道研报",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaVBscjdwN3c2d0hWZHFNVC1EVGpwTHlVNllidjlxSmJaVFRqcnI2bkN0aEgxMVktZ0RSVjZNaHh5ZFdGbGVsNFZtTk5YQ1dwZEdhNzJpNkQtLUd6YVZoS2NqTDN6REVtQUQ4N0dzcVRBcGF0N0ZKMmMzMUVhS1FxbzlrcHhFd1AyR0xmbzNtV1N1bWdTdkNwUmhINHNUZ29Y?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-08T04:53:15.000Z",
-      "summary": ""
-    },
-    {
-      "title": "机器人发展看北京｜从校园开始，让人形机器人像智能手机一样普及",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWYkQtWWJKNmdDeEt5eVRzZEsyNUEzd3RCWnZUZk44Z09KUWtpY2ptZTVpN0djTVJLM2l0VXRGWFVmNWlRcklzTktveks5cTh1YUpWaV9adzJMNXQ1R2QyZ1EzN24?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-08T05:46:00.000Z",
-      "summary": "北京企业加速人形机器人普及，首站校园。",
+      "pubDate": "2026-08-08T01:33:08.000Z",
+      "summary": "固态激光雷达技术推动AGV实现无标识自主导航，提升智能制造系统柔性与效率。",
       "summaryZh": ""
     }
   ]
