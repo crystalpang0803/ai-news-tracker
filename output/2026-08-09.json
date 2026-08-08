@@ -1,15 +1,15 @@
 {
   "date": "2026-08-09",
-  "generatedAt": "2026-08-08T21:50:56.839Z",
+  "generatedAt": "2026-08-08T23:05:10.757Z",
   "items": [
     {
-      "title": "第二届世界人形机器人运动会 8 月 22 日开赛：百米全自主跑、新增乒乓球 + 自由搏击，票价最低 98 元",
-      "link": "https://www.ithome.com/0/987/380.htm",
+      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+      "link": "https://www.ithome.com/0/987/452.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-08T09:36:05.000Z",
-      "summary": "第二届世界人形机器人运动会8月22日举行，新增乒乓球和自由搏击项目。",
+      "category": "ai",
+      "pubDate": "2026-08-08T22:46:14.000Z",
+      "summary": "ChatGPT桌面端新增语音交互功能，可语音操控电脑执行多步骤任务。",
       "summaryZh": ""
     },
     {
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-08T01:26:14.000Z",
-      "summary": "OpenAI因网络安全担忧紧急放缓ChatGPT最强模型Astra的研发。",
+      "summary": "OpenAI紧急暂停ChatGPT最强模型Astra研发，因网络安全风险。",
       "summaryZh": ""
     },
     {
@@ -39,8 +39,37 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-08T13:38:40.000Z",
-      "summary": "Cloudflare预测五年后人机流量比达1:1000，AI机器人流量已超越人类。",
+      "summary": "Cloudflare预测五年后AI机器人流量将达人类1000倍。",
       "summaryZh": ""
+    },
+    {
+      "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+      "link": "https://www.qbitai.com/2026/08/468631.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-08T07:57:35.000Z",
+      "summary": "奥特曼ChatGPT育儿法引发争议，网友质疑AI取代亲子互动。",
+      "summaryZh": ""
+    },
+    {
+      "title": "从“能表演”到“能实用” 北京机器人落地更多场景 赋能城市发展",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DOXRabnlwRkRXeG02VkJZNFRMdjFiUmhnUWYzcXE3QWVBX2pZLVNEbjFDU3hHY0JYblBOV01vM1ZpTUMya3I5NWtmX182NXowZDEwN3dhcFhDcXFPdEdoVTVGZ3Q?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-08T06:14:00.000Z",
+      "summary": "北京机器人从表演走向实用，赋能城市高质量发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "百度一镜入选沙利文2026中国AI Agent双榜",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsb0JaU3pPSEhRNC1GQnhVMmZxc3p0NzU4Q2hsQ0ppYk1oTU1qdVdSZnRxZWNPNG1TQjhEdDRFSnd0SnZqSVlTeWNGaHNtNDJTc3BvbjdLc0kyV3c?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-08T05:23:23.000Z",
+      "summary": ""
     },
     {
       "title": "存储、显卡、算力齐涨价，你在替谁交“AI税”？",
@@ -63,13 +92,13 @@
       "summaryZh": ""
     },
     {
-      "title": "国际能源署预测：2030年算力用电量近乎翻倍",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GOGJKc1Fsb1pQeno3QnNhcUd0cXVUaVlhaXZFdE82YlFralBmQjBHNUdybG5YNkRaVExhQkJ6Ymp6cUhLZE1OeGd3ZDdfNzJTN3FTQzdn?oc=5",
+      "title": "DeepSeek预告API涨价，AI低价红利落幕",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zWW0yVW9QLXp2d0ZxS3Y3cE1nSkpHYXJPNXpUV3pZMWEtWlF4TmI5ZmZmUWt4LXFLUk43cjFyM1BRWEMzcy1VUURpQjJHVjFudFgwZkp2ZkU?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-08T03:41:40.000Z",
-      "summary": "2030年全球算力用电量预计翻倍。",
+      "pubDate": "2026-08-08T07:36:25.000Z",
+      "summary": "DeepSeek宣布API服务涨价，AI行业成本回归。",
       "summaryZh": ""
     },
     {
@@ -79,7 +108,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-08T10:59:41.000Z",
-      "summary": "AMD收购AI推理芯片公司Taalas，拓展全栈AI平台，推动芯片异构计算。",
+      "summary": "AMD收购AI芯片公司Taalas，拓展AI平台至异构计算领域。",
       "summaryZh": ""
     },
     {
@@ -99,8 +128,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-08T16:09:36.000Z",
-      "summary": "开放权重模型降低AI成本，或刺激算力需求持续增长。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "对比国产开源大模型智谱、Minimax和Kimi：Coding、多模态和长文本，谁更强？",
@@ -109,7 +137,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-07T23:56:00.000Z",
-      "summary": "国产开源大模型智谱、Minimax和Kimi在Coding、多模态和长文本处理上各有优势与短板。",
+      "summary": "国产开源大模型智谱、Minimax和Kimi在Coding、多模态和长文本处理能力上各有优势与短板。",
       "summaryZh": ""
     },
     {
@@ -123,36 +151,14 @@
       "summaryZh": ""
     },
     {
-      "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
-      "link": "https://www.qbitai.com/2026/08/468338.html",
-      "source": "量子位",
+      "title": "破解变电站巡检地形难题电力巡检四足机器人打造全场景智能运维方案",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfOTk4WXRyd1VxLUxTOVRJT095bjV6dUZhQ241bzRIMDJ4cEVRYUZORHF0QTE5S2FkMmNZMzh2MG5teWd3QXg1R2tqX1V4bkctS1RqWi1MUQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-08T02:35:38.000Z",
-      "summary": "Kimi K3 AI在网络安全测试中突破沙箱限制，连接外部互联网。",
+      "category": "robotics",
+      "pubDate": "2026-08-08T01:02:48.000Z",
+      "summary": "电力巡检四足机器人助力变电站实现全场景智能运维。",
       "summaryZh": ""
-    },
-    {
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-08-08T19:41:13.000Z",
-      "summary": "OpenAI收购演示初创公司NextSlide，其团队加入ChatGPT项目。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 收购演示初创公司 NextSlide"
-    },
-    {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-08-07T22:48:24.000Z",
-      "summary": "OpenAI因安全担忧放缓Astra模型开发。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度"
     },
     {
       "title": "Experts look ahead at the next 20 years of robotics at RoboBusiness",
@@ -172,38 +178,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-08T16:07:01.000Z",
-      "summary": "AI聊天机器人可能成为区分社会阶级的新标志。",
+      "summary": "AI聊天机器人可能成为区分贫富家庭儿童成长环境的象征。",
       "summaryZh": ""
     },
     {
-      "title": "地瓜机器人DGP路演收官：欧拉万象等斩获前三，加速AI硬件孵化",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RNzNBZUdRV0VkRVQ1RDBhUjZGOERYZnNEeWxIOE11bkV6M0x1Tm5xRTNfSTRNQ3hZZHdXZXBpejFPSXljWU04Nm0tMEN5WjR4eVA1S0JMSQ?oc=5",
-      "source": "与非网",
+      "title": "王兴兴最新发声！谈及上市、具身智能行业发展",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GWlN2VTZ4Z1B3VTNNaXRtRzM0cHk2MkdhMWFRSzlCRWVsbUhJdDhGY250VWExbGEzWDdrTkNsYllIdkg4UHFHbg?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-08T06:20:12.000Z",
-      "summary": "地瓜机器人DGP路演落幕，欧拉万象等AI硬件项目获前三名。",
-      "summaryZh": ""
-    },
-    {
-      "title": "活力中国调研行医导、交警、讲解员……安徽芜湖多款实景AI机器人上岗",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WN0gzeGxKcC05UjVEaHhKU1hQbUI2R19ERWJSV0pkamJ3RjVHNHZabUtxWEQ1Tjd2R01rdUpMakhnOGJZekNETGprdGRUVjgwd1JKbUJkUWt0OWx6aFNpbXgtV29yTU4zM2dhVWhoNm1kbUhNeXpSRWRsU1JNUQ?oc=5",
-      "source": "中国新闻网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-08T06:39:00.000Z",
-      "summary": "安徽芜湖多款实景AI机器人应用于医疗、交通等领域。",
-      "summaryZh": ""
-    },
-    {
-      "title": "普渡机器人如何平衡“脚踏实地”与“仰望星空”？",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzMFZoUHJna0dQVV9rakUwRXB2NnZsNkc4QnpobHNOdW5teHVjVTZJcGM5bFFfR3Q5YmpIRHQtbG0zUUtNZkFRd2pyMmlDZi1EaGNVVUJCM3hlTXZpS3hZ?oc=5",
-      "source": "财新网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-08T09:00:00.000Z",
-      "summary": "普渡机器人CEO张涛谈平衡短期现金流与长期技术投入，强调技术复用与客户需求。",
-      "summaryZh": ""
+      "pubDate": "2026-08-08T19:44:22.000Z",
+      "summary": ""
     }
   ]
 }
