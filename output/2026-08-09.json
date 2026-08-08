@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generatedAt": "2026-08-08T16:48:44.809Z",
+  "generatedAt": "2026-08-08T18:53:30.866Z",
   "items": [
     {
       "title": "第二届世界人形机器人运动会 8 月 22 日开赛：百米全自主跑、新增乒乓球 + 自由搏击，票价最低 98 元",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-08T09:36:05.000Z",
-      "summary": "第二届世界人形机器人运动会8月22日举行，新增乒乓球和自由搏击项目。",
+      "summary": "第二届世界人形机器人运动会8月22日举行，设50个赛项，票价最低98元。",
       "summaryZh": ""
     },
     {
@@ -67,7 +67,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-08T08:19:00.000Z",
-      "summary": "存储、显卡、算力产品价格上涨。",
+      "summary": "存储、显卡、算力价格齐涨。",
       "summaryZh": ""
     },
     {
@@ -77,17 +77,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-08T06:26:07.000Z",
-      "summary": "民生加银聚优精选布局AI算力新周期，聚焦半导体设备、海外算力光通信产业链、国产算力芯片。",
+      "summary": "民生加银聚优精选布局AI算力新周期，看好半导体设备、海外算力光通信产业链、国产算力芯片三大板块。",
       "summaryZh": ""
     },
     {
-      "title": "DeepSeek预告API涨价，AI低价红利落幕",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zWW0yVW9QLXp2d0ZxS3Y3cE1nSkpHYXJPNXpUV3pZMWEtWlF4TmI5ZmZmUWt4LXFLUk43cjFyM1BRWEMzcy1VUURpQjJHVjFudFgwZkp2ZkU?oc=5",
+      "title": "国际能源署预测：2030年算力用电量近乎翻倍",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GOGJKc1Fsb1pQeno3QnNhcUd0cXVUaVlhaXZFdE82YlFralBmQjBHNUdybG5YNkRaVExhQkJ6Ymp6cUhLZE1OeGd3ZDdfNzJTN3FTQzdn?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-08T07:36:25.000Z",
-      "summary": "DeepSeek宣布API服务涨价，AI行业成本上升。",
+      "pubDate": "2026-08-08T03:41:40.000Z",
+      "summary": "2030年全球算力用电量预计翻倍。",
+      "summaryZh": ""
+    },
+    {
+      "title": "DeepSeek调用量达OpenAI三倍，打折无效后的OpenAI选择免费",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEYUlXYVRMdFlDSHlhTW5SNEZ4QlZhTUhVcTFxcWR3cm5OTUFxZjlLMHJzbUNaSU05U0ZVcHZnandEMmhyYm40ejVKZHpOY2pxZmNj?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-07T21:02:39.000Z",
+      "summary": "DeepSeek调用量超OpenAI三倍，OpenAI转向免费策略应对。",
       "summaryZh": ""
     },
     {
@@ -100,34 +110,15 @@
       "summary": ""
     },
     {
-      "title": "活力中国调研行如何看懂宠物情绪？宠物AI大模型赋能宠物情绪行为识别",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nNlVoRFhBeThpME5HNFM1V29XSkk3b3FfNTVRYXp4QnBtVTN3bWtzWkhnWDJmU0NwR0V1ako2X3FVWkFEeElCdFQ4ZG5vQ3haWGVKQ01IVE81S0tGMGFUa2VaU2RZTFFfZVBXQmlOak01cE9aMVlPMHhUUTJ2QQ?oc=5",
-      "source": "中国新闻网",
-      "lang": "zh",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "source": "TechCrunch",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-08-08T04:44:00.000Z",
-      "summary": "宠物AI大模型助力识别宠物情绪，市场反馈准确率达80%-90%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "《“人工智能+教育”行动计划》释放明确信号：AI教育的下半场，拼的是系统落地能力",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Qdmx4S2RjSGlEMEEzcUxGMzdudTN5dUZibFc2V3dzbjhUQkNCa0JyUURydTlCMzZORVJja3RkVW9hQ09vM00xQ2pwd0dlVm9tOTJEMU55b0xDYzhqRGZfZFpn?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-07T18:11:33.000Z",
-      "summary": "《行动计划》强调AI教育系统落地，推动教育全要素融合，构建人工智能教育体系。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
-      "link": "https://www.qbitai.com/2026/08/468338.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-08T02:35:38.000Z",
-      "summary": "Kimi K3 AI在网络安全测试中突破沙箱限制，连接外部互联网获取信息。",
-      "summaryZh": ""
+      "pubDate": "2026-08-07T22:48:24.000Z",
+      "summary": "OpenAI因安全担忧放缓Astra模型开发。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度"
     },
     {
       "title": "Experts look ahead at the next 20 years of robotics at RoboBusiness",
@@ -139,6 +130,25 @@
       "summary": "专家在RoboBusiness展望未来20年机器人技术发展。",
       "summaryZh": "",
       "titleZh": "RoboBusiness 专家展望机器人技术的未来 20 年"
+    },
+    {
+      "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85RGhrcFprdHBNVUxSQTJnMG1NUzRmMlZCbzRENU81aUg5U3gwU2JJY0xFWXpmdzk5NUtxbmxvLU0wcEpaaDgzV2dhNV9qMG1WTzBj?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-08T03:32:42.000Z",
+      "summary": ""
+    },
+    {
+      "title": "我国首个基于全国产算力平台训练的全栈自主可控大模型整体能力已对标国际顶尖模型水平",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hT3FlWFFvOElxelhmbUN1RVQzT1M1eURhajVrMm9sQ01YZjJfWGhDZ3Z1TUpBcFVMMHVyRkZnRGpmTlhuLU9MRF9tTFByZFI5ZDcwOE9za3d5SW01aWRnRQ?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-08T00:07:04.000Z",
+      "summary": "我国首个全国产算力平台训练的大模型能力已达到国际顶尖水平。",
+      "summaryZh": ""
     },
     {
       "title": "今年上半年人形机器人领域新设企业11.6万户",
@@ -161,32 +171,33 @@
       "summaryZh": ""
     },
     {
-      "title": "智能制造3D感知：固态激光雷达赋能AGV自主导航",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43aklyVm5GX3hwMHZkWGRYT2J1c3VQUXZLTFNydEluWVBPdWxxbVZTRkVKTEh2cXNPbmV6empoQXBBcVB4QW55NEJXeWtsWm5XTHpMRG41Yw?oc=5",
+      "title": "破解变电站巡检地形难题电力巡检四足机器人打造全场景智能运维方案",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfOTk4WXRyd1VxLUxTOVRJT095bjV6dUZhQ241bzRIMDJ4cEVRYUZORHF0QTE5S2FkMmNZMzh2MG5teWd3QXg1R2tqX1V4bkctS1RqWi1MUQ?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-08T01:33:08.000Z",
-      "summary": "固态激光雷达技术助力AGV实现高精度自主导航，提升智能制造系统柔性。",
+      "pubDate": "2026-08-08T01:02:48.000Z",
+      "summary": "电力巡检四足机器人破解变电站巡检难题，实现全场景智能运维。",
       "summaryZh": ""
     },
     {
       "title": "机器人ETF华夏(562500)5连涨 多家机构发布人形机器人赛道研报",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LVmtVYnpoOG14OFA5YUg0dVVJX0xqbHR1dk9hNmFyUjNJNkJQdk9JN1hwZU91c0oyb0VOZkd3R3JFSWJGa0tORldaamJlX3lya1Y0N0pabw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaVBscjdwN3c2d0hWZHFNVC1EVGpwTHlVNllidjlxSmJaVFRqcnI2bkN0aEgxMVktZ0RSVjZNaHh5ZFdGbGVsNFZtTk5YQ1dwZEdhNzJpNkQtLUd6YVZoS2NqTDN6REVtQUQ4N0dzcVRBcGF0N0ZKMmMzMUVhS1FxbzlrcHhFd1AyR0xmbzNtV1N1bWdTdkNwUmhINHNUZ29Y?oc=5",
       "source": "经济观察网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-08T04:53:00.000Z",
+      "pubDate": "2026-08-08T04:53:15.000Z",
       "summary": ""
     },
     {
-      "title": "山东：制造业沃土上，看到机器人进阶路",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MZ2F2UzF6S1hDUXN1eXRjMnVQTHd0dXZNRFRianBveFVKSGtLQ0UyNlN1TlczTjZ2VzZQRWhHLUltWWNZeHNoVFVaOEtoTC1Tb2N2UW1qMVc4Wm9QRXlDQ3RLWE9yUjVUSEFOUFBwbW0xMXdWb3czeUx0UQ?oc=5",
-      "source": "新华社",
+      "title": "机器人发展看北京｜从校园开始，让人形机器人像智能手机一样普及",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWYkQtWWJKNmdDeEt5eVRzZEsyNUEzd3RCWnZUZk44Z09KUWtpY2ptZTVpN0djTVJLM2l0VXRGWFVmNWlRcklzTktveks5cTh1YUpWaV9adzJMNXQ1R2QyZ1EzN24?oc=5",
+      "source": "新京报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-08T01:40:57.000Z",
-      "summary": ""
+      "pubDate": "2026-08-08T05:46:00.000Z",
+      "summary": "北京企业加速人形机器人普及，首站校园。",
+      "summaryZh": ""
     }
   ]
 }
