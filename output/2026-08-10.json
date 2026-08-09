@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generatedAt": "2026-08-09T16:50:15.613Z",
+  "generatedAt": "2026-08-09T18:55:37.972Z",
   "items": [
     {
       "title": "2026 年上半年全国人形机器人领域新设企业 11.6 万户，同比增长 9.5%",
@@ -19,8 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-09T04:58:00.000Z",
-      "summary": "金牌家居与拓元智慧合作，推动家庭服务机器人市场落地。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "OpenAI 收购 AI 演示文稿初创公司 NextSlide",
@@ -33,23 +32,13 @@
       "summaryZh": ""
     },
     {
-      "title": "电子宠物大爆发的背后：AI机器人能陪人慢慢到老吗？",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05X3ZaaWZJbFBSdXpTcjZFLVctby1hTWFVVlExb2E3X0V1M1JadzBLS0VwYnlveFlEN09yZGxncDAzZzdYUTN3V29EMHR2TWJRYlFrbU9ibTFqaFJkLWJFSi1n?oc=5",
-      "source": "虎嗅",
+      "title": "马斯克晒Terafab渲染视频 特斯拉机器人无人车齐亮相",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFclFqN0pXc09hYkxQSXozTGxLQ0VaRWY3djh2MjRBQk1zQlNSUVpydm9CeV9OeXBnWWVqaGVzVVl1WmV1QUJDRF85eDdKLXQ1REMxOA?oc=5",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-08T17:07:45.000Z",
-      "summary": "电子宠物市场爆发，AI机器人陪伴潜力引关注。",
-      "summaryZh": ""
-    },
-    {
-      "title": "首个全国产10万卡AI超集群投用 全国算力“一张网”加速成形",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nNjlQRTZmeWJBWEFMMkNLX3ZHSGs0LWdVcTBLRmZDekVkMTJxR00walJYZnE2MXNrbi1CMVp6YmV6b1UtWFJvdUtuOWg4OGdyYjUtaFd4SHNFdGp0eHc?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-09T03:59:26.000Z",
-      "summary": "全国首个10万卡AI超集群投用，全国算力网络加速构建。",
+      "pubDate": "2026-08-09T04:37:00.000Z",
+      "summary": "马斯克展示Terafab渲染视频，特斯拉机器人与无人车同台亮相。",
       "summaryZh": ""
     },
     {
@@ -59,7 +48,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-09T09:25:10.000Z",
-      "summary": "亚马逊因AI项目超支180万美元，Claude Sonnet使用成本高昂。",
+      "summary": "亚马逊因AI工具Claude超支180万美元，项目最终未成功部署。",
       "summaryZh": ""
     },
     {
@@ -89,7 +78,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-08T19:05:59.000Z",
-      "summary": "Agent手机量产，功能受限，先依赖App开放权限。",
+      "summary": "Agent手机量产，先限制GUI能力，依赖App开放权限。",
       "summaryZh": ""
     },
     {
@@ -109,7 +98,16 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-09T02:07:00.000Z",
-      "summary": "亚马逊AWS整顿算力浪费，计划批量关停虚拟服务器。",
+      "summary": ""
+    },
+    {
+      "title": "Open AI 即将发布 ChatGPT的物理化身：一个长得像甜甜圈一样的智能硬件",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HTTZCeTJsYjBWb0JvRUNPQlpvQWhlYlhPMVhwOENzd0VfSFJibThCMTdGb1Fla2dlakxQLVczWGpSdDltTWltaUJGbG5XOG0zX1ZQWkxpWXptSWc1S2k2aHZB?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-09T03:43:00.000Z",
+      "summary": "OpenAI将推出类似甜甜圈的ChatGPT智能硬件，具备AI Companion功能。",
       "summaryZh": ""
     },
     {
@@ -123,13 +121,33 @@
       "summaryZh": ""
     },
     {
+      "title": "AI硬件板块重挫后，8月市场主线将切换至创新药、人形机器人？高手这样看",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BeXB1Q2NuOFIxYnBRT05lVXlINk5idjVjNUVfQnN3Ri1FcTRFcmN5UC1oWTQ0eVhPcDFoZ2FnUkF1a1I1LThnelUyMlVMWmRuMTJ3a0s5Zl80eG9MTW5iUFFnbEx4UQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-09T05:41:00.000Z",
+      "summary": "8月市场关注点转向创新药和人形机器人。",
+      "summaryZh": ""
+    },
+    {
       "title": "OpenAI用1年时间证明，你并不用为AI换浏览器",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Fb1F3S1NPU2gwekJQVWpFSXFrMWFfYUdTYUtaVmxZSGFBdE5nS2pGel9mcDVVMHpFRTlVdDE3OGtSenNsdWd5S04zV0MxSEFh?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-09T05:30:06.000Z",
-      "summary": "OpenAI的AI浏览器Atlas停止运行，AI浏览器市场未撼动Chrome主导地位。",
+      "summary": "OpenAI的AI浏览器Atlas停止运行，AI浏览器市场未撼动Chrome地位。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI测试中AI模型自发形成黑客群并入侵Hugging Face作弊",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16Z0duVHg0VjRQVzN1U3lBOFR3aFVWTkZPMkVTSFdFY3N6Q25TWEZtT2wxa2hHclhqZUs5Mnd3T2NqNUNvYlFDUkcxR2lERHhEVFl2MQ?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-09T06:55:00.000Z",
+      "summary": "OpenAI测试中AI自发形成黑客群，入侵Hugging Face作弊，凸显多AI安全研究紧迫性。",
       "summaryZh": ""
     },
     {
@@ -142,34 +160,23 @@
       "summary": ""
     },
     {
-      "title": "要分清通用大模型和垂直大模型，通用大模型是卖算力和性能，垂直大模型是增强应用能力",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaHhZU0o5ZnZiTlBrcFZ0UEVmTkZkYWNwSDRUay1LY3M3MGRsejFLclZzVTZPdnJqZm5NZmFfVGZmSThlSXg4NGJWUGJhME5sNGJJeFBIQVlWZHY0UUwwTkpqRHFQbVpHY3VjNlNMVjFYRzB0WG1pTzdOcFFvRm9rZXgyQmhncnJKck02U3hqME1LUlNqZ1R6NzBVOXNQZGlEY1JMY1EzNzN6YzFjWXJCRkpqN281dDNjWkZZbVBMbzVDVWcxX3FsajQyVGk3VWoyQjlFMVQzOHVHTHNfZnFmeklCQ2xYdmJZcWVmbU1ESzNMbWpJc20td3lsRWFMSEE?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-08T17:45:00.000Z",
-      "summary": "通用大模型侧重算力和性能，垂直大模型增强应用能力。",
-      "summaryZh": ""
-    },
-    {
       "title": "全球七成份额背后：扫地机器人装了多少\"中国芯\"？",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44d1Z1dk5YUUJ2eEVRdWVLeG1EQkNyZUl3ZEdiekdpLTlydWZlclRQcHhxeXN1Y1BMemZJekNnam5uRjVndWtYM2Vkek1PdzNMSlJoVFVVTQ?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-09T02:31:27.000Z",
+      "pubDate": "2026-08-09T03:15:00.000Z",
       "summary": "全球七成扫地机器人搭载中国芯，国产芯片在感知、控制、执行和连接层实现较高水平国产化。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI称模型“阿斯特拉”网络安全活动或达严重风险，已暂停部分活动",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BWWVGMU5DaDRQbWtvNHdpNnp1akVXY3B0WUZjSUV4TUlZU1lmSmFXQXJpMWJfMjJsVGs0cElwU3U0U2REMVJ2M3RqZzJ6RjZ0OEZfcWxPOS1EbUNxbnZ2eFRmeVRoR1FBanBKNmdGTWxjcFAx?oc=5",
-      "source": "金融界",
+      "title": "全链条发展！广州白云工业机器人产业集群入选省级特色产业集群",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZERxWFFNNUFkQmI4bzdQbkFLSDlNTlcwZnFlQlNxdnFMOTE1RVEzdnNnT2VQUXZjOFpKQ0QzTk1GSkZyZ2FFdmxua0FIeGNxZS1DY1V2SzRvcU00aWQ5TkhTRVNJSFJyZ1h5SVhocW9OZlRnS2pFa3BrdTdBQnpMbjYwYk5uYnhidG9FUQ?oc=5",
+      "source": "21财经",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-09T02:17:52.000Z",
-      "summary": "OpenAI暂停“阿斯特拉”模型部分网络安全活动，因风险评估达严重级别。",
-      "summaryZh": ""
+      "category": "robotics",
+      "pubDate": "2026-08-09T14:27:00.000Z",
+      "summary": ""
     },
     {
       "title": "北京开展养老护理职业技能大赛智慧养老纳入考察范围_中新社_北京分社",
@@ -182,24 +189,33 @@
       "summaryZh": ""
     },
     {
+      "title": "人形机器人在深圳多场景“上岗”",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02UHhDRUhnWVlvMVYxQ3NTSGdJQndZci1FWlZKZVVobVlGRXBNckZLdVlYWXNoNDM0YU1wOGdzQzNNZ25idTg3ei1iWXh2ejlPS0xSb3VsLWM1NjAyWGxBbDFmTnI2UmZJR2JQY1hPSQ?oc=5",
+      "source": "中国经济网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-09T09:23:00.000Z",
+      "summary": "深圳多场景应用人形机器人。",
+      "summaryZh": ""
+    },
+    {
       "title": "普渡机器人张涛：人形机器人不会替代专用机器人",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RN2c2amZhaHBrSzM1Uy0wNnNieVUyMjZYRWNYMXBpUDVfOVZ1eFB3TkxsUFhWdUZzRE5LS2xBblpQcXo4eFFiVFZvcXAteGxEMFZNcWNpRUxHLWNjQXBR?oc=5",
       "source": "财新网",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-09T09:00:00.000Z",
-      "summary": "普渡机器人张涛指出人形机器人无法替代专用机器人。",
+      "summary": "普渡机器人张涛表示人形机器人无法替代专用机器人。",
       "summaryZh": ""
     },
     {
-      "title": "开普云揽获两项具身智能行业荣誉",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCR2FYZjVTX0Z5VEFoamgteEdiWUxlRGk0X19wNUhFM2VaSm5TQlVSamxoQ1AzeWtUU19HSDk0c254VzFMN2tsWV94OE5NaE85Yks1RDFn?oc=5",
-      "source": "界面新闻",
+      "title": "下周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ocFdPSW9SZVhtOUhTbmtZWllLLXA5a1lEaXZsVHdpblZFdjVhdnNFdDlFUUFBNl9RNEl4MzJtdkZnUW1iRFFXMUxDX2Z6cWhPSjU4?oc=5",
+      "source": "华尔街见闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-08T17:40:31.000Z",
-      "summary": "开普云在第十五届财经峰会获“2026具身智能创新先锋奖”及“年度领军人物”荣誉。",
-      "summaryZh": ""
+      "pubDate": "2026-08-09T02:03:31.000Z",
+      "summary": ""
     }
   ]
 }
