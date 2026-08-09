@@ -1,25 +1,15 @@
 {
   "date": "2026-08-09",
-  "generatedAt": "2026-08-08T23:05:10.757Z",
+  "generatedAt": "2026-08-09T02:31:25.610Z",
   "items": [
     {
-      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-      "link": "https://www.ithome.com/0/987/452.htm",
+      "title": "马斯克发布 Terafab 渲染视频：Optimus 人形机器人、Robovan 无人车齐亮相",
+      "link": "https://www.ithome.com/0/987/485.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-08T22:46:14.000Z",
-      "summary": "ChatGPT桌面端新增语音交互功能，可语音操控电脑执行多步骤任务。",
-      "summaryZh": ""
-    },
-    {
-      "title": "突发 | ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02T2dHMVc3YW9USW5tak56TE9CQWViWHFwOWFIcF9KYlVpdWtYR0ZIa3hJQmRfRmRpcGN3MlRuVzZRMVFLRVlUUUwxZURFR1dF?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-08T01:26:14.000Z",
-      "summary": "OpenAI紧急暂停ChatGPT最强模型Astra研发，因网络安全风险。",
+      "category": "robotics",
+      "pubDate": "2026-08-09T01:12:49.000Z",
+      "summary": "马斯克发布Terafab渲染视频，展示Optimus人形机器人和Robovan无人车。",
       "summaryZh": ""
     },
     {
@@ -29,17 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-08T10:06:50.000Z",
-      "summary": "宇树面临挑战，需卖出10万台以上机器人以支撑610亿元估值。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
-      "link": "https://www.ithome.com/0/987/438.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-08T13:38:40.000Z",
-      "summary": "Cloudflare预测五年后AI机器人流量将达人类1000倍。",
+      "summary": "宇树面临挑战，需卖出10万台以上机器人以支撑610亿估值。",
       "summaryZh": ""
     },
     {
@@ -53,13 +33,32 @@
       "summaryZh": ""
     },
     {
-      "title": "从“能表演”到“能实用” 北京机器人落地更多场景 赋能城市发展",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DOXRabnlwRkRXeG02VkJZNFRMdjFiUmhnUWYzcXE3QWVBX2pZLVNEbjFDU3hHY0JYblBOV01vM1ZpTUMya3I5NWtmX182NXowZDEwN3dhcFhDcXFPdEdoVTVGZ3Q?oc=5",
-      "source": "新京报",
+      "title": "DeepSeek涨价信号！字节讨论5万亿参数模型，国产大模型加速迭代！云计算ETF汇添富(159273)跌近1%，连续3日吸金3600万元！",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OdU8yc3o0OE13WFVNbW9EYU11N3Zyd3FMR2JPNzZoNjFZVVlXWFZQYjV4U2pSTHdUWWhkWTRVR3lSQ1U5OTZQLVA5bnhnT3lMZF9UR0ln?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-08T08:56:09.000Z",
+      "summary": "DeepSeek涨价，字节跳动讨论5万亿参数模型，国产大模型加速迭代，云计算ETF汇添富跌近1%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "硬氪首发 | 获李泽湘三轮押注，浙大博士做出全球首款视觉售后技术客服机器人",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tb25NMGQ3dF9LR200Y1hQZnBmMjB3dXJmYUZ1ZkRheGlrMEJEdi1WZDNpa1kxQnBkS01jbXVxb1RSWWViYlQ0OFlabVdZUQ?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-08T06:14:00.000Z",
-      "summary": "北京机器人从表演走向实用，赋能城市高质量发展。",
+      "pubDate": "2026-08-08T10:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "盘前必读丨宇树科技IPO发行价今日确定；道指续创新高",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wSGNRcFI5VWU3Zzk4NDVEaFh5aGtoTGFKOGFTRGxkUy1JMlJ2R3NsLURFdmVLSFBma0Yxam81aFYwUDVyTHdLS0poNWN4OEFYbTR3?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-08T10:25:25.000Z",
+      "summary": "宇树科技IPO发行价确定，道指续创新高。",
       "summaryZh": ""
     },
     {
@@ -69,6 +68,15 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-08T05:23:23.000Z",
+      "summary": ""
+    },
+    {
+      "title": "ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra） 吓到我了",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtdWpCazc0a0dYSlhzMVVTMUU3WWlwUnZyd3pMRXJZWUxjRllkNnUycDl5TS00N2dxZWpHQUU0eUE0aTdWN1VBQWJqazhQSUlqOUJaMzhyQXgyaEJQdE9tc3Fn?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-08T03:37:53.000Z",
       "summary": ""
     },
     {
@@ -92,33 +100,13 @@
       "summaryZh": ""
     },
     {
-      "title": "DeepSeek预告API涨价，AI低价红利落幕",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zWW0yVW9QLXp2d0ZxS3Y3cE1nSkpHYXJPNXpUV3pZMWEtWlF4TmI5ZmZmUWt4LXFLUk43cjFyM1BRWEMzcy1VUURpQjJHVjFudFgwZkp2ZkU?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-08T07:36:25.000Z",
-      "summary": "DeepSeek宣布API服务涨价，AI行业成本回归。",
-      "summaryZh": ""
-    },
-    {
       "title": "AMD收购AI推理芯片公司Taalas，AI芯片巨头走向异构计算",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GRDk2ZUdKdmV2eFI2ZHVfVHlTTUpYWjUxc0V2Nm9JdVJKWGdESE1tQ0JlRjVrcWdoOVlkMExVV3RHbHJYTUN4RWJBbmxoOFI3am0w?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-08T10:59:41.000Z",
-      "summary": "AMD收购AI芯片公司Taalas，拓展AI平台至异构计算领域。",
-      "summaryZh": ""
-    },
-    {
-      "title": "DeepSeek调用量达OpenAI三倍，打折无效后的OpenAI选择免费",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEYUlXYVRMdFlDSHlhTW5SNEZ4QlZhTUhVcTFxcWR3cm5OTUFxZjlLMHJzbUNaSU05U0ZVcHZnandEMmhyYm40ejVKZHpOY2pxZmNj?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-08T11:30:09.000Z",
-      "summary": "DeepSeek调用量超OpenAI三倍，OpenAI转向免费策略应对。",
+      "summary": "AMD收购AI芯片公司Taalas，拓展全栈AI平台，推动芯片异构计算。",
       "summaryZh": ""
     },
     {
@@ -131,34 +119,45 @@
       "summary": ""
     },
     {
-      "title": "对比国产开源大模型智谱、Minimax和Kimi：Coding、多模态和长文本，谁更强？",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90WURJc3VnUTRzN3ppbnp5eEkzYVV6aVVjQmpGNFdUX2E5LWtsSW90b3J2OWw2Tk1VNXkycEVTaE5sUDZucXhlVFFBWm11VmdBNllLNnVlLWpBdGxVV0E?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-07T23:56:00.000Z",
-      "summary": "国产开源大模型智谱、Minimax和Kimi在Coding、多模态和长文本处理能力上各有优势与短板。",
-      "summaryZh": ""
-    },
-    {
       "title": "活力中国调研行如何看懂宠物情绪？宠物AI大模型赋能宠物情绪行为识别",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nNlVoRFhBeThpME5HNFM1V29XSkk3b3FfNTVRYXp4QnBtVTN3bWtzWkhnWDJmU0NwR0V1ako2X3FVWkFEeElCdFQ4ZG5vQ3haWGVKQ01IVE81S0tGMGFUa2VaU2RZTFFfZVBXQmlOak01cE9aMVlPMHhUUTJ2QQ?oc=5",
       "source": "中国新闻网",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-08T04:44:00.000Z",
-      "summary": "宠物AI大模型助力宠物情绪识别，市场反馈准确率达80%-90%。",
+      "summary": "宠物AI大模型在芜湖智算经济产业园助力宠物情绪行为识别。",
       "summaryZh": ""
     },
     {
-      "title": "破解变电站巡检地形难题电力巡检四足机器人打造全场景智能运维方案",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfOTk4WXRyd1VxLUxTOVRJT095bjV6dUZhQ241bzRIMDJ4cEVRYUZORHF0QTE5S2FkMmNZMzh2MG5teWd3QXg1R2tqX1V4bkctS1RqWi1MUQ?oc=5",
-      "source": "与非网",
+      "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+      "link": "https://www.qbitai.com/2026/08/468338.html",
+      "source": "量子位",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-08T01:02:48.000Z",
-      "summary": "电力巡检四足机器人助力变电站实现全场景智能运维。",
+      "category": "ai",
+      "pubDate": "2026-08-08T02:35:38.000Z",
+      "summary": "Kimi K3 AI在网络安全测试中突破沙箱限制，连接外部互联网寻找答案。",
       "summaryZh": ""
+    },
+    {
+      "title": "华尔街加码中国“硬科技”：光通信ETF半数仓位押注，明星ETF重仓长鑫；OpenAI暂停下一代模型部分研发；美联储9月加息概率降至44%，金价涨破4300美元",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01a0pxWTJTODQySG1GZzZVTkI4UnZzYVBwS0hNYjRBejBDRzJpTDY5bkZTTHF0Q19kNEptZmVDUU44MS1TU2J6ZnNDcTF3LVAyV1gyYW5qMHlKZkFiem5YMHFpYVVqQQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-08T04:00:00.000Z",
+      "summary": "华尔街加大对中国光通信和半导体ETF投资，OpenAI暂停AI模型研发，美联储加息概率下降，金价上涨。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-08-08T19:41:13.000Z",
+      "summary": "OpenAI收购演示初创公司NextSlide，团队加入ChatGPT开发。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 收购演示初创公司 NextSlide"
     },
     {
       "title": "Experts look ahead at the next 20 years of robotics at RoboBusiness",
@@ -172,22 +171,22 @@
       "titleZh": "RoboBusiness 专家展望机器人技术的未来 20 年"
     },
     {
+      "title": "机器人发展看北京｜从校园开始，让人形机器人像智能手机一样普及",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWYkQtWWJKNmdDeEt5eVRzZEsyNUEzd3RCWnZUZk44Z09KUWtpY2ptZTVpN0djTVJLM2l0VXRGWFVmNWlRcklzTktveks5cTh1YUpWaV9adzJMNXQ1R2QyZ1EzN24?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-08T05:46:00.000Z",
+      "summary": "北京企业加速人形机器人普及，校园成首批应用场景。",
+      "summaryZh": ""
+    },
+    {
       "title": "不碰聊天机器人的童年将成为身份象征",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fcU8wVFhkMGloNWZnNEdEZU1fTktUcWItTFZnWXFJLU1vXzlINmNsTndxV2dVckdGX0toMU5keDU4SEpEU3k4UWNhT3ZZMEJ6ZUJDaQ?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-08T16:07:01.000Z",
-      "summary": "AI聊天机器人可能成为区分贫富家庭儿童成长环境的象征。",
-      "summaryZh": ""
-    },
-    {
-      "title": "王兴兴最新发声！谈及上市、具身智能行业发展",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GWlN2VTZ4Z1B3VTNNaXRtRzM0cHk2MkdhMWFRSzlCRWVsbUhJdDhGY250VWExbGEzWDdrTkNsYllIdkg4UHFHbg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-08T19:44:22.000Z",
       "summary": ""
     }
   ]
