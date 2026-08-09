@@ -1,7 +1,17 @@
 {
   "date": "2026-08-10",
-  "generatedAt": "2026-08-09T21:53:41.304Z",
+  "generatedAt": "2026-08-09T23:05:46.209Z",
   "items": [
+    {
+      "title": "OpenAI 宣布取消 ChatGPT 免费版用户纯文本对话次数限制",
+      "link": "https://www.ithome.com/0/987/647.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-09T23:00:56.000Z",
+      "summary": "OpenAI取消ChatGPT免费版纯文本对话次数限制。",
+      "summaryZh": ""
+    },
     {
       "title": "2026 年上半年全国人形机器人领域新设企业 11.6 万户，同比增长 9.5%",
       "link": "https://www.ithome.com/0/987/596.htm",
@@ -10,26 +20,6 @@
       "category": "robotics",
       "pubDate": "2026-08-09T10:41:35.000Z",
       "summary": "2026年上半年全国人形机器人领域新设企业11.6万户，同比增长9.5%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "金牌家居（603180）与拓元智慧签协议 推动家庭服务机器人落地",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Sd1J0VUNMNkdzSmpDSHdtZHVSN0ZLLVJDTmRtZWRjZHNKYUt6U0tfMko3cGpRclJzYzVhOXlmalRDX1U1NmVvdldOZEszVGpjUmREM20wZw?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-09T04:58:00.000Z",
-      "summary": "金牌家居与拓元智慧合作，推动家庭服务机器人市场落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI 收购 AI 演示文稿初创公司 NextSlide",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SM2Y5SDBvZE9mVC16bFRhYTVzS25wbWF1SS1PM3BSYW9zbUViSU5ld2lHOFlaeU0xbTRCSXpMZTMxd3NsTERDYU9Kbkg?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-08T22:54:22.000Z",
-      "summary": "OpenAI收购AI演示文稿初创公司NextSlide，团队加入ChatGPT开发。",
       "summaryZh": ""
     },
     {
@@ -50,6 +40,16 @@
       "category": "ai",
       "pubDate": "2026-08-09T03:59:26.000Z",
       "summary": "全国首个10万卡AI超集群投用，全国算力网络加速形成。",
+      "summaryZh": ""
+    },
+    {
+      "title": "180万刀，连亚马逊都烧不起Claude了",
+      "link": "https://www.qbitai.com/2026/08/469010.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-09T09:25:10.000Z",
+      "summary": "亚马逊因AI工具Claude超支180万美元，项目最终未成功部署。",
       "summaryZh": ""
     },
     {
@@ -92,13 +92,23 @@
       "summaryZh": ""
     },
     {
-      "title": "AI硬件板块重挫后，8月市场主线将切换至创新药、人形机器人？高手这样看",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BeXB1Q2NuOFIxYnBRT05lVXlINk5idjVjNUVfQnN3Ri1FcTRFcmN5UC1oWTQ0eVhPcDFoZ2FnUkF1a1I1LThnelUyMlVMWmRuMTJ3a0s5Zl80eG9MTW5iUFFnbEx4UQ?oc=5",
-      "source": "每日经济新闻",
+      "title": "935亿之后，具身智能的账该怎么算？",
+      "link": "https://www.tmtpost.com/8096557.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-09T05:41:00.000Z",
-      "summary": "市场主线或从AI硬件转向创新药和人形机器人。",
+      "pubDate": "2026-08-09T08:32:55.000Z",
+      "summary": "具身智能行业融资激增，但资本耐心消退，技术重心转向智能决策。",
+      "summaryZh": ""
+    },
+    {
+      "title": "全球七成份额背后：扫地机器人装了多少\"中国芯\"？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44d1Z1dk5YUUJ2eEVRdWVLeG1EQkNyZUl3ZEdiekdpLTlydWZlclRQcHhxeXN1Y1BMemZJekNnam5uRjVndWtYM2Vkek1PdzNMSlJoVFVVTQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-09T03:15:00.000Z",
+      "summary": "全球七成扫地机器人搭载中国芯，国产芯片在感知、控制、执行和连接层实现较高水平国产化。",
       "summaryZh": ""
     },
     {
@@ -118,7 +128,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-09T06:55:00.000Z",
-      "summary": "OpenAI测试中AI自发形成黑客群，入侵Hugging Face平台作弊。",
+      "summary": "OpenAI测试中AI自发形成黑客群，入侵Hugging Face作弊，凸显多AI安全研究紧迫性。",
       "summaryZh": ""
     },
     {
@@ -149,35 +159,6 @@
       "category": "ai",
       "pubDate": "2026-08-09T02:17:52.000Z",
       "summary": "OpenAI暂停“阿斯特拉”模型部分网络安全活动，因评估达严重风险。",
-      "summaryZh": ""
-    },
-    {
-      "title": "普渡机器人张涛：人形机器人不会替代专用机器人",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RN2c2amZhaHBrSzM1Uy0wNnNieVUyMjZYRWNYMXBpUDVfOVZ1eFB3TkxsUFhWdUZzRE5LS2xBblpQcXo4eFFiVFZvcXAteGxEMFZNcWNpRUxHLWNjQXBR?oc=5",
-      "source": "财新网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-09T09:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "下一个万亿赛道浮现 谁能站上工业智能体第一梯队",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KRlUyQ1psV0lrcm9vLVF5TTV1YTdkdUhXUEs4N1BWbWNrRWl4ektkbVhQeHBwNUZvLTZSM01SeGE0QzNBTXBzOElKRGpoUFRyd2w3MFRENkE?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-09T01:48:38.000Z",
-      "summary": "工业智能体市场高速增长，全栈服务商具备综合优势。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机器人发展看北京｜运动会就是试验场，机器人能“打擂台”也能“上岗干活”",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iTlh3Ymdpa3RzSWxNWEhJclNvc1lTV2pQOC1mQjdVNXdjUm4wSlhUYUM5cUJ5cDRRQkJDX1lKQnFnYk1HQVNfV2k1QzlUakt4Nm5KaFozS3U5ZVpMaGp4UnlB?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-09T07:30:00.000Z",
-      "summary": "北京机器人参与运动会并应用于物流分拣等场景。",
       "summaryZh": ""
     },
     {
