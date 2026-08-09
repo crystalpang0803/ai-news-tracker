@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generatedAt": "2026-08-09T18:55:37.972Z",
+  "generatedAt": "2026-08-09T20:02:58.863Z",
   "items": [
     {
       "title": "2026 年上半年全国人形机器人领域新设企业 11.6 万户，同比增长 9.5%",
@@ -19,7 +19,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-09T04:58:00.000Z",
-      "summary": ""
+      "summary": "金牌家居与拓元智慧合作，推动家庭服务机器人市场落地。",
+      "summaryZh": ""
     },
     {
       "title": "OpenAI 收购 AI 演示文稿初创公司 NextSlide",
@@ -38,17 +39,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-09T04:37:00.000Z",
-      "summary": "马斯克展示Terafab渲染视频，特斯拉机器人与无人车同台亮相。",
+      "summary": "马斯克展示Terafab渲染视频，特斯拉机器人及无人车亮相。",
       "summaryZh": ""
     },
     {
-      "title": "180万刀，连亚马逊都烧不起Claude了",
-      "link": "https://www.qbitai.com/2026/08/469010.html",
-      "source": "量子位",
+      "title": "首个全国产10万卡AI超集群投用 全国算力“一张网”加速成形",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nNjlQRTZmeWJBWEFMMkNLX3ZHSGs0LWdVcTBLRmZDekVkMTJxR00walJYZnE2MXNrbi1CMVp6YmV6b1UtWFJvdUtuOWg4OGdyYjUtaFd4SHNFdGp0eHc?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-09T09:25:10.000Z",
-      "summary": "亚马逊因AI工具Claude超支180万美元，项目最终未成功部署。",
+      "pubDate": "2026-08-09T03:59:26.000Z",
+      "summary": "全国首个10万卡AI超集群投用，全国算力网络加速形成。",
       "summaryZh": ""
     },
     {
@@ -72,67 +73,18 @@
       "summaryZh": ""
     },
     {
-      "title": "Agent手机走向量产，先向 App 低头",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56MmQ5RlZ5Mm5wWHlocVRWb0tUUjladWhyQXdTLWZvbWd2ZERZTGN2SFkwVHNIWmtTb0FDVlNjRzRDWmdHeDhwM25TOGJEbUprMUFpU2dOMTc?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-08T19:05:59.000Z",
-      "summary": "Agent手机量产，先限制GUI能力，依赖App开放权限。",
-      "summaryZh": ""
-    },
-    {
-      "title": "财经夜行线0806｜DeepSeek官宣涨价 美联储酝酿削减议息会议次数",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQcXV4NTJTZEdhNXZUR0wyREpKSjZvYlU1Skk1dEo2Q2RJcnlsdGdPQUl4ZTFhMi1sOTRwTXhoa3pIcjhzYVAxRWR4cmFVNkQ3UHlzdg?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-08T21:17:21.000Z",
-      "summary": "DeepSeek宣布涨价，美联储考虑减少议息会议次数。",
-      "summaryZh": ""
-    },
-    {
-      "title": "调用CPU要排队数日？AWS整顿算力浪费 拟批量关停虚拟服务器",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuRkFaU1J3d0pPUkFSdWQwcUxZRXFPWDZoaTJhSmZUbklwWWlocXZKUm94aGszWHNUQ1piRVNzT0N1X1hGOWZpVQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-09T02:07:00.000Z",
-      "summary": ""
-    },
-    {
       "title": "Open AI 即将发布 ChatGPT的物理化身：一个长得像甜甜圈一样的智能硬件",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HTTZCeTJsYjBWb0JvRUNPQlpvQWhlYlhPMVhwOENzd0VfSFJibThCMTdGb1Fla2dlakxQLVczWGpSdDltTWltaUJGbG5XOG0zX1ZQWkxpWXptSWc1S2k2aHZB?oc=5",
       "source": "腾讯新闻",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-09T03:43:00.000Z",
-      "summary": "OpenAI将推出类似甜甜圈的ChatGPT智能硬件，具备AI Companion功能。",
-      "summaryZh": ""
-    },
-    {
-      "title": "935亿之后，具身智能的账该怎么算？",
-      "link": "https://www.tmtpost.com/8096557.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-09T08:32:55.000Z",
-      "summary": "具身智能行业融资激增，但资本耐心消退，技术重心转向智能决策。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI硬件板块重挫后，8月市场主线将切换至创新药、人形机器人？高手这样看",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BeXB1Q2NuOFIxYnBRT05lVXlINk5idjVjNUVfQnN3Ri1FcTRFcmN5UC1oWTQ0eVhPcDFoZ2FnUkF1a1I1LThnelUyMlVMWmRuMTJ3a0s5Zl80eG9MTW5iUFFnbEx4UQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-09T05:41:00.000Z",
-      "summary": "8月市场关注点转向创新药和人形机器人。",
+      "summary": "OpenAI将推出类似甜甜圈的ChatGPT智能硬件，具备AI人格和场景式入口功能。",
       "summaryZh": ""
     },
     {
       "title": "OpenAI用1年时间证明，你并不用为AI换浏览器",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Fb1F3S1NPU2gwekJQVWpFSXFrMWFfYUdTYUtaVmxZSGFBdE5nS2pGel9mcDVVMHpFRTlVdDE3OGtSenNsdWd5S04zV0MxSEFh?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiOVphS2lTdnhTNHR5Tk12T1ZTVk1md3JLVElNVlJPVElGaTJJNnZ6X2Y5LTdNTnNrcnR6dHVmTTJHOWdaX1ZiMHljZ0l1T3M?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
@@ -151,6 +103,17 @@
       "summaryZh": ""
     },
     {
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-08-09T19:20:32.000Z",
+      "summary": "Anthropic将Claude Code的自动模式设为默认，减少人工干预。",
+      "summaryZh": "",
+      "titleZh": "Anthropic 默认开启 Claude Code 的自动模式"
+    },
+    {
       "title": "OpenAI最大预训练模型Doug曝光",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yOHdUZ1c4TlJRbDlfVGptZm4zSDZtQmhvU0Z4TTVVbHZtV3M4U0g4YVFfX2hZOVNMYlJiSWl5TWx2WGkwVTRGWjRTd3JYSmpOWDFR?oc=5",
       "source": "华尔街见闻",
@@ -160,53 +123,33 @@
       "summary": ""
     },
     {
-      "title": "全球七成份额背后：扫地机器人装了多少\"中国芯\"？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44d1Z1dk5YUUJ2eEVRdWVLeG1EQkNyZUl3ZEdiekdpLTlydWZlclRQcHhxeXN1Y1BMemZJekNnam5uRjVndWtYM2Vkek1PdzNMSlJoVFVVTQ?oc=5",
-      "source": "与非网",
+      "title": "OpenAI称模型“阿斯特拉”网络安全活动或达严重风险，已暂停部分活动",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BWWVGMU5DaDRQbWtvNHdpNnp1akVXY3B0WUZjSUV4TUlZU1lmSmFXQXJpMWJfMjJsVGs0cElwU3U0U2REMVJ2M3RqZzJ6RjZ0OEZfcWxPOS1EbUNxbnZ2eFRmeVRoR1FBanBKNmdGTWxjcFAx?oc=5",
+      "source": "金融界",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-09T03:15:00.000Z",
-      "summary": "全球七成扫地机器人搭载中国芯，国产芯片在感知、控制、执行和连接层实现较高水平国产化。",
+      "category": "ai",
+      "pubDate": "2026-08-09T02:17:52.000Z",
+      "summary": "OpenAI暂停“阿斯特拉”模型部分网络安全活动，因评估达严重风险。",
       "summaryZh": ""
     },
     {
-      "title": "全链条发展！广州白云工业机器人产业集群入选省级特色产业集群",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZERxWFFNNUFkQmI4bzdQbkFLSDlNTlcwZnFlQlNxdnFMOTE1RVEzdnNnT2VQUXZjOFpKQ0QzTk1GSkZyZ2FFdmxua0FIeGNxZS1DY1V2SzRvcU00aWQ5TkhTRVNJSFJyZ1h5SVhocW9OZlRnS2pFa3BrdTdBQnpMbjYwYk5uYnhidG9FUQ?oc=5",
-      "source": "21财经",
+      "title": "下一个万亿赛道浮现 谁能站上工业智能体第一梯队",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KRlUyQ1psV0lrcm9vLVF5TTV1YTdkdUhXUEs4N1BWbWNrRWl4ektkbVhQeHBwNUZvLTZSM01SeGE0QzNBTXBzOElKRGpoUFRyd2w3MFRENkE?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-09T01:48:38.000Z",
+      "summary": "工业智能体市场高速增长，全栈服务商成竞争关键。",
+      "summaryZh": ""
+    },
+    {
+      "title": "宇树科技明日打新，注意四大事项",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SWTVYaWxlVTRmaXQwcXFlWlZWQUVVWENHZ3Zkbl9pREtKNDEtdXloLWIzMnJ2bzhBdTAxUFF5LVdvQmhLbGxGaw?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-09T14:27:00.000Z",
+      "pubDate": "2026-08-09T05:53:08.000Z",
       "summary": ""
-    },
-    {
-      "title": "北京开展养老护理职业技能大赛智慧养老纳入考察范围_中新社_北京分社",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPMEsySENWS2Nld0EtYzRHNHJGRUV3TV9mN25QZXZVN19TOHh2VDE5V3BmYVpYY0VwUGxlb1FzNXdacGZhcVdpMVloVndCWm5JSkxtd0hmUXdMeUc0WWRKbGxuRmRPVXR5?oc=5",
-      "source": "中国新闻网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-09T09:37:00.000Z",
-      "summary": "北京举办养老护理职业技能大赛，智慧养老技能纳入考察范围。",
-      "summaryZh": ""
-    },
-    {
-      "title": "人形机器人在深圳多场景“上岗”",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02UHhDRUhnWVlvMVYxQ3NTSGdJQndZci1FWlZKZVVobVlGRXBNckZLdVlYWXNoNDM0YU1wOGdzQzNNZ25idTg3ei1iWXh2ejlPS0xSb3VsLWM1NjAyWGxBbDFmTnI2UmZJR2JQY1hPSQ?oc=5",
-      "source": "中国经济网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-09T09:23:00.000Z",
-      "summary": "深圳多场景应用人形机器人。",
-      "summaryZh": ""
-    },
-    {
-      "title": "普渡机器人张涛：人形机器人不会替代专用机器人",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RN2c2amZhaHBrSzM1Uy0wNnNieVUyMjZYRWNYMXBpUDVfOVZ1eFB3TkxsUFhWdUZzRE5LS2xBblpQcXo4eFFiVFZvcXAteGxEMFZNcWNpRUxHLWNjQXBR?oc=5",
-      "source": "财新网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-09T09:00:00.000Z",
-      "summary": "普渡机器人张涛表示人形机器人无法替代专用机器人。",
-      "summaryZh": ""
     },
     {
       "title": "下周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
@@ -216,6 +159,16 @@
       "category": "robotics",
       "pubDate": "2026-08-09T02:03:31.000Z",
       "summary": ""
+    },
+    {
+      "title": "DeepSeek大涨价，Token价格战终于要结束了？",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hOVRLTEZPRVJfSnZ5MHZWcjZtakU5RUVmZ2ZSNkZVRURoTzNOREIyX2lhcnVNQlc1UmZrUm04MG1faXRJU1AxaGdsQWRLVFRMbkRfREg0Q0w4dVBXX2c?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-08T23:27:00.000Z",
+      "summary": "DeepSeek宣布将大幅上调API服务定价，Token价格战可能结束。",
+      "summaryZh": ""
     }
   ]
 }
