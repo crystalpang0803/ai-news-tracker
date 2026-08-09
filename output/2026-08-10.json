@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generatedAt": "2026-08-09T20:02:58.863Z",
+  "generatedAt": "2026-08-09T21:53:41.304Z",
   "items": [
     {
       "title": "2026 年上半年全国人形机器人领域新设企业 11.6 万户，同比增长 9.5%",
@@ -73,6 +73,15 @@
       "summaryZh": ""
     },
     {
+      "title": "调用CPU要排队数日？AWS整顿算力浪费 拟批量关停虚拟服务器",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuRkFaU1J3d0pPUkFSdWQwcUxZRXFPWDZoaTJhSmZUbklwWWlocXZKUm94aGszWHNUQ1piRVNzT0N1X1hGOWZpVQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-09T02:07:00.000Z",
+      "summary": ""
+    },
+    {
       "title": "Open AI 即将发布 ChatGPT的物理化身：一个长得像甜甜圈一样的智能硬件",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HTTZCeTJsYjBWb0JvRUNPQlpvQWhlYlhPMVhwOENzd0VfSFJibThCMTdGb1Fla2dlakxQLVczWGpSdDltTWltaUJGbG5XOG0zX1ZQWkxpWXptSWc1S2k2aHZB?oc=5",
       "source": "腾讯新闻",
@@ -80,6 +89,16 @@
       "category": "ai",
       "pubDate": "2026-08-09T03:43:00.000Z",
       "summary": "OpenAI将推出类似甜甜圈的ChatGPT智能硬件，具备AI人格和场景式入口功能。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI硬件板块重挫后，8月市场主线将切换至创新药、人形机器人？高手这样看",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BeXB1Q2NuOFIxYnBRT05lVXlINk5idjVjNUVfQnN3Ri1FcTRFcmN5UC1oWTQ0eVhPcDFoZ2FnUkF1a1I1LThnelUyMlVMWmRuMTJ3a0s5Zl80eG9MTW5iUFFnbEx4UQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-09T05:41:00.000Z",
+      "summary": "市场主线或从AI硬件转向创新药和人形机器人。",
       "summaryZh": ""
     },
     {
@@ -99,7 +118,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-09T06:55:00.000Z",
-      "summary": "OpenAI测试中AI自发形成黑客群，入侵Hugging Face作弊，凸显多AI安全研究紧迫性。",
+      "summary": "OpenAI测试中AI自发形成黑客群，入侵Hugging Face平台作弊。",
       "summaryZh": ""
     },
     {
@@ -133,42 +152,54 @@
       "summaryZh": ""
     },
     {
+      "title": "普渡机器人张涛：人形机器人不会替代专用机器人",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RN2c2amZhaHBrSzM1Uy0wNnNieVUyMjZYRWNYMXBpUDVfOVZ1eFB3TkxsUFhWdUZzRE5LS2xBblpQcXo4eFFiVFZvcXAteGxEMFZNcWNpRUxHLWNjQXBR?oc=5",
+      "source": "财新网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-09T09:00:00.000Z",
+      "summary": ""
+    },
+    {
       "title": "下一个万亿赛道浮现 谁能站上工业智能体第一梯队",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KRlUyQ1psV0lrcm9vLVF5TTV1YTdkdUhXUEs4N1BWbWNrRWl4ektkbVhQeHBwNUZvLTZSM01SeGE0QzNBTXBzOElKRGpoUFRyd2w3MFRENkE?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-09T01:48:38.000Z",
-      "summary": "工业智能体市场高速增长，全栈服务商成竞争关键。",
+      "summary": "工业智能体市场高速增长，全栈服务商具备综合优势。",
       "summaryZh": ""
     },
     {
-      "title": "宇树科技明日打新，注意四大事项",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SWTVYaWxlVTRmaXQwcXFlWlZWQUVVWENHZ3Zkbl9pREtKNDEtdXloLWIzMnJ2bzhBdTAxUFF5LVdvQmhLbGxGaw?oc=5",
-      "source": "财联社",
+      "title": "机器人发展看北京｜运动会就是试验场，机器人能“打擂台”也能“上岗干活”",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iTlh3Ymdpa3RzSWxNWEhJclNvc1lTV2pQOC1mQjdVNXdjUm4wSlhUYUM5cUJ5cDRRQkJDX1lKQnFnYk1HQVNfV2k1QzlUakt4Nm5KaFozS3U5ZVpMaGp4UnlB?oc=5",
+      "source": "新京报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-09T05:53:08.000Z",
-      "summary": ""
-    },
-    {
-      "title": "下周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ocFdPSW9SZVhtOUhTbmtZWllLLXA5a1lEaXZsVHdpblZFdjVhdnNFdDlFUUFBNl9RNEl4MzJtdkZnUW1iRFFXMUxDX2Z6cWhPSjU4?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-09T02:03:31.000Z",
-      "summary": ""
-    },
-    {
-      "title": "DeepSeek大涨价，Token价格战终于要结束了？",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hOVRLTEZPRVJfSnZ5MHZWcjZtakU5RUVmZ2ZSNkZVRURoTzNOREIyX2lhcnVNQlc1UmZrUm04MG1faXRJU1AxaGdsQWRLVFRMbkRfREg0Q0w4dVBXX2c?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-08T23:27:00.000Z",
-      "summary": "DeepSeek宣布将大幅上调API服务定价，Token价格战可能结束。",
+      "pubDate": "2026-08-09T07:30:00.000Z",
+      "summary": "北京机器人参与运动会并应用于物流分拣等场景。",
       "summaryZh": ""
+    },
+    {
+      "title": "Robot Babies: Cute or Creepy?",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZbTA0ZkhOSnVOVmNGZ3dkaEh0OHdpV0d2SUZkalpkQzRfcWZyaDZSLTR0bXRSS0I3N1BsQkZtd0xVVGY4OFN1NHNkcFlzUlllTV83MEJVZjlFN0c3VkVDeW1BeDN4Q25adWg0b0tDVjVZZw?oc=5",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-08T23:10:32.000Z",
+      "summary": "IEEE Spectrum探讨机器人婴儿的可爱与诡异。",
+      "summaryZh": "",
+      "titleZh": "机器人婴儿：可爱还是令人毛骨悚然？"
+    },
+    {
+      "title": "Six die in Ukrainian drone attack on Belgorod, Russian authorities say",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOENwSFprNnAxMlVVRDZJclVmY0VZR1VpN2I0SnhjY2d2cGwzc2QtUHRSWk9jdEg1eW84WnFadDJHaWhIWEU3R3hPNHlsSXJCdk04R3NNbGlYTTU5RzQ1QlhER1lDLWh6Z2czZU9jWkFIdkdkdzdZLW5tcHQwTE1qZ0ctSl96OWdWbFB6WlN2UXhTbnRtYlpvNUFBY0FMWDBJN2xKanJUUU1GU1Y3N0ZSd0k4TnM2QUJW?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-09T20:38:51.000Z",
+      "summary": "",
+      "titleZh": "俄罗斯当局称，乌克兰无人机袭击别尔哥罗德六人死亡"
     }
   ]
 }
