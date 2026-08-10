@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "generatedAt": "2026-08-10T20:21:18.067Z",
+  "generatedAt": "2026-08-10T22:02:20.058Z",
   "items": [
     {
       "title": "上海：推动算力和基础大模型扩大境外调用，支持智能体、多模态生成等模型产品出口",
@@ -29,7 +29,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-10T13:15:20.000Z",
-      "summary": "奕境X9鸿蒙座舱HarmonySpace6首秀，搭载“哈蒙蒙”AI陪伴机器人。",
+      "summary": "奕境X9鸿蒙座舱HarmonySpace 6首秀，搭载“哈蒙蒙”AI陪伴机器人。",
+      "summaryZh": ""
+    },
+    {
+      "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
+      "link": "https://www.qbitai.com/2026/08/469520.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-10T06:58:58.000Z",
+      "summary": "具身智能公司昆仑行90天内连融三轮，规模达数十亿元，但认为仅靠融资无法实现物理AGI。",
       "summaryZh": ""
     },
     {
@@ -74,33 +84,13 @@
       "titleZh": "AWS Continuum 与 OpenAI Codex 和 Anthropic Claude Code 集成以推动人工智能安全的重大发展"
     },
     {
-      "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDRJNHZDWC05T1Jvbm9qcjJvSTZXSHZfV1pabmhRWFU0MWZ5TVhhOV8zaFFvbzRmdnk1MXhkeXNmbDhMY2NKaDNGaFM3SVBUTHc1cklXYzJFU3F4dm8xcENxWHk1OVJnUnc5ZG9KMWZDUFRHUWlIcTZUSmYzNTBwZV9GSGJuUFMxSVhNQkRWemEwdEhpMjVUYVpFeWYxOGFXeUwxTDFoYkdkT2V4Q0ZxdTNva2Nha1E?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-08-10T19:48:45.000Z",
-      "summary": "",
-      "titleZh": "美国众议院民主党人就流氓人工智能代理向 Anthropic 和 OpenAI 施压"
-    },
-    {
-      "title": "农夫山泉创始人钟睒睒:AI时代不是用机器人取代农民",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaX2tRalBxNk9CNTRiRWUyRWpjLXRzWnZhNnZWdldzeEE2SU41V2pUUVN4dmFrNjBSTXFocVlKQmQxN2RnWWY1MU1LU2hfQkcxeWpibQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-10T09:51:00.000Z",
-      "summary": "钟睒睒强调AI时代应尊重农民劳动成果，用技术赋能农业生产。",
-      "summaryZh": ""
-    },
-    {
       "title": "从宇树科技看行业拐点：人形机器人产业盈利的关键分水岭",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSSVY5dmlPa3B3WC1LMEhzc0FTR3NubzZQaTJaOGRaQm1mdy1QR3BlbW1JQmxsYmNQTjNMdHVtOEltYlU2NHQ4cXlCUi1najZMdnQ5TWs1WQ?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-10T02:19:27.000Z",
-      "summary": "宇树科技上市标志着人形机器人行业进入盈利阶段，成为行业价值重估的拐点。",
+      "pubDate": "2026-08-10T02:02:14.000Z",
+      "summary": "宇树科技上市标志着人形机器人行业进入盈利阶段。",
       "summaryZh": ""
     },
     {
@@ -110,7 +100,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-10T09:05:18.000Z",
-      "summary": "视频大模型强化推动AI工具流发展，引发行业竞争与分化。",
+      "summary": "视频大模型增强，AI工具流市场活跃，竞争分化明显。",
       "summaryZh": ""
     },
     {
@@ -120,17 +110,37 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-10T01:54:29.000Z",
-      "summary": "AI算力资本开支估算达3-4万亿美元，但实现条件极为严苛。",
+      "summary": "AI算力资本开支估算达3-4万亿美元，但实现条件苛刻。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI关停AI浏览器ChatGPT Atlas，独立AI原生浏览器前景收缩",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BUExoSFBpWjJrXzAzQ1R4UlRvSUZ6cjdJdHpFQVNWMDFGZjFka1REWUZFYmtSODZSSGtCd2RteHdTcDFGYWZjSWszemNSbHJneU8xOQ?oc=5",
-      "source": "虎嗅",
+      "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
+      "link": "https://www.qbitai.com/2026/08/469500.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-10T00:59:40.000Z",
-      "summary": "OpenAI关闭ChatGPT Atlas，AI原生浏览器赛道收窄。",
+      "pubDate": "2026-08-10T05:37:51.000Z",
+      "summary": "Anthropic宣布Claude Code将于5天后默认启用自动模式，多花费用由A社承担。",
+      "summaryZh": ""
+    },
+    {
+      "title": "联想发布个人超级智能体天禧AI 4.2",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZeTgwNTRGMF9iT3JCZHhvd3A1V0lGRFc2elZGQk5kWlpaSlBNMW9SYm5CWllIMy04NjRUQ3FlNF9abzNtZEJKTS1VT2dMalB5dG9yV3ZRS1Y0Zw?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-10T03:50:00.000Z",
+      "summary": "联想发布个人超级智能体天禧AI 4.2，支持全终端一键唤醒全域AI能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "芯片行业能效比革新：2026 端侧大模型 AI 芯片选型与产业趋势解读",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hM1ZmYk94aVhWUk9JdkZKZFZDWEZyMjBLZ2RpY2M2VjhJUG90WUVsSnA0M3VmSmRORm9oVE1iaUVEOU1wcUNmWk50ZjE?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-10T09:59:11.000Z",
+      "summary": "2026年AI芯片产业聚焦端侧大模型，国产芯片架构创新推动能效比提升。",
       "summaryZh": ""
     },
     {
@@ -144,47 +154,6 @@
       "summaryZh": ""
     },
     {
-      "title": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只",
-      "link": "https://www.qbitai.com/2026/08/469213.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-10T01:34:10.000Z",
-      "summary": "全球灵巧手企业约50%在中国，融资额超200亿，技术挑战巨大。",
-      "summaryZh": ""
-    },
-    {
-      "title": "宇树科技今日启动申购，网上发行最终中签率约 0.0181%",
-      "link": "https://www.ithome.com/0/988/025.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-10T12:30:28.000Z",
-      "summary": "宇树科技申购启动，网上发行中签率约0.0181%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Tate deploys 58 Hirebotics cobot welders across multiple facilities",
-      "link": "https://www.therobotreport.com/tate-deploys-58-hirebotics-cobot-welders-across-multiple-facilities/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-10T18:46:22.000Z",
-      "summary": "Tate公司在多地工厂部署58台Hirebotics协作焊接机器人。",
-      "summaryZh": "",
-      "titleZh": "Tate 在多个设施中部署了 58 台 Hirebotics 协作机器人焊机"
-    },
-    {
-      "title": "Explainer: What is Unitree and why are China’s humanoid robot makers racing to list?",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjB2dzNKb3VmRVFmUlhoXzMyTFBwQ2p0V3JhX3N0TWV2Mkcza2pfR09rNUdYQXJzX25MV3V6eXJBdXdqdjVXMnJPQldxRFp5M0ZUNVVrSWVhODB4SF9BdXVXNVUzTVJWYnFqS2F4bWV5VW1zdlZxMGFzUGwtbEh4Y0VULWVxTE9mUVRXa3huQ1ZnNGVxYndWbWVhcDJ4OWI5bXJxWUg5emIyYU9mUlVEQzJjNXA1S0FaNFhF?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-10T02:36:00.000Z",
-      "summary": "",
-      "titleZh": "解说：Unitree是什么？为何中国仿人机器人厂商竞相上市？"
-    },
-    {
       "title": "人形机器人MCU研究：从通用控制向高价值专用芯片方案演进，并集成边缘AI功能",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WNkdJV0tpaFRxbzM1NFVHRTVNR2FmbjhKTU94ZEFFVHpxc3prY0hlTGJQWXd5bGtsMGp1blFKcGNROHl1MWV5bTlxVDV0T2syRUtXSUhlZw?oc=5",
       "source": "与非网",
@@ -193,6 +162,26 @@
       "pubDate": "2026-08-10T01:25:35.000Z",
       "summary": "人形机器人MCU研究转向高价值专用芯片，集成边缘AI功能。",
       "summaryZh": ""
+    },
+    {
+      "title": "首个全国产10万卡AI超集群投用；今年上半年人形机器人领域新设企业11.6万户",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UQzRteEdsanBtc2xBYjhVSURjS192ejA3MzE2RVRrWU5jNFZ4emR0RWRaaGJsRVJHN2FPNHFrd0FLa3VUUEV4TnBVVV96TDlvNS1xQXVn?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-09T23:03:00.000Z",
+      "summary": "全国产10万卡AI超集群投用，人形机器人领域新设企业11.6万户。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Explainer: What is Unitree and why are China’s humanoid robot makers racing to list?",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjB2dzNKb3VmRVFmUlhoXzMyTFBwQ2p0V3JhX3N0TWV2Mkcza2pfR09rNUdYQXJzX25MV3V6eXJBdXdqdjVXMnJPQldxRFp5M0ZUNVVrSWVhODB4SF9BdXVXNVUzTVJWYnFqS2F4bWV5VW1zdlZxMGFzUGwtbEh4Y0VULWVxTE9mUVRXa3huQ1ZnNGVxYndWbWVhcDJ4OWI5bXJxWUg5emIyYU9mUlVEQzJjNXA1S0FaNFhF?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-10T12:56:39.000Z",
+      "summary": "",
+      "titleZh": "解说：Unitree是什么？为什么中国仿人机器人厂商竞相上市？"
     },
     {
       "title": "中国AI连续14周“霸榜”；宇树科技IPO在即；马斯克“唱多”SpaceX。",
@@ -214,13 +203,43 @@
       "summary": ""
     },
     {
-      "title": "氛围感民宿“见光死” 商家用AI生成图片引流 涉嫌消费欺诈",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zV2NOOEJVYWg0SVVCeVU4UFZEelZyNi0xdkRrbUlualJndmRfaUN2Y3hJTV9hczhBMDAyS05MM1c3bXNVcmdRWXhiWTE2ZVlIYlpNbVYxZlUwSTc3ZnhJMzVWNA?oc=5",
-      "source": "东方财富网",
+      "title": "小鹏汽车离职高管，扎堆去往同一家机器人公司",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aLXpNSVNRdGhDOTdZZEhfRmFPQnoxbnNIdW4zRHdDdC1Ic1dzWmcxTG1yakhaUy1TWU5NcTlad09jLWRESmVoNzkyeDZvcEdCR3RHcVh0d0RBVzhVLTdHM2ZXblJnX0JvTjl3SHBaeF9mMlk?oc=5",
+      "source": "新浪科技",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-10T13:19:00.000Z",
-      "summary": "民宿商家用AI假图引流涉嫌消费欺诈，游客体验差。",
+      "category": "robotics",
+      "pubDate": "2026-08-10T14:02:00.000Z",
+      "summary": "小鹏汽车多位离职高管加盟同一家机器人公司。",
+      "summaryZh": ""
+    },
+    {
+      "title": "通讯丨中国自动驾驶出租车“驶入”阿联酋",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qMWlFaWdaTU5veWJMSnpuWm9RaUdfbUJXdXFEbkhNYkl0MDgtTngteDBwQjYzLXp3dWlWSEN2czB0cnBEVlRqMHVLNnN0NmgwVmpKa09ycXBYQzN1MlVDQ04zYlBzVC1SNHJQdWp1ZUh0dHFrSzBSeDY3VEt6VDA?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-10T05:23:45.000Z",
+      "summary": "中国自动驾驶出租车在阿联酋迪拜开展商业化运营。",
+      "summaryZh": ""
+    },
+    {
+      "title": "星辉环材成立科技新公司 含AI及机器人业务",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VbkxyVE1BZmxfRTN0RGF2OERpS211WHpqX3ZwRk5JQjFLLWhTeGlLOGlfVm9vaGZqNFpsZ0ZtMGxTNVhpVHVBVFpUVjVGbmlO?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-10T05:45:50.000Z",
+      "summary": "星辉环材成立新公司，涉AI及机器人业务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "开启全球机器人卫浴新时代:九牧携手吴声发布AI机器手马桶卫浴新产品“X80”",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52bVhYMWFmVnZjaTdIaGJhSXM5LWFZdWNGR1daam8ycGo1T1hvd28tNjQ3ZFprb19jaEpEeFpwUjFCUU1ibG5CbHFnc1hNUElza1BZa25wSVcwbG1iNnFzTU5HbFFDRzBWemdSS3Nn?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-10T11:02:21.000Z",
+      "summary": "九牧与吴声发布AI机器手马桶卫浴新产品“X80”。",
       "summaryZh": ""
     }
   ]
