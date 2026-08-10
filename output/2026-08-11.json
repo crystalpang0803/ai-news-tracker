@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "generatedAt": "2026-08-10T22:02:20.058Z",
+  "generatedAt": "2026-08-10T23:19:12.884Z",
   "items": [
     {
       "title": "上海：推动算力和基础大模型扩大境外调用，支持智能体、多模态生成等模型产品出口",
@@ -23,13 +23,13 @@
       "summaryZh": ""
     },
     {
-      "title": "奕境 X9 鸿蒙座舱 HarmonySpace 6 首秀，支持“哈蒙蒙”AI 陪伴机器人",
-      "link": "https://www.ithome.com/0/988/031.htm",
-      "source": "IT之家",
+      "title": "AI Agent落地业务一线 重构泛娱乐产业增长新范式",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MbU9LZmFXNnNwNUtFQTBtc2ZZVExJX2FxVlVOc3dmWWotNWIzT2pXaFFjNVRiMlRGVFVpT3J3czZQMDhPVW5YZDl6R0xsRUJHNi1aX01TcTVCSTZvVFBGQjZDOHZ5ZmZvaWcwMV9oVQ?oc=5",
+      "source": "中国新闻网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-10T13:15:20.000Z",
-      "summary": "奕境X9鸿蒙座舱HarmonySpace 6首秀，搭载“哈蒙蒙”AI陪伴机器人。",
+      "category": "ai",
+      "pubDate": "2026-08-10T10:29:00.000Z",
+      "summary": "AI Agent应用于泛娱乐产业，重构业务增长模式。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-10T06:58:58.000Z",
-      "summary": "具身智能公司昆仑行90天内连融三轮，规模达数十亿元，但认为仅靠融资无法实现物理AGI。",
+      "summary": "具身智能领域融资难以支撑长期发展，需创新范式与工程。",
+      "summaryZh": ""
+    },
+    {
+      "title": "消息称智谱 API 用户接近 700 万，已启用超 5 万块国产算力芯片",
+      "link": "https://www.ithome.com/0/988/048.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-10T14:42:11.000Z",
+      "summary": "智谱API用户数近700万，启用超5万块国产算力芯片。",
       "summaryZh": ""
     },
     {
@@ -59,29 +69,18 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-10T13:03:12.000Z",
-      "summary": "微软计划9月发布Maia 300芯片，明年大幅提升AI芯片产量。",
+      "summary": "微软计划9月发布下一代Maia 300芯片，明年将大幅提升AI芯片产量。",
       "summaryZh": ""
     },
     {
-      "title": "天融信：公司大模型多模态安全网关产品主要应用于大模型私有化部署、智能办公、智能客服、AI编程等业务场景中",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oLUpwUWpLekhxalVTbjlzSVNvQTZjRVh3VzAwaFZDTllCTEFvWGc3SWdadmo1dWkwbWpBSmRPUnRJU3NGUml2aHJHeWpUOVhyOUVZcTVnNDBLc1lxMFNFUlhtOE42bWlr?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-10T07:54:37.000Z",
-      "summary": "天融信大模型多模态安全网关应用于私有化部署、智能办公等场景。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push",
-      "link": "https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push",
-      "source": "VentureBeat",
+      "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDRJNHZDWC05T1Jvbm9qcjJvSTZXSHZfV1pabmhRWFU0MWZ5TVhhOV8zaFFvbzRmdnk1MXhkeXNmbDhMY2NKaDNGaFM3SVBUTHc1cklXYzJFU3F4dm8xcENxWHk1OVJnUnc5ZG9KMWZDUFRHUWlIcTZUSmYzNTBwZV9GSGJuUFMxSVhNQkRWemEwdEhpMjVUYVpFeWYxOGFXeUwxTDFoYkdkT2V4Q0ZxdTNva2Nha1E?oc=5",
+      "source": "Reuters Technology",
       "lang": "en",
       "category": "ai",
-      "pubDate": "2026-08-10T20:00:00.000Z",
-      "summary": "AWS Continuum与OpenAI Codex和Anthropic Claude Code集成，加强AI安全防护。",
-      "summaryZh": "",
-      "titleZh": "AWS Continuum 与 OpenAI Codex 和 Anthropic Claude Code 集成以推动人工智能安全的重大发展"
+      "pubDate": "2026-08-10T19:48:45.000Z",
+      "summary": "",
+      "titleZh": "美国众议院民主党人就流氓人工智能代理向 Anthropic 和 OpenAI 施压"
     },
     {
       "title": "从宇树科技看行业拐点：人形机器人产业盈利的关键分水岭",
@@ -110,7 +109,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-10T01:54:29.000Z",
-      "summary": "AI算力资本开支估算达3-4万亿美元，但实现条件苛刻。",
+      "summary": "AI算力资本开支估算达3-4万亿美元，但实现条件极为严苛。",
       "summaryZh": ""
     },
     {
@@ -144,36 +143,6 @@
       "summaryZh": ""
     },
     {
-      "title": "135亿！曝黄仁勋投了OpenAI供应商",
-      "link": "https://zhidx.com/p/583422.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-10T05:45:48.000Z",
-      "summary": "英伟达投资20亿美元入股东海岸数据中心开发商Lancium，锁定电力资源。",
-      "summaryZh": ""
-    },
-    {
-      "title": "人形机器人MCU研究：从通用控制向高价值专用芯片方案演进，并集成边缘AI功能",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WNkdJV0tpaFRxbzM1NFVHRTVNR2FmbjhKTU94ZEFFVHpxc3prY0hlTGJQWXd5bGtsMGp1blFKcGNROHl1MWV5bTlxVDV0T2syRUtXSUhlZw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-10T01:25:35.000Z",
-      "summary": "人形机器人MCU研究转向高价值专用芯片，集成边缘AI功能。",
-      "summaryZh": ""
-    },
-    {
-      "title": "首个全国产10万卡AI超集群投用；今年上半年人形机器人领域新设企业11.6万户",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UQzRteEdsanBtc2xBYjhVSURjS192ejA3MzE2RVRrWU5jNFZ4emR0RWRaaGJsRVJHN2FPNHFrd0FLa3VUUEV4TnBVVV96TDlvNS1xQXVn?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-09T23:03:00.000Z",
-      "summary": "全国产10万卡AI超集群投用，人形机器人领域新设企业11.6万户。",
-      "summaryZh": ""
-    },
-    {
       "title": "Explainer: What is Unitree and why are China’s humanoid robot makers racing to list?",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjB2dzNKb3VmRVFmUlhoXzMyTFBwQ2p0V3JhX3N0TWV2Mkcza2pfR09rNUdYQXJzX25MV3V6eXJBdXdqdjVXMnJPQldxRFp5M0ZUNVVrSWVhODB4SF9BdXVXNVUzTVJWYnFqS2F4bWV5VW1zdlZxMGFzUGwtbEh4Y0VULWVxTE9mUVRXa3huQ1ZnNGVxYndWbWVhcDJ4OWI5bXJxWUg5emIyYU9mUlVEQzJjNXA1S0FaNFhF?oc=5",
       "source": "Reuters Technology",
@@ -184,52 +153,13 @@
       "titleZh": "解说：Unitree是什么？为什么中国仿人机器人厂商竞相上市？"
     },
     {
-      "title": "中国AI连续14周“霸榜”；宇树科技IPO在即；马斯克“唱多”SpaceX。",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhbTZ3OU5KQV91WE9xdFpEVjNtZHVjR0dxSTFzbWtzcGNLYXlmR2lWZ3dpaXRaMDJYMUkwYkFXOWtJNkVYR3RVZWhuaUk3UXRTUmR3?oc=5",
-      "source": "虎嗅",
+      "title": "基于匠芯创D126系列AI陪伴机器人方案_视频",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DV1JJQTdwMWkzTGtmTXlIcS00cGZsTklKMGZqXy0zdjB6LTAyMENBQnN6MjdoRFRyOEN0R0tXYzRvbDRIc3JyNXUzbk5WT2pPVkZDZQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-09T23:28:14.000Z",
-      "summary": "中国AI连续14周全球领先，宇树科技IPO启动，马斯克看好SpaceX。",
-      "summaryZh": ""
-    },
-    {
-      "title": "索尼台积电拟投1万亿日元在熊本建合资厂，拟量产下一代图像传感器供苹果",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtWk5mcnZOZlFwSk5tV25iS0tQclRMaWpXUUdXQXlGdTJielhHejlfY016OTFWWXluT3RnUlJrNDdwR0kwT2hPRElkSndWZUV6Wnpj?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-10T10:33:59.000Z",
-      "summary": ""
-    },
-    {
-      "title": "小鹏汽车离职高管，扎堆去往同一家机器人公司",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aLXpNSVNRdGhDOTdZZEhfRmFPQnoxbnNIdW4zRHdDdC1Ic1dzWmcxTG1yakhaUy1TWU5NcTlad09jLWRESmVoNzkyeDZvcEdCR3RHcVh0d0RBVzhVLTdHM2ZXblJnX0JvTjl3SHBaeF9mMlk?oc=5",
-      "source": "新浪科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-10T14:02:00.000Z",
-      "summary": "小鹏汽车多位离职高管加盟同一家机器人公司。",
-      "summaryZh": ""
-    },
-    {
-      "title": "通讯丨中国自动驾驶出租车“驶入”阿联酋",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qMWlFaWdaTU5veWJMSnpuWm9RaUdfbUJXdXFEbkhNYkl0MDgtTngteDBwQjYzLXp3dWlWSEN2czB0cnBEVlRqMHVLNnN0NmgwVmpKa09ycXBYQzN1MlVDQ04zYlBzVC1SNHJQdWp1ZUh0dHFrSzBSeDY3VEt6VDA?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-10T05:23:45.000Z",
-      "summary": "中国自动驾驶出租车在阿联酋迪拜开展商业化运营。",
-      "summaryZh": ""
-    },
-    {
-      "title": "星辉环材成立科技新公司 含AI及机器人业务",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VbkxyVE1BZmxfRTN0RGF2OERpS211WHpqX3ZwRk5JQjFLLWhTeGlLOGlfVm9vaGZqNFpsZ0ZtMGxTNVhpVHVBVFpUVjVGbmlO?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-10T05:45:50.000Z",
-      "summary": "星辉环材成立新公司，涉AI及机器人业务。",
+      "pubDate": "2026-08-10T03:18:01.000Z",
+      "summary": "匠芯创发布D126系列AI陪伴机器人方案，支持多屏异显和语音交互。",
       "summaryZh": ""
     },
     {
@@ -241,6 +171,36 @@
       "pubDate": "2026-08-10T11:02:21.000Z",
       "summary": "九牧与吴声发布AI机器手马桶卫浴新产品“X80”。",
       "summaryZh": ""
+    },
+    {
+      "title": "机器狗上路还有多远？行业标准正在制定中",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TZVE0RktvSzNOX1lqcjg5WVZRWUpxTDFyUlpfbllSeDEzeEl3Y2tTZWJ2YkZfNlJtN2tCN2tEdmJDdmM2eVFjT2piZGRSbEY2SDlFSXFsQjE5YURPSmdWeGlB?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-10T07:20:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "一具身机器人企业发布新模型，获招商局创投、蔚来资本天使轮投资",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LX3ZKTG9oUy1vdDNyOENsTnZkOWp4WnBDc29IeVkxVlpvbXg0U1UxUWtmZk1SR3ZYRk9EOWJQYm9mM2Z3Qlh1b3RONGI2SHJGbzRJRWNPN2x3RXVHczRDZWdn?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-10T15:20:00.000Z",
+      "summary": "橡木果机器人发布“Natus AGE-0具身本能模型”，获招商局创投、蔚来资本等投资。",
+      "summaryZh": ""
+    },
+    {
+      "title": "A ‘5-in-1’ seed-sized surgical robot",
+      "link": "https://robohub.org/a-5-in-1-seed-sized-surgical-robot/",
+      "source": "Robohub",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-10T14:38:45.000Z",
+      "summary": "新加坡南洋理工大学研发出可进行五项手术功能的微型种子机器人。",
+      "summaryZh": "",
+      "titleZh": "“五合一”种子大小的手术机器人"
     }
   ]
 }
