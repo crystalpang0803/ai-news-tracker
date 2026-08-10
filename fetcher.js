@@ -81,8 +81,8 @@ const SKIP_PATTERNS = [
   /sponsored|presented by|advertisement|\bdeal[s]?\b|discount|coupon|giveaway|\d+%\s*off|black friday|cyber monday|webinar|register now|sign up|whitepaper/i,
   /标签_|_标签|专题页|频道页|_网易出品|_腾讯网|资讯列表|新闻汇总|_专栏|专区$|栏目$|出品$/,
   /我花\d|我买了|我花了|我试了|我用了|我带着|亲测|开箱|结果它|真香|翻车|踩坑|吐槽|夹子音|陪我聊|你敢信|绝了|离谱|逼疯|种草|安利|花了\d+元|买了台|买了个/,
-  /恐袭|恐怖袭击|枪击案|爆炸案|凶杀|谋杀案|命案|遇害|遇难|绑架|人质|难民|地震|洪灾|洪水|台风|飓风|山火|坠机|空难|骚乱|大选|竞选|弹劾|球赛|世界杯|奥运会|票房|演唱会|绯闻|婚变|涨停|跌停|连板|封板|个股|概念股|反复活跃|主力资金|游资|集合竞价|尾盘异动|盘中异动|龙虎榜|沪指|深指|北向资金/,
-  /\bislamist\b|\bterror(ism|ist)?\b|\bshooting\b|\bgunman\b|\bhostage\b|\bmissile\b|\brefugee\b|\bearthquake\b|\bwildfire\b|\bworld cup\b|\bolympic|box office|\bpride (parade|event|attack)\b/i
+  /恐袭|恐怖袭击|枪击案|爆炸案|凶杀|谋杀案|命案|遇害|遇难|绑架|人质|难民|地震|洪灾|洪水|台风|飓风|山火|坠机|空难|骚乱|空袭|炮击|导弹袭击|无人机袭击|无人机来袭|遇袭|袭击致|多人死亡|数十人死亡|大选|竞选|弹劾|球赛|世界杯|奥运会|票房|演唱会|绯闻|婚变|涨停|跌停|连板|封板|个股|概念股|反复活跃|主力资金|游资|集合竞价|尾盘异动|盘中异动|龙虎榜|沪指|深指|北向资金/,
+  /\bislamist\b|\bterror(ism|ist)?\b|\bshooting\b|\bgunman\b|\bhostage\b|\bmissile\b|\brefugee\b|\bearthquake\b|\bwildfire\b|\bworld cup\b|\bolympic|box office|\bpride (parade|event|attack)\b|\bdrone (attack|strike)s?\b|\b(air|rocket|artillery|missile) ?strikes?\b|\bshelling\b|\bcasualties\b|\bkilled in\b|\bwounded in\b|\b(die|dies|died) in (a |an |the )?\w+ ?(attack|strike|war)|\bair ?raid\b|\bwarplanes?\b/i
 ];
 function isLowQuality(title) {
   if (!title) return true;
