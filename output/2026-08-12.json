@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generatedAt": "2026-08-11T17:09:44.807Z",
+  "generatedAt": "2026-08-11T19:15:51.107Z",
   "items": [
     {
       "title": "网上中签率 0.018% 仅为长鑫 3.8%：“人形机器人第一股”宇树科技公布中签结果，超 978 万户参与申购",
@@ -38,17 +38,28 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-11T05:12:20.000Z",
-      "summary": "Claude研究模型在黎曼猜想上取得重大进展，将零点比例下界从41.6%提升至67.2%。",
+      "summary": "Claude研究模型在黎曼猜想上取得重大进展，将满足黎曼ζ函数零点比例的下界从41.6%提高至67.2%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "高盛称AI投资重点正转向人形机器人，2027年至2029年或迎规模化部署。",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MOFFpZDhUQ3FjSk83UjhaN2FRUUtIUXg1QVM4a1VyRGV3bU5wTU5LMXduREZsR3hiX1g3amd4UHpBVVJXRWV3WjcxQndwWlBzUlVJ?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-11T08:29:56.000Z",
+      "summary": "高盛预测2027至2029年人形机器人将迎来规模化部署。",
       "summaryZh": ""
     },
     {
       "title": "豆包开始抽佣，国产大模型终于跑通了最难的那条路",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjS1AwZWJHV0RTRk1QMTl1amVZMnQ0SkNaZE1ESjRWTzZpMXJYUndfNE9Ybzd0ZVpVSnlhUEFhRHVNVHJRQTdPTVY5VGh4UQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjVUtyRXZoaTQxaGhZU1dTZlh4cW12a0REZUVZNVAwcUNXTXkxZk9OaHpuQ0IxWk9CV2VQMDh1aHpqR2lCanZPZ1ZBQlJGYzg?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-10T17:52:00.000Z",
-      "summary": ""
+      "pubDate": "2026-08-11T08:54:01.000Z",
+      "summary": "豆包推出抽佣模式，国产大模型商业化路径清晰。",
+      "summaryZh": ""
     },
     {
       "title": "英伟达调动5000亿美元，算力金融化加速",
@@ -57,7 +68,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-11T10:38:15.000Z",
-      "summary": "英伟达与多家金融机构合作，计划调动5000亿美元资本支持AI基础设施建设。",
+      "summary": "英伟达携手金融机构，计划调动5000亿美元资本支持AI基础设施建设。",
       "summaryZh": ""
     },
     {
@@ -77,7 +88,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-11T12:11:50.000Z",
-      "summary": "蚂蚁百灵开源轻量级混合推理MoE模型Ling-3.0-tiny，参数量7.9B，兼顾性能与可部署性。",
+      "summary": "蚂蚁百灵开源轻量级混合推理MoE模型Ling-3.0-tiny。",
       "summaryZh": ""
     },
     {
@@ -97,7 +108,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-10T23:19:00.000Z",
-      "summary": "AI Coding时代，资深工程师价值凸显，新人成长模式需转变。",
+      "summary": "AI Coding时代，资深工程师价值凸显，新人成长模式需变革。",
       "summaryZh": ""
     },
     {
@@ -107,17 +118,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-11T01:58:28.000Z",
-      "summary": "中国AI大模型调用量连续15周全球领先，英伟达宣布5000亿AI基建计划。",
-      "summaryZh": ""
-    },
-    {
-      "title": "5000亿美元！英伟达和华尔街的“算力资产化实验”",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50THlfX3V1TTNsdUpkTFJjZGNfMXRXQ3d0Qm1ubDVFVlNndldKWjNRaExVM0drbFp5MS1EeFl5b2FKZU1QUG1rZWY3YXhUSlVZTHhN?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-11T03:11:08.000Z",
-      "summary": "英伟达与华尔街机构合作，设立5000亿美元融资平台支持AI基础设施建设。",
+      "summary": "中国AI大模型调用量连续15周全球领先，英伟达启动5000亿AI基建计划。",
       "summaryZh": ""
     },
     {
@@ -127,7 +128,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-11T11:39:15.000Z",
-      "summary": "鸿利智汇与深圳市人工智能产业协会签署战略合作框架协议。",
+      "summary": "鸿利智汇与深圳市人工智能产业协会签署战略合作框架协议，推动产业智能化升级。",
+      "summaryZh": ""
+    },
+    {
+      "title": "5000亿美元！英伟达和华尔街的“算力资产化实验”",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50THlfX3V1TTNsdUpkTFJjZGNfMXRXQ3d0Qm1ubDVFVlNndldKWjNRaExVM0drbFp5MS1EeFl5b2FKZU1QUG1rZWY3YXhUSlVZTHhN?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-11T03:11:08.000Z",
+      "summary": "英伟达与华尔街机构合作，建立5000亿美元融资平台支持AI基础设施建设。",
       "summaryZh": ""
     },
     {
@@ -137,19 +148,18 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-11T03:52:05.000Z",
-      "summary": "英伟达黄仁勋强调AI算力为投资级资产，否认循环融资质疑。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
-      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-      "source": "TechCrunch",
+      "title": "Your AI agent may be ready. Your sales motion probably isn’t.",
+      "link": "https://venturebeat.com/technology/your-ai-agent-may-be-ready-your-sales-motion-probably-isnt",
+      "source": "VentureBeat",
       "lang": "en",
       "category": "ai",
-      "pubDate": "2026-08-10T20:04:24.000Z",
-      "summary": "AI代理成功入侵健身房预订系统。",
+      "pubDate": "2026-08-11T13:00:00.000Z",
+      "summary": "AI代理准备就绪，但销售流程可能滞后。",
       "summaryZh": "",
-      "titleZh": "克劳德特工入侵健身房后，科技行业一片喧嚣"
+      "titleZh": "您的人工智能代理可能已准备就绪。你的销售动议可能不是。"
     },
     {
       "title": "抢抓暑期旺季机遇 在线旅游平台加速推进AI能力落地",
@@ -162,13 +172,23 @@
       "summaryZh": ""
     },
     {
+      "title": "具身智能机器人产业链全景图（8月版）",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qWlQ1b28taU0tV0lXSE41cmo3N2VJOEVEMDRkdTBKbl9QNktfLUFaV2RzMjdRanZORFJybjhpcU5uUmdESzdKeUtUbThFYzhRT3BvRDhkSQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-11T02:17:45.000Z",
+      "summary": "发布具身智能机器人产业链全景图（8月版），涵盖整机厂商至算法软件层。",
+      "summaryZh": ""
+    },
+    {
       "title": "2026上半年中国人形机器人市场发展回顾及未来预测",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hSndXc1g2QW84WjktTFVTT3hXN2VYcE5iMFVBcjNCT0o0RXBQWk16cTFrMm5iSmxJaVc2VE1FTXpjLXRvVDcwMlhVWGNqSjNqY1RieWZGYw?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-11T02:35:07.000Z",
-      "summary": "2026上半年中国人形机器人产量近2.5万台，同比增长312%，出货量近2万台，同比增长314%。",
+      "pubDate": "2026-08-11T03:02:30.000Z",
+      "summary": "2026上半年中国人形机器人产量近2.5万台，同比增长312%，商业化出货稳步增长。",
       "summaryZh": ""
     },
     {
@@ -182,23 +202,13 @@
       "summaryZh": ""
     },
     {
-      "title": "机器人从“能动”到“能干活”，热管理为什么变重要？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUMFl1dHRYNjhvMDBkbkZoTWg1WXFobl83RHJ5bU8tQy16WFIxcnBOOEFIei15UldmV3RQdm04ZkdPYm02VExOQkZCSU50VjFNV1N6OElkbw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-11T05:40:27.000Z",
-      "summary": "机器人热管理技术成为关键，确保其持续稳定工作。",
-      "summaryZh": ""
-    },
-    {
       "title": "爬墙机器人“飞檐走壁” 重庆丰都龙凤大桥穿上“科技新衣”",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGdi0wTEpWOUt4cHp6VzVtNU1VWHY3NzU2elR0c1piSi1MNW9jc0xibUphM3cyUTBtZDdtQ2JCc3ZGOUhES003QWFLRk1ZMUE4VzhQNTVIVlZyQUYwTWxIVWdmT1V6SFZvck01bnkydmI?oc=5",
       "source": "科技日报",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-11T13:07:46.000Z",
-      "summary": "重庆丰都龙凤大桥主桥钢结构涂装采用爬墙机器人完成，提高施工效率和安全性。",
+      "summary": "重庆丰都龙凤大桥主桥钢结构涂装采用爬墙机器人完成，提升施工效率和安全性。",
       "summaryZh": ""
     },
     {
@@ -208,7 +218,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-11T06:24:00.000Z",
-      "summary": "武汉桔子水晶酒店AI回复差评被指不道歉，酒店否认。",
+      "summary": "武汉桔子水晶酒店AI回复差评被指含“不道歉”指令，酒店否认。",
       "summaryZh": ""
     },
     {
