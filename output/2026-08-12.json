@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generatedAt": "2026-08-11T20:22:30.189Z",
+  "generatedAt": "2026-08-11T22:09:01.502Z",
   "items": [
     {
       "title": "网上中签率 0.018% 仅为长鑫 3.8%：“人形机器人第一股”宇树科技公布中签结果，超 978 万户参与申购",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-11T13:25:59.000Z",
-      "summary": "宇树科技中签率0.018%，超978万户申购。",
+      "summary": "宇树科技中签率0.018%，远低于长鑫3.8%，超978万户申购。",
       "summaryZh": ""
     },
     {
@@ -48,7 +48,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-11T19:15:35.000Z",
-      "summary": "OpenAI发布ChatGPT Linux桌面应用，支持多款Linux发行版。",
+      "summary": "OpenAI发布适用于Linux的ChatGPT桌面应用程序。",
       "summaryZh": "",
       "titleZh": "OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用程序"
     },
@@ -64,13 +64,23 @@
       "titleZh": "ChatGPT 和 Gemini 用户数量均刚刚突破 10 亿"
     },
     {
-      "title": "豆包开始抽佣，国产大模型终于跑通了最难的那条路",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjVUtyRXZoaTQxaGhZU1dTZlh4cW12a0REZUVZNVAwcUNXTXkxZk9OaHpuQ0IxWk9CV2VQMDh1aHpqR2lCanZPZ1ZBQlJGYzg?oc=5",
-      "source": "36氪",
+      "title": "高盛称AI投资重点正转向人形机器人，2027年至2029年或迎规模化部署。",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MOFFpZDhUQ3FjSk83UjhaN2FRUUtIUXg1QVM4a1VyRGV3bU5wTU5LMXduREZsR3hiX1g3amd4UHpBVVJXRWV3WjcxQndwWlBzUlVJ?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-11T08:54:01.000Z",
-      "summary": "豆包推出抽佣模式，国产大模型商业化路径清晰。",
+      "category": "robotics",
+      "pubDate": "2026-08-11T08:29:56.000Z",
+      "summary": "高盛预测2027至2029年人形机器人将迎来规模化部署。",
+      "summaryZh": ""
+    },
+    {
+      "title": "中国机器人公司上市潮：宇树之后，如何定价？",
+      "link": "https://www.tmtpost.com/8098819.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-11T08:55:56.000Z",
+      "summary": "宇树IPO定价引发机器人公司上市定价思考。",
       "summaryZh": ""
     },
     {
@@ -80,7 +90,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-11T10:38:15.000Z",
-      "summary": "英伟达与多家金融机构合作，计划调动5000亿美元资本支持AI基础设施建设。",
+      "summary": "英伟达与金融机构合作，计划调动5000亿美元资本支持AI基础设施建设。",
       "summaryZh": ""
     },
     {
@@ -94,33 +104,13 @@
       "summaryZh": ""
     },
     {
-      "title": "刚刚，蚂蚁站在Kimi肩膀上开源了一款新模型",
-      "link": "https://zhidx.com/p/583981.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-11T12:11:50.000Z",
-      "summary": "蚂蚁百灵开源轻量级混合推理MoE模型Ling-3.0-tiny，参数量7.9B，兼顾性能与可部署性。",
-      "summaryZh": ""
-    },
-    {
       "title": "人工智能ETF华富(515980)反转拉升上涨1.05%，上周全球调用量排名前四均为中国AI大模型，CSP资本支出预计在2026年同比激增约90%",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaelk5M1BFMjRoZ1otQ3NoNmpMbUFMSVJZVV94bzJlVmx1YThNTEhxTVJJMTZ4RHpOd0RJTWR2UXNtd0ZjclpWOFhQNy03UFR2M0FVMFpR?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-11T05:52:06.000Z",
-      "summary": "人工智能ETF华富上涨1.05%，全球AI大模型调用量中国占比高，CSP资本支出2026年预计激增90%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "IB3-771：为智慧工厂巡检机器人打造“感知-决策-执行”一体化控制核心",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTQWh6cjVJSldsdGVZbHpJcldiVXZhbVRuZUFDX1QzQ2JSdW9WTWFFOTlTUHdBbG9KdUN4TnRER1F2NEpjQ1FSVFVJVGdMakl1OGxsdjRUTQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-11T09:15:17.000Z",
-      "summary": "IB3-771主板为智慧工厂巡检机器人提供一体化控制核心，实现感知、决策与执行的高效闭环。",
+      "summary": "人工智能ETF华富上涨1.05%，全球AI大模型调用量中国占四成，CSP资本支出2026年预计增90%。",
       "summaryZh": ""
     },
     {
@@ -130,7 +120,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-10T23:19:00.000Z",
-      "summary": "AI Coding时代，资深工程师价值凸显，新人成长模式需转变。",
+      "summary": "AI Coding时代，资深工程师价值凸显，新人成长模式需变革。",
       "summaryZh": ""
     },
     {
@@ -140,7 +130,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-11T01:58:28.000Z",
-      "summary": "中国AI大模型调用量连续15周全球领先，英伟达启动5000亿AI基建计划，科创芯片ETF吸金超2100万元。",
+      "summary": "中国AI大模型调用量连续15周全球领先，英伟达启动5000亿AI基建计划。",
       "summaryZh": ""
     },
     {
@@ -160,7 +150,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-11T06:11:08.000Z",
-      "summary": "英伟达与华尔街机构合作，动员5000亿美元资本支持AI基础设施建设。",
+      "summary": "英伟达与华尔街机构合作，建立5000亿美元融资平台支持AI基础设施建设。",
       "summaryZh": ""
     },
     {
@@ -185,12 +175,33 @@
       "titleZh": "Uber 出售其全部股份，令机器人公司 Serve 感到惊讶"
     },
     {
+      "title": "Defense drone developer Cambridge Aerospace raises $300M",
+      "link": "https://www.therobotreport.com/defense-drone-developer-cambridge-aerospace-raises-300m/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-11T20:34:25.000Z",
+      "summary": "剑桥航空航天公司融资3亿美元，计划扩大制造能力。",
+      "summaryZh": "",
+      "titleZh": "国防无人机开发商 Cambridge Aerospace 融资 3 亿美元"
+    },
+    {
+      "title": "具身智能机器人产业链全景图（8月版）",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qWlQ1b28taU0tV0lXSE41cmo3N2VJOEVEMDRkdTBKbl9QNktfLUFaV2RzMjdRanZORFJybjhpcU5uUmdESzdKeUtUbThFYzhRT3BvRDhkSQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-11T02:17:45.000Z",
+      "summary": "发布具身智能机器人产业链全景图（8月版），涵盖整机厂商至算法软件层。",
+      "summaryZh": ""
+    },
+    {
       "title": "2026上半年中国人形机器人市场发展回顾及未来预测",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hSndXc1g2QW84WjktTFVTT3hXN2VYcE5iMFVBcjNCT0o0RXBQWk16cTFrMm5iSmxJaVc2VE1FTXpjLXRvVDcwMlhVWGNqSjNqY1RieWZGYw?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-11T02:35:07.000Z",
+      "pubDate": "2026-08-11T03:02:30.000Z",
       "summary": "2026上半年中国人形机器人产量近2.5万台，同比增长312%，出货量近2万台，同比增长314%。",
       "summaryZh": ""
     },
@@ -205,23 +216,13 @@
       "summaryZh": ""
     },
     {
-      "title": "爬墙机器人“飞檐走壁” 重庆丰都龙凤大桥穿上“科技新衣”",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGdi0wTEpWOUt4cHp6VzVtNU1VWHY3NzU2elR0c1piSi1MNW9jc0xibUphM3cyUTBtZDdtQ2JCc3ZGOUhES003QWFLRk1ZMUE4VzhQNTVIVlZyQUYwTWxIVWdmT1V6SFZvck01bnkydmI?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-11T13:07:46.000Z",
-      "summary": "重庆丰都龙凤大桥主桥钢结构涂装采用爬墙机器人完成，实现高效、安全施工。",
-      "summaryZh": ""
-    },
-    {
       "title": "武汉一桔子水晶酒店疑AI生成差评回复，暴露“不道歉”指令，酒店回应",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqQWd5Wi1DR0hRZlc4SDdRY1JiSy16OU14dGVkN3F1UTU3VHI5eFdqVXFSUDFLUUJQdnZOa29ZX1k1Vmh4VXE3RndLOFlWUjh5Qm02WFBDd25kaGk5dmFXQXBKcENCSzNrTWFoWW8xR0doUQ?oc=5",
       "source": "中国经济网",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-11T06:24:00.000Z",
-      "summary": "武汉桔子水晶酒店AI回复差评被指不道歉，酒店否认。",
+      "summary": "武汉桔子水晶酒店AI回复差评被指含“不道歉”指令，酒店否认。",
       "summaryZh": ""
     }
   ]
