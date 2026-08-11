@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generatedAt": "2026-08-11T19:15:51.107Z",
+  "generatedAt": "2026-08-11T20:22:30.189Z",
   "items": [
     {
       "title": "网上中签率 0.018% 仅为长鑫 3.8%：“人形机器人第一股”宇树科技公布中签结果，超 978 万户参与申购",
@@ -38,18 +38,30 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-11T05:12:20.000Z",
-      "summary": "Claude研究模型在黎曼猜想上取得重大进展，将满足黎曼ζ函数零点比例的下界从41.6%提高至67.2%。",
+      "summary": "Claude研究模型在黎曼猜想上取得重大进展，将零点比例下界从41.6%提高至67.2%。",
       "summaryZh": ""
     },
     {
-      "title": "高盛称AI投资重点正转向人形机器人，2027年至2029年或迎规模化部署。",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MOFFpZDhUQ3FjSk83UjhaN2FRUUtIUXg1QVM4a1VyRGV3bU5wTU5LMXduREZsR3hiX1g3amd4UHpBVVJXRWV3WjcxQndwWlBzUlVJ?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-11T08:29:56.000Z",
-      "summary": "高盛预测2027至2029年人形机器人将迎来规模化部署。",
-      "summaryZh": ""
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-08-11T19:15:35.000Z",
+      "summary": "OpenAI发布ChatGPT Linux桌面应用，支持多款Linux发行版。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用程序"
+    },
+    {
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-08-11T19:41:42.000Z",
+      "summary": "ChatGPT和Gemini用户数均突破10亿。",
+      "summaryZh": "",
+      "titleZh": "ChatGPT 和 Gemini 用户数量均刚刚突破 10 亿"
     },
     {
       "title": "豆包开始抽佣，国产大模型终于跑通了最难的那条路",
@@ -68,7 +80,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-11T10:38:15.000Z",
-      "summary": "英伟达携手金融机构，计划调动5000亿美元资本支持AI基础设施建设。",
+      "summary": "英伟达与多家金融机构合作，计划调动5000亿美元资本支持AI基础设施建设。",
       "summaryZh": ""
     },
     {
@@ -88,7 +100,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-11T12:11:50.000Z",
-      "summary": "蚂蚁百灵开源轻量级混合推理MoE模型Ling-3.0-tiny。",
+      "summary": "蚂蚁百灵开源轻量级混合推理MoE模型Ling-3.0-tiny，参数量7.9B，兼顾性能与可部署性。",
       "summaryZh": ""
     },
     {
@@ -98,7 +110,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-11T05:52:06.000Z",
-      "summary": "人工智能ETF华富上涨1.05%，全球AI大模型调用量中国占四成，CSP资本支出2026年预计增90%。",
+      "summary": "人工智能ETF华富上涨1.05%，全球AI大模型调用量中国占比高，CSP资本支出2026年预计激增90%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "IB3-771：为智慧工厂巡检机器人打造“感知-决策-执行”一体化控制核心",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTQWh6cjVJSldsdGVZbHpJcldiVXZhbVRuZUFDX1QzQ2JSdW9WTWFFOTlTUHdBbG9KdUN4TnRER1F2NEpjQ1FSVFVJVGdMakl1OGxsdjRUTQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-11T09:15:17.000Z",
+      "summary": "IB3-771主板为智慧工厂巡检机器人提供一体化控制核心，实现感知、决策与执行的高效闭环。",
       "summaryZh": ""
     },
     {
@@ -108,7 +130,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-10T23:19:00.000Z",
-      "summary": "AI Coding时代，资深工程师价值凸显，新人成长模式需变革。",
+      "summary": "AI Coding时代，资深工程师价值凸显，新人成长模式需转变。",
       "summaryZh": ""
     },
     {
@@ -118,7 +140,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-11T01:58:28.000Z",
-      "summary": "中国AI大模型调用量连续15周全球领先，英伟达启动5000亿AI基建计划。",
+      "summary": "中国AI大模型调用量连续15周全球领先，英伟达启动5000亿AI基建计划，科创芯片ETF吸金超2100万元。",
       "summaryZh": ""
     },
     {
@@ -128,7 +150,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-11T11:39:15.000Z",
-      "summary": "鸿利智汇与深圳市人工智能产业协会签署战略合作框架协议，推动产业智能化升级。",
+      "summary": "鸿利智汇与深圳市人工智能产业协会签署战略合作框架协议。",
       "summaryZh": ""
     },
     {
@@ -137,29 +159,9 @@
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-11T03:11:08.000Z",
-      "summary": "英伟达与华尔街机构合作，建立5000亿美元融资平台支持AI基础设施建设。",
+      "pubDate": "2026-08-11T06:11:08.000Z",
+      "summary": "英伟达与华尔街机构合作，动员5000亿美元资本支持AI基础设施建设。",
       "summaryZh": ""
-    },
-    {
-      "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUaTNUZU1NZHQ2dnVOVzJSb0Q1SDh5dzZjMFdiSGdpUXpWV3BsZGhsNkhEeHhWV3Q0MzFJQ2NxblpEdExnczVEWA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-11T03:52:05.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Your AI agent may be ready. Your sales motion probably isn’t.",
-      "link": "https://venturebeat.com/technology/your-ai-agent-may-be-ready-your-sales-motion-probably-isnt",
-      "source": "VentureBeat",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-08-11T13:00:00.000Z",
-      "summary": "AI代理准备就绪，但销售流程可能滞后。",
-      "summaryZh": "",
-      "titleZh": "您的人工智能代理可能已准备就绪。你的销售动议可能不是。"
     },
     {
       "title": "抢抓暑期旺季机遇 在线旅游平台加速推进AI能力落地",
@@ -172,14 +174,15 @@
       "summaryZh": ""
     },
     {
-      "title": "具身智能机器人产业链全景图（8月版）",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qWlQ1b28taU0tV0lXSE41cmo3N2VJOEVEMDRkdTBKbl9QNktfLUFaV2RzMjdRanZORFJybjhpcU5uUmdESzdKeUtUbThFYzhRT3BvRDhkSQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
+      "title": "Uber surprised robotics company Serve by selling its entire stake",
+      "link": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
+      "source": "TechCrunch",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-08-11T02:17:45.000Z",
-      "summary": "发布具身智能机器人产业链全景图（8月版），涵盖整机厂商至算法软件层。",
-      "summaryZh": ""
+      "pubDate": "2026-08-11T20:02:02.000Z",
+      "summary": "Uber出售其在Serve Robotics的全部股份。",
+      "summaryZh": "",
+      "titleZh": "Uber 出售其全部股份，令机器人公司 Serve 感到惊讶"
     },
     {
       "title": "2026上半年中国人形机器人市场发展回顾及未来预测",
@@ -187,8 +190,8 @@
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-11T03:02:30.000Z",
-      "summary": "2026上半年中国人形机器人产量近2.5万台，同比增长312%，商业化出货稳步增长。",
+      "pubDate": "2026-08-11T02:35:07.000Z",
+      "summary": "2026上半年中国人形机器人产量近2.5万台，同比增长312%，出货量近2万台，同比增长314%。",
       "summaryZh": ""
     },
     {
@@ -208,7 +211,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-11T13:07:46.000Z",
-      "summary": "重庆丰都龙凤大桥主桥钢结构涂装采用爬墙机器人完成，提升施工效率和安全性。",
+      "summary": "重庆丰都龙凤大桥主桥钢结构涂装采用爬墙机器人完成，实现高效、安全施工。",
       "summaryZh": ""
     },
     {
@@ -218,17 +221,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-11T06:24:00.000Z",
-      "summary": "武汉桔子水晶酒店AI回复差评被指含“不道歉”指令，酒店否认。",
-      "summaryZh": ""
-    },
-    {
-      "title": "普渡机器人张涛：机器人公司不能只有“大脑”",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NWjhieE9USmJfTUI0dGV1ZklhREVpZnQ1ODFIdWdRczNpWDl1UDR0Z1RBRDZSQ09EYjVaNWxJRW9XYjdIbndrR01hSzIxeDR3TzR6Yk5mMWRJd3M1d2lr?oc=5",
-      "source": "财新网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-11T09:00:00.000Z",
-      "summary": "普渡机器人张涛强调机器人公司需重视本体能力，不应仅推崇“大脑”。",
+      "summary": "武汉桔子水晶酒店AI回复差评被指不道歉，酒店否认。",
       "summaryZh": ""
     }
   ]
