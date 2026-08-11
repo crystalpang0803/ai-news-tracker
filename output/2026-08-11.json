@@ -1,25 +1,55 @@
 {
   "date": "2026-08-11",
-  "generatedAt": "2026-08-10T23:19:12.884Z",
+  "generatedAt": "2026-08-11T02:29:54.743Z",
   "items": [
     {
-      "title": "上海：推动算力和基础大模型扩大境外调用，支持智能体、多模态生成等模型产品出口",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FOUo3V2dwZ3k1YWdNRDJpeHhLMjdhck0ybER6N3llb05BZ2lGVXhUWmU2UHlaTTQyUFotSzh5ZDE3d1JiSkMtYXpJSTlzOUJXMjJzYkdzYU5LQQ?oc=5",
-      "source": "钛媒体",
+      "title": "豆包公关负责人刘星回应“推荐酒店抽取 12% 佣金”：说法不准确，仅在订单成交后支付渠道服务费",
+      "link": "https://www.ithome.com/0/988/103.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-10T09:08:00.000Z",
+      "pubDate": "2026-08-11T00:40:13.000Z",
+      "summary": "豆包回应抽取12%佣金说法：仅收订单成交后渠道服务费。",
+      "summaryZh": ""
+    },
+    {
+      "title": "上海：推动算力和基础大模型扩大境外调用 支持智能体、多模态生成等模型产品出口",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GTkZWdTN6VVZwdDM3NjhVblhyeHozbGNYdW1qQ3hQay1ZYTFPMDNqX1FBbkt5V0ZqNmFqR0ZXcGpQN1JPSGJTcmVKTmIyZTVOX25R?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-10T09:15:20.000Z",
       "summary": "上海推动算力大模型境外调用，支持智能模型产品出口。",
       "summaryZh": ""
     },
     {
-      "title": "“十五五”开局·创新看点丨打磨灵巧手，锤炼成熟的机器人“小脑”——中科慧思扎根产业集群探索具身智能落地新路径",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53dXhZSFN5aW5TWXMxSmpoQWNwZ3dwcjQwMFo2R0s0ajh1UE1Xd3ozR0xhZEdiSUFkbUY0dDN6Q2ZjZ3EtOEV4X2xrTXI4OV9RMmxNZ3pLbDBBZzh6Zndha2d6S2NoMk03dXlfaC1aUUs?oc=5",
+      "title": "“十五五”开局·创新看点丨打磨灵巧手，锤炼成熟的机器人“小脑” ——中科慧思探索具身智能落地新路径",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKRDM3dENsNDVPYjR5eWw2bm5fYmtTZFM4dnIzYWtqWkpaOEpMbk5reHp1b29kNUducXl2eDZOSzRud0Ffcy1abHVGX2RuZEc3MDVYelc1WHhoX3FkeUE5VDhrWC1WMUpGT3c?oc=5",
       "source": "科技日报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-10T12:38:48.000Z",
-      "summary": "中科慧思在湖南湘江新区落地具身智能产业，推出多款突破性灵巧手。",
+      "pubDate": "2026-08-10T12:38:49.000Z",
+      "summary": "中科慧思在湖南湘江新区落地具身智能产业，展示多款突破性灵巧手。",
+      "summaryZh": ""
+    },
+    {
+      "title": "前 OpenAI 机器人部门主管 Caitlin Kalinowski 加入 Anthropic，还曾在苹果开发 Mac Pro",
+      "link": "https://www.ithome.com/0/988/128.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-11T01:31:29.000Z",
+      "summary": "前OpenAI机器人部门主管Caitlin Kalinowski加入Anthropic，曾参与苹果Mac Pro开发。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI收购了一家做PPT的创企，刚成立一年多",
+      "link": "https://zhidx.com/p/583442.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-10T10:47:15.000Z",
+      "summary": "OpenAI收购成立一年多的PPT创企NextSlide，团队加入开发ChatGPT。",
       "summaryZh": ""
     },
     {
@@ -33,23 +63,23 @@
       "summaryZh": ""
     },
     {
+      "title": "半年融资250亿，灵巧手还没跑出“标准手”",
+      "link": "https://www.tmtpost.com/8098473.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-11T01:43:55.000Z",
+      "summary": "灵巧手融资250亿，行业仍处标准未立早期阶段。",
+      "summaryZh": ""
+    },
+    {
       "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
       "link": "https://www.qbitai.com/2026/08/469520.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-10T06:58:58.000Z",
-      "summary": "具身智能领域融资难以支撑长期发展，需创新范式与工程。",
-      "summaryZh": ""
-    },
-    {
-      "title": "消息称智谱 API 用户接近 700 万，已启用超 5 万块国产算力芯片",
-      "link": "https://www.ithome.com/0/988/048.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-10T14:42:11.000Z",
-      "summary": "智谱API用户数近700万，启用超5万块国产算力芯片。",
+      "summary": "具身智能公司昆仑行90天内融资数十亿，郎咸朋认为仅靠融资无法实现物理AGI。",
       "summaryZh": ""
     },
     {
@@ -59,7 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-10T09:51:34.000Z",
-      "summary": "九科信息启动港股上市，聚焦企业级AI Agent市场。",
+      "summary": "九科信息启动港股上市，专注企业级AI Agent，抢占智能体市场。",
       "summaryZh": ""
     },
     {
@@ -68,9 +98,31 @@
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-10T13:03:12.000Z",
+      "pubDate": "2026-08-10T23:43:43.000Z",
       "summary": "微软计划9月发布下一代Maia 300芯片，明年将大幅提升AI芯片产量。",
       "summaryZh": ""
+    },
+    {
+      "title": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks",
+      "link": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-08-10T23:53:23.000Z",
+      "summary": "OpenAI发布GPT-5.6-Cyber，在高级网络安全任务中完成率高达95%。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 推出 GPT-5.6-Cyber​​，拒绝率减少，高级网络安全任务完成率达 95%"
+    },
+    {
+      "title": "AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push",
+      "link": "https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-08-10T20:00:00.000Z",
+      "summary": "AWS Continuum与OpenAI Codex和Anthropic Claude Code集成，加强AI安全防护。",
+      "summaryZh": "",
+      "titleZh": "AWS Continuum 与 OpenAI Codex 和 Anthropic Claude Code 集成以推动人工智能安全的重大发展"
     },
     {
       "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents",
@@ -83,16 +135,6 @@
       "titleZh": "美国众议院民主党人就流氓人工智能代理向 Anthropic 和 OpenAI 施压"
     },
     {
-      "title": "从宇树科技看行业拐点：人形机器人产业盈利的关键分水岭",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSSVY5dmlPa3B3WC1LMEhzc0FTR3NubzZQaTJaOGRaQm1mdy1QR3BlbW1JQmxsYmNQTjNMdHVtOEltYlU2NHQ4cXlCUi1najZMdnQ5TWs1WQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-10T02:02:14.000Z",
-      "summary": "宇树科技上市标志着人形机器人行业进入盈利阶段。",
-      "summaryZh": ""
-    },
-    {
       "title": "视频大模型越强，AI工具流越危险？还是越重要？",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tRlcxOVR6NWVjSHQ5TEJkdmJlcWs4R3dtbV9ZOUtZeFhocWYyR2dUNmkyRS1TcFpBR3dWc3JSanlhX3cxdDZWMldrcFVFS2s?oc=5",
       "source": "36氪",
@@ -103,44 +145,15 @@
       "summaryZh": ""
     },
     {
-      "title": "AI算力资本开支估算：3-4万亿美元算得出来，但兑现条件极其苛刻",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54aEstX0gzQ0dTVEVJMHNjZDJJaWllYVpfUnpyRTY3VTU0ajNCc291cEtvODc3cU9vWC0wQk1jbTZrUjNJWFlJcVFjSmVCVHM?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-10T01:54:29.000Z",
-      "summary": "AI算力资本开支估算达3-4万亿美元，但实现条件极为严苛。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
-      "link": "https://www.qbitai.com/2026/08/469500.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-10T05:37:51.000Z",
-      "summary": "Anthropic宣布Claude Code将于5天后默认启用自动模式，多花费用由A社承担。",
-      "summaryZh": ""
-    },
-    {
-      "title": "联想发布个人超级智能体天禧AI 4.2",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZeTgwNTRGMF9iT3JCZHhvd3A1V0lGRFc2elZGQk5kWlpaSlBNMW9SYm5CWllIMy04NjRUQ3FlNF9abzNtZEJKTS1VT2dMalB5dG9yV3ZRS1Y0Zw?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-10T03:50:00.000Z",
-      "summary": "联想发布个人超级智能体天禧AI 4.2，支持全终端一键唤醒全域AI能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "芯片行业能效比革新：2026 端侧大模型 AI 芯片选型与产业趋势解读",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hM1ZmYk94aVhWUk9JdkZKZFZDWEZyMjBLZ2RpY2M2VjhJUG90WUVsSnA0M3VmSmRORm9oVE1iaUVEOU1wcUNmWk50ZjE?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-10T09:59:11.000Z",
-      "summary": "2026年AI芯片产业聚焦端侧大模型，国产芯片架构创新推动能效比提升。",
-      "summaryZh": ""
+      "title": "Tate deploys 58 Hirebotics cobot welders across multiple facilities",
+      "link": "https://www.therobotreport.com/tate-deploys-58-hirebotics-cobot-welders-across-multiple-facilities/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-10T18:46:22.000Z",
+      "summary": "Tate公司在多地工厂部署58台Hirebotics协作焊接机器人。",
+      "summaryZh": "",
+      "titleZh": "Tate 在多个设施中部署了 58 台 Hirebotics 协作机器人焊机"
     },
     {
       "title": "Explainer: What is Unitree and why are China’s humanoid robot makers racing to list?",
@@ -148,9 +161,29 @@
       "source": "Reuters Technology",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-08-10T12:56:39.000Z",
+      "pubDate": "2026-08-10T02:36:00.000Z",
       "summary": "",
-      "titleZh": "解说：Unitree是什么？为什么中国仿人机器人厂商竞相上市？"
+      "titleZh": "解说：Unitree是什么？为何中国仿人机器人厂商竞相上市？"
+    },
+    {
+      "title": "AI优化视觉皮层假体电刺激模式，可提升“仿生眼”感知预测能力",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XOGhKTm1QcmpiblBUSWpYY2FzRGZ1U1pwWHo5WFQxNU95YkhpWGZtZ0tNaUJoMUp1Uk1VVUdTRDBJTHRucFJPd3ZoeUplTFR3WS1ReFUzUHhhQQ?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-10T23:47:00.000Z",
+      "summary": "AI优化电刺激模式提升仿生眼感知预测能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "通讯丨中国自动驾驶出租车“驶入”阿联酋",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qMWlFaWdaTU5veWJMSnpuWm9RaUdfbUJXdXFEbkhNYkl0MDgtTngteDBwQjYzLXp3dWlWSEN2czB0cnBEVlRqMHVLNnN0NmgwVmpKa09ycXBYQzN1MlVDQ04zYlBzVC1SNHJQdWp1ZUh0dHFrSzBSeDY3VEt6VDA?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-10T05:23:45.000Z",
+      "summary": "中国自动驾驶出租车在阿联酋迪拜开展商业化运营。",
+      "summaryZh": ""
     },
     {
       "title": "基于匠芯创D126系列AI陪伴机器人方案_视频",
@@ -163,44 +196,24 @@
       "summaryZh": ""
     },
     {
-      "title": "开启全球机器人卫浴新时代:九牧携手吴声发布AI机器手马桶卫浴新产品“X80”",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52bVhYMWFmVnZjaTdIaGJhSXM5LWFZdWNGR1daam8ycGo1T1hvd28tNjQ3ZFprb19jaEpEeFpwUjFCUU1ibG5CbHFnc1hNUElza1BZa25wSVcwbG1iNnFzTU5HbFFDRzBWemdSS3Nn?oc=5",
-      "source": "央广网",
+      "title": "技术负责人师从熊有伦、尹周平院士！这家公司凭“热管理”重定工业级灵巧手？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FRklXQ3k4c3VKTkxMN1pvQXBxNWVfUVlWYnBqY2hFMmdyb1VHTnRXTXN1VkdkU2Ztd3Q4ZW5nQlVxX2NMZGZvZnkxYTd4Uy1NWk90N0Vsbw?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-10T11:02:21.000Z",
-      "summary": "九牧与吴声发布AI机器手马桶卫浴新产品“X80”。",
+      "pubDate": "2026-08-10T14:58:12.000Z",
+      "summary": "拾玥科技通过热管理技术提升工业级灵巧手性能，获得资本青睐。",
       "summaryZh": ""
     },
     {
-      "title": "机器狗上路还有多远？行业标准正在制定中",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TZVE0RktvSzNOX1lqcjg5WVZRWUpxTDFyUlpfbllSeDEzeEl3Y2tTZWJ2YkZfNlJtN2tCN2tEdmJDdmM2eVFjT2piZGRSbEY2SDlFSXFsQjE5YURPSmdWeGlB?oc=5",
-      "source": "中国经营网",
+      "title": "亿嘉和新设子公司 含AI及机器人业务",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80ZTFRYk5ZUXlJMnB0NnU2WDhUMWs3RG9sSTl5amFTdm1mRTgxYW1KSGUzaWNjSnA4Rzk2QUFIdmNZb2ZlNEMtOEUyTHBiVGNw?oc=5",
+      "source": "凤凰财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-10T07:20:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "一具身机器人企业发布新模型，获招商局创投、蔚来资本天使轮投资",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LX3ZKTG9oUy1vdDNyOENsTnZkOWp4WnBDc29IeVkxVlpvbXg0U1UxUWtmZk1SR3ZYRk9EOWJQYm9mM2Z3Qlh1b3RONGI2SHJGbzRJRWNPN2x3RXVHczRDZWdn?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-10T15:20:00.000Z",
-      "summary": "橡木果机器人发布“Natus AGE-0具身本能模型”，获招商局创投、蔚来资本等投资。",
+      "pubDate": "2026-08-11T01:50:30.000Z",
+      "summary": "亿嘉和成立新子公司，专注AI及机器人业务。",
       "summaryZh": ""
-    },
-    {
-      "title": "A ‘5-in-1’ seed-sized surgical robot",
-      "link": "https://robohub.org/a-5-in-1-seed-sized-surgical-robot/",
-      "source": "Robohub",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-10T14:38:45.000Z",
-      "summary": "新加坡南洋理工大学研发出可进行五项手术功能的微型种子机器人。",
-      "summaryZh": "",
-      "titleZh": "“五合一”种子大小的手术机器人"
     }
   ]
 }
