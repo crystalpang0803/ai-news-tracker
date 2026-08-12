@@ -1,37 +1,7 @@
 {
   "date": "2026-08-12",
-  "generatedAt": "2026-08-12T02:47:20.150Z",
+  "generatedAt": "2026-08-12T05:17:28.081Z",
   "items": [
-    {
-      "title": "傍上亚朵们的酒店机器人，也没能挣到钱",
-      "link": "https://www.tmtpost.com/8099337.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-12T01:45:23.000Z",
-      "summary": "云迹科技酒店机器人业务收入增长，但亏损扩大，盈利能力未显著提升。",
-      "summaryZh": ""
-    },
-    {
-      "title": "清华腾讯RoboticsX港科大联手发布，世界模型能看懂机器人未来动作了",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE42TmtlaXZOYTZuNzQyb1NkUTMxdFFSVlgyUXNLMkJ4RmRBVTBxeUtmNVdmTG9TRGRud2xKVzltdHhiNDE2LUE?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-11T15:08:56.000Z",
-      "summary": "清华腾讯RoboticsX港科大发布GeniWorld模型，可预测机器人未来动作。",
-      "summaryZh": ""
-    },
-    {
-      "title": "华泰证券：AI陪伴机器人从情绪硬件到家庭入口，建议关注两条投资主线",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoOG8tRWZIWnEzREhPTWd2UEI2NE1IaWhNaFc3ODY3d0g2R203dDBoY3gzcXZVdHZGai1jcmpxYmlKZnp6OEJ5ZFh2S3RZc2VDODZUVUxn?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-12T00:55:24.000Z",
-      "summary": "华泰证券建议关注AI陪伴机器人生态入口和场景细分型公司投资机会。",
-      "summaryZh": ""
-    },
     {
       "title": "华泰证券：2026年或将是AI陪伴机器人行业由概念展示切换到商业落地的关键一年",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iTks3RVZmaUljcm5WaXZMbTJOd1F6dzIwcGdfQnVJUVJMRWl2dlFoNmJJaGhUMEpSc2FEclRfTHRXSkh5MG90ZU56WFJsTG96YTUwQg?oc=5",
@@ -43,25 +13,13 @@
       "summaryZh": ""
     },
     {
-      "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
-      "link": "https://www.qbitai.com/2026/08/470485.html",
-      "source": "量子位",
+      "title": "马斯克押注AI代理赛道，SpaceX AI推出Grok Bot，对标Anthropic与OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wVzEzTHNkTzB3S0xGeC1pOTlQQkxsS1hvTVYyNWlvaVFtV1o4QV9QdFFVZ0hvTjBiS2pXSDRZWl9rWjFLaW5iRXZNZExhdw?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-11T05:12:20.000Z",
-      "summary": "Claude研究模型在黎曼猜想上取得重大进展，将满足黎曼ζ函数零点比例的下界从41.6%提高至67.2%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-08-11T19:15:35.000Z",
-      "summary": "OpenAI发布适用于Linux的ChatGPT桌面应用程序。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用程序"
+      "pubDate": "2026-08-11T13:14:00.000Z",
+      "summary": ""
     },
     {
       "title": "ChatGPT and Gemini both just passed 1 billion users",
@@ -84,16 +42,6 @@
       "summary": ""
     },
     {
-      "title": "多个 AI 智能体协同干活，马斯克旗下 SpaceXAI 推出 Grok Bot",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvRTNFQXBQamNpR1FEVnAtbGVpUjlZWFdXUHFQcUFmWHhHQTZpYmIxVlhMdFZLYXVxWFJXaDJGaU0xYjdKZWJKRUpjRVI?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-12T00:12:15.000Z",
-      "summary": "SpaceXAI推出Grok Bot，旨在协同多个AI智能体全天候处理任务。",
-      "summaryZh": ""
-    },
-    {
       "title": "IB3-771：为智慧工厂巡检机器人打造“感知-决策-执行”一体化控制核心",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTQWh6cjVJSldsdGVZbHpJcldiVXZhbVRuZUFDX1QzQ2JSdW9WTWFFOTlTUHdBbG9KdUN4TnRER1F2NEpjQ1FSVFVJVGdMakl1OGxsdjRUTQ?oc=5",
       "source": "与非网",
@@ -104,32 +52,72 @@
       "summaryZh": ""
     },
     {
-      "title": "从算力到电力，AI竞赛的隐性边界",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2YnQ4emcxSFo0cWF6MXR6eXFWZmwyNlVsS2lxUExtUld0d0NlT2trN2lSbXUtM0tmaEt3TzlVcFZGYlZMZG1nYmtoZWdrTXJu?oc=5",
-      "source": "36氪",
+      "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
+      "link": "https://www.qbitai.com/2026/08/470621.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-12T02:31:41.000Z",
-      "summary": "AI竞赛转向关注能源获取与供电效率。",
+      "pubDate": "2026-08-11T11:36:42.000Z",
+      "summary": "远景科技集团乌兰察布星河基地投产全球最大AI算力超级单体，推动电力成为AIDC核心能力。",
       "summaryZh": ""
     },
     {
-      "title": "大模型开始卷越狱了",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhaEhGSzVVdy1valU1dTB0OGlzNFlDbUI0R2E5OWRTMmJXaUk4SlVLSjZCMGdQY1ZmR2R4MkZieVcyRDhTLUFnSDktMVZtQQ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-11T08:32:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "英伟达调动5000亿美元，算力金融化加速",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BTjhMWHRWbDZnR0Zmem9lbkV5RzBVemtRcTFES2xRRmx4MTlFeXRjUk02aDZIYXFjU0N5cDhMLUktTzM4WDNKWm4zUHY?oc=5",
+      "title": "算力即资产，还是算力即生产力，中美AI路径分岔",
+      "link": "https://www.tmtpost.com/8098622.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-11T10:38:00.000Z",
-      "summary": "英伟达与多家金融机构合作，计划调动5000亿美元资本支持AI基础设施建设。",
+      "pubDate": "2026-08-12T03:09:00.000Z",
+      "summary": "中美AI竞争路径分化，中国转向工业应用，美国侧重算力资产。",
+      "summaryZh": ""
+    },
+    {
+      "title": "10万亿参数大模型还没影，字节先造了个一级部门",
+      "link": "https://www.tmtpost.com/8099914.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-12T03:02:55.000Z",
+      "summary": "字节跳动成立AI数据与安全一级部门，专注于大模型数据准备。",
+      "summaryZh": ""
+    },
+    {
+      "title": "小扎高调开战闭源AI！推30B智能体模型，消费级显卡就能跑，杨立昆点赞",
+      "link": "https://zhidx.com/p/583803.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-11T10:08:33.000Z",
+      "summary": "Meta推出300亿参数本地Agent模型Muse Glimmer，支持消费级显卡运行。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI应用落地推升算力与数据需求，科创人工智能ETF华夏涨1.29%",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lZ0hoRFc5NGpSNTY4RW1mVXVxVnduWlBwNm5TbzNJeVB1LThlWWV6QlpnQVc0U0dYcTdTc2NTd0VnVnhLaHBlRjFWaVFSa0cxY1hRZFFCSXU1UTY0VWc?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-12T03:05:00.000Z",
+      "summary": "截至8月12日11点5分，上证指数涨0.25%，深证成指涨1.21%，创业板指涨1.74%。"
+    },
+    {
+      "title": "欧拉万象携手好慷在家：家政师教机器人做家务，让机器人真正服务家庭",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBOOGM2dWxSZGhVc1d4Mmg0NXRUb082RUJ2RHo4SDN6WFgwcnFTVGVPa3R5RmQ3TnhNMnk3Zi1PLWtlNW9xakVUR3Q1aGU?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-11T19:18:03.000Z",
+      "summary": "欧拉万象与好慷在家合作，家政师指导机器人学习家务，推动家庭机器人服务应用。",
+      "summaryZh": ""
+    },
+    {
+      "title": "马斯克上天之后，AI算力又瞄准了大海",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83MGNCTnpSRDQ0S1dkQkdFZGNSQkFJS21GS2FpVWxSWjdGTUR5bjJMRVF4d0I4cjEycW1DVXduLWg2UFpRTUJJZ1BoUFZmeTVo?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-12T04:47:32.000Z",
+      "summary": "Panthalassa公司计划将AI数据中心部署至海洋，寻求2.25亿美元融资。",
       "summaryZh": ""
     },
     {
@@ -143,43 +131,33 @@
       "summaryZh": ""
     },
     {
-      "title": "欧拉万象携手好慷在家：家政师教机器人做家务，让机器人真正服务家庭",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBOOGM2dWxSZGhVc1d4Mmg0NXRUb082RUJ2RHo4SDN6WFgwcnFTVGVPa3R5RmQ3TnhNMnk3Zi1PLWtlNW9xakVUR3Q1aGU?oc=5",
-      "source": "极客公园",
+      "title": "IBM 收获 2.4 亿美元合同，为 Together AI 提供 HGX B300 算力",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nYkJSaVhCWG4wNTFFeDNpMEc0LXdhUzFsc3FoeGZsVE9jMkxOMkViSFh3NVUwSVhKUjItbzdIRkhkbnFWNWhiNFZsU2c?oc=5",
+      "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-11T19:18:03.000Z",
-      "summary": "欧拉万象与好慷在家合作，家政师指导机器人学习家务，推动家庭机器人服务应用。",
+      "category": "ai",
+      "pubDate": "2026-08-12T02:38:44.000Z",
+      "summary": "IBM与Together AI签订2.4亿美元合同，提供HGX B300算力支持。",
       "summaryZh": ""
     },
     {
-      "title": "AI算力供应商CoreWeave上调全年营收展望为124亿至132亿美元",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3OEIteFF1MDNWYTFyUkQ0UUx1Y0Q4NWtOTEt6dVFPWm5sajdsMWY2MEZGQ2VycjYzOUo4MEhIcWVQOGd1bUdMN19IUU85R1g1akIydUVoTXE?oc=5",
+      "title": "2026大模型API平台怎么选？5款国内主流聚合/MaaS平台全面对比",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10ODg0aE9Oc2R0dU1GY0RVOWtMamFlbXp0WnhKOTJFQ0RsTFhfSUV1VkJaaExGcVZRdWdaNG9xd2hhR2FKbVYtVWtrM2Q?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-12T01:58:40.000Z",
+      "summary": "2026年国内大模型API平台对比，火山方舟、百度千帆等官方MaaS平台优先考虑，硅基流动等开源模型平台关注，数眼智能等企业级平台评估。",
+      "summaryZh": ""
+    },
+    {
+      "title": "人工智能ETF华富(515980)持续走强涨超2%，近22个交易日净流入2.59亿元，海外云厂商持续加码AI基础设施投资",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oeFVfd3ltSUFzS2czaTZLU1R0dlZ5aVVkMTI4aE8waDd3bUlGZnVaSEpuLUdfaUdfTWlwTnpCVHBMS0lvbnFjN1hsbkx6aG9BX19xSUEyb0g?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-11T23:25:58.000Z",
-      "summary": "CoreWeave将全年营收预期上调至124亿至132亿美元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "鸿利智汇与深圳市人工智能产业协会签署战略合作框架协议",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CVXVPaHY3Q1l1MXhZQlpQdWh6emtrS1Y2MzdmWmxpN1BqNVZGVG0yNTZzeUV4d1BPRUdwa0VORGF2YVV3UVhNSDljTDRMaFItSC0w?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-11T11:39:15.000Z",
-      "summary": "鸿利智汇与深圳市人工智能产业协会签署战略合作框架协议。",
-      "summaryZh": ""
-    },
-    {
-      "title": "抢抓暑期旺季机遇 在线旅游平台加速推进AI能力落地",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FNUJqeXVYQi13dWhTLWE0Z1JOYlVsMHVyMDBMVkFROVZXWS0zSUNuUkxTU0hZUFRkS1NjaW01VWVwcHR4aHpGUjF3a3lMLUla?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-11T22:54:53.000Z",
-      "summary": "在线旅游平台加速AI应用，提升服务效率和用户体验。",
+      "pubDate": "2026-08-12T05:11:25.000Z",
+      "summary": "人工智能ETF华富涨超2%，近22个交易日净流入2.59亿元，海外云厂商加大AI投资。",
       "summaryZh": ""
     },
     {
@@ -205,14 +183,33 @@
       "titleZh": "国防无人机开发商 Cambridge Aerospace 融资 3 亿美元"
     },
     {
-      "title": "2026上半年中国人形机器人市场发展回顾及未来预测",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hSndXc1g2QW84WjktTFVTT3hXN2VYcE5iMFVBcjNCT0o0RXBQWk16cTFrMm5iSmxJaVc2VE1FTXpjLXRvVDcwMlhVWGNqSjNqY1RieWZGYw?oc=5",
+      "title": "Uber曾卖掉自动驾驶业务，如今为何砸100亿美元杀回Robotaxi？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85RjNIN2t2Y0F2OWdjQURUc1pWbWU0V1NrTzlQRGpHdmRQN2wzS3ZZODhUbHpOQ3BHY0hzMlA3dXM3X1RSTWV3T1FrcmwtWHpZdEJPWm5PRQ?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-11T03:02:30.000Z",
-      "summary": "2026上半年中国人形机器人产量近2.5万台，同比增长312%，出货量近2万台，同比增长314%。",
+      "pubDate": "2026-08-11T16:52:18.000Z",
+      "summary": "Uber重投100亿美元于Robotaxi，旨在深度参与无人驾驶生态，抢占未来出行市场。",
       "summaryZh": ""
+    },
+    {
+      "title": "AI进化速递丨2026年具身智能产业图谱征集工作启动",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YM2pHVWd5NUhVYnRselgwdzJJbXVkTm9ZUkFpeHJIRjc5a0RrOVA4dlYyVW92TTZ6c1JNdWJOLU1zTlVtR0FVUlE1TmdHakg1WUlN?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-11T12:44:46.000Z",
+      "summary": "2026年具身智能产业图谱征集工作正式开启。",
+      "summaryZh": ""
+    },
+    {
+      "title": "能记住30万人日常的AI宠物“芙崽”，是怎么被养大的",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TZnNxM2xtVWU3QWhRR3U5TTNod0c0cFVwUXlQZnk4cTgxVFdUemFrZ0huYXRIZHdwM01zazlZa01rN19tMXJxX2NmbENFZ1paem9j?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-08-12T02:31:15.000Z",
+      "summary": ""
     },
     {
       "title": "爬墙机器人“飞檐走壁” 重庆丰都龙凤大桥穿上“科技新衣”",
@@ -221,7 +218,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-11T13:07:46.000Z",
-      "summary": "重庆丰都龙凤大桥主桥钢结构涂装采用爬墙机器人完成，实现高效、安全施工。",
+      "summary": "重庆丰都龙凤大桥主桥钢结构涂装采用磁吸附爬墙机器人完成，实现高效、安全施工。",
       "summaryZh": ""
     }
   ]
