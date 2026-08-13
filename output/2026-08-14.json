@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "generatedAt": "2026-08-13T22:12:11.645Z",
+  "generatedAt": "2026-08-13T23:24:47.932Z",
   "items": [
     {
       "title": "神秘生图模型“mona-lisa-1”曝光：含 OpenAI 来源信号，GPT-Image-2 发布三个月仍稳坐第一",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-13T14:41:37.000Z",
-      "summary": "神秘生图模型“mona-lisa-1”含OpenAI信号，GPT-Image-2三个月后仍居首。",
+      "summary": "神秘生图模型“mona-lisa-1”含OpenAI信号，GPT-Image-2三个月内保持领先。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-13T13:32:55.000Z",
-      "summary": "DeepSeek宣布API调价，最高价格涨至27元。",
+      "summary": "DeepSeek宣布API调价，峰值价格最高涨至27元。",
       "summaryZh": ""
     },
     {
@@ -40,6 +40,16 @@
       "category": "robotics",
       "pubDate": "2026-08-13T14:07:16.000Z",
       "summary": "小米米家扫拖机器人5京东售价1510元起。",
+      "summaryZh": ""
+    },
+    {
+      "title": "RISC-V已落地人形机器人“运动控制、实时通信、环境感知”赛道",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VZ3h0X0ZNeERaamVESDBLLWplU1FqSGkxN0FBbFgxWlJkNk5TV0RSWWpKZFhiNkVTWEk1MmVBQ1JtWV9BaGN3Y0FfbWxBTTFBX2tlcktLVQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-13T05:41:43.000Z",
+      "summary": "RISC-V技术应用于人形机器人运动控制、实时通信和环境感知领域。",
       "summaryZh": ""
     },
     {
@@ -59,17 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-13T02:03:03.000Z",
-      "summary": "DeepSeek V4 Pro与Grok 4.6同日发布，两款大模型产品竞争激烈。",
-      "summaryZh": ""
-    },
-    {
-      "title": "东软集团(600718.SH)：东软AI Agent相关解决方案落地案例占比超80%",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4TmItYkNpdW9ZMWVkX2VIR3VrLWl5TDZ2WVczQWhnTUI2U3hVUFcweFhOU0E1U1VyRXdlTXpLZU4tc3VRbEtOdFlFZkdIeEllSEcwekg4bmdHSlJPbDZqckloN190Q3lHTzRycTVMbUdHaFlo?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-13T07:37:39.000Z",
-      "summary": "东软AI Agent解决方案落地案例占比超80%，赋能多领域数字化升级。",
+      "summary": "DeepSeek V4 Pro与Grok 4.6同日发布，大模型市场竞争加剧。",
       "summaryZh": ""
     },
     {
@@ -79,17 +79,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-13T11:34:42.000Z",
-      "summary": "多点数智H1利润增长66%，全面落地零售AI Agent战略。",
-      "summaryZh": ""
-    },
-    {
-      "title": "宇树上市，智元递表：中国机器人按下发令枪",
-      "link": "https://www.tmtpost.com/8102269.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-13T10:37:27.000Z",
-      "summary": "中国机器人企业宇树上市，智元递表，具身智能赛道加速发展。",
+      "summary": "多点数智上半年利润增长66%，全面落地零售AI Agent战略。",
       "summaryZh": ""
     },
     {
@@ -99,7 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-13T16:03:19.000Z",
-      "summary": "DeepSeek Harness发布，开源源代码，支持DIY和自进化。",
+      "summary": "DeepSeek Harness发布，开源源代码，支持自定义插件和预设。",
       "summaryZh": ""
     },
     {
@@ -129,7 +119,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-13T19:22:40.000Z",
-      "summary": "OpenAI推出Ultrafast模式，GPT-5.6 Sol速度提升14倍。",
+      "summary": "OpenAI推出“Ultrafast”模式，使GPT-5.6 Sol速度提升14倍。",
       "summaryZh": "",
       "titleZh": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍"
     },
@@ -140,17 +130,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-13T12:02:00.000Z",
-      "summary": "谷歌联合创始人推动资源倾斜，全力研发Gemini大模型以提升AI迭代能力。",
+      "summary": "谷歌联合创始人推动资源倾斜，全力研发Gemini大模型以追上行业前沿。",
       "summaryZh": ""
     },
     {
-      "title": "AI产品成交额增长125%！京东大搞AI、机器人，未来5年要建80多个机器人基地",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE54OHdxMG5SWkJ0UXFjWDZ6VVkxUGtPV1ZvbndPOFBWWThpU0d6OFBXQ2JWR0ZrTnVkc1pBU015My1aSDRpVWc?oc=5",
-      "source": "智东西",
+      "title": "成都首笔“算力贷”落地 创新“券贷协同”赋能人工智能企业发展",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82S1BfTFNweEFaNUE0Z3ZHa0FqcDR5Um9FeS11WkZkaEhmTkZwaW5nVGtyZExjTWNvLXdKVGwzcWh0TUVUdEc3ZEJ6Tm5McmdjWVdZMmVaQzJiMXVrWXZVajVFZ3BMMkZh?oc=5",
+      "source": "中国新闻网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-13T18:00:00.000Z",
-      "summary": "京东AI产品成交额增长125%，未来5年将建80多个机器人基地。",
+      "category": "ai",
+      "pubDate": "2026-08-13T13:41:27.000Z",
+      "summary": "成都发放首笔“算力贷”，创新券贷协同助力人工智能企业发展。",
       "summaryZh": ""
     },
     {
@@ -160,7 +150,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-13T03:55:42.000Z",
-      "summary": "特普斯推出“四合一”AI SoC，集成玄铁CPU和芯原NPU IP，应用于机器人、AI一体机等市场。",
+      "summary": "特普斯推出“四合一”AI SoC芯片，应用于机器人、AI一体机、AI网关等市场。",
       "summaryZh": ""
     },
     {
@@ -170,29 +160,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-13T15:06:47.000Z",
-      "summary": "移动操作器和类人机器人成为机器人技术未来发展方向。",
+      "summary": "移动操作器和类人机器人技术发展迅速，吸引大量投资和关注。",
       "summaryZh": "",
       "titleZh": "移动机械手和类人机器人：机器人技术的未来"
-    },
-    {
-      "title": "C轮4.2亿，一家半导体腔体厂开始做人形机器人“骨骼”",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4TU14TmdPeFhaVmhicjB6VUpSQ2RGTmR2dHhOOTNIQmtkMzl0SFB4WVdtSVNldUJHaFJlRnFhMUF6UkJYWWkzb0VyLWphS1EtTWw2NmJFMA?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-13T09:22:37.000Z",
-      "summary": "半导体腔体厂德玛克获4.2亿C轮融资，切入人形机器人“骨骼”制造领域。",
-      "summaryZh": ""
-    },
-    {
-      "title": "汽车早餐| 特斯拉在美召回2万辆Model 3和Model Y；中国长安汽车与华为签署战略合作框架协议；上半年中国人形机器人出货量全球占比超97%",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yVXNhM3paSHM4Z0pLMjlqdzUteXVncnFvNElnWXc4eDk3NFNvbXlERC1WM1Z1dnQzQlB4VFhNVFF6OGIwdGFjV0M2OW93LWQzaXotZmhB?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-12T23:01:00.000Z",
-      "summary": "特斯拉召回2万辆美版Model 3和Model Y，长安汽车与华为签战略合作，上半年中国机器人出货量全球占比超97%。",
-      "summaryZh": ""
     },
     {
       "title": "I finally found a robot lawnmower I’d trust with my yard",
@@ -201,7 +171,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-13T18:30:00.000Z",
-      "summary": "用户找到可信赖的机器人割草机。",
+      "summary": "用户找到一款可信赖的机器人割草机。",
       "summaryZh": "",
       "titleZh": "我终于找到了一台我可以放心在院子里使用的机器人割草机"
     },
@@ -212,9 +182,20 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-13T18:00:00.000Z",
-      "summary": "Matic机器人吸尘器支持手势控制，可指使清洁。",
+      "summary": "Matic机器人吸尘器支持手势控制功能。",
       "summaryZh": "",
       "titleZh": "现在你只要指着乱七八糟的东西，这个扫地机器人就会把它吸起来"
+    },
+    {
+      "title": "BioflexBot robot hand aims to replicate key human hand motions",
+      "link": "https://www.therobotreport.com/bioflexbot-robot-hand-aims-to-replicate-key-human-hand-motions/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-13T12:15:02.000Z",
+      "summary": "BioflexBot机器人手旨在模仿关键的人手动作。",
+      "summaryZh": "",
+      "titleZh": "BioflexBot 机器人手旨在复制关键的人类手部动作"
     },
     {
       "title": "外卖补贴降温之后，京东押注AI的效率叙事",
