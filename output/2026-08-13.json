@@ -1,55 +1,44 @@
 {
   "date": "2026-08-13",
-  "generatedAt": "2026-08-13T02:49:49.676Z",
+  "generatedAt": "2026-08-13T05:21:45.178Z",
   "items": [
     {
-      "title": "剖析私域智能化实践2026年内嵌式AI Agent垂直场景落地约束梳理",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE13VTdfWW5McnVuM0JxREZrWmlXREtzMmxJQ2lxcVVCSWtPN0hrbnlINmhSUGN6aXd1clJ1a0VCY0ZwcnB3NzVKMDlzakg?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-13T02:16:25.000Z",
-      "summary": "2026年私域智能化实践，内嵌式AI Agent垂直场景落地，企业选型需考虑业务融合深度、行业属性和技术团队配置。",
-      "summaryZh": ""
-    },
-    {
-      "title": "谷歌 AI 重组内幕曝光：布林不满落后 Anthropic，要求全力投入 Gemini 模型",
-      "link": "https://www.ithome.com/0/989/035.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-13T00:59:35.000Z",
-      "summary": "谷歌AI部门重组，布林要求全力推进Gemini模型以追赶竞争对手。",
-      "summaryZh": ""
-    },
-    {
-      "title": "高盛上调中国AI大模型收入预期，国产算力集群迈入10万卡时代，南方基金旗下创业板人工智能ETF南方(159382)跟踪指数涨超3%，盘中交投活跃",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02Y1Y1ZlNqREhwZ1dZTi1QYXpRMEloYzg3bldIX2JPT1ByVXhoZExLTDlzRmtlMUNfdklMWWsxSDB4SEd5ZTBZUlNnSmdIdXR3d3pzZDR3?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-13T01:54:00.000Z",
-      "summary": "高盛上调中国AI大模型收入预期，国产算力集群突破10万卡，南方基金旗下ETF涨超3%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "三大厂集体押注Agent，办公场景成AI落地主战场？",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95T0RiZVVLcWxZYjZ0SFZYMDRCdVpCRUtVaDZBWWR3OFFoSTFYdDFuTVY0TjB5a0QydWdvMGxZU21jZXNaWmc5S2ZKR3RxcXVjTjdROWF3?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-13T00:13:11.000Z",
-      "summary": "三大厂密集布局AI办公场景，推动自动化办公赛道发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国产算力基建加速落地！阿里云超节点实例上线 后续拟扩至多地域",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Td004WHgyemFhZTlrSFA3U3NpeVdjdTZ3N2pZYVI4VGdTUmZJTlk2UWNMa1FLZ1FLNmF3MEY1TVlLZFJabUtyaQ?oc=5",
+      "title": "人形机器人在各类应用场景加速落地 机构称产业化奇点已至",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuMDAyTVlCc3k5dHBHSnJrZFJPRk1HdjFVOGhFODRLeUFJUENZNHU0WmlkZnFhMGU4ODBtb3ltOTVaelh5dmplZQ?oc=5",
       "source": "财联社",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-12T06:35:00.000Z",
-      "summary": "阿里云超节点实例上线，计划多地域扩展。",
+      "category": "robotics",
+      "pubDate": "2026-08-13T01:21:13.000Z",
+      "summary": ""
+    },
+    {
+      "title": "北大、NTU等推出世界动作模型ω-0，重塑人形机器人的居家作业模式",
+      "link": "https://www.tmtpost.com/8101182.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-13T03:44:43.000Z",
+      "summary": "北大、NTU等推出动作模型ω-0，提升人形机器人居家作业效率。",
+      "summaryZh": ""
+    },
+    {
+      "title": "全球 16 国 2056 台机器人将参加第二届世界人形机器人运动会，队伍总量同比增长 138%",
+      "link": "https://www.ithome.com/0/989/152.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-13T04:10:46.000Z",
+      "summary": "第二届世界人形机器人运动会将于8月22日举行，全球16国2056台机器人参赛，同比增长138%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
+      "link": "https://www.qbitai.com/2026/08/471451.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-13T03:00:41.000Z",
+      "summary": "荣耀发布全球首款机器人手机荣耀Robot Phone，引领智能手机迈入具身交互时代。",
       "summaryZh": ""
     },
     {
@@ -69,17 +58,47 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-12T10:27:45.000Z",
-      "summary": "全球三大顶尖AI模型防蒸馏机制被破解，小模型可“套出”大模型隐藏思维链。",
+      "summary": "全球三大顶尖AI模型防蒸馏机制被突破，小模型成功“套出”大模型隐藏思维链。",
       "summaryZh": ""
     },
     {
-      "title": "不做更好的大模型，林俊旸的 Pragmatik，凭什么值 20 亿美元",
-      "link": "https://www.tmtpost.com/8101590.html",
+      "title": "物理AI时代的产业逻辑推演——AIDC算力底座",
+      "link": "https://www.tmtpost.com/8101800.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-13T01:30:00.000Z",
-      "summary": "Pragmatik Labs以“数字+物理”智能体研究获20亿美元融资。",
+      "pubDate": "2026-08-13T03:07:01.000Z",
+      "summary": "物理AI时代，AIDC算力底座成为数据飞轮转动核心。",
+      "summaryZh": ""
+    },
+    {
+      "title": "韩国 AI 模型 Solar Pro 4 首次亮相 Agent Arena：排名 44，与 MiniMax M2.7 同级",
+      "link": "https://www.ithome.com/0/989/171.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-13T04:20:19.000Z",
+      "summary": "韩国AI模型Solar Pro 4在Agent Arena排名44，与MiniMax M2.7同级。",
+      "summaryZh": ""
+    },
+    {
+      "title": "豪砸514亿！马化腾：腾讯大幅增加算力采购",
+      "link": "https://zhidx.com/p/584305.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-12T14:40:27.000Z",
+      "summary": "腾讯第二季度算力采购预付款项达514亿元，主要用于自研大模型训练和AI应用拓展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI政策催化与算力需求共振，光模块高景气传导，南方基金旗下创业板人工智能ETF南方(159382)跟踪创业板人工智能指数涨2.17%",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHN3YtOTFJeGViNFVqbV9XSUJidTBlZHVPYkRKWU9TNE1iSklrVWdZTUJ6a1locHkybzkwY19rdVNTM05pUW9XNFFNdVIxbkNzRDY0RkQyMFY?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-13T01:41:15.000Z",
+      "summary": "南方基金创业板人工智能ETF南方(159382)跟踪创业板人工智能指数涨2.17%。",
       "summaryZh": ""
     },
     {
@@ -89,7 +108,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-12T17:26:58.000Z",
-      "summary": "SpaceXAI发布Grok 4.6，在人工智能分析领域排名世界第三。",
+      "summary": "SpaceXAI发布Grok 4.6，超越Kimi K3，与GPT-5.6 Sol并列全球第三。",
       "summaryZh": "",
       "titleZh": "SpaceXAI 首次推出 Grok 4.6，超越 Kimi K3 的性能并与 GPT-5.6 Sol 相媲美，在人工分析方面排名世界第三"
     },
@@ -105,93 +124,42 @@
       "titleZh": "失控的 OpenAI 代理撞到了拥抱面并暴露了 AI 护栏缺口"
     },
     {
-      "title": "不造机器人，专教机器人走跑跳，南科大学霸融资亿元",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5zb2Z3OTlweXE1NDJrV3dGWGlHczR3akVIRi1lQ2JOakFzVEo0NnBrblQyMy1pQXpKcVZlNnFWMVdMdGJqcEE?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-12T05:40:33.000Z",
-      "summary": "南科大学霸创立公司融资亿元，专注机器人运动控制技术。",
-      "summaryZh": ""
-    },
-    {
-      "title": "公司互动丨这些公司披露在机器人、化工等方面最新情况",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QV3ZrN2tDRXF3UDBqN0NrRC1CTTZ6M1dIZUVPMlVTek9hc3FwS1pFY1E5Y09uUHN6MDc1eDRKa2UyWlA1U2FKdzNkUlVvUnlMbFhr?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-12T14:19:44.000Z",
-      "summary": "多家上市公司披露在机器人、化工等领域最新进展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "给大模型做记忆，郝建业半年融三轮",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkN2J6dDNyM09wclE3bmltZEdMaXJJOTN1WHhkQTlLRHdfQ19SOEhLVFBFVWtsVHo3SXZGRFFXT2JnaG1mRklRbXN6eHhLUQ?oc=5",
+      "title": "估值200亿，北京又一大模型厂商启动IPO",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xczdVTXYwTG1CX3I0MzVBWU5ZTC1GZDhUS2c1Ylc4X3ZoQ0tCb1A0bk11U29sZ1NtMlR4RS10M3VXVE5BRWlPZkNnVlU4Zw?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-12T05:16:33.000Z",
+      "pubDate": "2026-08-12T12:05:20.000Z",
       "summary": ""
     },
     {
       "title": "信任的锚点：人工智能治理可以走向“标准化”吗？",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlMlEzWVFENVRHdlM4UTZmTnBXUjdVQU90T1VRUUZBak45eHFMVkdmLWN6czZUNVpjOExyUEpRc3ZjN2IwX0RubTJ3RU9xVVZua2JLWA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1scDIxZ3ZSd0QwRmlZSkxMdkRSdDczc01GaTBlaFBSMEFGeWlrTzNfbk1qZFdXNUREcW5iNHQ4enVCbGZLU1h1Rm5KdjY5WVh0LXBn?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-12T08:17:17.000Z",
-      "summary": "探讨人工智能治理标准化，以建立信任锚点。",
-      "summaryZh": ""
+      "pubDate": "2026-08-13T00:29:30.000Z",
+      "summary": ""
     },
     {
-      "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBdmVMRzIySjVERkNnZVRReEF0YUVvaGlDa2FjX2JmMnNtc0NzT3gxLWFhWEdmQ0hCbWNCdmtlRG9XZE1tMmpDbQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-12T11:02:00.000Z",
-      "summary": "腾讯第三季度大幅增加算力采购，旨在将AI应用及模型转化为收入。",
-      "summaryZh": ""
-    },
-    {
-      "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
-      "link": "https://www.qbitai.com/2026/08/470874.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-12T04:29:57.000Z",
-      "summary": "擎羽科技推出仿生柔性机器人，探索具身智能新方向。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Celona launches Orion agentic wireless platform built for physical AI and robotics",
-      "link": "https://www.therobotreport.com/celona-launches-orion-agentic-wireless-platform-built-for-physical-ai-robotics/",
+      "title": "Q2 2026 robotics demand increased across industries, reports A3",
+      "link": "https://www.therobotreport.com/q2-2026-robotics-demand-increased-across-industries-reports-a3/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-08-12T12:00:08.000Z",
-      "summary": "Celona推出Orion统一无线平台，支持物理AI和机器人连接。",
+      "pubDate": "2026-08-12T14:18:56.000Z",
+      "summary": "2026年第二季度机器人需求行业间增长，A3报告显示。",
       "summaryZh": "",
-      "titleZh": "Celona 推出专为物理人工智能和机器人技术打造的 Orion 代理无线平台"
+      "titleZh": "A3 报告称，2026 年第二季度各行业机器人需求均有所增加"
     },
     {
-      "title": "千万股民疯抢宇树，人形机器人产业链全景分析",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoTUxVUllTRHZtOXNpVlVLeGhKeGRHN0RobGZWYVpRaXFXdGNRbVFaSGFaZHc4VkVEVW1RaFFsZDdXaFhleFY1M0FGd1JQMFBibk9hOFZKUQ?oc=5",
-      "source": "与非网",
+      "title": "前腾讯Robotics X成员创业，做具身数据基建，融数亿",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5wODl1U1VXaWVIeUZQREQtYnEzX01CbmRRaURvZ0ozMjdyNjNiRFFyZlN1T1pxM2pUX1ZLSkJnWndFZUw1ZlE?oc=5",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-12T05:56:35.000Z",
-      "summary": "宇树科技科创板申购引发股民疯抢，人形机器人产业链全景分析出炉。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智元反超宇树，8400台人形机器人出货量拿下上半年全球第一！",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pV0p6dmNtZFFvSDdDNGM3VWk5eTBNNnNsRHNwX3JYM0tnQllNaWpSQVhCeUlqZjliTExsaFFLTVJFQks1VTh0ZmlyMlM5THhrXzUwSVA0dw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-12T05:16:30.000Z",
-      "summary": "智元机器人以8400台人形机器人出货量，成为2026年上半年全球市场领导者。",
+      "pubDate": "2026-08-12T06:12:04.000Z",
+      "summary": "前腾讯Robotics X成员创办艾欧智能，专注具身数据基建，获数亿融资。",
       "summaryZh": ""
     },
     {
@@ -214,14 +182,26 @@
       "summary": ""
     },
     {
-      "title": "《江海潮生》中的南通崇川，全网征集AI创意文旅作品",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzMjhoRFNBZFAxdHVMTUxRLVVPMWt4SXFZZzBZNkNyQl9NeThHNWFzS09GZExEdzVTQkxsVng0YTU0WHdJSXFUX2ptUzA5ck5qbko3QklmZzlNSnpXR2c?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-12T04:45:00.000Z",
-      "summary": "南通崇川开展AI创意文旅作品征集，吸引众多创作者参与。",
-      "summaryZh": ""
+      "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+      "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-12T20:53:41.000Z",
+      "summary": "北罗普公司研发的机器人太空机械师延长卫星使用寿命。",
+      "summaryZh": "",
+      "titleZh": "诺斯罗普的机器人太空机械师是一种让卫星工作更长时间的新方法"
+    },
+    {
+      "title": "Honor’s Robot Phone Has a Gimbal-Powered Camera for Vloggers",
+      "link": "https://www.wired.com/story/honor-robot-phone/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-12T12:30:00.000Z",
+      "summary": "荣耀推出中国独占的机器人手机，配备可弹出机械稳定器摄像头。",
+      "summaryZh": "",
+      "titleZh": "荣耀的机器人手机配备了适合视频博主的万向节摄像头"
     },
     {
       "title": "宁职学子以AI赋能文旅 激活乡村振兴新动能",
@@ -240,7 +220,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-12T11:17:01.000Z",
-      "summary": "2026年智能客服市场经历代际切换，企业需关注能否直接办事。",
+      "summary": "2026年智能客服市场经历代际切换，企业需关注能否直接办事而非仅问答。",
       "summaryZh": ""
     }
   ]
