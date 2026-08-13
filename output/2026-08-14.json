@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "generatedAt": "2026-08-13T19:15:30.860Z",
+  "generatedAt": "2026-08-13T20:18:46.698Z",
   "items": [
     {
       "title": "神秘生图模型“mona-lisa-1”曝光：含 OpenAI 来源信号，GPT-Image-2 发布三个月仍稳坐第一",
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-12T21:00:00.000Z",
-      "summary": "谷歌联合创始人督战Gemini大模型研发，以追上行业前沿水平。",
+      "summary": "谷歌联合创始人推动Gemini大模型研发，以应对算力限制和迭代缓慢问题。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-13T10:27:07.000Z",
-      "summary": "IBM与OpenAI合作，加速企业安全AI部署。",
+      "summary": "IBM与OpenAI合作，推进企业安全AI应用部署。",
       "summaryZh": ""
     },
     {
@@ -49,7 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-13T14:07:16.000Z",
-      "summary": "小米米家扫拖机器人5京东售价1510元起，支持上下水。",
+      "summary": "小米米家扫拖机器人5京东售价1510元起。",
       "summaryZh": ""
     },
     {
@@ -69,7 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-13T02:03:03.000Z",
-      "summary": "DeepSeek V4 Pro与Grok 4.6同日发布，两款大模型产品竞争激烈。",
+      "summary": "DeepSeek V4 Pro与Grok 4.6同日发布，两款大模型逼近Claude Fable 5。",
       "summaryZh": ""
     },
     {
@@ -79,7 +79,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-13T07:37:39.000Z",
-      "summary": "东软AI Agent解决方案落地案例占比超80%，助力行业智能转型。",
+      "summary": "东软AI Agent解决方案落地案例占比超80%，赋能多领域数字化升级。",
       "summaryZh": ""
     },
     {
@@ -99,7 +99,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-13T10:37:27.000Z",
-      "summary": "宇树上市，智元递表，中国机器人行业加速发展。",
+      "summary": "中国机器人企业宇树上市，智元递表，标志着中国机器人行业进入快速发展阶段。",
       "summaryZh": ""
     },
     {
@@ -109,7 +109,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-13T16:03:19.000Z",
-      "summary": "DeepSeek Harness发布，开源源代码，支持自进化与DIY定制。",
+      "summary": "DeepSeek Harness发布，开源源代码，支持自定义插件和预设。",
       "summaryZh": ""
     },
     {
@@ -133,14 +133,15 @@
       "summaryZh": ""
     },
     {
-      "title": "成都首笔“算力贷”落地 创新“券贷协同”赋能人工智能企业发展",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82S1BfTFNweEFaNUE0Z3ZHa0FqcDR5Um9FeS11WkZkaEhmTkZwaW5nVGtyZExjTWNvLXdKVGwzcWh0TUVUdEc3ZEJ6Tm5McmdjWVdZMmVaQzJiMXVrWXZVajVFZ3BMMkZh?oc=5",
-      "source": "中国新闻网",
-      "lang": "zh",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "source": "TechCrunch",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-08-13T13:41:27.000Z",
-      "summary": "成都首笔“算力贷”成功发放，创新券贷协同助力人工智能企业发展。",
-      "summaryZh": ""
+      "pubDate": "2026-08-13T19:22:40.000Z",
+      "summary": "OpenAI推出新模式“Ultrafast”，使GPT-5.6 Sol速度提升14倍。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍"
     },
     {
       "title": "AI产品成交额增长125%！京东大搞AI、机器人，未来5年要建80多个机器人基地",
@@ -148,8 +149,28 @@
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-13T18:09:49.000Z",
+      "pubDate": "2026-08-13T18:00:00.000Z",
       "summary": "京东AI产品成交额增长125%，未来5年计划建立80多个机器人基地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "雷军押注，深圳机器人零部件供应商融近亿",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA5cUgyMThKT0NJZk56NmVaOWJLbURxMkVMRGZ6TFRLS29UQ05vMHdxYW5oa1V2eW9SdkhfRTE4MHM4WmNRNmc?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-13T06:39:42.000Z",
+      "summary": "深圳诺仕机器人完成近亿元A+轮融资，资金用于产能扩张和产品迭代。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人手机“探路”，荣耀预测两到三年AI终端将迎规模化拐点",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wMHVzWktBaEhDQzltb0VGUG45TlRhTUtXUWVSX2NLdTFJay1oZXJqS19YVjFYci1jVkoyV1dlR2U1bTJLcFNGNVBBTE5iWUxyTVNN?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-13T05:13:43.000Z",
+      "summary": "荣耀预测两到三年AI终端将迎来规模化拐点，机器人手机成探路先锋。",
       "summaryZh": ""
     },
     {
@@ -160,6 +181,16 @@
       "category": "robotics",
       "pubDate": "2026-08-13T03:55:42.000Z",
       "summary": "特普斯推出“四合一”AI SoC芯片，应用于机器人、AI一体机、AI网关等市场。",
+      "summaryZh": ""
+    },
+    {
+      "title": "荣耀CEO李健：机器人手机落地，体系化创新开辟AI终端新赛道",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yLW10anowMmxENFhuOUpiQ2d3cGdQRTl0b2xvelZNMkJYbmVOLVl6ZkVXVmZIMnVFeFN6OU9UaGxfUHVQT2thQ0huOHc5MGtqUUNxYWsyUVFHcHRuV2EwVDdZc1hwSzNGVFE1dndkVElYRFBUOFBxaUR3RFQ?oc=5",
+      "source": "新华社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-13T10:37:34.000Z",
+      "summary": "荣耀发布全球首款机器人手机，开启AI终端新赛道。",
       "summaryZh": ""
     },
     {
@@ -204,15 +235,15 @@
       "summaryZh": ""
     },
     {
-      "title": "Who really needs a cocktail robot?",
-      "link": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
-      "source": "TechCrunch",
+      "title": "I finally found a robot lawnmower I’d trust with my yard",
+      "link": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+      "source": "The Verge",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-08-13T15:00:00.000Z",
-      "summary": "Bartesian混合酒机器人可一键制作多种鸡尾酒，售价300美元，但消费者群体有限。",
+      "pubDate": "2026-08-13T18:30:00.000Z",
+      "summary": "用户找到可信赖的机器人割草机。",
       "summaryZh": "",
-      "titleZh": "谁真正需要鸡尾酒机器人？"
+      "titleZh": "我终于找到了一台我可以放心在院子里使用的机器人割草机"
     },
     {
       "title": "外卖补贴降温之后，京东押注AI的效率叙事",
@@ -240,7 +271,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-13T09:04:25.000Z",
-      "summary": "济宁文旅产业借助AI技术实现数字化转型，提升游客体验并促进消费增长。",
+      "summary": "济宁文旅产业借助AI技术实现数字化转型，提升游客体验并推动消费增长。",
       "summaryZh": ""
     }
   ]
