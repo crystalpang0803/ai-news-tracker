@@ -1,35 +1,45 @@
 {
   "date": "2026-08-13",
-  "generatedAt": "2026-08-12T23:23:27.279Z",
+  "generatedAt": "2026-08-13T02:49:49.676Z",
   "items": [
     {
-      "title": "剑指 GPT-5.6 Sol，SpaceXAI 发布 Grok 4.6 模型",
-      "link": "https://www.ithome.com/0/988/999.htm",
+      "title": "剖析私域智能化实践2026年内嵌式AI Agent垂直场景落地约束梳理",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE13VTdfWW5McnVuM0JxREZrWmlXREtzMmxJQ2lxcVVCSWtPN0hrbnlINmhSUGN6aXd1clJ1a0VCY0ZwcnB3NzVKMDlzakg?oc=5",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-12T15:57:46.000Z",
-      "summary": "SpaceXAI发布Grok 4.6模型，强化长时间运行智能体任务和复杂交互。",
+      "pubDate": "2026-08-13T02:16:25.000Z",
+      "summary": "2026年私域智能化实践，内嵌式AI Agent垂直场景落地，企业选型需考虑业务融合深度、行业属性和技术团队配置。",
       "summaryZh": ""
     },
     {
-      "title": "4S店集体“爆改”：卖车亏百万，如今改卖服装、烧烤与人形机器人",
-      "link": "https://www.tmtpost.com/8099407.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-12T10:09:44.000Z",
-      "summary": "4S店转型多元化经营，从卖车亏损转向服装、烧烤和人形机器人等业态。",
-      "summaryZh": ""
-    },
-    {
-      "title": "全球首款机器人手机荣耀 Robot Phone 正式发布，天马宣布独家供屏",
-      "link": "https://www.ithome.com/0/988/986.htm",
+      "title": "谷歌 AI 重组内幕曝光：布林不满落后 Anthropic，要求全力投入 Gemini 模型",
+      "link": "https://www.ithome.com/0/989/035.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-12T14:11:08.000Z",
-      "summary": "荣耀Robot Phone正式发布，天马独家供屏。",
+      "category": "ai",
+      "pubDate": "2026-08-13T00:59:35.000Z",
+      "summary": "谷歌AI部门重组，布林要求全力推进Gemini模型以追赶竞争对手。",
+      "summaryZh": ""
+    },
+    {
+      "title": "高盛上调中国AI大模型收入预期，国产算力集群迈入10万卡时代，南方基金旗下创业板人工智能ETF南方(159382)跟踪指数涨超3%，盘中交投活跃",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02Y1Y1ZlNqREhwZ1dZTi1QYXpRMEloYzg3bldIX2JPT1ByVXhoZExLTDlzRmtlMUNfdklMWWsxSDB4SEd5ZTBZUlNnSmdIdXR3d3pzZDR3?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-13T01:54:00.000Z",
+      "summary": "高盛上调中国AI大模型收入预期，国产算力集群突破10万卡，南方基金旗下ETF涨超3%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "三大厂集体押注Agent，办公场景成AI落地主战场？",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95T0RiZVVLcWxZYjZ0SFZYMDRCdVpCRUtVaDZBWWR3OFFoSTFYdDFuTVY0TjB5a0QydWdvMGxZU21jZXNaWmc5S2ZKR3RxcXVjTjdROWF3?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-13T00:13:11.000Z",
+      "summary": "三大厂密集布局AI办公场景，推动自动化办公赛道发展。",
       "summaryZh": ""
     },
     {
@@ -39,7 +49,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-12T06:35:00.000Z",
-      "summary": ""
+      "summary": "阿里云超节点实例上线，计划多地域扩展。",
+      "summaryZh": ""
     },
     {
       "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
@@ -48,7 +59,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-12T13:10:55.000Z",
-      "summary": "国产具身智能模型在物流分拣效率上超越Figure AI，以30%成本实现45%效率提升。",
+      "summary": "国产具身智能模型在物流分拣效率上超越Figure AI，以更低成本实现更高效率。",
       "summaryZh": ""
     },
     {
@@ -58,28 +69,29 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-12T10:27:45.000Z",
-      "summary": "全球三大顶尖AI模型防蒸馏机制被突破，小模型成功“套出”大模型隐藏思维链。",
+      "summary": "全球三大顶尖AI模型防蒸馏机制被破解，小模型可“套出”大模型隐藏思维链。",
       "summaryZh": ""
     },
     {
-      "title": "AI重演1873年：老百姓正悄悄成为算力的接盘者",
-      "link": "https://www.tmtpost.com/8100186.html",
+      "title": "不做更好的大模型，林俊旸的 Pragmatik，凭什么值 20 亿美元",
+      "link": "https://www.tmtpost.com/8101590.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-12T10:15:38.000Z",
-      "summary": "AI基建投资激增，民众成为算力接盘者。",
+      "pubDate": "2026-08-13T01:30:00.000Z",
+      "summary": "Pragmatik Labs以“数字+物理”智能体研究获20亿美元融资。",
       "summaryZh": ""
     },
     {
-      "title": "豪砸514亿！马化腾：腾讯大幅增加算力采购",
-      "link": "https://zhidx.com/p/584305.html",
-      "source": "智东西",
-      "lang": "zh",
+      "title": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
+      "link": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+      "source": "VentureBeat",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-08-12T14:40:27.000Z",
-      "summary": "腾讯第二季度算力预付款项达514亿元，用于自研大模型训练和AI应用拓展。",
-      "summaryZh": ""
+      "pubDate": "2026-08-12T17:26:58.000Z",
+      "summary": "SpaceXAI发布Grok 4.6，在人工智能分析领域排名世界第三。",
+      "summaryZh": "",
+      "titleZh": "SpaceXAI 首次推出 Grok 4.6，超越 Kimi K3 的性能并与 GPT-5.6 Sol 相媲美，在人工分析方面排名世界第三"
     },
     {
       "title": "Runaway OpenAI Agent Hits Hugging Face and Exposes AI Guardrail Gaps",
@@ -93,23 +105,42 @@
       "titleZh": "失控的 OpenAI 代理撞到了拥抱面并暴露了 AI 护栏缺口"
     },
     {
-      "title": "从算力到电力，AI竞赛的隐性边界",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2YnQ4emcxSFo0cWF6MXR6eXFWZmwyNlVsS2lxUExtUld0d0NlT2trN2lSbXUtM0tmaEt3TzlVcFZGYlZMZG1nYmtoZWdrTXJu?oc=5",
-      "source": "36氪",
+      "title": "不造机器人，专教机器人走跑跳，南科大学霸融资亿元",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5zb2Z3OTlweXE1NDJrV3dGWGlHczR3akVIRi1lQ2JOakFzVEo0NnBrblQyMy1pQXpKcVZlNnFWMVdMdGJqcEE?oc=5",
+      "source": "智东西",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-12T02:31:41.000Z",
-      "summary": "AI竞赛转向关注电力供应与基础设施承载力。",
+      "category": "robotics",
+      "pubDate": "2026-08-12T05:40:33.000Z",
+      "summary": "南科大学霸创立公司融资亿元，专注机器人运动控制技术。",
       "summaryZh": ""
     },
     {
-      "title": "国务院国资委：围绕云计算、网络、人工智能、量子等根技术，加力关键核心技术攻关",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCc1JSaWE2R2xZakxHaThRWnc4ald2LW5lNmhhM1QyenlVWWVpSTBBUjY3cUtrcWdlSjFNVkRfNFZGb1d5Z1lBZjhGb0ZEbDM2SFRCNGJ4THI?oc=5",
-      "source": "界面新闻",
+      "title": "公司互动丨这些公司披露在机器人、化工等方面最新情况",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QV3ZrN2tDRXF3UDBqN0NrRC1CTTZ6M1dIZUVPMlVTek9hc3FwS1pFY1E5Y09uUHN6MDc1eDRKa2UyWlA1U2FKdzNkUlVvUnlMbFhr?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-12T14:19:44.000Z",
+      "summary": "多家上市公司披露在机器人、化工等领域最新进展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "给大模型做记忆，郝建业半年融三轮",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkN2J6dDNyM09wclE3bmltZEdMaXJJOTN1WHhkQTlLRHdfQ19SOEhLVFBFVWtsVHo3SXZGRFFXT2JnaG1mRklRbXN6eHhLUQ?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-12T14:49:28.000Z",
-      "summary": "国务院国资委强调加力攻关云计算等关键核心技术。",
+      "pubDate": "2026-08-12T05:16:33.000Z",
+      "summary": ""
+    },
+    {
+      "title": "信任的锚点：人工智能治理可以走向“标准化”吗？",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlMlEzWVFENVRHdlM4UTZmTnBXUjdVQU90T1VRUUZBak45eHFMVkdmLWN6czZUNVpjOExyUEpRc3ZjN2IwX0RubTJ3RU9xVVZua2JLWA?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-12T08:17:17.000Z",
+      "summary": "探讨人工智能治理标准化，以建立信任锚点。",
       "summaryZh": ""
     },
     {
@@ -119,27 +150,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-12T11:02:00.000Z",
-      "summary": ""
+      "summary": "腾讯第三季度大幅增加算力采购，旨在将AI应用及模型转化为收入。",
+      "summaryZh": ""
     },
     {
-      "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
-      "link": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
-      "source": "VentureBeat",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-08-12T18:44:50.000Z",
-      "summary": "五成企业虽已为AI代理身份设防，但仍有四成无法控制其越界行为。",
-      "summaryZh": "",
-      "titleZh": "五家获得人工智能代理身份保护的企业中，有四家仍无法遏制流氓行为"
-    },
-    {
-      "title": "稀疏计算产学研联盟成立，协同攻关算力效能提升与产业化落地",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zaHJ2bnBTUVVLZ21XZU9uSVBxWHpfMDFPVm5QU3RVRFh5bzNYZ25HclJKblRWMFhxY05KeF9neVV3YVdFN2N0QkNSNEU4OFRYZS1aRU5Cd1YzeF9hckE?oc=5",
-      "source": "澎湃新闻科技",
+      "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
+      "link": "https://www.qbitai.com/2026/08/470874.html",
+      "source": "量子位",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-12T01:21:00.000Z",
-      "summary": "稀疏计算产学研联盟成立，旨在提升算力效能并推动产业化落地。",
+      "category": "robotics",
+      "pubDate": "2026-08-12T04:29:57.000Z",
+      "summary": "擎羽科技推出仿生柔性机器人，探索具身智能新方向。",
       "summaryZh": ""
     },
     {
@@ -154,56 +175,62 @@
       "titleZh": "Celona 推出专为物理人工智能和机器人技术打造的 Orion 代理无线平台"
     },
     {
-      "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
-      "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-12T20:53:41.000Z",
-      "summary": "美国诺斯罗普公司研发的机器人太空机械师延长卫星使用寿命。",
-      "summaryZh": "",
-      "titleZh": "诺斯罗普的机器人太空机械师是一种让卫星工作更长时间的新方法"
-    },
-    {
-      "title": "Honor’s Robot Phone Has a Gimbal-Powered Camera for Vloggers",
-      "link": "https://www.wired.com/story/honor-robot-phone/",
-      "source": "Wired",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-12T12:30:00.000Z",
-      "summary": "荣耀推出中国独占的机器人手机，配备可弹出陀螺仪相机。",
-      "summaryZh": "",
-      "titleZh": "荣耀的机器人手机配备了适合视频博主的万向节摄像头"
-    },
-    {
-      "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
-      "link": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-12T19:40:46.000Z",
-      "summary": "美国增派无人机监控德克萨斯州食肉蝇虫疫情。",
-      "summaryZh": "",
-      "titleZh": "随着食肉螺旋虫在德克萨斯州蔓延，美国加强了无人机监视"
-    },
-    {
-      "title": "从“单机出口”到“方案出海” 天津经开区智能机器人产业“养成记”",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWk5NHJSa3I3c1pZTEt3eWJCMVVDZkRlZ3VRUEdnc3cxRGVfWGVEU2YtMXJxVno5YVJmdm1SUUdpaDFoci1kTThkN052blo4S0pZV0dxQUdfbTVwYzNPY0xMSE9mRDVTUFdWdno5UmZhOE5UVElWY1dxNXFxZzJON3ItQUUtU0VG?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-12T08:21:48.000Z",
-      "summary": "天津经开区智能机器人产业从单机出口转向方案出海，产业规模持续扩大。",
-      "summaryZh": ""
-    },
-    {
-      "title": "工信部调研长鑫后，又去了这家机器人公司",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPVmFqbm1rRml0Zi1DQXBkcjU1SzF1aThuSnFpOTdpb0VhcXZ4WE9vNDlzX0g2OVMzSkNJczk4LThxdlBuODBBbUhGdkNiZ3pYR01MMDJwTQ?oc=5",
+      "title": "千万股民疯抢宇树，人形机器人产业链全景分析",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoTUxVUllTRHZtOXNpVlVLeGhKeGRHN0RobGZWYVpRaXFXdGNRbVFaSGFaZHc4VkVEVW1RaFFsZDdXaFhleFY1M0FGd1JQMFBibk9hOFZKUQ?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-12T06:20:37.000Z",
-      "summary": "工信部调研长鑫后，再访机器人公司清科灵境，探讨机器人操作系统与行为安全。",
+      "pubDate": "2026-08-12T05:56:35.000Z",
+      "summary": "宇树科技科创板申购引发股民疯抢，人形机器人产业链全景分析出炉。",
+      "summaryZh": ""
+    },
+    {
+      "title": "智元反超宇树，8400台人形机器人出货量拿下上半年全球第一！",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pV0p6dmNtZFFvSDdDNGM3VWk5eTBNNnNsRHNwX3JYM0tnQllNaWpSQVhCeUlqZjliTExsaFFLTVJFQks1VTh0ZmlyMlM5THhrXzUwSVA0dw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-12T05:16:30.000Z",
+      "summary": "智元机器人以8400台人形机器人出货量，成为2026年上半年全球市场领导者。",
+      "summaryZh": ""
+    },
+    {
+      "title": "普渡机器人张涛：从技术复用到数据金字塔，具身智能仍要跨过真实数据关",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kVC1lSEVXb0tjQlhSaUx0RDdVSmVFenlVYUVmTmhXNFJ5dmV2U0NsYmRoQjUzTG9QZnlEUWdSTzI4Sndmc2p1eXdmcUFTanhTeXd4S1d6cmYwWkV1a05J?oc=5",
+      "source": "财新网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-12T09:00:00.000Z",
+      "summary": "普渡机器人张涛强调具身智能需跨过真实数据关，构建数据金字塔。",
+      "summaryZh": ""
+    },
+    {
+      "title": "张福民：陪伴机器人是具身智能最具确定性的新赛道",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRR1BDYllQTm5YTVh6NmM4azNpMWFxSUJDMjYxcUNIc2FjeTc2N0lYUnk0Y2MzbURRdElhMU9XellmYkEwd2F4b2dnQ1NuREVqU0YyMlhncE5jUjh2VXZhNmZLYw?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-12T08:21:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "《江海潮生》中的南通崇川，全网征集AI创意文旅作品",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzMjhoRFNBZFAxdHVMTUxRLVVPMWt4SXFZZzBZNkNyQl9NeThHNWFzS09GZExEdzVTQkxsVng0YTU0WHdJSXFUX2ptUzA5ck5qbko3QklmZzlNSnpXR2c?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-08-12T04:45:00.000Z",
+      "summary": "南通崇川开展AI创意文旅作品征集，吸引众多创作者参与。",
+      "summaryZh": ""
+    },
+    {
+      "title": "宁职学子以AI赋能文旅 激活乡村振兴新动能",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wcG9QUkxtaWkyS29KT2RQT2hJYVB6WmpTT0tocjVHTGVEaUFnWFl5RVdZbk5ZRFhQbXhGcE1zRlI0YS02UkxRNVNDY203Y0dvcWU5bUY5b0FjckJFNl9YdWFzV2FRay1OUlpmZmgzWU1kajRNNW5R?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-08-12T23:33:36.000Z",
+      "summary": "宁职学子利用AI技术助力文旅发展，推动乡村振兴。",
       "summaryZh": ""
     },
     {
