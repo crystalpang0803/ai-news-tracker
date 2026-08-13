@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "generatedAt": "2026-08-13T17:08:32.505Z",
+  "generatedAt": "2026-08-13T19:15:30.860Z",
   "items": [
     {
       "title": "神秘生图模型“mona-lisa-1”曝光：含 OpenAI 来源信号，GPT-Image-2 发布三个月仍稳坐第一",
@@ -9,7 +9,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-13T14:41:37.000Z",
-      "summary": "神秘生图模型“mona-lisa-1”含OpenAI信号，GPT-Image-2三个月后仍居首。",
+      "summary": "神秘生图模型“mona-lisa-1”含OpenAI信号，GPT-Image-2三个月内保持领先。",
+      "summaryZh": ""
+    },
+    {
+      "title": "算力受限累谷歌大模型迭代，谷歌联合创始人督战Gemini大模型研发",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwY0ZDb0xQa05aMS1Ib3Q5VTB6Y3BpaVhhekFZWFBXbFQzVmNXQ3ZDSWo4bjl1aUVXOGNaYnlhbXN4bzltZGhBN09kWkotWFh5cEJITmhDUzhUSmRxaGc?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-12T21:00:00.000Z",
+      "summary": "谷歌联合创始人督战Gemini大模型研发，以追上行业前沿水平。",
       "summaryZh": ""
     },
     {
@@ -19,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-13T10:27:07.000Z",
-      "summary": "IBM与OpenAI合作，推进企业安全AI在核心运营领域部署。",
+      "summary": "IBM与OpenAI合作，加速企业安全AI部署。",
       "summaryZh": ""
     },
     {
@@ -39,7 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-13T14:07:16.000Z",
-      "summary": "小米米家扫拖机器人5京东售价1510元起。",
+      "summary": "小米米家扫拖机器人5京东售价1510元起，支持上下水。",
       "summaryZh": ""
     },
     {
@@ -49,7 +59,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-13T12:34:42.000Z",
-      "summary": "Acrab完成4.8亿美元融资，押注端侧AI算力增长。",
+      "summary": "Acrab完成4.8亿美元融资，押注端侧AI芯片市场。",
+      "summaryZh": ""
+    },
+    {
+      "title": "DeepSeek V4 Pro与Grok 4.6同日发布，逼近Claude Fable 5，大模型市场再现斩杀线",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95V3lKa0cyUVR2VzBjT0ZkbVQ3UUZtUTFpVEgycy1CSFBrbTJQLVhkeEpfcFZnb2N5cWlPdUZUYWtubmxFbk5wNFBFZkpaeFFhVXc?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-13T02:03:03.000Z",
+      "summary": "DeepSeek V4 Pro与Grok 4.6同日发布，两款大模型产品竞争激烈。",
       "summaryZh": ""
     },
     {
@@ -69,7 +89,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-13T11:34:42.000Z",
-      "summary": ""
+      "summary": "多点数智上半年利润增长66%，全面实施零售AI Agent战略。",
+      "summaryZh": ""
     },
     {
       "title": "宇树上市，智元递表：中国机器人按下发令枪",
@@ -78,17 +99,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-13T10:37:27.000Z",
-      "summary": "中国机器人企业宇树上市，智元递表，具身智能赛道加速发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "从会动到会干活京东联合灵御智能加速具身智能机器人商业化落地",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aaUd0VGlkV3R4SVViZ1dRaU12bUtJbFd5eU9HM1kxaF9XN1VEejlZSm1jWXo3dmdBYWpTUGZ3aTd4c3FnMndJN1RWRXc?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-13T11:14:52.000Z",
-      "summary": "京东与灵御智能合作加速具身智能机器人商业化落地。",
+      "summary": "宇树上市，智元递表，中国机器人行业加速发展。",
       "summaryZh": ""
     },
     {
@@ -98,7 +109,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-13T16:03:19.000Z",
-      "summary": "DeepSeek Harness发布，开源源代码，支持自定义插件和预设。",
+      "summary": "DeepSeek Harness发布，开源源代码，支持自进化与DIY定制。",
       "summaryZh": ""
     },
     {
@@ -122,33 +133,23 @@
       "summaryZh": ""
     },
     {
-      "title": "阿里巴巴正考虑在发布下一代AI模型“Qwen3.8-Max”，科创人工智能ETF华夏（589010）涨超2%！",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52TXRIREJ4YW9KaFA5aGpPbnFMdFN1YXlMRFlBVVZlX1pHOWpqaUkyWnRhV01CNkl4SlBBT3BJNmsyYkZEa2xhenJsbVkzSU1mcnplRDV3?oc=5",
-      "source": "界面新闻",
+      "title": "成都首笔“算力贷”落地 创新“券贷协同”赋能人工智能企业发展",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82S1BfTFNweEFaNUE0Z3ZHa0FqcDR5Um9FeS11WkZkaEhmTkZwaW5nVGtyZExjTWNvLXdKVGwzcWh0TUVUdEc3ZEJ6Tm5McmdjWVdZMmVaQzJiMXVrWXZVajVFZ3BMMkZh?oc=5",
+      "source": "中国新闻网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-13T02:27:00.000Z",
-      "summary": "阿里巴巴考虑发布AI模型“Qwen3.8-Max”，相关ETF涨超2%。",
+      "pubDate": "2026-08-13T13:41:27.000Z",
+      "summary": "成都首笔“算力贷”成功发放，创新券贷协同助力人工智能企业发展。",
       "summaryZh": ""
     },
     {
-      "title": "加州大学团队发布新模型FACT，让机器人在失败中学习",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5OelR0YnprdFo0V2JYSXFlS0ZtVzhDSUJ6MWwwMkYyRG81czBIeFo1RDFsbEZKOUdhbERhWS1pNVBocXBUNGc?oc=5",
+      "title": "AI产品成交额增长125%！京东大搞AI、机器人，未来5年要建80多个机器人基地",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE54OHdxMG5SWkJ0UXFjWDZ6VVkxUGtPV1ZvbndPOFBWWThpU0d6OFBXQ2JWR0ZrTnVkc1pBU015My1aSDRpVWc?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-13T11:11:36.000Z",
-      "summary": "加州大学团队发布新模型FACT，通过失败轨迹训练机器人学习后果而非错误操作。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机器人手机“探路”，荣耀预测两到三年AI终端将迎规模化拐点",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wMHVzWktBaEhDQzltb0VGUG45TlRhTUtXUWVSX2NLdTFJay1oZXJqS19YVjFYci1jVkoyV1dlR2U1bTJLcFNGNVBBTE5iWUxyTVNN?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-13T05:13:43.000Z",
-      "summary": "荣耀预测两到三年AI终端将迎来规模化拐点，机器人手机成行业探路先锋。",
+      "pubDate": "2026-08-13T18:09:49.000Z",
+      "summary": "京东AI产品成交额增长125%，未来5年计划建立80多个机器人基地。",
       "summaryZh": ""
     },
     {
@@ -158,17 +159,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-13T03:55:42.000Z",
-      "summary": "特普斯推出“四合一”AI SoC芯片，集成玄铁CPU和芯原NPU IP，应用于机器人、AI一体机、AI网关等市场。",
-      "summaryZh": ""
-    },
-    {
-      "title": "荣耀CEO李健：机器人手机落地，体系化创新开辟AI终端新赛道",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yLW10anowMmxENFhuOUpiQ2d3cGdQRTl0b2xvelZNMkJYbmVOLVl6ZkVXVmZIMnVFeFN6OU9UaGxfUHVQT2thQ0huOHc5MGtqUUNxYWsyUVFHcHRuV2EwVDdZc1hwSzNGVFE1dndkVElYRFBUOFBxaUR3RFQ?oc=5",
-      "source": "新华社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-13T10:37:34.000Z",
-      "summary": "荣耀发布全球首款机器人手机，开启AI终端新赛道。",
+      "summary": "特普斯推出“四合一”AI SoC芯片，应用于机器人、AI一体机、AI网关等市场。",
       "summaryZh": ""
     },
     {
@@ -183,6 +174,36 @@
       "titleZh": "移动机械手和类人机器人：机器人技术的未来"
     },
     {
+      "title": "C轮4.2亿，一家半导体腔体厂开始做人形机器人“骨骼”",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4TU14TmdPeFhaVmhicjB6VUpSQ2RGTmR2dHhOOTNIQmtkMzl0SFB4WVdtSVNldUJHaFJlRnFhMUF6UkJYWWkzb0VyLWphS1EtTWw2NmJFMA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-13T09:22:37.000Z",
+      "summary": "半导体腔体厂德玛克获4.2亿C轮融资，转型生产人形机器人“骨骼”。",
+      "summaryZh": ""
+    },
+    {
+      "title": "汽车早餐| 特斯拉在美召回2万辆Model 3和Model Y；中国长安汽车与华为签署战略合作框架协议；上半年中国人形机器人出货量全球占比超97%",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yVXNhM3paSHM4Z0pLMjlqdzUteXVncnFvNElnWXc4eDk3NFNvbXlERC1WM1Z1dnQzQlB4VFhNVFF6OGIwdGFjV0M2OW93LWQzaXotZmhB?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-12T23:01:00.000Z",
+      "summary": "特斯拉召回2万辆美版Model 3和Model Y，长安汽车与华为签署战略合作，上半年中国机器人出货量全球占比超97%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "人形机器人开启“手足脑”极限挑战",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TV2lFbUdLbjI5Z3VRYmFaOFEyeXhlUUhPVnAweUczOE91UERJX0xoM1dRSVMzOEVBQVFtR25FZk1kWGowd2xqcEFyalNhR3VoTWYzalln?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-12T23:19:00.000Z",
+      "summary": "人形机器人运动会上演“手足脑”极限挑战，考验灵巧手和触觉感知技术。",
+      "summaryZh": ""
+    },
+    {
       "title": "Who really needs a cocktail robot?",
       "link": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
       "source": "TechCrunch",
@@ -192,28 +213,6 @@
       "summary": "Bartesian混合酒机器人可一键制作多种鸡尾酒，售价300美元，但消费者群体有限。",
       "summaryZh": "",
       "titleZh": "谁真正需要鸡尾酒机器人？"
-    },
-    {
-      "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
-      "link": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-12T19:40:46.000Z",
-      "summary": "美国增派无人机监控德克萨斯州食肉蝇传播情况。",
-      "summaryZh": "",
-      "titleZh": "随着食肉螺旋虫在德克萨斯州蔓延，美国加强了无人机监视"
-    },
-    {
-      "title": "Celona launches Orion agentic wireless platform built for physical AI and robotics",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHJBclVKeW01WnZuVy1uZ1ZpSjgxeVc3R3M5M3lsYTRTR3hkdWNPdWdJUlRfTFFXNl9IWV9PSUl6cGVURTNmczE1ZUlTUjh1Z3RzTlg4M0hnVjlYSmhwUVQ4d2ROcFBNSlZHQkswd3Z5eEhOVzlBSDNXRXdKZU92Ujl3eHEtd2RQWXJHazZqTTc0ZVR0dHdGWkFfNXphQXBHR2JEYWtaZEttdmtodEhZ?oc=5",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-12T19:05:26.000Z",
-      "summary": "Celona推出Orion统一无线平台，支持物理AI和机器人连接。",
-      "summaryZh": "",
-      "titleZh": "Celona 推出专为物理人工智能和机器人技术打造的 Orion 代理无线平台"
     },
     {
       "title": "外卖补贴降温之后，京东押注AI的效率叙事",
@@ -231,7 +230,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-13T08:36:02.000Z",
-      "summary": "京沪联手优化外卖骑手算法，保障骑手权益，提升配送安全。",
+      "summary": "京沪联手推动外卖骑手算法优化，保障骑手权益，提升配送安全。",
       "summaryZh": ""
     },
     {
@@ -241,7 +240,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-13T09:04:25.000Z",
-      "summary": "济宁利用AI技术赋能文旅，打造沉浸式体验，推动产业升级。",
+      "summary": "济宁文旅产业借助AI技术实现数字化转型，提升游客体验并促进消费增长。",
       "summaryZh": ""
     }
   ]
