@@ -1,7 +1,17 @@
 {
   "date": "2026-08-15",
-  "generatedAt": "2026-08-14T17:06:27.669Z",
+  "generatedAt": "2026-08-14T19:08:08.858Z",
   "items": [
+    {
+      "title": "OpenAI被曝ARR破2000亿，官宣新任首席营收官",
+      "link": "https://zhidx.com/p/585093.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-14T10:30:12.000Z",
+      "summary": "OpenAI年化营收超400亿美元，任命新首席营收官。",
+      "summaryZh": ""
+    },
     {
       "title": "[ 风口秘钥 DeepSeek官宣涨价！算力供需缺口叠加国产替代 国产AI芯片有望价值重估",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NV1ZxbjZtSVd1YzV1TUNMTnRDU3ZQUHdheUhfZFZOVDlISVhweDRvZm5rczhtNVB0Vmh2ZDA4cFVCVnFtVVpJQzdQQTRTVWtaNTlLcTFOb3c?oc=5",
@@ -9,7 +19,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-14T10:34:04.000Z",
-      "summary": "DeepSeek宣布涨价，国产AI芯片价值重估预期增强。",
+      "summary": "DeepSeek宣布涨价，国产AI芯片价值有望重估。",
+      "summaryZh": ""
+    },
+    {
+      "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂吃算力",
+      "link": "https://www.qbitai.com/2026/08/472722.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-14T07:29:22.000Z",
+      "summary": "机器人研发算力需求激增，推动云计算基础设施升级。",
       "summaryZh": ""
     },
     {
@@ -29,7 +49,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-14T11:09:07.000Z",
-      "summary": "Unitree机器人IPO超5千倍认购，投资者涌入人形机器人市场。",
+      "summary": "Unitree机器人IPO超额认购超5000倍，投资者涌入人形机器人领域。",
       "summaryZh": "",
       "titleZh": "随着投资者纷纷涌入人形机器人领域，Unitree IPO超额认购超过5,000倍"
     },
@@ -40,7 +60,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-14T06:18:56.000Z",
-      "summary": "德塔智能与舞肌科技合作，规范全身协同灵巧操作数据采集。",
+      "summary": "德塔智能与舞肌科技合作规范全身协同灵巧操作数据采集。",
       "summaryZh": ""
     },
     {
@@ -54,6 +74,15 @@
       "summaryZh": ""
     },
     {
+      "title": "高性价比中国大模型兵临城下，美头部AI实验室大幅降价应对",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YVkpaTm8wc21oQ0hERmJTOTY2c0owVVNMekwwOUM5Z3pLclQ1bHZNQUxjTVdXMnJNeVNJNjh5dEttVHNWdEJWNXBlRVprSzNhQU9MbEpwYWtmNUE?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-14T14:11:32.000Z",
+      "summary": ""
+    },
+    {
       "title": "中国大模型调用量，连续15周超美国",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3NjZBOUxJM2t2cTlCa1RhRUFteFhrYjJTbndqcDZUelF3Rjd0T0FFZGtOUE8wWG9leXNTMTV3U2EwRk9DU0x6V2lxcTJuZw?oc=5",
       "source": "36氪",
@@ -61,6 +90,16 @@
       "category": "ai",
       "pubDate": "2026-08-13T19:10:00.000Z",
       "summary": ""
+    },
+    {
+      "title": "AI圈疯狂星期四：DeepSeek、Grok、Qwen三连发新模型",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3Z2pPRFpiVlhNbnlsU2o4YzktN2lPLXNhYVhtX1lfTDc4RGJNcHl3NGI2M0VVVEEzQmlrR2Z0WFJrUG5TN1plUTJNakRGaERfZFQw?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-14T03:36:14.000Z",
+      "summary": "DeepSeek、Grok、Qwen三款新AI模型发布。",
+      "summaryZh": ""
     },
     {
       "title": "中国医生用 GPT-5.6 破解 22 年数学难题，Crouzeix 本人确认正确",
@@ -73,63 +112,81 @@
       "summaryZh": ""
     },
     {
-      "title": "谷歌 Chrome 浏览器新功能曝光：Gemini 帮你修改弱密码和重复密码",
-      "link": "https://www.ithome.com/0/989/933.htm",
-      "source": "IT之家",
+      "title": "AI算力需求持续爆发，光通信产业链高端复合型人才缺口显著",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XX29CcllNbDNHZlNhSnFzYVhLM2dXeHMwVE5pYmc4eXZ1YXphYjlWTUx2eGZwVzlMSldIOVBlUU5QWXhqOEZQVWFYM1FIME1tUlhGeW81RjQ?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-14T13:15:31.000Z",
-      "summary": "Chrome浏览器测试AI修改密码功能，Gemini可自动修改弱密码和重复密码。",
+      "pubDate": "2026-08-14T04:47:46.000Z",
+      "summary": "AI算力需求激增，光通信产业链高端人才短缺加剧。",
       "summaryZh": ""
     },
     {
-      "title": "LG与英伟达签署协议：2027年推出搭载英伟达芯片的人形机器人",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQMlpNREMtbVc1bXljY21qTHVCcHNnRERvN0ZjRzRkLUhLeTBXRU1ENl9VMG9zRGx1QjNlZ1FhcjNqLWduTjROMWtLQkw0YnNqVDBB?oc=5",
-      "source": "华尔街见闻",
+      "title": "科创未来丨AI产业链完全指南：10分钟搞懂算力卡、Token工厂与机器人，WAIC现场拆解谁定义下个十年AI话语权",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ydUpWZmZ5c2NNeU16Z0x4Y2FGS0t0ZVlVSHhKMTFicWo5U2lpVV9zSUc1TFNreTYtZl95cEFMX2VOTEtZejBlRlhCMXMzNUl5eEFRVg?oc=5",
+      "source": "第一财经",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-14T08:52:09.000Z",
+      "category": "ai",
+      "pubDate": "2026-08-14T08:10:55.000Z",
+      "summary": "WAIC现场解析AI产业链，探讨算力卡、Token工厂与机器人，聚焦AI话语权定义。",
+      "summaryZh": ""
+    },
+    {
+      "title": "训练西迁、推理东沉，中国算力新版图正在形成",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFYWJaU1AydEcwVWpzOHJVT0RuYXdvMDlfWXI5RnJ6WUlpX0hNN2FQWEVpcWlnY1dNMTE4UVJNZU5Wc3hRbmpZQg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-14T04:13:40.000Z",
       "summary": ""
     },
     {
-      "title": "Loco-Manipulation：机器人移动与操作协同的技术演进",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HQTZSYlprU2w5emxaWHk0aWExd1BXNWR3aUdmN1UxMUhCZXNnTVdBb2x3TktyWWwwR0s1TU5FWHVzVEVEb2VySVljclU0bjNIc0g3OXg5OA?oc=5",
+      "title": "直击中芯国际业绩会：Q2晶圆量价提升 算力配套芯片供不应求",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkLVQwU1dyVjRmbmszRHk0YzFKcHRkMFRYSndoczI5eVI0c3dhckF2aU91dFZjWTNwSEc5Unc1bnpqTjlZQ01BeA?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-14T02:43:14.000Z",
+      "summary": "中芯国际Q2晶圆量价提升，算力配套芯片供不应求。",
+      "summaryZh": ""
+    },
+    {
+      "title": "明查｜特斯拉机器人开车上路？实为真人扮演",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NWG5oUG1TZENfV3RhWUlBSkFhVmQ2M0NrMVFVdGlEbGNMYWswMzJiaHlHaFkycGc0eDFkaEpsQ3lfN0dmZmdRajhGVzJaNlYyRDQwU0FZek1hbUxBQWFmUA?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-14T01:57:00.000Z",
+      "summary": "特斯拉机器人驾驶汽车视频实为真人cosplay。",
+      "summaryZh": ""
+    },
+    {
+      "title": "端到端之后，自动驾驶真正的竞争才刚刚开始？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ETlJxYnM1MWhWOG9KSG14QTZNNlA3NUVDWGMyRE04OHFRN0RKLXMyTHh3bC0wZUpoQzZQR0kydmFHV2hFc0k3WU5IRDc5bi1yYkZkWkx0Zw?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-14T05:18:44.000Z",
-      "summary": "机器人移动与操作协同技术Loco-Manipulation实现机器人从专用工具向通用助手转变。",
+      "pubDate": "2026-08-14T03:18:10.000Z",
+      "summary": "自动驾驶端到端技术普及后，竞争转向数据分布与模型理解。",
       "summaryZh": ""
     },
     {
-      "title": "[新闻直播间]北京 第二届世界人形机器人运动会开幕在即",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVaHNUU1h4QlRVSjZYU25oNVdTbWthS3hlZmFKY3RiQ1J1MHg4X0JKbVNvWUhUdkdDMzlMMWd4cU9lYU5kZmNIVW5kTW5qaDAxNXdqb29SMWgzVUU2OV9QQW16MmxQMVBvT1hRZm5Pbk0xeDFVOHc?oc=5",
-      "source": "央视网",
+      "title": "券商观点|物理AI和机器人：AI的下一个范式",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52RTNCMjNOemE4X3hRdFhXYS16NTd0MkV1THFLQ3JhNFN2ZkduaGtnNkhCTkJZanNYZmFFY1lVTk1TUi1hZ2RiSThVTVEtWWJUODdlX2ZKNlItdUhHdHc?oc=5",
+      "source": "同花顺财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-14T01:42:00.000Z",
-      "summary": "北京即将举办第二届世界人形机器人运动会。",
-      "summaryZh": ""
+      "pubDate": "2026-08-14T10:50:13.000Z",
+      "summary": "2026年8月14日，国盛证券发布了一篇AI行业的研究报告，报告指出，AI的下一个范式。"
     },
     {
-      "title": "Robots on Wall Street: Non-traditional paths to public markets for robotics companies",
-      "link": "https://www.therobotreport.com/robots-on-wall-street-non-traditional-paths-public-markets-robotics-companies/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-14T12:30:40.000Z",
-      "summary": "机器人公司通过特殊目的收购公司（SPAC）路径进入公共市场。",
-      "summaryZh": "",
-      "titleZh": "华尔街的机器人：机器人公司进入公开市场的非传统途径"
-    },
-    {
-      "title": "AI行业狂欢与普通人认知脱节：回老家发现多数人仍视AI为聊天机器人",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PWG5xOGVaVHo3dnNuR21CUlUxbnIwZG5FZHBwdUVJZV90Yy05bVZxak14NmVqNURkb2p4eks4dk1ib2RGSmtFSnVpOU8yWTZZdkE?oc=5",
-      "source": "虎嗅",
+      "title": "想造“去中国化”机器人，美企撞上“残酷现实”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JeWxfaW8tM0FmbDFxd0ppMWRfa1pTTXpSNmRwekxUVmtuWGNwUHZXSHRxcUZHUTZvNnVHekFXZXlGazA1a19JdjBhZWRVcENQcVhjR2J3?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-14T09:20:04.000Z",
-      "summary": "AI行业与普通人对AI的认知存在较大差距。",
+      "pubDate": "2026-08-14T10:03:00.000Z",
+      "summary": "美企尝试制造“去中国化”机器人面临供应链困境。",
       "summaryZh": ""
     },
     {
@@ -144,23 +201,23 @@
       "titleZh": "索尼机器人手专利暗示人们对人形机器人重新产生兴趣"
     },
     {
-      "title": "明查｜特斯拉机器人开车上路？实为真人扮演",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NWG5oUG1TZENfV3RhWUlBSkFhVmQ2M0NrMVFVdGlEbGNMYWswMzJiaHlHaFkycGc0eDFkaEpsQ3lfN0dmZmdRajhGVzJaNlYyRDQwU0FZek1hbUxBQWFmUA?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-14T01:57:00.000Z",
-      "summary": "特斯拉机器人驾驶汽车视频实为真人cosplay。",
-      "summaryZh": ""
-    },
-    {
       "title": "外卖平台“反内卷” AI可以发挥什么作用？",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc2plWWg2d0xyeG5HZkJaRVlaVi1UbmthYkZVSE9WcEQ1MnF1UE1Id3lHTTVBbDR0aDYyWWE4d1ZuUEhmRlBlbDAwaXhhc1NjR2dQS2llNXVNbXZiXzBVMnp4Yk1kMUliYUZVUzVodkNKRFEyV053ZUJqYkdZU2sxRlJwcVVxU2E0bnZN?oc=5",
       "source": "新浪财经",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-14T13:10:00.000Z",
-      "summary": "外卖平台“团宝”AI智能体上线，优化配送规则，提升骑手安全感。",
+      "summary": "外卖平台“团宝”AI智能体上线，优化配送路线减少内卷。",
+      "summaryZh": ""
+    },
+    {
+      "title": "广州启动第五届安心家政服务月，推动家政服务“智能又省心”",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTkZxTHl1Z3NMLUlOWlJxYXM5R3h1cFo4blZmNzZzeHJsSjQ3eGhZdlhBdS1QVUdVaEp6OTNVbGotcXRuVDBybVFDX3ZBcV9Jc2t2M2Q3U25nSUNpOEZMcV9WWWtHREdyUWdRY2kwTENXcDFrdHY4VDM0aGJGOU1vcVJaOF84aUc2RUY4eQ?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-08-14T13:28:00.000Z",
+      "summary": "广州家政服务月启动，AI赋能推动家政服务智能化。",
       "summaryZh": ""
     },
     {
@@ -170,8 +227,50 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-14T02:52:00.000Z",
-      "summary": "AI养老产品需关注老年人心理需求，融入人文关怀。",
+      "summary": "AI养老产品需关注老年人精神需求，推动从“能用”向“好用、暖心”转变。",
       "summaryZh": ""
+    },
+    {
+      "title": "普渡机器人张涛：机器人行业的拐点不是更便宜，而是更好用",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4ZG03bWlOeUVnTld5T3oyM2RxdWFyRzZKSGFhOVJ3TmhsU0ZKT2ZhMk5lNUlDQU9tWnYtalRzNzRvc08tNV9SaXBRa3FPZnc3RmxZa2ItdkJmTUhSMXJV?oc=5",
+      "source": "财新网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-14T09:00:00.000Z",
+      "summary": "普渡机器人张涛认为，机器人行业拐点在于提升智能程度和用户体验。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Robot Babies: Cute or Creepy?",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZbTA0ZkhOSnVOVmNGZ3dkaEh0OHdpV0d2SUZkalpkQzRfcWZyaDZSLTR0bXRSS0I3N1BsQkZtd0xVVGY4OFN1NHNkcFlzUlllTV83MEJVZjlFN0c3VkVDeW1BeDN4Q25adWg0b0tDVjVZZw?oc=5",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-13T19:39:15.000Z",
+      "summary": "机器人婴儿引发可爱与恐怖的讨论。",
+      "summaryZh": "",
+      "titleZh": "机器人婴儿：可爱还是令人毛骨悚然？"
+    },
+    {
+      "title": "Smart tugs and trucks that don't sleep. Automation rewires US transport",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQREtSQVM2RHd0Y0U2aEU3Z2RfYVQ1ME12NG9JVVlmZzB1T2pNWFpyRTdGbm8xWDFOQi0weTctVHVYQk5VWTVmXzkyVTlSSzd5NlNJZFpiZHdiRE10c1FLaThBenZfdTFoeFg2aDFyV1E3bFQ4SmpuZjhjekdDNVlEZ0dGVEtnNDIxRzZZUThoWFdWUVVRbERFd3lFeUVUZ3FBOGRrOWRNSnZkT25oZXpfdU5BbU9zYnQ4Z1dWWWZPSmJ4YU9ubTJaNWZud2VBQTQ?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-14T06:00:00.000Z",
+      "summary": "",
+      "titleZh": "不睡觉的智能拖船和卡车。自动化重塑美国交通"
+    },
+    {
+      "title": "Better communication could improve human-robot teamwork across real-world tasks",
+      "link": "https://techxplore.com/news/2026-08-communication-human-robot-teamwork-real.html",
+      "source": "Tech Xplore",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-14T14:07:01.000Z",
+      "summary": "研究显示，改善人机沟通可提升现实任务中的团队合作效率。",
+      "summaryZh": "",
+      "titleZh": "更好的沟通可以改善现实世界任务中的人机团队合作"
     }
   ]
 }
