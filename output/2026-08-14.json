@@ -1,7 +1,27 @@
 {
   "date": "2026-08-14",
-  "generatedAt": "2026-08-14T02:48:40.220Z",
+  "generatedAt": "2026-08-14T05:18:18.523Z",
   "items": [
+    {
+      "title": "全球首发：京东七鲜咖啡首家 24 小时智能化无人咖啡店落地北京，AI 推荐、机器人制作",
+      "link": "https://www.ithome.com/0/989/675.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-14T04:34:09.000Z",
+      "summary": "京东七鲜咖啡首家24小时无人咖啡店在北京开业，提供AI推荐和机器人制作。",
+      "summaryZh": ""
+    },
+    {
+      "title": "《人形机器人试验方法》系列国家标准启动会在武汉举行，宇树科技、小米机器人参会",
+      "link": "https://www.ithome.com/0/989/619.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-14T03:26:44.000Z",
+      "summary": "《人形机器人试验方法》系列国家标准启动，宇树科技、小米机器人等参会。",
+      "summaryZh": ""
+    },
     {
       "title": "DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；OpenAI 年化营收有望翻番达 400 亿美元",
       "link": "http://www.geekpark.net/news/368789",
@@ -13,13 +33,13 @@
       "summaryZh": ""
     },
     {
-      "title": "IBM与OpenAI达成合作，加速企业核心运营领域安全AI部署",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zcVBPcWFNVmpMbm53eUk2cWNoWDlxR3NHVXNaVkF1TFJ0VVZhMndpSFZMR2tmUkZMQnV1dGxPSk5ralM3aUtOV1NINTVTNFg0RkZMTXVQejU?oc=5",
+      "title": "AI算力基建规模化落地，1.6T光模块批量出货，南方基金旗下创业板人工智能ETF南方(159382)跟踪指数涨2.22%，换手约7%交投活跃",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtOWtsT21scGFicGpkSU05MjhJWUdYelBwUngwaXROQVVaUnhJTUZqVnJfY3NKYmVacUZhWEN1YWc5MFpnT05qRGQxZzdXTnZWbjBySW1vX0I?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-13T10:27:07.000Z",
-      "summary": "IBM与OpenAI合作，加速企业安全AI部署。",
+      "pubDate": "2026-08-14T02:42:00.000Z",
+      "summary": "AI算力基建规模化落地，光模块出货，南方基金旗下ETF涨2.22%，交投活跃。",
       "summaryZh": ""
     },
     {
@@ -29,27 +49,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-13T19:32:55.000Z",
-      "summary": "DeepSeek宣布API调价，峰值价格最高涨至27元。",
+      "summary": "DeepSeek宣布API调价，最高峰时段价格涨至27元。",
       "summaryZh": ""
-    },
-    {
-      "title": "财经夜行线0813丨DeepSeek调价方案落地 国产大模型价格战将迎拐点？",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2ZFFoSVFDSEFLdXhyQjkxMkF0S1pPS3c5MW9FTUdsUnVxU3ZYVHlrazdidmVNSkxKTjFzQ21JRFNHZjY1dWpMTkRXNUV3dVI2VWxteg?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-13T13:59:12.000Z",
-      "summary": "DeepSeek推出双向峰谷定价，国产大模型价格战或迎拐点。",
-      "summaryZh": ""
-    },
-    {
-      "title": "算力受限累谷歌大模型迭代 谷歌联合创始人督战Gemini大模型研发",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mcHh1STlJRjAxNWRscEVQcVc5VDd5cjhQb3N2QnlMYXBkWW1QVGx6aW9hRzZ2VVZETXhNXzNGbUJnVjJaSXpNUg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-13T19:51:46.000Z",
-      "summary": ""
     },
     {
       "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
@@ -62,24 +63,23 @@
       "summaryZh": ""
     },
     {
-      "title": "业务系统原生智能化演进｜2026内嵌式AI Agent的技术路线与实践边界",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKZlhFa3ZTNUhscnptNkRoMXN5cXhKS0NBMjRsZ3BWNVd6UERiV1NTaGo0SGRxbnBwZ1V3SHlWZWFxbzNTWGpOWDFCNU0?oc=5",
-      "source": "IT之家",
+      "title": "多点数智：H1利润大增66%，零售AI Agent战略全面落地",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWHJKMVNhSjdhOG0yN0JmMnBHU2dSbEFkM3pBb3NCcVFlaUM3MVRUZldndkhzdU9naFh5U2pMd0V2ZTFoMWJfVDloN0x0VE9yZENvVm92VEd4M1NhS3hyNzdvejhTM1dqM2RyQzlISHU5emJ6YlVmaW1vRVlHTVNKSjR4QzBvNGc?oc=5",
+      "source": "新浪财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-13T09:23:29.000Z",
-      "summary": "2026年AI Agent市场高速增长，企业需关注技术路线与实际产出。",
+      "pubDate": "2026-08-13T07:46:00.000Z",
+      "summary": "多点数智上半年利润增长66%，全面实施零售AI Agent战略。",
       "summaryZh": ""
     },
     {
-      "title": "多点数智：H1利润大增66%，零售AI Agent战略全面落地",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RdTAxczdmZUQ3cHp2WDR6YXlodGhDaXZPVV92QVlWLWJtQmhDaEdnT0tQQTVtR2Z2SWZKNHI2MXNVWmV4RXVtMlBIa3R4R3dKdFFlbDIwR1ZaOUN0Ykk2STdB?oc=5",
-      "source": "同花顺财经",
+      "title": "从DeepSeek、Kimi到“黄仁勋联盟”：AI模型开源，到底“开”了什么？",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GemM0R214NXY1VXR3RE5fNUZlQ0QtMFFFcnNVZDFCUDJOLXpEaV9PcHVFbFZMUG5YVnRMUDdJd1JNOEJkdjZ1Slp1OFoydw?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-13T11:34:42.000Z",
-      "summary": "多点数智上半年利润增长66%，全面落地零售AI Agent战略。",
-      "summaryZh": ""
+      "pubDate": "2026-08-13T13:28:00.000Z",
+      "summary": ""
     },
     {
       "title": "深度体验DeepSeek Harness，我原谅它涨价了",
@@ -88,7 +88,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-13T16:03:19.000Z",
-      "summary": "DeepSeek Harness发布，开源源代码，支持自定义插件和预设。",
+      "summary": "DeepSeek Harness发布，开源源代码，支持DIY和自进化。",
       "summaryZh": ""
     },
     {
@@ -108,17 +108,38 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-13T06:18:04.000Z",
-      "summary": "美国豆包手机全系涨价，新功能主要面向Gemini。",
+      "summary": "美国豆包手机全系涨价，新功能主要针对Gemini。",
       "summaryZh": ""
     },
     {
-      "title": "不再依赖截图记录活动：Mac 版 ChatGPT 新增 Computer History AI 功能",
-      "link": "https://www.ithome.com/0/989/518.htm",
-      "source": "IT之家",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-08-13T19:22:40.000Z",
+      "summary": "OpenAI推出“Ultrafast”模式，GPT-5.6 Sol速度提升14倍。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍"
+    },
+    {
+      "title": "算力受限累谷歌大模型迭代 谷歌联合创始人督战Gemini大模型研发",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qb2tiQXU4eU51cmUzX2ZpUktZYmY2S0x5V1B1YkcwV0wtaDJRYVQ2M2tJVkhSU0t1aDZyVm5pWG8zQzJpRHlEaDBCOTJtR19MUnpCYnJDT2YyVkVqNURfRnVNX1FMWEtKZTIw?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-14T01:00:25.000Z",
-      "summary": "Mac版ChatGPT新增Computer History AI功能，记录用户活动替代截图。",
+      "pubDate": "2026-08-13T12:02:00.000Z",
+      "summary": "谷歌联合创始人推动Gemini大模型研发，以解决算力受限和迭代缓慢问题。",
+      "summaryZh": ""
+    },
+    {
+      "title": "成都首笔“算力贷”落地 创新“券贷协同”赋能人工智能企业发展",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82S1BfTFNweEFaNUE0Z3ZHa0FqcDR5Um9FeS11WkZkaEhmTkZwaW5nVGtyZExjTWNvLXdKVGwzcWh0TUVUdEc3ZEJ6Tm5McmdjWVdZMmVaQzJiMXVrWXZVajVFZ3BMMkZh?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-13T13:41:27.000Z",
+      "summary": "成都发放首笔“算力贷”，创新券贷协同助力人工智能企业发展。",
       "summaryZh": ""
     },
     {
@@ -132,13 +153,13 @@
       "summaryZh": ""
     },
     {
-      "title": "雷军押注，深圳机器人零部件供应商融近亿",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA5cUgyMThKT0NJZk56NmVaOWJLbURxMkVMRGZ6TFRLS29UQ05vMHdxYW5oa1V2eW9SdkhfRTE4MHM4WmNRNmc?oc=5",
+      "title": "比亚迪投的深海机器人公司，融了5亿",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1EcXRPNnB5X2pONTRWSUJuMUtqSHBQVDhuZ1I2aEhUOTZoVFBWM1RMZGlTSi0yU1pENFpWRExGbzBXaFpoQUE?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-13T06:39:42.000Z",
-      "summary": "深圳诺仕机器人完成近亿元A+轮融资，资金用于产能扩张和产品迭代。",
+      "pubDate": "2026-08-14T03:37:55.000Z",
+      "summary": "比亚迪投资的深海机器人公司完成5亿A轮融资。",
       "summaryZh": ""
     },
     {
@@ -148,17 +169,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-14T02:35:11.000Z",
-      "summary": "LG与英伟达合作拓展机器人、AI工厂等领域业务。",
+      "summary": "LG与英伟达扩大机器人、AI工厂等领域战略合作。",
       "summaryZh": ""
     },
     {
-      "title": "采用玄铁CPU+芯原NPU IP，特普斯“四合一”AI SoC落地机器人、AI一体机、AI网关等市场",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10Q2RSNEhqMlAxY2NDbE1hTzNEOGhuTUR0eERlVk1oVXRWMG9wa3RPNHo0U2dLbzVCRjY1VDY4eDJpanZkdk0zQk5zb0VnWHBkLWw0N2NTOA?oc=5",
-      "source": "与非网",
+      "title": "荣耀CEO李健：机器人手机落地，体系化创新开辟AI终端新赛道",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yLW10anowMmxENFhuOUpiQ2d3cGdQRTl0b2xvelZNMkJYbmVOLVl6ZkVXVmZIMnVFeFN6OU9UaGxfUHVQT2thQ0huOHc5MGtqUUNxYWsyUVFHcHRuV2EwVDdZc1hwSzNGVFE1dndkVElYRFBUOFBxaUR3RFQ?oc=5",
+      "source": "新华社",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-13T03:55:42.000Z",
-      "summary": "特普斯推出“四合一”AI SoC芯片，应用于机器人、AI一体机、AI网关等市场。",
+      "pubDate": "2026-08-13T10:37:34.000Z",
+      "summary": "荣耀发布全球首款机器人手机，开启AI终端新赛道。",
       "summaryZh": ""
     },
     {
@@ -171,6 +192,25 @@
       "summary": "移动操作器和类人机器人成为机器人技术未来发展方向。",
       "summaryZh": "",
       "titleZh": "移动机械手和类人机器人：机器人技术的未来"
+    },
+    {
+      "title": "C轮4.2亿，一家半导体腔体厂开始做人形机器人“骨骼”",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4TU14TmdPeFhaVmhicjB6VUpSQ2RGTmR2dHhOOTNIQmtkMzl0SFB4WVdtSVNldUJHaFJlRnFhMUF6UkJYWWkzb0VyLWphS1EtTWw2NmJFMA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-13T09:22:37.000Z",
+      "summary": "半导体腔体厂德玛克获4.2亿C轮融资，转型生产人形机器人“骨骼”。",
+      "summaryZh": ""
+    },
+    {
+      "title": "广汽孵化慧仑科技完成超亿元融资，用“造车逻辑”重构机器人，先做最能造血的具身智能公司",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNSlVUNjdkY1BsWk5qY0piR3VLTk85YlBFSFd0Z3p4U2QyZ0JsSnZSa3hfbUFJVno0Ql9COE4xbGFjNFlmVUc0VGM5cWRDMjlMWm9fNGNhYzlFSXNIVVRUSV9LUQ?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-14T02:30:00.000Z",
+      "summary": ""
     },
     {
       "title": "I finally found a robot lawnmower I’d trust with my yard",
@@ -215,23 +255,13 @@
       "summary": ""
     },
     {
-      "title": "明查｜特斯拉机器人开车上路？实为真人扮演",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NWG5oUG1TZENfV3RhWUlBSkFhVmQ2M0NrMVFVdGlEbGNMYWswMzJiaHlHaFkycGc0eDFkaEpsQ3lfN0dmZmdRajhGVzJaNlYyRDQwU0FZek1hbUxBQWFmUA?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-14T01:57:00.000Z",
-      "summary": "特斯拉机器人驾驶汽车视频实为真人cosplay。",
-      "summaryZh": ""
-    },
-    {
       "title": "京沪联手协商共治 推动外卖骑手算法向善而行",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlalQwZEw1ZGZ5SHJ2am1LTC1iczB2UHVLVzJEelRqLXp0MGhDQnNhSEU1S2ZvNVNmR05pd3pFT2hha25yam5tc0xsRmM0cDd2aHQyVWExQ08yWkVQN2w0b3RKYk9CYlR4Ym5fcUk5ZEI2Q3VNYXJXQ1o4elIxdw?oc=5",
       "source": "新华网科技",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-13T08:36:02.000Z",
-      "summary": "京沪两地联手优化外卖骑手算法，保障骑手权益，提升配送安全。",
+      "summary": "京沪联手优化外卖骑手算法，保障骑手权益，提升配送安全。",
       "summaryZh": ""
     },
     {
