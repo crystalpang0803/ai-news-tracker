@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generatedAt": "2026-08-14T19:08:08.858Z",
+  "generatedAt": "2026-08-14T20:10:59.896Z",
   "items": [
     {
       "title": "OpenAI被曝ARR破2000亿，官宣新任首席营收官",
@@ -23,16 +23,6 @@
       "summaryZh": ""
     },
     {
-      "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂吃算力",
-      "link": "https://www.qbitai.com/2026/08/472722.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-14T07:29:22.000Z",
-      "summary": "机器人研发算力需求激增，推动云计算基础设施升级。",
-      "summaryZh": ""
-    },
-    {
       "title": "一汽-大众ID. AURA T6接入豆包大模型",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nUG5Sd09EdmRSc0FxVDJ4Nm5STDdBUlpPSFFjMXRIaDhfUGJ5am5VcUdhQWZBYUtQMmd3ZFhpMnRsVnM5UGVzbExlZUZNbzRsY0ZweWZiNzU?oc=5",
       "source": "界面新闻",
@@ -49,7 +39,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-14T11:09:07.000Z",
-      "summary": "Unitree机器人IPO超额认购超5000倍，投资者涌入人形机器人领域。",
+      "summary": "Unitree机器人IPO超额认购超5000倍，投资者抢购人形机器人股票。",
       "summaryZh": "",
       "titleZh": "随着投资者纷纷涌入人形机器人领域，Unitree IPO超额认购超过5,000倍"
     },
@@ -60,7 +50,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-14T06:18:56.000Z",
-      "summary": "德塔智能与舞肌科技合作规范全身协同灵巧操作数据采集。",
+      "summary": "德塔智能与舞肌科技合作，规范全身协同灵巧操作数据采集。",
       "summaryZh": ""
     },
     {
@@ -74,21 +64,21 @@
       "summaryZh": ""
     },
     {
-      "title": "高性价比中国大模型兵临城下，美头部AI实验室大幅降价应对",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YVkpaTm8wc21oQ0hERmJTOTY2c0owVVNMekwwOUM5Z3pLclQ1bHZNQUxjTVdXMnJNeVNJNjh5dEttVHNWdEJWNXBlRVprSzNhQU9MbEpwYWtmNUE?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-14T14:11:32.000Z",
-      "summary": ""
-    },
-    {
       "title": "中国大模型调用量，连续15周超美国",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3NjZBOUxJM2t2cTlCa1RhRUFteFhrYjJTbndqcDZUelF3Rjd0T0FFZGtOUE8wWG9leXNTMTV3U2EwRk9DU0x6V2lxcTJuZw?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-13T19:10:00.000Z",
+      "pubDate": "2026-08-14T10:45:19.000Z",
+      "summary": ""
+    },
+    {
+      "title": "月之暗面IPO，大模型第二股需要新叙事",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNYTZhR1RjbzFyZ0p1aXNtV2dGVUNNdDVqem55R2EzRllvTjRoOFYzRGpRYjFlZHhrc0ptY2w0cUJUbE9faFJqR1VvTVEtUQ?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-14T04:55:50.000Z",
       "summary": ""
     },
     {
@@ -112,13 +102,23 @@
       "summaryZh": ""
     },
     {
+      "title": "从5000亿美元算力融资到净利增长466.1%，AI产业正在发生一次利润迁移",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBoMk9FMXlUTnlBNHBsR2pic08yVHJ6TjVCa1VSUjJaRGlVel81X3NzcDluM3V0bTVuSEJPRXdjTUEwUmlmLWk1bDQyNVE?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-14T13:03:06.000Z",
+      "summary": "AI产业利润结构发生迁移，算力融资规模达5000亿美元。",
+      "summaryZh": ""
+    },
+    {
       "title": "AI算力需求持续爆发，光通信产业链高端复合型人才缺口显著",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XX29CcllNbDNHZlNhSnFzYVhLM2dXeHMwVE5pYmc4eXZ1YXphYjlWTUx2eGZwVzlMSldIOVBlUU5QWXhqOEZQVWFYM1FIME1tUlhGeW81RjQ?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-14T04:47:46.000Z",
-      "summary": "AI算力需求激增，光通信产业链高端人才短缺加剧。",
+      "summary": "AI算力需求激增，光通信产业链高端复合型人才短缺。",
       "summaryZh": ""
     },
     {
@@ -128,7 +128,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-14T08:10:55.000Z",
-      "summary": "WAIC现场解析AI产业链，探讨算力卡、Token工厂与机器人，聚焦AI话语权定义。",
+      "summary": "WAIC现场解析AI产业链，探讨AI话语权归属。",
       "summaryZh": ""
     },
     {
@@ -141,36 +141,6 @@
       "summary": ""
     },
     {
-      "title": "直击中芯国际业绩会：Q2晶圆量价提升 算力配套芯片供不应求",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkLVQwU1dyVjRmbmszRHk0YzFKcHRkMFRYSndoczI5eVI0c3dhckF2aU91dFZjWTNwSEc5Unc1bnpqTjlZQ01BeA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-14T02:43:14.000Z",
-      "summary": "中芯国际Q2晶圆量价提升，算力配套芯片供不应求。",
-      "summaryZh": ""
-    },
-    {
-      "title": "明查｜特斯拉机器人开车上路？实为真人扮演",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NWG5oUG1TZENfV3RhWUlBSkFhVmQ2M0NrMVFVdGlEbGNMYWswMzJiaHlHaFkycGc0eDFkaEpsQ3lfN0dmZmdRajhGVzJaNlYyRDQwU0FZek1hbUxBQWFmUA?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-14T01:57:00.000Z",
-      "summary": "特斯拉机器人驾驶汽车视频实为真人cosplay。",
-      "summaryZh": ""
-    },
-    {
-      "title": "端到端之后，自动驾驶真正的竞争才刚刚开始？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ETlJxYnM1MWhWOG9KSG14QTZNNlA3NUVDWGMyRE04OHFRN0RKLXMyTHh3bC0wZUpoQzZQR0kydmFHV2hFc0k3WU5IRDc5bi1yYkZkWkx0Zw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-14T03:18:10.000Z",
-      "summary": "自动驾驶端到端技术普及后，竞争转向数据分布与模型理解。",
-      "summaryZh": ""
-    },
-    {
       "title": "券商观点|物理AI和机器人：AI的下一个范式",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52RTNCMjNOemE4X3hRdFhXYS16NTd0MkV1THFLQ3JhNFN2ZkduaGtnNkhCTkJZanNYZmFFY1lVTk1TUi1hZ2RiSThVTVEtWWJUODdlX2ZKNlItdUhHdHc?oc=5",
       "source": "同花顺财经",
@@ -180,13 +150,13 @@
       "summary": "2026年8月14日，国盛证券发布了一篇AI行业的研究报告，报告指出，AI的下一个范式。"
     },
     {
-      "title": "想造“去中国化”机器人，美企撞上“残酷现实”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JeWxfaW8tM0FmbDFxd0ppMWRfa1pTTXpSNmRwekxUVmtuWGNwUHZXSHRxcUZHUTZvNnVHekFXZXlGazA1a19JdjBhZWRVcENQcVhjR2J3?oc=5",
-      "source": "腾讯新闻",
+      "title": "普渡机器人张涛：机器人行业的拐点不是更便宜，而是更好用",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4ZG03bWlOeUVnTld5T3oyM2RxdWFyRzZKSGFhOVJ3TmhsU0ZKT2ZhMk5lNUlDQU9tWnYtalRzNzRvc08tNV9SaXBRa3FPZnc3RmxZa2ItdkJmTUhSMXJV?oc=5",
+      "source": "财新网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-14T10:03:00.000Z",
-      "summary": "美企尝试制造“去中国化”机器人面临供应链困境。",
+      "pubDate": "2026-08-14T09:00:00.000Z",
+      "summary": "普渡机器人张涛认为，机器人行业拐点在于提升智能程度和用户体验。",
       "summaryZh": ""
     },
     {
@@ -201,55 +171,14 @@
       "titleZh": "索尼机器人手专利暗示人们对人形机器人重新产生兴趣"
     },
     {
-      "title": "外卖平台“反内卷” AI可以发挥什么作用？",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc2plWWg2d0xyeG5HZkJaRVlaVi1UbmthYkZVSE9WcEQ1MnF1UE1Id3lHTTVBbDR0aDYyWWE4d1ZuUEhmRlBlbDAwaXhhc1NjR2dQS2llNXVNbXZiXzBVMnp4Yk1kMUliYUZVUzVodkNKRFEyV053ZUJqYkdZU2sxRlJwcVVxU2E0bnZN?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-14T13:10:00.000Z",
-      "summary": "外卖平台“团宝”AI智能体上线，优化配送路线减少内卷。",
-      "summaryZh": ""
-    },
-    {
-      "title": "广州启动第五届安心家政服务月，推动家政服务“智能又省心”",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTkZxTHl1Z3NMLUlOWlJxYXM5R3h1cFo4blZmNzZzeHJsSjQ3eGhZdlhBdS1QVUdVaEp6OTNVbGotcXRuVDBybVFDX3ZBcV9Jc2t2M2Q3U25nSUNpOEZMcV9WWWtHREdyUWdRY2kwTENXcDFrdHY4VDM0aGJGOU1vcVJaOF84aUc2RUY4eQ?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-14T13:28:00.000Z",
-      "summary": "广州家政服务月启动，AI赋能推动家政服务智能化。",
-      "summaryZh": ""
-    },
-    {
       "title": "“AI+养老”产品要“走心”",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DQXdXczhqQlYzdGtSZ2hTTVN5YWtTSmhpazAyVUJWQlVlWFQ4czU0dkpmLVh0QjNIUExhSE52cTJ4cHI2bjBhZDk1REprQ2lhSElGUnA3bmZoc094YU96UnY4TQ?oc=5",
       "source": "光明网",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-14T02:52:00.000Z",
-      "summary": "AI养老产品需关注老年人精神需求，推动从“能用”向“好用、暖心”转变。",
+      "summary": "AI养老产品需关注老年人心理需求，融入人文关怀。",
       "summaryZh": ""
-    },
-    {
-      "title": "普渡机器人张涛：机器人行业的拐点不是更便宜，而是更好用",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4ZG03bWlOeUVnTld5T3oyM2RxdWFyRzZKSGFhOVJ3TmhsU0ZKT2ZhMk5lNUlDQU9tWnYtalRzNzRvc08tNV9SaXBRa3FPZnc3RmxZa2ItdkJmTUhSMXJV?oc=5",
-      "source": "财新网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-14T09:00:00.000Z",
-      "summary": "普渡机器人张涛认为，机器人行业拐点在于提升智能程度和用户体验。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Robot Babies: Cute or Creepy?",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZbTA0ZkhOSnVOVmNGZ3dkaEh0OHdpV0d2SUZkalpkQzRfcWZyaDZSLTR0bXRSS0I3N1BsQkZtd0xVVGY4OFN1NHNkcFlzUlllTV83MEJVZjlFN0c3VkVDeW1BeDN4Q25adWg0b0tDVjVZZw?oc=5",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-13T19:39:15.000Z",
-      "summary": "机器人婴儿引发可爱与恐怖的讨论。",
-      "summaryZh": "",
-      "titleZh": "机器人婴儿：可爱还是令人毛骨悚然？"
     },
     {
       "title": "Smart tugs and trucks that don't sleep. Automation rewires US transport",
@@ -271,6 +200,27 @@
       "summary": "研究显示，改善人机沟通可提升现实任务中的团队合作效率。",
       "summaryZh": "",
       "titleZh": "更好的沟通可以改善现实世界任务中的人机团队合作"
+    },
+    {
+      "title": "What a Killer Drone Swarm Looks Like Up Close",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWc4aWw2YzZwdnNUNVpuRFV2cVJtX1BQS2dJLVMxNE4wdm9jWXF1eFVhNWJMOHR3aDA2MW5iT3BWVVR1M1pmNHo1Zi1sS2VpOVlYUXVLUFJDRDlVNExuR216a3c0WldjQU1tU2VpbGNuV09GdzVodlZZZ0JRNXo1YU9MajNRN090Q3F1VlZXSjIzMFdvWmxHV0dPdVNoU1plX0xYV2ZaT3lxTXF0RjNZdFlfYw?oc=5",
+      "source": "Bloomberg",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-14T08:00:16.000Z",
+      "summary": "近距离观察无人机集群的景象。",
+      "summaryZh": "",
+      "titleZh": "近距离观察杀手无人机群是什么样子"
+    },
+    {
+      "title": "智洋创新拟定增募资9.04亿元 加大具身智能与AI感知研发投入",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mcXlGZ04yMnRveEZUb3NtbVM1RXF4cU1ETkxHcDl2UWFMY0FUaTMtaktJSmhKUGRKQ0NGbjJ0eU4yalRJQ2JKRkdrX3l3VDB4UF9nTmE4aXFqZ25lLU9uWmNmNHhsUQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-14T14:21:00.000Z",
+      "summary": "智洋创新拟募资9.04亿元，加码具身智能与AI感知研发。",
+      "summaryZh": ""
     }
   ]
 }
