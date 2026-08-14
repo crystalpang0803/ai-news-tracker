@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generatedAt": "2026-08-14T21:45:10.044Z",
+  "generatedAt": "2026-08-14T23:00:15.617Z",
   "items": [
     {
       "title": "OpenAI被曝ARR破2000亿，官宣新任首席营收官",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-14T10:30:12.000Z",
-      "summary": "OpenAI年化营收超400亿美元，任命新首席营收官。",
+      "summary": "OpenAI年化营收超400亿美元，新任首席营收官上任。",
       "summaryZh": ""
     },
     {
@@ -29,8 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-14T12:17:00.000Z",
-      "summary": "中行推出全国首个算力“Token贷”，推动算力金融进入应用层企业。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂吃算力",
@@ -53,6 +52,17 @@
       "summaryZh": ""
     },
     {
+      "title": "Unitree IPO oversubscribed more than 5,000 times as investors pile into humanoid robotics",
+      "link": "https://roboticsandautomationnews.com/2026/08/14/unitree-ipo-oversubscribed-more-than-5000-times-as-investors-pile-into-humanoid-robotics/104171/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-14T11:09:07.000Z",
+      "summary": "Unitree机器人IPO超5千倍认购，投资者抢购人形机器人股票。",
+      "summaryZh": "",
+      "titleZh": "随着投资者纷纷涌入人形机器人领域，Unitree IPO超额认购超过5,000倍"
+    },
+    {
       "title": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
       "link": "https://www.qbitai.com/2026/08/472718.html",
       "source": "量子位",
@@ -69,17 +79,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-14T11:30:54.000Z",
-      "summary": "华盛顿大学推出FLEX-π模型，通过3D几何与物体语义提升机器人操控能力。",
+      "summary": "华盛顿大学推出FLEX-π模型，利用3D几何和物体语义提升机器人操控能力。",
       "summaryZh": ""
-    },
-    {
-      "title": "高性价比中国大模型兵临城下，美头部AI实验室大幅降价应对",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YVkpaTm8wc21oQ0hERmJTOTY2c0owVVNMekwwOUM5Z3pLclQ1bHZNQUxjTVdXMnJNeVNJNjh5dEttVHNWdEJWNXBlRVprSzNhQU9MbEpwYWtmNUE?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-14T14:11:32.000Z",
-      "summary": ""
     },
     {
       "title": "中国大模型调用量，连续15周超美国",
@@ -89,6 +90,16 @@
       "category": "ai",
       "pubDate": "2026-08-14T10:45:19.000Z",
       "summary": ""
+    },
+    {
+      "title": "一卡难求与算力闲置并存：AI下半场，谁来重新“组织”算力？",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83U2JvNW1TTG9OQ1NBOVBnUXFxMkhYOHNITjNaS0wybFN3Z2EwaHNIUkJ1WkpJRmJ5YlJmck1TSVpFN2U3Zm50SFA4V1ZIb1VP?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-14T07:12:13.000Z",
+      "summary": "AI下半场，算力资源结构性错配需解决。",
+      "summaryZh": ""
     },
     {
       "title": "AI圈疯狂星期四：DeepSeek、Grok、Qwen三连发新模型",
@@ -107,17 +118,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-14T15:08:53.000Z",
-      "summary": "中国医生金山木利用GPT-5.6破解22年数学难题，Crouzeix本人确认正确。",
+      "summary": "中国医生金山木利用GPT-5.6破解22年数学难题，Crouzeix确认正确。",
       "summaryZh": ""
     },
     {
-      "title": "谷歌 Chrome 浏览器新功能曝光：Gemini 帮你修改弱密码和重复密码",
-      "link": "https://www.ithome.com/0/989/933.htm",
+      "title": "AI Agent搜索Skill推荐：三流派引擎的能力解构",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QcUVzTEZlcy1Wd3NCcUdlMjNYSUI2VnRmanRWUUpOUHhQRG9ndWVYRU5wb3drOTJjSjNlT2dXUFJRaDBCM21MN1dvbEI?oc=5",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-14T13:15:31.000Z",
-      "summary": "Chrome浏览器测试AI修改密码功能，Gemini可自动修改弱密码和重复密码。",
+      "pubDate": "2026-08-14T07:53:01.000Z",
+      "summary": "AI Agent搜索Skill推荐：三流派引擎评测，AnySearch、Brave、Parallel展现各自优势。",
       "summaryZh": ""
     },
     {
@@ -137,38 +148,37 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-14T08:10:55.000Z",
-      "summary": "WAIC现场解析AI产业链，探讨未来十年AI话语权归属。",
+      "summary": "WAIC现场解析AI产业链，探讨AI话语权归属。",
       "summaryZh": ""
     },
     {
-      "title": "日本真的错过了人形机器人风口吗？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SRlB3WjRTa2tDTDIwNDRXWTBOLWNjM0xxU1VNdGhjQm4xY1VWYlA4VEtndFNFRmswbFp5SE1FUWdKQ2lvcEVVOHJ3Y0hkLWJPMk9QN1NjNA?oc=5",
+      "title": "明查｜特斯拉机器人开车上路？实为真人扮演",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NWG5oUG1TZENfV3RhWUlBSkFhVmQ2M0NrMVFVdGlEbGNMYWswMzJiaHlHaFkycGc0eDFkaEpsQ3lfN0dmZmdRajhGVzJaNlYyRDQwU0FZek1hbUxBQWFmUA?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-14T01:57:00.000Z",
+      "summary": "特斯拉机器人驾驶汽车视频实为真人cosplay。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人打工记：7个品牌，15个场景，宇树一个进厂的都没有",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RY2xTSWR3T1U3TGtWbWZSZVExZUUzenRmRTNmMVlyUEhRVk1vSXR3aVhQeEU3ZmtDRWpIR0RNTFlTZ0tCQW1Kd1N5a3FFZlhLUzE5OTRaSQ?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-14T06:54:19.000Z",
-      "summary": "日本在人形机器人领域未成为AI定义主角，但技术积累深厚，正尝试将工业优势融入AI。",
+      "pubDate": "2026-08-14T06:58:53.000Z",
+      "summary": "宇树机器人未进入任何真实生产场景。",
       "summaryZh": ""
     },
     {
-      "title": "Robots on Wall Street: Non-traditional paths to public markets for robotics companies",
-      "link": "https://www.therobotreport.com/robots-on-wall-street-non-traditional-paths-public-markets-robotics-companies/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-14T12:30:40.000Z",
-      "summary": "机器人公司通过特殊目的收购公司（SPAC）非传统途径进入公开市场。",
-      "summaryZh": "",
-      "titleZh": "华尔街的机器人：机器人公司进入公开市场的非传统路径"
-    },
-    {
-      "title": "AI行业狂欢与普通人认知脱节：回老家发现多数人仍视AI为聊天机器人",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01UEU0YUpvOF9pWm1JM1BMdkkzSHhqOTd6TDdLNDhKZTFtX0hXOFVvbEtjb2drOTJ1cGk2dkVNVXhNRHgxUnBiZ2lVX2Fmb1RtbTJJQQ?oc=5",
-      "source": "虎嗅",
+      "title": "端到端之后，自动驾驶真正的竞争才刚刚开始？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ETlJxYnM1MWhWOG9KSG14QTZNNlA3NUVDWGMyRE04OHFRN0RKLXMyTHh3bC0wZUpoQzZQR0kydmFHV2hFc0k3WU5IRDc5bi1yYkZkWkx0Zw?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-14T09:20:04.000Z",
-      "summary": "AI行业技术发展迅速，但普通人对AI认知仍停留在聊天机器人层面。",
+      "pubDate": "2026-08-14T03:18:10.000Z",
+      "summary": "自动驾驶端到端技术普及后，竞争转向数据分布与模型理解。",
       "summaryZh": ""
     },
     {
@@ -189,19 +199,27 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-14T07:31:32.000Z",
-      "summary": "索尼申请类似人类拇指的机器人手专利，显示其对人形机器人研究的持续兴趣。",
+      "summary": "索尼申请类似人手机器人专利，显示对人形机器人研究兴趣回升。",
       "summaryZh": "",
       "titleZh": "索尼机器人手专利暗示人们对人形机器人重新产生兴趣"
     },
     {
-      "title": "明查｜特斯拉机器人开车上路？实为真人扮演",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NWG5oUG1TZENfV3RhWUlBSkFhVmQ2M0NrMVFVdGlEbGNMYWswMzJiaHlHaFkycGc0eDFkaEpsQ3lfN0dmZmdRajhGVzJaNlYyRDQwU0FZek1hbUxBQWFmUA?oc=5",
-      "source": "澎湃新闻科技",
+      "title": "券商观点|物理AI和机器人：AI的下一个范式",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52RTNCMjNOemE4X3hRdFhXYS16NTd0MkV1THFLQ3JhNFN2ZkduaGtnNkhCTkJZanNYZmFFY1lVTk1TUi1hZ2RiSThVTVEtWWJUODdlX2ZKNlItdUhHdHc?oc=5",
+      "source": "同花顺财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-14T01:57:00.000Z",
-      "summary": "特斯拉机器人驾驶汽车视频实为真人cosplay。",
-      "summaryZh": ""
+      "pubDate": "2026-08-14T10:50:13.000Z",
+      "summary": ""
+    },
+    {
+      "title": "北理工AI 穿刺机器人：一针到位，五分钟完成手术",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzTjNzeHhFd3ZlQ0NKT0hOZjJoejZKQ2NzV0lIYUU1QV9GblBCRUdPam11dFhoVWdoM1UzNHdybU9zVVpMR3dwUHk2UHBLUEt2dVg0cnNB?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-14T21:23:30.000Z",
+      "summary": "北理工 AI 穿刺机器人：一针到位，五分钟完成手术。"
     },
     {
       "title": "“AI+养老”产品要“走心”",
@@ -210,7 +228,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-14T02:52:00.000Z",
-      "summary": "AI养老产品需关注老年人情感需求，推动从“能用”向“好用、暖心”转变。",
+      "summary": "AI养老产品需关注老年人精神需求，推动从“能用”向“好用、暖心”转变。",
       "summaryZh": ""
     }
   ]
