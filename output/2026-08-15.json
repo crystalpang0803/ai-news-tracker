@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generatedAt": "2026-08-14T20:10:59.896Z",
+  "generatedAt": "2026-08-14T21:45:10.044Z",
   "items": [
     {
       "title": "OpenAI被曝ARR破2000亿，官宣新任首席营收官",
@@ -19,7 +19,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-14T10:34:04.000Z",
-      "summary": "DeepSeek宣布涨价，国产AI芯片价值有望重估。",
+      "summary": "DeepSeek宣布涨价，国产AI芯片价值重估预期增强。",
+      "summaryZh": ""
+    },
+    {
+      "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yanBYeUdHNzktdGFhOWcwYVEtcUptREQwWFZzNXJkbW1tcERnRUdLSGszMnlUeUFacmZCc0h5NWNGeTFOcmNoVg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-14T12:17:00.000Z",
+      "summary": "中行推出全国首个算力“Token贷”，推动算力金融进入应用层企业。",
+      "summaryZh": ""
+    },
+    {
+      "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂吃算力",
+      "link": "https://www.qbitai.com/2026/08/472722.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-14T07:29:22.000Z",
+      "summary": "机器人研发算力需求激增，推动云计算基础设施升级。",
       "summaryZh": ""
     },
     {
@@ -31,17 +51,6 @@
       "pubDate": "2026-08-14T07:55:17.000Z",
       "summary": "一汽-大众ID. AURA T6接入豆包大模型，开启盲订。",
       "summaryZh": ""
-    },
-    {
-      "title": "Unitree IPO oversubscribed more than 5,000 times as investors pile into humanoid robotics",
-      "link": "https://roboticsandautomationnews.com/2026/08/14/unitree-ipo-oversubscribed-more-than-5000-times-as-investors-pile-into-humanoid-robotics/104171/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-14T11:09:07.000Z",
-      "summary": "Unitree机器人IPO超额认购超5000倍，投资者抢购人形机器人股票。",
-      "summaryZh": "",
-      "titleZh": "随着投资者纷纷涌入人形机器人领域，Unitree IPO超额认购超过5,000倍"
     },
     {
       "title": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
@@ -60,8 +69,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-14T11:30:54.000Z",
-      "summary": "华盛顿大学推出FLEX-π模型，利用3D几何和物体语义提升机器人操控能力。",
+      "summary": "华盛顿大学推出FLEX-π模型，通过3D几何与物体语义提升机器人操控能力。",
       "summaryZh": ""
+    },
+    {
+      "title": "高性价比中国大模型兵临城下，美头部AI实验室大幅降价应对",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YVkpaTm8wc21oQ0hERmJTOTY2c0owVVNMekwwOUM5Z3pLclQ1bHZNQUxjTVdXMnJNeVNJNjh5dEttVHNWdEJWNXBlRVprSzNhQU9MbEpwYWtmNUE?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-14T14:11:32.000Z",
+      "summary": ""
     },
     {
       "title": "中国大模型调用量，连续15周超美国",
@@ -70,15 +88,6 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-14T10:45:19.000Z",
-      "summary": ""
-    },
-    {
-      "title": "月之暗面IPO，大模型第二股需要新叙事",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNYTZhR1RjbzFyZ0p1aXNtV2dGVUNNdDVqem55R2EzRllvTjRoOFYzRGpRYjFlZHhrc0ptY2w0cUJUbE9faFJqR1VvTVEtUQ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-14T04:55:50.000Z",
       "summary": ""
     },
     {
@@ -102,13 +111,13 @@
       "summaryZh": ""
     },
     {
-      "title": "从5000亿美元算力融资到净利增长466.1%，AI产业正在发生一次利润迁移",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBoMk9FMXlUTnlBNHBsR2pic08yVHJ6TjVCa1VSUjJaRGlVel81X3NzcDluM3V0bTVuSEJPRXdjTUEwUmlmLWk1bDQyNVE?oc=5",
+      "title": "谷歌 Chrome 浏览器新功能曝光：Gemini 帮你修改弱密码和重复密码",
+      "link": "https://www.ithome.com/0/989/933.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-14T13:03:06.000Z",
-      "summary": "AI产业利润结构发生迁移，算力融资规模达5000亿美元。",
+      "pubDate": "2026-08-14T13:15:31.000Z",
+      "summary": "Chrome浏览器测试AI修改密码功能，Gemini可自动修改弱密码和重复密码。",
       "summaryZh": ""
     },
     {
@@ -118,7 +127,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-14T04:47:46.000Z",
-      "summary": "AI算力需求激增，光通信产业链高端复合型人才短缺。",
+      "summary": "AI算力需求激增，光通信产业链高端人才短缺加剧。",
       "summaryZh": ""
     },
     {
@@ -128,36 +137,50 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-14T08:10:55.000Z",
-      "summary": "WAIC现场解析AI产业链，探讨AI话语权归属。",
+      "summary": "WAIC现场解析AI产业链，探讨未来十年AI话语权归属。",
       "summaryZh": ""
     },
     {
-      "title": "训练西迁、推理东沉，中国算力新版图正在形成",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFYWJaU1AydEcwVWpzOHJVT0RuYXdvMDlfWXI5RnJ6WUlpX0hNN2FQWEVpcWlnY1dNMTE4UVJNZU5Wc3hRbmpZQg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-14T04:13:40.000Z",
-      "summary": ""
-    },
-    {
-      "title": "券商观点|物理AI和机器人：AI的下一个范式",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52RTNCMjNOemE4X3hRdFhXYS16NTd0MkV1THFLQ3JhNFN2ZkduaGtnNkhCTkJZanNYZmFFY1lVTk1TUi1hZ2RiSThVTVEtWWJUODdlX2ZKNlItdUhHdHc?oc=5",
-      "source": "同花顺财经",
+      "title": "日本真的错过了人形机器人风口吗？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SRlB3WjRTa2tDTDIwNDRXWTBOLWNjM0xxU1VNdGhjQm4xY1VWYlA4VEtndFNFRmswbFp5SE1FUWdKQ2lvcEVVOHJ3Y0hkLWJPMk9QN1NjNA?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-14T10:50:13.000Z",
-      "summary": "2026年8月14日，国盛证券发布了一篇AI行业的研究报告，报告指出，AI的下一个范式。"
-    },
-    {
-      "title": "普渡机器人张涛：机器人行业的拐点不是更便宜，而是更好用",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4ZG03bWlOeUVnTld5T3oyM2RxdWFyRzZKSGFhOVJ3TmhsU0ZKT2ZhMk5lNUlDQU9tWnYtalRzNzRvc08tNV9SaXBRa3FPZnc3RmxZa2ItdkJmTUhSMXJV?oc=5",
-      "source": "财新网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-14T09:00:00.000Z",
-      "summary": "普渡机器人张涛认为，机器人行业拐点在于提升智能程度和用户体验。",
+      "pubDate": "2026-08-14T06:54:19.000Z",
+      "summary": "日本在人形机器人领域未成为AI定义主角，但技术积累深厚，正尝试将工业优势融入AI。",
       "summaryZh": ""
+    },
+    {
+      "title": "Robots on Wall Street: Non-traditional paths to public markets for robotics companies",
+      "link": "https://www.therobotreport.com/robots-on-wall-street-non-traditional-paths-public-markets-robotics-companies/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-14T12:30:40.000Z",
+      "summary": "机器人公司通过特殊目的收购公司（SPAC）非传统途径进入公开市场。",
+      "summaryZh": "",
+      "titleZh": "华尔街的机器人：机器人公司进入公开市场的非传统路径"
+    },
+    {
+      "title": "AI行业狂欢与普通人认知脱节：回老家发现多数人仍视AI为聊天机器人",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01UEU0YUpvOF9pWm1JM1BMdkkzSHhqOTd6TDdLNDhKZTFtX0hXOFVvbEtjb2drOTJ1cGk2dkVNVXhNRHgxUnBiZ2lVX2Fmb1RtbTJJQQ?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-14T09:20:04.000Z",
+      "summary": "AI行业技术发展迅速，但普通人对AI认知仍停留在聊天机器人层面。",
+      "summaryZh": ""
+    },
+    {
+      "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+      "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-14T20:59:03.000Z",
+      "summary": "中国身高1.2米的机器人成为网络红人。",
+      "summaryZh": "",
+      "titleZh": "下一个大影响者是这个来自中国的 4 英尺高机器人"
     },
     {
       "title": "Sony robot hand patent hints at renewed interest in humanoid robotics",
@@ -166,9 +189,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-14T07:31:32.000Z",
-      "summary": "索尼申请类似人手机器人专利，显示对人形机器人研究兴趣复苏。",
+      "summary": "索尼申请类似人类拇指的机器人手专利，显示其对人形机器人研究的持续兴趣。",
       "summaryZh": "",
       "titleZh": "索尼机器人手专利暗示人们对人形机器人重新产生兴趣"
+    },
+    {
+      "title": "明查｜特斯拉机器人开车上路？实为真人扮演",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NWG5oUG1TZENfV3RhWUlBSkFhVmQ2M0NrMVFVdGlEbGNMYWswMzJiaHlHaFkycGc0eDFkaEpsQ3lfN0dmZmdRajhGVzJaNlYyRDQwU0FZek1hbUxBQWFmUA?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-14T01:57:00.000Z",
+      "summary": "特斯拉机器人驾驶汽车视频实为真人cosplay。",
+      "summaryZh": ""
     },
     {
       "title": "“AI+养老”产品要“走心”",
@@ -177,49 +210,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-14T02:52:00.000Z",
-      "summary": "AI养老产品需关注老年人心理需求，融入人文关怀。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Smart tugs and trucks that don't sleep. Automation rewires US transport",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQREtSQVM2RHd0Y0U2aEU3Z2RfYVQ1ME12NG9JVVlmZzB1T2pNWFpyRTdGbm8xWDFOQi0weTctVHVYQk5VWTVmXzkyVTlSSzd5NlNJZFpiZHdiRE10c1FLaThBenZfdTFoeFg2aDFyV1E3bFQ4SmpuZjhjekdDNVlEZ0dGVEtnNDIxRzZZUThoWFdWUVVRbERFd3lFeUVUZ3FBOGRrOWRNSnZkT25oZXpfdU5BbU9zYnQ4Z1dWWWZPSmJ4YU9ubTJaNWZud2VBQTQ?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-14T06:00:00.000Z",
-      "summary": "",
-      "titleZh": "不睡觉的智能拖船和卡车。自动化重塑美国交通"
-    },
-    {
-      "title": "Better communication could improve human-robot teamwork across real-world tasks",
-      "link": "https://techxplore.com/news/2026-08-communication-human-robot-teamwork-real.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-14T14:07:01.000Z",
-      "summary": "研究显示，改善人机沟通可提升现实任务中的团队合作效率。",
-      "summaryZh": "",
-      "titleZh": "更好的沟通可以改善现实世界任务中的人机团队合作"
-    },
-    {
-      "title": "What a Killer Drone Swarm Looks Like Up Close",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWc4aWw2YzZwdnNUNVpuRFV2cVJtX1BQS2dJLVMxNE4wdm9jWXF1eFVhNWJMOHR3aDA2MW5iT3BWVVR1M1pmNHo1Zi1sS2VpOVlYUXVLUFJDRDlVNExuR216a3c0WldjQU1tU2VpbGNuV09GdzVodlZZZ0JRNXo1YU9MajNRN090Q3F1VlZXSjIzMFdvWmxHV0dPdVNoU1plX0xYV2ZaT3lxTXF0RjNZdFlfYw?oc=5",
-      "source": "Bloomberg",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-14T08:00:16.000Z",
-      "summary": "近距离观察无人机集群的景象。",
-      "summaryZh": "",
-      "titleZh": "近距离观察杀手无人机群是什么样子"
-    },
-    {
-      "title": "智洋创新拟定增募资9.04亿元 加大具身智能与AI感知研发投入",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mcXlGZ04yMnRveEZUb3NtbVM1RXF4cU1ETkxHcDl2UWFMY0FUaTMtaktJSmhKUGRKQ0NGbjJ0eU4yalRJQ2JKRkdrX3l3VDB4UF9nTmE4aXFqZ25lLU9uWmNmNHhsUQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-14T14:21:00.000Z",
-      "summary": "智洋创新拟募资9.04亿元，加码具身智能与AI感知研发。",
+      "summary": "AI养老产品需关注老年人情感需求，推动从“能用”向“好用、暖心”转变。",
       "summaryZh": ""
     }
   ]
