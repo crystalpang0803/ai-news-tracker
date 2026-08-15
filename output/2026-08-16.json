@@ -1,6 +1,6 @@
 {
   "date": "2026-08-16",
-  "generatedAt": "2026-08-15T18:43:47.001Z",
+  "generatedAt": "2026-08-15T19:54:28.072Z",
   "items": [
     {
       "title": "全球第一：阿里通义千问 AI 模型全球下载量破 30 亿，碾压 Meta 和谷歌",
@@ -19,7 +19,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-15T04:21:09.000Z",
-      "summary": "郎咸朋与任庚创办昆仑行，聚焦具身智能，强调理解与量产。",
+      "summary": "郎咸朋创办昆仑行，聚焦具身智能，强调理解与量产。",
+      "summaryZh": ""
+    },
+    {
+      "title": "另类 AI：前谷歌员工打造“聊天机器人”ChatTJB，不过背后全是真人回复",
+      "link": "https://www.ithome.com/0/990/184.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-15T14:53:09.000Z",
+      "summary": "前谷歌员工打造真人回复聊天机器人ChatTJB，引发AI热潮中的另类思考。",
+      "summaryZh": ""
+    },
+    {
+      "title": "刚刚，Claude文字水印细节全曝光，官方检测工具即将推出",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SR21iQjdfRjBsazhVaG9yZ1BRNGZOSlFHbzI1N0V4ZmYtMTk3M0tmbzlKNDNzeHppOGNDNkZmSXNxVUxZYkNtTHRERVYxenM?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-15T03:07:19.000Z",
+      "summary": "Anthropic公开Claude文字水印细节，官方检测工具即将上线。",
       "summaryZh": ""
     },
     {
@@ -29,7 +49,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-15T06:42:23.000Z",
-      "summary": "至知研究院提出大模型可解释性新方法，通过稀疏权重分解降低数据成本至1%。",
+      "summary": "至知研究院提出新方法，通过拆解权重实现大模型可解释性，数据成本降低至1%。",
       "summaryZh": ""
     },
     {
@@ -43,25 +63,145 @@
       "summaryZh": ""
     },
     {
-      "title": "中国科学家研制出低噪声高灵敏磁传感器：1 赫兹下灵敏度达 15.7 纳特斯拉，较传统铁磁材料提升近一个数量级",
-      "link": "https://www.ithome.com/0/990/183.htm",
-      "source": "IT之家",
+      "title": "服务器、AI和机器人：中国RISC-V的下一站",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mQ1RVQzd2ejBNNTlLa1pwX0ZuVmQxdHZfV1B3S1dQUlRNenhFYzVoWTFpNjFIamRScDFsb3BGVS1KOFRQV2xGbF9jeTEzU2ZjcVNMOWx3?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-15T14:52:45.000Z",
-      "summary": "中国科学家研发出低噪声高灵敏磁传感器，灵敏度提升近一个数量级。",
+      "pubDate": "2026-08-15T02:57:33.000Z",
+      "summary": "中国RISC-V产业正从量产走向高端市场，挑战与机遇并存。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI CFO Friar tells investors that enterprise business now bigger than consumer by revenue",
-      "link": "https://www.cnbc.com/2026/08/14/openai-cfo-friar-tells-investors-that-enterprise-bigger-than-consumer.html",
-      "source": "CNBC Tech",
+      "title": "黄仁勋出手安抚AI算力市场：英伟达可能会“为单个投资项目提供最高25%的残值支持机制”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Zc05mcTJtVjFlcVU3NWtqSkhObEF2bGd3cFl6Y05wdk1zOG1lUEdTalJBeTVpekdVcU9ZdS1BaU92OUJyNl9rOGc3bjFLaDNpNVNPVlh6TGFTU3c0eVE?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-15T09:40:04.000Z",
+      "summary": "英伟达将提供最高25%残值支持机制以安抚AI算力市场。",
+      "summaryZh": ""
+    },
+    {
+      "title": "DeepSeek故意做了一个难用的Agent？",
+      "link": "https://www.tmtpost.com/8104384.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-15T07:24:00.000Z",
+      "summary": "DeepSeek Harness将复杂AI能力拆分为模块，提供更灵活的运行环境。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国产算力迎扩张浪潮：大厂“超预期”加码投资 产业链多环节开启扩产",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2b3IxVUdjekVGdExyMWRGdzg5S0VSOWVFaGVwT0xuT1o3Q29iVnRKYm5OdzJNTXNOTU85Ym9ybXdQUHk3elpvOQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-15T13:26:16.000Z",
+      "summary": "国产算力产业链投资热潮兴起，大厂加码投资，多环节扩产。",
+      "summaryZh": ""
+    },
+    {
+      "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uUjZOVHRfZXY3Y0FET2ZBbEJxalJ2MVVCLWtTLVN0WHVFRjd5d2xrZzVNOExZZGlYNnhtcW5MZWtOM2EwR2JaYw?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-15T15:48:52.000Z",
+      "summary": "苹果针对中国市场训练“中国定制”大模型，开启AI双轨布局。",
+      "summaryZh": ""
+    },
+    {
+      "title": "谷歌发布Gemini 3.7 Flash：专为编程与智能体任务设计",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56WThSUlF4VGZnYnFTNUt4TGF4UmFrZU9NU2JCTVpQRUsxUnl6UVhIZjFSUlR6aHFyd3pYUjdlNEl4SGV4OE9YMXBjc0hyWWVBSHlPWmcteVJDcUlxaWc?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-15T00:30:00.000Z",
+      "summary": "谷歌发布Gemini 3.7 Flash，超越同类模型，支持多任务处理。",
+      "summaryZh": ""
+    },
+    {
+      "title": "金融头条宇树科技叩响科创板 具身智能机器人赛道迎来二级市场定价时刻",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pZHYwNzM2RHlwRVk4YWNQcFZRRWNHUjVFX1l0OFk3MlJQZ0NreDNKdHBWeXEzdGlHT0NMTW9uNnpBdW4wMzduZnF3aFpabUtFYlFWeGlOMA?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-15T01:34:00.000Z",
+      "summary": "宇树科技科创板上市，具身智能机器人赛道迎来二级市场定价。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "TechCrunch",
       "lang": "en",
       "category": "ai",
-      "pubDate": "2026-08-14T23:01:03.000Z",
-      "summary": "OpenAI首席财务官表示，企业业务收入已超过消费者业务。",
+      "pubDate": "2026-08-15T18:58:39.000Z",
+      "summary": "Anthropic详解Claude新水印工作原理，回应用户担忧。",
       "summaryZh": "",
-      "titleZh": "OpenAI 首席财务官 Friar 告诉投资者，按收入计算，企业业务目前已超过消费者业务"
+      "titleZh": "Anthropic 分享了有关克劳德新水印如何运作的更多细节"
+    },
+    {
+      "title": "阿里开源Qwen3.8，千问大模型全球下载超30亿次",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lMi00a2FsdkNjU25Ra1pmNnBDT3N3eWF3cVoxc1NxaXZqUVc1WE9KOUFHNVpGT0d6aDRZeVVabGRvczA0cG54VmtkbTcyMGRPQjhzT3EwUTR2T2xWd1B0eGw4S2lqb0ZycWdR?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-15T02:02:00.000Z",
+      "summary": "阿里开源Qwen3.8大模型，全球下载量超30亿次。",
+      "summaryZh": ""
+    },
+    {
+      "title": "DeepSeek-V4-Pro正式版上线，同类费率最低档创业板人工智能ETF华夏（159381）涨超2%，网宿科技涨超10%",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ1JOSmgtOUFaN0dvUWRjZTB3OV9fZlJpa2NGZUF5cjVZQ1EtSHNWdkJxN2JtNnRXNmFMV0hTeUxCYzByeTRzMlpVYjc4MnNlWjNnWC1faTBsaTlwaFpxcWtjQ1d6SXloQ0xPRU9tdWdRVndnZ1NNTjdxX2ZuN194ZzdCLWFEV2o5QlNWLU1fVzREMDNo?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-15T08:41:36.000Z",
+      "summary": "DeepSeek-V4-Pro正式版上线，华夏创业板人工智能ETF涨超2%，网宿科技涨超10%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "学者：人形机器人是“人类环境兼容形态” 非替代所有机器人",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90RjZVNmJfTW4zaVJvNFZaaTN5VS05YUJCWEFBdGZZSTIyVEJUSkZ6b2VuVlF3OVhpOVN6cW1SZVZ5WXJRYjhudGRvTG9WQ09uNjRHWGNFa0R2U3Zjc1Q5YnJNNzBzWUd6cFlybA?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-15T06:20:00.000Z",
+      "summary": "人形机器人是特定环境兼容形态，非全面替代所有机器人。",
+      "summaryZh": ""
+    },
+    {
+      "title": "美国为什么造不出宇树机器人？融不到2500万美元，一家硅谷破产公司反思：我们不缺聪明的“大脑”，缺量产“身体”的能力",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UcGY0U1BtSngwdEpubDQxRE50WHVhajdmY1ZyS3RuUHJLUVNKZHlKeVd0ZHNKSlRnZ3lTRkM3YWhtMmVqaDRFaHRCSzlhMF9MTXNnOXFIQnpZWTdGOWVZczZHWnZFUQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-15T03:06:00.000Z",
+      "summary": "美国K-Scale Labs因资金短缺和供应链问题破产，反思美国机器人产业缺乏量产能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "上半年营收29.03亿元 小菜园加速布局AI和炒菜机器人",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rdUNwSGxDOWtLbm5NdlFvVjlYaXB0RnF6dzlxLUF0NjVMaWlFLS1yem80cVVJUDFOc19PSGxBN0NyU3czS2hqNFktMTBvcWpQZWtsS1dHTTZ5WW52clRReQ?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-15T04:11:35.000Z",
+      "summary": "小菜园上半年营收29.03亿元，加速布局AI和炒菜机器人。",
+      "summaryZh": ""
+    },
+    {
+      "title": "今日话题丨AI帮你选酒店，你愿意付费吗？",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YT0pqQVJTLWFXSDAtX3BWQlpWWlJmeHlzRy10ZV9HUVFsbjY5NDJPcW9uLVVoM0pJakhOV3JHekVGbl9kaHZEWF9JTnMwR2NIcFpPRXdn?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-08-15T04:22:00.000Z",
+      "summary": "AI选酒店服务兴起，付费订阅模式引关注。",
+      "summaryZh": ""
     }
   ]
 }
