@@ -1,6 +1,6 @@
 {
   "date": "2026-08-16",
-  "generatedAt": "2026-08-15T21:40:25.759Z",
+  "generatedAt": "2026-08-15T22:58:58.244Z",
   "items": [
     {
       "title": "全球第一：阿里通义千问 AI 模型全球下载量破 30 亿，碾压 Meta 和谷歌",
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-15T04:21:09.000Z",
-      "summary": "郎咸朋与任庚创办昆仑行，聚焦具身智能，强调理解与量产。",
+      "summary": "郎咸朋创办昆仑行，聚焦具身智能，强调理解而非模仿，注重量产与数据闭环。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-15T14:53:09.000Z",
-      "summary": "前谷歌员工创建真人回复聊天机器人ChatTJB，挑战AI替代人类工作的担忧。",
+      "summary": "前谷歌员工打造真人回复聊天机器人ChatTJB，引发关注。",
+      "summaryZh": ""
+    },
+    {
+      "title": "刚刚，Claude文字水印细节全曝光，官方检测工具即将推出",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SR21iQjdfRjBsazhVaG9yZ1BRNGZOSlFHbzI1N0V4ZmYtMTk3M0tmbzlKNDNzeHppOGNDNkZmSXNxVUxZYkNtTHRERVYxenM?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-15T03:07:19.000Z",
+      "summary": "Anthropic公开Claude文字水印细节，官方检测工具即将上线。",
       "summaryZh": ""
     },
     {
@@ -43,16 +53,6 @@
       "summaryZh": ""
     },
     {
-      "title": "兴锋作浪，大模型和机器人抢着“联姻”",
-      "link": "https://www.tmtpost.com/8104508.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-15T12:04:24.000Z",
-      "summary": "DeepSeek与宇树科技签署战略合作，共同研发通用人工智能，并建立双向优先采购合作机制。",
-      "summaryZh": ""
-    },
-    {
       "title": "服务器、AI和机器人：中国RISC-V的下一站",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mQ1RVQzd2ejBNNTlLa1pwX0ZuVmQxdHZfV1B3S1dQUlRNenhFYzVoWTFpNjFIamRScDFsb3BGVS1KOFRQV2xGbF9jeTEzU2ZjcVNMOWx3?oc=5",
       "source": "界面新闻",
@@ -63,13 +63,23 @@
       "summaryZh": ""
     },
     {
+      "title": "陪跑6年 多轮加码宇树科技 他坦言王兴兴就是他们喜欢的技术男",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xT3c4d19mYS1rYk8tRGdicTRuMEVPY0p3N3hLckM1UDRSbGNXSUZUalJqd095bmpOdGcyWWFKYVpWeGtZWngtYmNYOWFDMHVkLTVXcw?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-15T02:56:19.000Z",
+      "summary": "祥峰投资创始管理合伙人郑俊聪表示，宇树科技创始人王兴兴是喜欢的技术男，其产品具有市场化能力。",
+      "summaryZh": ""
+    },
+    {
       "title": "黄仁勋出手安抚AI算力市场：英伟达可能会“为单个投资项目提供最高25%的残值支持机制”",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Zc05mcTJtVjFlcVU3NWtqSkhObEF2bGd3cFl6Y05wdk1zOG1lUEdTalJBeTVpekdVcU9ZdS1BaU92OUJyNl9rOGc3bjFLaDNpNVNPVlh6TGFTU3c0eVE?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-15T09:40:04.000Z",
-      "summary": "英伟达计划为AI算力投资项目提供最高25%残值支持。",
+      "summary": "英伟达或为AI算力投资项目提供最高25%残值支持。",
       "summaryZh": ""
     },
     {
@@ -79,27 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-15T07:24:00.000Z",
-      "summary": "DeepSeek Harness将Agent复杂功能模块化，提供更灵活的运行环境。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国产算力迎扩张浪潮：大厂“超预期”加码投资 产业链多环节开启扩产",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2b3IxVUdjekVGdExyMWRGdzg5S0VSOWVFaGVwT0xuT1o3Q29iVnRKYm5OdzJNTXNOTU85Ym9ybXdQUHk3elpvOQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-15T13:26:16.000Z",
-      "summary": "国产算力产业链投资热潮兴起，大厂加大投资，多环节扩产。",
-      "summaryZh": ""
-    },
-    {
-      "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uUjZOVHRfZXY3Y0FET2ZBbEJxalJ2MVVCLWtTLVN0WHVFRjd5d2xrZzVNOExZZGlYNnhtcW5MZWtOM2EwR2JaYw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-15T15:48:52.000Z",
-      "summary": "苹果针对中国市场训练“中国定制”大模型，开启AI双轨布局。",
+      "summary": "DeepSeek Harness将Agent的复杂功能拆分为可替换模块，推动软件在运行中自我进化。",
       "summaryZh": ""
     },
     {
@@ -109,17 +99,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-15T00:30:00.000Z",
-      "summary": "谷歌发布Gemini 3.7 Flash，超越同类模型，支持多任务处理。",
-      "summaryZh": ""
-    },
-    {
-      "title": "金融头条宇树科技叩响科创板 具身智能机器人赛道迎来二级市场定价时刻",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pZHYwNzM2RHlwRVk4YWNQcFZRRWNHUjVFX1l0OFk3MlJQZ0NreDNKdHBWeXEzdGlHT0NMTW9uNnpBdW4wMzduZnF3aFpabUtFYlFWeGlOMA?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-15T01:34:00.000Z",
-      "summary": "宇树科技科创板上市，具身智能机器人赛道迎来二级市场定价。",
+      "summary": "谷歌发布Gemini 3.7 Flash，提升编程与智能体任务处理能力。",
       "summaryZh": ""
     },
     {
@@ -132,6 +112,15 @@
       "summary": "Anthropic详解Claude新水印工作原理，以符合欧盟AI透明度法规。",
       "summaryZh": "",
       "titleZh": "Anthropic 分享了有关克劳德新水印如何运作的更多细节"
+    },
+    {
+      "title": "如何看待当下的情况？豆包说现在ai，从抢算力的上半场，进入了应用场景拓展，现金流",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaExkZ211R1BXVjREZ2h3STFwS0xlS01tOVkxTk9jWWg5bWpfOWdvREV0VTVfVmZYY3ltRkF3VVJ6b01leFRDR0pPRlA5S3Z3NGQ4dWFsRHBjdkswOENZRHNhYVhxeldUZG4tdFpLcWxwR3psQW03b1JzQTNlU3JQeHE5aF92dFJMSWNYblIwdTFFQ0tZTzZocnFYbG9iN2VlSGZBYk02d1FUWjdkbElQemlwVQ?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-15T01:21:14.000Z",
+      "summary": ""
     },
     {
       "title": "学者：人形机器人是“人类环境兼容形态” 非替代所有机器人",
@@ -150,7 +139,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-15T03:06:00.000Z",
-      "summary": "美国K-Scale Labs因资金短缺和供应链问题破产，反思美国机器人产业缺乏量产能力。",
+      "summary": "美国K-Scale Labs因量产能力不足破产，反思资本忽视硬件和供应链。",
       "summaryZh": ""
     },
     {
@@ -170,7 +159,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-15T04:22:00.000Z",
-      "summary": "AI选酒店服务兴起，付费模式引发行业变革。",
+      "summary": "AI选酒店服务兴起，豆包推出付费订阅，挑战传统订房平台。",
       "summaryZh": ""
     }
   ]
