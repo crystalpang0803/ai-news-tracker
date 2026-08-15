@@ -1,6 +1,6 @@
 {
   "date": "2026-08-16",
-  "generatedAt": "2026-08-15T19:54:28.072Z",
+  "generatedAt": "2026-08-15T21:40:25.759Z",
   "items": [
     {
       "title": "全球第一：阿里通义千问 AI 模型全球下载量破 30 亿，碾压 Meta 和谷歌",
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-15T04:21:09.000Z",
-      "summary": "郎咸朋创办昆仑行，聚焦具身智能，强调理解与量产。",
+      "summary": "郎咸朋与任庚创办昆仑行，聚焦具身智能，强调理解与量产。",
       "summaryZh": ""
     },
     {
@@ -29,17 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-15T14:53:09.000Z",
-      "summary": "前谷歌员工打造真人回复聊天机器人ChatTJB，引发AI热潮中的另类思考。",
-      "summaryZh": ""
-    },
-    {
-      "title": "刚刚，Claude文字水印细节全曝光，官方检测工具即将推出",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SR21iQjdfRjBsazhVaG9yZ1BRNGZOSlFHbzI1N0V4ZmYtMTk3M0tmbzlKNDNzeHppOGNDNkZmSXNxVUxZYkNtTHRERVYxenM?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-15T03:07:19.000Z",
-      "summary": "Anthropic公开Claude文字水印细节，官方检测工具即将上线。",
+      "summary": "前谷歌员工创建真人回复聊天机器人ChatTJB，挑战AI替代人类工作的担忧。",
       "summaryZh": ""
     },
     {
@@ -79,7 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-15T09:40:04.000Z",
-      "summary": "英伟达将提供最高25%残值支持机制以安抚AI算力市场。",
+      "summary": "英伟达计划为AI算力投资项目提供最高25%残值支持。",
       "summaryZh": ""
     },
     {
@@ -89,7 +79,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-15T07:24:00.000Z",
-      "summary": "DeepSeek Harness将复杂AI能力拆分为模块，提供更灵活的运行环境。",
+      "summary": "DeepSeek Harness将Agent复杂功能模块化，提供更灵活的运行环境。",
       "summaryZh": ""
     },
     {
@@ -99,7 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-15T13:26:16.000Z",
-      "summary": "国产算力产业链投资热潮兴起，大厂加码投资，多环节扩产。",
+      "summary": "国产算力产业链投资热潮兴起，大厂加大投资，多环节扩产。",
       "summaryZh": ""
     },
     {
@@ -139,29 +129,9 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-15T18:58:39.000Z",
-      "summary": "Anthropic详解Claude新水印工作原理，回应用户担忧。",
+      "summary": "Anthropic详解Claude新水印工作原理，以符合欧盟AI透明度法规。",
       "summaryZh": "",
       "titleZh": "Anthropic 分享了有关克劳德新水印如何运作的更多细节"
-    },
-    {
-      "title": "阿里开源Qwen3.8，千问大模型全球下载超30亿次",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lMi00a2FsdkNjU25Ra1pmNnBDT3N3eWF3cVoxc1NxaXZqUVc1WE9KOUFHNVpGT0d6aDRZeVVabGRvczA0cG54VmtkbTcyMGRPQjhzT3EwUTR2T2xWd1B0eGw4S2lqb0ZycWdR?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-15T02:02:00.000Z",
-      "summary": "阿里开源Qwen3.8大模型，全球下载量超30亿次。",
-      "summaryZh": ""
-    },
-    {
-      "title": "DeepSeek-V4-Pro正式版上线，同类费率最低档创业板人工智能ETF华夏（159381）涨超2%，网宿科技涨超10%",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ1JOSmgtOUFaN0dvUWRjZTB3OV9fZlJpa2NGZUF5cjVZQ1EtSHNWdkJxN2JtNnRXNmFMV0hTeUxCYzByeTRzMlpVYjc4MnNlWjNnWC1faTBsaTlwaFpxcWtjQ1d6SXloQ0xPRU9tdWdRVndnZ1NNTjdxX2ZuN194ZzdCLWFEV2o5QlNWLU1fVzREMDNo?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-15T08:41:36.000Z",
-      "summary": "DeepSeek-V4-Pro正式版上线，华夏创业板人工智能ETF涨超2%，网宿科技涨超10%。",
-      "summaryZh": ""
     },
     {
       "title": "学者：人形机器人是“人类环境兼容形态” 非替代所有机器人",
@@ -170,7 +140,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-15T06:20:00.000Z",
-      "summary": "人形机器人是特定环境兼容形态，非全面替代所有机器人。",
+      "summary": "人形机器人是特定环境下的兼容形态，非全面替代所有机器人。",
       "summaryZh": ""
     },
     {
@@ -200,7 +170,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-15T04:22:00.000Z",
-      "summary": "AI选酒店服务兴起，付费订阅模式引关注。",
+      "summary": "AI选酒店服务兴起，付费模式引发行业变革。",
       "summaryZh": ""
     }
   ]
