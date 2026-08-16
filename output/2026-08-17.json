@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generatedAt": "2026-08-16T19:52:55.132Z",
+  "generatedAt": "2026-08-16T21:38:58.556Z",
   "items": [
     {
       "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -39,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-16T01:26:49.000Z",
-      "summary": "高凯技术首次公开发行股票中签率0.019%，打新难度较高。",
+      "summary": "高凯技术中签率0.019%，打新难度与宇树科技相当。",
       "summaryZh": ""
     },
     {
@@ -79,7 +79,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-16T03:06:04.000Z",
-      "summary": "Kimi K3发布，模型之战转向用户复杂工作场景争夺。",
+      "summary": "Kimi K3发布，模型之战转向用户复杂工作场景选择。",
       "summaryZh": ""
     },
     {
@@ -89,7 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-16T12:58:04.000Z",
-      "summary": "香港在AI贸易周期中发挥区域枢纽功能，助力产业链价值链重构。",
+      "summary": "香港在AI贸易周期中发挥区域枢纽功能，推动产业链价值链重构。",
       "summaryZh": ""
     },
     {
@@ -99,7 +99,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-16T03:02:20.000Z",
-      "summary": "日本研发新型AI芯片平台，提升集成密度与传输能力。",
+      "summary": "日本团队开发新型AI芯片平台，提升集成密度与传输能力。",
       "summaryZh": ""
     },
     {
@@ -109,7 +109,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-16T14:56:40.000Z",
-      "summary": "ChatGPT的计算机历史追踪用户点击和按键记录。",
+      "summary": "ChatGPT的电脑历史追踪用户点击和按键记录。",
       "summaryZh": "",
       "titleZh": "ChatGPT 的计算机历史记录跟踪您的点击和击键"
     },
@@ -120,7 +120,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-16T08:21:05.000Z",
-      "summary": "朗新科技发布半年报，核心业务高速增长，AI电力交易智能体落地应用。",
+      "summary": "朗新科技发布半年报，核心业务高速发展，AI电力交易智能体落地应用。",
       "summaryZh": ""
     },
     {
@@ -130,7 +130,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-16T12:53:10.000Z",
-      "summary": "七鲜咖啡北京店创吉尼斯纪录，24小时无人咖啡店开业。",
+      "summary": "七鲜咖啡北京店创吉尼斯世界纪录，24小时无人店正式开业。",
       "summaryZh": ""
     },
     {
@@ -140,7 +140,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-16T14:14:40.000Z",
-      "summary": "比亚迪全新海鸥内饰采用大屏和无线充电，搭载95kW电机和可选激光雷达。",
+      "summary": "比亚迪全新海鸥内饰采用大屏和无线充电，搭载95kW电机及可选激光雷达。",
       "summaryZh": ""
     },
     {
@@ -164,15 +164,15 @@
       "summaryZh": ""
     },
     {
-      "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
-      "link": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
-      "source": "VentureBeat",
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "source": "The Verge",
       "lang": "en",
       "category": "ai",
-      "pubDate": "2026-08-16T13:00:00.000Z",
-      "summary": "DeepSeek的V4 Flash在真实任务中表现不佳，价格却上涨。",
+      "pubDate": "2026-08-16T21:32:56.000Z",
+      "summary": "OpenAI解散了其准备团队。",
       "summaryZh": "",
-      "titleZh": "DeepSeek 排名第一的 V4 Flash 价格飙升，却在真实代理任务上遭遇挫折"
+      "titleZh": "据报道 OpenAI 解散了其准备团队"
     },
     {
       "title": "How robotics is revolutionizing stroke rehabilitation",
@@ -211,17 +211,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-16T01:03:00.000Z",
-      "summary": "宇树科技以610亿发行市值上市，人形机器人出货量仅五千余台，市场估值与实际出货量存在较大差距。",
+      "summary": "宇树科技以610亿市值上市，人形机器人出货量仅五千余台，市场估值与实际出货量存在较大差距。",
       "summaryZh": ""
     },
     {
-      "title": "直降6000元！机器人日租金“大跳水”！又一百亿赛道→",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WNUF0aWJJZTh5bUtYcjdCSmVlQ0EyVVM4RlFibWN2NGdWQkdhUnZHZHVTd2t3ZGV0cnFweDZYeFVRWS1vQTZUOTdrLWx3ejRNZGNQLUlldEEtcUhCOURhQk9La1Y4WFRwR2xISlFTbVo?oc=5",
-      "source": "央广网",
+      "title": "北京举办消费节促“机器人买卖”_中新社_北京分社",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PZHVtZVZCem1raWVNU2VxYk8yYkk4M2JTUndBYUg2V3lqQTl2SDQ0NFZhSk01QWZNcGswb2tqSlBwY0NtZ2pqNlM5aktWN295SlRNTDIyckNoYXJma1ZMVFhrOGxYVGZY?oc=5",
+      "source": "中国新闻网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-16T02:00:19.000Z",
-      "summary": "机器人日租金大幅下降，百亿市场迎来新机遇。",
+      "pubDate": "2026-08-16T01:08:00.000Z",
+      "summary": "北京消费节举办机器人产品展销。",
       "summaryZh": ""
     }
   ]
