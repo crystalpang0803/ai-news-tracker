@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generatedAt": "2026-08-16T21:38:58.556Z",
+  "generatedAt": "2026-08-16T22:58:19.651Z",
   "items": [
     {
       "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -9,18 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-16T09:27:00.000Z",
-      "summary": "英伟达缩减对OpenAI数据中心项目担保至1200亿美元，全国首个算力“Token贷”落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "全国首家 AI 家庭机器人旗舰店落地青岛，用户可现场试穿外骨骼机器人",
-      "link": "https://www.ithome.com/0/990/337.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-16T09:50:27.000Z",
-      "summary": "青岛首家AI家庭机器人旗舰店开业，提供外骨骼机器人试穿体验。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "机器人赛道进入洗牌期",
@@ -43,14 +32,13 @@
       "summaryZh": ""
     },
     {
-      "title": "陪跑6年 多轮加码宇树科技 他坦言王兴兴就是他们喜欢的技术男",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xT3c4d19mYS1rYk8tRGdicTRuMEVPY0p3N3hLckM1UDRSbGNXSUZUalJqd095bmpOdGcyWWFKYVpWeGtZWngtYmNYOWFDMHVkLTVXcw?oc=5",
-      "source": "第一财经",
+      "title": "北京又一机器人公司启动IPO！",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE44WkQtOFpPS29BWEFRVDRzdHdvdXpOcEo2dDQ2RVBxTEdESFZkN25tNWhWcGtfTTdOcTRiTGw2SVBIaS1MT1E?oc=5",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-15T22:44:16.000Z",
-      "summary": "祥峰投资创始管理合伙人郑俊聪表示，宇树科技创始人王兴兴是喜欢的技术男，其产品具有市场化能力。",
-      "summaryZh": ""
+      "pubDate": "2026-08-16T07:47:50.000Z",
+      "summary": ""
     },
     {
       "title": "PatX 知小寻测评：PatX知小寻AI原生专利智能体平台覆盖IP全流程服务- 36氪AI测评 - 2026年AI软件推荐与深度测评",
@@ -59,7 +47,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-16T07:47:43.000Z",
-      "summary": "PatX知小寻AI原生专利智能体平台覆盖专利全流程服务。",
+      "summary": "PatX知小寻AI原生专利智能体平台提供IP全流程服务。",
       "summaryZh": ""
     },
     {
@@ -79,7 +67,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-16T03:06:04.000Z",
-      "summary": "Kimi K3发布，模型之战转向用户复杂工作场景选择。",
+      "summary": "Kimi K3发布，模型之战转向用户选择和品牌认知。",
       "summaryZh": ""
     },
     {
@@ -89,7 +77,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-16T12:58:04.000Z",
-      "summary": "香港在AI贸易周期中发挥区域枢纽功能，推动产业链价值链重构。",
+      "summary": "香港在AI贸易周期中发挥区域枢纽功能，助力产业链价值链重构。",
+      "summaryZh": ""
+    },
+    {
+      "title": "[ 研报金选 行业丨从车规到AI算力！汽车龙头\"借船出海\"，卡位海外供应链抢占百亿增量蛋糕",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4b05qeUhySzltUktXMWtXNWpWVGNpTjh4WHJHYkhET05KakNOcXhrbXZhbjNsdFZjQWVHQi16bVdPWVFCYk1odHV4MW5mU0xab2wxdkl6QmQ?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-16T09:19:40.000Z",
+      "summary": "汽车龙头借AI算力拓展海外供应链，抢占百亿增量市场。",
       "summaryZh": ""
     },
     {
@@ -99,7 +97,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-16T03:02:20.000Z",
-      "summary": "日本团队开发新型AI芯片平台，提升集成密度与传输能力。",
+      "summary": "日本研发新型AI芯片平台，提升集成密度与散热性能。",
       "summaryZh": ""
     },
     {
@@ -120,7 +118,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-16T08:21:05.000Z",
-      "summary": "朗新科技发布半年报，核心业务高速发展，AI电力交易智能体落地应用。",
+      "summary": "朗新科技半年报显示核心业务高速发展，AI电力交易智能体落地应用。",
       "summaryZh": ""
     },
     {
@@ -134,16 +132,6 @@
       "summaryZh": ""
     },
     {
-      "title": "比亚迪全新海鸥内饰曝光：大尺寸中控屏 + 无线充电面板，95kW 电机 + 可选激光雷达",
-      "link": "https://www.ithome.com/0/990/392.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-16T14:14:40.000Z",
-      "summary": "比亚迪全新海鸥内饰采用大屏和无线充电，搭载95kW电机及可选激光雷达。",
-      "summaryZh": ""
-    },
-    {
       "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
       "link": "https://www.qbitai.com/2026/08/473972.html",
       "source": "量子位",
@@ -151,16 +139,6 @@
       "category": "ai",
       "pubDate": "2026-08-16T05:37:39.000Z",
       "summary": "WorkSwarm蜂群办公智能体升级，支持多平台，实现AI团队协作办公。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Pathway公司基于后Transformer的BDH架构开发AI模型，估值5亿美元完成3000万美元种子融资",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54cGJCMHdIdldYM05KU3BvcU9kUmVzRGlrU1BmSG1RRmN2S3JXaUl3dHVLLXB3LUFrcTRnSkxQRUFxUUFnVXZtblBKU0NDYVd4WTB3?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-16T05:41:35.000Z",
-      "summary": "Pathway公司开发后Transformer架构AI模型，获3000万美元种子融资。",
       "summaryZh": ""
     },
     {
@@ -186,42 +164,42 @@
       "titleZh": "机器人技术如何彻底改变中风康复"
     },
     {
-      "title": "锚定人形机器人新赛道 雷赛智能华南总部基地奠基",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jNGdUM3JaYTJWcGpHSmtERzRhN2NXendBYnp0TE4ycE5EVm1uZmVQR3VGb0YwQjVQNkZLaUlOS1p1ZjlCSGdHWGFnSHd3V3Z2TkxNYjRGOUZfSkxteFUtWW1Vc090SDFTR3ZSZ0FQb1M?oc=5",
-      "source": "科技日报",
+      "title": "宇树科技IPO：暗盘交易系捕风捉影，背后风险不容小觑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aSW1EUUdEMksyd3lJZC05alZLQi14VU0xQk9sVWpTRzFJMnJ2cURJS2FzMlZveHl0YTRxRy1QeVBMR1pIOVJHaXhGcjF5dHFySjJB?oc=5",
+      "source": "华尔街见闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-16T11:39:21.000Z",
+      "pubDate": "2026-08-16T06:31:18.000Z",
       "summary": ""
     },
     {
-      "title": "拓展AI教育新场景，全国首个具身智能人才培养与考试认证中心发布课程",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EallPd0ZiUk9YczdPZWRkcFJ5TGVQRllzSGlMWF9XUTlvMkhCcEp4VGNFbTJ4TWowMlpZSG1pVXE5dy1QaGx0ZXpfV0FMNmRQQ3FHb1JiN1phN2V6eTJyRll6UzZGbWNIMHBwNU9ybmN1QmtUQnJ5cA?oc=5",
-      "source": "新浪财经",
+      "title": "“十五五”时期 煤矿危险繁重岗位将由机器人替代",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wcWhHYTBiQzA4ZVRHeF9SMjdjbklrME5lTUpVdHdHTEF3cC1ockQwUmd1Zll0RmhPdVQtdmd4WjNudmVKdFNBYkFjakRQSDRha2JiTF83bzRaaWF6SWVTeWh3?oc=5",
+      "source": "中国经营网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-16T15:23:00.000Z",
-      "summary": "全国首个具身智能人才培养与考试认证中心发布AI教育课程。",
-      "summaryZh": ""
+      "pubDate": "2026-08-16T07:44:00.000Z",
+      "summary": ""
     },
     {
-      "title": "宇树的610亿发行市值，多少属于机器人，多少属于人形故事",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yUXdyRlJjRlQ1bHI4YTRJNjdiSW9IMHZ2V19objBjRkxka2JpNFhzMy1FNjZlX3VVWDdnMUdZck1tTk01czlTWXJqTGNjQTctRk5LNW1SUjFSbG10S0JYbFBvd2VleUFWMnBqMw?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
+      "title": "The TerraMow V1000 Shows Just How Far Robot Mowers Have Come",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10Q2dRYVZDMFZBZlE0Mi1oV0JvSFRMajQ4YXlIa1JnS2FSeHJIcWpoZ1NNako0YzBPWkgtVXVUNDBzX3pvYXo5eHVIOXNaZkxnMS1YYWtPbw?oc=5",
+      "source": "Wired",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-08-16T01:03:00.000Z",
-      "summary": "宇树科技以610亿市值上市，人形机器人出货量仅五千余台，市场估值与实际出货量存在较大差距。",
-      "summaryZh": ""
+      "pubDate": "2026-08-16T10:30:00.000Z",
+      "summary": "TerraMow V1000机器人割草机具备自动地图绘制、智能AI摄像头和障碍物避让功能，成为市场上表现优异的割草机之一。",
+      "summaryZh": "",
+      "titleZh": "TerraMow V1000 展示了机器人割草机的进步"
     },
     {
-      "title": "北京举办消费节促“机器人买卖”_中新社_北京分社",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PZHVtZVZCem1raWVNU2VxYk8yYkk4M2JTUndBYUg2V3lqQTl2SDQ0NFZhSk01QWZNcGswb2tqSlBwY0NtZ2pqNlM5aktWN295SlRNTDIyckNoYXJma1ZMVFhrOGxYVGZY?oc=5",
-      "source": "中国新闻网",
+      "title": "多机协同工况下重载 AGV 集群远程监控、预警及运维实施方案",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16cTNqakl4amE5a2VkQldPN1BoNzMwV0JjYmFta3o4UDdoZGdrdjN2VjQ0RDNzZ2FIMkNCelFrcmtMVnQ1dVZ3N00wMzJ5d0tya2lCOTlIZw?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-16T01:08:00.000Z",
-      "summary": "北京消费节举办机器人产品展销。",
+      "pubDate": "2026-08-16T06:20:17.000Z",
+      "summary": "重载AGV集群实现远程监控、预警及运维一体化解决方案。",
       "summaryZh": ""
     }
   ]
