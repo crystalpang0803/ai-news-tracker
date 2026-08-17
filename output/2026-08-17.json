@@ -1,26 +1,7 @@
 {
   "date": "2026-08-17",
-  "generatedAt": "2026-08-17T01:57:20.375Z",
+  "generatedAt": "2026-08-17T04:23:48.928Z",
   "items": [
-    {
-      "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ldktaa0xyQjdsWFlFYVBIZmVhOEg0eGxZWUxfUndvV2o0ZnRwLWZmckk4UEpTWk9GbXVQaGR1SlR3VjNpOW55dg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-16T09:27:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "全国首家AI家庭机器人体验中心落地青岛",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PckhsME5hdkYwTkE5SHJnLVBKRUxqckhhMmZWWXJLaGVTZUU1MFBtc3d0Y2ZBNWJkeEM4RGJVckJSWWx6LS14TlRMdlFTQ1pfdlhhdHJINWlpUQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-17T00:08:00.000Z",
-      "summary": "青岛启用全国首家AI家庭机器人体验中心。",
-      "summaryZh": ""
-    },
     {
       "title": "机器人赛道进入洗牌期",
       "link": "https://www.tmtpost.com/8104953.html",
@@ -28,105 +9,47 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-16T13:18:13.000Z",
-      "summary": "机器人产业规模增长，产业链企业业绩显著提升，行业进入洗牌期。",
+      "summary": "机器人产业规模扩大，产业链企业业绩增长，行业进入洗牌期。",
       "summaryZh": ""
     },
     {
-      "title": "贾跃亭：法拉第未来探索机器人独立融资及上市",
-      "link": "https://www.ithome.com/0/990/442.htm",
+      "title": "鸿蒙智行尊界 V800/V680 获批合肥市 L3 级自动驾驶测试牌照",
+      "link": "https://www.ithome.com/0/990/501.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-17T00:52:11.000Z",
-      "summary": "法拉第未来探索机器人独立融资及上市。",
+      "pubDate": "2026-08-17T02:26:04.000Z",
+      "summary": "鸿蒙智行尊界V800/V680获合肥市L3级自动驾驶测试牌照。",
       "summaryZh": ""
     },
     {
-      "title": "中信建投：国产模型快速迭代进步，持续关注国产大模型与算力产业链",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4teWpLc2N6LW5JMi1RcEJ6cmRqOS0zRHpoUkhwdkREbnlXakc3aHhsVlI4aFJITWpxMW9HOE5CdWhKc1ktR2NDS0dsN3JWUVhiQVV6QkxaSXBDZkVKRl9PcA?oc=5",
-      "source": "36氪",
+      "title": "星链之后，马斯克为什么又盯上了太空算力？",
+      "link": "https://www.tmtpost.com/8105159.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-17T01:05:11.000Z",
-      "summary": ""
+      "pubDate": "2026-08-16T13:18:17.000Z",
+      "summary": "SpaceX计划利用太空太阳能，为地球提供低成本、高性能AI计算。",
+      "summaryZh": ""
     },
     {
-      "title": "北京又一机器人公司启动IPO！",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE44WkQtOFpPS29BWEFRVDRzdHdvdXpOcEo2dDQ2RVBxTEdESFZkN25tNWhWcGtfTTdOcTRiTGw2SVBIaS1MT1E?oc=5",
+      "title": "471亿！全球最大的大模型中介，卖身了",
+      "link": "https://zhidx.com/p/585470.html",
       "source": "智东西",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-16T07:47:50.000Z",
-      "summary": "北京睿尔曼智能科技股份有限公司启动A股上市辅导。",
+      "category": "ai",
+      "pubDate": "2026-08-17T02:26:30.000Z",
+      "summary": "全球最大大模型中介OpenRouter以471亿人民币价格被Stripe收购。",
       "summaryZh": ""
     },
     {
-      "title": "AI融资需求不断攀升，Alphabet考虑首次发行澳元债券",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HblRaVUFBaXFzdkpMQXp5bnpYS2JyX0hYMEdIUF8zbEd4N0wzVG1qY3hfM3dtb18zTzF3XzBBN0VFc1gwMFlSUGpMY0N2N3FZY2lUX0tMYWg?oc=5",
-      "source": "36氪",
+      "title": "6740亿！曝OpenAI继续找钱，拉来英伟达担保贷款",
+      "link": "https://zhidx.com/p/585429.html",
+      "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-17T00:47:42.000Z",
-      "summary": ""
-    },
-    {
-      "title": "OpenAI基金会计划2026年前投资10亿美元发展人工智能事业",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rUFkzcUdUbEdPYlBleHo5aUUzdS16aERsNXdVbVd4a0RmMmJWVTlySWJVUDd3aGxfSVZTN2djdE1tbkVDZjNab2lFcWJrUHZkODE4?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-16T14:03:42.000Z",
-      "summary": "OpenAI基金会将投资10亿美元发展人工智能事业。",
-      "summaryZh": ""
-    },
-    {
-      "title": "新时空：港股通本周服务器产业链爆发领涨，大模型与半导体两极分化",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JUU9ybjV6VU5lUTF5RHJFX0RveGl4WEo1blpvU3Q4ZFgtVHBETmtUcEhGY0tiaXJLSVpCQ3RKdUdGcDdVWTctYXpINkROeGFZYmNwRU5R?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-16T06:57:13.000Z",
-      "summary": "港股通本周服务器产业链领涨，大模型与半导体板块分化明显。",
-      "summaryZh": ""
-    },
-    {
-      "title": "全国首个算力Token贷来了！Anthropic首次盈利！阿里、腾讯等接连加码资本开支！科创芯片ETF汇添富(588750)连续5日吸金超1.4亿元",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ReENldE5sallXNU9LNEtqY0cyQmZZbTdIX0hfU3VMUGRFakNVZkZDVHIxMGY1QWFXN01qc0JrbVlhdWctaXFBejZNSVhjamZkN2stTHpVRnA?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-17T01:44:55.000Z",
-      "summary": "全国首个算力Token贷发布，Anthropic首次盈利，AI算力需求持续，芯片ETF吸金超1.4亿。",
-      "summaryZh": ""
-    },
-    {
-      "title": "程实︱当算力流经香江：AI贸易周期中的香港角色︱实话世经",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yTUV0UzBENzMxakhURTdBeHYzb3JkckY0R01jUGRxUEtiRU04TEM3ZTFpYjNVTzJoN1pvX3JDN0Y0amRoSkhvY2tqWGhnT2hUbUUw?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-16T12:58:04.000Z",
-      "summary": "香港在AI贸易周期中发挥区域枢纽功能，助力产业链价值链重构。",
-      "summaryZh": ""
-    },
-    {
-      "title": "[ 研报金选 行业丨从车规到AI算力！汽车龙头\"借船出海\"，卡位海外供应链抢占百亿增量蛋糕",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4b05qeUhySzltUktXMWtXNWpWVGNpTjh4WHJHYkhET05KakNOcXhrbXZhbjNsdFZjQWVHQi16bVdPWVFCYk1odHV4MW5mU0xab2wxdkl6QmQ?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-16T09:19:40.000Z",
-      "summary": "汽车龙头借AI算力拓展海外供应链，抢占百亿增量市场。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Anthropic营收暴增13倍+实现盈利 AI大模型迈入\"赚钱\"阶段",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GVDRWNHhJaTdtME9kN3BNUGxaV1R5TGdwUUNkcTJvT0FfZTZXNW1lWnlNaFlGY0VWQmlaWW1BbjZIeVA3REE?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-16T08:38:00.000Z",
-      "summary": "Anthropic营收增长13倍，实现盈利，AI大模型迈入赚钱阶段。",
+      "pubDate": "2026-08-17T00:03:10.000Z",
+      "summary": "英伟达为OpenAI提供6740亿信贷担保，支持俄亥俄州数据中心租赁。",
       "summaryZh": ""
     },
     {
@@ -136,19 +59,9 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-16T14:56:40.000Z",
-      "summary": "ChatGPT的电脑历史记录追踪用户点击和按键。",
+      "summary": "ChatGPT的计算机历史记录追踪用户点击和按键。",
       "summaryZh": "",
       "titleZh": "ChatGPT 的计算机历史记录跟踪您的点击和击键"
-    },
-    {
-      "title": "弥合鸿沟 推动人工智能普惠包容发展（总书记的关切·落地的回响）",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wcGR0dlJjV0gwcG00VVFHY2taVXUtVHNkMm1jYk5aQmZzNTdYbi1xdkZpLVFiTnJUUTF2QXJKdER1OXVvem15b2tzblNncklqS21jdFlucHRCOHR3RjZXOHdpRWlIQ2dmbDJsQmlZVmpjbkhJeGhjeA?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-17T01:07:00.000Z",
-      "summary": "中国推动人工智能国际合作，助力全球南方国家弥合数智鸿沟。",
-      "summaryZh": ""
     },
     {
       "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
@@ -157,7 +70,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-16T05:37:39.000Z",
-      "summary": "WorkSwarm蜂群办公智能体升级，实现AI团队协作办公。",
+      "summary": "WorkSwarm蜂群办公智能体升级，实现AI协作办公新范式。",
       "summaryZh": ""
     },
     {
@@ -167,69 +80,20 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-16T12:30:18.000Z",
-      "summary": "机器人技术革新中风康复领域。",
+      "summary": "机器人技术革新中风康复治疗。",
       "summaryZh": "",
       "titleZh": "机器人技术如何彻底改变中风康复"
     },
     {
-      "title": "AI中国｜第一视角来“体验”！暑期非遗文旅亮点纷呈",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84THVOMnU3QTk1eG5ZTEdSeDA1QUtKbndHWW9pTEVCbFVqTUJLZVJuSVhJaE00aVBhb1BiNzBDY0JEMDI1VTFsQTJKWHJkMjJXSjFldjYwcXhrdjJUREYzbnpYVnVQbUNr?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-16T23:57:12.000Z",
-      "summary": "AI技术助力非遗文旅体验，暑期活动亮点纷呈。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI重构龙江文旅数智新生",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YV2tycWRvTjBTM09zME1PZlZFS3NJUmZGSmNqeUdiREhUZnQwWWtwcHpFbl9TMHpPa29pLS1oQ3R0bmFZUXgtY3lfQ3h1Yzh1VHE2bmt2SkdfemM4ZWlXNXE3b2tCeHoyb1NLS1JXMA?oc=5",
-      "source": "中国新闻网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-17T01:07:00.000Z",
-      "summary": "龙江文旅产业借助AI技术实现数智化转型，推动产业升级。",
-      "summaryZh": ""
-    },
-    {
-      "title": "“十五五”时期 煤矿危险繁重岗位将由机器人替代",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wcWhHYTBiQzA4ZVRHeF9SMjdjbklrME5lTUpVdHdHTEF3cC1ockQwUmd1Zll0RmhPdVQtdmd4WjNudmVKdFNBYkFjakRQSDRha2JiTF83bzRaaWF6SWVTeWh3?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-16T07:44:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "梅卡曼德机器人通过港交所聆讯",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96c2JxcnROY281R3BOU1ItOWVqbElhWGhlWjFDdzZEdjk3UVBqVDg5VVdIclBHb1Zxa25OOE5MSjFhdFdhRDlqYnZjaUw1VlNCX0RZa0lGVnNrbmYxVTRLNXVEbzg?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-16T11:56:00.000Z",
-      "summary": "梅卡曼德机器人通过港交所上市聆讯。",
-      "summaryZh": ""
-    },
-    {
-      "title": "The TerraMow V1000 Shows Just How Far Robot Mowers Have Come",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10Q2dRYVZDMFZBZlE0Mi1oV0JvSFRMajQ4YXlIa1JnS2FSeHJIcWpoZ1NNako0YzBPWkgtVXVUNDBzX3pvYXo5eHVIOXNaZkxnMS1YYWtPbw?oc=5",
-      "source": "Wired",
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "source": "The Verge",
       "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-16T10:30:00.000Z",
-      "summary": "TerraMow V1000机器人割草机具备自动地图绘制、智能AI摄像头等功能，成为市场上表现优异的割草机之一。",
+      "category": "ai",
+      "pubDate": "2026-08-16T21:32:56.000Z",
+      "summary": "OpenAI解散了其准备团队。",
       "summaryZh": "",
-      "titleZh": "TerraMow V1000 展示了机器人割草机的进步"
-    },
-    {
-      "title": "多机协同工况下重载 AGV 集群远程监控、预警及运维实施方案",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16cTNqakl4amE5a2VkQldPN1BoNzMwV0JjYmFta3o4UDdoZGdrdjN2VjQ0RDNzZ2FIMkNCelFrcmtMVnQ1dVZ3N00wMzJ5d0tya2lCOTlIZw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-16T06:20:17.000Z",
-      "summary": "重载AGV集群实现远程监控、预警及运维一体化解决方案。",
-      "summaryZh": ""
+      "titleZh": "据报道 OpenAI 解散了其准备团队"
     }
   ]
 }
