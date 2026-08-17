@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generatedAt": "2026-08-17T18:53:36.834Z",
+  "generatedAt": "2026-08-17T19:57:48.787Z",
   "items": [
     {
       "title": "撕开清洁机器人新蓝海！38厘米机身普渡ET1 交出具身智能商用新答卷",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-17T11:10:41.000Z",
-      "summary": "普渡ET1清洁机器人以38厘米机身，解决商用清洁难题，引领行业新趋势。",
+      "summary": "普渡ET1机器人以38厘米机身，解决商用清洁难题，引领行业新趋势。",
       "summaryZh": ""
     },
     {
@@ -29,17 +29,36 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-17T15:19:11.000Z",
-      "summary": "Uber与Zipline合作，年内将在美国推出无人机外卖服务。",
+      "summary": "Uber与Zipline合作，计划在美国推出无人机外卖服务。",
       "summaryZh": ""
     },
     {
       "title": "全国首家AI家庭机器人体验中心落地青岛",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LMUVqYTZGam85WVZkQk1tcUdVQTdNVGtPcldYRUdySGJZZGpxVW16VF9EZDZ5bHZubk9mMl9mXzRtbzJhZEl5RTlTUTl0emtEbjhuNEhYdUY?oc=5",
-      "source": "界面新闻",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CZlVhWnFpUWlxX2NhMlBuT3g3VkZhRUwyVm1yQzA5Z3NTUG5STFRDQ2NqTEg0OTZIZ3R4ano1Y3VfX0JEYlNsbQ?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-17T00:08:35.000Z",
-      "summary": "青岛启用全国首家AI家庭机器人体验中心。",
+      "pubDate": "2026-08-17T00:05:05.000Z",
+      "summary": ""
+    },
+    {
+      "title": "左手推Harness，右手涨价：DeepSeek为何把开发者往外推？",
+      "link": "https://www.tmtpost.com/8105986.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-17T11:04:45.000Z",
+      "summary": "DeepSeek调整价格策略，大幅提升模型使用费用，引发开发者关注。",
+      "summaryZh": ""
+    },
+    {
+      "title": "广州拟立法促进人工智能发展：建设统一算力调度平台和应用赋能中心",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KU3cxeV8tYXh1VlVqUUZ0cjdqbXVrWnFMV1BLYk5FemJFaTlqOU5Xcms2ZFgwYXk1Tk0yZlNaN25JOTdVX3JnYkQyQkJtYlIzY1NEcU9JVzA?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-17T05:27:53.000Z",
+      "summary": "广州拟建统一算力调度平台，推动人工智能发展。",
       "summaryZh": ""
     },
     {
@@ -50,16 +69,6 @@
       "category": "ai",
       "pubDate": "2026-08-17T13:16:03.000Z",
       "summary": "OpenAI将部署英伟达AI基础设施，参与俄亥俄州AI数据中心项目。",
-      "summaryZh": ""
-    },
-    {
-      "title": "物理AI的操作系统战争——谁在定义机器人的小脑？",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KRmhYNGQtaVdrRjVTSFFWQXNvQlpvTWN5SXpfUGN2X0VxZXRfT3ZDN2lrLW1jQ0p3d2pvTDIxX3NBX3NHVjNMa3VhQXo?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-17T05:25:00.000Z",
-      "summary": "物理AI操作系统成为机器人发展瓶颈，产业寻求统一架构与标准。",
       "summaryZh": ""
     },
     {
@@ -79,7 +88,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-17T12:30:31.000Z",
-      "summary": "中美AI竞争路线分化，中国开源领先，美国闭源为主。",
+      "summary": "中美AI竞争，中国开源领先，美国闭源专注，话语权与用户数量相关。",
       "summaryZh": ""
     },
     {
@@ -93,43 +102,32 @@
       "summaryZh": ""
     },
     {
-      "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hNjkybFp0N1k1T2dEaW9peFFFZG1NMGR6dGx2eEVFVkx2TkxOb29Od2J2VjQyeldod3V3NWtvb0NLdERIZG1Uag?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-17T00:58:30.000Z",
-      "summary": "AI算力投资推高全球借贷成本，引发市场风险担忧。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国产算力迎扩张浪潮：大厂“超预期”加码投资 产业链多环节开启扩产",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2b3IxVUdjekVGdExyMWRGdzg5S0VSOWVFaGVwT0xuT1o3Q29iVnRKYm5OdzJNTXNOTU85Ym9ybXdQUHk3elpvOQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-17T05:14:55.000Z",
-      "summary": "国产算力产业链投资热潮兴起，大厂加码投资，多环节扩产。",
-      "summaryZh": ""
-    },
-    {
       "title": "雄安机器人公司赴港IPO，去年营收3.89亿",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51dFg3cmJfVDNkcHF6LXRuT1NpYkh2YldQUnZPMnNXb3dXbUY0cWZmc3ltMTd2MmZ4XzdjQjJ3ZTA0Y3VlTnc?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-17T03:18:19.000Z",
-      "summary": "雄安机器人公司去年营收3.89亿，拟赴港IPO。",
+      "summary": "雄安机器人公司梅卡曼德去年营收3.89亿，拟赴港IPO。",
       "summaryZh": ""
     },
     {
+      "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hNjkybFp0N1k1T2dEaW9peFFFZG1NMGR6dGx2eEVFVkx2TkxOb29Od2J2VjQyeldod3V3NWtvb0NLdERIZG1Uag?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-17T00:58:30.000Z",
+      "summary": ""
+    },
+    {
       "title": "AI产业融资迎来新解法？多家银行落地算力贷，信贷评估锚点悄然生变",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HNXFIc194b0hpbU9BRk1lR000VGhqUDZrcnc1MVN0QU13U0VTT215MWJkV3hlTmhIZFpDQXZidGJENEZ6ZHhVbGpVWVNYTjFzNV9pb3VaTnN0MW43RmJIZWhNWDFsdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kajQ0ZVkyTE80LV9Lc3hOdHczblc4U1JCNWdoZGUxSU15VjBRUWR4MS1UOS1LU3REWWs0NXkzVnM5eHBoZE0zMTR0U19oMk9oSFhNMG9JU1p2ckg1LUpaOEE5a1Q?oc=5",
       "source": "每日经济新闻",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-17T18:13:00.000Z",
-      "summary": "多家银行推出算力贷，以算力数据评估企业信贷，信贷评估锚点转变。",
+      "summary": "多家银行推出算力贷，以算力数据评估企业信贷，为AI产业融资提供新途径。",
       "summaryZh": ""
     },
     {
@@ -141,16 +139,7 @@
       "pubDate": "2026-08-17T14:37:08.000Z",
       "summary": "xpander推出企业AI代理平台，旨在解决AI代理治理难题。",
       "summaryZh": "",
-      "titleZh": "随着企业面临人工智能代理的蔓延，xpander 希望他们拥有自己的控制和上下文层"
-    },
-    {
-      "title": "英伟达掷15亿美元入股SB Energy ，锁定8GW AI算力，OpenAI将成为唯一租户",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tdTE3MkdxdDY1cjh5WnpWR09jaTNZX19OUmdYWGNLMGd3bjZKX0EzLU1YbzN6amNWOWtYbFk0S2VzcTFBWUt2aXFKN1NNc3hPSU4w?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-17T13:48:50.000Z",
-      "summary": ""
+      "titleZh": "当企业面临人工智能代理蔓延时，xpander 希望他们拥有自己的控制和上下文层"
     },
     {
       "title": "英伟达联手OpenAI锁定12吉瓦算力基建，黄仁勋：即便OpenAI不续租，还可以给其他客户",
@@ -169,7 +158,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-17T01:56:57.000Z",
-      "summary": ""
+      "summary": "南疆首个矿产垂直大模型“葱岭·智寻”在喀什上线。",
+      "summaryZh": ""
     },
     {
       "title": "3.5 亿美元大单落地，矿企转型 AI 算力新标杆",
@@ -182,24 +172,34 @@
       "summaryZh": ""
     },
     {
+      "title": "1小时202杯 七鲜咖啡成功挑战吉尼斯世界记录 首家24小时无人店落地北京",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PNTBsNUNKbE1EU3FjeDV1eVI0YXdfV0lxY0NnVllwTFJtWWd5U3B4Qk9xWU83QWdtY0lsWjZRMmZYNjd2dXlNOF8wRU1Nakh3LXFZd25HLXAxam8waTZwdU9WTm9lZGs5VnpN?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-08-17T10:11:35.000Z",
+      "summary": "七鲜咖啡1小时售出202杯咖啡，成功挑战吉尼斯世界记录，首家24小时无人店在北京开业。",
+      "summaryZh": ""
+    },
+    {
       "title": "Gravis Robotics raises $200M for autonomous construction",
       "link": "https://www.therobotreport.com/gravis-robotics-raises-200m-autonomous-construction/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-17T13:00:16.000Z",
-      "summary": "Gravis Robotics获2亿美元投资，推动自主建筑机器人发展。",
+      "summary": "Gravis Robotics获得2亿美元投资，用于自主建筑机器人研发。",
       "summaryZh": "",
       "titleZh": "Gravis Robotics 融资 2 亿美元用于自主建造"
     },
     {
-      "title": "搬运50公斤重物 香港科企发布“生产力工具型”人形机器人",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaHlhS0w4ZVNiYmdHV3llekZaS01TaGYtMTE5OGNZTDVmdUpNWU5nbU1ZQ0lreEtkczN3TF83QmxZWmpJSkVQNXhoOVQ1TmM5UEF4UlVFNFRnQUVKX21tSlFteFZPb1hZTUtSVDg4MjRidmI4d1JkZjJFQi1qS0Jkb2MwOEI4NUE?oc=5",
-      "source": "新华网科技",
+      "title": "人形机器人：从\"展会样机\"到\"交付元年\"",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5McjZfd3dSbEdKZEhPOXZFV2ZLLXEwSURXS3BpN3BINFpha0pxY1pkc01OZzUxdlBrUm5iSGlQQ3ExOW5xamtpNFBrT0ZvY1V6Tm94SkJMSQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-17T14:14:38.000Z",
-      "summary": "香港科企发布可搬运50公斤重物的“生产力工具型”人形机器人。",
+      "pubDate": "2026-08-17T14:38:18.000Z",
+      "summary": "人形机器人产业迈入交付元年，出货量激增，中国厂商占据主导。",
       "summaryZh": ""
     },
     {
@@ -209,7 +209,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-17T01:01:58.000Z",
-      "summary": "英飞凌推出工业机器人电路解决方案，涵盖功率半导体、MCU和传感器。",
+      "summary": "英飞凌推出工业机器人电路方案，提供精准、高效运行保障。",
       "summaryZh": ""
     },
     {
@@ -229,7 +229,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-17T13:13:00.000Z",
-      "summary": "暑期非遗文旅体验活动热度攀升，多地非遗项目吸引游客。",
+      "summary": "暑期非遗文旅活动丰富，AI技术助力非遗体验。",
       "summaryZh": ""
     },
     {
@@ -267,7 +267,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-17T02:41:00.000Z",
-      "summary": "东城区建成养老机构智慧安全监管平台，实现全天候AI监控和智能分析。",
+      "summary": "东城区建成养老机构智慧安全监管平台，实现全天候AI监控。",
       "summaryZh": ""
     }
   ]
