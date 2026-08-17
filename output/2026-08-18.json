@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generatedAt": "2026-08-17T21:44:55.907Z",
+  "generatedAt": "2026-08-17T23:00:56.764Z",
   "items": [
     {
       "title": "撕开清洁机器人新蓝海！38厘米机身普渡ET1 交出具身智能商用新答卷",
@@ -10,6 +10,16 @@
       "category": "robotics",
       "pubDate": "2026-08-17T11:10:41.000Z",
       "summary": "普渡ET1小型商用清洁机器人推出，解决狭小空间清洁难题。",
+      "summaryZh": ""
+    },
+    {
+      "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+      "link": "https://www.qbitai.com/2026/08/474537.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-17T09:30:49.000Z",
+      "summary": "共生知行发布人形机器人卡丁车Demo，测试全身智能。",
       "summaryZh": ""
     },
     {
@@ -23,13 +33,22 @@
       "summaryZh": ""
     },
     {
-      "title": "能举起 50 公斤重杠铃，九光技术发布小睿 G3 人形机器人",
-      "link": "https://www.ithome.com/0/990/853.htm",
-      "source": "IT之家",
+      "title": "全国首家AI家庭机器人体验中心落地青岛",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CZlVhWnFpUWlxX2NhMlBuT3g3VkZhRUwyVm1yQzA5Z3NTUG5STFRDQ2NqTEg0OTZIZ3R4ano1Y3VfX0JEYlNsbQ?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-17T15:29:57.000Z",
-      "summary": "九光技术发布小睿 G3 人形机器人，能举重 50 公斤。",
+      "pubDate": "2026-08-17T00:05:05.000Z",
+      "summary": ""
+    },
+    {
+      "title": "左手推Harness，右手涨价：DeepSeek为何把开发者往外推？",
+      "link": "https://www.tmtpost.com/8105986.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-17T11:04:45.000Z",
+      "summary": "DeepSeek调整价格策略，大幅提升模型调用费用，引发开发者关注。",
       "summaryZh": ""
     },
     {
@@ -39,27 +58,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-17T05:27:53.000Z",
-      "summary": "广州拟建统一算力调度平台，推动人工智能发展。",
+      "summary": "广州拟立法推动建设统一算力调度平台和应用赋能中心，促进人工智能发展。",
       "summaryZh": ""
     },
     {
-      "title": "物理AI的操作系统战争——谁在定义机器人的小脑？",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KRmhYNGQtaVdrRjVTSFFWQXNvQlpvTWN5SXpfUGN2X0VxZXRfT3ZDN2lrLW1jQ0p3d2pvTDIxX3NBX3NHVjNMa3VhQXo?oc=5",
-      "source": "钛媒体",
+      "title": "OpenAI承诺大规模部署英伟达AI基础设施，参与俄亥俄州AI数据中心项目",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOcUJGYnVUZGo1RXk2RnNPUzBEVDFLSHZLdDhjTV9oVEktRUl0bnpVeVBieFdLSERDeE5hUjdNUTUtZEpiNFlLZ0pvSEM5UkNmNDE3Z2tpa1o?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-17T05:25:00.000Z",
-      "summary": "物理AI操作系统成为机器人发展瓶颈，产业寻求统一架构与标准。",
-      "summaryZh": ""
-    },
-    {
-      "title": "雄安机器人公司赴港IPO，去年营收3.89亿",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51dFg3cmJfVDNkcHF6LXRuT1NpYkh2YldQUnZPMnNXb3dXbUY0cWZmc3ltMTd2MmZ4XzdjQjJ3ZTA0Y3VlTnc?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-17T03:18:19.000Z",
-      "summary": "雄安机器人公司去年营收3.89亿，计划赴港IPO。",
+      "category": "ai",
+      "pubDate": "2026-08-17T13:16:03.000Z",
+      "summary": "OpenAI将部署英伟达AI基础设施，参与俄亥俄州AI数据中心项目。",
       "summaryZh": ""
     },
     {
@@ -93,13 +102,24 @@
       "summaryZh": ""
     },
     {
+      "title": "雄安机器人公司赴港IPO，去年营收3.89亿",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51dFg3cmJfVDNkcHF6LXRuT1NpYkh2YldQUnZPMnNXb3dXbUY0cWZmc3ltMTd2MmZ4XzdjQjJ3ZTA0Y3VlTnc?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-17T03:18:19.000Z",
+      "summary": "雄安机器人公司梅卡曼德去年营收3.89亿，拟赴港IPO。",
+      "summaryZh": ""
+    },
+    {
       "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hNjkybFp0N1k1T2dEaW9peFFFZG1NMGR6dGx2eEVFVkx2TkxOb29Od2J2VjQyeldod3V3NWtvb0NLdERIZG1Uag?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-17T00:58:30.000Z",
-      "summary": ""
+      "summary": "AI算力盛宴推高全球借贷成本，引发市场风险担忧。",
+      "summaryZh": ""
     },
     {
       "title": "AI产业融资迎来新解法？多家银行落地算力贷，信贷评估锚点悄然生变",
@@ -108,7 +128,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-17T18:13:00.000Z",
-      "summary": "多家银行推出算力贷，以算力数据评估企业信贷，信贷评估锚点转变。",
+      "summary": "多家银行推出算力贷，以算力数据评估AI企业信贷。",
       "summaryZh": ""
     },
     {
@@ -139,7 +159,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-17T01:56:57.000Z",
-      "summary": "南疆首个矿产垂直大模型“葱岭·智寻”在喀什上线，填补行业空白。",
+      "summary": "南疆首个矿产垂直大模型“葱岭·智寻”在喀什上线。",
       "summaryZh": ""
     },
     {
@@ -153,66 +173,55 @@
       "summaryZh": ""
     },
     {
-      "title": "AI大模型量价齐升商业化落地，云计算ETF易方达涨1.01%",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sN1FaSEdWdHl6LTZoeVdkdHdEUzFNNEQ2bENLNXk1dDhoM016ZGZpX0dxOUdaRHJxcjl2Q0lTR0lERjdKMnh2MUVwZGM5V3ZFNk1kRElySDQ0SFp2dkE?oc=5",
-      "source": "同花顺财经",
+      "title": "238.5% 净利增幅亮眼，卡奥斯完成 AI 转型，工业互联网规模化落地破局",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IMEM0d1B6d0dWQkVaTldnUEVaN3JUcGotVzctcjZlYXE3akJGX3pxa3R6dzNPX2tiRFU4RzFsXzc5aExUVzBScTJ2bm9Qek1m?oc=5",
+      "source": "凤凰财经",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-17T06:50:00.000Z",
-      "summary": "截至8月17日14点50分，上证指数涨1.37%，深证成指涨2.34%，创业板指涨3.02%。"
+      "category": "application",
+      "pubDate": "2026-08-17T03:21:16.000Z",
+      "summary": "卡奥斯完成AI转型，工业互联网规模化落地，净利润同比增长238.5%。",
+      "summaryZh": ""
     },
     {
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-17T21:27:05.000Z",
-      "summary": "AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队。",
-      "summaryZh": "",
-      "titleZh": "AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队"
-    },
-    {
-      "title": "What happens when a kid’s robot best friend dies?",
-      "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-17T09:00:00.000Z",
-      "summary": "儿童机器人朋友Moxie陪伴10岁神经多样性儿童Xander成长，从呼吸练习到游戏互动，成为其重要的社交伙伴。",
-      "summaryZh": "",
-      "titleZh": "当孩子的机器人最好的朋友去世时会发生什么？"
-    },
-    {
-      "title": "Surgeons use da Vinci surgical robot to perform common cardiac surgery",
-      "link": "https://www.therobotreport.com/surgeons-use-da-vinci-surgical-robot-perform-common-cardiac-surgery/",
+      "title": "Five years of operation shape Diligent Robotics rollout of Moxi 2.0",
+      "link": "https://www.therobotreport.com/five-years-operation-shape-diligent-robotics-rollout-moxi-2-0/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-08-17T20:56:21.000Z",
-      "summary": "医生使用达芬奇手术机器人进行常见心脏手术。",
+      "pubDate": "2026-08-17T21:15:46.000Z",
+      "summary": "Diligent Robotics推出Moxi 2.0，基于五年医院运营经验。",
       "summaryZh": "",
-      "titleZh": "外科医生使用达芬奇手术机器人进行常见的心脏手术"
+      "titleZh": "五年运营，勤勤机器人推出魔希2.0"
     },
     {
-      "title": "How Generalist uses human demonstration data for robot learning",
-      "link": "https://www.therobotreport.com/how-generalist-uses-human-demonstration-data-robot-learning/",
+      "title": "Gravis Robotics raises $200M for autonomous construction",
+      "link": "https://www.therobotreport.com/gravis-robotics-raises-200m-autonomous-construction/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-08-17T19:32:31.000Z",
-      "summary": "通用机器人公司利用人类演示数据训练机器人。",
+      "pubDate": "2026-08-17T13:00:16.000Z",
+      "summary": "Gravis Robotics获2亿美元投资，用于自主建筑机器人研发。",
       "summaryZh": "",
-      "titleZh": "Generalist 如何使用人类演示数据进行机器人学习"
+      "titleZh": "Gravis Robotics 融资 2 亿美元用于自主建造"
     },
     {
-      "title": "十分钟读论文 | 机器人如何“想象未来“：隐空间世界动作模型 LaWAM 深度解析",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYdnFlVmJhb0lFdC1TbTNvMHNXeE9ERG9KMk1xOUpfd2xQM2ZrSlQ4VldEdmJnNWZKNDIyN2ZLMUtlR1ZlNDlmU1ctM0F5RFJpZC0wTWU5Yw?oc=5",
+      "title": "人形机器人：从\"展会样机\"到\"交付元年\"",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5McjZfd3dSbEdKZEhPOXZFV2ZLLXEwSURXS3BpN3BINFpha0pxY1pkc01OZzUxdlBrUm5iSGlQQ3ExOW5xamtpNFBrT0ZvY1V6Tm94SkJMSQ?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-17T05:18:23.000Z",
-      "summary": "LaWAM模型通过将未来预测嵌入视觉隐空间，实现机器人动作预测的快速与准确。",
+      "pubDate": "2026-08-17T14:38:18.000Z",
+      "summary": "人形机器人产业迈入交付元年，出货量激增，中国厂商占据主导。",
+      "summaryZh": ""
+    },
+    {
+      "title": "英飞凌工业机器人解决方案_电路方案",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGZDd3TkRuZjJxUnNQTHczYUt6Qnc3ZFdMdG5famg3a244TUJ5dHhrSmgtcFpCbThza3puMDc3QkVfRWg2SzVfV2ZRU2hWZE1oRTBoYmlYcw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-17T01:01:58.000Z",
+      "summary": "英飞凌推出工业机器人电路方案，提供精准电机控制和先进连接方案。",
       "summaryZh": ""
     },
     {
@@ -222,7 +231,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-17T13:13:00.000Z",
-      "summary": "暑期非遗文旅活动丰富，AI技术助力体验式旅游兴起。",
+      "summary": "暑期非遗文旅体验活动热度上升，多地非遗项目吸引游客。",
       "summaryZh": ""
     },
     {
@@ -241,7 +250,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-17T01:07:00.000Z",
-      "summary": "龙江文旅产业借助AI技术实现数智化转型。",
+      "summary": "龙江文旅产业借助AI技术实现数智化转型，推动产业升级。",
       "summaryZh": ""
     },
     {
