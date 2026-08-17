@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generatedAt": "2026-08-16T22:58:19.651Z",
+  "generatedAt": "2026-08-17T01:57:20.375Z",
   "items": [
     {
       "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -10,6 +10,16 @@
       "category": "ai",
       "pubDate": "2026-08-16T09:27:00.000Z",
       "summary": ""
+    },
+    {
+      "title": "全国首家AI家庭机器人体验中心落地青岛",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PckhsME5hdkYwTkE5SHJnLVBKRUxqckhhMmZWWXJLaGVTZUU1MFBtc3d0Y2ZBNWJkeEM4RGJVckJSWWx6LS14TlRMdlFTQ1pfdlhhdHJINWlpUQ?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-17T00:08:00.000Z",
+      "summary": "青岛启用全国首家AI家庭机器人体验中心。",
+      "summaryZh": ""
     },
     {
       "title": "机器人赛道进入洗牌期",
@@ -22,14 +32,23 @@
       "summaryZh": ""
     },
     {
-      "title": "0.019%！高凯技术中签率出炉，打新难度直追宇树科技",
-      "link": "https://www.tmtpost.com/8105063.html",
-      "source": "钛媒体",
+      "title": "贾跃亭：法拉第未来探索机器人独立融资及上市",
+      "link": "https://www.ithome.com/0/990/442.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-16T01:26:49.000Z",
-      "summary": "高凯技术中签率0.019%，打新难度与宇树科技相当。",
+      "pubDate": "2026-08-17T00:52:11.000Z",
+      "summary": "法拉第未来探索机器人独立融资及上市。",
       "summaryZh": ""
+    },
+    {
+      "title": "中信建投：国产模型快速迭代进步，持续关注国产大模型与算力产业链",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4teWpLc2N6LW5JMi1RcEJ6cmRqOS0zRHpoUkhwdkREbnlXakc3aHhsVlI4aFJITWpxMW9HOE5CdWhKc1ktR2NDS0dsN3JWUVhiQVV6QkxaSXBDZkVKRl9PcA?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-17T01:05:11.000Z",
+      "summary": ""
     },
     {
       "title": "北京又一机器人公司启动IPO！",
@@ -38,16 +57,26 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-16T07:47:50.000Z",
-      "summary": ""
+      "summary": "北京睿尔曼智能科技股份有限公司启动A股上市辅导。",
+      "summaryZh": ""
     },
     {
-      "title": "PatX 知小寻测评：PatX知小寻AI原生专利智能体平台覆盖IP全流程服务- 36氪AI测评 - 2026年AI软件推荐与深度测评",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOYjlGYUxCVDgwWmNGd2VtckxKWjMyemk1UFJqd0JURkd2N1RtTGNLM1hCRDU3S3lTR1R4UldlZVRsRE4xZmxKM0pjVjZlTEJjUkxxdw?oc=5",
+      "title": "AI融资需求不断攀升，Alphabet考虑首次发行澳元债券",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HblRaVUFBaXFzdkpMQXp5bnpYS2JyX0hYMEdIUF8zbEd4N0wzVG1qY3hfM3dtb18zTzF3XzBBN0VFc1gwMFlSUGpMY0N2N3FZY2lUX0tMYWg?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-16T07:47:43.000Z",
-      "summary": "PatX知小寻AI原生专利智能体平台提供IP全流程服务。",
+      "pubDate": "2026-08-17T00:47:42.000Z",
+      "summary": ""
+    },
+    {
+      "title": "OpenAI基金会计划2026年前投资10亿美元发展人工智能事业",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rUFkzcUdUbEdPYlBleHo5aUUzdS16aERsNXdVbVd4a0RmMmJWVTlySWJVUDd3aGxfSVZTN2djdE1tbkVDZjNab2lFcWJrUHZkODE4?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-16T14:03:42.000Z",
+      "summary": "OpenAI基金会将投资10亿美元发展人工智能事业。",
       "summaryZh": ""
     },
     {
@@ -61,13 +90,13 @@
       "summaryZh": ""
     },
     {
-      "title": "Kimi走到上市窗口，模型之战正在换战场",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04RTl3eHFjVkJCMVJhd0lCOEtJWENEQmowU1ZHU1ZoMDZsblRrR2wxNUN4WU9YQWFmVTJlVnBhaHNudWpfWlREUzhPRWw3cTZlUlpBUG5ERXM?oc=5",
+      "title": "全国首个算力Token贷来了！Anthropic首次盈利！阿里、腾讯等接连加码资本开支！科创芯片ETF汇添富(588750)连续5日吸金超1.4亿元",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ReENldE5sallXNU9LNEtqY0cyQmZZbTdIX0hfU3VMUGRFakNVZkZDVHIxMGY1QWFXN01qc0JrbVlhdWctaXFBejZNSVhjamZkN2stTHpVRnA?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-16T03:06:04.000Z",
-      "summary": "Kimi K3发布，模型之战转向用户选择和品牌认知。",
+      "pubDate": "2026-08-17T01:44:55.000Z",
+      "summary": "全国首个算力Token贷发布，Anthropic首次盈利，AI算力需求持续，芯片ETF吸金超1.4亿。",
       "summaryZh": ""
     },
     {
@@ -91,13 +120,13 @@
       "summaryZh": ""
     },
     {
-      "title": "新平台让AI芯片更紧凑、高速且节能",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SNHJEOEx2aUU1azdPMXZvUHZ4amg2dmFQMlpXVmZMTGp6Zkhob3RQbzRKUEg0UVRmWGM4YmlhNUdWX2MxeVdxbQ?oc=5",
+      "title": "Anthropic营收暴增13倍+实现盈利 AI大模型迈入\"赚钱\"阶段",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GVDRWNHhJaTdtME9kN3BNUGxaV1R5TGdwUUNkcTJvT0FfZTZXNW1lWnlNaFlGY0VWQmlaWW1BbjZIeVA3REE?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-16T03:02:20.000Z",
-      "summary": "日本研发新型AI芯片平台，提升集成密度与散热性能。",
+      "pubDate": "2026-08-16T08:38:00.000Z",
+      "summary": "Anthropic营收增长13倍，实现盈利，AI大模型迈入赚钱阶段。",
       "summaryZh": ""
     },
     {
@@ -107,28 +136,18 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-16T14:56:40.000Z",
-      "summary": "ChatGPT的电脑历史追踪用户点击和按键记录。",
+      "summary": "ChatGPT的电脑历史记录追踪用户点击和按键。",
       "summaryZh": "",
       "titleZh": "ChatGPT 的计算机历史记录跟踪您的点击和击键"
     },
     {
-      "title": "朗新科技(300682.SZ)半年报发布：核心业务保持高速发展，AI电力交易智能体实现落地应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11Q0tmX0VzVnV6WDhLYjczV1VFWmN6WjROMkZLUEY1akR4RDJJbmVuYl9nMUlhT3ViYUE0RlhTSjBpZnV2SlBuWURjeGMzbkIyX1NzR3IyTmhFbUxnMU1KY3Nza3pVWTZ6cjBfT21ERQ?oc=5",
-      "source": "金融界",
+      "title": "弥合鸿沟 推动人工智能普惠包容发展（总书记的关切·落地的回响）",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wcGR0dlJjV0gwcG00VVFHY2taVXUtVHNkMm1jYk5aQmZzNTdYbi1xdkZpLVFiTnJUUTF2QXJKdER1OXVvem15b2tzblNncklqS21jdFlucHRCOHR3RjZXOHdpRWlIQ2dmbDJsQmlZVmpjbkhJeGhjeA?oc=5",
+      "source": "新浪财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-16T08:21:05.000Z",
-      "summary": "朗新科技半年报显示核心业务高速发展，AI电力交易智能体落地应用。",
-      "summaryZh": ""
-    },
-    {
-      "title": "1小时 202 杯！七鲜咖啡成功挑战吉尼斯世界纪录，首家24小时无人店落地北京",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUUkp2bGxvbl9HeWpiM3VYM1ZwWkZUdzVKb1lWdnNMZkVNZXpMM1puaTZaS25FUjZkVVNkMzY4X0xRYnVZRHJrWFpFcHh2NWpldFMzMUlZSS0teFJ5elJXS2hWbE0yZw?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-16T12:53:10.000Z",
-      "summary": "七鲜咖啡北京店创吉尼斯世界纪录，24小时无人店正式开业。",
+      "pubDate": "2026-08-17T01:07:00.000Z",
+      "summary": "中国推动人工智能国际合作，助力全球南方国家弥合数智鸿沟。",
       "summaryZh": ""
     },
     {
@@ -138,19 +157,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-16T05:37:39.000Z",
-      "summary": "WorkSwarm蜂群办公智能体升级，支持多平台，实现AI团队协作办公。",
+      "summary": "WorkSwarm蜂群办公智能体升级，实现AI团队协作办公。",
       "summaryZh": ""
-    },
-    {
-      "title": "OpenAI reportedly disbanded its preparedness team",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-08-16T21:32:56.000Z",
-      "summary": "OpenAI解散了其准备团队。",
-      "summaryZh": "",
-      "titleZh": "据报道 OpenAI 解散了其准备团队"
     },
     {
       "title": "How robotics is revolutionizing stroke rehabilitation",
@@ -159,18 +167,29 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-16T12:30:18.000Z",
-      "summary": "机器人技术革新中风康复治疗。",
+      "summary": "机器人技术革新中风康复领域。",
       "summaryZh": "",
       "titleZh": "机器人技术如何彻底改变中风康复"
     },
     {
-      "title": "宇树科技IPO：暗盘交易系捕风捉影，背后风险不容小觑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aSW1EUUdEMksyd3lJZC05alZLQi14VU0xQk9sVWpTRzFJMnJ2cURJS2FzMlZveHl0YTRxRy1QeVBMR1pIOVJHaXhGcjF5dHFySjJB?oc=5",
-      "source": "华尔街见闻",
+      "title": "AI中国｜第一视角来“体验”！暑期非遗文旅亮点纷呈",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84THVOMnU3QTk1eG5ZTEdSeDA1QUtKbndHWW9pTEVCbFVqTUJLZVJuSVhJaE00aVBhb1BiNzBDY0JEMDI1VTFsQTJKWHJkMjJXSjFldjYwcXhrdjJUREYzbnpYVnVQbUNr?oc=5",
+      "source": "央广网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-16T06:31:18.000Z",
-      "summary": ""
+      "category": "application",
+      "pubDate": "2026-08-16T23:57:12.000Z",
+      "summary": "AI技术助力非遗文旅体验，暑期活动亮点纷呈。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI重构龙江文旅数智新生",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YV2tycWRvTjBTM09zME1PZlZFS3NJUmZGSmNqeUdiREhUZnQwWWtwcHpFbl9TMHpPa29pLS1oQ3R0bmFZUXgtY3lfQ3h1Yzh1VHE2bmt2SkdfemM4ZWlXNXE3b2tCeHoyb1NLS1JXMA?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-08-17T01:07:00.000Z",
+      "summary": "龙江文旅产业借助AI技术实现数智化转型，推动产业升级。",
+      "summaryZh": ""
     },
     {
       "title": "“十五五”时期 煤矿危险繁重岗位将由机器人替代",
@@ -182,13 +201,23 @@
       "summary": ""
     },
     {
+      "title": "梅卡曼德机器人通过港交所聆讯",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96c2JxcnROY281R3BOU1ItOWVqbElhWGhlWjFDdzZEdjk3UVBqVDg5VVdIclBHb1Zxa25OOE5MSjFhdFdhRDlqYnZjaUw1VlNCX0RZa0lGVnNrbmYxVTRLNXVEbzg?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-16T11:56:00.000Z",
+      "summary": "梅卡曼德机器人通过港交所上市聆讯。",
+      "summaryZh": ""
+    },
+    {
       "title": "The TerraMow V1000 Shows Just How Far Robot Mowers Have Come",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10Q2dRYVZDMFZBZlE0Mi1oV0JvSFRMajQ4YXlIa1JnS2FSeHJIcWpoZ1NNako0YzBPWkgtVXVUNDBzX3pvYXo5eHVIOXNaZkxnMS1YYWtPbw?oc=5",
       "source": "Wired",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-16T10:30:00.000Z",
-      "summary": "TerraMow V1000机器人割草机具备自动地图绘制、智能AI摄像头和障碍物避让功能，成为市场上表现优异的割草机之一。",
+      "summary": "TerraMow V1000机器人割草机具备自动地图绘制、智能AI摄像头等功能，成为市场上表现优异的割草机之一。",
       "summaryZh": "",
       "titleZh": "TerraMow V1000 展示了机器人割草机的进步"
     },
