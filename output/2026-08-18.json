@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generatedAt": "2026-08-17T19:57:48.787Z",
+  "generatedAt": "2026-08-17T21:44:55.907Z",
   "items": [
     {
       "title": "撕开清洁机器人新蓝海！38厘米机身普渡ET1 交出具身智能商用新答卷",
@@ -9,17 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-17T11:10:41.000Z",
-      "summary": "普渡ET1机器人以38厘米机身，解决商用清洁难题，引领行业新趋势。",
-      "summaryZh": ""
-    },
-    {
-      "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
-      "link": "https://www.qbitai.com/2026/08/474537.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-17T09:30:49.000Z",
-      "summary": "共生知行发布人形机器人卡丁车Demo，测试全身智能。",
+      "summary": "普渡ET1小型商用清洁机器人推出，解决狭小空间清洁难题。",
       "summaryZh": ""
     },
     {
@@ -29,26 +19,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-17T15:19:11.000Z",
-      "summary": "Uber与Zipline合作，计划在美国推出无人机外卖服务。",
+      "summary": "Uber与Zipline合作，年内将在美国推出无人机外卖服务。",
       "summaryZh": ""
     },
     {
-      "title": "全国首家AI家庭机器人体验中心落地青岛",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CZlVhWnFpUWlxX2NhMlBuT3g3VkZhRUwyVm1yQzA5Z3NTUG5STFRDQ2NqTEg0OTZIZ3R4ano1Y3VfX0JEYlNsbQ?oc=5",
-      "source": "财联社",
+      "title": "能举起 50 公斤重杠铃，九光技术发布小睿 G3 人形机器人",
+      "link": "https://www.ithome.com/0/990/853.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-17T00:05:05.000Z",
-      "summary": ""
-    },
-    {
-      "title": "左手推Harness，右手涨价：DeepSeek为何把开发者往外推？",
-      "link": "https://www.tmtpost.com/8105986.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-17T11:04:45.000Z",
-      "summary": "DeepSeek调整价格策略，大幅提升模型使用费用，引发开发者关注。",
+      "pubDate": "2026-08-17T15:29:57.000Z",
+      "summary": "九光技术发布小睿 G3 人形机器人，能举重 50 公斤。",
       "summaryZh": ""
     },
     {
@@ -62,13 +43,23 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI承诺大规模部署英伟达AI基础设施，参与俄亥俄州AI数据中心项目",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOcUJGYnVUZGo1RXk2RnNPUzBEVDFLSHZLdDhjTV9oVEktRUl0bnpVeVBieFdLSERDeE5hUjdNUTUtZEpiNFlLZ0pvSEM5UkNmNDE3Z2tpa1o?oc=5",
-      "source": "界面新闻",
+      "title": "物理AI的操作系统战争——谁在定义机器人的小脑？",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KRmhYNGQtaVdrRjVTSFFWQXNvQlpvTWN5SXpfUGN2X0VxZXRfT3ZDN2lrLW1jQ0p3d2pvTDIxX3NBX3NHVjNMa3VhQXo?oc=5",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-17T13:16:03.000Z",
-      "summary": "OpenAI将部署英伟达AI基础设施，参与俄亥俄州AI数据中心项目。",
+      "category": "robotics",
+      "pubDate": "2026-08-17T05:25:00.000Z",
+      "summary": "物理AI操作系统成为机器人发展瓶颈，产业寻求统一架构与标准。",
+      "summaryZh": ""
+    },
+    {
+      "title": "雄安机器人公司赴港IPO，去年营收3.89亿",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51dFg3cmJfVDNkcHF6LXRuT1NpYkh2YldQUnZPMnNXb3dXbUY0cWZmc3ltMTd2MmZ4XzdjQjJ3ZTA0Y3VlTnc?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-17T03:18:19.000Z",
+      "summary": "雄安机器人公司去年营收3.89亿，计划赴港IPO。",
       "summaryZh": ""
     },
     {
@@ -102,16 +93,6 @@
       "summaryZh": ""
     },
     {
-      "title": "雄安机器人公司赴港IPO，去年营收3.89亿",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51dFg3cmJfVDNkcHF6LXRuT1NpYkh2YldQUnZPMnNXb3dXbUY0cWZmc3ltMTd2MmZ4XzdjQjJ3ZTA0Y3VlTnc?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-17T03:18:19.000Z",
-      "summary": "雄安机器人公司梅卡曼德去年营收3.89亿，拟赴港IPO。",
-      "summaryZh": ""
-    },
-    {
       "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hNjkybFp0N1k1T2dEaW9peFFFZG1NMGR6dGx2eEVFVkx2TkxOb29Od2J2VjQyeldod3V3NWtvb0NLdERIZG1Uag?oc=5",
       "source": "财联社",
@@ -127,7 +108,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-17T18:13:00.000Z",
-      "summary": "多家银行推出算力贷，以算力数据评估企业信贷，为AI产业融资提供新途径。",
+      "summary": "多家银行推出算力贷，以算力数据评估企业信贷，信贷评估锚点转变。",
       "summaryZh": ""
     },
     {
@@ -158,7 +139,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-17T01:56:57.000Z",
-      "summary": "南疆首个矿产垂直大模型“葱岭·智寻”在喀什上线。",
+      "summary": "南疆首个矿产垂直大模型“葱岭·智寻”在喀什上线，填补行业空白。",
       "summaryZh": ""
     },
     {
@@ -168,58 +149,70 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-17T13:21:49.000Z",
-      "summary": "HIVE Digital子公司BUZZ HPC签署3.5亿美元GPU云服务合同，推动AI算力转型。",
+      "summary": "HIVE Digital子公司签署3.5亿美元GPU云服务合同，推动AI算力转型。",
       "summaryZh": ""
     },
     {
-      "title": "1小时202杯 七鲜咖啡成功挑战吉尼斯世界记录 首家24小时无人店落地北京",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PNTBsNUNKbE1EU3FjeDV1eVI0YXdfV0lxY0NnVllwTFJtWWd5U3B4Qk9xWU83QWdtY0lsWjZRMmZYNjd2dXlNOF8wRU1Nakh3LXFZd25HLXAxam8waTZwdU9WTm9lZGs5VnpN?oc=5",
-      "source": "央广网",
+      "title": "AI大模型量价齐升商业化落地，云计算ETF易方达涨1.01%",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sN1FaSEdWdHl6LTZoeVdkdHdEUzFNNEQ2bENLNXk1dDhoM016ZGZpX0dxOUdaRHJxcjl2Q0lTR0lERjdKMnh2MUVwZGM5V3ZFNk1kRElySDQ0SFp2dkE?oc=5",
+      "source": "同花顺财经",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-17T10:11:35.000Z",
-      "summary": "七鲜咖啡1小时售出202杯咖啡，成功挑战吉尼斯世界记录，首家24小时无人店在北京开业。",
-      "summaryZh": ""
+      "category": "ai",
+      "pubDate": "2026-08-17T06:50:00.000Z",
+      "summary": "截至8月17日14点50分，上证指数涨1.37%，深证成指涨2.34%，创业板指涨3.02%。"
     },
     {
-      "title": "Gravis Robotics raises $200M for autonomous construction",
-      "link": "https://www.therobotreport.com/gravis-robotics-raises-200m-autonomous-construction/",
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-17T21:27:05.000Z",
+      "summary": "AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队。",
+      "summaryZh": "",
+      "titleZh": "AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队"
+    },
+    {
+      "title": "What happens when a kid’s robot best friend dies?",
+      "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-17T09:00:00.000Z",
+      "summary": "儿童机器人朋友Moxie陪伴10岁神经多样性儿童Xander成长，从呼吸练习到游戏互动，成为其重要的社交伙伴。",
+      "summaryZh": "",
+      "titleZh": "当孩子的机器人最好的朋友去世时会发生什么？"
+    },
+    {
+      "title": "Surgeons use da Vinci surgical robot to perform common cardiac surgery",
+      "link": "https://www.therobotreport.com/surgeons-use-da-vinci-surgical-robot-perform-common-cardiac-surgery/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-08-17T13:00:16.000Z",
-      "summary": "Gravis Robotics获得2亿美元投资，用于自主建筑机器人研发。",
+      "pubDate": "2026-08-17T20:56:21.000Z",
+      "summary": "医生使用达芬奇手术机器人进行常见心脏手术。",
       "summaryZh": "",
-      "titleZh": "Gravis Robotics 融资 2 亿美元用于自主建造"
+      "titleZh": "外科医生使用达芬奇手术机器人进行常见的心脏手术"
     },
     {
-      "title": "人形机器人：从\"展会样机\"到\"交付元年\"",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5McjZfd3dSbEdKZEhPOXZFV2ZLLXEwSURXS3BpN3BINFpha0pxY1pkc01OZzUxdlBrUm5iSGlQQ3ExOW5xamtpNFBrT0ZvY1V6Tm94SkJMSQ?oc=5",
+      "title": "How Generalist uses human demonstration data for robot learning",
+      "link": "https://www.therobotreport.com/how-generalist-uses-human-demonstration-data-robot-learning/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-17T19:32:31.000Z",
+      "summary": "通用机器人公司利用人类演示数据训练机器人。",
+      "summaryZh": "",
+      "titleZh": "Generalist 如何使用人类演示数据进行机器人学习"
+    },
+    {
+      "title": "十分钟读论文 | 机器人如何“想象未来“：隐空间世界动作模型 LaWAM 深度解析",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYdnFlVmJhb0lFdC1TbTNvMHNXeE9ERG9KMk1xOUpfd2xQM2ZrSlQ4VldEdmJnNWZKNDIyN2ZLMUtlR1ZlNDlmU1ctM0F5RFJpZC0wTWU5Yw?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-17T14:38:18.000Z",
-      "summary": "人形机器人产业迈入交付元年，出货量激增，中国厂商占据主导。",
-      "summaryZh": ""
-    },
-    {
-      "title": "英飞凌工业机器人解决方案_电路方案",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGZDd3TkRuZjJxUnNQTHczYUt6Qnc3ZFdMdG5famg3a244TUJ5dHhrSmgtcFpCbThza3puMDc3QkVfRWg2SzVfV2ZRU2hWZE1oRTBoYmlYcw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-17T01:01:58.000Z",
-      "summary": "英飞凌推出工业机器人电路方案，提供精准、高效运行保障。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机械小将绿茵争锋，北京小学生挺进世界人形机器人运动会总决赛",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBITlFGcnlLOTVlQTdSclVxVkFRdHZOTUQxS1RkYUotTy1vZGhEV0JSTms5dWxaWFlKdVhfeUg4UE4wUUF5eHNzVDBSalRFcEh0LXQ0cWJQQlRyMVFLclNfdDktQlE?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-17T04:59:00.000Z",
-      "summary": "北京小学生人形机器人队挺进世界总决赛。",
+      "pubDate": "2026-08-17T05:18:23.000Z",
+      "summary": "LaWAM模型通过将未来预测嵌入视觉隐空间，实现机器人动作预测的快速与准确。",
       "summaryZh": ""
     },
     {
@@ -229,7 +222,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-17T13:13:00.000Z",
-      "summary": "暑期非遗文旅活动丰富，AI技术助力非遗体验。",
+      "summary": "暑期非遗文旅活动丰富，AI技术助力体验式旅游兴起。",
       "summaryZh": ""
     },
     {
@@ -248,7 +241,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-17T01:07:00.000Z",
-      "summary": "龙江文旅产业借助AI技术实现数智化转型，推动产业升级。",
+      "summary": "龙江文旅产业借助AI技术实现数智化转型。",
       "summaryZh": ""
     },
     {
@@ -267,8 +260,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-17T02:41:00.000Z",
-      "summary": "东城区建成养老机构智慧安全监管平台，实现全天候AI监控。",
-      "summaryZh": ""
+      "summary": ""
     }
   ]
 }
