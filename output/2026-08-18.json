@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generatedAt": "2026-08-18T01:52:45.502Z",
+  "generatedAt": "2026-08-18T04:18:58.693Z",
   "items": [
     {
       "title": "撕开清洁机器人新蓝海！38厘米机身普渡ET1 交出具身智能商用新答卷",
@@ -19,7 +19,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-17T09:30:49.000Z",
-      "summary": "共生知行人形机器人完成卡丁车驾驶Demo，测试全身智能。",
+      "summary": "共生知行发布人形机器人卡丁车Demo，测试全身智能。",
+      "summaryZh": ""
+    },
+    {
+      "title": "独到科技完成近亿元A+轮融资，赛富领投，清华系AI Agent公司打造业务世界的Agent编译器",
+      "link": "https://www.tmtpost.com/8106792.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-18T02:33:02.000Z",
+      "summary": "独到科技获近亿元A+轮融资，推出业务世界Agent编译器DLM-AOP。",
       "summaryZh": ""
     },
     {
@@ -33,72 +43,100 @@
       "summaryZh": ""
     },
     {
-      "title": "钛晨报事关石油天然气发展，两部门最新部署；OpenAI与英伟达扩大计算机会，到2030年计算规模或达6000亿美元；宇树科技：将于8月19日科创板上市",
-      "link": "https://www.tmtpost.com/8106254.html",
-      "source": "钛媒体",
+      "title": "OpenAI 前高管：相信 AI 能治愈所有疾病，但光靠大模型远远不够",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MeWoxVkYzLUxZVHBfTEFqMlMwX0hCWVZ6SXF3Q2xxX3ZfcHZKRDN0WTJuV0NMNTdHVlZfSnVRZktIMU1HUkw3V2Q5NkU?oc=5",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-17T23:20:00.000Z",
-      "summary": "两部门部署油气发展，OpenAI与英伟达扩大计算机会，宇树科技科创板上市。",
+      "pubDate": "2026-08-18T01:09:19.000Z",
+      "summary": "OpenAI前高管认为AI能治愈疾病，但需完善生物学基础设施。",
       "summaryZh": ""
     },
     {
-      "title": "左手推Harness，右手涨价：DeepSeek为何把开发者往外推？",
-      "link": "https://www.tmtpost.com/8105986.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-17T11:04:45.000Z",
-      "summary": "DeepSeek大幅涨价，同时开源Agent运行时框架Harness，引发开发者关注。",
-      "summaryZh": ""
-    },
-    {
-      "title": "广州拟立法促进人工智能发展：建设统一算力调度平台和应用赋能中心",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KU3cxeV8tYXh1VlVqUUZ0cjdqbXVrWnFMV1BLYk5FemJFaTlqOU5Xcms2ZFgwYXk1Tk0yZlNaN25JOTdVX3JnYkQyQkJtYlIzY1NEcU9JVzA?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-17T05:27:53.000Z",
-      "summary": "广州拟建统一算力调度平台，推动人工智能发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "雄安机器人公司赴港IPO，去年营收3.89亿",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xSWIwMThUcUI1UmNGLTJhS0dQT1dtY3ZxVDB3clFKbW5WY0ZZM3RDeHpNNVJ4M0RuNWI5T0w1VkJ6Sm91NHlXVA?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-17T03:18:19.000Z",
-      "summary": "雄安机器人公司去年营收3.89亿，计划赴港IPO。",
-      "summaryZh": ""
-    },
-    {
-      "title": "中美AI竞争路线决定未来？ 中国开源抢先发美国专注闭源大模型核心战场早已不是技术专家：用的人越多话语权越大",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KcjFNc1RETWVfUzZlejNzeDZhOHNRLWpNbHd0eGRVVFVBeVRyM1VObVBiZ1Jud0RuTUZpOE5rNnVpRHBFendDN2xUMlBGZUFpbXZMeQ?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-17T12:30:31.000Z",
-      "summary": "中美AI竞争，中国开源领先，美国闭源专注，话语权与用户数量相关。",
-      "summaryZh": ""
-    },
-    {
-      "title": "豪美新材：拟1亿元参与设立人工智能创业投资基金",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ncXpzVUNmOHJzaFRIZ3VkelBfM29QUmRmLUh3VzJ6SGhPVklzWDNkTVJTckJBZUlBb2Rqb1d3TnBiNUZzdVh5Tmo1Y3laal9QbmQw?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-17T10:49:26.000Z",
-      "summary": "豪美新材拟出资1亿元参与设立人工智能创业投资基金。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国产算力迎扩张浪潮：大厂“超预期”加码投资 产业链多环节开启扩产",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2b3IxVUdjekVGdExyMWRGdzg5S0VSOWVFaGVwT0xuT1o3Q29iVnRKYm5OdzJNTXNOTU85Ym9ybXdQUHk3elpvOQ?oc=5",
+      "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE05YXpnSWNIeERTWjc3MFlZYzZaNXBUNUstekhVeUhycDZ2WnpkV05Bb1liNlRJY3poak5CYXlVNFZvVEZtb3c4Mg?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-17T05:14:55.000Z",
+      "pubDate": "2026-08-17T19:40:55.000Z",
+      "summary": ""
+    },
+    {
+      "title": "从2小时到5分钟！韩国券商落地金融专属AI Agent平台",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01VVVMWkR6bGltNjF4R0t6MlhNOVNKLUtCa2VnQlRRQ3U2SHFtOWpySzBpU0t0UURKSkh0N2d4WVhRSnBRbXpZVUUwSS1ZdXFpd295T05BUjExYVF2Wk1UR3hwbFNFbFZWLUpOU3pJUk5GOUZLR2NVcA?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-18T02:50:00.000Z",
+      "summary": "韩国券商与新韩投资证券合作，利用AI智能体平台实现金融业务自动化，缩短合同处理时间至5分钟。",
+      "summaryZh": ""
+    },
+    {
+      "title": "思特威推出超星光级 1/2.8 英寸 CMOS 图像传感器，主打高清夜视全彩",
+      "link": "https://www.ithome.com/0/991/037.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-18T03:36:04.000Z",
+      "summary": "思特威发布超星光级1/2.8英寸CMOS图像传感器，主打高清夜视全彩。",
+      "summaryZh": ""
+    },
+    {
+      "title": "物理AI的操作系统战争——谁在定义机器人的小脑？",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KRmhYNGQtaVdrRjVTSFFWQXNvQlpvTWN5SXpfUGN2X0VxZXRfT3ZDN2lrLW1jQ0p3d2pvTDIxX3NBX3NHVjNMa3VhQXo?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-17T05:25:00.000Z",
+      "summary": "物理AI操作系统成为机器人技术瓶颈，产业面临数据融合和触觉集成挑战。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI时代最值钱的可能不是大模型",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCdk54OFFUdE9Pek8tb3JreHd6amdLRWFtcjlkY2Y0WHQ0S1c2NUxHU3RmNWV6QWZpcFhOVzlPSzBDRUsxd0VyaWxPTVg5UQ?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-17T11:23:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "迈富时举行2026年中期业绩发布会：利润增速466.1%、AI业务增123.7%，＂全栈Token工厂＂与企业智能体驱动的量质齐升",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wVnBXNHlMcExMc2RfN3N2c1lmU1VHanJZSng4QnhuQUdlRHltRU1jSFR1TDl2Q242cDEwTXVtVVQ3WDc0bjJPR0N5UTNXWEUxaFhScWhSMUs?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-18T03:23:46.000Z",
+      "summary": "迈富时中期业绩显著，利润增速466.1%，AI业务增123.7%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "港股大模型概念走弱",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14emxJamdxYk9veUxxY1NvWG82b1luME55bC1iZmxTRlVJckdJajd6WEdfWnlQaXR4aU5IQ0tiNUNuZ25aTXZ3UUxBbFFfaG5Vb3Ew?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-18T02:32:40.000Z",
+      "summary": "港股大模型概念股普跌，智谱跌逾14%，MINIMAX-W跌逾12%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI高算力新型基材技术路线专题研讨会在京召开",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDZ3JyQk4tT0hpQ2w5VjFUYXlmUGpGMDQ0TWhqaFVMY1AzcWk1R0pFTy1qN0FEclNPQ2ZwQkVCMHlOMG1WQnNEYjB2NTE5aUp0STZN?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-18T02:44:08.000Z",
+      "summary": "AI高算力新型基材技术路线研讨会在京召开，专家探讨产业化瓶颈。",
+      "summaryZh": ""
+    },
+    {
+      "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hNjkybFp0N1k1T2dEaW9peFFFZG1NMGR6dGx2eEVFVkx2TkxOb29Od2J2VjQyeldod3V3NWtvb0NLdERIZG1Uag?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-18T01:09:03.000Z",
       "summary": ""
     },
     {
@@ -108,7 +146,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-17T18:13:00.000Z",
-      "summary": "多家银行推出算力贷，以算力数据评估企业信贷，信贷评估锚点转变。",
+      "summary": "多家银行推出算力贷，以算力数据评估企业信贷，信贷评估锚点生变。",
       "summaryZh": ""
     },
     {
@@ -123,107 +161,77 @@
       "titleZh": "当企业面临人工智能代理蔓延时，xpander 希望他们拥有自己的控制和上下文层"
     },
     {
-      "title": "填补行业空白 南疆首个矿产垂直大模型落地喀什",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PRmF1R3NTM1N6LS02U0xSWVFnX1JjUmJ1dnRtYzAxY1d6ODZ2MG9QQlNUeDdjTENEM1dzN01CNUdja0hjWU1IT2tkQVpaNVVFU1JSZWZqU1hJeWRmQmd4Qg?oc=5",
-      "source": "东方财富网",
+      "title": "英伟达联手OpenAI锁定12吉瓦算力基建，黄仁勋：即便OpenAI不续租，还可以给其他客户",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03T0todEdTNDNPZDA3WTFWMy1YdmxNUkQ0OV80aFB2Zll2Y2lLZFJFWUtjbkxWWFFGTHo4eWFvQ0RlMHZoQVBtQzBpWTRQTS1hTmFZSVJIOHBQTndYY0VXMw?oc=5",
+      "source": "澎湃新闻科技",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-17T01:56:57.000Z",
-      "summary": "南疆首个矿产垂直大模型“葱岭·智寻”在喀什上线。",
+      "pubDate": "2026-08-17T14:38:00.000Z",
+      "summary": "英伟达与OpenAI合作锁定12吉瓦算力基建，支持其他客户租用。",
       "summaryZh": ""
     },
     {
-      "title": "238.5% 净利增幅亮眼，卡奥斯完成 AI 转型，工业互联网规模化落地破局",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IMEM0d1B6d0dWQkVaTldnUEVaN3JUcGotVzctcjZlYXE3akJGX3pxa3R6dzNPX2tiRFU4RzFsXzc5aExUVzBScTJ2bm9Qek1m?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-17T03:21:16.000Z",
-      "summary": "卡奥斯完成AI转型，工业互联网规模化落地，净利润同比增长238.5%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "1小时202杯 七鲜咖啡成功挑战吉尼斯世界记录 首家24小时无人店落地北京",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YWkJmWjNGbUQyQXNjbWd0c0VZb0REaWI2NmFNWlVwVXlxMGZqa2hEc29aWnc5VVlaS3djbEUxT0pVejNEMnk4aDUwUTZ6b3hqak43MkNLam15ajNxYjNaUUV5YzVEb0twengzMU14X0c?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-17T10:11:35.000Z",
-      "summary": "七鲜咖啡1小时售出202杯咖啡，成功挑战吉尼斯世界记录，首家24小时无人店在北京开业。",
-      "summaryZh": ""
-    },
-    {
-      "title": "捷途山海 L7 PLUS 激光雷达版 8 月 19 日上市，预计配备猎鹰 700 驾驶辅助系统",
-      "link": "https://www.ithome.com/0/990/929.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-18T01:49:07.000Z",
-      "summary": "捷途山海L7 PLUS激光雷达版8月19日上市，预配猎鹰700驾驶辅助系统。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Five years of operation shape Diligent Robotics rollout of Moxi 2.0",
-      "link": "https://www.therobotreport.com/five-years-operation-shape-diligent-robotics-rollout-moxi-2-0/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-17T21:15:46.000Z",
-      "summary": "Diligent Robotics推出Moxi 2.0，基于五年医院运营经验。",
-      "summaryZh": "",
-      "titleZh": "五年运营，勤勤机器人推出魔希2.0"
-    },
-    {
-      "title": "Gravis Robotics raises $200M for autonomous construction",
-      "link": "https://www.therobotreport.com/gravis-robotics-raises-200m-autonomous-construction/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-17T13:00:16.000Z",
-      "summary": "Gravis Robotics获2亿美元投资，推动自主建筑机器人发展。",
-      "summaryZh": "",
-      "titleZh": "Gravis Robotics 融资 2 亿美元用于自主建造"
-    },
-    {
-      "title": "搬运50公斤重物 香港科企发布“生产力工具型”人形机器人",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaHlhS0w4ZVNiYmdHV3llekZaS01TaGYtMTE5OGNZTDVmdUpNWU5nbU1ZQ0lreEtkczN3TF83QmxZWmpJSkVQNXhoOVQ1TmM5UEF4UlVFNFRnQUVKX21tSlFteFZPb1hZTUtSVDg4MjRidmI4d1JkZjJFQi1qS0Jkb2MwOEI4NUE?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-17T14:14:38.000Z",
-      "summary": "香港科企发布可搬运50公斤重物的“生产力工具型”人形机器人。",
-      "summaryZh": ""
-    },
-    {
-      "title": "人形机器人：从\"展会样机\"到\"交付元年\"",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5McjZfd3dSbEdKZEhPOXZFV2ZLLXEwSURXS3BpN3BINFpha0pxY1pkc01OZzUxdlBrUm5iSGlQQ3ExOW5xamtpNFBrT0ZvY1V6Tm94SkJMSQ?oc=5",
+      "title": "一家做包装膜的浙江公司，半年吃下30万套机器人触觉订单！",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FVVJ6R1BBMlFIOE1yeHpFcUVpelAxZ1RURlQzQlV1ZDJ4OFIwcUkxX3BseEFEZ2tSZ2QzaUlxV1BleGxRV2Zzb0FBdU5sR1ZzZ0hwbFBtaw?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-17T14:38:18.000Z",
-      "summary": "人形机器人产业迈入交付元年，出货量激增，中国厂商占据主导。",
+      "pubDate": "2026-08-17T22:23:50.000Z",
+      "summary": "浙江包装膜公司半年内获得30万套机器人触觉传感器订单。",
       "summaryZh": ""
     },
     {
-      "title": "机械小将绿茵争锋，北京小学生挺进世界人形机器人运动会总决赛",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBITlFGcnlLOTVlQTdSclVxVkFRdHZOTUQxS1RkYUotTy1vZGhEV0JSTms5dWxaWFlKdVhfeUg4UE4wUUF5eHNzVDBSalRFcEh0LXQ0cWJQQlRyMVFLclNfdDktQlE?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-17T04:59:00.000Z",
-      "summary": "北京小学生人形机器人队挺进世界总决赛。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "source": "TechCrunch",
+      "title": "What happens when a kid’s robot best friend dies?",
+      "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "source": "MIT Technology Review",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-08-17T21:27:05.000Z",
-      "summary": "AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队。",
+      "pubDate": "2026-08-17T09:00:00.000Z",
+      "summary": "儿童机器人朋友去世后，其陪伴与治疗作用引发讨论。",
       "summaryZh": "",
-      "titleZh": "AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队"
+      "titleZh": "当孩子的机器人最好的朋友去世时会发生什么？"
+    },
+    {
+      "title": "Surgeons use da Vinci surgical robot to perform common cardiac surgery",
+      "link": "https://www.therobotreport.com/surgeons-use-da-vinci-surgical-robot-perform-common-cardiac-surgery/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-17T20:56:21.000Z",
+      "summary": "医生利用达芬奇手术机器人进行常见心脏手术。",
+      "summaryZh": "",
+      "titleZh": "外科医生使用达芬奇手术机器人进行常见的心脏手术"
+    },
+    {
+      "title": "How Generalist uses human demonstration data for robot learning",
+      "link": "https://www.therobotreport.com/how-generalist-uses-human-demonstration-data-robot-learning/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-17T19:32:31.000Z",
+      "summary": "通用机器人公司利用人类演示数据训练机器人。",
+      "summaryZh": "",
+      "titleZh": "Generalist 如何使用人类演示数据进行机器人学习"
+    },
+    {
+      "title": "Serve Robotics partners with Grubhub in robot delivery expansion push",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMHFXVVpLRGh4b3puOEJlMGtQSExTZHl0cWpXNzhfSlZjZThGU3ljU29aX1lwYk9SRUx5UFFtMW5Zb0FUMklpaUZoNlFhMVd3SmVQTWc5Nms4ZGZKaFZpUlhvWFEyS0FRZE5weVlDa0Z0VDNwZ3B3dWNmMGxyUUlucG5aQ0V5bVpiekd6dnRkSlltY2M5NndmbXJBaDVJYWJlYkdRTVU5TFlDVDFZaG1kTUZBczA2djVYR3ZPVmNWRlZwMkJVT2c?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-17T12:17:30.000Z",
+      "summary": "",
+      "titleZh": "Serve Robotics 与 Grubhub 合作推动机器人交付扩张"
+    },
+    {
+      "title": "成立1个月拿下4000万意向订单！原阿米奥联创冯骞成立星骞元机器人",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pcW03MVZlR2RFdkRramxnMy1Pb1llQ0tWRG95U3JmS0RyMWVjZG1YTUhiakNaMGVJT3h1eWY4dVNybkNCVnF6R1QyNk5mWFk0Tll2V29kZw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-17T22:18:35.000Z",
+      "summary": "原阿米奥联创冯骞成立星骞元机器人，成立一个月内获4000万意向订单。",
+      "summaryZh": ""
     },
     {
       "title": "AI中国｜第一视角来“体验”！暑期非遗文旅亮点纷呈",
@@ -232,7 +240,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-17T13:13:00.000Z",
-      "summary": "暑期非遗文旅体验活动热度上升，多地非遗项目吸引游客。",
+      "summary": "暑期非遗文旅体验活动热度攀升，多地非遗项目吸引游客。",
       "summaryZh": ""
     },
     {
@@ -254,14 +262,13 @@
       "summary": ""
     },
     {
-      "title": "24小时“AI哨兵”，东城区建成养老机构智慧安全监管平台",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VOFkwdVhLN29fYUJvRVRrRC1TUVZjVlBZMHpoOFFDSXJMTzkxaWg5SXhGbjVudlRlUFBUOEFvU01VOHYtRmoyMXl3X3djM3lOSGxlS1JlWHNGRmFrZ0tOWFpGSHU?oc=5",
-      "source": "新京报",
+      "title": "灵御智能CEO金戈：大众期待和机器人真实能力存三年以上鸿沟",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xZGhKSjBtQTZsY3N5aldWcnBfU2hMR0pXMU9iX2QtTDZLb2JFNTdLRjN5dVpaTWhuRkthbjlDWFpPWEtValp3NDlzLWFybmJkbzd3Mi00XzNTM3ZCUGVhaWdn?oc=5",
+      "source": "中国经营网",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-17T02:41:00.000Z",
-      "summary": "东城区建成养老机构智慧安全监管平台，实现全天候AI监控和智能分析。",
-      "summaryZh": ""
+      "category": "robotics",
+      "pubDate": "2026-08-17T10:34:00.000Z",
+      "summary": ""
     }
   ]
 }
