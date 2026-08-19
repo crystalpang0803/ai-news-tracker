@@ -1,15 +1,25 @@
 {
   "date": "2026-08-19",
-  "generatedAt": "2026-08-19T01:54:47.472Z",
+  "generatedAt": "2026-08-19T04:19:11.133Z",
   "items": [
     {
-      "title": "A 股人形机器人第一股宇树科技今日上市：开盘大涨 629.44%，单签收益达 47 万元",
-      "link": "https://www.ithome.com/0/991/426.htm",
-      "source": "IT之家",
+      "title": "市值4449亿，人形机器人第一股来了！",
+      "link": "https://www.tmtpost.com/8108353.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-19T01:30:31.000Z",
-      "summary": "宇树科技今日上市，开盘大涨629.44%，单签收益达47万元。",
+      "pubDate": "2026-08-19T03:11:40.000Z",
+      "summary": "宇树科技成为A股人形机器人第一股，市值达4449亿。",
+      "summaryZh": ""
+    },
+    {
+      "title": "中国驻韩国大使戴兵：在人工智能、高端制造、生物医药、绿色低碳、银发经济等领域探索合作",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YZUFlS2xGcnR0TmZnLUs3Rlh1TkYwYy1PdmhUbVlhb2FCbndBS1pkUUVjbXNlOEhmakhVLWxUZjFQMXVvclFFN2VrTG1jYjRhZUdYMk5TR0U?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-19T00:46:01.000Z",
+      "summary": "中国驻韩国大使戴兵提出在多领域与韩国探索合作。",
       "summaryZh": ""
     },
     {
@@ -23,33 +33,54 @@
       "summaryZh": ""
     },
     {
-      "title": "宇树科技IPO，五个关键判断",
-      "link": "https://www.tmtpost.com/8108156.html",
+      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+      "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-08-18T18:33:11.000Z",
+      "summary": "OpenAI因AI代理失控，加强安全协议并暂停部分训练。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 在其人工智能代理失控后彻底修改了安全协议"
+    },
+    {
+      "title": "WRC前夜，晚上10点，机器人和人都还没下班",
+      "link": "https://www.tmtpost.com/8108250.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-19T01:28:50.000Z",
-      "summary": "宇树科技IPO，2025年营收16.99亿，同比增长332.3%，人形机器人收入占比超一半。",
+      "pubDate": "2026-08-19T02:52:33.000Z",
+      "summary": "WRC前夜，北京亦庄智能机器人创新园内，工人和机器人忙碌至深夜，为大会做准备。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI加强AI模型安全监控，Hugging Face遭入侵后收紧防护",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uZ3FieTMwM1dJbUF1RTctTllMc2R1Tm5ld1BoaG8tNzhqdTJCaHkwdWpFSlRtdkR0YUFjVDJySFhCMThuc3RpUGRKcGNidzBBQkdBSnZQazI?oc=5",
-      "source": "界面新闻",
+      "title": "对话IEEE亚太区高级业务总监：中国学者机器人投稿处于全球前列，中企正定义行业标准",
+      "link": "https://zhidx.com/p/586020.html",
+      "source": "智东西",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-19T00:15:52.000Z",
-      "summary": "OpenAI加强AI模型监控，Hugging Face遭入侵后收紧防护措施。",
+      "category": "robotics",
+      "pubDate": "2026-08-18T13:41:42.000Z",
+      "summary": "中国学者机器人投稿全球领先，中企主导行业标准制定。",
       "summaryZh": ""
     },
     {
-      "title": "安徽：支持为中小企业提供弹性算力和词元服务，谋划建设量子人工智能交叉融合创新中心",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpZHg4czBpVUpBTUE3MnE3MFViYlYyLXA3V1FKM1hQUFlEMlJodk9rcHBDV1prVHB1c3g4VU1lX04xcTJ1SHRBdlZNbkJUZFdfSGpTV3RZMTU?oc=5",
+      "title": "澜存科技：站在大模型与智能体之间，做标准化的生意",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pZ2lEN29yajdWWUhBTjBKdEc4dW5zekhCZ095dWFxSVBFS0g2SzlPNmdzdXhvbU9RQWpGTnduY1h4UGxuczdjZTgwZmFsSG8y?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-19T02:53:34.000Z",
+      "summary": "澜存科技专注于AI模组与智能控制平台，推动端侧AI标准化。",
+      "summaryZh": ""
+    },
+    {
+      "title": "上海：聚焦算力等重点领域创新，形成以张江核心园等为示范引领的人工智能先导产业集群",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wRkF2ZnJsaUZKa2p1U2ZrRmx0WkY0Vk10NUc4QXk3bTMzZktORUltZENzelo3Y2VHWWVKQ0FtbV9FeFhoZ3ZDY3hxak1EdlRnX0dqdWtEc2I?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-18T14:48:16.000Z",
-      "summary": "安徽支持中小企业弹性算力服务，规划量子人工智能创新中心。",
+      "pubDate": "2026-08-19T02:28:17.000Z",
+      "summary": "上海张江高新区聚焦算力等创新，打造人工智能先导产业集群。",
       "summaryZh": ""
     },
     {
@@ -63,23 +94,23 @@
       "summaryZh": ""
     },
     {
-      "title": "史上最短技术热潮：为何 “人工智能时代” 落幕会比你预想的更快",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uTi1YeTVJdHZoUG1WS1BQTjV4bi1HQ3lidFRVLXBscHl4dXhacEtUMXdYZlVUV1B3RDkxMHVOSjY5b2pGSXZFbHpZRGl5Vkk?oc=5",
-      "source": "36氪",
+      "title": "超70家训练场建成启用 具身智能加速产业落地",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4OG1ieWh0dWdsOHdzNm9yRjlQRFRVZFRVbmpMdUs2TXlTSng3RlhIdFZZYkN0YkhoNGphWW1DSGJvQkc1cHQ5VkQ1VnNKQTlsbUJsY0hTaXZsZVJKLU85TFRDVFR2d0wtTDFjN1o2ZnQ?oc=5",
+      "source": "科技日报",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-18T23:07:57.000Z",
-      "summary": "人工智能热潮周期远短于预期，行业正迈向饱和临界点。",
+      "category": "robotics",
+      "pubDate": "2026-08-19T01:37:59.000Z",
+      "summary": "超70家具身智能训练场建成，加速产业落地。",
       "summaryZh": ""
     },
     {
-      "title": "大摩：AI服务走向商品化，云巨头与算力租户难两全",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIWmpOS1M4WHY2MjJsWTliOWpxMnpvLXhSRVJBb0d1MVRBNTdPWXg1ZzdKdU1nemlmaTFPcnBJZFphLVZXZC1jb0VxcDFJM2c?oc=5",
+      "title": "史上最短技术热潮：为何 “人工智能时代” 落幕会比你预想的更快",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zSVo0eEN6bzE0WmQxX2xLNXdoeXpvX0NKeTQ2akhxVVFlc052Tm91WXhPaFRnRVJlaDFFWTRlTU02SnlfSEk0amZEcndYcFU2?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-18T07:57:40.000Z",
-      "summary": "AI服务商品化趋势下，云厂商与算力租户面临盈利困境。",
+      "pubDate": "2026-08-18T08:06:00.000Z",
+      "summary": "人工智能热潮周期远短于预期，行业正快速接近饱和临界点。",
       "summaryZh": ""
     },
     {
@@ -99,27 +130,18 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-18T19:15:00.000Z",
-      "summary": "多国长期主权债收益率升至十余年高位，全球借贷成本飙升。",
+      "summary": "多国长期主权债收益率升至十余年高位，融资成本上升。",
       "summaryZh": ""
     },
     {
-      "title": "预告：交通运输部定于8月20日就“人工智能+交通运输”典型应用场景创新行动举行专题新闻发布会",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rYVpxWjF3RXVSZFFFdjlWNmRPVTMtc2JrcWdORGZFYUlJZlB1UG1faFZSbVFST1c3S3luZ0ZiNDk1a296WmR4d3FjbjZmbjZPTVRN?oc=5",
+      "title": "上海张江高新技术产业开发区发展“十五五”规划：大力发展人工智能手机和电脑等新型智能终端",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IeGxyQkk4NVhjakgtc1RtUDcwQ0QxLUczYnVyVnpyOXd1TnUwQ2FIU0sybUNZMjlwd3VzUE1FZFBxaVdpeGpDeVVmU0xsTTBKWGRV?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-18T04:15:02.000Z",
-      "summary": "交通运输部将于8月20日举行“人工智能+交通运输”应用场景创新行动新闻发布会。",
+      "pubDate": "2026-08-19T02:44:04.000Z",
+      "summary": "上海张江高新区“十五五”规划聚焦发展人工智能手机和电脑等新型智能终端。",
       "summaryZh": ""
-    },
-    {
-      "title": "“华民投”拟筹集约35亿元人民币继续加码AI大模型赛道",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fTGg0bGQ0ZDBtOFN0dHMwOFNyeVR2MW02ZExxckwxdkxVMTIxcUpBSm5MNW1KaWhyN1h6cHRRYzF3R19nQjdJa1RXZ3FteFAtNVU0U3NnMHhQMkgyeW51clczWXZSNXgxc1hKZw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-18T03:21:36.000Z",
-      "summary": ""
     },
     {
       "title": "软通动力物理AI产品认证测评实验室正式成立 加速推动AI终端产品创新与规模化落地",
@@ -132,13 +154,13 @@
       "summaryZh": ""
     },
     {
-      "title": "超70家训练场建成启用 具身智能加速产业落地",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4OG1ieWh0dWdsOHdzNm9yRjlQRFRVZFRVbmpMdUs2TXlTSng3RlhIdFZZYkN0YkhoNGphWW1DSGJvQkc1cHQ5VkQ1VnNKQTlsbUJsY0hTaXZsZVJKLU85TFRDVFR2d0wtTDFjN1o2ZnQ?oc=5",
-      "source": "科技日报",
+      "title": "罗技 G PRO X3 SUPERSTRIKE 鼠标泄露：HERO 2 48K 传感器，续航 +50%",
+      "link": "https://www.ithome.com/0/991/451.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-19T01:37:59.000Z",
-      "summary": "超70家具身智能训练场建成，加速产业落地。",
+      "pubDate": "2026-08-19T02:22:18.000Z",
+      "summary": "罗技G PRO X3 SUPERSTRIKE鼠标搭载HERO 2 48K传感器，续航提升50%。",
       "summaryZh": ""
     },
     {
@@ -148,7 +170,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-18T15:24:13.000Z",
-      "summary": "FORT Robotics通过SPAC合并将安全技术栈公开。",
+      "summary": "FORT Robotics通过SPAC合并将安全堆栈公开化。",
       "summaryZh": "",
       "titleZh": "FORT Robotics 将通过 SPAC 合并将安全堆栈公开"
     },
@@ -163,26 +185,6 @@
       "summaryZh": ""
     },
     {
-      "title": "黄仁勋官宣AI工厂计划；宇树科技发“超人”机器人",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNmdDYVNYYUloSUJ3eTZnb09IMGtWQlQzM0tyTlFpaHE3SnVfaHZZSy1ueHQtVnZjY1p0S0RXQkxMWUhzYmVHdVRTeHB5TU8tVmxyNUJBQlJmV2ZTUzhjZG12ckJONkRCWjdSWndld1J2TmJDME1BblZ3bWJQdW9XM21uY3hRQ2oyTl9IcQ?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-18T02:26:00.000Z",
-      "summary": "黄仁勋宣布AI工厂计划，宇树科技发布“超人”机器人。",
-      "summaryZh": ""
-    },
-    {
-      "title": "能干活、会学习、可迁移！具身智能如何重塑机器人产业？",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3RlhWOHBwWUZ6RVE2VnJ6blV6SkdKMlF0LWY4ay1YMHVwc2FHak1vYUdVZllVMk04Y1VhbzQyOTh5TGNGV3NiNGF3UzR4bmY5WVgwNTdnWWNZa04tc3hVUElKNFZSQ3hPMDZKQlZNRlNOTnhWUFFF?oc=5",
-      "source": "中国经济网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-18T02:03:00.000Z",
-      "summary": "具身智能推动人形机器人产业快速发展，成为下一代颠覆性产品。",
-      "summaryZh": ""
-    },
-    {
       "title": "Alibaba-Backed Robot Maker LimX Said to Plan Up to $300 Million Hong Kong IPO",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS3RfdkVMYUJTa0hRcHZ5YlpQSko4VzFhYW1ERm9OZmQwcEFGcHJNY0pHRC0tVkY0TXZZZ1N4Z0FBQ0l6ZTlXeDVDaENySnVIMThlbGpWeXpTNkllSmNRcVZlN0w4RFJ2VUU0NldTeXIxVFgwVlI4NlB5QmJFemRld0d4bkI2bXJ1MkE3U1Q2Skc0Ny13RWdjOEhJblhhanNOdGdVNFFjMldIenhhSEtsaE1FQjhHRm5hSnlvWUlpU2xJT3Z6c3c?oc=5",
       "source": "Bloomberg",
@@ -194,13 +196,42 @@
       "titleZh": "阿里巴巴支持的机器人制造商 LimX 据称计划在香港首次公开募股，融资金额高达 3 亿美元"
     },
     {
+      "title": "Unitree IPO Could Mark New Era for China’s Robotics Sector",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUDE1TzFCOTBnVkZzQ0Z6RXFacFVEYTZnYmhJLTh3cGRZblNiVDNnSERSS0kxd0R0Wl9qZGczYUxDMGV0RkRWOGl5UURKUV94UmdIOERZWFN3Um5CNUZqMnhmU2Nid20yc0lEekFDWmZPdC1QOWpOOW43cHQ2OFRXZ2JtSnFvYXl5MUVuS1ZqcU0zV3JlWlpjTFR3?oc=5",
+      "source": "WSJ Tech",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-18T07:09:00.000Z",
+      "summary": "",
+      "titleZh": "Unitree IPO可能标志着中国机器人行业的新时代"
+    },
+    {
+      "title": "智驭新程，共创无界｜2026 年 ABB 机器人中国创新大赛正式启动",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JeXNGTXFMSUFZcGJXNEJMVHZtbl84ajZDOHdxSms1c0dadkFUYUZGS3RFa0ZndUpTMlpUMGtVQ3VrOVM3TVZ3RVZyZzk?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-18T10:59:39.000Z",
+      "summary": "2026年ABB机器人中国创新大赛启动，聚焦物理AI在制造场景应用。",
+      "summaryZh": ""
+    },
+    {
+      "title": "宇树科技高开629.44% 单签收益达47万元",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nTm5YVzI3bklvd2NkVC12bFB2ZU5BSkdMSnJ5SjlfQ0NoWC1VR2swUEkzbDlwWUMzdUhubzBLeWlvRU9fc2JWTg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-19T01:25:22.000Z",
+      "summary": ""
+    },
+    {
       "title": "乡村智能养老重在可感可及",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtX1VwbFRUa0hSTHRaVTRrQm1XdzdseTMtOWdzNDZRajdNenRXZGI0eVdEWXNUdV82US12TG9sZ0hWdFRuUVN2Rl93WmxZQWlPemYtV0c2eFZVMVIxOFl3?oc=5",
       "source": "中国经济网",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-18T22:42:00.000Z",
-      "summary": "“人工智能+养老服务”在乡村需嵌入老人生活场景，实现长效运行。",
+      "summary": "“人工智能+养老服务”融入乡村，需技术适老化，构建可持续生态。",
       "summaryZh": ""
     }
   ]
