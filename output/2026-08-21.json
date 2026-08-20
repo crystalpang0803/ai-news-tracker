@@ -1,17 +1,7 @@
 {
   "date": "2026-08-21",
-  "generatedAt": "2026-08-20T18:54:54.140Z",
+  "generatedAt": "2026-08-20T20:00:36.734Z",
   "items": [
-    {
-      "title": "荣耀机器人元气仔练成“凌波微步”，将参加第二届人形机器人运动会",
-      "link": "https://www.ithome.com/0/992/362.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-20T13:40:00.000Z",
-      "summary": "荣耀机器人元气仔练成“凌波微步”，将参加第二届人形机器人运动会。",
-      "summaryZh": ""
-    },
     {
       "title": "2026 WRC甩出工业商用家庭消费实景应用答卷，优必选的底牌是“具身智能”",
       "link": "https://zhidx.com/p/586667.html",
@@ -21,6 +11,15 @@
       "pubDate": "2026-08-20T15:05:09.000Z",
       "summary": "优必选在2026 WRC展示多场景应用，以具身智能技术为核心。",
       "summaryZh": ""
+    },
+    {
+      "title": "宇树科技王兴兴：具身智能的“ChatGPT时刻”需要AI模型和真实机器人的对齐",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBON2t1a1RFZnpodEQ0aTgySlpydkgwNnQyczhUR1BuVEI0b0x5bC1ibUdVYW9tc2l0ZDFpVVRQSHB2aFotdlY4bw?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-20T02:15:39.000Z",
+      "summary": ""
     },
     {
       "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
@@ -43,33 +42,13 @@
       "summaryZh": ""
     },
     {
-      "title": "高乐股份：连续七年亏损底色未改，67亿算力大单转型成效待考",
-      "link": "https://www.tmtpost.com/8110708.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-20T10:40:38.000Z",
-      "summary": "高乐股份连续七年亏损，67亿算力大单转型成效待考。",
-      "summaryZh": ""
-    },
-    {
-      "title": "揭秘 OpenAI 的“终极野心”：让智能体像人类一样熟练操作电脑",
-      "link": "https://www.ithome.com/0/992/339.htm",
+      "title": "Waymo 将 Gemini AI 助手整合进 Ojai 自动驾驶出租车，可语音调温度、查周边",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82djNFLUIzUXFwMDJUUFE1T2ROTEFfeUxqUDZic2pIUXdSeFJjSjBWd3FxMlZjeGJWZnhUX1RlYkd2c1paU2xvN1ZqRmg?oc=5",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-20T12:29:27.000Z",
-      "summary": "OpenAI正研发AI智能体熟练操作电脑技术，旨在改变人类与电脑交互方式。",
-      "summaryZh": ""
-    },
-    {
-      "title": "乐宠它以自研大模型与混元交互算法，重新定义人宠连接",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9STl95SlBHaFZyYjZYbXRPWW8za0JNNVkzY2pwQmk4Y0VBY1UtaEJ3Q2tMOEcweVgwRi1VQXNnYXU2RnB2RG5seTB2RklMb3FjRU9QUXoyY3E?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-20T06:52:45.000Z",
-      "summary": "乐宠它推出自研大模型与混元交互算法，重构AI养宠生态。",
+      "pubDate": "2026-08-20T07:02:15.000Z",
+      "summary": "Waymo Ojai自动驾驶出租车整合Gemini AI助手，支持语音调节温度和查询周边信息。",
       "summaryZh": ""
     },
     {
@@ -89,7 +68,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-20T09:01:21.000Z",
-      "summary": "AI芯片等硬件推动亚洲至北美空运需求增长14.7%，大韩航空预计需求将持续至2026年下半年。",
+      "summary": "亚洲至北美空运需求因AI芯片等硬件激增14.7%，大韩航空预计强劲需求将持续至2026年下半年。",
       "summaryZh": ""
     },
     {
@@ -102,33 +81,32 @@
       "summary": ""
     },
     {
-      "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
-      "link": "https://www.qbitai.com/2026/08/476199.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-20T09:46:23.000Z",
-      "summary": "Prime Intellect利用多智能体Harness使开源模型Kimi K3逼近闭源模型Opus 5。",
-      "summaryZh": ""
-    },
-    {
       "title": "中国AI落地最大短板：社会保障体系而非算力算法",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sSkZsaEtTLVJKSUtXaDhrUjJfM0c3c0N0R3k0UWNNM3dfd2R5T2pMcV80LU54bUE3RjBPVEFMOEJqRzkwMFVOcHhvSGdTZFV6N3d4cGFmQkwxNVZrSEd0eS1B?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-20T10:18:17.000Z",
-      "summary": "中国AI落地面临社会保障体系短板，而非算力算法问题。",
+      "summary": ""
+    },
+    {
+      "title": "飞渡科技\"峥嵘大模型\"斩获HICOOL 2026全球一等奖，空间智能基础设施赛道迎来领跑者",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FMkNHM3RIVW11aEs5VlV5cW5ROVctLUNDOXZwT3NYeWEtTWZyeklqZ0VSVUtvczRKTWNVLXN6WURiZFRubWFWbVRCb1Y?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-20T02:09:00.000Z",
+      "summary": "飞渡科技“峥嵘大模型”获HICOOL 2026全球一等奖，领跑空间智能基础设施赛道。",
       "summaryZh": ""
     },
     {
-      "title": "阿里巴巴：第一财经AI云与算力服务收入484.37亿，AI相关产品收入连续12季实现三位数同比增长",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkZXV2eEVYWS12NzBieTFRQnVLcWNhSmZQUXp5M0hXWU5YY1Y1ekMySWUtd1JwZVNVNVNYRWltLXFmNXloWDA4NEFGamN0N2hkbUpuNW9HVnc?oc=5",
+      "title": "吴泳铭：平头哥AI芯片下半年将持续放量",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CQWtIcWVydzhqV01pOEhQbV8xa1hLVXJ4WkRkVXdaTzVZZWI4UWJ2VmE0NUxKRDNnRmtxNEhTMlJBVXNldGR3RzJWWnJUNUltcjhLVi1fWUQ?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-20T10:16:52.000Z",
-      "summary": "阿里巴巴第一财经AI云与算力服务收入484.37亿，AI相关产品收入连续12季三位数增长。",
+      "pubDate": "2026-08-20T12:13:19.000Z",
+      "summary": "平头哥AI芯片下半年将扩大销售以满足需求。",
       "summaryZh": ""
     },
     {
@@ -138,7 +116,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-20T12:32:37.000Z",
-      "summary": "协创数据表示无自研通用大模型规划，将服务大模型开发者及行业客户。",
+      "summary": "协创数据表示未规划自研通用大模型。",
       "summaryZh": ""
     },
     {
@@ -148,7 +126,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-20T12:54:46.000Z",
-      "summary": "阿里吴泳铭称AI算力投资三年内回本。",
+      "summary": "阿里预计AI算力投资三年内回本。",
       "summaryZh": ""
     },
     {
@@ -161,62 +139,35 @@
       "summary": ""
     },
     {
-      "title": "阿里财报：AI商业化全面加速，云增速45%创22个季度新高，即时零售劲增45%",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Yak5vekhVVFFxOGZNSkp4RzU2aTBvWnd5bDVaOUdFOVcwSi1xWUlpU096bFJadHYwVFgxcGk4X3lYakhxUE10NlF4cjVSTng5RnotM1R1ZVdhUEJJdlVQX1RrS0tjUWZQQmJsdmVvbnZHMFZn?oc=5",
-      "source": "金融界",
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-08-20T17:18:58.000Z",
+      "summary": "研究显示，ChatGPT发布后近三分之一的网页存在AI创作迹象。",
+      "summaryZh": "",
+      "titleZh": "研究发现，自 ChatGPT 推出以来发布的网页中有三分之一显示出人工智能作者身份的迹象"
+    },
+    {
+      "title": "今年WRC最大展台，预告具身智能未来",
+      "link": "https://www.qbitai.com/2026/08/476141.html",
+      "source": "量子位",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-20T09:40:54.000Z",
-      "summary": "阿里财报显示，AI商业化加速，云业务增速45%创新高，即时零售收入增长45%。",
+      "category": "robotics",
+      "pubDate": "2026-08-20T09:42:44.000Z",
+      "summary": "WRC最大展台星海图展示具身智能，机器人实现自主泛化与真生产力。",
       "summaryZh": ""
     },
     {
-      "title": "具身智能爆发，思必驰全栈 AI 交互能力让机器人更懂人",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zVGZsZFJDZkYzREpKMmQzMDIxbmJtb1JwZ1VJZ0w1Qk5nMFRwaG5oSUxCSF9ZNEUyT2I5SHFIOExEUlY3RUtRV3BLT2c?oc=5",
-      "source": "极客公园",
+      "title": "935亿热钱与冷水：宇树成为具身智能最后一只神股？",
+      "link": "https://www.tmtpost.com/8109234.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-20T10:53:09.000Z",
-      "summary": "思必驰全栈AI技术赋能，提升机器人交互自然性和准确性。",
+      "pubDate": "2026-08-20T10:57:42.000Z",
+      "summary": "宇树科技登陆科创板，具身智能融资进入理性时刻。",
       "summaryZh": ""
-    },
-    {
-      "title": "研报 | 预估2026年中国人形机器人市场规模达150亿元人民币，商业化验收启动",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zLS1lWDgtWU5rTU1pWS1yMDJBcnQ4dm5mQW5LRTU0eVZLeTRaSWNWMU00aU5UaTctZjhqUlJ3U09Yb2tXMERVMVFxeG80enYwemUzSlJ2aw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-20T02:37:31.000Z",
-      "summary": "2026年中国人形机器人市场规模预计达150亿元，商业化验收启动。",
-      "summaryZh": ""
-    },
-    {
-      "title": "[正点财经]第二届世界人形机器人运动会开幕在即 新增乒乓球项目 考验机器人AI自主决策能力",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FcjA5V2paV0JaQUlmME8yLWhGM0hRa2hMcGVpTzA3M2ZhaU5YclR6YW1McWY3cmpHS0o2OUp4T3ZoVHNqR1ZDaHQzYkNtZTlRM1dCRnJxcFlYQUJ2RVM5SDlURTlPaXhHV2Y0anh3S2RLZUVXOWc?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-20T09:12:00.000Z",
-      "summary": "第二届世界人形机器人运动会将开幕，新增乒乓球项目考验AI自主决策。",
-      "summaryZh": ""
-    },
-    {
-      "title": "直击WRC 2026|星尘智能发布Lumo-2模型 人形机器人T1起售8.99万元",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOdmtJQXhtdHJlWHkwclA2VElIZzB4ZHlfYlAxS29PMF9aSFNrUFFLWnQ4Y3dtR09VUFNEZnU1ckFIWkVWR0xIZ0F5SHJ4OVNQRmFKUE9ydHYwci1SOWEyc05R?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-20T10:11:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "直击WRC|《2026人形机器人产业发展报告》：我国上半年出货量超4万台",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HSWV0dDdlQ1RkYU5kdk40NnctanBvZ2JzZURBNVNXai1oTjZjU1Fib1owNkY1V3FjdWMzdERvbFFiWi1WT25vUkZNTUdBMkt2Ulk0cWFXZ0lSNlFCTjd4SFZR?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-20T08:52:00.000Z",
-      "summary": ""
     },
     {
       "title": "留美 25 年搞机器人，他说：我完美错过了所有发财机会",
@@ -225,8 +176,39 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-20T10:53:08.000Z",
-      "summary": "留美25年机器人专家张福民专注冷门领域，不追热点，专注陪伴科技。",
+      "summary": "留美25年机器人专家张福民专注海洋机器人，认为陪伴科技是未来方向。",
       "summaryZh": ""
+    },
+    {
+      "title": "Amazon&#8217;s drone deliveries are landing in pools and ponds",
+      "link": "https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-20T14:59:21.000Z",
+      "summary": "亚马逊无人机投递误落池塘。",
+      "summaryZh": "",
+      "titleZh": "亚马逊的无人机送货落在水池和池塘里"
+    },
+    {
+      "title": "Poolease X1 Pool Robot Review: How Bad Can It Be?",
+      "link": "https://www.wired.com/review/poolease-x1-pool-robot/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-20T11:02:00.000Z",
+      "summary": "Poolease X1泳池清洁机器人价格低廉，但清洁效果一般。",
+      "summaryZh": "",
+      "titleZh": "Poolease X1 泳池机器人评测：它能有多糟糕？"
+    },
+    {
+      "title": "美国自动化促进协会主席谈北美机器人趋势：北美上半年55%订单来自非汽车产业",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kaEZsLUdFYV9zVG9BdlNzTGRPbFpMUkV0MzVzbmVUZGI4RGpGR25yLTI0VTFKcGZHeFgycTQ0aERmMHg1Y2xvTUFfZXpwRklGT3Y0?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-20T13:18:15.000Z",
+      "summary": ""
     }
   ]
 }
