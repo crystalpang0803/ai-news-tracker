@@ -1,45 +1,54 @@
 {
   "date": "2026-08-20",
-  "generatedAt": "2026-08-20T01:53:36.616Z",
+  "generatedAt": "2026-08-20T04:19:15.016Z",
   "items": [
     {
-      "title": "钛晨报事关每个人看病报销，全民医保“十五五”规划发布；宇树科技上市首日收涨460%，京东也发布机器人战略；三星据悉上调芯片代工价格，SK海力士抛出40万亿韩元回购",
-      "link": "https://www.tmtpost.com/8109408.html",
-      "source": "钛媒体",
+      "title": "AI Agent加速落地，百融智能抢占下一代交互入口",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FMzNKTjVlTUJ2dWM0VC1oZ292VEJ2SUUzc0NoeWVBNDFlYnJPc3dRcDNOYXc0aWJIcHJadVVNNU5QczBfeEY4T2Q0Wk5MbmJTN3h6Rm5oYVg?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-19T23:20:00.000Z",
-      "summary": "全民医保“十五五”规划发布，宇树科技上市首日涨460%，三星上调芯片代工价格，SK海力士抛出40万亿韩元回购。",
+      "category": "ai",
+      "pubDate": "2026-08-20T03:58:26.000Z",
+      "summary": "百融智能AI Agent加速落地，抢占下一代交互入口，全双工语音技术提升用户体验。",
       "summaryZh": ""
     },
     {
-      "title": "国产液电混驱超人形机器人首秀：身高达 4 米，突破从公斤级到千吨级力量限制",
-      "link": "https://www.ithome.com/0/991/899.htm",
+      "title": "宇树科技推出仿生 7 轴灵巧机械臂，售价 9900 元起",
+      "link": "https://www.ithome.com/0/992/067.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-20T01:00:00.000Z",
-      "summary": "国产液电混驱超人形机器人首秀，身高4米，突破力量限制。",
+      "pubDate": "2026-08-20T04:13:26.000Z",
+      "summary": "宇树科技发布仿生7轴机械臂R1，售价9900元起。",
       "summaryZh": ""
     },
     {
-      "title": "宇树主导的四足机器人市场，它悄悄拿到了6%",
-      "link": "https://zhidx.com/p/586437.html",
-      "source": "智东西",
+      "title": "宇树科技王兴兴预计人形机器人将在十年内进入“大众市场”",
+      "link": "https://www.ithome.com/0/992/011.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-19T13:35:41.000Z",
-      "summary": "维他动力在四足机器人市场占比达6%，主打消费级产品。",
+      "pubDate": "2026-08-20T03:35:35.000Z",
+      "summary": "宇树科技王兴兴预测人形机器人十年内将进入大众市场。",
       "summaryZh": ""
     },
     {
-      "title": "昨夜，DeepSeek Harness首发新版本：14项更新，多模态能力拉满！",
-      "link": "https://zhidx.com/p/586603.html",
-      "source": "智东西",
+      "title": "OpenAI布局大型AI工厂，算力基建环节持续受益，关注人工智能ETF易方达（159819）配置价值",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YM2FUaUZFWjluWEFfOWtDN1VtVDZ2d3M2WER4YTN2UmZCZm9LTnhZV1N0Z1lTeDYwOHZyeWRienpBQTY5ZlRhRG5hOC1sVWs5YUFlX2M1SG9xRUxXNHplTEd5b0d0QXNtWDhYRA?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-20T00:00:16.000Z",
-      "summary": "DeepSeek Harness新版本发布，新增14项更新，多模态能力显著提升。",
+      "pubDate": "2026-08-19T11:33:28.000Z",
+      "summary": ""
+    },
+    {
+      "title": "[ 公告臻选 AIGC+工业大模型+PCB+华为！公司签订65亿元高性能算力服务销售合同",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KZ21zQnI0UXJmN3hSNDVONjVRWE9HVE44anNFb2NvSmtfSmJMbWplRWlHNHNUZDdrcGRzTzRqQXZpYmFCZHJVUndtRy1ybEhURHNnV1lZcWw?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-19T14:01:28.000Z",
+      "summary": "公司签订65亿元高性能算力服务销售合同，涉及AIGC、工业大模型等。",
       "summaryZh": ""
     },
     {
@@ -60,7 +69,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-19T18:01:43.000Z",
-      "summary": "Unitree Robotics在上海科创板上市，首日股价上涨460%，融资约9亿美元。",
+      "summary": "Unitree Robotics在上海科创板上市，融资约9亿美元，成为首个上市的人形机器人公司。",
       "summaryZh": "",
       "titleZh": "Unitree Robotics的IPO对人形机器人行业意味着什么？"
     },
@@ -71,48 +80,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-19T07:42:27.000Z",
-      "summary": "具身数据底座发布，解决机器人训练数据难题。",
+      "summary": "具身数据底座发布，提供机器人训练新方案。",
       "summaryZh": ""
     },
     {
-      "title": "对话鹿明机器人创始人喻超：具身下半场，从造机器人转向造技能",
-      "link": "https://www.tmtpost.com/8109017.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-19T10:36:39.000Z",
-      "summary": "鹿明机器人创始人喻超提出，机器人行业应从造机器人转向造技能，以提升机器人在真实环境中的作业能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "自动化采血机器人 Aletta 获 FDA 批准上市，采血成功率不输人工",
-      "link": "https://www.ithome.com/0/991/890.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-20T00:27:25.000Z",
-      "summary": "自动化采血机器人Aletta获FDA批准上市，采血成功率与人工持平。",
-      "summaryZh": ""
-    },
-    {
-      "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
-      "link": "https://www.qbitai.com/2026/08/475901.html",
-      "source": "量子位",
+      "title": "特斯拉上线豆包大模型 车机已陆续推送",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KaGdXYlFnV0NjVm9JLUx3OGt6UFFGQ19YYWhKVVI1N1owcnRsZE5GRzlOc1RUU2VyR2ZFcHp4Ul80Y2ItWWk4NkFvelF2QmpSZTd0QXM5Z1hVUTFIV0dWMlpBUnBFclotRmtTMA?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-19T08:34:36.000Z",
-      "summary": "360凭借“智能体+安全”双轮驱动入选IDC2026中国AI50强。",
-      "summaryZh": ""
-    },
-    {
-      "title": "特斯拉上线豆包大模型",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBNzhXeXNiUHd1ZEJ0RHhhXzVIWDVIaHBkMEs5NnZ4TkZsTUNsUTlTLUpMWE40bHZIcldKSzFxT05nWTYxX19uT0xWY0tHclk2YjBjUDJtVGY?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-19T11:46:37.000Z",
-      "summary": "特斯拉推出豆包大模型，车机已陆续推送。",
-      "summaryZh": ""
+      "pubDate": "2026-08-19T11:36:39.000Z",
+      "summary": ""
     },
     {
       "title": "AI时代，算力狂奔、存储补课：大数极限重启国产机械硬盘产业化攻坚",
@@ -121,7 +99,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-19T20:37:20.000Z",
-      "summary": "国产机械硬盘产业化攻坚重启，AI时代存储需求推动技术革新。",
+      "summary": "国产机械硬盘产业化攻坚重启，AI时代存储需求推动技术创新。",
+      "summaryZh": ""
+    },
+    {
+      "title": "当开源大模型开始谈分成",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oU0xRRG0wN05WLWlvdFBoRVZ2TWJYZlAwMDFfRGtTN0lNbzY4bGx6b3hpdWhNbkxxR1R2Z29JVWZHV2w5MXFxVzBMdV8?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-19T05:19:00.000Z",
+      "summary": "开源大模型引入收入分成，从无偿使用走向免费增值。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI算力租赁商Nebius低开低走，跌幅扩大至12%",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16VzlQZDBYWDFsTVpTRWZJcXJsRFBlbUc2WG1ocWJUSTNFQ3A3WU95Q0haTGhieVNCOFl5T3VZSFF3YTZrTnFCUDNtekJPQXdhVlBsd1NNcWFBdw?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-19T13:56:00.000Z",
+      "summary": "AI算力租赁商Nebius股价低开低走，跌幅达12%。",
       "summaryZh": ""
     },
     {
@@ -131,17 +129,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-19T10:56:10.000Z",
-      "summary": "科捷荣获IDC中国人工智能创新奖，领跑供应链智能体落地。",
+      "summary": "科捷荣获IDC中国人工智能创新奖，领先供应链智能体落地。",
       "summaryZh": ""
     },
     {
-      "title": "倒计时100天！高交会人工智能与机器人产业链双展加速成形",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6dXdPMFM0by1XV3oxRFRkdnY1SThhc2s1eXNRVktJMmk3MU1HcGIwWVNLcEYtUi15QURWbEFrS0doUFRZcUVqSThKRXpRblZLSHo2b2kzeVk?oc=5",
+      "title": "三星因AI芯片需求激增上调代工价格，科创100ETF博时(588030)跟踪指数上涨2.71%",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmQlZnTUd0WEdGaTdFUWtBaU5rYmlxamgydFNWZ2R3RWh3Y2Z2TEktYTBqT1hpYl8teGRpUU9jX2lOMkk3UXN4eUl2SC1ESTBSdk5mMGc5aWs?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-19T07:35:37.000Z",
-      "summary": "高交会人工智能与机器人产业链双展倒计时100天，筹备进入冲刺阶段。",
+      "pubDate": "2026-08-20T02:30:00.000Z",
+      "summary": "三星AI芯片代工价格上涨，带动科创100ETF博时指数上涨2.71%。",
       "summaryZh": ""
     },
     {
@@ -153,15 +151,6 @@
       "pubDate": "2026-08-19T23:59:59.000Z",
       "summary": "中金预测，AI算力推动下，服务器液冷泵市场将迎来增长。",
       "summaryZh": ""
-    },
-    {
-      "title": "国产算力迎扩张浪潮：大厂“超预期”加码投资 产业链多环节开启扩产",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2b3IxVUdjekVGdExyMWRGdzg5S0VSOWVFaGVwT0xuT1o3Q29iVnRKYm5OdzJNTXNOTU85Ym9ybXdQUHk3elpvOQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-19T09:29:20.000Z",
-      "summary": ""
     },
     {
       "title": "“人工智能+消费”点亮七夕 这场智能网联汽车首发活动落地成都春熙路",
@@ -180,7 +169,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-19T13:55:30.000Z",
-      "summary": "Serve Robotics将与Grubhub合作，在芝加哥、洛杉矶和亚历山大部署自主配送机器人。",
+      "summary": "Serve Robotics将在Grubhub平台上提供芝加哥、洛杉矶和亚历山大的自动配送机器人服务。",
       "summaryZh": "",
       "titleZh": "Serve Robotics 将与 Grubhub 一起部署其自动送货机器人"
     },
@@ -190,18 +179,18 @@
       "source": "Reuters Technology",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-08-19T19:37:14.000Z",
+      "pubDate": "2026-08-19T07:13:00.000Z",
       "summary": "",
       "titleZh": "独家：奇瑞机器人部门拟IPO，瞄准警用机器人海外市场"
     },
     {
-      "title": "灵巧手与“最后一厘米”：机器人商业化的真正瓶颈",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XZF9RQ3U2eHRwWTBaX25lVGVvanFTTk4zbGtPeS1ESUZIUWtZbWJFSUk1WVZ4bWNmN1Zka0Z3SDA1MU9GV3lCSFMyWFVld3VIbUYyTlFmSQ?oc=5",
-      "source": "与非网",
+      "title": "第二届世界人形机器人运动会有哪些新“看点”？“选手”准备得如何了？一文了解↓",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IWTJ6bWdyWkltbGJ4RTZjc1dPdi1kMUhDZHB4MXBsU09kdW9JQWxKUEZ3NkdpWXk5T0hiMUJaNENWaVNtU2NlZFB3WENHZ3dveXItbWl6VFp1TzI1TjQtcHl0SFNWbGRsbnpEUGY0WVpOYURPMzdHNA?oc=5",
+      "source": "央视网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-19T01:59:29.000Z",
-      "summary": "机器人商业化瓶颈在于灵巧手技术的精度与稳定性。",
+      "pubDate": "2026-08-20T01:53:44.000Z",
+      "summary": "第二届世界人形机器人运动会即将举行，选手准备情况及新看点揭晓。",
       "summaryZh": ""
     },
     {
@@ -211,8 +200,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-19T11:42:00.000Z",
-      "summary": "银河通用发布双足人形机器人Galbot ET-1，正在学习打网球。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "100万小时数据，能喂出一个聪明机器人吗？",
@@ -221,7 +209,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-19T04:25:37.000Z",
-      "summary": ""
+      "summary": "百万小时数据难以验证，具身智能需关注数据效率与可解释性。",
+      "summaryZh": ""
     }
   ]
 }
