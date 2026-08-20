@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generatedAt": "2026-08-20T16:48:06.105Z",
+  "generatedAt": "2026-08-20T18:54:54.140Z",
   "items": [
     {
       "title": "荣耀机器人元气仔练成“凌波微步”，将参加第二届人形机器人运动会",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-20T13:40:00.000Z",
-      "summary": "荣耀机器人元气仔学会“凌波微步”，将参赛第二届人形机器人运动会。",
+      "summary": "荣耀机器人元气仔练成“凌波微步”，将参加第二届人形机器人运动会。",
       "summaryZh": ""
     },
     {
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-20T15:05:09.000Z",
-      "summary": "优必选在2026 WRC展示多场景应用，以具身智能技术推动机器人产业发展。",
+      "summary": "优必选在2026 WRC展示多场景应用，以具身智能技术为核心。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-20T01:37:34.000Z",
-      "summary": "墨奇智能在WRC展示具身智能模型MoRA，机器人完成家庭长程任务演示。",
+      "summary": "墨奇智能在WRC展示具身智能模型MoRA，推出MORPHI KINO机器人，实现长程家务任务。",
       "summaryZh": ""
     },
     {
@@ -84,12 +84,13 @@
     },
     {
       "title": "AI芯片、服务器等硬件正在“抢”飞机，亚洲至北美空运需求大涨14.7%，已连续5个月增长！大韩航空：强劲需求将持续到2026年下半年",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44M3pSYnNQZkJSeEQ0eW1LVXhtZFFmc3BKSC01UUpKU0JMUjBDRTdOcjNTVV82eVZOSmVOTGswX1BsZENXRDd4ejhWSQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2MjdQNGtMZ1lIb0ZGMHgtd0dvb0VCdGZKQ3BkbHZnT0dySmVOZ0hHM2VteVdoS0ZMM2pIU0VQNkpwUk1xbGMtV2ZHWGpSLUJx?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-19T17:58:00.000Z",
-      "summary": ""
+      "pubDate": "2026-08-20T09:01:21.000Z",
+      "summary": "AI芯片等硬件推动亚洲至北美空运需求增长14.7%，大韩航空预计需求将持续至2026年下半年。",
+      "summaryZh": ""
     },
     {
       "title": "卡位AI算力黄金窗口，精密光器件“小巨人”鑫巨宏冲刺北交所",
@@ -107,7 +108,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-20T09:46:23.000Z",
-      "summary": "Prime Intellect利用多智能体Harness使Kimi K3逼近Opus 5，挑战经典RSI剧本。",
+      "summary": "Prime Intellect利用多智能体Harness使开源模型Kimi K3逼近闭源模型Opus 5。",
       "summaryZh": ""
     },
     {
@@ -146,8 +147,8 @@
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-20T12:19:41.000Z",
-      "summary": "阿里预计AI算力投资三年内回本。",
+      "pubDate": "2026-08-20T12:54:46.000Z",
+      "summary": "阿里吴泳铭称AI算力投资三年内回本。",
       "summaryZh": ""
     },
     {
@@ -158,16 +159,6 @@
       "category": "ai",
       "pubDate": "2026-08-20T06:14:39.000Z",
       "summary": ""
-    },
-    {
-      "title": "GMSL 高速串行链路：赋能人形机器人与多传感器视觉系统的下一代连接方案_直播",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBub24yWTFIbGZYazF5d3ZiWUZJQkN0NHBtT0hyNjNaNWpSUHphZF9GVzRtRHplMlZxaFI5MzBZZUVZeTFVc1pzUURfUXN1MnNxSUNj?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-20T06:38:03.000Z",
-      "summary": "GMSL高速串行链路技术助力人形机器人和多传感器视觉系统连接。",
-      "summaryZh": ""
     },
     {
       "title": "阿里财报：AI商业化全面加速，云增速45%创22个季度新高，即时零售劲增45%",
@@ -187,6 +178,16 @@
       "category": "robotics",
       "pubDate": "2026-08-20T10:53:09.000Z",
       "summary": "思必驰全栈AI技术赋能，提升机器人交互自然性和准确性。",
+      "summaryZh": ""
+    },
+    {
+      "title": "研报 | 预估2026年中国人形机器人市场规模达150亿元人民币，商业化验收启动",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zLS1lWDgtWU5rTU1pWS1yMDJBcnQ4dm5mQW5LRTU0eVZLeTRaSWNWMU00aU5UaTctZjhqUlJ3U09Yb2tXMERVMVFxeG80enYwemUzSlJ2aw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-20T02:37:31.000Z",
+      "summary": "2026年中国人形机器人市场规模预计达150亿元，商业化验收启动。",
       "summaryZh": ""
     },
     {
@@ -224,7 +225,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-20T10:53:08.000Z",
-      "summary": "留美25年机器人专家张福民专注冷门领域，不惧泡沫，寻求陪伴科技突破。",
+      "summary": "留美25年机器人专家张福民专注冷门领域，不追热点，专注陪伴科技。",
       "summaryZh": ""
     }
   ]
