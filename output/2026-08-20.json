@@ -1,7 +1,27 @@
 {
   "date": "2026-08-20",
-  "generatedAt": "2026-08-19T23:02:06.053Z",
+  "generatedAt": "2026-08-20T01:53:36.616Z",
   "items": [
+    {
+      "title": "钛晨报事关每个人看病报销，全民医保“十五五”规划发布；宇树科技上市首日收涨460%，京东也发布机器人战略；三星据悉上调芯片代工价格，SK海力士抛出40万亿韩元回购",
+      "link": "https://www.tmtpost.com/8109408.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-19T23:20:00.000Z",
+      "summary": "全民医保“十五五”规划发布，宇树科技上市首日涨460%，三星上调芯片代工价格，SK海力士抛出40万亿韩元回购。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国产液电混驱超人形机器人首秀：身高达 4 米，突破从公斤级到千吨级力量限制",
+      "link": "https://www.ithome.com/0/991/899.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-20T01:00:00.000Z",
+      "summary": "国产液电混驱超人形机器人首秀，身高4米，突破力量限制。",
+      "summaryZh": ""
+    },
     {
       "title": "宇树主导的四足机器人市场，它悄悄拿到了6%",
       "link": "https://zhidx.com/p/586437.html",
@@ -13,14 +33,25 @@
       "summaryZh": ""
     },
     {
-      "title": "突发！OpenAI下一代模型Astra项目生变",
-      "link": "https://zhidx.com/p/586144.html",
+      "title": "昨夜，DeepSeek Harness首发新版本：14项更新，多模态能力拉满！",
+      "link": "https://zhidx.com/p/586603.html",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-19T01:00:02.000Z",
-      "summary": "OpenAI暂停Astra模型训练，强化安全措施以应对潜在风险。",
+      "pubDate": "2026-08-20T00:00:16.000Z",
+      "summary": "DeepSeek Harness新版本发布，新增14项更新，多模态能力显著提升。",
       "summaryZh": ""
+    },
+    {
+      "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
+      "link": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-08-19T23:50:00.000Z",
+      "summary": "TrueFoundry开源AI工具TrueForge比Claude Managed Agents任务完成成本低30%-75%。",
+      "summaryZh": "",
+      "titleZh": "TrueFoundry 的开源 AI 代理工具 TrueForge 拥有比 Claude Managed Agents 便宜 30%-75% 的任务完成成本"
     },
     {
       "title": "What does Unitree Robotics’ IPO mean for the humanoid industry?",
@@ -44,33 +75,33 @@
       "summaryZh": ""
     },
     {
-      "title": "AI for Science开始“动手”了：机器人正式走进国家级实验室",
-      "link": "https://www.qbitai.com/2026/08/475332.html",
-      "source": "量子位",
+      "title": "对话鹿明机器人创始人喻超：具身下半场，从造机器人转向造技能",
+      "link": "https://www.tmtpost.com/8109017.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-19T06:29:57.000Z",
-      "summary": "AI机器人正式进入国家级实验室，执行实验任务。",
+      "pubDate": "2026-08-19T10:36:39.000Z",
+      "summary": "鹿明机器人创始人喻超提出，机器人行业应从造机器人转向造技能，以提升机器人在真实环境中的作业能力。",
       "summaryZh": ""
     },
     {
-      "title": "英国车企 Voltempo 研发全自动驾驶重卡：砍掉驾驶室，一切为了载货",
-      "link": "https://www.ithome.com/0/991/844.htm",
+      "title": "自动化采血机器人 Aletta 获 FDA 批准上市，采血成功率不输人工",
+      "link": "https://www.ithome.com/0/991/890.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-19T14:01:03.000Z",
-      "summary": "Voltempo研发无驾驶室全自动驾驶重卡，提升载货能力。",
+      "pubDate": "2026-08-20T00:27:25.000Z",
+      "summary": "自动化采血机器人Aletta获FDA批准上市，采血成功率与人工持平。",
       "summaryZh": ""
     },
     {
-      "title": "告别“堆卡”：2026，中国算力开启“Token价值产出”大考",
-      "link": "https://www.tmtpost.com/8108840.html",
-      "source": "钛媒体",
+      "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
+      "link": "https://www.qbitai.com/2026/08/475901.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-19T09:54:11.000Z",
-      "summary": "2026年，中国算力产业从“堆卡”转向“Token价值产出”挑战。",
+      "pubDate": "2026-08-19T08:34:36.000Z",
+      "summary": "360凭借“智能体+安全”双轮驱动入选IDC2026中国AI50强。",
       "summaryZh": ""
     },
     {
@@ -80,17 +111,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-19T11:46:37.000Z",
-      "summary": "特斯拉推出豆包大模型，车机系统已陆续更新。",
+      "summary": "特斯拉推出豆包大模型，车机已陆续推送。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI布局大型AI工厂,算力基建环节持续受益,关注人工智能ETF易方达配置价值",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjVDAtb3A1Sk8zVTl3WkpUYUFxaUJ6UEZUYmR5VjAySmNlNVBKcWZMZ0RfM3VOQkF6RzV2ZDVtZGpzZTJJLXQ4OUctNWpfWm96bXYzYU9MYzI2aTctNUctSg?oc=5",
-      "source": "同花顺财经",
+      "title": "AI时代，算力狂奔、存储补课：大数极限重启国产机械硬盘产业化攻坚",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hbFdtZjdLZlRlT1J1djdZN0g0Q2xjVXFkWlZIYXVBcF9zbXQxTnpyTUxhUWFfTWtJb3dtdkppcmZyZGFNQzl0RFIzY3o5WUxu?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-19T11:11:59.000Z",
-      "summary": "OpenAI投资大型AI工厂，算力基建持续受益，关注人工智能ETF配置价值。",
+      "pubDate": "2026-08-19T20:37:20.000Z",
+      "summary": "国产机械硬盘产业化攻坚重启，AI时代存储需求推动技术革新。",
       "summaryZh": ""
     },
     {
@@ -100,7 +131,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-19T10:56:10.000Z",
-      "summary": "科捷荣获IDC“最佳智能体实践”奖，领跑供应链智能体落地。",
+      "summary": "科捷荣获IDC中国人工智能创新奖，领跑供应链智能体落地。",
       "summaryZh": ""
     },
     {
@@ -110,17 +141,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-19T07:35:37.000Z",
-      "summary": "高交会人工智能与机器人产业链展倒计时100天，筹备加速，企业集结，技术交易活跃。",
+      "summary": "高交会人工智能与机器人产业链双展倒计时100天，筹备进入冲刺阶段。",
       "summaryZh": ""
     },
     {
-      "title": "“医疗大模型第一股”讯飞医疗上半年营收同比增长49.4%，聚焦三大业务打开百亿ARR增长空间",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EVnpfd2xPSVpjN0RFam9ITzRBR085d2FKbHZvOF9oR1NZaXBiSE1JRVpJNzdidm9pbzJNMGtuS1BtMHdORUZ3UE0wRmdsemxxcmZN?oc=5",
+      "title": "中金：AI算力驱动迭代 服务器液冷泵开启新增长极",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyRUhmUFJkZzVpcG1NT2VmVEVHalpiazVKM2dBdmllUm83U1dxVmNhSWxMLVdrWlZXcmFRTzBEQ3pGV05GZjNrQTNOME1zZi1DdjNR?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-19T10:38:19.000Z",
-      "summary": "讯飞医疗上半年营收增长49.4%，聚焦三大业务拓展百亿ARR增长空间。",
+      "pubDate": "2026-08-19T23:59:59.000Z",
+      "summary": "中金预测，AI算力推动下，服务器液冷泵市场将迎来增长。",
       "summaryZh": ""
     },
     {
@@ -130,15 +161,6 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-19T09:29:20.000Z",
-      "summary": ""
-    },
-    {
-      "title": "三星因AI芯片需求激增上调代工价格 部分先进制程涨幅最高达15%",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMc1V2dzkxZFZucGpHNkpfSHEwOVJxbEUta0Zkak5sTndhYVN0cmh3SXEtaWRPalVSMXhKanhXeEVka0swdkFFSg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-19T08:47:00.000Z",
       "summary": ""
     },
     {
@@ -152,34 +174,13 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI says ads are coming to ChatGPT in Europe next week",
-      "link": "https://techxplore.com/news/2026-08-openai-ads-chatgpt-europe-week.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-08-19T14:20:01.000Z",
-      "summary": "OpenAI宣布下周将在欧洲推出ChatGPT广告功能。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 表示广告将于下周在欧洲的 ChatGPT 上推出"
-    },
-    {
-      "title": "GPT开始免费，DS却涨价了，大模型价格战为何逆转？",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8ybVh1Qmk1VXVFSUItOHM2ck1GaEJWcUxxdnBXdk05ZkowSkg1ZjZNeGVIOWdjNWdEQ3U0ZlI2LXZjZ0ZkTm9oRkQ3Tk0ycDZYTDFPTnJ0M3dPMlpuTWc?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-18T23:09:00.000Z",
-      "summary": "GPT免费，DeepSeek涨价，大模型价格战逆转。",
-      "summaryZh": ""
-    },
-    {
       "title": "Serve Robotics to deploy its autonomous delivery robots with Grubhub",
       "link": "https://www.therobotreport.com/serve-robotics-deploys-autonomous-delivery-robots-grubhub/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-19T13:55:30.000Z",
-      "summary": "Serve Robotics将在Grubhub平台上提供机器人配送服务。",
+      "summary": "Serve Robotics将与Grubhub合作，在芝加哥、洛杉矶和亚历山大部署自主配送机器人。",
       "summaryZh": "",
       "titleZh": "Serve Robotics 将与 Grubhub 一起部署其自动送货机器人"
     },
@@ -204,14 +205,23 @@
       "summaryZh": ""
     },
     {
-      "title": "德州仪器(TI)类人机器人传感器模块解决方案_电路方案",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90RThJX1UzcVFGTkFEbVRUa0xaR19RMlBlNUpqSVltdFBsSmhjYldDYWhja2tYMUJWSnZvS05jQ2JhVHFKMDlKcEVfaGRpWlZ2Rmkxbjk5VQ?oc=5",
-      "source": "与非网",
+      "title": "银河通用发布双足人形机器人，目前正在学习打网球",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yVXpxSjRKZy0xX2pxaTBmOXo0UEJPVzE0R3BJMDhCekQ4aDNrUEFnOHhkOXRKZC1naFhzWWFHSVB1bl9wY0pXNW1RZC11UFRWeEItTFZlNjVILXd3V1poekRWZ2s?oc=5",
+      "source": "新京报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-19T01:11:24.000Z",
-      "summary": "德州仪器推出类人机器人传感器模块解决方案，支持雷达、激光雷达、超声波等传感器。",
+      "pubDate": "2026-08-19T11:42:00.000Z",
+      "summary": "银河通用发布双足人形机器人Galbot ET-1，正在学习打网球。",
       "summaryZh": ""
+    },
+    {
+      "title": "100万小时数据，能喂出一个聪明机器人吗？",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2elJ3SkNQcUtLdzBrMk1TNGNQWWdCWWo5OHRaNlpJTlpaQ0tXN3hEN3BrSlFuYjlMc1I5cjVSMDVxeXk2V192aEFUQkVhUURXb1JlVw?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-19T04:25:37.000Z",
+      "summary": ""
     }
   ]
 }
