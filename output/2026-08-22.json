@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generatedAt": "2026-08-21T18:51:36.675Z",
+  "generatedAt": "2026-08-21T19:55:27.907Z",
   "items": [
     {
       "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-21T11:47:27.000Z",
-      "summary": "九识智能与宇通联合推出载重4.2吨、容积19.32立方米的自动驾驶轻卡Z20。",
+      "summary": "九识智能与宇通联合推出载重4.2吨、容积19.32立方米的自动驾驶轻卡Z20，面向工业运输场景。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-21T10:03:28.000Z",
-      "summary": "DeepSeek推出多模态模型DeepSeek-V4-Flash-Vision-Exp，图片理解能力提升，价格低至0.001元。",
+      "summary": "DeepSeek推出多模态模型DeepSeek-V4-Flash-Vision-Exp，单张图最高0.001元。",
       "summaryZh": ""
     },
     {
@@ -59,7 +59,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-21T15:34:51.000Z",
-      "summary": "中国机器人企业宇树科技在硅谷机器人大会上成为焦点。",
+      "summary": "硅谷机器人大会上，中国机器人企业成为焦点。",
       "summaryZh": ""
     },
     {
@@ -91,13 +91,24 @@
       "summary": ""
     },
     {
+      "title": "宇树科技王兴兴：探索物理AI机器人自进化",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42QWd1RVEyVmxuSkZMVEJsTDJGa1g2Qks5b2QyQWZYYm9PQUhiTmRnSzVEeXdYX1RjZVVxQk90TlZtV3hXNTBZb3U4bTJCNzNQSlpiNkh5dWY?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-20T23:32:35.000Z",
+      "summary": "宇树科技王兴兴在2026世界机器人大会上阐释物理AI机器人自进化概念。",
+      "summaryZh": ""
+    },
+    {
       "title": "大厂的AI人才抢夺战，人比算力更贵",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zOExKWFZxZ0dqREpoSnRxOUtwdW9LWnZCbFNQNjF4RHFiMmlqN3Ffc2lGVDFTeXktZTZtY0ZmeTZaUWZaZ2xIY3pRSDI5Zw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15VHZIcEUzZXUxWkgtTlFkYUNuc3F1dkJhOWEyeTJMbHVZZ0R1ajZPbGFRRDVzSkNHVTZDVTY4bTl2Nlhpb1JFV0hUNlM0Y244?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-20T19:52:00.000Z",
-      "summary": ""
+      "pubDate": "2026-08-21T10:56:27.000Z",
+      "summary": "AI人才薪酬激增，大厂为抢夺人才不惜重金。",
+      "summaryZh": ""
     },
     {
       "title": "节制外卖、重注AI，阿里开始算账",
@@ -129,13 +140,22 @@
       "summaryZh": ""
     },
     {
+      "title": "王兴兴：机器人两三年内或迎关键突破",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wSEtveEphYUFBVXBISmtIV0RSNjFldWJ3WDAxaTVhb3oySWxLRVpkZC14SmhGR2hHaVlWeWxCS2d0YjUwWk8yRw?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-21T12:35:46.000Z",
+      "summary": ""
+    },
+    {
       "title": "交通运输领域人工智能加快落地应用",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9icGo5WHliNHJiUm9YSUNxUWlwNlMzdDk5VTJhbVhELURiZ0dCdTJseTZNdGFuM0h3UEYzb20xNVc4RHR2Z1VOSS1WUFM0eGg5TDVJQlRuNE5hTTRubHc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BaVQyXzRtbUZ1aFdqeTV5TlpnTUgzalUyZHl6N25wdWJ5UjkzV2Zwb1I2QVNCdFAtd0dvUGN4TzNyaHVaak1sOTVJQnFsODh0VnlhMmdOWlV6TzhkSGc?oc=5",
       "source": "澎湃新闻科技",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-21T03:30:00.000Z",
-      "summary": "交通运输部推进人工智能与交通运输深度融合，四大方向实施创新行动。",
+      "pubDate": "2026-08-21T15:00:00.000Z",
+      "summary": "交通运输部加速推进人工智能在基础设施、运载工具、运输服务和行业治理等领域的应用。",
       "summaryZh": ""
     },
     {
@@ -145,7 +165,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-21T11:28:05.000Z",
-      "summary": "出门问问聚焦AI Agent业务，调整结构以应对行业竞争。",
+      "summary": "出门问问聚焦AI Agent业务，调整结构减少传统业务投入。",
       "summaryZh": ""
     },
     {
@@ -155,17 +175,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-21T02:11:22.000Z",
-      "summary": "科创创业人工智能ETF易方达（159140）因港股上市制度改革和AI商业化提速而显现配置价值。",
-      "summaryZh": ""
-    },
-    {
-      "title": "WRC 现场｜跨维智能亮相WRC2026 生成式世界模型加速具身智能产业落地",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KM1lIXzExc2kzcUdoYmJVU2c0NHNWVDAwSWM5X0FjYU5haUNJRUJsdEdFSXpFV3FveEV1WllQOS1DY2NrcmY5WE5rSG5zdlpUTkRYZU1Ra0I?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-21T08:14:00.000Z",
-      "summary": "跨维智能在WRC2026展示生成式世界模型，加速具身智能产业落地。",
+      "summary": "科创创业人工智能ETF易方达（159140）受益于港股改革和AI商业化提速，配置价值凸显。",
       "summaryZh": ""
     },
     {
@@ -176,16 +186,6 @@
       "category": "ai",
       "pubDate": "2026-08-21T06:59:00.000Z",
       "summary": ""
-    },
-    {
-      "title": "从“上场”到“进厂” 资本加码押注人形机器人产业化前景",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3lFV1ZvNE8yQU9CUDRTdGR3OEp0WktFZjVITm5STDlsM0o3LVdibDRlRGE2djJZdllTMHQ4QW1RbWdvVmV2dTIxdlpPZVc5ZFQwTTE2WGdiNlhYcHptSEZMN043cGdqQi1qZ21jUVc5Rndtbjc5bzRVdDZISHZXSEVPNy1GNGI5?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-21T01:33:40.000Z",
-      "summary": "人形机器人出货量超4万台，资本市场加大投资，行业进入投资周期。",
-      "summaryZh": ""
     },
     {
       "title": "基本半导体：SiC+人形机器人，这张牌我先摸了！",
@@ -204,7 +204,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-21T09:04:47.000Z",
-      "summary": "AI虚构民宿照片误导消费，专家提醒警惕消费欺诈。",
+      "summary": "民宿过分精致照片或为AI虚构，专家提醒警惕消费欺诈。",
       "summaryZh": ""
     }
   ]
