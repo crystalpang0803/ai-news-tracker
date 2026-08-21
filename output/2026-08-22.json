@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generatedAt": "2026-08-21T21:44:16.170Z",
+  "generatedAt": "2026-08-21T23:01:12.307Z",
   "items": [
     {
       "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-21T11:47:27.000Z",
-      "summary": "九识智能与宇通联合推出载重4.2吨、容积19.32立方米的自动驾驶轻卡Z20。",
+      "summary": "九识智能与宇通联合推出载重4.2吨、容积19.32立方米的自动驾驶轻卡Z20，面向工业运输场景。",
       "summaryZh": ""
     },
     {
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-21T08:32:19.000Z",
-      "summary": "月泉仿生发布多款仿生机器人产品，满足精细操控需求。",
+      "summary": "月泉仿生发布多款仿生机器人产品，满足多场景精细操控需求。",
       "summaryZh": ""
     },
     {
@@ -49,7 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-21T10:12:35.000Z",
-      "summary": "电脑手机维修从业者转向机器人行业寻求新机遇。",
+      "summary": "电脑手机维修行业从业者转向机器人维修领域。",
       "summaryZh": ""
     },
     {
@@ -91,13 +91,33 @@
       "summaryZh": ""
     },
     {
+      "title": "宇树科技两天市值蒸发近700亿元，机器人场景落地成关键考验",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qVlBsVlhLblBOcDZqZ2lnVnB1MTlwSV8xbW5GdnZ5MUhEN09EUHZIWW1HMW9tYnJ1dUhuQ04tNHdFeG9GaG13cmlHbHVaRTNiemQwYldXTlhsMElqTC1udFB2U1FFZGZULVJGbllR?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-21T10:28:00.000Z",
+      "summary": "宇树科技两天市值蒸发近700亿，机器人场景落地面临挑战。",
+      "summaryZh": ""
+    },
+    {
       "title": "大厂的AI人才抢夺战，人比算力更贵",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15VHZIcEUzZXUxWkgtTlFkYUNuc3F1dkJhOWEyeTJMbHVZZ0R1ajZPbGFRRDVzSkNHVTZDVTY4bTl2Nlhpb1JFV0hUNlM0Y244?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQVE5FdkprbkpVaHY2LWJmVklfYURpYjRSYkFHX2ZtekJLV2U2bE5RNnlYRjhCUDY0NXNtOU5salBnS0xGZW5JcGw0S1BlWmM?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-21T10:56:27.000Z",
-      "summary": "AI人才薪酬激增，大厂为抢夺人才不惜重金。",
+      "summary": "AI人才薪酬飙升，大厂抢夺战激烈。",
+      "summaryZh": ""
+    },
+    {
+      "title": "ChatGPT 可以看短信了，AI 想从你的 App 里拿到你的一切",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPSDRLRVkzMVFuSzltRGZlQUJYWVA2N052WERLVzJFQ0RDdEVSZGdxdVg1d1plRkVyNmtLcWVXRFUxTF85TDY0UmRkX184S1k?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-21T09:41:08.000Z",
+      "summary": "ChatGPT接入Mac端Apple Messages，可检索分析聊天记录并起草回复。",
       "summaryZh": ""
     },
     {
@@ -127,17 +147,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-21T06:49:00.000Z",
-      "summary": "港股大模型概念股智谱、MINIMAX-W涨幅显著。",
+      "summary": "港股大模型概念股智谱、MINIMAX-W涨超11%和14%。",
       "summaryZh": ""
-    },
-    {
-      "title": "王兴兴：机器人两三年内或迎关键突破",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wSEtveEphYUFBVXBISmtIV0RSNjFldWJ3WDAxaTVhb3oySWxLRVpkZC14SmhGR2hHaVlWeWxCS2d0YjUwWk8yRw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-21T12:35:46.000Z",
-      "summary": ""
     },
     {
       "title": "交通运输领域人工智能加快落地应用",
@@ -146,7 +157,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-21T15:00:00.000Z",
-      "summary": "交通运输部推动人工智能在基础设施、运载工具、运输服务和行业治理等领域应用。",
+      "summary": "交通运输部加速推进人工智能在基础设施、运载工具、运输服务和行业治理等领域的应用。",
       "summaryZh": ""
     },
     {
@@ -156,7 +167,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-21T11:28:05.000Z",
-      "summary": "出门问问聚焦AI Agent业务，调整结构减少传统业务投入。",
+      "summary": "出门问问战略聚焦AI Agent业务，调整布局减少传统业务投入。",
       "summaryZh": ""
     },
     {
@@ -170,53 +181,13 @@
       "summaryZh": ""
     },
     {
-      "title": "WRC 现场｜跨维智能亮相WRC2026 生成式世界模型加速具身智能产业落地",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KM1lIXzExc2kzcUdoYmJVU2c0NHNWVDAwSWM5X0FjYU5haUNJRUJsdEdFSXpFV3FveEV1WllQOS1DY2NrcmY5WE5rSG5zdlpUTkRYZU1Ra0I?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-21T08:14:00.000Z",
-      "summary": "跨维智能在WRC2026展示生成式世界模型，加速具身智能产业落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "2026 WRC | 魔法原子“三大场景”全景亮相，“场景驱动·产需共融”主题论坛共探具身智能落地解法",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fUkJXa1MwSF8wc3dScjhqbHB5OWNFQ3VXOXVxMWVCSmF3Y0Nqc3hCcUJlRlB3WGo3dzU1MFdwa2lhYktoVEVOVkd4aHFXWjBwbk50S1ZRZTBNX01mNFJPQ0w0VQ?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-21T03:22:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Vbot ATOM 发布，人形机器人进入产品化时刻",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ib1NEczQ0VkZxdGtFdG5BeURpM2RYUGdta0FDS3JNUEhIeENQRmgwUlFwcDhLQXdLemh2YU5QOGtuQWVIQ1FfV0xHOVM?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-21T18:35:06.000Z",
-      "summary": "Vbot ATOM发布，人形机器人产品化，Vbot布局生活空间具身智能终端。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch",
-      "link": "https://www.therobotreport.com/amazons-bhavana-chandrashekhar-speaks-robobusiness-women-in-robotics-lunch/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-21T19:57:24.000Z",
-      "summary": "亚马逊机器人部门高级经理Bhavana Chandrashekhar将在RoboBusiness女性机器人午餐会上发表演讲。",
-      "summaryZh": "",
-      "titleZh": "亚马逊的 Bhavana Chandrashekhar 将在 RoboBusiness 的女性机器人午餐会上发表讲话"
-    },
-    {
       "title": "大“申”说辟谣 | 民宿照片过分精致好看？小心是AI虚构的“诱饵”",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR1BZZXRYVjZqX3pSUEV0cHZKQVpxaVFwbkI1VElXcGFxdTlRQkJJYlJXRFJjaVhCNnVtS3plbGpaT2ladklBWGFjVDJHUDhFb3pwMXFLT0VKbzR1Yng5ZXhta2dmWVNvMy1uclpCdXR2Ml9ZelljQllpZ3lKbDZtN05TMVl3dw?oc=5",
       "source": "新华社",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-21T09:04:47.000Z",
-      "summary": "民宿过分精致照片或为AI虚构，专家提醒警惕消费欺诈。",
+      "summary": "民宿过分精致照片或为AI虚构，专家提醒谨防消费欺诈。",
       "summaryZh": ""
     }
   ]
