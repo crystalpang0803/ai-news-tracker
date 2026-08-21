@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generatedAt": "2026-08-21T16:48:12.060Z",
+  "generatedAt": "2026-08-21T18:51:36.675Z",
   "items": [
     {
       "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-21T11:47:27.000Z",
-      "summary": "九识智能与宇通联合推出载重4.2吨、容积19.32m³的自动驾驶轻卡Z20，面向工业运输场景。",
+      "summary": "九识智能与宇通联合推出载重4.2吨、容积19.32立方米的自动驾驶轻卡Z20。",
       "summaryZh": ""
     },
     {
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-21T08:32:19.000Z",
-      "summary": "月泉仿生发布多款仿生机器人产品，满足精细操控需求。",
+      "summary": "月泉仿生发布多款仿生机器人产品，满足多场景精细操控需求。",
       "summaryZh": ""
     },
     {
@@ -63,6 +63,16 @@
       "summaryZh": ""
     },
     {
+      "title": "AI进化速递丨DeepSeek上新多模态模型",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZRTIyb2xOdnFQV3lqcko3N1UwS256aG92emRUMzB4Q2tFSXdEQU1BMGQycWhkV2tkVXFFRU9GeVdsZzhGd0xjY1hNLXVkbWF5UGpV?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-21T12:38:02.000Z",
+      "summary": "DeepSeek发布多模态模型DeepSeek-V4-Flash-Vision-Exp。",
+      "summaryZh": ""
+    },
+    {
       "title": "豆包上线技能连接器与多Agent工作伙伴 加码AI协同办公赛道",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xX21fcnJHOW5lY1FBc3owd09Hd0IxeV9VRWh3T3FsU3FWNjY0My1TZDh5U0dwb2dzUFRXWkRpdEkzeG9JVG1GMmEwVUVVODAtSTlJRXNyQmFZYmJDa2NnZ2VSUldHWGFEZTIwYg?oc=5",
       "source": "财联社",
@@ -90,14 +100,13 @@
       "summary": ""
     },
     {
-      "title": "ChatGPT 可以看短信了，AI 想从你的 App 里拿到你的一切",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPSDRLRVkzMVFuSzltRGZlQUJYWVA2N052WERLVzJFQ0RDdEVSZGdxdVg1d1plRkVyNmtLcWVXRFUxTF85TDY0UmRkX184S1k?oc=5",
+      "title": "节制外卖、重注AI，阿里开始算账",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MSU53Z2lZalYtNWl2UXF2ZVU3MU1oVWZtak91czM1bUJlTjJXUExBaFZFdUtNMGNNX1dVLW9qYXFJMEM3aTdlNl9NdDFnUQ?oc=5",
       "source": "36氪",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-21T09:41:08.000Z",
-      "summary": "ChatGPT接入Apple Messages，可检索分析聊天记录并辅助回复。",
-      "summaryZh": ""
+      "category": "application",
+      "pubDate": "2026-08-21T08:48:33.000Z",
+      "summary": ""
     },
     {
       "title": "青少年开发者借助 Claude Code AI 编程工具，成功为惠普打印机冷门机型开发出苹果 macOS 原生驱动",
@@ -110,16 +119,6 @@
       "summaryZh": ""
     },
     {
-      "title": "中央网络安全和信息化委员会：支持企业加强人工智能关键技术研究，研发高端人工智能芯片",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DV3pBd043clNhbHdRX1RvRnBpcnotQ1dFNzNmQVhOem5JYjRhMWV1VkdhUzZiSDZEN0p0ZlJzRlh3TmJ0STlrT3FTY0VwclhOemJGaFJwcjQ?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-21T12:31:18.000Z",
-      "summary": "中央网信委支持企业研发高端人工智能芯片。",
-      "summaryZh": ""
-    },
-    {
       "title": "港股大模型概念活跃",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42MjBqbWticUluT1pGZGhxam45X0ZoNjJrOUJVUmRZRm1RLXBUTkYzUHZrNkowRS12MktCM1FvMExhMDk0dmFpdjBSYjhjdDdvZkgyZA?oc=5",
       "source": "第一财经",
@@ -128,17 +127,6 @@
       "pubDate": "2026-08-21T06:49:00.000Z",
       "summary": "港股大模型概念股智谱、MINIMAX-W涨超11%和14%。",
       "summaryZh": ""
-    },
-    {
-      "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
-      "link": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
-      "source": "VentureBeat",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-08-20T17:25:44.000Z",
-      "summary": "NanoClaw集成Slack，允许用户从单条消息创建持久AI代理团队和同事。",
-      "summaryZh": "",
-      "titleZh": "NanoClaw 加入 Slack，让您可以通过一条消息创建持久的 AI 代理团队和同事"
     },
     {
       "title": "交通运输领域人工智能加快落地应用",
@@ -157,7 +145,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-21T11:28:05.000Z",
-      "summary": "出门问问聚焦AI Agent业务，调整结构减少传统业务投入。",
+      "summary": "出门问问聚焦AI Agent业务，调整结构以应对行业竞争。",
+      "summaryZh": ""
+    },
+    {
+      "title": "港股上市制度改革落地叠加AI产业商业化提速，科创创业人工智能ETF易方达（159140）配置价值显现",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90SVI1SUo4VHExb0tfOGVOcUJJbVI0cWtvcjM1LUxWbDRpbUlvRm5vRW5SR0g0NUF4c0FzZWNCWFp3SWpvY2hxcjBBRGZueWxBbTB5N0xJZ0FmV09TSkRBUTJJWGVyUDNQVmJzMXV2ZDI?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-21T02:11:22.000Z",
+      "summary": "科创创业人工智能ETF易方达（159140）因港股上市制度改革和AI商业化提速而显现配置价值。",
       "summaryZh": ""
     },
     {
@@ -171,24 +169,13 @@
       "summaryZh": ""
     },
     {
-      "title": "全球首家24小时智能无人咖啡店落地东城，机器人制作速度创纪录",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12S1JpS0lUS0stN3gzcnhGSkdzbDAzY1NNSWEwaEs0MzNiUVRfMmdYTlE1WjRuclk3OGVFblI5X3VJZEE4SS1UYUU0bmhfc3dYTDdhNkhJbGVDdTJMZDYyOWxqcmM?oc=5",
-      "source": "新京报",
+      "title": "因赛集团（300781）垂类AI营销体系落地 推出InClaw营销智能体集群",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rdHhVUnZfMWJyUHRjMU15bTdqRHNRcTdPajk0NGlJd3Frak12aHE5S29MaFFlR2dlMGxzYUdtNGswUFQ1eklqSW9GOGhLZWxoNzZlZWlPTUo?oc=5",
+      "source": "经济观察网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-21T14:19:00.000Z",
-      "summary": "全球首家24小时智能无人咖啡店在北京银河SOHO开业，机器人制作咖啡速度创纪录。",
-      "summaryZh": ""
-    },
-    {
-      "title": "EXCLUSIVE: Chery's robot affiliate AiMOGA eyes IPO, targets overseas market",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLVJudW9BakRXdDRNSHN2QlN1RzBQUXhjT0FzRUdjMl96SW9ibDFLS0lIdWhnc0cwN2tjSzR6MnJaSVpJX2VVdFRoV0h6eDdDOC1WNnotZzgyWFlJYlZQTGNsLUh3R2YzTnI4c1hkMXJHZFBJYTlSOUJjZy12MnNvSGFVcnpZTmVyM2pySERKRXdOay1waXMtUXpvUjZVLTBFa3cyTXRyMS1DenMyUHpDeTNHU3FwODdCbGlJSkktMnhEM1U2TEJNWk0zZVU2TkEwZnBHcUhZTWs?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-08-21T11:21:27.000Z",
-      "summary": "",
-      "titleZh": "独家：奇瑞机器人子公司 AiMOGA 考虑 IPO，瞄准海外市场"
+      "category": "ai",
+      "pubDate": "2026-08-21T06:59:00.000Z",
+      "summary": ""
     },
     {
       "title": "从“上场”到“进厂” 资本加码押注人形机器人产业化前景",
@@ -197,7 +184,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-21T01:33:40.000Z",
-      "summary": "人形机器人产业化加速，资本投资热情升温。",
+      "summary": "人形机器人出货量超4万台，资本市场加大投资，行业进入投资周期。",
+      "summaryZh": ""
+    },
+    {
+      "title": "基本半导体：SiC+人形机器人，这张牌我先摸了！",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wVkVPR1paZG02WF9rTXFydDZYMkN0S0pDZlZPejNXRmNDcnJuNkdDMGxaOHVlOTRtZDF2QjVGYTFLVkh5WEtOcUViMmExZUVZQXdxamkxNA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-21T07:09:59.000Z",
+      "summary": "基本半导体与优必选签署SiC功率器件在具身智能人形机器人领域的深度合作。",
       "summaryZh": ""
     },
     {
@@ -207,7 +204,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-21T09:04:47.000Z",
-      "summary": "AI虚构民宿照片误导消费，专家提醒需警惕。",
+      "summary": "AI虚构民宿照片误导消费，专家提醒警惕消费欺诈。",
       "summaryZh": ""
     }
   ]
