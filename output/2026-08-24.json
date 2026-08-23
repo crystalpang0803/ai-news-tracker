@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generatedAt": "2026-08-23T19:54:29.722Z",
+  "generatedAt": "2026-08-23T21:41:05.639Z",
   "items": [
     {
       "title": "2 分 21 秒 63，天卓队使用天工 Ultra 夺得人形机器人 1500 米冠军",
@@ -39,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-23T09:45:27.000Z",
-      "summary": "机器人首次在直播中与网球运动员进行全自主网球对打，展现高度拟人运动状态和策略调整能力。",
+      "summary": "机器人首次在网球比赛中与人类运动员实时对抗并展现全自主能力。",
       "summaryZh": ""
     },
     {
@@ -63,13 +63,23 @@
       "summaryZh": ""
     },
     {
-      "title": "橡鹿机器人发布首个多模态烹饪AI基础模型CookingMuse",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JOWJ1TnNVZzluNHFYQ2s3UTNzQWkwNWw0RXVjVVFVaEdjWDVqZzdBUEFNdmlHbHgxNEtWY3dwR0VnXzZqZndFTXpmMHJYUTRzUV9WdEhjajNJUQ?oc=5",
-      "source": "钛媒体",
+      "title": "泰康发布养医大模型1.0：以人工智能赋能养老产业发展",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxUnVMczk5RHhtaGJRdS1HT0laTmtYaVVQa0REY1JGNEY1Znc4Q25ERnhnWkhxb2lEU1UtZExCWllTRURRS1NZSkt5Um9Ld2RYb1BWYTkwN1pfVTI1UzFXUWpiT3FUX3pGR2ZkSW1jUU1JODZVT1BCYU9pdw?oc=5",
+      "source": "央广网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-23T08:19:00.000Z",
-      "summary": "橡鹿机器人发布全球首个多模态烹饪AI基础模型CookingMuse。",
+      "pubDate": "2026-08-23T08:21:30.000Z",
+      "summary": "泰康发布养医大模型1.0，旨在推动养老产业发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "DeepSeek横空出世，引发全球关注，机构：看好科技成长类资产，成长类资产估值修复空间更大",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5Y082MENBSmJZb2J3U0I3V012ckhkNGlERG83Q1JOcG9Ebl92WGFfa0VHcUUzb0p0MXI4S0lNc2RYc1czaWo4UEh6VGFsLXlHWks3NmZ6TVc?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-23T04:21:17.000Z",
+      "summary": "DeepSeek亮相全球，机构看好科技成长类资产估值修复。",
       "summaryZh": ""
     },
     {
@@ -79,17 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-23T12:32:38.000Z",
-      "summary": "谷歌与Marvell合作开发定制AI芯片，北美AI芯片股权关系网进一步复杂化。",
-      "summaryZh": ""
-    },
-    {
-      "title": "为什么要追求通用智能AGI？目的是造出一个通用机器人拥有人类一样的感知可以处理各种场景工作",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yZlZraDdnYTVkcUZaU2kzdjFPYmNxS2hNVVhFOFdsMXRGaGRmS3ZBWlI0eEdmSFhYMzlUOWlYQkZUNEo5YkZTSWhvX0tBTXZpUlZ0dg?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-23T11:10:20.000Z",
-      "summary": "追求通用智能AGI旨在打造能处理各种场景的通用机器人。",
+      "summary": "谷歌与Marvell合作开发AI芯片，北美AI芯片股权关系网进一步复杂化。",
       "summaryZh": ""
     },
     {
@@ -109,7 +109,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-23T00:07:49.000Z",
-      "summary": "人工智能技术加速在各行各业落地，推动产业升级。",
+      "summary": "人工智能技术加速落地，赋能千行百业，推动产业升级。",
       "summaryZh": ""
     },
     {
@@ -129,7 +129,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-23T10:08:23.000Z",
-      "summary": "WRC机器人展会上，跨维智能机器人展示装盒质检、扫码分拣、下象棋等多功能。",
+      "summary": "WRC机器人展示全能技能，涵盖装盒质检、扫码分拣、下象棋等。",
+      "summaryZh": ""
+    },
+    {
+      "title": "宇树上市后首次演讲，王兴兴谈“让机器人自己写代码进化”",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hVmY0ZzJxekxUOGtYZlZRR0FfeE1NWVVoZ2pSYzJPcG1QUjVOYVhRVVFTa19QQVg2bFBXaUJMNFE2WWQyZ2JxX0oxejk0S2tpZU1Z?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-23T04:34:18.000Z",
+      "summary": "宇树科技王兴兴在演讲中提出让机器人自主进化代码。",
       "summaryZh": ""
     },
     {
@@ -149,7 +159,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-23T13:39:36.000Z",
-      "summary": "字节豆包将推出对标WorkBuddy的办公产品，融合飞书十年积累组件化技术。",
+      "summary": "字节豆包将推出对标WorkBuddy的办公产品，加速AI办公版图布局。",
       "summaryZh": ""
     },
     {
@@ -163,43 +173,42 @@
       "summaryZh": ""
     },
     {
-      "title": "AI Agent时代安全架构从身份权限转向对具体动作的授权（Authority）",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82SUNhOXRNZ05IZTBWTExvQ1d5VDUyVjIzb2FwSTBzOGhNaThzQzRUTVkxUER5YjJXVzNmSnlwRVFuYXZDQnpUWWFpdTVRNjFqSVE?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-23T02:20:38.000Z",
-      "summary": "AI Agent时代安全架构转向对具体动作的授权。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智元携手长隆，造了全球首个具身智能主题公园",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxY2dRZDRqZUxqNHp5T01RdkxiNHh0cEhvdjFlaUdKLW1LY2ZrMGJsWnN2Rkx2WWpUNjdWRVpYNFEyQ1JOWWc?oc=5",
-      "source": "智东西",
+      "title": "直击WRC 2026｜机器人也有“幼儿园”：他山科技联手萨顿，驱动具身智能迈向“经验时代”",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JR3dBQ19mTmc0U2dGSGsyVHNIQXZuYWxualdZeWhuZndyakhEYTFhWGEzYlp1LVBBNTBYU1N5bEdDcjlkNHR2VUNRWXIzQm1FampjNncxOHlibXpTb2pTWXNR?oc=5",
+      "source": "中国经营网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-23T15:56:17.000Z",
-      "summary": "智元与长隆合作打造全球首个具身智能主题公园。",
+      "pubDate": "2026-08-23T14:46:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "从打球机器人看Physical AI路线之争：物理模型与学习的分工演化",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81Y0dMZEtSM1h5d2MtVmwySW1lbE9RZzZHcUw5RnU4N0YtNEpNZUdpQS1rc3JGWThhS0ZJQkdxcHMxbVRQMTFqeVFUZUVadjUxRlJOWQ?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-23T04:37:24.000Z",
+      "summary": "Physical AI路线之争聚焦于物理模型与学习分工演化。",
       "summaryZh": ""
     },
     {
-      "title": "材料之上，算力之基：科创新材ETF，AI通胀时代的“隐形王者”",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13QzJGbGxjNGk5SXpVcTVzbjM2TlpULWp5VU9ySDZOOGRIWDBoQTNfbjBFdGFpT1NJb1h6bVd0OEVnSXk1NlRNTEx2c2hwWDBlOWpDU2Jlbk1FYmdpeXcyeG80VXYzUjJPcjVV?oc=5",
-      "source": "东方财富网",
+      "title": "外媒：英伟达搭载人工智能芯片的服务器价格将上涨超15%",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNdDMyMkJOVWdxLTVEajRpTjk0TE9iMF9abnN3SVloS3BKaThBRXNnUi1LYkw0Sm9ON2daVkRRVlpYc3NETjNZMkxMRUhqVE5Oa2drbFFqMGJrT0o0ZFFoSQ?oc=5",
+      "source": "澎湃新闻科技",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-23T01:58:00.000Z",
-      "summary": "科创新材ETF聚焦AI通胀时代，以新材料为基，成为A股“芯”量最高ETF之一。",
+      "pubDate": "2026-08-23T01:37:00.000Z",
+      "summary": "英伟达AI芯片服务器价格将普遍上涨超15%。",
       "summaryZh": ""
     },
     {
-      "title": "北京发布16个人工智能赋能科学研究典型案例",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWUGxpS0pWZkhKazFPMzFESXdjMFA2aU5GaTVMYjlaUlVvb19UQkZkNldVZWc0TWhGUHNzNl9JRmtLeHBWVGJVY3FMcXBmS3pPdFNWalJ1WGdIWmhLV0JfLVc2emVUakhuOVdZb1pVeGwwX01IcDk1SA?oc=5",
-      "source": "新浪财经",
+      "title": "安谋（ARM）推进36年来首次自研芯片 获20亿美元AGI CPU订单",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95YlB2ZUhPVl9HNms0N0RXeGlIeVdTZ0psel81QWozYlphZmNFTzg4UEt1MUNuN2tTV3A2NkxUaWJPRlM2d2NFMTVlck9HTTgxMUZhM2lLMjQ?oc=5",
+      "source": "经济观察网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-23T18:03:00.000Z",
-      "summary": "北京发布16个AI赋能科研典型案例，推动AI与科学深度融合。",
+      "pubDate": "2026-08-23T21:25:00.000Z",
+      "summary": "ARM推出36年来首颗自研芯片，获20亿美元AGI CPU订单。",
       "summaryZh": ""
     },
     {
@@ -219,8 +228,16 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-23T12:15:23.000Z",
-      "summary": "万兴科技在湖南旅博会上展示AI文旅应用，探讨AI赋能文旅新叙事。",
-      "summaryZh": ""
+      "summary": ""
+    },
+    {
+      "title": "AI算力的新格局",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jck9vWE93LWluU0hBVnBsMDlrSkNQZTJKM0VURHJHUXNDZ1hocFlFVVJqZkI2Z0RYM3ljOUJ4Q3Rjb0dXT1hPQmNkZWxUYlNaRVdpb0tB?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-23T02:50:00.000Z",
+      "summary": "AI算力正呈现集中与分散并行的新格局。"
     }
   ]
 }
