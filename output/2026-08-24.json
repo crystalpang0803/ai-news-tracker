@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generatedAt": "2026-08-23T21:41:05.639Z",
+  "generatedAt": "2026-08-23T22:59:21.793Z",
   "items": [
     {
       "title": "2 分 21 秒 63，天卓队使用天工 Ultra 夺得人形机器人 1500 米冠军",
@@ -33,43 +33,13 @@
       "summaryZh": ""
     },
     {
-      "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
-      "link": "https://www.qbitai.com/2026/08/478093.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-23T09:45:27.000Z",
-      "summary": "机器人首次在网球比赛中与人类运动员实时对抗并展现全自主能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "商业头条No.139｜链主崛起：宇树“催熟”人形机器人",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IRE0ybHlQa28tRnRnSGZLSHVkQm10ZVEyVU5hQWZUd2JnT2gwUGQ3NGpFQjFoLUVDMHVnUVFWZHE2V1F4N081VEtXLWFNWXYwSHJ4RXJ3?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-23T00:12:51.000Z",
-      "summary": "宇树科技人形机器人出货量超5500台，成为A股人形机器人第一股。",
-      "summaryZh": ""
-    },
-    {
-      "title": "魔法原子WRC 2026首发轻工业四足机器人，物理AI驱动三大场景实景落地",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XTkhFekYtcFBxMWZ0eVhTZThJLWtsellkMjloSzBmUFk0Ym1MbXpkVENEdkRrTTVmNHZjQU13N0lSMWtRT0JyTy1HVHoxUUdfNHJyUllWVzR2bHY3RWZmOUJQaHFXUQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-23T02:56:00.000Z",
-      "summary": "魔法原子WRC 2026发布轻工业四足机器人，物理AI应用于三大场景。",
-      "summaryZh": ""
-    },
-    {
-      "title": "泰康发布养医大模型1.0：以人工智能赋能养老产业发展",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxUnVMczk5RHhtaGJRdS1HT0laTmtYaVVQa0REY1JGNEY1Znc4Q25ERnhnWkhxb2lEU1UtZExCWllTRURRS1NZSkt5Um9Ld2RYb1BWYTkwN1pfVTI1UzFXUWpiT3FUX3pGR2ZkSW1jUU1JODZVT1BCYU9pdw?oc=5",
-      "source": "央广网",
+      "title": "橡鹿机器人发布首个多模态烹饪AI基础模型CookingMuse",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JOWJ1TnNVZzluNHFYQ2s3UTNzQWkwNWw0RXVjVVFVaEdjWDVqZzdBUEFNdmlHbHgxNEtWY3dwR0VnXzZqZndFTXpmMHJYUTRzUV9WdEhjajNJUQ?oc=5",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-23T08:21:30.000Z",
-      "summary": "泰康发布养医大模型1.0，旨在推动养老产业发展。",
+      "pubDate": "2026-08-23T08:19:00.000Z",
+      "summary": "橡鹿机器人发布全球首个多模态烹饪AI基础模型CookingMuse。",
       "summaryZh": ""
     },
     {
@@ -79,8 +49,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-23T04:21:17.000Z",
-      "summary": "DeepSeek亮相全球，机构看好科技成长类资产估值修复。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "谷歌牵手Marvell扩军TPU，北美AI芯片股权网愈织愈密",
@@ -89,7 +58,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-23T12:32:38.000Z",
-      "summary": "谷歌与Marvell合作开发AI芯片，北美AI芯片股权关系网进一步复杂化。",
+      "summary": "谷歌与Marvell合作开发定制AI芯片，北美AI芯片股权关系网进一步复杂化。",
+      "summaryZh": ""
+    },
+    {
+      "title": "为什么要追求通用智能AGI？目的是造出一个通用机器人拥有人类一样的感知可以处理各种场景工作",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yZlZraDdnYTVkcUZaU2kzdjFPYmNxS2hNVVhFOFdsMXRGaGRmS3ZBWlI0eEdmSFhYMzlUOWlYQkZUNEo5YkZTSWhvX0tBTXZpUlZ0dg?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-23T11:10:20.000Z",
+      "summary": "追求通用智能AGI旨在打造能处理各种场景的通用机器人。",
       "summaryZh": ""
     },
     {
@@ -109,7 +88,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-23T00:07:49.000Z",
-      "summary": "人工智能技术加速落地，赋能千行百业，推动产业升级。",
+      "summary": "人工智能技术加速赋能各行各业，推动产业升级。",
       "summaryZh": ""
     },
     {
@@ -120,26 +99,6 @@
       "category": "robotics",
       "pubDate": "2026-08-23T01:52:00.000Z",
       "summary": "港交所一周内迎来15家递表企业，涵盖多个赛道，A+H股阵营持续扩大。",
-      "summaryZh": ""
-    },
-    {
-      "title": "装盒质检、扫码分拣、还能下象棋，这届WRC的机器人，是什么全能打工人啊？",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5tc3BmZVBkX1dTbHRNdW5LTm9IdjB3QzRyUjVJMXlzUnRsSkRCWnkwaVdmOWJ4MzhKMlU2QzdhY3BaSnZjZ2c?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-23T10:08:23.000Z",
-      "summary": "WRC机器人展示全能技能，涵盖装盒质检、扫码分拣、下象棋等。",
-      "summaryZh": ""
-    },
-    {
-      "title": "宇树上市后首次演讲，王兴兴谈“让机器人自己写代码进化”",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hVmY0ZzJxekxUOGtYZlZRR0FfeE1NWVVoZ2pSYzJPcG1QUjVOYVhRVVFTa19QQVg2bFBXaUJMNFE2WWQyZ2JxX0oxejk0S2tpZU1Z?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-23T04:34:18.000Z",
-      "summary": "宇树科技王兴兴在演讲中提出让机器人自主进化代码。",
       "summaryZh": ""
     },
     {
@@ -159,18 +118,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-23T13:39:36.000Z",
-      "summary": "字节豆包将推出对标WorkBuddy的办公产品，加速AI办公版图布局。",
-      "summaryZh": ""
-    },
-    {
-      "title": "DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络",
-      "link": "http://www.geekpark.net/news/369215",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-23T00:20:39.000Z",
-      "summary": "DeepSeek调整周末API计费，特斯拉首秀Cybercab，Ox Alpha模型网络爆火。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "直击WRC 2026｜机器人也有“幼儿园”：他山科技联手萨顿，驱动具身智能迈向“经验时代”",
@@ -192,43 +140,14 @@
       "summaryZh": ""
     },
     {
-      "title": "外媒：英伟达搭载人工智能芯片的服务器价格将上涨超15%",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNdDMyMkJOVWdxLTVEajRpTjk0TE9iMF9abnN3SVloS3BKaThBRXNnUi1LYkw0Sm9ON2daVkRRVlpYc3NETjNZMkxMRUhqVE5Oa2drbFFqMGJrT0o0ZFFoSQ?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-23T01:37:00.000Z",
-      "summary": "英伟达AI芯片服务器价格将普遍上涨超15%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "安谋（ARM）推进36年来首次自研芯片 获20亿美元AGI CPU订单",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95YlB2ZUhPVl9HNms0N0RXeGlIeVdTZ0psel81QWozYlphZmNFTzg4UEt1MUNuN2tTV3A2NkxUaWJPRlM2d2NFMTVlck9HTTgxMUZhM2lLMjQ?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-23T21:25:00.000Z",
-      "summary": "ARM推出36年来首颗自研芯片，获20亿美元AGI CPU订单。",
-      "summaryZh": ""
-    },
-    {
       "title": "半导体与AI算力成焦点！上周近200股迎机构调研，3股受追捧",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QcVlsR0ZJLVBCakhvblJlNm1rRG9Qand6X0U5S0JtSnpaRjB1Z2wyVzl4akFYU2VxZzNQam0wQV83TGRCN0tnYmZDT1ZXamNWSmtfMFBmNmpNUFpOR1VVME93?oc=5",
       "source": "同花顺财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-23T01:24:07.000Z",
-      "summary": "上周近200股半导体与AI算力相关股票受机构调研，3股涨幅超10%。",
+      "summary": "上周近200股半导体与AI算力相关股票接受机构调研，其中3股涨幅超10%。",
       "summaryZh": ""
-    },
-    {
-      "title": "万兴科技携万兴剧厂、Filmora.TV等亮相2026湖南旅博会 探索AI文旅新表达",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jWVJSMGZBSmc0WHV3SmVKNEc2Z1Y2LVhEdVRwSExtdDZ0UXoxSlZMZUNqNURrUlNTMjZDMnlNa3UwRElUaks1YTVNMEZRdERLZ1lSQkJBT21QZWRDdFAyWVVB?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-23T12:15:23.000Z",
-      "summary": ""
     },
     {
       "title": "AI算力的新格局",
@@ -238,6 +157,35 @@
       "category": "ai",
       "pubDate": "2026-08-23T02:50:00.000Z",
       "summary": "AI算力正呈现集中与分散并行的新格局。"
+    },
+    {
+      "title": "英伟达AI芯片服务器传涨价，普遍涨超15%",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBd1JNTGRHMEtCZFFYYzZ1OTQtczBtdGxiR2hXRWNiX0VucXJueVJqUmQ3RHVqWmRtaWZBYXFIQ2h5NFBQSnlRLU9BekliMTAxUDRhVF93?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-23T02:58:00.000Z",
+      "summary": "英伟达AI芯片服务器价格普遍上涨超15%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "重庆“十五五”人工智能发展规划出台 2030年智能经济核心产业突破2500亿元",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUkZyVUxzT1RFSGxzNmpmdTJzT3R1dV9vT2xoWms1RnRKaXptZ2l0TmljTl9KN2RVTmoyTHJIUXhFdnU2c0d2bm1pdUEyMGg1eks3NFdVUkJPTnl4a1FONTE0QnUySktia3VtS3ljQnNPYlpE?oc=5",
+      "source": "新华社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-23T00:51:30.000Z",
+      "summary": "重庆发布“十五五”人工智能发展规划，2030年目标产业规模超2500亿元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "算力脑机接口接连入局 铁路“跨界”新玩法探路数智化转型",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwaFB4bGt5LUpRRDYzblBkOWI2VkpyRWdhcmtZbUNnTkNtaDRKd0pOQUI4eXVpaDZVSW9yN1Z4Y1NIcFRab003SUhuQ3gtNGMxV2lTWm5IYzhJX1N1RnVSaDln?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-23T14:46:00.000Z",
+      "summary": ""
     }
   ]
 }
