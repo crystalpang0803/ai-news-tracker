@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generatedAt": "2026-08-23T18:43:48.043Z",
+  "generatedAt": "2026-08-23T19:54:29.722Z",
   "items": [
     {
       "title": "2 分 21 秒 63，天卓队使用天工 Ultra 夺得人形机器人 1500 米冠军",
@@ -33,6 +33,26 @@
       "summaryZh": ""
     },
     {
+      "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
+      "link": "https://www.qbitai.com/2026/08/478093.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-23T09:45:27.000Z",
+      "summary": "机器人首次在直播中与网球运动员进行全自主网球对打，展现高度拟人运动状态和策略调整能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "商业头条No.139｜链主崛起：宇树“催熟”人形机器人",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IRE0ybHlQa28tRnRnSGZLSHVkQm10ZVEyVU5hQWZUd2JnT2gwUGQ3NGpFQjFoLUVDMHVnUVFWZHE2V1F4N081VEtXLWFNWXYwSHJ4RXJ3?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-23T00:12:51.000Z",
+      "summary": "宇树科技人形机器人出货量超5500台，成为A股人形机器人第一股。",
+      "summaryZh": ""
+    },
+    {
       "title": "魔法原子WRC 2026首发轻工业四足机器人，物理AI驱动三大场景实景落地",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XTkhFekYtcFBxMWZ0eVhTZThJLWtsellkMjloSzBmUFk0Ym1MbXpkVENEdkRrTTVmNHZjQU13N0lSMWtRT0JyTy1HVHoxUUdfNHJyUllWVzR2bHY3RWZmOUJQaHFXUQ?oc=5",
       "source": "每日经济新闻",
@@ -40,16 +60,6 @@
       "category": "robotics",
       "pubDate": "2026-08-23T02:56:00.000Z",
       "summary": "魔法原子WRC 2026发布轻工业四足机器人，物理AI应用于三大场景。",
-      "summaryZh": ""
-    },
-    {
-      "title": "泰康发布养医大模型1.0：以人工智能赋能养老产业发展",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxUnVMczk5RHhtaGJRdS1HT0laTmtYaVVQa0REY1JGNEY1Znc4Q25ERnhnWkhxb2lEU1UtZExCWllTRURRS1NZSkt5Um9Ld2RYb1BWYTkwN1pfVTI1UzFXUWpiT3FUX3pGR2ZkSW1jUU1JODZVT1BCYU9pdw?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-23T08:21:30.000Z",
-      "summary": "泰康发布养医大模型1.0，助力养老产业发展。",
       "summaryZh": ""
     },
     {
@@ -83,13 +93,23 @@
       "summaryZh": ""
     },
     {
+      "title": "财联社8月24日电，人工智能开源社区Hugging Face据称目前正收到多份并购提议，潜在交易价值达到130亿美元。",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1jeV9fT0hRdF9Ya3lDdXFvWm94SHNKTE0xajZKb2ZmRG1DWlRaOG9hSzNuUlFQTTR6TXBfaGZDbmJibkhZaHc?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-23T04:11:00.000Z",
+      "summary": "Hugging Face收到多份并购提议，潜在交易价值130亿美元。",
+      "summaryZh": ""
+    },
+    {
       "title": "佳话现场丨“人工智能+”加速赋能千行百业 技术落地绘就产业新图景",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11VWtpUHlaYlFDTkRsMXVKMWlFaFU0TlZTSms1NUtkRHhpNElzdFB3MUowQy10aGl0LUdoNXVQbWt6TGVZTFdCdXotcjNMUlhtYUlVYzJ0RnNqcVg5ZU5OaVBpTm11dVZm?oc=5",
       "source": "央广网",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-23T00:07:49.000Z",
-      "summary": "人工智能技术加速落地，赋能千行百业，推动产业升级。",
+      "summary": "人工智能技术加速在各行各业落地，推动产业升级。",
       "summaryZh": ""
     },
     {
@@ -100,6 +120,16 @@
       "category": "robotics",
       "pubDate": "2026-08-23T01:52:00.000Z",
       "summary": "港交所一周内迎来15家递表企业，涵盖多个赛道，A+H股阵营持续扩大。",
+      "summaryZh": ""
+    },
+    {
+      "title": "装盒质检、扫码分拣、还能下象棋，这届WRC的机器人，是什么全能打工人啊？",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5tc3BmZVBkX1dTbHRNdW5LTm9IdjB3QzRyUjVJMXlzUnRsSkRCWnkwaVdmOWJ4MzhKMlU2QzdhY3BaSnZjZ2c?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-23T10:08:23.000Z",
+      "summary": "WRC机器人展会上，跨维智能机器人展示装盒质检、扫码分拣、下象棋等多功能。",
       "summaryZh": ""
     },
     {
@@ -114,32 +144,22 @@
     },
     {
       "title": "字节豆包加速补齐AI办公版图 即将推出对标WorkBuddy的办公产品",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CQUhUZEN1YUk2Rkp1UU9OcXBYeFNLeGNXR09BSWJXcW5ScXAyWGpHV0hZQVRSb1Rib0lwUlBuMDZYRkZ1dF9IVGtJM3IxQldITGJ3ZTk5TmxieWtLRGVpNG53?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mNjB6Z0JjMkNVcnVTVXN5OFhDaHJ6WWNWT2N6SG5HZHJCNFA5WU9JTUplXzI2ekVBRWV1SExKMW1YWXFqNzEwd2ViY09pbDMtcWNuag?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-23T13:39:36.000Z",
-      "summary": "字节豆包将推出对标WorkBuddy的办公产品，整合飞书十年积累能力。",
+      "summary": "字节豆包将推出对标WorkBuddy的办公产品，融合飞书十年积累组件化技术。",
       "summaryZh": ""
     },
     {
-      "title": "不断“整活”的人形机器人，什么时候才能真正进工厂“干活”？",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EbURSOE1MQld1d2toSjVpak80b1FraHkzelBJTDcyUUE2QlZSUXpybXQxOG0zY0tzVVZkYkxaSFBEaXV6UE1ROXFUbm9IWXAwZDRNWl9ZeU56aUpFMnJ5Sg?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-23T08:18:00.000Z",
-      "summary": "人形机器人在工业应用中仍面临精度、连贯性和柔性物料操作等挑战。",
-      "summaryZh": ""
-    },
-    {
-      "title": "DeepSeek计费再调整，大模型开启价值定价，谁能受益？",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWJySm1tXzh3RlpuUEhCWnlmYl9iZkQtN0FoSXJ6S3NHdFl0RUYxeExFekEtRWVEV004cm9WY0pPUnBsQ3lJS1JtSnJLeXVzcDVBLTRvcWxRV1ZHTHo0NlFIY2NsVHJieFNfdzEwS2Fvb2FCU3hiQVJ3djBjWjZVSi1Ha3ZMWHV5LURUbg?oc=5",
-      "source": "21财经",
+      "title": "DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络",
+      "link": "http://www.geekpark.net/news/369215",
+      "source": "极客公园",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-23T09:28:00.000Z",
-      "summary": "DeepSeek API全面上调价格，大模型行业开启价值定价。",
+      "pubDate": "2026-08-23T00:20:39.000Z",
+      "summary": "DeepSeek调整周末API计费，特斯拉首秀Cybercab，Ox Alpha模型网络爆火。",
       "summaryZh": ""
     },
     {
@@ -153,42 +173,53 @@
       "summaryZh": ""
     },
     {
+      "title": "智元携手长隆，造了全球首个具身智能主题公园",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxY2dRZDRqZUxqNHp5T01RdkxiNHh0cEhvdjFlaUdKLW1LY2ZrMGJsWnN2Rkx2WWpUNjdWRVpYNFEyQ1JOWWc?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-23T15:56:17.000Z",
+      "summary": "智元与长隆合作打造全球首个具身智能主题公园。",
+      "summaryZh": ""
+    },
+    {
+      "title": "材料之上，算力之基：科创新材ETF，AI通胀时代的“隐形王者”",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13QzJGbGxjNGk5SXpVcTVzbjM2TlpULWp5VU9ySDZOOGRIWDBoQTNfbjBFdGFpT1NJb1h6bVd0OEVnSXk1NlRNTEx2c2hwWDBlOWpDU2Jlbk1FYmdpeXcyeG80VXYzUjJPcjVV?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-23T01:58:00.000Z",
+      "summary": "科创新材ETF聚焦AI通胀时代，以新材料为基，成为A股“芯”量最高ETF之一。",
+      "summaryZh": ""
+    },
+    {
       "title": "北京发布16个人工智能赋能科学研究典型案例",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWUGxpS0pWZkhKazFPMzFESXdjMFA2aU5GaTVMYjlaUlVvb19UQkZkNldVZWc0TWhGUHNzNl9JRmtLeHBWVGJVY3FMcXBmS3pPdFNWalJ1WGdIWmhLV0JfLVc2emVUakhuOVdZb1pVeGwwX01IcDk1SA?oc=5",
       "source": "新浪财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-23T18:03:00.000Z",
-      "summary": "北京发布16个AI赋能科学研究典型案例，推动AI与科研深度融合。",
+      "summary": "北京发布16个AI赋能科研典型案例，推动AI与科学深度融合。",
       "summaryZh": ""
     },
     {
-      "title": "重庆“十五五”人工智能发展规划出台 2030年智能经济核心产业突破2500亿元",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUkZyVUxzT1RFSGxzNmpmdTJzT3R1dV9vT2xoWms1RnRKaXptZ2l0TmljTl9KN2RVTmoyTHJIUXhFdnU2c0d2bm1pdUEyMGg1eks3NFdVUkJPTnl4a1FONTE0QnUySktia3VtS3ljQnNPYlpE?oc=5",
-      "source": "新华社",
+      "title": "半导体与AI算力成焦点！上周近200股迎机构调研，3股受追捧",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QcVlsR0ZJLVBCakhvblJlNm1rRG9Qand6X0U5S0JtSnpaRjB1Z2wyVzl4akFYU2VxZzNQam0wQV83TGRCN0tnYmZDT1ZXamNWSmtfMFBmNmpNUFpOR1VVME93?oc=5",
+      "source": "同花顺财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-23T00:51:30.000Z",
-      "summary": "重庆发布“十五五”人工智能发展规划，2030年智能经济核心产业规模将超2500亿元。",
+      "pubDate": "2026-08-23T01:24:07.000Z",
+      "summary": "上周近200股半导体与AI算力相关股票受机构调研，3股涨幅超10%。",
       "summaryZh": ""
     },
     {
-      "title": "算力脑机接口接连入局 铁路“跨界”新玩法探路数智化转型",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwaFB4bGt5LUpRRDYzblBkOWI2VkpyRWdhcmtZbUNnTkNtaDRKd0pOQUI4eXVpaDZVSW9yN1Z4Y1NIcFRab003SUhuQ3gtNGMxV2lTWm5IYzhJX1N1RnVSaDln?oc=5",
-      "source": "中国经营网",
+      "title": "万兴科技携万兴剧厂、Filmora.TV等亮相2026湖南旅博会 探索AI文旅新表达",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jWVJSMGZBSmc0WHV3SmVKNEc2Z1Y2LVhEdVRwSExtdDZ0UXoxSlZMZUNqNURrUlNTMjZDMnlNa3UwRElUaks1YTVNMEZRdERLZ1lSQkJBT21QZWRDdFAyWVVB?oc=5",
+      "source": "同花顺财经",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-23T14:46:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "合十思维创始人赵普：以类脑架构告别具身智能“算力内卷”",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ub19RSVZsZTA3YzJJc2JPTnRXSlpSb3J3S21nbTF0UERRSy1xMkZtcEFNS2ZHTjVUcG1WZzdfSkliMTRGWUlVdVc3bjNwU0w3b0dTR3JBLUpSVlJocTFLS1hzVmo?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-23T13:49:00.000Z",
-      "summary": "合十思维赵普提出以类脑架构解决具身智能算力内卷问题。",
+      "category": "application",
+      "pubDate": "2026-08-23T12:15:23.000Z",
+      "summary": "万兴科技在湖南旅博会上展示AI文旅应用，探讨AI赋能文旅新叙事。",
       "summaryZh": ""
     }
   ]
