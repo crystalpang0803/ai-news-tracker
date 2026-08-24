@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "generatedAt": "2026-08-24T18:54:13.532Z",
+  "generatedAt": "2026-08-24T20:00:56.618Z",
   "items": [
     {
       "title": "成功举起 16 公斤，第二届世界人形机器人运动会首个举重冠军诞生",
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-24T16:23:12.000Z",
-      "summary": "智能体支付应用自律公约发布，规范行业风险防范。",
+      "summary": "智能体支付应用自律公约发布，规范行业发展。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-24T15:00:00.000Z",
-      "summary": "OpenAI构建AI代理应用于各领域，用户接受度待定。",
+      "summary": "OpenAI构建AI代理，旨在应用于一切领域。",
       "summaryZh": ""
     },
     {
@@ -49,7 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-24T12:16:24.000Z",
-      "summary": "机器人具备干活能力，但尚未掌握适当介入人类生活的边界。",
+      "summary": "机器人具备干活能力，但尚未掌握介入人类生活的边界。",
       "summaryZh": ""
     },
     {
@@ -59,7 +59,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-24T15:00:31.000Z",
-      "summary": "Arm物理AI高管强调泛化能力是机器人技术规模化落地的关键。",
+      "summary": "Arm物理AI高管强调泛化能力是机器人技术实现规模化落地的关键。",
       "summaryZh": ""
     },
     {
@@ -69,7 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-24T18:49:18.000Z",
-      "summary": "讯飞星火认知大模型测评：AI辅助撰写论文大纲，提供写作指南。",
+      "summary": "讯飞星火认知大模型可辅助撰写论文大纲，提升写作逻辑性。",
       "summaryZh": ""
     },
     {
@@ -89,7 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-24T12:17:47.000Z",
-      "summary": "梁文锋虽称多模态非主线，却推出DeepSeek V4 Flash Vision Exp多模态视觉模型。",
+      "summary": "梁文锋虽称多模态非主线，却推出DeepSeek V4 Flash Vision Exp多模态视觉理解模型。",
       "summaryZh": ""
     },
     {
@@ -118,7 +118,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-24T14:32:00.000Z",
-      "summary": "农业AI拐点显现，麦麦科技李楠强调规模化落地需闯成本、交付关。",
+      "summary": "农业AI拐点显现，麦麦科技李楠称机器人下田需闯成本、交付关。",
       "summaryZh": ""
     },
     {
@@ -138,7 +138,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-24T07:14:16.000Z",
-      "summary": "DeepSeek推出多模态API，开发者用其制作《牛来》AI重制版。",
+      "summary": "DeepSeek推出多模态API，开发者用其制作《牛来》AI重制版小游戏。",
       "summaryZh": ""
     },
     {
@@ -152,6 +152,16 @@
       "summaryZh": ""
     },
     {
+      "title": "走进清华五道口，听APUS讲述全球AI从模型到Agent的产业变革",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTWnM4Wnd4QUZXb0pZNFRyLWtNT1Y3MVVaS3ZNdWtTZ0ltSFU5UDByRzZZNF91M2lhZmktMG9hOXJrVG1KNGwtRFVfYTJLZmlWYnNTVDhLNHk?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-24T06:33:08.000Z",
+      "summary": "APUS CEO李涛在清华五道口分享AI从模型到Agent的产业变革。",
+      "summaryZh": ""
+    },
+    {
       "title": "小米发布大模型专用AI加速芯片玄戒O100",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IdGFyczZ1SzVGdmxKUXRveWNhbXk4TzdnVGZqQldNMTNwLTYwbU83WkVZVEhwYU1PWnNGSzVCOXJfR01hYURVV2xqYW83bnNGdHRMUEVWSHU?oc=5",
       "source": "界面新闻",
@@ -162,23 +172,13 @@
       "summaryZh": ""
     },
     {
-      "title": "走进清华五道口，听APUS讲述全球AI从模型到Agent的产业变革",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTWnM4Wnd4QUZXb0pZNFRyLWtNT1Y3MVVaS3ZNdWtTZ0ltSFU5UDByRzZZNF91M2lhZmktMG9hOXJrVG1KNGwtRFVfYTJLZmlWYnNTVDhLNHk?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-24T06:33:08.000Z",
-      "summary": "APUS在清华五道口分享AI从模型到Agent的产业变革趋势。",
-      "summaryZh": ""
-    },
-    {
       "title": "港股大模型“双雄”持续走低",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mYUFZX09VVDdzaFcyMXZ4eGc3WHQyV2xPcVZuRWk2cVhkcDNkYUZubHVYLXNtN0ZpalIzTkVvUUVPUjJzNkZpb3c3NkFQQm5RX3Q5OA?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-24T07:23:00.000Z",
-      "summary": "港股大模型“双雄”MINIMAX-W和智谱跌幅扩大，分别跌近11%和超10%。",
+      "summary": "港股大模型“双雄”MINIMAX-W和智谱跌幅扩大。",
       "summaryZh": ""
     },
     {
@@ -207,7 +207,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-24T13:48:17.000Z",
-      "summary": "珠海横琴建成全球首个具身智能主题乐园。",
+      "summary": "珠海横琴打造全球首个沉浸式具身智能主题乐园。",
       "summaryZh": ""
     },
     {
@@ -217,7 +217,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-24T13:27:33.000Z",
-      "summary": "国家人形机器人产业标准体系建设指南公开征求意见，旨在规范技术创新和产品研发。",
+      "summary": "国家人形机器人产业标准体系建设指南公开征求意见，旨在推动产业高质量发展。",
       "summaryZh": ""
     },
     {
@@ -227,7 +227,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-24T12:06:37.000Z",
-      "summary": "人形机器人量产需大量钕铁硼，中国掌握关键材料加工技术。",
+      "summary": "人形机器人量产需大量钕铁硼，中国掌握关键材料供应链。",
       "summaryZh": ""
     },
     {
@@ -257,7 +257,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-24T10:57:00.000Z",
-      "summary": "2026世界人形机器人运动会第二日，新赛事亮相，决出11金。",
+      "summary": "2026世界人形机器人运动会第二日，新赛事亮相决出11金。",
       "summaryZh": ""
     },
     {
@@ -267,7 +267,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-24T04:34:00.000Z",
-      "summary": "新加坡旅游局与马蜂窝启动AI智慧旅行“新加坡AI灵感实验室”。",
+      "summary": "新加坡旅游局与马蜂窝推出“新加坡AI灵感实验室”，以AI技术助力个性化旅游体验。",
       "summaryZh": ""
     }
   ]
