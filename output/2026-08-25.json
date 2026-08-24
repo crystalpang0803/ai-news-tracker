@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "generatedAt": "2026-08-24T16:52:07.834Z",
+  "generatedAt": "2026-08-24T18:54:13.532Z",
   "items": [
     {
       "title": "成功举起 16 公斤，第二届世界人形机器人运动会首个举重冠军诞生",
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-24T12:46:40.000Z",
-      "summary": "零跑汽车规划进军具身智能机器人领域。",
+      "summary": "零跑汽车计划进军具身智能机器人领域。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-24T16:23:12.000Z",
-      "summary": "智能体支付应用自律公约发布，规范行业发展。",
+      "summary": "智能体支付应用自律公约发布，规范行业风险防范。",
       "summaryZh": ""
     },
     {
@@ -40,8 +40,7 @@
       "category": "ai",
       "pubDate": "2026-08-24T15:00:00.000Z",
       "summary": "OpenAI构建AI代理应用于各领域，用户接受度待定。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 正在为一切构建人工智能代理。每个人都会使用它们吗？"
+      "summaryZh": ""
     },
     {
       "title": "机器人会干活了，但还没学会“别多管闲事”",
@@ -50,7 +49,37 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-24T12:16:24.000Z",
-      "summary": "机器人技能提升，但自主交互边界感仍待完善。",
+      "summary": "机器人具备干活能力，但尚未掌握适当介入人类生活的边界。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Arm物理AI高管谈机器人挑战：模型只是起点，泛化能力才是突破口",
+      "link": "https://zhidx.com/p/587731.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-24T15:00:31.000Z",
+      "summary": "Arm物理AI高管强调泛化能力是机器人技术规模化落地的关键。",
+      "summaryZh": ""
+    },
+    {
+      "title": "讯飞星火认知大模型测评：讯飞星火认知大模型体验与测评",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpZnYxQVFRVS1zXzB5QS1XendFdlNkU1hwcnZ2Mnc0UW1OTzFtSGFrdkYyei1vZmUtbnZYLTllWUpqcF9Ndk5iNzJwSjd6bEw4ZzNCaVJUV3NDLUc0SVo0?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-24T18:49:18.000Z",
+      "summary": "讯飞星火认知大模型测评：AI辅助撰写论文大纲，提供写作指南。",
+      "summaryZh": ""
+    },
+    {
+      "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+      "link": "https://www.qbitai.com/2026/08/478427.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-24T05:09:27.000Z",
+      "summary": "阿里视频大模型Wan3.0上线，行业评价“稳定、真实、有质感”。",
       "summaryZh": ""
     },
     {
@@ -60,7 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-24T12:17:47.000Z",
-      "summary": "梁文锋发布多模态视觉模型DeepSeek V4 Flash Vision Exp，展现对多模态态度转变。",
+      "summary": "梁文锋虽称多模态非主线，却推出DeepSeek V4 Flash Vision Exp多模态视觉模型。",
       "summaryZh": ""
     },
     {
@@ -73,6 +102,26 @@
       "summary": ""
     },
     {
+      "title": "30天闪电进化！对话宇泛智能CTO：机器人“大脑之战”开场了",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBERmpFYUVPY2NQZzk1bWw3S2hZZVllUHA1RTA4NmF0bVdsR3IzT0hTLXNHQXVXOGQ0ZHZ4ckdpSjRMVWhEYVE?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-24T13:10:01.000Z",
+      "summary": "宇泛智能机器人30天内OTA升级，实现跳高跳远等新技能。",
+      "summaryZh": ""
+    },
+    {
+      "title": "“需求摁不住”！农业AI拐点显现麦麦科技李楠：“机器人下田”不鼓励跨品类泛化，规模化落地仍需闯成本、交付大关",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSQzJfekRCNjh3SnNlS3pfa0FCb21xaFRTTThxSE43S1ZXeVl5c01FMW9OdGREaWo2RzJJWjdIcWM0cHJjandVNHhHLU1UNHNHU19DcUJGZmJGdHl2V21CUE5CM0hxdw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-24T14:32:00.000Z",
+      "summary": "农业AI拐点显现，麦麦科技李楠强调规模化落地需闯成本、交付关。",
+      "summaryZh": ""
+    },
+    {
       "title": "斯坦福教授直播训练535B大模型，模型训练背后的黑箱正在被打开？",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwOV9fTnFoRlJDZlRXV0dhTDJFM0ItYVQxQ1NzaWZ2WkF5VmFMNkQ5cEpXbFFVUnZ6MjJHYVc0REpXRWhXN0lGT0czeGpJdEE2?oc=5",
       "source": "36氪",
@@ -83,33 +132,23 @@
       "summaryZh": ""
     },
     {
-      "title": "AI Agent的下一站：一文读懂Graph Engineering",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0X0xOcGdfc0I2NmlIRVpKZkRXNDZualRvU3lZQ0V4MGUyYmh2djdTd25qNDBkeHRSRnZqOGYxS2JUeXpxbUl6a1ZpbVRjaFFu?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-23T20:38:00.000Z",
-      "summary": "Graph Engineering成AI Agent下一代系统核心工程基础。",
-      "summaryZh": ""
-    },
-    {
       "title": "DeepSeek 上线多模态，我用它做了《牛来》小游戏",
       "link": "http://www.geekpark.net/news/369278",
       "source": "极客公园",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-24T07:14:16.000Z",
-      "summary": "DeepSeek推出多模态API，开发者用其制作《牛来》AI重制版小游戏。",
+      "summary": "DeepSeek推出多模态API，开发者用其制作《牛来》AI重制版。",
       "summaryZh": ""
     },
     {
-      "title": "走进清华五道口，听APUS讲述全球AI从模型到Agent的产业变革",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTWnM4Wnd4QUZXb0pZNFRyLWtNT1Y3MVVaS3ZNdWtTZ0ltSFU5UDByRzZZNF91M2lhZmktMG9hOXJrVG1KNGwtRFVfYTJLZmlWYnNTVDhLNHk?oc=5",
-      "source": "界面新闻",
+      "title": "用友网络发布 2026 年半年报，企业 AI 进入规模化落地阶段",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE12VkhUaTlkcC01RGd3TjBRWXJfMWdSQWdVR2FheVY5cUVKX1k4cjZacnZHakdBVG9yRUk0bTZJWnpaVUpsMnZlSVkxRW4?oc=5",
+      "source": "极客公园",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-24T06:33:08.000Z",
-      "summary": "APUS在清华五道口分享AI从模型到Agent的产业变革趋势。",
+      "category": "application",
+      "pubDate": "2026-08-24T07:51:59.000Z",
+      "summary": "用友网络半年报显示，企业AI业务进入规模化落地阶段，收入增长显著。",
       "summaryZh": ""
     },
     {
@@ -123,22 +162,32 @@
       "summaryZh": ""
     },
     {
+      "title": "走进清华五道口，听APUS讲述全球AI从模型到Agent的产业变革",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTWnM4Wnd4QUZXb0pZNFRyLWtNT1Y3MVVaS3ZNdWtTZ0ltSFU5UDByRzZZNF91M2lhZmktMG9hOXJrVG1KNGwtRFVfYTJLZmlWYnNTVDhLNHk?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-24T06:33:08.000Z",
+      "summary": "APUS在清华五道口分享AI从模型到Agent的产业变革趋势。",
+      "summaryZh": ""
+    },
+    {
       "title": "港股大模型“双雄”持续走低",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mYUFZX09VVDdzaFcyMXZ4eGc3WHQyV2xPcVZuRWk2cVhkcDNkYUZubHVYLXNtN0ZpalIzTkVvUUVPUjJzNkZpb3c3NkFQQm5RX3Q5OA?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-24T07:23:00.000Z",
-      "summary": "港股大模型“双雄”MINIMAX-W和智谱股价双双下跌。",
+      "summary": "港股大模型“双雄”MINIMAX-W和智谱跌幅扩大，分别跌近11%和超10%。",
       "summaryZh": ""
     },
     {
-      "title": "AI芯片万亿市场迎来群雄竞逐 英伟达“护城河”遭遇四路大军围攻",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2UFRzeFZTR192WFBkWHJJcVQxbEF3Vl9xUnhMNURYWXBiYXFTM1p4aGNaWUwzN1JZQ0R5MHJRcUFfYWFIOGpLMw?oc=5",
+      "title": "上海：推进高性能算力芯片、通用处理器芯片、存储芯片、互联芯片和智能传感器达到国际先进水平",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwUnEycDd1YUdIR1U2ZnAyTHBIb1ZfYUE2dlQ5b3NzNEJtVG4yWXJ6Nnc3TGJRN0RWUHlpSFVsN1cyd2lNREZfdQ?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-24T12:51:00.000Z",
+      "pubDate": "2026-08-24T10:16:00.000Z",
       "summary": ""
     },
     {
@@ -148,7 +197,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-24T05:56:48.000Z",
-      "summary": "浙江加速AI技术在助残养老领域的应用落地。",
+      "summary": "浙江加速AI在助残养老领域的应用，推动惠民场景落地。",
       "summaryZh": ""
     },
     {
@@ -158,7 +207,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-24T13:48:17.000Z",
-      "summary": "珠海横琴打造全球首个沉浸式具身智能主题乐园。",
+      "summary": "珠海横琴建成全球首个具身智能主题乐园。",
       "summaryZh": ""
     },
     {
@@ -178,7 +227,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-24T12:06:37.000Z",
-      "summary": "人形机器人量产需大量钕铁硼，中国掌握关键材料供应链。",
+      "summary": "人形机器人量产需大量钕铁硼，中国掌握关键材料加工技术。",
       "summaryZh": ""
     },
     {
@@ -189,6 +238,16 @@
       "category": "robotics",
       "pubDate": "2026-08-23T20:46:00.000Z",
       "summary": "影院直播樊振东比赛3分钟售罄，人形机器人刷新多项世界纪录。",
+      "summaryZh": ""
+    },
+    {
+      "title": "明略科技携手海康机器人亮相 正式布局具身智能赛道",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LNmFDMVBUX2dadnM4MndDZ1QyTFFqYVgtWkZ1UlB5c1BnT2pBXzRrQW4zNUo4STlrSUJtaDdyVGNDSm5sYnk4ZkxLczFEc1BwbmU5Rl93OGttU3ozWkxlLTNaR1RWUXFwOVROQmlPWE4?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-24T03:42:15.000Z",
+      "summary": "明略科技与海康机器人联合参展，布局具身智能赛道。",
       "summaryZh": ""
     },
     {
