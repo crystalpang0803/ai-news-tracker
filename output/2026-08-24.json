@@ -1,35 +1,25 @@
 {
   "date": "2026-08-24",
-  "generatedAt": "2026-08-24T01:59:38.910Z",
+  "generatedAt": "2026-08-24T04:26:03.455Z",
   "items": [
     {
-      "title": "GPT-5.6 Sol大降价 OpenAI将AI价格战烧到旗舰级模型市场",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Danp4VjByTGFiV2ZXaXhkQ3M0eXNBTXNZUzRlbndpMVB5MlVfYU1XR2cwMll1TS1BQzdqV2JxV1JIaHJKX2U2V1RlSTg4TTk2ZG9J?oc=5",
-      "source": "36氪",
+      "title": "具身智能的攻坚战：陪伴机器人需要翻越哪些技术高墙？",
+      "link": "https://www.tmtpost.com/8113992.html",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-23T09:01:00.000Z",
-      "summary": "OpenAI将GPT-5.6 Sol价格大幅下调，引发AI旗舰级模型市场价格战。",
+      "category": "robotics",
+      "pubDate": "2026-08-24T02:39:42.000Z",
+      "summary": "陪伴机器人需克服运动、交互、记忆、触感等技术挑战。",
       "summaryZh": ""
     },
     {
-      "title": "人形机器人运动会跳远冠军出炉，天骄队跳出 7.97 米夺冠",
-      "link": "https://www.ithome.com/0/993/348.htm",
+      "title": "“绝世高手”之“太极宗师”：智元远征 A3 夺得第二届世界人形机器人运动会“武术-太极拳”金牌",
+      "link": "https://www.ithome.com/0/993/384.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-24T01:01:50.000Z",
-      "summary": "天骄队机器人以7.97米成绩获第二届世界人形机器人运动会跳远冠军。",
-      "summaryZh": ""
-    },
-    {
-      "title": "今年我国已有 7 种高端钢材实现全新突破，面向新能源汽车、人形机器人等新兴赛道",
-      "link": "https://www.ithome.com/0/993/332.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-23T23:52:39.000Z",
-      "summary": "我国7种高端钢材实现突破，应用于新能源汽车等新兴领域。",
+      "pubDate": "2026-08-24T02:40:35.000Z",
+      "summary": "智元远征A3机器人获世界人形机器人运动会“武术-太极拳”金牌。",
       "summaryZh": ""
     },
     {
@@ -58,27 +48,37 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-23T13:20:00.000Z",
-      "summary": "WRC展会上，一家沉浸式机器人咖啡店成为唯一真人机共生展台。",
+      "summary": "WRC展会上，一家机器人咖啡店成为唯一真人机共生展台。",
       "summaryZh": ""
     },
     {
-      "title": "部分美人工智能公司下调大模型价格",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91Z2tzV1ZBbzlxMlhCZ1pEWTFUOURqN3RsQkZKYjZfazBFb3BudTBfLXdPVm9HQ3lyVzIxcEl3WllkdldYdXBPbUl6TkVsX2NpclhlZDdYV0Q?oc=5",
-      "source": "界面新闻",
+      "title": "WRC 2026：机器人的“试用期”结束了？",
+      "link": "https://www.tmtpost.com/8113903.html",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-23T02:13:07.000Z",
-      "summary": "美人工智能公司降低大模型使用价格。",
+      "category": "robotics",
+      "pubDate": "2026-08-24T04:08:24.000Z",
+      "summary": "WRC 2026展会上，机器人干活能力展示引发行业关注，但仍需提升泛化能力和实际应用效果。",
+      "summaryZh": ""
+    },
+    {
+      "title": "填补国产空白：东南大学手术机器人具备接近人手的精细力觉感知能力，跨越 2400 公里成功完成 3 例手术",
+      "link": "https://www.ithome.com/0/993/363.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-24T01:43:02.000Z",
+      "summary": "东南大学手术机器人成功完成跨省远程手术，填补国产技术空白。",
       "summaryZh": ""
     },
     {
       "title": "泰康发布养医大模型1.0：以人工智能赋能养老产业发展",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxUnVMczk5RHhtaGJRdS1HT0laTmtYaVVQa0REY1JGNEY1Znc4Q25ERnhnWkhxb2lEU1UtZExCWllTRURRS1NZSkt5Um9Ld2RYb1BWYTkwN1pfVTI1UzFXUWpiT3FUX3pGR2ZkSW1jUU1JODZVT1BCYU9pdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV0VwMUdKZXFsRGV6WEtHOWNnT19YYU9CRm4wbXY2dVEtVWZKZE02VmFkU05Lb3VwanBiMUhEZmxpODljT29zZEUxZzV6QXFCajJmVDR1enYxcnJZdzZHaHppc3JlUWpfVmxBMGdYZ2xObHdoWHc1cGYzRUpGeGdKdnBVTQ?oc=5",
       "source": "央广网",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-23T08:21:30.000Z",
-      "summary": "泰康发布养医大模型1.0，助力养老产业发展。",
+      "summary": "泰康发布养医大模型1.0，旨在推动养老产业智能化发展。",
       "summaryZh": ""
     },
     {
@@ -91,13 +91,23 @@
       "summary": ""
     },
     {
-      "title": "橡鹿机器人发布首个多模态烹饪AI基础模型CookingMuse",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JOWJ1TnNVZzluNHFYQ2s3UTNzQWkwNWw0RXVjVVFVaEdjWDVqZzdBUEFNdmlHbHgxNEtWY3dwR0VnXzZqZndFTXpmMHJYUTRzUV9WdEhjajNJUQ?oc=5",
-      "source": "钛媒体",
+      "title": "AI算力紧缺时代，大学生买不起电脑了",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84YTRaOGFrYlpRSGx6S1ctRjQxUkFlR1VEdDhUTlBLZ2xLSHFjSmdCM1EwSS05bW44dVM3WXdUakp5N0xvVDdqRVhsQ083SmRR?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-23T08:19:00.000Z",
-      "summary": "橡鹿机器人发布全球首个多模态烹饪AI基础模型CookingMuse。",
+      "pubDate": "2026-08-24T04:15:10.000Z",
+      "summary": "大学生因AI算力紧缺，面临电脑购买难题。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国产AI算力基础设施再升级，南方基金吴春林关注国产科技核心资产",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHcFN6aTRZUVZzQlNmQjhsMkhHWTVNYjgwQzVkaFVQdl9GekwwSDhmbUFldHl0Y3dZUVpuSlgzTjNYU3kwZXdUNjdPN1ZfMUVhdWFuOU1oQ0k?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-24T03:14:23.000Z",
+      "summary": "合肥智算集群上线，南方基金吴春林关注国产AI核心资产。",
       "summaryZh": ""
     },
     {
@@ -107,7 +117,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-23T12:32:38.000Z",
-      "summary": "谷歌与Marvell合作开发定制AI芯片，北美AI芯片股权关系网进一步复杂化。",
+      "summary": "谷歌与Marvell合作开发AI芯片，北美AI芯片股权关系网进一步复杂化。",
       "summaryZh": ""
     },
     {
@@ -117,17 +127,46 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-23T04:34:18.000Z",
-      "summary": "宇树科技王兴兴在演讲中提出让机器人自主编写代码实现进化。",
+      "summary": "宇树科技王兴兴在演讲中提出让机器人自主进化代码。",
       "summaryZh": ""
     },
     {
-      "title": "字节豆包加速补齐AI办公版图 即将推出对标WorkBuddy的办公产品",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mNjB6Z0JjMkNVcnVTVXN5OFhDaHJ6WWNWT2N6SG5HZHJCNFA5WU9JTUplXzI2ekVBRWV1SExKMW1YWXFqNzEwd2ViY09pbDMtcWNuag?oc=5",
-      "source": "虎嗅",
+      "title": "AI算力产业链回调，关注南方基金科技系列ETF布局机遇",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90eWctVldoM25Iazd6ZXJrOFV3T293MTJpemlDZ1VvM3dmRnVJSEFsLS1GR2UtbU9WejVpNm4tNUc2ajlrYXY4TQ?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-23T13:39:36.000Z",
+      "pubDate": "2026-08-24T02:49:49.000Z",
       "summary": ""
+    },
+    {
+      "title": "财联社8月24日电，人工智能开源社区Hugging Face据称目前正收到多份并购提议，潜在交易价值达到130亿美元。",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIcDJ0eXpobWpRMEtLbHNEdV83WDh4eG15d0ZVNzJQSTc0LU9fSTJObF8zaERYV1hXR0htUDN4TlpDNXNLZVRzXw?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-23T19:11:22.000Z",
+      "summary": ""
+    },
+    {
+      "title": "从舞台炫技到逐步落地 机器人应用场景持续拓宽",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RcmNDRWJxY1hWSS1KNTVfYXFZcm9JSDd1b0MteFJGNkZxeGp3SVI3TXJJOGxDeE9YaGljSjcyVldrWWU5dkh2WFR0UTF3VERJWXE3elY1QWpWanNsbzJrOXh4aUpNNjBOYjVOMzNwTUZ1WlMyZFJCdg?oc=5",
+      "source": "央视网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-24T02:00:53.000Z",
+      "summary": "机器人应用场景从舞台表演拓展至实际应用领域。",
+      "summaryZh": ""
+    },
+    {
+      "title": "中国AI大模型调用量连续十七周领跑：神秘“牛来”大模型上线四天冲至全球第二，DeepSeek-V4-Flash正式版连续三周第一",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIVS0wUGVnbW51SGNRLTE5WlJ0NXh2VU01UXZuQ0Rvdmt2Q2gzWTRheHF1aGhlaFVaNEV4X0xZY0VEbWdadFllZ3dCSWdOYUtFNFNGM1VVQ0haZmxWeGw4TEdFSWs?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-24T02:57:00.000Z",
+      "summary": "中国AI大模型调用量连续十七周领跑全球，神秘“牛来”大模型上线四天冲至全球第二。",
+      "summaryZh": ""
     },
     {
       "title": "OpenAI、谷歌：降价",
@@ -136,7 +175,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-23T23:22:00.000Z",
-      "summary": "OpenAI和谷歌下调大模型使用价格，竞争加剧。",
+      "summary": "OpenAI和谷歌下调人工智能大模型价格。",
       "summaryZh": ""
     },
     {
@@ -146,47 +185,37 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-23T08:18:00.000Z",
-      "summary": "人形机器人在工业应用中仍面临精度、连贯性和柔性操作等挑战。",
+      "summary": "人形机器人在工业应用中仍面临精度、连贯性和柔性物料操作等挑战。",
       "summaryZh": ""
     },
     {
-      "title": "DeepSeek计费再调整，大模型开启价值定价，谁能受益？",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWJySm1tXzh3RlpuUEhCWnlmYl9iZkQtN0FoSXJ6S3NHdFl0RUYxeExFekEtRWVEV004cm9WY0pPUnBsQ3lJS1JtSnJLeXVzcDVBLTRvcWxRV1ZHTHo0NlFIY2NsVHJieFNfdzEwS2Fvb2FCU3hiQVJ3djBjWjZVSi1Ha3ZMWHV5LURUbg?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-23T09:28:00.000Z",
-      "summary": "DeepSeek API全面调价，大模型行业开启价值定价。",
-      "summaryZh": ""
-    },
-    {
-      "title": "今日数据精选：影院直播樊振东比赛3分钟卖光；人形机器人运动会刷新多项纪录",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15MFVGQ1ZpUDByZ2UyRXFULXZTNHFzY29JNHRPXzVXVGhUa3B5MTFBUElFc215bDVDdl9yWmp5LXQ1N3Z6Y3Y4clVwWHpXQm5kRnRhLURn?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-23T20:46:00.000Z",
-      "summary": "影院直播樊振东比赛3分钟售罄，人形机器人刷新多项世界纪录。",
-      "summaryZh": ""
-    },
-    {
-      "title": "为烹饪机器人装上“眼睛”与 “大脑”——具身智能厨房梦想照进现实",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3bEstT2lYRkVqa2dIS0o1UWp6bS1Dal95OFY1T0dZdzBiTmd0UjgwbFdlVlIyWWZKdDlCRGZzbjk3SlQ5WXd2NmFFUThtYUJ6WWxkVmg4X2pxTUliZDhwNQ?oc=5",
-      "source": "光明网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-23T09:58:00.000Z",
-      "summary": "橡鹿机器人推出多款烹饪机器人，实现具身智能厨房。",
-      "summaryZh": ""
-    },
-    {
-      "title": "中国能建AI算力建设国内排名（分4个不同赛道，排名完全不一样，2026最新行业统",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJTml5a201aTY1OF9YTExJU2c2Sl8zOFRvR1ZTb0tUOHpuSnpYeG9sVkRqQUtoMG5FaDJnd1VqQ1JMMldaQzU2QzQwMTV5eWFZd1NnWUphYUs0d2F5VWJjdTg4TlVaeWk2UkZB?oc=5",
+      "title": "部分美人工智能公司下调大模型价格",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QZ1ZTSHZTcHNkRFRJTVM3OGlVVzlmaHpkcURYWmpwakc1bnY3b1pxSVhjVVBQa3JBUF94RFpwTnB0RzIyRkVTcFJQZTZVMUdHWlZ3TVVrdHJCTUhhS0Q5Rw?oc=5",
       "source": "东方财富网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-23T10:28:00.000Z",
-      "summary": "中国能建在绿电智算一体化EPC总包赛道国内排名第一，算电协同赛道A股企业总榜排名第三。",
+      "pubDate": "2026-08-23T10:41:23.000Z",
+      "summary": "美人工智能公司降低大模型使用价格。",
+      "summaryZh": ""
+    },
+    {
+      "title": "英飞凌人形机器人解决方案_电路方案",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Xd1VFVzNNR1Jhakx6ZXdVWFhFWXc3UGVfTF9ya0d4MkVBQk43cFkxcEhYQmNqQm1pdmlUUUg1N0VkUERoT0cwVjVVc011YmROUFhTaGg3cw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-24T01:01:16.000Z",
+      "summary": "英飞凌推出人形机器人电路解决方案，集成GaN电机控制技术。",
+      "summaryZh": ""
+    },
+    {
+      "title": "智能电视适老难困局何解？海尔给出参考答案",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Yc1VqWkphRHBrbmhYYkZlbmx1QmVWbVc5XzJ6NlFUV05HRW1uRmpRVG1HOVd1dDFMcWFTa1djNmVYLXNGekU4elRNR04?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-08-24T03:57:45.000Z",
+      "summary": "海尔电视通过简化交互逻辑和健康管理功能，为智能电视适老化提供创新解决方案。",
       "summaryZh": ""
     }
   ]
