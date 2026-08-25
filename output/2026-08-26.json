@@ -1,7 +1,16 @@
 {
   "date": "2026-08-26",
-  "generatedAt": "2026-08-25T16:51:27.160Z",
+  "generatedAt": "2026-08-25T18:52:53.452Z",
   "items": [
+    {
+      "title": "AI如何破解养老难题？泰康养医大模型1.0已给出答案",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MYXJFRGtyY2QtQWF3eFhLa0p2VjctZ2VNVFltb3gtaFFNbEQ3Z1o2SG82Q0hZcldkYjJKRXdWb0ZjUXktUE5aQ1VRVkJrdw?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-25T03:26:20.000Z",
+      "summary": ""
+    },
     {
       "title": "OpenAI 秀肌肉，与博通共研的 Jalapeño 芯片将向英伟达 GB300 发起挑战",
       "link": "https://www.ithome.com/0/994/253.htm",
@@ -10,16 +19,6 @@
       "category": "ai",
       "pubDate": "2026-08-25T14:53:05.000Z",
       "summary": "OpenAI与博通合作研发的Jalapeño芯片在AI推理性能上超越英伟达GB300。",
-      "summaryZh": ""
-    },
-    {
-      "title": "基于下一代 Qwen4 架构所构建的多模态 MoE 模型，阿里千问预告明晚开源 Qwen3.8-Flash-Next",
-      "link": "https://www.ithome.com/0/994/252.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-25T14:51:37.000Z",
-      "summary": "阿里千问预告开源基于Qwen4架构的多模态MoE模型Qwen3.8-Flash-Next。",
       "summaryZh": ""
     },
     {
@@ -39,17 +38,47 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-25T09:31:16.000Z",
-      "summary": "范式联合多家厂商发布PhanthyMotus新计划，推动具身智能生态共建。",
+      "summary": "范式联合多家厂商发布PhanthyMotus新计划，推动具身智能行业生态共建。",
       "summaryZh": ""
     },
     {
-      "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
-      "link": "https://www.qbitai.com/2026/08/479132.html",
-      "source": "量子位",
+      "title": "启智加码机器人技能服务，HumanGPT向真实作业数据要能力",
+      "link": "https://www.tmtpost.com/8116327.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-25T06:39:51.000Z",
-      "summary": "未来不远机器人半年内获3轮10亿融资，已进入500个家庭。",
+      "pubDate": "2026-08-25T10:54:51.000Z",
+      "summary": "启智HumanGPT通过HALO技能服采集工人操作数据，训练机器人技能。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI进化速递丨人形机器人百米竞速再次刷新纪录",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YWWk4YjZxT3gzT0gyR04yZUxhWXdqd2ZvZWRFaUtkUW5fanBBa3FubnFkbnRUVnU3SDQ1Vjd0eXlpenl2N1l0dFpzMlRPQi01aUdz?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-25T12:40:38.000Z",
+      "summary": "人形机器人百米竞速刷新至8.86秒。",
+      "summaryZh": ""
+    },
+    {
+      "title": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机",
+      "link": "https://www.qbitai.com/2026/08/478839.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-25T04:08:21.000Z",
+      "summary": "“中小学课本学习智能体”首登小猿AI学习机，提供AI伴学+AI导学双模式学习体系。",
+      "summaryZh": ""
+    },
+    {
+      "title": "超60亿！国内具身智能单轮最大融资纪录诞生",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51U3M2VmlKQWUwY1F4UElmQkRmMERLd0QzbVVGVHJTdkl5cmpxSzlmQ2Q3UGtjbmRGMHhvMVhGenpXRS1aSUE?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-25T02:50:48.000Z",
+      "summary": "小鹏机器人业务首轮融资超60亿，刷新国内具身智能行业纪录。",
       "summaryZh": ""
     },
     {
@@ -59,26 +88,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-25T09:28:34.000Z",
-      "summary": "AIVA总裁提出，汽车是物理AI的重要载体之一。",
+      "summary": "AIVA总裁提出，汽车可作为物理AI的重要载体，具备感知、执行和长期共处场景的优势。",
       "summaryZh": ""
     },
     {
-      "title": "冲刺“全球视频大模型第一股”，每经独家透视可灵AI：客户都在哪？运营状况如何？",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54Nk5pNFFoNE5DcEtsaEVXY0hlT0puN0lfTVI1UkEzQ0RvTV8yYXVUcFd1X1hpUi1LZlNMdE5VeVY0Ujc0dktBZHZlTGNzdw?oc=5",
+      "title": "535B大模型“直播”训练三个月：代码、数据、Loss全公开，吴恩达公开力挺",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01YXVuMC04ZEU2RnNPNzkzcmI5ZkE2c0Fpekt6cHl4SW9rc1ZsZUJxRDFQazFkX3lsWjI2czVBQnR1TVdxLTFybXpCN05mR2c?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-24T21:54:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "535B大模型3个月直播训练全记录 代码数据Loss全开源 获吴恩达公开力挺",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12cTRRZndGSWNjUy1hcWJCQ29UQ0xGQTFHaTNOb0VraGQ2Wk1ITlItQS1hU0pKQ21NTm9sOUJBd00tLUVrWEpjQUxPNXJEQzlqMUJr?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-24T17:03:00.000Z",
-      "summary": "535B大模型三个月直播训练全记录开源，吴恩达公开力挺。",
+      "pubDate": "2026-08-25T08:06:50.000Z",
+      "summary": "535B大模型训练过程全公开，吴恩达力挺开放实验室理念。",
       "summaryZh": ""
     },
     {
@@ -92,6 +112,16 @@
       "summaryZh": ""
     },
     {
+      "title": "OpenAI 奥尔特曼承认自己高估 AI 普及速度：最大阻力其实是改变用户习惯",
+      "link": "https://www.ithome.com/0/994/256.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-25T15:09:13.000Z",
+      "summary": "OpenAI CEO 奥尔特曼承认高估 AI 普及速度，认为改变用户习惯是最大阻力。",
+      "summaryZh": ""
+    },
+    {
       "title": "陈吉宁：强化基础研究和关键核心技术突破，加大人工智能基础理论攻关",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CMzBRSld2Vkp2LXdtX1NUVWRNdE1aZ3NwUkVxZFBwN1lqclVaT0ZDX2hMZV9TN0F2dHRUQTNON1p5TTVaTTRjclVUdk56amg5V0RUSmJiQnc?oc=5",
       "source": "界面新闻",
@@ -102,33 +132,13 @@
       "summaryZh": ""
     },
     {
-      "title": "港股收盘 | 三大指数小幅收跌 AI算力硬件及医药股逆势走强",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1KYzQ1VnBqYzA1WVN0OHk4UzZSc2dnLUNzUXhyeGdBMWFONFc4bEhGMzBhdmdtWmtkdXB1QWVKUDE2Zzg4OWc?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-24T17:24:00.000Z",
-      "summary": "港股三大指数小幅下跌，AI算力硬件及医药股逆势上涨。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国产AI芯片获重要突破，科创芯片设计ETF易方达（589030）近10日获近6亿元净流入",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTSGx5S09iLWhsamk1dFBfSkFwYnhMd3V3NzBSN3FtY2VYOEYtUVZSQkRXdVpYcm1EUmpyZndWV0ZjSWVUT2ZHOQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-25T04:19:32.000Z",
-      "summary": "国产AI芯片突破，易方达科创芯片ETF近10日净流入近6亿。",
-      "summaryZh": ""
-    },
-    {
       "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
       "link": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
       "source": "VentureBeat",
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-25T13:00:00.000Z",
-      "summary": "Perplexity与Nvidia合作推出零代币成本的本地AI代理“Portable Computer”。",
+      "summary": "Perplexity与Nvidia合作推出零成本Token的本地AI代理“Portable Computer”。",
       "summaryZh": ""
     },
     {
@@ -138,7 +148,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-25T11:21:09.000Z",
-      "summary": "OpenAI禁止俄罗斯ChatGPT账户用于隐蔽虚假信息活动。",
+      "summary": "OpenAI封禁了用于传播虚假信息的俄罗斯ChatGPT账户。",
       "summaryZh": ""
     },
     {
@@ -161,53 +171,52 @@
       "summaryZh": ""
     },
     {
-      "title": "Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA",
-      "link": "https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia/",
-      "source": "The Robot Report",
+      "title": "保时捷与印度塔塔咨询达成15亿美元人工智能落地合作",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTGRvV2tqaV9SVFBrWlF6aUJZNVpWRGhRbVBhR1RqYjBhLWI1QjdDelkyZ0owQXJ4Z3pVQ2w4THVIWk81eUREVzBlb19kdkNSaEFFUGIyUTVLU19uTVZmTURVaFpCV3hXMzdja0RvZmRhMkV2cHZMeWhOQ2lkejVVTGhrVVo3UXpZdlE0V2RSeWtQWkU4SEpadmk0LVFNX0lyMmNNUGdmREIydVJIcVZpNDAwMnYyNmdYUTRqRWd0cy1Zb3h5R2MyWlhHNGZSZTJ2cTNJUVNlZ1RBWEs3ci1n?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-25T08:37:00.000Z",
+      "summary": "保时捷与印度塔塔咨询签订15亿美元AI合作，塔塔咨询将负责AI落地部署。",
+      "summaryZh": ""
+    },
+    {
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "source": "MIT Technology Review",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-08-25T15:00:22.000Z",
-      "summary": "NVIDIA发布Jetson Orin Nano 2，边缘机器人推理性能翻倍。",
+      "pubDate": "2026-08-25T09:00:00.000Z",
+      "summary": "上海机器人“狂欢节”展示人形机器人普及趋势。",
       "summaryZh": ""
     },
     {
-      "title": "何小鹏：人形机器人单台毛利或远超汽车，四季度汽车业务目标月销6万台",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tTExHbWoxQ2ZWSVE4NDRwN2w5dTBmb3d3OWctOUNUNUNrdlo5bmVkNXRaa3VicmFDRHpNbEUyd1B4WWc0R0VFNzdxN3V0VkduT1ZRTE56THhvWlpCT1ZOQw?oc=5",
-      "source": "澎湃新闻科技",
+      "title": "任少卿做机器人，蔚来留下一个AI入口",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xNUUzbFp6VmpGWm03NXBVUDlMMlNTLV92c2w4Wnlpd2I2XzJQajZqdDFtVTlXWmQxQ0EwOTNVbDJ1VndYbU9rejdRUUpGOUdqSmJ3?oc=5",
+      "source": "华尔街见闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-25T02:20:00.000Z",
-      "summary": "小鹏CEO何小鹏称人形机器人单台毛利或超汽车，四季度汽车业务目标月销6万台。",
-      "summaryZh": ""
+      "pubDate": "2026-08-25T08:57:08.000Z",
+      "summary": ""
     },
     {
-      "title": "动海报丨世界人形机器人运动会，看点来了",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYNjJTRTdaTmxQUXpWNEFYUm1ybVVfMlJnc2FQR2RiSkdXRFlrT1NmTDFWaGdOSUUyeXg5aXVGeE10SjZoa0RGVE85MHFJNzlmbmJmdHcyUWIxZzBwZDI3NDliSTRocUxZUnlDZ3EyNzU5VHB0NXl1Zm1nTFhTZw?oc=5",
+      "title": "海外网友热议“机器人跑赢博尔特”：如此科幻、如此真实",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWjZFQURWdno5TFdEbldqSDhYLXpXNFV1Q2xudHFXMkZLdjBtcVZ3M0djdHIxV2hfclFBWklyYjhQTk8xOVRsa3E4aktBRl9pLUxpUm9aQjFDYUVHN0RmU2I2Q1lFWThfMTJaaG43aXFEdGVZUlZqcG9jZFl5VmJ6ektIUVF2UHJT?oc=5",
       "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-25T07:02:44.000Z",
-      "summary": "第二届世界人形机器人运动会在北京举行，赛事规模升级，吸引多国队伍参赛。",
+      "pubDate": "2026-08-25T05:57:21.000Z",
+      "summary": "机器人跑赢博尔特，引发海外网友热议。",
       "summaryZh": ""
     },
     {
-      "title": "[经济信息联播]聚焦第二届世界人形机器人运动会4×100米接力赛考验机器人协同感知与高度配合",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGVnZXTHc1bW5DaGtEMWpHZXlaWWUtNGVGeS15Q1N1Mzd2bDlsLWNld0o0Z1JsZjZfUnBiU1lBSTJadU9KZTJId3VVSGhsMHl0ektrU29ONG1DTEpJSGxBT0J3bXJmbElYSG5TNjg4a1pjWEZnVnc?oc=5",
-      "source": "央视网",
+      "title": "具身江湖志（三）：机器人的草根阶层",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XNjRYTXJvV242elMwUEI3YTJkV3ZxZTYzd0FSU2E0MDllODZqaG9vMmJILXNRMzBybTU5dm4yZFpHekRkd0xaZDNzNkNaTDg3UTZ5RHJRTQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-25T13:02:00.000Z",
-      "summary": "世界人形机器人运动会4×100米接力赛考验机器人协同感知与配合。",
-      "summaryZh": ""
-    },
-    {
-      "title": "从AI体验到场景文创：贵州乾圣腾威“伴梦智行”赋能文旅新体验",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15OXFXU2x4QkxRZml2N193Nlo3d1RuYTB2QmR3Si1BdDJBc3BHRzBKbzNqSUstSGhxMXM5azdPVFlTVVFSUEdGSDFsZXg4LUVZSnUwU25R?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-25T07:06:00.000Z",
-      "summary": "贵州乾圣腾威“伴梦智行”AI文旅平台赋能景区个性化体验。",
+      "pubDate": "2026-08-25T06:26:43.000Z",
+      "summary": "机器人草根阶层推动具身智能进入万元时代，满足个性化需求。",
       "summaryZh": ""
     },
     {
