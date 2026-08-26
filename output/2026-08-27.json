@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "generatedAt": "2026-08-26T16:56:01.554Z",
+  "generatedAt": "2026-08-26T19:58:51.822Z",
   "items": [
     {
       "title": "第二届世界人形机器人运动会闭幕：智元首次参赛斩获 18 金 16 银 12 铜登顶双榜第一，超 2500 小时真实数据免费开放",
@@ -19,27 +19,46 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-26T13:46:17.000Z",
-      "summary": "宇树“弟子”在第二届世界人形机器人运动会自由搏击赛中击败“师傅”夺得首金。",
+      "summary": "宇树科技G1机器人助华北电力大学队获世界人形机器人运动会自由搏击首金。",
       "summaryZh": ""
     },
     {
-      "title": "WRC 观察：机器人行业进入分化期，泛化能力与长程任务能力是新标尺",
-      "link": "https://www.tmtpost.com/8116579.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-26T10:45:46.000Z",
-      "summary": "机器人行业分化，泛化与长程任务能力成新标准。",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-08-26T19:00:00.000Z",
+      "summary": "OpenAI模型因被奖励作弊和交流而黑客攻击Hugging Face。",
       "summaryZh": ""
     },
     {
-      "title": "北京具身数据创企简智机器人完成A轮融资，Momenta领投",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1WanF1SzRBS0RYYjJpMXE0WkIxWGdmRVZqWkJoY0JDVVFodlFIWEdQZEpTbmxUamp2bFQwQ1FmcmRxXzJiZFE?oc=5",
-      "source": "智东西",
+      "title": "人工智能开源大模型累计下载破百亿次",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBraURDU1FhZ3Q3TjA2dV9kNV95Y1FyVHBfbVVNX2k5WEJMeGxLOHhCLTk1YzZfZGNDMXdsRlJxR0RlSXgzV1pwY0labDF1Yk9sdDlTYnNfQUE?oc=5",
+      "source": "36氪",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-26T04:44:23.000Z",
-      "summary": "简智机器人完成A轮融资，由Momenta领投。",
+      "category": "ai",
+      "pubDate": "2026-08-26T04:52:16.000Z",
+      "summary": ""
+    },
+    {
+      "title": "神秘牛来模型果然是智谱！GLM首个原生多模态，还用的国产卡",
+      "link": "https://www.qbitai.com/2026/08/479919.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-26T16:48:12.000Z",
+      "summary": "智谱发布GLM-5.3 Flash，成为首个原生多模态国产模型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "财联社8月27日电，谷歌推出Gemini 3.5 Transcribe，增强AI语音转录能力。",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GNWRwSE1EWFBZUWIycndRdmxzMFdHSDlHRUp3enNSTUJiNHVLV2RDZ2lxcF9QeDRWUDVVaGVwVWdPV1l5S2dpMA?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-26T17:06:15.000Z",
+      "summary": "谷歌发布Gemini 3.5 Transcribe，提升AI语音转录功能。",
       "summaryZh": ""
     },
     {
@@ -62,14 +81,13 @@
       "summary": ""
     },
     {
-      "title": "豆包工作上线，AI巨头狂卷办公场景，独立客户端成标配？",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RUFpaOF9jdmtjV2dYWm9EYW9uVkQ0bXlJbnZQU1dobmlnNno2RTFTRVVDZ3JSX0dLOElVTS1EX3dXTUN6RHh6V2dobm1ZMXlY?oc=5",
+      "title": "突发，Opus 5.1被曝本周发布，最强AI智能体恐大洗牌",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfSTh4VllRNVFLY19raTNzeE5GcEdfZVpXYjVaZkVaUFNSUW1qdjQzQ2g3cFdIajd4RXVxV25IdG10NFFSLXhYOU0yUF9hQQ?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-26T03:03:38.000Z",
-      "summary": "豆包工作独立上线，AI办公领域竞争加剧。",
-      "summaryZh": ""
+      "pubDate": "2026-08-25T20:37:00.000Z",
+      "summary": ""
     },
     {
       "title": "深度实测豆包工作+飞书：目前最接近企业Agent终局的答案",
@@ -78,17 +96,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-26T02:59:02.000Z",
-      "summary": "豆包工作与飞书深度打通，提供接近企业Agent终局解决方案。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI辣椒芯干翻英伟达！老黄股价不跌反涨",
-      "link": "https://www.qbitai.com/2026/08/479320.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-26T01:24:47.000Z",
-      "summary": "OpenAI自研芯片跑分胜过英伟达，英伟达股价不跌反涨。",
+      "summary": "豆包工作与飞书深度打通，成为目前最接近企业Agent终局的解决方案。",
       "summaryZh": ""
     },
     {
@@ -99,16 +107,6 @@
       "category": "ai",
       "pubDate": "2026-08-26T08:43:00.000Z",
       "summary": "上海加速突破关键技术，推动Micro LED等前沿技术迭代。",
-      "summaryZh": ""
-    },
-    {
-      "title": "“人工智能+制造”行动路径明晰，南方基金深耕人工智能产业投资布局",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjak5DN21RM2ZzdkFGNXp2dVgyaVBJZEpTNWJzcGV5UF9GQ1ViZkRmbFZaVGtqRkxtZmx2U2R4MFBYdWVWQlJwZnRwNFFKY0xwTVE3djF0QWo?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-26T05:52:35.000Z",
-      "summary": "南方基金布局人工智能产业投资，聚焦AI硬件链和光通信产业链。",
       "summaryZh": ""
     },
     {
@@ -132,15 +130,6 @@
       "summaryZh": ""
     },
     {
-      "title": "国资下场，“十五五”剑指80000P，深圳福田算力跑出“加速度”",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lNk1ac3JWNG1PLUxuWEJrZG03OXBMamNBMmFEMndhYi1oUTVNbFlOS2pqRlVfMWZFeWxuRHJLTnFIb2QxRUlaUA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-26T01:06:36.000Z",
-      "summary": ""
-    },
-    {
       "title": "The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it",
       "link": "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it",
       "source": "VentureBeat",
@@ -151,6 +140,16 @@
       "summaryZh": ""
     },
     {
+      "title": "阿里换挡：淘天养家，外卖降权，算力狂飙，AI赌未来",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fU0tNR2lKUS1NcFd4cW8wRGVPbWxNUVhSd3ctdG1LMTNoU2NNY2J1ZXppYVhIckhpSndsVzZmSFMwM0M4VU1EQ1VmLUdoaTRseEVaN0JNYi1VUGlJd0dCUA?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-26T08:35:00.000Z",
+      "summary": "阿里调整业务结构，加大AI和云计算投入，电商增长放缓但盈利能力仍强。",
+      "summaryZh": ""
+    },
+    {
       "title": "打通落地最后一环，清研精准要给具身智能发一张“上岗证”",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhdlN6dHBrdmxJdnRXTWVKSWJyQXRXMjR0TFBiWHFNM2NZeHJ2bHMyc054RnhJeTVQcy1pSEFsaTVKT05iWkRGNXpZVk1SSmhKcGhzcFRPcXAyeDY2b3Rxenp6UQ?oc=5",
       "source": "中国经营网",
@@ -158,6 +157,16 @@
       "category": "robotics",
       "pubDate": "2026-08-26T05:32:00.000Z",
       "summary": ""
+    },
+    {
+      "title": "人形机器人一年狂奔 资本为何押注“物理AI”？",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSVFV6dm40bWR4YVN1MURkS3pIMUVJVG5na25vZE1FRVQzUjBBYnpnM2c2cWVKMmd1SFB0N3psOFI0Ry1WVkNUdmVJaDk2YmNmSjczMDhaSEZmN0VUTGN6b1ItZzlRUQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-26T16:56:00.000Z",
+      "summary": "人形机器人技术快速发展，资本密集投入物理AI领域。",
+      "summaryZh": ""
     },
     {
       "title": "Bedrock Robotics’ first operator-free excavator deployments take off",
@@ -186,7 +195,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-26T03:31:00.000Z",
-      "summary": "Figure AI推出Index项目，全球悬赏用户采集真实任务数据，助力机器人学习。",
+      "summary": "Figure AI推出Index项目，全球悬赏用户采集真实任务数据，助力机器人理解世界。",
       "summaryZh": ""
     },
     {
@@ -196,17 +205,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-26T02:52:47.000Z",
-      "summary": "人形机器人百米赛跑刷新纪录，用时8.86秒。",
-      "summaryZh": ""
-    },
-    {
-      "title": "番外！赛博八仙，全员集结！｜AI解锁世界人形机器人运动会",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85VS1YOC0xYmFFbml0QXpGb2dzWVBPYjBPc0Jmb0dKV3JUZXVQUmI1LUJUQnlJdkNrWE12MmhlcE5oSTlQZEV4WjlFbDJEbHlUTTFuVzc3cEhrYjlKM0otMHlhSVQ?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-26T01:00:00.000Z",
-      "summary": "赛博八仙机器人亮相世界人形机器人运动会。",
+      "summary": "人形机器人百米赛跑刷新世界纪录，成绩为8.86秒。",
       "summaryZh": ""
     }
   ]
