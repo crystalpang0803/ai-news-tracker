@@ -1,27 +1,7 @@
 {
   "date": "2026-08-26",
-  "generatedAt": "2026-08-25T23:03:39.440Z",
+  "generatedAt": "2026-08-26T02:00:49.159Z",
   "items": [
-    {
-      "title": "OpenAI 发布适用于 ChatGPT Work 和 Codex 的 Admin 插件，管理员可通过对话管理用户和权限",
-      "link": "https://www.ithome.com/0/994/294.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-25T22:55:08.000Z",
-      "summary": "OpenAI推出ChatGPT Work和Codex的Admin插件，管理员可对话管理用户权限。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI 竞赛升温：曝 OpenAI 已预训练 Bel 模型：超 10T 参数，冲击通用人工智能",
-      "link": "https://www.ithome.com/0/994/296.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-25T23:00:23.000Z",
-      "summary": "OpenAI预训练超10T参数的Bel模型，冲击通用人工智能。",
-      "summaryZh": ""
-    },
     {
       "title": "AI如何破解养老难题？泰康养医大模型1.0已给出答案",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tWDNlWVB3LUVKaUZ6X2VkcEdYMXpjc0lFLTEwNnBfYTc1R0pQbEZpbHo3dHpVV1RQeklvY1BTUHhYR0stYzVWb3RQVm9rWDJ1?oc=5",
@@ -34,12 +14,12 @@
     },
     {
       "title": "OpenAI称自研AI芯片测试表现超越英伟达GB300",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CWmdrV2RJZ09DZ01sV0JTNy1QWWJJRmMyU0ROenhhTVRKNWYyYjN6TWNXN0tjd1pvemplbzNoaWVySlR3SWNlSFdnNXpweHV5NFhJ?oc=5",
-      "source": "第一财经",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UR3VsNXo0LXpjNVA3cG90SFF2WE1mSWVGYWRfLTBVUmtOZmpFN0hyVmhwNU9Fa2hwaFVKZFJtQ2dtQktIVldnLVNIME1ZZnJGXzJ5aXNtTlA?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-25T16:34:13.000Z",
-      "summary": "OpenAI自研AI芯片Jalapeno测试表现超越英伟达GB300。",
+      "pubDate": "2026-08-25T23:25:24.000Z",
+      "summary": "OpenAI自研AI芯片Jalapeno测试性能超越英伟达GB300。",
       "summaryZh": ""
     },
     {
@@ -49,7 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-25T09:31:16.000Z",
-      "summary": "范式联合多家厂商发布PhanthyMotus新计划，推动具身智能行业生态共建。",
+      "summary": "范式联合多家企业发布PhanthyMotus新计划，推动具身智能行业生态共建。",
       "summaryZh": ""
     },
     {
@@ -63,13 +43,43 @@
       "summaryZh": ""
     },
     {
+      "title": "小鹏机器人，站在了C位",
+      "link": "https://www.tmtpost.com/8116493.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-26T01:26:00.000Z",
+      "summary": "小鹏机器人完成超9亿美元首轮融资，估值超63亿美元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "谷歌杀入法律 AI 赛道，推出专用 Gemini 工具",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaYmhydFNwdFVwQ0ZhRzE4NTdHblFoWktERTYwR3kyZnNDT2dYZTNvMThRbE1TdmthaTdoeThrSXlFQmQzWVhWQlNIbzQ?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-26T00:07:16.000Z",
+      "summary": "谷歌推出面向律师的AI工具Gemini Enterprise for Legal，旨在提高工作效率并保障数据安全。",
+      "summaryZh": ""
+    },
+    {
+      "title": "超60亿！国内具身智能单轮最大融资纪录诞生",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51U3M2VmlKQWUwY1F4UElmQkRmMERLd0QzbVVGVHJTdkl5cmpxSzlmQ2Q3UGtjbmRGMHhvMVhGenpXRS1aSUE?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-25T02:50:48.000Z",
+      "summary": "小鹏机器人业务首轮融资超9亿美元，刷新国内具身智能行业单轮私募股权融资纪录。",
+      "summaryZh": ""
+    },
+    {
       "title": "机器人一定要长成人形吗？AIVA：汽车也行",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1sVXVhaHdSbWNXWTlSeXhqS1VZUFp6bHhocUJoQ2JOajl2anhQUm9OcnQ2djlISF9URnRIU2oxa281V0QzcUE?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-25T09:28:34.000Z",
-      "summary": "AIVA总裁提出，汽车是物理AI的重要载体之一。",
+      "summary": "AIVA总裁提出，汽车可作为物理AI的重要载体，具备能源、感知和长期共处场景等优势。",
       "summaryZh": ""
     },
     {
@@ -79,7 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-25T08:06:50.000Z",
-      "summary": "535B大模型训练过程全公开，吴恩达力挺开放实验室理念。",
+      "summary": "535B大模型训练过程全公开，吴恩达公开力挺。",
       "summaryZh": ""
     },
     {
@@ -103,23 +113,13 @@
       "summaryZh": ""
     },
     {
-      "title": "国产AI芯片获重要突破，科创芯片设计ETF易方达（589030）近10日获近6亿元净流入",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTSGx5S09iLWhsamk1dFBfSkFwYnhMd3V3NzBSN3FtY2VYOEYtUVZSQkRXdVpYcm1EUmpyZndWV0ZjSWVUT2ZHOQ?oc=5",
-      "source": "财联社",
+      "title": "PCB龙头上半年净利增逾七成，AI算力驱动产业链量价齐升",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zdlQ5UHJ4WDVtOEhOWk9zV3h1UWkyZE42bmExb3FCWkJNR1B0cG00cElKLVZmUnJfdnlTN0ZQRWVGVFBzekZVZG82dm1kVXVnVHBR?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-25T04:19:32.000Z",
-      "summary": "国产AI芯片突破，易方达科创芯片ETF近10日净流入近6亿元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国家能源局：拟在“一带一路”能源合作伙伴关系框架下新成立“人工智能+能源”工作组",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kR1hZbmJya1lNdlFqQllzcXNaNV9mRlp0ZXNmblczVzUzUjZKSEhJTGVSbkh5UnhnTDBwbjhUTnRfM2E1czJQWQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-25T06:50:55.000Z",
-      "summary": "国家能源局拟成立“人工智能+能源”工作组，推动“一带一路”能源合作。",
+      "pubDate": "2026-08-25T13:11:18.000Z",
+      "summary": "PCB龙头沪电股份上半年净利增七成，AI算力推动产业链量价齐升。",
       "summaryZh": ""
     },
     {
@@ -139,7 +139,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-25T11:21:09.000Z",
-      "summary": "OpenAI禁止俄罗斯ChatGPT账户用于隐蔽虚假信息活动。",
+      "summary": "OpenAI禁止了用于传播虚假信息的俄罗斯ChatGPT账户。",
       "summaryZh": ""
     },
     {
@@ -152,6 +152,36 @@
       "summary": ""
     },
     {
+      "title": "AI应用端狂飙！神秘模型刷爆调用纪录，智能体支付新规落地-风口日记",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YRUJJdDA1MnRiSVpjNzZzdmhoSXlGNG5zc3VYenRhWWZsNHVlWU5YcV9yYlJvRUk2RkhieTc1LWZPcUI2czd1Y2FnbTEzMk9sM1dhekozYl9PeGg2U3YyNkJJMGVVMTVjMTg5Vkxra0l2QVZ5?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-25T02:53:53.000Z",
+      "summary": "AI应用端加速渗透，神秘模型刷新调用纪录，智能体支付新规落地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-26T00:40:59.000Z",
+      "summary": "机器人初创公司Generalist估值达30亿美元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "World humanoid robot games show runners breaking records, bursting into flames",
+      "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-08-25T20:59:03.000Z",
+      "summary": "世界仿生机器人比赛打破百米记录，部分机器人起火燃烧。",
+      "summaryZh": ""
+    },
+    {
       "title": "何小鹏：人形机器人单台毛利或远超汽车，四季度汽车业务目标月销6万台",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tTExHbWoxQ2ZWSVE4NDRwN2w5dTBmb3d3OWctOUNUNUNrdlo5bmVkNXRaa3VicmFDRHpNbEUyd1B4WWc0R0VFNzdxN3V0VkduT1ZRTE56THhvWlpCT1ZOQw?oc=5",
       "source": "澎湃新闻科技",
@@ -159,16 +189,6 @@
       "category": "robotics",
       "pubDate": "2026-08-25T02:20:00.000Z",
       "summary": "小鹏CEO何小鹏称人形机器人单台毛利或超汽车，四季度汽车业务目标月销6万台。",
-      "summaryZh": ""
-    },
-    {
-      "title": "动海报丨世界人形机器人运动会，看点来了",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYNjJTRTdaTmxQUXpWNEFYUm1ybVVfMlJnc2FQR2RiSkdXRFlrT1NmTDFWaGdOSUUyeXg5aXVGeE10SjZoa0RGVE85MHFJNzlmbmJmdHcyUWIxZzBwZDI3NDliSTRocUxZUnlDZ3EyNzU5VHB0NXl1Zm1nTFhTZw?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-25T07:02:44.000Z",
-      "summary": "第二届世界人形机器人运动会在北京举行，赛事规模升级，赛项丰富。",
       "summaryZh": ""
     },
     {
