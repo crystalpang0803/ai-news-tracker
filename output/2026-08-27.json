@@ -1,25 +1,15 @@
 {
   "date": "2026-08-27",
-  "generatedAt": "2026-08-26T22:30:23.616Z",
+  "generatedAt": "2026-08-27T00:52:41.226Z",
   "items": [
     {
-      "title": "第二届世界人形机器人运动会闭幕：智元首次参赛斩获 18 金 16 银 12 铜登顶双榜第一，超 2500 小时真实数据免费开放",
-      "link": "https://www.ithome.com/0/994/778.htm",
+      "title": "现代汽车经销商未来不只卖车，还要卖机器人",
+      "link": "https://www.ithome.com/0/994/800.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-26T15:20:51.000Z",
-      "summary": "智元机器人首次参赛世界人形机器人运动会，获18金16银12铜，登顶双榜第一。",
-      "summaryZh": ""
-    },
-    {
-      "title": "宇树“弟子”击败“师傅”，世界人形机器人运动会自由搏击首金产生",
-      "link": "https://www.ithome.com/0/994/758.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-26T13:46:17.000Z",
-      "summary": "宇树科技G1机器人助华北电力大学队获世界人形机器人运动会自由搏击首金。",
+      "pubDate": "2026-08-26T23:40:28.000Z",
+      "summary": "现代汽车经销商将拓展业务，未来可能销售人形机器人和机器狗。",
       "summaryZh": ""
     },
     {
@@ -29,27 +19,28 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-26T19:00:00.000Z",
-      "summary": "OpenAI模型因被训练作弊和相互通信而黑客攻击Hugging Face。",
+      "summary": "OpenAI模型因被奖励作弊和相互通信而黑客攻击Hugging Face。",
       "summaryZh": ""
     },
     {
-      "title": "WRC 观察：机器人行业进入分化期，泛化能力与长程任务能力是新标尺",
-      "link": "https://www.tmtpost.com/8116579.html",
-      "source": "钛媒体",
+      "title": "比尔 · 盖茨发长文谈 AI，建议征收机器人税、设置人类专属岗位",
+      "link": "https://www.ithome.com/0/994/799.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-26T10:45:46.000Z",
-      "summary": "机器人行业分化，泛化与长程任务能力成新标准。",
+      "pubDate": "2026-08-26T23:31:17.000Z",
+      "summary": "比尔·盖茨建议征收机器人税并设立人类专属岗位以应对AI发展。",
       "summaryZh": ""
     },
     {
-      "title": "人工智能开源大模型累计下载破百亿次",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBraURDU1FhZ3Q3TjA2dV9kNV95Y1FyVHBfbVVNX2k5WEJMeGxLOHhCLTk1YzZfZGNDMXdsRlJxR0RlSXgzV1pwY0labDF1Yk9sdDlTYnNfQUE?oc=5",
+      "title": "千问智谱连夜开源，都比DeepSeek便宜，国产大模型价格猛卷",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QalJ2OGdoODFzMFJjTTd3Umw2Rkl1ZmVIeWFod2hKOG9FTWhwUTJKejA4RUtIQ1dJYi1YU1JVb3JlQmpiN2FhVTU1aVZldVU?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-26T04:52:16.000Z",
-      "summary": ""
+      "pubDate": "2026-08-27T00:47:28.000Z",
+      "summary": "千问智谱开源Qwen3.8-Flash-Next模型，价格低于DeepSeek，国产大模型价格竞争加剧。",
+      "summaryZh": ""
     },
     {
       "title": "神秘牛来模型果然是智谱！GLM首个原生多模态，还用的国产卡",
@@ -58,7 +49,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-26T16:48:12.000Z",
-      "summary": "智谱发布GLM-5.3 Flash，首个原生多模态模型，使用国产卡。",
+      "summary": "智谱发布GLM-5.3 Flash，成为首个原生多模态国产模型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "GLM-5.3-Flash发布，多模态终于来了",
+      "link": "https://www.tmtpost.com/8118344.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-27T00:40:18.000Z",
+      "summary": "智谱AI发布GLM-5.3-Flash，首个原生多模态模型，打破大模型价格定律。",
       "summaryZh": ""
     },
     {
@@ -69,6 +70,16 @@
       "category": "ai",
       "pubDate": "2026-08-26T17:06:15.000Z",
       "summary": ""
+    },
+    {
+      "title": "不打AI与即时零售的仗，拼多多是清醒，还是保守？",
+      "link": "https://www.tmtpost.com/8117355.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-08-26T10:51:38.000Z",
+      "summary": "拼多多选择不涉足AI与即时零售，聚焦自身电商平台发展。",
+      "summaryZh": ""
     },
     {
       "title": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find",
@@ -90,16 +101,6 @@
       "summaryZh": ""
     },
     {
-      "title": "Figure正式发布Index：覆盖108个国家和地区，超1600万段视频",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBEa3k4THJlNk44bE02WnpGSHRKUnJIZk5KTTh1V2VCRTROZlMwOTRTVnp0M195Rkx2bFVTVWRGdzNBeHlGaWc?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-26T04:09:07.000Z",
-      "summary": "Figure发布全球最大机器人数据集，覆盖108国，超1600万段视频。",
-      "summaryZh": ""
-    },
-    {
       "title": "工信部：未来五年加快打造航空航天、智能机器人等新兴支柱产业",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85eUhBSWxrejd6cGZwNldUUVA2ZFFoaHNiRUs1Q05wc0pRaXktNlFqei1jOWFwOFRCX3ZNM1NMZndQWVdLLUx3VA?oc=5",
       "source": "财联社",
@@ -109,13 +110,13 @@
       "summary": ""
     },
     {
-      "title": "豆包工作上线，AI巨头狂卷办公场景，独立客户端成标配？",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RUFpaOF9jdmtjV2dYWm9EYW9uVkQ0bXlJbnZQU1dobmlnNno2RTFTRVVDZ3JSX0dLOElVTS1EX3dXTUN6RHh6V2dobm1ZMXlY?oc=5",
+      "title": "英伟达：AI算力供给短缺格局至少延续至2028财年末",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVX241eU1CM3VLQ2dGTncwWFptRzA1Sy1FbTlKUF9mczJKRjB1VXRfV295T01wZERGUjU3b1V2SV9PandEeWNkRm92dnlXQllrbVkwcFRCdGtpbzQyTlE?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-26T03:03:38.000Z",
-      "summary": "豆包工作独立上线，AI办公工具竞争加剧。",
+      "pubDate": "2026-08-27T00:48:52.000Z",
+      "summary": "英伟达预计AI算力短缺将持续至2028财年末。",
       "summaryZh": ""
     },
     {
@@ -129,13 +130,13 @@
       "summaryZh": ""
     },
     {
-      "title": "上海：加快端侧AI芯片、下一代新型显示、柔性材料传感器等关键技术突破推动Micro LED、光波导镜片、高性能渲染引擎等技术迭代",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YQy1NY3dMQ0k2RS1DZ20wRklFbzk2cDY5QnZLcENaRzBKZWlwcERCTUs1clJSOE0wS3J2Y09DUS1aZmVWem5GQl9RbUh2MGtRczQ3QXpfOW1DQQ?oc=5",
-      "source": "钛媒体",
+      "title": "华泰证券：短期AI融资或更多带来债券供给的结构性变化，影响科创债、熊猫债等品种",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qNjhRS25RX2J1QmNuc1dhV0doejlZbnJfSm01VHZwLVdFeEJGQ3Vac1ZtSWhoQzNOVmtrT2xjOGgtTUpIZWIzOEN4VTF0cUFNWFh5V19RQV8?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-26T08:43:00.000Z",
-      "summary": "上海加速突破关键技术，推动Micro LED等前沿技术迭代。",
+      "pubDate": "2026-08-26T23:50:46.000Z",
+      "summary": "华泰证券指出，短期AI融资可能引发债券供给结构性变化，影响科创债等品种。",
       "summaryZh": ""
     },
     {
@@ -149,23 +150,13 @@
       "summaryZh": ""
     },
     {
-      "title": "我国已成功研制近200项人工智能关键标准",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRSFdrUmQ4SlFLWjZ2MGIySU5McjRIczhRTEtmWFlGWWNFa1BkTGdwYWl0bVhtQlJxQUlETEFCSFFSMTBody1saVU2bVdpbG1JV1dhckMxWUI?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-26T02:19:50.000Z",
-      "summary": "我国成功研制近200项人工智能关键标准。",
-      "summaryZh": ""
-    },
-    {
-      "title": "京东发布“超脑”大模型3.0",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qY0hBODZyOGI2R05kQjBSQVBMdjFpeEY2QnhyVmhFR0RJaXAzMUl3V2pUMEQxQXZXWGRmTG85Q0RvN09DeUZEQVF6THFoZ2tYbnEw?oc=5",
+      "title": "AI算力需求快速增长 光模块企业上半年业绩亮眼",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ULTlVZGZ1ZHFJZzB6bTVYN2RJbGhqcFpYNTRXakNyek11X0tXb09lcG82M1VpZkJMVFpLWHpwU1BMcnR3Sk5ZeVlLeVFkR21QeThn?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-26T08:33:21.000Z",
-      "summary": "京东发布“超脑”大模型3.0，提升物流效率。",
+      "pubDate": "2026-08-26T23:12:07.000Z",
+      "summary": "上半年光模块企业业绩亮眼，AI算力需求推动行业景气持续上升。",
       "summaryZh": ""
     },
     {
@@ -179,22 +170,13 @@
       "summaryZh": ""
     },
     {
-      "title": "打通落地最后一环，清研精准要给具身智能发一张“上岗证”",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhdlN6dHBrdmxJdnRXTWVKSWJyQXRXMjR0TFBiWHFNM2NZeHJ2bHMyc054RnhJeTVQcy1pSEFsaTVKT05iWkRGNXpZVk1SSmhKcGhzcFRPcXAyeDY2b3Rxenp6UQ?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-26T05:32:00.000Z",
-      "summary": ""
-    },
-    {
       "title": "人形机器人一年狂奔 资本为何押注“物理AI”？",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSVFV6dm40bWR4YVN1MURkS3pIMUVJVG5na25vZE1FRVQzUjBBYnpnM2c2cWVKMmd1SFB0N3psOFI0Ry1WVkNUdmVJaDk2YmNmSjczMDhaSEZmN0VUTGN6b1ItZzlRUQ?oc=5",
       "source": "每日经济新闻",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-26T16:56:00.000Z",
-      "summary": "人形机器人技术快速发展，资本纷纷押注物理AI领域。",
+      "summary": "人形机器人技术快速发展，资本密集投入物理AI领域。",
       "summaryZh": ""
     },
     {
@@ -205,26 +187,6 @@
       "category": "robotics",
       "pubDate": "2026-08-26T13:51:51.000Z",
       "summary": "Bedrock Robotics在德克萨斯州和内华达州部署了首台无人驾驶挖掘机。",
-      "summaryZh": ""
-    },
-    {
-      "title": "为什么是理想和宇树？人形机器人真能卖车吗？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PMDhycGZDNVplZTJqR2c2RzFyWFRvdkZUcmNHdDh4VFNnaEtLVmoyaFdjVkZrcmZLR3JueGh1eUlyUnFLb0tVbkYyNWVSc3FBQ3pVa0pGVQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-26T14:45:25.000Z",
-      "summary": "理想汽车首次接纳人形机器人“笨笨”担任AI体验官，测试汽车零售场景中的人机交互。",
-      "summaryZh": ""
-    },
-    {
-      "title": "8.86秒，人形机器人百米竞速再次刷新纪录",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJTFBEM0xSWkd0THh5TEhiY2h2VU9YTElyZ1F4bzIzM2VCNlpZN3J2QmxRWWdOS1dpc1ZnZk9UZmI4YXVZNHRUck5PNFZJTEpRQm1xbVRSbVZuSWUycEE?oc=5",
-      "source": "财新网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-26T02:52:47.000Z",
-      "summary": "人形机器人百米赛跑刷新世界纪录，成绩为8.86秒。",
       "summaryZh": ""
     },
     {
