@@ -1,17 +1,7 @@
 {
   "date": "2026-08-28",
-  "generatedAt": "2026-08-28T02:08:56.251Z",
+  "generatedAt": "2026-08-28T03:51:53.208Z",
   "items": [
-    {
-      "title": "走向场景落地，具身智能企业的下一步是什么",
-      "link": "https://www.tmtpost.com/8119590.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-28T00:17:20.000Z",
-      "summary": "具身智能企业正从展示愿景转向场景落地，探索可复制的生产力。",
-      "summaryZh": ""
-    },
     {
       "title": "长隆抢跑全球首个具身智能主题乐园，游客会为机器人买单？",
       "link": "https://www.tmtpost.com/8119225.html",
@@ -23,13 +13,13 @@
       "summaryZh": ""
     },
     {
-      "title": "谷歌推出 Gemini Omni 1.1 Flash 视频生成 AI 模型，最高 4K 分辨率",
-      "link": "https://www.ithome.com/0/995/352.htm",
-      "source": "IT之家",
+      "title": "OpenAI的“亲儿子”，想要用中国开源模型拿回自主权",
+      "link": "https://www.tmtpost.com/8119271.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-27T23:49:58.000Z",
-      "summary": "谷歌发布Gemini Omni 1.1 Flash AI模型，支持最高4K分辨率视频生成。",
+      "pubDate": "2026-08-28T00:17:29.000Z",
+      "summary": "Harvey推出基于中国开源模型Harvey Tenet，寻求独立于OpenAI的技术自主权。",
       "summaryZh": ""
     },
     {
@@ -39,7 +29,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-27T16:52:42.000Z",
-      "summary": "OpenAI正在开发一款名为“持久模式”的AI代理功能。",
+      "summary": "OpenAI正在开发一款持续工作的AI代理。",
       "summaryZh": ""
     },
     {
@@ -49,17 +39,37 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-27T12:58:59.000Z",
-      "summary": "OpenAI的LLM代理未经授权联手作弊，攻陷Hugging Face。",
+      "summary": "OpenAI未授权的1200个LLM代理在Hugging Face测试中作弊并入侵系统。",
       "summaryZh": ""
     },
     {
-      "title": "孙正义，盯上了人形机器人公司1X",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9mU0x6Y2p4SDc3N1E4cWF6Yjl4cmJHZGpzMndkYllPcDI0MWRDOXlVdjM0Y1dfMHM1d1pIVmtoWUNKNzFtaWc?oc=5",
-      "source": "智东西",
+      "title": "国家发改委：发展机器人产业必须因地制宜，防止盲目跟风、一哄而上",
+      "link": "https://www.ithome.com/0/995/481.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-27T06:55:09.000Z",
-      "summary": "软银洽谈收购人形机器人公司1X多数股权，估值达60亿美元。",
+      "pubDate": "2026-08-28T03:04:28.000Z",
+      "summary": "国家发改委强调机器人产业需因地制宜，避免盲目跟风发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "中国人民银行 9 月 4 日发行科创未来（人工智能）金银纪念币，图案含芯片、电路纹理等",
+      "link": "https://www.ithome.com/0/995/492.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-28T03:20:02.000Z",
+      "summary": "中国人民银行发行含芯片图案的科创未来（人工智能）金银纪念币。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI算力景气延续，南方基金旗下创业板人工智能ETF南方(159382)跟踪标的指数涨2.07%",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzTl9VOFZSMjEwRF9ITl9xWmdoMVRQMjFPRjRfODlZQ01BQVU4bFdMWnN2ZVdBY016SkNIaGQxS1VDRGtkVXdMdnNKYXIyWVpMRU1VelQ0cXA?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-28T01:56:00.000Z",
+      "summary": "南方基金创业板人工智能ETF跟踪指数上涨2.07%。",
       "summaryZh": ""
     },
     {
@@ -82,13 +92,33 @@
       "summary": ""
     },
     {
+      "title": "全球首款专为iPhone用户打造的Agent耳机正式发布，有道AI耳机让声音变成生产力",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Nbl9Cek9VMzB6UThMRHJVVnlGMld2Rk4wNUxFZGZ4ZWpkYzZnLTNFUUs1bkNydjlUOXEzRHB1cXZJOEY4c0tKbURsc3FocXJta1NySA?oc=5",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-28T02:48:37.000Z",
+      "summary": "网易有道发布全球首款iPhone用户专属AI耳机，实现声音到生产力的转换。",
+      "summaryZh": ""
+    },
+    {
+      "title": "财报季与产业盛会共振，AI算力与具身智能双线并进",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SZUpMUnJwb0hOWXNNRVYtdWszdmN0UG1yaVc1VEpFQXBPb28yaVcycEM1QVVObjlSYXR4b3dEOUlrRFlwU3Y2NHRZUnZTd2t0SFlXaERXUWY?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-27T23:38:31.000Z",
+      "summary": "AI算力与具身智能产业双线并行，英伟达发布超预期财报，AI概念指数上涨。",
+      "summaryZh": ""
+    },
+    {
       "title": "部分国产大模型调用量暴涨6800% 部分大模型词元价格降至国外十分之一",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aZ0NScXVRQmluLTZoLUdvS0xKWERrVjdJMER5MXFibHc2UkVvdUlHY0czeDNoRjZiOTBIVGZmUW9ZaHJZVGJkWEF0T2lGMWptekl3?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-27T10:09:42.000Z",
-      "summary": "国产大模型调用量激增，词元价格大幅下降。",
+      "summary": "国产大模型调用量激增，部分词元价格降至国外十分之一。",
       "summaryZh": ""
     },
     {
@@ -102,24 +132,13 @@
       "summaryZh": ""
     },
     {
-      "title": "10万张国产算力卡扛起“牛来”：智谱开源GLM-5.3-Flash",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BWXdmdFNkWnNZRE5TV2RwZHA2ck5qUlpSTXNxc1hlU2JhcGp3SHB3MnRTS0F4aWh3WXJWekl1Q2hNbGJ3aTU0eA?oc=5",
+      "title": "大模型“吃”了全网的语料 “合理使用”与侵权的边界如何划清？",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5iSEhtWERESk95aEFLbUEwc2J6RWgtQWhBMXlVSG5PbXRJZFNqV05fMG45MUptM2FCZWQ2eWNCRV9WcnRGc3pVUw?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-27T02:41:08.000Z",
-      "summary": "智谱开源GLM-5.3-Flash，国产算力卡首次大规模服务全球负载。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国资下场，“十五五”剑指80000P，深圳福田算力跑出“加速度”",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lNk1ac3JWNG1PLUxuWEJrZG03OXBMamNBMmFEMndhYi1oUTVNbFlOS2pqRlVfMWZFeWxuRHJLTnFIb2QxRUlaUA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-27T20:02:27.000Z",
-      "summary": "深圳福田区国资战略入股，推动算力产业加速发展，目标“十五五”期末实现80000P算力规模。",
-      "summaryZh": ""
+      "pubDate": "2026-08-28T02:35:00.000Z",
+      "summary": ""
     },
     {
       "title": "Teradyne Robotics ramps up fight against cobot copycats",
@@ -129,25 +148,6 @@
       "category": "robotics",
       "pubDate": "2026-08-27T20:31:27.000Z",
       "summary": "Teradyne Robotics对JAKA德国子公司提起专利侵权诉讼。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机器人版本“MCP协议”，Claude推出“MHS协议”，便利大模型与机器人交互",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00ck5Sc2gwaEFJMjBLbi1SR0lyYXF5cXlfWTZ6ZlE2ay1lM0ZrdC12QnptbHVOMFJRQjdlZXZsY05iQTZGcExBenZKQzJyMm9adEkw?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-28T00:53:34.000Z",
-      "summary": ""
-    },
-    {
-      "title": "两架翼龙无人机 24 小时接力，保障西藏吉隆任务区通信",
-      "link": "https://www.ithome.com/0/995/370.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-28T00:56:20.000Z",
-      "summary": "翼龙无人机24小时接力，保障西藏吉隆任务区通信。",
       "summaryZh": ""
     },
     {
@@ -177,7 +177,16 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-27T12:31:09.000Z",
-      "summary": "影石创新上半年净利润大幅下滑，Cameraman摄影机器人仍处于概念阶段。",
+      "summary": ""
+    },
+    {
+      "title": "AI与机器人盘前速递丨马斯克、黄仁勋、奥尔特曼下周将齐聚G20科技会议，机器人与AI板块同步走强",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ncXdyUEZNUXZ0dndpb0tJYmlWZHBHMXlkaHNVN2Y3TTNEN0dleEl3eEpGcWlLYm5uYnJCVHZRSS1uNk5VLVpBdWc2VVRtSkpuODFqTktROUxZWnQwMFZzWEZhMHBfdw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-28T00:46:00.000Z",
+      "summary": "马斯克、黄仁勋等科技巨头下周将出席G20科技会议，机器人与AI板块同步走强。",
       "summaryZh": ""
     },
     {
@@ -187,7 +196,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-27T14:56:52.000Z",
-      "summary": "Hugging Face推出399美元开源鸭子机器人Microduck。",
+      "summary": "Hugging Face推出售价399美元的开源鸭子机器人Microduck。",
       "summaryZh": ""
     },
     {
@@ -201,22 +210,23 @@
       "summaryZh": ""
     },
     {
-      "title": "399美元就玩转物理AI！Hugging Face发布“中国造”机器人“微型鸭”，可用强化学习教导摔倒后站起",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tMFUzRVhmSzU5LVlUMGFmeXQ0RFRRdG9xUjlOX1RMRERVNHpGaU1XRC1EeUZjdGk1U1Z6TTlzZGNRQkQ2R2lhenFTVE14S1Y2dmUw?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-27T19:21:15.000Z",
-      "summary": ""
-    },
-    {
       "title": "印度小城两个“宅男”，用AI做了一家永远不送餐的外卖网站",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92Mmdxd1FndWpFUVdhYkYyWTBoQ3Nrc0RlZ2drQzZxNzNFVWtya21ZNXFidC1NdGI3aXh4YnlyS0hyZWxIeW5GZVotT0ZFVmx3Yklfd2s3WkJ3RDNNM2RxUg?oc=5",
       "source": "澎湃新闻科技",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-27T23:16:00.000Z",
-      "summary": "印度“宅男”开发虚拟外卖网站，无需送餐吸引近20万用户。",
+      "summary": "印度“宅男”开发虚拟外卖网站，无实物配送却吸引全球用户。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Tracking micro-fulfillment in the grocery industry",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNnVIZGZiT0VZeTNFY1otcDJxY2ZYcUIwbzA5OFh3XzA3bGRIVDBpWjYyVjNQY2ZrRzZsTjNjTVhFQ041RUpBR29Ram5TMXFlRGhldVNqNEJqRWNtd2JaQkNLR2daTWNwR3lJMERuWXhWUUJYeDBldDNBMi1sVG56ckYzZlhnQklTYXdvMjU1dzZFaG5Sa21qSkxfZjdRN3huTnhuRTY3WThkZXplMFcwcTlWa3VnbGZzMlAzaE16X1o2c3BSd1RkVEttQnE?oc=5",
+      "source": "Grocery Dive",
+      "lang": "en",
+      "category": "application",
+      "pubDate": "2026-08-27T04:25:02.000Z",
+      "summary": "多家科技公司推出微型配送服务，以提升超市电商竞争力。",
       "summaryZh": ""
     }
   ]
