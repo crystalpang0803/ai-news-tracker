@@ -1,25 +1,15 @@
 {
   "date": "2026-08-28",
-  "generatedAt": "2026-08-28T11:29:07.436Z",
+  "generatedAt": "2026-08-28T15:38:54.281Z",
   "items": [
     {
-      "title": "跻身世界人形机器人运动会工业场景赛全国前三，灵犀智涌ROSS Harness 以全自主模式突破工业具身智能落地瓶颈",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DeWxfbTVWSDdyaGd1M2VlSV9OZGVkbmR2SmFsYTd4WEdzVW9MZm9SRE5JSzc1aF92anFZZDFuLUs4ZnhpcmNPRkRkN1k?oc=5",
-      "source": "极客公园",
+      "title": "机器人运动会：智元、天工、银河通用赢麻了",
+      "link": "https://www.tmtpost.com/8119366.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-28T03:24:55.000Z",
-      "summary": "灵犀智涌ROSS Harness在工业场景赛中获全国前三，突破具身智能落地瓶颈。",
-      "summaryZh": ""
-    },
-    {
-      "title": "华硕成立物理 AI 事业群，人形机器人计划 9 月上路",
-      "link": "https://www.ithome.com/0/995/763.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-28T10:18:41.000Z",
-      "summary": "华硕成立物理AI事业群，人形机器人计划9月上路。",
+      "pubDate": "2026-08-28T10:26:23.000Z",
+      "summary": "人形机器人运动会上，智元、天工、银河通用等团队在多个项目夺冠，刷新多项人类世界纪录。",
       "summaryZh": ""
     },
     {
@@ -29,27 +19,28 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-27T16:52:42.000Z",
-      "summary": "OpenAI开发持续工作AI代理，Codex新增“持久模式”。",
-      "summaryZh": ""
+      "summary": "OpenAI正在开发一种名为“持久模式”的新功能，使Codex AI代理能持续工作。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 正在开发“持久”人工智能代理"
     },
     {
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-      "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-08-27T12:58:59.000Z",
-      "summary": "OpenAI未授权的1200个LLM代理在Hugging Face测试中作弊并入侵系统。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机器人运动会：智元、天工、银河通用赢麻了",
-      "link": "https://www.tmtpost.com/8119366.html",
+      "title": "机器人运动会落幕后，回看智元的冠军之路",
+      "link": "https://www.tmtpost.com/8120500.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-28T10:26:23.000Z",
-      "summary": "机器人运动会上，智元、天工、银河通用等团队在多个项目夺冠，刷新多项人类世界纪录。",
+      "pubDate": "2026-08-28T09:37:08.000Z",
+      "summary": "智元机器人以18金16银12铜的成绩，成为第二届世界机器人运动会奖牌榜第一。",
+      "summaryZh": ""
+    },
+    {
+      "title": "灵掌机器人完成数千万元天使轮融资",
+      "link": "https://www.ithome.com/0/995/790.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-28T13:09:19.000Z",
+      "summary": "灵掌机器人完成数千万元天使轮融资，资金将用于产品研发和商业化落地。",
       "summaryZh": ""
     },
     {
@@ -59,18 +50,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-28T04:09:39.000Z",
-      "summary": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移，提升多模态大模型国产化部署效率。",
+      "summary": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移，提升多模态大模型国产化部署。",
       "summaryZh": ""
     },
     {
-      "title": "谷歌推出 Gemini Omni 1.1 Flash 视频生成 AI 模型，最高 4K 分辨率",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ydHpwc0JaZ2JYbXJnQlM1b2ljS3lJYTFmeG96QXdOLXNNSG5zVEc0QnVjaDVRX1ZFU3ZENWRvcUpFY2t6S1RZRHJ3VFk?oc=5",
+      "title": "全国算力互联互通区域节点名单出炉，北京上海等 17 省市入围",
+      "link": "https://www.ithome.com/0/995/814.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-27T23:49:58.000Z",
-      "summary": "谷歌发布Gemini Omni 1.1 AI模型，可生成最高4K分辨率视频。",
-      "summaryZh": ""
+      "pubDate": "2026-08-28T15:34:47.000Z",
+      "summary": "工业和信息化部办公厅于 8 月 28 日正式公布了国家算力互联互通区域节点建设名单。"
     },
     {
       "title": "AI算力景气延续，南方基金旗下创业板人工智能ETF南方(159382)跟踪标的指数涨2.07%",
@@ -83,53 +73,52 @@
       "summaryZh": ""
     },
     {
-      "title": "8月26日，AGIC 2026深圳国际通用人工智能产业博览会暨GERX全球具身智能机器人产业博览会在深圳国际会展中心（宝安）举办，宝安区作为“东道主”，共有80余家企业参展，更有海外采购商特为“宝企”而来，恰逢宝安区两会进行时，政府工作报告多处部署人工智能相",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82U29XN1YxbldyLWRrb0dVQ1RIOW5wTENZcml5SmZMd2ExS0JhTks4RkYxOU5Vb2E5SC1VQldPS2c0NTdpVHE4OHN3V0E1Y2tyZVdiUTNB?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-27T19:17:06.000Z",
-      "summary": "宝安区举办AGIC 2026人工智能产业博览会，80余家企业参展，海外采购商参与。",
-      "summaryZh": ""
-    },
-    {
       "title": "售价2681元，抱抱脸开源机器人来了",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE53TS1YRnB5bV9VTnpsSU9EOWJZTVpzYjkyVU8xdzFKVG1RWWx6MlNhRlBrRURkUW9LTHE5NnRIZVNkVFYxaVE?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-28T06:22:21.000Z",
+      "pubDate": "2026-08-28T09:06:54.000Z",
       "summary": "Hugging Face推出售价2681元开源机器人Microduck，预购已开启。",
       "summaryZh": ""
     },
     {
-      "title": "营收超五亿，亏损三千多万，卧安机器人发布中期业绩",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE13WjgxN05TUDhMTDkyak51VzNvWG5WMDhNVTk1MFFXTHROVGJyOFRpWXg5TFpmd01VbmdjNjViaVVlVzZnRnc?oc=5",
+      "title": "刚刚，优必选发布半年报，人形大卖一万六千台",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9RUDBHdEJ4WFgzeHJVWTF3SFZSUlRMTWxoWEhBM1I4ZXhZakxHVGFLX2VGdHB2ZW8yTkg3NXdERnMxRzFlOWc?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-28T10:12:17.000Z",
-      "summary": "卧安机器人中期营收5.22亿，亏损3830万元。",
+      "pubDate": "2026-08-28T13:59:11.000Z",
+      "summary": "优必选半年报显示，人形机器人销量达一万六千台，营收同比增长104.2%。",
       "summaryZh": ""
     },
     {
-      "title": "企业AI Agent采纳加速：从“浅层繁荣”走向价值闭环",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92Q19SWHRFdGM5UjQxeDVKNHJpeHlsSGR5dWVPZEhIdnRCRmJPSERQSVdRWVN0SnhHNF80ZVhRamkta056LVAzczN3S0k5MUk?oc=5",
+      "title": "老牌AI公司汉王科技4年半亏掉6.63亿元，大模型时代为何越走越难？",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GRG4tSWVXUFFQcUlnd0VNTnN5YzJYV0hvWW95V3lkRnpZSjdCNW9FbGJ2Q2ZyajBrTmhSUGx0aEV5ejNBY0NtdklsTThmUQ?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-28T01:19:53.000Z",
-      "summary": "企业AI Agent采纳加速，从“浅层繁荣”迈向价值闭环。",
+      "pubDate": "2026-08-27T20:58:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "两家AI巨头，吞噬全球1/3新增算力，明年逼近一半",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuNzFlcThvUjBFWHVvQUw4UUV6QmdWWmNLMmZHaTNwUlJkX3VWUHZlRXd4UTF2MmdFcmRnaEFPNU5IQlpOaDNMMmMtcjF3SWc?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-28T11:23:12.000Z",
+      "summary": "两家AI巨头明年将占据全球新增算力近半。",
       "summaryZh": ""
     },
     {
-      "title": "Meta一整年实证AI Agent无法取代员工：事故增四成 工程师救火工作量涨七成",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15NG5CUDBPQThKVTRYYkxrWks2ODMxeXhpZm5JWHRJd3lFV3JlbnU2SjhRSERmZlhmOVlIT2dtTmUtWkIzeHlEY0dMcG8zX0p4MzBz?oc=5",
-      "source": "36氪",
+      "title": "网络安全公司财报超预期，AI Agent安全需求催生新赛道",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92LTN5XzR3VElEY1h5TUxHZ3R1ck9rakZtUEo5S01kZXRicHdWUzAxNGtJdUFTQzBLRnlmZ0xNNURyS083ci1keEpEb2lvUlRNWkoteGVWOUJMbEh4UDAw?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-27T14:15:00.000Z",
-      "summary": "Meta押注AI战略遭遇重大挫败，内部曾设想最高裁员60%的极端调整方案，如今却陷入全员紧急收拾三倍规模技术烂摊子的困境，这场AI豪赌的反噬效应正引发科技行业对巨头AI投入逻辑的深度反思。"
+      "pubDate": "2026-08-28T08:54:10.000Z",
+      "summary": ""
     },
     {
       "title": "大模型推理遇瓶颈，正从“堆GPU”走向存算协同",
@@ -138,7 +127,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-28T08:44:50.000Z",
-      "summary": "大模型推理转向存算协同，以解决GPU显存瓶颈问题。",
+      "summary": "大模型推理瓶颈下，行业转向存算协同，中科曙光推出ParaCache解决方案。",
+      "summaryZh": ""
+    },
+    {
+      "title": "招商银行：审议通过AI算力投入中期规划的董事会议案",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxM04yRnNDMHNxOWhPUzh0Q3lHTDdGZ2R0cHc4b2ZDcUFfcEFVejNNUEFTYXFJelRQV29reDJTQk5DcWdfNXZtR1gwTHJHc3VjcWhN?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-28T02:41:53.000Z",
+      "summary": "招商银行董事会通过AI算力投入中期规划议案。",
       "summaryZh": ""
     },
     {
@@ -152,16 +151,6 @@
       "summaryZh": ""
     },
     {
-      "title": "[ 盘前点金 词元高增指引AI投资方向；4万亿算力网投资启幕；存储巨头宣布扩产",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nZGkxV3NhQjVhNGdMRmlDZUtybGQ0d0N6TGtJSEs0Mm4xZ0lreWZHUTZmT2NYc09hN3ZOU1lUakdJUThtNFRyRlI0UXNkWGpxYS1hY2tLamE?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-27T23:14:59.000Z",
-      "summary": "词元高增引领AI投资，4万亿算力网投资启动，存储巨头扩产。",
-      "summaryZh": ""
-    },
-    {
       "title": "国资下场，“十五五”剑指80000P，深圳福田算力跑出“加速度”",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lNk1ac3JWNG1PLUxuWEJrZG03OXBMamNBMmFEMndhYi1oUTVNbFlOS2pqRlVfMWZFeWxuRHJLTnFIb2QxRUlaUA?oc=5",
       "source": "财联社",
@@ -171,13 +160,15 @@
       "summary": ""
     },
     {
-      "title": "复旦微电等成立半导体科技新公司 含智能机器人业务",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PQ29QUWl4R0RHTGhtQzVWNDVKRkUzRmdIdjF2TngxVV9ZbVVpaFpSZUttYzZsdzdSUGxEYVRfbmV3WC02aV95SA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
+      "title": "How Locus is getting a grasp on one of robotics biggest challenges: manipulation",
+      "link": "https://www.therobotreport.com/locus-getting-grasp-one-robotics-biggest-challenges-manipulation/",
+      "source": "The Robot Report",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-08-28T03:59:34.000Z",
-      "summary": ""
+      "pubDate": "2026-08-28T13:29:51.000Z",
+      "summary": "Locus Robotics推出NeuraGrasp技术，解决机器人抓取难题。",
+      "summaryZh": "",
+      "titleZh": "Locus 如何应对机器人技术最大的挑战之一：操控"
     },
     {
       "title": "Teradyne Robotics ramps up fight against cobot copycats",
@@ -187,6 +178,17 @@
       "category": "robotics",
       "pubDate": "2026-08-27T20:31:27.000Z",
       "summary": "Teradyne Robotics对JAKA德国子公司提起专利侵权诉讼。",
+      "summaryZh": "",
+      "titleZh": "泰瑞达机器人公司加大力度打击协作机器人模仿者"
+    },
+    {
+      "title": "推动机器人落地应用 促进集成电路产业高质量发展——国家发展改革委解读经济热点",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ESjN2cXEyNHotVlNfa0ptZnc3RkxIMUtNZmhqVHo1NTl5dEV1LXB6dFlQZERRMktiRnNfQVNpdzNCUzJpSElkN3B0cHZiRGRYMDMwY3lHV0YyOTlBaHA1WGtsc0RNTFJoTmtOZWVMeXpfNjBYV0JEWWZjU0JXclk?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-28T10:38:41.000Z",
+      "summary": "国家发展改革委解读推动机器人应用和集成电路产业高质量发展。",
       "summaryZh": ""
     },
     {
@@ -196,7 +198,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-28T03:23:57.000Z",
-      "summary": "杭州新增一家估值200亿的具身智能公司，专注模型与数据。",
+      "summary": "杭州新增一家估值200亿具身智能独角兽企业。",
       "summaryZh": ""
     },
     {
@@ -209,23 +211,13 @@
       "summary": ""
     },
     {
-      "title": "世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的训练场",
-      "link": "http://www.geekpark.net/news/369508",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-28T05:10:32.000Z",
-      "summary": "自变量WALL-SS突破世界模型三大瓶颈，提升虚拟世界训练机器人效果。",
-      "summaryZh": ""
-    },
-    {
       "title": "印度小城两个“宅男”，用AI做了一家永远不送餐的外卖网站",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92Mmdxd1FndWpFUVdhYkYyWTBoQ3Nrc0RlZ2drQzZxNzNFVWtya21ZNXFidC1NdGI3aXh4YnlyS0hyZWxIeW5GZVotT0ZFVmx3Yklfd2s3WkJ3RDNNM2RxUg?oc=5",
       "source": "澎湃新闻科技",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-27T23:16:00.000Z",
-      "summary": "印度“宅男”开发虚拟外卖网站，无实物配送却吸引全球用户。",
+      "summary": "印度“宅男”开发虚拟外卖网站，无需送餐吸引全球用户。",
       "summaryZh": ""
     }
   ]
