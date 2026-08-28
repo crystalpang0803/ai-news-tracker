@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "generatedAt": "2026-08-28T00:51:15.529Z",
+  "generatedAt": "2026-08-28T02:08:56.251Z",
   "items": [
     {
       "title": "走向场景落地，具身智能企业的下一步是什么",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-28T00:17:20.000Z",
-      "summary": "具身智能企业正探索将一次场景落地转化为可复制的生产力。",
+      "summary": "具身智能企业正从展示愿景转向场景落地，探索可复制的生产力。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-27T23:49:58.000Z",
-      "summary": "谷歌发布Gemini Omni 1.1 Flash AI模型，支持4K视频生成。",
+      "summary": "谷歌发布Gemini Omni 1.1 Flash AI模型，支持最高4K分辨率视频生成。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-27T16:52:42.000Z",
-      "summary": "OpenAI正在开发一种持续工作的AI代理。",
+      "summary": "OpenAI正在开发一款名为“持久模式”的AI代理功能。",
       "summaryZh": ""
     },
     {
@@ -59,57 +59,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-27T06:55:09.000Z",
-      "summary": "孙正义洽谈收购人形机器人公司1X多数股权，估值达60亿美元。",
+      "summary": "软银洽谈收购人形机器人公司1X多数股权，估值达60亿美元。",
       "summaryZh": ""
     },
     {
-      "title": "百亿美元独角兽Skild 发布新模型，让机器人看一个视频，就学会煎饼种树做咖啡",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE50NFBmVW45LU1WaHVBc08tUF9sYkdMbGgtYXludk1mYlJmNWNpVzZmOHc2Uk12MUs1TGVJalR0N3dQdkxCeWc?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-27T01:47:53.000Z",
-      "summary": "Skild发布新模型S1，机器人可观看视频学习复杂任务。",
-      "summaryZh": ""
-    },
-    {
-      "title": "大模型的隐藏推理与可解释性：AI在想什么？｜对话斯坦福博士Aryaman Arora_精彩视频为您呈现",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BcG9Dd09TRHVnUjlpYXVnM3BTNGJlN2pjdXJ5OElZLTJiNnYxYm9FNi1HQ1g4eW1mRXRGLXI2bTlMSFloTTJvYW1YTllFNGpkOEc4?oc=5",
+      "title": "企业AI Agent采纳加速：从“浅层繁荣”走向价值闭环",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92Q19SWHRFdGM5UjQxeDVKNHJpeHlsSGR5dWVPZEhIdnRCRmJPSERQSVdRWVN0SnhHNF80ZVhRamkta056LVAzczN3S0k5MUk?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-27T14:57:23.000Z",
+      "pubDate": "2026-08-28T01:19:53.000Z",
+      "summary": "企业AI Agent采纳加速，从“浅层繁荣”迈向价值闭环。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI芯片创业，又开始疯狂了",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kNVdydlVacjV5YVYzSGFuS2pISHY4WS1Sbl9ieFVxNE56b2JTbDNGQTZlNWNrTzljSW1XeFVPZFNUTnB3NTVCQkhvbWFMZw?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-27T10:43:00.000Z",
       "summary": ""
-    },
-    {
-      "title": "OpenAI、微软、谷歌等 116 家公司发联名信，呼吁高度重视 AI 时代的网络安全",
-      "link": "https://www.ithome.com/0/995/346.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-27T23:23:34.000Z",
-      "summary": "116家公司联名呼吁重视AI时代网络安全。",
-      "summaryZh": ""
-    },
-    {
-      "title": "财报季与产业盛会共振，AI算力与具身智能双线并进",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SZUpMUnJwb0hOWXNNRVYtdWszdmN0UG1yaVc1VEpFQXBPb28yaVcycEM1QVVObjlSYXR4b3dEOUlrRFlwU3Y2NHRZUnZTd2t0SFlXaERXUWY?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-27T23:38:31.000Z",
-      "summary": "AI算力与具身智能产业双线并行，英伟达发布超预期财报，AI概念指数上涨。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Anthropic曾考虑收购AI芯片初创公司MatX",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JNzNRTy1adEE1WjdwYlE4b2VnVHRJN0NWOFNlbExoeTNSNnNmaER6LWNGT3FiQlBRcnkzN1kxZlV6M1hlZjJnTjFIQS05VXh2MDlIdzJBV18?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-28T00:00:35.000Z",
-      "summary": "Anthropic曾考虑以70亿美元收购AI芯片初创公司MatX，后放弃并转向合作伙伴关系讨论。",
-      "summaryZh": ""
     },
     {
       "title": "部分国产大模型调用量暴涨6800% 部分大模型词元价格降至国外十分之一",
@@ -118,7 +88,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-27T10:09:42.000Z",
-      "summary": "国产大模型调用量激增，部分词元价格降至国外十分之一。",
+      "summary": "国产大模型调用量激增，词元价格大幅下降。",
       "summaryZh": ""
     },
     {
@@ -138,7 +108,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-27T02:41:08.000Z",
-      "summary": ""
+      "summary": "智谱开源GLM-5.3-Flash，国产算力卡首次大规模服务全球负载。",
+      "summaryZh": ""
     },
     {
       "title": "国资下场，“十五五”剑指80000P，深圳福田算力跑出“加速度”",
@@ -147,7 +118,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-27T20:02:27.000Z",
-      "summary": "深圳福田区国资战略投资，推动算力产业加速发展，目标实现80000P算力规模。",
+      "summary": "深圳福田区国资战略入股，推动算力产业加速发展，目标“十五五”期末实现80000P算力规模。",
       "summaryZh": ""
     },
     {
@@ -161,13 +132,22 @@
       "summaryZh": ""
     },
     {
-      "title": "AI走进质量管理“深水区”：广州制造业如何跨过工业智能体落地门槛",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Dc1ozeTVBVm4yeHlSQjAzYThFRU1NVWhwQ3RsZ3J1NWw2UlZNam1PLXVIUDBLRnJ4UVJaZkFzSVdQSFhZbEY4V0NZYko4LVhvUC1oQjNfZGxRRWRwY0psMQ?oc=5",
-      "source": "东方财富网",
+      "title": "机器人版本“MCP协议”，Claude推出“MHS协议”，便利大模型与机器人交互",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00ck5Sc2gwaEFJMjBLbi1SR0lyYXF5cXlfWTZ6ZlE2ay1lM0ZrdC12QnptbHVOMFJRQjdlZXZsY05iQTZGcExBenZKQzJyMm9adEkw?oc=5",
+      "source": "华尔街见闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-27T17:32:02.000Z",
-      "summary": "广州制造业探索AI在质量管理中的应用，关注数据贯通、系统规划和产业链协同。",
+      "pubDate": "2026-08-28T00:53:34.000Z",
+      "summary": ""
+    },
+    {
+      "title": "两架翼龙无人机 24 小时接力，保障西藏吉隆任务区通信",
+      "link": "https://www.ithome.com/0/995/370.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-28T00:56:20.000Z",
+      "summary": "翼龙无人机24小时接力，保障西藏吉隆任务区通信。",
       "summaryZh": ""
     },
     {
@@ -207,7 +187,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-27T14:56:52.000Z",
-      "summary": "Hugging Face推出售价399美元的开源鸭子机器人Microduck。",
+      "summary": "Hugging Face推出399美元开源鸭子机器人Microduck。",
       "summaryZh": ""
     },
     {
@@ -236,17 +216,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-27T23:16:00.000Z",
-      "summary": "印度“宅男”开发虚拟外卖网站，无实物配送却吸引全球20万用户。",
-      "summaryZh": ""
-    },
-    {
-      "title": "即将上市！米尔MRC系列机器人控制器，驱动机器人创新应用",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Ja0NnMkdjVVUwYWFIUmYzd3FpWDJwUHIzTEFROGhCbmduWmszVUJiaktLb2JmaUozakVGVjhxSFRLVDFjYjZZLWpEaFh5UldzNmtuNGoyUQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-27T08:48:30.000Z",
-      "summary": "米尔MRC系列机器人控制器即将上市，支持多摄像头、深度相机和全场景在线。",
+      "summary": "印度“宅男”开发虚拟外卖网站，无需送餐吸引近20万用户。",
       "summaryZh": ""
     }
   ]
