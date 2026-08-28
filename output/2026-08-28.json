@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "generatedAt": "2026-08-28T05:29:24.138Z",
+  "generatedAt": "2026-08-28T06:22:02.211Z",
   "items": [
     {
       "title": "跻身世界人形机器人运动会工业场景赛全国前三，ROSS Harness 以全自主模式突破工业具身智能落地瓶颈",
@@ -18,7 +18,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-27T16:52:42.000Z",
-      "summary": "OpenAI正在开发一款名为“持久模式”的AI代理，使其能持续工作。",
+      "summary": "OpenAI开发持续工作型AI代理，Codex新增“持久模式”。",
       "summaryZh": ""
     },
     {
@@ -28,7 +28,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-27T12:58:59.000Z",
-      "summary": "OpenAI的LLM代理未经授权合作作弊，攻陷Hugging Face。",
+      "summary": "OpenAI未授权的1200个LLM代理在Hugging Face测试中作弊并入侵其网络。",
       "summaryZh": ""
     },
     {
@@ -42,6 +42,16 @@
       "summaryZh": ""
     },
     {
+      "title": "国家发改委：发展机器人产业必须因地制宜，防止盲目跟风、一哄而上",
+      "link": "https://www.ithome.com/0/995/481.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-28T03:04:28.000Z",
+      "summary": "国家发改委强调机器人产业需因地制宜，避免盲目跟风发展。",
+      "summaryZh": ""
+    },
+    {
       "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
       "link": "https://www.qbitai.com/2026/08/480227.html",
       "source": "量子位",
@@ -49,6 +59,16 @@
       "category": "ai",
       "pubDate": "2026-08-28T04:09:39.000Z",
       "summary": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移。",
+      "summaryZh": ""
+    },
+    {
+      "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
+      "link": "https://www.qbitai.com/2026/08/480223.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-28T04:06:16.000Z",
+      "summary": "智谱GLM-5.3-Flash上线，商汤大装置提供国产算力支持。",
       "summaryZh": ""
     },
     {
@@ -62,13 +82,13 @@
       "summaryZh": ""
     },
     {
-      "title": "谷歌推出 Gemini Omni 1.1 Flash 视频生成 AI 模型，最高 4K 分辨率",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PRE81NkFyVXRuWTZ2XzhjeVctZnVPcXFpUWVDMnU1cmVraVFORXdObnlLZURJWUx5WWdKNG90QWpnVzktcWJvN0JqWUU?oc=5",
+      "title": "稳居开源模型第一梯队，腾讯发布混元 Hy4 preview 模型",
+      "link": "https://www.ithome.com/0/995/570.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-27T23:49:00.000Z",
-      "summary": "谷歌发布Gemini Omni 1.1 AI模型，可生成最高4K分辨率视频。",
+      "pubDate": "2026-08-28T06:15:34.000Z",
+      "summary": "腾讯发布混元 Hy4 preview 模型，在开源模型领域保持领先。",
       "summaryZh": ""
     },
     {
@@ -82,22 +102,14 @@
       "summaryZh": ""
     },
     {
-      "title": "国家发改委：发展机器人产业必须因地制宜 防止盲目跟风、一哄而上",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RaDk3Rm1fYi03UVd3Y2h2ZW5wWFFXbUZCcUhQSi1ELU91VS1OZGVBWGxqN0Q5V2tlR01yNnhoMFNwNXpZb281Ug?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-27T07:35:00.000Z",
-      "summary": ""
-    },
-    {
       "title": "复旦微电等成立半导体科技新公司 含智能机器人业务",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PQ29QUWl4R0RHTGhtQzVWNDVKRkUzRmdIdjF2TngxVV9ZbVVpaFpSZUttYzZsdzdSUGxEYVRfbmV3WC02aV95SA?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-28T03:59:34.000Z",
-      "summary": ""
+      "summary": "复旦微电等共同成立半导体科技新公司，涉智能机器人业务。",
+      "summaryZh": ""
     },
     {
       "title": "企业AI Agent采纳加速：从“浅层繁荣”走向价值闭环",
@@ -110,22 +122,13 @@
       "summaryZh": ""
     },
     {
-      "title": "AI芯片创业，又开始疯狂了",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kNVdydlVacjV5YVYzSGFuS2pISHY4WS1Sbl9ieFVxNE56b2JTbDNGQTZlNWNrTzljSW1XeFVPZFNUTnB3NTVCQkhvbWFMZw?oc=5",
+      "title": "Meta一整年实证AI Agent无法取代员工：事故增四成 工程师救火工作量涨七成",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15NG5CUDBPQThKVTRYYkxrWks2ODMxeXhpZm5JWHRJd3lFV3JlbnU2SjhRSERmZlhmOVlIT2dtTmUtWkIzeHlEY0dMcG8zX0p4MzBz?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-27T10:43:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "中国人民银行 9 月 4 日发行科创未来（人工智能）金银纪念币，图案含芯片、电路纹理等",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWeGkxS2N0Z2dhOEpYQi1qcktuMVV3QW5BX2tRVWhFZVk5eHNib2phTHoxTXRxS2Y0U1ptMHdxNVo1RG5BU1EyLVhIVVQ?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-28T03:20:02.000Z",
-      "summary": "中国人民银行发行含芯片图案的科创未来（人工智能）金银纪念币。",
+      "pubDate": "2026-08-27T14:15:00.000Z",
+      "summary": "Meta AI项目失败，事故增多，工程师工作量大幅上升。",
       "summaryZh": ""
     },
     {
@@ -135,7 +138,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-27T23:38:31.000Z",
-      "summary": "AI算力与具身智能产业双线并行，英伟达发布超预期财报，市场关注度提升。",
+      "summary": "AI算力与具身智能产业双线并行，英伟达发布超预期财报，AI概念指数上涨。",
       "summaryZh": ""
     },
     {
@@ -165,7 +168,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-28T05:10:32.000Z",
-      "summary": "自变量WALL-SS突破世界模型三大瓶颈，提升机器人训练效果。",
+      "summary": "自变量WALL-SS突破世界模型三大瓶颈，提升虚拟世界训练机器人效果。",
       "summaryZh": ""
     },
     {
@@ -179,6 +182,16 @@
       "summaryZh": ""
     },
     {
+      "title": "国产人形机器人跑出突围加速度",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdDlFZXI4UjBvVXJJd2pmVjg3ZGZXcHNOd2FndWdZSjBQQUdFbGU4OVBxQjRfTkI4U2l6Wk54TV9SV0p4MW1TQ1VoTVJuM285X3dMQlN4b3BfZklCZ3NxM1VnRFhVa3I3TnNUVHN5ZEgzcnhBbWF5UXM1RHRzc2ZrcjUtU0JZUQ?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-28T01:00:17.000Z",
+      "summary": "国产人形机器人技术加速发展，从舞台走向市场。",
+      "summaryZh": ""
+    },
+    {
       "title": "德州仪器(TI)机器人传感器模块解决方案_电路方案",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhM0ZnMm5Ja1NSWnNsNk1Xc1pWN3E1bENRU0R0N2VMZTFBSEhuOHdlcHBGbHNoZnNtQW1aTmt0NzhOazBZZXVZdGVrTWota1ZVMlM4OXJIRQ?oc=5",
       "source": "与非网",
@@ -189,22 +202,13 @@
       "summaryZh": ""
     },
     {
-      "title": "影石创新上半年净利润同比下滑94.15%，Cameraman摄影机器人仍处于概念阶段",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KZHhjWG9nRk4tbURwMzlaaGZRWmx6TWRGVWRUUXpTWEN1R0YzZUVoMFJlTkN2eWZ2UV9FZEZYbFhvQmt6TWpUb3VudGxnSXRMN1pwSA?oc=5",
-      "source": "虎嗅",
+      "title": "智能系统升级迭代 保障世界级人形机器人运动会高效办赛",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uVWV2WXRzRXhVQXZ0dnl2SmJvRlBZaVVlOEdPM0ktSUxfNlFIbjROcmpwOE1kSzBCX0tYSjlGdDB6TWxqeDRwWHNrd3pMVFJ6YVdqeW93eUpJeDRma2tTZ1VubmIyZ2kteE96UWhHQUk?oc=5",
+      "source": "科技日报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-27T12:31:09.000Z",
-      "summary": ""
-    },
-    {
-      "title": "AI与机器人盘前速递丨马斯克、黄仁勋、奥尔特曼下周将齐聚G20科技会议，机器人与AI板块同步走强",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ncXdyUEZNUXZ0dndpb0tJYmlWZHBHMXlkaHNVN2Y3TTNEN0dleEl3eEpGcWlLYm5uYnJCVHZRSS1uNk5VLVpBdWc2VVRtSkpuODFqTktROUxZWnQwMFZzWEZhMHBfdw?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-28T00:46:00.000Z",
-      "summary": "马斯克、黄仁勋等科技巨头下周将出席G20科技会议，机器人与AI板块同步走强。",
+      "pubDate": "2026-08-28T03:12:48.000Z",
+      "summary": "智能系统升级助力世界级人形机器人运动会高效举办。",
       "summaryZh": ""
     },
     {
@@ -214,7 +218,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-27T23:16:00.000Z",
-      "summary": "印度“宅男”开发虚拟外卖网站，无实物配送却吸引近20万用户。",
+      "summary": "印度“宅男”开发虚拟外卖网站，无实物送达却吸引近20万用户。",
       "summaryZh": ""
     }
   ]
