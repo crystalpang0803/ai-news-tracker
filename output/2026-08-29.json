@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "generatedAt": "2026-08-29T02:26:52.452Z",
+  "generatedAt": "2026-08-29T03:12:33.216Z",
   "items": [
     {
       "title": "开源鸿蒙机器人操作系统 M-Robots OS 3.0 Beta 版发布，重心从“单机能力”转向“群体智能”",
@@ -9,7 +9,47 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-29T01:55:23.000Z",
-      "summary": "开源鸿蒙机器人操作系统M-Robots OS 3.0 Beta版发布，聚焦群体智能。",
+      "summary": "M-Robots OS 3.0 Beta版发布，转向群体智能，构建安全实时分布式机器人操作系统。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI Agent越狱事件引发AI安全转型：从模型到基础设施的治理挑战",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pVGk4N19CdWlldHZ5b0xTc2tNSUw0N1lldE5GbFF3RTlYVkVNZzNIaTV0di1LSm5BOXY3QnVjMWx1RzJ2M05wUWlqaWkxVEJYc3NJWQ?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-29T00:43:04.000Z",
+      "summary": "OpenAI Agent越狱事件凸显AI安全治理挑战，需转向基础设施和公共治理。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI：因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型",
+      "link": "https://www.ithome.com/0/995/874.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-29T02:21:24.000Z",
+      "summary": "OpenAI宣布终止向Cursor提供AI模型合作，因担忧SpaceX可能违约。",
+      "summaryZh": ""
+    },
+    {
+      "title": "长江存储IPO，向左是长鑫存储，向右是宇树科技",
+      "link": "https://www.tmtpost.com/8120972.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-29T02:31:19.000Z",
+      "summary": "长江存储IPO，面临长鑫存储与宇树科技的市场对比。",
+      "summaryZh": ""
+    },
+    {
+      "title": "豪掷400亿元！孙正义惨亏割肉后，又“接盘”机器人了",
+      "link": "https://www.tmtpost.com/8120970.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-29T02:31:16.000Z",
+      "summary": "孙正义再次投资机器人领域，拟收购挪威人形机器人公司1X多数股权。",
       "summaryZh": ""
     },
     {
@@ -19,27 +59,37 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-28T06:49:41.000Z",
-      "summary": "ROSS Harness实现工业机器人全自主完成复杂任务，突破具身智能落地瓶颈。",
+      "summary": "ROSS Harness全自主模式助力机器人完成工业场景赛任务，突破具身智能落地瓶颈。",
       "summaryZh": ""
     },
     {
-      "title": "Meta 为 Quest 头显推出 XR Operator 开发者工具，利用 AI 智能体快速测试 VR 游戏",
-      "link": "https://www.ithome.com/0/995/854.htm",
-      "source": "IT之家",
+      "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
+      "link": "https://www.qbitai.com/2026/08/480223.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-29T00:39:09.000Z",
-      "summary": "Meta推出XR Operator开发者工具，AI智能体助力快速测试VR游戏。",
+      "pubDate": "2026-08-28T04:06:16.000Z",
+      "summary": "智谱GLM-5.3-Flash上线，商汤大装置提供国产算力支持，实现大规模商用。",
       "summaryZh": ""
     },
     {
-      "title": "网球机器人：体育AI狂飙30%，网球成为第一站",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JRHB0Y2pheVYwQ2kwMGl6VmQ5ZW9tQndxbFdqM2cyNHhlelU1UDBVTWFPRmYwRjJiZ1F6SWJCTWFKVXhpcVlKRGpPTDJhOWdYYmpuNg?oc=5",
-      "source": "钛媒体",
+      "title": "三箭齐发，卫冕全球第一！优必选2026年上半年营收12.7亿元，人形机器人销量16123台",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuLTlab3lGcmF6M3JyZlctSHRZejd4THVMZUdMTlE4NWNZeF9QUUJJb2pZenV2NXVXOTBLT0JPcWY1WEY2SVducTdyWXk?oc=5",
+      "source": "极客公园",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-28T08:36:00.000Z",
-      "summary": "体育AI在网球领域应用增长30%，中国玩家引领训练革新。",
+      "pubDate": "2026-08-28T18:26:04.000Z",
+      "summary": "优必选2026年上半年营收12.7亿元，人形机器人销量16123台，全球销量第一。",
+      "summaryZh": ""
+    },
+    {
+      "title": "营收超五亿，亏损三千多万，卧安机器人发布中期业绩",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE13WjgxN05TUDhMTDkyak51VzNvWG5WMDhNVTk1MFFXTHROVGJyOFRpWXg5TFpmd01VbmdjNjViaVVlVzZnRnc?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-28T10:12:17.000Z",
+      "summary": "卧安机器人中期营收5.22亿，亏损3830万元。",
       "summaryZh": ""
     },
     {
@@ -53,14 +103,13 @@
       "summaryZh": ""
     },
     {
-      "title": "北京：推动人工智能、机器人等成为外贸发展的新动能",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OWmp1NWhlSUhnVkRDZDAwYXBIdnlnNXRSYzRwdEFGWVI4QjdReENaYXJuVEJhUlBscGdTS1ROeTZxQVdNcDg2R3h6enZNZFZLMFpIemlsc3VNajg3eWc?oc=5",
+      "title": "10万张国产芯片跑大模型，是什么概念？_精彩视频为您呈现_36氪",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DNnVlRjlhTjZZN3J0eWVnQU5RNXZxUERVdlVmMGRwYmpJQzdyaXZQakZ5RHlNNkl2TUdlX1dkYkQwWVFoMFpNWVR4UzllMVliV0JLNTB3?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-28T03:05:40.000Z",
-      "summary": "北京将人工智能、机器人等作为外贸发展新动能。",
-      "summaryZh": ""
+      "pubDate": "2026-08-28T12:43:05.000Z",
+      "summary": ""
     },
     {
       "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
@@ -89,7 +138,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-28T06:33:36.000Z",
-      "summary": "AI算力与具身智能产业双线并行，英伟达发布超预期财报，AI概念指数上涨。",
+      "summary": "AI算力与具身智能产业双线并行，英伟达发布超预期财报，市场关注度提升。",
       "summaryZh": ""
     },
     {
@@ -98,19 +147,37 @@
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-28T14:59:55.000Z",
-      "summary": "邮储银行日均大模型调用超千万次，AI应用场景超370个，降本增效。",
+      "pubDate": "2026-08-28T20:59:55.000Z",
+      "summary": "邮储银行日均大模型调用超千万次，AI应用场景超370个。",
       "summaryZh": ""
     },
     {
-      "title": "人工智能治理呈碎片化趋势，国际标准如何避免成为新贸易壁垒？",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVV0tOTTVjWnFuTXY1OHdSbnJ3UU5XekJlVWZlbTlOTDZWLWRiYUZlR2ZHdFhRd1BwTmV4enJwbEkzMVhfNUhQWmE1VWR6U0JlY09rMw?oc=5",
+      "title": "一财主播说丨即梦“杀入”影视圈 征集AI电影和剧集 广撒英雄帖 免算力 对接院线和平台",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBybjRuRkowM0swWmowLVZJTXRNczYyTjE4dVF5VGtTVDlMbGswWVd1bEJLdDQzSjhxWUJscGhaVkJ5bHlUTDNudG13c2dGd29NV0tJRQ?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-28T07:41:15.000Z",
-      "summary": "全球AI治理规则分散，需共同制定通用规则避免贸易壁垒。",
+      "pubDate": "2026-08-28T13:21:58.000Z",
+      "summary": "即梦片场征集AI电影和剧集，免算力对接院线和平台。",
       "summaryZh": ""
+    },
+    {
+      "title": "10万张国产算力卡扛起“牛来”：智谱开源GLM-5.3-Flash",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BWXdmdFNkWnNZRE5TV2RwZHA2ck5qUlpSTXNxc1hlU2JhcGp3SHB3MnRTS0F4aWh3WXJWekl1Q2hNbGJ3aTU0eA?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-28T08:58:49.000Z",
+      "summary": ""
+    },
+    {
+      "title": "国家统计局：1—7月份以算力芯片、存储芯片为代表的集成电路行业利润同比增长18.5倍",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14MVpoam05LXlWTWg1RW80MlVXMmRydVcwYnJXTDV3eXJiTnE3Y3NzUHRQUzBSTnFIT0x2VjlNSkUyT0RrU2tScg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-28T07:29:19.000Z",
+      "summary": ""
     },
     {
       "title": "国家发改委：推动机器人从“能跑能跳”加快走向落地应用",
@@ -123,23 +190,13 @@
       "summaryZh": ""
     },
     {
-      "title": "豆包工作的办公棋局：飞书与豆包的合流",
-      "link": "https://www.tmtpost.com/8121252.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-28T12:51:40.000Z",
-      "summary": "字节跳动推出豆包工作，整合飞书能力，打造AI办公解决方案。",
-      "summaryZh": ""
-    },
-    {
-      "title": "京东科技牵手海致科技，\"中间层\"公司为何被算力、云、大模型三方同时选中",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QLUlCV1RnbjJjSHBIR2dtZ3ZvTXBLTDRRY1hCd0tHMTJGOVM2Y1ZXRHJfWjh4ZXdSTW5pMWpuSlY1Y3pvVjFrVWJHZXI?oc=5",
+      "title": "世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的训练场",
+      "link": "http://www.geekpark.net/news/369508",
       "source": "极客公园",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-28T08:16:39.000Z",
-      "summary": "海致科技成为算力、云、大模型三方共同选择的中间层公司。",
+      "category": "robotics",
+      "pubDate": "2026-08-28T05:10:32.000Z",
+      "summary": "自变量WALL-SS突破世界模型三大瓶颈，提升虚拟世界训练机器人效果。",
       "summaryZh": ""
     },
     {
@@ -149,7 +206,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-28T23:25:06.000Z",
-      "summary": "Brain Corp CTO Black分享自学习AI在机器人领域的应用进展。",
+      "summary": "Brain Corp CTO展示基于SelfPath AI的机器人技术突破。",
       "summaryZh": ""
     },
     {
@@ -159,38 +216,37 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-28T07:52:01.000Z",
-      "summary": "人形机器人拔河赛事考验运动控制等多项能力。",
+      "summary": "人形机器人拔河赛事考验多方面能力，行者泰山队轻量级夺冠。",
       "summaryZh": ""
     },
     {
-      "title": "阿里、腾讯等机构联手，砸45亿，投出一家灵巧操作独角兽",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ybl9jUlJKdy1VaHdfRHdwSzZYUXNXanV2eTF0Y0twWXNhNmQzX2VIN2k0N0s5eXFPaERfTDBfbExmS2xhM1E?oc=5",
-      "source": "智东西",
+      "title": "宇树G1拆解：一台人形机器人，藏着上千颗芯片",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15TUJrVVNRNVBXRXJabGQ4cGVhUHNKbG1YcUVSR0RxN0FGaWRYcUg2OTQ0cXJSaEdNWXJCVUJJUWI0ZUxDWUxTQlB1bUswckJELWVtY2xNQQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-28T08:31:39.000Z",
-      "summary": "阿里、腾讯等机构投资45亿，助力灵巧操作AI机器人公司Sharpa融资超220亿。",
+      "pubDate": "2026-08-28T07:16:59.000Z",
+      "summary": "宇树G1人形机器人内部含上千颗芯片，模拟和混合信号芯片占比最大。",
       "summaryZh": ""
     },
     {
-      "title": "瑞为技术上市首份中期成绩单：AI业务盈利步入稳定期，开启具身智能新增长极",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yeHhMV0RyWHZ6eFZWSWtFOTUyeVRYWHV5Sm9HdUlpV1N1emVmYnd6bkI2Ui1lVEg5MjFBeXV4MHRuNDZacXN4MTA5QjhjY3J5SkZuc0d2MXhMRU9WQ3FIdXZrSC1tZw?oc=5",
-      "source": "每日经济新闻",
+      "title": "智能系统升级迭代 保障世界级人形机器人运动会高效办赛",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uVWV2WXRzRXhVQXZ0dnl2SmJvRlBZaVVlOEdPM0ktSUxfNlFIbjROcmpwOE1kSzBCX0tYSjlGdDB6TWxqeDRwWHNrd3pMVFJ6YVdqeW93eUpJeDRma2tTZ1VubmIyZ2kteE96UWhHQUk?oc=5",
+      "source": "科技日报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-28T09:32:00.000Z",
-      "summary": "瑞为技术上市首份中期业绩显示，AI业务盈利稳定，开启具身智能新增长极。",
+      "pubDate": "2026-08-28T03:12:48.000Z",
+      "summary": "智能系统升级助力世界级人形机器人运动会高效举办。",
       "summaryZh": ""
     },
     {
-      "title": "数博会：在林城与机器人一起“赶集”",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01RU1taW9lRnNldXFFVHREZ0NlVXNtZy1fWS1tbkJLdVpzTHBVdkhqeFNDcE1LcWxtc1hCMTVXNUh2Uk1xZlA5eklmNHptVlBzekMzbQ?oc=5",
-      "source": "腾讯科技",
+      "title": "美团电话会：三季度外卖UE预计同比明显改善，Keeta盈利加速，AI迈向商家端",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RMkx4MjR6dnJMVTlEWjRFMjFmUkdfeTdMQVVib3lITTFYUXR2QXdOWnFnb25fRXp3MzhtX2VEY0FUcmZXT2tjNzd3RnZOWVQxZU53?oc=5",
+      "source": "华尔街见闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-28T15:06:00.000Z",
-      "summary": "2026数博会聚焦数据要素价值释放，展示智能科技融入生活新体验。",
-      "summaryZh": ""
+      "category": "application",
+      "pubDate": "2026-08-28T14:00:25.000Z",
+      "summary": ""
     },
     {
       "title": "安徽首个AI公证智能客服上线，24小时公证咨询“秒响应”",
