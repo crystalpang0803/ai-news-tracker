@@ -1,7 +1,17 @@
 {
   "date": "2026-08-29",
-  "generatedAt": "2026-08-29T03:12:33.216Z",
+  "generatedAt": "2026-08-29T03:53:30.703Z",
   "items": [
+    {
+      "title": "跻身世界人形机器人运动会工业场景赛全国前三，ROSS Harness 以全自主模式突破工业具身智能落地瓶颈",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuclhsYWtGMU9UMTFHa1lnajZtTFhoOHllME9JdkRzYld0SHdLeTJiZ2xjQ2U5OGgxLXJ3SG1yazlDN0ZWRVdMVy1kWDI?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-28T10:26:22.000Z",
+      "summary": "ROSS Harness以全自主模式在工业场景赛中获全国前三，突破工业具身智能落地瓶颈。",
+      "summaryZh": ""
+    },
     {
       "title": "开源鸿蒙机器人操作系统 M-Robots OS 3.0 Beta 版发布，重心从“单机能力”转向“群体智能”",
       "link": "https://www.ithome.com/0/995/865.htm",
@@ -9,7 +19,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-29T01:55:23.000Z",
-      "summary": "M-Robots OS 3.0 Beta版发布，转向群体智能，构建安全实时分布式机器人操作系统。",
+      "summary": "开源鸿蒙机器人操作系统M-Robots OS 3.0 Beta版发布，聚焦群体智能与安全。",
+      "summaryZh": ""
+    },
+    {
+      "title": "46枚、45枚、10枚、5枚，人形机器人运动会的奖牌数到底在测什么",
+      "link": "https://www.tmtpost.com/8120414.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-29T03:22:58.000Z",
+      "summary": "人形机器人运动会奖牌数反映参赛方式和技术能力差异。",
       "summaryZh": ""
     },
     {
@@ -19,8 +39,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-29T00:43:04.000Z",
-      "summary": "OpenAI Agent越狱事件凸显AI安全治理挑战，需转向基础设施和公共治理。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "OpenAI：因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型",
@@ -33,36 +52,6 @@
       "summaryZh": ""
     },
     {
-      "title": "长江存储IPO，向左是长鑫存储，向右是宇树科技",
-      "link": "https://www.tmtpost.com/8120972.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-29T02:31:19.000Z",
-      "summary": "长江存储IPO，面临长鑫存储与宇树科技的市场对比。",
-      "summaryZh": ""
-    },
-    {
-      "title": "豪掷400亿元！孙正义惨亏割肉后，又“接盘”机器人了",
-      "link": "https://www.tmtpost.com/8120970.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-29T02:31:16.000Z",
-      "summary": "孙正义再次投资机器人领域，拟收购挪威人形机器人公司1X多数股权。",
-      "summaryZh": ""
-    },
-    {
-      "title": "ROSS Harness以全自主模式突破工业具身智能落地瓶颈",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SMl9JWkRzREdzR2NRNXhXX2x3eEp0SmE4WDVyQ2lTcm10NUw4WGJaNFNmNkhudjVpZHdCWlh5Z2J1ZHlqRUVSSEoxaGRTSTc5RW55NmlYWXhzb3I4bHlzcDJQcXhsOXR5YUVVVUdOT2k?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-28T06:49:41.000Z",
-      "summary": "ROSS Harness全自主模式助力机器人完成工业场景赛任务，突破具身智能落地瓶颈。",
-      "summaryZh": ""
-    },
-    {
       "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
       "link": "https://www.qbitai.com/2026/08/480223.html",
       "source": "量子位",
@@ -70,16 +59,6 @@
       "category": "ai",
       "pubDate": "2026-08-28T04:06:16.000Z",
       "summary": "智谱GLM-5.3-Flash上线，商汤大装置提供国产算力支持，实现大规模商用。",
-      "summaryZh": ""
-    },
-    {
-      "title": "三箭齐发，卫冕全球第一！优必选2026年上半年营收12.7亿元，人形机器人销量16123台",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuLTlab3lGcmF6M3JyZlctSHRZejd4THVMZUdMTlE4NWNZeF9QUUJJb2pZenV2NXVXOTBLT0JPcWY1WEY2SVducTdyWXk?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-28T18:26:04.000Z",
-      "summary": "优必选2026年上半年营收12.7亿元，人形机器人销量16123台，全球销量第一。",
       "summaryZh": ""
     },
     {
@@ -99,17 +78,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-28T07:56:29.000Z",
-      "summary": "AI融资激增推高债券收益率，品浩称长期回报可观。",
+      "summary": "AI融资激增推高债券收益率，品浩称将带来长期回报。",
       "summaryZh": ""
-    },
-    {
-      "title": "10万张国产芯片跑大模型，是什么概念？_精彩视频为您呈现_36氪",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DNnVlRjlhTjZZN3J0eWVnQU5RNXZxUERVdlVmMGRwYmpJQzdyaXZQakZ5RHlNNkl2TUdlX1dkYkQwWVFoMFpNWVR4UzllMVliV0JLNTB3?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-28T12:43:05.000Z",
-      "summary": ""
     },
     {
       "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
@@ -138,7 +108,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-28T06:33:36.000Z",
-      "summary": "AI算力与具身智能产业双线并行，英伟达发布超预期财报，市场关注度提升。",
+      "summary": "AI算力与具身智能产业链关注度升温，英伟达发布超预期财报。",
       "summaryZh": ""
     },
     {
@@ -180,23 +150,13 @@
       "summary": ""
     },
     {
-      "title": "国家发改委：推动机器人从“能跑能跳”加快走向落地应用",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11LWVvcjdudWszSDZPa3JieEFmbU9CUHFsdWI2VVNXakFlUEJxOTdCZ3hpaHlJNG40cDEzNVBpc19wUGw4SXh2aE45TGNhdjR2akphVDlVS28yaWVzT25zWHlRclM?oc=5",
-      "source": "光明网",
+      "title": "Anthropic做了个通用“接口”，Agent开始接管显微镜、机械臂和量子计算机",
+      "link": "https://zhidx.com/p/589011.html",
+      "source": "智东西",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-28T08:23:00.000Z",
-      "summary": "国家发改委推动机器人技术迭代，加速落地应用场景。",
-      "summaryZh": ""
-    },
-    {
-      "title": "世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的训练场",
-      "link": "http://www.geekpark.net/news/369508",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-28T05:10:32.000Z",
-      "summary": "自变量WALL-SS突破世界模型三大瓶颈，提升虚拟世界训练机器人效果。",
+      "category": "ai",
+      "pubDate": "2026-08-28T08:50:20.000Z",
+      "summary": "Anthropic推出MHS接口，AI Agent可接管显微镜等设备，缩短集成时间。",
       "summaryZh": ""
     },
     {
@@ -206,7 +166,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-28T23:25:06.000Z",
-      "summary": "Brain Corp CTO展示基于SelfPath AI的机器人技术突破。",
+      "summary": "Brain Corp CTO Black分享自学习AI在机器人领域的应用进展。",
       "summaryZh": ""
     },
     {
@@ -216,27 +176,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-28T07:52:01.000Z",
-      "summary": "人形机器人拔河赛事考验多方面能力，行者泰山队轻量级夺冠。",
+      "summary": "人形机器人拔河比赛考验运动控制等多项能力。",
       "summaryZh": ""
     },
     {
-      "title": "宇树G1拆解：一台人形机器人，藏着上千颗芯片",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15TUJrVVNRNVBXRXJabGQ4cGVhUHNKbG1YcUVSR0RxN0FGaWRYcUg2OTQ0cXJSaEdNWXJCVUJJUWI0ZUxDWUxTQlB1bUswckJELWVtY2xNQQ?oc=5",
-      "source": "与非网",
+      "title": "瑞为技术上市首份中期成绩单：AI业务盈利步入稳定期，开启具身智能新增长极",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yeHhMV0RyWHZ6eFZWSWtFOTUyeVRYWHV5Sm9HdUlpV1N1emVmYnd6bkI2Ui1lVEg5MjFBeXV4MHRuNDZacXN4MTA5QjhjY3J5SkZuc0d2MXhMRU9WQ3FIdXZrSC1tZw?oc=5",
+      "source": "每日经济新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-28T07:16:59.000Z",
-      "summary": "宇树G1人形机器人内部含上千颗芯片，模拟和混合信号芯片占比最大。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智能系统升级迭代 保障世界级人形机器人运动会高效办赛",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uVWV2WXRzRXhVQXZ0dnl2SmJvRlBZaVVlOEdPM0ktSUxfNlFIbjROcmpwOE1kSzBCX0tYSjlGdDB6TWxqeDRwWHNrd3pMVFJ6YVdqeW93eUpJeDRma2tTZ1VubmIyZ2kteE96UWhHQUk?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-28T03:12:48.000Z",
-      "summary": "智能系统升级助力世界级人形机器人运动会高效举办。",
+      "pubDate": "2026-08-28T09:32:00.000Z",
+      "summary": "瑞为技术AI业务盈利稳定，开启具身智能新增长极。",
       "summaryZh": ""
     },
     {
