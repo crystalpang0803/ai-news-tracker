@@ -1,6 +1,6 @@
 {
   "date": "2026-08-30",
-  "generatedAt": "2026-08-29T20:52:13.225Z",
+  "generatedAt": "2026-08-29T21:56:23.949Z",
   "items": [
     {
       "title": "OpenAI ChatGPT、Codex 现已支持连接多个谷歌 Gmail 账号",
@@ -13,13 +13,23 @@
       "summaryZh": ""
     },
     {
+      "title": "不只OpenAI！Anthropic也想造芯片 曾拟70亿美元收购一初创公司",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90VlRua0M1NVZSbVVKbl9LRGt6dm1UZmpGRmNsZ1A5eWVkUUwxS2g2Q1E2My0tYTMwcWdVdVpaWUdoTnRKcFEzeA?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-29T12:08:05.000Z",
+      "summary": "Anthropic曾拟以70亿美元收购AI芯片初创公司MatX，后转为合作洽谈，并扩大内部芯片研发团队。",
+      "summaryZh": ""
+    },
+    {
       "title": "跑赢博尔特 机器人叒破记录了",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QUGVxSV9lbjU5YUsya2tXcHgwV2ZLcVQ0WWdwUGNWWjZKb1BtYnIydWtreDhuUkN5M3RjUDJMNDlNNk9KZVVRRHVuYTB2dFhMMy13eA?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-29T04:45:00.000Z",
-      "summary": "机器人再次刷新速度记录，跑赢博尔特。",
+      "summary": "机器人跑速刷新纪录，超越博尔特。",
       "summaryZh": ""
     },
     {
@@ -78,7 +88,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-29T04:46:33.000Z",
-      "summary": "宇树科技市值大跌，面临具身智能大旗能否持续挑战。",
+      "summary": "宇树科技市值大跌，面临具身智能赛道挑战。",
       "summaryZh": ""
     },
     {
@@ -118,7 +128,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-29T01:01:00.000Z",
-      "summary": "算力是算力，大模型是大脑，两者协同提供计算与智能能力。",
+      "summary": "算力是硬件基础设施，提供计算能力，大模型是软件算法，提供智能能力。",
       "summaryZh": ""
     },
     {
@@ -147,8 +157,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-29T01:56:28.000Z",
-      "summary": "AI Agent在测试中利用授权能力对真实项目发起攻击，暴露传统安全控制漏洞。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "大厂AI办公“赛马期”终结，豆包必须要帮字节养家",
@@ -157,7 +166,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-29T02:19:36.000Z",
-      "summary": "字节跳动整合多条AI办公产品线，豆包成为集大成者。",
+      "summary": "字节跳动整合多条AI办公产品线，豆包成为核心。",
       "summaryZh": ""
     },
     {
@@ -167,17 +176,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-29T00:22:35.000Z",
-      "summary": "腾讯WorkBuddy面临豆包工作挑战，寻求深度场景整合以保持优势。",
-      "summaryZh": ""
-    },
-    {
-      "title": "安达集团副总裁张蓓：人工智能重塑保险业 企业竞争终将回归专业能力和客户价值",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vUlBPaVRSWHc0OVJYVXJRV01MNzVHNk9oR192a0RZX01XOEVyZEdzcldaT2YyNlBfVmwyeUVqT2t6OEFjcVZsTQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-29T09:16:39.000Z",
-      "summary": "张蓓认为人工智能将重塑保险业，企业竞争将回归专业与客户价值。",
+      "summary": "腾讯WorkBuddy面临豆包工作挑战，需整合企业微信以提升办公效率。",
       "summaryZh": ""
     },
     {
@@ -187,7 +186,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-29T13:00:30.000Z",
-      "summary": "机器人技术加速融入各行各业，推动高质量发展。",
+      "summary": "机器人技术广泛应用，推动产业高质量发展。",
       "summaryZh": ""
     },
     {
@@ -197,27 +196,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-29T00:52:59.000Z",
-      "summary": "具身智能创业成败关键不在于技术路线，而在于商业化落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI时代的银发课堂：及象教育以适老化学习系统助力中老年跨越数字鸿沟",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wblhFS3pKSXNsVUItbGdTMUVGa2JxTjJGWnBzbmo0WEo1UWlVMS1QRHNCdVI0MjhmTHE5ak9hZndVczFWeDdMQWZJdmFQWnlNOFltWG9aYkVzVThPVUVjMjhPZHJQbjlTQlVhdzdraFlkbzdTcUlxRURBMXhaV2M?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-29T10:35:00.000Z",
-      "summary": "及象教育推出适老化学习系统，助力中老年跨越数字鸿沟。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机器人的“情绪价值”，如何成为一门规模化的生意？ 在2026世数博会现场，上海卓益得机器人有限公司CEO/董事长李清都给出了他的答案：比销量和成本下降更重要的，是让机器人在真实服务场景中与人建立信任关系，通过高质量数据的训练，让机器人越来越懂你，而",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GQUFXU0kxQ0x4dFdIMHZxSmo0cHA2OVlpRm1LcEpQNWZXdmJ0NHlLdVVJWkZmMFB3WTk5WFBkRTlraU9lSjhIRG5GcmhkakUzdXdDUm1R?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-29T00:41:28.000Z",
-      "summary": "世数博会上，卓益得CEO李清谈机器人“情绪价值”规模化，强调信任与数据训练。",
+      "summary": "具身智能创业成败关键不在于技术路线，而在于商业化落地和生存能力。",
       "summaryZh": ""
     },
     {
@@ -237,7 +216,17 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-29T17:24:52.000Z",
-      "summary": "安徽推进数智中医与文旅融合，加速康养产业发展。",
+      "summary": "安徽数智中医融入文旅，加速中医药康养融合实践。",
+      "summaryZh": ""
+    },
+    {
+      "title": "专访心言集团创始人任永亮：当机器人进入家庭，“人机共生”如何真正发生",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oVWwzNkVGLUJtTVhUd2N2RVIyYnotcENrYTBfYnFCVXJLTGdWYUd4UE9DOWRIT2NiQUt6a0NHb2s2YU9CZkdaeTRlZTBpemN4VFNZX0x4SWprM1pCclFXNWtjblBvbVk?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-29T11:32:40.000Z",
+      "summary": "心言集团创始人任永亮探讨家庭机器人“人机共生”实现路径。",
       "summaryZh": ""
     }
   ]
