@@ -1,7 +1,17 @@
 {
   "date": "2026-08-29",
-  "generatedAt": "2026-08-29T07:08:22.672Z",
+  "generatedAt": "2026-08-29T10:24:41.636Z",
   "items": [
+    {
+      "title": "今年最好的机器人落地场景，可能在上海一家冰淇凌店",
+      "link": "https://www.tmtpost.com/8121421.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-29T07:33:20.000Z",
+      "summary": "上海DQ冰淇淋店引入机器人制作暴风雪，展示机器人长程任务规划和场景适应能力。",
+      "summaryZh": ""
+    },
     {
       "title": "跻身世界人形机器人运动会工业场景赛全国前三，ROSS Harness 以全自主模式突破工业具身智能落地瓶颈",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuclhsYWtGMU9UMTFHa1lnajZtTFhoOHllME9JdkRzYld0SHdLeTJiZ2xjQ2U5OGgxLXJ3SG1yazlDN0ZWRVdMVy1kWDI?oc=5",
@@ -10,16 +20,6 @@
       "category": "robotics",
       "pubDate": "2026-08-28T10:26:22.000Z",
       "summary": "ROSS Harness以全自主模式在工业场景赛中获全国前三，突破工业具身智能落地瓶颈。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI 宣布将断供 Cursor 后，Anthropic 称继续增加算力支持 Cursor",
-      "link": "https://www.ithome.com/0/995/913.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-29T06:48:26.000Z",
-      "summary": "Anthropic宣布继续增加算力支持Cursor，对抗OpenAI断供决定。",
       "summaryZh": ""
     },
     {
@@ -33,42 +33,33 @@
       "summaryZh": ""
     },
     {
-      "title": "46枚、45枚、10枚、5枚，人形机器人运动会的奖牌数到底在测什么",
-      "link": "https://www.tmtpost.com/8120414.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-29T03:22:58.000Z",
-      "summary": "人形机器人运动会奖牌数反映参赛方式和技术能力差异。",
-      "summaryZh": ""
-    },
-    {
       "title": "OpenAI Agent越狱事件引发AI安全转型：从模型到基础设施的治理挑战",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pVGk4N19CdWlldHZ5b0xTc2tNSUw0N1lldE5GbFF3RTlYVkVNZzNIaTV0di1LSm5BOXY3QnVjMWx1RzJ2M05wUWlqaWkxVEJYc3NJWQ?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-29T00:43:04.000Z",
-      "summary": ""
-    },
-    {
-      "title": "OpenAI：因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型",
-      "link": "https://www.ithome.com/0/995/874.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-29T02:21:24.000Z",
-      "summary": "OpenAI宣布终止向Cursor提供AI模型合作，因担忧SpaceX可能违约。",
+      "summary": "OpenAI Agent越狱事件凸显AI安全治理挑战，需转向基础设施和公共治理。",
       "summaryZh": ""
     },
     {
-      "title": "突发！OpenAI全面断供Cursor 开发者AI工具合作生变",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sajc3dlpFN0lXSTc3enpxZXU2VnhKaEpYME9GaEdtVnU3enlJNkZHLW9yT2NYUlpoc0k4bk1IdVRMRURReGQ5VmxfaGdLXzhHazk0?oc=5",
-      "source": "36氪",
+      "title": "2025 年我国智能体专利授权量超过 3400 件，增速是上一年两倍以上",
+      "link": "https://www.ithome.com/0/995/928.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-28T13:02:00.000Z",
-      "summary": "OpenAI宣布停止Cursor开发者AI工具合作，Cursor用户将失去GPT和官方渠道直连。",
+      "pubDate": "2026-08-29T07:57:27.000Z",
+      "summary": "2025年我国智能体专利授权量超3400件，增速翻倍。",
+      "summaryZh": ""
+    },
+    {
+      "title": "行业首个量子增强型大模型“玄幂 Xenomi”发布：深度融合 AI 与量子计算",
+      "link": "https://www.ithome.com/0/995/921.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-29T07:37:49.000Z",
+      "summary": "行业首个量子增强型大模型“玄幂Xenomi”发布，融合AI与量子计算。",
       "summaryZh": ""
     },
     {
@@ -82,43 +73,32 @@
       "summaryZh": ""
     },
     {
-      "title": "营收超五亿，亏损三千多万，卧安机器人发布中期业绩",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE13WjgxN05TUDhMTDkyak51VzNvWG5WMDhNVTk1MFFXTHROVGJyOFRpWXg5TFpmd01VbmdjNjViaVVlVzZnRnc?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-28T10:12:17.000Z",
-      "summary": "卧安机器人中期营收5.22亿，亏损3830万元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "品浩：AI融资“过多过快”正在推高债券收益率",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Ya0lUajdNQ1RkaC1kRFFjd0ZQU2NTclczR3pxcjhxSTZRdkpENUlqTXRNTjQ3M0pWMk5ueDlsMWpWM19zeFJkYnFGTjFJRTNZT05LUEJPNThHUTBGZkE?oc=5",
+      "title": "Anthropic盯上训练芯片？被爆曾想70亿美元收购AI芯片公司MatX",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uZEdUVl9neGVnX0RMaTFITWQtSXIzM05wVWNhMjl0azYyZEdxQkpvWHhXeUFPaE5EQlY1Nk9Oend0NUFHZEt3ZWpVWUJBOXNu?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-28T07:56:29.000Z",
-      "summary": "AI融资激增推高债券收益率，品浩称将带来长期回报。",
+      "pubDate": "2026-08-29T05:54:53.000Z",
+      "summary": "Anthropic曾计划以70亿美元收购AI芯片公司MatX，但最终交易未成。",
       "summaryZh": ""
     },
     {
-      "title": "闪电快讯 | 小鹏第二代VLA大模型迎来重大升级，小鹏G9L首发全系标配",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83Q3Q1LU8ybDA1Rm1Tc09paXBfZS1kci1DLUlEbVB6QXZXU2pBUGdpc0hPSV9uS1BoTWg0X2Jsc0FsV3lOb3JKaWVWUjQ0SWFwbWNwamVfSWI?oc=5",
-      "source": "界面新闻",
+      "title": "10万张国产芯片跑大模型，是什么概念？_精彩视频为您呈现",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDVnJDd0libnhnYnhydGdxR3dPeURJTThXald2MXNYdTJzZnc4OFI2V1QzX0NKOUdpLW1SdERxWWItTDlxQkVTM0xWakdRemxjZXN3?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-28T07:28:28.000Z",
-      "summary": "小鹏G9L首发搭载升级后的第二代VLA大模型。",
-      "summaryZh": ""
+      "pubDate": "2026-08-28T22:37:59.000Z",
+      "summary": ""
     },
     {
-      "title": "美图、B站绩后大涨，港股互联网逆市走强，AI应用行情酝酿？腾讯发布混元Hy4 preview",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1taS01akxKSExTYld5ejdreTI4dU1mQnNPVHFNR3p2RlQ4MzVKQlU4ZnkwTE1yMHpqcW1JeWlTYXFsczlhUWYxOXlwRmRLb2plOHI5R1ZhU28?oc=5",
+      "title": "国家超算互联网入驻国家数据局算力网监测调度试验验证平台",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SaG5pMW9PNGhEaVFpRFdKS0NUeWlJeFdTQTZpSTlrZmEwY05telpOekdJNnZMOEZYVG80d2ZkVW54VjZnWElpN1NROEkyY05ZTExiQW9yUm8?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-28T10:23:22.000Z",
-      "summary": "美图、B站业绩后股价上涨，港股互联网板块逆市走强，腾讯发布混元Hy4 preview。",
+      "pubDate": "2026-08-28T10:43:29.000Z",
+      "summary": "国家超算互联网入驻全国一体化算力网监测调度平台。",
       "summaryZh": ""
     },
     {
@@ -128,45 +108,45 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-28T20:59:55.000Z",
-      "summary": "邮储银行AI应用场景超370个，日均大模型调用超千万次。",
+      "summary": "邮储银行日均大模型调用超千万次，AI应用场景超370个，成本降低效率提升。",
       "summaryZh": ""
     },
     {
-      "title": "一财主播说丨即梦“杀入”影视圈 征集AI电影和剧集 广撒英雄帖 免算力 对接院线和平台",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBybjRuRkowM0swWmowLVZJTXRNczYyTjE4dVF5VGtTVDlMbGswWVd1bEJLdDQzSjhxWUJscGhaVkJ5bHlUTDNudG13c2dGd29NV0tJRQ?oc=5",
+      "title": "AI进化速递丨腾讯混元发布Hy4 preview",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ncVZtR3NKR0owWFUzSFFLOEhnQ2xpejJVc09SdUJVam1vOE5Ibjd0OTBDMkZqU08zYUl6ajlQdC1CSHRmcTdfdFZFaGxVWlBJelRZ?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-28T13:21:58.000Z",
-      "summary": "即梦片场征集AI电影和剧集，免算力对接院线和平台。",
+      "pubDate": "2026-08-28T12:48:58.000Z",
+      "summary": "腾讯混元发布Hy4 preview，展示AI技术新进展。",
       "summaryZh": ""
     },
     {
-      "title": "10万张国产算力卡扛起“牛来”：智谱开源GLM-5.3-Flash",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BWXdmdFNkWnNZRE5TV2RwZHA2ck5qUlpSTXNxc1hlU2JhcGp3SHB3MnRTS0F4aWh3WXJWekl1Q2hNbGJ3aTU0eA?oc=5",
+      "title": "国产AI芯片订单能见度提升，半导体设备ETF易方达（159558）今日获2.4亿份净申购",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XZzg2OFVqekNsUkEtd0lvTnZkMXR5Rk4yUUNNaURPZW9ZV0tkbkRDcVV2M0VTZlRjM01BbmEtdXVHSTBmN1AtNmVkNXVDd3RHa25DMkdZUFk0Ym1JZGQxRndnSnNiWlNMOVdfcA?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-28T08:58:49.000Z",
+      "pubDate": "2026-08-28T11:58:59.000Z",
       "summary": ""
     },
     {
-      "title": "国家统计局：1—7月份以算力芯片、存储芯片为代表的集成电路行业利润同比增长18.5倍",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14MVpoam05LXlWTWg1RW80MlVXMmRydVcwYnJXTDV3eXJiTnE3Y3NzUHRQUzBSTnFIT0x2VjlNSkUyT0RrU2tScg?oc=5",
-      "source": "财联社",
+      "title": "港中深大语言模型研习班正式开讲大模型连接大未来人工智能赋能学科新探索",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44Y19sSGppWVBCbDl4Y1M1cWd1T202OUUyX2VmOGZQaXJyNFRzVXZjR0t2bjhvMU9qUl9mUnAyVVNmM2RqclN6d0FVa2lRR3lodm5pS0JB?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-28T07:29:19.000Z",
+      "pubDate": "2026-08-28T11:02:00.000Z",
       "summary": ""
     },
     {
-      "title": "国家发改委：推动机器人从“能跑能跳”加快走向落地应用",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11LWVvcjdudWszSDZPa3JieEFmbU9CUHFsdWI2VVNXakFlUEJxOTdCZ3hpaHlJNG40cDEzNVBpc19wUGw4SXh2aE45TGNhdjR2akphVDlVS28yaWVzT25zWHlRclM?oc=5",
-      "source": "光明网",
+      "title": "赋能词元经济落地 海光发布AI算力创新架构",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ycnJrVWNFZ1Utb3h0U3lySkZOVHh0cGJLRGNZRlhPbmh4MEZGdHFBV2ZMSWFDYUNVZ185NTdUSkxXcEpJT3FsQjVwclhXUDF0RE5vZlBmZmhnNExUai1uaEhJWldkaHdmcHl3bF95d1Y?oc=5",
+      "source": "科技日报",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-28T08:23:00.000Z",
-      "summary": "国家发改委推动机器人技术迭代，加速其在各领域落地应用。",
+      "category": "ai",
+      "pubDate": "2026-08-29T06:30:06.000Z",
+      "summary": "海光发布AI算力创新架构，助力词元经济规模化发展。",
       "summaryZh": ""
     },
     {
@@ -176,47 +156,47 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-28T23:25:06.000Z",
-      "summary": "Brain Corp CTO Black分享自学习AI在机器人领域的应用进展。",
+      "summary": "Brain Corp CTO Black谈从教与重复到SelfPath AI的机器人技术飞跃。",
       "summaryZh": ""
     },
     {
-      "title": "人形机器人锂电池怎么选？电压、容量、倍率与PACK设计指南",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xdlZnd0o1a0lhcWczaEhIdy1DZXc2WGdSdnp1UUl6UFY0aW9ZQlhWaXV3dTRTUy1ObWU1UFNlWlp5d0RRb1Z5Um5ia3dSQXlDWXhkVFl1QQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-28T08:11:26.000Z",
-      "summary": "人形机器人锂电池选型需考虑电压、容量、倍率及PACK设计。",
-      "summaryZh": ""
-    },
-    {
-      "title": "宇树G1拆解：一台人形机器人，藏着上千颗芯片",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15TUJrVVNRNVBXRXJabGQ4cGVhUHNKbG1YcUVSR0RxN0FGaWRYcUg2OTQ0cXJSaEdNWXJCVUJJUWI0ZUxDWUxTQlB1bUswckJELWVtY2xNQQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-28T07:16:59.000Z",
-      "summary": "宇树G1人形机器人内部含上千颗芯片，模拟和混合信号芯片占比最大。",
-      "summaryZh": ""
-    },
-    {
-      "title": "华硕成立物理 AI 事业群，人形机器人计划 9 月上路",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vY095T0tENXBTZ1F6cTNRMzVOZ1NNUWJaWUFFSDdkVWZoR2pHVjlkQ2RQbWZkcUVwWktNbk5rLUNJOS1uUFJPRGNjYUxDQ2dyZ1hiNEJCTVQyc0dNaXRLSnB3?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-29T04:03:19.000Z",
-      "summary": "华硕成立物理AI事业群，人形机器人计划9月上路。",
-      "summaryZh": ""
-    },
-    {
-      "title": "美团电话会：三季度外卖UE预计同比明显改善，Keeta盈利加速，AI迈向商家端",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RMkx4MjR6dnJMVTlEWjRFMjFmUkdfeTdMQVVib3lITTFYUXR2QXdOWnFnb25fRXp3MzhtX2VEY0FUcmZXT2tjNzd3RnZOWVQxZU53?oc=5",
+      "title": "聊天、编程、白领、机器人...AI需求一层层爆发",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBocXRvTG9mMnIybW5aTXJ5SG9zWGhlUThJOE9MTTh1bWVVVnBvbFZPRm9wNkVxdF9YUUQxYWhzODJqRjBUdUNWa21CTUJsS1dKX1E?oc=5",
       "source": "华尔街见闻",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-28T14:00:25.000Z",
+      "category": "robotics",
+      "pubDate": "2026-08-29T07:53:00.000Z",
       "summary": ""
+    },
+    {
+      "title": "数博会：在林城与机器人一起“赶集”",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01RU1taW9lRnNldXFFVHREZ0NlVXNtZy1fWS1tbkJLdVpzTHBVdkhqeFNDcE1LcWxtc1hCMTVXNUh2Uk1xZlA5eklmNHptVlBzekMzbQ?oc=5",
+      "source": "腾讯科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-28T15:06:00.000Z",
+      "summary": "2026数博会聚焦数据要素价值释放，展示智能科技融入生活新体验。",
+      "summaryZh": ""
+    },
+    {
+      "title": "速腾聚创：机器人业务已占半壁江山",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wQzRLM2tES2VtcnRac05kSHdmaUtLazZ2Ti01ZnZBVXkwUVRndTFwS3FYXzBmVk0td3J5UU40b2s4WHAzam5tWF9Hc3ROR05lWDNfY293VQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-29T01:51:04.000Z",
+      "summary": "速腾聚创机器人业务收入占比近半，成为公司核心支柱。",
+      "summaryZh": ""
+    },
+    {
+      "title": "运动会收官！当机器人开始考“上岗证”",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QdnZ2YndhUHk2Q3A0eV96VTZtVDgwWGZyNTZnYlc3ekNMUnZweFFQb3JvLTdkYUlDeEQwZDhNeEdFQW5RZmUwb2p0UVpobDAtckd4OEFXUQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-29T00:48:47.000Z",
+      "summary": "机器人运动会上，机器人开始接受“上岗证”考核。",
+      "summaryZh": ""
     }
   ]
 }
