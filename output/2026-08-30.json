@@ -1,6 +1,6 @@
 {
   "date": "2026-08-30",
-  "generatedAt": "2026-08-29T19:22:55.500Z",
+  "generatedAt": "2026-08-29T20:52:13.225Z",
   "items": [
     {
       "title": "OpenAI ChatGPT、Codex 现已支持连接多个谷歌 Gmail 账号",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-29T11:50:16.000Z",
-      "summary": "OpenAI ChatGPT、Codex 支持连接多个谷歌 Gmail 账号。",
+      "summary": "OpenAI ChatGPT和Codex支持连接多个谷歌Gmail和日历账号。",
       "summaryZh": ""
     },
     {
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-29T04:45:00.000Z",
-      "summary": "机器人跑速刷新记录，超越博尔特。",
+      "summary": "机器人再次刷新速度记录，跑赢博尔特。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-29T11:38:25.000Z",
-      "summary": "哈工大校友创办的特种机器人公司融资数千万，产品已售给中石油。",
+      "summary": "哈工大校友创办的特种机器人公司融资数千万元，产品已售给中石油。",
       "summaryZh": ""
     },
     {
@@ -52,13 +52,24 @@
       "summary": ""
     },
     {
+      "title": "华为云CEO周跃峰：加快建设硅基算力黑土地、打造最开放的云",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sVkRmdktqN3BjYVAzWVhPMjJHTjFud0U2X1FnRmg1aWpLZ2dyX1ZTRGx3bDJVR3ZwZEVZd2lXdmVZaXpKcm5GYU1WbWJ3U3UtaUxN?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-29T12:01:28.000Z",
+      "summary": "华为云CEO周跃峰提出加快建设硅基算力黑土地，打造最开放云平台。",
+      "summaryZh": ""
+    },
+    {
       "title": "具身进化论|加速进化程昊：当80台机器人拼出“BEIJING”，具身智能的ChatGPT时刻还要多久",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkRWtyMWxGTWh6QkhCYlNLbGR4cno1YUhhLVREeW1WQmFMYTdpOHNqeXBfcXRpOTdFT2lwS2NhYjFVT2FJNjZKYU5ETXgtbmlGUUY0dXZVdXlvQ1NrQmExRXNn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1URjMzZnVmLThSTFBuTXhzQXNLRG1pWWV1MXVHc2J3cnZDeGNsQkVua1lLTmt5djdVTHY0OW9ZczlPRWs1T3VQY0RHZXlmcXdLaG1SWHQ4QkNCdXlCdFFsTHE2aHo?oc=5",
       "source": "新京报",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-29T14:13:00.000Z",
-      "summary": ""
+      "summary": "80台机器人自主完成“BEIJING”方阵变换，具身智能ChatGPT时刻预计5-10年到来。",
+      "summaryZh": ""
     },
     {
       "title": "宇树市值大跌后，能否继续扛起具身智能大旗",
@@ -67,7 +78,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-29T04:46:33.000Z",
-      "summary": "宇树科技市值大跌，面临具身智能赛道挑战。",
+      "summary": "宇树科技市值大跌，面临具身智能大旗能否持续挑战。",
       "summaryZh": ""
     },
     {
@@ -90,16 +101,6 @@
       "summary": ""
     },
     {
-      "title": "OpenAI往上造芯片，英伟达往下买平台，AI巨头为何“互相偷家”？",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ReVZYLTN0YVgxQ0lIVUFmUEhhQWJOWU1Nb3NxelZ1ek5iTWtGUUFlSnd1dFN2OTBpZHE4NFVQbmxHTVVkSVh0V3l0ellLRUozY1BhcVJwUFlkMkFDaG4xdQ?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-28T20:53:15.000Z",
-      "summary": "AI巨头通过收购产业链不同环节企业，争夺更多利润和产业链控制权。",
-      "summaryZh": ""
-    },
-    {
       "title": "The differences between decentralized and centralized power in swarm robotics",
       "link": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics/",
       "source": "The Robot Report",
@@ -111,23 +112,23 @@
       "titleZh": "群体机器人中分散式和集中式电源之间的差异"
     },
     {
+      "title": "$莲花控股(SH600186)$ 算力与大模型的功能差异是什么？",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wWklNNG1naTR5c1JRRGFiMmdVb3ktYVprYWl6SEZZUWxNeEdQaVZERFlYU0RVb1p6dWx1dHd1eHlvc2RDaXRvMHhmT3dCcUNFT3VxcTJUaEdvSTdIZF85MFppa3VmQUlreXhn?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-29T01:01:00.000Z",
+      "summary": "算力是算力，大模型是大脑，两者协同提供计算与智能能力。",
+      "summaryZh": ""
+    },
+    {
       "title": "从机器人融资超9亿美元到第二代VLA模型重大升级，小鹏正在回答一个物理AI命题",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBTlBvS0gycWhBS2FmUE1Ub3JFTzBFUFQ4bUNTUTI3dDZmQlRlV18wRWotM3VLV1IxTlYwNExEem9hZFM2eGRDQUJtNWdWOFEx?oc=5",
       "source": "凤凰财经",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-29T02:30:42.000Z",
-      "summary": "小鹏机器人融资超9亿，第二代VLA模型升级，探索物理AI应用。",
-      "summaryZh": ""
-    },
-    {
-      "title": "贵安新区人工智能公共服务平台暨供应链物流AI大模型2.0正式发布",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56Mk54VTBIbFhEcUpzaV9mbjVkVXFuQlg2bVQ4Tm1xRkRBbmlQR2FVSGhzU0ZPQ0YtcGthd0dLWUctRFlQdzBha1pzNlp4MlFsZWUweWNsRWRmamtVMkgyZ0c1aWdZUzBiM08wRXFmT2ppMGV3SXc2bF9B?oc=5",
-      "source": "新华社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-29T08:49:03.000Z",
-      "summary": "贵安新区发布人工智能公共服务平台及供应链物流AI大模型2.0。",
+      "summary": "小鹏机器人完成超9亿融资，第二代VLA模型升级，探索物理AI应用。",
       "summaryZh": ""
     },
     {
@@ -156,7 +157,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-29T02:19:36.000Z",
-      "summary": "字节跳动整合多条AI办公产品线，豆包成为核心。",
+      "summary": "字节跳动整合多条AI办公产品线，豆包成为集大成者。",
       "summaryZh": ""
     },
     {
@@ -170,13 +171,13 @@
       "summaryZh": ""
     },
     {
-      "title": "首批创业板算力基础设施ETF正式获批",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TRnBpdEc5MUx0LW9HVTBrMlR3eVByWUNWVUN6TDBqcmprNVlZWURMRzMxTWE1Umo4ZGF6RDBneURtM19OdUhvSmowMjc3ZS1ESVhyZWZWY25BOTN5QmdmeWdRM0VJdw?oc=5",
-      "source": "每日经济新闻",
+      "title": "安达集团副总裁张蓓：人工智能重塑保险业 企业竞争终将回归专业能力和客户价值",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vUlBPaVRSWHc0OVJYVXJRV01MNzVHNk9oR192a0RZX01XOEVyZEdzcldaT2YyNlBfVmwyeUVqT2t6OEFjcVZsTQ?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-29T01:08:00.000Z",
-      "summary": "首批创业板算力基础设施ETF获准发行。",
+      "pubDate": "2026-08-29T09:16:39.000Z",
+      "summary": "张蓓认为人工智能将重塑保险业，企业竞争将回归专业与客户价值。",
       "summaryZh": ""
     },
     {
@@ -186,7 +187,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-29T13:00:30.000Z",
-      "summary": "机器人技术加速应用于各行业，推动高质量发展。",
+      "summary": "机器人技术加速融入各行各业，推动高质量发展。",
       "summaryZh": ""
     },
     {
@@ -196,7 +197,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-29T00:52:59.000Z",
-      "summary": "具身智能创业成败关键在于商业化而非技术路线。",
+      "summary": "具身智能创业成败关键不在于技术路线，而在于商业化落地。",
       "summaryZh": ""
     },
     {
@@ -207,6 +208,16 @@
       "category": "application",
       "pubDate": "2026-08-29T10:35:00.000Z",
       "summary": "及象教育推出适老化学习系统，助力中老年跨越数字鸿沟。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人的“情绪价值”，如何成为一门规模化的生意？ 在2026世数博会现场，上海卓益得机器人有限公司CEO/董事长李清都给出了他的答案：比销量和成本下降更重要的，是让机器人在真实服务场景中与人建立信任关系，通过高质量数据的训练，让机器人越来越懂你，而",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GQUFXU0kxQ0x4dFdIMHZxSmo0cHA2OVlpRm1LcEpQNWZXdmJ0NHlLdVVJWkZmMFB3WTk5WFBkRTlraU9lSjhIRG5GcmhkakUzdXdDUm1R?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-29T00:41:28.000Z",
+      "summary": "世数博会上，卓益得CEO李清谈机器人“情绪价值”规模化，强调信任与数据训练。",
       "summaryZh": ""
     },
     {
@@ -226,17 +237,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-29T17:24:52.000Z",
-      "summary": "安徽数智中医融入文旅，加速中医药康养融合实践。",
-      "summaryZh": ""
-    },
-    {
-      "title": "专访心言集团创始人任永亮：当机器人进入家庭，“人机共生”如何真正发生",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oVWwzNkVGLUJtTVhUd2N2RVIyYnotcENrYTBfYnFCVXJLTGdWYUd4UE9DOWRIT2NiQUt6a0NHb2s2YU9CZkdaeTRlZTBpemN4VFNZX0x4SWprM1pCclFXNWtjblBvbVk?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-29T11:32:40.000Z",
-      "summary": "心言集团创始人任永亮探讨家庭机器人“人机共生”实现路径。",
+      "summary": "安徽推进数智中医与文旅融合，加速康养产业发展。",
       "summaryZh": ""
     }
   ]
