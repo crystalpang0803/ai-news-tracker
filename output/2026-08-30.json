@@ -1,6 +1,6 @@
 {
   "date": "2026-08-30",
-  "generatedAt": "2026-08-29T21:56:23.949Z",
+  "generatedAt": "2026-08-29T23:25:25.125Z",
   "items": [
     {
       "title": "OpenAI ChatGPT、Codex 现已支持连接多个谷歌 Gmail 账号",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-29T11:50:16.000Z",
-      "summary": "OpenAI ChatGPT和Codex支持连接多个谷歌Gmail和日历账号。",
+      "summary": "OpenAI ChatGPT、Codex 支持连接多个谷歌 Gmail 账号。",
       "summaryZh": ""
     },
     {
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-29T12:08:05.000Z",
-      "summary": "Anthropic曾拟以70亿美元收购AI芯片初创公司MatX，后转为合作洽谈，并扩大内部芯片研发团队。",
+      "summary": "Anthropic曾拟70亿美元收购AI芯片初创公司，后转为合作洽谈，并扩大内部芯片团队研发定制芯片。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-29T04:45:00.000Z",
-      "summary": "机器人跑速刷新纪录，超越博尔特。",
+      "summary": "机器人跑速刷新记录，超越博尔特。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-29T11:38:25.000Z",
-      "summary": "哈工大校友创办的特种机器人公司融资数千万元，产品已售给中石油。",
+      "summary": "哈工大校友创办的特种机器人公司融资千万，产品已售中石油。",
       "summaryZh": ""
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "title": "具身进化论|加速进化程昊：当80台机器人拼出“BEIJING”，具身智能的ChatGPT时刻还要多久",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1URjMzZnVmLThSTFBuTXhzQXNLRG1pWWV1MXVHc2J3cnZDeGNsQkVua1lLTmt5djdVTHY0OW9ZczlPRWs1T3VQY0RHZXlmcXdLaG1SWHQ4QkNCdXlCdFFsTHE2aHo?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkRWtyMWxGTWh6QkhCYlNLbGR4cno1YUhhLVREeW1WQmFMYTdpOHNqeXBfcXRpOTdFT2lwS2NhYjFVT2FJNjZKYU5ETXgtbmlGUUY0dXZVdXlvQ1NrQmExRXNn?oc=5",
       "source": "新京报",
       "lang": "zh",
       "category": "ai",
@@ -118,8 +118,7 @@
       "category": "robotics",
       "pubDate": "2026-08-29T12:25:31.000Z",
       "summary": "群机器人系统中，集中式与分布式电源架构影响协调效率和容错性。",
-      "summaryZh": "",
-      "titleZh": "群体机器人中分散式和集中式电源之间的差异"
+      "summaryZh": ""
     },
     {
       "title": "$莲花控股(SH600186)$ 算力与大模型的功能差异是什么？",
@@ -128,7 +127,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-29T01:01:00.000Z",
-      "summary": "算力是硬件基础设施，提供计算能力，大模型是软件算法，提供智能能力。",
+      "summary": "算力是算力，大模型是大脑，两者协同提供计算和智能能力。",
       "summaryZh": ""
     },
     {
@@ -138,7 +137,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-29T02:30:42.000Z",
-      "summary": "小鹏机器人完成超9亿融资，第二代VLA模型升级，探索物理AI应用。",
+      "summary": "小鹏机器人融资超9亿，第二代VLA模型升级，探索物理AI应用。",
       "summaryZh": ""
     },
     {
@@ -151,13 +150,14 @@
       "summary": ""
     },
     {
-      "title": "英国AISI披露AI Agent安全事故：Agent在测试中未经授权对真实项目发起攻击",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hOGFNSV9fQVVHTi1kMXpPZGFFSlJZTGo1OXo5RzQtYXNTT3p2RldoOXpxOURpWDlUX0ZPUXg3SXJjWlcyNVpDOVhUSEptVmdnNGRvMA?oc=5",
+      "title": "腾讯的战略是混元4？WorkBuddy？AI token 工厂？",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vMzc5b1hoRC04aHowT1pnNExDY090cjlKY0Vqb2xQR05NX09IRmtyeEI3ZGlGMHlqY0dod1NhWGtxYmpHTzZ6cmVUcFVHNDBMeE1SeHh1eDlPdkozWkY0?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-29T01:56:28.000Z",
-      "summary": ""
+      "pubDate": "2026-08-29T23:11:35.000Z",
+      "summary": "腾讯战略聚焦混元大模型和AI应用，非AI算力出租。",
+      "summaryZh": ""
     },
     {
       "title": "大厂AI办公“赛马期”终结，豆包必须要帮字节养家",
@@ -166,17 +166,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-29T02:19:36.000Z",
-      "summary": "字节跳动整合多条AI办公产品线，豆包成为核心。",
-      "summaryZh": ""
-    },
-    {
-      "title": "腾讯WorkBuddy，学不会豆包工作？",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EdFFfa3EtZVlNTDlkQnFnUnFPTDJQaWYxemJYbVBFWVd2cDgzZ0RIY1NUdzdyRXI2d3dBaTNRUmhkeVFqMWlQUjJocTVkZDEyTXRrVEU4TDQ?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-29T00:22:35.000Z",
-      "summary": "腾讯WorkBuddy面临豆包工作挑战，需整合企业微信以提升办公效率。",
+      "summary": "字节跳动整合AI办公产品，豆包成为核心。",
       "summaryZh": ""
     },
     {
@@ -186,7 +176,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-29T13:00:30.000Z",
-      "summary": "机器人技术广泛应用，推动产业高质量发展。",
+      "summary": "机器人技术在中国广泛应用，推动产业高质量发展。",
       "summaryZh": ""
     },
     {
@@ -196,7 +186,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-29T00:52:59.000Z",
-      "summary": "具身智能创业成败关键不在于技术路线，而在于商业化落地和生存能力。",
+      "summary": "具身智能创业成败关键在于商业化而非技术路线选择。",
       "summaryZh": ""
     },
     {
@@ -206,7 +196,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-29T12:15:32.000Z",
-      "summary": "互联网巨头联手投资AI机器人公司Sharpa，融资超45亿元。",
+      "summary": "互联网巨头投资AI机器人公司，融资超45亿元。",
       "summaryZh": ""
     },
     {
@@ -216,7 +206,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-29T17:24:52.000Z",
-      "summary": "安徽数智中医融入文旅，加速中医药康养融合实践。",
+      "summary": "安徽推进数智中医与文旅融合，加速康养产业发展。",
       "summaryZh": ""
     },
     {
