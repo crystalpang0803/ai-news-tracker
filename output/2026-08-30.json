@@ -1,7 +1,37 @@
 {
   "date": "2026-08-30",
-  "generatedAt": "2026-08-30T00:44:35.981Z",
+  "generatedAt": "2026-08-30T05:28:44.581Z",
   "items": [
+    {
+      "title": "中塞联合建设机器人工厂投产，成为欧洲首座人形机器人量产基地",
+      "link": "https://www.ithome.com/0/996/102.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-30T03:28:49.000Z",
+      "summary": "中塞联合建设的机器人工厂在塞尔维亚投产，成为欧洲首座人形机器人量产基地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "刚刚，OpenAI要给Codex、ChatGPT Work付费用户集体回血了",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NMk5oX0dqUDRXTFBFUXBZS0E3Ym83amlVdkxRNVd6bzhpVTh1UzYwRGNoc0dfR2FJSEI5a2hsS2E0LV9Eb0xSV1JtSjdqZkU?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-30T01:10:44.000Z",
+      "summary": "OpenAI将为Codex和ChatGPT Work付费用户重置使用额度，提升使用效率。",
+      "summaryZh": ""
+    },
+    {
+      "title": "启境轩伟谈 L3 级自动驾驶架构：车主导、人放松，正常行驶不需要时刻紧绷接管",
+      "link": "https://www.ithome.com/0/996/108.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-30T04:07:50.000Z",
+      "summary": "启境轩伟介绍L3级自动驾驶架构，强调车主导、人放松，确保安全行驶。",
+      "summaryZh": ""
+    },
     {
       "title": "不只OpenAI！Anthropic也想造芯片 曾拟70亿美元收购一初创公司",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90VlRua0M1NVZSbVVKbl9LRGt6dm1UZmpGRmNsZ1A5eWVkUUwxS2g2Q1E2My0tYTMwcWdVdVpaWUdoTnRKcFEzeA?oc=5",
@@ -9,16 +39,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-29T12:08:05.000Z",
-      "summary": "不只OpenAI！"
-    },
-    {
-      "title": "跑赢博尔特 机器人叒破记录了",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QUGVxSV9lbjU5YUsya2tXcHgwV2ZLcVQ0WWdwUGNWWjZKb1BtYnIydWtreDhuUkN5M3RjUDJMNDlNNk9KZVVRRHVuYTB2dFhMMy13eA?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-29T04:45:00.000Z",
-      "summary": "机器人跑速刷新纪录，超越博尔特。",
+      "summary": "Anthropic曾拟以70亿美元收购AI芯片初创公司MatX，后转为合作洽谈，并扩大内部芯片团队研发定制芯片。",
       "summaryZh": ""
     },
     {
@@ -32,31 +53,23 @@
       "summaryZh": ""
     },
     {
-      "title": "一个比人更贵、更慢的机器人“员工”，餐饮品牌何以急着把它请进门店？",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlQUdvdm0td2tUMnRGckdYZGRyV3dBTzQ2WmkwV05aMS1wcm5lbXUtaEVWTW1OUlQwR20wWEttLWp3b2ltLUtVeUJ1V0poS3RyWm4xMHRHQ1hoTDJuRE02VTgxaUNZQQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-29T11:04:00.000Z",
-      "summary": "又有一名机器人员工“入职”餐厅了。"
-    },
-    {
-      "title": "瑞银详解宇树科技：人形机器人整机先行者，“小脑”与本体技术领先",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KS2c3MjdhaW41cGFpQWd3S25Ia0l6U2ZjTzJ0bFB0emREbUtLb0dfQnZUTEdfTlhFSHd6YkhHRkYydlU3NGtsZldXeDc2aE02LWdF?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-29T03:36:03.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Anthropic 安全框架自动降级：Claude 误删开发者 700 GB 主目录，自动化清理反成灾难",
-      "link": "https://www.ithome.com/0/996/031.htm",
-      "source": "IT之家",
+      "title": "横测中美六款顶尖大模型，为孙宇晨小作文测谎差距明显",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qVXprdk93NFV6X2RDMTk3c0N6YWZ5eTBrQkozeE5wQ3htTXptMU1JMUtHbGppOTBrTF9OMExrTGQwbVRCeE1JM3owYkhmUUUzYWJQYg?oc=5",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-29T12:59:20.000Z",
-      "summary": "Anthropic AI Claude误删开发者700GB数据，自动化清理机制反成灾难。",
+      "pubDate": "2026-08-29T07:45:00.000Z",
+      "summary": "横测中美六款顶尖大模型测谎，孙宇晨小作文差距明显。",
+      "summaryZh": ""
+    },
+    {
+      "title": "算力扩张，曾经低迷的新能源企业做起了AIDC大生意",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XMVNIWW0wMmdDN21OMDlCamJPYk1UQzRiOHc5MGZjX3RuYXc5ZGNjTHI3emx6QnduZGx4QWdfVnhkVEtabnJfOFZLOU5hMEtfWHFobjFhOTQ?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-30T02:37:20.000Z",
+      "summary": "新能源企业拓展AIDC市场，满足算力需求增长。",
       "summaryZh": ""
     },
     {
@@ -66,12 +79,52 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-29T12:01:28.000Z",
-      "summary": "华为云CEO周跃峰提出加快建设硅基算力黑土地，打造最开放云平台。",
+      "summary": "华为云CEO周跃峰强调加速硅基算力建设，打造开放云平台。",
+      "summaryZh": ""
+    },
+    {
+      "title": "下周重磅打新：国产AI芯片龙头，来了",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9uOGtrVm9FcWRvZ0lZOWx6Z2l4X3JhQ1RLdUVuWGZMTEpvbjVxSnlIR3JYVXpJYktENzBsYmktalo0dDk5TUE?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-30T04:06:34.000Z",
+      "summary": "下周将有国产AI芯片龙头燧原科技等三只新股申购。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2026年酒店业迎来AI落地元年：从概念到实效的关键转折",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QaXB6WE9kUmgycVZyeVUxLVRtX184MF9RQ3daOWxwSGE0ak1BVmZPMC02UHdHZm5QNjdrRkJPRVhjVnNzVDk4eEx2OTNlNHIxc2MxYVZXSFE1Nlh6VmJBTFZ5b0RraFRQUzRVN0E2ekwxMGVXY3pWMw?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-08-30T04:47:00.000Z",
+      "summary": "2026年酒店业AI应用实现规模化落地，智能化改造投入同比增长34%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "交通银行“人工智能+”落地420余场景，AI赋能跨境与财富管理",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15MHB4Vk9tNGdpaEZpY19GMWVnUUFQblZtNzNRd3FfNmVwQVJHQnpncjY1dVVudFRGR3RoSUpzYUZwQW54QlhnNDNIQzNaeHRpc1lrQ0l1bjlGb3lVckFkY1h3?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-30T01:21:19.000Z",
+      "summary": "交通银行AI应用场景覆盖420余项，助力跨境与财富管理。",
+      "summaryZh": ""
+    },
+    {
+      "title": "瑞智病理大模型RuiPath 2.0发布 落地90+医院",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mR1dncURGc3lwSlh0elNxZWs4cUpSLUIxTk1vN0N0cS1TN2N0TXBNZGNpZ0RQZU9MSG5XSWNRUGdxbENpZkVBU01aNUs1Q1lR?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-30T02:50:23.000Z",
+      "summary": "瑞智病理大模型RuiPath 2.0发布，已落地全国90多家医院。",
       "summaryZh": ""
     },
     {
       "title": "具身进化论|加速进化程昊：当80台机器人拼出“BEIJING”，具身智能的ChatGPT时刻还要多久",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkRWtyMWxGTWh6QkhCYlNLbGR4cno1YUhhLVREeW1WQmFMYTdpOHNqeXBfcXRpOTdFT2lwS2NhYjFVT2FJNjZKYU5ETXgtbmlGUUY0dXZVdXlvQ1NrQmExRXNn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1URjMzZnVmLThSTFBuTXhzQXNLRG1pWWV1MXVHc2J3cnZDeGNsQkVua1lLTmt5djdVTHY0OW9ZczlPRWs1T3VQY0RHZXlmcXdLaG1SWHQ4QkNCdXlCdFFsTHE2aHo?oc=5",
       "source": "新京报",
       "lang": "zh",
       "category": "ai",
@@ -80,33 +133,24 @@
       "summaryZh": ""
     },
     {
-      "title": "宇树市值大跌后，能否继续扛起具身智能大旗",
-      "link": "https://www.tmtpost.com/8121600.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-29T04:46:33.000Z",
-      "summary": "宇树科技市值大跌，面临具身智能赛道挑战。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国内动态华硕成立物理 AI 事业群，人形机器人计划 9 月上路",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLZkN6YksyRV9BYXh1WFdSNndwY092WWhvUjdKVXZ0VzF3cV9SaWRlR05sN1FPQXVfSWRBU3ZRSVBYbk5TaERMYk5STXU5NF9lQU11cDQzdWhDVlpGcXZBMWlNRFJJVm1UejNxLXB4cjdzczd4NXc?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-30T00:00:00.000Z",
-      "summary": "华硕成立物理AI事业群，人形机器人计划9月上路。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Claude开始训练Claude，4美元一小时，跑赢150美元人类研究员",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zdURsc3p1cEd4Q21UT291R3JGaWpCTjFxcXlwVktwUHpudWdYamNseWo5MU95VkFXT1V2RkV6Vjdkd09tSDBFbWNXNEtqdw?oc=5",
-      "source": "36氪",
+      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40V05OTDRGVUVZTWZ3eFQ3cXBRY1dTNzczSXc1dEtsSXdOajNnZXhjYVBrSHMwVlRNWVhhLUZXXzlnX2stQ19hTXpRTnA1TWNYdTh2cw?oc=5",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-29T02:46:00.000Z",
-      "summary": ""
+      "pubDate": "2026-08-29T12:50:31.000Z",
+      "summary": "Claude AI在训练中超越人类研究员，以4美元时薪解决AI安全问题，部分方案优于人类。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI宣布终止向SpaceX旗下AI编程平台Cursor提供模型服务，马斯克回应\"不在乎\"",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ERWdGa1ZwRlIxSmRfMUo5LVRJRkV2VzhXUzQwVHhIekIwYnlVZkFKMVNhWFVfMlQ5ZVhhQnNuaWM5dGU2QmFwanh4c2llMGlHSGo0?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-29T13:28:14.000Z",
+      "summary": "OpenAI终止向SpaceX旗下AI编程平台Cursor提供模型服务，马斯克回应“不在乎”。",
+      "summaryZh": ""
     },
     {
       "title": "The differences between decentralized and centralized power in swarm robotics",
@@ -116,65 +160,26 @@
       "category": "robotics",
       "pubDate": "2026-08-29T12:25:31.000Z",
       "summary": "群机器人系统中，集中式与分布式电源架构影响协调效率和容错性。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "群体机器人中分散式和集中式电源之间的差异"
     },
     {
-      "title": "从机器人融资超9亿美元到第二代VLA模型重大升级，小鹏正在回答一个物理AI命题",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBTlBvS0gycWhBS2FmUE1Ub3JFTzBFUFQ4bUNTUTI3dDZmQlRlV18wRWotM3VLV1IxTlYwNExEem9hZFM2eGRDQUJtNWdWOFEx?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-29T02:30:42.000Z",
-      "summary": "小鹏机器人融资超9亿美元，第二代VLA模型升级，探索物理AI应用。",
-      "summaryZh": ""
-    },
-    {
-      "title": "连连AI以Agent作为枢纽，重构人与人之间的连接范式",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85RThpLTNoYTd2Z1NFZ3dYSzJmSzFXdmxDOTZMU0MzbHozajJBcEltY2c4WE5DV1ZGcl9XVi1XMjlZSmpLeHdPSEtjOA?oc=5",
-      "source": "36氪",
+      "title": "OpenAI往上造芯片，英伟达往下买平台，AI巨头为何“互相偷家”？",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ReVZYLTN0YVgxQ0lIVUFmUEhhQWJOWU1Nb3NxelZ1ek5iTWtGUUFlSnd1dFN2OTBpZHE4NFVQbmxHTVVkSVh0V3l0ellLRUozY1BhcVJwUFlkMkFDaG4xdQ?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-29T02:02:13.000Z",
+      "pubDate": "2026-08-29T16:25:27.000Z",
       "summary": ""
     },
     {
-      "title": "腾讯AI战略：不做算力工厂，聚焦应用层与用户体验",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xVHBNZzZUNHpnQnlSRFdVVlU5VGFnTkw3czd2QjdDeG9PaXY5bFd0X21Yb1Y1aWdBU3NLMGJPWENiWkc2U0dhd2I5REI4bmRzQVY3bA?oc=5",
-      "source": "虎嗅",
+      "title": "王成录：我认为今天的人形机器人，99.99%都是泡沫",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uUy1sbGlzZ0E5QnhZd1czQWpjOTRXejRCaWMwbHdVMXR3MThtcU9JcnRGX04yOGpMR1ljNUdIRW5PSGl6aWhlS3k4YjhZcjZm?oc=5",
+      "source": "凤凰财经",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-29T23:11:35.000Z",
-      "summary": "腾讯AI战略聚焦自研应用与用户体验，不追求算力出租，资本开支集中投入今明两年。",
-      "summaryZh": ""
-    },
-    {
-      "title": "大厂AI办公“赛马期”终结，豆包必须要帮字节养家",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zckZheDI4eGcxRF9oMmUwN0FHLXM1c2xpdWhiei0xbEItNThkT19zbzVSRTJiRFEwVXZVa09yZDBnSGt4N0ctMmVsOUdCOVoyc1hkQnlKWnQ?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-29T02:19:36.000Z",
-      "summary": "字节跳动整合多条AI办公产品线，集中资源发展“豆包工作”。",
-      "summaryZh": ""
-    },
-    {
-      "title": "安达集团副总裁张蓓：人工智能重塑保险业 企业竞争终将回归专业能力和客户价值",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vUlBPaVRSWHc0OVJYVXJRV01MNzVHNk9oR192a0RZX01XOEVyZEdzcldaT2YyNlBfVmwyeUVqT2t6OEFjcVZsTQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-29T09:16:39.000Z",
-      "summary": "张蓓认为人工智能将重塑保险业，企业竞争将回归专业与客户价值。",
-      "summaryZh": ""
-    },
-    {
-      "title": "首批创业板算力基础设施ETF正式获批",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TRnBpdEc5MUx0LW9HVTBrMlR3eVByWUNWVUN6TDBqcmprNVlZWURMRzMxTWE1Umo4ZGF6RDBneURtM19OdUhvSmowMjc3ZS1ESVhyZWZWY25BOTN5QmdmeWdRM0VJdw?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-29T01:08:00.000Z",
-      "summary": "首批创业板算力基础设施ETF获准发行。",
+      "category": "robotics",
+      "pubDate": "2026-08-30T02:54:18.000Z",
+      "summary": "王成录认为99.99%的人形机器人企业缺乏商业模式，注定走不远。",
       "summaryZh": ""
     },
     {
@@ -184,37 +189,36 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-29T13:00:30.000Z",
-      "summary": "机器人技术加速融入各行各业，推动高质量发展。",
+      "summary": "机器人技术广泛应用，推动产业高质量发展。",
       "summaryZh": ""
     },
     {
-      "title": "为什么技术路线不是具身智能创业最核心的命题",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWMjFFRldTTW5vcFZ4OUhGTm5mZm8tdWg3SHFfN1Yzb19kMlI3dmhEaWNzelNib3B0RTdwVy05N19jakRqT0t4YWRPWGdQU0xpMEZDd3RNcw?oc=5",
-      "source": "与非网",
+      "title": "[对话]人机挑战赛检验机器人成色",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LTDJ6UlloRy1VbDhzNjhzYmdaX1ZGNGxtd24yTlEtbk9SUk81S21zcU9mRUIyNEgta1d6ZXlGMkpUQjFKdWxhSjlSM29PeFBSY1Q4VmlDUWhSZ3d5N1ZtMkZiRkU4QWpreTVtUk0yRzlFVTNOMkE?oc=5",
+      "source": "央视网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-29T00:52:59.000Z",
-      "summary": "具身智能创业成败关键不在于技术路线，而在于商业化落地。",
+      "pubDate": "2026-08-29T14:20:00.000Z",
+      "summary": "人机挑战赛测试机器人性能水平。",
       "summaryZh": ""
     },
     {
-      "title": "多家互联网大厂，联手投了一家AI机器人公司",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TaXFwcG5nRFFNWnNqUjhORFk4eUo4WXJxVGZWbFJfMmpIQVgtampBRzVBeU1zMXdPQnBSSWJ6ZXVMN3g5dkNkOHMtTl9tQ3Z6?oc=5",
-      "source": "凤凰财经",
+      "title": "45亿！阿里+美团+腾讯+京东，押注AI机器人",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQTFGQlVYclF2ZkdDRndKNjlXWFJsd1B2d0RwSVZ5Rl9GRzRDSWI5bi1QTEw5aXBobjZJN0Y4RXhWTzNMRDVLLUpQWTNvajhGaGNKNkZLb3VyY3lKRFVYcXVXbUZQTzlQanJnam1PZFpYMkJjSzRwV253MXB3VHpNZnh4OW0tUVFwSUdsRg?oc=5",
+      "source": "21财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-29T12:15:32.000Z",
-      "summary": "互联网巨头投资AI机器人公司Sharpa，融资超45亿元。",
-      "summaryZh": ""
+      "pubDate": "2026-08-30T02:30:00.000Z",
+      "summary": ""
     },
     {
-      "title": "通信塔变身“生态哨兵”广西铁塔“无人机+AI”守护北部湾",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU2dnYzU4anFzaHF6OE1aV3JMRTVkc3pIYTRoRUVnVGx2dGxyYUtqMm1LbE9RVmNFX205ZUU4ZFJRNTc2a1F3S0NFUHR6SUpURE9MV0Uycm80elNOMG9ISGFib1JnTWlaRkdJR2Ftb29yV1RSV0xoRnBwZVJ1QkpjaWF3?oc=5",
-      "source": "新华网科技",
+      "title": "数智中医嵌入文旅场景 安徽加速中医药康养融合新实践",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43RnVhU2FWdWZ6WjZLX1FPMWZGamNCZWprc2JnWWIyQUhBQ2d0Tmx2dVo5bURTNFdoZUtXM0R3SUtEcHJwT3gtbVBoWjlyc0ZtQi1vVjd2eEF6bk15bEk3RTJVQS1KV0JFa1VLOERQSkM?oc=5",
+      "source": "央广网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-29T11:38:38.000Z",
-      "summary": "广西铁塔利用“无人机+AI”技术，将通信塔改造成“生态哨兵”，守护北部湾海洋生态。",
+      "category": "application",
+      "pubDate": "2026-08-29T17:24:52.000Z",
+      "summary": "安徽推进数智中医与文旅融合，加速康养产业发展。",
       "summaryZh": ""
     }
   ]
