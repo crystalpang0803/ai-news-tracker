@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "generatedAt": "2026-08-30T19:18:12.398Z",
+  "generatedAt": "2026-08-30T20:59:06.122Z",
   "items": [
     {
       "title": "人形机器人还撑不起极智嘉",
@@ -9,17 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-30T10:48:49.000Z",
-      "summary": "极智嘉上半年收入增长，但亏损扩大，股价持续下跌。",
-      "summaryZh": ""
-    },
-    {
-      "title": "消息称字节跳动豆包大模型 2.2 将推迟发布，原计划 8 月推出",
-      "link": "https://www.ithome.com/0/996/239.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-30T13:42:41.000Z",
-      "summary": "字节跳动豆包大模型2.2版发布计划推迟至8月之后。",
+      "summary": "极智嘉上半年收入增长，但亏损扩大，股价下跌。",
       "summaryZh": ""
     },
     {
@@ -29,7 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-30T11:26:34.000Z",
-      "summary": "Meta测试数据中心机器人，可执行运维任务。",
+      "summary": "Meta测试数据中心机器人，可执行运维工作。",
       "summaryZh": ""
     },
     {
@@ -43,34 +33,202 @@
       "summaryZh": ""
     },
     {
-      "title": "对话高通副总裁：跃龙IQ10已交付多家客户，机器人产品正在中国量产",
-      "link": "https://zhidx.com/p/588924.html",
-      "source": "智东西",
+      "title": "L3立法迎突破，Robotaxi国内外双线落地，具身智能进入资本验证期",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HNU9VbkxaMXlQU0p6ZmNZZlFjbHc1VzlRNEpfeHB1N0NVTnVkTk5mUDF6X1U4TmtWTEdTN000R2RPQXBVWk11dDBYU0t4OWJaM0tDb202TQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-30T10:45:37.000Z",
-      "summary": "高通跃龙IQ10平台已交付多家客户，中国机器人产品量产中。",
+      "pubDate": "2026-08-30T00:50:52.000Z",
+      "summary": "L3自动驾驶立法突破，Robotaxi国内外落地，具身智能资本验证期到来。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI 芯片实测跑分揭晓，为模型造芯片时代来了",
-      "link": "http://www.geekpark.net/news/369555",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-30T10:53:09.000Z",
-      "summary": "OpenAI芯片实测跑分超英伟达，开启为模型造芯片新纪元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "优必选，追上了宇树？",
-      "link": "https://www.tmtpost.com/8121802.html",
+      "title": "从“送外卖”到“城市基础设施”，顺丰同城的AI野心",
+      "link": "https://www.tmtpost.com/8122051.html",
       "source": "钛媒体",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-30T01:41:26.000Z",
-      "summary": "优必选上半年营收与宇树持平，但利润差距较大。",
+      "category": "application",
+      "pubDate": "2026-08-30T10:01:02.000Z",
+      "summary": "顺丰同城利用AI技术重构城市短途物流，实现业绩增长。",
       "summaryZh": ""
+    },
+    {
+      "title": "瑞金医院联合华为云发布瑞智病理大模型RuiPath 2.0",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fcGM5TjZhSjQ4bm13OUpTQ0dBNlBGVmZuaFB5cnlDdUc5TjlGS01GX2tNM1VjZEVZTmZ0d2UxUXF3MmxGYnpoaVdZTURnS19uMENjRWJXU1o?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-30T08:54:23.000Z",
+      "summary": "瑞金医院与华为云发布瑞智病理大模型RuiPath 2.0，实现病理诊断精确可解释性。",
+      "summaryZh": ""
+    },
+    {
+      "title": "银行创新“算力贷”，破解科创企业预付费难题",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iX3FiejY1TXRPVzVYSWFGcWc3d1hHS1dNWXY0Zi1GT1NmY0hUbVRWbUxmclQwOF9ySEx4cE5RWEpQM0szaXc2YkVSa055MWpUM1g3emdxdWU?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-30T05:59:55.000Z",
+      "summary": "银行推出“算力贷”产品，助力科创企业解决预付费难题。",
+      "summaryZh": ""
+    },
+    {
+      "title": "抢跑算力时代：印度AI公司订购9000颗英伟达Rubin GPU，为亚洲首批买家之一",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMSkxJWm5Hd1FYVkl2ZkxUMGdiZ0oycU1fNjdrblVlWm1RNVZYa3hBS05sMzhfeHNMVE1taEhhX0tnYWJvX1dSZA?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-30T09:51:00.000Z",
+      "summary": "印度AI公司AMI订购9000颗英伟达Rubin GPU，打造亚洲首批Vera Rubin架构AI算力集群。",
+      "summaryZh": ""
+    },
+    {
+      "title": "声网2026Q2营收增18%连盈7季 AI机器人方案落地获进展",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yVDhvbzZ2Ul9FaldlOHhyQUl0dkNFTjVtUU9kdTZKSjJORmZLbHBILWVEdmFyVlJGeDkyZ2t4MTBPT0QxcThvMlYwWktwQnR6dzhkbXhoUFAwQQ?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-30T18:55:00.000Z",
+      "summary": "声网2026Q2营收增长18%，连续七季盈利，AI机器人方案落地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "具身智能走出实验室，传统制造业成为落地硬支撑",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95a3Z3SmlVVE5yMEtFaTgwWnZOT3ZUN0dCN0lmbGg0TnEyVG96eTZmWFRMY19NZ3Z2MDBTRFVYMGhFbjJ5MVhzUC0zTFlNSTJhbUYzT0ZMWENFeGcxZDMzRXR2Skc?oc=5",
+      "source": "光明网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-30T13:25:00.000Z",
+      "summary": "具身智能技术突破，传统制造业成具身智能落地关键支撑。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI出海、仿生芯片、人形机器人：海归创业者逐梦新赛道",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sUVNxdHhGWFFwQ1RzdWxEdUVlRllFMXJqa1R2UFd1YWhpTTI0Mi0wRURBUGVnUExSdEVwOGFadFljWk95RlVQMlphTnVwTjF2NW9PZGZhV1NpRWlmM3R6eHVyWmFZQWVl?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-30T07:52:51.000Z",
+      "summary": "海归创业者聚焦AI出海、仿生芯片和人形机器人等领域，在HICOOL全球创业者峰会中展示创新成果。",
+      "summaryZh": ""
+    },
+    {
+      "title": "豆包三档付费定价曝光！国产大模型开启C端变现之路，AI商业化能走通吗？",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zQURzYndzWFBnZC1HQTFvaDNUZ0htSlYzU3lGbkh3cFdyZjdHYVJuY19CSldkOWNEODFvTnd5QUZIT1RoUWdfa2gwaDdnWDcwaUVYaFVlOVlSNnR4cVVpTnB3?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-29T22:24:21.000Z",
+      "summary": "豆包推出三档付费服务，探索AI大模型商业化路径。",
+      "summaryZh": ""
+    },
+    {
+      "title": "腾讯、阿里等押注“揣摩人心”的智能体，Agent Memory从技术概念成长为行业赛道",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBka0ZMaXZaYjdfQmdLWHRId1c5YWpzeWgxYkh3YXB1MEFjN2ZmdXNzMWNoSWhrLXYxR095OTQ0TnJ3Y1gxUlhYTklNTDgwbEg3elVyckI0YTlfTnEwUV9EdS1oemI?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-30T11:08:00.000Z",
+      "summary": "腾讯、阿里等企业投资智能体记忆技术，推动行业赛道发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Claude Code额度明升暗降，OpenAI精准狙击",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wVDZONHNoeHpnVU9NYnJVWVZObGNIVm5KQWRJcDhJYUNPXzF0U3pkWC1pazJNTDhINk1HRWh4d0pTUFJXZmd1dW1iZ2NzaDdFNjhzWjdn?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-30T02:08:00.000Z",
+      "summary": "Anthropic Claude Code额度调整实际减少，用户质疑其商业策略。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2366亿的宇树科技，和超3000亿等待上市的具身智能资产",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5md0VvekJtZXFWdERiQVFURmlfQ0E1QkNqSWU4X25Ld2dPNmphcGVKR3dVN3FOeEtfb2lTT1d3WGV2SEtWTG55eA?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-30T05:01:00.000Z",
+      "summary": "宇树科技总市值2366亿，引领超3000亿具身智能资产等待上市。",
+      "summaryZh": ""
+    },
+    {
+      "title": "边缘 AI 进入机器人时刻，NVIDIA 把物理 AI 门槛继续降下来",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oVTZLTzRqMF8zUDVzczV0WjlyVF9KNDhRMGJZWVRWSXZOSllpRDNBRUh0RURFdkt0NDR6a09sZkZBSDZyMnM1aEZPR1A?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-30T18:19:27.000Z",
+      "summary": "NVIDIA发布Jetson Orin Nano 2，推动物理AI在边缘设备中的应用。",
+      "summaryZh": ""
+    },
+    {
+      "title": "马斯克：2027年生产的AI算力，或许无法在2027年真正通电上线",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiRm1HTEI5aFVLa1p4OHhEYnR3VXhyaFZHeG5PVktWZldiMkFHTWtUbTNDMThfbHVDZ0tiTHdkTHJKRHpnUkxTRFZDWmxqaFphSVE?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-30T01:18:42.000Z",
+      "summary": ""
+    },
+    {
+      "title": "从AI干眼智能体到人工角膜移植，爱尔眼科用技术重新定义眼病精准诊疗",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkMVdrYkNnQ2x2THNJblR3WmZDVGhBaDdOYmFQSHI1ODN5MW9KcXAxb01mTmQ0OFFKYlFZS2NnaV95YmZPUkxfZ0JYRXpWR2VheUREVDlic3R2Z2lDUXFubA?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-30T01:35:00.000Z",
+      "summary": "爱尔眼科在第三届国际角膜及眼表疾病大会上发布多项AI诊疗智能体成果与新技术，推动眼病精准诊疗。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI智能体“黄小西”亮相数博会DATA之夜，服务覆盖贵州70余个重点旅游景区",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10THpidDZ1eE8xcVFhUVE1cTZQb0hUaFRQTUtqNkxJdlp5dE1USm5CenZIeDNmSkktanF3blB6UDBUODg0cTNJVnlfUDRIWmprdEpnU1V0Vkl1c3ZkZHc?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-30T03:50:00.000Z",
+      "summary": "AI智能体“黄小西”亮相数博会，覆盖贵州70余景区提供旅游服务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "小鹏第二代VLA大模型首迎升级",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50UkYxU0NVOXN1VjB5Q3Z0ZXNialpuQXpCZXk3TGI5Si1idlhHQXF2Y3dPSkhWNkJIR19xTWJpakYzX0piSHFMQ1pmaGxPQk1NZTRMdG5nRUw1b0pHQVFUMGc2bw?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-29T22:44:21.000Z",
+      "summary": "小鹏G9L首发搭载升级版VLA大模型，提升安全能力20倍。",
+      "summaryZh": ""
+    },
+    {
+      "title": "趋动科技助力全国一体化算力网打造词元时代最大算力基础设施",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUmMzeE9QY3gzUnBNekRxbHRYYWgxRndoMXdrSG0xb3h0NS1iczNMWVdiZzd1bHd6Q29Nck1SZkNiYnpMazUwSmc5UFdURm5FNWl0M1FSVWhUc21XeElOM2hXeEJ0cFJGQWRjU3RxSHNxclJ2LXhlamFfd3FSUkJXUzdjOVo?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-30T02:41:21.000Z",
+      "summary": "趋动科技助力全国一体化算力网建设，打造词元时代最大算力基础设施。",
+      "summaryZh": ""
+    },
+    {
+      "title": "“重庆造”具身智能模型在全球评测中获第一名",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GODJSTzQ2cUFDMFNaZ3lJMkVVc1lkVHhuTlU3T3pOZWJ0X3RidC1UYXRCS1UwM2p3ZkFEVXRmakpmaGxqV1NQUlRsaGxXYnV6cnNLaFprYUVJTWx2a2hERDVKbl9EWlJRdlVkLUlNSkxGazVQRGc?oc=5",
+      "source": "新华社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-30T01:04:36.000Z",
+      "summary": "重庆原力灵机研发的具身智能模型DM0.5在全球评测中排名第一。",
+      "summaryZh": ""
+    },
+    {
+      "title": "文旅消费新体验 圆明园里开了间中医数智小屋",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBNlVUbF9fVXVGM3hsQms0TzR1dld2ekplOU14MEU1VDBwRThuTS15SW9TaDV0ck1WcDNIM2lfZHhnUjVQcDNvb2tLRDFLbDktSE4yalNZR1BpSjUwdVVZZm9Rd3pQbG9qakZUaXRPY1RCMHB2NFdQal90cw?oc=5",
+      "source": "新华社",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-08-30T11:11:58.000Z",
+      "summary": ""
     }
   ]
 }
