@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "generatedAt": "2026-08-30T20:59:06.122Z",
+  "generatedAt": "2026-08-30T22:04:42.225Z",
   "items": [
     {
       "title": "人形机器人还撑不起极智嘉",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-30T10:48:49.000Z",
-      "summary": "极智嘉上半年收入增长，但亏损扩大，股价下跌。",
+      "summary": "极智嘉收入增长，但亏损扩大，股价下跌。",
       "summaryZh": ""
     },
     {
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-30T11:26:34.000Z",
-      "summary": "Meta测试数据中心机器人，可执行运维工作。",
+      "summary": "Meta测试数据中心机器人，可执行运维任务。",
       "summaryZh": ""
     },
     {
@@ -53,6 +53,16 @@
       "summaryZh": ""
     },
     {
+      "title": "扫地机太卷，割草机成了乐动机器人的解药？",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yQmVhWWZoUGNPM0NRN0RpNTlIY0tieEx5czZKUzJkNG9HNXlubEwzTjBMX2FoS0ljdTd0aDh1dkIxOHhvZ2J1X3FVWTdMekJETjRRYjJrdFY?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-30T07:40:42.000Z",
+      "summary": "乐动机器人半年报显示，智能割草机器人收入大幅增长，成为公司增长新动力。",
+      "summaryZh": ""
+    },
+    {
       "title": "瑞金医院联合华为云发布瑞智病理大模型RuiPath 2.0",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fcGM5TjZhSjQ4bm13OUpTQ0dBNlBGVmZuaFB5cnlDdUc5TjlGS01GX2tNM1VjZEVZTmZ0d2UxUXF3MmxGYnpoaVdZTURnS19uMENjRWJXU1o?oc=5",
       "source": "界面新闻",
@@ -63,33 +73,13 @@
       "summaryZh": ""
     },
     {
-      "title": "银行创新“算力贷”，破解科创企业预付费难题",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iX3FiejY1TXRPVzVYSWFGcWc3d1hHS1dNWXY0Zi1GT1NmY0hUbVRWbUxmclQwOF9ySEx4cE5RWEpQM0szaXc2YkVSa055MWpUM1g3emdxdWU?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-30T05:59:55.000Z",
-      "summary": "银行推出“算力贷”产品，助力科创企业解决预付费难题。",
-      "summaryZh": ""
-    },
-    {
-      "title": "抢跑算力时代：印度AI公司订购9000颗英伟达Rubin GPU，为亚洲首批买家之一",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMSkxJWm5Hd1FYVkl2ZkxUMGdiZ0oycU1fNjdrblVlWm1RNVZYa3hBS05sMzhfeHNMVE1taEhhX0tnYWJvX1dSZA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-30T09:51:00.000Z",
-      "summary": "印度AI公司AMI订购9000颗英伟达Rubin GPU，打造亚洲首批Vera Rubin架构AI算力集群。",
-      "summaryZh": ""
-    },
-    {
-      "title": "声网2026Q2营收增18%连盈7季 AI机器人方案落地获进展",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yVDhvbzZ2Ul9FaldlOHhyQUl0dkNFTjVtUU9kdTZKSjJORmZLbHBILWVEdmFyVlJGeDkyZ2t4MTBPT0QxcThvMlYwWktwQnR6dzhkbXhoUFAwQQ?oc=5",
-      "source": "经济观察网",
+      "title": "中国机器人狂欢时，Figure AI“岁月静好”地交付了350台",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83ellkUE1jeURTQU81X0F0bXY3bHdvNXJEOXdrakVuazlHcWVFb3R6bVJyRk1jVjhVZ3B3YTZKWEJRREFERGN1Ujg4SkJyeGhfZ0JZRVpucw?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-30T18:55:00.000Z",
-      "summary": "声网2026Q2营收增长18%，连续七季盈利，AI机器人方案落地。",
+      "pubDate": "2026-08-30T01:50:21.000Z",
+      "summary": "Figure AI在机器人狂欢中低调交付350台Figure 03。",
       "summaryZh": ""
     },
     {
@@ -109,7 +99,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-30T07:52:51.000Z",
-      "summary": "海归创业者聚焦AI出海、仿生芯片和人形机器人等领域，在HICOOL全球创业者峰会中展示创新成果。",
+      "summary": "海归创业者聚焦AI出海、仿生芯片和人形机器人，在HICOOL全球创业者峰会展示创新成果。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI宣布终止向马斯克旗下Cursor平台提供模型服务，矛盾再度升级",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kVFhmcGcxTUhhX3dOOG1Bb2dPU1lnLWszeTFqWVdHVGZCSE1PNzFiT3JHWU1zbGhGRkpteHU2UVR2bm8wWE13bzI4TzY3VGoySU9J?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-30T00:19:01.000Z",
+      "summary": "OpenAI终止向马斯克旗下Cursor平台提供模型服务。",
       "summaryZh": ""
     },
     {
@@ -119,7 +119,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-29T22:24:21.000Z",
-      "summary": "豆包推出三档付费服务，探索AI大模型商业化路径。",
+      "summary": "豆包大模型推出三档付费服务，探索AI商业化路径。",
       "summaryZh": ""
     },
     {
@@ -129,17 +129,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-30T11:08:00.000Z",
-      "summary": "腾讯、阿里等企业投资智能体记忆技术，推动行业赛道发展。",
+      "summary": "腾讯、阿里等企业推动智能体记忆技术发展，Agent Memory成为行业赛道。",
       "summaryZh": ""
     },
     {
       "title": "Claude Code额度明升暗降，OpenAI精准狙击",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wVDZONHNoeHpnVU9NYnJVWVZObGNIVm5KQWRJcDhJYUNPXzF0U3pkWC1pazJNTDhINk1HRWh4d0pTUFJXZmd1dW1iZ2NzaDdFNjhzWjdn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qaWJUT1VjUDh3cXNYbUNLSm1RUE5iVV8wYXdibl9fWjBsd3ZhZ1hISTI0RmdmdGRxZWNKRjU5ckhlRDVwaTN6VW1tUUJ0V1JQTzJwb3ZhVXFHMlhiYURRS25n?oc=5",
       "source": "腾讯新闻",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-30T02:08:00.000Z",
-      "summary": "Anthropic Claude Code额度调整实际减少，用户质疑其商业策略。",
+      "summary": "Anthropic Claude Code额度调整被指暗降，用户质疑其商业策略。",
       "summaryZh": ""
     },
     {
@@ -149,7 +149,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-30T05:01:00.000Z",
-      "summary": "宇树科技总市值2366亿，引领超3000亿具身智能资产等待上市。",
+      "summary": "宇树科技总市值2366亿，带动超3000亿具身智能资产等待上市。",
       "summaryZh": ""
     },
     {
@@ -159,7 +159,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-30T18:19:27.000Z",
-      "summary": "NVIDIA发布Jetson Orin Nano 2，推动物理AI在边缘设备中的应用。",
+      "summary": "NVIDIA发布Jetson Orin Nano 2，推动边缘AI在机器人领域的应用。",
       "summaryZh": ""
     },
     {
@@ -172,63 +172,54 @@
       "summary": ""
     },
     {
-      "title": "从AI干眼智能体到人工角膜移植，爱尔眼科用技术重新定义眼病精准诊疗",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkMVdrYkNnQ2x2THNJblR3WmZDVGhBaDdOYmFQSHI1ODN5MW9KcXAxb01mTmQ0OFFKYlFZS2NnaV95YmZPUkxfZ0JYRXpWR2VheUREVDlic3R2Z2lDUXFubA?oc=5",
-      "source": "澎湃新闻科技",
+      "title": "算力价格高企困扰“词元经济” 产能何时跟上？",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yeGNIZ0ZLRkNJUGhBUW5CbVNhTVlJaEs0RVdnVzhIcHZyYXJRYkk4dkZ1d0g5RldiTmI3UU5CYndVX2RheHBEcGNabWJBSEY5SFhLUGtwR1lEMXhIc2Nnb1BiTzBCRktrYXBvQ1ZjZXY?oc=5",
+      "source": "央广网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-30T01:35:00.000Z",
-      "summary": "爱尔眼科在第三届国际角膜及眼表疾病大会上发布多项AI诊疗智能体成果与新技术，推动眼病精准诊疗。",
+      "pubDate": "2026-08-30T02:25:06.000Z",
+      "summary": "算力成本高昂影响词元经济，产能提升待解决。",
       "summaryZh": ""
     },
     {
-      "title": "AI智能体“黄小西”亮相数博会DATA之夜，服务覆盖贵州70余个重点旅游景区",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10THpidDZ1eE8xcVFhUVE1cTZQb0hUaFRQTUtqNkxJdlp5dE1USm5CenZIeDNmSkktanF3blB6UDBUODg0cTNJVnlfUDRIWmprdEpnU1V0Vkl1c3ZkZHc?oc=5",
-      "source": "澎湃新闻科技",
+      "title": "黑龙江向企业发放首批算力券",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YcDdwVDRnNFh3dEd6RFIwYnIxZVY2Z2ttdkFFSEUtdVN6QlhjRGE0OEpUdEo0Y2dyeXBaQXBWYmRtRlNrSm5qZnZ5MVJlX3Z2enRuemZmdUNSR3BEZ2NEek11R0FUWi1UaGg0aTFoUks?oc=5",
+      "source": "央广网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-30T03:50:00.000Z",
-      "summary": "AI智能体“黄小西”亮相数博会，覆盖贵州70余景区提供旅游服务。",
+      "pubDate": "2026-08-30T01:07:50.000Z",
+      "summary": "黑龙江向企业提供首批算力券以支持AI产业发展。",
       "summaryZh": ""
     },
     {
-      "title": "小鹏第二代VLA大模型首迎升级",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50UkYxU0NVOXN1VjB5Q3Z0ZXNialpuQXpCZXk3TGI5Si1idlhHQXF2Y3dPSkhWNkJIR19xTWJpakYzX0piSHFMQ1pmaGxPQk1NZTRMdG5nRUw1b0pHQVFUMGc2bw?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-29T22:44:21.000Z",
-      "summary": "小鹏G9L首发搭载升级版VLA大模型，提升安全能力20倍。",
-      "summaryZh": ""
-    },
-    {
-      "title": "趋动科技助力全国一体化算力网打造词元时代最大算力基础设施",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUmMzeE9QY3gzUnBNekRxbHRYYWgxRndoMXdrSG0xb3h0NS1iczNMWVdiZzd1bHd6Q29Nck1SZkNiYnpMazUwSmc5UFdURm5FNWl0M1FSVWhUc21XeElOM2hXeEJ0cFJGQWRjU3RxSHNxclJ2LXhlamFfd3FSUkJXUzdjOVo?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-30T02:41:21.000Z",
-      "summary": "趋动科技助力全国一体化算力网建设，打造词元时代最大算力基础设施。",
-      "summaryZh": ""
-    },
-    {
-      "title": "“重庆造”具身智能模型在全球评测中获第一名",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GODJSTzQ2cUFDMFNaZ3lJMkVVc1lkVHhuTlU3T3pOZWJ0X3RidC1UYXRCS1UwM2p3ZkFEVXRmakpmaGxqV1NQUlRsaGxXYnV6cnNLaFprYUVJTWx2a2hERDVKbl9EWlJRdlVkLUlNSkxGazVQRGc?oc=5",
-      "source": "新华社",
+      "title": "机器人产业数据质量与标准创新联合倡议在2026数博会对外发布",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNckVxWnR5TEo4ZFZZdDloMnBSbk1zeHEwX2E3MUN4N1B6bHQyaVQ5NHlZVWhsM25vbURXVE9QNHdCOUtadUFDRU56SU1HaUpQNF9neTdjRzV2bVl5eVd4LU9lWW12ekJ4d2dHY21uV1c5VlBLMXlZZ29rX1k?oc=5",
+      "source": "中国新闻网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-30T01:04:36.000Z",
-      "summary": "重庆原力灵机研发的具身智能模型DM0.5在全球评测中排名第一。",
+      "pubDate": "2026-08-30T05:01:14.000Z",
+      "summary": "2026数博会发布机器人产业数据质量与标准创新联合倡议。",
       "summaryZh": ""
     },
     {
-      "title": "文旅消费新体验 圆明园里开了间中医数智小屋",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBNlVUbF9fVXVGM3hsQms0TzR1dld2ekplOU14MEU1VDBwRThuTS15SW9TaDV0ck1WcDNIM2lfZHhnUjVQcDNvb2tLRDFLbDktSE4yalNZR1BpSjUwdVVZZm9Rd3pQbG9qakZUaXRPY1RCMHB2NFdQal90cw?oc=5",
-      "source": "新华社",
+      "title": "“未来教练”冰雪运动冠军模型智能体在杭州发布",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZbEQ1a2Fqd25kdVZ1WUpGMWhuUHU3djlBcmh6RHBkaEZJMGg5M0tISEdRbTVuT1pVRXo0cWllWXRDVWNoWDVtTEU0Tl9tZ2ZsUjFZdEw1cGNvUkdtdlNoelpsVmRCdU5iRmhZR3VQVWU?oc=5",
+      "source": "科技日报",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-30T11:11:58.000Z",
-      "summary": ""
+      "category": "ai",
+      "pubDate": "2026-08-30T08:11:43.000Z",
+      "summary": "杭州发布“未来教练”冰雪运动冠军模型智能体，提供智能化训练支持。",
+      "summaryZh": ""
+    },
+    {
+      "title": "全球首个太空算力云实现常态化在轨试验服务",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50ZWI3aEhUOEhuTnVrQTFmSU1ISUlHSUpTbDRrd3Zyd0xxd1ZKb3JZWERJcHhhSmJMaV9qOUllOFV6bkg4ZGZfS2lVMXFCLU5tQm8zaXAzSjFtRDRTeWdoRTlkeFV0Y042a2hnRUp3b1g?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-30T13:00:39.000Z",
+      "summary": "全球首个太空算力云实现常态化在轨试验服务，提供全生命周期算力支持。",
+      "summaryZh": ""
     }
   ]
 }
