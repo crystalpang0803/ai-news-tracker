@@ -1,15 +1,15 @@
 {
   "date": "2026-08-30",
-  "generatedAt": "2026-08-30T05:28:44.581Z",
+  "generatedAt": "2026-08-30T09:28:01.288Z",
   "items": [
     {
-      "title": "中塞联合建设机器人工厂投产，成为欧洲首座人形机器人量产基地",
-      "link": "https://www.ithome.com/0/996/102.htm",
+      "title": "预估为 GPT-6 AI 模型：OpenAI Astra 首批演示样本流出，1 次交互生成类 GTA 2 游戏",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91bHVOT0VIV24xYU50N21xaVpVUmhGUHVpNU01cUw2ejRwc192YzkxeEJTeU5aMDNoUjZXN1VjZ2xEVHBZRGxrYVk3RHM?oc=5",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-30T03:28:49.000Z",
-      "summary": "中塞联合建设的机器人工厂在塞尔维亚投产，成为欧洲首座人形机器人量产基地。",
+      "category": "ai",
+      "pubDate": "2026-08-30T05:25:15.000Z",
+      "summary": "OpenAI Astra模型演示样本流出，一次交互生成类似GTA2游戏。",
       "summaryZh": ""
     },
     {
@@ -23,23 +23,23 @@
       "summaryZh": ""
     },
     {
-      "title": "启境轩伟谈 L3 级自动驾驶架构：车主导、人放松，正常行驶不需要时刻紧绷接管",
-      "link": "https://www.ithome.com/0/996/108.htm",
+      "title": "华为云联合瑞金医院发布瑞智病理大模型 RuiPath 2.0：7B 参数，覆盖 19 个常见癌种",
+      "link": "https://www.ithome.com/0/996/195.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-30T04:07:50.000Z",
-      "summary": "启境轩伟介绍L3级自动驾驶架构，强调车主导、人放松，确保安全行驶。",
+      "category": "ai",
+      "pubDate": "2026-08-30T09:12:57.000Z",
+      "summary": "华为云与瑞金医院发布瑞智病理大模型RuiPath 2.0，覆盖19个常见癌种，实现病理诊断可解释性。",
       "summaryZh": ""
     },
     {
-      "title": "不只OpenAI！Anthropic也想造芯片 曾拟70亿美元收购一初创公司",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90VlRua0M1NVZSbVVKbl9LRGt6dm1UZmpGRmNsZ1A5eWVkUUwxS2g2Q1E2My0tYTMwcWdVdVpaWUdoTnRKcFEzeA?oc=5",
-      "source": "财联社",
+      "title": "硅谷知名风投a16z成立11亿美元基金，布局芯片、内存与机器人",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02aHhvdFp2VjU3eTg5SEtXaXJyLUpFMG1RZ1dkaGl1NWFEUjh1NDFjRHpENzZPNUZsQUFoQ2R3V1dWOUF1WldIY2hsUHJCeU45TVhVMG43RnJpUQ?oc=5",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-29T12:08:05.000Z",
-      "summary": "Anthropic曾拟以70亿美元收购AI芯片初创公司MatX，后转为合作洽谈，并扩大内部芯片团队研发定制芯片。",
+      "category": "robotics",
+      "pubDate": "2026-08-30T02:34:00.000Z",
+      "summary": "a16z成立11亿美元基金，聚焦芯片、内存与机器人领域。",
       "summaryZh": ""
     },
     {
@@ -53,13 +53,23 @@
       "summaryZh": ""
     },
     {
-      "title": "横测中美六款顶尖大模型，为孙宇晨小作文测谎差距明显",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qVXprdk93NFV6X2RDMTk3c0N6YWZ5eTBrQkozeE5wQ3htTXptMU1JMUtHbGppOTBrTF9OMExrTGQwbVRCeE1JM3owYkhmUUUzYWJQYg?oc=5",
-      "source": "钛媒体",
+      "title": "宇树科技登陆科创板：从“AI概念”到“规模量产”，人形机器人进入价值验证时代",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZQmJRM1FRc3B3d3NMM3o4NUJpZ19kLVk1VWxEVzV2cWJSQ2sxUGlycUNESkZrNXd1b3RseFViQ2hnUzlERlR4VjZHOERaR1FFbkN0bmI5SnVuazJBVDVuaQ?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-30T01:27:08.000Z",
+      "summary": "宇树科技登陆科创板，人形机器人产业迈入价值验证阶段。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+      "link": "https://www.qbitai.com/2026/08/481223.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-29T07:45:00.000Z",
-      "summary": "横测中美六款顶尖大模型测谎，孙宇晨小作文差距明显。",
+      "pubDate": "2026-08-29T12:50:31.000Z",
+      "summary": "AI Claude自主训练新版本，成本仅为人类研究员的四分之一。",
       "summaryZh": ""
     },
     {
@@ -79,7 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-29T12:01:28.000Z",
-      "summary": "华为云CEO周跃峰强调加速硅基算力建设，打造开放云平台。",
+      "summary": "华为云CEO周跃峰提出加快建设硅基算力黑土地，打造最开放云平台。",
       "summaryZh": ""
     },
     {
@@ -89,7 +99,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-30T04:06:34.000Z",
-      "summary": "下周将有国产AI芯片龙头燧原科技等三只新股申购。",
+      "summary": "下周将迎来国产AI芯片龙头公司新股申购。",
       "summaryZh": ""
     },
     {
@@ -113,33 +123,13 @@
       "summaryZh": ""
     },
     {
-      "title": "瑞智病理大模型RuiPath 2.0发布 落地90+医院",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mR1dncURGc3lwSlh0elNxZWs4cUpSLUIxTk1vN0N0cS1TN2N0TXBNZGNpZ0RQZU9MSG5XSWNRUGdxbENpZkVBU01aNUs1Q1lR?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-30T02:50:23.000Z",
-      "summary": "瑞智病理大模型RuiPath 2.0发布，已落地全国90多家医院。",
-      "summaryZh": ""
-    },
-    {
       "title": "具身进化论|加速进化程昊：当80台机器人拼出“BEIJING”，具身智能的ChatGPT时刻还要多久",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1URjMzZnVmLThSTFBuTXhzQXNLRG1pWWV1MXVHc2J3cnZDeGNsQkVua1lLTmt5djdVTHY0OW9ZczlPRWs1T3VQY0RHZXlmcXdLaG1SWHQ4QkNCdXlCdFFsTHE2aHo?oc=5",
       "source": "新京报",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-29T14:13:00.000Z",
-      "summary": "80台机器人拼出“BEIJING”，具身智能ChatGPT时刻预计5-10年到来。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40V05OTDRGVUVZTWZ3eFQ3cXBRY1dTNzczSXc1dEtsSXdOajNnZXhjYVBrSHMwVlRNWVhhLUZXXzlnX2stQ19hTXpRTnA1TWNYdTh2cw?oc=5",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-29T12:50:31.000Z",
-      "summary": "Claude AI在训练中超越人类研究员，以4美元时薪解决AI安全问题，部分方案优于人类。",
+      "summary": "80台机器人自主完成“BEIJING”方阵变换，具身智能ChatGPT时刻预计5-10年到来。",
       "summaryZh": ""
     },
     {
@@ -170,26 +160,26 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-29T16:25:27.000Z",
-      "summary": ""
-    },
-    {
-      "title": "王成录：我认为今天的人形机器人，99.99%都是泡沫",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uUy1sbGlzZ0E5QnhZd1czQWpjOTRXejRCaWMwbHdVMXR3MThtcU9JcnRGX04yOGpMR1ljNUdIRW5PSGl6aWhlS3k4YjhZcjZm?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-30T02:54:18.000Z",
-      "summary": "王成录认为99.99%的人形机器人企业缺乏商业模式，注定走不远。",
+      "summary": "AI巨头通过收购上下游企业，争夺产业链更多环节。",
       "summaryZh": ""
     },
     {
-      "title": "镜观中国丨机器人加速“跑”进千行百业",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZnZjVFE2a21Fakh6eEwzZThPd0RuTU1rYzNTVk1DMEsxazFqVTRJLU1Pei1vV0xDTW9FQXpaZ1lJMDltSGJyUHpuOWo4bl8zdVQ5d2EtUUpfYVYzcVZvZHNlZzVXNUJEa0VjcE5aWkdoOFRTZGJzSzFkc3dvQkk?oc=5",
-      "source": "新华网科技",
+      "title": "智谱认领“牛来”大模型！国产算力第一次在全球舞台硬碰硬！",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iWDRMc0tndUR5WEhadk5rd1JzQmhxRkwtc0ZOVElEYWhfVEVwUXpnRTAyd2JLaW5QYjROdWtPN1ViaWZ2REg2WHdKVHlDaGx5Y3E5dy1R?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-29T14:30:57.000Z",
+      "summary": ""
+    },
+    {
+      "title": "[天下财经]塞尔维亚：中塞联合建设的机器人工厂投产",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96TTNDcmdYR3hrY3RLZjB0OFpxY09DWU5fSmF5YVhuV3ZOX1pxRm5DazZ5ZXNPdXVyUnZYa0ZRUGlkQjVjNWxtc3VlWFo4UVBVRXRVV3hCbEdQRm1CZUM5T1dvZE5fRVpwU2ozV0U2bVVqZTNiMEE?oc=5",
+      "source": "央视网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-29T13:00:30.000Z",
-      "summary": "机器人技术广泛应用，推动产业高质量发展。",
+      "pubDate": "2026-08-30T05:34:00.000Z",
+      "summary": "中塞联合建设的机器人工厂在塞尔维亚投产。",
       "summaryZh": ""
     },
     {
@@ -209,7 +199,28 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-30T02:30:00.000Z",
-      "summary": ""
+      "summary": "阿里、美团、腾讯、京东等投资45亿押注AI机器人，Sharpa机器人餐厅在上海吴江路DQ门店正式运营。",
+      "summaryZh": ""
+    },
+    {
+      "title": "东软集团（600718）半年报亏损扩大，布局机器人领域AI医疗合同增长",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nLWN1Z0dhRmZqNzgtcF9MZzB2d2RXdklqYXJPVHFRWXdJMWcyUTZ1NDItRW54NW5POW04TDhncnJPdE1RX2xUaVZzMVpURDNnYnJEMjRrYmY?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-30T03:33:00.000Z",
+      "summary": "东软集团上半年亏损扩大，AI医疗合同增长，布局机器人领域。",
+      "summaryZh": ""
+    },
+    {
+      "title": "凡拓数创（301313）拟增银行授信 完成具身智能领域投资",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43M0dtdWVrZ0xSSldON0tub2xna3NpS2RIOFZvUUxUUmlpQWR5WXpvTERFTjMyQ3J2SWdfWU5lbGVPekNGaThTNTFsUXdNeXlaSXdRRjR2ZnE?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-30T07:30:00.000Z",
+      "summary": "凡拓数创拟增银行授信至8亿，完成具身智能领域投资。",
+      "summaryZh": ""
     },
     {
       "title": "数智中医嵌入文旅场景 安徽加速中医药康养融合新实践",
@@ -218,7 +229,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-29T17:24:52.000Z",
-      "summary": "安徽推进数智中医与文旅融合，加速康养产业发展。",
+      "summary": "安徽数智中医融入文旅，加速中医药康养融合实践。",
       "summaryZh": ""
     }
   ]
