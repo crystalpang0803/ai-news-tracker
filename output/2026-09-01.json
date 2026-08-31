@@ -1,17 +1,7 @@
 {
   "date": "2026-09-01",
-  "generatedAt": "2026-08-31T22:45:59.377Z",
+  "generatedAt": "2026-08-31T23:23:05.300Z",
   "items": [
-    {
-      "title": "AMD、思科、HUMAIN 合作落地，Instinct MI355X 算力进驻沙特",
-      "link": "https://www.ithome.com/0/996/648.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-31T12:45:51.000Z",
-      "summary": "AMD、思科与HUMAIN合作，将Instinct MI355X算力引入沙特。",
-      "summaryZh": ""
-    },
     {
       "title": "GPT-6灰测demo刷屏！周四发布在即",
       "link": "https://www.qbitai.com/2026/08/481893.html",
@@ -19,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-31T04:47:26.000Z",
-      "summary": "OpenAI GPT-6灰测demo引发热议，周四发布在即。",
+      "summary": "OpenAI的GPT-6灰测demo引发热议，周四正式发布。",
       "summaryZh": ""
     },
     {
@@ -29,27 +19,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-31T03:30:42.000Z",
-      "summary": "Claude Code 团队发布国内终端 Agent 合规落地指南，解析AI编程工具团队协作挑战及解决方案。",
+      "summary": "Claude Code 团队分享终端 Agent 合规落地经验，解析AI编程工具团队协作挑战及解决方案。",
       "summaryZh": ""
     },
     {
-      "title": "混元Hy4 preview上线即排队，能消解腾讯的AI焦虑吗？",
-      "link": "https://www.tmtpost.com/8123051.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-31T11:13:19.000Z",
-      "summary": "混元Hy4 preview上线引发排队，腾讯AI焦虑或有所缓解。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智谱披露下一代大模型规划：采用大基座路线，目标发布首日即可支持满规模业务调用",
-      "link": "https://www.ithome.com/0/996/649.htm",
+      "title": "工信部：加大大模型、智能体、Token 等服务采购力度",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kdWZrXy1SQlExTS1VSXpwZlk0cWVDNDQ3MXhGR3QwQUVMTHNRckxuOTdNeWxWaU1kQlRLOF9zMTlhbVlmcU15c3VXVVc?oc=5",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-31T12:47:34.000Z",
-      "summary": "智谱下一代大模型采用大基座路线，目标首日支持满规模业务调用。",
+      "pubDate": "2026-08-31T08:05:21.000Z",
+      "summary": "工信部推动人工智能应用服务商培育，加大相关服务采购力度。",
       "summaryZh": ""
     },
     {
@@ -59,7 +39,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-08-31T20:13:45.000Z",
-      "summary": "五角大楼推出定制版ChatGPT和Grok，供300万军民用。",
+      "summary": "五角大楼推出定制版ChatGPT和Grok，供300万军民使用。",
       "summaryZh": "",
       "titleZh": "五角大楼现在拥有自己的 ChatGPT 和 Grok 版本"
     },
@@ -70,7 +50,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-31T08:31:57.000Z",
-      "summary": "蔚来领投，上海弓望传感完成近亿A轮融资。",
+      "summary": "蔚来领投，上海弓望传感完成近亿A轮融资，用于电感编码器规模化落地。",
       "summaryZh": ""
     },
     {
@@ -80,7 +60,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-31T05:17:00.000Z",
-      "summary": "Ropedia推出HOMIE Gen2，以第一视角数据采集提升机器人真实世界经验获取。",
+      "summary": "Ropedia推出HOMIE Gen2，以360°多模态采集系统提升真实场景数据采集与结构化输出能力。",
       "summaryZh": ""
     },
     {
@@ -100,7 +80,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-31T10:58:19.000Z",
-      "summary": "中国信通院牵头发布大模型平台系列行业标准，填补国内系统性标准空白。",
+      "summary": "中国信通院牵头发布大模型平台系列行业标准。",
       "summaryZh": ""
     },
     {
@@ -110,7 +90,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-31T07:34:02.000Z",
-      "summary": "范式与华为达成算力战略合作，成为首批使用华为昇腾950芯片的AI企业。",
+      "summary": "范式与华为达成算力战略合作，成首批使用国产高端算力AI企业。",
       "summaryZh": ""
     },
     {
@@ -121,6 +101,16 @@
       "category": "ai",
       "pubDate": "2026-08-31T06:43:00.000Z",
       "summary": "千问创作推出AI协作工具Agent Teams，支持短剧、漫剧创作。",
+      "summaryZh": ""
+    },
+    {
+      "title": "苹果披露“惊人证据”：前员工已将机密文件用于 OpenAI，且知情者众多",
+      "link": "https://www.ithome.com/0/996/702.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-31T23:07:00.000Z",
+      "summary": "苹果指控前工程师将机密文件用于OpenAI，并称有众多知情者。",
       "summaryZh": ""
     },
     {
@@ -154,16 +144,6 @@
       "summaryZh": ""
     },
     {
-      "title": "AI重塑酒店业：智能化转型迈入价值兑现阶段",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XbTJKQnY0S1lLQ21BU1lVZ1E5Xzc0MEczOFZSQXJlNnhEWl9YZTZGUlhlWXpFT0NITHJrMkloLWVMUzVZWDVtbFJ2U0tSZzRsMUU2Qy1walpGOG85Y3dvZWxNQmtxR0hpcWd6dmc3bWsxbkRON0V5ZVZ5R056NVE?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-31T21:22:00.000Z",
-      "summary": "酒店业AI应用进入价值兑现阶段，行业数字化能力分化明显。",
-      "summaryZh": ""
-    },
-    {
       "title": "美国家科学基金会将新建3个科学与技术中心 覆盖AI、生物技术、聚变能源和机器人等领域",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LWDVrWlRhNjNLaEFpZmNVSEg3NlRpcWtSWTQ0aWMxM2ZzcEZmNFFVYlZGdFdKN1ViZ0pPQUhkMzNMQXl0a1lvcFFxazlCMnl0VWpBbEszQU5fRFhMRlBMUm4yQzFaRXdpb2w3blYzWTU?oc=5",
       "source": "科技日报",
@@ -189,9 +169,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-31T13:50:00.000Z",
-      "summary": "调查显示，制造业领导者在机器人管理预期与实际准备之间存在显著差距。",
+      "summary": "70%制造领导者预期2030年管理机器人，但约四成缺乏正式策略。",
       "summaryZh": "",
-      "titleZh": "英特尔报告显示机器人期望与准备之间存在差距"
+      "titleZh": "英特尔报告显示机器人技术期望与准备之间存在差距"
     },
     {
       "title": "Like a bird, this drone uses touch to grip branches and rest",
@@ -211,7 +191,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-08-31T16:00:02.000Z",
-      "summary": "蠕虫在狭窄路径中导航速度更快，这一发现可能影响机器人设计。",
+      "summary": "蠕虫在狭窄路径上导航速度更快，这一发现可能影响机器人设计。",
       "summaryZh": "",
       "titleZh": "蠕虫在狭窄的路径中比在宽的路径中移动得更快。这些发现可以为机器人设计提供信息"
     }
