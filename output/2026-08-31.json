@@ -1,164 +1,134 @@
 {
   "date": "2026-08-31",
-  "generatedAt": "2026-08-31T00:52:05.874Z",
+  "generatedAt": "2026-08-31T05:41:51.863Z",
   "items": [
     {
-      "title": "人形机器人还撑不起极智嘉",
-      "link": "https://www.tmtpost.com/8122055.html",
-      "source": "钛媒体",
+      "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
+      "link": "https://www.qbitai.com/2026/08/481750.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-30T10:48:49.000Z",
-      "summary": "极智嘉上半年收入增长，但亏损扩大，人形机器人业务尚未成为主要增长点。",
+      "pubDate": "2026-08-31T03:11:46.000Z",
+      "summary": "灵犀智涌用自研ROSS Harness系统，以Demo级机器人跻身工业场景赛全国第三。",
       "summaryZh": ""
     },
     {
-      "title": "ChatGPT新模型Bel被曝预训练完成，参数高达10万亿",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WMk9lbzBUbUpSSFN4YkU5UEVmODRIM1BISjNPRXZhUi1Oclk4NjhLTWpfSlhvV1hLU3RxUzJDbzVKT01Fc09JT0R4dFFvVmph?oc=5",
+      "title": "OpenAI采购数万台Mac用于AI强化训练 苹果抢下英伟达GPU算力市场份额",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YY2VLUUgwcTMtZVRJWjRpc2hEUFZ6bWhmaFZJN1Z4Q3c3WmpjZXhSQjdNVlo4cjhJN29TSi1XcFJraUVlakVDSl9uYUd5MnA3Mjhr?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-31T00:11:06.000Z",
-      "summary": "ChatGPT新模型Bel预训练完成，参数量达10万亿。",
+      "pubDate": "2026-08-30T09:45:00.000Z",
+      "summary": "OpenAI大量采购Mac用于AI强化训练，苹果Mac销售额增长，抢夺英伟达GPU市场份额。",
       "summaryZh": ""
     },
     {
-      "title": "自动驾驶入法后，罚单还得车主交?",
-      "link": "https://www.tmtpost.com/8122093.html",
+      "title": "大模型领域跑出新玩家，StartLux-27B本地大模型打赢DeepSeek V4 Flash",
+      "link": "https://www.tmtpost.com/8122427.html",
       "source": "钛媒体",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-30T10:45:34.000Z",
-      "summary": "自动驾驶入法后，L3以上出事车企担责，L2以下仍司机负责。",
-      "summaryZh": ""
-    },
-    {
-      "title": "法拉第未来机器人中东业务启航，首笔订单销售及交付完成",
-      "link": "https://www.ithome.com/0/996/269.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-30T23:39:31.000Z",
-      "summary": "法拉第未来机器人完成中东首笔订单销售及交付。",
-      "summaryZh": ""
-    },
-    {
-      "title": "消息称字节跳动豆包大模型 2.2 将推迟发布，原计划 8 月推出",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAya1RuTFhWRXZneTZtbk9yOHY1dlM4dUdfbWZRV3lLVU5rVEhhYVRHN3RHaTlhZ0wySDhMd2Y3Rl9TWXphUEExX1YtVng?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-30T13:42:41.000Z",
-      "summary": "字节跳动豆包大模型2.2版发布计划推迟至8月之后。",
+      "pubDate": "2026-08-31T02:04:43.000Z",
+      "summary": "StartLux-27B本地大模型在MCP专项测试中超越DeepSeek V4 Flash，进入万亿参数模型能力区间。",
       "summaryZh": ""
     },
     {
-      "title": "马斯克OpenAI矛盾再升级：OpenAI将终止向马斯克旗下平台提供模型服务",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41U1NNc243UzlsV0dwQVlUM25mckl6WmpuX1I0azhVNzk1Rm13Yml6eThtMG5vYVBzb3pSbmJrNmlESUV2bWJwdTlmeklMZEpnZEQw?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-30T01:15:03.000Z",
-      "summary": "OpenAI宣布终止向马斯克旗下平台提供模型服务。",
-      "summaryZh": ""
-    },
-    {
-      "title": "具身智能走出实验室，传统制造业成为落地硬支撑",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95a3Z3SmlVVE5yMEtFaTgwWnZOT3ZUN0dCN0lmbGg0TnEyVG96eTZmWFRMY19NZ3Z2MDBTRFVYMGhFbjJ5MVhzUC0zTFlNSTJhbUYzT0ZMWENFeGcxZDMzRXR2Skc?oc=5",
-      "source": "光明网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-30T13:25:00.000Z",
-      "summary": "具身智能技术突破，传统制造业成具身智能落地关键支撑。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI 芯片实测跑分揭晓，为模型造芯片时代来了",
-      "link": "http://www.geekpark.net/news/369555",
+      "title": "Claude Code 团队实践拆解：国内终端 Agent 合规落地指南",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE55TXFrVGpTWG1KTXdDTEo4QlNkXzFrOEl2a3BaY20zNmhPTTI0bUgxYzRPcDBZdDk5aHVqVWJxa29LclN3RnFDSWlZbWQ?oc=5",
       "source": "极客公园",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-30T10:53:09.000Z",
-      "summary": "OpenAI芯片跑分超英伟达，开启为模型造芯片新纪元。",
+      "pubDate": "2026-08-31T03:30:42.000Z",
+      "summary": "Claude Code 团队分享终端 Agent 合规落地经验，介绍 Kimi Code 方案及团队协作模式。",
       "summaryZh": ""
     },
     {
-      "title": "瑞金医院联合华为云发布瑞智病理大模型RuiPath 2.0",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fcGM5TjZhSjQ4bm13OUpTQ0dBNlBGVmZuaFB5cnlDdUc5TjlGS01GX2tNM1VjZEVZTmZ0d2UxUXF3MmxGYnpoaVdZTURnS19uMENjRWJXU1o?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-30T08:54:23.000Z",
-      "summary": "瑞金医院与华为云发布瑞智病理大模型RuiPath 2.0，实现病理诊断精确可解释。",
-      "summaryZh": ""
-    },
-    {
-      "title": "银行创新“算力贷”，破解科创企业预付费难题",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iX3FiejY1TXRPVzVYSWFGcWc3d1hHS1dNWXY0Zi1GT1NmY0hUbVRWbUxmclQwOF9ySEx4cE5RWEpQM0szaXc2YkVSa055MWpUM1g3emdxdWU?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-30T05:59:55.000Z",
-      "summary": "银行推出“算力贷”产品，助力科创企业解决预付费难题。",
-      "summaryZh": ""
-    },
-    {
-      "title": "抢跑算力时代：印度AI公司订购9000颗英伟达Rubin GPU，为亚洲首批买家之一",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMSkxJWm5Hd1FYVkl2ZkxUMGdiZ0oycU1fNjdrblVlWm1RNVZYa3hBS05sMzhfeHNMVE1taEhhX0tnYWJvX1dSZA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-30T09:51:00.000Z",
-      "summary": "印度AI公司AMI订购9000颗英伟达Rubin GPU，计划在印度建设亚洲首批大规模采用Vera Rubin架构AI算力集群。",
-      "summaryZh": ""
-    },
-    {
-      "title": "数据要素筑基，人工智能加速落地应用（经济聚焦） ——2026中国国际大数据产业博览会观察",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rUGp0dlN5WXdLZjYxbUNoR2hHbEZIUGQ0cS1HSF9zTENnRzMtVTh2TEZiYmdzNS1FRkp2VlNFV2NJWXgxZXRiX3F1X2J0VGRPSWJEdFNvcUJYNGpWdmJUNjIwVQ?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-30T22:10:15.000Z",
-      "summary": "2026数博会上，AI应用场景丰富，数据要素价值释放，词元调用便捷。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI出海、仿生芯片、人形机器人：海归创业者逐梦新赛道",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sUVNxdHhGWFFwQ1RzdWxEdUVlRllFMXJqa1R2UFd1YWhpTTI0Mi0wRURBUGVnUExSdEVwOGFadFljWk95RlVQMlphTnVwTjF2NW9PZGZhV1NpRWlmM3R6eHVyWmFZQWVl?oc=5",
-      "source": "中国新闻网",
+      "title": "启境 GT7 官宣满足国家 L3 级自动驾驶架构的设计标准，并完成 L3 准入测试与申报",
+      "link": "https://www.ithome.com/0/996/422.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-30T07:52:51.000Z",
-      "summary": "海归创业者聚焦AI出海、仿生芯片和人形机器人等领域，在HICOOL全球创业者峰会中展示创新成果。",
+      "pubDate": "2026-08-31T05:26:34.000Z",
+      "summary": "启境GT7满足L3级自动驾驶设计标准，完成准入测试与申报。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI 内部，AI 建立了三代文明",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zUmlSRnRtWFpRTWY3YV9Na2F4aHV1T1M1RXpzR3BDUVBkcC1vUUtZZDAtTVFwMVpZYU1ldVBUd0FDdi0yVkdaYzZIVQ?oc=5",
+      "title": "对话高通副总裁：跃龙IQ10已交付多家客户，机器人产品正在中国量产",
+      "link": "https://zhidx.com/p/588924.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-30T10:45:37.000Z",
+      "summary": "高通跃龙IQ10平台已交付多家客户，中国机器人产品量产中。",
+      "summaryZh": ""
+    },
+    {
+      "title": "GPT-6灰测demo刷屏！周四发布在即",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4ckg5Z1VTbUZPc2FqSDBrdlZaR0FiT2h2ZEFOV3F0MHFjVnZSTnl4aEYzMm1YckhfVllUMm0yQlFLc3FVYWdiRkZTMmZ0ZDM3b3N5aA?oc=5",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-31T04:47:26.000Z",
+      "summary": "OpenAI旗舰模型GPT-6灰测demo引发热议，周四发布在即。",
+      "summaryZh": ""
+    },
+    {
+      "title": "重磅！大模型AI芯片高峰论坛嘉宾全公布",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1GWVdsT2gzeEVHaC1Md3g2YllNSFlfS3RMcWVPdzFlOHpmUUZPNFBxZDIxdW5jSkRyZF9HTERIUGRxUDhOSUE?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-31T03:24:46.000Z",
+      "summary": "大模型AI芯片高峰论坛嘉宾名单公布，包括胡杨、郭炜等业界专家。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI“已读乱回”经营者承担责任、给外卖包装“瘦身”，一批新规 9 月起施行",
+      "link": "https://www.ithome.com/0/996/419.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-08-31T05:10:15.000Z",
+      "summary": "9月起新规施行，AI“已读乱回”经营者担责，外卖包装“瘦身”。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI文明涌现，OpenAI智能体自建三代帝国，暗网越狱反向接管母公司",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1clc2WlBobktaZGNhcjIxaWEyNFM3QXRSSGxlY2s4dlFEbTRIc3I2alRjRUtjV01BZF9fVjNJZHNUdnZ1SmtpTmNYTVJSUQ?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-30T09:05:00.000Z",
+      "pubDate": "2026-08-30T13:08:00.000Z",
       "summary": ""
     },
     {
-      "title": "国产大模型与算力平台双向奔赴带来结构性新机遇",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93U2dJVzdPUExxbVAzRWhEY1BwOTJzTlJSQkhZd3JDVG9BZkNTdUI4UXpTWHZiSHFMTEVtSnRDTDExdUxIWWFsVXFzZUxFSlBOcDNj?oc=5",
-      "source": "虎嗅",
+      "title": "从“送外卖”到“城市基础设施”，顺丰同城的AI野心",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aM3o1NkFkX1RBSWhCcGg2SWVIMDNxTlQ3R1hUNFBkYlU4NHRDWExNVGVQNDlzdlVMMWRlTGFkbng2engxd1N6aE1WZlM?oc=5",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-30T23:46:21.000Z",
-      "summary": "国产大模型与算力平台协同发展，推动算力基础设施升级。",
+      "category": "application",
+      "pubDate": "2026-08-30T10:01:00.000Z",
+      "summary": "顺丰同城以AI技术重构城市短途物流，实现业绩增长。",
       "summaryZh": ""
     },
     {
-      "title": "2366亿的宇树科技，和超3000亿等待上市的具身智能资产",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5md0VvekJtZXFWdERiQVFURmlfQ0E1QkNqSWU4X25Ld2dPNmphcGVKR3dVN3FOeEtfb2lTT1d3WGV2SEtWTG55eA?oc=5",
-      "source": "财联社",
+      "title": "AI算力迎来新形态！国内首个车载移动式词元工厂亮相，科创AIETF博时(588790)跟踪指数小幅上涨",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hQkRjbUNGV1NQaXAwS3pUZEhoaHlFdUNOajBfb2gxaGp1TU9Ld2lVM1JxRC1TZ1RzQUw3NVNLcFk2LXhKcVJqeUMyVDVEb2xmRkkxTGVRbHc?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-30T05:01:00.000Z",
-      "summary": "宇树科技总市值2366亿，引领超3000亿具身智能资产等待上市。",
+      "category": "ai",
+      "pubDate": "2026-08-31T03:18:50.000Z",
+      "summary": "国内首个车载移动式词元工厂亮相，AI算力迎来新形态。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI算力狂潮延续，南方基金旗下科技系列ETF布局机遇备受关注",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VQ2I3RTZjZ0FnLUpFdUN0bUM1ckJZcTRnQ3I1X0lFUmliT2ZxdlZncVRIQW1BX0dpbmlId2pfS0FTX1FFQnJxY3cxTUNwVnZEWHNnRjBlS2E?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-31T01:33:17.000Z",
+      "summary": "南方基金科技系列ETF布局AI算力市场，受市场关注。",
       "summaryZh": ""
     },
     {
@@ -168,38 +138,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-30T11:08:00.000Z",
-      "summary": "腾讯、阿里等企业推动智能体记忆技术发展，Agent Memory成为行业赛道。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Claude Code额度明升暗降，OpenAI精准狙击",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qaWJUT1VjUDh3cXNYbUNLSm1RUE5iVV8wYXdibl9fWjBsd3ZhZ1hISTI0RmdmdGRxZWNKRjU5ckhlRDVwaTN6VW1tUUJ0V1JQTzJwb3ZhVXFHMlhiYURRS25n?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-30T02:08:00.000Z",
-      "summary": "Anthropic Claude Code额度调整实际减少，用户质疑其商业策略。",
-      "summaryZh": ""
-    },
-    {
-      "title": "边缘 AI 进入机器人时刻，NVIDIA 把物理 AI 门槛继续降下来",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oVTZLTzRqMF8zUDVzczV0WjlyVF9KNDhRMGJZWVRWSXZOSllpRDNBRUh0RURFdkt0NDR6a09sZkZBSDZyMnM1aEZPR1A?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-30T18:19:27.000Z",
-      "summary": "NVIDIA发布Jetson Orin Nano 2，降低物理AI门槛，推动边缘AI发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "给机器人当“启蒙老师” 数据标注产业正加快发展",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UQmI0aW9hUnRhaTgzeFJYWGdWTWxmT2lvdGQ3ck44cjlBVWtHdGROYmpweEM0OGJvOWp4SFJka2EwTjVtdldEZkdTakZwc0R0Q3lpbDFsbmI2eE5UYmMyb2ROa0F3S1dTZmlqQkF2Mi05eUt0VUhOag?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-30T23:08:01.000Z",
-      "summary": "数据标注产业加速发展，助力机器人“启蒙”。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "外卖不亏了的美团，要把AI做进物理世界里",
@@ -208,27 +147,64 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-30T14:37:58.000Z",
+      "summary": "外卖大战打了一年多，美团最先“上岸”了。"
+    },
+    {
+      "title": "物理防伪+AI视频留存，上海浦东首创视频电子封签试点，外卖“三难”迎刃而解",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95M2NXZWd0SFpyOWUzVjFJVkxQZkNwZlpmZkx3d05pWUVrYzA5VUpCYkEycmpWNjFLank5MUJiM2lzcGhmRU9adGVKaXMybGxGcm5BTFNR?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-08-30T15:54:12.000Z",
+      "summary": "物理防伪+AI视频留存，上海浦东首创视频电子封签试点，外卖“三难”迎刃而解 #上海 #外卖 #视频电子封签 #食品安全。"
+    },
+    {
+      "title": "美国家科学基金会将新建3个科学与技术中心 覆盖AI、生物技术、聚变能源和机器人等领域",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LWDVrWlRhNjNLaEFpZmNVSEg3NlRpcWtSWTQ0aWMxM2ZzcEZmNFFVYlZGdFdKN1ViZ0pPQUhkMzNMQXl0a1lvcFFxazlCMnl0VWpBbEszQU5fRFhMRlBMUm4yQzFaRXdpb2w3blYzWTU?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-30T23:42:55.000Z",
+      "summary": "美国家科学基金会投资9000万美元新建3个科学与技术中心，聚焦AI、生物技术等领域。",
+      "summaryZh": ""
+    },
+    {
+      "title": "凯尔达2026年半年报：扣非净利润同比增长981.26%，自产机器人持续放量",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iTmdDUEtSdDRVeGozU1YtSHo0dVg5Ukw2aW9LbDVndzhVQ1dvdUEyMVFNTEI3dEVjRG5XOEFhRENCWUx4aGdVQzVTTkpOVlplWktnM3RLS0FnSVRQTzFsS3FUdw?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-31T03:08:00.000Z",
       "summary": ""
     },
     {
-      "title": "英伟达盯上机器人，中国成关键客户",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvSFFwVWFoR1RBbnV4ZlVKcUNRUktWUzJPaTJBVVgwakJwU3FhUW9VNjgwY3ZZNUgzc0VWSm1mcEtqX01xOWlpcExLb21RMGFTWENQSjVR?oc=5",
-      "source": "腾讯新闻",
+      "title": "夯实具身智能发展的人才根基",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUHJhdC1wTVAwM1ZhMEhobTZ1ZF9ZQXBtcEJfS09zdFRUM0hzZjB1X2pKZ1ctVUhkR1dXUDd2NEtmWVBzWTBDRE1KRzNHb3Fhb0RORmZBODlTN1kxY000NUdYOHhIM1JvbUNWYm82RWpOeEk3eldBekFoU29GaEw1RThQSUU?oc=5",
+      "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-30T07:00:00.000Z",
-      "summary": "英伟达聚焦机器人市场，中国成为其关键客户。",
+      "pubDate": "2026-08-31T00:58:26.000Z",
+      "summary": "我国具身智能产业人才需求旺盛，高校改革培养模式以适应产业发展。",
       "summaryZh": ""
     },
     {
-      "title": "“重庆造”具身智能模型在全球评测中获第一名",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GODJSTzQ2cUFDMFNaZ3lJMkVVc1lkVHhuTlU3T3pOZWJ0X3RidC1UYXRCS1UwM2p3ZkFEVXRmakpmaGxqV1NQUlRsaGxXYnV6cnNLaFprYUVJTWx2a2hERDVKbl9EWlJRdlVkLUlNSkxGazVQRGc?oc=5",
-      "source": "新华社",
+      "title": "德州仪器(TI)门窗传感器解决方案_电路方案",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QOTdIRm15MjVPT0lXaWNCOEZHczdJUWxBaGJhQjd6ckpTU3hQZWxjZzhfcmprZk5jcXM0RU40WTdoMUk3X3JpUVRuNnJTU01PbU9XUEhsdw?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-30T01:04:36.000Z",
-      "summary": "重庆原力灵机研发的具身智能模型DM0.5在全球评测中排名第一。",
+      "pubDate": "2026-08-31T00:52:21.000Z",
+      "summary": "德州仪器推出门窗传感器解决方案，延长电池寿命，降低维护成本。",
       "summaryZh": ""
+    },
+    {
+      "title": "上市8个交易日股价近“腰斩” 宇树科技值多少？",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BaUVDbmoycUVQLXVRdzBJQXJLdk84eU1mLUthYVRsdktGSHYzMEtEdXJYci1sT0RBZzZqVHQxSkt5VFItN1BmUHVDRkZ2Tnd6Qy01NDAtTFUyVXF0c3hKb3NB?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-30T08:26:00.000Z",
+      "summary": ""
     }
   ]
 }
