@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "generatedAt": "2026-08-30T23:36:13.271Z",
+  "generatedAt": "2026-08-31T00:52:05.874Z",
   "items": [
     {
       "title": "人形机器人还撑不起极智嘉",
@@ -9,17 +9,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-30T10:48:49.000Z",
-      "summary": "极智嘉收入增长，但亏损扩大，股价下跌。",
+      "summary": "极智嘉上半年收入增长，但亏损扩大，人形机器人业务尚未成为主要增长点。",
       "summaryZh": ""
     },
     {
-      "title": "消息称字节跳动豆包大模型 2.2 将推迟发布，原计划 8 月推出",
-      "link": "https://www.ithome.com/0/996/239.htm",
-      "source": "IT之家",
+      "title": "ChatGPT新模型Bel被曝预训练完成，参数高达10万亿",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WMk9lbzBUbUpSSFN4YkU5UEVmODRIM1BISjNPRXZhUi1Oclk4NjhLTWpfSlhvV1hLU3RxUzJDbzVKT01Fc09JT0R4dFFvVmph?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-30T13:42:41.000Z",
-      "summary": "字节跳动豆包大模型2.2版推迟至年底发布。",
+      "pubDate": "2026-08-31T00:11:06.000Z",
+      "summary": "ChatGPT新模型Bel预训练完成，参数量达10万亿。",
       "summaryZh": ""
     },
     {
@@ -33,13 +33,43 @@
       "summaryZh": ""
     },
     {
-      "title": "一文读懂极智嘉（2590.HK）2026中报背后的增长密码： AMR 基本盘夯实、AI订阅式服务高增、具身智能突破",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zVWxwR0djandkSHR1VGt5SDBKMk1hejFRblBXRjlpZDRHZzR3WEluZUU1ZlhNX2pwSW1femV5cnNSeDNkMkdJUERkdC1KQ0JXd3Y3UkV3YjM3emg5dUVhWmQ3bnhhTlRBTmhGaU95bktDWEll?oc=5",
-      "source": "金融界",
+      "title": "法拉第未来机器人中东业务启航，首笔订单销售及交付完成",
+      "link": "https://www.ithome.com/0/996/269.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-30T10:21:26.000Z",
-      "summary": "极智嘉2026年中报显示营收订单双增，AI订阅式服务爆发，具身智能突破。",
+      "pubDate": "2026-08-30T23:39:31.000Z",
+      "summary": "法拉第未来机器人完成中东首笔订单销售及交付。",
+      "summaryZh": ""
+    },
+    {
+      "title": "消息称字节跳动豆包大模型 2.2 将推迟发布，原计划 8 月推出",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAya1RuTFhWRXZneTZtbk9yOHY1dlM4dUdfbWZRV3lLVU5rVEhhYVRHN3RHaTlhZ0wySDhMd2Y3Rl9TWXphUEExX1YtVng?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-30T13:42:41.000Z",
+      "summary": "字节跳动豆包大模型2.2版发布计划推迟至8月之后。",
+      "summaryZh": ""
+    },
+    {
+      "title": "马斯克OpenAI矛盾再升级：OpenAI将终止向马斯克旗下平台提供模型服务",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41U1NNc243UzlsV0dwQVlUM25mckl6WmpuX1I0azhVNzk1Rm13Yml6eThtMG5vYVBzb3pSbmJrNmlESUV2bWJwdTlmeklMZEpnZEQw?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-30T01:15:03.000Z",
+      "summary": "OpenAI宣布终止向马斯克旗下平台提供模型服务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "具身智能走出实验室，传统制造业成为落地硬支撑",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95a3Z3SmlVVE5yMEtFaTgwWnZOT3ZUN0dCN0lmbGg0TnEyVG96eTZmWFRMY19NZ3Z2MDBTRFVYMGhFbjJ5MVhzUC0zTFlNSTJhbUYzT0ZMWENFeGcxZDMzRXR2Skc?oc=5",
+      "source": "光明网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-30T13:25:00.000Z",
+      "summary": "具身智能技术突破，传统制造业成具身智能落地关键支撑。",
       "summaryZh": ""
     },
     {
@@ -49,17 +79,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-30T10:53:09.000Z",
-      "summary": "OpenAI芯片实测跑分超英伟达，开启为模型造芯片时代。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI WAN智能IP广域网助力国家算力互联互通节点建设开启“加速键”",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EWUJwWTdxQVVmcmhoeThpY0pHdnJhVGFpWThwZDVMcXdtdmpuWFk1dEFVMzVyZUk3QnctdVY2OE16SnE2YUFQSVRsT3k?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-30T10:01:26.000Z",
-      "summary": "AI WAN智能IP广域网加速国家算力互联互通节点建设。",
+      "summary": "OpenAI芯片跑分超英伟达，开启为模型造芯片新纪元。",
       "summaryZh": ""
     },
     {
@@ -69,7 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-30T08:54:23.000Z",
-      "summary": "瑞金医院与华为云发布瑞智病理大模型RuiPath 2.0，实现病理诊断精确可解释性。",
+      "summary": "瑞金医院与华为云发布瑞智病理大模型RuiPath 2.0，实现病理诊断精确可解释。",
       "summaryZh": ""
     },
     {
@@ -89,7 +109,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-30T09:51:00.000Z",
-      "summary": "印度AI公司AMI订购9000颗英伟达Rubin GPU，打造亚洲首批Vera Rubin架构AI算力集群。",
+      "summary": "印度AI公司AMI订购9000颗英伟达Rubin GPU，计划在印度建设亚洲首批大规模采用Vera Rubin架构AI算力集群。",
       "summaryZh": ""
     },
     {
@@ -99,17 +119,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-30T22:10:15.000Z",
-      "summary": "2026数博会上，人工智能应用加速落地，赋能千行百业。",
-      "summaryZh": ""
-    },
-    {
-      "title": "具身智能走出实验室，传统制造业成为落地硬支撑",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95a3Z3SmlVVE5yMEtFaTgwWnZOT3ZUN0dCN0lmbGg0TnEyVG96eTZmWFRMY19NZ3Z2MDBTRFVYMGhFbjJ5MVhzUC0zTFlNSTJhbUYzT0ZMWENFeGcxZDMzRXR2Skc?oc=5",
-      "source": "光明网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-30T13:25:00.000Z",
-      "summary": "具身智能技术突破，传统制造业成具身智能落地关键支撑。",
+      "summary": "2026数博会上，AI应用场景丰富，数据要素价值释放，词元调用便捷。",
       "summaryZh": ""
     },
     {
@@ -123,13 +133,22 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI宣布终止向马斯克旗下Cursor平台提供模型服务，矛盾再度升级",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kVFhmcGcxTUhhX3dOOG1Bb2dPU1lnLWszeTFqWVdHVGZCSE1PNzFiT3JHWU1zbGhGRkpteHU2UVR2bm8wWE13bzI4TzY3VGoySU9J?oc=5",
+      "title": "OpenAI 内部，AI 建立了三代文明",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zUmlSRnRtWFpRTWY3YV9Na2F4aHV1T1M1RXpzR3BDUVBkcC1vUUtZZDAtTVFwMVpZYU1ldVBUd0FDdi0yVkdaYzZIVQ?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-30T09:05:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "国产大模型与算力平台双向奔赴带来结构性新机遇",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93U2dJVzdPUExxbVAzRWhEY1BwOTJzTlJSQkhZd3JDVG9BZkNTdUI4UXpTWHZiSHFMTEVtSnRDTDExdUxIWWFsVXFzZUxFSlBOcDNj?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-30T00:19:01.000Z",
-      "summary": "OpenAI终止向马斯克旗下Cursor平台提供模型服务。",
+      "pubDate": "2026-08-30T23:46:21.000Z",
+      "summary": "国产大模型与算力平台协同发展，推动算力基础设施升级。",
       "summaryZh": ""
     },
     {
@@ -149,12 +168,12 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-08-30T11:08:00.000Z",
-      "summary": "腾讯、阿里等企业推动智能体记忆技术发展，从概念走向行业赛道。",
+      "summary": "腾讯、阿里等企业推动智能体记忆技术发展，Agent Memory成为行业赛道。",
       "summaryZh": ""
     },
     {
       "title": "Claude Code额度明升暗降，OpenAI精准狙击",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wVDZONHNoeHpnVU9NYnJVWVZObGNIVm5KQWRJcDhJYUNPXzF0U3pkWC1pazJNTDhINk1HRWh4d0pTUFJXZmd1dW1iZ2NzaDdFNjhzWjdn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qaWJUT1VjUDh3cXNYbUNLSm1RUE5iVV8wYXdibl9fWjBsd3ZhZ1hISTI0RmdmdGRxZWNKRjU5ckhlRDVwaTN6VW1tUUJ0V1JQTzJwb3ZhVXFHMlhiYURRS25n?oc=5",
       "source": "腾讯新闻",
       "lang": "zh",
       "category": "ai",
@@ -169,36 +188,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-08-30T18:19:27.000Z",
-      "summary": "NVIDIA发布Jetson Orin Nano 2，推动物理AI在边缘设备中的应用。",
+      "summary": "NVIDIA发布Jetson Orin Nano 2，降低物理AI门槛，推动边缘AI发展。",
       "summaryZh": ""
     },
     {
-      "title": "马斯克：2027年生产的AI算力，或许无法在2027年真正通电上线",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiRm1HTEI5aFVLa1p4OHhEYnR3VXhyaFZHeG5PVktWZldiMkFHTWtUbTNDMThfbHVDZ0tiTHdkTHJKRHpnUkxTRFZDWmxqaFphSVE?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-30T01:18:42.000Z",
-      "summary": ""
-    },
-    {
-      "title": "从AI干眼智能体到人工角膜移植，爱尔眼科用技术重新定义眼病精准诊疗",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkMVdrYkNnQ2x2THNJblR3WmZDVGhBaDdOYmFQSHI1ODN5MW9KcXAxb01mTmQ0OFFKYlFZS2NnaV95YmZPUkxfZ0JYRXpWR2VheUREVDlic3R2Z2lDUXFubA?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-30T01:35:00.000Z",
-      "summary": "爱尔眼科在第三届国际角膜及眼表疾病大会上发布多项AI诊疗智能体成果与新技术，推动眼病精准诊疗。",
-      "summaryZh": ""
-    },
-    {
-      "title": "广东跑出机器人“大脑”供应商，宇树、越疆等企业首批接入",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOamhlNU1seXNtVVd2cG5XY3hKcmUxWXVVVjlZdTFOZWxvT1BnR29VbHlKX0ZpakJJTHpXaEc4ZXlTMDlLemtlUElvc19ZOWRFX2hhY1FDLUdtTVZhLUo4M3VTZE1mQXBuYmtYczVsUWh3cnAyRkZFeV93Z1VaZEpjNHVHNXVadEZnb0ZpVQ?oc=5",
-      "source": "21财经",
+      "title": "给机器人当“启蒙老师” 数据标注产业正加快发展",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UQmI0aW9hUnRhaTgzeFJYWGdWTWxmT2lvdGQ3ck44cjlBVWtHdGROYmpweEM0OGJvOWp4SFJka2EwTjVtdldEZkdTakZwc0R0Q3lpbDFsbmI2eE5UYmMyb2ROa0F3S1dTZmlqQkF2Mi05eUt0VUhOag?oc=5",
+      "source": "央视网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-30T23:00:00.000Z",
-      "summary": "广东企业宇树、越疆等首批接入具身智能开放平台Tairos，加速机器人智能应用。",
+      "pubDate": "2026-08-30T23:08:01.000Z",
+      "summary": "数据标注产业加速发展，助力机器人“启蒙”。",
       "summaryZh": ""
     },
     {
@@ -208,7 +208,17 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-08-30T14:37:58.000Z",
-      "summary": "外卖大战打了一年多，美团最先“上岸”了。"
+      "summary": ""
+    },
+    {
+      "title": "英伟达盯上机器人，中国成关键客户",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvSFFwVWFoR1RBbnV4ZlVKcUNRUktWUzJPaTJBVVgwakJwU3FhUW9VNjgwY3ZZNUgzc0VWSm1mcEtqX01xOWlpcExLb21RMGFTWENQSjVR?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-08-30T07:00:00.000Z",
+      "summary": "英伟达聚焦机器人市场，中国成为其关键客户。",
+      "summaryZh": ""
     },
     {
       "title": "“重庆造”具身智能模型在全球评测中获第一名",
@@ -219,15 +229,6 @@
       "pubDate": "2026-08-30T01:04:36.000Z",
       "summary": "重庆原力灵机研发的具身智能模型DM0.5在全球评测中排名第一。",
       "summaryZh": ""
-    },
-    {
-      "title": "文旅消费新体验 圆明园里开了间中医数智小屋",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBNlVUbF9fVXVGM3hsQms0TzR1dld2ekplOU14MEU1VDBwRThuTS15SW9TaDV0ck1WcDNIM2lfZHhnUjVQcDNvb2tLRDFLbDktSE4yalNZR1BpSjUwdVVZZm9Rd3pQbG9qakZUaXRPY1RCMHB2NFdQal90cw?oc=5",
-      "source": "新华社",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-08-30T11:11:58.000Z",
-      "summary": ""
     }
   ]
 }
