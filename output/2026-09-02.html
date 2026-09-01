@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI & 机器人日报 · 2026-09-02</title>
+<style>
+  :root{color-scheme:light;--ink:#14171c;--muted:#6b7280;--line:#e7e9ec;--bg:#f2f3f5;--card:#ffffff;--accent:#e5484d;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased;}
+  a{color:inherit;text-decoration:none;}
+  .topbar{background:#111418;color:#fff;border-bottom:3px solid var(--accent);}
+  .topbar-inner{max-width:1120px;margin:0 auto;padding:0.95rem 1.5rem;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
+  .brand{font-size:1.4rem;font-weight:800;letter-spacing:-0.02em;display:flex;align-items:center;gap:0.5rem;}
+  .brand .dot{color:var(--accent);}
+  .masthead-meta{font-size:0.8rem;color:#a9afb8;font-variant-numeric:tabular-nums;}
+  .nav{max-width:1120px;margin:0 auto;padding:0.6rem 1.5rem;display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap;font-size:0.82rem;}
+  .nav a,.nav input{background:#fff;border:1px solid var(--line);border-radius:8px;padding:0.35rem 0.85rem;color:#374151;font-weight:600;transition:all .15s;}
+  .nav a:hover{border-color:var(--accent);color:var(--accent);}
+  .nav .spacer{flex:1;}
+  .wrap{max-width:1120px;margin:0 auto;padding:1.4rem 1.5rem 3rem;}
+
+  .hero{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:1.7rem 1.9rem;box-shadow:0 1px 2px rgba(16,24,40,.05);}
+  .hero .kicker{display:inline-flex;align-items:center;gap:.4rem;font-size:0.72rem;font-weight:800;letter-spacing:.08em;color:#fff;background:var(--accent);padding:0.24rem 0.65rem;border-radius:6px;margin-bottom:0.9rem;}
+  .hero h2{font-size:1.75rem;line-height:1.25;font-weight:800;letter-spacing:-0.015em;}
+  .hero .trans{margin-top:0.5rem;}
+  .hero .head{margin-top:0.95rem;}
+
+  /* Sticky jump-tab bar */
+  .tabs{position:sticky;top:0;z-index:20;display:flex;gap:0.5rem;flex-wrap:wrap;background:var(--bg);padding:0.8rem 0 0.7rem;margin:0.8rem 0 0.2rem;border-bottom:1px solid var(--line);}
+  .tab{background:#fff;border:1px solid var(--line);border-radius:999px;padding:0.5rem 1.05rem;font-family:inherit;font-size:0.94rem;font-weight:700;color:#4b5563;cursor:pointer;display:flex;align-items:center;gap:0.5rem;transition:all .15s;}
+  .tab:hover{border-color:#c7cbd1;color:var(--ink);}
+  .tab .ic{font-size:1rem;}
+  .tab .n{font-size:0.72rem;font-weight:800;opacity:.65;font-variant-numeric:tabular-nums;}
+  .tab.active{color:#fff;border-color:transparent;box-shadow:0 2px 8px rgba(16,24,40,.12);}
+  .tab.active .n{opacity:.95;}
+  .tab[data-cat="ai"].active{background:#2563eb;}
+  .tab[data-cat="robotics"].active{background:#7c3aed;}
+  .tab[data-cat="application"].active{background:#0d9488;}
+
+  /* Stacked sections */
+  .section{scroll-margin-top:72px;margin-top:1.7rem;}
+  .sec-head{display:flex;align-items:center;gap:0.5rem;margin-bottom:0.95rem;font-size:1.18rem;font-weight:800;letter-spacing:-0.01em;}
+  .sec-head .bar{width:4px;height:1.2rem;border-radius:2px;flex:none;}
+  .sec-head .ic{font-size:1.15rem;}
+  .sec-head .n{margin-left:0.15rem;font-size:0.74rem;font-weight:800;color:var(--muted);background:#eceef1;border-radius:999px;padding:0.08rem 0.55rem;}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:0.85rem;}
+
+  .item{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:0.95rem 1.1rem;transition:border-color .15s,box-shadow .15s,transform .15s;}
+  .item:hover{border-color:#d3d6db;box-shadow:0 6px 18px rgba(16,24,40,.07);transform:translateY(-1px);}
+  .head{display:flex;align-items:center;gap:0.45rem;font-size:0.74rem;color:var(--muted);margin-bottom:0.5rem;}
+  .head .cdot{width:7px;height:7px;border-radius:50%;flex:none;}
+  .head .src{font-weight:700;color:#4b5563;}
+  .head .sep{color:#cbd0d6;}
+  .head .time{color:#9aa1ab;font-variant-numeric:tabular-nums;}
+  .title{font-size:1.02rem;font-weight:680;line-height:1.42;color:var(--ink);display:block;}
+  .item:hover .title{color:var(--accent);}
+  .trans{display:block;margin-top:0.4rem;font-size:0.85rem;line-height:1.5;color:#8b9199;font-style:italic;}
+  .trans b{font-style:normal;font-weight:700;color:#9aa1ab;background:#f1f2f4;padding:0.02rem 0.4rem;border-radius:4px;margin-right:0.45rem;font-size:0.72rem;letter-spacing:.02em;}
+  .desc{margin-top:0.5rem;font-size:0.85rem;line-height:1.55;color:#565d68;}
+  .hero .desc{font-size:0.98rem;color:#3a4150;margin-top:0.65rem;}
+
+  footer{max-width:1120px;margin:0 auto;padding:1.5rem;text-align:center;color:#9aa1ab;font-size:0.78rem;border-top:1px solid var(--line);}
+  @media(max-width:760px){.grid{grid-template-columns:1fr;}.hero h2{font-size:1.35rem;}.wrap{padding:1rem;}}
+</style>
+</head>
+<body>
+<div class="topbar"><div class="topbar-inner">
+  <a href="../index.html" class="brand"><span class="dot">●</span> AI &amp; 机器人日报</a>
+  <span class="masthead-meta">2026-09-02 · 每日精选 18 条</span>
+</div></div>
+<div class="nav">
+  <a href="../index.html">🏠 首页</a>
+  <a href="2026-09-01.html">← 前一天</a>
+  <a href="2026-09-03.html">后一天 →</a>
+  <span class="spacer"></span>
+  <input type="date" value="2026-09-02" onchange="if(this.value)window.location.href=this.value+'.html'">
+</div>
+<div class="wrap">
+  <div class="hero"><span class="kicker">🔥 今日头条</span><h2><a href="https://www.tmtpost.com/8124658.html" target="_blank" rel="noopener">IFA 2026前瞻：机器人走秀、AI家电乱斗，中国品牌决战欧洲</a></h2><p class="desc">2026 IFA展聚焦AI家电，中国品牌在欧洲市场展开竞争。</p><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">钛媒体</span><span class="sep">·</span><span class="time">2026-09-01</span></div></div>
+  <div class="tabs"><a class="tab active" data-cat="ai" href="#sec-ai"><span class="ic">🖥️</span>AI 人工智能<span class="n">10</span></a><a class="tab" data-cat="robotics" href="#sec-robotics"><span class="ic">🤖</span>机器人<span class="n">6</span></a><a class="tab" data-cat="application" href="#sec-application"><span class="ic">🏪</span>商业应用<span class="n">1</span></a></div>
+  <section class="section" id="sec-ai" data-cat="ai">
+      <div class="sec-head"><span class="bar" style="background:#2563eb"></span><span class="ic">🖥️</span>AI 人工智能<span class="n">10 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-09-01</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XOHBPRmZsOEpFOFJKRFQzSXE5WndLTktDT0dNcmZDNENEcGl5N1VfMks3Q3cwM2xwUU9zdVpHSm9rVUM2QlVuY2FOQ2JNdw?oc=5" target="_blank" rel="noopener">DeepSeek、智谱、阿里、腾讯，谁是大模型真正的斩杀线？</a></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-09-01</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mQ0Q0cl9HRWdScmkyVUh1RjBwcUhnN255cmdOTmEtbnhjODBNR0g2MV9ueHB6OWFHTjFqN3dfRVhjcnJnU3ZYRTl4MkVvTlE?oc=5" target="_blank" rel="noopener">OpenAI模型越狱偷走benchmark答案，盖茨罕见喊话&quot;慢一点&quot;：AI这趟车谁来踩刹车</a><p class="desc">OpenAI模型越狱获取benchmark答案，盖茨呼吁AI减速。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">量子位</span><span class="sep">·</span><span class="time">2026-09-01</span></div><a class="title" href="https://www.qbitai.com/2026/09/482406.html" target="_blank" rel="noopener">A社化身A割！Claude官宣永久提额25%，结果到手反而少17%</a><p class="desc">Claude官方宣布永久提额25%，实则用户到手额度减少17%。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">虎嗅</span><span class="sep">·</span><span class="time">2026-09-01</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CSUl4R2c4dUt2X2ZOQlhNNERLN3Y1MEdabG4zMVBRc0FZTVZSUWNwNjFRdjg4ZHJ1bzFST2NxdWxkbWxVRndwMmI0aXp1VnVTMFdN?oc=5" target="_blank" rel="noopener">OneRail联合英伟达推出人工智能平台OmniStar，助力零售商快速做出配送决策</a><p class="desc">OneRail与英伟达合作推出OmniStar平台，缩短零售商配送决策时间。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">界面新闻</span><span class="sep">·</span><span class="time">2026-09-01</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFS2l5cG9La2thRlZzYXZzd2lVSUIydnJRSGthVWN4NDYyREdXWmFlNjFKa3VuTTZHalFHeVk2SWRfNlZ1SDduUmw2aC1lU25lNmVCb3lUUzc?oc=5" target="_blank" rel="noopener">大模型平台系列行业标准发布，亚马逊AWS加码政府AI赛道，百度正式转为双重主要上市</a><p class="desc">大模型平台行业标准发布，亚马逊AWS加大政府AI投入，百度转为双重主要上市。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">界面新闻</span><span class="sep">·</span><span class="time">2026-09-01</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjNFdwalZkb2xONWMyZ25kdUNtVTBDRGZkVVZyQWtjZXVWajRRZkk3bVdtOXZ1eUZMN1ctTmozSUJ6SFpmUVVnZmVKNUQzMEctQklxWGRWRkc?oc=5" target="_blank" rel="noopener">汇丰廖宜建：中国人工智能产业将为全球企业及投资者创造增长新机遇</a><p class="desc">汇丰廖宜建认为中国AI产业将助力全球企业及投资者增长。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">第一财经</span><span class="sep">·</span><span class="time">2026-09-01</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1OFBwRHBDWU84NEtLS2NtWjRlUkpUUWRxUGhuTjhCRDJ1azY3cTY5SlFhbWRxdkg0aV85ZGFEWFRaTHowajlLTG1RZHJfdnFQSzE0?oc=5" target="_blank" rel="noopener">上交所发布上证科创板人工智能应用臻选指数</a><p class="desc">上交所发布上证科创板人工智能应用臻选指数，反映AI应用领域上市公司表现。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">TechCrunch</span><span class="sep">·</span><span class="time">2026-09-02</span></div><a class="title" href="https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/" target="_blank" rel="noopener">ChatGPT Health adds Epic integration for clinicians to import patient data</a><span class="trans"><b>中文翻译</b>ChatGPT Health 为临床医生添加了 Epic 集成以导入患者数据</span><p class="desc">ChatGPT Health与Epic EHR系统整合，临床医生可导入患者数据并使用AI辅助诊疗。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">TechCrunch</span><span class="sep">·</span><span class="time">2026-09-01</span></div><a class="title" href="https://news.google.com/rss/articles/CBMilgFBVV95cUxQbkVWbm9uU0lNWi1DVEVHS2h4QWF5eFotNXNrcXBWdDFiczlNeUpQQ1hlMWJHYV9BeGxLUllIclE2WXZjSjdfX2xSMnlXLWZZYXlIV2FBQ2FNeWRtU1ZxS2F6THUyNHRxeE5nWFJtb3NSdk9TTkVRQVBKTFNyZDdlWlVMR1pJOV9zd0o3a3FDRU9KUXk1RlE?oc=5" target="_blank" rel="noopener">The Pentagon now has its own version of ChatGPT and Grok</a><span class="trans"><b>中文翻译</b>五角大楼现在拥有自己的 ChatGPT 和 Grok 版本</span><p class="desc">五角大楼推出定制版ChatGPT和Grok，供300万军民使用。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">CNBC Tech</span><span class="sep">·</span><span class="time">2026-09-01</span></div><a class="title" href="https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html" target="_blank" rel="noopener">Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages</a><span class="trans"><b>中文翻译</b>Microsoft Outlook 和 OpenAI 的 ChatGPT Work 遇到用户中断</span><p class="desc">Microsoft Outlook和OpenAI ChatGPT服务遭遇用户故障。</p></div></div>
+    </section><section class="section" id="sec-robotics" data-cat="robotics">
+      <div class="sec-head"><span class="bar" style="background:#7c3aed"></span><span class="ic">🤖</span>机器人<span class="n">6 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">钛媒体</span><span class="sep">·</span><span class="time">2026-09-01</span></div><a class="title" href="https://www.tmtpost.com/8123956.html" target="_blank" rel="noopener">6家上市机器人公司，冰火两重天</a><p class="desc">机器人行业分化明显，部分公司盈利，部分亏损扩大。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">The Verge</span><span class="sep">·</span><span class="time">2026-09-02</span></div><a class="title" href="https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition" target="_blank" rel="noopener">GoPro has been acquired and is getting into &amp;#8216;defense, government, robotics and aerospace&amp;#8217;</a><span class="trans"><b>中文翻译</b>GoPro 已被收购，并正在进入“国防、政府、机器人和航空航天”领域</span><p class="desc">GoPro被收购，拓展至国防、政府、机器人及航空航天领域。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">华尔街见闻</span><span class="sep">·</span><span class="time">2026-09-02</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNRDNlNV9uR2V4ZkRibXRsUWRyX2JXM1FwbHJTZUxEU3hWckV0dEg0RXZ2QWFwcjlwVUljVEJWQkpoUHlxNUpXSlNTbGZTQi1JSDBJ?oc=5" target="_blank" rel="noopener">马斯克：AI或令全球经济增长20%-30%，未来十年人形机器人将达10亿台</a></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">The Robot Report</span><span class="sep">·</span><span class="time">2026-09-01</span></div><a class="title" href="https://www.therobotreport.com/howtorobot-robotics-australia-group-partner-platform-encourage-robot-adoption/" target="_blank" rel="noopener">HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption</a><span class="trans"><b>中文翻译</b>HowToRobot 与澳大利亚机器人集团合作建立平台，鼓励机器人的采用</span><p class="desc">HowToRobot与Robotics Australia Group合作推出平台，旨在促进澳大利亚机器人应用。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">The Robot Report</span><span class="sep">·</span><span class="time">2026-09-01</span></div><a class="title" href="https://www.therobotreport.com/the-missing-layer-in-robot-safety-assurance/" target="_blank" rel="noopener">The Missing Layer in Robot Safety Assurance</a><span class="trans"><b>中文翻译</b>机器人安全保障中缺失的一层</span><p class="desc">机器人安全认证需考虑攻击改变机器感知、决策和行动的情况。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">VentureBeat</span><span class="sep">·</span><span class="time">2026-09-01</span></div><a class="title" href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQZnZETlE0bi1DU1pGMGhvVFlGUG5SWVNucmRyQVllY1dZTUVZd2tCeFNYY0IwNDdsemh2NzdrSGJXMXd5MFBHb3k3YVV0eTN6VVlxZzBqa0JsdFg2alNNU2d3OG9mbmNLYndKd2JmTzBkS0hqOFF4c2c1aEpkSGx6QXBQY2ltS29LSFVBQjdnaVFqeXVabUlSMlIza3lxclNNX25rNTgzWC1LeVdGT1ljaGdBSWJHdw?oc=5" target="_blank" rel="noopener">Enhancv’s look into AI hiring: How automation is changing the dynamics of employment</a><span class="trans"><b>中文翻译</b>Enhancv 对人工智能招聘的看法：自动化如何改变就业动态</span><p class="desc">AI招聘自动化改变就业格局，求职者面临算法拒绝。</p></div></div>
+    </section><section class="section" id="sec-application" data-cat="application">
+      <div class="sec-head"><span class="bar" style="background:#0d9488"></span><span class="ic">🏪</span>商业应用<span class="n">1 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#0d9488"></span><span class="src">中国新闻网</span><span class="sep">·</span><span class="time">2026-09-01</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yWDlvN1JGb0E2U1VfU3ZVVGZIeGZ6WkJ1NlBVNVdPZTlXZ21Qc2RjYUdoNkdzekRXSFZkTGJ3TlJGcm5mcVA5cDhjNjJSa1NqVko0c2tENDdNbVE5cG1aOVVianFySVk2?oc=5" target="_blank" rel="noopener">第三届全国数字经济高校大赛·AI文旅视频创意赛收官 千名学子以AI为笔“创绘晋祠”</a><p class="desc">千名学子AI创作晋祠视频，第三届全国数字经济高校大赛AI文旅视频创意赛圆满落幕。</p></div></div>
+    </section>
+</div>
+<footer>数据来源：80+ 中英文科技与产业媒体（中文优先）· 自动生成于 2026/9/2 03:22:05（北京时间）</footer>
+<script>
+  (function(){
+    var tabs = Array.prototype.slice.call(document.querySelectorAll('.tab'));
+    var map = {}; tabs.forEach(function(t){ map[t.getAttribute('data-cat')] = t; });
+    var secs = Array.prototype.slice.call(document.querySelectorAll('.section'));
+    if(!secs.length || !('IntersectionObserver' in window)) return;
+    var obs = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){
+        if(en.isIntersecting){
+          var cat = en.target.getAttribute('data-cat');
+          tabs.forEach(function(x){ x.classList.remove('active'); });
+          if(map[cat]) map[cat].classList.add('active');
+        }
+      });
+    }, { rootMargin: '-72px 0px -55% 0px', threshold: 0 });
+    secs.forEach(function(s){ obs.observe(s); });
+  })();
+</script>
+</body>
+</html>
