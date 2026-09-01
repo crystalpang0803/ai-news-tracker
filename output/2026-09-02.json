@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "generatedAt": "2026-09-01T20:58:33.337Z",
+  "generatedAt": "2026-09-01T22:01:28.648Z",
   "items": [
     {
       "title": "毛利率连涨6年！工业AI龙头杀入智能体，不卷模型卷落地",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-01T06:00:55.000Z",
-      "summary": "工业AI龙头创新奇智发布智能体平台，毛利率连续六年增长，AI+制造业务占比超八成。",
+      "summary": "创新奇智发布工业智能体平台，毛利率连续六年增长。",
       "summaryZh": ""
     },
     {
@@ -33,15 +33,6 @@
       "summaryZh": ""
     },
     {
-      "title": "DeepSeek、智谱、阿里、腾讯，谁是大模型真正的斩杀线？",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XOHBPRmZsOEpFOFJKRFQzSXE5WndLTktDT0dNcmZDNENEcGl5N1VfMks3Q3cwM2xwUU9zdVpHSm9rVUM2QlVuY2FOQ2JNdw?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-31T21:32:00.000Z",
-      "summary": ""
-    },
-    {
       "title": "OpenAI模型越狱偷走benchmark答案，盖茨罕见喊话\"慢一点\"：AI这趟车谁来踩刹车",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mQ0Q0cl9HRWdScmkyVUh1RjBwcUhnN255cmdOTmEtbnhjODBNR0g2MV9ueHB6OWFHTjFqN3dfRVhjcnJnU3ZYRTl4MkVvTlE?oc=5",
       "source": "36氪",
@@ -58,7 +49,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-01T11:35:24.000Z",
-      "summary": "前京东副总裁创办的分拣机器人公司完成数亿元融资。",
+      "summary": "前京东副总裁创办的分拣机器人公司获数亿元融资。",
+      "summaryZh": ""
+    },
+    {
+      "title": "10张图、4步走、当天上线：SEV400视觉传感器如何重新定义视觉部署的\"快\"",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LX0w0VERoYUJGZnZEdllQQUw3UUQ0RTdOeTBKcFhFelRlUlFRZENITW5SeXNuandFQlVyengzOWE3NVVhNzR1MkxqOFBYUkhjdDVRN2FtZw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-01T13:25:08.000Z",
+      "summary": "SEV400视觉传感器通过小样本训练实现快速视觉部署，降低成本，提升产线效率。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国产大模型出海“元年”，谁在海外市场淘金？",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvTXVyV0pEWDhDMm0wakxRTmpqeWtNTFI0bUptR0JoLTAtZXRJQ1V5Mlo1Nm1ZQTlnd2Rvb3FmSk1QRGhyemk3N1JtZFlOVG8?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-01T09:59:55.000Z",
+      "summary": "2026年国产大模型出海Token量居首，商业化待跑通。",
       "summaryZh": ""
     },
     {
@@ -78,7 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-01T11:41:05.000Z",
-      "summary": "OneRail与英伟达联合发布OmniStar平台，加速零售商配送决策。",
+      "summary": "OneRail与英伟达合作推出OmniStar平台，缩短零售商配送决策时间。",
       "summaryZh": ""
     },
     {
@@ -98,17 +109,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-01T08:58:08.000Z",
-      "summary": "汇丰廖宜建称中国AI产业将为全球企业及投资者带来增长机遇。",
-      "summaryZh": ""
-    },
-    {
-      "title": "上交所发布上证科创板人工智能应用臻选指数",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1OFBwRHBDWU84NEtLS2NtWjRlUkpUUWRxUGhuTjhCRDJ1azY3cTY5SlFhbWRxdkg0aV85ZGFEWFRaTHowajlLTG1RZHJfdnFQSzE0?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-01T10:42:49.000Z",
-      "summary": "上交所发布上证科创板人工智能应用臻选指数，反映AI应用领域上市公司表现。",
+      "summary": "汇丰廖宜建称中国AI产业将为全球创造增长新机遇。",
       "summaryZh": ""
     },
     {
@@ -119,6 +120,16 @@
       "category": "ai",
       "pubDate": "2026-09-01T13:56:00.000Z",
       "summary": "公司12.8T及25.6T高端交换芯片进入客户应用阶段。",
+      "summaryZh": ""
+    },
+    {
+      "title": "中信证券：持续看好以DeepSeek为引领、国产AI突破的AI产业链机遇",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43dHlqS2UxbHhDRGxObEQxOVBtY1M5MTdpZGw3QldLVV9qc0pGS0hDcGdlay11b3Q2Zk5HdFR1OTJIQ2xQdFp0UUNGaENULS1DRklJ?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-01T00:21:06.000Z",
+      "summary": "中信证券持续看好DeepSeek引领的国产AI产业链机遇。",
       "summaryZh": ""
     },
     {
@@ -133,24 +144,23 @@
       "titleZh": "ChatGPT Health 为临床医生添加了 Epic 集成以导入患者数据"
     },
     {
-      "title": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages",
-      "link": "https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html",
-      "source": "CNBC Tech",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-08-31T21:36:32.000Z",
-      "summary": "Microsoft Outlook和OpenAI ChatGPT服务遭遇用户故障。",
-      "summaryZh": "",
-      "titleZh": "Microsoft Outlook 和 OpenAI 的 ChatGPT Work 遇到用户中断"
-    },
-    {
       "title": "三大调研报告揭示企业落地智能体AI的共同困境",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxcFdjTnQ5ODh4djdDaUt6ZEUzUGxPcHZxZU9UUU5fUFgySmw0akxPWDFoUU12VDdyOTFNMEVicm1saHJzMkdZMlZxaUNUV0YwdXgwb0VBSGVRWG5HdmZ1Tw?oc=5",
       "source": "澎湃新闻科技",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-01T06:22:00.000Z",
-      "summary": "企业智能体AI部署迅速，但协同运营模式重构进展缓慢。",
+      "summary": "企业AI智能体部署迅速，但协同运营模式重构进展缓慢。",
+      "summaryZh": ""
+    },
+    {
+      "title": "数据要素筑基，人工智能加速落地应用",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fMVU3SmVJR1JuZnhtWGs2ZzRQenlCWEFQcnVsc2xlU1ZOV2NvdTVKV0RKRXBxendxRWZpTWoyNTFMb21GQy1aZzdoaWtnOUpnOTJMZFdTTmk1YVZReFctV3IxUWZ0U2c2MWNXSnBYOEw5T1FrTFpV?oc=5",
+      "source": "中国经济网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-31T23:15:00.000Z",
+      "summary": "人工智能应用加速，数据要素价值释放。",
       "summaryZh": ""
     },
     {
@@ -160,7 +170,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-01T18:15:09.000Z",
-      "summary": "马道林在世界经济论坛发表文章，探讨触觉智能在Physical AI中的价值与机器人走向现实世界的关键。",
+      "summary": "马道林在世界经济论坛发表文章，探讨触觉智能在Physical AI发展中的关键作用。",
       "summaryZh": ""
     },
     {
@@ -173,6 +183,17 @@
       "summary": ""
     },
     {
+      "title": "HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption",
+      "link": "https://www.therobotreport.com/howtorobot-robotics-australia-group-partner-platform-encourage-robot-adoption/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-01T13:45:36.000Z",
+      "summary": "HowToRobot与Robotics Australia Group合作推出平台，旨在推动澳大利亚机器人应用。",
+      "summaryZh": "",
+      "titleZh": "HowToRobot 与澳大利亚机器人集团合作建立平台，鼓励机器人的采用"
+    },
+    {
       "title": "优必选在天津成立机器人公司 含多项AI业务",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RQW9MakJiWERsVkdOX01MY0t3R1hhSGV3XzBkcWROS2dSa1FoajN0MGc2a2pRU3JKMURYcHhTRUQyQUtOVU9DZE04eTJxZUpzdFlPMnI5amM3X2w3TkFyWg?oc=5",
       "source": "东方财富网",
@@ -181,28 +202,6 @@
       "pubDate": "2026-09-01T01:30:29.000Z",
       "summary": "优必选在天津成立机器人公司，涵盖多项AI业务。",
       "summaryZh": ""
-    },
-    {
-      "title": "GoPro has been acquired and is getting into ‘defense, government, robotics and aerospace’",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ0lLQ0lhSnY1aFJGQXdsVno2TlNzblRac0s1NGp5SS1qZF9zb185M2dUNG0ydC02dXJHRy1CbFNqLTVLV3ZXNTJ2SHgwbXk5REVSWGZHTlhSaXNRRVg2dWtEeE5zSFRMb0RNMlluVUZ4bFVtb1k5YUF4bGdZVmxncVBR?oc=5",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-01T16:46:08.000Z",
-      "summary": "GoPro被收购，拓展至国防、政府、机器人及航空航天领域。",
-      "summaryZh": "",
-      "titleZh": "GoPro 已被收购，并正在进入“国防、政府、机器人和航空航天”领域"
-    },
-    {
-      "title": "HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption",
-      "link": "https://www.therobotreport.com/howtorobot-robotics-australia-group-partner-platform-encourage-robot-adoption/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-01T13:45:36.000Z",
-      "summary": "HowToRobot与Robotics Australia Group合作推出平台，旨在促进澳大利亚机器人应用。",
-      "summaryZh": "",
-      "titleZh": "HowToRobot 与澳大利亚机器人集团合作建立平台，鼓励机器人的采用"
     },
     {
       "title": "今年交付500台！欧洲首座人形机器人工厂启动量产",
@@ -215,23 +214,13 @@
       "summaryZh": ""
     },
     {
-      "title": "伯恩斯坦：人形机器人瞄准四个场景，最快1年回本",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tOHBHTUN1OWdjNHVfdW11V0E4Y1BBczdMY1dGMDlPb0lTdnRNaDFVb05LeW9vS3VDVmc4c3B4cjEzMnN1dENEeE9lNHo1VjRJSk9NLWhsWQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-01T07:19:56.000Z",
-      "summary": "人形机器人聚焦四个应用场景，最快一年回本。",
-      "summaryZh": ""
-    },
-    {
       "title": "全球首个生产力型通用机器人上岗香港兰桂坊：智平方爱宝跑通出海全链路，按下国际化场景加速键",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oUFdELU5ENnFYZ1BYWWFWVnVkTjZoQmktOTNDemRTWXpvdS1KM0hBT0pEOXdlM0x1V3RQNjFhTjA3Y0hIMGtabXhlVXQ?oc=5",
       "source": "极客公园",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-01T03:52:30.000Z",
-      "summary": "香港兰桂坊首迎生产力型通用机器人上岗，智平方爱宝实现商业化运营。",
+      "summary": "全球首个生产力型通用机器人“爱宝”在香港兰桂坊酒吧上岗，实现常态化运营。",
       "summaryZh": ""
     },
     {
@@ -241,7 +230,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-01T13:56:53.000Z",
-      "summary": "机器人安全认证需考虑攻击改变机器视觉、决策和行动的情况。",
+      "summary": "机器人安全认证需考虑攻击改变机器感知、决策和行动的情况。",
       "summaryZh": "",
       "titleZh": "机器人安全保障中缺失的一层"
     },
@@ -254,6 +243,17 @@
       "pubDate": "2026-09-01T12:41:00.000Z",
       "summary": "千名学子用AI创作晋祠文旅视频，第三届全国数字经济高校大赛AI文旅视频创意赛圆满落幕。",
       "summaryZh": ""
+    },
+    {
+      "title": "Enhancv’s look into AI hiring: How automation is changing the dynamics of employment",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZnZETlE0bi1DU1pGMGhvVFlGUG5SWVNucmRyQVllY1dZTUVZd2tCeFNYY0IwNDdsemh2NzdrSGJXMXd5MFBHb3k3YVV0eTN6VVlxZzBqa0JsdFg2alNNU2d3OG9mbmNLYndKd2JmTzBkS0hqOFF4c2c1aEpkSGx6QXBQY2ltS29LSFVBQjdnaVFqeXVabUlSMlIza3lxclNNX25rNTgzWC1LeVdGT1ljaGdBSWJHdw?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-01T12:57:18.000Z",
+      "summary": "AI招聘自动化改变就业格局，求职者面临算法拒绝。",
+      "summaryZh": "",
+      "titleZh": "Enhancv 对人工智能招聘的看法：自动化如何改变就业动态"
     },
     {
       "title": "Social content gives UK retailers a new route to in-store loyalty",
