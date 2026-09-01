@@ -1,105 +1,75 @@
 {
   "date": "2026-09-01",
-  "generatedAt": "2026-09-01T05:15:22.538Z",
+  "generatedAt": "2026-09-01T08:53:56.337Z",
   "items": [
     {
-      "title": "独家｜扩散语言模型杀进端侧：Agent跑快5倍，GPT的“下一代替代者”出现了？",
-      "link": "https://www.tmtpost.com/8124156.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-01T04:34:00.000Z",
-      "summary": "中国团队研发的扩散语言模型与端侧计算平台合作，将端侧Agent运行速度提升5倍。",
-      "summaryZh": ""
-    },
-    {
-      "title": "2500小时数据免费开放：人形机器人进入“公共基建”时代",
-      "link": "https://www.tmtpost.com/8124134.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-01T03:48:11.000Z",
-      "summary": "人形机器人数据集免费开放，标志着行业进入公共基建时代。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI应用服务商培育专项行动落地，国产大模型迭代提速，南方基金关注科技成长从主题热度走向业绩验证",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zZG8wR05Vd25jQXI1ZWVsNTFpY2hHdE9jWFdocW9ZdzNHN0ZCNXJvTTExeEZqRlo3X1ZGd2FnWHpZOXhoc3pZdE5jSHMtRHd4WlpfWGhn?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-01T03:09:11.000Z",
-      "summary": "AI应用服务商培育政策落地，国产大模型迭代加速，南方基金关注科技成长从主题热度转向业绩验证。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI模型越狱偷走benchmark答案，盖茨罕见喊话\"慢一点\"：AI这趟车谁来踩刹车",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tSldjRFFISDVrWS12YVpibEFGZFQ0X2JqZF9UcG1lQzZZcDZvVlFreXF2LU5lUENOS1Z4TDB1c1pRNm9rZndkLXhyV3pCZHVE?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-01T02:47:56.000Z",
-      "summary": ""
-    },
-    {
-      "title": "1.5TB 压到 214GB：腾讯混元 Hy4 preview 轻量版发布开源，异构设备可联合推理",
-      "link": "https://www.ithome.com/0/996/880.htm",
+      "title": "美国五角大楼部署定制版 ChatGPT 和 Grok AI 助手",
+      "link": "https://www.ithome.com/0/996/972.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-01T04:31:46.000Z",
-      "summary": "腾讯混元Hy4 preview轻量版开源，模型权重压缩至214GB，支持异构设备联合推理。",
-      "summaryZh": ""
-    },
-    {
-      "title": "工信部：加大大模型、智能体、Token 等服务采购力度",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kdWZrXy1SQlExTS1VSXpwZlk0cWVDNDQ3MXhGR3QwQUVMTHNRckxuOTdNeWxWaU1kQlRLOF9zMTlhbVlmcU15c3VXVVc?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-08-31T08:05:21.000Z",
-      "summary": "工信部推动人工智能应用服务商培育，加大相关服务采购力度。",
+      "pubDate": "2026-09-01T07:30:47.000Z",
+      "summary": "美国五角大楼部署定制版ChatGPT和Grok AI助手，用于处理日常非机密任务。",
       "summaryZh": ""
     },
     {
       "title": "天融信大模型安全网关落地江苏某市OPC人工智能一体化服务平台",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aOXNBN2luNGVVS0REUU5wTi1xeGk2SkhKenFiZWJldWY3bVF0QXRvN21ZM252dS16LWNucHpHM2liVEZidGpYcUpVbXp2Ujk1?oc=5",
-      "source": "凤凰财经",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnWjlYQXFuRlFMNlVMLU82Nm9sOVFBXzF3WnpwcS03eHNlUW1kaUlVa25uWW41R3FYaFVuTWlsS000WGhRRjV4eEhGZDhpRWNUZlp3?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-01T01:54:37.000Z",
+      "pubDate": "2026-09-01T02:08:24.000Z",
       "summary": "天融信大模型安全网关在江苏某市OPC人工智能一体化服务平台落地。",
       "summaryZh": ""
     },
     {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-08-31T20:13:45.000Z",
-      "summary": "五角大楼推出定制版ChatGPT和Grok，供300万军民使用。",
-      "summaryZh": "",
-      "titleZh": "五角大楼现在拥有自己的 ChatGPT 和 Grok 版本"
-    },
-    {
-      "title": "蔚来领投，上海机器人零部件企业融资近亿",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5XY1BMRDdfQXVLeXJsU0NTSzhpdUh0S09hZ2JHOHkzWjdXQngyYTNHNkFnS3ZYdXJjMGpSTUl1UEppX1pkYkE?oc=5",
-      "source": "智东西",
+      "title": "具身江湖志（四）：它们，把机器人的大脑做实",
+      "link": "https://www.tmtpost.com/8124306.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-31T08:31:57.000Z",
-      "summary": "蔚来领投，上海弓望传感完成近亿A轮融资。",
+      "pubDate": "2026-09-01T06:33:26.000Z",
+      "summary": "机器人技术转向比拼大脑能力，成为具身智能行业的关键。",
       "summaryZh": ""
     },
     {
-      "title": "给机器人补上“人类经验”， Ropedia用HOMIE Gen2打造数据入口",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA5SFRvUlB4ME9GUjhsaXk0T0xia3dIZ3AtWVdYV25RTW51TmxUOHNwd2g5QUdMV3M3cUZ3Z1hnVzFlMGlncXc?oc=5",
-      "source": "智东西",
+      "title": "机器人的“通用”迷局，场景进入才是头道门槛",
+      "link": "https://www.tmtpost.com/8124272.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-31T05:17:00.000Z",
-      "summary": "Ropedia推出HOMIE Gen2，以第一视角数据采集提升机器人真实世界经验获取。",
+      "pubDate": "2026-09-01T05:41:26.000Z",
+      "summary": "机器人商业化面临场景进入难题，需突破物理门槛。",
+      "summaryZh": ""
+    },
+    {
+      "title": "阿里云宣布Qwen3-VL-Rerank模型降价，AI人工智能ETF平安(512930)交投活跃",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0MmVtNDBuMXo4LUlodEdORGdHdE5IQzZIQXhxdFM1MlZPU2dIUkpEM3hzOVc4RXJRQnRHd1lmS2dNcDJkZ2dua190cWVMX0NkZldlaEt1ZU8?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-01T06:22:00.000Z",
+      "summary": "阿里云降价Qwen3-VL-Rerank模型，AI人工智能ETF平安交投活跃。",
+      "summaryZh": ""
+    },
+    {
+      "title": "影响市场重大事件：全球首个！太空算力在轨试验实现常态化；工信部探索通过首购首用、风险补偿等模式，加大大模型、智能体采购力度；工信部开展人工智能应用服务商培育专项行动",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoeXZyV293bkxSeEZVSThSTENDRHJDcXF1elhROGdfTDliZm56NjZQUU45UGUyYk5Bc0Q1bE1wOXlZbXZkN280Rk5aOVE3OFpFTTY2UmdTekNWS0lPQTVmYXRWcVMydw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-08-31T22:11:00.000Z",
+      "summary": "全球首个太空算力在轨试验常态化，工信部加大人工智能应用采购力度。",
+      "summaryZh": ""
+    },
+    {
+      "title": "从铁路狂热到人工智能狂热：技术革命如何穿越资本泡沫",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82bzNSajA1V0k5RHpFb01PTThlQ3hRR1NtSEhDektHS0xLWVNnS2lndTViYVFEVG1WNE1UaEpQWXBESkRWZWl0aWlON0hrbXM?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-01T07:23:02.000Z",
+      "summary": "技术革命投资需警惕资本错配风险，回归资本回报。",
       "summaryZh": ""
     },
     {
@@ -109,27 +79,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-01T03:53:35.000Z",
-      "summary": "中国大模型领域Kimi K3与Qwen3.8-Max领跑，但行业缺乏统一共识。",
+      "summary": "中国大模型Kimi K3与Qwen3.8-Max领跑，但行业缺乏共识。",
       "summaryZh": ""
     },
     {
-      "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
-      "link": "https://www.qbitai.com/2026/08/481919.html",
-      "source": "量子位",
+      "title": "国产智能化工大模型 3.0 Pro 发布，中国科学院大连化物所、科大讯飞、阿里云等研发",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkdEF1ODM4dm5sMklqNWlSV2J4R1JDMFZEamxtNjdCeDhhbFczZFEzUkh6YUt5bFNGVDNBdjE0VERHQzY0RVFZR2c1ZnQ?oc=5",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-08-31T07:34:02.000Z",
-      "summary": "范式与华为达成算力战略合作，成首批使用国产高端算力AI企业。",
+      "pubDate": "2026-09-01T05:28:48.000Z",
+      "summary": "中国科学院大连化物所等联合发布智能化工大模型3.0 Pro。",
       "summaryZh": ""
     },
     {
-      "title": "中信证券：持续看好以DeepSeek为引领、国产AI突破的AI产业链机遇",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43dHlqS2UxbHhDRGxObEQxOVBtY1M5MTdpZGw3QldLVV9qc0pGS0hDcGdlay11b3Q2Zk5HdFR1OTJIQ2xQdFp0UUNGaENULS1DRklJ?oc=5",
+      "title": "快手：北京可灵与国家人工智能基金、正大机器人订立加入协议",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkX2xyQ3NSN2VDV1VtbTFMdXdkd2NVZVBRdDJhSlRwZVJPVERONWFvRVZya0RzTlpQTGprU3hDWjIwYTV0VTY3ZkFNT0lRNFZzTHhR?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-01T00:19:14.000Z",
-      "summary": "中信证券持续看好DeepSeek引领的国产AI产业链机遇。",
+      "pubDate": "2026-08-31T13:51:26.000Z",
+      "summary": "北京可灵与国家人工智能基金、正大机器人签订投资协议。",
       "summaryZh": ""
     },
     {
@@ -139,7 +109,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-01T00:53:51.000Z",
-      "summary": "中环新能源2026上半年营收增56.3%，AI算力业务占比近两成。",
+      "summary": "中环新能源上半年营收增长56.3%，AI算力业务占比近两成。",
       "summaryZh": ""
     },
     {
@@ -153,33 +123,34 @@
       "summaryZh": ""
     },
     {
-      "title": "优必选在天津成立机器人公司 含多项AI业务",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RQW9MakJiWERsVkdOX01MY0t3R1hhSGV3XzBkcWROS2dSa1FoajN0MGc2a2pRU3JKMURYcHhTRUQyQUtOVU9DZE04eTJxZUpzdFlPMnI5amM3X2w3TkFyWg?oc=5",
-      "source": "东方财富网",
+      "title": "Identity and permissions aren’t enough to govern AI agent behavior",
+      "link": "https://venturebeat.com/security/identity-and-permissions-arent-enough-to-govern-ai-agent-behavior",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-08-31T14:00:00.000Z",
+      "summary": "企业AI代理行为治理需超越身份和权限。",
+      "summaryZh": "",
+      "titleZh": "身份和权限不足以控制人工智能代理的行为"
+    },
+    {
+      "title": "9家豪华基石阵容力挺，具身智能眼脑手第一股来了，梅卡曼德登陆港交所",
+      "link": "https://zhidx.com/p/589069.html",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-01T01:30:29.000Z",
-      "summary": "优必选在天津成立机器人公司，涵盖多项AI业务。",
+      "pubDate": "2026-09-01T06:09:55.000Z",
+      "summary": "梅卡曼德登陆港交所，获9家豪华基石投资者力挺。",
       "summaryZh": ""
     },
     {
-      "title": "孙正义60亿“抄底”1X，杀回人形机器人赛道",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1TDhsQzV3Y1l1NzRHWFZKUDZxNTRTOUlsRi11a09peEdjelg5UmZJUldkSHNfSnpKQURIVDMtb2FBSExaa05hT09zLW5IZWxicjJXRTRSZw?oc=5",
+      "title": "敲钟第二天，王兴兴说机器人还干不了活",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42Rm96MHVJSW5Dcko2NDlFUGlHU0YwdWEwSkFjQnp4eFZvNG0tU2t3Z055a2pUb0RBaVc3WEFDZ3dnOGU2WWVNSTlWcnFNbnktMDRMSm5xZw?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-31T14:58:37.000Z",
-      "summary": "孙正义投资60亿收购1X Technologies，重返人形机器人市场。",
-      "summaryZh": ""
-    },
-    {
-      "title": "全球首个生产力型通用机器人上岗香港兰桂坊：智平方爱宝跑通出海全链路，按下国际化场景加速键",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oUFdELU5ENnFYZ1BYWWFWVnVkTjZoQmktOTNDemRTWXpvdS1KM0hBT0pEOXdlM0x1V3RQNjFhTjA3Y0hIMGtabXhlVXQ?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-01T03:52:30.000Z",
-      "summary": "香港兰桂坊启用全球首个生产力型通用机器人，实现商业服务常态化运营。",
+      "pubDate": "2026-08-31T14:26:59.000Z",
+      "summary": "王兴兴在机器人大会上直言人形机器人效率低，泛化能力不足。",
       "summaryZh": ""
     },
     {
@@ -193,33 +164,32 @@
       "summaryZh": ""
     },
     {
-      "title": "[新闻直播间]高校开学季 “科技迎新” AI领航员 机器狗上线",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByb2ZXRXNndEFrVGpvTlhDelByU29vTmZEc2xIc3dyNVhfNnB4ZVJUNlo1V093Y2RUazRFWXZkbWUtMHhmVTktVUk0blJxdGFqanJQOXZBVnBJaFNIN3EzUERPVEg0YWhRWUlxNTJaU1BlYm9IQUE?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-08-31T08:50:00.000Z",
-      "summary": "高校开学季引入AI领航员和机器狗迎新。",
-      "summaryZh": ""
-    },
-    {
       "title": "劲旅环境成立智行科技公司 含AI及机器人业务",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nRkFlQ0ljczlrekFGRUZjandyMFFSV3lvMThBMUYwUVBTbjZMZWwzQ2xkTmQ5eEk4NWdXT2x6NWR6SDY3QXFJbWhXa3NFWkhMYnhRa3luSkxmTlRNRDBhaTUzYUEwaWhuQ19tS0xEZVdNSEhFb3dhYQ?oc=5",
-      "source": "新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xY1ZpUGxHVF91Q3lkc3pqRFlRQXBsT01uNkxnYjVoNVl0WDVUMldQVFlzeEN6aldyOXJJQU9mMmJ2aXg5Y0NieFpCVXIwM0xC?oc=5",
+      "source": "凤凰财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-01T01:45:00.000Z",
-      "summary": "劲旅环境成立智行科技公司，专注AI及机器人研发。",
+      "pubDate": "2026-09-01T01:45:58.000Z",
+      "summary": "劲旅环境成立全资子公司智行科技公司，涉AI及机器人研发。",
       "summaryZh": ""
     },
     {
-      "title": "AI与机器人带动新材料爆发 PEEK与PPS特种工程塑料技术论坛将于9月10日召开",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4SS1ac09PdnVuamdZeEwzQzZvNU9xY2tqTjZQUXBtVjlTSWJWdHhFWDVCcXo5RUg4cldKU1Q2X0FPMWl1THlOZGpkRjJkOHZseXpWa1FB?oc=5",
-      "source": "腾讯新闻",
+      "title": "它石智航亮相央视节目，机器人从技术验证走向进厂“真干活”",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9obkJZdUdUZ2prRGNEblY4Tkh5dkx3Ui1HTmNKZjhJUXYxN2szSzBvX21QZUljV3RZUTZjU1RIR3ZFOF9EblV3R0hfdmRRQmhkUDBhUnZrVjZkODR2NUFjaWpFaw?oc=5",
+      "source": "中国经营网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-08-31T10:54:00.000Z",
-      "summary": "9月10日PEEK与PPS特种工程塑料技术论坛将探讨行业趋势与市场前景。",
+      "pubDate": "2026-09-01T07:12:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "全国科普月活动启动，流变机器人亮相中国科技馆",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ldlZhd0FBZ0o3Q0hmYTl6SFpUaGEtd0pFYzBUM1FSUGhxLWZmMHRvNFhxeXpyQVNvSThJUjAxLVJlVHBTSUF3WHpPVEt5dHdKVzdBMERqLWJmZjJyYVFGNWhaR2I?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-01T02:56:00.000Z",
+      "summary": "流变机器人亮相中国科技馆，全国科普月活动启动。",
       "summaryZh": ""
     },
     {
@@ -232,6 +202,17 @@
       "summary": "70%制造领导者预期2030年管理机器人，但约四成缺乏正式策略。",
       "summaryZh": "",
       "titleZh": "英特尔报告显示机器人技术期望与准备之间存在差距"
+    },
+    {
+      "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+      "link": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+      "source": "CNBC Tech",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-01T07:30:49.000Z",
+      "summary": "Hugging Face新鸭机器人销量火爆，搭载中国芯片。",
+      "summaryZh": "",
+      "titleZh": "Hugging Face 的新型鸭子机器人正在快速销售。中国芯片为其提供动力"
     },
     {
       "title": "Like a bird, this drone uses touch to grip branches and rest",
