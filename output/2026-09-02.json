@@ -1,7 +1,37 @@
 {
   "date": "2026-09-02",
-  "generatedAt": "2026-09-02T00:33:24.893Z",
+  "generatedAt": "2026-09-02T04:40:31.071Z",
   "items": [
+    {
+      "title": "香港首个真实开放场景服务机器人落地兰桂坊",
+      "link": "https://www.qbitai.com/2026/09/482855.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-02T02:06:08.000Z",
+      "summary": "香港兰桂坊首迎真实场景服务机器人上岗，智平方AI² Robotics爱宝机器人提供互动服务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "A 股“人形机器人第一股”宇树科技股价腰斩",
+      "link": "https://www.ithome.com/0/997/256.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-02T02:37:32.000Z",
+      "summary": "宇树科技股价从最高1,100元跌至550元以下，跌幅超50%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+      "link": "https://www.qbitai.com/2026/09/482967.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-02T02:48:06.000Z",
+      "summary": "百融硅基推出企业级Agent，员工按结果领工资，AICC业务同比增长52%。",
+      "summaryZh": ""
+    },
     {
       "title": "毛利率连涨6年！工业AI龙头杀入智能体，不卷模型卷落地",
       "link": "https://zhidx.com/p/589297.html",
@@ -9,17 +39,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-01T06:00:55.000Z",
-      "summary": "创新奇智发布工业本体智能体平台，毛利率连续六年增长，AI+制造业务收入占比超八成。",
+      "summary": "创新奇智发布工业智能体平台，毛利率连续六年增长，AI+制造业务占比超八成。",
       "summaryZh": ""
     },
     {
-      "title": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1：性能超越前代，缓存读取费用下调 75%",
-      "link": "https://www.ithome.com/0/997/193.htm",
-      "source": "IT之家",
+      "title": "人工智能ETF华富(515980)全面覆盖AI产业链，国产芯片厂商卡位优势明确，OpenAI即将推出下一代人工智能模型Astra",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94aVF5MnN3dFZONTFIZGFyNEtnV1BQUlhTU3BwNlB2NU9HeGpWUklnN3U4WDJIVVM4eGVxOUIwemM4SGZRelpEMmlRTDFfeDQzbGtXMERuWFM?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-01T22:28:51.000Z",
-      "summary": "Anthropic发布Claude Fable 5.1和Mythos 5.1，性能提升75%，缓存读取费用下调75%。",
+      "pubDate": "2026-09-02T03:23:03.000Z",
+      "summary": "人工智能ETF华富覆盖AI产业链，国产芯片厂商优势明显，OpenAI推新模型Astra。",
       "summaryZh": ""
     },
     {
@@ -32,14 +62,42 @@
       "summary": ""
     },
     {
-      "title": "IFA 2026前瞻：机器人走秀、AI家电乱斗，中国品牌决战欧洲",
-      "link": "https://www.tmtpost.com/8124658.html",
+      "title": "Anthropic上新Fable5.1，典型工作负载成本降低25%，AI大模型从\"能力竞赛\"转向\"商业化落地\"，南方基金关注科技成长配置线索",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5saFcyQTl0VjZHU1JQRFJsMXRmZ3ptZ3RSRnhlc2c5MlVyRUFBWlZJcWtWMFBEUDIwcElKajVTUlhfYUlmS2JfNGJfMEZQV2tKN2F3MkNMQW83eE9FY2VLTXA0VEJ2NURhNWtNMg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-02T02:24:51.000Z",
+      "summary": ""
+    },
+    {
+      "title": "上海交大连文昭：机器人进实验室，先把100件事做可靠",
+      "link": "https://www.tmtpost.com/8125495.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-01T09:52:37.000Z",
-      "summary": "2026 IFA展聚焦AI家电，中国品牌在欧洲市场展开竞争。",
+      "pubDate": "2026-09-02T02:55:00.000Z",
+      "summary": "上海交大教授连文昭提出，机器人进实验室需先确保100件事可靠。",
       "summaryZh": ""
+    },
+    {
+      "title": "智谱 AI 入驻天猫开设官方旗舰店，大模型套餐可直接网购，个人版月付 118 元起",
+      "link": "https://www.ithome.com/0/997/340.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-02T03:57:30.000Z",
+      "summary": "智谱AI天猫旗舰店上线，大模型套餐可网购，个人版月付118元起。",
+      "summaryZh": ""
+    },
+    {
+      "title": "燧原科技IPO定价落地，国产AI芯片估值锚定强化，短期回调不改中长期国产算力替代主线",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5S0dWT1dUTnowRFphNGFsampwWDVxYjdiTXMxNC1XQzNBdFVqNUpVZ1V1SjF2X1pWc2dQZjJRTjZHMHV4NkltalJMVF9ESEkxSjAwZTl3SGVGR2FLYWc?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-02T03:12:41.000Z",
+      "summary": "10月2日盘中，A股整体走弱，上证指数报3934.84点，跌幅1.13%，科创50报1612.57点，跌幅2.12%。"
     },
     {
       "title": "前京东副总裁造分拣机器人，融了数亿元",
@@ -48,7 +106,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-01T11:35:24.000Z",
-      "summary": "前京东副总裁创办的分拣机器人公司完成数亿元融资。",
+      "summary": "前京东副总裁创办的机器人公司完成数亿元融资，重点拓展分拣机器人业务。",
       "summaryZh": ""
     },
     {
@@ -58,57 +116,56 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-01T13:25:08.000Z",
-      "summary": "SEV400视觉传感器通过小样本训练，实现快速视觉部署，降低成本，提升产线效率。",
+      "summary": "SEV400视觉传感器通过小样本训练实现快速视觉部署，降低成本，提升产线效率。",
       "summaryZh": ""
     },
     {
-      "title": "国产大模型出海“元年”，谁在海外市场淘金？",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvTXVyV0pEWDhDMm0wakxRTmpqeWtNTFI0bUptR0JoLTAtZXRJQ1V5Mlo1Nm1ZQTlnd2Rvb3FmSk1QRGhyemk3N1JtZFlOVG8?oc=5",
+      "title": "硬核科技筑牢城市地下防线！万基泰AI管控机器人落地北京西城 实现安全环保标本兼治",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvM0RkcVdNeGptXzVaN25YUTNkYklGaEk3V1hiOWRfQTBXaGhEX2lKS1JxYXQwelJjdXpOeVJRc2hSZG9Hd1kxclYwRXpYWTluQU9UZlpqU2xuV1M2Y0tBYlJYTTBMMXptWC1DRkdYVFNVblFq?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-01T09:24:04.000Z",
+      "summary": ""
+    },
+    {
+      "title": "硬氪首发｜东莞人工智能研究院孵化，瞄准模具制造领域物理AI研发，这家企业获创新工场数千万种子轮融资",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzc3NmNGdyalNDd2xmaDdTekdoZWM4bjJxMng3NDQ2N1E0akVpMjRoVS1qbW11anhCMXlfYndTYUEyR2l5bENiUkdrb2cxVTBv?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-01T09:59:55.000Z",
-      "summary": "2026年国产大模型出海Token量居首，商业化待跑通。",
+      "pubDate": "2026-09-02T02:15:36.000Z",
+      "summary": "东莞人工智能研究院孵化企业合木智能获创新工场千万级种子轮融资，专注模具制造物理AI研发。",
       "summaryZh": ""
     },
     {
-      "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
-      "link": "https://www.qbitai.com/2026/09/482406.html",
-      "source": "量子位",
+      "title": "布局全球算力节点：GoodVision AI构建全域动态调度AI Compute Grid",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ibzJfZGF4S3dGQVMxNEU0Y1oxWWRWaUhIUkJ2WHNFMmZCTW01eldBaUxNMlYyQVpJaG54bllWUEJBVklwNDRnSTRlOVlxcUVFdE84?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-01T08:15:40.000Z",
-      "summary": "Claude官方宣布永久提额25%，实则用户到手额度减少17%。",
+      "pubDate": "2026-09-01T11:13:00.000Z",
+      "summary": "GoodVision AI构建全域动态调度AI Compute Grid，布局全球算力节点以优化AI成本和效率。",
       "summaryZh": ""
     },
     {
-      "title": "中证指数有限公司发布中证人工智能应用软件臻选指数等4条指数",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VcjE2TzRwNjZ5ODB2MmNISG1DcEc0aVdZU0x5c3VGTWlUb3dncWFWS3BVSE9WSHpkTFNnTlkxNmVfWjZ6M291aVZaUkxEOGktZmdEU2FQRWZSQQ?oc=5",
+      "title": "国家能源局：加快研发应用人工智能+、柔性构网、智能调控、长时储能等电网新技术，发展新质生产力",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DcVlPOUJjLUtKR0VGM3d5a243RWx1UHNmc0FkU0ZPLWpkaWhEZTZ3QkExMDR2RVdqVGpkVTVkSk90cXlZZVVKQlNQNEx5bWVtRHhLOFE3TVZjQQ?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-01T08:33:00.000Z",
-      "summary": "中证指数有限公司发布4条人工智能相关指数。",
+      "pubDate": "2026-09-02T00:46:00.000Z",
+      "summary": "国家能源局部署新型电网建设，加速应用电网新技术。",
       "summaryZh": ""
     },
     {
-      "title": "苹果新 CEO 首次发声；网传抖音发生推荐算法错乱；Claude Fable 5.1 正式上线",
-      "link": "http://www.geekpark.net/news/369690",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-02T00:13:21.000Z",
-      "summary": "苹果新CEO首度发声，抖音推荐算法出错，Claude Fable 5.1模型上线。",
-      "summaryZh": ""
-    },
-    {
-      "title": "汇丰廖宜建：中国人工智能产业将为全球企业及投资者创造增长新机遇",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjNFdwalZkb2xONWMyZ25kdUNtVTBDRGZkVVZyQWtjZXVWajRRZkk3bVdtOXZ1eUZMN1ctTmozSUJ6SFpmUVVnZmVKNUQzMEctQklxWGRWRkc?oc=5",
+      "title": "海外大模型发布降本，南方基金麦骏杰聚焦AI产业成长",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzN2tfVGlPYjlsWmVCdi11TG4ySFI0YWtydUpacllqRzVscWtGdlVZWnlLMDl4eW95a3VMTXl6ak5uc0dkLWtUYTB1MWxKZkFzTTJvLXdvMHM?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-01T08:58:08.000Z",
-      "summary": "汇丰廖宜建认为中国AI产业将助力全球企业及投资者增长。",
+      "pubDate": "2026-09-02T01:44:26.000Z",
+      "summary": "南方基金麦骏杰关注AI产业成长，聚焦技术革新与需求升级。",
       "summaryZh": ""
     },
     {
@@ -128,47 +185,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-01T18:15:09.000Z",
-      "summary": "马道林在世界经济论坛发表文章，探讨触觉智能在Physical AI发展中的关键作用。",
+      "summary": "马道林在世界经济论坛发表文章，探讨触觉智能在Physical AI中的价值与机器人走向现实世界的关键问题。",
       "summaryZh": ""
     },
     {
-      "title": "马斯克：AI或令全球经济增长20%-30%，未来十年人形机器人将达10亿台",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNRDNlNV9uR2V4ZkRibXRsUWRyX2JXM1FwbHJTZUxEU3hWckV0dEg0RXZ2QWFwcjlwVUljVEJWQkpoUHlxNUpXSlNTbGZTQi1JSDBJ?oc=5",
-      "source": "华尔街见闻",
+      "title": "国家重点研发计划护理机器人项目在四季青敬老院通过中期检查",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zVE9INWJfUXJQejdrUTJvUmYzci1zSEpSa24wNzRCUzdDMXVQU0c2NDNCc042RTdGc2ZPMi05bkRrZmo4M2ZKdWpGcU8?oc=5",
+      "source": "极客公园",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-01T19:07:57.000Z",
-      "summary": ""
-    },
-    {
-      "title": "优必选在天津成立机器人公司 含多项AI业务",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RQW9MakJiWERsVkdOX01MY0t3R1hhSGV3XzBkcWROS2dSa1FoajN0MGc2a2pRU3JKMURYcHhTRUQyQUtOVU9DZE04eTJxZUpzdFlPMnI5amM3X2w3TkFyWg?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-01T01:30:29.000Z",
-      "summary": "优必选在天津成立机器人公司，涵盖多项AI业务。",
-      "summaryZh": ""
-    },
-    {
-      "title": "HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption",
-      "link": "https://www.therobotreport.com/howtorobot-robotics-australia-group-partner-platform-encourage-robot-adoption/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-01T13:45:36.000Z",
-      "summary": "HowToRobot与Robotics Australia Group合作推出平台，旨在促进澳大利亚机器人应用。",
-      "summaryZh": "",
-      "titleZh": "HowToRobot 与澳大利亚机器人集团合作建立平台，鼓励机器人的采用"
-    },
-    {
-      "title": "今年交付500台！欧洲首座人形机器人工厂启动量产",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlbUJnTk5IcjF0cG5HQ1F4Wk10TzFsLXFaTzVPbk55Mlp3N0RfeHFudWlNdjlxSmlEQlBFZVhfNzd5ZExHWlR1SExJaWlMSjdHUlctOEpUaw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-01T07:21:38.000Z",
-      "summary": "欧洲首座人形机器人工厂在塞尔维亚启动量产，年产能预计最高达2万台。",
+      "pubDate": "2026-09-02T03:10:11.000Z",
+      "summary": "国家重点研发计划护理机器人项目在四季青敬老院通过中期检查，验证了机器人服务老年人的可行性。",
       "summaryZh": ""
     },
     {
@@ -183,45 +210,51 @@
       "titleZh": "机器人安全保障中缺失的一层"
     },
     {
+      "title": "马斯克：明年底AI能“完成所有数字领域工作”，10年内机器人超越人类生产力总和",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNRDNlNV9uR2V4ZkRibXRsUWRyX2JXM1FwbHJTZUxEU3hWckV0dEg0RXZ2QWFwcjlwVUljVEJWQkpoUHlxNUpXSlNTbGZTQi1JSDBJ?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-02T01:07:41.000Z",
+      "summary": ""
+    },
+    {
+      "title": "AI能让全球经济增长30%，机器人再放大10倍",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UZm9VTGloaWh4Vk1PZk5xRU4wU3VkS3pPTE1uOGtURHhRWkhXX3lwZkN5WXRheXB5M2JYWGpfSWxHV2NiWVFSOUV2cloyS0hBTlE?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-02T02:18:35.000Z",
+      "summary": ""
+    },
+    {
+      "title": "过分依赖数据规模，也许是机器人发展史上的一段弯路",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EOEdzenBHR084RlpIV2JsXzFBM0dfSlhHZ1ZvLVRwMnZvVmxKTGdZT3ZsZUFxckNfU3JYSjRZdVo5WFY0dFhiWFZaZk5wVW9RYzVYb2VjUQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-01T05:45:48.000Z",
+      "summary": "机器人发展或过度依赖数据规模，忽视数据处理能力。",
+      "summaryZh": ""
+    },
+    {
       "title": "第三届全国数字经济高校大赛·AI文旅视频创意赛收官 千名学子以AI为笔“创绘晋祠”",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yWDlvN1JGb0E2U1VfU3ZVVGZIeGZ6WkJ1NlBVNVdPZTlXZ21Qc2RjYUdoNkdzekRXSFZkTGJ3TlJGcm5mcVA5cDhjNjJSa1NqVko0c2tENDdNbVE5cG1aOVVianFySVk2?oc=5",
       "source": "中国新闻网",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-01T12:41:00.000Z",
-      "summary": "千名学子用AI创作晋祠文旅视频，第三届全国数字经济高校大赛AI文旅视频创意赛圆满结束。",
+      "summary": "千名学子用AI创作晋祠文旅视频，第三届全国数字经济高校大赛AI文旅视频创意赛圆满落幕。",
       "summaryZh": ""
     },
     {
-      "title": "对话杰克科技副董事长谢云娇：机器人进服装厂，最快两年回本",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53RlEyLUVtRnlTZlVDRGpDc0ZqZTJQV3BqVzFyTnc0NTZ3TENUSjJFUnVtVFNHdFNvSG9iV01vNnhMekNaekUwZjNfekxxRU15UmpRU2YzTzFiNVRGVGF2V193?oc=5",
+      "title": "银发经济万亿风口，简知科技亮相第十届广州老博会，以“AI+教育”携手共筑银发新生态",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05bVUxMmZtYUZpaWU5eTN1bTE4S3haam5id1FfTU9Xd2ViZFc5Zk9JY2tMREVwOUt1bDZnNGlCWGZ2c3l0aVI4SXRsanExYk9KYllSQU5qWXV0YWhZOHU2aGlVVQ?oc=5",
       "source": "中国经营网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-01T23:32:00.000Z",
+      "category": "application",
+      "pubDate": "2026-09-02T02:22:00.000Z",
       "summary": ""
-    },
-    {
-      "title": "Enhancv’s look into AI hiring: How automation is changing the dynamics of employment",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZnZETlE0bi1DU1pGMGhvVFlGUG5SWVNucmRyQVllY1dZTUVZd2tCeFNYY0IwNDdsemh2NzdrSGJXMXd5MFBHb3k3YVV0eTN6VVlxZzBqa0JsdFg2alNNU2d3OG9mbmNLYndKd2JmTzBkS0hqOFF4c2c1aEpkSGx6QXBQY2ltS29LSFVBQjdnaVFqeXVabUlSMlIza3lxclNNX25rNTgzWC1LeVdGT1ljaGdBSWJHdw?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-01T12:57:18.000Z",
-      "summary": "AI招聘自动化改变就业格局，求职者面临算法拒绝。",
-      "summaryZh": "",
-      "titleZh": "Enhancv 对人工智能招聘的看法：自动化如何改变就业动态"
-    },
-    {
-      "title": "Electric Actuator Strategy Helps OEMs Build Smarter, More Flexible Automation Systems",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSjB0Q1VBOExGWWNuRjJKWkItVTNsaHdkUkZlWlZnWHE2cjFFUDIyeHhVc0plRFFIWDN0eXMwTjhKREZ6RHJ1RXl3RHdUTlVuUHNfMV82d1ZCTGRWZW13aEVJakpwZWN2TV9NYnhlRUo1LWJWTWtJRWR5WklhREhzMXZCRjdmaFZ3dlJUVXBDWXlEUy1oUzFGeUFQV2o5S196cGpJUXBfa3Q3aFViV2l2MTlxbGhMQkN1NlpUMUhpbUl2dDc5WlBHSW8ybHFQdXpkNzloc2xWVnBqUXMzeHBjY3Vn?oc=5",
-      "source": "Automation World",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-01T17:38:57.000Z",
-      "summary": "电执行器策略助力OEM构建更智能、灵活的自动化系统。",
-      "summaryZh": "",
-      "titleZh": "电动执行器策略帮助原始设备制造商构建更智能、更灵活的自动化系统"
     },
     {
       "title": "Social content gives UK retailers a new route to in-store loyalty",
@@ -230,7 +263,7 @@
       "lang": "en",
       "category": "application",
       "pubDate": "2026-09-01T19:35:46.000Z",
-      "summary": "英国零售商通过社交内容开辟了店内忠诚度新途径。",
+      "summary": "英国零售商通过社交内容开辟店内忠诚度新途径。",
       "summaryZh": "",
       "titleZh": "社交内容为英国零售商提供了提高店内忠诚度的新途径"
     }
