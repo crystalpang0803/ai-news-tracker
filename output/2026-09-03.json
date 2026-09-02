@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "generatedAt": "2026-09-02T21:58:24.450Z",
+  "generatedAt": "2026-09-02T23:23:08.712Z",
   "items": [
     {
       "title": "谷歌推出 Gemini 3.8 Flash Cyber 模型，内部已全面部署用于代码安全防护",
@@ -9,27 +9,37 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-02T16:09:52.000Z",
-      "summary": "谷歌推出Gemini 3.8 Flash Cyber模型，内部全面部署用于代码安全防护。",
+      "summary": "谷歌推出Gemini 3.8 Flash Cyber模型，全面部署用于代码安全防护。",
       "summaryZh": ""
     },
     {
-      "title": "Claude Fable 5.1发布：跑分翻倍是面子，思考块\"上锁\"才是里子",
-      "link": "https://www.tmtpost.com/8125528.html",
+      "title": "制造业有了本体，大模型就能落地吗",
+      "link": "https://www.tmtpost.com/8125160.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-02T09:58:21.000Z",
-      "summary": "Claude Fable 5.1发布，跑分翻倍，但重点在于API层思考块与上下文绑定，强化防蒸馏机制。",
+      "pubDate": "2026-09-02T09:52:45.000Z",
+      "summary": "制造业本体技术助力大模型落地，提高工业生产效率。",
       "summaryZh": ""
     },
     {
-      "title": "研究发现：老年群体更看重 AI 陪伴聊天机器人的真实感",
-      "link": "https://www.ithome.com/0/997/657.htm",
-      "source": "IT之家",
+      "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
+      "link": "https://www.qbitai.com/2026/09/482652.html",
+      "source": "量子位",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-02T12:56:02.000Z",
-      "summary": "新加坡研究显示，老年群体更偏好真实感的AI聊天机器人。",
+      "category": "ai",
+      "pubDate": "2026-09-02T02:18:12.000Z",
+      "summary": "Claude Fable 5.1发布，8项基准测试第一，价格最高降45%，反蒸馏机制上线。",
+      "summaryZh": ""
+    },
+    {
+      "title": "钛晨报央行行长潘功胜出席G20财长和央行行长会议，强调继续实施好适度宽松的货币政策；CrowdStrike与OpenAI扩大合作；港股通买入Minimax规模超越阿里巴巴和腾讯",
+      "link": "https://www.tmtpost.com/8126299.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-02T23:20:00.000Z",
+      "summary": "央行行长强调宽松货币政策，CrowdStrike与OpenAI扩大合作，港股通买入Minimax规模超阿和腾。",
       "summaryZh": ""
     },
     {
@@ -39,17 +49,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-02T12:47:49.000Z",
-      "summary": "97年天才少年郭人杰研发万元内小人形机器人，具备多种功能。",
+      "summary": "97年天才少年郭人杰造出万元内小人形机器人Bridge。",
       "summaryZh": ""
     },
     {
-      "title": "微软、谷歌、亚马逊三大云巨头，现在要给Kimi交模型税了！",
-      "link": "https://www.tmtpost.com/8125170.html",
-      "source": "钛媒体",
+      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+      "link": "https://www.qbitai.com/2026/09/483104.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-02T08:42:46.000Z",
-      "summary": "微软、谷歌、亚马逊将向中国AI公司月之暗面支付Kimi K3模型使用费。",
+      "pubDate": "2026-09-02T06:20:17.000Z",
+      "summary": "蚂蚁集团研发的OmniTable系统，通过宽表技术大幅提升大模型数据处理效率。",
       "summaryZh": ""
     },
     {
@@ -59,17 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-02T05:57:00.000Z",
-      "summary": "豆包AI智能体手机发布，端侧AI商用拐点到来，科创AIETF成交额超1亿。",
-      "summaryZh": ""
-    },
-    {
-      "title": "CrowdStrike与OpenAI扩大合作关系",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54Yk1WaTdqYnd1S0pmUU1hd0RlZ3diV1RDc1Ztdjdmd2dpcmFLcTdoaXJidlhGMFNvajZTSFQ5ajN5a3UwSHlvNU8zamJ4TGFDYWZr?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-02T12:23:26.000Z",
-      "summary": "CrowdStrike与OpenAI深化合作，将AI安全防护能力扩展至Codex智能体和Falcon平台。",
+      "summary": "豆包AI智能体手机发布，端侧AI商用拐点到来，科创AIETF成交额超1亿元。",
       "summaryZh": ""
     },
     {
@@ -94,13 +94,23 @@
       "titleZh": "美国政府在对法学硕士进行版权材料培训问题上支持 OpenAI"
     },
     {
+      "title": "研究发现：老年群体更看重 AI 陪伴聊天机器人的真实感",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LbVdCdUhiRUZacWRuMUZwV2VBSkhnZFRMUkZoVG5udnNfT2pmZ2xJcE9DZjRocUVpY3FWZHpYUDh3dzhwR0dtSlJxb1c?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-02T12:56:02.000Z",
+      "summary": "老年群体更偏好真实感强的AI聊天机器人。",
+      "summaryZh": ""
+    },
+    {
       "title": "MIT博士香港造手术机器人，融47亿元",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1KTTBDYkF1bm1aVFZEX1BmQWdGMVU0ajJfT2RHMUVOeWZob0M3QnUyN3RibHBsdU9oSTRvM0IzUG91YVZrWlE?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-02T10:31:56.000Z",
-      "summary": "香港康诺思腾获美敦力7亿美元战略投资，用于手术机器人研发与市场拓展。",
+      "summary": "香港康诺思腾获美敦力7亿美元战略投资，手术机器人融资47亿元。",
       "summaryZh": ""
     },
     {
@@ -110,17 +120,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-02T13:13:43.000Z",
-      "summary": "中国大模型商业化加速，年化收入从40亿增至130亿美元。",
+      "summary": "中国大模型年化收入从40亿增至130亿，增长非价格战驱动，出海成重要增量。",
       "summaryZh": ""
     },
     {
-      "title": "李飞飞发布：全球首个多模态世界模型",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mUGI5T2h2aERJRVBFUTlSb3dReGx0OG82ZGZzWWVhQWVnMWozYXJiTzdLbnhhLU9YNF9uOFRNZXh4UlFSaF9jdS1zcWJHUUtyUXgwWQ?oc=5",
-      "source": "量子位",
+      "title": "公司产品间接进入海外头部AI算力硬件厂商供应链？宏达电子回应",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sRmRRekk0dFlmcEp3dWQ2MWdnY3NSaF9uOFllMHp4bHJYa0lXczFrckQ2UjcxQ0lMeGg0LXhHYW1OTzNRR3BRa25oSGtwenB5blV2UWZVaWg?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-02T01:07:13.000Z",
-      "summary": "李飞飞团队发布全球首个多模态世界模型Atlas，实现像素级相机控制、3D重建和时空模拟。",
+      "pubDate": "2026-09-02T14:06:15.000Z",
+      "summary": "宏达电子产品成为多家光模块厂商合格供应商，业务正常推进。",
       "summaryZh": ""
     },
     {
@@ -130,17 +140,38 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-02T00:33:16.000Z",
-      "summary": "人工智能公司Cognition计划融资10亿美元，估值达470亿美元。",
+      "summary": "人工智能公司Cognition计划融资10亿美元，估值470亿美元。",
       "summaryZh": ""
     },
     {
-      "title": "马斯克：明年底AI能“完成所有数字领域工作”，10年内机器人超越人类生产力总和",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNRDNlNV9uR2V4ZkRibXRsUWRyX2JXM1FwbHJTZUxEU3hWckV0dEg0RXZ2QWFwcjlwVUljVEJWQkpoUHlxNUpXSlNTbGZTQi1JSDBJ?oc=5",
-      "source": "华尔街见闻",
+      "title": "Token贷落地：银行把AI企业\"算力消耗量\"纳入授信指标，风控从看抵押转向看数据",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBja3FKamtVa3g3Q3VCWFJxY0hyZmdhREF0bnNsRVVSSFdkXzkzckplWVU3T3NJM1VaY0pPcHYxeGNLSXpfTWZvWjRYYWdtUzZSVVVuUERBMk1TajNzMEI0SHNpeU9mN0lwWE9DdG5iRG0?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-02T04:12:55.000Z",
+      "summary": "银行将AI企业算力消耗纳入授信，风控转向数据评估。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国金证券：教育业政策、业绩、AI共振 K12有望率先实现规模化落地",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzbzk1aWJPX2V4QnM1TG1relo5WW5RX2ZyWXpKVEVOaXNVNEdxQjBYc3c0REVHOXJ5d09udFJyZTl6WkM2T1AyaVNyMVBKWFRJR0hfYm4wTGJ3cTMzRFBQUGJLMzVsUQ?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-02T08:15:38.000Z",
+      "summary": "国金证券研报指出，教育业政策、业绩与AI共振，K12教育有望率先规模化落地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "德州仪器(TI)类人机器人位置传感器解决方案_电路方案",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwRlBieTB3TVhxR256bW5pYkNCT3ZWbkdZV2dTdHlXMEgwRjFoOXN6aVF3ZzFJcWh2b3JvTEZibXBaX0IyTVhRT05JSFRfUlBTQy1fUWVrRQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-02T01:07:41.000Z",
-      "summary": ""
+      "pubDate": "2026-09-02T00:36:17.000Z",
+      "summary": "德州仪器推出类人机器人位置传感器解决方案，支持高性能、紧凑型设计。",
+      "summaryZh": ""
     },
     {
       "title": "AIR to use Elmo Motion Control technology in uncrewed cargo aircraft",
@@ -164,34 +195,33 @@
       "summaryZh": ""
     },
     {
-      "title": "Drone app aims to open the skies to aspiring filmmakers with disability",
-      "link": "https://techxplore.com/news/2026-09-drone-app-aims-skies-aspiring.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-02T11:00:05.000Z",
-      "summary": "Drone应用程序旨在为有残疾的影迷提供飞行拍摄服务。",
-      "summaryZh": "",
-      "titleZh": "无人机应用程序旨在为有抱负的残疾电影制作人打开天空"
-    },
-    {
-      "title": "2025年全球家庭AI照护雷达传感器市场规模大约为2.53亿美元",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZY3ZsejR1ZGQxM0pwbzFNZlR0MFJqaFNpV1RjQ1g4UFBtZFdxancxcFQ0RkxLLXNsbXhkTVBJdGpNaTVVX3hfZE9BcjBrdFd1WEI0dVZYeEdoZEZHWUIzZlFoOFRibjV0d2Q4?oc=5",
-      "source": "东方财富网",
+      "title": "宠物智能硬件进入AI时代：喂饱是旧课，读懂是新考",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcVdwZ2Y5T0NJa1I0Z0V1Z1p4VWZid183U1hNRG9uX1B1MG9heXVWZGsxeHBFdVd5MFpOSmpxaWhVTWlhdl9qNzFwS0czZzNtaG5yVHA2Q3puQl9PSU1xRjFoX0FEVDlIdGhLNjhkdENyMXJXRzN5N0dZTnBsM1BWR2JyMEtiYlhfUFFsWg?oc=5",
+      "source": "21财经",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-02T06:01:00.000Z",
-      "summary": "2025年全球家庭AI照护雷达传感器市场规模约2.53亿美元，预计2032年将达7.14亿美元。",
+      "category": "application",
+      "pubDate": "2026-09-02T05:59:00.000Z",
+      "summary": "宠物智能硬件应用AI技术，功能从基础自动化向行为识别和健康监测拓展。",
       "summaryZh": ""
     },
     {
-      "title": "从好奇到实操！AI机器狗“走”进社区，亲子共同探索趣味科技",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcjJMbjJuUXZORDA3eXVjQ2k4T1lXN2ljSmN6SWxEQnhLSzZCYXBLODhYX0g1Q2FoYmQyRml0Z3hhaWdVRmhROWJ6cDdsek0yeHFaODhKeFdROG82NWduUENBTkQzRnU1RFlPVmNsOGJLWFFvNi1MNzNyS1Qtckt2Vm01bU9qZXhCUWt4MmpGX3l5WmJUdEpKMGpnOV82bkhoaXBMaU5JNlBqeFBhRHRvOVdlX1RyU1FSeWxBZC1SYzVkSUhLOWZRM0xZT05WUQ?oc=5",
-      "source": "新浪财经",
+      "title": "星尘智能加码机器人强化学习后训练布局",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04aVRndkhIMmhTc2VjVDNwdklOV1E3M3BtVFFkZGRVVGtjTGlUU05BSGtVU2c3M0tZZ0h6eFBHTUxxS0Mtb2tUVm4tQ3hLVFVKRUlKWUlVcDRfZl9FTFA2X05SNVI4ekNMTnRFU2ZCYnI?oc=5",
+      "source": "科技日报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-02T10:50:00.000Z",
-      "summary": "AI机器狗亲子科普活动在徐汇区斜土街道社区举行，亲子共同体验科技乐趣。",
+      "pubDate": "2026-09-02T04:35:38.000Z",
+      "summary": "星尘智能扩充机器人强化学习团队，推动技术能力提升和应用部署。",
+      "summaryZh": ""
+    },
+    {
+      "title": "一场数博会，两次对话：帕西尼与贵州探索具身智能数据产业新路径",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5icDF2MDFMd2tNS1U5NkI1VGwwLUVoNjZraW5UbHJJd1JMbFFGYTVWUGRLR1ZINER1VlBoNm5lTGMxaHV4OVlQZk54YjY?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-02T08:01:56.000Z",
+      "summary": "帕西尼与贵州在数博会上探讨具身智能数据产业新路径。",
       "summaryZh": ""
     }
   ]
