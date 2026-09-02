@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "generatedAt": "2026-09-02T20:58:28.225Z",
+  "generatedAt": "2026-09-02T21:58:24.450Z",
   "items": [
     {
       "title": "谷歌推出 Gemini 3.8 Flash Cyber 模型，内部已全面部署用于代码安全防护",
@@ -9,17 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-02T16:09:52.000Z",
-      "summary": "谷歌推出Gemini 3.8 Flash Cyber模型，全面部署用于代码安全防护。",
-      "summaryZh": ""
-    },
-    {
-      "title": "制造业有了本体，大模型就能落地吗",
-      "link": "https://www.tmtpost.com/8125160.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-02T09:52:45.000Z",
-      "summary": "制造业引入本体技术，大模型在工业应用中实现落地。",
+      "summary": "谷歌推出Gemini 3.8 Flash Cyber模型，内部全面部署用于代码安全防护。",
       "summaryZh": ""
     },
     {
@@ -29,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-02T09:58:21.000Z",
-      "summary": "Claude Fable 5.1发布，跑分翻倍，但“思考块上锁”防蒸馏机制才是重点。",
+      "summary": "Claude Fable 5.1发布，跑分翻倍，但重点在于API层思考块与上下文绑定，强化防蒸馏机制。",
       "summaryZh": ""
     },
     {
@@ -39,7 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-02T12:56:02.000Z",
-      "summary": "新加坡研究显示，老年群体更偏好真实感强的AI聊天机器人。",
+      "summary": "新加坡研究显示，老年群体更偏好真实感的AI聊天机器人。",
       "summaryZh": ""
     },
     {
@@ -49,17 +39,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-02T12:47:49.000Z",
-      "summary": "97年天才少年郭人杰造出万元内小人形机器人Bridge。",
+      "summary": "97年天才少年郭人杰研发万元内小人形机器人，具备多种功能。",
       "summaryZh": ""
     },
     {
-      "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVaGhUSHN2cVRJbUlONVhTcS1VaEhfVWJibUN0WlNUTS1HbjM4YTNxQXJaMXVJZ0NUaFFLZmZTQlNCSnBobnBWLU1zd0lvRkxkYnZQNA?oc=5",
-      "source": "量子位",
+      "title": "微软、谷歌、亚马逊三大云巨头，现在要给Kimi交模型税了！",
+      "link": "https://www.tmtpost.com/8125170.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-02T02:18:12.000Z",
-      "summary": "Claude Fable 5.1发布，8项基准测试第一，价格最高降45%，反蒸馏机制上线。",
+      "pubDate": "2026-09-02T08:42:46.000Z",
+      "summary": "微软、谷歌、亚马逊将向中国AI公司月之暗面支付Kimi K3模型使用费。",
+      "summaryZh": ""
+    },
+    {
+      "title": "豆包AI智能体手机即将发布，端侧AI迎规模化商用拐点，科创AIETF博时(588790)盘中成交额超1亿元",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YX2tLVzRpUzhwR0lmbnBKRU03ekZvWnhyaENadm5tVlVkeEZTQjRHU2VFc3Q4bWhzTENYckxiSGx5N0F2SncxaU5GbkhNQTduQU9lUndPQkw?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-02T05:57:00.000Z",
+      "summary": "豆包AI智能体手机发布，端侧AI商用拐点到来，科创AIETF成交额超1亿。",
       "summaryZh": ""
     },
     {
@@ -89,7 +89,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-09-02T17:09:06.000Z",
-      "summary": "美国政府支持OpenAI在未经许可使用版权材料训练LLM的问题上。",
+      "summary": "美国政府支持OpenAI在未经许可使用受版权保护材料训练LLM的问题上。",
       "summaryZh": "",
       "titleZh": "美国政府在对法学硕士进行版权材料培训问题上支持 OpenAI"
     },
@@ -124,44 +124,23 @@
       "summaryZh": ""
     },
     {
-      "title": "苹果新 CEO 首次发声；网传抖音发生推荐算法错乱；Claude Fable 5.1 正式上线",
-      "link": "http://www.geekpark.net/news/369690",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-02T00:13:21.000Z",
-      "summary": "苹果新CEO首次发声，抖音推荐算法出现异常，Anthropic发布Claude Fable 5.1模型。",
-      "summaryZh": ""
-    },
-    {
-      "title": "公司产品间接进入海外头部AI算力硬件厂商供应链？宏达电子回应",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sRmRRekk0dFlmcEp3dWQ2MWdnY3NSaF9uOFllMHp4bHJYa0lXczFrckQ2UjcxQ0lMeGg0LXhHYW1OTzNRR3BRa25oSGtwenB5blV2UWZVaWg?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-02T14:06:15.000Z",
-      "summary": "宏达电子产品成为多家光模块厂商供应商，业务正常推进。",
-      "summaryZh": ""
-    },
-    {
       "title": "财联社9月2日电，人工智能初创公司Cognition计划融资约10亿美元，估值达470亿美元。",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1OWlAxVHE4UWRWOUFPYkZWemxMSnBkYUFoTE5YLVl6QXhEdDBoVFl5Slg1S3BfbVh0VmQzUzBGS012cU84UVE?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-02T00:33:16.000Z",
-      "summary": "人工智能初创公司Cognition计划融资10亿美元，估值达470亿美元。",
+      "summary": "人工智能公司Cognition计划融资10亿美元，估值达470亿美元。",
       "summaryZh": ""
     },
     {
-      "title": "国金证券：教育业政策、业绩、AI共振 K12有望率先实现规模化落地",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzbzk1aWJPX2V4QnM1TG1relo5WW5RX2ZyWXpKVEVOaXNVNEdxQjBYc3c0REVHOXJ5d09udFJyZTl6WkM2T1AyaVNyMVBKWFRJR0hfYm4wTGJ3cTMzRFBQUGJLMzVsUQ?oc=5",
-      "source": "金融界",
+      "title": "马斯克：明年底AI能“完成所有数字领域工作”，10年内机器人超越人类生产力总和",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNRDNlNV9uR2V4ZkRibXRsUWRyX2JXM1FwbHJTZUxEU3hWckV0dEg0RXZ2QWFwcjlwVUljVEJWQkpoUHlxNUpXSlNTbGZTQi1JSDBJ?oc=5",
+      "source": "华尔街见闻",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-02T08:15:38.000Z",
-      "summary": "国金证券研报指出，教育业政策、业绩与AI共振，K12教育有望率先规模化落地。",
-      "summaryZh": ""
+      "category": "robotics",
+      "pubDate": "2026-09-02T01:07:41.000Z",
+      "summary": ""
     },
     {
       "title": "AIR to use Elmo Motion Control technology in uncrewed cargo aircraft",
@@ -185,26 +164,6 @@
       "summaryZh": ""
     },
     {
-      "title": "宠物智能硬件进入AI时代：喂饱是旧课，读懂是新考",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcVdwZ2Y5T0NJa1I0Z0V1Z1p4VWZid183U1hNRG9uX1B1MG9heXVWZGsxeHBFdVd5MFpOSmpxaWhVTWlhdl9qNzFwS0czZzNtaG5yVHA2Q3puQl9PSU1xRjFoX0FEVDlIdGhLNjhkdENyMXJXRzN5N0dZTnBsM1BWR2JyMEtiYlhfUFFsWg?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-02T05:59:00.000Z",
-      "summary": "宠物智能硬件AI化升级，功能从基础自动化转向行为和情绪识别。",
-      "summaryZh": ""
-    },
-    {
-      "title": "星尘智能加码机器人强化学习后训练布局",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04aVRndkhIMmhTc2VjVDNwdklOV1E3M3BtVFFkZGRVVGtjTGlUU05BSGtVU2c3M0tZZ0h6eFBHTUxxS0Mtb2tUVm4tQ3hLVFVKRUlKWUlVcDRfZl9FTFA2X05SNVI4ekNMTnRFU2ZCYnI?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-02T04:35:38.000Z",
-      "summary": "星尘智能扩充机器人强化学习团队，推动技术能力提升和应用部署。",
-      "summaryZh": ""
-    },
-    {
       "title": "Drone app aims to open the skies to aspiring filmmakers with disability",
       "link": "https://techxplore.com/news/2026-09-drone-app-aims-skies-aspiring.html",
       "source": "Tech Xplore",
@@ -216,15 +175,24 @@
       "titleZh": "无人机应用程序旨在为有抱负的残疾电影制作人打开天空"
     },
     {
-      "title": "China’s real robot revolution is not about humanoids",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnNWelgxcGNfa2hhWW82Z1RpRnV0V1haVTV1MGM3emRPRlNtOTNQYmxWT3F4VVU0RG9oTnctQzkxNmlSQTRMdTVmQ2Y0WGFKeVlteDVLajM1Szg3eE4xb09zOHhFWXpOcHNua2ZwdDRzMURucEtRZEh4Q29lTmE4Y0U3dDY?oc=5",
-      "source": "Financial Times",
-      "lang": "en",
+      "title": "2025年全球家庭AI照护雷达传感器市场规模大约为2.53亿美元",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZY3ZsejR1ZGQxM0pwbzFNZlR0MFJqaFNpV1RjQ1g4UFBtZFdxancxcFQ0RkxLLXNsbXhkTVBJdGpNaTVVX3hfZE9BcjBrdFd1WEI0dVZYeEdoZEZHWUIzZlFoOFRibjV0d2Q4?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-01T23:01:03.000Z",
-      "summary": "中国机器人革命核心非类人形机器人。",
-      "summaryZh": "",
-      "titleZh": "中国真正的机器人革命与类人机器人无关"
+      "pubDate": "2026-09-02T06:01:00.000Z",
+      "summary": "2025年全球家庭AI照护雷达传感器市场规模约2.53亿美元，预计2032年将达7.14亿美元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "从好奇到实操！AI机器狗“走”进社区，亲子共同探索趣味科技",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcjJMbjJuUXZORDA3eXVjQ2k4T1lXN2ljSmN6SWxEQnhLSzZCYXBLODhYX0g1Q2FoYmQyRml0Z3hhaWdVRmhROWJ6cDdsek0yeHFaODhKeFdROG82NWduUENBTkQzRnU1RFlPVmNsOGJLWFFvNi1MNzNyS1Qtckt2Vm01bU9qZXhCUWt4MmpGX3l5WmJUdEpKMGpnOV82bkhoaXBMaU5JNlBqeFBhRHRvOVdlX1RyU1FSeWxBZC1SYzVkSUhLOWZRM0xZT05WUQ?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-02T10:50:00.000Z",
+      "summary": "AI机器狗亲子科普活动在徐汇区斜土街道社区举行，亲子共同体验科技乐趣。",
+      "summaryZh": ""
     }
   ]
 }
