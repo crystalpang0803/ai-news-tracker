@@ -1,45 +1,55 @@
 {
   "date": "2026-09-03",
-  "generatedAt": "2026-09-03T00:42:36.045Z",
+  "generatedAt": "2026-09-03T04:37:40.438Z",
   "items": [
     {
-      "title": "制造业有了本体，大模型就能落地吗",
-      "link": "https://www.tmtpost.com/8125160.html",
+      "title": "人形机器人的天花板不在算法，在热力学",
+      "link": "https://www.tmtpost.com/8126785.html",
       "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-02T09:52:45.000Z",
-      "summary": "制造业引入本体技术，大模型在工业应用中逐步实现落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
-      "link": "https://www.qbitai.com/2026/09/482652.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-02T02:18:12.000Z",
-      "summary": "Claude Fable 5.1发布，8项基准测试第一，价格最高降45%，反蒸馏机制上线。",
-      "summaryZh": ""
-    },
-    {
-      "title": "存力接棒算力：AI智能体把存储推上主战场",
-      "link": "https://www.tmtpost.com/8123421.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-03T00:29:57.000Z",
-      "summary": "AI智能体推动存储成为AI系统瓶颈，存储市场迎来上行周期。",
-      "summaryZh": ""
-    },
-    {
-      "title": "蚂蚁投的97年天才少年，又造了台万元内小人形机器人",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5QaUpoeGowNGd4aS1sOEdIVTZ0RXFNZ2lMU3pHMTRvOVB3WjZ5YlFBQVpRWE1LdEoyMWRySXF6UTVPNThwM3c?oc=5",
-      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-02T12:47:49.000Z",
-      "summary": "97年天才少年郭人杰造出万元内小人形机器人Bridge。",
+      "pubDate": "2026-09-03T03:41:35.000Z",
+      "summary": "人形机器人技术瓶颈在于热力学而非算法。",
+      "summaryZh": ""
+    },
+    {
+      "title": "企业级 AI 应用落地加速，Rich AIBox 关键升级，彩讯 AI 及算力相关收入同比增长",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42QWdtNExMcms5Z21HLUR6X2hFLWgxWlByek1oS3VMRHl2WFJqY2tLeFE0T3J0UWRfZXBpVVdLZWFBTGlJTjZ0TjluSjdzU2s?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-03T02:55:19.000Z",
+      "summary": "彩讯AI及算力收入同比增长36.86%，企业级AI应用加速落地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "突发：OpenAI Astra模型被曝安全风险",
+      "link": "https://zhidx.com/p/589910.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-02T10:13:46.000Z",
+      "summary": "OpenAI Astra模型采用隐藏推理过程技术，引发行业安全担忧。",
+      "summaryZh": ""
+    },
+    {
+      "title": "今年最难的机器人Demo，“机器人含量”为0",
+      "link": "https://www.qbitai.com/2026/09/483351.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-03T00:51:16.000Z",
+      "summary": "TwinDex操作系统实现机器人精细操作，无需真机遥操数据。",
+      "summaryZh": ""
+    },
+    {
+      "title": "马斯克：AI或推动全球经济增长30%，未来十年人形机器人将达10亿台",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qQzA2bHNpYW9ERU5SZVB6NWM4NTdkbkdJQzBnNkFiNS1KclVrV3FPemxROFhjS1NKZmt3cHBuVmhRYzYxUENiZHVvZGl0RVNfTEt2UFBFaDJCdw?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-02T05:50:00.000Z",
+      "summary": "马斯克预测AI将推动全球经济增长30%，未来十年人形机器人将达10亿台。",
       "summaryZh": ""
     },
     {
@@ -53,13 +63,33 @@
       "summaryZh": ""
     },
     {
-      "title": "Anthropic发新模型，OpenAI同日预告新品将安全优先",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CLXhHMkRqTE5JZ3Z1OGF3bGRTRUx5RUtKd183c0dXVDkySnAtMVB6MVMyaUpPNW5oam52Q2MxUVprMkxpLURsUWpEa01zVllaX1dv?oc=5",
-      "source": "第一财经",
+      "title": "Meta 发布最强 AI 模型 Muse Spark 1.3，编码能力超 GPT-5.6 Sol",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ybXNFT3hUa3VWWERDejQzRmVhZWo1OGxLb2E4TDJBVmZBTG9lYVRFQnhMcmdVWHlvVjNfVDZqUDlGNUowYWtGLWM0cGw?oc=5",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-02T02:20:21.000Z",
-      "summary": "Anthropic发布新模型，OpenAI预告新品将安全优先。",
+      "pubDate": "2026-09-02T23:29:36.000Z",
+      "summary": "Meta发布AI模型Muse Spark 1.3，编码能力超越GPT-5.6 Sol。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI人工智能ETF平安(512930)标的指数上涨0.48%，博通预计AI芯片营收未来两年飙升",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3M18zZ1NSX0FMd1BwNnotaVkzWmpWTnZ6dnhnOXFTUmdhdUZPN2ozS1N2QnhyOGNVcWlMbjNtQ3FVel9SS2tqNWIzU0tmUEZPbFZhcEhkLTQ?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-03T02:19:12.000Z",
+      "summary": "AI人工智能ETF平安(512930)指数上涨，博通预计AI芯片营收未来两年大幅增长。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国产大模型Token（词元）调用量爆发，算力需求指数级跃升，创业板算力ETF易方达(158050)9月4日起正式发售",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45Y0pGa0pJSWx6UWh1REhrMzRYdG9HMURueXZMQXROSGxCcC1hV1k3RlN5enp5SU56dExxdkNUcF8xcV9uQ1FIemo5NGFKemRGdTR3R3B6Smw?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-03T03:49:02.000Z",
+      "summary": "国产大模型Token调用量激增，算力需求指数级增长，创业板算力ETF易方达9月4日发售。",
       "summaryZh": ""
     },
     {
@@ -80,18 +110,59 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-02T23:33:00.000Z",
-      "summary": "中央网信办加强AI生成内容监管，清理561万余条违规信息。",
+      "summary": "中央网信办加强AI生成内容监管，清理违规信息超561万条。",
       "summaryZh": ""
     },
     {
-      "title": "MIT博士香港造手术机器人，融47亿元",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1KTTBDYkF1bm1aVFZEX1BmQWdGMVU0ajJfT2RHMUVOeWZob0M3QnUyN3RibHBsdU9oSTRvM0IzUG91YVZrWlE?oc=5",
-      "source": "智东西",
+      "title": "花 5 万澳元上学，却和 AI 聊天机器人上课？澳洲大学改革引发激烈争议",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mbDZrZEZEdEtVODBfU091dERKRDBTczY1TXRvZzItUWZwemJGT0VTd0VTTmU3WF9SOWtoODhtOFNRLTdUWXMzdUVyejNuQQ?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-02T10:31:56.000Z",
-      "summary": "香港康诺思腾获美敦力7亿美元战略投资，用于手术机器人研发与市场拓展。",
+      "pubDate": "2026-09-02T12:39:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "[ 盘前点金 潘功胜最新发声；AI算力点燃“电子工业大米”；量子计算破壁时刻",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FUWxqaU9OTzNlclZTa0JMeVNvOF9fY25keDRWYlI5TG9LbjB1YVhKYmU3MHgwaTJ0Q2ZBOHBuQm5RUThvY2NqMURMNHpNT3ZKd2QyY3Joem8?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-02T23:15:04.000Z",
+      "summary": "潘功胜发声，AI算力推动电子工业，量子计算取得突破。",
       "summaryZh": ""
+    },
+    {
+      "title": "AI教母披露“里程碑式”成果！全球首个多模态世界模型来了 可用于机器人预训练",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpNl9NRU9qMUdfTjdFUjB1X3NJOW0xTTNlQUtBZ01nOE5TY2ZzT3NPbDYwZ1AxbXNGT2x0SFZlbWpTUzlycTd3Yg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-02T07:36:00.000Z",
+      "summary": "全球首个多模态世界模型Atlas发布，可用于机器人预训练。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
+      "link": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-03T00:02:18.000Z",
+      "summary": "Google发布3.8 Flash，分为用于代理任务的通用版和针对漏洞检测的Cyber版。",
+      "summaryZh": "",
+      "titleZh": "谷歌的 Gemini 3.8 Flash 是为代理而构建的，而它的 Cyber​​ twin 则用于寻找漏洞"
+    },
+    {
+      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-03T01:32:02.000Z",
+      "summary": "Meta减少对员工使用AI工具的压力，同时推广其最新AI项目Hatch。",
+      "summaryZh": "",
+      "titleZh": "Meta 向员工推出新的人工智能代理，但放松了对 Tokenmaxxing 的支持"
     },
     {
       "title": "新基建浪潮下，固态激光雷达如何赋能数字孪生落地",
@@ -104,64 +175,23 @@
       "summaryZh": ""
     },
     {
-      "title": "从40亿到130亿美元，中国大模型这波增长，可能和你想得不一样",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93RHUzZzRmZTVLSHpuR0dFTWlnMlZHMkZFSWI2VVZkWExLelBXbkplaHJYWkswWGM3UVpKS05LTlQ2VmZiT0pWbVRvT1pudWZR?oc=5",
-      "source": "36氪",
+      "title": "东南亚AI进入规模化落地，泰国副总理称赞“中国AI技术非常好”",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56aTRDempNbGtMQUk5d3JFaDNkdHlaS0dMd09Qb1BBOGJ3NXVNTk5wRFN0UFNEVmlpV1RyQTh5MGIyMU9PNDVHSlozV0tYeVl1bWk0VG0xelJ3ZjhlNzc4Umx3?oc=5",
+      "source": "同花顺财经",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-02T13:13:43.000Z",
-      "summary": "中国大模型商业化加速，年化收入从40亿增至130亿美元。",
+      "category": "application",
+      "pubDate": "2026-09-03T00:32:46.000Z",
+      "summary": "泰国副总理称赞中国AI技术在多语言交互等场景应用表现良好。",
       "summaryZh": ""
     },
     {
-      "title": "智能体走进办公场景，多家科技大厂发布相关产品，AI员工上岗了",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CVUpxMm9oLWdpN3RVeUY0c3V1ZGp0VkZ2UDJCS0ZjaEJyN2dBTm9IRUVSSFM1TG9JcVB0Y2FQcW1oUXZYTjh3WDZpSkgtcmZyRUt1ZlVpUWw?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-02T23:31:23.000Z",
-      "summary": "科技大厂发布AI办公产品，AI员工在多个领域上岗。",
-      "summaryZh": ""
-    },
-    {
-      "title": "博通预计AI芯片营收未来两年飙升",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tU3JtU19WUTBaaVU0ajVzTE5wVWJoMWVQci10R25LLXowOXlpaVR4S2E5ZllnWjlVN3JLODByaV9pdFBpcTg3VktMTlhzaHQ0TTUtZkVraWQ?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-03T00:19:42.000Z",
-      "summary": "博通预计AI芯片营收2027年翻倍，2028年增至2300亿美元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AIR to use Elmo Motion Control technology in uncrewed cargo aircraft",
-      "link": "https://www.therobotreport.com/air-uses-elmo-motion-control-technology-in-uncrewed-cargo-aircraft/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-02T15:29:23.000Z",
-      "summary": "AIR将采用Elmo运动控制技术用于无人货运飞机。",
-      "summaryZh": "",
-      "titleZh": "AIR 将在无人驾驶货机中使用 Elmo 运动控制技术"
-    },
-    {
-      "title": "当机器人开始触摸世界",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TM0IyQmhKcTVXQ1lwVVdOLVg0T283OWhSWmRKZl9qaHNpMDZxZm0xZWNQWjVtQ2Z6TkdNU2dORkVUaS1VNXRybFA2SW93OF9xT05qRnJwWHAwLTBQQUNNYkFXMFJycmRGdjJZRzQ5bEVMWEVxSnBOaw?oc=5",
-      "source": "央视网",
+      "title": "AI出海、仿生芯片、人形机器人：海归创业者逐梦新赛道",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBscHFiLWdsV056WHV2VWpYaS04MVVoc0Y5N1piR3Nkb2szUGpDREJqNWRIN2VnSkYxSV84Ym0zZ3AtZFVTcUV2UnhNcHpxS05zUXBIUWpKWGlhSEVuUGs5SURRT0ZHYnBCMGhudkNETXN0Zw?oc=5",
+      "source": "央广网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-02T07:18:03.000Z",
-      "summary": "机器人触觉技术成为世界机器人大会热点，推动具身智能发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国际动态比尔 · 盖茨发 12 页长文警告 AI 风险，建议征收机器人税、设置人类专属岗位",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hNEJZZG4zcVhsNDBnTFR0bktIM3I0eXFLaUtCQ1JUendXWVlKZ1QyZHBFSW15VDBreWFuQ2loaUQyT2ZkLTNVLVFqUGhFV2hFWGJycmx0anFWSzJMbHoxUFo5ZnFreGt5TGRUU3BwMTNKeEVtYXc?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-02T23:00:00.000Z",
-      "summary": "比尔·盖茨发文警告AI风险，建议征收机器人税和设置人类专属岗位。",
+      "pubDate": "2026-09-03T00:42:08.000Z",
+      "summary": "海归创业者聚焦AI、仿生芯片和人形机器人等领域，在HICOOL全球创业大赛中展示创新成果。",
       "summaryZh": ""
     },
     {
@@ -174,25 +204,23 @@
       "summary": ""
     },
     {
-      "title": "星尘智能加码机器人强化学习后训练布局",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04aVRndkhIMmhTc2VjVDNwdklOV1E3M3BtVFFkZGRVVGtjTGlUU05BSGtVU2c3M0tZZ0h6eFBHTUxxS0Mtb2tUVm4tQ3hLVFVKRUlKWUlVcDRfZl9FTFA2X05SNVI4ekNMTnRFU2ZCYnI?oc=5",
-      "source": "科技日报",
+      "title": "IDC：2025年中国企业级智能客服市场规模达71.9亿元",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqOXVSRHEweFVCNFV2UEg0czBtRHF6ZzBlOWNSLWdUdzgyaDdvMFA3SzB5TTc4d2NPNV9wNkZUUjhwREx3cnJ6eXRlNVFRVWRZ?oc=5",
+      "source": "凤凰财经",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-02T04:35:38.000Z",
-      "summary": "星尘智能引入强化学习专家，加强机器人后训练技术布局。",
+      "category": "application",
+      "pubDate": "2026-09-02T12:38:00.000Z",
+      "summary": "2025年中国企业级智能客服市场规模预计达71.9亿元，同比增长55.3%。",
       "summaryZh": ""
     },
     {
-      "title": "Drone app aims to open the skies to aspiring filmmakers with disability",
-      "link": "https://techxplore.com/news/2026-09-drone-app-aims-skies-aspiring.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-02T11:00:05.000Z",
-      "summary": "Drone应用程序旨在为有残障的影迷提供飞行拍摄服务。",
-      "summaryZh": "",
-      "titleZh": "无人机应用程序旨在为有抱负的残疾电影制作人打开天空"
+      "title": "美宜佳参与全球智慧物联网联盟蓝皮书编撰 输出智慧零售实践成果",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVOVI2M0F1c1B3X2tGU0JTUV9GaC04YURjWjBLczdzc2lCbWxaaHNTODBYbWJzOS1xMm91b2ROcVhrNDZaMmswelp5aHUzN3F2eXQ1R1Y3cnA0YWx6dGZDV3IxUQ?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-03T02:39:00.000Z",
+      "summary": ""
     }
   ]
 }
