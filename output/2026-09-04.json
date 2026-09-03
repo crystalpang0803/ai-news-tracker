@@ -1,7 +1,17 @@
 {
   "date": "2026-09-04",
-  "generatedAt": "2026-09-03T20:56:49.549Z",
+  "generatedAt": "2026-09-03T21:53:05.903Z",
   "items": [
+    {
+      "title": "（更新：已恢复正常）ChatGPT、Grok、Claude、Cursor 集体突发故障",
+      "link": "https://www.ithome.com/0/998/195.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-03T15:07:21.000Z",
+      "summary": "多款AI模型突发故障，已恢复正常。",
+      "summaryZh": ""
+    },
     {
       "title": "特朗普政府支持OpenAI等人工智能公司：为训练模型复制作品不违反版权法",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DQjZrbFduR2dkR0xmZVdhRVQ1RjJOZ2JaQ2tNdzNCb1dBd1ZBc3JzQTIwNllHMmh3T3dFa1B6Nkl0b1M0Uk1hWklIQmpDOWFnUEtXNVdPUWlsZ3E2ekE?oc=5",
@@ -13,23 +23,33 @@
       "summaryZh": ""
     },
     {
+      "title": "OpenAI的CEO称政府正在审查Astra大模型的生产流程",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuM0JMdVNacEtTazBnMVRkQ3VnU1l3X2ctUXVKRnB4cGMxMk10alctMVlGdXBwZmRieGp6MkRjdEVjeWhIY3NhWExZUWd1TF9yUm1BaVFtYW92TUd5Q2c?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-03T09:56:02.000Z",
+      "summary": "OpenAI CEO称政府审查Astra大模型生产流程。",
+      "summaryZh": ""
+    },
+    {
       "title": "OpenAI推出ChatGPT青少年版，面向13-17岁用户并加强安全管控",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80R1ZjU1hfeTBwcURaS1hVQkdpdldQREZkenRRX0p6alBSbTNGX3I0cGNrTVpIMTBGbTk2Mk1wbk5US0NMVDZxMmlWNmZIVXZUY19EMw?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-03T05:27:16.000Z",
-      "summary": "OpenAI推出ChatGPT青少年版，限制敏感话题和情感依赖，加强安全管控。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
-      "title": "智谱上淘宝、Kimi找微软，大模型开始认真赚钱了",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53M2x6VDJMYVM3N2JwN1Ewbno1NkE5b09FeFM2RWJqaDA3TXN1RHF1TGJ4Y09VOFNDbVZkRnJXa3dlZzJVT3RjcXNVWDB5UQ?oc=5",
-      "source": "36氪",
+      "title": "OpenAI推出GPT-6 Astra 称其为迈向通用人工智能的重要里程碑",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pdmpSdm5PUTZGcFdFWXYteUNsdHhEaUVHMVdwa1RLVUloVjhWNmxuNldvaWVzOTdkVE93LS1UZ0hLblZPSjIzckRlWHV5aGV1TW1VcldwRXlhRW85RmQ0N0ROSU5iX2RtZjlfeksyNVpHODJmY2dsdk13?oc=5",
+      "source": "新浪财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-02T21:45:00.000Z",
-      "summary": ""
+      "pubDate": "2026-09-03T19:29:00.000Z",
+      "summary": "OpenAI发布GPT-6 Astra，定位为迈向通用人工智能的关键里程碑。",
+      "summaryZh": ""
     },
     {
       "title": "陈大年复出，入局大模型",
@@ -38,7 +58,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-03T10:13:24.000Z",
-      "summary": "陈大年回归科技界，推出本地模型StartLux-V1.0-27B-Preview，在信通院MCP专项测试中排名第二。",
+      "summary": "陈大年回归科技界，带领StartLux推出本地模型StartLux-V1.0-27B-Preview，在信通院MCP专项测试中综合排名第二。",
       "summaryZh": ""
     },
     {
@@ -48,8 +68,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-03T19:01:43.000Z",
-      "summary": "微软发布MAI-Transcribe-2语音识别模型，性能优于同类产品，价格0.10美元/小时。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "宝马新世代 BMW iX3 将于 11 月到店，全系配备智能驾驶辅助",
@@ -58,8 +77,19 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-03T12:45:55.000Z",
-      "summary": "宝马新世代BMW iX3 11月到店，全系标配智能驾驶辅助。",
+      "summary": "宝马新世代BMW iX3将于11月到店，全系标配智能驾驶辅助系统。",
       "summaryZh": ""
+    },
+    {
+      "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnROVEdOT3E2dnZXYkIzUWtIckZfZDNLV1QzdHpiUDJheDI5cU9qX25MSlo4dURZMlcwR1hUU0lhNHY3VVk3Z3M1UkZQMDB5RjRjcldsVUZKNnFXR2QyS2FObElZWk5fcU5PN3FWSktTemFqcmhiRnZJVy15N3FKZlBNQ0tNTlh0Wm9naUdR?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-03T18:00:12.000Z",
+      "summary": "OpenAI发布GPT-6 Astra，标志着通用人工智能时代的到来。",
+      "summaryZh": "",
+      "titleZh": "“欢迎来到 AGI 时代”：OpenAI 推出 GPT-6 Astra"
     },
     {
       "title": "成立12年的山东机器人公司，融了数亿元",
@@ -78,7 +108,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-03T12:13:39.000Z",
-      "summary": "亮源新创开源通用导航大脑LightNav-0，实现机器人无需额外训练即可适应新环境和任务。",
+      "summary": "亮源新创开源通用导航大脑LightNav-0，实现机器人跨平台、跨环境导航。",
       "summaryZh": ""
     },
     {
@@ -98,7 +128,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-03T03:56:02.000Z",
-      "summary": "深演智能推出“AI新品创新”，多智能体协同优化新品决策流程。",
+      "summary": "深演智能发布“AI新品创新”，多智能体协同贯通新品决策全流程。",
       "summaryZh": ""
     },
     {
@@ -128,8 +158,102 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-03T11:00:00.000Z",
-      "summary": "耐士劳新任总裁李建推动公司向技术和场景驱动转型，布局户外庭院、自研激光雷达和四足机器人。",
+      "summary": "耐士劳新任总裁李建布局户外庭院、自研激光雷达和四足机器人。",
       "summaryZh": ""
+    },
+    {
+      "title": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题",
+      "link": "http://www.geekpark.net/news/369388",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-03T15:25:38.000Z",
+      "summary": "WRC揭示机器人行业五大关键问题，聚焦具身智能发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "工业机器人产品矩阵将闪耀投洽会舞台",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SM1FjQnVuNHhabnM4S2ljRTlGQUVRVFdPcEszb0ZsWDZNYjdsQURqSmpxTGEwRVZZa21GMG9DR09OeE4xd1VDcHU0WXJyenhnYWZmZVREWllvWUxRV292Y1RPYjdjUkxjc29CblNpVHlnR0sybmlCLTln?oc=5",
+      "source": "新华社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-03T03:17:00.000Z",
+      "summary": "工业机器人产品矩阵亮相投洽会，聚焦人工智能与供应链创新成果。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Protecting Dynamic Industrial Robot Cable Carriers",
+      "link": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-03T12:18:21.000Z",
+      "summary": "IEEE Spectrum发布九月期，探讨工业机器人电缆保护技术。",
+      "summaryZh": "",
+      "titleZh": "保护动态工业机器人电缆托架"
+    },
+    {
+      "title": "Medtronic invests $700M in surgical partner Cornerstone Robotics",
+      "link": "https://www.therobotreport.com/medtronic-invests-700m-in-surgical-partner-cornerstone-robotics/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-03T18:53:54.000Z",
+      "summary": "Medtronic投资7亿美元与Cornerstone Robotics合作，获得其Sentire手术系统在部分国际市场的分销权。",
+      "summaryZh": "",
+      "titleZh": "美敦力 (Medtronic) 向手术合作伙伴 Cornerstone Robotics 投资 7 亿美元"
+    },
+    {
+      "title": "JAKA hits Teradyne Robotics back over patent dispute",
+      "link": "https://www.therobotreport.com/jaka-hits-teradyne-robotics-back-over-patent-dispute/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-03T17:44:20.000Z",
+      "summary": "JAKA Robotics反诉Teradyne Robotics专利侵权，称其公开声明误导性。",
+      "summaryZh": "",
+      "titleZh": "JAKA 因专利纠纷对泰瑞达机器人公司发起反击"
+    },
+    {
+      "title": "AI cloud firm Nscale commits compute worth $3.5 billion for Figure's robotics ambitions",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTkxWaUZTWUN1WTdnSy1SREFuS1hVQ3N3MS1RV3pROEhrME1MXzNHQU81enhla2E4WmtuVFA3WllLeWhtYVRzSDNPc1JnUXFuY3JVNzdITFo3Rjl1ZU9xaFFyNHhhWW9TR1pNN01aRE9JSHFVbFN5TU1nWWhvTWY3dHRWTVo5aG9nUTJyQTdKRnNvVmtPYmFnZDBxbVlrek5wQThPa1lxa2hoMTlTZFgtRl8wOVBzQ1JuN2ZxSHNSUEVwc3VSc0E?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-03T14:19:10.000Z",
+      "summary": "",
+      "titleZh": "AI 云公司 Nscale 投入价值 35 亿美元的计算来实现Figure 的机器人雄心"
+    },
+    {
+      "title": "机器人做月饼 老字号拥抱新科技",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTTZSWW1tOGdodkx2Zy1nZW9lRTdWMGZ1UXpJSVhLdzRXSk5wUlhvUnRILU01OFU5VHBTTk1DSDdHcHRNdHNvRUpFVGZWUWFaaXU1TkR5NFhRRDN2WDJuSk5fVG1FR1hHeWFqQ3AtV2EtR1d0bVhkVFowdzVWU3BaWTB5U3MyUQ?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-03T06:48:22.000Z",
+      "summary": "北京稻香村与智能机器人合作，展示月饼制作技艺，传承非遗文化。",
+      "summaryZh": ""
+    },
+    {
+      "title": "天津山东两地文旅展位共引 Rokid AI+AR 眼镜导览，文旅体验因好奇而不同",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByM0stSTVoc0RXUnpQa2FHR2Y1LUZFT3hCaUduY0hBeTZXSDczYkExYmo5N0dycjJWWS1KcW9SUUktNlVNMWE3RHVRb2M?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-03T10:18:06.000Z",
+      "summary": "天津山东文旅展位引入Rokid AI+AR眼镜导览，提升游客体验。",
+      "summaryZh": ""
+    },
+    {
+      "title": "The Best Way to Explore Lunar Craters Is a Giant Robot Ball",
+      "link": "https://spectrum.ieee.org/moon-ball-robot",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-03T12:00:01.000Z",
+      "summary": "月球球机器人革新月球陨石坑探索方式。",
+      "summaryZh": "",
+      "titleZh": "探索月球陨石坑的最佳方式是巨型机器人球"
     },
     {
       "title": "有了150亿公里实车数据，为什么自动驾驶还需要仿真？",
@@ -139,28 +263,6 @@
       "category": "robotics",
       "pubDate": "2026-09-03T03:09:59.000Z",
       "summary": ""
-    },
-    {
-      "title": "The Best Way to Explore Lunar Craters Is a Giant Robot Ball",
-      "link": "https://spectrum.ieee.org/moon-ball-robot",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-03T12:00:01.000Z",
-      "summary": "月球球机器人革新月球坑探索方式。",
-      "summaryZh": "",
-      "titleZh": "探索月球陨石坑的最佳方式是巨型机器人球"
-    },
-    {
-      "title": "NYU Researchers Paving New Path for Robotics",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOemJEcFlRdGVyTFg2YWJIY1g0anhnbjl3QlczaGp4ZnZQY0hyTUNNUlZSUWdmZlFKYXZ4WVI3Uy1kRjVzV3paLVN3TkVPeTJQajVnU09uaVZzNmtkSVVKOHRkNWN0MXRwemZYeXRTM1pZTG1GU2lTbnIwaV9ZRVFZMmFWVGFocWZFZ0dvdnphNE1JLWc5MTN5Mk5LU1U5V181dlJiOUlkYURMNm5wdXIxcWNBLVdobFhKWGhQYW5qQTkyLU5LYTI2UURWc1hvaGxBT2tUalU1M0tBYWVNRUtIbklkZW03Y1lGcXpyd2Y2UQ?oc=5",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-03T12:33:13.000Z",
-      "summary": "纽约大学研究人员在机器人领域开辟新路径。",
-      "summaryZh": "",
-      "titleZh": "纽约大学研究人员为机器人技术开辟新道路"
     },
     {
       "title": "探访文旅博览会：AI遇上文旅 旅行正在换一种玩法",
@@ -173,55 +275,13 @@
       "summaryZh": ""
     },
     {
-      "title": "Tesla's semi-autonomous driving could be adapted to EU norms: France",
-      "link": "https://techxplore.com/news/2026-09-tesla-semi-autonomous-eu-norms.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-03T19:20:06.000Z",
-      "summary": "特斯拉自动驾驶技术可能符合欧盟标准。",
-      "summaryZh": "",
-      "titleZh": "法国：特斯拉的半自动驾驶可以适应欧盟规范"
-    },
-    {
-      "title": "Europe bids to be a robot superpower like the US, China",
-      "link": "https://techxplore.com/news/2026-09-europe-robot-superpower-china.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-03T17:00:08.000Z",
-      "summary": "欧洲寻求成为像美国、中国一样的机器人超级大国。",
-      "summaryZh": "",
-      "titleZh": "欧洲力争成为像美国、中国一样的机器人超级大国"
-    },
-    {
       "title": "跨境电商市场洞察与智能选品AI工具评估：谁在定义数据驱动的选品新范式？",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IRE9nakZTaHRpT2d1eGx3N3NyWE1fZkJoR3pxZzRod1RWRkwyb2YycU10aUVqTkhiNnVGVTRGWkktTkhWSkJtWHZvRlhFUllrT284eWJLSU1XdkdCVXc1Y0tTU1dZaERaeEhMa0JaOGw0REw4QTNTdQ?oc=5",
       "source": "新浪财经",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-03T15:59:00.000Z",
-      "summary": "跨境电商AI选品工具市场进入关键拐点，AI技术革新选品效率。",
-      "summaryZh": ""
-    },
-    {
-      "title": "宇树科技全资子公司正式落户四川成都",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WX0hRVnlHdU1Qb3k3MTY4LUNUeXY4Q2ZxeE5lWEhEUnZLYzcxMXZKcEpuTFJJM1huV0pWWExFMTR2UnRKMGdJLS05SjZqMlRPZXRJNE15bHloUHd3bXRZV3R5NXJTRXJLT3NfbkdvUGo?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-03T04:31:44.000Z",
-      "summary": "宇树科技全资子公司成都宇辰科技有限公司正式落户四川成都。",
-      "summaryZh": ""
-    },
-    {
-      "title": "帕西尼以感知为核心构建具身智能全栈能力",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZaS1BZFZBWG9KdkE2dDRBcV9PNnAzaU1lVDhRVWoyUEs0YXRuWmhJc1RQZGlhSktsdmhBWXdXRmdpM01ZSk16dzZTU1NYRV9OR2tibThSalluNzJubDFYbXhXTjJGX3dyUGVZTXhZWXU?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-03T03:58:33.000Z",
-      "summary": "帕西尼以感知为核心，构建具身智能全栈能力，触觉感知芯片出货量突破百万颗。",
+      "summary": "跨境电商AI选品工具市场进入数据驱动新范式，AI技术缩短选品时间，提升效率。",
       "summaryZh": ""
     }
   ]
