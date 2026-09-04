@@ -1,27 +1,7 @@
 {
   "date": "2026-09-04",
-  "generatedAt": "2026-09-03T23:27:19.895Z",
+  "generatedAt": "2026-09-04T00:33:10.392Z",
   "items": [
-    {
-      "title": "特朗普政府支持OpenAI等人工智能公司：为训练模型复制作品不违反版权法",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DQjZrbFduR2dkR0xmZVdhRVQ1RjJOZ2JaQ2tNdzNCb1dBd1ZBc3JzQTIwNllHMmh3T3dFa1B6Nkl0b1M0Uk1hWklIQmpDOWFnUEtXNVdPUWlsZ3E2ekE?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-03T01:11:48.000Z",
-      "summary": "特朗普政府支持OpenAI等AI公司，认为训练模型复制作品不违版权法。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI的CEO称政府正在审查Astra大模型的生产流程",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuM0JMdVNacEtTazBnMVRkQ3VnU1l3X2ctUXVKRnB4cGMxMk10alctMVlGdXBwZmRieGp6MkRjdEVjeWhIY3NhWExZUWd1TF9yUm1BaVFtYW92TUd5Q2c?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-03T09:56:02.000Z",
-      "summary": "OpenAI CEO称政府审查Astra大模型生产流程。",
-      "summaryZh": ""
-    },
     {
       "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
       "link": "https://www.qbitai.com/2026/09/483948.html",
@@ -33,13 +13,13 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI推出ChatGPT青少年版，面向13-17岁用户并加强安全管控",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80R1ZjU1hfeTBwcURaS1hVQkdpdldQREZkenRRX0p6alBSbTNGX3I0cGNrTVpIMTBGbTk2Mk1wbk5US0NMVDZxMmlWNmZIVXZUY19EMw?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
+      "title": "ChatGPT, Grok, and Claude all went down at the same time",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTQzRmk3d2JRWHoyeWtHelBmM0tiMnZKX2lKcDhrYWF3TzBEa2pHVUtxcENQanZGVU9remJ1OVNMa0wxNVBOUkdtdE9fVERuSHE2M2hHbnI3V3pwNUFxTTB4ZjR2YWZ2akFfaGZTRmNrQmg3VUJuZlpFbDRVV3NjaE1XSkNVckw2T2U1ZEJKTmVGN3RL?oc=5",
+      "source": "The Verge",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-09-03T05:27:16.000Z",
-      "summary": "OpenAI推出ChatGPT青少年版，限制敏感话题和情感依赖，加强安全管控。",
+      "pubDate": "2026-09-03T15:35:14.000Z",
+      "summary": "ChatGPT、Grok和Claude同时出现故障。",
       "summaryZh": ""
     },
     {
@@ -49,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-03T19:01:43.000Z",
-      "summary": "微软发布MAI-Transcribe-2语音识别模型，性能超越Gemini3.5Transcribe和GPT-Transcribe。",
+      "summary": "微软发布MAI-Transcribe-2语音识别模型，性能优于同类产品，价格0.10美元/小时。",
       "summaryZh": ""
     },
     {
@@ -61,6 +41,15 @@
       "pubDate": "2026-09-03T23:08:50.000Z",
       "summary": "研究指出，过度依赖ChatGPT等AI产品可能降低用户独立思考能力。",
       "summaryZh": ""
+    },
+    {
+      "title": "ChatGPT、Claude、Grok一度集体宕机！持续近4小时，目前均已恢复",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jTlFBWW9EQVY2OE5FMXlla0dRRGgzN0VvV3MtaFNuZmRDWjJzVlY1ckdFSmNhUDBUUFB6QXBwWFJINDlMOTBqQ1pERFlPeTJmcGpv?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-03T19:39:53.000Z",
+      "summary": ""
     },
     {
       "title": "成立12年的山东机器人公司，融了数亿元",
@@ -83,23 +72,13 @@
       "summaryZh": ""
     },
     {
-      "title": "报告：全球AI算力狂飙加剧水资源压力，“水能协同”成绿色算力竞争新赛道",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1weno2QlUtM1pCN3dNRzNhQjUweUV4c19GYktId0Z4ME43dmNyS1oxZGltam5TdEpKbmRFSmxRcXF3bFh1a3F1WFMwMzdYYnlNMWF1ZkF6M0YzUQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-03T11:10:00.000Z",
-      "summary": "全球AI算力激增推高水资源压力，水能协同成绿色算力竞争新方向。",
-      "summaryZh": ""
-    },
-    {
       "title": "深演智能发布“AI新品创新”：多智能体协同贯通新品决策全流程",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlZU1NZkRKc1gwZHRhS0U0TDJqSVE4cFo3cHJKSFpJRG5VQUdMb0l2Tnhya0F0WnFXUlp3WE5tcUxxWkpvY2FXUllxSXctRWdZalBxTWI0R0Y?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-03T03:56:02.000Z",
-      "summary": "深演智能发布AI新品创新，多智能体协同贯通新品决策全流程。",
+      "summary": "深演智能发布“AI新品创新”，多智能体协同优化新品决策流程。",
       "summaryZh": ""
     },
     {
@@ -123,6 +102,26 @@
       "summaryZh": ""
     },
     {
+      "title": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题",
+      "link": "http://www.geekpark.net/news/369388",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-03T15:25:38.000Z",
+      "summary": "WRC揭示机器人行业面临五大关键问题。",
+      "summaryZh": ""
+    },
+    {
+      "title": "工业机器人产品矩阵将闪耀投洽会舞台",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SM1FjQnVuNHhabnM4S2ljRTlGQUVRVFdPcEszb0ZsWDZNYjdsQURqSmpxTGEwRVZZa21GMG9DR09OeE4xd1VDcHU0WXJyenhnYWZmZVREWllvWUxRV292Y1RPYjdjUkxjc29CblNpVHlnR0sybmlCLTln?oc=5",
+      "source": "新华社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-03T03:17:00.000Z",
+      "summary": "工业机器人产品矩阵亮相投洽会，聚焦人工智能与供应链创新成果。",
+      "summaryZh": ""
+    },
+    {
       "title": "Protecting Dynamic Industrial Robot Cable Carriers",
       "link": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
       "source": "IEEE Spectrum Robotics",
@@ -130,8 +129,7 @@
       "category": "robotics",
       "pubDate": "2026-09-03T12:18:21.000Z",
       "summary": "IEEE Spectrum发布九月期，探讨动态工业机器人电缆保护技术。",
-      "summaryZh": "",
-      "titleZh": "保护动态工业机器人电缆托架"
+      "summaryZh": ""
     },
     {
       "title": "Medtronic invests $700M in surgical partner Cornerstone Robotics",
@@ -141,8 +139,7 @@
       "category": "robotics",
       "pubDate": "2026-09-03T18:53:54.000Z",
       "summary": "Medtronic投资7亿美元与Cornerstone Robotics合作，获得其Sentire手术系统在部分国际市场的分销权。",
-      "summaryZh": "",
-      "titleZh": "美敦力 (Medtronic) 向手术合作伙伴 Cornerstone Robotics 投资 7 亿美元"
+      "summaryZh": ""
     },
     {
       "title": "JAKA hits Teradyne Robotics back over patent dispute",
@@ -151,30 +148,36 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-03T17:44:20.000Z",
-      "summary": "JAKA Robotics反诉Teradyne Robotics专利侵权，称对方言论误导性损害。",
-      "summaryZh": "",
-      "titleZh": "JAKA 因专利纠纷对泰瑞达机器人公司发起反击"
-    },
-    {
-      "title": "天津山东两地文旅展位共引 Rokid AI+AR 眼镜导览，文旅体验因好奇而不同",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByM0stSTVoc0RXUnpQa2FHR2Y1LUZFT3hCaUduY0hBeTZXSDczYkExYmo5N0dycjJWWS1KcW9SUUktNlVNMWE3RHVRb2M?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-03T10:18:06.000Z",
-      "summary": "天津山东文旅展位引入Rokid AI+AR眼镜导览，提升游客体验。",
+      "summary": "JAKA Robotics反诉Teradyne Robotics专利侵权，称其公开声明误导性。",
       "summaryZh": ""
     },
     {
-      "title": "The Best Way to Explore Lunar Craters Is a Giant Robot Ball",
-      "link": "https://spectrum.ieee.org/moon-ball-robot",
-      "source": "IEEE Spectrum Robotics",
+      "title": "AI cloud firm Nscale commits compute worth $3.5 billion for Figure's robotics ambitions",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTkxWaUZTWUN1WTdnSy1SREFuS1hVQ3N3MS1RV3pROEhrME1MXzNHQU81enhla2E4WmtuVFA3WllLeWhtYVRzSDNPc1JnUXFuY3JVNzdITFo3Rjl1ZU9xaFFyNHhhWW9TR1pNN01aRE9JSHFVbFN5TU1nWWhvTWY3dHRWTVo5aG9nUTJyQTdKRnNvVmtPYmFnZDBxbVlrek5wQThPa1lxa2hoMTlTZFgtRl8wOVBzQ1JuN2ZxSHNSUEVwc3VSc0E?oc=5",
+      "source": "Reuters Technology",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-09-03T12:00:01.000Z",
-      "summary": "月球球机器人革新月球陨石坑探索方式。",
-      "summaryZh": "",
-      "titleZh": "探索月球陨石坑的最佳方式是巨型机器人球"
+      "pubDate": "2026-09-03T14:19:10.000Z",
+      "summary": ""
+    },
+    {
+      "title": "机器人做月饼 老字号拥抱新科技",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTTZSWW1tOGdodkx2Zy1nZW9lRTdWMGZ1UXpJSVhLdzRXSk5wUlhvUnRILU01OFU5VHBTTk1DSDdHcHRNdHNvRUpFVGZWUWFaaXU1TkR5NFhRRDN2WDJuSk5fVG1FR1hHeWFqQ3AtV2EtR1d0bVhkVFowdzVWU3BaWTB5U3MyUQ?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-03T06:48:22.000Z",
+      "summary": "北京稻香村与智能机器人合作，展示月饼制作技艺，传承非遗文化。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2026 贸泽技术创新论坛-机器人",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sT0dDZkFSaWFienFud1RmbjFhRU1iZWZlRHlDZm9GTXpMNjk4Y1AwSXFSV2FHOVc0TXlIYWRuNzZoRXUydWZHVjljSFlXZjVoWlE?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-03T20:56:02.000Z",
+      "summary": ""
     },
     {
       "title": "有了150亿公里实车数据，为什么自动驾驶还需要仿真？",
@@ -183,17 +186,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-03T03:09:59.000Z",
-      "summary": "自动驾驶虽积累海量实车数据，仿真仍需以补足罕见场景及提升模型能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机器人当“助教”！成都AI大赛将场景验证搬进中小学",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yZU1GYTZJR0RnbVNEOFBSYzdVZmZaOVJWTjQzZmJsMDU1SmtLS0JfT2l2LTM3Z2VtYWY5Sk52clpaV0VkNUNEUGFhNktpcTNXLURSU0RpSjl5WnBJSHh1VXI1LXRDOHJKSllfOG9qWnpXaU9hR1E5SQ?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-03T21:52:00.000Z",
-      "summary": "成都AI大赛将场景验证引入中小学，机器人担任“助教”。",
+      "summary": "自动驾驶虽积累海量实车数据，仿真仍为补全罕见场景及提升模型能力所必需。",
       "summaryZh": ""
     },
     {
@@ -203,7 +196,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-03T14:17:00.000Z",
-      "summary": "文旅博览会展示AI赋能旅游，旅行体验升级。",
+      "summary": "文旅博览会展示AI技术革新旅行体验。",
       "summaryZh": ""
     }
   ]
