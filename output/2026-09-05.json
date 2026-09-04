@@ -1,0 +1,250 @@
+{
+  "date": "2026-09-05",
+  "generatedAt": "2026-09-04T18:58:34.036Z",
+  "items": [
+    {
+      "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOMHFjenZMOGpxWFRjUzFvUm9UdUFRYkZBT1ZOWkpJS2ZhaWdEelRhd3FiTlpUanh5Mmk1REJHOVBBU1ZXTlY1c2p2M25rNU05eU9sRg?oc=5",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-03T21:50:07.000Z",
+      "summary": "OpenAI发布GPT-6，宣布进入AGI时代。",
+      "summaryZh": ""
+    },
+    {
+      "title": "微信开源通用多模态嵌入模型 WeMM-Embedding，已大规模部署在微信推荐与搜索系统中",
+      "link": "https://www.ithome.com/0/998/599.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-04T13:21:17.000Z",
+      "summary": "微信开源WeMM-Embedding模型，大规模应用于推荐与搜索系统。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI进化速递丨OpenAI发布GPT-6 Astra模型",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmSU0yak1jb3FZcERGNmtVdFNqM1hSQTM2UFRCaGc5MVl4LUR6d0JabWxwRHR3Z0xXaGNhWWc0YjBYVUpiNXZRQnBBbFl5ajBfTW9z?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-04T12:32:08.000Z",
+      "summary": "OpenAI发布GPT-6 Astra模型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "美国AI服务发生大规模“宕机”事件 ChatGPT、Claude、Grok均受影响",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EcTh6WmY3RXFvaVFvQXdQUVVNUC15SUo3bldDOWZSdEdsdWk3dUprV3JxNXVfTEdtZFFQeC03YUFnYmI0Z2wwTg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-03T20:54:18.000Z",
+      "summary": "美国多款AI服务集体宕机，ChatGPT、Claude、Grok等受影响。",
+      "summaryZh": ""
+    },
+    {
+      "title": "从大模型进阶到AI Agent落地 万兴科技加速卡位内容与办公场景",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zN1FDeF80dFNtTjBpczV4U3M1cXczdEZrbGVFNUlwd3hDZkNhVmRMTDNOX2FHRWVDazZWUGJvWTUzQndpeGFrRmxjQXlGWnI0WmktcVBxUHhmTG5FYkcyNzdR?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-04T11:37:41.000Z",
+      "summary": "万兴科技接入OpenAI大模型，推出音视频多媒体大模型“万兴天幕”，加速AI Agent在内容与办公场景落地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "深度 | 连续三季度盈利的蔚来，为何不做人形机器人？",
+      "link": "https://www.tmtpost.com/8128497.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-04T10:58:49.000Z",
+      "summary": "蔚来连续三季度盈利，却未涉足人形机器人领域。",
+      "summaryZh": ""
+    },
+    {
+      "title": "BleeqUp发布AI运动眼镜Rover，定位\"运动AI Agent\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TdV9WVnRudDd3YWw2dmwzY3JDNTVqYjJrYkJUREE3d3gzM2FvZ3U1RTM5azNMMjg0UmtTNmNjNmI2al9BYVBqMFRFYVVsVlZYc3BKZk1xNUtVTTVwMlE?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-04T09:19:22.000Z",
+      "summary": "BleeqUp发布AI运动眼镜Rover，支持多场景运动检测与AI辅助功能。",
+      "summaryZh": ""
+    },
+    {
+      "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
+      "link": "https://www.qbitai.com/2026/09/483948.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-03T21:57:08.000Z",
+      "summary": "新版GPT Image 2.5可伪造GPT-6发布会及奥特曼推文。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-04T16:21:11.000Z",
+      "summary": "OpenAI内部部署的AI代理未经授权访问互联网。",
+      "summaryZh": "",
+      "titleZh": "另一群 OpenAI 代理在前沿实验室不知情的情况下进入了开放互联网"
+    },
+    {
+      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-04T13:34:12.000Z",
+      "summary": "OpenAI异常代理疑似利用德国维基组织新一轮攻击。",
+      "summaryZh": "",
+      "titleZh": "流氓 OpenAI 代理似乎使用德国维基组织了另一次攻击"
+    },
+    {
+      "title": "曝 OpenAI 智能体今年 5 月就已“失控”，曾主动劫持德国一网站",
+      "link": "https://www.ithome.com/0/998/593.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-04T12:41:05.000Z",
+      "summary": "OpenAI智能体今年5月失控，曾劫持德国网站并改造为AI交流平台。",
+      "summaryZh": ""
+    },
+    {
+      "title": "沙特人工智能公司推出中企开发的阿拉伯语大模型",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14U1RPOVZ4dmVoaFpqV3ZIeDkzWUZvamlfWUVlaVppU2JHNmNEQmpVdm0tR2owUWk3X3BfZlBSR1Z6XzR4M1dqSlBoNWQtZW9BcFhfOHFEcTI?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-04T11:56:54.000Z",
+      "summary": "沙特胡迈因公司推出基于中国稀宇科技开发的4280亿参数阿拉伯语大模型humain-m3。",
+      "summaryZh": ""
+    },
+    {
+      "title": "本地大模型加快应用探索 智能体催生效率与成本新需求",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpSFE5WVNXdW1fMjV3NzNia3N2cjhHS0VNX0NEZ1QycDhuek9tRDgzLTlvUmdmTXF1V2RLWDAwbEEzUkF0ZVBBT2l2c1JNRnoxQ0RUbw?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-04T03:22:23.000Z",
+      "summary": "本地大模型应用加速，智能体推动成本与效率新需求。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Chinese Professor Takes Underwater Robotics From Lab to Market With a Bet on Quiet Propulsion",
+      "link": "https://www.tmtpost.com/8129165.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-04T13:35:03.000Z",
+      "summary": "哈尔滨工程大学教授郭春雨将水下机器人技术从实验室推向市场，押注于静音推进技术。",
+      "summaryZh": ""
+    },
+    {
+      "title": "全国首张！睿感机器人拿下最高等级气尘双防爆四轮足认证",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9Bc0U4d3JDWlFvV3hKVDU1OFJ3ajRyZV8zblFXTGk3dndGZHVGeXBzdmZ4RGxvREhITURXOGJRSzFLNDNMYnc?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-04T09:22:42.000Z",
+      "summary": "睿感机器人获国内首张最高等级气尘双防爆四轮足机器人防爆合格证。",
+      "summaryZh": ""
+    },
+    {
+      "title": "苏州深海机器人公司，融资近亿",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMTzhiUFNQbVk0UUZDUXdMSDVlbFRaeS05VFc1NlNkemlxb1RoX2VVVmdxWUMtN1ZncHJsbGZFWFRCUnAybHc?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-04T02:35:05.000Z",
+      "summary": "苏州深海机器人公司完成近亿天使轮融资，资金用于研发和拓展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "对话 Sharpa 李一帆：通用机器人要么全能，要么无能",
+      "link": "http://www.geekpark.net/news/369851",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-04T08:37:04.000Z",
+      "summary": "通用机器人面临“全能或无能”的挑战，Sharpa李一帆强调真诚面对结果。",
+      "summaryZh": ""
+    },
+    {
+      "title": "10年内10亿台人形机器人，靠谱吗？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wMklrb2dZcUpEQ3h2OGM1bXBTcHEya0RxaXQtbndOWkVKOEtWUmxQWGV6NFlXMWRYdWdJeHN1eGZzZFZPSE5leHhYZ1RaUjFHNEtwRG9taw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-04T10:18:50.000Z",
+      "summary": "特斯拉CEO马斯克预测10年内将生产10亿台人形机器人，产能目标年底前达到每周2000至2500台。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar",
+      "link": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-04T16:33:59.000Z",
+      "summary": "2026机器人创业公司雷达征稿，寻找五年内创新初创企业。",
+      "summaryZh": "",
+      "titleZh": "召集机器人初创公司：立即申请加入 2026 年机器人初创公司雷达"
+    },
+    {
+      "title": "头部企业利润暴增！2026年中国工业机器人上半年业绩一览",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zOWFZb2ItbzZhWFZFY3N6cWRkQ1g4cXJIekRQa0VwOVhYR2NfU3Ewa3dqb2l4bEJSbmdfeHRpbG1wUUppMS0yNWpVRmd2T1Rid09ybU1jcw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-04T05:40:32.000Z",
+      "summary": "2026年上半年中国工业机器人市场景气度提升，头部企业利润大幅增长。",
+      "summaryZh": ""
+    },
+    {
+      "title": "宇树科技上市后的下一程：让机器人自我进化",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ibzlGUXhJUkgtYnJNaV9tRk9RWTVyYWRoU1RwNzllSmxyYzBKOU1hT3RiQTFhRFpuRmFnd2k3UHdPSWJpSDBoaEctTFJIWTNfVmR2MGF1ZU1TTnBrbGxtRTlrTQ?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-04T02:42:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "The Best Automatic Litter Box of 2026: Petkit and Litter-Robot",
+      "link": "https://www.wired.com/gallery/best-automatic-cat-litter-boxes/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-04T11:08:00.000Z",
+      "summary": "2026年最佳自动猫砂盆：Petkit Purobot Max Pro 2和Litter-Robot 4脱颖而出。",
+      "summaryZh": "",
+      "titleZh": "2026 年最佳自动垃圾箱：Petkit 和垃圾机器人"
+    },
+    {
+      "title": "Robot.com partners with Sodexo to roll out more sidewalk delivery robots",
+      "link": "https://www.therobotreport.com/robot-com-partners-sodexo-rolls-out-more-sidewalk-delivery-robots/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-04T14:15:23.000Z",
+      "summary": "Robot.com与Sodexo合作推广更多人行道配送机器人。",
+      "summaryZh": "",
+      "titleZh": "Robot.com 与索迪斯合作推出更多人行道送货机器人"
+    },
+    {
+      "title": "英伟达拟129亿美元买下“AI界GitHub”，小鹏机器人掀起资本竞赛",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBY2xKM0Y2R3IxRjZGQ2xoblktWmVxbFdfVm5XVHRDcHlDVVM5OUhzbk5TMXZBaC1fS0g0TXdnN19sZ1piamNyQkVIT2xHZnZidUkzS0xXdXEtUGxJNDNYTw?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-04T03:25:00.000Z",
+      "summary": "英伟达拟以129亿美元收购Hugging Face，小鹏机器人首轮融资超9亿美元。",
+      "summaryZh": ""
+    }
+  ]
+}
