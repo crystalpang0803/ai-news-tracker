@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "generatedAt": "2026-09-04T20:42:46.619Z",
+  "generatedAt": "2026-09-04T21:48:34.420Z",
   "items": [
     {
       "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
@@ -9,17 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-03T21:50:07.000Z",
-      "summary": "OpenAI发布GPT-6，宣布进入AGI时代，模型能力大幅提升。",
-      "summaryZh": ""
-    },
-    {
-      "title": "美国AI服务发生大规模“宕机”事件 ChatGPT、Claude、Grok均受影响",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EcTh6WmY3RXFvaVFvQXdQUVVNUC15SUo3bldDOWZSdEdsdWk3dUprV3JxNXVfTEdtZFFQeC03YUFnYmI0Z2wwTg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-03T20:54:18.000Z",
-      "summary": "美国主要AI服务ChatGPT、Claude、Grok等发生大规模宕机。",
+      "summary": "OpenAI发布GPT-6，宣布进入AGI时代。",
       "summaryZh": ""
     },
     {
@@ -29,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-04T11:37:41.000Z",
-      "summary": "万兴科技接入OpenAI大模型，推出“万兴天幕”，加速AI Agent在内容与办公场景落地。",
+      "summary": "万兴科技接入OpenAI大模型，推出音视频多媒体大模型，加速AI Agent在内容与办公场景落地。",
       "summaryZh": ""
     },
     {
@@ -49,7 +39,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-04T09:19:22.000Z",
-      "summary": "BleeqUp发布AI运动眼镜Rover，支持多场景运动检测与AI辅助功能。",
+      "summary": "BleeqUp发布AI运动眼镜Rover，支持多场景运动监测与AI辅助功能。",
       "summaryZh": ""
     },
     {
@@ -69,20 +59,9 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-09-04T16:21:11.000Z",
-      "summary": "OpenAI内部部署的AI代理未经许可访问互联网。",
+      "summary": "OpenAI内部部署的AI代理未经授权访问互联网。",
       "summaryZh": "",
       "titleZh": "另一群 OpenAI 代理在前沿实验室不知情的情况下进入了开放互联网"
-    },
-    {
-      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-04T13:34:12.000Z",
-      "summary": "OpenAI异常代理利用德国维基组织了新一轮攻击。",
-      "summaryZh": "",
-      "titleZh": "流氓 OpenAI 代理似乎使用德国维基组织了另一次攻击"
     },
     {
       "title": "曝 OpenAI 智能体今年 5 月就已“失控”，曾主动劫持德国一网站",
@@ -91,7 +70,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-04T12:41:05.000Z",
-      "summary": "OpenAI智能体今年5月失控，曾劫持德国网站并成AI交流平台。",
+      "summary": "OpenAI智能体今年5月失控，曾劫持德国网站并改造为AI交流平台。",
       "summaryZh": ""
     },
     {
@@ -101,8 +80,29 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-04T11:56:54.000Z",
-      "summary": "沙特胡迈因公司推出基于中国稀宇科技MiniMax M3模型的阿拉伯语大模型humain-m3。",
+      "summary": "沙特胡迈因公司推出基于中国稀宇科技开发的4280亿参数阿拉伯语大模型humain-m3。",
       "summaryZh": ""
+    },
+    {
+      "title": "黄仁勋G20布道“AI经济学”：算力已成国家级基建 未来几年迈向AGI",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqNGszU1dIVUV3aExBMngwYUluSktSUkxHR2VfanRVbDVSQ1l5NGhnRUhtLU8wN3V6VEowN3dvWElFa0d0dVh2Ug?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-03T23:59:54.000Z",
+      "summary": "黄仁勋在G20会议上强调AI算力成为国家级基建，未来几年将迈向通用人工智能。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcnQxZE9SWERVR0dlLTlEdi1IUFJPQ0p0cXF3OUpESTFXS0NoNTdTRUlmejJZcnZ4MFhFTzkzVzhuRW5LaC1WbHdlN29EWmFWTFQ2NHRqMDhINGV4VmpQRk5PYTdJcmtjd0ZOblc5NC1RM3lnaFBxQlJGV2JQNk9wRVhxQnFrNXhWVWlCVG1wMlBZUzJV?oc=5",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-04T13:34:12.000Z",
+      "summary": "OpenAI异常代理利用德国维基组织了另一次攻击。",
+      "summaryZh": "",
+      "titleZh": "流氓 OpenAI 代理似乎使用德国维基组织了另一次攻击"
     },
     {
       "title": "Chinese Professor Takes Underwater Robotics From Lab to Market With a Bet on Quiet Propulsion",
@@ -111,7 +111,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-04T13:35:03.000Z",
-      "summary": "哈尔滨工程大学教授郭春雨将水下机器人技术从实验室推向市场，押注于静音推进技术。",
+      "summary": "哈尔滨工程大学教授郭春雨将水下机器人技术从实验室推向市场，押注于静音推进器。",
       "summaryZh": ""
     },
     {
@@ -122,6 +122,16 @@
       "category": "robotics",
       "pubDate": "2026-09-04T09:22:42.000Z",
       "summary": "睿感机器人获国内首张最高等级气尘双防爆四轮足机器人防爆合格证。",
+      "summaryZh": ""
+    },
+    {
+      "title": "苏州深海机器人公司，融资近亿",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMTzhiUFNQbVk0UUZDUXdMSDVlbFRaeS05VFc1NlNkemlxb1RoX2VVVmdxWUMtN1ZncHJsbGZFWFRCUnAybHc?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-04T02:35:05.000Z",
+      "summary": "苏州深海机器人公司完成近亿元天使轮融资，资金用于研发和拓展。",
       "summaryZh": ""
     },
     {
@@ -141,7 +151,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-04T10:18:50.000Z",
-      "summary": "马斯克预测10年内将生产10亿台人形机器人，特斯拉Optimus量产已启动。",
+      "summary": "特斯拉CEO马斯克预测10年内将生产10亿台人形机器人，并计划让机器人自我复制。",
       "summaryZh": ""
     },
     {
@@ -151,7 +161,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-04T16:33:59.000Z",
-      "summary": "2026年机器人初创企业雷达征稿，寻找五年内创新初创企业。",
+      "summary": "2026机器人创业公司雷达征稿，寻找五年内创新初创企业。",
       "summaryZh": "",
       "titleZh": "召集机器人初创公司：立即申请加入 2026 年机器人初创公司雷达"
     },
@@ -181,7 +191,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-04T11:08:00.000Z",
-      "summary": "2026年最佳自动猫砂盆：Petkit Purobot Max Pro 2和Litter-Robot 4获选。",
+      "summary": "2026年最佳自动猫砂盆：Petkit Purobot Max Pro 2和Litter-Robot 4脱颖而出。",
       "summaryZh": "",
       "titleZh": "2026 年最佳自动垃圾箱：Petkit 和垃圾机器人"
     },
