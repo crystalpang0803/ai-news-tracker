@@ -1,17 +1,7 @@
 {
   "date": "2026-09-04",
-  "generatedAt": "2026-09-04T04:41:25.433Z",
+  "generatedAt": "2026-09-04T08:15:49.671Z",
   "items": [
-    {
-      "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
-      "link": "https://www.qbitai.com/2026/09/483898.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-03T21:50:07.000Z",
-      "summary": "OpenAI发布GPT-6，宣布进入AGI时代。",
-      "summaryZh": ""
-    },
     {
       "title": "机器人能动只是第一步，难的是落地场景",
       "link": "https://www.tmtpost.com/8127840.html",
@@ -23,15 +13,43 @@
       "summaryZh": ""
     },
     {
-      "title": "ChatGPT, Grok, and Claude all went down at the same time",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTQzRmk3d2JRWHoyeWtHelBmM0tiMnZKX2lKcDhrYWF3TzBEa2pHVUtxcENQanZGVU9remJ1OVNMa0wxNVBOUkdtdE9fVERuSHE2M2hHbnI3V3pwNUFxTTB4ZjR2YWZ2akFfaGZTRmNrQmg3VUJuZlpFbDRVV3NjaE1XSkNVckw2T2U1ZEJKTmVGN3RL?oc=5",
-      "source": "The Verge",
-      "lang": "en",
+      "title": "李飞飞发布多模态世界模型Atlas！英伟达将大手笔收购Hugging Face 覆铜板新一轮涨价落地丨20260904从华尔街到陆家嘴",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZYnhhQkVWdDk4b1ZWZ0VBRW5kRVpsS09aLVowVW1iSFJJS2VhckZqUDFiWHdSaWJMdkdVYTV3U1A5X1NrSFZkcXlSR1hPSDV1ZGpJZw?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-03T15:35:14.000Z",
-      "summary": "三大AI聊天机器人同时宕机。",
-      "summaryZh": "",
-      "titleZh": "ChatGPT、Grok、Claude 同时宕机"
+      "pubDate": "2026-09-04T03:25:42.000Z",
+      "summary": "李飞飞发布多模态世界模型Atlas，英伟达收购Hugging Face，覆铜板涨价。",
+      "summaryZh": ""
+    },
+    {
+      "title": "“欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yYTFUbUlkeGVTa052TTZvZ3BhYkdlZ2RHcGdPVmJwN2dHNHhaNWR0QnBFX1JhRkVHYWdUSTZISU1ybGNqTHN2REpxOUl2bGk2eG8w?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-03T18:00:52.000Z",
+      "summary": ""
+    },
+    {
+      "title": "市场动态OpenAI推出GPT-6 Astra 称其为迈向通用人工智能的重要里程碑",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHd1dpZUU2ODNjR3dIZzhMLW5EcG9uQUZDZ2QwSU5RczhjT2pHcW5NNVJNMW9ZbEtmeTZ0cWpGbUk2ZExnaEtIdTE5MktyQjBBWUZoQ3Z4M0pBNkNqMUU1NVRqdw?oc=5",
+      "source": "财新网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-04T00:34:00.000Z",
+      "summary": "OpenAI发布GPT-6 Astra，称其为迈向通用人工智能的重要里程碑。",
+      "summaryZh": ""
+    },
+    {
+      "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
+      "link": "https://www.qbitai.com/2026/09/483984.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-04T04:03:04.000Z",
+      "summary": "常州女首富周晓萍旗下星宇股份因裁应届生引发争议。",
+      "summaryZh": ""
     },
     {
       "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
@@ -44,23 +62,13 @@
       "summaryZh": ""
     },
     {
-      "title": "珂芝推出 Z3 系列鼠标：搭 PAW3315 传感器，79 元起",
-      "link": "https://www.ithome.com/0/998/282.htm",
+      "title": "李斌回应蔚来是否会做机器人业务：已投资很多公司，先把车这个事情做好",
+      "link": "https://www.ithome.com/0/998/423.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-04T02:26:53.000Z",
-      "summary": "珂芝Z3系列鼠标搭载PAW3315传感器，79元起售。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智谱AI上天猫开店 主打Token充值服务 像充话费一样买大模型算力",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBidmhvUUV0eG85UVY3VFVzR3cxTGJoU2VrWnFNdFBPNE1lSVlkZTNPWUw1eG5abUhQVVRnUmZQSjZ0WEtVb21UZzFQdUl5dzRFMWhj?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-03T10:21:00.000Z",
-      "summary": "智谱AI在天猫开设官方旗舰店，提供Token充值服务，用户可像充话费一样购买大模型算力。",
+      "pubDate": "2026-09-04T07:31:10.000Z",
+      "summary": "蔚来李斌表示暂不涉足机器人业务，先专注汽车市场。",
       "summaryZh": ""
     },
     {
@@ -70,27 +78,38 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-03T19:01:43.000Z",
-      "summary": "微软发布MAI-Transcribe-2语音识别模型，性能优于Gemini3.5Transcribe和GPT-Transcribe。",
+      "summary": "微软发布MAI-Transcribe-2语音识别模型，性能优于Gemini3.5和GPT-Transcribe。",
       "summaryZh": ""
     },
     {
-      "title": "全球首款 AI 智能体手机预热：努比亚 NaviX Ultra 搭载长鑫 10667Mbps LPDDR5X 内存，本月发布",
-      "link": "https://www.ithome.com/0/998/289.htm",
-      "source": "IT之家",
+      "title": "从算力竞赛到 Token 争夺战，AI 基建进入分层竞争时代",
+      "link": "https://www.tmtpost.com/8128030.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-04T02:36:40.000Z",
-      "summary": "努比亚NaviX Ultra搭载长鑫10667Mbps LPDDR5X内存，本月发布。",
+      "pubDate": "2026-09-04T05:56:14.000Z",
+      "summary": "AI基建转向Token主导，产业竞争进入分层时代。",
       "summaryZh": ""
     },
     {
-      "title": "ChatGPT、Claude、Grok一度集体宕机！持续近4小时，目前均已恢复",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jTlFBWW9EQVY2OE5FMXlla0dRRGgzN0VvV3MtaFNuZmRDWjJzVlY1ckdFSmNhUDBUUFB6QXBwWFJINDlMOTBqQ1pERFlPeTJmcGpv?oc=5",
-      "source": "华尔街见闻",
+      "title": "GPT-6 曝光， OpenAI 总裁说：AGI 来了",
+      "link": "http://www.geekpark.net/news/369800",
+      "source": "极客公园",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-03T19:39:53.000Z",
-      "summary": ""
+      "pubDate": "2026-09-03T22:48:29.000Z",
+      "summary": "OpenAI总裁Greg Brockman表示GPT-6可能标志着AGI的到来。",
+      "summaryZh": ""
+    },
+    {
+      "title": "吉利前高管深圳造机器人，融了数千万",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE10X0xrRjhlRGJUdWNvWHg3ckRUdFJVY1U2Y09RZC10Nm1oYS1RV05CMFRRbi1XWTdweEpBUlRNVG1hZTdPV0E?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-04T06:31:57.000Z",
+      "summary": "吉利前高管创办的深圳星灿智能机器人公司完成数千万融资。",
+      "summaryZh": ""
     },
     {
       "title": "成立12年的山东机器人公司，融了数亿元",
@@ -103,13 +122,13 @@
       "summaryZh": ""
     },
     {
-      "title": "一脑通用人形、四足、飞行、轮式机器人，这家公司怎么做到的？",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHeWhzdF9CU1JkMjkwNUNHZ2tQbnZxNzRLYlROOEV1VWVfZjR3WDBackJ3LThtRVVvQ29YMTJMLVMyNE5PSkE?oc=5",
-      "source": "智东西",
+      "title": "53起、175.6亿：8月人形机器人融资的四个变化",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iNFZBQ3BQOVNXWmlwYnBvMC1aYW9jNFNhWklObW5XcXpTVW90Rm8taW5WaWY3OGZJNGxkb3RQVHBtQTQ1Wm00Wk1fRjRHa0x4Tmg5c29tbw?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-03T12:13:39.000Z",
-      "summary": "亮源新创开源通用导航大脑LightNav-0，实现机器人无需额外训练即可适应新环境和任务。",
+      "pubDate": "2026-09-04T05:40:32.000Z",
+      "summary": "8月人形机器人融资事件增至53起，总额达175.6亿，资本更集中。",
       "summaryZh": ""
     },
     {
@@ -120,6 +139,16 @@
       "category": "robotics",
       "pubDate": "2026-09-03T15:25:38.000Z",
       "summary": "WRC揭示机器人行业面临五大关键问题。",
+      "summaryZh": ""
+    },
+    {
+      "title": "GoPro MISSION 1 PRO ILS 可换镜头摄像机国行上架：1 英寸传感器、M43 卡口，5498 元",
+      "link": "https://www.ithome.com/0/998/418.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-04T07:19:23.000Z",
+      "summary": "GoPro MISSION 1 PRO ILS国行版上架，售价5498元。",
       "summaryZh": ""
     },
     {
@@ -156,43 +185,13 @@
       "titleZh": "JAKA 因专利纠纷对泰瑞达机器人公司发起反击"
     },
     {
-      "title": "AI cloud firm Nscale commits compute worth $3.5 billion for Figure's robotics ambitions",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTkxWaUZTWUN1WTdnSy1SREFuS1hVQ3N3MS1RV3pROEhrME1MXzNHQU81enhla2E4WmtuVFA3WllLeWhtYVRzSDNPc1JnUXFuY3JVNzdITFo3Rjl1ZU9xaFFyNHhhWW9TR1pNN01aRE9JSHFVbFN5TU1nWWhvTWY3dHRWTVo5aG9nUTJyQTdKRnNvVmtPYmFnZDBxbVlrek5wQThPa1lxa2hoMTlTZFgtRl8wOVBzQ1JuN2ZxSHNSUEVwc3VSc0E?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-03T14:19:10.000Z",
-      "summary": "",
-      "titleZh": "AI 云公司 Nscale 投入价值 35 亿美元的计算来实现Figure 的机器人雄心"
-    },
-    {
-      "title": "探秘AI新势力丨机器人如何在真实世界学本领？",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWUEdqUmplTE1oSVZBTWtCQ2JORzItSkNCbnBhcVZqQkgyRXQyaHdJMXdhdzRJWXRWV3FPVUFXS19CT1FJR01QVEZzRThmXy05UE5VREdteGxhdWNKcHVBcEJ6Z0JnbVZoQkpVQWZOTHRIa3hLc1QzTElJcWJINEU?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-04T04:07:19.000Z",
-      "summary": "机器人通过真实世界数据学习拿杯子、叠衣服等动作。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机器人做月饼 老字号拥抱新科技",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTTZSWW1tOGdodkx2Zy1nZW9lRTdWMGZ1UXpJSVhLdzRXSk5wUlhvUnRILU01OFU5VHBTTk1DSDdHcHRNdHNvRUpFVGZWUWFaaXU1TkR5NFhRRDN2WDJuSk5fVG1FR1hHeWFqQ3AtV2EtR1d0bVhkVFowdzVWU3BaWTB5U3MyUQ?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-03T06:48:22.000Z",
-      "summary": "北京稻香村与智能机器人合作，展示月饼制作技艺，传承非遗文化。",
-      "summaryZh": ""
-    },
-    {
       "title": "探访文旅博览会：AI遇上文旅 旅行正在换一种玩法",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xbjI5aWx5TVlaUEx3WWZ6eW1oY3B0NTNlanUwR01BTk9iZzFscWFHQVI4YVRCdnJwc2d2Z21aRWIzck1JSURIVW5ydnJkQ0s4WXpVYUFxTmVHMVB3SHZCRU13Yl9CcUhyenZJMGRzb3g5bWNqZmxEOFVmUQ?oc=5",
       "source": "中国新闻网",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-03T14:17:00.000Z",
-      "summary": "文旅博览会展示AI赋能旅游，旅行体验升级。",
+      "summary": "文旅博览会展示AI技术革新旅行体验。",
       "summaryZh": ""
     }
   ]
