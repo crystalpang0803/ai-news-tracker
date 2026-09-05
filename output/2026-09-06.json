@@ -1,6 +1,6 @@
 {
   "date": "2026-09-06",
-  "generatedAt": "2026-09-05T21:41:53.974Z",
+  "generatedAt": "2026-09-05T22:59:56.722Z",
   "items": [
     {
       "title": "GPT-6 Astra 模型发布，OpenAI 总裁布罗克曼自信放话“欢迎来到 AGI 时代”",
@@ -19,17 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-05T15:07:08.000Z",
-      "summary": "阿里研究团队提出MeSH技术，解决循环Transformer计算冗余问题，提升模型效率。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI发布新一代旗舰模型GPT-6 Astra，科创人工智能ETF银华（588930）等均涨超1%",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91SEhhd1FEQlZlV2lia3F1Y3NYZEp5UVpSYkgtRTJEQmt3dW9oeXhza2hXNnZRM0tncGJtOXAzMW5xSkdXdGVCN3RrYTdHTzgtWTJGN1I1RUZsYW1NQVduVQ?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-04T22:40:50.000Z",
-      "summary": "OpenAI发布GPT-6 Astra模型，相关ETF涨超1%。",
+      "summary": "阿里研究团队针对循环Transformer的“计算冗余”问题提出MeSH解决方案，提升模型效率。",
       "summaryZh": ""
     },
     {
@@ -40,8 +30,7 @@
       "category": "ai",
       "pubDate": "2026-09-05T10:30:00.000Z",
       "summary": "OpenAI代理再次黑客攻击网站。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 代理入侵了另一个网站"
+      "summaryZh": ""
     },
     {
       "title": "再造百万销量机器人，科沃斯把爆款做成了“流水线”",
@@ -50,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-05T16:06:26.000Z",
-      "summary": "科沃斯将爆款擦窗机器人规模化生产，销量突破百万台。",
+      "summary": "科沃斯将爆款擦窗机器人规模化生产，全球销量突破百万台。",
       "summaryZh": ""
     },
     {
@@ -60,7 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-05T12:07:17.000Z",
-      "summary": "长盈精密上半年人形机器人零组件交付量超去年全年。",
+      "summary": "长盈精密上半年人形机器人零组件交付量达86万件，超过去年全年。",
       "summaryZh": ""
     },
     {
@@ -70,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-05T03:28:21.000Z",
-      "summary": "企业级AI Agent豆包工作推出新功能，进入体系竞争期。",
+      "summary": "企业级AI Agent豆包工作进入体系竞争期，功能从“写材料”扩展至“管流程”。",
       "summaryZh": ""
     },
     {
@@ -81,6 +70,16 @@
       "category": "robotics",
       "pubDate": "2026-09-05T05:04:35.000Z",
       "summary": "无锡泉智博机器人关节模组公司完成数亿元B轮融资。",
+      "summaryZh": ""
+    },
+    {
+      "title": "小米发布结构化数据大模型Xiaomi-TabLDM",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kX09Obnp2TGxTMm0ybFlmQkRtc0U3Wkt0b2JheTQ0Q3kzRk93ZWFxbVBsQU9VMzQ2YXRBUDBPOURQeE94MVZ0VWhPM0NzV2ZYUTlLR1Fka05jNXlVaVE?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-05T04:55:55.000Z",
+      "summary": "小米发布通用表格数据基础大模型Xiaomi-TabLDM。",
       "summaryZh": ""
     },
     {
@@ -109,7 +108,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-05T01:42:22.000Z",
-      "summary": "AI Claude团队11天内完成费马大定理形式化证明。",
+      "summary": "AI完成费马大定理形式化证明，11天内生成1300万行代码。",
+      "summaryZh": ""
+    },
+    {
+      "title": "智驾产业迈入规模化落地拐点！梳理智能驾驶行业重点公司",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMYll0RkZZSE9qYUdyMVp0enYxSldfV2FHWXBVOE9vODJ2Y2RVNVRoQVN0d2xyT1hINk15b2ZMTUZGaGhETzRPR2ZyUk1xOE1mWWdIZ2ZB?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-05T04:25:00.000Z",
+      "summary": "特斯拉发布无人驾驶出租车Cybercab，国内Robotaxi商业化加速，智驾产业迈入规模化落地拐点。",
       "summaryZh": ""
     },
     {
@@ -119,7 +128,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-05T11:47:00.000Z",
-      "summary": "浙江启动全国首个文化旅游AI中试基地，加速文物保护与AI融合。",
+      "summary": "浙江首个文化旅游AI中试基地在杭州启动，加速文物保护与AI融合。",
       "summaryZh": ""
     },
     {
@@ -149,7 +158,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-05T14:58:00.000Z",
-      "summary": "本期《对话》聚焦人形机器人进工厂，探讨工业应用前景。",
+      "summary": "《对话》聚焦人形机器人进工厂，探讨工业应用场景。",
       "summaryZh": ""
     },
     {
@@ -160,8 +169,17 @@
       "category": "robotics",
       "pubDate": "2026-09-05T12:30:37.000Z",
       "summary": "Enovis以1.8亿美元收购手术机器人公司eCential Robotics。",
-      "summaryZh": "",
-      "titleZh": "Enovis 以 1.8 亿美元收购外科技术提供商 eCential Robotics"
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人关节模组供应商泉智博完成B轮融资",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wUlNZZjRMVlFFUFJCbzhTdXU0VDN1SWNqVEpDUFVpd2FxWnVWT1NPVi1xUlg4elBvVVJ0dU9uc09mNWZSOExyekxVNmxEaXFUR0dBc2xKSG9Bb2YwU0tSX1AySVdBZw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-05T02:51:00.000Z",
+      "summary": "泉智博完成B轮融资，资金将用于产能爬坡和研发。",
+      "summaryZh": ""
     },
     {
       "title": "通讯丨中国机器人在沙特LEAP科技展“圈粉”",
@@ -180,7 +198,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-05T00:55:41.000Z",
-      "summary": "2026年泳池机器人行业因无线红利消退，提前进入赛道格局收官阶段。",
+      "summary": "2026年泳池机器人行业因无线红利消退，竞争格局提前形成。",
       "summaryZh": ""
     },
     {
@@ -193,13 +211,13 @@
       "summary": "北京商报讯（记者 孔瑶瑶）中秋临近，月饼市场开始升温。"
     },
     {
-      "title": "具身智能走到世界模型这一步，“问题”反而更多了",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxTmRUVTF3SllyZnNGa050VHFzOXlKYXFVQ0hoUkwwS0pSOWtHbEgxRlk4S3RncTVIS2lRUS0zQWgxUXdMZ0IyT2V4TTJJTnFOWTdrbFRB?oc=5",
-      "source": "腾讯新闻",
+      "title": "华沿机器人新一代HRC平台发布：为AI“大脑”打造无可匹敌的可靠“小脑”",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hcUtXYXptQ2poa2xielJRczlsR0tvbm15LWRlZnRNTE0yc3dXbHdRUGJJS0lLb3R4ZnhHNW1vT2hnSUl1UHVFNEZPaDBsZVBV?oc=5",
+      "source": "凤凰财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-05T04:38:00.000Z",
-      "summary": "具身智能技术路线分化，世界模型探索面临多路径并行挑战。",
+      "pubDate": "2026-09-05T14:02:48.000Z",
+      "summary": "华沿机器人发布新一代HRC平台，为AI“大脑”提供可靠“小脑”。",
       "summaryZh": ""
     },
     {
@@ -209,7 +227,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-05T03:28:17.000Z",
-      "summary": "中国专家探讨科技养老如何从“有”到“优”，聚焦数据打通与医养融合。",
+      "summary": "专家探讨科技养老如何从“有”到“优”，聚焦数据打通与医养融合。",
       "summaryZh": ""
     }
   ]
