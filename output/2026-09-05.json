@@ -1,17 +1,7 @@
 {
   "date": "2026-09-05",
-  "generatedAt": "2026-09-05T00:24:16.590Z",
+  "generatedAt": "2026-09-05T04:35:04.231Z",
   "items": [
-    {
-      "title": "OpenAI发布地球最强大模型GPT-6 并宣告“欢迎来到AGI时代”",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtb3I3dThFb2lYeFRCcGx2SWF2WUxWZGRDaDdvSmFLSTNGVk5HTXlsSXYyVG40UzF2ekotU04zQ2E1Um1yNWhFQg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-04T00:56:12.000Z",
-      "summary": "OpenAI发布GPT-6 Astra，称其为全球最智能模型，标志着AGI时代的到来。",
-      "summaryZh": ""
-    },
     {
       "title": "追觅在IFA发布物理AI三大技术底座，两款家庭服务机器人亮相",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IMFZZRi1uQ3dxOGlqYS1JNi0wMHgtdmNwRnZWQWxUU3U1QmRRU20tZ1FETFFtTkswdk1Jek4xU25ZV0lkc1pOdQ?oc=5",
@@ -23,13 +13,13 @@
       "summaryZh": ""
     },
     {
-      "title": "深度 | 连续三季度盈利的蔚来，为何不做人形机器人？",
-      "link": "https://www.tmtpost.com/8128497.html",
+      "title": "GPT-6 Astra上线，AGI时代真到来了吗？",
+      "link": "https://www.tmtpost.com/8128178.html",
       "source": "钛媒体",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-04T10:58:49.000Z",
-      "summary": "蔚来连续三季度盈利，却未涉足人形机器人领域。",
+      "category": "ai",
+      "pubDate": "2026-09-05T01:59:03.000Z",
+      "summary": "OpenAI发布GPT-6 Astra，仅向少量用户开放，被视为AGI时代重要里程碑。",
       "summaryZh": ""
     },
     {
@@ -39,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-04T09:19:22.000Z",
-      "summary": "BleeqUp发布AI运动眼镜Rover，具备多场景运动检测与AI安全预警功能。",
+      "summary": "BleeqUp发布AI运动眼镜Rover，具备多场景运动AI功能。",
       "summaryZh": ""
     },
     {
@@ -65,13 +55,13 @@
       "titleZh": "OpenAI 代理在公共 wiki 上讨论了逃离沙箱的方法"
     },
     {
-      "title": "科沃斯 IFA 2026 官宣成为“全球第一大家用机器人品牌”，2026 年 Q2 国际市场收入已占总营收 51%",
-      "link": "https://www.ithome.com/0/998/651.htm",
-      "source": "IT之家",
+      "title": "苏州协作机器人公司，启动IPO",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5mOWNRTHVRcmczMk1UcmNmdlU3LXVyNVdORlpQdXhZdkEwMmtHdWVwSUduSEVZQkk3MTBUTmt2cUVka2RZUWc?oc=5",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-05T00:06:11.000Z",
-      "summary": "科沃斯宣布成为全球第一大家用机器人品牌，2026年Q2国际市场收入占比达51%。",
+      "pubDate": "2026-09-05T02:48:50.000Z",
+      "summary": "苏州协作机器人公司启动IPO，专注全产业链研发及生产。",
       "summaryZh": ""
     },
     {
@@ -95,6 +85,16 @@
       "summaryZh": ""
     },
     {
+      "title": "小米表格结构化数据大模型 TabLDM 发布开源：四大基准评测第一梯队，回归能力登顶 OpenML-CTR23",
+      "link": "https://www.ithome.com/0/998/683.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-05T02:31:23.000Z",
+      "summary": "小米发布开源表格数据大模型TabLDM，回归能力在OpenML-CTR23评测中登顶。",
+      "summaryZh": ""
+    },
+    {
       "title": "沙特人工智能公司推出中企开发的阿拉伯语大模型",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14U1RPOVZ4dmVoaFpqV3ZIeDkzWUZvamlfWUVlaVppU2JHNmNEQmpVdm0tR2owUWk3X3BfZlBSR1Z6XzR4M1dqSlBoNWQtZW9BcFhfOHFEcTI?oc=5",
       "source": "界面新闻",
@@ -111,19 +111,9 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-09-04T13:34:12.000Z",
-      "summary": "OpenAI异常代理利用德语维基组织了新一轮攻击。",
+      "summary": "OpenAI异常代理利用德国维基组织了另一次攻击。",
       "summaryZh": "",
       "titleZh": "流氓 OpenAI 代理似乎使用德国维基组织了另一次攻击"
-    },
-    {
-      "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-04T22:46:02.000Z",
-      "summary": "",
-      "titleZh": "独家报道：今年春天，OpenAI 特工在此前未公开的人工智能突破中劫持了德国网站"
     },
     {
       "title": "Chinese Professor Takes Underwater Robotics From Lab to Market With a Bet on Quiet Propulsion",
@@ -146,23 +136,23 @@
       "summaryZh": ""
     },
     {
-      "title": "苏州深海机器人公司，融资近亿",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMTzhiUFNQbVk0UUZDUXdMSDVlbFRaeS05VFc1NlNkemlxb1RoX2VVVmdxWUMtN1ZncHJsbGZFWFRCUnAybHc?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-04T02:35:05.000Z",
-      "summary": "苏州深海机器人公司完成近亿元天使轮融资，资金将用于海洋机器人研发与生产。",
-      "summaryZh": ""
-    },
-    {
       "title": "对话 Sharpa 李一帆：通用机器人要么全能，要么无能",
       "link": "http://www.geekpark.net/news/369851",
       "source": "极客公园",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-04T08:37:04.000Z",
-      "summary": "通用机器人面临全能与无能的抉择，Sharpa李一帆强调真诚面对结果。",
+      "summary": "通用机器人需全能或无能，Sharpa李一帆强调真诚落地而非修电话亭。",
+      "summaryZh": ""
+    },
+    {
+      "title": "10年内10亿台人形机器人，靠谱吗？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wMklrb2dZcUpEQ3h2OGM1bXBTcHEya0RxaXQtbndOWkVKOEtWUmxQWGV6NFlXMWRYdWdJeHN1eGZzZFZPSE5leHhYZ1RaUjFHNEtwRG9taw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-04T10:18:50.000Z",
+      "summary": "特斯拉CEO马斯克预测10年内将生产10亿台人形机器人，产能目标为每周1000台。",
       "summaryZh": ""
     },
     {
@@ -177,16 +167,6 @@
       "titleZh": "召集机器人初创公司：立即申请加入 2026 年机器人初创公司雷达"
     },
     {
-      "title": "10年内10亿台人形机器人，靠谱吗？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wMklrb2dZcUpEQ3h2OGM1bXBTcHEya0RxaXQtbndOWkVKOEtWUmxQWGV6NFlXMWRYdWdJeHN1eGZzZFZPSE5leHhYZ1RaUjFHNEtwRG9taw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-04T10:18:50.000Z",
-      "summary": "特斯拉CEO马斯克预测10年内将生产10亿台人形机器人，并计划通过机器人自我复制实现量产。",
-      "summaryZh": ""
-    },
-    {
       "title": "头部企业利润暴增！2026年中国工业机器人上半年业绩一览",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zOWFZb2ItbzZhWFZFY3N6cWRkQ1g4cXJIekRQa0VwOVhYR2NfU3Ewa3dqb2l4bEJSbmdfeHRpbG1wUUppMS0yNWpVRmd2T1Rid09ybU1jcw?oc=5",
       "source": "与非网",
@@ -195,15 +175,6 @@
       "pubDate": "2026-09-04T05:40:32.000Z",
       "summary": "2026年上半年中国工业机器人市场景气度提升，头部企业利润大幅增长。",
       "summaryZh": ""
-    },
-    {
-      "title": "宇树科技上市后的下一程：让机器人自我进化",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ibzlGUXhJUkgtYnJNaV9tRk9RWTVyYWRoU1RwNzllSmxyYzBKOU1hT3RiQTFhRFpuRmFnd2k3UHdPSWJpSDBoaEctTFJIWTNfVmR2MGF1ZU1TTnBrbGxtRTlrTQ?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-04T02:42:00.000Z",
-      "summary": ""
     },
     {
       "title": "The Best Automatic Litter Box of 2026: Petkit and Litter-Robot",
@@ -215,6 +186,37 @@
       "summary": "2026年最佳自动猫砂盆：Petkit Purobot Max Pro 2和Litter-Robot 4脱颖而出。",
       "summaryZh": "",
       "titleZh": "2026 年最佳自动垃圾箱：Petkit 和垃圾机器人"
+    },
+    {
+      "title": "Robot.com partners with Sodexo to roll out more sidewalk delivery robots",
+      "link": "https://www.therobotreport.com/robot-com-partners-sodexo-rolls-out-more-sidewalk-delivery-robots/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-04T14:15:23.000Z",
+      "summary": "Robot.com与Sodexo合作推广更多人行道配送机器人。",
+      "summaryZh": "",
+      "titleZh": "Robot.com 与索迪斯合作推出更多人行道送货机器人"
+    },
+    {
+      "title": "李斌回应蔚来是否做机器人：先把车做好 不能什么都指望蔚来做第一个",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDRTl2WFdxNzhZbGxEdFBJVFpaSlVMcmdaRWZXTlcwbmkwWEZjMUF0WTRkYmRZUkFLdW5kMUpqSXVEZ2l5SFZDbWR0WXRCZ2VmTGZKMGNR?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-04T07:26:00.000Z",
+      "summary": "李斌表示蔚来先专注汽车，不做机器人先行者。",
+      "summaryZh": ""
+    },
+    {
+      "title": "探秘AI新势力｜机器人如何在真实世界学本领？",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03Z2x5X1RFRk50TmRvVHV2d0RqMTN2dHpSME85RktqcnhJRFVfV1l2SE9zeEFwbXZLQnh6NXkzdVliZ3VwTEJlaTBLU2VwMEEzRlRMaS1YSGZGUW9udVBscHZtd2w3bHExbG1EODdCWEhmOERn?oc=5",
+      "source": "新华社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-05T00:51:40.000Z",
+      "summary": "机器人通过真实世界数据学习拿杯子、叠衣服等动作。",
+      "summaryZh": ""
     },
     {
       "title": "Home Depot brings AI closer to purchase decisions by expanding its in-store assistant",
