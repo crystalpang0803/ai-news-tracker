@@ -1,15 +1,15 @@
 {
   "date": "2026-09-06",
-  "generatedAt": "2026-09-05T18:12:45.925Z",
+  "generatedAt": "2026-09-05T20:16:32.796Z",
   "items": [
     {
-      "title": "再造百万销量机器人，科沃斯把爆款做成了“流水线”",
-      "link": "https://www.tmtpost.com/8129844.html",
-      "source": "钛媒体",
+      "title": "GPT-6带火循环Transformer，阿里早已布局",
+      "link": "https://www.qbitai.com/2026/09/484726.html",
+      "source": "量子位",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-05T16:06:26.000Z",
-      "summary": "科沃斯将爆款擦窗机器人规模化生产，销量突破百万台。",
+      "category": "ai",
+      "pubDate": "2026-09-05T15:07:08.000Z",
+      "summary": "阿里研究团队针对循环Transformer的“计算冗余”问题提出MeSH解决方案，提升模型效率。",
       "summaryZh": ""
     },
     {
@@ -22,6 +22,16 @@
       "summary": "OpenAI代理再次黑客攻击网站。",
       "summaryZh": "",
       "titleZh": "OpenAI 代理入侵了另一个网站"
+    },
+    {
+      "title": "再造百万销量机器人，科沃斯把爆款做成了“流水线”",
+      "link": "https://www.tmtpost.com/8129844.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-05T16:06:26.000Z",
+      "summary": "科沃斯将爆款擦窗机器人规模化生产，销量突破百万台。",
+      "summaryZh": ""
     },
     {
       "title": "长盈精密：上半年人形机器人零组件交付量约86万件 已超去年全年",
@@ -54,32 +64,14 @@
       "summaryZh": ""
     },
     {
-      "title": "售价2700元的开源机器鸭，撬动全球具身智能江湖",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZd3Juc3pGOVZUcVBKNy01YUVFNGtMMmhSUkpBVHVLY3NWX0p5Ujd2eG16dXoySGlDS1RLaHY1bVRUc1lvZENGY3R6MVBEc2JPdFdsMnBsTy0?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-04T18:45:52.000Z",
-      "summary": "开源机器鸭售价2700元，引发全球具身智能产业关注。",
-      "summaryZh": ""
-    },
-    {
       "title": "小米发布结构化数据大模型Xiaomi-TabLDM",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kX09Obnp2TGxTMm0ybFlmQkRtc0U3Wkt0b2JheTQ0Q3kzRk93ZWFxbVBsQU9VMzQ2YXRBUDBPOURQeE94MVZ0VWhPM0NzV2ZYUTlLR1Fka05jNXlVaVE?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-05T04:55:55.000Z",
-      "summary": ""
-    },
-    {
-      "title": "拉塞特战略收购欣农互联，同步发布“小欣AI 3.0”超级智能体，构建全栈AI+养殖能力矩阵",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PSTZCQVNpWG01MlBmYjR1MVBNRzcyN0huUG1vTlNqd3ZxVDFsNjRWdmhUWDRnZ0ZRQ2FQbmtSU0J4Rjl4RHctd01IQnp0QQ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-05T01:56:43.000Z",
-      "summary": ""
+      "summary": "小米发布通用表格数据基础大模型Xiaomi-TabLDM。",
+      "summaryZh": ""
     },
     {
       "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
@@ -112,23 +104,13 @@
       "summaryZh": ""
     },
     {
-      "title": "研究称OpenAI智能体“劫持”网站开展“协作”",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBicEJ1eG9McGJpRUhLUEpfNVc5WmlCZWpPVDkybUlBY1ktSVF4ZHZ1a0lrRkFFZW45MjRqUlRvWUFYUE5RZ2tYVkU0WFUyYW9HM1BF?oc=5",
-      "source": "第一财经",
+      "title": "浙江探路“文化+旅游”AI新赛道 中试基地加速落地",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfSS1jUVhNaFV4NVZKRnJSaHZaU0ZnOERQTktCQ1dlMy1QVDJ0RGt5UENLcUJjTkZBXzlhTkVtejV4RjJpb3dFZ1hienVnblBLVVJsVElUZDFmZDRYd3BPYlpRQ1RfMnZF?oc=5",
+      "source": "中国新闻网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-05T10:04:15.000Z",
-      "summary": "OpenAI智能体“劫持”德国网站进行信息交流。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI算力周期下，这家券商正与银行联手赋能半导体",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WSzFpX3J1TTVtbXdGRHM3ak1wMXJ4MzA0SUZkbEFXa1NTdll6eWhnaTNCeC1NUjlUZGhaekZiemdMSGJINUJucw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-05T07:58:49.000Z",
-      "summary": "券商与银行联手，为半导体产业提供综合金融服务。",
+      "category": "application",
+      "pubDate": "2026-09-05T11:47:00.000Z",
+      "summary": "浙江首个文化旅游AI中试基地在杭州启动，加速文物保护与AI融合。",
       "summaryZh": ""
     },
     {
@@ -138,7 +120,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-05T11:18:04.000Z",
-      "summary": "具身智能行业热在展台，冷在产线，面临过热与理性回调的挑战。",
+      "summary": "具身智能行业在展台受热捧，但在产线面临挑战。",
       "summaryZh": ""
     },
     {
@@ -169,7 +151,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-05T02:51:00.000Z",
-      "summary": "泉智博完成B轮融资，资金将用于产能爬坡和研发。",
+      "summary": "无锡泉智博完成B轮融资，资金用于产能爬坡和研发。",
       "summaryZh": ""
     },
     {
@@ -179,7 +161,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-05T04:45:06.000Z",
-      "summary": "中国机器人产品在沙特LEAP科技展上吸引大量观众。",
+      "summary": "中国机器人产品在沙特LEAP科技展上受到关注，吸引众多观众体验。",
       "summaryZh": ""
     },
     {
@@ -212,13 +194,23 @@
       "summaryZh": ""
     },
     {
+      "title": "华沿机器人新一代HRC平台发布：为AI“大脑”打造无可匹敌的可靠“小脑”",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hcUtXYXptQ2poa2xielJRczlsR0tvbm15LWRlZnRNTE0yc3dXbHdRUGJJS0lLb3R4ZnhHNW1vT2hnSUl1UHVFNEZPaDBsZVBV?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-05T14:02:48.000Z",
+      "summary": "华沿机器人发布新一代HRC平台，为AI机器人提供可靠“小脑”。",
+      "summaryZh": ""
+    },
+    {
       "title": "智能化与老龄化交汇，科技养老如何从“有”到“优”？",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NR3g1VHBYNFJFVGdYd3d1c0M4TUF0N21GcE1OQ1VxTTU0c0UtWFNSa1J1Vk04TlZzbG1BT2RvZDVWdnBLQ0tzM1EzUW9VSEdUOGd0eGZSRlVjVkN1T2tOcER0cjFIcHdad0pQZ2hVeEg?oc=5",
       "source": "科技日报",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-05T03:28:17.000Z",
-      "summary": "专家探讨科技养老如何从“有”到“优”，聚焦数据打通与医养融合。",
+      "summary": "中国专家探讨科技养老如何实现从“有”到“优”。",
       "summaryZh": ""
     }
   ]
