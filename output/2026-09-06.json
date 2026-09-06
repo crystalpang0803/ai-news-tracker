@@ -1,6 +1,6 @@
 {
   "date": "2026-09-06",
-  "generatedAt": "2026-09-05T22:59:56.722Z",
+  "generatedAt": "2026-09-06T00:13:57.831Z",
   "items": [
     {
       "title": "GPT-6 Astra 模型发布，OpenAI 总裁布罗克曼自信放话“欢迎来到 AGI 时代”",
@@ -13,13 +13,33 @@
       "summaryZh": ""
     },
     {
+      "title": "特斯拉：预计将于下月实现 Robotaxi 自动驾驶无人出租车 24 小时全天候运营",
+      "link": "https://www.ithome.com/0/998/849.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-05T23:14:44.000Z",
+      "summary": "特斯拉预计下月推出24小时全天候Robotaxi自动驾驶服务。",
+      "summaryZh": ""
+    },
+    {
       "title": "GPT-6带火循环Transformer，阿里早已布局",
       "link": "https://www.qbitai.com/2026/09/484726.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-05T15:07:08.000Z",
-      "summary": "阿里研究团队针对循环Transformer的“计算冗余”问题提出MeSH解决方案，提升模型效率。",
+      "summary": "阿里研究团队提出MeSH和SpiralFormer，解决循环Transformer计算冗余问题，提升模型效率。",
+      "summaryZh": ""
+    },
+    {
+      "title": "传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站",
+      "link": "http://www.geekpark.net/news/369875",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-06T00:06:12.000Z",
+      "summary": "iPhone 18 Pro 涨价 100 美元，Kimi、MiniMax 入驻天猫，OpenAI 回应智能体攻击事件。",
       "summaryZh": ""
     },
     {
@@ -39,7 +59,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-05T16:06:26.000Z",
-      "summary": "科沃斯将爆款擦窗机器人规模化生产，全球销量突破百万台。",
+      "summary": "科沃斯将爆款擦窗机器人规模化生产，销量突破百万台。",
       "summaryZh": ""
     },
     {
@@ -59,7 +79,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-05T03:28:21.000Z",
-      "summary": "企业级AI Agent豆包工作进入体系竞争期，功能从“写材料”扩展至“管流程”。",
+      "summary": "企业级AI Agent豆包工作推出新功能，进入体系竞争期。",
       "summaryZh": ""
     },
     {
@@ -102,26 +122,6 @@
       "summaryZh": ""
     },
     {
-      "title": "刚刚，Claude 11天验完费马大定理！清华姚班大牛带队，用AI拿下大结果",
-      "link": "https://zhidx.com/p/590918.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-05T01:42:22.000Z",
-      "summary": "AI完成费马大定理形式化证明，11天内生成1300万行代码。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智驾产业迈入规模化落地拐点！梳理智能驾驶行业重点公司",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMYll0RkZZSE9qYUdyMVp0enYxSldfV2FHWXBVOE9vODJ2Y2RVNVRoQVN0d2xyT1hINk15b2ZMTUZGaGhETzRPR2ZyUk1xOE1mWWdIZ2ZB?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-05T04:25:00.000Z",
-      "summary": "特斯拉发布无人驾驶出租车Cybercab，国内Robotaxi商业化加速，智驾产业迈入规模化落地拐点。",
-      "summaryZh": ""
-    },
-    {
       "title": "浙江探路“文化+旅游”AI新赛道 中试基地加速落地",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfSS1jUVhNaFV4NVZKRnJSaHZaU0ZnOERQTktCQ1dlMy1QVDJ0RGt5UENLcUJjTkZBXzlhTkVtejV4RjJpb3dFZ1hienVnblBLVVJsVElUZDFmZDRYd3BPYlpRQ1RfMnZF?oc=5",
       "source": "中国新闻网",
@@ -138,17 +138,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-05T11:18:04.000Z",
-      "summary": "具身智能行业在展台受热捧，但在产线面临挑战。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国内首台：我国自主研发危化防爆巡检无人机成功首飞，进入爆炸危险等级最高区域作业",
-      "link": "https://www.ithome.com/0/998/787.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-05T09:29:29.000Z",
-      "summary": "我国首台危化防爆巡检无人机成功首飞，进入最高爆炸危险区域作业。",
+      "summary": "具身智能行业热在展台，冷在产线，面临过热与理性回调的挑战。",
       "summaryZh": ""
     },
     {
@@ -158,7 +148,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-05T14:58:00.000Z",
-      "summary": "《对话》聚焦人形机器人进工厂，探讨工业应用场景。",
+      "summary": "《对话》聚焦人形机器人进工厂，探讨工业应用前景。",
       "summaryZh": ""
     },
     {
@@ -168,7 +158,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-05T12:30:37.000Z",
-      "summary": "Enovis以1.8亿美元收购手术机器人公司eCential Robotics。",
+      "summary": "Enovis以1.8亿美元收购骨科手术机器人公司eCential Robotics。",
       "summaryZh": ""
     },
     {
@@ -188,7 +178,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-05T04:45:06.000Z",
-      "summary": "中国机器人产品在沙特LEAP科技展上吸引众多观众。",
+      "summary": "中国机器人在沙特LEAP科技展上吸引众多观众。",
       "summaryZh": ""
     },
     {
@@ -198,7 +188,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-05T00:55:41.000Z",
-      "summary": "2026年泳池机器人行业因无线红利消退，竞争格局提前形成。",
+      "summary": "2026年泳池机器人行业因无线红利消退，提前进入淘汰赛阶段。",
       "summaryZh": ""
     },
     {
@@ -211,13 +201,13 @@
       "summary": "北京商报讯（记者 孔瑶瑶）中秋临近，月饼市场开始升温。"
     },
     {
-      "title": "华沿机器人新一代HRC平台发布：为AI“大脑”打造无可匹敌的可靠“小脑”",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hcUtXYXptQ2poa2xielJRczlsR0tvbm15LWRlZnRNTE0yc3dXbHdRUGJJS0lLb3R4ZnhHNW1vT2hnSUl1UHVFNEZPaDBsZVBV?oc=5",
-      "source": "凤凰财经",
+      "title": "具身智能走到世界模型这一步，“问题”反而更多了",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxTmRUVTF3SllyZnNGa050VHFzOXlKYXFVQ0hoUkwwS0pSOWtHbEgxRlk4S3RncTVIS2lRUS0zQWgxUXdMZ0IyT2V4TTJJTnFOWTdrbFRB?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-05T14:02:48.000Z",
-      "summary": "华沿机器人发布新一代HRC平台，为AI“大脑”提供可靠“小脑”。",
+      "pubDate": "2026-09-05T04:38:00.000Z",
+      "summary": "具身智能技术路线分化，世界模型探索面临多路径并行挑战。",
       "summaryZh": ""
     },
     {
