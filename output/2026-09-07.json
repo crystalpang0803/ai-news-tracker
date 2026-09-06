@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "generatedAt": "2026-09-06T20:20:55.448Z",
+  "generatedAt": "2026-09-06T21:42:32.163Z",
   "items": [
     {
       "title": "OpenAI 称年底实现 AGI：藏起思考的模型，和它背后的资本之争",
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-06T10:50:32.000Z",
-      "summary": "爱普生重新定位，以精密技术和机器人技术为核心，寻求新的增长空间。",
+      "summary": "爱普生聚焦精密技术与机器人，重构增长逻辑，寻求技术迭代与产业价值转化。",
       "summaryZh": ""
     },
     {
@@ -92,23 +92,13 @@
       "summaryZh": ""
     },
     {
-      "title": "领跑中国智慧酒店市场，小度发布AI酒店解决方案4.0开启“生态引领”新周期",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zTnpHd2QtWWdyTnA0djFUcUJDQnJMZEFPbFhYN2UzUjZ2SDJKcE9xZnlGZ3BSamNDdGpHdDBQdXlzcTQ3YThWdWNJYTBob19zUVdHazhPdE1penVsNFRoZUdaQ1U?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-05T21:20:37.000Z",
-      "summary": "小度发布AI酒店解决方案4.0，引领智慧酒店生态升级。",
-      "summaryZh": ""
-    },
-    {
       "title": "对话无界动力创始人张玉峰：人形或半人形机器人有望2到3年内尝试入户，行业下半场需直面商业造血压力",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oLTlaTEplVDJEeDZWSGdsczhJYUJIbU9TTkRuRk42UDlzTjRMZ25NQndKcUMzWVJqV1lJZlA0Y2lzREhEeTRaQk9jNGF3Z2NfYUttMmZmaS12Z0piMjZGdWtyV0Y4Zw?oc=5",
       "source": "每日经济新闻",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-06T01:46:00.000Z",
-      "summary": "无界动力创始人预测2-3年内人形机器人将尝试入户，行业需直面商业造血压力。",
+      "summary": "人形机器人有望2-3年内尝试入户，具身智能行业需直面商业变现挑战。",
       "summaryZh": ""
     },
     {
@@ -137,7 +127,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-06T12:12:00.000Z",
-      "summary": "字节跳动上调“豆包股”价格，国家人工智能基金14亿元入股可灵AI。",
+      "summary": "字节跳动上调“豆包股”价格，国家人工智能基金14亿入股可灵AI。",
       "summaryZh": ""
     },
     {
@@ -147,7 +137,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-09-05T22:49:55.000Z",
-      "summary": "两家新闻机构起诉OpenAI和微软涉嫌滥用其内容训练AI。",
+      "summary": "两家新闻机构起诉OpenAI和微软，指控其利用其内容训练AI。",
       "summaryZh": ""
     },
     {
@@ -177,17 +167,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-06T13:30:28.000Z",
-      "summary": "AI技术加速推动机器人产业升级，新质生产力发展势头强劲。",
+      "summary": "AI技术推动机器人产业升级，新质生产力加速形成。",
       "summaryZh": ""
-    },
-    {
-      "title": "AI赋能，“云上”水韵江苏亮相中国文旅产业博览会",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MU0hRRUZvZDBNbkk1QWJrdGtCaFdEb0hRbHcteDJ1SFg2Y0lsNXZZdFRaZUVKYW05SUk1QUdWQkNnanpyWU1weGhDdHZhTjJCYVNCMjIxNndMRWFUdVE?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-06T15:22:30.000Z",
-      "summary": "AI赋能，“云上”水韵江苏亮相中国文旅产业博览会 9月3日，2026中国文化旅游产业博览会在天津梅江会展中心启幕。"
     },
     {
       "title": "电博会观察：从“养老”到“享老” 智慧康养站上消费电子风口",
@@ -215,7 +196,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-06T00:50:36.000Z",
-      "summary": "VLM-Loc技术实现自然语言到点云地图的精准定位。",
+      "summary": "VLM-Loc技术将自然语言直接定位到点云地图中，实现语言描述与空间推理的连接。",
       "summaryZh": ""
     },
     {
