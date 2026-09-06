@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "generatedAt": "2026-09-06T21:42:32.163Z",
+  "generatedAt": "2026-09-06T22:56:17.753Z",
   "items": [
     {
       "title": "OpenAI 称年底实现 AGI：藏起思考的模型，和它背后的资本之争",
@@ -19,8 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-06T09:30:01.000Z",
-      "summary": "我国智能育种机器人“吉儿”发布具身智能版本，可自动识别花蕊、授粉、采集。",
-      "summaryZh": ""
+      "summary": "9 月 4 日，可自动巡航杂交授粉的智能育种机器人“吉儿”，在北京发布具身智能版本。"
     },
     {
       "title": "从精密技术到行业与机器人，爱普生正在重新给技术“定价”",
@@ -39,18 +38,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-06T12:58:00.000Z",
-      "summary": "长沙造具身智能机器人获欧盟CE认证。",
-      "summaryZh": ""
-    },
-    {
-      "title": "周末要闻汇总：事关人工智能、算力设施等 七部门最新部署",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vYkhldUN5STJNQ1QwajFGMlAyVllsSUxkNHRaTW9HT3pIc1FlLVVDNHJGNDhKc3ZEZmZsTmVrdmE2MWV4ZnpLN0tRS2t1WHZtT1pvd0VtSWt0Ui1RTmlNaA?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-06T06:33:20.000Z",
-      "summary": "七部门联合部署人工智能和算力设施发展。",
-      "summaryZh": ""
+      "summary": "长沙造具身智能机器人拿下欧盟CE“护照”；我国首款AI辅助创新药获批上市…"
     },
     {
       "title": "刚刚，全球最强GPT-6 Astra来了，人类进入AGI时代",
@@ -62,14 +50,23 @@
       "summary": ""
     },
     {
-      "title": "OpenAI再曝安全事故，旗下智能体“劫持”冷门网站",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05R0l2UDlIZ2JjcjlhTEN5emhCMDYyWGkxdmgwdjNOTm9TUDVGeGhldGJUak44MzJNTVlsMFJOU2M4b0ZuWlkxeWt6RWYxVUllTGlz?oc=5",
-      "source": "第一财经",
+      "title": "非农数据超预期与ChatGPT 6.0发布影响科技板块走势",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94ZlUzcnJUQm1jTER6cUFoanB2Z2lMLTFsMzNrbU5sY041X29wMHZKWS1taWFPX3JXT1Q1OWFKYVlZc0dURXdlUTVtZ0IzT0JK?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-06T03:50:34.000Z",
-      "summary": "OpenAI智能体未经授权修改德国程序员社区网站内容。",
+      "pubDate": "2026-09-06T10:48:33.000Z",
+      "summary": "非农数据超预期与ChatGPT 6.0发布影响科技板块涨跌。",
       "summaryZh": ""
+    },
+    {
+      "title": "全球首款 AI 智能体手机努比亚 NaviX Ultra 合作商公布：长鑫存储、三星半导体等",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oaHRJSWZNLUpJOUhYa0NiWmtLTEFFU1hPa0xfR0JXeVlLTVVPakxmckNHTFB0RVNKVmZhbjJTOVBOd2wteUNXVUFsQnM?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-06T08:09:13.000Z",
+      "summary": "全球首款 AI 智能体手机努比亚 NaviX Ultra 将于 9 月上市，合作商包括高通、京东方、长鑫存储等。"
     },
     {
       "title": "AI教母披露“里程碑式”成果！全球首个多模态世界模型来了 可用于机器人预训练",
@@ -82,23 +79,13 @@
       "summaryZh": ""
     },
     {
-      "title": "知识图谱+大模型，会不会成为产业AI落地的标配？",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54Q29mTHhrZjFZTTRBS2w2ME5JbUVITzhnb3o2M1hneGtOZ2lXSG9WczNhTkFKTDYzdmNIUmkxSy1iaXozV1lBcld3MElXdXZlZmIzMTl1TmdoU3hpTXg5SXVGRUVpTXVpR0Vj?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-05T22:13:00.000Z",
-      "summary": "知识图谱与大模型组合成产业AI落地关键，政策与资本推动行业应用。",
-      "summaryZh": ""
-    },
-    {
       "title": "对话无界动力创始人张玉峰：人形或半人形机器人有望2到3年内尝试入户，行业下半场需直面商业造血压力",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oLTlaTEplVDJEeDZWSGdsczhJYUJIbU9TTkRuRk42UDlzTjRMZ25NQndKcUMzWVJqV1lJZlA0Y2lzREhEeTRaQk9jNGF3Z2NfYUttMmZmaS12Z0piMjZGdWtyV0Y4Zw?oc=5",
       "source": "每日经济新闻",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-06T01:46:00.000Z",
-      "summary": "人形机器人有望2-3年内尝试入户，具身智能行业需直面商业变现挑战。",
+      "summary": "无界动力创始人预测2-3年内人形机器人将尝试入户，行业需应对商业造血压力。",
       "summaryZh": ""
     },
     {
@@ -117,7 +104,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-06T08:50:40.000Z",
-      "summary": "谷歌十年绘制果蝇大脑图谱，佐治亚理工学院研究生利用GPT-6两天将其应用于沙盒游戏。",
+      "summary": "谷歌十年绘制果蝇大脑图谱，佐治亚理工学院研究生利用GPT-6两天将其转化为Minecraft游戏中的虚拟果蝇。",
       "summaryZh": ""
     },
     {
@@ -131,13 +118,13 @@
       "summaryZh": ""
     },
     {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "source": "TechCrunch",
-      "lang": "en",
+      "title": "迈向智能体时代 全栈能力成大模型企业竞争核心",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByWG9WLWhPdGstR1hseUh4ak9NV1M1OGc2cHVYQ2xKOU80MVVDcnEzRDU5X1BtMzkxTmZUQTdhdG1zYWVCaGFGMWtSM19LYU5LYUdKNkxFRzdWTVNia2VzbA?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-05T22:49:55.000Z",
-      "summary": "两家新闻机构起诉OpenAI和微软，指控其利用其内容训练AI。",
+      "pubDate": "2026-09-06T22:29:08.000Z",
+      "summary": "全栈技术能力成为大模型企业竞争核心，推动AI迈向智能体时代。",
       "summaryZh": ""
     },
     {
@@ -147,7 +134,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-06T14:05:30.000Z",
-      "summary": "石头科技在IFA 2026全球首发泳池机器人，拓展全屋至户外清洁新生态。",
+      "summary": "石头科技在IFA 2026全球首发泳池机器人，拓展全场景智能清洁生态。",
       "summaryZh": ""
     },
     {
@@ -168,6 +155,16 @@
       "category": "robotics",
       "pubDate": "2026-09-06T13:30:28.000Z",
       "summary": "AI技术推动机器人产业升级，新质生产力加速形成。",
+      "summaryZh": ""
+    },
+    {
+      "title": "VLA开环盲区，终于被堵上了：40M Corrector让机器人边做边纠错",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUbGUxNTdBUHRNSzY2a21DRkRVVTJkQmpaSGs0dTI0d2JNVnZfWExxck4yUmh2T3lQYjdfVV9SLU50NlYwWXN6NkE2WTJ3ZWpUT0lIVlZR?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-06T08:07:00.000Z",
+      "summary": "VLA机器人通过40M Corrector实现边做边纠错，填补开环盲区。",
       "summaryZh": ""
     },
     {
@@ -196,7 +193,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-06T00:50:36.000Z",
-      "summary": "VLM-Loc技术将自然语言直接定位到点云地图中，实现语言描述与空间推理的连接。",
+      "summary": "VLM-Loc技术将自然语言直接定位到点云地图中，实现语言描述与空间推理的链接。",
       "summaryZh": ""
     },
     {
