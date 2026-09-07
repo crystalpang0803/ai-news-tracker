@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "generatedAt": "2026-09-07T19:54:02.766Z",
+  "generatedAt": "2026-09-07T21:27:47.337Z",
   "items": [
     {
       "title": "黄仁勋发文祝贺OpenAI：GPT-6 Astra用10万‌NVLink 72‌芯片完成训练 AGI正式到来",
@@ -9,8 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-07T06:09:15.000Z",
-      "summary": "黄仁勋祝贺OpenAI，GPT-6 Astra用10万NVLink 72芯片完成训练，宣布AGI到来。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
@@ -19,7 +18,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-07T08:36:30.000Z",
-      "summary": "菲尔兹奖得主加入团队，研发模型间高效交流“桥梁”，提升小模型性能。",
+      "summary": "菲尔兹奖得主团队研发的4B手机Qwen+云端GLM模型组合在ARC-AGI 3测试中显著提升模型间交流效率。",
       "summaryZh": ""
     },
     {
@@ -29,7 +28,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-07T13:21:04.000Z",
-      "summary": "三星计划在CES 2027展示其首个人形机器人原型机。",
+      "summary": "三星计划在CES 2027展示其自主研发的人形机器人。",
       "summaryZh": ""
     },
     {
@@ -39,7 +38,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-07T11:02:47.000Z",
-      "summary": "豆包爱学AI辅导数学解题，以创新技术提升课后辅导质量。",
+      "summary": "豆包爱学AI辅导数学解题，创新技术提升课后辅导质量。",
+      "summaryZh": ""
+    },
+    {
+      "title": "史上最强麒麟芯片来了！全球首款落地“韬定律”，端侧能跑300亿参数大模型",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1HSXpDUC1NeXJJWmtOSUthWFNBZ2pQdUs3SzlQNmFjTWxLMVZkbjlkM1pvRnlEZ3ZLdXZNSTFmdDVhTlRoZnc?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-07T09:25:55.000Z",
+      "summary": "华为发布全球首款落地“韬定律”的麒麟9050 Pro芯片，端侧可运行300亿参数大模型。",
       "summaryZh": ""
     },
     {
@@ -59,7 +68,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-07T09:52:15.000Z",
-      "summary": "机器人触觉技术面临五大路线选择、数据难题和模型争议。",
+      "summary": "机器人触觉技术面临五大路线、数据难题和模型争议。",
+      "summaryZh": ""
+    },
+    {
+      "title": "不做人形做“马”，消费机器人盯上富人户外市场？",
+      "link": "https://www.tmtpost.com/8130976.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-07T09:28:30.000Z",
+      "summary": "DaxAI智能坐骑机器马瞄准高端户外市场，售价高达28万至46万。",
       "summaryZh": ""
     },
     {
@@ -69,7 +88,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-07T12:16:29.000Z",
-      "summary": "vivo X500系列手机全球首发蓝图光御900传感器，搭载CIPA 7.0防抖和AI摄影助手。",
+      "summary": "vivo X500系列手机全球首发蓝图光御900传感器，搭载CIPA 7.0防抖及AI摄影助手。",
       "summaryZh": ""
     },
     {
@@ -79,36 +98,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-07T09:05:10.000Z",
-      "summary": "机器人开始运用世界模型干预世界，超越预测未来。",
+      "summary": "机器人开始运用世界模型干预世界，技术路线和目标各异。",
       "summaryZh": ""
     },
     {
-      "title": "机器人真会用手表达了！",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ZN09ubXcxU2RDOFc5SHF4MHdLX3QzN3BJQk9DaEtyRG1tcHBxeVhNTEZNZE0tQnd2U1E5RmMybDAwbjNVNUE?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-07T14:12:11.000Z",
-      "summary": "银河通用发布手势交互框架RoboGesture，机器人可自然表达。",
-      "summaryZh": ""
-    },
-    {
-      "title": "从流量逻辑到任务逻辑，AI Agent正在终结互联网的免费午餐",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84VHpBeDZhWFZXSkJpLU9pRHVyREJKV1dwLXhhdXI3cnRjaFVSTGVUTkRuLTJucmxwMGo1SGo1NDJRbXNNS2hLVUUtdzBBZw?oc=5",
+      "title": "AIGC长剧点燃AI应用投资热度，公募AI投资转向商业兑现",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqdmNSc0RXNkNxMWxhbzFoU1hqX0pLYWpsM3Nzb0w2TnVfMXQ2dTVQVUFOeTJVU3lqbnlsS2RVLXVienJxeHdPblVXYVk2ck90STBmLU44ZXh0NnpGbEE?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-06T20:06:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "OpenAI打造出AI研究实习生，称智能体工作量是人类3倍",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00OXg1MERweEJkeTBjeVZ4WGcwTFRMOTQwclNSelBCcHlvZU5BMzV1Um5oN0NLWDNEMFlfSFg3LVlkWHVETHgwUWMzWVh6alQyNzVjNA?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-07T04:19:00.000Z",
-      "summary": "OpenAI推出AI研究实习生，称其工作量是人类三倍。",
+      "pubDate": "2026-09-06T23:42:38.000Z",
+      "summary": "AIGC长剧热播推动公募AI投资转向商业化应用。",
       "summaryZh": ""
     },
     {
@@ -128,7 +128,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-07T10:09:22.000Z",
-      "summary": "最高法发布首部涉人工智能纠纷裁判规则，市场监管总局发布新生儿黄疸治疗设备计量新规范。",
+      "summary": "最高法发布首部人工智能纠纷裁判规则，市场监管总局发布新生儿黄疸治疗设备计量新规范。",
       "summaryZh": ""
     },
     {
@@ -158,7 +158,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-07T07:57:00.000Z",
-      "summary": "到2030年，我国信息基础设施累计投资3.8万亿元，智能算力规模达9800EFLOPS。",
+      "summary": "到2030年，我国信息基础设施投资3.8万亿，智能算力规模达9800EFLOPS。",
       "summaryZh": ""
     },
     {
@@ -173,25 +173,33 @@
       "titleZh": "欧盟调查 OpenAI 代理接管德国网站"
     },
     {
+      "title": "机器人送餐、AI排行程，服贸会要变成“未来生活体验馆”？",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PUENDdWpxT0NBbnE5SFVXb2RaODB1S1BWaW5UbnpJQXh2MHlXanJLUFhCYW43YzVra1JRMV9FbkZ6TUwzY2xSWUlRRmlaQXpNQnIyeG1IMGF4dw?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-07T10:19:54.000Z",
+      "summary": "服贸会聚焦AI、机器人等科技，展示未来生活体验。",
+      "summaryZh": ""
+    },
+    {
+      "title": "深思造物落地：工业多智能体如何把设计—仿真—工艺拧成一条智能产线",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZX1l0RkRieUNVeWJpeW00TVIxQzhvUjItVlBmd2RHOWMtMjRrSm1mcXVTbEVkZ1hjdFo5R1owY3N6UjZyMVBHNDlGYnVSZWxubFMyYzlvVHNOWm5zenloVGE4NA?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-07T03:22:00.000Z",
+      "summary": ""
+    },
+    {
       "title": "OpenAI发布两份文件：AI加速研发但安全对齐仍存挑战",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TY2R6c3dSZnkyZWphTDZxU2Rhczg1anZienlWN1l6Q0M0TEdZNGFUM2VlaWw4ZDcxTkdnMW9xd242VzFZOFAxWGtSeWZEX21WbjNF?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-07T02:57:56.000Z",
-      "summary": "OpenAI发布文件，AI加速研发但安全对齐挑战依旧。",
+      "summary": "OpenAI发布文件，AI加速研发，但安全对齐挑战依旧。",
       "summaryZh": ""
-    },
-    {
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-06T23:36:04.000Z",
-      "summary": "西雅图时报和新闻日报起诉OpenAI和微软侵犯版权。",
-      "summaryZh": "",
-      "titleZh": "西雅图时报和新闻日报起诉 OpenAI 和微软侵权"
     },
     {
       "title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
@@ -234,17 +242,6 @@
       "summary": "机器人技术可革新实验室采血体验。",
       "summaryZh": "",
       "titleZh": "这个机器人现在会抽你的血"
-    },
-    {
-      "title": "NYU Researchers Paving New Path for Robotics",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTnFmdzZIN2puRFJXQWJKc0xGTkFJUXdyWlpTVHhkX21oWWpsOVk1b2stRXRveHFyc2N6VnpxVnJLeWZuenVJZ3NwS1FvQ3RYeU5ZZjBuVzdVdFp0QmFaX1ZjcklONU5ZSmhIWG0yZTJnN2ZIZ3l6Qm5VTVVvdFgtbWJR?oc=5",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-06T20:18:47.000Z",
-      "summary": "纽约大学研究人员在机器人领域开辟新路径。",
-      "summaryZh": "",
-      "titleZh": "纽约大学研究人员为机器人技术开辟新道路"
     },
     {
       "title": "山东青岛：多类智能适老产品亮相消费电子博览会",
