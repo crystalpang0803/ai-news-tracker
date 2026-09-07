@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "generatedAt": "2026-09-07T22:16:17.254Z",
+  "generatedAt": "2026-09-07T23:35:30.189Z",
   "items": [
     {
       "title": "黄仁勋发文祝贺OpenAI：GPT-6 Astra用10万‌NVLink 72‌芯片完成训练 AGI正式到来",
@@ -19,7 +19,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-07T08:36:30.000Z",
-      "summary": "菲尔兹奖得主参与的大模型项目，通过技术革新显著提升了模型间交流效率。",
+      "summary": "菲尔兹奖得主参与的大模型项目，通过技术革新显著提升了模型间信息传递效率。",
+      "summaryZh": ""
+    },
+    {
+      "title": "智能体出海东南亚，还缺懂本土落地的人 ｜SEA Frontline",
+      "link": "https://www.tmtpost.com/8128887.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-07T22:45:11.000Z",
+      "summary": "智能体在东南亚落地需本土化人才和文化理解。",
       "summaryZh": ""
     },
     {
@@ -49,7 +59,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-07T09:34:06.000Z",
-      "summary": "会合体机器人3秒变身，已售全球50国。",
+      "summary": "会合体机器人3秒变身，全球50国热销。",
       "summaryZh": ""
     },
     {
@@ -69,7 +79,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-07T12:16:29.000Z",
-      "summary": "vivo X500系列手机全球首发蓝图光御900传感器，搭载CIPA 7.0防抖和AI摄影助手。",
+      "summary": "vivo X500系列手机全球首发蓝图光御900传感器，搭载CIPA 7.0防抖及AI摄影助手。",
       "summaryZh": ""
     },
     {
@@ -79,7 +89,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-07T09:05:10.000Z",
-      "summary": "机器人开始利用世界模型干预世界，技术路线和目标各异。",
+      "summary": "机器人开始运用世界模型干预世界，技术路线和目标各异。",
       "summaryZh": ""
     },
     {
@@ -89,7 +99,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-07T14:12:11.000Z",
-      "summary": "银河通用发布手势交互框架RoboGesture，实现机器人自然肢体表达。",
+      "summary": "机器人RoboGesture实现手势交互，碰撞控制能力突出，语义场景下评测结果降至0.13。",
       "summaryZh": ""
     },
     {
@@ -99,17 +109,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-06T23:42:38.000Z",
-      "summary": "AIGC长剧热播推动公募AI投资转向商业应用落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI打造出AI研究实习生，称智能体工作量是人类3倍",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00OXg1MERweEJkeTBjeVZ4WGcwTFRMOTQwclNSelBCcHlvZU5BMzV1Um5oN0NLWDNEMFlfSFg3LVlkWHVETHgwUWMzWVh6alQyNzVjNA?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-07T04:19:00.000Z",
-      "summary": "OpenAI推出AI研究实习生，称其工作量是人类三倍。",
+      "summary": "AIGC长剧热播推动公募AI投资转向商业化应用。",
       "summaryZh": ""
     },
     {
@@ -119,7 +119,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-07T09:29:33.000Z",
-      "summary": "九章云极在电博会展示AI工厂，推动智能终端算力规模化落地。",
+      "summary": "九章云极在电博会展示AI工厂，推动智能终端算力普惠化。",
       "summaryZh": ""
     },
     {
@@ -129,7 +129,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-07T10:09:22.000Z",
-      "summary": "最高法发布首部涉人工智能纠纷裁判规则，市场监管总局发布新生儿黄疸治疗设备计量新规范。",
+      "summary": "最高法发布首部人工智能纠纷裁判规则，市场监管总局发布新生儿黄疸治疗设备计量新规范。",
       "summaryZh": ""
     },
     {
@@ -170,8 +170,17 @@
       "category": "ai",
       "pubDate": "2026-09-07T18:20:10.000Z",
       "summary": "欧盟调查OpenAI代理接管德国网站事件。",
-      "summaryZh": "",
-      "titleZh": "欧盟调查 OpenAI 代理接管德国网站"
+      "summaryZh": ""
+    },
+    {
+      "title": "中信建投：OpenAI旗舰模型再升级，博通AI收入高增验证算力景气延续",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wb2tETVltQjZIQkRJNjJLR3FfSGRmRUZ1akM5MjJtS3dRbFkyRlpXMk0zbEo0NkRzVlpFc3h5cUVkcTJlNzlidzVSMXc3bllUVTdvUTRrLTdxLTVxaG9jOUNaaTJSaFhqTFpkY0RSaGRnX2E0MHQ3Ng?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-07T23:29:00.000Z",
+      "summary": "OpenAI发布GPT-6 Astra，博通AI收入高增，AI算力景气延续。",
+      "summaryZh": ""
     },
     {
       "title": "深思造物落地：工业多智能体如何把设计—仿真—工艺拧成一条智能产线",
@@ -183,16 +192,6 @@
       "summary": ""
     },
     {
-      "title": "OpenAI发布两份文件：AI加速研发但安全对齐仍存挑战",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TY2R6c3dSZnkyZWphTDZxU2Rhczg1anZienlWN1l6Q0M0TEdZNGFUM2VlaWw4ZDcxTkdnMW9xd242VzFZOFAxWGtSeWZEX21WbjNF?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-07T02:57:56.000Z",
-      "summary": "OpenAI发布文件，AI加速研发，安全对齐挑战依旧。",
-      "summaryZh": ""
-    },
-    {
       "title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
       "link": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
       "source": "The Robot Report",
@@ -200,8 +199,7 @@
       "category": "robotics",
       "pubDate": "2026-09-07T13:17:45.000Z",
       "summary": "Agility Robotics宣布通过SPAC合并估值25亿美元，2025年净销售额180万美元。",
-      "summaryZh": "",
-      "titleZh": "Agility Robotics 报告收入 180 万美元，领先于人形 SPAC"
+      "summaryZh": ""
     },
     {
       "title": "工业机器人如何通过Modbus TCP转CanOpen网关高效通信！",
@@ -220,7 +218,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-07T04:09:42.000Z",
-      "summary": "激光雷达长期使用后精度下降，主因是光学窗口污染和温度变化。",
+      "summary": "激光雷达长期使用后精度下降，主要受光学窗口污染和温度变化影响。",
       "summaryZh": ""
     },
     {
@@ -231,17 +229,16 @@
       "category": "robotics",
       "pubDate": "2026-09-07T13:00:01.000Z",
       "summary": "机器人技术可革新实验室采血体验。",
-      "summaryZh": "",
-      "titleZh": "这个机器人现在会抽你的血"
+      "summaryZh": ""
     },
     {
-      "title": "空调卖爆、机器人走秀、手持影像出圈：中国消费电子圈粉IFA",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50dERBLXV0OXNtMHoxZF91eExUTGJ2WkZwQVdKaU9jdHo0eUhzTWNrNDJwX29ibWwtUVNCQk42dDMzNW5Yd2VqdVU4REZHOVVYRW5iRGs5dnc5VDJ5aU9EUGtKeU8?oc=5",
-      "source": "新京报",
+      "title": "54股调入港股通，AI、机器人密集入围，机构提示拥挤风险",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOFFGa1pJV1JVajV3ZEpZZzN4T3h0M3NSWnI0VlZKZjNzSl9qOElvOF8zc0V0bmRBZzBzTW9WM1RmLWtWVUtOd0F4YTJxUHdNdGdmT0NVX2hsaS1RUmtsckdiYWVpalhNWmo2Qk1haDFGZmozamQ3M2xzSnpFQXZzeVV4eDFiY0tsVE5hZ21fNWN2WUJu?oc=5",
+      "source": "21财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-07T11:11:00.000Z",
-      "summary": "中国消费电子在IFA展上以AI技术为核心，展示产品形态和交互方式的变革。",
+      "pubDate": "2026-09-07T10:59:35.000Z",
+      "summary": "54股新入港股通，AI、机器人等板块密集入围，机构提示交易拥挤风险。",
       "summaryZh": ""
     },
     {
