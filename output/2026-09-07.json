@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "generatedAt": "2026-09-06T22:56:17.753Z",
+  "generatedAt": "2026-09-07T00:21:36.316Z",
   "items": [
     {
       "title": "OpenAI 称年底实现 AGI：藏起思考的模型，和它背后的资本之争",
@@ -13,22 +13,13 @@
       "summaryZh": ""
     },
     {
-      "title": "能识别花蕊、授粉、采集，我国智能育种机器人“吉儿”发布具身智能版本",
-      "link": "https://www.ithome.com/0/999/001.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-06T09:30:01.000Z",
-      "summary": "9 月 4 日，可自动巡航杂交授粉的智能育种机器人“吉儿”，在北京发布具身智能版本。"
-    },
-    {
       "title": "从精密技术到行业与机器人，爱普生正在重新给技术“定价”",
       "link": "https://www.tmtpost.com/8129869.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-06T10:50:32.000Z",
-      "summary": "爱普生聚焦精密技术与机器人，重构增长逻辑，寻求技术迭代与产业价值转化。",
+      "summary": "爱普生以精密技术与机器人技术为核心，重构增长逻辑，寻求技术到产业价值的转化。",
       "summaryZh": ""
     },
     {
@@ -38,16 +29,28 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-06T12:58:00.000Z",
-      "summary": "长沙造具身智能机器人拿下欧盟CE“护照”；我国首款AI辅助创新药获批上市…"
+      "summary": "长沙造具身智能机器人获欧盟CE认证。",
+      "summaryZh": ""
     },
     {
-      "title": "刚刚，全球最强GPT-6 Astra来了，人类进入AGI时代",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Xb0RhM2Z5RTRua0pvcUN4Rnc2QzR6aDhxRHg1Wk5lNDduUTE3ekxtb2lBYzAzVnFyeFRhVlo0UFpCdHdYLWwzNjRPY2pKdw?oc=5",
+      "title": "周末要闻汇总：事关人工智能、算力设施等 七部门最新部署",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vYkhldUN5STJNQ1QwajFGMlAyVllsSUxkNHRaTW9HT3pIc1FlLVVDNHJGNDhKc3ZEZmZsTmVrdmE2MWV4ZnpLN0tRS2t1WHZtT1pvd0VtSWt0Ui1RTmlNaA?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-06T06:33:20.000Z",
+      "summary": "七部门联合部署人工智能和算力设施发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AIGC长剧点燃AI应用投资热度，公募AI投资转向商业兑现",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqdmNSc0RXNkNxMWxhbzFoU1hqX0pLYWpsM3Nzb0w2TnVfMXQ2dTVQVUFOeTJVU3lqbnlsS2RVLXVienJxeHdPblVXYVk2ck90STBmLU44ZXh0NnpGbEE?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-06T14:11:38.000Z",
-      "summary": ""
+      "pubDate": "2026-09-06T23:42:38.000Z",
+      "summary": "AIGC长剧热播推动公募AI投资转向商业应用落地。",
+      "summaryZh": ""
     },
     {
       "title": "非农数据超预期与ChatGPT 6.0发布影响科技板块走势",
@@ -56,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-06T10:48:33.000Z",
-      "summary": "非农数据超预期与ChatGPT 6.0发布影响科技板块涨跌。",
+      "summary": "非农数据超预期与ChatGPT 6.0发布影响科技板块，市场波动加剧。",
       "summaryZh": ""
     },
     {
@@ -66,7 +69,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-06T08:09:13.000Z",
-      "summary": "全球首款 AI 智能体手机努比亚 NaviX Ultra 将于 9 月上市，合作商包括高通、京东方、长鑫存储等。"
+      "summary": "努比亚NaviX Ultra公布合作厂商，搭载长鑫存储LPDDR5X内存。",
+      "summaryZh": ""
     },
     {
       "title": "AI教母披露“里程碑式”成果！全球首个多模态世界模型来了 可用于机器人预训练",
@@ -85,7 +89,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-06T01:46:00.000Z",
-      "summary": "无界动力创始人预测2-3年内人形机器人将尝试入户，行业需应对商业造血压力。",
+      "summary": "人形机器人有望2-3年内尝试入户，具身智能行业需直面商业变现挑战。",
       "summaryZh": ""
     },
     {
@@ -108,24 +112,13 @@
       "summaryZh": ""
     },
     {
-      "title": "字节再次上调“豆包股”价格；国家人工智能基金14亿元入股可灵AI",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zWGlrNi1kSmlWdzVqckE0Si1DZDNjbkZqUUQxYVgtZThoWkRXcGVJbk9XeUpxRVVhbDQ0WGVkYXZHaWxXMmUwSGJrbnkyOGpmWEhaUHZoa1JweHhSRElja3FJTHppQQ?oc=5",
-      "source": "每日经济新闻",
+      "title": "阶跃星辰首席战略官李璟：全栈能力成为智能体时代大模型企业竞争核心",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yQm5IbUNZSGVSQ3VMT2VPNjdhdUllNVRpNFJoVk56Wks5RkRzRGJIQlk1TjhfMXA3OGZuaGpYLXBNUTZKLWczQ0s3aU9OdG1YOG9F?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-06T12:12:00.000Z",
-      "summary": "字节跳动上调“豆包股”价格，国家人工智能基金14亿入股可灵AI。",
-      "summaryZh": ""
-    },
-    {
-      "title": "迈向智能体时代 全栈能力成大模型企业竞争核心",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByWG9WLWhPdGstR1hseUh4ak9NV1M1OGc2cHVYQ2xKOU80MVVDcnEzRDU5X1BtMzkxTmZUQTdhdG1zYWVCaGFGMWtSM19LYU5LYUdKNkxFRzdWTVNia2VzbA?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-06T22:29:08.000Z",
-      "summary": "全栈技术能力成为大模型企业竞争核心，推动AI迈向智能体时代。",
-      "summaryZh": ""
+      "pubDate": "2026-09-06T23:21:32.000Z",
+      "summary": ""
     },
     {
       "title": "石头科技亮相 IFA 2026：全球首发泳池机器人，构筑全屋至户外清洁新生态",
@@ -134,17 +127,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-06T14:05:30.000Z",
-      "summary": "石头科技在IFA 2026全球首发泳池机器人，拓展全场景智能清洁生态。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Eric Sivertson discusses FPGAs and robot security",
-      "link": "https://www.therobotreport.com/eric-sivertson-discusses-fpgas-robot-security/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-06T14:30:01.000Z",
-      "summary": "Sivertson在《机器人报告》播客中讨论了FPGA在机器人安全中的重要性。",
+      "summary": "石头科技在IFA 2026全球首发泳池清洁机器人，拓展全场景智能清洁生态。",
       "summaryZh": ""
     },
     {
@@ -158,24 +141,13 @@
       "summaryZh": ""
     },
     {
-      "title": "VLA开环盲区，终于被堵上了：40M Corrector让机器人边做边纠错",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUbGUxNTdBUHRNSzY2a21DRkRVVTJkQmpaSGs0dTI0d2JNVnZfWExxck4yUmh2T3lQYjdfVV9SLU50NlYwWXN6NkE2WTJ3ZWpUT0lIVlZR?oc=5",
-      "source": "腾讯新闻",
+      "title": "“一个大脑”不断迭代 自变量机器人加速走向真实应用",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OUDA3ZjRKZ2xyR1J0bTFseGEtU29LSm9BNmdTWTdOQTMtajhqSGRaSTZtZDRpMGREVGlhWVdKZ0tkcDRsN3FIRkd4ZFhfM2cwUTNweEd4WGdXMjlOVVJJUTZB?oc=5",
+      "source": "中国经营网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-06T08:07:00.000Z",
-      "summary": "VLA机器人通过40M Corrector实现边做边纠错，填补开环盲区。",
-      "summaryZh": ""
-    },
-    {
-      "title": "电博会观察：从“养老”到“享老” 智慧康养站上消费电子风口",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hcE8zWklyeGRmZ0FhOUlXM1V5MnRCMjRRc2x2Mmhib28wYjN0Sm1SRDJCNHdra01zeTJKNFpJaUo4TVFxYTRPYVFpV0kyU2h1dUpuQUJ3ZXZiTS1jcG8tT09LQlVKczVS?oc=5",
-      "source": "中国新闻网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-06T06:44:43.000Z",
-      "summary": "电博会智慧康养展区展示科技适老产品，聚焦“银发经济”。",
-      "summaryZh": ""
+      "pubDate": "2026-09-06T23:20:00.000Z",
+      "summary": ""
     },
     {
       "title": "Russia's Lavrov calls accusations of Moscow's involvement in Leipzig drone incident 'start of real war', TASS reports",
@@ -193,7 +165,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-06T00:50:36.000Z",
-      "summary": "VLM-Loc技术将自然语言直接定位到点云地图中，实现语言描述与空间推理的链接。",
+      "summary": "VLM-Loc技术将自然语言直接定位到点云地图中，实现空间描述与机器计算的结合。",
       "summaryZh": ""
     },
     {
