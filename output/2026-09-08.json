@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "generatedAt": "2026-09-07T21:27:47.337Z",
+  "generatedAt": "2026-09-07T22:16:17.254Z",
   "items": [
     {
       "title": "黄仁勋发文祝贺OpenAI：GPT-6 Astra用10万‌NVLink 72‌芯片完成训练 AGI正式到来",
@@ -9,7 +9,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-07T06:09:15.000Z",
-      "summary": ""
+      "summary": "黄仁勋祝贺OpenAI，GPT-6 Astra用10万NVLink 72芯片完成训练，宣布AGI到来。",
+      "summaryZh": ""
     },
     {
       "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
@@ -18,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-07T08:36:30.000Z",
-      "summary": "菲尔兹奖得主团队研发的4B手机Qwen+云端GLM模型组合在ARC-AGI 3测试中显著提升模型间交流效率。",
+      "summary": "菲尔兹奖得主参与的大模型项目，通过技术革新显著提升了模型间交流效率。",
       "summaryZh": ""
     },
     {
@@ -38,17 +39,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-07T11:02:47.000Z",
-      "summary": "豆包爱学AI辅导数学解题，创新技术提升课后辅导质量。",
-      "summaryZh": ""
-    },
-    {
-      "title": "史上最强麒麟芯片来了！全球首款落地“韬定律”，端侧能跑300亿参数大模型",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1HSXpDUC1NeXJJWmtOSUthWFNBZ2pQdUs3SzlQNmFjTWxLMVZkbjlkM1pvRnlEZ3ZLdXZNSTFmdDVhTlRoZnc?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-07T09:25:55.000Z",
-      "summary": "华为发布全球首款落地“韬定律”的麒麟9050 Pro芯片，端侧可运行300亿参数大模型。",
+      "summary": "豆包爱学AI辅导数学解题，以创新技术提升课后辅导质量。",
       "summaryZh": ""
     },
     {
@@ -58,7 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-07T09:34:06.000Z",
-      "summary": "会合体机器人3秒变身，全球50国热销。",
+      "summary": "会合体机器人3秒变身，已售全球50国。",
       "summaryZh": ""
     },
     {
@@ -72,23 +63,13 @@
       "summaryZh": ""
     },
     {
-      "title": "不做人形做“马”，消费机器人盯上富人户外市场？",
-      "link": "https://www.tmtpost.com/8130976.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-07T09:28:30.000Z",
-      "summary": "DaxAI智能坐骑机器马瞄准高端户外市场，售价高达28万至46万。",
-      "summaryZh": ""
-    },
-    {
       "title": "vivo X500 系列手机全球首发蓝图光御 900 传感器，CIPA 7.0 防抖、AI 摄影助手",
       "link": "https://www.ithome.com/0/999/452.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-07T12:16:29.000Z",
-      "summary": "vivo X500系列手机全球首发蓝图光御900传感器，搭载CIPA 7.0防抖及AI摄影助手。",
+      "summary": "vivo X500系列手机全球首发蓝图光御900传感器，搭载CIPA 7.0防抖和AI摄影助手。",
       "summaryZh": ""
     },
     {
@@ -98,7 +79,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-07T09:05:10.000Z",
-      "summary": "机器人开始运用世界模型干预世界，技术路线和目标各异。",
+      "summary": "机器人开始利用世界模型干预世界，技术路线和目标各异。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人真会用手表达了！",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ZN09ubXcxU2RDOFc5SHF4MHdLX3QzN3BJQk9DaEtyRG1tcHBxeVhNTEZNZE0tQnd2U1E5RmMybDAwbjNVNUE?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-07T14:12:11.000Z",
+      "summary": "银河通用发布手势交互框架RoboGesture，实现机器人自然肢体表达。",
       "summaryZh": ""
     },
     {
@@ -108,7 +99,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-06T23:42:38.000Z",
-      "summary": "AIGC长剧热播推动公募AI投资转向商业化应用。",
+      "summary": "AIGC长剧热播推动公募AI投资转向商业应用落地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI打造出AI研究实习生，称智能体工作量是人类3倍",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00OXg1MERweEJkeTBjeVZ4WGcwTFRMOTQwclNSelBCcHlvZU5BMzV1Um5oN0NLWDNEMFlfSFg3LVlkWHVETHgwUWMzWVh6alQyNzVjNA?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-07T04:19:00.000Z",
+      "summary": "OpenAI推出AI研究实习生，称其工作量是人类三倍。",
       "summaryZh": ""
     },
     {
@@ -128,7 +129,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-07T10:09:22.000Z",
-      "summary": "最高法发布首部人工智能纠纷裁判规则，市场监管总局发布新生儿黄疸治疗设备计量新规范。",
+      "summary": "最高法发布首部涉人工智能纠纷裁判规则，市场监管总局发布新生儿黄疸治疗设备计量新规范。",
       "summaryZh": ""
     },
     {
@@ -173,16 +174,6 @@
       "titleZh": "欧盟调查 OpenAI 代理接管德国网站"
     },
     {
-      "title": "机器人送餐、AI排行程，服贸会要变成“未来生活体验馆”？",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PUENDdWpxT0NBbnE5SFVXb2RaODB1S1BWaW5UbnpJQXh2MHlXanJLUFhCYW43YzVra1JRMV9FbkZ6TUwzY2xSWUlRRmlaQXpNQnIyeG1IMGF4dw?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-07T10:19:54.000Z",
-      "summary": "服贸会聚焦AI、机器人等科技，展示未来生活体验。",
-      "summaryZh": ""
-    },
-    {
       "title": "深思造物落地：工业多智能体如何把设计—仿真—工艺拧成一条智能产线",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZX1l0RkRieUNVeWJpeW00TVIxQzhvUjItVlBmd2RHOWMtMjRrSm1mcXVTbEVkZ1hjdFo5R1owY3N6UjZyMVBHNDlGYnVSZWxubFMyYzlvVHNOWm5zenloVGE4NA?oc=5",
       "source": "中国经营网",
@@ -198,7 +189,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-07T02:57:56.000Z",
-      "summary": "OpenAI发布文件，AI加速研发，但安全对齐挑战依旧。",
+      "summary": "OpenAI发布文件，AI加速研发，安全对齐挑战依旧。",
       "summaryZh": ""
     },
     {
@@ -213,16 +204,6 @@
       "titleZh": "Agility Robotics 报告收入 180 万美元，领先于人形 SPAC"
     },
     {
-      "title": "万元人形机器人，迎来\"安卓时刻\"了？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vd1ZUMkowSUphd3RDU1JzWXBiblBSQUVqQllkM0FtR2lreC1Melloc3g0MF92cE9JNGZSUVIteFc1Z3JiazIxR0NUVlQ1R25QNVkxYXRJZw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-07T05:29:10.000Z",
-      "summary": "万元级人形机器人“小桥”发布，引发行业对“安卓时刻”的讨论。",
-      "summaryZh": ""
-    },
-    {
       "title": "工业机器人如何通过Modbus TCP转CanOpen网关高效通信！",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UMnhOUUZjNk0wY1NPSDJtNThjeTlYbHpqeWJMaGtvX1dxQXNmanFvR1NpUFFJVy1jTFhlaF9jUW5qbmhGeGRUWHpFWFBKTmVWNEZGdm16cw?oc=5",
       "source": "与非网",
@@ -230,6 +211,16 @@
       "category": "robotics",
       "pubDate": "2026-09-07T09:11:49.000Z",
       "summary": "工业机器人通过Modbus TCP转CanOpen网关实现与PLC的高效通信。",
+      "summaryZh": ""
+    },
+    {
+      "title": "自动驾驶激光雷达用久了精度会下降吗？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84OE81UVl1aEEwVWZrenVQZmNRQjdMUFdrR0ZRREU1WHlDQmNwMS1wOGU1SS1XSTlKNU5PX01Ld0dlbkpOZ1V3bGRYUzRmSVZxQi1Rem1mWQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-07T04:09:42.000Z",
+      "summary": "激光雷达长期使用后精度下降，主因是光学窗口污染和温度变化。",
       "summaryZh": ""
     },
     {
@@ -242,6 +233,16 @@
       "summary": "机器人技术可革新实验室采血体验。",
       "summaryZh": "",
       "titleZh": "这个机器人现在会抽你的血"
+    },
+    {
+      "title": "空调卖爆、机器人走秀、手持影像出圈：中国消费电子圈粉IFA",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50dERBLXV0OXNtMHoxZF91eExUTGJ2WkZwQVdKaU9jdHo0eUhzTWNrNDJwX29ibWwtUVNCQk42dDMzNW5Yd2VqdVU4REZHOVVYRW5iRGs5dnc5VDJ5aU9EUGtKeU8?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-07T11:11:00.000Z",
+      "summary": "中国消费电子在IFA展上以AI技术为核心，展示产品形态和交互方式的变革。",
+      "summaryZh": ""
     },
     {
       "title": "山东青岛：多类智能适老产品亮相消费电子博览会",
