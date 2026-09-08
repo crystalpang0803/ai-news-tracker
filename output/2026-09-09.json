@@ -1,7 +1,17 @@
 {
   "date": "2026-09-09",
-  "generatedAt": "2026-09-08T22:01:26.484Z",
+  "generatedAt": "2026-09-08T23:27:44.079Z",
   "items": [
+    {
+      "title": "OpenAI 最强 AI 生图模型：ChatGPT Images 2.5 登场，延迟降低 50%、新增 Sketch 草图",
+      "link": "https://www.ithome.com/0/999/956.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-08T23:00:42.000Z",
+      "summary": "OpenAI发布ChatGPT Images 2.5，图像生成延迟降低50%，新增Sketch草图功能。",
+      "summaryZh": ""
+    },
     {
       "title": "达芬奇 DaVinci Resolve 21.1 发布，接入 Claude Code、ChatGPT Codex 等 AI 助手",
       "link": "https://www.ithome.com/0/999/945.htm",
@@ -38,7 +48,28 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-08T10:39:11.000Z",
-      "summary": ""
+      "summary": "OpenAI Agent在安全测试中突破隔离环境，引发AI安全新挑战。",
+      "summaryZh": ""
+    },
+    {
+      "title": "采购周期缩短50%以上，人工智能应用在供应链领域加速落地",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wM3h5SEJYS3JvWDIxQUQ0Nm83bnNvTVd6R3dCRHUtT2dlRnlnUXRON1dIb3pTR3pndXhFcGVLQnVWczdPQWFqUEl4RlhySS1uSEQ2OVh0dXdYZw?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-08T23:19:00.000Z",
+      "summary": "人工智能应用显著缩短供应链采购周期。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI进化速递｜荣耀将落地系统级Agent",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qTUE2THZPdWFkT1pXT0hkdmE3RHhmNGd2Y3JXbHVpYURJNG1GQ3JmeDdhTjZSU21PenlBWGhoXzdJZ0pJc3NMV05Bdm5IemJGODk4?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-08T12:38:15.000Z",
+      "summary": "荣耀将推出系统级AI助手，可执行复杂任务。",
+      "summaryZh": ""
     },
     {
       "title": "政策助推AI应用走向落地交付，人工智能ETF易方达（159819）近三月净流入领跑同标的产品",
@@ -75,17 +106,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-08T10:35:26.000Z",
-      "summary": "美国人形机器人企业Agility计划通过SPAC合并上市，去年营收1195万，估值167亿元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
-      "link": "https://www.qbitai.com/2026/09/485784.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-08T03:22:17.000Z",
-      "summary": "深度智控获宁德时代等投资，加速物理AI算力与能源底座建设。",
+      "summary": "美国人形机器人公司Agility计划通过SPAC合并上市，去年营收1195万，估值167亿元。",
       "summaryZh": ""
     },
     {
@@ -95,7 +116,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-08T10:02:28.000Z",
-      "summary": "大模型Token生意在天猫上线，智谱等厂商入驻，改变销售渠道和商业模式。",
+      "summary": "大模型Token成为天猫商品，智谱等公司通过电商平台销售AI服务。",
       "summaryZh": ""
     },
     {
@@ -105,47 +126,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-08T12:59:33.000Z",
-      "summary": "Nebius股价盘前上涨2%，因Palantir选其为优选AI基础设施合作伙伴。",
-      "summaryZh": ""
-    },
-    {
-      "title": "世界模型 | WAM-TTT：让机器人在部署现场“看视频现学”的测试时后训练",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CeG91TlNtMGZDajhYYk9Ld1lKN01fM1ZHWnc5b1kxQzFTYkNWbEtXLUVLRHkwS2VGUlpnOEFMMkczbHRrVW5CTlhWb01saGwwU1RGbVFvbw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-08T00:18:47.000Z",
-      "summary": "WAM-TTT技术使机器人可观看视频现学，提升部署后适应能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-      "link": "https://www.qbitai.com/2026/09/485854.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-08T06:05:30.000Z",
-      "summary": "GPT-6 Astra因3D功能火爆，触发全局重置。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI算力租赁商盘初走高，甲骨文涨超4%",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qZ1JuLUZYSVBXMTI2MjR0Tm9iQnZPUXg4TTZ0UkFEZDhLOUdQNmZ5YXdCQ1RiS0FBcm1NX0wxa0R1LUI0cHE3YkJSRGRubVJlaXNjN3RJRWdTZw?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-08T13:49:00.000Z",
-      "summary": "AI算力租赁商盘初上涨，甲骨文涨超4%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "电厂 | 百度搭子牵手小度，AI Agent开始寻找“身体”",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DQVJkTUhLWW94OXZ1WUtyRkU2aGFQeTZzckIzN0JGcE5nVjkzb3IwQ3RpSzd6NVJpb0sxWFZFNU9KYjhGNXljdFNFa21jZF9yX2QwaEdMTS0?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-08T10:23:24.000Z",
-      "summary": "百度搭子与小度硬件结合，AI Agent实现家庭场景应用。",
+      "summary": "Nebius股价盘前上涨2%，因Palantir列为优选合作伙伴。",
       "summaryZh": ""
     },
     {
@@ -155,7 +136,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-08T20:39:51.000Z",
-      "summary": "前波士顿动力员工创立Dynamic Creatures，致力于用机器人实现娱乐角色。",
+      "summary": "前波士顿动力员工创立Dynamic Creatures，致力于用机器人实现角色生动化。",
       "summaryZh": "",
       "titleZh": "波士顿动力退伍军人推出 Dynamic Creatures，利用机器人技术让角色栩栩如生"
     },
@@ -167,35 +148,6 @@
       "category": "robotics",
       "pubDate": "2026-09-08T02:56:43.000Z",
       "summary": "触觉感知技术突破为人形机器人带来更精准操控物理环境的能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "小鹏人形机器人迈向规模制造：自动化率超80%，年底启动量产",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pMlktY3JyTUFGRGU3WjUwb2ZRUGVZYk83NnM4ZkpOcGhmMGdRb3h0b2VUbzN5MWZweXltX01ySW9YNWhPejRZZ3JkUXdwVjVIYWx2TmVUbENvakdrYVcxRENB?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-08T07:39:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Livo启动邀请制内测：在AI构建的“仿生世界”里，故事因你的进入而改变",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qMjZ2STV3QVRrWDQ5VWxpZHczWlhPV2FrTkNoUUZLS3ZDUF9JdjFsT3lpVUlaR0UtZkJJeloybEdHQzdYa2tKc1hmNHI?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-08T07:45:59.000Z",
-      "summary": "快看漫画AI产品Livo启动内测，用户可参与“仿生世界”故事演变。",
-      "summaryZh": ""
-    },
-    {
-      "title": "豪掷15亿元做LP，知乎要投AI与机器人",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLTTh5OFRzZGdvUUdkZE0weDRMcE5XRE1yaF9ESzRkTGx4MXItaDhvdDFzbVh3emZrb0xZY2l5VEhFWHdSOHY4cS1GNkVwWEIxZzZrSm8yYWNxTF9MTzVPUzUyLURxdw?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-08T13:10:00.000Z",
-      "summary": "知乎出资15亿元认购砺思资本旗下基金，聚焦AI及机器人领域。",
       "summaryZh": ""
     },
     {
@@ -216,19 +168,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-08T03:37:50.000Z",
-      "summary": "嬴彻科技实现卡车自动驾驶技术商业双突破，获10家运营商认可。",
+      "summary": "嬴彻科技实现卡车自动驾驶技术商业双突破，获10家运营商订单。",
       "summaryZh": ""
-    },
-    {
-      "title": "Runway AI Hits $200 Million Revenue and Expands Robotics Capabilities",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/runway-ai-hits-200-million-revenue-and-expands-robotics-capabilities/",
-      "source": "PYMNTS",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-08T17:27:29.000Z",
-      "summary": "Runway AI年营收达2亿美元，拓展机器人技术。",
-      "summaryZh": "",
-      "titleZh": "Runway AI 收入突破 2 亿美元并扩展机器人能力"
     },
     {
       "title": "Urban Outfitters’ Nuuly pursues more fulfillment center automation",
@@ -240,6 +181,17 @@
       "summary": "Nuuly在堪萨斯城地区设施推出自动化订单分拣系统和拣选解决方案。",
       "summaryZh": "",
       "titleZh": "Urban Outfitters 的 Nuuly 追求更加自动化的配送中心"
+    },
+    {
+      "title": "Whole-body expansion and contraction make a robot seem more alive",
+      "link": "https://techxplore.com/news/2026-09-body-expansion-robot-alive.html",
+      "source": "Tech Xplore",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-08T19:00:12.000Z",
+      "summary": "机器人通过全身伸缩动作显得更生动。",
+      "summaryZh": "",
+      "titleZh": "全身扩张和收缩让机器人看起来更有活力"
     }
   ]
 }
