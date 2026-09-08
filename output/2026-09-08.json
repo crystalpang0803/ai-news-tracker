@@ -1,15 +1,15 @@
 {
   "date": "2026-09-08",
-  "generatedAt": "2026-09-07T23:35:30.189Z",
+  "generatedAt": "2026-09-08T00:41:42.110Z",
   "items": [
     {
-      "title": "黄仁勋发文祝贺OpenAI：GPT-6 Astra用10万‌NVLink 72‌芯片完成训练 AGI正式到来",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ra2hvcXFWWWNaOXp1aXlXN2dhSGVzZDNuSnFjSkRVMWFQMDEybmx6aWZfNVUzT2dULWFyT1B5VlJmcHAxMVhkZw?oc=5",
-      "source": "财联社",
+      "title": "OpenAI GPT-6 Astra 模型自主通关 3D 解谜游戏《传送门》：耗时 24 小时，成本 571 美元",
+      "link": "https://www.ithome.com/0/999/488.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-07T06:09:15.000Z",
-      "summary": "黄仁勋祝贺OpenAI，GPT-6 Astra用10万NVLink 72芯片完成训练，宣布AGI到来。",
+      "pubDate": "2026-09-07T14:40:44.000Z",
+      "summary": "OpenAI GPT-6 Astra模型自主通关3D解谜游戏《传送门》，耗时24小时，成本571美元。",
       "summaryZh": ""
     },
     {
@@ -19,27 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-07T08:36:30.000Z",
-      "summary": "菲尔兹奖得主参与的大模型项目，通过技术革新显著提升了模型间信息传递效率。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智能体出海东南亚，还缺懂本土落地的人 ｜SEA Frontline",
-      "link": "https://www.tmtpost.com/8128887.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-07T22:45:11.000Z",
-      "summary": "智能体在东南亚落地需本土化人才和文化理解。",
-      "summaryZh": ""
-    },
-    {
-      "title": "消息称三星进入人形机器人赛道，计划在明年 CES 2027 首秀",
-      "link": "https://www.ithome.com/0/999/466.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-07T13:21:04.000Z",
-      "summary": "三星计划在CES 2027展示其自主研发的人形机器人。",
+      "summary": "菲尔兹奖得主加入团队，研发模型间高效交流“桥梁”，提升小模型性能。",
       "summaryZh": ""
     },
     {
@@ -49,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-07T11:02:47.000Z",
-      "summary": "豆包爱学AI辅导数学解题，以创新技术提升课后辅导质量。",
+      "summary": "豆包爱学AI辅导数学解题，创新技术提升课后辅导质量。",
       "summaryZh": ""
     },
     {
@@ -59,7 +39,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-07T09:34:06.000Z",
-      "summary": "会合体机器人3秒变身，全球50国热销。",
+      "summary": "会合体机器人3秒变身，已售全球50国。",
+      "summaryZh": ""
+    },
+    {
+      "title": "通用机器人，正在从一种身体变成一种架构",
+      "link": "https://www.tmtpost.com/8131405.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-08T00:09:00.000Z",
+      "summary": "通用机器人从单一身体转向模块化架构，实现跨本体模型和数据共享。",
       "summaryZh": ""
     },
     {
@@ -73,23 +63,13 @@
       "summaryZh": ""
     },
     {
-      "title": "vivo X500 系列手机全球首发蓝图光御 900 传感器，CIPA 7.0 防抖、AI 摄影助手",
-      "link": "https://www.ithome.com/0/999/452.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-07T12:16:29.000Z",
-      "summary": "vivo X500系列手机全球首发蓝图光御900传感器，搭载CIPA 7.0防抖及AI摄影助手。",
-      "summaryZh": ""
-    },
-    {
       "title": "世界模型不只预测未来，机器人开始争夺“干预世界”的能力",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GMWtuZDJmdEQ0Nm5EZ2ZPaVFNamJySlI1ajFrYUM3T1pCRm12OGtpVDFrMG1rcUZqYjdjNUs4VmRkYXJhYXc?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-07T09:05:10.000Z",
-      "summary": "机器人开始运用世界模型干预世界，技术路线和目标各异。",
+      "summary": "机器人开始运用世界模型干预现实世界。",
       "summaryZh": ""
     },
     {
@@ -99,27 +79,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-07T14:12:11.000Z",
-      "summary": "机器人RoboGesture实现手势交互，碰撞控制能力突出，语义场景下评测结果降至0.13。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AIGC长剧点燃AI应用投资热度，公募AI投资转向商业兑现",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqdmNSc0RXNkNxMWxhbzFoU1hqX0pLYWpsM3Nzb0w2TnVfMXQ2dTVQVUFOeTJVU3lqbnlsS2RVLXVienJxeHdPblVXYVk2ck90STBmLU44ZXh0NnpGbEE?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-06T23:42:38.000Z",
-      "summary": "AIGC长剧热播推动公募AI投资转向商业化应用。",
-      "summaryZh": ""
-    },
-    {
-      "title": "九章云极亮相第 23 届电博会：以AI 工厂重构智能终端算力底座，推动普惠算力规模化落地",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xNmppdjQ1Um8tT2ZhUG14UEtldFJhVS0zLXdDRmx6TjQyM1FuZEt1bjNpSmc1ZURGaTVMSUJUTnhwMTdneEFyM0tPSQ?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-07T09:29:33.000Z",
-      "summary": "九章云极在电博会展示AI工厂，推动智能终端算力普惠化。",
+      "summary": "机器人RoboGesture实现手势交互，碰撞控制能力突出。",
       "summaryZh": ""
     },
     {
@@ -143,13 +103,13 @@
       "summaryZh": ""
     },
     {
-      "title": "机器人数据喷涌，但危险的信号也出现了",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SSXY0UzhyWmRyYjVvVEhjNzlMV0ZEWW9TMksxa0RCVHdsdmpGRnFLcFpQcWFuNjBxc2JhQml0SEJBVVVaS1FZeFJZdGNVSXdrTzdn?oc=5",
+      "title": "中信建投：继续看好AI算力产业链景气延续",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xak42a3hFcmtaSjNfUmI4ZFJ3RG9qdnVrSzZzcUZRVFdEWUViQjVlMElxaW13N1dKcU53QzAtRTYzUm4zanRZbkpWUDRNcDF6Mk9R?oc=5",
       "source": "第一财经",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-07T03:45:14.000Z",
-      "summary": "机器人数据量激增，但技术路线失误和资源浪费问题显现。",
+      "category": "ai",
+      "pubDate": "2026-09-08T00:06:04.000Z",
+      "summary": "中信建投证券研报看好AI算力产业链景气延续，建议关注核心环节及龙头公司。",
       "summaryZh": ""
     },
     {
@@ -173,16 +133,6 @@
       "summaryZh": ""
     },
     {
-      "title": "中信建投：OpenAI旗舰模型再升级，博通AI收入高增验证算力景气延续",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wb2tETVltQjZIQkRJNjJLR3FfSGRmRUZ1akM5MjJtS3dRbFkyRlpXMk0zbEo0NkRzVlpFc3h5cUVkcTJlNzlidzVSMXc3bllUVTdvUTRrLTdxLTVxaG9jOUNaaTJSaFhqTFpkY0RSaGRnX2E0MHQ3Ng?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-07T23:29:00.000Z",
-      "summary": "OpenAI发布GPT-6 Astra，博通AI收入高增，AI算力景气延续。",
-      "summaryZh": ""
-    },
-    {
       "title": "深思造物落地：工业多智能体如何把设计—仿真—工艺拧成一条智能产线",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZX1l0RkRieUNVeWJpeW00TVIxQzhvUjItVlBmd2RHOWMtMjRrSm1mcXVTbEVkZ1hjdFo5R1owY3N6UjZyMVBHNDlGYnVSZWxubFMyYzlvVHNOWm5zenloVGE4NA?oc=5",
       "source": "中国经营网",
@@ -192,13 +142,23 @@
       "summary": ""
     },
     {
+      "title": "AI写文案怎么改才自然：豆包多模态与办公任务模式横向解析",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOXzZWV29ROXpOYVU4SV84UkVyTW5hZWM1eFZXcXV5czJGUExvWXp6d2dtaUdhbEc2bEt3VW5velVUaC1zTkIxR3FGeFduQUxI?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-07T10:04:36.000Z",
+      "summary": "豆包多模态AI助手通过多维度技术实现文案自然改写。",
+      "summaryZh": ""
+    },
+    {
       "title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
       "link": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-07T13:17:45.000Z",
-      "summary": "Agility Robotics宣布通过SPAC合并估值25亿美元，2025年净销售额180万美元。",
+      "summary": "Agility Robotics宣布通过SPAC合并估值25亿美元，2025年净销售额达180万美元。",
       "summaryZh": ""
     },
     {
@@ -222,6 +182,16 @@
       "summaryZh": ""
     },
     {
+      "title": "走向实用，具身智能机器人还要闯几关？",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ocmtkLWxFdzNUSVc0Wng3a2tMUnAwcy1GV0xMY3ozdnpWNkQ1VS1vTzBjdnlBVjlSaVVDRk0wcHVyMkpCV2FocW5BQXBmdVpMMHIyZ0c0RlppcENvaWZPUGtrZGtMd3hfejczVldmdG0?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-07T07:12:09.000Z",
+      "summary": "具身智能机器人产业面临大脑可靠性、硬件性能、大规模生产三重挑战。",
+      "summaryZh": ""
+    },
+    {
       "title": "This Robot Will Draw Your Blood Now",
       "link": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
       "source": "IEEE Spectrum Robotics",
@@ -229,16 +199,6 @@
       "category": "robotics",
       "pubDate": "2026-09-07T13:00:01.000Z",
       "summary": "机器人技术可革新实验室采血体验。",
-      "summaryZh": ""
-    },
-    {
-      "title": "54股调入港股通，AI、机器人密集入围，机构提示拥挤风险",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOFFGa1pJV1JVajV3ZEpZZzN4T3h0M3NSWnI0VlZKZjNzSl9qOElvOF8zc0V0bmRBZzBzTW9WM1RmLWtWVUtOd0F4YTJxUHdNdGdmT0NVX2hsaS1RUmtsckdiYWVpalhNWmo2Qk1haDFGZmozamQ3M2xzSnpFQXZzeVV4eDFiY0tsVE5hZ21fNWN2WUJu?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-07T10:59:35.000Z",
-      "summary": "54股新入港股通，AI、机器人等板块密集入围，机构提示交易拥挤风险。",
       "summaryZh": ""
     },
     {
