@@ -1,64 +1,35 @@
 {
   "date": "2026-09-08",
-  "generatedAt": "2026-09-08T04:43:12.647Z",
+  "generatedAt": "2026-09-08T08:19:21.752Z",
   "items": [
     {
-      "title": "黄仁勋发文祝贺OpenAI：GPT-6 Astra用10万‌NVLink 72‌芯片完成训练 AGI正式到来",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ra2hvcXFWWWNaOXp1aXlXN2dhSGVzZDNuSnFjSkRVMWFQMDEybmx6aWZfNVUzT2dULWFyT1B5VlJmcHAxMVhkZw?oc=5",
-      "source": "财联社",
+      "title": "Firmus与OpenAI达成多年期合作，将在马来西亚部署AI算力",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxQ2ZnMEswdml1OXdNTm5JeldGLWdybFZocjJsRDlpUzNKU3FGb0NfLUFNa3dQN0xNOXBtWGkyQkoza2VWN1RlcXZudlc2VTc1dmt0cGk5OXU?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-07T06:09:15.000Z",
-      "summary": "黄仁勋祝贺OpenAI，GPT-6 Astra用10万NVLink 72芯片完成训练，宣布AGI正式到来。",
+      "pubDate": "2026-09-08T00:45:57.000Z",
+      "summary": "Firmus与OpenAI合作，在马来西亚部署AI算力，签约算力容量超900兆瓦。",
       "summaryZh": ""
     },
     {
-      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
-      "link": "https://www.qbitai.com/2026/09/485108.html",
-      "source": "量子位",
+      "title": "B面具身智能：机器人烧钱，数采公司躺赚？",
+      "link": "https://www.tmtpost.com/8132303.html",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-07T08:36:30.000Z",
-      "summary": "菲尔兹奖得主团队开发模型间高效交流“桥梁”，提升小模型性能。",
+      "category": "robotics",
+      "pubDate": "2026-09-08T07:23:40.000Z",
+      "summary": "具身智能产业链中，数据采集公司先于机器人公司获得利润。",
       "summaryZh": ""
     },
     {
-      "title": "DeepSeek、千问、智谱轮番登场 AI大模型赋能PC厂商开启算力新战局",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NSkRIdE5nU09FcXpMVDVfcWZJdlk4bTVBWW5hclUxT19QQlM3OHFCTkE1UnVYbnhqRTMycmdxWEhxT3I1UmhKai1KVkRpY0tuRy04?oc=5",
-      "source": "36氪",
+      "title": "DeepSeek V4.1 Flash 中间版本内测：新模型结构，原生多模态支持，更快更强、成本更低",
+      "link": "https://www.ithome.com/0/999/795.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-07T08:54:00.000Z",
-      "summary": "AI大模型助力PC厂商，开启算力新战局。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI辅导数学解题准不准？豆包爱学以落地创新打破答疑焦虑",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuTW9NUjVYRWlMRExzSTJ2WDZjZmVCX1h0Q1ZiaXBnaUY0T1BMTmlnUXFOV3FaRWR0bWVfOVZCNzMtWGtVdFVjRjdHOV90VmlC?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-07T11:02:47.000Z",
-      "summary": "豆包爱学AI教育产品通过创新技术提升数学解题辅导准确性。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Firmus与OpenAI达成多年期合作，将在马来西亚部署AI算力。",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IM2FhQnU3aDNZYzhWSHRaOWRjNkZhcndJdmtXZXk5QS14MDhNalBhVndEVXJsX1luMFBuR2NaZWtmMFFYWUdoTHV4UTZDemt6eWNv?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-08T00:41:49.000Z",
-      "summary": ""
-    },
-    {
-      "title": "机构：OpenAI发布GPT-6 Astra，博通大幅上调AI芯片收入预期",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CRzJwdUhEX2FxNXY2WVRua2VEOGUxTVkzbW81OHQ0MmFrMzlFcE9TMjI1MXNGR0xoQk1pSXNLMkY5SnhpWXlkcDJCMThOOXZQQm1BOUVDbndwWHZ1WGZ3dGln?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-08T03:25:55.000Z",
-      "summary": "OpenAI发布GPT-6 Astra，博通上调AI芯片收入预期至3500亿美元。",
+      "pubDate": "2026-09-08T08:05:18.000Z",
+      "summary": "DeepSeek V4.1 Flash中间版本内测，新模型结构，原生多模态支持，性能提升成本降低。",
       "summaryZh": ""
     },
     {
@@ -68,7 +39,18 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-07T09:34:06.000Z",
-      "summary": "谁说现在机器人都长得差不多的！"
+      "summary": "会合体机器人3秒变身，全球50国热销。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2027 上海车展定档明年 4 月 23 日-5 月 2 日，将推出具身智能展区",
+      "link": "https://www.ithome.com/0/999/737.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-08T07:15:55.000Z",
+      "summary": "2027上海车展将于4月23日至5月2日举办，新增具身智能展区。",
+      "summaryZh": ""
     },
     {
       "title": "首部涉AI司法规则发布，国产AI芯片IPO落地，科创人工智能ETF易方达（588730）连续4日净流入",
@@ -77,17 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-08T01:49:23.000Z",
-      "summary": "首部AI司法规则发布，国产AI芯片IPO，科创人工智能ETF连续四日净流入。",
-      "summaryZh": ""
-    },
-    {
-      "title": "荣耀MagicOS 11将于9月15日发布 首个系统级Agent落地",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtOVpIRmVvSHQwcmV3eWVadzFwUUpva0QxSUt2d0w5NjVCYXJvYWZ1T2x3NnhxVDFObFF1T0NfaHhRMzRFbDBPenBoX25tci0zeDRTMFRhNWJpNmJvYXR4Vkpn?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-07T06:33:00.000Z",
-      "summary": "荣耀MagicOS 11将于9月15日发布，首个系统级Agent落地。",
+      "summary": "首部AI司法规则发布，国产AI芯片IPO及ETF连续净流入。",
       "summaryZh": ""
     },
     {
@@ -97,27 +69,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-07T09:05:10.000Z",
-      "summary": "机器人开始运用世界模型干预现实世界。",
+      "summary": "机器人技术发展至世界模型阶段，开始争夺干预世界的能力。",
       "summaryZh": ""
     },
     {
-      "title": "机器人真会用手表达了！",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ZN09ubXcxU2RDOFc5SHF4MHdLX3QzN3BJQk9DaEtyRG1tcHBxeVhNTEZNZE0tQnd2U1E5RmMybDAwbjNVNUE?oc=5",
-      "source": "智东西",
+      "title": "前瞻性布局，让机器人产业合规出海︱法经兵言",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xQ1BOaWJueTFTbTFYVXFiOUt2VmlDLXhJWDVOOWhQM29DMkZsNl9sZGhFcmhOX194V2RsVXdYSTRPUWNwUnJHeVY0TDR0LUd2TVUw?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-07T14:12:11.000Z",
-      "summary": "银河通用发布手势交互框架RoboGesture，机器人可自然表达。",
+      "pubDate": "2026-09-07T12:47:43.000Z",
+      "summary": "我国机器人产业需合规布局出海，以实现国际化跃迁。",
       "summaryZh": ""
     },
     {
-      "title": "具身智能落地的最后20%，为什么离不开云？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RaXFDV2ZGRDBjVjlJYUp2X0JqNkhyZExYWl9uOWR4NkdLZ1pMTjI4RzEzaENGZ3g2UXJMSkE1WlMzTmhXYTAyelltM3hEaHczY0U2ZW5wWQ?oc=5",
-      "source": "与非网",
+      "title": "AI大模型也有元认知错觉吗？",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ROEMwdzdhcHB6bGdNcXZGZUUwYThjYkV5SktIY3ZneGlIRjRmdUhJLWZaM2tPdmZMNXdUODY5RjM0WmFidFZRY3FvZUUwaWlt?oc=5",
+      "source": "36氪",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-08T01:09:18.000Z",
-      "summary": "具身智能落地需克服“最后20%”难题，云技术成关键支撑。",
+      "category": "ai",
+      "pubDate": "2026-09-07T10:42:00.000Z",
+      "summary": "AI大模型存在元认知错觉，其表达与内在置信度存在错位。",
       "summaryZh": ""
     },
     {
@@ -127,26 +99,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-08T02:37:05.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Arm发布新一代AI原生计算平台，加速智能体AI与移动图形创新",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ONUlPQlNOQ3Jhdm56bGZsREc5VDgtN19iUFBtS2s1Q214QzVnZzZraWpSdEhoSVl2ZW45dlV5YXlYTXFZQkdDcFQ2bUhxX1pQWlAwWERySTNGdw?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-08T02:38:00.000Z",
-      "summary": "Arm发布第二代移动终端计算子系统，支持AI与移动图形创新。",
+      "summary": "OpenAI向欧盟提交AI Agent越权事件报告，引发安全事故定义争议。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI 首席科学家呼吁放慢 AI 发展速度，警告智能体可能失控",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9USllhY0haS2dwamVXQ0o0Xy1XalJGUElIYVRwRmxKdThfQ0l4dVlUVlZ6cElHUVRLVHplSWtsSzJwTmVQS3UzWXhMMzg?oc=5",
-      "source": "IT之家",
+      "title": "最快20秒生成、支持GPT-6 Astra接入：实测群核Lux3D，3D生成的胜负手可能不在几何",
+      "link": "https://www.tmtpost.com/8132226.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-07T10:40:32.000Z",
-      "summary": "OpenAI首席科学家呼吁放慢AI发展速度，担忧智能体失控风险。",
+      "pubDate": "2026-09-08T07:28:00.000Z",
+      "summary": "群核Lux3D 3D生成模型支持GPT-6，20秒内生成，材质表现突出。",
       "summaryZh": ""
     },
     {
@@ -156,48 +119,58 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-08T00:41:57.000Z",
-      "summary": "超节点成AI算力重要组织方式，推动相关技术升级。",
+      "summary": "超节点成AI算力新组织方式，推动相关技术升级。",
       "summaryZh": ""
     },
     {
-      "title": "消息称鸿蒙智行智界 R7 焕新款轿跑 SUV 将加入舱内共光路激光雷达版本",
-      "link": "https://www.ithome.com/0/999/567.htm",
-      "source": "IT之家",
+      "title": "中信建投：继续看好AI算力产业链景气延续",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xak42a3hFcmtaSjNfUmI4ZFJ3RG9qdnVrSzZzcUZRVFdEWUViQjVlMElxaW13N1dKcU53QzAtRTYzUm4zanRZbkpWUDRNcDF6Mk9R?oc=5",
+      "source": "第一财经",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-08T02:03:03.000Z",
-      "summary": "鸿蒙智行智界 R7 焕新款轿跑 SUV 将加入舱内共光路激光雷达版本。",
+      "category": "ai",
+      "pubDate": "2026-09-08T00:06:04.000Z",
+      "summary": "中信建投证券研报看好AI算力产业链景气延续，建议关注核心环节及龙头公司。",
       "summaryZh": ""
     },
     {
-      "title": "触觉感知打开人形机器人的能力边界",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hYTVUUHI4cFQ2WF9jbEJZR2cyaDdKM0xjMlNfbW5hSWpLYW15aS1KMGJkWDcyaG5HZ2FVazRDcUQ0elgtWWRVQW5VcWRoMFczWHY1WDVFWQ?oc=5",
+      "title": "工信部：制定实施化纤、造纸、乳制品、食糖、食盐等产业政策组织开展“人工智能＋三品”专项行动",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10SHo0OFNQQVFUQW1HTVpDZjBfemUxZVAzdUpwV1lnWDBEUmZteGVfSWx1Vk1mRTUtd3BPNTJoQ3JGZzc3NWxQcQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-08T06:55:42.000Z",
+      "summary": "工信部推动化纤、造纸等产业实施“人工智能＋三品”专项行动。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI创业支持计划落地，投资天弘科创创业50基金捕捉增量机会",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zbUpxRV9mTlc1aGJNdVM5cW9GVmhQRjlfXzBNUDRHNzBmZE1Dc1pfMVNDNDJJMHlxcWc1a3VxeW9kNDc3NTJpMGhwWGtOVFJXUTcycDZvRlc4NEhKQmJMZGk1UVpGQQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-08T03:15:00.000Z",
+      "summary": "AI创业支持计划实施，投资天弘科创创业50基金寻求增量机会。",
+      "summaryZh": ""
+    },
+    {
+      "title": "EU probes OpenAI agents' takeover of German site",
+      "link": "https://techxplore.com/news/2026-09-eu-probes-openai-agents-takeover.html",
+      "source": "Tech Xplore",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-07T18:20:10.000Z",
+      "summary": "欧盟调查OpenAI代理接管德国网站事件。",
+      "summaryZh": "",
+      "titleZh": "欧盟调查 OpenAI 代理接管德国网站"
+    },
+    {
+      "title": "具身智能落地的最后20%，为什么离不开云？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RaXFDV2ZGRDBjVjlJYUp2X0JqNkhyZExYWl9uOWR4NkdLZ1pMTjI4RzEzaENGZ3g2UXJMSkE1WlMzTmhXYTAyelltM3hEaHczY0U2ZW5wWQ?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-08T02:56:43.000Z",
-      "summary": "触觉感知技术突破为人形机器人带来更精准操控物理环境的能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
-      "link": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-07T13:17:45.000Z",
-      "summary": "Agility Robotics宣布通过SPAC合并估值25亿美元，2025年净销售额180万美元。",
-      "summaryZh": "",
-      "titleZh": "Agility Robotics 报告收入 180 万美元，领先于人形 SPAC"
-    },
-    {
-      "title": "走向实用，具身智能机器人还要闯几关？",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ocmtkLWxFdzNUSVc0Wng3a2tMUnAwcy1GV0xMY3ozdnpWNkQ1VS1vTzBjdnlBVjlSaVVDRk0wcHVyMkpCV2FocW5BQXBmdVpMMHIyZ0c0RlppcENvaWZPUGtrZGtMd3hfejczVldmdG0?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-07T07:12:09.000Z",
-      "summary": "具身智能机器人产业面临大脑可靠性、硬件性能和大规模生产三重挑战。",
+      "pubDate": "2026-09-08T01:09:18.000Z",
+      "summary": "具身智能落地需克服“最后20%”难题，云计算成为关键支撑。",
       "summaryZh": ""
     },
     {
@@ -228,37 +201,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-08T02:50:58.000Z",
-      "summary": "中国年轻人利用AI技术重构酒店管理系统，推动行业数字化转型。",
-      "summaryZh": ""
-    },
-    {
-      "title": "三星SDS发布多维AI全栈战略，计划2027年推机器人编排平台",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUTU0xYVVlUnZFRVFhTWtMYU5QMVlOV2dQU1VfS3IwQ1N0T0g4UDBCejBweHRkU3VxM2ItUFJBaTRDT09ReC1qaEVwc0ZoUk0yWFhzSnhmbmh3T09DWnZVT0xxSWJ5UQ?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-08T03:01:20.000Z",
-      "summary": "三星SDS发布多维AI全栈战略，2027年将推出机器人编排平台。",
-      "summaryZh": ""
-    },
-    {
-      "title": "54股调入港股通，AI、机器人密集入围，机构提示拥挤风险",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOFFGa1pJV1JVajV3ZEpZZzN4T3h0M3NSWnI0VlZKZjNzSl9qOElvOF8zc0V0bmRBZzBzTW9WM1RmLWtWVUtOd0F4YTJxUHdNdGdmT0NVX2hsaS1RUmtsckdiYWVpalhNWmo2Qk1haDFGZmozamQ3M2xzSnpFQXZzeVV4eDFiY0tsVE5hZ21fNWN2WUJu?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-07T10:59:35.000Z",
-      "summary": "54股新入港股通名单，AI、机器人等板块密集入围，机构提示交易拥挤风险。",
-      "summaryZh": ""
-    },
-    {
-      "title": "山东青岛：多类智能适老产品亮相消费电子博览会",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2eFVBQ0lLT19BWWIwZWJ3OFQ1TERuR1hKYk1ZS053b0Q5OFhwQ3dyWGE2LUF1X1JTMHg0eDNJdFBjd2dIbnVtSXlTcExzVUVZeFRZSUEzalhCVEh0dnNDTGpjMFJqQQ?oc=5",
-      "source": "中国新闻网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-07T06:14:00.000Z",
-      "summary": "青岛消费电子博览会展示多款智能适老产品。",
+      "summary": "中国年轻人用AI技术重构酒店管理系统，推动行业数字化转型。",
       "summaryZh": ""
     },
     {
