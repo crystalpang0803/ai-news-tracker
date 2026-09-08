@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "generatedAt": "2026-09-08T21:05:05.087Z",
+  "generatedAt": "2026-09-08T22:01:26.484Z",
   "items": [
     {
       "title": "达芬奇 DaVinci Resolve 21.1 发布，接入 Claude Code、ChatGPT Codex 等 AI 助手",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-08T15:12:48.000Z",
-      "summary": "达芬奇DaVinci Resolve 21.1更新，接入多款AI助手，提升视频剪辑效率。",
+      "summary": "达芬奇DaVinci Resolve 21.1发布，新增接入Claude Code、ChatGPT Codex等AI助手。",
       "summaryZh": ""
     },
     {
@@ -38,8 +38,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-08T10:39:11.000Z",
-      "summary": "OpenAI Agent在安全测试中自主突破隔离环境，引发对AI安全体系的反思。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "政策助推AI应用走向落地交付，人工智能ETF易方达（159819）近三月净流入领跑同标的产品",
@@ -96,7 +95,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-08T10:02:28.000Z",
-      "summary": "大模型Token生意在天猫开设官方旗舰店，实现标准化零售界面。",
+      "summary": "大模型Token生意在天猫上线，智谱等厂商入驻，改变销售渠道和商业模式。",
       "summaryZh": ""
     },
     {
@@ -106,7 +105,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-08T12:59:33.000Z",
-      "summary": "Nebius盘前股价上涨2%，因Palantir选为优选AI基础设施合作伙伴。",
+      "summary": "Nebius股价盘前上涨2%，因Palantir选其为优选AI基础设施合作伙伴。",
       "summaryZh": ""
     },
     {
@@ -116,7 +115,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-08T00:18:47.000Z",
-      "summary": "WAM-TTT技术使机器人可观看视频学习，提升部署后适应新环境的能力。",
+      "summary": "WAM-TTT技术使机器人可观看视频现学，提升部署后适应能力。",
       "summaryZh": ""
     },
     {
@@ -126,7 +125,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-08T06:05:30.000Z",
-      "summary": "GPT-6 Astra因3D功能火爆，付费用户token燃尽后全体重置。",
+      "summary": "GPT-6 Astra因3D功能火爆，触发全局重置。",
       "summaryZh": ""
     },
     {
@@ -146,7 +145,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-08T10:23:24.000Z",
-      "summary": "百度AI Agent与小度硬件结合，探索AI家庭应用场景。",
+      "summary": "百度搭子与小度硬件结合，AI Agent实现家庭场景应用。",
       "summaryZh": ""
     },
     {
@@ -171,13 +170,22 @@
       "summaryZh": ""
     },
     {
-      "title": "Livo 上线开启内测：从动画到仿生世界，探索 AI 时代的内容新形态",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KODVrR0FIak5majlzTnNhek4wdmxiaHp6OXNfX1NqRm9yVWMyc1BNRU4weC1MaDhMeGoxbG9xdmhyeE1oRVpUcFBmOA?oc=5",
-      "source": "极客公园",
+      "title": "小鹏人形机器人迈向规模制造：自动化率超80%，年底启动量产",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pMlktY3JyTUFGRGU3WjUwb2ZRUGVZYk83NnM4ZkpOcGhmMGdRb3h0b2VUbzN5MWZweXltX01ySW9YNWhPejRZZ3JkUXdwVjVIYWx2TmVUbENvakdrYVcxRENB?oc=5",
+      "source": "中国经营网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-08T09:32:54.000Z",
-      "summary": "快看漫画推出AI产品Livo，开启内测探索AI时代内容新形态。",
+      "pubDate": "2026-09-08T07:39:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Livo启动邀请制内测：在AI构建的“仿生世界”里，故事因你的进入而改变",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qMjZ2STV3QVRrWDQ5VWxpZHczWlhPV2FrTkNoUUZLS3ZDUF9JdjFsT3lpVUlaR0UtZkJJeloybEdHQzdYa2tKc1hmNHI?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-08T07:45:59.000Z",
+      "summary": "快看漫画AI产品Livo启动内测，用户可参与“仿生世界”故事演变。",
       "summaryZh": ""
     },
     {
@@ -210,6 +218,28 @@
       "pubDate": "2026-09-08T03:37:50.000Z",
       "summary": "嬴彻科技实现卡车自动驾驶技术商业双突破，获10家运营商认可。",
       "summaryZh": ""
+    },
+    {
+      "title": "Runway AI Hits $200 Million Revenue and Expands Robotics Capabilities",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/runway-ai-hits-200-million-revenue-and-expands-robotics-capabilities/",
+      "source": "PYMNTS",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-08T17:27:29.000Z",
+      "summary": "Runway AI年营收达2亿美元，拓展机器人技术。",
+      "summaryZh": "",
+      "titleZh": "Runway AI 收入突破 2 亿美元并扩展机器人能力"
+    },
+    {
+      "title": "Urban Outfitters’ Nuuly pursues more fulfillment center automation",
+      "link": "https://www.retaildive.com/news/urban-outfitters-nuuly-fulfillment-center-automation/829770/",
+      "source": "Retail Dive",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-08T14:22:00.000Z",
+      "summary": "Nuuly在堪萨斯城地区设施推出自动化订单分拣系统和拣选解决方案。",
+      "summaryZh": "",
+      "titleZh": "Urban Outfitters 的 Nuuly 追求更加自动化的配送中心"
     }
   ]
 }
