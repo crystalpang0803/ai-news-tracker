@@ -1,35 +1,26 @@
 {
   "date": "2026-09-09",
-  "generatedAt": "2026-09-09T04:47:59.950Z",
+  "generatedAt": "2026-09-09T08:22:28.458Z",
   "items": [
     {
-      "title": "比GPT-6 Astra强！OpenAI新模型破解90年数学难题，遭纽约大学教授炮轰剽窃",
-      "link": "https://zhidx.com/p/592180.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-09T01:27:10.000Z",
-      "summary": "OpenAI新模型破解纳维-斯托克斯方程，引发剽窃争议。",
-      "summaryZh": ""
-    },
-    {
-      "title": "已修复：OpenAI 的 ChatGPT 生图功能出现故障，持续约 7.5 小时",
-      "link": "https://www.ithome.com/1/000/135.htm",
+      "title": "OpenAI CFO：自研 AI 助力芯片设计，Luna 模型部署成本低于开源方案",
+      "link": "https://www.ithome.com/1/000/257.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-09T03:49:42.000Z",
-      "summary": "OpenAI ChatGPT生图功能故障约7.5小时已修复。",
+      "pubDate": "2026-09-09T07:33:55.000Z",
+      "summary": "OpenAI CFO称自研AI助芯片设计，Luna模型部署成本低于开源方案。",
       "summaryZh": ""
     },
     {
-      "title": "2026年，Agent安全正在成为AI落地的“第一命题”",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pYjVFX0lKbHdyUE5GdWdZWncwb3pwTy1jVzVHT0RHaEtsRFhVRFhYdTFRWl9ad2d2dmNWMkNhTlNTX0FzVE93V05VTWtMUQ?oc=5",
-      "source": "36氪",
+      "title": "对话杉数科技：大模型跑完上半场，决策式AI接棒落地",
+      "link": "https://www.tmtpost.com/8132305.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-08T12:10:11.000Z",
-      "summary": ""
+      "pubDate": "2026-09-09T06:10:24.000Z",
+      "summary": "杉数科技推动决策式AI落地，聚焦企业核心环节。",
+      "summaryZh": ""
     },
     {
       "title": "OpenAI发布ChatGPT Images2.5图像生成模型，延迟最多降低50%",
@@ -42,15 +33,6 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI Agent 在安全测试中自主突破隔离环境引发安全反思",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54U2FnS05ORDQxV2k2Ukt5T1ozX3l1TWg5emRyLUpQTWVqTnhvWXc5TnJwNnZWM3ZqUzJXY2RnRXJpd0UyZlM1Q2JMbXVZNFJWQVZzTi1MX01FOHU4QkY0?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-08T10:39:11.000Z",
-      "summary": ""
-    },
-    {
       "title": "采购周期缩短50%以上，人工智能应用在供应链领域加速落地",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wM3h5SEJYS3JvWDIxQUQ0Nm83bnNvTVd6R3dCRHUtT2dlRnlnUXRON1dIb3pTR3pndXhFcGVLQnVWczdPQWFqUEl4RlhySS1uSEQ2OVh0dXdYZw?oc=5",
       "source": "钛媒体",
@@ -61,33 +43,63 @@
       "summaryZh": ""
     },
     {
-      "title": "AI进化速递｜荣耀将落地系统级Agent",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qTUE2THZPdWFkT1pXT0hkdmE3RHhmNGd2Y3JXbHVpYURJNG1GQ3JmeDdhTjZSU21PenlBWGhoXzdJZ0pJc3NMV05Bdm5IemJGODk4?oc=5",
+      "title": "业内：家庭大模型加速落地 云边融合成为产业现实选择",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9renVmb3FpWjctaEJia2o0U1FnT1M1ckc2blduRTJFckJfU0x6T01KZzY1VFRtS0xEYkp3d25SLWJONGtRTWNYZjNQaUJWMi1Ib1NCTg?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-08T12:38:15.000Z",
-      "summary": "荣耀将推出系统级AI助手，可执行多步任务。",
+      "pubDate": "2026-09-09T04:57:18.000Z",
+      "summary": "家庭大模型加速落地，云边融合成产业现实选择。",
       "summaryZh": ""
     },
     {
-      "title": "用牛蛙骨骼肌实现“机械飞升”，中国科学院沈阳自动化所研制无线光控类生命蝠鲼机器人",
-      "link": "https://www.ithome.com/1/000/146.htm",
+      "title": "新研究将大语言模型视为“认知病毒”，持续动脑方可“抵御感染”",
+      "link": "https://www.ithome.com/1/000/279.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-09T04:11:20.000Z",
-      "summary": "中国科学院沈阳自动化所研制出基于牛蛙骨骼肌的无线光控类生命蝠鲼机器人。",
+      "category": "ai",
+      "pubDate": "2026-09-09T08:03:30.000Z",
+      "summary": "研究称大语言模型似“认知病毒”，持续动脑可抵御依赖。",
       "summaryZh": ""
     },
     {
-      "title": "Arm推出机器人能力分级框架，发全面设计生态项目，汇聚超80家物理AI企业",
-      "link": "https://zhidx.com/p/591911.html",
-      "source": "智东西",
+      "title": "北京：推进“人工智能+新材料”新范式，开发材料大模型、材料智能实验及数智制造装备",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vZnp6ZkY2MjJyTU1rdlU0bnIyczk5aTVZVi12TU01YUo5dlRDTmM5ZTAtVXhoLUMxUHZsTXIySjdCU3AyTWxjZzFhdWpXTjJOcmQ1dXJFdkE?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-08T06:46:48.000Z",
-      "summary": "Arm发布机器人能力分级框架，携手80多家企业构建物理AI设计生态。",
+      "category": "ai",
+      "pubDate": "2026-09-09T07:49:45.000Z",
+      "summary": "北京推进“人工智能+新材料”新范式，开发材料大模型及数智制造装备。",
+      "summaryZh": ""
+    },
+    {
+      "title": "北京：提升人工智能系统软件栈能力，加快布局国产算力新架构",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JZ1Z1U0RPOFNvOWRLQmE0Q0lZazhvckVQUU9leTFqOUZQeDB0WE5qbkc1U2hNbHFjTTJfUUkweE5aYUZVVTlNX3ZvbW55T0w0SjlYZmo0bkg?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-09T07:49:45.000Z",
+      "summary": "北京市推动人工智能全栈自主，布局国产算力新架构。",
+      "summaryZh": ""
+    },
+    {
+      "title": "从AI智能体到太空算力：前沿技术开启产业转化窗口",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43a0FReGRwT0pCUTFTa21SYUY2OWRqTklEM09ZSFEyUnZkTm5wc3YzVXkwNnlxSTJYbHZDRGN6Wm0xWGhnT1VxM29CNi1zQVBPVzdkVQ?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-09T05:01:07.000Z",
+      "summary": "前沿技术推动AI大模型产业化，智能体成关键落地环节。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI称正与三星合作开发下一代芯片 并深化合作",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NR3BFRURLQ0VzZWZuMXZqY01JWjB3RGtPZGU1S2toOUQtNU4ycUVZLWdXTG03UzVITnpaRmoyNkQtN3N6UlR4LQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-09T06:03:35.000Z",
+      "summary": "OpenAI与三星合作研发下一代芯片并深化合作。",
       "summaryZh": ""
     },
     {
@@ -101,22 +113,33 @@
       "summaryZh": ""
     },
     {
-      "title": "万德昌副总经理邹海华：康养机器人落地首先要补上数字化短板",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wMGxpQmZGcEgzLXhNdDF6OTA5a1hVV3FnY2FCUTlZa2gyQ0otcGxsb0FmVThEQlZEZzc3dlV4dDJWakpHc3YxRmZGZDYyR1ZHaEl5bXc0amozVzc5RzZxWWtB?oc=5",
-      "source": "中国经营网",
+      "title": "雷军投的苏州磁驱公司，押注机器人关节，再融两亿元",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5JeTZRZnBKcnVaMFZKUFlLN2pxamVPZmlqanMtd0hRampsajlJR21jenJDQ0o3VHMtVS1BT0VMMkFrMGxPMFE?oc=5",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-08T22:46:00.000Z",
-      "summary": ""
+      "pubDate": "2026-09-09T08:13:23.000Z",
+      "summary": "苏州磁驱公司纵苇科技再融两亿元，押注机器人关节研发与产能扩张。",
+      "summaryZh": ""
     },
     {
-      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-      "link": "https://www.qbitai.com/2026/09/485854.html",
-      "source": "量子位",
+      "title": "让机器人先预演、后行动，松延动力发布世界模型",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9zMU1NQktqWmREOVM1Qzh6eGpqcXhlNWlsZmV0dE9aZ0FjN1dYc25idWNWcFdJUnJHNDFJV284QjhRT2k1YVE?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-09T04:35:05.000Z",
+      "summary": "松延动力发布世界模型，让机器人预演后行动。",
+      "summaryZh": ""
+    },
+    {
+      "title": "微纳核芯完成 10 亿元 C1 轮融资，加速突破 AI 大模型推理“芯”瓶颈",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91Tld2N1MzVXNGWEtIQlJLN3d2SktJX2hQNWp2QTktd25QTWt3ZnYxTUNIN0NjQ2tyZkhVbUxSdWZ2R052UjJYdjRWYXJvYXZ1?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-08T06:05:30.000Z",
-      "summary": "GPT-6 Astra因3D功能火爆，触发全局重置。",
+      "pubDate": "2026-09-09T01:03:39.000Z",
+      "summary": "微纳核芯完成10亿C1轮融资，加速AI大模型推理芯片量产商业化。",
       "summaryZh": ""
     },
     {
@@ -126,8 +149,80 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-08T20:39:51.000Z",
-      "summary": "前波士顿动力员工创立Dynamic Creatures，致力于用机器人实现角色动画。",
+      "summary": "前波士顿动力员工创立Dynamic Creatures，致力于用机器人实现娱乐角色。",
+      "summaryZh": "",
+      "titleZh": "波士顿动力退伍军人推出 Dynamic Creatures，利用机器人技术让角色栩栩如生"
+    },
+    {
+      "title": "15亿！优必选“下矿”：先圈场景，再造机器人",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HOFJWcmdaSFNjYjA3aWoxYUNHNjN4clRScXpyNlNQdVpZX3R0dzg5LW43X2c4a19PSGFkV2hhYVk2ZUgwNmQ2UWFhc1c4ZzR5ejFyYTZLVQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-08T08:45:18.000Z",
+      "summary": "优必选投资15亿在山西建矿山特种机器人智能智造项目。",
       "summaryZh": ""
+    },
+    {
+      "title": "小鹏人形机器人产线启用，计划年底进入规模量产",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11X1RCaHJfdzQ5RjZZNnVKVzdWdHlwYlQ4amlFSXdpSGZiLXlCaFFYTl9XRjFNdklPTjdmaHlPTEo3VDlJaTFuT1FVMklsSElja2huMVFn?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-08T09:27:00.000Z",
+      "summary": "小鹏人形机器人产线启用，年底将进入规模量产。",
+      "summaryZh": ""
+    },
+    {
+      "title": "全球AI投融资动态,AI创投日报,AI原生软件、具身智能,微纳核芯,帕西尼,费莫一科技(PHYMI),无问智科,厘清智能,纵苇科技,风峦科技,词元派森,影目科技,斯年智驾,AI数据实验室Humanlaya,Cognition,Antioch,Articuler.ai,Tokoshie",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lRjVILUh3aGRudzhEaTU1eDF2NEw3OTR2S1RVQzNoUEVPTjYwREN3dXhqQUdWSENTYTgtU05ud2l6M0tONXNSNDdJUGk1LTVaODA3RWFrb045MTI3NVFLWEtEc3JWZFRXdEFDOE9PZw?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-08T16:06:15.000Z",
+      "summary": "AI领域投融资活跃，具身智能、芯片等硬科技赛道受资本青睐。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Livo 上线开启内测：从动画到仿生世界，探索 AI 时代的内容新形态",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KODVrR0FIak5majlzTnNhek4wdmxiaHp6OXNfX1NqRm9yVWMyc1BNRU4weC1MaDhMeGoxbG9xdmhyeE1oRVpUcFBmOA?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-08T09:32:54.000Z",
+      "summary": "快看漫画旗下AI产品Livo开启内测，探索AI时代内容新形态。",
+      "summaryZh": ""
+    },
+    {
+      "title": "启元机器人 IFA 2026 首秀狂揽 17 项大奖 加速个人机器人全球化布局",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16UUxxaG5VOWxSRlNhR19NNzZ4Rk1zVk5xLUc2YzlCSVRRTW1xYjZGTTR0a3NsT3NrNkdYTHZkcFNJR0NHYUJNSmhsTQ?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-08T09:32:57.000Z",
+      "summary": "启元机器人于IFA 2026展会上首秀，荣获17项大奖，加速全球市场布局。",
+      "summaryZh": ""
+    },
+    {
+      "title": "京东推出“物理AI加速计划”，物流具身智能迎来催化",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53OU8yM2dnbXRReHhZTzY0bGRham45cVBkVkZWODlrQXp6Q3hYSVFlYmdQcEhjcEVwMmpyaURDX0VQblByQmpGYjBKbnRaaHFicUQwRnYwaWdYMF9mWlFOU3pvb3BBZw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-09T03:42:00.000Z",
+      "summary": "京东启动“物理AI加速计划”，布局物流机器人产业基地，推进物流全流程无人化。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2026 35 Innovators Under 35: Computing and Robotics",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0tJZ3Z2ckhlWVk1M293RmJFR00yaldQUlU0MXZGbXByV1VfM0hnRm1XNXl4b3VHUFRXVFdoMXNvLTNDSlZnbkxfTjB3eWpsaTJvLXpXZF84U1VuLWdzSnFsTHFUMHV6bGNqbDRtSm9NcXRXZzNxeXVjZ2dBY0VaZUg5UFNsYWlC?oc=5",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-08T10:42:52.000Z",
+      "summary": "纽约大学助理教授Bellini利用技术手段研究伴侣间财务滥用问题。",
+      "summaryZh": "",
+      "titleZh": "2026 年 35 名 35 岁以下创新者：计算和机器人技术"
     },
     {
       "title": "一文读懂移动机器人自主充电的电流检测方案",
@@ -136,27 +231,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-09T00:50:46.000Z",
-      "summary": "移动机器人自主充电采用SC4671芯片实现电流检测与保护。",
+      "summary": "移动机器人自主充电采用SC4671芯片实现电流检测，确保充电安全与效率。",
       "summaryZh": ""
     },
     {
-      "title": "XC·sports登录首页：端侧AI平台化突围，从运动终端到智能汽车与机器人生态",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYdEVfVUVMRzk3by1acTVmVmlYcXNiU3VHTFJVRmR0V0dyNlYwTjV4b2JCN1lIczF1bFJmV013alhuQmhUNFBzQ2FSMnA3YmRZclBlYjh2LXJBdw?oc=5",
-      "source": "经济观察网",
+      "title": "“AI意识机器人第一股”全球商用AI机器人龙头 优地机器人今日港股IPO上市首日开盘大涨142%",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONmpjRUNyM2dyX21KYlowSTBaMGUzT2ZSUFdzN2VfX3M5dFpydFFYMEl3Y0JaVEJJZlY3R0JSN192VWlCcU81TDhtZjdMNmhkamUxQ3czVGs4ZUtyY0dBV3NSTkhiOUZ5cS11QjhqRzc3YXp6YThxTHhjei0zdzlWMFRGNV9DZmVIcDFQdg?oc=5",
+      "source": "21财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-08T21:08:30.000Z",
-      "summary": "端侧AI平台XC·sports整合运动终端、智能汽车与机器人生态，实现数据协同与算法迭代。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Whole-body expansion and contraction make a robot seem more alive",
-      "link": "https://techxplore.com/news/2026-09-body-expansion-robot-alive.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-08T19:00:12.000Z",
-      "summary": "机器人通过全身伸缩动作显得更加生动。",
+      "pubDate": "2026-09-09T02:12:00.000Z",
+      "summary": "优地机器人今日港股IPO上市首日开盘大涨142%，总市值约145亿港元。",
       "summaryZh": ""
     }
   ]
