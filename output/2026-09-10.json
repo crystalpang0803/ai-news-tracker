@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "generatedAt": "2026-09-09T19:15:01.424Z",
+  "generatedAt": "2026-09-09T20:52:49.396Z",
   "items": [
     {
       "title": "OpenAI 最强 AI 生图模型：ChatGPT Images 2.5 登场，延迟降低 50%、新增 Sketch 草图",
@@ -20,7 +20,8 @@
       "category": "ai",
       "pubDate": "2026-09-09T11:00:00.000Z",
       "summary": "Databricks训练的AI代理在回答质量上与Claude和GPT-5.6 Luna相当，但速度是其一半。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "经过 Databricks 训练的 AI 代理可在一半时间内与 Claude 和 GPT-5.6 Luna 的答案质量相匹配"
     },
     {
       "title": "A股人形机器人中报：估值打到哪一年了？",
@@ -39,7 +40,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-09T10:48:47.000Z",
-      "summary": "具身智能工业落地竞争转向产业定位与核心能力构建。",
+      "summary": "具身智能行业聚焦工业落地，竞争转向产业定位与核心能力。",
       "summaryZh": ""
     },
     {
@@ -59,17 +60,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-09T13:49:57.000Z",
-      "summary": "科技巨头转向AI办公赛道，砸千亿算力布局数字员工。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
-      "title": "卖不动的钻石，靠给AI芯片“退烧”杀回来了",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSbW5EU016RmwyX0ZMVmw5dkxDV3p5cEtJYjk5a0JIU0U0bS1pQW1zT2lHN01kVExaRUdIZjliQnRHNjRPemVQMzN2SVpJUQ?oc=5",
-      "source": "36氪",
+      "title": "京东外卖、京东到家正式上架鸿蒙端，AI 新功能+专属福利同步上线",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKWjBkN2hkTUFzazcyV21OQ2FQUHlVcEE2aGRWa0RtN3l3S3h2R3NSaTk5MTNveUQySENqRi0zWFZPMER3SE5MdzE1SQ?oc=5",
+      "source": "极客公园",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-08T20:26:00.000Z",
-      "summary": ""
+      "category": "application",
+      "pubDate": "2026-09-09T09:30:20.000Z",
+      "summary": "京东外卖、京东到家上架鸿蒙端，推出AI新功能和专属福利。",
+      "summaryZh": ""
     },
     {
       "title": "物理AI时代，算力范式正在转移",
@@ -78,7 +79,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-09T09:04:18.000Z",
-      "summary": "物理AI时代，数据流架构成为推理时代战略选择，算力范式转移。",
+      "summary": "物理AI时代，数据流架构成为推理时代战略选择，算力范式转移显著。",
+      "summaryZh": ""
+    },
+    {
+      "title": "有道写作测评：有道写作AI大模型使用体验与测评 | 36氪AI测评 - m-ai.36kr.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMN1p2Q21UaXJ3Tm5xMkNUNW1HR01sUkdpUTZqQlVfSzVrMVI0WEVJX0RGWXVGVGxrcDZCTklZUFdiZ09kWU5HS1l3eDRDMEtMbzh1Q2NabF9peFVRbXBv?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-09T18:00:44.000Z",
+      "summary": "有道写作AI大模型可纠错润色英文，助提升写作能力。",
       "summaryZh": ""
     },
     {
@@ -92,23 +103,13 @@
       "summaryZh": ""
     },
     {
-      "title": "Claude Max 订阅条款出现“文字游戏”，用户将 Anthropic 告上法庭",
-      "link": "https://www.ithome.com/1/000/486.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-09T15:29:40.000Z",
-      "summary": "用户指控 Anthropic 在 Claude Max 订阅条款中存在误导性宣传，将其告上法庭。",
-      "summaryZh": ""
-    },
-    {
       "title": "商务部新闻发言人就美发布中国人工智能企业对美蒸馏活动相关网络安全公告答记者问",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zRWJjTjhVOFNtTEFNN1BnUVVuakpOaUFnVkc5dDRnS0hIQmJxVkZtYy0xcWdiYWNYM1djSkdrRnhjYWp3VzlwaXIyd2cxT0hUb1ZGbTFDcEY?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-09T13:43:43.000Z",
-      "summary": "商务部新闻发言人回应美指控中国人工智能企业对美蒸馏活动，称美方指控无据，反对其科技霸权行为。",
+      "summary": "商务部发言人回应美指控中国AI企业“工业规模”蒸馏，称其无据且政治化。",
       "summaryZh": ""
     },
     {
@@ -138,7 +139,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-09T13:05:00.000Z",
-      "summary": "DeepSeek发布V4.1 Flash模型并筹备科创板IPO。",
+      "summary": "DeepSeek发布V4.1 Flash模型，同时筹备科创板IPO。",
       "summaryZh": ""
     },
     {
@@ -150,6 +151,27 @@
       "pubDate": "2026-09-08T22:00:40.000Z",
       "summary": "美股三大指数下跌，算力租赁与光通信逆市上涨。",
       "summaryZh": ""
+    },
+    {
+      "title": "曹操出行牵手豆包！AI打车落地，产业链迎来重估",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UajJGLXhfZFlBZzB5QXhQRnp2TmFUejNMRHMwTGRBWV9DaVdCOXFVX3loT21PWFBGd2s3LWlTeEJlQXhtNmhuMGxQejVPc2pyVGlaYlFXR2pnTE1VeU8tQTNMdk1IZw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-09T06:23:00.000Z",
+      "summary": "曹操出行与豆包合作推出AI打车服务，产业链价值重估。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Unitree shares down 53% from IPO debut",
+      "link": "https://www.therobotreport.com/unitree-shares-down-53-from-ipo-debut/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-09T19:34:57.000Z",
+      "summary": "Unitree机器人股票自IPO首日下跌53%，市值蒸发约55亿美元。",
+      "summaryZh": "",
+      "titleZh": "Unitree 股价自首次公开募股以来下跌 53%"
     },
     {
       "title": "30个关节占60%成本，LG电子发力人形机器人关节",
@@ -197,27 +219,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-09T13:00:31.000Z",
-      "summary": "General Robotics GRID平台实现机器人开发与部署全生命周期自动工程。",
-      "summaryZh": ""
-    },
-    {
-      "title": "做机器人只懂EtherCAT？CAN FD才是隐藏黑马",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTZTd6am93TDY1QmFac1NPdEdJTGV6TnQ0NVdxOHVkVWtYa3VkZnhWOE9ya21lbEwxdUlqdm0xc2RMNGt3VGFTYnFrMC1QV2dyR3BocEN2VQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-09T05:25:02.000Z",
-      "summary": ""
-    },
-    {
-      "title": "聚焦AI、机器人等前沿赛道！广州天河广棠科创中心破土动工",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORVRkN2lFTmZWWk4xY1BoMEgtZFhjTGNVUnktVjJNM01HMWdmc2VWcG5LVDJITmppTlZKRGlHSmZ5V1R0eTBBR3ZqbmpLUzFQMWoyUWNKbkx6emMxRVBWUGh0ZHY2dDkyUzBLZ0kwN2RBQjcwU3gxZXBwTUM5WlJIY3dsdHF0amwyb194cw?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-09T08:39:00.000Z",
-      "summary": "广州天河广棠科创中心破土动工，聚焦AI等前沿赛道。",
-      "summaryZh": ""
+      "summary": "General Robotics GRID平台实现机器人开发与部署全生命周期自动化。",
+      "summaryZh": "",
+      "titleZh": "通用机器人 GRID 成为第一个自动设计整个开发和部署生命周期的机器人智能平台"
     },
     {
       "title": "美团第七次参展服贸会：当外卖用上AI，如何改变即时消费场景？",
