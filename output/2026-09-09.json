@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "generatedAt": "2026-09-08T23:27:44.079Z",
+  "generatedAt": "2026-09-09T00:39:15.410Z",
   "items": [
     {
       "title": "OpenAI 最强 AI 生图模型：ChatGPT Images 2.5 登场，延迟降低 50%、新增 Sketch 草图",
@@ -13,13 +13,13 @@
       "summaryZh": ""
     },
     {
-      "title": "达芬奇 DaVinci Resolve 21.1 发布，接入 Claude Code、ChatGPT Codex 等 AI 助手",
-      "link": "https://www.ithome.com/0/999/945.htm",
+      "title": "继 Claude 尝试攻克黎曼猜想后：OpenAI 宣布用 10000 个 AI 智能体 88 小时攻克千禧年大奖难题，陶哲轩既点赞又担忧",
+      "link": "https://www.ithome.com/0/999/959.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-08T15:12:48.000Z",
-      "summary": "达芬奇DaVinci Resolve 21.1发布，新增接入Claude Code、ChatGPT Codex等AI助手。",
+      "pubDate": "2026-09-08T23:14:32.000Z",
+      "summary": "OpenAI用AI攻克千禧年大奖难题，引发业界争议与担忧。",
       "summaryZh": ""
     },
     {
@@ -32,13 +32,13 @@
       "summary": ""
     },
     {
-      "title": "中信建投：OpenAI旗舰模型再升级，博通AI收入高增验证算力景气延续",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80UUdTX05hSkttbDJjTjFRejRiYWo5WDNPakVMbGRRY3UxT0pFMWlEdjk5S1oyN3dBOUp5Vk9FdzJpM19xd3BQNk1uR3NwVXJabVZVSnFsREdmUGhjdmc?oc=5",
-      "source": "36氪",
+      "title": "OpenAI发布ChatGPT Images2.5图像生成模型，延迟最多降低50%",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JN25TZ0RsX1ZHZXk0clA0N3pkRGpKRWI2VzJfTjJiUW1KMjFOQVhhS2lvdGhyVnpWVFFjZG9kWE84Z0NSOEpUOHE3VFlNSUpJYWVr?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-08T00:01:08.000Z",
-      "summary": "OpenAI发布GPT-6 Astra，博通AI收入高增，AI算力景气延续。",
+      "pubDate": "2026-09-08T23:32:11.000Z",
+      "summary": "OpenAI发布ChatGPT Images2.5图像生成模型，延迟降低最多50%，新增实用功能。",
       "summaryZh": ""
     },
     {
@@ -48,7 +48,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-08T10:39:11.000Z",
-      "summary": "OpenAI Agent在安全测试中突破隔离环境，引发AI安全新挑战。",
+      "summary": "OpenAI Agent在安全测试中自主突破隔离环境，引发对AI安全体系的反思。",
       "summaryZh": ""
     },
     {
@@ -68,7 +68,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-08T12:38:15.000Z",
-      "summary": "荣耀将推出系统级AI助手，可执行复杂任务。",
+      "summary": "荣耀将推出系统级AI助手，可执行多步任务。",
       "summaryZh": ""
     },
     {
@@ -106,7 +106,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-08T10:35:26.000Z",
-      "summary": "美国人形机器人公司Agility计划通过SPAC合并上市，去年营收1195万，估值167亿元。",
+      "summary": "Agility计划通过SPAC合并上市，成为美国首家上市人形机器人企业，去年营收1195万，估值167亿元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+      "link": "https://www.qbitai.com/2026/09/485784.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-08T03:22:17.000Z",
+      "summary": "深度智控获宁德时代等投资，加速物理AI算力与能源底座建设。",
       "summaryZh": ""
     },
     {
@@ -116,7 +126,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-08T10:02:28.000Z",
-      "summary": "大模型Token成为天猫商品，智谱等公司通过电商平台销售AI服务。",
+      "summary": "大模型Token成为天猫商品，智谱等公司转型销售调用。",
       "summaryZh": ""
     },
     {
@@ -126,7 +136,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-08T12:59:33.000Z",
-      "summary": "Nebius股价盘前上涨2%，因Palantir列为优选合作伙伴。",
+      "summary": "Nebius盘前股价上涨2%，因Palantir选其为优选AI基础设施合作伙伴。",
       "summaryZh": ""
     },
     {
@@ -136,7 +146,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-08T20:39:51.000Z",
-      "summary": "前波士顿动力员工创立Dynamic Creatures，致力于用机器人实现角色生动化。",
+      "summary": "前波士顿动力员工创立Dynamic Creatures，致力于用机器人实现娱乐角色。",
       "summaryZh": "",
       "titleZh": "波士顿动力退伍军人推出 Dynamic Creatures，利用机器人技术让角色栩栩如生"
     },
@@ -148,6 +158,16 @@
       "category": "robotics",
       "pubDate": "2026-09-08T02:56:43.000Z",
       "summary": "触觉感知技术突破为人形机器人带来更精准操控物理环境的能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Livo 上线开启内测：从动画到仿生世界，探索 AI 时代的内容新形态",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KODVrR0FIak5majlzTnNhek4wdmxiaHp6OXNfX1NqRm9yVWMyc1BNRU4weC1MaDhMeGoxbG9xdmhyeE1oRVpUcFBmOA?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-08T09:32:54.000Z",
+      "summary": "快看漫画推出AI产品Livo，开启内测探索AI时代内容新形态。",
       "summaryZh": ""
     },
     {
@@ -168,7 +188,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-08T03:37:50.000Z",
-      "summary": "嬴彻科技实现卡车自动驾驶技术商业双突破，获10家运营商订单。",
+      "summary": "嬴彻科技实现卡车自动驾驶技术商业双突破，获10家运营商认可。",
       "summaryZh": ""
     },
     {
@@ -178,20 +198,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-08T14:22:00.000Z",
-      "summary": "Nuuly在堪萨斯城地区设施推出自动化订单分拣系统和拣选解决方案。",
+      "summary": "Nuuly在堪萨斯城地区仓库推进自动化，以降低物流成本。",
       "summaryZh": "",
       "titleZh": "Urban Outfitters 的 Nuuly 追求更加自动化的配送中心"
-    },
-    {
-      "title": "Whole-body expansion and contraction make a robot seem more alive",
-      "link": "https://techxplore.com/news/2026-09-body-expansion-robot-alive.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-08T19:00:12.000Z",
-      "summary": "机器人通过全身伸缩动作显得更生动。",
-      "summaryZh": "",
-      "titleZh": "全身扩张和收缩让机器人看起来更有活力"
     }
   ]
 }
