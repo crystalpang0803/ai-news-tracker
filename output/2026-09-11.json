@@ -1,6 +1,6 @@
 {
   "date": "2026-09-11",
-  "generatedAt": "2026-09-10T19:06:35.511Z",
+  "generatedAt": "2026-09-10T20:48:13.777Z",
   "items": [
     {
       "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-10T07:25:39.000Z",
-      "summary": "OpenAI发布ChatGPT Images 2.5，生图速度提升，细节更真实。",
+      "summary": "OpenAI发布ChatGPT Images 2.5，生图速度提升，细节更逼真。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-09T21:41:00.000Z",
-      "summary": "AI厂商启动地推抢夺C端用户，大模型C端落地战激烈展开。",
+      "summary": "AI厂商启动地推抢夺C端用户，大模型C端落地争夺战激烈展开。",
       "summaryZh": ""
     },
     {
@@ -69,7 +69,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-10T13:49:10.000Z",
-      "summary": "思特威发布首款集成SerDes与片上ISP的车载CMOS图像传感器SC365AT。",
+      "summary": "思特威发布业界首款集成 SerDes 与片上 ISP 的车载 CMOS 图像传感器 SC365AT。",
       "summaryZh": ""
     },
     {
@@ -109,7 +109,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-09T23:24:30.000Z",
-      "summary": "北京发布发展规划，DeepSeek备战科创板IPO，燧原科技9月11日上市。",
+      "summary": "北京发布人工智能等产业发展规划，DeepSeek备战科创板IPO，燧原科技9月11日上市。",
       "summaryZh": ""
     },
     {
@@ -140,27 +140,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-10T11:45:00.000Z",
-      "summary": "服贸会AI技术应用案例占比近四成，覆盖多领域场景落地。",
+      "summary": "服贸会AI技术应用广泛，大模型与智能体加速落地多场景。",
       "summaryZh": ""
-    },
-    {
-      "title": "上海机器人独角兽开源世界模型，能“看懂”三维物理世界了",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBsUXk1UWpabmFIVDdBdEpBYUFOY2s5em9ueXRoaGd1dEh0aFpIR3NoV1FvVkVJaXdVeWZnbDh1Z2pHQ3J6ZlE?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-10T14:22:47.000Z",
-      "summary": "上海机器人独角兽开源Puffin-World模型，实现三维物理世界感知与交互。",
-      "summaryZh": ""
-    },
-    {
-      "title": "人形机器人运动控制，如何随“芯”而动？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oVVpsSTV3Qnk5aEVLZF9ZUU9xR3pWOUFjeDNoY1BHbVVudDdhTUlwU1hKTmpROG9EVUtSajJtRUdXZW0yS1dZSndndXAzOTVPZ2dSZHAwcw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-10T05:35:40.000Z",
-      "summary": ""
     },
     {
       "title": "港股大模型股持续走低，智谱跌超10%",
@@ -169,7 +150,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-10T06:36:24.000Z",
-      "summary": "智谱等港股大模型股持续下跌，智谱跌超10%。",
+      "summary": "智谱等港股大模型股下跌，智谱跌超10%。",
       "summaryZh": ""
     },
     {
@@ -184,22 +165,24 @@
     },
     {
       "title": "如何促进政务AI规模化落地？WPS 365给出 \"安全底座\" 解法",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxeHBuRnNBbDlDVTNDWUNWMlBnakFNVFUxZEZjd0UwVkhOcnRHVk1CcHFuMWxKY0tSemRvcEV3RXlZR1BRNGFlWE5feF9Hd1RWSkRKY2JVY1Bja0ZVXzlB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fOFZ3YkM2a0NWSjlNMWU0dEJlcVJRN0VpTkZRN3JDTUJrVHV3ZjZQWExXOTVkamZMNzRQWFpPYmNsNXpZdGg4bXlqd29oR3lzMHJhV21NdUhBT2Z6ZkZ6RzZoNlo0djhPX1RtWUZpTnNFWjBYQUNF?oc=5",
       "source": "中国经济网",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-10T08:37:00.000Z",
-      "summary": "WPS 365政务版提供“安全底座”方案，助力政务AI规模化落地。",
+      "summary": "WPS 365政务版以“安全底座”为核心，推动政务AI规模化落地。",
       "summaryZh": ""
     },
     {
-      "title": "人形机器人的“感官”：视力触觉、IMU的终局在哪里？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kY3dPejdhQkgwUnRzWmRlWEw2VTdFNEFHcC1WbnRCSG5EWWQybVI4bFFhU3hqVXZWQ05SbkdtWmFqS1d2ZC14Mm5xRGdSaURHaWxZN1FSSQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
+      "title": "Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M",
+      "link": "https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m/",
+      "source": "The Robot Report",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-09-10T09:13:50.000Z",
-      "summary": ""
+      "pubDate": "2026-09-10T20:10:22.000Z",
+      "summary": "Swarmer拟以最高2.24亿美元收购乌克兰无人地面车辆制造商Ratel Robotics。",
+      "summaryZh": "",
+      "titleZh": "Swarmer 将以高达 2.24 亿美元收购乌克兰 UGV 制造商 Ratel Robotics"
     },
     {
       "title": "AI终端入口正被重新定义：广东精密制造卡位人形机器人",
@@ -208,7 +191,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-10T05:10:00.000Z",
-      "summary": "广东领益智造通过精密制造技术卡位人形机器人领域，营收与毛利额创新高。",
+      "summary": "广东领益智造通过精密制造技术卡位人形机器人市场，营收与毛利额创新高。",
       "summaryZh": ""
     },
     {
@@ -221,17 +204,6 @@
       "summary": "北京商报讯(记者关子辰牛清妍)9月10日，在2026年中国国际服务贸易交易会期间，2026电子商务大会消费电商分论坛举办。"
     },
     {
-      "title": "The robotics revolution won’t be humanoid",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yZnhyNEtwNzBLY0lRaldDOGU4Z1VPMndvcGE2elFybldCNDIxOFR6VUN2VjhMN1pvVTRsanBheGtpbVJFX1FvMTl2Y3J2eUdiOGVDWTIyblpNVVQ4bVM3MFBvQzdxdVpCOVZVZVVaVkFSM1NQcE11S3BB?oc=5",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-10T17:31:32.000Z",
-      "summary": "机器人革命将非人形化。",
-      "summaryZh": "",
-      "titleZh": "机器人革命不会是人形机器人"
-    },
-    {
       "title": "Best Robot Lawn Mowers (2026): 12+ Models Tested Over 3 Years",
       "link": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
       "source": "Wired",
@@ -241,6 +213,15 @@
       "summary": "2026年测试了12款以上机器人割草机，性能显著提升。",
       "summaryZh": "",
       "titleZh": "最佳机器人割草机（2026 年）：超过 3 年测试的 12 种以上型号"
+    },
+    {
+      "title": "国产化率超80%！小鹏机器人背后的“供应商军团”",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Wa1d4LUgtbW9lYllGbGJUSlRhS2NqNmlMVUhlUnAwbXhDTGJQM0lGU0hYMDB2d1hwbndOMjlRU0hfVTdjZE5qZmtXR0ZKbHZhanVzMHZJaw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-10T11:18:48.000Z",
+      "summary": ""
     },
     {
       "title": "AI司机订阅迎来爆发，驭势科技打开L4自动驾驶新空间",
@@ -259,18 +240,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-10T15:12:00.000Z",
-      "summary": "服贸会教育服务专题展亮相，机器人、AI实验室展示未来校园教育趋势。",
-      "summaryZh": ""
-    },
-    {
-      "title": "精准筛查、AI诊疗、手术机器人……服贸会医疗创新上新“硬科技”",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sXzFialluM1RGY3BxNTNfVXNoZEI1R01tMi02Q2NmaDMyT3VSRlZEcDNUZlV5aXduNGh4TnlTSkZsQl9wazlfdUJDWEdXS1BaaEozZ0hYd2ViWE02UG85OFRXMF8?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-10T15:21:00.000Z",
-      "summary": "服贸会展示医疗创新成果，跨国药企及医疗器械企业携创新产品亮相。",
-      "summaryZh": ""
+      "summary": ""
     }
   ]
 }
