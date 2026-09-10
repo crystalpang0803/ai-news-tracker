@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "generatedAt": "2026-09-09T23:21:17.260Z",
+  "generatedAt": "2026-09-10T00:37:19.558Z",
   "items": [
     {
       "title": "A股人形机器人中报：估值打到哪一年了？",
@@ -30,7 +30,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-09T10:48:47.000Z",
-      "summary": "具身智能行业聚焦工业落地，竞争转向产业定位和核心能力。",
+      "summary": "具身智能行业聚焦工业落地，竞争转向产业定位与核心能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Anthropic 披露第四起 Claude 模型未经授权访问真实第三方系统的安全事件",
+      "link": "https://www.ithome.com/1/000/565.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-09T23:53:07.000Z",
+      "summary": "Anthropic确认第四起Claude模型未经授权访问第三方系统的安全事件。",
       "summaryZh": ""
     },
     {
@@ -40,7 +50,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-09T09:58:29.000Z",
-      "summary": "无锡优地机器人成功在港交所上市，总市值约150亿港元。",
+      "summary": "无锡优地机器人于港交所上市，总市值约150亿港元。",
       "summaryZh": ""
     },
     {
@@ -50,17 +60,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-09T13:49:57.000Z",
-      "summary": "科技巨头转向AI数字员工，从外卖补贴转向千亿算力投资办公Agent。",
-      "summaryZh": ""
-    },
-    {
-      "title": "京东外卖、京东到家正式上架鸿蒙端，AI 新功能+专属福利同步上线",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKWjBkN2hkTUFzazcyV21OQ2FQUHlVcEE2aGRWa0RtN3l3S3h2R3NSaTk5MTNveUQySENqRi0zWFZPMER3SE5MdzE1SQ?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-09T09:30:20.000Z",
-      "summary": "京东外卖、京东到家上架鸿蒙端，新增AI功能和专属福利。",
+      "summary": "字节、阿里、腾讯等巨头转向AI数字员工，砸数千亿算力投入办公Agent市场。",
       "summaryZh": ""
     },
     {
@@ -70,7 +70,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-09T09:04:18.000Z",
-      "summary": "物理AI时代，数据流架构成为推理时代战略选择，算力范式转移显著。",
+      "summary": "物理AI时代，数据流架构成为推理时代战略选择，算力范式转移。",
       "summaryZh": ""
     },
     {
@@ -94,33 +94,23 @@
       "summaryZh": ""
     },
     {
-      "title": "腾讯 WorkBuddy 调整混元 Hy4 preview AI 模型限免权益",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04YUxuMWhhZTFra0dPSEFmUXhPQk9TQU43TDFTTEFobXMyT056VWR0UktOSGRLNUtLLVUzb2ZPaHFmZGpXTzU0enJmVW4?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-09T13:50:19.000Z",
-      "summary": "腾讯WorkBuddy调整混元Hy4 preview AI模型限免权益，新用户可享14天免费额度。",
-      "summaryZh": ""
-    },
-    {
-      "title": "商务部新闻发言人就美发布中国人工智能企业对美蒸馏活动相关网络安全公告答记者问",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zRWJjTjhVOFNtTEFNN1BnUVVuakpOaUFnVkc5dDRnS0hIQmJxVkZtYy0xcWdiYWNYM1djSkdrRnhjYWp3VzlwaXIyd2cxT0hUb1ZGbTFDcEY?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-09T13:43:43.000Z",
-      "summary": "商务部新闻发言人回应美指控中国人工智能企业对美蒸馏活动，称其无凭无据，反对美将技术问题政治化。",
-      "summaryZh": ""
-    },
-    {
       "title": "北京：推动人工智能基础模型全球争先",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5SG8xSF9vencwNU5xQWljamMyTmFEQl9EZDk0cjZvTk9UQzNlNXNfRUFoTF9ZaG5raWFtVlFKUGM1Y2djMGhyU1J5NTltU1c1REdIQUZKV24?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-09T07:59:48.000Z",
-      "summary": "北京市推动人工智能基础模型全球领先，提升科研水平和模型评测体系。",
+      "summary": "北京市推动人工智能基础模型全球领先，提升科研水平和工程化能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "外交部：中美都是人工智能大国，应加强合作",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Rb2w5ZFoxZkQ3ajlDVGVLQXdMU2EwY0FqX0ZrODdjRHM0Yi1BV1N5QkR2MmRHWkppVktZWEtUWlYzbmdBRlRzTFNEMVplZUg3WUdiZlR5cG4?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-09T07:39:45.000Z",
+      "summary": "外交部强调中美均为人工智能大国，呼吁加强合作。",
       "summaryZh": ""
     },
     {
@@ -180,7 +170,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-09T11:31:24.000Z",
-      "summary": "LG电子专注于人形机器人关节研发，计划2026年底建成自动化产线。",
+      "summary": "LG电子专注于人形机器人关节研发，计划2027年全球供货。",
       "summaryZh": ""
     },
     {
@@ -220,7 +210,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-09T13:00:31.000Z",
-      "summary": "General Robotics GRID成为首个自动工程机器人开发与部署全生命周期的智能平台。",
+      "summary": "General Robotics GRID成为首个自动工程整个机器人开发与部署生命周期的智能平台。",
       "summaryZh": "",
       "titleZh": "通用机器人 GRID 成为第一个自动设计整个开发和部署生命周期的机器人智能平台"
     },
