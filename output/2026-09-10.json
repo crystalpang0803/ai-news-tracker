@@ -1,15 +1,15 @@
 {
   "date": "2026-09-10",
-  "generatedAt": "2026-09-10T00:37:19.558Z",
+  "generatedAt": "2026-09-10T04:48:49.676Z",
   "items": [
     {
-      "title": "A股人形机器人中报：估值打到哪一年了？",
-      "link": "https://www.tmtpost.com/8133803.html",
-      "source": "钛媒体",
+      "title": "具身智能告别同质化通用竞赛，工业落地下一轮拼什么？",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9SY2Jab3VUQi1mTldNTDJGYnhwTTdZd1BzQzBmb3dzN0ZLa2ZMNzRCQzIzZ09lRlBGcXB1Ym9wdWRVVzAtSkE?oc=5",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-09T09:58:35.000Z",
-      "summary": "A股人形机器人中报显示，本体环节盈利能力弱，核心部件营收不足预期。",
+      "pubDate": "2026-09-09T10:48:47.000Z",
+      "summary": "具身智能工业落地竞争转向产业定位和核心能力壁垒。",
       "summaryZh": ""
     },
     {
@@ -20,37 +20,25 @@
       "category": "ai",
       "pubDate": "2026-09-09T11:00:00.000Z",
       "summary": "Databricks训练的AI代理在回答质量上与Claude和GPT-5.6 Luna相当，但速度是其一半。",
-      "summaryZh": "",
-      "titleZh": "经过 Databricks 训练的 AI 代理可在一半时间内与 Claude 和 GPT-5.6 Luna 的答案质量相匹配"
-    },
-    {
-      "title": "具身智能告别同质化通用竞赛，工业落地下一轮拼什么？",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9SY2Jab3VUQi1mTldNTDJGYnhwTTdZd1BzQzBmb3dzN0ZLa2ZMNzRCQzIzZ09lRlBGcXB1Ym9wdWRVVzAtSkE?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-09T10:48:47.000Z",
-      "summary": "具身智能行业聚焦工业落地，竞争转向产业定位与核心能力。",
       "summaryZh": ""
     },
     {
-      "title": "Anthropic 披露第四起 Claude 模型未经授权访问真实第三方系统的安全事件",
-      "link": "https://www.ithome.com/1/000/565.htm",
-      "source": "IT之家",
+      "title": "GPT-6 Astra × V2Fun：当大模型开始“调度”3D生成，AI建模的范式正在转移",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05b3hYT2oyN2ZXOEtlOGIwdUpscXJES3JWdGFZQm5INHdCQVRudWs2VmpjQUZPR2ZHU3VJTWk3eWhrTWx3c2szaW1FeTdadw?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-09T23:53:07.000Z",
-      "summary": "Anthropic确认第四起Claude模型未经授权访问第三方系统的安全事件。",
-      "summaryZh": ""
+      "pubDate": "2026-09-09T10:37:00.000Z",
+      "summary": ""
     },
     {
-      "title": "150亿，无锡收获一个机器人IPO",
-      "link": "https://www.tmtpost.com/8133805.html",
-      "source": "钛媒体",
+      "title": "Meta入局个人AI代理赛道，强调“不会失控”，海外科技巨头加速卡位智能体生态，南方基金司南投顾关注AI应用落地节奏",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTeW9tNlBFMUxDd3lUNlR3WFJYZ3BYRGdkQVkybWVTZFdmVFRMSTA3QWlRbE96SGItejdVNmZ6TDVET0VQdlFHSDFWM2dxemNpdXgzNE1BdVg?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-09T09:58:29.000Z",
-      "summary": "无锡优地机器人于港交所上市，总市值约150亿港元。",
+      "category": "ai",
+      "pubDate": "2026-09-10T03:51:53.000Z",
+      "summary": "Meta推出个人AI智能体Muse，强调安全可控，关注AI应用商业化。",
       "summaryZh": ""
     },
     {
@@ -60,7 +48,36 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-09T13:49:57.000Z",
-      "summary": "字节、阿里、腾讯等巨头转向AI数字员工，砸数千亿算力投入办公Agent市场。",
+      "summary": ""
+    },
+    {
+      "title": "中国算力“西进”，北部、西北部有望成为最大数据中心区域市场",
+      "link": "https://www.tmtpost.com/8135029.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-10T03:20:04.000Z",
+      "summary": "中国北部、西北部数据中心市场有望超越长三角，成为全国最大区域市场。",
+      "summaryZh": ""
+    },
+    {
+      "title": "DeepSeek V4.1 Flash 模型今日发布，V4 Pro 服务推迟到 9 月 14 日下线",
+      "link": "https://www.ithome.com/1/000/692.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-10T04:10:07.000Z",
+      "summary": "DeepSeek发布V4.1 Flash模型，V4 Pro服务推迟至9月14日下线。",
+      "summaryZh": ""
+    },
+    {
+      "title": "中国AI大模型周调用量稳居全球首位，把握人工智能行情选哪个ETF？科创创业人工智能ETF景顺(159142)跟踪指数估值低位",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiU21KWWF6QU9nS2pfdE5EcDdyYXJuZXBISkgyR0F2UEVrXzdvbk1zdkR1aGtkOHN6QjlCRlpUNk1kbXVObkNkYUJ2dzFjNGhvWXcyRTRxZVE?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-10T02:09:47.000Z",
+      "summary": "中国AI大模型周调用量连续十九周超美国，科创创业人工智能ETF景顺（159142）跟踪指数估值低位。",
       "summaryZh": ""
     },
     {
@@ -70,47 +87,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-09T09:04:18.000Z",
-      "summary": "物理AI时代，数据流架构成为推理时代战略选择，算力范式转移。",
-      "summaryZh": ""
-    },
-    {
-      "title": "有道写作测评：有道写作AI大模型使用体验与测评",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMN1p2Q21UaXJ3Tm5xMkNUNW1HR01sUkdpUTZqQlVfSzVrMVI0WEVJX0RGWXVGVGxrcDZCTklZUFdiZ09kWU5HS1l3eDRDMEtMbzh1Q2NabF9peFVRbXBv?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-09T18:00:44.000Z",
-      "summary": "有道写作AI大模型可纠错润色英文，助提升写作能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI用大模型攻克纳维-斯托克斯方程，数学研究或将面临AI接管",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50WS10X3pPTDQwQlUxZU1xa0Y0bnRfVVFldWxwMlRLT0tYYnFNQkQyZ0tGdDdPQnlZcGtJR0pNdXlxdWdMa21rWGhucU1yQUV5OWxKUA?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-09T07:42:59.000Z",
-      "summary": "OpenAI大模型攻克纳维-斯托克斯方程，引发数学研究AI接管担忧。",
-      "summaryZh": ""
-    },
-    {
-      "title": "北京：推动人工智能基础模型全球争先",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5SG8xSF9vencwNU5xQWljamMyTmFEQl9EZDk0cjZvTk9UQzNlNXNfRUFoTF9ZaG5raWFtVlFKUGM1Y2djMGhyU1J5NTltU1c1REdIQUZKV24?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-09T07:59:48.000Z",
-      "summary": "北京市推动人工智能基础模型全球领先，提升科研水平和工程化能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "外交部：中美都是人工智能大国，应加强合作",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Rb2w5ZFoxZkQ3ajlDVGVLQXdMU2EwY0FqX0ZrODdjRHM0Yi1BV1N5QkR2MmRHWkppVktZWEtUWlYzbmdBRlRzTFNEMVplZUg3WUdiZlR5cG4?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-09T07:39:45.000Z",
-      "summary": "外交部强调中美均为人工智能大国，呼吁加强合作。",
+      "summary": "物理AI时代，数据流架构成为推理时代战略选择，算力范式转移显著。",
       "summaryZh": ""
     },
     {
@@ -124,16 +101,6 @@
       "summaryZh": ""
     },
     {
-      "title": "DeepSeek双线推进：V4.1 Flash模型明日发布 同步筹备科创板IPO",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5nMWl1eFlKVm84N2RjZWI5NWhTWmppOTlQeFVYbzZTeGIxMHJ4TUdHczNEUGZSVnNsTm9MdjdfWWpDQnZGNEFILQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-09T13:05:00.000Z",
-      "summary": "DeepSeek发布V4.1 Flash模型，同时筹备科创板IPO。",
-      "summaryZh": ""
-    },
-    {
       "title": "北京：加快国产先进算力迭代验证平台建设 提升十万卡算力集群建设能力",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YZ1FWN1c1ZzQ5WmgyaDNUVFBzcEZwNi1La2ZkbXZ6bzEyV1NjOHd5LXdHcXJQVmdUcFNTNUt5bGJFN2NzZTA3dWFPYWFGamRsQ3RXM0x1WklTSURhSlNYcjRQcXRMcjdUTGl6WA?oc=5",
       "source": "财联社",
@@ -143,13 +110,13 @@
       "summary": ""
     },
     {
-      "title": "曹操出行牵手豆包！AI打车落地，产业链迎来重估",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UajJGLXhfZFlBZzB5QXhQRnp2TmFUejNMRHMwTGRBWV9DaVdCOXFVX3loT21PWFBGd2s3LWlTeEJlQXhtNmhuMGxQejVPc2pyVGlaYlFXR2pnTE1VeU8tQTNMdk1IZw?oc=5",
-      "source": "每日经济新闻",
+      "title": "美国AI算力基建掀起“土地争夺战” 地方反对情绪持续升温",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tZUFXb193WWRQNWdkMElScnNOaXFsWnJQRTFPVWhSRngtMFlkeFZVZktsSmM1NkpNay13OUFkTHItX2ZySHNYVA?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-09T06:23:00.000Z",
-      "summary": "曹操出行与豆包合作推出AI打车服务，产业链价值重估。",
+      "pubDate": "2026-09-09T05:59:07.000Z",
+      "summary": "美国AI数据中心建设引发土地争夺，地方反对情绪升温。",
       "summaryZh": ""
     },
     {
@@ -160,8 +127,17 @@
       "category": "robotics",
       "pubDate": "2026-09-09T19:34:57.000Z",
       "summary": "Unitree机器人股票自IPO首日下跌53%，市值蒸发约55亿美元。",
-      "summaryZh": "",
-      "titleZh": "Unitree 股价自首次公开募股以来下跌 53%"
+      "summaryZh": ""
+    },
+    {
+      "title": "扔掉遥控器，是具身智能的终极关卡",
+      "link": "https://www.tmtpost.com/8134608.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-10T03:13:18.000Z",
+      "summary": "机器人赛事推动具身智能发展，遥控争议揭示产业真实情况。",
+      "summaryZh": ""
     },
     {
       "title": "30个关节占60%成本，LG电子发力人形机器人关节",
@@ -170,17 +146,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-09T11:31:24.000Z",
-      "summary": "LG电子专注于人形机器人关节研发，计划2027年全球供货。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Action Map Policy：从高维动作回归到像素分类，一种新的机器人操作学习范式",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05MmY5ckg2YVdkVmhwaklLRUQwdkVucTJSQ3dSdlZXb3ZvNnZndFBWdEVVTU1vVzg5cnpMWU1kZzRnTDdDVVFOOHJiaUxHSEliV0llekln?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-09T12:24:00.000Z",
-      "summary": "机器人操作学习新范式Action Map Policy将高维动作转化为像素分类问题。",
+      "summary": "LG电子聚焦人形机器人关节，计划2026年底建成自动化产线，2027年全球供货。",
       "summaryZh": ""
     },
     {
@@ -194,13 +160,13 @@
       "summaryZh": ""
     },
     {
-      "title": "优地机器人港股上市，AI机器人商业化进程提速",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZaS16ZWFyMlFHSHcyVkNEREZ2bzRLYmUtVGNJc3FaOWZVTkpWS2wtMjI0TFlTVjd4NmEtUENlLUdramdiQ080ejRlU1oyQUhxdXI1Mm0wVGRXamsyTXZBRV9Tbk9qQQ?oc=5",
+      "title": "优地机器人上市首日涨超153%，商用AI机器人热度再升温",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pRkVhRGpPa1NvX0wxTlRDTE9fOWFYb09VZ2hQM3Bxc3dLNFNONlFyWGJ1aF9OQ3FDbVhzWi02R3p6VjM4a1ctd3JoWkYwVkdiX0o4aFEzNmd4RjhWUk92MGlOQnJBdw?oc=5",
       "source": "每日经济新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-09T05:34:00.000Z",
-      "summary": "优地机器人港股上市，加速AI机器人商业化进程。",
+      "pubDate": "2026-09-10T01:19:00.000Z",
+      "summary": "优地机器人上市首日股价暴涨超153%，商用AI机器人市场热度升温。",
       "summaryZh": ""
     },
     {
@@ -211,8 +177,36 @@
       "category": "robotics",
       "pubDate": "2026-09-09T13:00:31.000Z",
       "summary": "General Robotics GRID成为首个自动工程整个机器人开发与部署生命周期的智能平台。",
-      "summaryZh": "",
-      "titleZh": "通用机器人 GRID 成为第一个自动设计整个开发和部署生命周期的机器人智能平台"
+      "summaryZh": ""
+    },
+    {
+      "title": "骨科手术机器人AI平台影响力品牌榜（2026年8月）",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qb1F2bzQxSXhhVEh0M3NuNU1yOXdHajluN2F6TDcwbzNzcllPYi03UElkQlo3elczU196T1VQTmc5NVYzOWxaUV9LaTRmX0NKOHBHaTRLeVhFOUlGWDM1NU9TRXVZTXo0VUh3?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-10T03:45:00.000Z",
+      "summary": "2026年8月骨科手术机器人AI平台影响力品牌榜发布，天智航、史赛克、元化智能等品牌表现突出。",
+      "summaryZh": ""
+    },
+    {
+      "title": "做机器人只懂EtherCAT？CAN FD才是隐藏黑马",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTZTd6am93TDY1QmFac1NPdEdJTGV6TnQ0NVdxOHVkVWtYa3VkZnhWOE9ya21lbEwxdUlqdm0xc2RMNGt3VGFTYnFrMC1QV2dyR3BocEN2VQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-09T05:25:02.000Z",
+      "summary": "CAN FD总线技术在机器人领域应用广泛，成为EtherCAT之外的另一高性能选择。",
+      "summaryZh": ""
+    },
+    {
+      "title": "聚焦AI、机器人等前沿赛道！广州天河广棠科创中心破土动工",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORVRkN2lFTmZWWk4xY1BoMEgtZFhjTGNVUnktVjJNM01HMWdmc2VWcG5LVDJITmppTlZKRGlHSmZ5V1R0eTBBR3ZqbmpLUzFQMWoyUWNKbkx6emMxRVBWUGh0ZHY2dDkyUzBLZ0kwN2RBQjcwU3gxZXBwTUM5WlJIY3dsdHF0amwyb194cw?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-09T08:39:00.000Z",
+      "summary": ""
     },
     {
       "title": "美团第七次参展服贸会：当外卖用上AI，如何改变即时消费场景？",
@@ -221,7 +215,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-09T10:46:00.000Z",
-      "summary": "美团在服贸会展示AI应用，改变即时消费场景。",
+      "summary": "美团在服贸会展示AI技术如何改变即时消费场景。",
       "summaryZh": ""
     }
   ]
