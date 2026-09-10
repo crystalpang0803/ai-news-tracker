@@ -1,6 +1,6 @@
 {
   "date": "2026-09-11",
-  "generatedAt": "2026-09-10T20:48:13.777Z",
+  "generatedAt": "2026-09-10T21:54:01.512Z",
   "items": [
     {
       "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-10T07:25:39.000Z",
-      "summary": "OpenAI发布ChatGPT Images 2.5，生图速度提升，细节更逼真。",
+      "summary": "OpenAI发布ChatGPT Images 2.5，生图模型生成更快、细节更佳。",
       "summaryZh": ""
     },
     {
@@ -33,23 +33,13 @@
       "summaryZh": ""
     },
     {
-      "title": "千问智谱启动地推抢用户 大模型C端落地争夺战打响",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lRjU2eExnb3luZ0JwcFhJM2lMR0lQTWpxa2xwcXlFb1hBYnpjZFlGRFdfc2JONUlpU1pCUkU2bHVpbFQzbS1EaEpIX3pTd0xCWXhz?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-09T21:41:00.000Z",
-      "summary": "AI厂商启动地推抢夺C端用户，大模型C端落地争夺战激烈展开。",
-      "summaryZh": ""
-    },
-    {
       "title": "Meta入局个人AI代理赛道，强调“不会失控”，海外科技巨头加速卡位智能体生态，南方基金司南投顾关注AI应用落地节奏",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTeW9tNlBFMUxDd3lUNlR3WFJYZ3BYRGdkQVkybWVTZFdmVFRMSTA3QWlRbE96SGItejdVNmZ6TDVET0VQdlFHSDFWM2dxemNpdXgzNE1BdVg?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-10T03:51:53.000Z",
-      "summary": "Meta推出个人AI智能体Muse，强调安全可控，关注AI应用商业化及产业链机会。",
+      "summary": "Meta推出个人AI智能体Muse，强调安全可控，关注AI应用商业化。",
       "summaryZh": ""
     },
     {
@@ -69,7 +59,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-10T13:49:10.000Z",
-      "summary": "思特威发布业界首款集成 SerDes 与片上 ISP 的车载 CMOS 图像传感器 SC365AT。",
+      "summary": "思特威发布首款集成SerDes与片上ISP的车载CMOS图像传感器SC365AT。",
       "summaryZh": ""
     },
     {
@@ -93,13 +83,32 @@
       "summaryZh": ""
     },
     {
+      "title": "蚂蚁集团入股具身智能公司戴盟机器人",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1ZXhlSDZIWlFiUFByUEp5TG51NlNBdEpTNGpEUHZ3UkJ0cWN5T1JyQmxTb0QwTFRlU2o4eVRXbnNOSnVndkJVXzgzZFVKeWpieHZxRVFhMHYyQTRGckdlUHZqc2RDeXlxYkRSOQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-10T02:28:50.000Z",
+      "summary": ""
+    },
+    {
+      "title": "313起融资，小鹏机器人、帕西尼领跑，算力脑机企业接续发力，351.59亿同比翻四倍：2026年8月人工智能领域投融资分析",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pMERXUkhsZmN6VDBwLVFJVzFLRVlmN2NRR19Pcy1KTm1Rd2FoLXBTX01fNlNNRk1zTlYydWNzZ0ZIM2o1UDJpTmFVQk5wRUQt?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-10T11:32:07.000Z",
+      "summary": "2026年8月，人工智能领域投融资事件313起，融资金额351.59亿，同比增长四倍。",
+      "summaryZh": ""
+    },
+    {
       "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
       "link": "https://www.qbitai.com/2026/09/486436.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-10T01:39:13.000Z",
-      "summary": "京东发布JoyAI世界模型，打造10万卡国产算力集群，推动AI走向物理世界。",
+      "summary": "京东发布JoyAI世界模型，打造10万卡国产算力集群，展示物理AI建设成果。",
       "summaryZh": ""
     },
     {
@@ -129,7 +138,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-09-10T19:02:05.000Z",
-      "summary": "OpenAI推出金融版ChatGPT，旨在自动化研究、报告制作，挑战华尔街。",
+      "summary": "OpenAI推出金融版ChatGPT，旨在自动化金融研究及报告制作。",
       "summaryZh": "",
       "titleZh": "OpenAI 推出针对金融服务的 ChatGPT，旨在通过自动化研究和报告来颠覆华尔街"
     },
@@ -140,8 +149,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-10T11:45:00.000Z",
-      "summary": "服贸会AI技术应用广泛，大模型与智能体加速落地多场景。",
+      "summary": "服贸会AI技术应用广泛，大模型与智能体加速落地。",
       "summaryZh": ""
+    },
+    {
+      "title": "上海机器人独角兽开源世界模型，能“看懂”三维物理世界了",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBsUXk1UWpabmFIVDdBdEpBYUFOY2s5em9ueXRoaGd1dEh0aFpIR3NoV1FvVkVJaXdVeWZnbDh1Z2pHQ3J6ZlE?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-10T14:22:47.000Z",
+      "summary": "上海机器人独角兽开源Puffin-World模型，实现三维物理世界感知与交互。",
+      "summaryZh": ""
+    },
+    {
+      "title": "人形机器人运动控制，如何随“芯”而动？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oVVpsSTV3Qnk5aEVLZF9ZUU9xR3pWOUFjeDNoY1BHbVVudDdhTUlwU1hKTmpROG9EVUtSajJtRUdXZW0yS1dZSndndXAzOTVPZ2dSZHAwcw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-10T05:35:40.000Z",
+      "summary": ""
     },
     {
       "title": "港股大模型股持续走低，智谱跌超10%",
@@ -150,17 +178,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-10T06:36:24.000Z",
-      "summary": "智谱等港股大模型股下跌，智谱跌超10%。",
+      "summary": "智谱等港股大模型股持续下跌，智谱跌超10%。",
       "summaryZh": ""
     },
     {
       "title": "飞扬集团(01901.HK)：与红熊AI及钉钉中国进行战略合作深化AI +文旅融合发展",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52a3k4amw2TnB2WDRJaXl6UEY5ZW14ZjlVSzhBbkhULTEzTU1hODc1dC1rdU0zUGhhY0xjaWVDWDFKR1dhakkwanFuSHZ2OUdzQlVSZmNfQlFWcHd5THFnTUxnLVcyalQ4ZEg3X1FFWlJYYlJv?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEWWpkMExBRlpjZk91cF9wRnBhMGpMWV9hWThSUVpSMVBPVWZXekprQ2hrZU8wMVhod2JnVG1yTzZhX05mbnhfcF9MVzBJZ3VMMzdFNkh3RVFna0trVERhVnpSQ3pQZw?oc=5",
       "source": "金融界",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-10T14:21:54.000Z",
-      "summary": "飞扬集团与红熊AI、钉钉中国签署战略合作，深化AI+文旅融合发展。",
+      "summary": "飞扬集团与红熊AI、钉钉中国签署战略合作，深化AI在文旅行业的应用。",
       "summaryZh": ""
     },
     {
@@ -170,7 +198,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-10T08:37:00.000Z",
-      "summary": "WPS 365政务版以“安全底座”为核心，推动政务AI规模化落地。",
+      "summary": "WPS 365政务版以“安全底座”助力政务AI规模化落地。",
       "summaryZh": ""
     },
     {
@@ -185,13 +213,22 @@
       "titleZh": "Swarmer 将以高达 2.24 亿美元收购乌克兰 UGV 制造商 Ratel Robotics"
     },
     {
+      "title": "人形机器人的“感官”：视力触觉、IMU的终局在哪里？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kY3dPejdhQkgwUnRzWmRlWEw2VTdFNEFHcC1WbnRCSG5EWWQybVI4bFFhU3hqVXZWQ05SbkdtWmFqS1d2ZC14Mm5xRGdSaURHaWxZN1FSSQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-10T09:46:02.000Z",
+      "summary": ""
+    },
+    {
       "title": "AI终端入口正被重新定义：广东精密制造卡位人形机器人",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT3hEQ3pmdnVhNi13cUkzUXpySWY5c0FqZlBiVnp5eTJWWEJ3NlM4cVV3OVlBQXlBNGdIbldVczE2Q2xuUWt5S2pBbmJwZU4yZ2VmTnJ6cXZ4V1luVlVWME5tOGc5cGtoMC1aX1VDQTc4RFhvck5IODN2bDhFWGNNbEtBX0dtbXNlLWpSSA?oc=5",
       "source": "21财经",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-10T05:10:00.000Z",
-      "summary": "广东领益智造通过精密制造技术卡位人形机器人市场，营收与毛利额创新高。",
+      "summary": "广东领益智造通过精密制造技术卡位人形机器人领域，实现业绩增长。",
       "summaryZh": ""
     },
     {
@@ -212,16 +249,7 @@
       "pubDate": "2026-09-10T16:04:02.000Z",
       "summary": "2026年测试了12款以上机器人割草机，性能显著提升。",
       "summaryZh": "",
-      "titleZh": "最佳机器人割草机（2026 年）：超过 3 年测试的 12 种以上型号"
-    },
-    {
-      "title": "国产化率超80%！小鹏机器人背后的“供应商军团”",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Wa1d4LUgtbW9lYllGbGJUSlRhS2NqNmlMVUhlUnAwbXhDTGJQM0lGU0hYMDB2d1hwbndOMjlRU0hfVTdjZE5qZmtXR0ZKbHZhanVzMHZJaw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-10T11:18:48.000Z",
-      "summary": ""
+      "titleZh": "最佳割草机器人 (2026)：超过 3 年测试的 12 种以上型号"
     },
     {
       "title": "AI司机订阅迎来爆发，驭势科技打开L4自动驾驶新空间",
@@ -234,13 +262,15 @@
       "summaryZh": ""
     },
     {
-      "title": "学生手搓机器人、AI实验室酷炫登场，教育服务专题剧透未来校园",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb1FXeUdkamNFZmJFVzhqNlpoTUNjWEcxVUpHb2ZpZlJWZ0MzdFIyRzVHSkx3Tmc2bVhKeGlxa2RwWmZ0LVFiak1leW9URmp0RlJ5R1pGcmJNSFA5b1FhUmpGUzM?oc=5",
-      "source": "新京报",
-      "lang": "zh",
+      "title": "Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDRnMVBkQzlWX2d4UGlyT3VHYXdkVDdfM0xRdC1IbEh5WllNVzBRSmtPSXRRVlBpMFZzT2dmclB0LU9sYjVhcERLV2dXclRCWXp5bUsxcjlRNTQxMkYyMGNMN082MUdXdkVJQ0Y2cWZ0RVlWRW1BMW41VTBOLWV5bTNZMkxyUlZTenQtQ1BoTGdzblZHNmRJOGpaS2k5THBRTkRiR2tsdGpzSDdHWmI2azZwaw?oc=5",
+      "source": "Bloomberg",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-09-10T15:12:00.000Z",
-      "summary": ""
+      "pubDate": "2026-09-10T15:30:02.000Z",
+      "summary": "Skild AI机器人初创公司实现10亿美元营收，客户名单持续增长。",
+      "summaryZh": "",
+      "titleZh": "随着客户名单的增长，机器人初创公司 Skild AI 的收入运行率达到 1 亿美元"
     }
   ]
 }
