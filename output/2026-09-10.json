@@ -1,7 +1,17 @@
 {
   "date": "2026-09-10",
-  "generatedAt": "2026-09-10T04:48:49.676Z",
+  "generatedAt": "2026-09-10T08:23:19.071Z",
   "items": [
+    {
+      "title": "刷新全球开源模型多项评测 SOTA，宇树科技开源全新一代通用人形机器人基座模型 UnifoLM-WLA-1.0",
+      "link": "https://www.ithome.com/1/000/837.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-10T08:21:40.000Z",
+      "summary": "宇树科技开源全新一代通用人形机器人基座模型刷新全球开源模型评测。",
+      "summaryZh": ""
+    },
     {
       "title": "具身智能告别同质化通用竞赛，工业落地下一轮拼什么？",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9SY2Jab3VUQi1mTldNTDJGYnhwTTdZd1BzQzBmb3dzN0ZLa2ZMNzRCQzIzZ09lRlBGcXB1Ym9wdWRVVzAtSkE?oc=5",
@@ -10,16 +20,6 @@
       "category": "robotics",
       "pubDate": "2026-09-09T10:48:47.000Z",
       "summary": "具身智能工业落地竞争转向产业定位和核心能力壁垒。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Databricks-trained AI agents match Claude and GPT-5.6 Luna's answer quality — in half the time",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeng5VFk5ZDJXc09EZHhvZ0xqMU9rcnFhLWtodGx2bVdHNEdfU1FBMHUwZGw3VFBlSThOMVZwQUhrMS1GNERNQVJaQ3djRm8zY250YUc0UU1DRXowOGY5emNOLVU2Rl9jbmJfVWF1RUdILUF2YXBiVW5fYlFESHNHWVFBTm5sMVNsZXQzT2U1N0twbUJWc09GUHhoM3hWU2xFdGQ1M3Q2akJpb0M0RzQ4Nzh1ZGRrbDhCdVRXOA?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-09T11:00:00.000Z",
-      "summary": "Databricks训练的AI代理在回答质量上与Claude和GPT-5.6 Luna相当，但速度是其一半。",
       "summaryZh": ""
     },
     {
@@ -32,42 +32,23 @@
       "summary": ""
     },
     {
-      "title": "Meta入局个人AI代理赛道，强调“不会失控”，海外科技巨头加速卡位智能体生态，南方基金司南投顾关注AI应用落地节奏",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTeW9tNlBFMUxDd3lUNlR3WFJYZ3BYRGdkQVkybWVTZFdmVFRMSTA3QWlRbE96SGItejdVNmZ6TDVET0VQdlFHSDFWM2dxemNpdXgzNE1BdVg?oc=5",
+      "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
+      "link": "https://www.qbitai.com/2026/09/486625.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-10T04:55:38.000Z",
+      "summary": "一周内，安努智能发布六款模型，推动工业具身智能商业化落地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "上海：深化人工智能、大模型、区块链等技术在环境监测、环境监管、污染防治、生态修复等领域应用",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ua09QQm5ib28yRTJFRFBDUUhRc3djZ1Rod1ZvVDdwckluU0syc294OXo4cTNwVjd2cTFmNFJmX3J1eHBON2tUQndrX3ktaF9uSk51c2ZtSm4?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-10T03:51:53.000Z",
-      "summary": "Meta推出个人AI智能体Muse，强调安全可控，关注AI应用商业化。",
-      "summaryZh": ""
-    },
-    {
-      "title": "字节阿里腾讯集体转向AI数字员工：从外卖补贴到千亿算力烧向办公Agent",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SX1VxZHZZeXFSTUNHZnFJcDczOXczSmNKNkJUaHZUTUpxazI1Ukx5SnlHLWlLNXZEUkxiYzI5NWs4dk5mdXlBX3dVZlVEYmNiYjZIVXl6b005dF9ndGtJ?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-09T13:49:57.000Z",
-      "summary": ""
-    },
-    {
-      "title": "中国算力“西进”，北部、西北部有望成为最大数据中心区域市场",
-      "link": "https://www.tmtpost.com/8135029.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-10T03:20:04.000Z",
-      "summary": "中国北部、西北部数据中心市场有望超越长三角，成为全国最大区域市场。",
-      "summaryZh": ""
-    },
-    {
-      "title": "DeepSeek V4.1 Flash 模型今日发布，V4 Pro 服务推迟到 9 月 14 日下线",
-      "link": "https://www.ithome.com/1/000/692.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-10T04:10:07.000Z",
-      "summary": "DeepSeek发布V4.1 Flash模型，V4 Pro服务推迟至9月14日下线。",
+      "pubDate": "2026-09-10T06:20:21.000Z",
+      "summary": "上海规划深化AI、大模型、区块链等技术在环保领域应用。",
       "summaryZh": ""
     },
     {
@@ -77,46 +58,57 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-10T02:09:47.000Z",
-      "summary": "中国AI大模型周调用量连续十九周超美国，科创创业人工智能ETF景顺（159142）跟踪指数估值低位。",
+      "summary": "中国AI大模型周调用量稳居全球首位，科创创业人工智能ETF景顺（159142）跟踪指数估值低位。",
       "summaryZh": ""
     },
     {
-      "title": "物理AI时代，算力范式正在转移",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LT3ZSR2l6aEh6aDRpcGFkcVdZVXF3eHktSzZvRjV1VFh4aGQwbkdob2ZIekNnV243NURseU4xMGEtZzVMLVQ2MEJJLW9yb1RH?oc=5",
-      "source": "36氪",
+      "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoNWc4SFZSdGJyRkg2V2xmQ05sSGdtUjNXdVg4S3loa1N1ZmNieXFySjFmMW0zQ1JWb0tpemExc2FlSlgxTFdHcTV4eS1xd1UxRnhQdQ?oc=5",
+      "source": "量子位",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-09T09:04:18.000Z",
-      "summary": "物理AI时代，数据流架构成为推理时代战略选择，算力范式转移显著。",
+      "category": "robotics",
+      "pubDate": "2026-09-10T07:57:55.000Z",
+      "summary": "大晓机器人等发布HSImul3R，实现人–场景交互重建，推动三维重建从“视觉正确”走向“物理可执行”。",
       "summaryZh": ""
     },
     {
-      "title": "大模型涉足半导体设计，EDA会“颤抖”吗？",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NRHdmQ05RNHU3TnhQMGpKMVV6OEpQNXJxSjZ4eXZiRFlvTE5aV3BRVjdjZ29SN0l3VnFteUQ5Tm9jTlV2S19EUTFsWTJWRFF6WWtV?oc=5",
+      "title": "从仓库到药房，京东发布六款“狼族”机器人",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKRld6Z09BcTlYS3dOODA5MjRDdUlYd2syclVTM1lSQ1dPUWV1VXlkVmNoZUtiaWU1amg0VEwtMHdhUlNWTEE?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-09T09:08:20.000Z",
+      "summary": "京东发布六款“狼族”机器人，布局AI供应链体系。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI进化速递丨DeepSeek即将发布V4.1 Flash模型",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FZVFxbTJnRUE4UGJnREhxWDQ1THd6N2VsQm0yUndSWHlQQVM5bnkzUXladzNJZTFFdUtoc3ZBXzdIWnNYQ0lUS3lmMG1HQXp2cFNlMQ?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-09T09:55:05.000Z",
-      "summary": "大模型进入半导体设计领域，对EDA工具影响尚不明朗。",
+      "pubDate": "2026-09-09T12:33:00.000Z",
+      "summary": "DeepSeek计划发布V4.1 Flash模型。",
       "summaryZh": ""
     },
     {
-      "title": "北京：加快国产先进算力迭代验证平台建设 提升十万卡算力集群建设能力",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YZ1FWN1c1ZzQ5WmgyaDNUVFBzcEZwNi1La2ZkbXZ6bzEyV1NjOHd5LXdHcXJQVmdUcFNTNUt5bGJFN2NzZTA3dWFPYWFGamRsQ3RXM0x1WklTSURhSlNYcjRQcXRMcjdUTGl6WA?oc=5",
+      "title": "财跃星辰联合上海交大开源Alpha-R1：8B金融推理大模型，让资产配置跟上市场节奏",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xS1lSN3ZQNGtrT1kwU0ZYYTFicGotaEtNUEhyczN4WWJZTUpUQ2szSS16cllKdWtUTG5uN2ZSQndsTTd4WW1uZg?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-09T07:49:03.000Z",
-      "summary": ""
+      "pubDate": "2026-09-10T00:40:00.000Z",
+      "summary": "财跃星辰与上海交大开源Alpha-R1大模型，提升金融资产配置效率。",
+      "summaryZh": ""
     },
     {
-      "title": "美国AI算力基建掀起“土地争夺战” 地方反对情绪持续升温",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tZUFXb193WWRQNWdkMElScnNOaXFsWnJQRTFPVWhSRngtMFlkeFZVZktsSmM1NkpNay13OUFkTHItX2ZySHNYVA?oc=5",
+      "title": "新模型上线在即 DeepSeek将快速、专家、识图模式进行合并",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFaWhvUVUzOWNMMk1ndWZqdmJ3U3ptTnRUZUx3Q1p1cklfbmIyOU5pY3RaSlljTVJDN0E5Vi10WDdaSkFEbFhxNg?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-09T05:59:07.000Z",
-      "summary": "美国AI数据中心建设引发土地争夺，地方反对情绪升温。",
+      "pubDate": "2026-09-10T00:40:00.000Z",
+      "summary": "DeepSeek新模型将快速、专家、识图模式合并，支持原生多模态。",
       "summaryZh": ""
     },
     {
@@ -126,8 +118,18 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-09T19:34:57.000Z",
-      "summary": "Unitree机器人股票自IPO首日下跌53%，市值蒸发约55亿美元。",
-      "summaryZh": ""
+      "summary": "Unitree机器人公司股价自IPO首日下跌53%，市值蒸发约35亿美元。",
+      "summaryZh": "",
+      "titleZh": "Unitree 股价自首次公开募股以来下跌 53%"
+    },
+    {
+      "title": "OpenAI自研AI芯片再进一步！与三星合作扩大，或从HBM延伸至晶圆代工",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fSHhqTWNxVkVHNy1GSm1wbUpkUDB1UkNqMk1MNFJoc2VGbEFOU1MyaVB6Y21VcHplOTJwV3VVQUJoekItdUpfSnpxMEdrY3dZM2s0?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-09T11:14:02.000Z",
+      "summary": ""
     },
     {
       "title": "扔掉遥控器，是具身智能的终极关卡",
@@ -140,33 +142,13 @@
       "summaryZh": ""
     },
     {
-      "title": "30个关节占60%成本，LG电子发力人形机器人关节",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXeUlKMDh2eTdRTnZKQVFuUzZJV3JmMEhfZFdQemtJT2VVN05Da2hmQnlZbDZkWjNXRTFOU1cwU1V6WWV6aXl5UkdSdWRpUF9lbmJNdGFhYw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-09T11:31:24.000Z",
-      "summary": "LG电子聚焦人形机器人关节，计划2026年底建成自动化产线，2027年全球供货。",
-      "summaryZh": ""
-    },
-    {
-      "title": "镭萌科技完成千万级天使轮融资，加速消费级具身智能商业化布局",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BUlZvTXNnYWZUOXJQQ05UdWp6Z3RHaWtYV09EUXFmeUdyM0NaWXN3aU13MzFaMmUzdktVQ3lFX19EanNvRUJ0UnJkYm4?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-09T17:57:30.000Z",
-      "summary": "镭萌科技获千万级天使轮融资，加速消费级具身智能商业化布局。",
-      "summaryZh": ""
-    },
-    {
       "title": "优地机器人上市首日涨超153%，商用AI机器人热度再升温",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pRkVhRGpPa1NvX0wxTlRDTE9fOWFYb09VZ2hQM3Bxc3dLNFNONlFyWGJ1aF9OQ3FDbVhzWi02R3p6VjM4a1ctd3JoWkYwVkdiX0o4aFEzNmd4RjhWUk92MGlOQnJBdw?oc=5",
       "source": "每日经济新闻",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-10T01:19:00.000Z",
-      "summary": "优地机器人上市首日股价暴涨超153%，商用AI机器人市场热度升温。",
+      "summary": "优地机器人上市首日股价暴涨153%，商用AI机器人市场热度升温。",
       "summaryZh": ""
     },
     {
@@ -177,7 +159,8 @@
       "category": "robotics",
       "pubDate": "2026-09-09T13:00:31.000Z",
       "summary": "General Robotics GRID成为首个自动工程整个机器人开发与部署生命周期的智能平台。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "通用机器人 GRID 成为第一个自动设计整个开发和部署生命周期的机器人智能平台"
     },
     {
       "title": "骨科手术机器人AI平台影响力品牌榜（2026年8月）",
@@ -190,23 +173,24 @@
       "summaryZh": ""
     },
     {
-      "title": "做机器人只懂EtherCAT？CAN FD才是隐藏黑马",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTZTd6am93TDY1QmFac1NPdEdJTGV6TnQ0NVdxOHVkVWtYa3VkZnhWOE9ya21lbEwxdUlqdm0xc2RMNGt3VGFTYnFrMC1QV2dyR3BocEN2VQ?oc=5",
-      "source": "与非网",
+      "title": "京东发布物理AI最新成果 锚定机器人领域六项“全球领先”",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdlJEcUs2N2pxaGVWZGZwZS1mRjVtTnpmd25hRzIxZUFnTkRsXzhjZXBvSnE5c2RPVGs3S19XajA3UDVoV3lCUWQyRTJtTlBNUzBIcTM2ZUxtcXQzZ096cmRCR0dFYmJOVVFxVU1fSENfN29PUHJwMWJIS28yak5XeTZyVTA?oc=5",
+      "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-09T05:25:02.000Z",
-      "summary": "CAN FD总线技术在机器人领域应用广泛，成为EtherCAT之外的另一高性能选择。",
+      "pubDate": "2026-09-09T09:12:30.000Z",
+      "summary": "京东发布物理AI成果，六项机器人技术全球领先。",
       "summaryZh": ""
     },
     {
-      "title": "聚焦AI、机器人等前沿赛道！广州天河广棠科创中心破土动工",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORVRkN2lFTmZWWk4xY1BoMEgtZFhjTGNVUnktVjJNM01HMWdmc2VWcG5LVDJITmppTlZKRGlHSmZ5V1R0eTBBR3ZqbmpLUzFQMWoyUWNKbkx6emMxRVBWUGh0ZHY2dDkyUzBLZ0kwN2RBQjcwU3gxZXBwTUM5WlJIY3dsdHF0amwyb194cw?oc=5",
-      "source": "21财经",
+      "title": "当AI开始“真干活 ”，机器人“接单”能干些啥？",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80ODliUHFOaEdGN1Ffb2YwV2tTR21ONnUzbC1NbE1PNVF1c1dlNFhUMlBoeEptakJabWRHWHZoWmFiVFJqck9jYUxZaXRQM0ZYS0ZVN0J2Qm1MV2dKcTYycTZmWHJWMGliTW9DaV9rRW5aLUpqX0hLNW5qblFseTA?oc=5",
+      "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-09T08:39:00.000Z",
-      "summary": ""
+      "pubDate": "2026-09-10T02:56:43.000Z",
+      "summary": "AI驱动机器人应用于药房、仓库、工厂等场景，实现自动化作业。",
+      "summaryZh": ""
     },
     {
       "title": "美团第七次参展服贸会：当外卖用上AI，如何改变即时消费场景？",
@@ -217,6 +201,26 @@
       "pubDate": "2026-09-09T10:46:00.000Z",
       "summary": "美团在服贸会展示AI技术如何改变即时消费场景。",
       "summaryZh": ""
+    },
+    {
+      "title": "大兴展区亮相服贸会，脑机情绪绘画、AI文旅拍照引人驻足",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZWGdTY0NhUzVYVTFNVjhOc3ZYekdJN1RCUkJ4RFlJRk5tcVRMbEtCdG1lQkJyeHBsU0poSmR2RHRTWW5BdnQ2cU5PZ1Q3Z0FYbjV6aGNRT1h2R2g1WG5iR2FBRDY?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-09T10:29:00.000Z",
+      "summary": "大兴展区服贸会展示脑机情绪绘画和AI文旅拍照吸引观众。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Spar launches first retail media network with hundreds of in-store screens",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQnNsaDJIemI1cnJBaVczbG9DM05JOURZMTdjVjhzaVRVWkF3R3BxTkVMLW1CNkUydUt0LTQtS2FLN2VhOHhXN09QZlhiR3hxNkVJSG1Vcy1sbDFNVEdtbGdoNWhGME1QbmNfSEcxMkVwaHRfVzVXSW15eHdpM2NrUzVGbG5McHltTlV5TE1IbHJJNTkxV3diWW5YYzF4Y19RV3FjTlJZV055QUpWdVA3RkQxczI1eHc0ZmxpRQ?oc=5",
+      "source": "Retail Gazette",
+      "lang": "en",
+      "category": "application",
+      "pubDate": "2026-09-10T07:22:12.000Z",
+      "summary": "",
+      "titleZh": "Spar 推出首个零售媒体网络，拥有数百个店内屏幕"
     }
   ]
 }
