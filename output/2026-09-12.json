@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "generatedAt": "2026-09-11T19:08:37.025Z",
+  "generatedAt": "2026-09-11T20:54:09.778Z",
   "items": [
     {
       "title": "九部门：推动人工智能模型、智能体等技术创新，并率先在汽车行业落地应用",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-11T02:04:11.000Z",
-      "summary": "九部门推动AI技术创新，汽车行业率先应用。",
+      "summary": "九部门推动人工智能技术在汽车行业应用创新。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-11T12:58:49.000Z",
-      "summary": "DeepSeek V4.1 Flash上线，崔添翼加入“义父之战”，性能超越V4 Pro，价格降低。",
+      "summary": "DeepSeek V4.1 Flash上线，崔添翼加入“义父之战”，性能超越V4 Pro并降价。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-11T12:33:58.000Z",
-      "summary": "法国投资者以300亿美元估值入股月之暗面，Kimi IPO前获欧洲资本押注。",
+      "summary": "法国投资者以300亿美元估值入股月之暗面，押注Kimi模型家族公司IPO。",
       "summaryZh": ""
     },
     {
@@ -49,7 +49,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-11T13:06:34.000Z",
-      "summary": "美国律师因ChatGPT生成伪造证词被罚款5000美元。",
+      "summary": "美国律师因用ChatGPT生成含伪造证词的诉讼文书被罚款5000美元。",
       "summaryZh": ""
     },
     {
@@ -70,7 +70,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-11T01:46:08.000Z",
-      "summary": "国产大模型推理成本大幅下降，南方基金麦骏杰关注AI通胀投资机会。",
+      "summary": "国产大模型推理成本大幅下降，南方基金麦骏杰关注AI通胀趋势。",
       "summaryZh": ""
     },
     {
@@ -79,8 +79,8 @@
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-11T12:20:15.000Z",
-      "summary": "上海AI芯片企业燧原科技科创板敲钟上市，面临研发、量产、融资挑战。",
+      "pubDate": "2026-09-11T15:20:15.000Z",
+      "summary": "上海AI芯片企业燧原科技登陆科创板，面临研发、量产、融资挑战。",
       "summaryZh": ""
     },
     {
@@ -90,7 +90,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-11T06:15:35.000Z",
-      "summary": "AI公司加速布局电力基础设施，投资发电以应对算力需求。",
+      "summary": "AI公司加速布局能源基础设施，科技巨头投资发电以应对算力需求。",
       "summaryZh": ""
     },
     {
@@ -104,15 +104,15 @@
       "summaryZh": ""
     },
     {
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "source": "TechCrunch",
+      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+      "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+      "source": "CNBC Tech",
       "lang": "en",
       "category": "ai",
-      "pubDate": "2026-09-10T19:50:04.000Z",
-      "summary": "Meta的AI应用Muse在美国App Store排名第二。",
+      "pubDate": "2026-09-11T16:06:31.000Z",
+      "summary": "OpenAI推出金融版ChatGPT，旨在协助华尔街初级银行家工作。",
       "summaryZh": "",
-      "titleZh": "Meta 的 AI 代理 Muse 目前是美国排名第二的应用程序"
+      "titleZh": "OpenAI 通过新的金融服务 ChatGPT 瞄准华尔街初级银行家的工作"
     },
     {
       "title": "散户抢筹4000倍，开盘涨188%，AI芯片四小龙最后一子落地",
@@ -131,7 +131,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-11T07:19:29.000Z",
-      "summary": "人形机器人收入占比低，但增长趋势明显。",
+      "summary": "人形机器人收入占比低，但增长曲线上升。",
       "summaryZh": ""
     },
     {
@@ -141,7 +141,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-11T03:11:32.000Z",
-      "summary": "消费级小型固态激光雷达助力家用机器人性能提升。",
+      "summary": "消费级小型固态激光雷达助力家用机器人性能升级。",
       "summaryZh": ""
     },
     {
@@ -151,7 +151,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-10T23:00:00.000Z",
-      "summary": "广东领益智造通过精密制造技术卡位人形机器人市场，营收与毛利额创新高。",
+      "summary": "广东精密制造企业领益智造通过迁移手机制造工艺，成功卡位人形机器人领域。",
       "summaryZh": ""
     },
     {
@@ -161,9 +161,20 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-11T15:30:04.000Z",
-      "summary": "人形机器人挑战猴梯。",
+      "summary": "人形机器人挑战猴栏。",
       "summaryZh": "",
       "titleZh": "周五视频：人形机器人挑战猴栏"
+    },
+    {
+      "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
+      "link": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-11T19:49:40.000Z",
+      "summary": "RoboBusiness探讨自动驾驶和机器人技术为实地部署奠定基础。",
+      "summaryZh": "",
+      "titleZh": "了解自动驾驶汽车和机器人技术如何为 RoboBusiness 的现场部署奠定基础"
     },
     {
       "title": "九部门发文！产能预警调控首次写入《规划》，AI、自动驾驶、电池回收全安排！专家预判：未来五年，两条“红线”将重塑汽车行业竞争规则",
@@ -176,23 +187,13 @@
       "summaryZh": ""
     },
     {
-      "title": "AI修图成酒店虚假宣传新手段：阳朔事件揭示行业通病",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VRzIxREozal9EY2dfOWR1R3VmOTBiWGRHc3JQaFRtRXgxN1pMaUVKaUMyVU42RDlfVGpVM3R6ZkZ5b3dQSldieVEweE16emJkdzNLbg?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-11T10:17:09.000Z",
-      "summary": "AI修图技术被酒店业滥用，虚假宣传侵蚀在线预订信任。",
-      "summaryZh": ""
-    },
-    {
       "title": "How drone developers are navigating changing regulatory landscapes to help farmers",
       "link": "https://www.therobotreport.com/how-hylio-drone-developers-navigate-changing-regulatory-landscape-help-farmers/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-11T12:21:16.000Z",
-      "summary": "无人机开发者应对法规变化助力农业发展。",
+      "summary": "无人机开发者应对法规变化以助农务发展。",
       "summaryZh": "",
       "titleZh": "无人机开发商如何应对不断变化的监管环境以帮助农民"
     },
@@ -203,7 +204,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-11T02:55:05.000Z",
-      "summary": "2026年服贸会上，中国机器人展示多项实用技能，体现智造实力。",
+      "summary": "2026年服贸会上，中国机器人展示多项实用功能，体现智造实力。",
       "summaryZh": ""
     },
     {
@@ -227,24 +228,25 @@
       "summaryZh": ""
     },
     {
-      "title": "“AI艾灸”、机器人按摩，一刻钟品质生活节亮相服贸会",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4VExad1d6OUxRTnlHVU9vT0tjYV9rSkFiQWNKbHRrbU9SaElDYTNqWFdiT3pTRGtGakI2blo1VHMtbEhDek1zOE82QS1JblFJU3ZhcDJaWTQybHZVNW1iQ1dOR2Y?oc=5",
+      "title": "前华为高管、港大教授联合做机器人，完成超5亿元天使+轮融资",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYelFfUnpZcFUxV3kycDZtVTBKdVpiMFNkU3ZDdXJaa3FGX2FPcE9ISEJzU2VFUWpUSTRIMjI2aUtEUUNyUHhPT0RadlpodURUbWRaVXJGVDBMUm1UNy05Vl8tNFk?oc=5",
       "source": "新京报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-11T10:17:00.000Z",
-      "summary": "“一刻钟品质生活节”在服贸会期间亮相，展示家政服务与AI康养创新成果。",
+      "pubDate": "2026-09-11T03:09:00.000Z",
+      "summary": "前华为高管与港大教授联合创办的机器人公司完成超5亿元融资。",
       "summaryZh": ""
     },
     {
-      "title": "Why Robotics Teams Are Rethinking Every Stage of Their Manufacturing Roadmap",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWY5OTk5THJhbmpKT1k1UU04aENRRWZtYTk3WkhwSVhhZUpSeGR5a0JLdnpmcXVfZ1lMX0czT25qOWFLdDNweDBVZGs3RXN5Q3M2eXBkSTNBMVpMb1JpTV9ZNWdMNWVqZDA5MnVtbU13SnFia1RzanBrbFZNYUVoMC1zaTlVRkpGWkVTVkxlVE9XU0w0dXdSSV9wUmxFbU5Kb3drRjJOdDdPTk9HQVBodmFCUFFOdkFXM2VxalEzNHFhSEg2MjJ0ZEVnNUs1Zw?oc=5",
-      "source": "Robotics & Automation News",
+      "title": "Walgreens rebuilds its in-store retail media business",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTTRyUUxSdmYtMERjaVV1S0dxX25BejJkQWpoOEpsb0d1VERTc1ZMTkVNd2VIRjNkREJrclZwYnZJMWFnelluQnpKZk1pUkxVXzQzMU9lWEh4amdnX2F6c1owbzhFM0NjNzU3ZlhoeDFNZzAzd29CdDV2VXVTY3NMUkI1NC1xRDRJdDJ1TkdiU0k?oc=5",
+      "source": "eMarketer",
       "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-11T09:41:14.000Z",
-      "summary": "",
-      "titleZh": "为什么机器人团队正在重新思考其制造路线图的每个阶段"
+      "category": "application",
+      "pubDate": "2026-09-11T19:27:56.000Z",
+      "summary": "沃尔格林重建店内零售媒体业务。",
+      "summaryZh": "",
+      "titleZh": "沃尔格林重建店内零售媒体业务"
     }
   ]
 }
