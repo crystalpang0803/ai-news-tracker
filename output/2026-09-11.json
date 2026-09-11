@@ -1,35 +1,35 @@
 {
   "date": "2026-09-11",
-  "generatedAt": "2026-09-11T04:46:14.020Z",
+  "generatedAt": "2026-09-11T08:17:49.310Z",
   "items": [
     {
-      "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
-      "link": "https://www.qbitai.com/2026/09/486684.html",
-      "source": "量子位",
+      "title": "工信部等九部门：推动人工智能模型、智能体等技术创新 并率先在汽车行业落地应用",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJNzZtZ0stVkc5cmxIRGIxbXZaazJHNFM0STlsV3pCTmlZTFhVSktGM09UeXVtaHlrZzAyQV9idFRQRXpDSHVKQg?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-10T07:25:39.000Z",
-      "summary": "OpenAI发布ChatGPT Images 2.5，生图模型生成更快、细节更佳。",
+      "pubDate": "2026-09-11T01:33:44.000Z",
+      "summary": "工信部等九部门推动AI技术创新，率先在汽车行业应用。",
       "summaryZh": ""
     },
     {
-      "title": "优地机器人，困在酒店舒适区",
-      "link": "https://www.tmtpost.com/8135803.html",
+      "title": "一台人形机器人，到底要工作多久才能回本？",
+      "link": "https://www.tmtpost.com/8136661.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-11T02:18:41.000Z",
-      "summary": "优地机器人上市后面临营收含金量不足、毛利率低、技术含量机器人销量占比小等挑战。",
+      "pubDate": "2026-09-11T06:32:22.000Z",
+      "summary": "人形机器人公司Agility公布Digit机器人成本，预计1.1年回本。",
       "summaryZh": ""
     },
     {
-      "title": "AI编程混战：Devin融资480亿、Cursor被SpaceX收购、Copilot被Claude Code反超",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yTTJGOEdiQUtQaVdTZElCdzBwMjNHRVNfRFBUZnZOWW9lbkZkZVF5VTVmdndVWVF0elhTUkNodXRSNFJiNkRmbHZhYl9yZ3M?oc=5",
+      "title": "Anthropic承认Claude大模型安全对齐存在缺陷 官方称目前尚无有效解决方案",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KdTc2TnVCNy1mdkUySzVGMnV4dndDYldHQ2h3QTlvUFA4NXJjbnE1ZllLRi1qTmJKZHgwTTA2WF9xai1kaE1qUGtDNDU0cjVYWXpv?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-10T12:51:41.000Z",
-      "summary": "AI编程领域格局变动，Devin融资480亿，Cursor被SpaceX收购，Copilot被Claude Code反超。",
+      "pubDate": "2026-09-10T15:47:00.000Z",
+      "summary": "Anthropic承认Claude大模型存在安全对齐缺陷，目前尚无有效解决方案。",
       "summaryZh": ""
     },
     {
@@ -39,17 +39,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-11T03:49:58.000Z",
-      "summary": "自动驾驶行业进入关键期，体系化能力成为企业决胜关键。",
+      "summary": "自动驾驶行业进入关键一年，体系化能力成为企业决胜关键。",
       "summaryZh": ""
     },
     {
-      "title": "工信部等九部门：到 2030 年纯电动乘用车百公里平均电耗达 11.5kWh 左右，自动驾驶汽车规模应用",
-      "link": "https://www.ithome.com/1/001/115.htm",
+      "title": "达尔优推出 A950SE 双模电竞鼠标：自带彩屏智显底座、AIM-WL 传感器，189 元",
+      "link": "https://www.ithome.com/1/001/242.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-11T01:44:16.000Z",
-      "summary": "到2030年，我国纯电动乘用车百公里平均电耗目标为11.5kWh，自动驾驶汽车将实现规模应用。",
+      "pubDate": "2026-09-11T06:01:28.000Z",
+      "summary": "达尔优发布A950SE双模电竞鼠标，售价189元。",
       "summaryZh": ""
     },
     {
@@ -64,12 +64,22 @@
     },
     {
       "title": "被OpenAI的AI攻破之后，Hugging Face创始人刊文：闭源工具失守，安全解法在开源模型",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwMXJHbFBUM3JEUjhxUGUtUzhsN3k0MHdQQllYM0x4eUdwN0hUY0hmT0pETDE5bnQ0MmJQNVp4M1VYUkEtVlNlclMtbkpqWHM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mWm1od0RuM2hHNFc1VlJZazVFSmJPMjJHckVrb2piSlp6d3YzR1lsclR2dGh6aUhVVHY3S3Q0clB1TkxaTmFFWHB6cGdQOWZK?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-11T02:28:42.000Z",
-      "summary": "Hugging Face创始人指出，闭源AI工具失守，开源模型是安全解法。",
+      "summary": "Hugging Face创始人提出，开源模型是应对AI安全挑战的关键解法。",
+      "summaryZh": ""
+    },
+    {
+      "title": "月之暗面 Kimi K2.8 Preview 模型全量上线 Kimi Code，综合性能接近 K3",
+      "link": "https://www.ithome.com/1/001/319.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-11T08:00:46.000Z",
+      "summary": "Kimi K2.8 Preview模型全量上线，性能接近K3。",
       "summaryZh": ""
     },
     {
@@ -79,8 +89,29 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-10T13:06:06.000Z",
-      "summary": "OpenAI基金会投资6000万美元支持AI天气预报研究。",
+      "summary": "OpenAI基金会投资6000万美元支持AI天气预报技术。",
       "summaryZh": ""
+    },
+    {
+      "title": "本届服贸会“AI含量”提升 大模型与智能体加速落地多场景",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWm9UNHhNTmpmTjI1WnZfVVk1ZkNsdjVsbDdkTDNVNnIxbDRraXlOLUJuWjU1bENReFg1bURMYXlJb2VHSWpCQmR0dG1mVVBTYXJZM3NEUWdjMlA5SDhDYkUxY3ZsaFdTY3NCU2REamlhaHF2ejhQZWNpTjl3MlFnS1E2VkI4M1RuNXVTQQ?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-10T11:45:00.000Z",
+      "summary": "服贸会AI技术占比近四成，大模型与智能体加速落地多场景。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI launches ChatGPT for Financial Services in bid to disrupt Wall Street with automated research, report decks",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTnl3VmtvaXBBRTI5WnV6RGR4amxsdTNoOUhMWW10bWJGWlZjbklsNzVnRzd3dmtoRXZZMUtSV0dGWTlVSGJDVTFfTmxWSm92aHlrZmNnT09DeHUyaEpEanFIYWN2cG5OZUtYb2NSbGJTSVE5TEpkRWxkZkZLV21Kc2k1RkNTbDV3WUZhWWxLeW9CN1VfMlYwWFFraEIyeTBFY3YzX0h3U21vSDJEcGE1TGFrS0c1SEtOSW1pS1hxSm9rWi0zTUJ5SGhJQ1B2X1RzMEVoVWtydzlGU1JjVjNwaGRORmppN212NWd3aXJEazI?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-10T19:02:05.000Z",
+      "summary": "OpenAI推出金融版ChatGPT，旨在自动化金融研究及报告制作。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 推出针对金融服务的 ChatGPT，旨在通过自动化研究和报告来颠覆华尔街"
     },
     {
       "title": "DeepSeek-V4.1-Flash debuts with $0.003/1M off-peak cached-input rate and benchmarks eclipsing GPT-5.6 Sol, Claude Opus 5",
@@ -89,18 +120,9 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-09-10T23:33:45.000Z",
-      "summary": "DeepSeek-V4.1-Flash发布，峰值缓存输入率为0.003美元/百万，性能超越GPT-5.6 Sol和Claude Opus 5。",
-      "summaryZh": ""
-    },
-    {
-      "title": "让机器狗替你买东西：支付宝宣布首推“AI 付 · 具身智能”，网友戏称“狗腿付”",
-      "link": "https://www.ithome.com/1/001/145.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-11T03:16:51.000Z",
-      "summary": "支付宝推出AI付具身智能，机器狗可代购。",
-      "summaryZh": ""
+      "summary": "DeepSeek-V4.1-Flash发布，峰值缓存输入费用0.003美元/百万，性能超越GPT-5.6 Sol和Claude Opus 5。",
+      "summaryZh": "",
+      "titleZh": "DeepSeek-V4.1-Flash 首次亮相，非高峰缓存输入速率为 0.003 美元/100 万美元，基准测试超越了 GPT-5.6 Sol、Claude Opus 5"
     },
     {
       "title": "上海机器人独角兽开源世界模型，能“看懂”三维物理世界了",
@@ -110,6 +132,16 @@
       "category": "robotics",
       "pubDate": "2026-09-10T14:22:47.000Z",
       "summary": "上海机器人独角兽开源Puffin-World模型，实现三维物理世界感知与交互。",
+      "summaryZh": ""
+    },
+    {
+      "title": "支付宝推出“AI付·具身智能”",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84S2h6eDFqT3JEblhGeGJpWE5XWnVPU09wVExPSEhScC1BWmR0YkpjM2dnZEpPdHBweGw0V1NfbEhpOXQ4T0Rab1g0YktRcEFMOVFKdzBpcFQ?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-11T03:02:26.000Z",
+      "summary": "支付宝推出AI付·具身智能，机器狗可遵指令跑腿支付。",
       "summaryZh": ""
     },
     {
@@ -129,17 +161,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-11T04:21:54.000Z",
-      "summary": "景顺科创创业人工智能ETF（159142）布局AI产业链核心标的，紧随政策支持力度加大。",
+      "summary": "景顺科创创业人工智能ETF聚焦AI产业链核心，弹性高。",
       "summaryZh": ""
     },
     {
-      "title": "燧原科技将正式登陆科创板 国产AI芯片四小龙齐聚资本市场",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91RGR3aHB5M1kwQ1M2U25jSGtGR1hrSVVRRmVzY3I3MGpyR29od3BXWVV6QXlUcWc3NFRDT3R6SUxfN2p2aU9jb0szT01LZkhBNDBj?oc=5",
+      "title": "过去博士生花3年跑的实验 现在AI一夜就能筛完了 真正稀缺的不是算力是“提问能力”",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TZEF1RVd2RFNLWjNBT1U5ZThta3hSeXhocGN3ZTg4SWQyaC1WRUZHODBKcGRmcXpPSjhRWXhHY1RGV0ZEcTBOcXRpMGlJc3RxRS0xbg?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-10T23:29:48.000Z",
-      "summary": "燧原科技将登陆科创板，国产AI芯片四小龙齐聚资本市场。",
+      "pubDate": "2026-09-11T07:45:43.000Z",
+      "summary": "AI可一夜完成博士生三年实验，稀缺的是“提问能力”。",
       "summaryZh": ""
     },
     {
@@ -152,42 +184,13 @@
       "summary": ""
     },
     {
-      "title": "财联社9月10日电，AI芯片初创公司D-MATRIX同时表示，与Astera Labs在NVIDIA NVLINK FUSION生态体系内合作，以交付定制解决方案。",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMUJ4Y25odmJSQmNQR0thQVd2ZTZJY24xaGs4TTd0dmtfRFhBX2JmM3RndFBWb2ctSDFfUVFoektlaGNwTi1fVDhMQkt5emdRdUZZVndiQ2VTZ3NoSms4cE9pSTd1Wk5BeTVCYlJuRHVadVlpSVE5S3hocHZ5Y2tLNFBqUQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-10T13:11:35.000Z",
-      "summary": ""
-    },
-    {
-      "title": "人形机器人运动控制，如何随“芯”而动？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oVVpsSTV3Qnk5aEVLZF9ZUU9xR3pWOUFjeDNoY1BHbVVudDdhTUlwU1hKTmpROG9EVUtSajJtRUdXZW0yS1dZSndndXAzOTVPZ2dSZHAwcw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-10T05:35:40.000Z",
-      "summary": "人形机器人运动控制技术正随芯片技术发展而进步。",
-      "summaryZh": ""
-    },
-    {
-      "title": "飞扬集团与红熊AI及钉钉中国进行战略合作深化“AI+文旅”融合发展",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZdjZraHRlZEN1TTRTWnNuVV9DRWcybHlmOXJSY01zbnFWb3V3Zkw1SndyZXU2bTM2TjY1RTVsN1lMbXptMTQ4OE56cGtNbEVFWEh6bGJQTHdNNTBhVVJXOA?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-11T02:46:34.000Z",
-      "summary": "飞扬集团与红熊AI及钉钉中国签署战略合作，深化AI在文旅行业应用。",
-      "summaryZh": ""
-    },
-    {
       "title": "如何促进政务AI规模化落地？WPS 365给出 \"安全底座\" 解法",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxeHBuRnNBbDlDVTNDWUNWMlBnakFNVFUxZEZjd0UwVkhOcnRHVk1CcHFuMWxKY0tSemRvcEV3RXlZR1BRNGFlWE5feF9Hd1RWSkRKY2JVY1Bja0ZVXzlB?oc=5",
       "source": "中国经济网",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-10T08:37:00.000Z",
-      "summary": "WPS 365政务版提供“安全底座”方案，助力政务AI规模化落地。",
+      "summary": "WPS 365政务版以“安全底座”助力政务AI规模化落地。",
       "summaryZh": ""
     },
     {
@@ -198,7 +201,8 @@
       "category": "robotics",
       "pubDate": "2026-09-10T22:14:26.000Z",
       "summary": "Teradyne Robotics起诉JAKA侵犯3项Universal Robots专利。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "泰瑞达机器人公司就优傲机器人的 3 项专利起诉 JAKA"
     },
     {
       "title": "Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M",
@@ -208,7 +212,8 @@
       "category": "robotics",
       "pubDate": "2026-09-10T20:10:22.000Z",
       "summary": "Swarmer拟以最高2.24亿美元收购乌克兰无人地面车辆制造商Ratel Robotics。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "Swarmer 将以高达 2.24 亿美元收购乌克兰 UGV 制造商 Ratel Robotics"
     },
     {
       "title": "人形机器人的“感官”：视力触觉、IMU的终局在哪里？",
@@ -217,17 +222,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-10T09:46:02.000Z",
-      "summary": "人形机器人感知系统技术路线尚不明确，市场增长迅速，国产化进程加速。",
+      "summary": "人形机器人感知系统技术路线与市场趋势分析。",
       "summaryZh": ""
     },
     {
-      "title": "AI终端入口正被重新定义：广东精密制造卡位人形机器人",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT3hEQ3pmdnVhNi13cUkzUXpySWY5c0FqZlBiVnp5eTJWWEJ3NlM4cVV3OVlBQXlBNGdIbldVczE2Q2xuUWt5S2pBbmJwZU4yZ2VmTnJ6cXZ4V1luVlVWME5tOGc5cGtoMC1aX1VDQTc4RFhvck5IODN2bDhFWGNNbEtBX0dtbXNlLWpSSA?oc=5",
-      "source": "21财经",
+      "title": "中国人形机器人训练场：哪里有场？谁在运营？数据怎么流动？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XM0U0TFpsOW42MTBUbWhIcUFEajN2a1BYN3ptZXl1SzI2bHVBUzdfZHd1bkRaMS1lbmlrVFU2RGpZcWVfMXp3cGx4UmdhNTdiQ2JYTXVMOA?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-10T05:10:00.000Z",
-      "summary": "广东领益智造通过精密制造技术卡位人形机器人领域，营收与毛利额创新高。",
+      "pubDate": "2026-09-11T05:56:33.000Z",
+      "summary": "中国多地建立人形机器人训练场，数据采集与交易产业链逐渐形成。",
+      "summaryZh": ""
+    },
+    {
+      "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
+      "link": "https://www.qbitai.com/2026/09/487163.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-11T02:50:47.000Z",
+      "summary": "九识宣布战略升级，聚焦城市级物理AI，拓展无人车应用场景。",
       "summaryZh": ""
     },
     {
@@ -238,6 +253,16 @@
       "category": "robotics",
       "pubDate": "2026-09-11T00:47:09.000Z",
       "summary": ""
+    },
+    {
+      "title": "全球AI投融资动态,AI创投日报,具身智能、AI原生软件,超维动力,临近空间,悦点科技,灵矩知造,烨知心,Xapien",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xUUJyVExPTDZKZWlFSFViLUsxQjFreVZxLTBxOVFpNmh0ZVA5cVBHcUl0cnl2TmFCZXJhTlNmOHctWlRjd01EV0NHTTREbFhaMDR1WXhkeUE4LVlrenYwTVluRTZSOEVvWGpMRlRyZw?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-10T17:04:57.000Z",
+      "summary": "AI领域具身智能与机器人赛道持续火热，超维动力领跑市场，多企业获融资。",
+      "summaryZh": ""
     }
   ]
 }
