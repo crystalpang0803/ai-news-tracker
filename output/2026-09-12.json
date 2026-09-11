@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "generatedAt": "2026-09-11T20:54:09.778Z",
+  "generatedAt": "2026-09-11T21:54:55.422Z",
   "items": [
     {
       "title": "九部门：推动人工智能模型、智能体等技术创新，并率先在汽车行业落地应用",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-11T02:04:11.000Z",
-      "summary": "九部门推动人工智能技术在汽车行业应用创新。",
+      "summary": "九部门推动人工智能在汽车行业技术创新与应用。",
       "summaryZh": ""
     },
     {
@@ -23,13 +23,33 @@
       "summaryZh": ""
     },
     {
+      "title": "AI进化速递丨OpenAI推出Agents API公开测试版",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXdmNHU29mY3J5TTRrREZ5SHVoaDBQZHFIMFM5Y01CZ1FTT2N2dnpEZ1FXSWJ3MXlTSEZOVEROLTlwVWhvSXYwTUpraWpaWWJ5dm90eA?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-11T12:32:00.000Z",
+      "summary": "OpenAI发布Agents API公开测试版。",
+      "summaryZh": ""
+    },
+    {
+      "title": "支付宝推出三大“AI收”能力，机器狗也能自己买单",
+      "link": "https://zhidx.com/p/593341.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-11T08:19:27.000Z",
+      "summary": "支付宝推出AI支付新功能，机器狗可自主完成购物支付。",
+      "summaryZh": ""
+    },
+    {
       "title": "DeepSeek V4.1 Flash上线，崔添翼加入“义父之战”",
       "link": "https://www.tmtpost.com/8135584.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-11T12:58:49.000Z",
-      "summary": "DeepSeek V4.1 Flash上线，崔添翼加入“义父之战”，性能超越V4 Pro并降价。",
+      "summary": "DeepSeek V4.1 Flash上线，崔添翼加入“义父之战”，性能提升价格降低。",
       "summaryZh": ""
     },
     {
@@ -49,7 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-11T13:06:34.000Z",
-      "summary": "美国律师因用ChatGPT生成含伪造证词的诉讼文书被罚款5000美元。",
+      "summary": "美国律师因AI生成虚假证词被罚5000美元。",
       "summaryZh": ""
     },
     {
@@ -64,6 +84,17 @@
       "titleZh": "Nscale 在潜在 IPO 之前将 OpenAI 前高管 Fidji Simo 加入董事会"
     },
     {
+      "title": "Due to GPT-6 Astra demand, OpenAI has paused new subscriptions to its $200 ChatGPT Pro tier.",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdnJRSVpaWlFSZDRqSVh0QzhOWXlPYmJFdXY2TmxIYWloTldMZWQ2RXYxUGhWLUE0eHFIVWxKZ2NHMG5SMExoWTM1LWM0eVJCaFdod1NyN2tBcEgwcXJLWlZOdE1RaHhtWGFEVXNvR09wei1aeGNsSVFRMzNOZVRpa0NKNjB5a3hwVk5SZlZYTlByemFmRXpxU0tLZnRtR3pQdnRNOWc1S2ZZeDJBRlNhQVBXVVRrVEpWazBnRTRMX0NxU3M3emJqWWNmZGI1REtWRE9fOU5qcDZTN0l5Q0FxQ2lB?oc=5",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-11T00:01:00.000Z",
+      "summary": "因GPT-6 Astra需求，OpenAI暂停了ChatGPT Pro 200美元订阅服务。",
+      "summaryZh": "",
+      "titleZh": "由于 GPT-6 Astra 需求，OpenAI 已暂停对其 200 美元 ChatGPT Pro 级别的新订阅。"
+    },
+    {
       "title": "国产大模型推理成本持续下探，南方基金麦骏杰关注AI通胀主线",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92UzIzQXBwMUJxa2FnVjRXWTh5b1RYMGVuY2NTdUdQOEluT1JfRUpmSXJSekE1VlpkU0hLLWxVa0hGSU1JbS1wMUEtZGtlYjlPRHFlSkFlcXU?oc=5",
       "source": "界面新闻",
@@ -74,23 +105,13 @@
       "summaryZh": ""
     },
     {
-      "title": "紧跟沐曦壁仞天数智芯做AI芯片的燧原也敲钟了研发难量产难融资难这些“上海芯”靠什么破圈？",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoSkFCemJSTFUzbUhsODNlZ0haSTVRSnp4ZGlyM0RKOGJLUXZ6RFpkaE92SXp1SERpSjktcEJKRkF5YkxfYVN5QzdHYUlmTjhxS2hGRQ?oc=5",
+      "title": "从“DeepSeek时刻”到硬科技集体IPO：高盛解码中国AI投资新机遇",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81cDVFOHdrX214TDVpaUNYSGFiZUlFX0lzRDFmdjV0d0F6QUpMcnVJVWNMQjRjbXA2UFJLaUwwNDFEZ2lKT2I1SWJ6SUJhZHhaNUNBSg?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-11T15:20:15.000Z",
-      "summary": "上海AI芯片企业燧原科技登陆科创板，面临研发、量产、融资挑战。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI公司已经等不起电网了：算力战火烧至电厂",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBta2c0ZkF5dnhucllaRDlRS2d5cWFZVHlOMy1pMFZrNExqQXdhZ2lOTHRmWFVqT3laYVRSVUxGWWwtaU51ZFM5aGRVcTNoRWRXeXFz?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-11T06:15:35.000Z",
-      "summary": "AI公司加速布局能源基础设施，科技巨头投资发电以应对算力需求。",
+      "pubDate": "2026-09-11T13:24:17.000Z",
+      "summary": "高盛解析中国AI投资新机遇，硬科技集体IPO。",
       "summaryZh": ""
     },
     {
@@ -104,25 +125,15 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-      "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-      "source": "CNBC Tech",
+      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+      "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+      "source": "Ars Technica",
       "lang": "en",
       "category": "ai",
-      "pubDate": "2026-09-11T16:06:31.000Z",
-      "summary": "OpenAI推出金融版ChatGPT，旨在协助华尔街初级银行家工作。",
+      "pubDate": "2026-09-11T19:34:09.000Z",
+      "summary": "律师因引用虚构证人虚假证词被新墨西哥州最高法院处罚。",
       "summaryZh": "",
-      "titleZh": "OpenAI 通过新的金融服务 ChatGPT 瞄准华尔街初级银行家的工作"
-    },
-    {
-      "title": "散户抢筹4000倍，开盘涨188%，AI芯片四小龙最后一子落地",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hNENTcnc0RjVvZFR4T2NaZE9CMVlkUVUzQXByaTVMWmpuVF9Ebk04NUQ1cm1ITlJlblMzaTlBOTlOZEVkRWNscVVza1lmY0hvbzdDdDkzQ1N2bWUzMC1OUVMxdw?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-11T09:04:39.000Z",
-      "summary": "AI芯片四小龙最后一子燧原科技上市，开盘涨188%，散户认购倍数达4000倍。",
-      "summaryZh": ""
+      "titleZh": "使用 ChatGPT 的律师因引用虚构证人的虚假证词而受到惩罚"
     },
     {
       "title": "收入占比1%–3%，人形机器人尚“不成气候”，但曲线正在抬头",
@@ -131,17 +142,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-11T07:19:29.000Z",
-      "summary": "人形机器人收入占比低，但增长曲线上升。",
-      "summaryZh": ""
-    },
-    {
-      "title": "消费类小型固态激光雷达：助推家用机器人性能迭代",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94U2Z3VGFrWkwtMEYwSEFST3BjYjFfc05oZFZtanFHY2RCY1VELVNSM3JfVGplY1BtWlhMZDg5TTBsRU9FQjlhX3g2SE95b2hnX2tsRGJVWQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-11T03:11:32.000Z",
-      "summary": "消费级小型固态激光雷达助力家用机器人性能升级。",
+      "summary": "人形机器人收入占比低，但增长趋势明显。",
       "summaryZh": ""
     },
     {
@@ -151,7 +152,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-10T23:00:00.000Z",
-      "summary": "广东精密制造企业领益智造通过迁移手机制造工艺，成功卡位人形机器人领域。",
+      "summary": "广东领益智造通过精密制造能力转型AI终端入口，人形机器人业务增长显著。",
       "summaryZh": ""
     },
     {
@@ -161,9 +162,20 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-11T15:30:04.000Z",
-      "summary": "人形机器人挑战猴栏。",
+      "summary": "人形机器人挑战猴爬架。",
       "summaryZh": "",
       "titleZh": "周五视频：人形机器人挑战猴栏"
+    },
+    {
+      "title": "One brick at a time: How Monumental uses robotics to build walls",
+      "link": "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-11T21:09:01.000Z",
+      "summary": "Monumental利用机器人技术逐步建造墙体。",
+      "summaryZh": "",
+      "titleZh": "一次一块砖：Monumental 如何使用机器人建造墙壁"
     },
     {
       "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
@@ -183,19 +195,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-11T10:45:00.000Z",
-      "summary": "九部门发布《规划》，产能预警调控首次写入，AI、自动驾驶、电池回收全安排，专家预判未来五年重塑汽车行业竞争规则。",
+      "summary": "九部门发布《规划》，产能预警调控首次写入，AI、自动驾驶、电池回收全安排，重塑汽车行业竞争规则。",
       "summaryZh": ""
-    },
-    {
-      "title": "How drone developers are navigating changing regulatory landscapes to help farmers",
-      "link": "https://www.therobotreport.com/how-hylio-drone-developers-navigate-changing-regulatory-landscape-help-farmers/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-11T12:21:16.000Z",
-      "summary": "无人机开发者应对法规变化以助农务发展。",
-      "summaryZh": "",
-      "titleZh": "无人机开发商如何应对不断变化的监管环境以帮助农民"
     },
     {
       "title": "“实用”机器人展现中国智造强大实力",
