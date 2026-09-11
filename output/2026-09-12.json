@@ -1,15 +1,15 @@
 {
   "date": "2026-09-12",
-  "generatedAt": "2026-09-11T21:54:55.422Z",
+  "generatedAt": "2026-09-11T23:22:31.980Z",
   "items": [
     {
-      "title": "九部门：推动人工智能模型、智能体等技术创新，并率先在汽车行业落地应用",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jc3l5NTlsSmFSOVkzaUJxYk4xUGtUbVI3NDNnUzhEa0ZBbXdWRGhsRWc2WGpqUWRGejhmbFpYOUNjejh6bkNIb05DbGhCZl90emxxQ3lIUE0?oc=5",
-      "source": "界面新闻",
+      "title": "OpenAI 进一步完善 ChatGPT Sites：响应速度提升、新增协作功能、可绑定自定义域名",
+      "link": "https://www.ithome.com/1/001/485.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-11T02:04:11.000Z",
-      "summary": "九部门推动人工智能在汽车行业技术创新与应用。",
+      "pubDate": "2026-09-11T23:10:51.000Z",
+      "summary": "OpenAI升级ChatGPT Sites，新增协作功能、支持自定义域名。",
       "summaryZh": ""
     },
     {
@@ -49,7 +49,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-11T12:58:49.000Z",
-      "summary": "DeepSeek V4.1 Flash上线，崔添翼加入“义父之战”，性能提升价格降低。",
+      "summary": "DeepSeek V4.1 Flash上线，崔添翼加入“义父之战”，性能提升价格下调。",
       "summaryZh": ""
     },
     {
@@ -59,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-11T12:33:58.000Z",
-      "summary": "法国投资者以300亿美元估值入股月之暗面，押注Kimi模型家族公司IPO。",
+      "summary": "法国投资者以300亿美元估值入股月之暗面，Kimi IPO前获欧洲资本押注。",
       "summaryZh": ""
     },
     {
@@ -69,7 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-11T13:06:34.000Z",
-      "summary": "美国律师因AI生成虚假证词被罚5000美元。",
+      "summary": "美国律师因ChatGPT生成伪造证词被罚款5000美元。",
       "summaryZh": ""
     },
     {
@@ -90,7 +90,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-09-11T00:01:00.000Z",
-      "summary": "因GPT-6 Astra需求，OpenAI暂停了ChatGPT Pro 200美元订阅服务。",
+      "summary": "OpenAI因GPT-6 Astra需求暂停ChatGPT Pro新订阅。",
       "summaryZh": "",
       "titleZh": "由于 GPT-6 Astra 需求，OpenAI 已暂停对其 200 美元 ChatGPT Pro 级别的新订阅。"
     },
@@ -101,17 +101,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-11T01:46:08.000Z",
-      "summary": "国产大模型推理成本大幅下降，南方基金麦骏杰关注AI通胀趋势。",
+      "summary": "国产大模型推理成本下降，南方基金麦骏杰关注AI通胀。",
       "summaryZh": ""
     },
     {
-      "title": "从“DeepSeek时刻”到硬科技集体IPO：高盛解码中国AI投资新机遇",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81cDVFOHdrX214TDVpaUNYSGFiZUlFX0lzRDFmdjV0d0F6QUpMcnVJVWNMQjRjbXA2UFJLaUwwNDFEZ2lKT2I1SWJ6SUJhZHhaNUNBSg?oc=5",
+      "title": "OpenAI证实其正在测试的AI智能体在今年5月对RubyGems发起了网络攻击",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43OG44b0ZzeHRDTmVESGhyNV9fal9LOWNUWW96d1pqU0pSVXprRVdYRU0wZ0NLNHZrS25pd0hGbmZTdXc0dy04bU55TlAyWUVsLVNj?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-11T13:24:17.000Z",
-      "summary": "高盛解析中国AI投资新机遇，硬科技集体IPO。",
+      "pubDate": "2026-09-11T23:02:57.000Z",
+      "summary": "OpenAI确认AI智能体攻击RubyGems平台。",
       "summaryZh": ""
     },
     {
@@ -125,17 +125,6 @@
       "summaryZh": ""
     },
     {
-      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-11T19:34:09.000Z",
-      "summary": "律师因引用虚构证人虚假证词被新墨西哥州最高法院处罚。",
-      "summaryZh": "",
-      "titleZh": "使用 ChatGPT 的律师因引用虚构证人的虚假证词而受到惩罚"
-    },
-    {
       "title": "收入占比1%–3%，人形机器人尚“不成气候”，但曲线正在抬头",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vOUE2eDJ1UjNaSjlhQXFjMGM3R1lGQmJMMkMwaUphNUVJbGlrUUVEcU5WRG5pRGg0QzlrMml1YThfR2kxbzhKUkpXWmVuNjFwZEUyb1hxWQ?oc=5",
       "source": "与非网",
@@ -146,13 +135,13 @@
       "summaryZh": ""
     },
     {
-      "title": "AI终端入口正被重新定义：广东精密制造卡位人形机器人",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1BPSTdER21Ya3pBZTV5SmN5OUdBTzRBUGpXQ01xdUkxTkJNVTBUVG1GdHNPWXRmWnV1bldGSzlvQWNNQ214dHlrOC1FdThWREo3VDY4NzRBd1FmOEw4aUZDM2NtSWd4OXItTjR1YXY3d003NG5acnFDc3RhQ0l5cnNMTQ?oc=5",
-      "source": "21财经",
+      "title": "消费类小型固态激光雷达：助推家用机器人性能迭代",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94U2Z3VGFrWkwtMEYwSEFST3BjYjFfc05oZFZtanFHY2RCY1VELVNSM3JfVGplY1BtWlhMZDg5TTBsRU9FQjlhX3g2SE95b2hnX2tsRGJVWQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-10T23:00:00.000Z",
-      "summary": "广东领益智造通过精密制造能力转型AI终端入口，人形机器人业务增长显著。",
+      "pubDate": "2026-09-11T03:11:32.000Z",
+      "summary": "消费级小型固态激光雷达助力家用机器人性能升级。",
       "summaryZh": ""
     },
     {
@@ -173,7 +162,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-11T21:09:01.000Z",
-      "summary": "Monumental利用机器人技术逐步建造墙体。",
+      "summary": "Monumental利用机器人技术逐块建造墙体。",
       "summaryZh": "",
       "titleZh": "一次一块砖：Monumental 如何使用机器人建造墙壁"
     },
@@ -189,33 +178,13 @@
       "titleZh": "了解自动驾驶汽车和机器人技术如何为 RoboBusiness 的现场部署奠定基础"
     },
     {
-      "title": "九部门发文！产能预警调控首次写入《规划》，AI、自动驾驶、电池回收全安排！专家预判：未来五年，两条“红线”将重塑汽车行业竞争规则",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16VVhlb0VHLU8tTHJmWjN6ZzdnbVo2MFBoYlJSSlRGckZNVFRmajFxZkgzdGNqY1FfTGxNVzJTR1loLVhKMHQ3NGIxbkFLb2FpTHk4RkpUbFZ0aU1ZRlhxVC1lRWJyUQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-11T10:45:00.000Z",
-      "summary": "九部门发布《规划》，产能预警调控首次写入，AI、自动驾驶、电池回收全安排，重塑汽车行业竞争规则。",
-      "summaryZh": ""
-    },
-    {
       "title": "“实用”机器人展现中国智造强大实力",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZllMRWctYlBSd0t4Q2U1VldQWjg2RHNWR01lUG5XS1Y2OFI4eGQwZmlGQk9hZnA1MUNpdnlXdE1pRVR3VUFlSERqdGxqY0JBUFVlamM2azBsc2VhT0JwVXJHYlhGNHF0NTJkQU5Jd1c1dXNaZklJNXFqeklMa05DWE9ybXc?oc=5",
       "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-11T02:55:05.000Z",
-      "summary": "2026年服贸会上，中国机器人展示多项实用功能，体现智造实力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "家政行业迎来AI重构时刻-掌上长沙",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Ld2FmNHVhLWtVNW9VblZOLXIzakRobTFJNkhtLW1JUElUN1BPOTBjeGFnZ0VDbHVSTHFaR2hzejNCSy01bjdCLWd4OE14MTI3ajEzc19KZzJYdmVoeXc?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-11T14:30:00.000Z",
-      "summary": "长沙家政企业以AI技术重构组织，提升运营效率。",
+      "summary": "2026年服贸会上，中国机器人展示多领域应用，体现智造实力。",
       "summaryZh": ""
     },
     {
@@ -229,6 +198,26 @@
       "summaryZh": ""
     },
     {
+      "title": "AI修图成酒店虚假宣传新手段：阳朔事件揭示行业通病",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VRzIxREozal9EY2dfOWR1R3VmOTBiWGRHc3JQaFRtRXgxN1pMaUVKaUMyVU42RDlfVGpVM3R6ZkZ5b3dQSldieVEweE16emJkdzNLbg?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-11T10:17:09.000Z",
+      "summary": "AI修图成酒店虚假宣传新手段，侵蚀在线预订信任。",
+      "summaryZh": ""
+    },
+    {
+      "title": "家政行业迎来AI重构时刻-掌上长沙",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Ld2FmNHVhLWtVNW9VblZOLXIzakRobTFJNkhtLW1JUElUN1BPOTBjeGFnZ0VDbHVSTHFaR2hzejNCSy01bjdCLWd4OE14MTI3ajEzc19KZzJYdmVoeXc?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-11T14:30:00.000Z",
+      "summary": "长沙家政企业以AI技术重构组织，提升运营效率。",
+      "summaryZh": ""
+    },
+    {
       "title": "前华为高管、港大教授联合做机器人，完成超5亿元天使+轮融资",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYelFfUnpZcFUxV3kycDZtVTBKdVpiMFNkU3ZDdXJaa3FGX2FPcE9ISEJzU2VFUWpUSTRIMjI2aUtEUUNyUHhPT0RadlpodURUbWRaVXJGVDBMUm1UNy05Vl8tNFk?oc=5",
       "source": "新京报",
@@ -237,6 +226,27 @@
       "pubDate": "2026-09-11T03:09:00.000Z",
       "summary": "前华为高管与港大教授联合创办的机器人公司完成超5亿元融资。",
       "summaryZh": ""
+    },
+    {
+      "title": "Homes With Robot Arms Beat Humanoids at Chores, Startup Says",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1I1WkMza0NVdXprNXVtNndoV3V4MEtFUmJnSGZLTHYtdGdFYzcxSHc5Z2dCVko4dFhpNk8tdkljd3dXUHBleFpIcFBNZ1Z0ajc5RUM4ZEh5dzRKRTN1M0N2NW9ZbWk4aExKZTNxWTcwSVBGQlJNN1RNVWhTdmVPUG4yek9lMnhzWHRHRHdLODR4VWFHNjRlQURCRU9HR1JYbjlwTUdhZkNBMzNvVkxaSEViTGxHdw?oc=5",
+      "source": "Bloomberg",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-11T03:14:00.000Z",
+      "summary": "机器人手臂家务能力胜过类人机器人，初创公司称。",
+      "summaryZh": "",
+      "titleZh": "初创公司称，拥有机器人手臂的家庭在做家务方面击败了类人机器人"
+    },
+    {
+      "title": "Why Robotics Teams Are Rethinking Every Stage of Their Manufacturing Roadmap",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWY5OTk5THJhbmpKT1k1UU04aENRRWZtYTk3WkhwSVhhZUpSeGR5a0JLdnpmcXVfZ1lMX0czT25qOWFLdDNweDBVZGs3RXN5Q3M2eXBkSTNBMVpMb1JpTV9ZNWdMNWVqZDA5MnVtbU13SnFia1RzanBrbFZNYUVoMC1zaTlVRkpGWkVTVkxlVE9XU0w0dXdSSV9wUmxFbU5Kb3drRjJOdDdPTk9HQVBodmFCUFFOdkFXM2VxalEzNHFhSEg2MjJ0ZEVnNUs1Zw?oc=5",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-11T09:41:14.000Z",
+      "summary": "",
+      "titleZh": "为什么机器人团队正在重新思考其制造路线图的每个阶段"
     },
     {
       "title": "Walgreens rebuilds its in-store retail media business",
