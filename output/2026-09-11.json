@@ -1,17 +1,7 @@
 {
   "date": "2026-09-11",
-  "generatedAt": "2026-09-11T00:34:35.860Z",
+  "generatedAt": "2026-09-11T04:46:14.020Z",
   "items": [
-    {
-      "title": "OpenAI 扩大实时语音模型能力：GPT-Live-1 上线 API，支持打断处理、工具调用和电话语音智能体",
-      "link": "https://www.ithome.com/1/001/091.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-11T00:28:22.000Z",
-      "summary": "OpenAI推出GPT-Live-1 API，支持实时语音交互和电话语音智能体。",
-      "summaryZh": ""
-    },
     {
       "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
       "link": "https://www.qbitai.com/2026/09/486684.html",
@@ -19,27 +9,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-10T07:25:39.000Z",
-      "summary": "OpenAI发布ChatGPT Images 2.5，生图速度提升，细节更逼真。",
+      "summary": "OpenAI发布ChatGPT Images 2.5，生图模型生成更快、细节更佳。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI Agents API 开放公测：支持代码执行、工具调用和跨上下文任务运行，为开发者提供云端智能体基础设施",
-      "link": "https://www.ithome.com/1/001/072.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-10T23:31:21.000Z",
-      "summary": "OpenAI推出公测版Agents API，支持云端智能体基础设施。",
-      "summaryZh": ""
-    },
-    {
-      "title": "GPT6发布之际，一位硅谷工程师首谈眼中的“混蛋”马斯克、AGI、智能平权与人类可能面对的可怕未来",
-      "link": "https://www.tmtpost.com/8135077.html",
+      "title": "优地机器人，困在酒店舒适区",
+      "link": "https://www.tmtpost.com/8135803.html",
       "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-10T10:30:00.000Z",
-      "summary": "硅谷工程师赵迪谈GPT6、马斯克、AGI与人类未来挑战。",
+      "category": "robotics",
+      "pubDate": "2026-09-11T02:18:41.000Z",
+      "summary": "优地机器人上市后面临营收含金量不足、毛利率低、技术含量机器人销量占比小等挑战。",
       "summaryZh": ""
     },
     {
@@ -53,6 +33,26 @@
       "summaryZh": ""
     },
     {
+      "title": "自动驾驶关键一年，“体系化能力”决定终局？",
+      "link": "https://www.tmtpost.com/8135200.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-11T03:49:58.000Z",
+      "summary": "自动驾驶行业进入关键期，体系化能力成为企业决胜关键。",
+      "summaryZh": ""
+    },
+    {
+      "title": "工信部等九部门：到 2030 年纯电动乘用车百公里平均电耗达 11.5kWh 左右，自动驾驶汽车规模应用",
+      "link": "https://www.ithome.com/1/001/115.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-11T01:44:16.000Z",
+      "summary": "到2030年，我国纯电动乘用车百公里平均电耗目标为11.5kWh，自动驾驶汽车将实现规模应用。",
+      "summaryZh": ""
+    },
+    {
       "title": "西交大校友造仿生机器人，融了数千万元",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hOU92V3plVlNPemZ0Uzd3UGthMEF3TzhxQ29HdnhYV21ZbFNNaUMwTnJsMGg3QW9zZmxIQVJHSDU3cW5XRXc?oc=5",
       "source": "智东西",
@@ -63,42 +63,13 @@
       "summaryZh": ""
     },
     {
-      "title": "蚂蚁集团入股具身智能公司戴盟机器人",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1ZXhlSDZIWlFiUFByUEp5TG51NlNBdEpTNGpEUHZ3UkJ0cWN5T1JyQmxTb0QwTFRlU2o4eVRXbnNOSnVndkJVXzgzZFVKeWpieHZxRVFhMHYyQTRGckdlUHZqc2RDeXlxYkRSOQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-10T02:28:50.000Z",
-      "summary": ""
-    },
-    {
-      "title": "313起融资，小鹏机器人、帕西尼领跑，算力脑机企业接续发力，351.59亿同比翻四倍：2026年8月人工智能领域投融资分析",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YT3JITzB6OVEyYkg3MmxFdWpBbjM2cjBjT2M0MXBybjJGd3plUFUwYzNlY3c3cFFPdldDZDZ4Z3pGT01BMHd3dnJkUC12SUE?oc=5",
+      "title": "被OpenAI的AI攻破之后，Hugging Face创始人刊文：闭源工具失守，安全解法在开源模型",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwMXJHbFBUM3JEUjhxUGUtUzhsN3k0MHdQQllYM0x4eUdwN0hUY0hmT0pETDE5bnQ0MmJQNVp4M1VYUkEtVlNlclMtbkpqWHM?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-10T11:32:07.000Z",
-      "summary": "2026年8月人工智能领域投融资事件313起，融资金额351.59亿同比增长四倍。",
-      "summaryZh": ""
-    },
-    {
-      "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
-      "link": "https://www.qbitai.com/2026/09/486436.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-10T01:39:13.000Z",
-      "summary": "京东发布JoyAI世界模型，打造10万卡国产算力集群，展示物理AI建设成果。",
-      "summaryZh": ""
-    },
-    {
-      "title": "钛晨报证监会发声，事关“十五五”资本市场工作；DeepSeek V4.1 Flash模型正式发布；马斯克旗下The Boring Company完成30亿美元D轮融资，估值达230亿美元",
-      "link": "https://www.tmtpost.com/8135740.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-10T23:20:00.000Z",
-      "summary": "证监会部署“十五五”资本市场工作，DeepSeek发布新模型，The Boring Company完成30亿融资。",
+      "pubDate": "2026-09-11T02:28:42.000Z",
+      "summary": "Hugging Face创始人指出，闭源AI工具失守，开源模型是安全解法。",
       "summaryZh": ""
     },
     {
@@ -112,17 +83,6 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI launches ChatGPT for Financial Services in bid to disrupt Wall Street with automated research, report decks",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTnl3VmtvaXBBRTI5WnV6RGR4amxsdTNoOUhMWW10bWJGWlZjbklsNzVnRzd3dmtoRXZZMUtSV0dGWTlVSGJDVTFfTmxWSm92aHlrZmNnT09DeHUyaEpEanFIYWN2cG5OZUtYb2NSbGJTSVE5TEpkRWxkZkZLV21Kc2k1RkNTbDV3WUZhWWxLeW9CN1VfMlYwWFFraEIyeTBFY3YzX0h3U21vSDJEcGE1TGFrS0c1SEtOSW1pS1hxSm9rWi0zTUJ5SGhJQ1B2X1RzMEVoVWtydzlGU1JjVjNwaGRORmppN212NWd3aXJEazI?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-10T19:02:05.000Z",
-      "summary": "OpenAI推出金融版ChatGPT，旨在自动化金融研究及报告制作。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 推出针对金融服务的 ChatGPT，旨在通过自动化研究和报告来颠覆华尔街"
-    },
-    {
       "title": "DeepSeek-V4.1-Flash debuts with $0.003/1M off-peak cached-input rate and benchmarks eclipsing GPT-5.6 Sol, Claude Opus 5",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUXAxdU5ESG9vS2EtNk9Sd1NCUDEzSzgyRnpNTjhIQXBhWExvV3UzS0lQNWNkN3lsaVMtNENINzdaRGRja3ZnbTRDNGJIeDBHeVRtcHBzOU9aLWotVnBXRDd5SGRBb1hHMjRrcDA4UmdVWUZzSTg1bGhuajYteHg2Y25mdU16VkwwVlNyaklQSFhBWmRWOUdvUkwyMlJmLXV0UUVOczNJZkpHVF84VUhISzlWMEdJXzVnRHdhTndpX1l3ekt3YnEyaGlYdlJ5QTNkcURfM0ZkbGlfR3dPcUcyd1E5RzluLUtU?oc=5",
       "source": "VentureBeat",
@@ -130,8 +90,17 @@
       "category": "ai",
       "pubDate": "2026-09-10T23:33:45.000Z",
       "summary": "DeepSeek-V4.1-Flash发布，峰值缓存输入率为0.003美元/百万，性能超越GPT-5.6 Sol和Claude Opus 5。",
-      "summaryZh": "",
-      "titleZh": "DeepSeek-V4.1-Flash 首次亮相，非高峰缓存输入速率为 0.003 美元/100 万美元，基准测试超越了 GPT-5.6 Sol、Claude Opus 5"
+      "summaryZh": ""
+    },
+    {
+      "title": "让机器狗替你买东西：支付宝宣布首推“AI 付 · 具身智能”，网友戏称“狗腿付”",
+      "link": "https://www.ithome.com/1/001/145.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-11T03:16:51.000Z",
+      "summary": "支付宝推出AI付具身智能，机器狗可代购。",
+      "summaryZh": ""
     },
     {
       "title": "上海机器人独角兽开源世界模型，能“看懂”三维物理世界了",
@@ -144,23 +113,81 @@
       "summaryZh": ""
     },
     {
+      "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
+      "link": "https://www.qbitai.com/2026/09/487092.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-11T01:46:55.000Z",
+      "summary": "OpenAI在解决纳维-斯托克斯方程后，又取得霍奇猜想“实质性进展”。",
+      "summaryZh": ""
+    },
+    {
+      "title": "人工智能应用政策支持力度加大，AI相关ETF选哪个？高弹性科创创业人工智能ETF景顺(159142)一键布局AI产业链核心标的",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LRTBfTk85U2xzWTNBV0RESENQTDBDNFdubzJlRGR0ZjFDRE1qMk5uVnFkaGthOXpfSXNhWTBKTzZmX1cwTjB1ZWt3aTVpaERBRVBvZEJWano?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-11T04:21:54.000Z",
+      "summary": "景顺科创创业人工智能ETF（159142）布局AI产业链核心标的，紧随政策支持力度加大。",
+      "summaryZh": ""
+    },
+    {
+      "title": "燧原科技将正式登陆科创板 国产AI芯片四小龙齐聚资本市场",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91RGR3aHB5M1kwQ1M2U25jSGtGR1hrSVVRRmVzY3I3MGpyR29od3BXWVV6QXlUcWc3NFRDT3R6SUxfN2p2aU9jb0szT01LZkhBNDBj?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-10T23:29:48.000Z",
+      "summary": "燧原科技将登陆科创板，国产AI芯片四小龙齐聚资本市场。",
+      "summaryZh": ""
+    },
+    {
+      "title": "中信证券：上半年算力链业绩高增，软硬件表现分化",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Wd2R5RS1tRzNDS3lOQjV1VUl3clQwalZxVTVrdjY0TDB2TEI4QUlxOV9DdmxKNGhNOGdzeEhDbE9RcGVFY1p0a0lNV2l5OG1rWldfd3l2c1hwS1VRYTloVlpCNEFMVDFlNVd5MQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-11T00:31:11.000Z",
+      "summary": ""
+    },
+    {
+      "title": "财联社9月10日电，AI芯片初创公司D-MATRIX同时表示，与Astera Labs在NVIDIA NVLINK FUSION生态体系内合作，以交付定制解决方案。",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMUJ4Y25odmJSQmNQR0thQVd2ZTZJY24xaGs4TTd0dmtfRFhBX2JmM3RndFBWb2ctSDFfUVFoektlaGNwTi1fVDhMQkt5emdRdUZZVndiQ2VTZ3NoSms4cE9pSTd1Wk5BeTVCYlJuRHVadVlpSVE5S3hocHZ5Y2tLNFBqUQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-10T13:11:35.000Z",
+      "summary": ""
+    },
+    {
+      "title": "人形机器人运动控制，如何随“芯”而动？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oVVpsSTV3Qnk5aEVLZF9ZUU9xR3pWOUFjeDNoY1BHbVVudDdhTUlwU1hKTmpROG9EVUtSajJtRUdXZW0yS1dZSndndXAzOTVPZ2dSZHAwcw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-10T05:35:40.000Z",
+      "summary": "人形机器人运动控制技术正随芯片技术发展而进步。",
+      "summaryZh": ""
+    },
+    {
+      "title": "飞扬集团与红熊AI及钉钉中国进行战略合作深化“AI+文旅”融合发展",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZdjZraHRlZEN1TTRTWnNuVV9DRWcybHlmOXJSY01zbnFWb3V3Zkw1SndyZXU2bTM2TjY1RTVsN1lMbXptMTQ4OE56cGtNbEVFWEh6bGJQTHdNNTBhVVJXOA?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-11T02:46:34.000Z",
+      "summary": "飞扬集团与红熊AI及钉钉中国签署战略合作，深化AI在文旅行业应用。",
+      "summaryZh": ""
+    },
+    {
       "title": "如何促进政务AI规模化落地？WPS 365给出 \"安全底座\" 解法",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxeHBuRnNBbDlDVTNDWUNWMlBnakFNVFUxZEZjd0UwVkhOcnRHVk1CcHFuMWxKY0tSemRvcEV3RXlZR1BRNGFlWE5feF9Hd1RWSkRKY2JVY1Bja0ZVXzlB?oc=5",
       "source": "中国经济网",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-10T08:37:00.000Z",
-      "summary": "WPS 365政务版以“安全底座”策略助力政务AI规模化落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "人形机器人的“感官”：视力触觉、IMU的终局在哪里？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kY3dPejdhQkgwUnRzWmRlWEw2VTdFNEFHcC1WbnRCSG5EWWQybVI4bFFhU3hqVXZWQ05SbkdtWmFqS1d2ZC14Mm5xRGdSaURHaWxZN1FSSQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-10T09:46:02.000Z",
-      "summary": "人形机器人感知系统技术路线、市场与竞争格局分析报告发布。",
+      "summary": "WPS 365政务版提供“安全底座”方案，助力政务AI规模化落地。",
       "summaryZh": ""
     },
     {
@@ -171,8 +198,7 @@
       "category": "robotics",
       "pubDate": "2026-09-10T22:14:26.000Z",
       "summary": "Teradyne Robotics起诉JAKA侵犯3项Universal Robots专利。",
-      "summaryZh": "",
-      "titleZh": "泰瑞达机器人公司就优傲机器人的 3 项专利起诉 JAKA"
+      "summaryZh": ""
     },
     {
       "title": "Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M",
@@ -182,40 +208,36 @@
       "category": "robotics",
       "pubDate": "2026-09-10T20:10:22.000Z",
       "summary": "Swarmer拟以最高2.24亿美元收购乌克兰无人地面车辆制造商Ratel Robotics。",
-      "summaryZh": "",
-      "titleZh": "Swarmer 将以高达 2.24 亿美元收购乌克兰 UGV 制造商 Ratel Robotics"
+      "summaryZh": ""
     },
     {
-      "title": "Best Robot Lawn Mowers (2026): 12+ Models Tested Over 3 Years",
-      "link": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
-      "source": "Wired",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-10T16:04:02.000Z",
-      "summary": "2026年测试了12款以上机器人割草机，性能显著提升。",
-      "summaryZh": "",
-      "titleZh": "最佳割草机器人 (2026)：超过 3 年测试的 12 种以上型号"
-    },
-    {
-      "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
-      "link": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-10T16:53:52.000Z",
-      "summary": "中国无人机在尼泊尔洪水救援中发挥关键作用，运送遗体和食物。",
-      "summaryZh": "",
-      "titleZh": "尼泊尔洪灾后，中国无人机在空运尸体和食物方面表现出色"
-    },
-    {
-      "title": "AI回答如何毁灭人类，杀手机器人被排在最后",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ycng5VUhhalhHekM5ZXpQVkhZMHE4ck1fMGpCWUxCWUs4UUlnZnlZRlRkczlRQzYzXzRMY082RmRJc1NNWGNObFItLUVOcWhtS1VweTlmMmFWMVdZZzd1c2FCSVREaWVfQ2JHbm1IcndIa2s3RnI0UQ?oc=5",
-      "source": "新浪财经",
+      "title": "人形机器人的“感官”：视力触觉、IMU的终局在哪里？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kY3dPejdhQkgwUnRzWmRlWEw2VTdFNEFHcC1WbnRCSG5EWWQybVI4bFFhU3hqVXZWQ05SbkdtWmFqS1d2ZC14Mm5xRGdSaURHaWxZN1FSSQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-10T23:05:00.000Z",
-      "summary": "AI专家对AI毁灭人类的风险预测存在分歧，杀手机器人可能性最低。",
+      "pubDate": "2026-09-10T09:46:02.000Z",
+      "summary": "人形机器人感知系统技术路线尚不明确，市场增长迅速，国产化进程加速。",
       "summaryZh": ""
+    },
+    {
+      "title": "AI终端入口正被重新定义：广东精密制造卡位人形机器人",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT3hEQ3pmdnVhNi13cUkzUXpySWY5c0FqZlBiVnp5eTJWWEJ3NlM4cVV3OVlBQXlBNGdIbldVczE2Q2xuUWt5S2pBbmJwZU4yZ2VmTnJ6cXZ4V1luVlVWME5tOGc5cGtoMC1aX1VDQTc4RFhvck5IODN2bDhFWGNNbEtBX0dtbXNlLWpSSA?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-10T05:10:00.000Z",
+      "summary": "广东领益智造通过精密制造技术卡位人形机器人领域，营收与毛利额创新高。",
+      "summaryZh": ""
+    },
+    {
+      "title": "京东正式启动物理AI加速计划 计划五年内采购300万台机器人",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OOHpYUjlIVzUzTk56MURZTVpYNEJHZXhZSExQWnU2dmpYRzk2cUFkcVl1WEVUbFRRTFBRUnlOR3otX3IyQTQ0QkYyd2hocUg5UkxsemNYVjNSSkh5T25Z?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-11T00:47:09.000Z",
+      "summary": ""
     }
   ]
 }
