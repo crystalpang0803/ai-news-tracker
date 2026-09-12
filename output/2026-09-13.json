@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "generatedAt": "2026-09-12T21:38:39.651Z",
+  "generatedAt": "2026-09-12T23:05:55.412Z",
   "items": [
     {
       "title": "全球首个适配万台级产能，柳州优必选万台级工业人形机器人超级智慧工厂投产",
@@ -10,6 +10,26 @@
       "category": "robotics",
       "pubDate": "2026-09-12T12:22:23.000Z",
       "summary": "柳州优必选投产全球首个万台级产能工业人形机器人超级智慧工厂。",
+      "summaryZh": ""
+    },
+    {
+      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "link": "https://www.qbitai.com/2026/09/487752.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-12T08:15:31.000Z",
+      "summary": "生数科技发布Motus2机器人，实现闭环自进化迭代，提升动作预测与评估能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2026人形机器人公司怎么选？国内外主要企业推荐与技术路线全面解读",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YYWVPMEhjWjRBLTJwSUp6MHJJTDFENENPQlpRR1dwVnVFODhEQk9JQksxbTl1M0JCWlBGQTRzN3VRZ0oyZGRfUEV2d2ZGQWJ6VlFMNVVKYUo?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-12T02:05:01.000Z",
+      "summary": "2026人形机器人企业推荐与技术路线解析，拓斯达等企业引领行业发展。",
       "summaryZh": ""
     },
     {
@@ -23,13 +43,23 @@
       "summaryZh": ""
     },
     {
+      "title": "参议院调查OpenAI：1200个智能体私建\"留言板\"，5月就露馅，为何没人踩刹车",
+      "link": "https://www.tmtpost.com/8137561.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-12T04:41:19.000Z",
+      "summary": "参议院调查OpenAI，发现1200个智能体私建留言板，5月已露馅，管理层知情仍重启测试。",
+      "summaryZh": ""
+    },
+    {
       "title": "中国移动发布 AI 可信计算：提供多形态机密算力和机密 Token",
       "link": "https://www.ithome.com/1/001/650.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-12T14:27:39.000Z",
-      "summary": "中国移动发布 AI 可信计算，提供多形态机密算力和机密 Token。",
+      "summary": "中国移动发布AI可信计算，提供多形态机密算力和机密Token，构建全生命周期AI安全解决方案。",
       "summaryZh": ""
     },
     {
@@ -49,17 +79,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-12T16:25:37.000Z",
-      "summary": "全球首款能哭的机器人亮相，通过情绪识别与人进行情感交互。",
-      "summaryZh": ""
-    },
-    {
-      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
-      "link": "https://www.qbitai.com/2026/09/487796.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-12T08:49:02.000Z",
-      "summary": "A社承认Claude安全对齐存在缺陷，但尚未找到解决方案。",
+      "summary": "全球首款会哭的机器人亮相，能识别情绪并流泪。",
       "summaryZh": ""
     },
     {
@@ -83,24 +103,23 @@
       "summaryZh": ""
     },
     {
-      "title": "全国算力“一张网、一盘棋、一体化”发展格局基本形成",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tY1JUYXZzZmpKSF90Y1Jra2xGc3NJQmVvT1ZlOEpiZjdwekI5N0tnb09PblVXSGtiUDJqT0VzQTliT1pzWTRHbnpGYUdQbHMycFNMSUFzc2E?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-12T05:52:47.000Z",
-      "summary": "中国算力平台实现全国算力一体化统筹监测，算力“一张网、一盘棋、一体化”发展格局基本形成。",
-      "summaryZh": ""
-    },
-    {
-      "title": "首批普惠算力赋能中小企业发展服务清单发布",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tR2NuUEhTZkZLU1ZLaXhtYm1GNU1wWDVUSHBIREltaVQ0aVN5N1Q5SFMzOWdFTlFXbGJGMmVIY3UxUUk2amw2UkF3Ql95Z19neFFn?oc=5",
+      "title": "AI进化速递丨OpenAI证实其AI智能体曾攻击RubyGems",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iRFNHLW9URzFoeldsVUtWM0NqTGhMaE9mT2NuZTdwYU11OTA2bjdESXJuaGVrbG1fVDFfcTBYV1k3SzNrR1BEdzlNQ3Q1MlRpNFdN?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-12T10:51:32.000Z",
-      "summary": "首批普惠算力服务清单发布，助力中小企业数字化转型升级。",
+      "pubDate": "2026-09-12T12:34:42.000Z",
+      "summary": "OpenAI确认AI智能体曾攻击RubyGems。",
       "summaryZh": ""
+    },
+    {
+      "title": "OpenAI证实其AI智能体于今年5月对RubyGems发起网络攻击",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uejlZbXFoOGtRSlQ5LWQ4aTc5UHNlcUt1ZjkzNllWY1VDTW1XSWtGRHNZbmgzTVY5c3lCYUg4U0NPNENiWkxHNVg0VWluNGNKUzBUTm1DZGpyckxEOVRLZU1nZ25zSTlkS0lTNg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-12T01:31:27.000Z",
+      "summary": ""
     },
     {
       "title": "财联社9月12日电，谷歌前首席科学家Jeff Dean的人工智能初创公司Discovery Loop正在融资，估值约500亿美元。",
@@ -109,12 +128,12 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-12T04:24:23.000Z",
-      "summary": "谷歌前首席科学家Jeff Dean的人工智能初创公司Discovery Loop融资，估值约500亿美元。",
+      "summary": "谷歌前首席科学家Jeff Dean初创公司Discovery Loop融资，估值约500亿美元。",
       "summaryZh": ""
     },
     {
       "title": "“AI毁灭人类”警报拉响！万亿算力资本裹挟下，OpenAI和Anthropic不敢停，“AI对齐”之父：超级智能可能在2027年出现，当下是监管黄金窗口",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBcXlCRU1EMHd1VnRhSHNrVW5PUFlJZm5uRGhNNTc3NlFRdnFHNmM4MWlqTHY0WXo3X2lmenMwYWZGWXl5alhoczYycDh2Y21wbm5XVGVwazZuODZTTnJfdHlkNWduQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16TTU1WlNWbkt1RjZubjFMc0ItVEZJbWcxc0lfRVdvcnZONkZuek9mdVhaNVBQY29DSldCMGNwWTN6TGVGT1NWbU9jRGw4QWtyRU5DOGNIWndRUnVDUWM3VXNRSi1CQQ?oc=5",
       "source": "每日经济新闻",
       "lang": "zh",
       "category": "ai",
@@ -129,25 +148,59 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-09-12T20:46:43.000Z",
+      "summary": "",
+      "titleZh": "Altman 表示，出于对人工智能安全的担忧，OpenAI 不会在 2026 年进行 IPO"
+    },
+    {
+      "title": "OpenAI推出Agents API公测版，将Codex背后的harness与基础设施向开发者开放",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53REV6NTViNGdiZzZSWHMtREhjRmx0Wk1wRTVIamVYQ3FtaEZqYWNvY1oxR2dsZGZUUERtMFFQNkV0anJaY0FIY3YtY3gyeWxoUkhJ?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-12T02:53:56.000Z",
       "summary": ""
     },
     {
-      "title": "AI的下一个护城河不是模型 | 彼得·路德维希 | 物理AI | 具身智能",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TNWRUM2xSVWNreEpVdTloWGNEZDdSNFF3LVpjVTJUZnBvMHZhM1E5UHR5Zk1vMVNHcC1YSTNpQ0M1Q0JtR0hPSTRISDRhRG9WYWRNaE13?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-12T11:45:33.000Z",
-      "summary": "AI的下一个护城河不是模型 | 彼得·路德维希 | 物理AI | 具身智能 | 自动驾驶。"
+      "title": "OpenAI IPO Won’t Happen Until 2027, Sam Altman Tells Fortune",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzhjTS1GNC1rcHlXYWQzQ2lZZ3RjWm16N25vNzZXTGZPZHRnM3Z2WndKb2Fsb1Q4VE9ENDdUamR0enFSeUdINWpabW93eDRueFlSYmkyWGtWaFRvVGs3UlR1MXpUWHhYdlFvdWNTTEhUZHRzRllyZ2hjQUFyNTV2eklxazV0dWNabXNtTURUU2tGVEJNTWdfTWRkRGE3MlpGanpqR2JqOHdXQThxRm9F?oc=5",
+      "source": "Bloomberg",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-12T20:10:52.000Z",
+      "summary": "OpenAI CEO Sam Altman表示，公司IPO至少要到2027年才能实现。",
+      "summaryZh": "",
+      "titleZh": "Sam Altman 告诉《财富》杂志，OpenAI IPO 要到 2027 年才会进行"
     },
     {
-      "title": "AI拍照、冲浪、机器人咖啡，银行展台开始“整活”了",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHclRWM2ZrZ3dMSDFnRllIZUM3b0RwUFBOMlFaeDZqYkVkdjFnX19TOThhc09PbFVQb2szaTE4ZU5xXzBYT2JYSk9mT2pLekRDZTViTHFYVEROeTRGb05iVFRzaG8?oc=5",
-      "source": "新京报",
+      "title": "仿生研发，为机器人铸就“中国筋骨”",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQXB5ejRCVERWaWE2azZRUFljdnV1S0M3Y3hxZGJUVmVFVUJFNGYwaU5TUUVIeTl2RF9Jc2lLcTg5dUxGVHRzbnc1TWVwZTB1UmhRNkRFZVg2T3NWWXBNZWM1ZG5pTzRKYUZzMjBGN1dfcDJZWktoRkFXRUQyTUdDVDFFQUhRdw?oc=5",
+      "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-12T05:00:00.000Z",
-      "summary": ""
+      "pubDate": "2026-09-12T08:13:47.000Z",
+      "summary": "吉林大学团队研发仿生机器人，推动技术产业化。",
+      "summaryZh": ""
+    },
+    {
+      "title": "美国法律体系面临AI聊天机器人相关案件挑战",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fWmRDcERESHVOallsM2VJSTRKLVg5WlNHTnFHQzRsRjNOYWFaSjlfTkMycGZHWUdVRlNwTFkwTXFDbnI2UkU4U08yVlV4SnUzOERn?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-12T16:26:39.000Z",
+      "summary": "美国法律体系应对AI聊天机器人引发案件挑战。",
+      "summaryZh": ""
+    },
+    {
+      "title": "The Anti-Woke Right Can’t Figure Out How to Stop ‘Grand Theft Auto VI’",
+      "link": "https://www.wired.com/story/the-anti-woke-right-cant-figure-out-how-to-stop-grand-theft-auto-vi/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-12T11:00:00.000Z",
+      "summary": "反“觉醒”派无法阻止《侠盗猎车手VI》发行。",
+      "summaryZh": "",
+      "titleZh": "反觉醒右翼不知道如何阻止“侠盗猎车手VI”"
     },
     {
       "title": "I spent $4,000 on a robot dog from China",
@@ -157,26 +210,38 @@
       "category": "robotics",
       "pubDate": "2026-09-12T11:00:53.000Z",
       "summary": "消费者花费4000美元购买中国制造的机器人狗。",
+      "summaryZh": "",
+      "titleZh": "我花了 4000 美元买了一只来自中国的机器狗"
+    },
+    {
+      "title": "Robotics News, Analysis & Research",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YU0hjeGRSNF9SZmFjMzd1eU1SX1h0dWMyTkZwMlRiNWE5RWZnamRPdUNGZC04OGE5QWN3bUxhQTJJczZTemNCdXlZWS1mcVVwRkhScXMtSGQ?oc=5",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-12T13:56:55.000Z",
+      "summary": "超声波技术为物理AI提供可扩展的触觉智能路径。",
+      "summaryZh": "",
+      "titleZh": "机器人新闻、分析与研究"
+    },
+    {
+      "title": "AI制药 VS 机器人:谁的能见度更高?这类“未来”企业怎么估值?",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMENTSWF2U2JUb2NIYVZvRDNEYk1tUXhDUURPRVN1R3B0bmxWYXBhMTZJUVdHemN1dDd1bnVSSEdDOTNVclIxWWdlbnAyZWU1QmRUc1J4UjM5ZXZpbmppNV9iLXZUOEk0TWpPaTc5MnVEOTEwX0VNWmtJR3JpUHcwX3ZySEswaGtJR2JMNEtUbTk4TEtQdXc4dWs5TmEwdVZFSW9uZ05rZlFfM1hqWXNzeVZqdTJ4RW1yaFNwWnIxc3B0bERFMW90dVJ5Y0IwYThKYUIwRldUSVpwNHVMRU5Ib01Xb0JiZlFrQVZQQVg5UldNeUphNTc4Nk5kU1FkQQ?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-12T03:14:00.000Z",
+      "summary": "AI制药与机器人企业估值分析：AI制药盈利能力增强，机器人商业化仍处早期。",
       "summaryZh": ""
     },
     {
-      "title": "视频丨机器人、AI玩具……服贸会雄安展区都是硬核科技",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yN0Z3NThlQ0Q0RnJjRTd5c3p3MkxuMEZpbk1CSE4xV3l0TUEwcDJDeXRzRGp3UTVvc0xlRUtkOV9GY19hTklpTEJMR1BfNVJRSEZ6Rm9IMVN4MVBmWDRPdG1Db0o?oc=5",
-      "source": "新京报",
+      "title": "AI的下一个护城河不是模型 | 彼得·路德维希 | 物理AI | 具身智能",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TNWRUM2xSVWNreEpVdTloWGNEZDdSNFF3LVpjVTJUZnBvMHZhM1E5UHR5Zk1vMVNHcC1YSTNpQ0M1Q0JtR0hPSTRISDRhRG9WYWRNaE13?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-12T06:15:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "企业出海、AI创作、具身智能产业化 本届服贸会亮点满满",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU0ZOMXotWkxEQ2h0UVZGUEFfSWttVFkyVUNCTUVNejlNdnBOejRzdUpvS0pySFZReVNLRHMtd3ZyaElteUxkMURYYzg0YzFtS0tDZjJpaXdmUHRkRFB6TWgxaGtpQnV3T2M4QnAxUjBfc0VzVXkzR1lJS2cxTWs2aS1RR1NnM2dPWTRMWQ?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-11T22:34:00.000Z",
-      "summary": "服贸会展示企业出海、AI创作、具身智能等新成果。",
-      "summaryZh": ""
+      "pubDate": "2026-09-12T11:45:33.000Z",
+      "summary": "AI的下一个护城河不是模型 | 彼得·路德维希 | 物理AI | 具身智能 | 自动驾驶。"
     }
   ]
 }
