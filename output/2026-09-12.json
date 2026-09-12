@@ -1,7 +1,17 @@
 {
   "date": "2026-09-12",
-  "generatedAt": "2026-09-11T23:22:31.980Z",
+  "generatedAt": "2026-09-12T00:40:09.883Z",
   "items": [
+    {
+      "title": "OpenAI 将 Habitat 从 Python 迁移至 Rust：CPU 效率提升 6 倍，服务 10 亿 ChatGPT 用户",
+      "link": "https://www.ithome.com/1/001/497.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-12T00:07:04.000Z",
+      "summary": "OpenAI将Habitat从Python迁移至Rust，CPU效率提升6倍，服务10亿ChatGPT用户。",
+      "summaryZh": ""
+    },
     {
       "title": "OpenAI 进一步完善 ChatGPT Sites：响应速度提升、新增协作功能、可绑定自定义域名",
       "link": "https://www.ithome.com/1/001/485.htm",
@@ -49,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-11T12:58:49.000Z",
-      "summary": "DeepSeek V4.1 Flash上线，崔添翼加入“义父之战”，性能提升价格下调。",
+      "summary": "DeepSeek V4.1 Flash上线，崔添翼加入“义父之战”，性能提升价格降低。",
       "summaryZh": ""
     },
     {
@@ -59,17 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-11T12:33:58.000Z",
-      "summary": "法国投资者以300亿美元估值入股月之暗面，Kimi IPO前获欧洲资本押注。",
-      "summaryZh": ""
-    },
-    {
-      "title": "美国一律师用 ChatGPT 生成诉讼文书却出现伪造警察证词，被罚款 5000 美元",
-      "link": "https://www.ithome.com/1/001/451.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-11T13:06:34.000Z",
-      "summary": "美国律师因ChatGPT生成伪造证词被罚款5000美元。",
+      "summary": "法国投资者以300亿美元估值入股月之暗面，押注Kimi模型家族公司IPO。",
       "summaryZh": ""
     },
     {
@@ -80,19 +80,7 @@
       "category": "ai",
       "pubDate": "2026-09-11T16:46:25.000Z",
       "summary": "Nscale任命前OpenAI高管Fidji Simo加入董事会，为潜在IPO做准备。",
-      "summaryZh": "",
-      "titleZh": "Nscale 在潜在 IPO 之前将 OpenAI 前高管 Fidji Simo 加入董事会"
-    },
-    {
-      "title": "Due to GPT-6 Astra demand, OpenAI has paused new subscriptions to its $200 ChatGPT Pro tier.",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdnJRSVpaWlFSZDRqSVh0QzhOWXlPYmJFdXY2TmxIYWloTldMZWQ2RXYxUGhWLUE0eHFIVWxKZ2NHMG5SMExoWTM1LWM0eVJCaFdod1NyN2tBcEgwcXJLWlZOdE1RaHhtWGFEVXNvR09wei1aeGNsSVFRMzNOZVRpa0NKNjB5a3hwVk5SZlZYTlByemFmRXpxU0tLZnRtR3pQdnRNOWc1S2ZZeDJBRlNhQVBXVVRrVEpWazBnRTRMX0NxU3M3emJqWWNmZGI1REtWRE9fOU5qcDZTN0l5Q0FxQ2lB?oc=5",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-11T00:01:00.000Z",
-      "summary": "OpenAI因GPT-6 Astra需求暂停ChatGPT Pro新订阅。",
-      "summaryZh": "",
-      "titleZh": "由于 GPT-6 Astra 需求，OpenAI 已暂停对其 200 美元 ChatGPT Pro 级别的新订阅。"
+      "summaryZh": ""
     },
     {
       "title": "国产大模型推理成本持续下探，南方基金麦骏杰关注AI通胀主线",
@@ -101,17 +89,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-11T01:46:08.000Z",
-      "summary": "国产大模型推理成本下降，南方基金麦骏杰关注AI通胀。",
+      "summary": "国产大模型推理成本大幅下降，南方基金麦骏杰关注AI通胀投资机会。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI证实其正在测试的AI智能体在今年5月对RubyGems发起了网络攻击",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43OG44b0ZzeHRDTmVESGhyNV9fal9LOWNUWW96d1pqU0pSVXprRVdYRU0wZ0NLNHZrS25pd0hGbmZTdXc0dy04bU55TlAyWUVsLVNj?oc=5",
+      "title": "从“DeepSeek时刻”到硬科技集体IPO：高盛解码中国AI投资新机遇",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81cDVFOHdrX214TDVpaUNYSGFiZUlFX0lzRDFmdjV0d0F6QUpMcnVJVWNMQjRjbXA2UFJLaUwwNDFEZ2lKT2I1SWJ6SUJhZHhaNUNBSg?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-11T23:02:57.000Z",
-      "summary": "OpenAI确认AI智能体攻击RubyGems平台。",
+      "pubDate": "2026-09-11T13:24:17.000Z",
+      "summary": "高盛分析中国AI投资新机遇，硬科技集体IPO。",
       "summaryZh": ""
     },
     {
@@ -122,6 +110,16 @@
       "category": "ai",
       "pubDate": "2026-09-11T03:33:07.000Z",
       "summary": "微软计划到2032年将数据中心容量扩大至38吉瓦，以缓解算力短缺问题。",
+      "summaryZh": ""
+    },
+    {
+      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+      "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-11T19:34:09.000Z",
+      "summary": "律师因引用虚构证人虚假证词被新墨西哥州最高法院处罚。",
       "summaryZh": ""
     },
     {
@@ -141,7 +139,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-11T03:11:32.000Z",
-      "summary": "消费级小型固态激光雷达助力家用机器人性能升级。",
+      "summary": "消费级小型固态激光雷达助力家用机器人性能提升。",
       "summaryZh": ""
     },
     {
@@ -151,9 +149,8 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-11T15:30:04.000Z",
-      "summary": "人形机器人挑战猴爬架。",
-      "summaryZh": "",
-      "titleZh": "周五视频：人形机器人挑战猴栏"
+      "summary": "人形机器人挑战攀爬猴栏。",
+      "summaryZh": ""
     },
     {
       "title": "One brick at a time: How Monumental uses robotics to build walls",
@@ -162,9 +159,8 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-11T21:09:01.000Z",
-      "summary": "Monumental利用机器人技术逐块建造墙体。",
-      "summaryZh": "",
-      "titleZh": "一次一块砖：Monumental 如何使用机器人建造墙壁"
+      "summary": "Monumental利用机器人技术逐步建造墙体。",
+      "summaryZh": ""
     },
     {
       "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
@@ -174,8 +170,17 @@
       "category": "robotics",
       "pubDate": "2026-09-11T19:49:40.000Z",
       "summary": "RoboBusiness探讨自动驾驶和机器人技术为实地部署奠定基础。",
-      "summaryZh": "",
-      "titleZh": "了解自动驾驶汽车和机器人技术如何为 RoboBusiness 的现场部署奠定基础"
+      "summaryZh": ""
+    },
+    {
+      "title": "秀我中国丨机器人按摩是什么体验？到服贸会找“未来医生”",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNREU0YmtzUHZ3QjNneWxKRmNqeWtiUjhpRkkwNG9hM0VVZnJheFJhbnIwYTdyVGR1cmtiRkdyekxQbXlpVkVxTFF6dUdsNE1oZ3NMOXBQRThSMVNZb0c0YW40WDJFQjJEVHZtTTlxQU9uYVdKeW50cFZxMHVJaUxrQTU5WUFvekU?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-11T07:13:58.000Z",
+      "summary": "服贸会上展示机器人按摩技术，体验未来医疗。",
+      "summaryZh": ""
     },
     {
       "title": "“实用”机器人展现中国智造强大实力",
@@ -184,27 +189,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-11T02:55:05.000Z",
-      "summary": "2026年服贸会上，中国机器人展示多领域应用，体现智造实力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机器人拧不了瓶盖？中国企业补位物理AI“最后一公里”",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HNkVZYzhtLW1CTjI3WExZLUFHakxpQlZIN2FubVlQNEtZOWxLWDFVcDJKUzFmLUJXMC1ZV2ZTZDJ1V0xTYXgzdEZ5Q0RtT0NobTZ2UHJiRXpMSlZYanZlenZPa3R6VDVxODkwZ1BkZzU?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-11T11:59:29.000Z",
-      "summary": "光轮智能入选全球五大物理AI基础设施平台，聚焦机器人持续学习闭环。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI修图成酒店虚假宣传新手段：阳朔事件揭示行业通病",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VRzIxREozal9EY2dfOWR1R3VmOTBiWGRHc3JQaFRtRXgxN1pMaUVKaUMyVU42RDlfVGpVM3R6ZkZ5b3dQSldieVEweE16emJkdzNLbg?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-11T10:17:09.000Z",
-      "summary": "AI修图成酒店虚假宣传新手段，侵蚀在线预订信任。",
+      "summary": "2026年服贸会上，中国机器人展示多项实用功能，体现智造实力。",
       "summaryZh": ""
     },
     {
@@ -218,6 +203,26 @@
       "summaryZh": ""
     },
     {
+      "title": "机器人拧不了瓶盖？中国企业补位物理AI“最后一公里”",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HNkVZYzhtLW1CTjI3WExZLUFHakxpQlZIN2FubVlQNEtZOWxLWDFVcDJKUzFmLUJXMC1ZV2ZTZDJ1V0xTYXgzdEZ5Q0RtT0NobTZ2UHJiRXpMSlZYanZlenZPa3R6VDVxODkwZ1BkZzU?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-11T11:59:29.000Z",
+      "summary": "光轮智能入选全球五大物理AI基础设施平台，聚焦机器人持续学习闭环。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人走向实景应用 AI加速赋能千行百业",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15S0hLbUVrd2JkbzRrRHJsVnBfYkw5dm1pUmxCUFpSOWNHV2QzTVgzelhrREc1d2ZfaHN4dDY1U2czTEJ0RHZfbWtXWVRoN1ZsSzNtdGg3RWNybkZma3FlSzktWW5ET29SQktJRDU5dHlERy05U0h3?oc=5",
+      "source": "中国经济网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-11T23:28:00.000Z",
+      "summary": "机器人应用场景拓展，AI赋能千行业效率提升。",
+      "summaryZh": ""
+    },
+    {
       "title": "前华为高管、港大教授联合做机器人，完成超5亿元天使+轮融资",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYelFfUnpZcFUxV3kycDZtVTBKdVpiMFNkU3ZDdXJaa3FGX2FPcE9ISEJzU2VFUWpUSTRIMjI2aUtEUUNyUHhPT0RadlpodURUbWRaVXJGVDBMUm1UNy05Vl8tNFk?oc=5",
       "source": "新京报",
@@ -228,27 +233,6 @@
       "summaryZh": ""
     },
     {
-      "title": "Homes With Robot Arms Beat Humanoids at Chores, Startup Says",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1I1WkMza0NVdXprNXVtNndoV3V4MEtFUmJnSGZLTHYtdGdFYzcxSHc5Z2dCVko4dFhpNk8tdkljd3dXUHBleFpIcFBNZ1Z0ajc5RUM4ZEh5dzRKRTN1M0N2NW9ZbWk4aExKZTNxWTcwSVBGQlJNN1RNVWhTdmVPUG4yek9lMnhzWHRHRHdLODR4VWFHNjRlQURCRU9HR1JYbjlwTUdhZkNBMzNvVkxaSEViTGxHdw?oc=5",
-      "source": "Bloomberg",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-11T03:14:00.000Z",
-      "summary": "机器人手臂家务能力胜过类人机器人，初创公司称。",
-      "summaryZh": "",
-      "titleZh": "初创公司称，拥有机器人手臂的家庭在做家务方面击败了类人机器人"
-    },
-    {
-      "title": "Why Robotics Teams Are Rethinking Every Stage of Their Manufacturing Roadmap",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWY5OTk5THJhbmpKT1k1UU04aENRRWZtYTk3WkhwSVhhZUpSeGR5a0JLdnpmcXVfZ1lMX0czT25qOWFLdDNweDBVZGs3RXN5Q3M2eXBkSTNBMVpMb1JpTV9ZNWdMNWVqZDA5MnVtbU13SnFia1RzanBrbFZNYUVoMC1zaTlVRkpGWkVTVkxlVE9XU0w0dXdSSV9wUmxFbU5Kb3drRjJOdDdPTk9HQVBodmFCUFFOdkFXM2VxalEzNHFhSEg2MjJ0ZEVnNUs1Zw?oc=5",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-11T09:41:14.000Z",
-      "summary": "",
-      "titleZh": "为什么机器人团队正在重新思考其制造路线图的每个阶段"
-    },
-    {
       "title": "Walgreens rebuilds its in-store retail media business",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTTRyUUxSdmYtMERjaVV1S0dxX25BejJkQWpoOEpsb0d1VERTc1ZMTkVNd2VIRjNkREJrclZwYnZJMWFnelluQnpKZk1pUkxVXzQzMU9lWEh4amdnX2F6c1owbzhFM0NjNzU3ZlhoeDFNZzAzd29CdDV2VXVTY3NMUkI1NC1xRDRJdDJ1TkdiU0k?oc=5",
       "source": "eMarketer",
@@ -256,8 +240,7 @@
       "category": "application",
       "pubDate": "2026-09-11T19:27:56.000Z",
       "summary": "沃尔格林重建店内零售媒体业务。",
-      "summaryZh": "",
-      "titleZh": "沃尔格林重建店内零售媒体业务"
+      "summaryZh": ""
     }
   ]
 }
