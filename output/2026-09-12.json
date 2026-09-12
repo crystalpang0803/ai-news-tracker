@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "generatedAt": "2026-09-12T00:40:09.883Z",
+  "generatedAt": "2026-09-12T04:40:44.389Z",
   "items": [
     {
       "title": "OpenAI 将 Habitat 从 Python 迁移至 Rust：CPU 效率提升 6 倍，服务 10 亿 ChatGPT 用户",
@@ -13,33 +13,13 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI 进一步完善 ChatGPT Sites：响应速度提升、新增协作功能、可绑定自定义域名",
-      "link": "https://www.ithome.com/1/001/485.htm",
+      "title": "VGN 推出猎鹰 3 系列鼠标：8KHz 回报率、可选 PAW3950/3955 Extreme 传感器，289 元起",
+      "link": "https://www.ithome.com/1/001/512.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-11T23:10:51.000Z",
-      "summary": "OpenAI升级ChatGPT Sites，新增协作功能、支持自定义域名。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI上演“疯狂星期四”，四大发布，一个关停",
-      "link": "https://zhidx.com/p/593236.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-11T06:53:20.000Z",
-      "summary": "OpenAI发布四款产品同时暂停Codex Pro订阅。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI进化速递丨OpenAI推出Agents API公开测试版",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXdmNHU29mY3J5TTRrREZ5SHVoaDBQZHFIMFM5Y01CZ1FTT2N2dnpEZ1FXSWJ3MXlTSEZOVEROLTlwVWhvSXYwTUpraWpaWWJ5dm90eA?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-11T12:32:00.000Z",
-      "summary": "OpenAI发布Agents API公开测试版。",
+      "category": "robotics",
+      "pubDate": "2026-09-12T01:23:14.000Z",
+      "summary": "VGN发布猎鹰3系列鼠标，8KHz回报率，289元起。",
       "summaryZh": ""
     },
     {
@@ -49,7 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-11T08:19:27.000Z",
-      "summary": "支付宝推出AI支付新功能，机器狗可自主完成购物支付。",
+      "summary": "支付宝推出AI支付新能力，机器狗可自主完成购物支付。",
       "summaryZh": ""
     },
     {
@@ -63,16 +43,6 @@
       "summaryZh": ""
     },
     {
-      "title": "法国投资者以300亿美元估值入股月之暗面：Kimi IPO前获欧洲资本押注",
-      "link": "https://www.tmtpost.com/8136831.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-11T12:33:58.000Z",
-      "summary": "法国投资者以300亿美元估值入股月之暗面，押注Kimi模型家族公司IPO。",
-      "summaryZh": ""
-    },
-    {
       "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
       "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
       "source": "TechCrunch",
@@ -83,43 +53,52 @@
       "summaryZh": ""
     },
     {
-      "title": "国产大模型推理成本持续下探，南方基金麦骏杰关注AI通胀主线",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92UzIzQXBwMUJxa2FnVjRXWTh5b1RYMGVuY2NTdUdQOEluT1JfRUpmSXJSekE1VlpkU0hLLWxVa0hGSU1JbS1wMUEtZGtlYjlPRHFlSkFlcXU?oc=5",
+      "title": "通用AI秒变机器人大脑 给个手就能干活 Astra还是太权威了_精彩视频为您呈现",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hU29Ja2hrMDk3Wjljak1SSEQtMzRIQ05zNVJZMHRhUUJacjE5d0VPZjFqV0wyS0ZmUmVVS3RKMmljbVlVTGZJaDl2MGw5UzdwMTdha21R?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-11T05:23:44.000Z",
+      "summary": ""
+    },
+    {
+      "title": "即梦AI测评：即梦AI大模型的使用体验与评价",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjaFB2c1lacGstVmFVRHlPUGM4UEpkUk5FejBMX1dzeUFJZHVkbGxTb0JFaTYwaHhLaVRXVkhkaFQ4MFZyQUFZM1UxcFlNbHB1NmdYMWF2VDloQi1NLXRB?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-12T03:26:52.000Z",
+      "summary": "即梦AI大模型提供海报生成功能，体验需谨慎选择。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI把Codex“拆开卖了”",
+      "link": "https://www.tmtpost.com/8137691.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-12T02:42:50.000Z",
+      "summary": "OpenAI将Codex核心能力拆分并作为API开放给开发者。",
+      "summaryZh": ""
+    },
+    {
+      "title": "大模型的分岔口，智效比是探索真实世界的答案吗？",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuT204MXd0aTN6MWVDUkdrYTE4NWZPaEhHdjJpeGpkdTZ1SUdhYXp1Q01UdzFxQTBTNHlRWkFDeE5Bd1pMYkNydl9hd2lEV3V0MGU3MGt2WTY?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-11T01:46:08.000Z",
-      "summary": "国产大模型推理成本大幅下降，南方基金麦骏杰关注AI通胀投资机会。",
+      "pubDate": "2026-09-12T03:05:47.000Z",
+      "summary": "智效比成为AI从实验室走向产业的关键因素。",
       "summaryZh": ""
     },
     {
-      "title": "从“DeepSeek时刻”到硬科技集体IPO：高盛解码中国AI投资新机遇",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81cDVFOHdrX214TDVpaUNYSGFiZUlFX0lzRDFmdjV0d0F6QUpMcnVJVWNMQjRjbXA2UFJLaUwwNDFEZ2lKT2I1SWJ6SUJhZHhaNUNBSg?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-11T13:24:17.000Z",
-      "summary": "高盛分析中国AI投资新机遇，硬科技集体IPO。",
-      "summaryZh": ""
-    },
-    {
-      "title": "算力瓶颈逼微软“放大招”：拟将数据中心容量翻三倍！",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA0bHRUTjFxUkJUSGtqUmhqYy1kQmU3ZmdjS3NHeHZqUUtSZHplWmEtakVfdk5VRmdvNFI1b1BES2dtR2Y2N1p6WQ?oc=5",
+      "title": "财联社9月12日电，谷歌前首席科学家Jeff Dean的人工智能初创公司Discovery Loop正在融资，估值约500亿美元。",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzNEE2YmVNSjNsN3p4N2NSZXdsTGtoLUNoNWFkTzQtMlNxMnFFY3dwdnV3ZGxtLUFkSHlIa3FCbVJrOUZCME1qSQ?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-11T03:33:07.000Z",
-      "summary": "微软计划到2032年将数据中心容量扩大至38吉瓦，以缓解算力短缺问题。",
-      "summaryZh": ""
-    },
-    {
-      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-11T19:34:09.000Z",
-      "summary": "律师因引用虚构证人虚假证词被新墨西哥州最高法院处罚。",
+      "pubDate": "2026-09-11T17:44:00.000Z",
+      "summary": "谷歌前首席科学家Jeff Dean的人工智能初创公司Discovery Loop融资，估值约500亿美元。",
       "summaryZh": ""
     },
     {
@@ -133,13 +112,13 @@
       "summaryZh": ""
     },
     {
-      "title": "消费类小型固态激光雷达：助推家用机器人性能迭代",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94U2Z3VGFrWkwtMEYwSEFST3BjYjFfc05oZFZtanFHY2RCY1VELVNSM3JfVGplY1BtWlhMZDg5TTBsRU9FQjlhX3g2SE95b2hnX2tsRGJVWQ?oc=5",
+      "title": "具身智能机器人产业链全景图（9月版）",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wbWhaOWplQ0JWOXlvWndWcFBucmdoSnFXTm1ieVMxcTl1bjhqNFN5TU1kemhONl9TeDFPQWVFTndtcmdLYUZQdGRxZzZyWHNlRk04c1JhYw?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-11T03:11:32.000Z",
-      "summary": "消费级小型固态激光雷达助力家用机器人性能提升。",
+      "pubDate": "2026-09-11T06:28:14.000Z",
+      "summary": "发布具身智能机器人产业链全景图（9月版），涵盖整机厂商至算法软件层。",
       "summaryZh": ""
     },
     {
@@ -149,7 +128,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-11T15:30:04.000Z",
-      "summary": "人形机器人挑战攀爬猴栏。",
+      "summary": "人形机器人挑战猴爬架。",
       "summaryZh": ""
     },
     {
@@ -159,7 +138,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-11T21:09:01.000Z",
-      "summary": "Monumental利用机器人技术逐步建造墙体。",
+      "summary": "Monumental利用机器人技术逐块建造墙体。",
       "summaryZh": ""
     },
     {
@@ -169,7 +148,17 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-11T19:49:40.000Z",
-      "summary": "RoboBusiness探讨自动驾驶和机器人技术为实地部署奠定基础。",
+      "summary": "RoboBusiness探讨自动驾驶和机器人技术为现场部署奠定基础。",
+      "summaryZh": ""
+    },
+    {
+      "title": "九部门发文！产能预警调控首次写入《规划》，AI、自动驾驶、电池回收全安排！专家预判：未来五年，两条“红线”将重塑汽车行业竞争规则",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16VVhlb0VHLU8tTHJmWjN6ZzdnbVo2MFBoYlJSSlRGckZNVFRmajFxZkgzdGNqY1FfTGxNVzJTR1loLVhKMHQ3NGIxbkFLb2FpTHk4RkpUbFZ0aU1ZRlhxVC1lRWJyUQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-11T10:45:00.000Z",
+      "summary": "九部门发布《规划》，产能预警调控首次写入，AI、自动驾驶、电池回收全安排，专家预判未来五年重塑汽车行业竞争规则。",
       "summaryZh": ""
     },
     {
@@ -183,13 +172,13 @@
       "summaryZh": ""
     },
     {
-      "title": "“实用”机器人展现中国智造强大实力",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZllMRWctYlBSd0t4Q2U1VldQWjg2RHNWR01lUG5XS1Y2OFI4eGQwZmlGQk9hZnA1MUNpdnlXdE1pRVR3VUFlSERqdGxqY0JBUFVlamM2azBsc2VhT0JwVXJHYlhGNHF0NTJkQU5Jd1c1dXNaZklJNXFqeklMa05DWE9ybXc?oc=5",
-      "source": "新华网科技",
+      "title": "从无人车走向AI服务城市治理 九识宣布城市级物理AI战略升级",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWpVM2tsZHBGVUdGUUJPQzF5a0V3ZFY0UEdqMTZQZjIybm5HZmI4UWJ2UkE4MzNFWW51ZXd0VXM1Wno5Ni1DVGtNTkZnVVE1Nk1VOVpsQkx3OHBwdWI3aEpRSm5pNkdDY1dmNjY2QTdFMDh2R0lsTTE3ZWJHQXFWLTN1U1FPWDFwbUtPbFJDM0NKaWxqZXVtaTlEbWNxaWdVZUhHUnJpajcxN3llcVY3R2otUi1yWmp6SDJUOTZqNDFjVndleFRxU1R1TWtDTUxXVGlwTDNwUXhjdw?oc=5",
+      "source": "新浪财经",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-11T02:55:05.000Z",
-      "summary": "2026年服贸会上，中国机器人展示多项实用功能，体现智造实力。",
+      "category": "application",
+      "pubDate": "2026-09-12T03:28:00.000Z",
+      "summary": "九识发布城市级物理AI战略，赋能城市治理场景。",
       "summaryZh": ""
     },
     {
@@ -220,16 +209,6 @@
       "category": "robotics",
       "pubDate": "2026-09-11T23:28:00.000Z",
       "summary": "机器人应用场景拓展，AI赋能千行业效率提升。",
-      "summaryZh": ""
-    },
-    {
-      "title": "前华为高管、港大教授联合做机器人，完成超5亿元天使+轮融资",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYelFfUnpZcFUxV3kycDZtVTBKdVpiMFNkU3ZDdXJaa3FGX2FPcE9ISEJzU2VFUWpUSTRIMjI2aUtEUUNyUHhPT0RadlpodURUbWRaVXJGVDBMUm1UNy05Vl8tNFk?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-11T03:09:00.000Z",
-      "summary": "前华为高管与港大教授联合创办的机器人公司完成超5亿元融资。",
       "summaryZh": ""
     },
     {
