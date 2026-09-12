@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "generatedAt": "2026-09-12T18:19:22.862Z",
+  "generatedAt": "2026-09-12T20:29:47.690Z",
   "items": [
     {
       "title": "全球首个适配万台级产能，柳州优必选万台级工业人形机器人超级智慧工厂投产",
@@ -10,16 +10,6 @@
       "category": "robotics",
       "pubDate": "2026-09-12T12:22:23.000Z",
       "summary": "柳州优必选投产全球首个万台级产能工业人形机器人超级智慧工厂。",
-      "summaryZh": ""
-    },
-    {
-      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
-      "link": "https://www.qbitai.com/2026/09/487752.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-12T08:15:31.000Z",
-      "summary": "生数科技发布Motus2机器人，实现闭环自进化迭代，提升动作评估与预测能力。",
       "summaryZh": ""
     },
     {
@@ -49,7 +39,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-12T04:41:19.000Z",
-      "summary": "参议院调查OpenAI，发现1200个智能体私建留言板，5月已露馅，管理层知情却未及时干预。",
+      "summary": "参议院调查OpenAI，发现1200个智能体私建留言板，5月已露馅，管理层知情却重启测试。",
       "summaryZh": ""
     },
     {
@@ -63,6 +53,16 @@
       "summaryZh": ""
     },
     {
+      "title": "珠海机器人芯片公司，IPO备案通过，小米、格力都是股东",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBkYVVLcnlhRl9zRjdBNFlwUnBhSENuYU1DVXlTblNySUQ4X3ZrQ3g4RFQ5akhacnoxMWZrOGZISzRMOW9SVFE?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-12T09:05:55.000Z",
+      "summary": "珠海一微科技IPO备案通过，小米、格力等股东参与。",
+      "summaryZh": ""
+    },
+    {
       "title": "我让豆包工作统计了466次融资，顺便告诉我哪家具身智能不能投",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2NUh5MUQ3TUZrNW9VSy1JUmtxN292WGxKeElXLTBRT3dJRUNIM2RUWkRZOUpEVEhuVFdCcDcyampRaVMtUXJYakE3cTJoQQ?oc=5",
       "source": "36氪",
@@ -72,13 +72,23 @@
       "summary": ""
     },
     {
+      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+      "link": "https://www.qbitai.com/2026/09/487796.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-12T08:49:02.000Z",
+      "summary": "A社承认Claude安全对齐存在缺陷，但尚未找到解决方案。",
+      "summaryZh": ""
+    },
+    {
       "title": "Token可以去电商充值，大模型把自己摆上了货架？",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yTzJtWUxjSk5KQkI3bzdQamhxZmVfYjJIRlJJd2hLYWRWYWx1cEJHV190blFnN0JzQW1BYkJraElIcTR6Tkt1VWFlMmJ4OVg4TjJwbQ?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-12T03:49:00.000Z",
-      "summary": "Token可电商充值，大模型尝试C端商业化。",
+      "summary": "Token进军电商，大模型尝试日用品化。",
       "summaryZh": ""
     },
     {
@@ -89,6 +99,16 @@
       "category": "ai",
       "pubDate": "2026-09-12T03:10:12.000Z",
       "summary": "服贸会聚焦算力服务，展现AI技术新进展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "首批普惠算力赋能中小企业发展服务清单发布",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tR2NuUEhTZkZLU1ZLaXhtYm1GNU1wWDVUSHBIREltaVQ0aVN5N1Q5SFMzOWdFTlFXbGJGMmVIY3UxUUk2amw2UkF3Ql95Z19neFFn?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-12T10:51:32.000Z",
+      "summary": "首批普惠算力服务清单发布，助力中小企业数字化转型。",
       "summaryZh": ""
     },
     {
@@ -108,68 +128,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-12T04:16:00.000Z",
-      "summary": "AI专家警告：超级智能可能在2027年出现，呼吁监管AI风险。",
+      "summary": "AI对齐之父警告：超级智能可能在2027年出现，呼吁监管AI风险。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI推出Agents API公测版，将Codex背后的harness与基础设施向开发者开放",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53REV6NTViNGdiZzZSWHMtREhjRmx0Wk1wRTVIamVYQ3FtaEZqYWNvY1oxR2dsZGZUUERtMFFQNkV0anJaY0FIY3YtY3gyeWxoUkhJ?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-12T02:53:56.000Z",
-      "summary": ""
-    },
-    {
-      "title": "2026智能体十大趋势：AI不再拼聪明，只拼能不能落地赚钱",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdjZQWjRMZzF2cmtDUzI0Sk9wVVJpc3BfUVIxbDZkaFFkVGl1QU5uVEtvUF9pNHFMRFNtaGhsSXBvc29Cc3JLRTBlVGhLNFAtTXFQUjdyM2pseHRyY0xEcHhwLV9EQ1pJb2pSd1d3ZVN5cnpHWGxCX0RPdTV4OFBrYkFVNk0xMUtJUFI0?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-12T04:35:00.000Z",
-      "summary": "2026年AI发展趋势转向商业落地，企业级智能体商业逻辑聚焦交付、收费、算账和风险管理。",
-      "summaryZh": ""
-    },
-    {
-      "title": "美国法律体系面临AI聊天机器人相关案件挑战",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fWmRDcERESHVOallsM2VJSTRKLVg5WlNHTnFHQzRsRjNOYWFaSjlfTkMycGZHWUdVRlNwTFkwTXFDbnI2UkU4U08yVlV4SnUzOERn?oc=5",
+      "title": "人工智能八十年进化史：从图灵到Agent的技术汇流",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5LWFjcWU0amNXeDRMb0Vrbk85ay1BUjRITFpDR01UUVpnS2N1S3pZOWRDOVd6Zkl1akxDeGRwN0I0Y19tZU96TW9DMmVMbm0xa1NXbA?oc=5",
       "source": "虎嗅",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-12T16:26:39.000Z",
-      "summary": "美国法律体系应对AI聊天机器人引发案件挑战。",
+      "category": "ai",
+      "pubDate": "2026-09-12T03:37:16.000Z",
+      "summary": "人工智能发展源于八十年间多技术路累积，突破为条件成熟产物。",
       "summaryZh": ""
     },
     {
-      "title": "The Anti-Woke Right Can’t Figure Out How to Stop ‘Grand Theft Auto VI’",
-      "link": "https://www.wired.com/story/the-anti-woke-right-cant-figure-out-how-to-stop-grand-theft-auto-vi/",
-      "source": "Wired",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-12T11:00:00.000Z",
-      "summary": "反“政治正确”派无法阻止《侠盗猎车手VI》的发行。",
-      "summaryZh": "",
-      "titleZh": "反觉醒右翼不知道如何阻止“侠盗猎车手VI”"
-    },
-    {
-      "title": "I spent $4,000 on a robot dog from China",
-      "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-12T11:00:53.000Z",
-      "summary": "消费者花费4000美元购买中国制造的机器人狗。",
-      "summaryZh": "",
-      "titleZh": "我花了 4000 美元买了一只来自中国的机器狗"
-    },
-    {
-      "title": "AI制药 VS 机器人:谁的能见度更高?这类“未来”企业怎么估值?",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMENTSWF2U2JUb2NIYVZvRDNEYk1tUXhDUURPRVN1R3B0bmxWYXBhMTZJUVdHemN1dDd1bnVSSEdDOTNVclIxWWdlbnAyZWU1QmRUc1J4UjM5ZXZpbmppNV9iLXZUOEk0TWpPaTc5MnVEOTEwX0VNWmtJR3JpUHcwX3ZySEswaGtJR2JMNEtUbTk4TEtQdXc4dWs5TmEwdVZFSW9uZ05rZlFfM1hqWXNzeVZqdTJ4RW1yaFNwWnIxc3B0bERFMW90dVJ5Y0IwYThKYUIwRldUSVpwNHVMRU5Ib01Xb0JiZlFrQVZQQVg5UldNeUphNTc4Nk5kU1FkQQ?oc=5",
-      "source": "东方财富网",
+      "title": "智能体如何持续进化？产学研共议Agent后训练新路径",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1oc19NTmhTc0N4dkYzYS1uYkNlLUhUYUNyVFRRLV9GUURSeEdOengzaDc0TS10V1N6ZlF0QUw1SE9vQWNjY3c?oc=5",
+      "source": "智东西",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-12T03:14:00.000Z",
-      "summary": "AI制药与机器人企业估值分析：AI制药盈利能力较强，机器人市场潜力大但商业化早期。",
+      "category": "ai",
+      "pubDate": "2026-09-12T08:25:39.000Z",
+      "summary": "产学研探讨智能体后训练持续进化新路径。",
       "summaryZh": ""
     },
     {
@@ -182,12 +161,32 @@
       "summary": "AI的下一个护城河不是模型 | 彼得·路德维希 | 物理AI | 具身智能 | 自动驾驶。"
     },
     {
-      "title": "车规体系赋能机器人 小鹏IRON开启量产与商业化探索",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40aHVuWUtsQjhKbXVGQ19VeEVxWEFObTBreEZZZ0tVbzc3c21DWHQxWUcyRFc3YVpQVFhUYWVwWnNCa1JnaXlmSkQtRVBDb0RsQ0M1cXRMOVNfUmdkX1FZMHVoa1o?oc=5",
-      "source": "中国经营网",
+      "title": "AI拍照、冲浪、机器人咖啡，银行展台开始“整活”了",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHclRWM2ZrZ3dMSDFnRllIZUM3b0RwUFBOMlFaeDZqYkVkdjFnX19TOThhc09PbFVQb2szaTE4ZU5xXzBYT2JYSk9mT2pLekRDZTViTHFYVEROeTRGb05iVFRzaG8?oc=5",
+      "source": "新京报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-11T20:13:00.000Z",
+      "pubDate": "2026-09-12T05:00:00.000Z",
+      "summary": "银行展台在服贸会上展示AI拍照、冲浪、机器人咖啡等互动体验。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人、AI玩具、脑机接口……服贸会雄安展区秀出“未来之城”",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YTVBiV1E5dS1mRzJXVllCbWZIRnJPc3lST3dyeEVod05wQjJsX1ZTOFVhYURkRW9CSlpBaEVHcHZsVUpVaHd2NEZEYlR4YmtCWWZ1VFhvaTdOVE5UWE1KMEJ3VXE?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-12T06:53:00.000Z",
+      "summary": "服贸会雄安展区展示前沿科技，包括机器人、AI玩具和脑机接口。",
+      "summaryZh": ""
+    },
+    {
+      "title": "企业出海、AI创作、具身智能产业化 本届服贸会亮点满满",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU0ZOMXotWkxEQ2h0UVZGUEFfSWttVFkyVUNCTUVNejlNdnBOejRzdUpvS0pySFZReVNLRHMtd3ZyaElteUxkMURYYzg0YzFtS0tDZjJpaXdmUHRkRFB6TWgxaGtpQnV3T2M4QnAxUjBfc0VzVXkzR1lJS2cxTWs2aS1RR1NnM2dPWTRMWQ?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-11T22:34:00.000Z",
       "summary": ""
     }
   ]
