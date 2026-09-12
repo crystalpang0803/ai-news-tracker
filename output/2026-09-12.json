@@ -1,25 +1,15 @@
 {
   "date": "2026-09-12",
-  "generatedAt": "2026-09-12T04:40:44.389Z",
+  "generatedAt": "2026-09-12T08:07:33.432Z",
   "items": [
     {
-      "title": "OpenAI 将 Habitat 从 Python 迁移至 Rust：CPU 效率提升 6 倍，服务 10 亿 ChatGPT 用户",
-      "link": "https://www.ithome.com/1/001/497.htm",
-      "source": "IT之家",
+      "title": "AI进化速递丨OpenAI推出Agents API公开测试版",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXdmNHU29mY3J5TTRrREZ5SHVoaDBQZHFIMFM5Y01CZ1FTT2N2dnpEZ1FXSWJ3MXlTSEZOVEROLTlwVWhvSXYwTUpraWpaWWJ5dm90eA?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-12T00:07:04.000Z",
-      "summary": "OpenAI将Habitat从Python迁移至Rust，CPU效率提升6倍，服务10亿ChatGPT用户。",
-      "summaryZh": ""
-    },
-    {
-      "title": "VGN 推出猎鹰 3 系列鼠标：8KHz 回报率、可选 PAW3950/3955 Extreme 传感器，289 元起",
-      "link": "https://www.ithome.com/1/001/512.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-12T01:23:14.000Z",
-      "summary": "VGN发布猎鹰3系列鼠标，8KHz回报率，289元起。",
+      "pubDate": "2026-09-11T12:32:00.000Z",
+      "summary": "OpenAI发布Agents API公开测试版。",
       "summaryZh": ""
     },
     {
@@ -33,13 +23,23 @@
       "summaryZh": ""
     },
     {
-      "title": "DeepSeek V4.1 Flash上线，崔添翼加入“义父之战”",
-      "link": "https://www.tmtpost.com/8135584.html",
-      "source": "钛媒体",
+      "title": "人形机器人数据初创公司Mecka AI据报获红杉资本领投，估值约5亿美元",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhLTdvb1YxakFEVDdMcWtLem8tbkdMdUVJZTNWcV9GOV81Y0hhbGlGTGgyVEl6MUdRWjE5VVB4SmRWNVVJajREZEpabTdnMDdwZGthUGdjUkQ?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-11T23:49:03.000Z",
+      "summary": "Mecka AI获红杉资本领投，估值约5亿美元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国家超算互联网注册用户量突破 170 万，国产算力占比超 95%",
+      "link": "https://www.ithome.com/1/001/578.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-11T12:58:49.000Z",
-      "summary": "DeepSeek V4.1 Flash上线，崔添翼加入“义父之战”，性能提升价格降低。",
+      "pubDate": "2026-09-12T06:58:00.000Z",
+      "summary": "国家超算互联网注册用户超170万，国产算力占比超95%。",
       "summaryZh": ""
     },
     {
@@ -53,22 +53,13 @@
       "summaryZh": ""
     },
     {
-      "title": "通用AI秒变机器人大脑 给个手就能干活 Astra还是太权威了_精彩视频为您呈现",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hU29Ja2hrMDk3Wjljak1SSEQtMzRIQ05zNVJZMHRhUUJacjE5d0VPZjFqV0wyS0ZmUmVVS3RKMmljbVlVTGZJaDl2MGw5UzdwMTdha21R?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-11T05:23:44.000Z",
-      "summary": ""
-    },
-    {
       "title": "即梦AI测评：即梦AI大模型的使用体验与评价",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjaFB2c1lacGstVmFVRHlPUGM4UEpkUk5FejBMX1dzeUFJZHVkbGxTb0JFaTYwaHhLaVRXVkhkaFQ4MFZyQUFZM1UxcFlNbHB1NmdYMWF2VDloQi1NLXRB?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-12T03:26:52.000Z",
-      "summary": "即梦AI大模型提供海报生成功能，体验需谨慎选择。",
+      "summary": "即梦AI大模型可快速生成团委纳新海报，但需自行调整以达到预期效果。",
       "summaryZh": ""
     },
     {
@@ -88,37 +79,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-12T03:05:47.000Z",
-      "summary": "智效比成为AI从实验室走向产业的关键因素。",
+      "summary": "大模型智效比成为AI走向产业的关键，平衡成本、可信与效率。",
       "summaryZh": ""
     },
     {
-      "title": "财联社9月12日电，谷歌前首席科学家Jeff Dean的人工智能初创公司Discovery Loop正在融资，估值约500亿美元。",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzNEE2YmVNSjNsN3p4N2NSZXdsTGtoLUNoNWFkTzQtMlNxMnFFY3dwdnV3ZGxtLUFkSHlIa3FCbVJrOUZCME1qSQ?oc=5",
+      "title": "雄安国际算力一体化调度中心启动运行",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mYUNmMGYyZVJJQjhaNWZ3clZqYk9YUlN3ZHQ1bzBpeXd4Wm9aTUtpbWI5YkxhTkVnQ2tZUE5sSjRQQ2VDaVRIeQ?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-11T17:44:00.000Z",
-      "summary": "谷歌前首席科学家Jeff Dean的人工智能初创公司Discovery Loop融资，估值约500亿美元。",
+      "pubDate": "2026-09-12T07:08:54.000Z",
+      "summary": "雄安国际算力一体化调度中心启动，覆盖全国算力资源池。",
       "summaryZh": ""
     },
     {
-      "title": "收入占比1%–3%，人形机器人尚“不成气候”，但曲线正在抬头",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vOUE2eDJ1UjNaSjlhQXFjMGM3R1lGQmJMMkMwaUphNUVJbGlrUUVEcU5WRG5pRGg0QzlrMml1YThfR2kxbzhKUkpXWmVuNjFwZEUyb1hxWQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-11T07:19:29.000Z",
-      "summary": "人形机器人收入占比低，但增长趋势明显。",
-      "summaryZh": ""
-    },
-    {
-      "title": "具身智能机器人产业链全景图（9月版）",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wbWhaOWplQ0JWOXlvWndWcFBucmdoSnFXTm1ieVMxcTl1bjhqNFN5TU1kemhONl9TeDFPQWVFTndtcmdLYUZQdGRxZzZyWHNlRk04c1JhYw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-11T06:28:14.000Z",
-      "summary": "发布具身智能机器人产业链全景图（9月版），涵盖整机厂商至算法软件层。",
+      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+      "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-11T19:34:09.000Z",
+      "summary": "律师因引用虚构证人虚假证词被新墨西哥州最高法院处罚。",
       "summaryZh": ""
     },
     {
@@ -128,7 +109,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-11T15:30:04.000Z",
-      "summary": "人形机器人挑战猴爬架。",
+      "summary": "人形机器人挑战猴栏。",
       "summaryZh": ""
     },
     {
@@ -148,7 +129,17 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-11T19:49:40.000Z",
-      "summary": "RoboBusiness探讨自动驾驶和机器人技术为现场部署奠定基础。",
+      "summary": "RoboBusiness探讨自动驾驶和机器人技术为实地部署奠定基础。",
+      "summaryZh": ""
+    },
+    {
+      "title": "“是时候制定规则了”波兰首都30台机器人街头抗议，呼吁监管AI 制定规章制度 保护人类就业",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KVGZLSG5NOElQMDZicFFzS0ViWFc4SFJzbTZXekNaYnhjR0RBVlJIUmYtOWdnZ0tqR2ZBVW9SSk4yRE5EZUMxN3hlZnRVVTVnTGpYV0VJam1HM0sxSDlFeXZ3LU1hUQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-11T14:13:00.000Z",
+      "summary": "波兰机器人街头抗议，呼吁制定AI监管规则保护就业。",
       "summaryZh": ""
     },
     {
@@ -162,24 +153,53 @@
       "summaryZh": ""
     },
     {
-      "title": "秀我中国丨机器人按摩是什么体验？到服贸会找“未来医生”",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNREU0YmtzUHZ3QjNneWxKRmNqeWtiUjhpRkkwNG9hM0VVZnJheFJhbnIwYTdyVGR1cmtiRkdyekxQbXlpVkVxTFF6dUdsNE1oZ3NMOXBQRThSMVNZb0c0YW40WDJFQjJEVHZtTTlxQU9uYVdKeW50cFZxMHVJaUxrQTU5WUFvekU?oc=5",
-      "source": "新华网科技",
+      "title": "AI智能分拣一天3万件 无人机派送解决末端配送难题",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUUlVNOU03WkJkdlM0YzFSU1JrM3JKU1pUTUtqLVZyeGNLcHRlbk5FX1IwU1dhMkg1eWo0dGhYaWc1VnZiekE5TllOZHVwLThkZi1LZzNiT3Y3TGw2Mmc?oc=5",
+      "source": "澎湃新闻科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-11T07:13:58.000Z",
-      "summary": "服贸会上展示机器人按摩技术，体验未来医疗。",
+      "pubDate": "2026-09-11T10:05:00.000Z",
+      "summary": "AI智能分拣与无人机派送技术助力末端配送效率提升。",
+      "summaryZh": ""
+    },
+    {
+      "title": "在机器人街区练“防身术”，在“数智迷宫”闯关升级 下周一相约网络安全“探索之旅”",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OdzBLMXAtY0JTbFo3Ymp3STFYTTdDVWJ0dy13S1JwY093SzdYcnlxTXd6a2lscEN0THFSUUUtN0R2LUpNZGJRQVVwY19XS0pOUjJrUFYwSGtLWU9KXzFLV2NPYkl1R0s3eFVJeDl3YnI5emd5UzF6YjZn?oc=5",
+      "source": "央视网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-11T09:35:55.000Z",
+      "summary": "深圳市将举办网络安全宣传周活动，通过机器人街区和数智迷宫等形式提升公众网络安全意识。",
       "summaryZh": ""
     },
     {
       "title": "从无人车走向AI服务城市治理 九识宣布城市级物理AI战略升级",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWpVM2tsZHBGVUdGUUJPQzF5a0V3ZFY0UEdqMTZQZjIybm5HZmI4UWJ2UkE4MzNFWW51ZXd0VXM1Wno5Ni1DVGtNTkZnVVE1Nk1VOVpsQkx3OHBwdWI3aEpRSm5pNkdDY1dmNjY2QTdFMDh2R0lsTTE3ZWJHQXFWLTN1U1FPWDFwbUtPbFJDM0NKaWxqZXVtaTlEbWNxaWdVZUhHUnJpajcxN3llcVY3R2otUi1yWmp6SDJUOTZqNDFjVndleFRxU1R1TWtDTUxXVGlwTDNwUXhjdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcGMwVDUwTzdZaUQwMWVNdXdKZkNkX3RYOXFsQmlLSmI1dHU0bDlTcGdLUmRYcTFFRGVrcktPYnB6RXpZVW03MWsydnpVeF83UFg1NDRKTUYwWWVValRxUk5Yd3RHaTVjbHM1NjVtLVJMUzBCUWxBQVBMbm84TzcyeWs4TWVIbGNhZEJrc0pZZndXRU9QWEYxX09RbkZCVURBUFpURzNSY2NnZ091MmR1b1hGLXpONnV1d3BvVzNBM2htSTQyTktNc0xnYzctODRIWUxXS1doUnVzQQ?oc=5",
       "source": "新浪财经",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-12T03:28:00.000Z",
       "summary": "九识发布城市级物理AI战略，赋能城市治理场景。",
       "summaryZh": ""
+    },
+    {
+      "title": "高德扫街榜全面AI化加码到店业务，为何不做“扫雷榜”？",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNenFJU0Z1NkNLLW1PUjdPajFGUC0zcWhUNVJSM1o1a1V0VUUzdmFvdUhJOWVWQWFPeTJqMHNaRV9COU8xanRyVFBMVUJQeDRQU3Q5aW9NX3AzMWgyZWE2WlBaNlI1anVkb19pLVdzdzBmR04tbGtrbUJCNjhacHRTbFc1eWFXRFdicDltLQ?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-11T09:15:00.000Z",
+      "summary": "高德扫街榜全面AI化升级，推出避雷指南，不推“扫雷榜”。",
+      "summaryZh": ""
+    },
+    {
+      "title": "一脚踢进AI课堂！“机器人足球”教育方案亮相服贸会",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92aE1iWjFQcFZ2aDQyRkNfby01OWV5aGNIVmFPSE9NRU92bDMxaTlxVHI4UVNZU0xBaW5XODBINEQyWkF2eGl2SHExQjFpbkVPazlXVkhvZjJKUnRUT1E?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-12T07:34:26.000Z",
+      "summary": "2026年中国国际服务贸易交易会正在北京首钢园举行。"
     },
     {
       "title": "家政行业迎来AI重构时刻-掌上长沙",
@@ -208,7 +228,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-11T23:28:00.000Z",
-      "summary": "机器人应用场景拓展，AI赋能千行业效率提升。",
+      "summary": "机器人应用场景拓展，AI赋能千行百业加速发展。",
       "summaryZh": ""
     },
     {
