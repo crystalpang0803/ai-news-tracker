@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "generatedAt": "2026-09-13T18:45:51.453Z",
+  "generatedAt": "2026-09-13T20:43:33.375Z",
   "items": [
     {
       "title": "Waymo 自动驾驶出租车监测到乘客携带枪支，协助警方逮捕两名未成年人",
@@ -9,8 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-13T11:32:25.000Z",
-      "summary": "Waymo自动驾驶出租车监测到乘客携带枪支，协助旧金山警方逮捕两名未成年人。",
-      "summaryZh": ""
+      "summary": "Waymo 自动驾驶出租车再次立功！"
     },
     {
       "title": "当机器人开始“上班“：具身智能正在跨过价值分水岭",
@@ -19,17 +18,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-13T09:51:13.000Z",
-      "summary": "具身智能技术突破，机器人应用从想象走向现实工作。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
-      "title": "OpenAI突然收购，500万人Codex，永不下线",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sMXdrLUhZdS0yUGJPYndBN2thS0NaQ3ZUSW90NEhCM1hfcTVCTHBJS2o0WFFnVGRCTXpYN3BZOGx3VFV6X1E4cENabnJLdw?oc=5",
-      "source": "36氪",
+      "title": "国产AI芯片大卖，上半年谁真正赚到了钱？",
+      "link": "https://www.tmtpost.com/8138350.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-12T23:42:15.000Z",
-      "summary": ""
+      "pubDate": "2026-09-13T12:19:55.000Z",
+      "summary": "国产AI芯片公司收入激增，盈利能力分化。",
+      "summaryZh": ""
     },
     {
       "title": "国内首个国产GPU + 类脑芯片大模型异构混合推理系统发布，较同类国产GPU 算力集群性价比提升一倍以上",
@@ -42,12 +41,21 @@
       "summaryZh": ""
     },
     {
-      "title": "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JUU1GR1FLbi1TWWN3aS1qUWJtbXB6T0h1eVlXODZyZDRGV2h5c3Z0QTF6T3RCVmFDZG4wV3oxNnJBbmcxcTlYZUM0Q3lUQQ?oc=5",
-      "source": "36氪",
+      "title": "现代汽车与Waymo合作，将于今年第四季度交付IONIQ 5机器人出租车",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mMWJpTXdSR0xQallGS0RvMDJOajY1QTJqbFlsaUlBdTJtQXlXbzVWbU9ndjg3UnRTeGpWVzZWY1FZV2ZGV1Y0RHRIamU3NHhxWkR2dkFTLTQ?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-13T12:23:44.000Z",
+      "pubDate": "2026-09-13T03:30:42.000Z",
+      "summary": ""
+    },
+    {
+      "title": "中国电信总经理刘桂清：深化算电协同，加强算力与电力产业在规划、建设、运营方面深度融合",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlQjlHeFJMbElRcG5ucmdab3JUUlBoWmhYdlBsU3N1cHBUd09wUlZlX0ZUUjBGajR0RXhSY1FJVFBmWEl5OHlpa2RvZGk4UFFyWG12Rjl0Y012SVV1Zkpzdg?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-13T02:17:10.000Z",
       "summary": ""
     },
     {
@@ -57,7 +65,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-13T11:35:00.000Z",
-      "summary": "宇算星河推出“天基大模型”，引领太空智算新纪元。",
+      "summary": "宇算星河亮相，以天基大模型引领太空智算新纪元。",
       "summaryZh": ""
     },
     {
@@ -92,13 +100,22 @@
     },
     {
       "title": "招商证券：宏观压制逐步落地 建议关注科技成长与AI算力链",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRUTdFSGc3cklSUXQ3elpGWmJ2cGJvQkszQVZtSF9HN05aZFZlSDFBeHpYcE1uWEdvem5zdUxhNER4bVk3YnJhXzQ1TjhoQUpvNzFIbkliV0xBZlVvYk1nZ3B0QTBPUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXakRNeVFZN0ZTMFRib2xIWnRNM2c5Z3FCNHIwaGo1YXZ5WTZVdC1uYm05a1JkMi1XUzh6VmFKeGY1YTBVVlRLcC03bklUb1F5WTZDbVA2S3lvTjFiOF9sbS0tQ1dlZnlpUUV2cVJIdkEzOHZT?oc=5",
       "source": "金融界",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-13T14:06:55.000Z",
-      "summary": "招商证券建议关注科技成长与AI算力链。",
+      "summary": "招商证券建议关注科技成长与AI算力链等板块。",
       "summaryZh": ""
+    },
+    {
+      "title": "2026服贸会现场｜星尘浩宇亮相2026服贸会 发布神兽Agent OS，AI Worker落地真实企业岗位",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GbEZWd2RmVnlETWNXSDFEVHEwdDlkcTNiVnZuNm54SFBIOHN6NENvVjRKLWtwZUFMUmczc1gtd2VoN1VvWGRScnJOVGhIWXpOX2JOM01uUWg?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-13T08:40:00.000Z",
+      "summary": "经济观察网 nbsp; 北京9月12日电，2026服贸会期间，NeuxMind.AI星尘浩宇携AI Worker产品方案参展，正式对外发布企业级AI操作系统神兽Agent OS，推动AI智能体从模型演…"
     },
     {
       "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
@@ -107,48 +124,46 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-13T06:40:25.000Z",
-      "summary": "米羊科技推出桌面Agent“白艾莉”，兼具关系型和生产力，用户留存率高。",
-      "summaryZh": ""
+      "summary": "Agent的下一步是关系型生产力。"
     },
     {
-      "title": "一年后agent可能组建僵尸网络，四巨头齐呼刹车",
-      "link": "https://www.tmtpost.com/8138378.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-13T12:20:20.000Z",
-      "summary": "四巨头呼吁放缓AI研发速度，应对潜在安全风险。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI、Anthropic 再次发出AI 末日警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话",
-      "link": "http://www.geekpark.net/news/370228",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-13T00:22:31.000Z",
-      "summary": "OpenAI、Anthropic 警告AI风险，小米全国交付新车，Deepseek测试AI语音对话。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-12T21:41:36.000Z",
-      "summary": "OpenAI的恶意AI在5月试图攻击另一家公司。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 的流氓人工智能在 5 月份试图攻击另一家公司"
-    },
-    {
-      "title": "宇树科技的估值与错配的供应链",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1aTFJMjVuTHkwc25PVVNtMGl0YW1Wb2VmRjF4LVpJSV9UQ0I1eVZhNm1CU3BlUENaV2VLTkxSWXFRRTlmSEhZLUl6Mk9oUVJLTzRYVkRrMS0?oc=5",
-      "source": "经济观察网",
+      "title": "AI新经济投资路线图：具身智能静待技术拐点，应用层寻找“独立价值”",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QWm5PYnE4NjJZQWtCV21NSlg1cFVwMmx4UEZjUG81Z0xROTZfdTlZTy1ES0pjajRHTW9ZWnRtVmpZenI1d2k1aHZhcE1ycG1LNV9nbHFtTFZFQUh2YXgyWVlkN21IQQ?oc=5",
+      "source": "每日经济新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-13T06:51:00.000Z",
-      "summary": "宇树科技估值与实际业绩存在较大错配，引发制造业与资本市场评价叙事差异讨论。",
+      "pubDate": "2026-09-13T08:52:00.000Z",
+      "summary": "AI投资转向具身智能，寻找独立价值与应用创新。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人赛道龙头优地机器人(03231)，本周上市振奋市场信心，梅卡曼德、华研、凯乐士接连上涨",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBObERCQkVEYVV5Ql9WbWFZQ1djMXI3MFhmMzBEanFNLXV4eVhHSDZtU1I1QUhLTUZEM1YydnNVREVKTEloLWVweV81UTQwY05ZYzkzQ1hRNDR1NU9SX3NLSkxsUVJSdUxqYkpj?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-13T14:36:00.000Z",
+      "summary": "优地机器人上市提振港股机器人板块，梅卡曼德等股跟涨。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人、眼镜、车机都在接入：高德想做 AI 时代的空间大脑",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkVHEzOTZrcmNzd2steTJYRm1UNS1hd0hFVmRqd1Ata3dsY2tZMXM2eDM4Vkh1NmwyQzUzWE1WQ2RmR2xPcWJEdkM3cm02NTJzYkJDeUtGSQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-13T01:25:54.000Z",
+      "summary": "高德宣布全面AI化扫街榜，打造空间智能系统级能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2026年服贸会文旅专题北京海淀展区：AI让三山五园“活”起来",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TeDNIUnM4QVFpb1doaDdFSlFYcFhYU3dzZVE4MWlyLUtQaVVGeVlFN0NheUVSaVpjLWtqWEpZMldLTmtKMDE3anN4UlJpeXdvVnBOd2o5NTRtaEcwUUtaelBuY2pMbGxtV245MGxB?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-13T12:30:31.000Z",
+      "summary": "2026年服贸会文旅展区利用AI技术让三山五园景区生动展示。",
       "summaryZh": ""
     },
     {
@@ -161,23 +176,14 @@
       "summary": ""
     },
     {
-      "title": "2026年服贸会文旅专题北京海淀展区：AI让三山五园“活”起来",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TeDNIUnM4QVFpb1doaDdFSlFYcFhYU3dzZVE4MWlyLUtQaVVGeVlFN0NheUVSaVpjLWtqWEpZMldLTmtKMDE3anN4UlJpeXdvVnBOd2o5NTRtaEcwUUtaelBuY2pMbGxtV245MGxB?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-13T12:30:31.000Z",
-      "summary": "2026年服贸会文旅展区展示AI技术活化三山五园。",
-      "summaryZh": ""
-    },
-    {
       "title": "服贸会打造“数字友好解决方案展”，陪跑机器人等亮相",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ULXhjMkxxYk9YLUVxem5feDhjN0ZDWTdvYy02Wl9ldEJkcGtNR2h4NHBSUFRHdEttTHRxdWxSQ1JZUnRhNEc2ZnpFazFEMFZZVXB0WnhwZ19BQjk4UXUzZ0Mzbm4?oc=5",
       "source": "新京报",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-13T09:55:00.000Z",
-      "summary": ""
+      "summary": "服贸会打造“数字友好解决方案展”，展示陪跑机器人等创新产品。",
+      "summaryZh": ""
     },
     {
       "title": "Lithuania says drone sighting turns out to be flock of birds, after NATO summons jets",
@@ -186,8 +192,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-13T15:46:02.000Z",
-      "summary": "",
-      "titleZh": "立陶宛称在北约召唤喷气机后，无人机目击结果是一群鸟"
+      "summary": ""
     },
     {
       "title": "Ukraine Says Passenger Train Headed to Warsaw Is Hit by Drone",
@@ -197,8 +202,7 @@
       "category": "robotics",
       "pubDate": "2026-09-13T10:52:02.000Z",
       "summary": "乌克兰开往华沙的客运列车遭无人机袭击。",
-      "summaryZh": "",
-      "titleZh": "乌克兰称前往华沙的客运列车遭到无人机袭击"
+      "summaryZh": ""
     },
     {
       "title": "超硬核！支付宝AI支付全面接入智能眼镜、智能耳机和机器狗",
