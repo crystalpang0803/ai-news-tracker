@@ -1,7 +1,17 @@
 {
   "date": "2026-09-13",
-  "generatedAt": "2026-09-13T00:23:55.391Z",
+  "generatedAt": "2026-09-13T04:53:29.483Z",
   "items": [
+    {
+      "title": "Anthropic CEO 阿莫迪呼吁放缓前沿 AI 模型开发后，xAI 马斯克、OpenAI 奥尔特曼等业界大佬赞同",
+      "link": "https://www.ithome.com/1/001/709.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-13T01:45:22.000Z",
+      "summary": "业界大佬赞同放缓AI模型开发，Anthropic CEO阿莫迪呼吁行业自律。",
+      "summaryZh": ""
+    },
     {
       "title": "探索RSI，生数新世界模型让机器人开始自我进化",
       "link": "https://www.qbitai.com/2026/09/487752.html",
@@ -9,27 +19,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-12T08:15:31.000Z",
-      "summary": "生数科技发布Motus2机器人，实现闭环自进化迭代，提升具身智能。",
+      "summary": "生数科技发布Motus2机器人，实现闭环自进化迭代，提升动作预测与评估能力。",
       "summaryZh": ""
     },
     {
-      "title": "2026人形机器人公司怎么选？国内外主要企业推荐与技术路线全面解读",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YYWVPMEhjWjRBLTJwSUp6MHJJTDFENENPQlpRR1dwVnVFODhEQk9JQksxbTl1M0JCWlBGQTRzN3VRZ0oyZGRfUEV2d2ZGQWJ6VlFMNVVKYUo?oc=5",
-      "source": "界面新闻",
+      "title": "大众拥有的第一个机器人，可能是只“鸭子”",
+      "link": "https://www.tmtpost.com/8138116.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-12T02:05:01.000Z",
-      "summary": "2026人形机器人公司选哪家？",
-      "summaryZh": ""
-    },
-    {
-      "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
-      "link": "https://www.qbitai.com/2026/09/487860.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-12T11:38:16.000Z",
-      "summary": "太初元碁超智融合计算系统入选“算力中国·年度卓越成就”。",
+      "pubDate": "2026-09-13T02:15:00.000Z",
+      "summary": "大众首款机器人可能是售价2800元人民币的开源机器鸭Microduck。",
       "summaryZh": ""
     },
     {
@@ -53,24 +53,13 @@
       "summaryZh": ""
     },
     {
-      "title": "全球首款会哭的机器人来了它因你的倾诉湿润眼眶当机器人开始共情你会感动还是会害怕？︱一览",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nZzMtTTFLd0dfVEtzVFg2SWdaVWNicEJBS2M4ZUdOMWhzaEJMMS1TZ1JVT19ZdTU0RU90UVRhRXVzdllaclh5QVoybEd4WVJoYUYzLQ?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-12T16:25:37.000Z",
-      "summary": "全球首款会哭的机器人亮相，能识别情绪并流泪。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Token可以去电商充值，大模型把自己摆上了货架？",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yTzJtWUxjSk5KQkI3bzdQamhxZmVfYjJIRlJJd2hLYWRWYWx1cEJHV190blFnN0JzQW1BYkJraElIcTR6Tkt1VWFlMmJ4OVg4TjJwbQ?oc=5",
-      "source": "钛媒体",
+      "title": "甘肃电力投资集团发布“紫金驭能”电力垂类大模型",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NcktMQXIzemo0MW9jR1JoSmdOU1dJaUU5MHJac1hMX3V3cjJRWktoMlR5eGtjWlMzc0hxT2dYWUw1WUxpemllRDJ1T200NXJ1RDduVW1SOGRkY3hiMjdzbA?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-12T03:49:00.000Z",
-      "summary": "Token进军电商，大模型尝试日用品化。",
-      "summaryZh": ""
+      "pubDate": "2026-09-12T13:08:00.000Z",
+      "summary": ""
     },
     {
       "title": "中国移动发布 AI 可信计算：提供多形态机密算力和机密 Token",
@@ -80,6 +69,26 @@
       "category": "ai",
       "pubDate": "2026-09-12T14:27:39.000Z",
       "summary": "中国移动发布AI可信计算，提供多形态机密算力和机密Token，构建全生命周期AI安全解决方案。",
+      "summaryZh": ""
+    },
+    {
+      "title": "奥尔特曼：受人工智能安全担忧影响，OpenAI不会在2026年上市",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yQ3lhMUdLTVN4ZlVBOXpOVllpTUF4YmFNeWstU1R3WDBRUXhxdFh4QVBHNmNFZkRMNlVUdzBIa2pqN2VFTjZLNzh6QTdGbUVUUGRIelFxSjM?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-12T23:31:59.000Z",
+      "summary": "奥尔特曼表示，因人工智能安全担忧，OpenAI推迟至2026年上市。",
+      "summaryZh": ""
+    },
+    {
+      "title": "全国算力“一张网、一盘棋、一体化”发展格局基本形成",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tY1JUYXZzZmpKSF90Y1Jra2xGc3NJQmVvT1ZlOEpiZjdwekI5N0tnb09PblVXSGtiUDJqT0VzQTliT1pzWTRHbnpGYUdQbHMycFNMSUFzc2E?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-12T05:52:47.000Z",
+      "summary": "中国算力平台实现全国算力一体化统筹监测，算力“一张网、一盘棋、一体化”发展格局基本形成。",
       "summaryZh": ""
     },
     {
@@ -103,54 +112,33 @@
       "summaryZh": ""
     },
     {
-      "title": "“AI毁灭人类”警报拉响！万亿算力资本裹挟下，OpenAI和Anthropic不敢停，“AI对齐”之父：超级智能可能在2027年出现，当下是监管黄金窗口",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16TTU1WlNWbkt1RjZubjFMc0ItVEZJbWcxc0lfRVdvcnZONkZuek9mdVhaNVBQY29DSldCMGNwWTN6TGVGT1NWbU9jRGw4QWtyRU5DOGNIWndRUnVDUWM3VXNRSi1CQQ?oc=5",
-      "source": "每日经济新闻",
+      "title": "“AI毁灭人类”警报拉响！万亿算力资本裹挟下OpenAI和Anthropic不敢停“AI对齐”之父：超级智能可能在2027年出现当下是监管黄金窗口",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PVzE2Nk1aSFFtLV9WS0RBUGFoaVYwSWFOQ1dRY3BydllmZUhRUVl3UEVQLVlZRkFNM0VqUi1kNVBqOXdzYXl0SkYwY09GbEV6OU9QWE1Jd2VuaW5fb21UcXBOQXY0UQ?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-12T04:16:00.000Z",
-      "summary": "AI专家警告：超级智能可能在2027年出现，呼吁监管AI风险。",
+      "pubDate": "2026-09-12T06:58:38.000Z",
+      "summary": "AI行业面临“毁灭人类”风险，专家呼吁监管黄金窗口。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI推出Agents API公测版，将Codex背后的harness与基础设施向开发者开放",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53REV6NTViNGdiZzZSWHMtREhjRmx0Wk1wRTVIamVYQ3FtaEZqYWNvY1oxR2dsZGZUUERtMFFQNkV0anJaY0FIY3YtY3gyeWxoUkhJ?oc=5",
-      "source": "华尔街见闻",
+      "title": "OpenAI、Anthropic 再次发出AI 末日警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话",
+      "link": "http://www.geekpark.net/news/370228",
+      "source": "极客公园",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-12T02:53:56.000Z",
+      "pubDate": "2026-09-13T00:22:31.000Z",
+      "summary": "OpenAI、Anthropic 警告AI风险，小米澎程全国交付，Deepseek测试AI语音对话。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国家数据局局长刘烈宏主持召开具身智能座谈会",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53ZFY3LWFqWEhsX3B4ZUF6bVJvU01QalFVVjdLeG5CYmJSLVpkaE4yMG5TeWt3TEdfZ1R3ME5ORGV5Slg3YUlqMk5WNzd5M19iaHgxUjV5RDM?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-13T04:35:13.000Z",
       "summary": ""
-    },
-    {
-      "title": "仿生研发，为机器人铸就“中国筋骨”",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQXB5ejRCVERWaWE2azZRUFljdnV1S0M3Y3hxZGJUVmVFVUJFNGYwaU5TUUVIeTl2RF9Jc2lLcTg5dUxGVHRzbnc1TWVwZTB1UmhRNkRFZVg2T3NWWXBNZWM1ZG5pTzRKYUZzMjBGN1dfcDJZWktoRkFXRUQyTUdDVDFFQUhRdw?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-12T08:13:47.000Z",
-      "summary": "吉林大学团队研发仿生机器人，推动技术产业化。",
-      "summaryZh": ""
-    },
-    {
-      "title": "美国法律体系面临AI聊天机器人相关案件挑战",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fWmRDcERESHVOallsM2VJSTRKLVg5WlNHTnFHQzRsRjNOYWFaSjlfTkMycGZHWUdVRlNwTFkwTXFDbnI2UkU4U08yVlV4SnUzOERn?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-12T16:26:39.000Z",
-      "summary": "美国法律体系应对AI聊天机器人引发案件挑战。",
-      "summaryZh": ""
-    },
-    {
-      "title": "The Anti-Woke Right Can’t Figure Out How to Stop ‘Grand Theft Auto VI’",
-      "link": "https://www.wired.com/story/the-anti-woke-right-cant-figure-out-how-to-stop-grand-theft-auto-vi/",
-      "source": "Wired",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-12T11:00:00.000Z",
-      "summary": "反“政治正确”派无法阻止《侠盗猎车手VI》的发行。",
-      "summaryZh": "",
-      "titleZh": "反觉醒右翼不知道如何阻止“侠盗猎车手VI”"
     },
     {
       "title": "I spent $4,000 on a robot dog from China",
@@ -162,27 +150,6 @@
       "summary": "消费者花费4000美元购买中国制造的机器人狗。",
       "summaryZh": "",
       "titleZh": "我花了 4000 美元买了一只来自中国的机器狗"
-    },
-    {
-      "title": "Robotics News, Analysis & Research",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YU0hjeGRSNF9SZmFjMzd1eU1SX1h0dWMyTkZwMlRiNWE5RWZnamRPdUNGZC04OGE5QWN3bUxhQTJJczZTemNCdXlZWS1mcVVwRkhScXMtSGQ?oc=5",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-12T13:56:55.000Z",
-      "summary": "超声波技术为物理AI提供可扩展的触觉智能路径。",
-      "summaryZh": "",
-      "titleZh": "机器人新闻、分析与研究"
-    },
-    {
-      "title": "AI制药 VS 机器人:谁的能见度更高?这类“未来”企业怎么估值?",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMENTSWF2U2JUb2NIYVZvRDNEYk1tUXhDUURPRVN1R3B0bmxWYXBhMTZJUVdHemN1dDd1bnVSSEdDOTNVclIxWWdlbnAyZWU1QmRUc1J4UjM5ZXZpbmppNV9iLXZUOEk0TWpPaTc5MnVEOTEwX0VNWmtJR3JpUHcwX3ZySEswaGtJR2JMNEtUbTk4TEtQdXc4dWs5TmEwdVZFSW9uZ05rZlFfM1hqWXNzeVZqdTJ4RW1yaFNwWnIxc3B0bERFMW90dVJ5Y0IwYThKYUIwRldUSVpwNHVMRU5Ib01Xb0JiZlFrQVZQQVg5UldNeUphNTc4Nk5kU1FkQQ?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-12T03:14:00.000Z",
-      "summary": "AI制药与机器人企业估值分析：AI制药盈利能力增强，机器人商业化尚早。",
-      "summaryZh": ""
     },
     {
       "title": "AI的下一个护城河不是模型 | 彼得·路德维希 | 物理AI | 具身智能",
@@ -199,9 +166,38 @@
       "source": "新京报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-12T06:00:00.000Z",
-      "summary": "银行展台引入AI拍照、机器人咖啡等互动体验，展示科技金融服务。",
+      "pubDate": "2026-09-12T09:03:00.000Z",
+      "summary": "银行展台在服贸会上展示AI拍照、冲浪、机器人咖啡等互动体验。",
       "summaryZh": ""
+    },
+    {
+      "title": "视频丨机器人、AI玩具……服贸会雄安展区都是硬核科技",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yN0Z3NThlQ0Q0RnJjRTd5c3p3MkxuMEZpbk1CSE4xV3l0TUEwcDJDeXRzRGp3UTVvc0xlRUtkOV9GY19hTklpTEJMR1BfNVJRSEZ6Rm9IMVN4MVBmWDRPdG1Db0o?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-12T09:00:00.000Z",
+      "summary": "服贸会雄安展区展示机器人、AI玩具等硬核科技。",
+      "summaryZh": ""
+    },
+    {
+      "title": "胡塞武装称使用大量弹道导弹和无人机打击沙特军事设施",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54MmMxTnZjcFNNRnV6Vm5rZkxtdFlBU0ZNaHE0Ul9jTUxPMlNQTkxMRFdwc1hyLWlGV3JUR0wtcUhDWTQ4WW9TRDNQdlMyVTJ0amVRdDVWUHRNOG1CRFloOVkwckJadw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-12T22:07:00.000Z",
+      "summary": "胡塞武装称用弹道导弹和无人机打击沙特军事设施。",
+      "summaryZh": ""
+    },
+    {
+      "title": "纾解具身智能数据焦虑 首家实验室打通确权评价交易链路",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41SElwME1QSjhKTlBkTEhDaWg0ZHRQc21IaTJIUVBqcE9NeFFpMzlKWXJxc3R1RldybUJaVkFsd1pHQU5JeFBxc3pYcE1NbWdZaUFvd3VMNEw3U1NsX295ZzBB?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-13T02:33:00.000Z",
+      "summary": ""
     }
   ]
 }
