@@ -1,24 +1,25 @@
 {
   "date": "2026-09-14",
-  "generatedAt": "2026-09-13T21:41:48.635Z",
+  "generatedAt": "2026-09-13T23:14:13.800Z",
   "items": [
     {
-      "title": "Anthropic、OpenAI和谷歌讨论制定人工智能标准",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Bd1RIZ1ZCMTUydUhlWkFFbzMtSXhLMTRMdGVMMVU2M0JXamowVFc0QzhtVlYwQWRYQ2lXdVFGaWhOVTdlcGVnYmhUUWExUlhCRG1lTTZSOFlpUXJ1TFl6d1g4QUt6QklpZVVOTQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-13T06:58:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Waymo 自动驾驶出租车监测到乘客携带枪支，协助警方逮捕两名未成年人",
-      "link": "https://www.ithome.com/1/001/834.htm",
+      "title": "苏黎世机场联合文远知行部署两辆 L4 级全自动驾驶无人电动摆渡车，初期用于接送机场员工",
+      "link": "https://www.ithome.com/1/001/874.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-13T11:32:25.000Z",
-      "summary": "Waymo自动驾驶出租车监测到乘客携带枪支，协助旧金山警方逮捕两名未成年人。",
+      "pubDate": "2026-09-13T22:54:33.000Z",
+      "summary": "苏黎世机场部署两辆L4级自动驾驶摆渡车，初期用于接送员工。",
+      "summaryZh": ""
+    },
+    {
+      "title": "微软宣布将 xAI 旗下 Grok 模型整合进 Office 三件套，为用户提供 OpenAI 以外模型选择",
+      "link": "https://www.ithome.com/1/001/875.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-13T22:59:20.000Z",
+      "summary": "微软将 xAI 的 Grok 模型整合进 Office 三件套，提供 OpenAI 之外选择。",
       "summaryZh": ""
     },
     {
@@ -28,28 +29,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-13T09:51:13.000Z",
-      "summary": "具身智能技术突破，机器人应用进入产业化阶段。",
+      "summary": "具身智能技术突破，机器人应用从想象走向现实工作。",
       "summaryZh": ""
     },
     {
-      "title": "国内首个国产GPU + 类脑芯片大模型异构混合推理系统发布，较同类国产GPU 算力集群性价比提升一倍以上",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqQl9sMzVldlAwWUx3Q0ROakhSRXh1Sk9yZ0VZV2xoRDduRkhNcWdXUVhIVWc5a1ZuaDZORDRPMklJdVhzYVV1MVhlZFM?oc=5",
-      "source": "IT之家",
+      "title": "国产AI芯片大卖，上半年谁真正赚到了钱？",
+      "link": "https://www.tmtpost.com/8138350.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-13T07:32:12.000Z",
-      "summary": "国内发布首个国产GPU+类脑芯片大模型异构混合推理系统，算力集群性价比提升一倍以上。",
+      "pubDate": "2026-09-13T12:19:55.000Z",
+      "summary": "国产AI芯片公司上半年收入翻倍，盈利能力分化。",
       "summaryZh": ""
     },
     {
-      "title": "现代汽车与Waymo合作，将于今年第四季度交付IONIQ 5机器人出租车",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mMWJpTXdSR0xQallGS0RvMDJOajY1QTJqbFlsaUlBdTJtQXlXbzVWbU9ndjg3UnRTeGpWVzZWY1FZV2ZGV1Y0RHRIamU3NHhxWkR2dkFTLTQ?oc=5",
-      "source": "界面新闻",
+      "title": "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JUU1GR1FLbi1TWWN3aS1qUWJtbXB6T0h1eVlXODZyZDRGV2h5c3Z0QTF6T3RCVmFDZG4wV3oxNnJBbmcxcTlYZUM0Q3lUQQ?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-13T03:30:42.000Z",
-      "summary": "现代汽车与Waymo合作，第四季度交付IONIQ 5机器人出租车。",
-      "summaryZh": ""
+      "pubDate": "2026-09-13T12:23:44.000Z",
+      "summary": ""
     },
     {
       "title": "中国电信总经理刘桂清：深化算电协同，加强算力与电力产业在规划、建设、运营方面深度融合",
@@ -59,16 +59,6 @@
       "category": "ai",
       "pubDate": "2026-09-13T02:17:10.000Z",
       "summary": ""
-    },
-    {
-      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-      "link": "https://www.qbitai.com/2026/09/488380.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-13T03:13:00.000Z",
-      "summary": "OpenAI年内不上市，奥特曼支持Dario呼吁AI行业减速。",
-      "summaryZh": ""
     },
     {
       "title": "宇算星河正式亮相：以“天基大模型”开启太空智算新时代",
@@ -97,7 +87,18 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-13T17:49:27.000Z",
-      "summary": ""
+      "summary": "商务部回应美指控中国AI企业对美蒸馏活动，称其无据且政治化。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Anthropic对人工智能的警告或使芯片股承压 但长期影响料有限",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xZUNUOTczcmVxNjA0NTBaQXVtV3BxNFZnSk9vQk0xdXV4WE1JWDVZN2g2MDdTWVFic1VvQWpGOHVKYzdTRTMxZg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-13T06:58:00.000Z",
+      "summary": "AI高管警告或短期压低芯片股，长期影响有限。",
+      "summaryZh": ""
     },
     {
       "title": "招商证券：宏观压制逐步落地 建议关注科技成长与AI算力链",
@@ -106,17 +107,18 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-13T14:06:55.000Z",
-      "summary": "招商证券建议关注科技成长与AI算力链等板块。",
+      "summary": "招商证券发布研报，建议关注科技成长与AI算力链。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI彻底震撼数学界，80年核心猜想被破解，菲尔兹奖得主惊呼坐不稳",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81VDFXMGI4MHh0RHJwbFg5MjdhNE51LUJyY3dIWTFHazF4VW00Y2NZRmZVN0lJbGZXc3lQWFZVdloyTzliMVVGNHMxbkJWQQ?oc=5",
-      "source": "36氪",
+      "title": "全国一体化算力监测落地 算力网建设提速",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UandrQ3c2Ukgxby1JdkhEcjhYSzRqN0pVNFZIYmNwTUthOHNSTmg2Y0taUGE0MFBETkZuQUpfOUFfSl9sTDkzdjBSTW1BTHpPRnpnMGVab3M0TENmVlZ1Nnc2MUdqT04tT2RTRWN0UQ?oc=5",
+      "source": "中国经济网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-13T18:07:52.000Z",
-      "summary": ""
+      "pubDate": "2026-09-13T22:50:00.000Z",
+      "summary": "全国一体化算力监测系统落地，算力网建设加速推进。",
+      "summaryZh": ""
     },
     {
       "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
@@ -125,47 +127,18 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-13T06:40:25.000Z",
-      "summary": "米羊科技推出桌面Agent“白艾莉”，融合关系型和生产力，用户留存率高。",
+      "summary": "米羊科技推出桌面Agent“白艾莉”，兼具工作协作和情感陪伴功能。",
       "summaryZh": ""
     },
     {
-      "title": "独家对话吴德周：从工具到Agent，AI眼镜的竞争逻辑变了",
-      "link": "https://www.tmtpost.com/8138191.html",
-      "source": "钛媒体",
+      "title": "OpenAI、Anthropic 再次发出AI 末日警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话",
+      "link": "http://www.geekpark.net/news/370228",
+      "source": "极客公园",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-13T05:15:46.000Z",
-      "summary": "AI眼镜竞争转向垂直场景，BleeqUp以运动眼镜为例实现从工具到Agent的质变。",
+      "pubDate": "2026-09-13T00:22:31.000Z",
+      "summary": "OpenAI、Anthropic 警告AI风险，小米全国交付新车，Deepseek测试AI语音对话。",
       "summaryZh": ""
-    },
-    {
-      "title": "专访｜Vbot维他动力赵哲伦：跳出表演式热闹，消费机器人等待属于自己的“福特时刻”",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsWDNFaVU4aC14UGVDSzZVQXBod0tEN2RDdFJTamd4TUphTlJVQVpSNGlmVWtzR2NURHEwbktSMGJnQ3RwVmk0MXEtbUtRTFRTWi1qRmluN0s5NGVpb05tMjBn?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-13T10:55:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "2026年服贸会文旅专题北京海淀展区：AI让三山五园“活”起来",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TeDNIUnM4QVFpb1doaDdFSlFYcFhYU3dzZVE4MWlyLUtQaVVGeVlFN0NheUVSaVpjLWtqWEpZMldLTmtKMDE3anN4UlJpeXdvVnBOd2o5NTRtaEcwUUtaelBuY2pMbGxtV245MGxB?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-13T12:30:31.000Z",
-      "summary": "2026年服贸会文旅展区利用AI技术让三山五园活化展示。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Lithuania says drone sighting turns out to be flock of birds, after NATO summons jets",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaFhfNEJ3cEZwOURCeW84SEFKRXM3Y0VlWUFlTVJxbDg5NVNCNDhESXViQnkwOC1vN3Z3dEhieU15VWY5bms1ZWJ1U0pkemREcm1pTU1DbzF0eVBEUW1HYkZBUnp5QkJ5U3ktNWoybGxGUWpqNm5BdktlYkFnWlNKd2FZNUJJV2JBRGxzSzdxWUhObXAxVlpfQjFSZlhJQUNUeUdqcU01Sm4wUEQyeUN4ZXFxdlNGak8zd0RKTU5fd2t6RzdldTIweWtBcWd3WWJyamhJ?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-13T15:46:02.000Z",
-      "summary": "",
-      "titleZh": "立陶宛称在北约召唤喷气式飞机后，无人机目击结果是一群鸟"
     },
     {
       "title": "Ukraine Says Passenger Train Headed to Warsaw Is Hit by Drone",
@@ -175,8 +148,17 @@
       "category": "robotics",
       "pubDate": "2026-09-13T10:52:02.000Z",
       "summary": "乌克兰开往华沙的客运列车遭无人机袭击。",
-      "summaryZh": "",
-      "titleZh": "乌克兰称前往华沙的客运列车遭到无人机袭击"
+      "summaryZh": ""
+    },
+    {
+      "title": "一列开往华沙的列车在乌克兰遭无人机撞击",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OWFRkeV9ya0JhNDlrYlJRdjhxQkp5ZnBLSXhFa2xjNG1Dc1QtcEkydS1ROC0taEh2Njg0bWxnbmRmbm9MMDRHaG5OdDMwNmVKWUs4SEVBVXBBTWFfb1NfZkpBd0FoUQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-13T11:12:00.000Z",
+      "summary": "波兰列车在乌克兰遭无人机撞击，伤亡情况不详。",
+      "summaryZh": ""
     },
     {
       "title": "国家数据局召开具身智能座谈会：积极支持企业加大数据投入",
