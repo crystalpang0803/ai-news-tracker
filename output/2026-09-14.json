@@ -1,25 +1,25 @@
 {
   "date": "2026-09-14",
-  "generatedAt": "2026-09-14T05:01:55.593Z",
+  "generatedAt": "2026-09-14T09:15:04.254Z",
   "items": [
     {
-      "title": "钛晨报事关智能网联新能源汽车产业发展，九部门最新部署；奥尔特曼：OpenAI不会在2026年上市；智谱完成50亿美元融资用于扩大算力供给等用途",
-      "link": "https://www.tmtpost.com/8138491.html",
+      "title": "OpenAI按下竞速暂停键：大模型退烧，企业 AI进入结果验收时代",
+      "link": "https://www.tmtpost.com/8139181.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-13T23:20:00.000Z",
-      "summary": "九部门联合发布智能网联新能源汽车产业发展规划，OpenAI推迟上市，智谱完成50亿融资。",
+      "pubDate": "2026-09-14T08:52:07.000Z",
+      "summary": "OpenAI暂停大模型竞速，企业AI转向结果验收。",
       "summaryZh": ""
     },
     {
-      "title": "具身智能落地之战，被忽略的“机甲”战场",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00YmZ2eE5aVGpwWnJCRHlDMDFJSVJuMVlfZ1NMVEt0anozVGdrdnlobkNKR1NvYU1iQWFsamNSQmtMUzUyakE?oc=5",
-      "source": "智东西",
+      "title": "蓝虫具身发布模块化人形机器人 Mantis Standard“小白”，0.98 万元起",
+      "link": "https://www.ithome.com/1/002/166.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-14T02:58:57.000Z",
-      "summary": "具身智能领域“机甲”战场成为新焦点。",
+      "pubDate": "2026-09-14T08:45:16.000Z",
+      "summary": "蓝虫具身发布模块化人形机器人Mantis Standard“小白”，售价0.98万元起。",
       "summaryZh": ""
     },
     {
@@ -29,77 +29,65 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-14T03:18:42.000Z",
-      "summary": "PhysBrain 1.5模型在物理AI领域取得全球开源第一，与顶尖闭源模型并驾齐驱。",
-      "summaryZh": ""
-    },
-    {
-      "title": "达里奥、奥特曼发声，AI安全成焦点，网络安全概念飙升！深信服涨近6%，软件ETF汇添富(159590)标的指数涨超1%！人工智能+软件重磅政策落地",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDcmZDdjgxMnU0b2djb081MTVjb2tjSmt0aTRPangzNENxZ0VyQUJEbzhva1hyeHRLdnRraWp3RUxFNmZVdkh1eTFucmRkVVhFOVc5UnA5LVM?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-14T03:37:18.000Z",
-      "summary": "达里奥、奥特曼呼吁AI安全，网络安全概念股上涨。",
-      "summaryZh": ""
-    },
-    {
-      "title": "戴森旗下 R3 AI 扫拖机器人国行上架：30000Pa 吸力、70°C 热水深度洗地，6999 元",
-      "link": "https://www.ithome.com/1/001/970.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-14T02:53:25.000Z",
-      "summary": "戴森R3 AI扫拖机器人国行上市，售价6999元。",
+      "summary": "PhysBrain 1.5模型在28项基准测试中取得72.5分，位居全球开源模型首位。",
       "summaryZh": ""
     },
     {
       "title": "AI真的跑太快？Dario最新长文喊话AI限速，OpenAI今年也不IPO了",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yRk9CZ3pZd2oxT1RSbTNHS3ZVT3hJSmNBcDV3b0ktSV9XUl9iTUx6YkdmRlozTDBQUElOaWRuejdzS2FoZE9wTm9VQWhaNlRB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAySlZrU3htQmpQazJ4cXJmTUJycU9peWhoMDFLaVpiNS1EVDBpLUg4MVE0SFZZWW1Iai00V2ZmTTktelEtYWpPM1dlY29XUQ?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-14T01:47:00.000Z",
-      "summary": "Dario呼吁AI限速，OpenAI推迟IPO。",
-      "summaryZh": ""
+      "pubDate": "2026-09-13T10:46:00.000Z",
+      "summary": ""
     },
     {
-      "title": "Anthropic、OpenAI与谷歌商讨合作建立AI行业标准机构",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aM0JnM0lZTHBjWm8xSDJOaGc1a3ZlclhxZmktb2htV0pVQW1OTnljcDNkZVlKMElad29jTlFES3oxM3NtRi1ucVBzOUpicXEwOGpOa1hxX29Vdw?oc=5",
+      "title": "算力缺的不是“卡”，而是Token",
+      "link": "https://www.tmtpost.com/8139123.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-13T23:38:00.000Z",
-      "summary": "Anthropic、OpenAI与谷歌商讨共建AI行业标准机构。",
+      "pubDate": "2026-09-14T08:59:41.000Z",
+      "summary": "AI算力短缺核心在于Token成本与资源利用率不足。",
       "summaryZh": ""
     },
     {
-      "title": "豆包手机助手消费者版发布：GUI 合作协议同步推出，三方 App 可允许 / 拒绝 AI 自动化操作",
-      "link": "https://www.ithome.com/1/001/971.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-14T02:54:39.000Z",
-      "summary": "豆包手机助手消费者版发布，支持AI自动化操作，并推出GUI合作协议。",
-      "summaryZh": ""
+      "title": "EXCLUSIVE: IPO for humanoid robot maker Boston Dynamics unlikely in 2027, executive says",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUG9xNjNSb3NaNnQtX1dBNzV0WmJFTFdCRS1uLXkzQUt3OTJFTmxzWUZ0c2l2RFUxZGU1R1lKcHgydDBURVozRmlZTU41aXZvVTBuQmFfM2RUSFJFVmRnY2w4Qm1fWEFUdnpoVVFCd3o5RFRncjhaNGN3NHNVaHNqUFhFMnBJanJHM1lCSHlmTzN3dFJqT2RKY3N0TG9keUo3al94SEJCSGlnT3drTjU0UF85Rkt3YU14U21TTXZqcURKY09XUF9V?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-14T07:13:27.000Z",
+      "summary": ""
     },
     {
-      "title": "阿莫迪的响指：我们该如何理解“大模型减速论”？",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RMkVLU1dVNEQ3SDNRNzJyUUhwZFQ2S0ZIdm96cXAySlQxTTlWVjZwNlg2aGJCSnBpdGFiVWRqNVVHcmR2NW4wNVMxbGhTbWc?oc=5",
+      "title": "单一大模型存盲区易产生AI幻觉致损 唠会儿创新多AI交叉纠错技术实现分歧显性化",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WQWNXRTBBWmhEay1zRXNWZzN4TmZqMEN6YkhxUFRBV3owRUdYWkxxdmo3QnJUSFh5Nkl6dTVBY2hQZjY5VDR3dExtaUZJMk1DRDlZ?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-14T02:19:32.000Z",
-      "summary": "AI领域专家呼吁放缓AI模型发展速度，引发行业关注。",
+      "pubDate": "2026-09-13T15:47:00.000Z",
+      "summary": "“唠会儿”多AI协作App通过交叉纠错技术显性化分歧，提升AI决策可信度。",
       "summaryZh": ""
     },
     {
-      "title": "超6亿！深圳AI芯片创企获新融资，前地平线芯片总裁创办",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLT05TTGhNTmp3RmVVeGU0ZkozMlVQUDFfeVBzME1sQUlUQTc1Y2RLX1pxTE9uUmw2c0NQZ25MQ0FxVDFiN0E?oc=5",
-      "source": "智东西",
+      "title": "OpenAI称正就在澳大利亚开展大模型训练进行磋商",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLMkJ6cE55dHpJUXd1U25BaTBsSDlucUxhaVBLOWtRU3RIU2dOdnQ1QnBtd2dqYVIybG5vRFY0UEFodDJrSWNmWVhiWGN5NEJzbHQ4?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-14T03:49:17.000Z",
-      "summary": "深圳AI芯片创企九万里未来科技获超6亿人民币融资，由前地平线芯片总裁陈鹏创办。",
+      "pubDate": "2026-09-14T06:31:04.000Z",
+      "summary": "OpenAI与澳大利亚磋商大模型训练合作事宜。",
+      "summaryZh": ""
+    },
+    {
+      "title": "聚焦工程落地｜Arm Create 梳理智能体 AI 基建与优化新思路",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01VnpIZ1ZUbFd0aU5ocDAtSFBaRTBQajZSTHRoVXNSTlZHX1dNaGozTXY5U3J4OGRoSmxnbXNBR3FzcHZuSjlQY0c2VEc?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-14T08:10:08.000Z",
+      "summary": "Arm Create活动探讨AI基建与优化，开发者寻求最佳应用路径。",
       "summaryZh": ""
     },
     {
@@ -109,36 +97,38 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-14T04:32:24.000Z",
-      "summary": "AI三大巨头呼吁放缓开发步伐，南方基金关注产业节奏切换下的配置变化。",
+      "summary": "AI三大巨头呼吁放缓开发步伐，市场关注算力需求变化。",
       "summaryZh": ""
     },
     {
-      "title": "不足5%！欧洲AI算力全球占比悬殊，德拉吉呼吁欧洲大规模建设AI数据中心",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NcThTNkUwcDF1ZHNRWkN5dmdXckNnbXB2Sm9UTFFtV3RxdnZfaVQ5clBPMGFQbkNuN2dYeEtLQU5lTlQ5eVJBcGFlNXBQWDF5T0JJ?oc=5",
+      "title": "全年需求预测上调至2500万只以上，光模块成为AI算力链业绩兑现最充分环节",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiWnBscWh6TlNNLVpLcEgyWlFRamU0NDQxOXRhcEZQQjQwM3p0M2dwei1WVkFBM19ELUpzblp3TkYwejJkdGJOOEU2Sy1Td21UbnliUkIxd3M?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-14T04:41:24.000Z",
+      "summary": "光模块需求预测上调，成为AI算力链业绩兑现关键环节。",
+      "summaryZh": ""
+    },
+    {
+      "title": "中证指数公司：将中证港股通人工智能应用指数的发布日期调整为9月15日",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96NTQ2T19XWnBrUjRTU1hqMlhBMC1GZC1pRU9tYUVPTExoWFp6RDVOYWk5SEZJX1QwZWROTGM3Y0tOVXJzNkMydzU3RGx1aktLUWZj?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-13T10:20:07.000Z",
-      "summary": "欧洲AI算力全球占比不足5%，德拉吉呼吁建设AI数据中心以提升竞争力。",
+      "pubDate": "2026-09-14T09:13:04.000Z",
+      "summary": "中证指数公司调整中证港股通人工智能应用指数发布日期至9月15日。",
       "summaryZh": ""
     },
     {
-      "title": "美发布中国人工智能企业对美蒸馏活动相关网络安全公告，商务部回应",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10TFRFNGQzZzlCRk1QX1Bad1JwcW9uVlhvVXFacVVFV18tR3ZzT1E3aElYaE1Gb3BuR21TMlE3ZDZWa0IxOEhQNg?oc=5",
-      "source": "财联社",
+      "title": "上海：发挥人工智能等新技术在科技金融中的创新赋能作用",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40ZEpUVGtaQ3c3Vy1uYlpkeWJIdlRiOHNzTXRIYmJMamFzb1N5RldEV052ckJJVW95TVREQ2J1TzVtR0xtTGhGaEZyaTlWem40QW1ncg?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-13T17:49:27.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Anthropic对人工智能的警告或使芯片股承压 但长期影响料有限",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xZUNUOTczcmVxNjA0NTBaQXVtV3BxNFZnSk9vQk0xdXV4WE1JWDVZN2g2MDdTWVFic1VvQWpGOHVKYzdTRTMxZg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-13T06:58:00.000Z",
-      "summary": ""
+      "pubDate": "2026-09-14T06:35:00.000Z",
+      "summary": "上海金融监管局推动科技金融数智化，运用AI等新技术赋能产品研发和风险管理。",
+      "summaryZh": ""
     },
     {
       "title": "[经济信息联播]AI网球“搭子”来了 不只发球还能对拉 中国AI网球机器人全球“圈粉”",
@@ -151,33 +141,43 @@
       "summaryZh": ""
     },
     {
-      "title": "魔法原子入股憬驰智能，后者含AI及机器人业务",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41WDczVExTZGhybVNCM2YzcHVYaldjRFFEcmJvWkU0aTc1RFZzRmI2cDBPWklhN2VLa0lDQ0tTakFSOWk2TUNjeDBQYjlwZm5JTS04bWZJWXdVdjI5MmlQOUlGeTIxSGNiclhMOXRHSUV2UDFrN1E?oc=5",
-      "source": "新浪财经",
+      "title": "华沿机器人（01021）股价冲高回落 短期放量分歧趋势未逆转",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EeFN3eElUamJYM0t4NWg1VzhRaDF5MUoyaG1QOVF4VmNLa01GVkNxN0hMd0FxYzdWM3NtbkpBVnNxUXFXQkJmb2RVTUl3STRrRXFzMVhLSXI?oc=5",
+      "source": "经济观察网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-14T04:07:22.000Z",
-      "summary": "魔法原子成为憬驰智能新股东，后者专注AI及机器人领域。",
+      "pubDate": "2026-09-14T08:53:00.000Z",
+      "summary": "华沿机器人股价冲高回落，短期筹码剧烈换手，趋势暂未逆转。",
       "summaryZh": ""
     },
     {
-      "title": "小米等成立智能科技公司，含AI及机器人业务",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LWnhIV2s1WmU1bjVIcW5IVVVrckFJMnFRSHRpOVhvcGxaUDBiaWl5cEdnUjQ4WGJfLWxqaTNDNW01MDJZWnJVU3hMMTNvR2VvalpqR1F3aW5Nc2l5X2JmOTVmbUozSGxmc0NyenNKa0N3VTFkanc?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-14T04:38:57.000Z",
-      "summary": "小米等企业成立智能科技公司，专注AI及机器人研发。",
-      "summaryZh": ""
-    },
-    {
-      "title": "视频丨数智赋能 服贸会打造可感可触的文旅新场景",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rWGxwaWlEZDZkQWJSRVk1anA1S0pMOC1GNVhqVkVUWHZwOC1SZGdKY2ozc3VLRG5KSi1QZmx5cndMRzl3MnVVanRORHlDOThlMTVNbzlR?oc=5",
-      "source": "腾讯新闻",
+      "title": "顺丰同城(09699.HK)9月中上旬股价上涨 无人配送及AI业务获进展",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yamVrYXpVZHJ1QUVOeUptblJRbE1NRXI3X3RmTU00Z1ppQnR4bjZsRGgyRzZjOWJvSkRTdmV6dHRnRjhfOG5WaFJORVEtdm1hQ2dUc2E4UjA?oc=5",
+      "source": "经济观察网",
       "lang": "zh",
       "category": "application",
-      "pubDate": "2026-09-13T07:03:00.000Z",
-      "summary": "服贸会展示文旅新场景，融合AI等科技打造沉浸式体验。",
+      "pubDate": "2026-09-14T06:48:00.000Z",
+      "summary": "顺丰同城股价上涨，无人配送和AI业务取得进展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "类脑智能加速走向现实：从机器人的“认知大脑”到光计算应用",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tSTkwMFQ3akc1ZFdRN3F3eV9oOFc1ekU2VVJQM2JGaHZuX0xEYjZmX3VTWDh6bERjSlN1ZU4wOU12NUtVcHBvdmNnMk1zNWYyb2poUjFB?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-13T10:45:00.000Z",
+      "summary": "类脑智能技术研讨聚焦于提升机器智能能效与适应能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "魔法原子入股憬驰智能 后者含AI及机器人业务",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyWC1IekpYYkQzS1FxOW1oc2JTeUtPc2pPSEN3aXR1d1liXzV2ZDEyTmloek92cHUzc0NEMzI5SFVKRG4ta1BTTFhlQkxtY09V?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-14T03:21:28.000Z",
+      "summary": "魔法原子机器人科技入股憬驰智能，后者涉AI及机器人业务。",
       "summaryZh": ""
     },
     {
@@ -187,17 +187,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-14T00:36:00.000Z",
-      "summary": "国产AI网球机器人全球热销，解决约球难题，降低打球门槛。",
+      "summary": "国产AI网球机器人全球热销，解决约球难题，降低训练成本。",
       "summaryZh": ""
     },
     {
-      "title": "2026年服贸会文旅专题北京海淀展区：AI让三山五园“活”起来",
+      "title": "服贸会文旅专题海淀展区：AI让三山五园“活”起来",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TeDNIUnM4QVFpb1doaDdFSlFYcFhYU3dzZVE4MWlyLUtQaVVGeVlFN0NheUVSaVpjLWtqWEpZMldLTmtKMDE3anN4UlJpeXdvVnBOd2o5NTRtaEcwUUtaelBuY2pMbGxtV245MGxB?oc=5",
       "source": "央广网",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-13T12:30:31.000Z",
-      "summary": "2026年服贸会文旅展区展示AI技术活化三山五园。",
+      "summary": "服贸会文旅展区展示AI技术让三山五园活化。",
       "summaryZh": ""
     },
     {
@@ -217,26 +217,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-13T09:55:00.000Z",
-      "summary": "服贸会打造“数字友好解决方案展”，展示陪跑机器人等创新产品。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Lithuania says drone sighting turns out to be flock of birds, after NATO summons jets",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaFhfNEJ3cEZwOURCeW84SEFKRXM3Y0VlWUFlTVJxbDg5NVNCNDhESXViQnkwOC1vN3Z3dEhieU15VWY5bms1ZWJ1U0pkemREcm1pTU1DbzF0eVBEUW1HYkZBUnp5QkJ5U3ktNWoybGxGUWpqNm5BdktlYkFnWlNKd2FZNUJJV2JBRGxzSzdxWUhObXAxVlpfQjFSZlhJQUNUeUdqcU01Sm4wUEQyeUN4ZXFxdlNGak8zd0RKTU5fd2t6RzdldTIweWtBcWd3WWJyamhJ?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-13T15:46:02.000Z",
-      "summary": ""
-    },
-    {
-      "title": "无人驾驶科技企业宣布从无人车走向AI服务城市治理​",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iVmROangwNWpZR3FISHczd1ctaEJzY3RneGprd1hUSE51dUtkODRnNUpwUDZoRmFuelluQ1JocjU0Rk1xdEhxQkF4cXl5ektNMW02UGlzNFl2TEpaZHhGbWp1Tl83ZnF1aEEw?oc=5",
-      "source": "中国新闻网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-14T04:29:00.000Z",
-      "summary": "无人驾驶企业拓展AI服务，助力城市治理。",
+      "summary": "服贸会打造全球首个“数字友好”主题展区，展示陪跑机器人等数字友好解决方案。",
       "summaryZh": ""
     }
   ]
