@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "generatedAt": "2026-09-14T00:28:37.489Z",
+  "generatedAt": "2026-09-14T05:01:55.593Z",
   "items": [
     {
       "title": "钛晨报事关智能网联新能源汽车产业发展，九部门最新部署；奥尔特曼：OpenAI不会在2026年上市；智谱完成50亿美元融资用于扩大算力供给等用途",
@@ -13,82 +13,103 @@
       "summaryZh": ""
     },
     {
-      "title": "苏黎世机场联合文远知行部署两辆 L4 级全自动驾驶无人电动摆渡车，初期用于接送机场员工",
-      "link": "https://www.ithome.com/1/001/874.htm",
-      "source": "IT之家",
+      "title": "具身智能落地之战，被忽略的“机甲”战场",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00YmZ2eE5aVGpwWnJCRHlDMDFJSVJuMVlfZ1NMVEt0anozVGdrdnlobkNKR1NvYU1iQWFsamNSQmtMUzUyakE?oc=5",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-13T22:54:33.000Z",
-      "summary": "苏黎世机场部署两辆L4级自动驾驶摆渡车，初期用于接送员工。",
+      "pubDate": "2026-09-14T02:58:57.000Z",
+      "summary": "具身智能领域“机甲”战场成为新焦点。",
       "summaryZh": ""
     },
     {
-      "title": "Anthropic、OpenAI和谷歌讨论制定人工智能标准",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Bd1RIZ1ZCMTUydUhlWkFFbzMtSXhLMTRMdGVMMVU2M0JXamowVFc0QzhtVlYwQWRYQ2lXdVFGaWhOVTdlcGVnYmhUUWExUlhCRG1lTTZSOFlpUXJ1TFl6d1g4QUt6QklpZVVOTQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-13T06:58:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "法拉第未来预告北京时间 9 月 20 日举办 EAI 机器人“四核全智”新品发布会，将打造“美国最全机器人矩阵”",
-      "link": "https://www.ithome.com/1/001/904.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-14T00:22:28.000Z",
-      "summary": "法拉第未来将于9月20日发布“四核全智”机器人，构建美国最全机器人矩阵。",
-      "summaryZh": ""
-    },
-    {
-      "title": "当机器人开始“上班“：具身智能正在跨过价值分水岭",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Sc19qVGJEUjJHNjhoS29zcThuR3NCaDFkdDZ1UlFNcVJKSUVsTG1vcnFNQ3RtbHV3dHB0Yjk4bWJXeGdBWmd0dERMM0JlY3E5TzBLTFlCbjk?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-13T09:51:13.000Z",
-      "summary": "具身智能技术突破，机器人应用进入产业化阶段。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国产AI芯片大卖，上半年谁真正赚到了钱？",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uVzhDdm1pa3dTaDIzVWJZM0hpQzM0X0djWlpYR0FidE5qTDg5YUlaM1lwbFQ4QWRRLWRESEQ2eTcwZklRRTI5UVJXMko2N0U?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-14T00:16:57.000Z",
-      "summary": "国产AI芯片公司上半年收入翻倍，盈利能力分化。",
-      "summaryZh": ""
-    },
-    {
-      "title": "一年后AI Agent或组建僵尸网络 科技四巨头联合呼吁紧急刹车",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50QVdnU3RXRkQyYVJQVEppMWd6dzdDeDdRMkkyRVpLQmtjRXNQQkxXTEdVakhRNVpadnk2TTdGdVhUVjd6LWx1eThNR0E1ellTZWJB?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-13T08:06:00.000Z",
-      "summary": "科技四巨头联合呼吁放缓AI研发速度，应对潜在安全风险。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-      "link": "https://www.qbitai.com/2026/09/488380.html",
+      "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
+      "link": "https://www.qbitai.com/2026/09/488725.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-13T03:13:00.000Z",
-      "summary": "OpenAI年内不上市，奥特曼支持Dario呼吁AI行业减速。",
+      "pubDate": "2026-09-14T03:18:42.000Z",
+      "summary": "PhysBrain 1.5模型在物理AI领域取得全球开源第一，与顶尖闭源模型并驾齐驱。",
       "summaryZh": ""
     },
     {
-      "title": "健康160：开展医疗健康与AI算力融合新业务",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kbWQzNmw3UDMwcUdLZmJ2Z0p4aUp3SXFxM3hTdmlsSGVOX3dHTXlyUkpBNHlYV1ZhaGRmbXE2VUpBeTJiZW9QZ2RPaDdPSlMyNE1NM3p5Z3E?oc=5",
+      "title": "达里奥、奥特曼发声，AI安全成焦点，网络安全概念飙升！深信服涨近6%，软件ETF汇添富(159590)标的指数涨超1%！人工智能+软件重磅政策落地",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDcmZDdjgxMnU0b2djb081MTVjb2tjSmt0aTRPangzNENxZ0VyQUJEbzhva1hyeHRLdnRraWp3RUxFNmZVdkh1eTFucmRkVVhFOVc5UnA5LVM?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-13T23:15:02.000Z",
-      "summary": "健康160推出医疗健康与AI算力融合的一体化解决方案。",
+      "pubDate": "2026-09-14T03:37:18.000Z",
+      "summary": "达里奥、奥特曼呼吁AI安全，网络安全概念股上涨。",
+      "summaryZh": ""
+    },
+    {
+      "title": "戴森旗下 R3 AI 扫拖机器人国行上架：30000Pa 吸力、70°C 热水深度洗地，6999 元",
+      "link": "https://www.ithome.com/1/001/970.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-14T02:53:25.000Z",
+      "summary": "戴森R3 AI扫拖机器人国行上市，售价6999元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI真的跑太快？Dario最新长文喊话AI限速，OpenAI今年也不IPO了",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yRk9CZ3pZd2oxT1RSbTNHS3ZVT3hJSmNBcDV3b0ktSV9XUl9iTUx6YkdmRlozTDBQUElOaWRuejdzS2FoZE9wTm9VQWhaNlRB?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-14T01:47:00.000Z",
+      "summary": "Dario呼吁AI限速，OpenAI推迟IPO。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Anthropic、OpenAI与谷歌商讨合作建立AI行业标准机构",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aM0JnM0lZTHBjWm8xSDJOaGc1a3ZlclhxZmktb2htV0pVQW1OTnljcDNkZVlKMElad29jTlFES3oxM3NtRi1ucVBzOUpicXEwOGpOa1hxX29Vdw?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-13T23:38:00.000Z",
+      "summary": "Anthropic、OpenAI与谷歌商讨共建AI行业标准机构。",
+      "summaryZh": ""
+    },
+    {
+      "title": "豆包手机助手消费者版发布：GUI 合作协议同步推出，三方 App 可允许 / 拒绝 AI 自动化操作",
+      "link": "https://www.ithome.com/1/001/971.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-14T02:54:39.000Z",
+      "summary": "豆包手机助手消费者版发布，支持AI自动化操作，并推出GUI合作协议。",
+      "summaryZh": ""
+    },
+    {
+      "title": "阿莫迪的响指：我们该如何理解“大模型减速论”？",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RMkVLU1dVNEQ3SDNRNzJyUUhwZFQ2S0ZIdm96cXAySlQxTTlWVjZwNlg2aGJCSnBpdGFiVWRqNVVHcmR2NW4wNVMxbGhTbWc?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-14T02:19:32.000Z",
+      "summary": "AI领域专家呼吁放缓AI模型发展速度，引发行业关注。",
+      "summaryZh": ""
+    },
+    {
+      "title": "超6亿！深圳AI芯片创企获新融资，前地平线芯片总裁创办",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLT05TTGhNTmp3RmVVeGU0ZkozMlVQUDFfeVBzME1sQUlUQTc1Y2RLX1pxTE9uUmw2c0NQZ25MQ0FxVDFiN0E?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-14T03:49:17.000Z",
+      "summary": "深圳AI芯片创企九万里未来科技获超6亿人民币融资，由前地平线芯片总裁陈鹏创办。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI利空突袭！三大巨头呼吁放缓开发步伐，市场担忧算力需求节奏变化，南方基金旗下司南投顾关注AI产业节奏切换下的配置变化",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lY1F5U1Bvdl9ObEFNRXJKYlF2SEx3UzRpTzh6WHB0NUhXMXpFUmdURG5rZFh0cExZekprS1VHNnVCQk1reFNoYlktMkxXOGNVTFlEXzk3WjM?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-14T04:32:24.000Z",
+      "summary": "AI三大巨头呼吁放缓开发步伐，南方基金关注产业节奏切换下的配置变化。",
       "summaryZh": ""
     },
     {
@@ -98,7 +119,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-13T10:20:07.000Z",
-      "summary": "欧洲AI算力全球占比不足5%，德拉吉呼吁建设大规模数据中心以提升竞争力。",
+      "summary": "欧洲AI算力全球占比不足5%，德拉吉呼吁建设AI数据中心以提升竞争力。",
       "summaryZh": ""
     },
     {
@@ -108,76 +129,65 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-13T17:49:27.000Z",
-      "summary": "商务部回应美国指控中国人工智能企业对美蒸馏活动，称其无据且反对。",
-      "summaryZh": ""
-    },
-    {
-      "title": "招商证券：宏观压制逐步落地 建议关注科技成长与AI算力链",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXakRNeVFZN0ZTMFRib2xIWnRNM2c5Z3FCNHIwaGo1YXZ5WTZVdC1uYm05a1JkMi1XUzh6VmFKeGY1YTBVVlRLcC03bklUb1F5WTZDbVA2S3lvTjFiOF9sbS0tQ1dlZnlpUUV2cVJIdkEzOHZT?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-13T14:06:55.000Z",
-      "summary": "招商证券建议关注科技成长与AI算力链等板块。",
-      "summaryZh": ""
-    },
-    {
-      "title": "2026服贸会现场｜星尘浩宇亮相2026服贸会 发布神兽Agent OS，AI Worker落地真实企业岗位",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GbEZWd2RmVnlETWNXSDFEVHEwdDlkcTNiVnZuNm54SFBIOHN6NENvVjRKLWtwZUFMUmczc1gtd2VoN1VvWGRScnJOVGhIWXpOX2JOM01uUWg?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-13T08:40:00.000Z",
-      "summary": "星尘浩宇在2026服贸会发布AI操作系统，AI Worker应用于企业岗位。",
-      "summaryZh": ""
-    },
-    {
-      "title": "算力券、创业补贴接力落地 从中央到地方搭建OPC扶持矩阵",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1SkQzUlRncllBSE9TMjcwZ2pGMGRMLWtzM3JBS3QyMVJDcm9BYWRqU0lPOEtybDVORGNkUDR4SlU0bE01UTlEazZYdmJQbnJlY0pZVTBFTVpUVkFnMnl4Q2NR?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-13T23:11:00.000Z",
       "summary": ""
     },
     {
-      "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
-      "link": "https://www.qbitai.com/2026/09/488447.html",
-      "source": "量子位",
+      "title": "Anthropic对人工智能的警告或使芯片股承压 但长期影响料有限",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xZUNUOTczcmVxNjA0NTBaQXVtV3BxNFZnSk9vQk0xdXV4WE1JWDVZN2g2MDdTWVFic1VvQWpGOHVKYzdTRTMxZg?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-13T06:40:25.000Z",
-      "summary": "米羊科技推出桌面Agent“白艾莉”，集关系型和生产力于一体，用户留存率高。",
+      "pubDate": "2026-09-13T06:58:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "[经济信息联播]AI网球“搭子”来了 不只发球还能对拉 中国AI网球机器人全球“圈粉”",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TdElPOG9xalMwaW9ZUmFkOWVpd2RaUkdkS1RLOHdBc0liMVBuNXA3RGNlTl9ybFBEM2g1SDg3cnpfRDRxRVNCTlpzNjk3MGhfaHlpX2VZOUZtMFFWUzdtSTZaUHFaVGlvZ3BTZW5hLTRzWXF0TUE?oc=5",
+      "source": "央视网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-13T13:32:00.000Z",
+      "summary": "中国AI网球机器人可对拉发球，全球受关注。",
       "summaryZh": ""
     },
     {
-      "title": "AI新经济投资路线图：具身智能静待技术拐点，应用层寻找“独立价值”",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QWm5PYnE4NjJZQWtCV21NSlg1cFVwMmx4UEZjUG81Z0xROTZfdTlZTy1ES0pjajRHTW9ZWnRtVmpZenI1d2k1aHZhcE1ycG1LNV9nbHFtTFZFQUh2YXgyWVlkN21IQQ?oc=5",
-      "source": "每日经济新闻",
+      "title": "魔法原子入股憬驰智能，后者含AI及机器人业务",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41WDczVExTZGhybVNCM2YzcHVYaldjRFFEcmJvWkU0aTc1RFZzRmI2cDBPWklhN2VLa0lDQ0tTakFSOWk2TUNjeDBQYjlwZm5JTS04bWZJWXdVdjI5MmlQOUlGeTIxSGNiclhMOXRHSUV2UDFrN1E?oc=5",
+      "source": "新浪财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-13T08:52:00.000Z",
-      "summary": "AI投资转向具身智能，寻找独立价值与应用创新。",
+      "pubDate": "2026-09-14T04:07:22.000Z",
+      "summary": "魔法原子成为憬驰智能新股东，后者专注AI及机器人领域。",
       "summaryZh": ""
     },
     {
-      "title": "机器人赛道龙头优地机器人(03231)，本周上市振奋市场信心，梅卡曼德、华研、凯乐士接连上涨",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBObERCQkVEYVV5Ql9WbWFZQ1djMXI3MFhmMzBEanFNLXV4eVhHSDZtU1I1QUhLTUZEM1YydnNVREVKTEloLWVweV81UTQwY05ZYzkzQ1hRNDR1NU9SX3NLSkxsUVJSdUxqYkpj?oc=5",
-      "source": "东方财富网",
+      "title": "小米等成立智能科技公司，含AI及机器人业务",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LWnhIV2s1WmU1bjVIcW5IVVVrckFJMnFRSHRpOVhvcGxaUDBiaWl5cEdnUjQ4WGJfLWxqaTNDNW01MDJZWnJVU3hMMTNvR2VvalpqR1F3aW5Nc2l5X2JmOTVmbUozSGxmc0NyenNKa0N3VTFkanc?oc=5",
+      "source": "新浪财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-13T14:36:00.000Z",
-      "summary": "优地机器人上市提振港股机器人板块，梅卡曼德等股跟涨。",
+      "pubDate": "2026-09-14T04:38:57.000Z",
+      "summary": "小米等企业成立智能科技公司，专注AI及机器人研发。",
       "summaryZh": ""
     },
     {
-      "title": "机器人、眼镜、车机都在接入：高德想做 AI 时代的空间大脑",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkVHEzOTZrcmNzd2steTJYRm1UNS1hd0hFVmRqd1Ata3dsY2tZMXM2eDM4Vkh1NmwyQzUzWE1WQ2RmR2xPcWJEdkM3cm02NTJzYkJDeUtGSQ?oc=5",
-      "source": "与非网",
+      "title": "视频丨数智赋能 服贸会打造可感可触的文旅新场景",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rWGxwaWlEZDZkQWJSRVk1anA1S0pMOC1GNVhqVkVUWHZwOC1SZGdKY2ozc3VLRG5KSi1QZmx5cndMRzl3MnVVanRORHlDOThlMTVNbzlR?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-13T07:03:00.000Z",
+      "summary": "服贸会展示文旅新场景，融合AI等科技打造沉浸式体验。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI网球机器人走进球场 又一国产“神器”全球下单！",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBVHNlbXBXaUZWX1lsMDI2YmtZYjRpRlQyT0pSUGpTdE9xQ0dvRkYwaEM1T0RtMXVuX3E4MEkyOXVHQm5FR0pmVjRvanVIUHJxbDB1Z2ttVVpKNVdKM2h6Z21LdUVJUQ?oc=5",
+      "source": "光明网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-13T01:25:54.000Z",
-      "summary": "高德宣布全面AI化扫街榜，打造空间智能系统级能力，推动AI理解世界。",
+      "pubDate": "2026-09-14T00:36:00.000Z",
+      "summary": "国产AI网球机器人全球热销，解决约球难题，降低打球门槛。",
       "summaryZh": ""
     },
     {
@@ -187,27 +197,18 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-13T12:30:31.000Z",
-      "summary": "2026年服贸会文旅展区利用AI技术让三山五园焕发活力。",
+      "summary": "2026年服贸会文旅展区展示AI技术活化三山五园。",
       "summaryZh": ""
     },
     {
-      "title": "AI网球机器人走进球场又一国产“神器”全球下单！-中新网",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYa2dCb1hpQ21lUXBzVThJZ09tdG1EQ2hGRGxKRm15OTNkb084WnAxRHI4MUJpY05ua1dkTUpnR01wNUsyMWdDQkt4TEZESnB5VjQzb2RaaUdNai1nVEhRSlpCeHNNRnND?oc=5",
-      "source": "中国新闻网",
+      "title": "北京市属医院手术机器人达54台 今年上半年服务约9000人次",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEZDc2d3RwMW5lUTZuLURWRWRjeDdoYW0wTmZQcVRTM1RJd0FNb3pvUWpzZU02OHhXUm43MnV4QlRSSU5IVHFwTHJtVjBnT0ZtMUtnTkJPNVlsYWUtTmZuRUwxYlZxdzhYajln?oc=5",
+      "source": "央广网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-13T23:37:11.000Z",
-      "summary": "国产AI网球机器人全球热销，解决网球爱好者约球难题。",
+      "pubDate": "2026-09-13T23:55:46.000Z",
+      "summary": "北京市属医院手术机器人数量达54台，上半年服务约9000人次。",
       "summaryZh": ""
-    },
-    {
-      "title": "专访｜Vbot维他动力赵哲伦：跳出表演式热闹，消费机器人等待属于自己的“福特时刻”",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsWDNFaVU4aC14UGVDSzZVQXBod0tEN2RDdFJTamd4TUphTlJVQVpSNGlmVWtzR2NURHEwbktSMGJnQ3RwVmk0MXEtbUtRTFRTWi1qRmluN0s5NGVpb05tMjBn?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-13T10:55:00.000Z",
-      "summary": ""
     },
     {
       "title": "服贸会打造“数字友好解决方案展”，陪跑机器人等亮相",
@@ -220,13 +221,22 @@
       "summaryZh": ""
     },
     {
-      "title": "Ukraine Says Passenger Train Headed to Warsaw Is Hit by Drone",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ1BxZE12MEp1ajFFOHRDdGk0bDdEQ3BDT0VrUjVxZVd5cWNMWnZsOGRqaUxVYmdTbGlqemg3TWNIcDNuaXBZLWlqY1VEbjBCLW5PQVpPSmQxQWxnUmhfOUhFYlYxV29UZTM4WC1JbVRKcENWdXQzOEtQM0NqbG5qc2NFbGxyV2d4clBHZ3ZQajNLUHRxbWdvTnBaSWtHcnE1czg4Q2E4SjBabEM5OU1kSllR?oc=5",
-      "source": "Bloomberg",
+      "title": "Lithuania says drone sighting turns out to be flock of birds, after NATO summons jets",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaFhfNEJ3cEZwOURCeW84SEFKRXM3Y0VlWUFlTVJxbDg5NVNCNDhESXViQnkwOC1vN3Z3dEhieU15VWY5bms1ZWJ1U0pkemREcm1pTU1DbzF0eVBEUW1HYkZBUnp5QkJ5U3ktNWoybGxGUWpqNm5BdktlYkFnWlNKd2FZNUJJV2JBRGxzSzdxWUhObXAxVlpfQjFSZlhJQUNUeUdqcU01Sm4wUEQyeUN4ZXFxdlNGak8zd0RKTU5fd2t6RzdldTIweWtBcWd3WWJyamhJ?oc=5",
+      "source": "Reuters Technology",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-09-13T10:52:02.000Z",
-      "summary": "乌克兰开往华沙的客运列车遭无人机袭击。",
+      "pubDate": "2026-09-13T15:46:02.000Z",
+      "summary": ""
+    },
+    {
+      "title": "无人驾驶科技企业宣布从无人车走向AI服务城市治理​",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iVmROangwNWpZR3FISHczd1ctaEJzY3RneGprd1hUSE51dUtkODRnNUpwUDZoRmFuelluQ1JocjU0Rk1xdEhxQkF4cXl5ektNMW02UGlzNFl2TEpaZHhGbWp1Tl83ZnF1aEEw?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-14T04:29:00.000Z",
+      "summary": "无人驾驶企业拓展AI服务，助力城市治理。",
       "summaryZh": ""
     }
   ]
