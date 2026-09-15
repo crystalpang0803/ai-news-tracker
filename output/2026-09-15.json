@@ -1,35 +1,55 @@
 {
   "date": "2026-09-15",
-  "generatedAt": "2026-09-15T00:56:10.668Z",
+  "generatedAt": "2026-09-15T04:59:16.198Z",
   "items": [
     {
       "title": "代码显示：苹果 Siri AI 可替换为 Anthropic Claude 或 OpenAI ChatGPT",
-      "link": "https://www.ithome.com/1/002/353.htm",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sQ0dVRXBoNDhMcFlGLVZacDZvSmRmYTI1YXdVazV0Ums5QzFYcHg2UF82Nl8zRkhUb1o5Z3I2TURfOFoybzZELUZDTUg?oc=5",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-14T23:21:30.000Z",
-      "summary": "苹果Siri AI可替换为Anthropic Claude或OpenAI ChatGPT。",
+      "summary": "苹果Siri AI可替换为Anthropic Claude或OpenAI ChatGPT，支持第三方AI模型深度协作。",
       "summaryZh": ""
     },
     {
-      "title": "曝 Glass Imaging 被 OpenAI 收购：前苹果员工创办，其影像技术已用于荣耀手机",
-      "link": "https://www.ithome.com/1/002/359.htm",
-      "source": "IT之家",
+      "title": "MySQL无AI接口 企业对接大模型遇数据部署难题 香农布尔以原位升级破局启动天使轮",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZQUtyNm1HRHdZMm5hY3NaaVJZSHpkMkNnRGxsNU5YOUk5VGp0bVVHbEZLU0RCMi16SEp6aHUxU0IwY3VvZ3FUQU8xWnZGWFczMHZn?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-14T23:41:04.000Z",
-      "summary": "OpenAI收购手机影像初创公司Glass Imaging，其技术已应用于荣耀手机。",
+      "pubDate": "2026-09-14T11:35:00.000Z",
+      "summary": "香农布尔推出开源智能数据库ShannonBase，实现MySQL原位升级AI能力。",
       "summaryZh": ""
     },
     {
-      "title": "具身智能落地之战，被忽略的“机甲”战场",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00YmZ2eE5aVGpwWnJCRHlDMDFJSVJuMVlfZ1NMVEt0anozVGdrdnlobkNKR1NvYU1iQWFsamNSQmtMUzUyakE?oc=5",
+      "title": "萨摩耶云林建明：从金融科技实践到AI Native探索，持续推动金融人工智能落地",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sQnQ0cG82dXp5U0tKV0p3MEtsNFdzcjZONUd5UEFxRXR3OVlPaTN0QUlzd093a1lTYWJJd2ZWcjl3bl9CdjhYbnBtdnFoWHV1ZDNuQzJOSU8?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-15T03:35:33.000Z",
+      "summary": "萨摩耶云林建明推动金融AI落地，探索AI Native战略。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Waymo 自动驾驶出租车商业服务目标 2027 年正式登陆日本东京市场",
+      "link": "https://www.ithome.com/1/002/484.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-15T03:12:43.000Z",
+      "summary": "Waymo计划2027年在东京推出自动驾驶出租车服务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "0.98万元起！西交大系团队把人形机器人“拆开”来卖",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9Va3R2TFNkMExSd0loRVVIV3VRTGdDeHhqci1yTUpodzBTSDlLQkN1bXRXWU4tUjBWMDM3bFRiMFhrcnI4WFE?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-14T02:58:57.000Z",
-      "summary": "具身智能领域“机甲”战场成为新焦点。",
+      "pubDate": "2026-09-15T03:58:58.000Z",
+      "summary": "西交大系团队推出模块化人形机器人，售价0.98万元起，可拆分组合适应不同任务。",
       "summaryZh": ""
     },
     {
@@ -43,53 +63,43 @@
       "summaryZh": ""
     },
     {
-      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
-      "link": "https://www.qbitai.com/2026/09/489105.html",
+      "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
+      "link": "https://www.qbitai.com/2026/09/489227.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-14T09:47:07.000Z",
-      "summary": "蚂蚁灵波具身大模型挑战赛启动，面向全球开发者开放。",
+      "pubDate": "2026-09-15T02:17:34.000Z",
+      "summary": "7名博士生3个月训练7B大模型，全流程公开。",
       "summaryZh": ""
     },
     {
-      "title": "京东建十万卡，字节“借”296亿，AI 算力进入豪赌时刻",
-      "link": "https://www.tmtpost.com/8139073.html",
+      "title": "两部门：加强端侧大模型、计算芯片、存储芯片、操作系统兼容适配，加快智能体与终端产品深度融合",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WTGFjOERZd1JuQ3pmN085eVhfdjBiaFRzb2thS3pnTG0xYUYtRXVpR0RHZjZ3R3hhemdndkh6clc3ZkczaE04TlM1Wkt6UjZ4Tk1kWHU3UE9zZw?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-14T10:16:58.000Z",
-      "summary": "京东建十万卡集群，字节借296亿，AI算力竞赛加剧。",
+      "pubDate": "2026-09-15T01:16:00.000Z",
+      "summary": "两部门推动智能体与终端深度融合，加强芯片和操作系统适配。",
       "summaryZh": ""
     },
     {
-      "title": "三个月价格腰斩，大模型的“聪明”正在贬值？",
-      "link": "https://www.tmtpost.com/8139062.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-14T09:40:10.000Z",
-      "summary": "大模型价格三个月内腰斩，性价比成为行业竞争新焦点。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI总裁布罗克曼：AI“减速”应聚焦前沿模型",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XeGtlSU04clJfUXY4SUIxdTFKcGFqY3phNGlibDZ1YUhGZks1QkktZm85NzBIUzdkazk0NHlocDEyX3UzazVEREFXbFZabXRiODVDSWJyeV8?oc=5",
+      "title": "未来2-3年我国算力需求年均增长近10倍，AI人工智能ETF平安(512930)标的指数开盘上涨",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WQ18tM3p5RWxqZmJRZUlubFE0Xy03QzJnWE50NGZNRlVZNS1ITlBtS1QxakZKMm45N0ROZFJHZEtWMXA0VzdFYnBNZmh1UmRxU0FMZERvOE4?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-14T09:22:35.000Z",
-      "summary": "OpenAI总裁布罗克曼建议AI“减速”应聚焦大型前沿模型。",
+      "pubDate": "2026-09-15T01:32:00.000Z",
+      "summary": "我国算力需求未来2-3年年均增长近10倍，AI人工智能ETF平安指数开盘上涨。",
       "summaryZh": ""
     },
     {
-      "title": "让算力“流”起来：爱算科技（北京）有限公司以订购、调度与运营能力支持人工智能教育落地",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51WllGUk9yVmJRM0QzeDk4c2NoMTh2XzU1RGJpOWpJcUJSTFRQSnhPajd1ZndoRlhoemY4ajJIaEllN25sTzFReTg2UWcwTHp6?oc=5",
-      "source": "凤凰财经",
+      "title": "Anthropic进军金融顾问市场！推出新款Claude工具 对接贝莱德等机构",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zWTBScUhPWU1MS0VpUnRNTDJxdkNIWFVRSHZxWnlGV2p6Z3dVczJrVXdicGYzZXFPcXVwczRjbEZlMzlGZ0ZWLQ?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-14T03:52:01.000Z",
-      "summary": "爱算科技提供算力订购、调度与运营支持，助力人工智能教育落地。",
+      "pubDate": "2026-09-14T19:00:43.000Z",
+      "summary": "Anthropic推出金融顾问工具Claude，对接贝莱德等机构。",
       "summaryZh": ""
     },
     {
@@ -103,22 +113,22 @@
       "summaryZh": ""
     },
     {
-      "title": "《人工智能安全治理框架3.0》发布",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03LV9oYVRIeEdnVjlnenBxWUJ4WDdRbzF5b3VldHFqbXp4RlRJWWZSVzBUcUdHNkdsamZlVW1PdF9uME9GbDl3aTNCN1ZCZkswNDRTci1CVGY?oc=5",
-      "source": "界面新闻",
+      "title": "前 Kimi 技术大佬转行做AI相亲，拿下千万风投",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kMlFRc2hNdXVHMjBzZjJsZ3p4WG9HdUc3VEpUaV9lQVNPU0dmeVlTakZBdmoyTDdoeE9ta1VQSnZld3VxN3NpSXMzLU9ta183OWFKMg?oc=5",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-14T12:07:17.000Z",
-      "summary": "全国网络安全标准化技术委员会发布《人工智能安全治理框架3.0》。",
+      "pubDate": "2026-09-15T01:43:00.000Z",
+      "summary": "前Kimi技术负责人曾歆勋转行AI相亲，获千万风投支持。",
       "summaryZh": ""
     },
     {
       "title": "微软为其未来人工智能模型设定限制",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UTDI0bjdzNG4welBjOVI1U011WDBqU0lja1FkNXpsSXJuUFBib2hIcmZDdVZQaU5fbC16M3pUTjFBc0ZwNF9RN0d3YVpXWk9WVWJF?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92bGk5WE1aY2wwbm1LbVZNR0R4dGJKRTdtQVJyS05QUlBRelNhb2NwSFE5RXNWa0ZRd2JsdUxMd3BlaXZ5ME5NV0hQSzBIU1o2QUpEaQ?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-14T13:12:43.000Z",
+      "pubDate": "2026-09-14T13:12:00.000Z",
       "summary": "微软发布临时行为准则，限制未来人工智能模型。",
       "summaryZh": ""
     },
@@ -133,23 +143,13 @@
       "summaryZh": ""
     },
     {
-      "title": "财联社9月14日电，亚马逊旗下AWS宣布，与外科智能平台Proximie及咨询公司德勤合作，在英国国家医疗服务体系（NHS）开展迄今为止最大规模的外科人工智能评估项目。",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xbVU0M3FRdDRGVjE4QVV5MFVqcGFVa19lU3IwNFk4WEJEQkxTYW1lS2ttaGFna3d0Tkx4VklJbjk0S0FFWTJtcw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "source": "TechCrunch",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-09-14T14:46:00.000Z",
-      "summary": "亚马逊AWS与Proximie和德勤合作，在英国NHS开展最大规模外科AI评估项目。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI算力狂飙，上海把“一束光”拉成“一条链”",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nWmhYVjZFdXd5dTVmNWpULVMwWUF5bDF2WlU0TGtDX3RnSUs4UGR6MHdiWmM1UDBZMzVfYUMxTy1vRVZzRl9oMA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-14T09:35:00.000Z",
-      "summary": "上海发布硅光芯片，推动AI算力提升。",
+      "pubDate": "2026-09-14T20:44:14.000Z",
+      "summary": "OpenAI以3亿美元收购智能手机摄像头制造商Glass Imaging。",
       "summaryZh": ""
     },
     {
@@ -160,8 +160,27 @@
       "category": "robotics",
       "pubDate": "2026-09-14T19:38:46.000Z",
       "summary": "Unitree Robotics创始人王兴兴通过极致的成本控制推动公司成为低成本人形机器人领域的领导者。",
-      "summaryZh": "",
-      "titleZh": "创始人对削减成本的痴迷使 Unitree 在廉价人形机器人领域处于领先地位"
+      "summaryZh": ""
+    },
+    {
+      "title": "大模型时代与人工智能算力突围：以应用生态构建为主线的国产替代",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKMWhOWE9hcmM5YVFVZm9Ma0dBeFRlWXhJcGxiaHA1Z3J1RDFXSmxxcUd5cEhlTXdGc0c0MnZhWEJrOTdMWEM1VF9pS1RVRDdJb3BlVjFTb0o5b3U5QUZZSA?oc=5",
+      "source": "光明网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-14T19:35:00.000Z",
+      "summary": "我国正以应用生态构建为主线，推进人工智能算力国产替代。",
+      "summaryZh": ""
+    },
+    {
+      "title": "人形机器人 IPO？先回答3个问题",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yS29mWWlUcmx1LTVDNlA1X25Sb0YtN0FQRDNzY091M3oxVlY5dGxSWWRVLW1yU1BZR1hyMTVzcFlhTE1ZR0lZSmZCYndsNHVtNnFBVVFEQQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-14T14:50:32.000Z",
+      "summary": "人形机器人IPO需证明持续收入、亏损收窄或技术创新。",
+      "summaryZh": ""
     },
     {
       "title": "Report covers advances in surgical robots, deploying warehouse automation in the real world",
@@ -170,9 +189,8 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-14T21:01:59.000Z",
-      "summary": "手术机器人与仓库自动化在现实世界应用取得进展。",
-      "summaryZh": "",
-      "titleZh": "报告涵盖了手术机器人的进步以及在现实世界中部署仓库自动化"
+      "summary": "手术机器人与仓库自动化在真实世界应用取得进展。",
+      "summaryZh": ""
     },
     {
       "title": "自动驾驶法规完善后，车企拿什么证明智驾安全？",
@@ -185,28 +203,37 @@
       "summaryZh": ""
     },
     {
-      "title": "AI入“景” 文旅向新",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlQWNfdVRhRFRaV2VwYVhqZmNXMzJfYjN5N0dGNnhvVTFsQjZlMGdjMURQcnZWaXFOWnhkU3FXUnAzWXU4Z2xGUTI3aFhqY29DUGFSSExQVk0yZlk4OWQwMFJKWXVGQk93bjI5STBJMW9YLTdHUEVxYw?oc=5",
-      "source": "新浪财经",
+      "title": "账上4700亿，阿里为什么还缺钱？AI 和外卖烧钱赌局拆解",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWSkhSRlU4Uk5iMFBoa3hxOFpETFpyT2NHVndnVHNJTUVMYmNpd3lnSGJxbHpVcnJIZXlhTHBjWE1OVGtfa1dVS3dDU1RRSFdpWDNOdA?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "application",
-      "pubDate": "2026-09-14T23:00:00.000Z",
-      "summary": "AI技术助力文旅行业创新，提升游客体验和服务水平。",
+      "pubDate": "2026-09-15T01:56:43.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Universal Robots launches its seventh generation robot platform at IMTS",
+      "link": "https://www.therobotreport.com/universal-robots-launches-its-seventh-generation-robot-platform-at-imts/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-14T13:25:40.000Z",
+      "summary": "Universal Robots在IMTS展会上发布第七代机器人平台。",
       "summaryZh": ""
     },
     {
-      "title": "戴森旗下 R3 AI 扫拖机器人上架，6999 元",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lNUNQaXBaUG8xcTJMckZBRThYTWt5VHpSNmJuejlCM19ldzJlbnBYa2lZVUhQT2hRdFNaazFzd1JndGpaa1ZxbWlHRDctZFl6ZW9nYTl3?oc=5",
-      "source": "腾讯新闻",
+      "title": "津荣天宇2026上半年营收11.74亿 AI相关业务及机器人项目获进展",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50bFpjUEp2YmFsV1phQ09xU2MzaUtiTFpkSUc4MHpzSVZUV1E5cGJEcVg4eXZYblFWV3AzMWZxbk1HcTRDRnluelplR0FOWHZ6dmYyYUVjekU?oc=5",
+      "source": "经济观察网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-14T02:55:00.000Z",
-      "summary": "戴森R3 AI扫拖机器人上架，售价6999元。",
+      "pubDate": "2026-09-15T02:38:00.000Z",
+      "summary": "津荣天宇2026上半年营收11.74亿，AI业务及机器人项目取得进展。",
       "summaryZh": ""
     },
     {
       "title": "AI和自动驾驶将带来哪些美好出行体验？一文了解→",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53SjJfNTlTZWxEYzRvS2hyR0txX1VpdWlZWElBSWRia1Z0U2RPeVNaTkhwQVZuUHY5Tl9WZUhsZm5GdXlyMWdaQ0FMLWc4dnYwbEs1ME9pUGxJU0g0T0tNTEJpc09FTUVIT0hFSlNTdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvVUJkTklBOXQ5OEtXeWdKMjQ3dGFzZ2lRWkZsX1ozckJUZ0Y0NVRJd2pid3g1c1BhQndTVWw1ZldMeFZtY2NQUnVfZmFZMFVTOHhxd0NBZm9PczVySDNaNlMwWmw3U21IanJIZFBpUQ?oc=5",
       "source": "央广网",
       "lang": "zh",
       "category": "robotics",
@@ -215,24 +242,13 @@
       "summaryZh": ""
     },
     {
-      "title": "Kenco opens new innovation lab for warehouse automation testing",
-      "link": "https://www.freightwaves.com/news/kenco-warehouse-automation-testing-lab",
-      "source": "FreightWaves",
+      "title": "Luis Lamshoeft departs Majid Al Futtaim for Head of AI & Robotics Strategy role at Migros Supermarkt",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPajU4U2VyYVpYYjZvSE9NVDUxUlY0eXR6QUM1S3dkWWN6akVqai1hOWRmS2tFejY4aVFBTy1MRXpfR0V0VEw4S2xqUVZxVFA2TUY3alBRelVoaHc2czdHb0I1alVEMTYtWWFYUVVTZmQzZjBDV19rc1M0YVFMUkhxVnFnMTBJMzMwdXpFeGplSFZkeXViRXg3WGZ2dHlVN2dwNkxqQlI2aEkyTE0zNi1tUk9sd3ZabHZtY3ZIZTVJc3BOdkdFcVlaMW4tcDA4UmJkalJrVUNUc1VwRlhjaHQtUzdWOXRiS200?oc=5",
+      "source": "Retail Tech Innovation Hub",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-09-14T13:41:39.000Z",
-      "summary": "Kenco在田纳西州查塔努加开设了30000平方英尺的创新实验室，用于仓库自动化测试。",
-      "summaryZh": "",
-      "titleZh": "Kenco 开设新的仓库自动化测试创新实验室"
-    },
-    {
-      "title": "无人驾驶科技企业宣布从无人车走向AI服务城市治理​",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iVmROangwNWpZR3FISHczd1ctaEJzY3RneGprd1hUSE51dUtkODRnNUpwUDZoRmFuelluQ1JocjU0Rk1xdEhxQkF4cXl5ektNMW02UGlzNFl2TEpaZHhGbWp1Tl83ZnF1aEEw?oc=5",
-      "source": "中国新闻网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-14T04:29:00.000Z",
-      "summary": "无人驾驶企业拓展AI服务，助力城市治理。",
+      "pubDate": "2026-09-15T04:38:43.000Z",
+      "summary": "Luis Lamshoeft从Majid Al Futtaim离职，担任Migros超市AI与机器人战略总监。",
       "summaryZh": ""
     }
   ]
