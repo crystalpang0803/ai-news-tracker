@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "generatedAt": "2026-09-15T19:40:28.274Z",
+  "generatedAt": "2026-09-15T21:15:36.657Z",
   "items": [
     {
       "title": "“三巨头”联手，OpenAI、Anthropic、谷歌 Deepmind 开始合作研究 AI 安全措施",
@@ -13,13 +13,33 @@
       "summaryZh": ""
     },
     {
+      "title": "飞书8.0全面拥抱Agent，豆包工作伙伴发布，字节持续猛攻企业Agent",
+      "link": "https://zhidx.com/p/593862.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-15T06:54:31.000Z",
+      "summary": "飞书8.0升级拥抱Agent，豆包工作伙伴发布，字节跳动持续发力企业级Agent市场。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Meta计划明年上半年部署新款自研AI芯片",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NTy1RV1R6bmVwckxtV0h5YXVraXlKWGVFZFczdDhlMmRzcVV1T292aUoyRTVaTlRzQzNJcXlrak9uUmczckFiTUpqVEVmYjgtVHlncHQ1c2Q?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-15T14:06:27.000Z",
+      "summary": "Meta计划明年上半年部署新款自研AI芯片以降低成本和能耗。",
+      "summaryZh": ""
+    },
+    {
       "title": "香山股份8亿跨界收购武珞智慧，主业承压下的算力豪赌",
       "link": "https://www.tmtpost.com/8141095.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-15T12:12:12.000Z",
-      "summary": "香山股份8亿收购武珞智慧，跨界布局AI算力，主业承压下赌未来业绩。",
+      "summary": "香山股份8亿跨界收购武珞智慧，以拓展AI算力业务，面临业绩承诺兑现挑战。",
       "summaryZh": ""
     },
     {
@@ -29,7 +49,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-15T14:49:09.000Z",
-      "summary": "中文互联网基础语料4.0发布，数据量120GB，助力AI发展。",
+      "summary": "中文互联网基础语料4.0发布，数据量120GB，助力大模型训练与AI发展。",
       "summaryZh": ""
     },
     {
@@ -43,13 +63,22 @@
       "summaryZh": ""
     },
     {
+      "title": "国产大模型密集调价，竞争逻辑或转向“拼生态”，资金连续布局人工智能ETF易方达（159819）",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjdXRjSEFUcFFGQXVtQ1RudFJQdkdZbmg5dF9mMGJrWmpDdjlxYlpFU0h4X2dRbi1iTV9NRi1PMk92X2JHZ3BFQ1AyRXlzTU5iR2ZRVGx5Y2Qzd0Fkb1IzLWRqV0g4OEJMVWxoOA?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-15T09:10:31.000Z",
+      "summary": ""
+    },
+    {
       "title": "蜗小白机器人落地印度大型仓储 清洁成本优化 38%",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45dUNqbTNndnJZSWpPYzVjcmpXQjJVUnVGbnJSY2x6NkUzY3p6ZFRkY0xRSVNwSk5kZ3BXemk4NGI5RG1xZHdWREJsd3o?oc=5",
       "source": "极客公园",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-15T08:29:44.000Z",
-      "summary": "蜗小白机器人助印度大型仓储清洁成本降低38%。",
+      "summary": "蜗小白机器人助力印度仓储清洁成本优化38%。",
       "summaryZh": ""
     },
     {
@@ -59,7 +88,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-15T00:52:49.000Z",
-      "summary": "谷歌前高管创办的寅成智能获近亿元融资及顺丰亿元订单，专注物流机器人研发。",
+      "summary": "谷歌前高管创业公司寅成智能获近亿元融资及顺丰亿元订单，专注物流机器人研发。",
       "summaryZh": ""
     },
     {
@@ -79,7 +108,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-15T01:43:00.000Z",
-      "summary": "前Kimi技术负责人曾歆勋转行AI相亲，获千万风投支持。",
+      "summary": "前Kimi技术大佬曾歆勋转行AI相亲领域，获千万风投支持。",
       "summaryZh": ""
     },
     {
@@ -93,23 +122,13 @@
       "summaryZh": ""
     },
     {
-      "title": "科创创业人工智能ETF富国(159022)跟踪指数中证科创创业人工智能指数上涨2.15%，跟踪指数已处近1年估值低位",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14NDJPc2paOThaQWtZYnYtYVUwbE05Tko3cjBCb3ZCWElMZUgwRHBka2lrb0NDWnMtLWZoamJBMm5SdjJBd1M4bDE3dHM4TXd0ZHVuY2VVVG8?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-15T02:44:15.000Z",
-      "summary": "科创创业人工智能ETF富国上涨2.15%，跟踪指数估值处近一年低位。",
-      "summaryZh": ""
-    },
-    {
       "title": "多只A股AI芯片公司股价走高",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XTjZJOFZqZTJ0amVmeXVVQmVjb1hnTllSd2VfZkZQYXRmTWpFMWRYaElJZ1Y0eXUzNmpTNnNrOVg3cHJhaXFvb0s5SzNjbFA4WFN3?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-15T07:37:43.000Z",
-      "summary": "A股AI芯片股股价普遍上涨，与海外半导体股走势相反。",
+      "summary": "A股AI芯片公司股价普遍上涨，与海外半导体股走势相反。",
       "summaryZh": ""
     },
     {
@@ -119,17 +138,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-15T15:03:06.000Z",
-      "summary": "全球人工智能伦理论坛在利雅得开幕，探讨伦理原则实施。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI支持美众议院两党AI安全提案关键条款，该条款要求顶尖人工智能公司引入外部评估机构确保模型安全",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFSVk5TWR3RU1vVXUyUU1zTzFkNDd0YkpWN0lmOGxrR2doLVc1ZDdPbjdiaXNkb2RhSkc1bW05UUpQN0F0YTczandzRnNEeklmY1RVT3EyQkhBaGNUWVRxamliMWNSUzdocDY5dWRaaV9pbnhW?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-15T14:17:46.000Z",
-      "summary": "OpenAI支持美众议院AI安全提案，要求顶尖AI公司引入外部评估机构确保模型安全。",
+      "summary": "全球人工智能伦理论坛在沙特利雅得开幕，探讨伦理原则实施方案。",
       "summaryZh": ""
     },
     {
@@ -139,8 +148,19 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-15T09:14:38.000Z",
-      "summary": "小鹏汽车率先实现人形机器人自动化总装，突破量产难题。",
+      "summary": "小鹏汽车率先实现人形机器人自动化总装，突破量产瓶颈。",
       "summaryZh": ""
+    },
+    {
+      "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+      "link": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-15T18:33:02.000Z",
+      "summary": "Agility推出新型人形机器人，可自主停顿蹲下避免伤害人类同事。",
+      "summaryZh": "",
+      "titleZh": "Agility 的新型人形机器人会停下来、蹲下以避免伤害人类同事"
     },
     {
       "title": "Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe",
@@ -154,13 +174,43 @@
       "titleZh": "Digit 5 可能是第一个真正安全的人形机器人工人"
     },
     {
-      "title": "从协作到通用智能，中国机器人产业迭代，重塑全球产业竞争格局",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZaDU1b2ZwdkY5X3F5Y214OG5aUnlvVm1ldFY2WEhVRVlvaVhUZUV1X1l6a3VIdTRQbFRlakZ1RTlEdm1KTTRVRnRrNENOMHBGMkJWOTBHTQ?oc=5",
+      "title": "芝诺机器人完成数亿元种子轮融资，让机器人学会协作",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15SHQ1NHdORUNEeFZzM0dqUjZPN1duYXFmdWM5MHZxQ09ZdlgyT3hRRV8yeVM3RXJ2STlLSW5kNlZTWGphRFRWOU9nYkk?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-15T09:25:50.000Z",
+      "summary": "芝诺机器人完成数亿元融资，发布全球首款协作物理智能基础模型Zeno-1。",
+      "summaryZh": ""
+    },
+    {
+      "title": "领益智造：战略聚焦端侧AI、物理AI(机器人)、AI服务器等核心方向，锻造全新增长曲线",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PNTNVUkR2R3RrejBmMnZlNmhnWmFLOXd1VG1IQWM2WDZoYUVlUHJGSWYwLXVjOWtPelZUQjNnYWVRQ2treU5JZnBQSFFhUy1MVVEyV0JiMXY2Z2hnMm5TcTNoRQ?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-15T11:13:12.000Z",
+      "summary": "领益智造战略聚焦AI领域，打造全新增长曲线。",
+      "summaryZh": ""
+    },
+    {
+      "title": "每10分钟下线1台机器人，便宜的才是最贵的",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzNWozcFdvcU5wLUFnVENKc3c2YWYweWxYME91M2dnaFpHS2MtNXBJcVk4RUhRNWhReEFsMVFSdmVaTHYwMnJaVDhNOTRneFhRMDZPejFFNA?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-15T05:07:38.000Z",
-      "summary": "中国机器人产业迭代升级，引领全球竞争格局变革。",
+      "pubDate": "2026-09-15T03:24:41.000Z",
+      "summary": "人形机器人价格加速下探，国产化率提升推动成本降低。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI入“景” 文旅向新",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEMFFqMG1WMy1SLTJnYTdNXzRRZ0p6YWFSMUpzal90UXAwbjd2N2d0c2ViR2MxalctOFI4aUx0al9jRkIyVzZrblZzdjFaMG10Vlc3UjR5RjRUTzYxUi1jZXVSSQ?oc=5",
+      "source": "光明网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-15T01:26:00.000Z",
+      "summary": "AI技术助力文旅产业升级，创新体验和提升服务效能。",
       "summaryZh": ""
     },
     {
@@ -171,16 +221,6 @@
       "category": "robotics",
       "pubDate": "2026-09-15T10:17:47.000Z",
       "summary": "三河举办AI机器人狂欢活动，展示科技发展成果。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI入“景” 文旅向新",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEMFFqMG1WMy1SLTJnYTdNXzRRZ0p6YWFSMUpzal90UXAwbjd2N2d0c2ViR2MxalctOFI4aUx0al9jRkIyVzZrblZzdjFaMG10Vlc3UjR5RjRUTzYxUi1jZXVSSQ?oc=5",
-      "source": "光明网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-15T01:26:00.000Z",
-      "summary": "AI技术推动文旅行业创新发展，提升游客体验和景区服务效能。",
       "summaryZh": ""
     },
     {
@@ -200,7 +240,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-15T04:38:43.000Z",
-      "summary": "Luis Lamshoeft从Majid Al Futtaim离职，担任Migros超市AI与机器人战略总监。",
+      "summary": "Luis Lamshoeft从Majid Al Futtaim离职，加入Migros Supermarkt担任AI机器人战略总监。",
       "summaryZh": "",
       "titleZh": "Luis Lamshoeft 离开 Majid Al Futtaim，出任 Migros Supermarkt 人工智能和机器人战略主管"
     },
@@ -213,25 +253,6 @@
       "pubDate": "2026-09-15T07:27:01.000Z",
       "summary": "",
       "titleZh": "Raise Robotics 利用 Genie 动臂升降机将建筑机器人提升至 65 英尺"
-    },
-    {
-      "title": "日本自卫队一架“全球鹰”无人机失联",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fVUo2azQ2UUl4LXRuazFYUmNYWnFQWWFmLXA0dktyYzVzbWdWdmlfS0dQQkx4Q2lrY2ZEekhoa1BBRUlPNE9JRV8tNU50LTBHajJBNg?oc=5",
-      "source": "腾讯科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-15T07:14:00.000Z",
-      "summary": "日本自卫队一架“全球鹰”无人机失联。"
-    },
-    {
-      "title": "U.S. Stocks Fall on Fears AI Companies, Fed Will Slam the Brakes",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTgwc1ZDUmgtSE5MVld4WTdlWkFrWGhIbW5jRzFEY255a0U1VlhhRWF5MFhQdThhcUc1a3ZwUXc4RENjTVA2QzVYanFXdzlSNUQ2emRTc1h0ZEJWVmdxeWFuRi1VQS1ic3luaDZ4SkRHVTVXU0t1dGdUUXJ0S2FEOUZ4R1NZZGs5b1hhN2NPRU42NktFM3hMZEYzTWRsODBGMDd0RzhwUDl6TUppOWc?oc=5",
-      "source": "WSJ Tech",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-14T21:12:00.000Z",
-      "summary": "",
-      "titleZh": "美股因担心人工智能公司而下跌，美联储将踩刹车"
     }
   ]
 }
