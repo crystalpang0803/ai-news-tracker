@@ -1,15 +1,15 @@
 {
   "date": "2026-09-16",
-  "generatedAt": "2026-09-15T22:26:14.096Z",
+  "generatedAt": "2026-09-15T23:33:14.740Z",
   "items": [
     {
-      "title": "OpenAI高管称，安全人工智能的落地需要部署更多算力设备。",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTTDBsX2Vfa1JpTnJScjNQNEF6ZGFVbUhUa1VYRFlQY2JTeG9ndk5VMHd0dnRnYlN0aEN2dFRDcWVwVWRqSC1qemFJeEFwWTZrd2pWUTR5WVNVam9jRmZOWUIwSWJMYVlBRFpMb1c0OG9SdjBNNnVZcA?oc=5",
-      "source": "新浪财经",
+      "title": "谷歌推出 Gemini 3.8 Live 和 3.8 Live Extended Thinking 实时对话模型，支持 97 种语言切换",
+      "link": "https://www.ithome.com/1/002/824.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-15T21:21:00.000Z",
-      "summary": "OpenAI高管提出安全人工智能需更多算力设备部署。",
+      "pubDate": "2026-09-15T17:17:43.000Z",
+      "summary": "谷歌发布两款实时对话模型，支持多语言切换。",
       "summaryZh": ""
     },
     {
@@ -29,8 +29,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-15T06:54:31.000Z",
-      "summary": "飞书8.0升级拥抱Agent，豆包工作伙伴发布，字节跳动持续发力企业级Agent领域。",
+      "summary": "飞书8.0升级拥抱Agent，豆包工作伙伴发布，字节跳动持续发力企业级Agent。",
       "summaryZh": ""
+    },
+    {
+      "title": "Meta计划明年上半年部署新款自研AI芯片",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NTy1RV1R6bmVwckxtV0h5YXVraXlKWGVFZFczdDhlMmRzcVV1T292aUoyRTVaTlRzQzNJcXlrak9uUmczckFiTUpqVEVmYjgtVHlncHQ1c2Q?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-15T14:06:27.000Z",
+      "summary": "Meta计划明年上半年部署新型自研AI芯片。",
+      "summaryZh": ""
+    },
+    {
+      "title": "随着量产开始，中国人形机器人价格两年下跌 72%",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZU19uR3dfZ3hBODNncXJzbnFFOE5TYU5iQ2RBX1RQTHUyN2ZuWDdRT1VIbWY1NndhNzJuR1RaMGhqeklteGdZa09yaXlNQQ?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-15T03:52:07.000Z",
+      "summary": ""
     },
     {
       "title": "香山股份8亿跨界收购武珞智慧，主业承压下的算力豪赌",
@@ -39,37 +58,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-15T12:12:12.000Z",
-      "summary": "香山股份8亿收购武珞智慧，跨界布局AI算力赛道，主业承压下寻求转型。",
+      "summary": "香山股份8亿收购武珞智慧，跨界布局AI算力，主业承压下寻求新增长点。",
       "summaryZh": ""
     },
     {
-      "title": "博通 CEO 陈福阳回应 AI 放缓担忧：算力需求仍强劲，长期收入目标不变",
-      "link": "https://www.ithome.com/1/002/767.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-15T12:43:20.000Z",
-      "summary": "博通CEO陈福阳回应AI放缓担忧，称算力需求强劲，长期收入目标不变。",
-      "summaryZh": ""
-    },
-    {
-      "title": "我国又一科技领域全球领先！国产算力应用爆发",
-      "link": "https://zhidx.com/p/594079.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-15T12:20:36.000Z",
-      "summary": "我国自主研发的下一代天气-气候一体化模式（MCV）实现全球5公里分辨率、未来10天预报1小时完成计算，超越国际主流同行。",
-      "summaryZh": ""
-    },
-    {
-      "title": "DeepSeek工程师刘胜与：会继续坚持写算子以及不断引入AI Agent写算子",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44VXR2NGttU2xOMWZFNjE1VHdOY0k2QkNwcFNvcHpaVkNuTWExajRTR3dBWVBGLXlva0hTZzREclFkanUtVDNPeDdCUWRIVjdiS0dNdEdLM0M?oc=5",
+      "title": "大模型、智能体全链条渗透，智驾产业增长空间打开",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sY0k5WGFkLXpFbksya0xLWEFjaGNYWHFwOG5xby1NaTU2d2l3STZFY2pjTkNDUWRBbGdkcE15TEF6M2ZCY2NiRTVQQUZka2Z3cWY0RFhuYUI?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-15T15:08:40.000Z",
-      "summary": "DeepSeek工程师刘胜表示将继续编写算子并引入AI Agent写算子。",
+      "pubDate": "2026-09-15T23:20:31.000Z",
+      "summary": "智驾产业因大模型和智能体全链条渗透迎来增长机遇。",
       "summaryZh": ""
     },
     {
@@ -78,7 +77,7 @@
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-15T05:31:22.000Z",
+      "pubDate": "2026-09-15T14:31:22.000Z",
       "summary": "资本涌入AI领域，产业拐点待验证。",
       "summaryZh": ""
     },
@@ -108,37 +107,87 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-15T08:29:44.000Z",
-      "summary": "蜗小白机器人印度大型仓储应用，清洁成本降低38%。",
+      "summary": "蜗小白机器人印度仓储应用，清洁成本降低38%。",
       "summaryZh": ""
     },
     {
-      "title": "Blykalla与微软达成人工智能合作协议",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MUlJNdHBVYWxDMDROSVJoNjV1OGFfMHNhUkQ1Q3FBdDhyTXA4YVlueFlTM0xjVHRORm1pY3ByOGhXQW9vZDZpWFZUb1VWeFdna1d6QjVsZ2s?oc=5",
-      "source": "界面新闻",
+      "title": "谷歌前高管创业造机器人，拿下近亿元融资、顺丰亿元订单",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1lYXFVQ3dLNFJwVFVYQ2szLTlyUzNUSWVscHZjQzVmQ2ZkeTlqaGZyWmt1SXRhSDJXZDRrOW1tcEFybW1veFE?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-15T00:52:49.000Z",
+      "summary": "谷歌前高管创办的寅成智能获近亿元融资及顺丰亿元订单，专注物流机器人研发。",
+      "summaryZh": ""
+    },
+    {
+      "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
+      "link": "https://www.qbitai.com/2026/09/489288.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-15T06:20:14.000Z",
-      "summary": "瑞典Blykalla与微软合作，利用AI解决行业瓶颈问题。",
+      "pubDate": "2026-09-15T05:39:10.000Z",
+      "summary": "前OpenAI后训练VP认为AI不仅解决问题，还能提出洞见，推动数学发展。",
       "summaryZh": ""
     },
     {
-      "title": "多只A股AI芯片公司股价走高",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XTjZJOFZqZTJ0amVmeXVVQmVjb1hnTllSd2VfZkZQYXRmTWpFMWRYaElJZ1Y0eXUzNmpTNnNrOVg3cHJhaXFvb0s5SzNjbFA4WFN3?oc=5",
+      "title": "前 Kimi 技术大佬转行做AI相亲，拿下千万风投",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kMlFRc2hNdXVHMjBzZjJsZ3p4WG9HdUc3VEpUaV9lQVNPU0dmeVlTakZBdmoyTDdoeE9ta1VQSnZld3VxN3NpSXMzLU9ta183OWFKMg?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-15T01:43:00.000Z",
+      "summary": "前Kimi技术大佬曾歆勋转行AI相亲，创办良配App获千万风投。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI巨头呼吁“踩刹车” 机构认为国内算力需求仍有增长空间",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41MEpZOFRPTGxic2RNZUhoYjJ6VU5iLV9qX3FaUW44WHJwMTRsMVpqUnBqNFN0SUVmZ0hhWkpwaVFBRGRTV3BiU2RjYjVBeWtPQUQ4?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-15T07:37:43.000Z",
-      "summary": "A股AI芯片公司股价普遍上涨。",
+      "pubDate": "2026-09-15T23:30:48.000Z",
+      "summary": "AI巨头呼吁放缓AI模型提升节奏，机构认为国内算力需求持续增长。",
       "summaryZh": ""
     },
     {
-      "title": "领益智造：战略聚焦端侧AI、物理AI(机器人)、AI服务器等核心方向，锻造全新增长曲线",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PNTNVUkR2R3RrejBmMnZlNmhnWmFLOXd1VG1IQWM2WDZoYUVlUHJGSWYwLXVjOWtPelZUQjNnYWVRQ2treU5JZnBQSFFhUy1MVVEyV0JiMXY2Z2hnMm5TcTNoRQ?oc=5",
-      "source": "东方财富网",
+      "title": "人形机器人的量产死结，被一家车企先解开了",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UNjhOc2RrMmE4WXJlYTRkR2JKeFN6T2txOFdNNWdRQjdOZGxLMy1pU2ZkVm5PQ0tsdGxSVmU2eHpkbjVrc1BhVW9aa2FkVzJsc1pQbTVNYw?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-15T11:13:12.000Z",
-      "summary": "领益智造战略聚焦AI领域，打造全新增长曲线。",
+      "pubDate": "2026-09-15T09:14:38.000Z",
+      "summary": "小鹏汽车率先实现人形机器人自动化量产。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+      "link": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-15T18:33:02.000Z",
+      "summary": "Agility推出新型人形机器人，可自主停顿蹲下避免伤害人类同事。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe",
+      "link": "https://spectrum.ieee.org/humanoid-robot-safety",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-15T15:22:30.000Z",
+      "summary": "Digit 5成为首个真正安全的类人形机器人工作者。",
+      "summaryZh": ""
+    },
+    {
+      "title": "“我确实懂AI”，黄仁勋活动现场接到特朗普电话，开免提后特朗普疯狂输出：机器人不会接管一切，AI不会接管整个世界，这一切都是骗局",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSUlOWWZDeF9ETTdRMl9LVmFMQ3g5S3J5X08tbnQ5WmFuWUkyb2NaaHA1SG9BRFBHcDJnYmJCNHRHR3Nka3ZLWDl2TllVWEVmWFpuUGRn?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-15T06:48:00.000Z",
+      "summary": "特朗普在活动中与黄仁勋通话，称AI不会接管世界，并称其为骗局。",
       "summaryZh": ""
     },
     {
@@ -152,56 +201,23 @@
       "summaryZh": ""
     },
     {
+      "title": "AI机器人狂欢 科技点亮三河",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uRkJ2cjNkclg4d3RCMGtrdmpTYndsSnRGOV9ueVd2RjJFNFBRa0RfOGVHdnZjVERuUlhKelNqTm45Yk9JUDNZb0JxdG1qQlUxeHBMekFtR1lJUEtrWWZlTktDYzFMYm1iSlowTldHXzROdw?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-15T10:17:47.000Z",
+      "summary": "三河举办AI机器人狂欢活动，展示科技发展成果。",
+      "summaryZh": ""
+    },
+    {
       "title": "Maven Robotics launches with $100 million funding to scale general-purpose industrial robots",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNckpHUjluQlF0bmVGUFkyWmVIb254VWZKa3AyQnM5UWJBMnc3VkV0WFEtLThaWkNVeGhQVGJjcUZDaWx2LUtnZzdMckFDMTFJalhTSUppRE1WRHBDV1FHUnhoNGJMNXEydFBCWjBSQWRhYzE4Z2RtN2JTMy1KRUNLUWVFeXVPVDJXUXNpZ3dlb29Jb1ZHdzFMNDk1NEVpR0tPUmNYemtCQzYzQml6b1d0ZlBNLUx2eF9icV9aWkU3LTNPSmhQdHdJWGVnVkI5Q21kYmpUVFJWUTNfNDNxOG1YRmJn?oc=5",
       "source": "Robotics & Automation News",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-15T07:41:54.000Z",
-      "summary": "",
-      "titleZh": "Maven Robotics 获 1 亿美元融资，用于扩展通用工业机器人"
-    },
-    {
-      "title": "Luis Lamshoeft departs Majid Al Futtaim for Head of AI & Robotics Strategy role at Migros Supermarkt",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPajU4U2VyYVpYYjZvSE9NVDUxUlY0eXR6QUM1S3dkWWN6akVqai1hOWRmS2tFejY4aVFBTy1MRXpfR0V0VEw4S2xqUVZxVFA2TUY3alBRelVoaHc2czdHb0I1alVEMTYtWWFYUVVTZmQzZjBDV19rc1M0YVFMUkhxVnFnMTBJMzMwdXpFeGplSFZkeXViRXg3WGZ2dHlVN2dwNkxqQlI2aEkyTE0zNi1tUk9sd3ZabHZtY3ZIZTVJc3BOdkdFcVlaMW4tcDA4UmJkalJrVUNUc1VwRlhjaHQtUzdWOXRiS200?oc=5",
-      "source": "Retail Tech Innovation Hub",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-15T04:38:43.000Z",
-      "summary": "Luis Lamshoeft从Majid Al Futtaim离职，担任Migros超市AI与机器人战略总监。",
-      "summaryZh": "",
-      "titleZh": "Luis Lamshoeft 离开 Majid Al Futtaim，出任 Migros Supermarkt 人工智能和机器人战略主管"
-    },
-    {
-      "title": "Raise Robotics takes construction robot to 65 feet with Genie boom lift",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEM2VndIQmZSM2xFNkFXM08zMjYxWEJPT29jN25QaVczeU9qenJNS1hNRFBCa2lrMklYWlo3TndCTDBQdlY1MHcteV9XSGdWVzdLU2prZllPQWE3LTN1NjNGb3JOWWE5Q09EMEV6NTRUUnRfT3Y4RWV2VElOUnV6NHBMb3FGZFZhTVYwVV93UWFkNm4wNkRrLXM3MXF5OWFMX3ZoRGFPTHpDRVJZNjZjZWQzVHExdnhqV1NQYjlzemRNX0F4NlVJ?oc=5",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-15T07:27:01.000Z",
-      "summary": "",
-      "titleZh": "Raise Robotics 利用 Genie 动臂升降机将建筑机器人提升至 65 英尺"
-    },
-    {
-      "title": "The Gulf’s AI Nightmare Came Courtesy of an Iranian Drone",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZTlvSzhFWDR5WEJyU2JDMktZUTV0Z1htMGdDZ0pzTHZBQU1IbE02MjN6VFRxemJJaUVuVnVGOENUdHVuY3F6VUNTZUhqRndHU0puQi1mRVY3MzRBVFNCNXZoZktfRVNvYmtTZGJmdG02SFRlSUUtVE1FLWpWVWRYZ2tWMEcwVGg5MGZNS1VzUUJLWFhiT2Zna2E1TjRuS3lMUThpRFFB?oc=5",
-      "source": "WSJ Tech",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-14T23:00:00.000Z",
-      "summary": "",
-      "titleZh": "海湾地区的人工智能噩梦是由伊朗无人机造成的"
-    },
-    {
-      "title": "Google tests the limit of advertiser trust in automation with new conversion tool",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZUh6bHhKazFLYWZmYlR6azMzTkFReHJkSlhJaDdLbE1pdVpIaC1vLU5FRERwalVxVm9BRzV1VUxrdTNmTnJJdWF0dWkzTTNfUlQycGtqbFJNdzh5QU93aDNfU2lYdDlZYTFGSkNPaU9EUzR0MjZMb3pDekJ6dGNmRUpLdnUtNXdnNXN1WEdPdkt6LUtreHVwVU5XZV9tYkNhaDJuS3dFcXZYenRuTGc?oc=5",
-      "source": "eMarketer",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-15T20:33:15.000Z",
-      "summary": "谷歌推出新转化工具，测试广告商对自动化信任度极限。",
-      "summaryZh": "",
-      "titleZh": "谷歌使用新的转换工具测试广告商对自动化的信任极限"
+      "summary": ""
     }
   ]
 }
