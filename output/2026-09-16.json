@@ -1,65 +1,64 @@
 {
   "date": "2026-09-16",
-  "generatedAt": "2026-09-16T04:54:06.928Z",
+  "generatedAt": "2026-09-16T08:50:01.172Z",
   "items": [
     {
-      "title": "豆包大模型 2.1 Pro 更新 0915 版本：Agent 交付更可靠，多模态 Coding 进化",
-      "link": "https://www.ithome.com/1/003/012.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-16T04:17:26.000Z",
-      "summary": "豆包大模型2.1 Pro更新0915版增强Agent交付和多模态Coding能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "行业首个，中国移动开源连接 VLA / WAM 模型与机器人本体的通用工程底座 Open-RAIL",
-      "link": "https://www.ithome.com/1/003/013.htm",
+      "title": "Stellantis 发布 BOW 纯电自动驾驶配送概念车：无驾驶室、无具体参数",
+      "link": "https://www.ithome.com/1/003/139.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-16T04:19:51.000Z",
-      "summary": "中国移动开源Open-RAIL，连接VLA/WAM模型与机器人本体，实现通用工程底座。",
+      "pubDate": "2026-09-16T08:00:48.000Z",
+      "summary": "Stellantis发布无驾驶室纯电自动驾驶配送概念车BOW。",
       "summaryZh": ""
     },
     {
-      "title": "把记忆交给CPU，大模型会变快",
-      "link": "https://www.qbitai.com/2026/09/489724.html",
+      "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
+      "link": "https://www.qbitai.com/2026/09/490396.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-16T03:07:18.000Z",
-      "summary": "将记忆存储于CPU，可提升大模型处理速度。",
+      "pubDate": "2026-09-16T06:23:05.000Z",
+      "summary": "B站AI无限竞技场上线，GPT-6在首期测评中夺冠。",
       "summaryZh": ""
     },
     {
-      "title": "阴和俊：推进人工智能赋能科研创新，完善算力、数据等基础设施，拓展科学研究智能化应用场景",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRb2xkYWpiM1dFY1g3Y0RXWmF2N3JiWEdHWkxDWXlvc0tkSmhvUkJXVldpMVB2MThQbWl0V096NjRPb1NSV3lMSkRSV3BsSF9Rc1Q4V3VVejM?oc=5",
-      "source": "界面新闻",
+      "title": "西门子不造机器人，为什么机器人进厂的故事里总有它？",
+      "link": "https://www.qbitai.com/2026/09/490416.html",
+      "source": "量子位",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-16T02:03:11.000Z",
-      "summary": "科技部部长强调推进AI赋能科研，完善基础设施，拓展智能化应用场景。",
+      "category": "robotics",
+      "pubDate": "2026-09-16T07:38:18.000Z",
+      "summary": "西门子通过工业软件和自动化产品组合，推动机器人解决方案进入真实工业场景。",
       "summaryZh": ""
     },
     {
-      "title": "A股科技大举反攻，创业板人工智能ETF大成(159242)标的指数强势上涨4.60%，AI算力基础设施全链路景气验证",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nSFpQZnozNnpOSkVocy1QWVFWaGVYb1dGc1l0YzUwaUpMYUtKQlNOSkZKajkyT3p3VEZGNUJwTVZzaWkzbmQzTWJMZFJIeHlJekVBWllkZDU?oc=5",
-      "source": "界面新闻",
+      "title": "鸿蒙智行智界 RX L3 自动驾驶测试车现身公开道路，消息称验证重心放在城市快速路",
+      "link": "https://www.ithome.com/1/003/162.htm",
+      "source": "IT之家",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-16T03:30:00.000Z",
-      "summary": "创业板人工智能ETF大成(159242)标的指数上涨4.60%，AI算力基础设施全链路景气度提升。",
+      "category": "robotics",
+      "pubDate": "2026-09-16T08:28:38.000Z",
+      "summary": "鸿蒙智行智界 RX L3 自动驾驶测试车在城市快速路开展实测。",
       "summaryZh": ""
     },
     {
-      "title": "大模型、智能体全链条渗透 智驾产业增长空间打开",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNNG1ydldJcE81SFdVUGRINFkxUjBtY2c4YXFWeEdvSnJvYjFYTGJJdjJwaDJ0QVp6a0lMU2tWV1EwUHpPTWxXeUNybk1oejk0X3JDRQ?oc=5",
-      "source": "第一财经",
+      "title": "OpenAI被曝3亿美元收购AI光学影像公司",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsUVBqSlAwVl85MG94dVl3bEJZNFZaY3JmZ21HTzVHeWJOOVYwN1hIWG9pQ3dWWGxWMmV3U1JaSDlTcWJqQmFhT2dCZW1QUQ?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-15T23:29:00.000Z",
-      "summary": "智驾产业因大模型和智能体全链条渗透迎来增长机遇。",
+      "pubDate": "2026-09-15T11:07:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "钛媒体旗下AI词元服务平台TiToken，发布算力优化产品BackBy",
+      "link": "https://www.tmtpost.com/8141806.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-16T06:33:26.000Z",
+      "summary": "TiToken发布算力优化产品BackBy，降低AI任务模型调用费用。",
       "summaryZh": ""
     },
     {
@@ -73,27 +72,18 @@
       "summaryZh": ""
     },
     {
-      "title": "国产大模型密集调价，竞争逻辑或转向“拼生态”，资金连续布局人工智能ETF易方达（159819）",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjdXRjSEFUcFFGQXVtQ1RudFJQdkdZbmg5dF9mMGJrWmpDdjlxYlpFU0h4X2dRbi1iTV9NRi1PMk92X2JHZ3BFQ1AyRXlzTU5iR2ZRVGx5Y2Qzd0Fkb1IzLWRqV0g4OEJMVWxoOA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-15T09:10:31.000Z",
-      "summary": ""
-    },
-    {
-      "title": "李飞飞学生推机器人模型，Jim Fan：太流畅了",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBSekFjb1ZtN0UtbGd5emgxbGs3cEpLemg2QmVyajFpUDZnZEJrRDF4dmtQVnZlUDF1QU15Um1MLVZkb1FIbUE?oc=5",
-      "source": "智东西",
+      "title": "特斯拉、Figure 还在攻克量产，小鹏机器人已经走下产线",
+      "link": "http://www.geekpark.net/news/370421",
+      "source": "极客公园",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-16T01:24:25.000Z",
-      "summary": "斯坦福学生推出机器人模型OM-1，实现零样本泛化及多机器人协作。",
+      "pubDate": "2026-09-16T06:16:06.000Z",
+      "summary": "小鹏机器人完成自动化总装，量产线正式投产。",
       "summaryZh": ""
     },
     {
       "title": "两家明星机器人公司，走到破产十字路口",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1QMWItdjFtR0pUbFhwMWZXYXBUcHVOVkhzOW96VjRCYjcyYWd0Y29NWFUtblduUTlUd1l6WE5KcE82XzVmVWc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02VUxFQ3U5RHU1aW5QSmoxS25sREh3SnhxR3QtcVRBT2pKYURZRThsNy1DQllwZFdDMmJTbjZQNUlobjg1bGpTaw?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
@@ -103,32 +93,21 @@
     },
     {
       "title": "A社“AI末日”资本黑手被揪出，炒作焦虑为IPO圈钱，难怪仇视DeepSeek开源",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XSU9LRElOeUlHUWdqNU9PVDZtQmZfbXpDbm9zLVZtN2RaNFg2dDV6ZXY0UEdfNXJDbG1XdTEzdnc4T0UyeFl0LUR0bFM4MVk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53alZFeGZNaEp1QmVISERVRWRTNlAzMlY4a1VEV0lIVk5EOFpyOFJTTnlmM0N5cWhqZTA4dlEtV2xLWmRqX1ZTRHZpb0VzZw?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-16T02:23:20.000Z",
-      "summary": "A社涉嫌炒作AI末日焦虑，为IPO圈钱，引发公众愤怒。",
-      "summaryZh": ""
+      "pubDate": "2026-09-15T11:19:00.000Z",
+      "summary": ""
     },
     {
-      "title": "美国多家AI巨头对安全风险担忧升温，算力金属估值溢价回落",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OWHRYRWlpd1RqMC1iWGx5RmxYYk9GazhyQnVOVHNiR0l2MlR5T2lRTHBzRlhrSkptYUlOZ3d3bGRMZTZnM2hpVVVzVnR2aHV2TVMybkpHZnVOQQ?oc=5",
+      "title": "英伟达 1050 亿担保的真正底牌：赌地电壳，不赌 OpenAI",
+      "link": "https://www.tmtpost.com/8141805.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-15T23:40:00.000Z",
-      "summary": "美国AI巨头担忧安全风险，算力金属价格下跌。",
-      "summaryZh": ""
-    },
-    {
-      "title": "腾讯会议联合影石发布AI录音领夹麦，支持元宝问答及Agent接入",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05M3RMREZha0cycVlZSGJteXFEWTVvOFA0VE1YNGV4WFVFUXRUOTZhT1RVYm5GU0NjOUlXcnFzTHUzNC1SeXU0UGRWeXA2RFA0aGpNTEI2c0JWdw?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-15T12:03:00.000Z",
-      "summary": "腾讯会议与影石联合发布AI录音领夹麦，支持多语言翻译及Agent接入。",
+      "pubDate": "2026-09-16T07:44:28.000Z",
+      "summary": "英伟达以1050亿担保换取俄亥俄地电壳20年期权，非直接投资OpenAI。",
       "summaryZh": ""
     },
     {
@@ -138,7 +117,76 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-16T00:22:40.000Z",
-      "summary": "OpenAI、Anthropic、谷歌研究AI安全，微信辟谣AI助手偷隐私，美光展示512GB DDR5内存模组。",
+      "summary": "OpenAI、Anthropic、谷歌联手研究AI安全，微信员工辟谣AI助手偷隐私，美国太空部署武器。",
+      "summaryZh": ""
+    },
+    {
+      "title": "阶跃星辰姜大昕：金融垂类大模型正从单点应用走向金融AI基础设施共建",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1ck5lWkwyemwtaTM2dU9zVy1xbnRpdjlCbG42eEJGSFRFTW8wNDMzMG0xdWQ0MU1aZWowbUxJZy1HSnNIczNTSmJUY0Z2VzJKTnhYVy1iZ0I?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-16T07:46:25.000Z",
+      "summary": "金融垂类大模型正从单点应用向金融AI基础设施共建转型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "直通公司：香山股份跨界AI算力，是战略突围，还是换个题材继续讲故事？（左剑明）",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mYkFGaDh0MmY0UVlBbC1oX1lBYUtwYlJYcGhDUUEta3BCUEIxdDZtc1d0U0tsaWdhM0dFQ2tRTnNFMTdrbmtlRGY4QXZ0Y0pHZm1mWQ?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-16T06:24:30.000Z",
+      "summary": "香山股份涉足AI算力领域，引发战略转型讨论。",
+      "summaryZh": ""
+    },
+    {
+      "title": "财跃星辰与网易智企联合主办金融大模型应用与治理研讨会",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9EaVFoNVdESC05d2hJdk5URldydHdsSzVZc2FJRGNBMmJQWUZCbDlfVDgwODZQNGRaU1VCdmJ5T1JoaG51R1REUw?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-16T00:10:00.000Z",
+      "summary": "财跃星辰与网易智企联合举办金融大模型应用与治理研讨会，探讨合规与安全。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Meta自研AI芯片明年上半年部署，旨在降低成本，减少对英伟达依赖",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01OV9QVWZBQTZ1TEYweHpDLXp5elFQTm5uSVgtbHJKaC1kY0lpcERaZ0F3ZEFmSUFnZVFjMUFMclVHSEh0M1VXSGVkOGVJeXNFZjdJ?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-15T14:01:23.000Z",
+      "summary": ""
+    },
+    {
+      "title": "讲故事没用了，AI创业开始拼落地",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EYktHbHpvMEJtRG9FVU1XUVljdk93QVpDbjVxcmI5VU1DbExfNXBBb1djR29yRWIzTnBzS1R3VGNZN083cV9YSnlQOEtNSUFyUTMwTjFFOHJyQVRkMVE?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-16T05:05:00.000Z",
+      "summary": "AI创业公司从讲故事转向注重落地和盈利。",
+      "summaryZh": ""
+    },
+    {
+      "title": "财经聚焦丨超70家启用，“机器人学校”正加速落地",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FemNhNDhGSHJ0WjZuSzllZzZiM1VTV3pNY051d2tuRWZXMWEzMlVBeXJENnpJUXNMV2syMUhGVU5oekZtd2dMUWxWbi1wS2FPN2ZTeFpNeUxwT3pnZGNkUFhlZ1Zxb0o4Rm9nRG54Q1pyamZCUV95STIwTDBEZw?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-15T12:12:54.000Z",
+      "summary": "全国超70家“机器人学校”加速落地，助力具身智能技术产业化。",
+      "summaryZh": ""
+    },
+    {
+      "title": "人形机器人产业地图（2026版）",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4NXBvZUJxN2ZycFJrZTYwWDhRZXp0U1RuVEFkTXJGaHEzeUcxSTFWUEJjWjdzeW9uRlZUeDkyaEVaaWZvelIwZlMtS29NUm52OEQxbGtoT3Y?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-16T01:08:02.000Z",
+      "summary": "2026上半年中国人形机器人产量近2.5万台，出货量近2万台，产业规模加速扩容。",
       "summaryZh": ""
     },
     {
@@ -152,33 +200,13 @@
       "summaryZh": ""
     },
     {
-      "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
-      "link": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-15T18:33:02.000Z",
-      "summary": "Agility推出新型人形机器人，可自动停顿蹲下避免伤害人类同事。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe",
-      "link": "https://spectrum.ieee.org/humanoid-robot-safety",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-15T15:22:30.000Z",
-      "summary": "Digit 5成为首个真正安全的类人形机器人工作者。",
-      "summaryZh": ""
-    },
-    {
-      "title": "从协作到通用智能，中国机器人产业迭代，重塑全球产业竞争格局",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZaDU1b2ZwdkY5X3F5Y214OG5aUnlvVm1ldFY2WEhVRVlvaVhUZUV1X1l6a3VIdTRQbFRlakZ1RTlEdm1KTTRVRnRrNENOMHBGMkJWOTBHTQ?oc=5",
-      "source": "与非网",
+      "title": "领益智造：战略聚焦端侧AI、物理AI(机器人)、AI服务器等核心方向，锻造全新增长曲线",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PNTNVUkR2R3RrejBmMnZlNmhnWmFLOXd1VG1IQWM2WDZoYUVlUHJGSWYwLXVjOWtPelZUQjNnYWVRQ2treU5JZnBQSFFhUy1MVVEyV0JiMXY2Z2hnMm5TcTNoRQ?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-15T05:07:38.000Z",
-      "summary": "中国机器人产业迭代升级，引领全球竞争格局变革。",
+      "pubDate": "2026-09-15T11:13:12.000Z",
+      "summary": "领益智造战略聚焦AI领域，打造全新增长曲线。",
       "summaryZh": ""
     },
     {
@@ -192,53 +220,14 @@
       "summaryZh": ""
     },
     {
-      "title": "凯龙高科等成立科技公司 含AI及机器人业务",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IOTJpUHk4QlBuUWwwcmtpQ2hMZmw4bzF6QXl5dG1yWGlldkQ0SlpXSmxjazRUYVkxSmItX0praG1vdVNWTmM2cVMxYlVFVmRJ?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-16T01:47:21.000Z",
-      "summary": "凯龙高科等共同成立科技公司，涉AI及机器人业务。",
-      "summaryZh": ""
-    },
-    {
       "title": "AI入“景” 文旅向新",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01c3l3OW9hdlJ4WUhXMjFQU2l0US11TEYyVzJqNlVlbml0em42dlRFUEpNNXlhRk9LaVBLY2t5N1VwMnVweTRXT0dkY1JpV0pWVFk0QnFMTl80aXJsMWNKTVdwQQ?oc=5",
-      "source": "光明网",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yVHZPeDlKd3k3MktVaGhTeEpsTXJmMmFfekNIRTdCOFQ3UTFWdlEzVjdkUlhLOXZqV2duSzhELUFYanNLMEJ6RVFCMHYxSW9LYnV0Vm1STjhhS1ZFUGRPVG1VSUI3RUVCZEVUMDFR?oc=5",
+      "source": "央广网",
       "lang": "zh",
       "category": "application",
-      "pubDate": "2026-09-15T09:37:00.000Z",
-      "summary": "AI技术助力文旅行业创新，提升游客体验和服务水平。",
+      "pubDate": "2026-09-16T01:20:17.000Z",
+      "summary": "AI技术助力文旅产业创新发展，VR、AR等应用场景丰富。",
       "summaryZh": ""
-    },
-    {
-      "title": "AI机器人狂欢 科技点亮三河",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uRkJ2cjNkclg4d3RCMGtrdmpTYndsSnRGOV9ueVd2RjJFNFBRa0RfOGVHdnZjVERuUlhKelNqTm45Yk9JUDNZb0JxdG1qQlUxeHBMekFtR1lJUEtrWWZlTktDYzFMYm1iSlowTldHXzROdw?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-15T10:17:47.000Z",
-      "summary": "2026年全球AI机器人狂欢活动在江苏三河成功举办。",
-      "summaryZh": ""
-    },
-    {
-      "title": "大科学家 | 王元卓：如果给机器人装上“性格”和“记忆”，它会不会越来越像你的朋友？",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyS211NnUwUEF3RXhPVTIzaDdNTmRzNWstWTA1d0U0alNDb2R4VjF5TDhKR0JWMjJQNFdBWDNOZXdiTEdfeFFHay1FcWhyODBJOGx1WUxnVUdVdWZWTEZBVGZQWUx0T25jU1lKcmx0TTBHamRoeVE?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-15T11:00:03.000Z",
-      "summary": "王元卓探讨机器人“性格”与“记忆”对人际关系的潜在影响。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Maven Robotics launches with $100 million funding to scale general-purpose industrial robots",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNckpHUjluQlF0bmVGUFkyWmVIb254VWZKa3AyQnM5UWJBMnc3VkV0WFEtLThaWkNVeGhQVGJjcUZDaWx2LUtnZzdMckFDMTFJalhTSUppRE1WRHBDV1FHUnhoNGJMNXEydFBCWjBSQWRhYzE4Z2RtN2JTMy1KRUNLUWVFeXVPVDJXUXNpZ3dlb29Jb1ZHdzFMNDk1NEVpR0tPUmNYemtCQzYzQml6b1d0ZlBNLUx2eF9icV9aWkU3LTNPSmhQdHdJWGVnVkI5Q21kYmpUVFJWUTNfNDNxOG1YRmJn?oc=5",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-15T07:41:54.000Z",
-      "summary": ""
     }
   ]
 }
