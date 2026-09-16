@@ -1,7 +1,27 @@
 {
   "date": "2026-09-16",
-  "generatedAt": "2026-09-15T23:33:14.740Z",
+  "generatedAt": "2026-09-16T00:49:36.101Z",
   "items": [
+    {
+      "title": "OpenAI GPT-5.5 将于 10 月 14 日下线：覆盖 ChatGPT 与 Codex，官方建议迁移至新模型",
+      "link": "https://www.ithome.com/1/002/858.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-16T00:47:08.000Z",
+      "summary": "OpenAI宣布GPT-5.5将于10月14日下线，建议用户迁移至新模型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI 考虑 1.2 万亿美元融资，拟将首次公开募股推迟至 2027 年",
+      "link": "https://www.tmtpost.com/8141318.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-16T00:20:48.000Z",
+      "summary": "OpenAI计划2027年首次公开募股，考虑1.2万亿美元融资。",
+      "summaryZh": ""
+    },
     {
       "title": "谷歌推出 Gemini 3.8 Live 和 3.8 Live Extended Thinking 实时对话模型，支持 97 种语言切换",
       "link": "https://www.ithome.com/1/002/824.htm",
@@ -9,17 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-15T17:17:43.000Z",
-      "summary": "谷歌发布两款实时对话模型，支持多语言切换。",
-      "summaryZh": ""
-    },
-    {
-      "title": "“三巨头”联手，OpenAI、Anthropic、谷歌 Deepmind 开始合作研究 AI 安全措施",
-      "link": "https://www.ithome.com/1/002/792.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-15T14:41:26.000Z",
-      "summary": "OpenAI、Anthropic、谷歌DeepMind合作研究AI安全措施。",
+      "summary": "谷歌发布两款实时对话模型，支持97种语言切换。",
       "summaryZh": ""
     },
     {
@@ -29,7 +39,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-15T06:54:31.000Z",
-      "summary": "飞书8.0升级拥抱Agent，豆包工作伙伴发布，字节跳动持续发力企业级Agent。",
+      "summary": "飞书8.0全面拥抱Agent，豆包工作伙伴发布，字节跳动持续发力企业级Agent市场。",
       "summaryZh": ""
     },
     {
@@ -39,17 +49,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-15T14:06:27.000Z",
-      "summary": "Meta计划明年上半年部署新型自研AI芯片。",
+      "summary": "Meta计划明年上半年部署新款自研AI芯片以降低成本和能耗。",
       "summaryZh": ""
-    },
-    {
-      "title": "随着量产开始，中国人形机器人价格两年下跌 72%",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZU19uR3dfZ3hBODNncXJzbnFFOE5TYU5iQ2RBX1RQTHUyN2ZuWDdRT1VIbWY1NndhNzJuR1RaMGhqeklteGdZa09yaXlNQQ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-15T03:52:07.000Z",
-      "summary": ""
     },
     {
       "title": "香山股份8亿跨界收购武珞智慧，主业承压下的算力豪赌",
@@ -58,46 +59,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-15T12:12:12.000Z",
-      "summary": "香山股份8亿收购武珞智慧，跨界布局AI算力，主业承压下寻求新增长点。",
+      "summary": "香山股份8亿跨界收购武珞智慧，切入AI算力赛道，主业承压下豪赌算力发展。",
       "summaryZh": ""
     },
     {
-      "title": "大模型、智能体全链条渗透，智驾产业增长空间打开",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sY0k5WGFkLXpFbksya0xLWEFjaGNYWHFwOG5xby1NaTU2d2l3STZFY2pjTkNDUWRBbGdkcE15TEF6M2ZCY2NiRTVQQUZka2Z3cWY0RFhuYUI?oc=5",
+      "title": "OpenAI据报正与Anthropic、谷歌DeepMind合作推进AI安全",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzMWh0b0RXOEp2VjQyS3N3SUxzOGxIM1NMT3NwS2lCbGxFYUxOQzBCbGp5SkZUOWFZRGdENEQ1cTV0emZDd1FRVFAwcjBQeE8zU0ZCcFY5aUI?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-15T23:20:31.000Z",
-      "summary": "智驾产业因大模型和智能体全链条渗透迎来增长机遇。",
-      "summaryZh": ""
-    },
-    {
-      "title": "从大模型到AI芯片 资本热潮下产业拐点何时兑现？",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zWTJrYzFvYVdCYVUzTW51LV9xcU9QZ3Z5TzdmWWZqLVlDNXFTNnU0eUQxdmxPTEJpLTlJaTRhcFpHUnR0OUxudG5COTVuMjBVd0VFOA?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-15T14:31:22.000Z",
-      "summary": "资本涌入AI领域，产业拐点待验证。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国产大模型密集调价，竞争逻辑或转向“拼生态”，资金连续布局人工智能ETF易方达（159819）",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjdXRjSEFUcFFGQXVtQ1RudFJQdkdZbmg5dF9mMGJrWmpDdjlxYlpFU0h4X2dRbi1iTV9NRi1PMk92X2JHZ3BFQ1AyRXlzTU5iR2ZRVGx5Y2Qzd0Fkb1IzLWRqV0g4OEJMVWxoOA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-15T09:10:31.000Z",
-      "summary": ""
-    },
-    {
-      "title": "荣耀发布MagicOS 11，率先商用系统级AI Agent",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZRjVHWHJvclZ5cGtBNHFpZVUwWTFncDBvUjdsZk4tMU4xQmU1Sk9kX19EZTBtUE5kdnlybkd1VEN5dVRmZFVqYXNhc05EQ1c2bDRkRmFYOVJ0UF8ycEFfdGRvVnVJdnJIdGg4dXYzZ19TS3h1?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-15T11:54:40.000Z",
-      "summary": "荣耀发布MagicOS 11，商用系统级AI Agent实现手机AI主动办事。",
+      "pubDate": "2026-09-15T23:50:40.000Z",
+      "summary": "OpenAI与Anthropic、谷歌DeepMind合作推进AI安全。",
       "summaryZh": ""
     },
     {
@@ -107,7 +79,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-15T08:29:44.000Z",
-      "summary": "蜗小白机器人印度仓储应用，清洁成本降低38%。",
+      "summary": "蜗小白机器人助力印度仓储清洁成本降低38%。",
       "summaryZh": ""
     },
     {
@@ -117,7 +89,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-15T00:52:49.000Z",
-      "summary": "谷歌前高管创办的寅成智能获近亿元融资及顺丰亿元订单，专注物流机器人研发。",
+      "summary": "谷歌前高管创办的寅成智能获亿元融资和顺丰亿元订单，专注物流机器人研发。",
+      "summaryZh": ""
+    },
+    {
+      "title": "财经聚焦丨超70家启用，“机器人学校”正加速落地",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FemNhNDhGSHJ0WjZuSzllZzZiM1VTV3pNY051d2tuRWZXMWEzMlVBeXJENnpJUXNMV2syMUhGVU5oekZtd2dMUWxWbi1wS2FPN2ZTeFpNeUxwT3pnZGNkUFhlZ1Zxb0o4Rm9nRG54Q1pyamZCUV95STIwTDBEZw?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-15T12:12:54.000Z",
+      "summary": "全国超70家“机器人学校”加速落地，助力具身智能技术产业化。",
       "summaryZh": ""
     },
     {
@@ -131,33 +113,23 @@
       "summaryZh": ""
     },
     {
-      "title": "前 Kimi 技术大佬转行做AI相亲，拿下千万风投",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kMlFRc2hNdXVHMjBzZjJsZ3p4WG9HdUc3VEpUaV9lQVNPU0dmeVlTakZBdmoyTDdoeE9ta1VQSnZld3VxN3NpSXMzLU9ta183OWFKMg?oc=5",
-      "source": "钛媒体",
+      "title": "OpenAI、Anthropic、谷歌联手研究 AI 安全；微信员工辟谣 AI 助手小微偷隐私；美国已在太空部署武器",
+      "link": "http://www.geekpark.net/news/370375",
+      "source": "极客公园",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-15T01:43:00.000Z",
-      "summary": "前Kimi技术大佬曾歆勋转行AI相亲，创办良配App获千万风投。",
+      "pubDate": "2026-09-16T00:22:40.000Z",
+      "summary": "OpenAI、Anthropic、谷歌联手研究AI安全，微信员工辟谣AI助手小微偷隐私，美国在太空部署武器。",
       "summaryZh": ""
     },
     {
-      "title": "AI巨头呼吁“踩刹车” 机构认为国内算力需求仍有增长空间",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41MEpZOFRPTGxic2RNZUhoYjJ6VU5iLV9qX3FaUW44WHJwMTRsMVpqUnBqNFN0SUVmZ0hhWkpwaVFBRGRTV3BiU2RjYjVBeWtPQUQ4?oc=5",
+      "title": "美国多家AI巨头对安全风险担忧升温 算力金属估值溢价回落",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03WW1oVnRiN01wQ1NHSGJXeW1BQk5YUjZrTlpWNldpM1QxRlYwZlBWMHZJQUxaZ2I1WDhpZnZJVEFjallmdmJsdUh2M2QxOXFOWEMw?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-15T23:30:48.000Z",
-      "summary": "AI巨头呼吁放缓AI模型提升节奏，机构认为国内算力需求持续增长。",
-      "summaryZh": ""
-    },
-    {
-      "title": "人形机器人的量产死结，被一家车企先解开了",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UNjhOc2RrMmE4WXJlYTRkR2JKeFN6T2txOFdNNWdRQjdOZGxLMy1pU2ZkVm5PQ0tsdGxSVmU2eHpkbjVrc1BhVW9aa2FkVzJsc1pQbTVNYw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-15T09:14:38.000Z",
-      "summary": "小鹏汽车率先实现人形机器人自动化量产。",
+      "pubDate": "2026-09-15T23:40:50.000Z",
+      "summary": "美国AI巨头担忧安全风险，算力金属价格下跌。",
       "summaryZh": ""
     },
     {
@@ -167,8 +139,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-15T18:33:02.000Z",
-      "summary": "Agility推出新型人形机器人，可自主停顿蹲下避免伤害人类同事。",
-      "summaryZh": ""
+      "summary": "Agility发布首款人形机器人Digit 5，可安全与人共处工作环境。",
+      "summaryZh": "",
+      "titleZh": "Agility 的新型人形机器人会停下来、蹲下以避免伤害人类同事"
     },
     {
       "title": "Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe",
@@ -177,18 +150,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-15T15:22:30.000Z",
-      "summary": "Digit 5成为首个真正安全的类人形机器人工作者。",
-      "summaryZh": ""
-    },
-    {
-      "title": "“我确实懂AI”，黄仁勋活动现场接到特朗普电话，开免提后特朗普疯狂输出：机器人不会接管一切，AI不会接管整个世界，这一切都是骗局",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSUlOWWZDeF9ETTdRMl9LVmFMQ3g5S3J5X08tbnQ5WmFuWUkyb2NaaHA1SG9BRFBHcDJnYmJCNHRHR3Nka3ZLWDl2TllVWEVmWFpuUGRn?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-15T06:48:00.000Z",
-      "summary": "特朗普在活动中与黄仁勋通话，称AI不会接管世界，并称其为骗局。",
-      "summaryZh": ""
+      "summary": "Digit 5成首款真正安全的人形机器人工作者。",
+      "summaryZh": "",
+      "titleZh": "Digit 5 可能是第一个真正安全的人形机器人工人"
     },
     {
       "title": "AI入“景” 文旅向新",
@@ -197,7 +161,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-15T01:26:00.000Z",
-      "summary": "AI技术助力文旅行业创新，提升游客体验和服务水平。",
+      "summary": "AI技术助力文旅行业创新发展，提升游客体验和服务水平。",
       "summaryZh": ""
     },
     {
@@ -217,7 +181,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-15T07:41:54.000Z",
-      "summary": ""
+      "summary": "",
+      "titleZh": "Maven Robotics 获 1 亿美元融资，用于扩展通用工业机器人"
+    },
+    {
+      "title": "Luis Lamshoeft departs Majid Al Futtaim for Head of AI & Robotics Strategy role at Migros Supermarkt",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPajU4U2VyYVpYYjZvSE9NVDUxUlY0eXR6QUM1S3dkWWN6akVqai1hOWRmS2tFejY4aVFBTy1MRXpfR0V0VEw4S2xqUVZxVFA2TUY3alBRelVoaHc2czdHb0I1alVEMTYtWWFYUVVTZmQzZjBDV19rc1M0YVFMUkhxVnFnMTBJMzMwdXpFeGplSFZkeXViRXg3WGZ2dHlVN2dwNkxqQlI2aEkyTE0zNi1tUk9sd3ZabHZtY3ZIZTVJc3BOdkdFcVlaMW4tcDA4UmJkalJrVUNUc1VwRlhjaHQtUzdWOXRiS200?oc=5",
+      "source": "Retail Tech Innovation Hub",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-15T04:38:43.000Z",
+      "summary": "Luis Lamshoeft从Majid Al Futtaim离职，加入Migros Supermarkt担任AI与机器人战略负责人。",
+      "summaryZh": "",
+      "titleZh": "Luis Lamshoeft 离开 Majid Al Futtaim，出任 Migros Supermarkt 人工智能和机器人战略主管"
     }
   ]
 }
