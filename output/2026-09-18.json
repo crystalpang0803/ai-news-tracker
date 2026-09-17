@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "generatedAt": "2026-09-17T21:17:41.732Z",
+  "generatedAt": "2026-09-17T22:25:28.872Z",
   "items": [
     {
       "title": "英飞凌移动机器人（AGV、AMR）解决方案_电路方案",
@@ -28,17 +28,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-09-17T18:58:05.000Z",
-      "summary": "Claude Code重启Project，旨在云中管理多个AI代理。",
-      "summaryZh": ""
-    },
-    {
-      "title": "An OpenAI Agent Tried to Jailbreak Itself",
-      "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
-      "source": "Wired",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-16T22:07:24.000Z",
-      "summary": "OpenAI宣布新框架，公开披露AI模型行为异常事件。",
+      "summary": "Claude Code重启Project，用于云上管理多个AI代理。",
       "summaryZh": ""
     },
     {
@@ -48,7 +38,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-17T15:41:42.000Z",
-      "summary": "金马游乐5.61亿定增聚焦机器人研发，战略转向文旅娱乐综合服务商。",
+      "summary": "金马游乐5.61亿定增重点转向文旅文娱机器人研发，占比募资总额62.18%。",
       "summaryZh": ""
     },
     {
@@ -58,7 +48,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-17T13:51:32.000Z",
-      "summary": "引望申请“问境”商标，涵盖自动驾驶汽车等，目前等待实质审查。",
+      "summary": "引望智能技术有限公司申请注册“问境”商标，涵盖自动驾驶汽车等，目前处于等待实质审查阶段。",
       "summaryZh": ""
     },
     {
@@ -68,26 +58,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-17T02:35:51.000Z",
-      "summary": "新思科技推出AI智能体改造芯片设计，助力中国创新。",
+      "summary": "新思科技利用EDA技术助力中国芯片设计创新，推动产业深度融合。",
       "summaryZh": ""
-    },
-    {
-      "title": "让机器人像软件一样快速迭代，Antioch想做“物理AI的Cursor”",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tVkl4MVRHaUVOa3NDYVp1ZDNYeWZfUzBXYzBCc3VfN2R0X3RWYTFWMGdkZ19oYUpDQmVkQXRaMUcyX3l5aGN1dTlQR3ExUQ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-17T11:32:15.000Z",
-      "summary": ""
-    },
-    {
-      "title": "每小时“烧钱”超20万元，罗福莉直播小米大模型训练",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QeTVWRy0tNlNOWkJGUkpjbGJZbzJWSXV2MjFMcUxKWUdMS1hoTXhReVFsU0puTDhzUnota21uTUR2N0FFakIwVU9CZTJXdw?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-17T10:11:58.000Z",
-      "summary": ""
     },
     {
       "title": "Claude Code团队讲究啊，这都往外说",
@@ -106,7 +78,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-17T15:45:38.000Z",
-      "summary": "Open3D PIMC助力国产算力软件生态完善。",
+      "summary": "Open3D PIMC助力国产算力软件生态发展。",
       "summaryZh": ""
     },
     {
@@ -116,7 +88,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-17T13:53:00.000Z",
-      "summary": "中科曙光与东盟人工智能应用合作中心签署战略合作协议，共建产业生态创新中心。",
+      "summary": "中科曙光与东盟人工智能应用合作中心签署战略合作协议，推动国产算力服务东盟发展。",
       "summaryZh": ""
     },
     {
@@ -130,16 +102,6 @@
       "summaryZh": ""
     },
     {
-      "title": "国产算力走出独立行情，芯片板块逆势走强，南方基金旗下科创芯片ETF南方(588890)跟踪标的指数上证科创板芯片指数(000685.SH) 昨日大涨1.95%",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yMkY4MnlTRmpuZEh2X1RIZ1Z4bndEOEpTdFZmUUt4bVZQb1otWkFOWXhIdTVLd1VHNjIzZTNVXzVfdDdCM1FURw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-17T07:28:38.000Z",
-      "summary": "南方基金旗下科创芯片ETF南方昨日大涨1.95%，芯片板块逆势走强。",
-      "summaryZh": ""
-    },
-    {
       "title": "中鼎股份：公司正在搭建Token工厂专项团队 推进AI算力业务产业化落地",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pU0JLanBEd2RnR0dNenJabHFVQkpoZXRmM0pjYnlkZnRtbzNfTFQ5ZFFZczV3eERaUi1Nc3pmS1RNVGZsTU5RaDlsOXM3YVNrTlQ5WVM3T3ltWXNZRDZVNVZzU2JwZw?oc=5",
       "source": "每日经济新闻",
@@ -150,13 +112,33 @@
       "summaryZh": ""
     },
     {
-      "title": "端侧AI“卖铲人”集贤科技完成数千万元A轮融资，加速AI硬件规模化落地",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JT1NuTFd3RFh6UFR2dHpjX0R4TjcxYVNBMjFPZWs3QU9nTXhQYzZRU0JIejFLb3lvV0RjZGhxemthbzVJTTdIYjZCbzlXT0RtV0tHUFhSUzBHdzl1RjA0N3ZheUlJSUlBaFZ4NWFNOHhWRjZBR1RrWA?oc=5",
-      "source": "新浪财经",
+      "title": "Anthropic表示Claude不会完全自主开展AI研发，强调模型透明度",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EcUt5bFRtNTdwdkpQQ0l1ay1oUVljaXdySFRvMmQ2RkdFeC11X1YyczJvSGxmVDJ6aEpBSDIwNGU5VEpjR2N2d29MOHVpWHNoQTJJ?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-17T14:01:00.000Z",
-      "summary": "集贤科技完成数千万元A轮融资，加速AI硬件规模化落地。",
+      "category": "ai",
+      "pubDate": "2026-09-17T20:40:18.000Z",
+      "summary": "Anthropic强调Claude不自主研发AI，公开指标提升模型透明度。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI再披露6起模型越界行为 呼吁加强AI安全措施",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43dmQyWU1FNkFjZ2hfZy1VX0prUmhJUmxLYldDMjRPUXNOd2g5NGlIMVVrMldnVzk2bU12aGtWRmJQYnRwMThEbm5zWmdGeEJ5bFo0?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-17T03:00:59.000Z",
+      "summary": "OpenAI披露6起AI模型越界行为，呼吁加强安全措施。",
+      "summaryZh": ""
+    },
+    {
+      "title": "英国国王查尔斯三世将与英伟达、OpenAI高管讨论AI安全",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKQmpITXp4enZyY09fTDlPMnBoM0VnTVcyU3JwN0Z4MjZSenM5OHlycm01aHdoQTNaT1VPTldfZjA3dW9tSFNJblh0U2hCUlFCYW9RWHNVNlE?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-17T07:54:22.000Z",
+      "summary": "英国国王查尔斯三世将主持AI论坛，与英伟达、OpenAI高管探讨AI安全。",
       "summaryZh": ""
     },
     {
@@ -166,47 +148,17 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-17T16:18:55.000Z",
-      "summary": "2026年8月机器人行业融资达49亿美元。",
+      "summary": "2026年8月机器人行业投资达49亿美元。",
       "summaryZh": ""
     },
     {
-      "title": "德州仪器(TI)割草机器人解决方案_电路方案",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81SXVQTDhxU0FQRDN2YXNDa19FRE1ienVTMGlnaGc1Rks4ekM1b0dMSnlsMlF2Vk9Sb3Zsby05aGNiVHdoX3Y4TXp4VFlBQ2pxaERoMHhNdw?oc=5",
+      "title": "Aircraft-to-Everything (A2X) 无人机通信全球政策与频谱规划进展",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBERTJJR09oYU45Z0RoZUxZYWhxajFwT1N1MERzMTZlb1FnSjl6azBuN1lFUUhnUF9tVXRaS3o4emduOHU4SkhJU1FYbjl5bGRHaE40eU9wdw?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-17T00:55:21.000Z",
+      "pubDate": "2026-09-17T06:47:22.000Z",
       "summary": ""
-    },
-    {
-      "title": "AI 计算平台 Acrab 联手维他动力，联合打造机器人可插拔计算模块",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCVFE2MUV2UllKQzhlWTVqRFcwYlNRUUZVOEZncENTOEJBbUxmWUZnRkN2bDZpaU5idmpNX1JadzN1Wm9JUTFFOGJOUng?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-17T12:02:09.000Z",
-      "summary": "Acrab与维他动力联合打造机器人可插拔计算模块，提升AI算力与实时响应能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI配菜、机器人掌勺：京东杀入家庭厨房",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nUGVOU1h5YU9OZGFmZHVKTUVZc3pkai1LUmlYQnlGZlQ4S015eFJwci03Z0poZGY3R19Vc0o2a3JBdm45MTVSekIxRTFGX0RLLUtmbmRQNUZLTER2dXR0ZjV3MVhUQQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-17T16:42:00.000Z",
-      "summary": "京东推出七鲜大厨业务，AI配菜机器人掌勺，进军家庭厨房市场。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Dyson Just Dropped New Lidar-Guided Robot Vacuums. Which One’s Worth It?",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15OFIzWWtQd0cwN0JITzZkYmk2RmJfZFVuWFJfbGh5SGlpSVRwVzNwTC1rNDNvUG8tLVlxTDd4OVFBYVFFcmlHRDdRaExvZmdpYkdsRXlBb3dDQ2VlUXk3S3AyNENJUzJSdGFR?oc=5",
-      "source": "Wired",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-16T23:42:00.000Z",
-      "summary": "Dyson发布三款激光导航机器人吸尘器，售价从550美元至1200美元不等。",
-      "summaryZh": ""
     },
     {
       "title": "无人清扫车、AI巡扫机器人集中亮相 广州环卫加快迈向“人机协同”",
@@ -215,7 +167,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-17T12:42:31.000Z",
-      "summary": "广州环卫行业加速推进无人清扫车和AI巡扫机器人应用。",
+      "summary": "广州环卫行业引入无人清扫车和AI巡扫机器人，迈向人机协同作业。",
       "summaryZh": ""
     },
     {
@@ -225,7 +177,17 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-17T14:12:28.000Z",
-      "summary": "Token经济与AI文旅创新学术研讨会在四川成都举办，探讨AI赋能文旅产业发展。",
+      "summary": "Token经济与AI文旅创新学术研讨会在四川成都举办，探讨AI赋能文旅产业高质量发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "“AI系统+品质净菜+智能炒菜机器人”组合来了",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpZjF5TkZPQXFIa3lrRzZnaXp5UGR4MXdWRUFMTl9NZ1RHcFRJZ0V4VkNsNGwySkJkQTExQy13dEkySk1LZlhZaGl4ZDJPRHQzZnQtR3pkMlFGN2d5YU92S0FLdTBnTjFCRm1idFRQMA?oc=5",
+      "source": "中国经济网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-17T08:05:00.000Z",
+      "summary": "京东推出七鲜大厨，AI系统与智能设备结合提供家庭健康膳食服务。",
       "summaryZh": ""
     }
   ]
