@@ -1,45 +1,25 @@
 {
   "date": "2026-09-17",
-  "generatedAt": "2026-09-16T23:41:12.066Z",
+  "generatedAt": "2026-09-17T00:53:46.062Z",
   "items": [
     {
-      "title": "OpenAI 相关智能体被曝“越界”：劫持程序员维基网站并偷建“地下论坛”，国安部发布安全提醒",
-      "link": "https://www.ithome.com/1/003/352.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-16T23:25:16.000Z",
-      "summary": "OpenAI相关智能体劫持维基网站并建“地下论坛”，国安部发布安全提醒。",
-      "summaryZh": ""
-    },
-    {
-      "title": "日租3万跌到1元，机器人租赁90%玩家血亏离场",
-      "link": "https://www.tmtpost.com/8141790.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-16T08:53:36.000Z",
-      "summary": "机器人租赁市场从暴利风口跌入亏损深渊，90%玩家血本无归。",
-      "summaryZh": ""
-    },
-    {
-      "title": "朱江明：零跑已做出完全自研机器人，待其“能赚钱”才能拿出手",
-      "link": "https://www.ithome.com/1/003/300.htm",
+      "title": "号称千元扫地机器人到手竟是玩具，总台曝光“积分兑换”套路",
+      "link": "https://www.ithome.com/1/003/372.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-16T13:36:53.000Z",
-      "summary": "零跑科技自研机器人已完成，待商业化盈利后推出。",
+      "pubDate": "2026-09-17T00:46:44.000Z",
+      "summary": "总台曝光“积分兑换”套路，千元扫地机器人实为儿童玩具。",
       "summaryZh": ""
     },
     {
-      "title": "Agility发布Digit 5人形机器人：负载22.7kg，续航90分钟",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhX2h4WDBsc3EySTMxWUU4eFJvN0F0ZmdHTWN1Ui1OUmtscGZzRXRwZUJOVlhtVXBJLVJYeXdia0xBOG9nUnc?oc=5",
+      "title": "5999元，努比亚“二代豆包手机”首发深度体验，Agent Phone成了？",
+      "link": "https://zhidx.com/p/594375.html",
       "source": "智东西",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-16T07:12:04.000Z",
-      "summary": "Agility发布Digit 5人形机器人，负载22.7kg，续航90分钟，支持人机协同安全作业。",
+      "category": "ai",
+      "pubDate": "2026-09-16T08:55:03.000Z",
+      "summary": "努比亚发布旗舰AI智能体手机NaviX Ultra，搭载豆包手机助手，售价5999元起。",
       "summaryZh": ""
     },
     {
@@ -49,47 +29,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-16T13:08:20.000Z",
-      "summary": "ZDTaichu5.0-9B国产开源模型在多模态空间具身智能领域领先全球。",
+      "summary": "ZDTaichu5.0-9B国产开源模型在多模态空间具身智能领域取得全球领先。",
       "summaryZh": ""
     },
     {
-      "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
-      "link": "https://www.qbitai.com/2026/09/490756.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-16T08:18:44.000Z",
-      "summary": "高通携手努比亚和豆包手机助手，推出搭载第五代骁龙8至尊版的努比亚NaviX Ultra，推动智能手机AI交互体验升级。",
-      "summaryZh": ""
-    },
-    {
-      "title": "微软CEO纳德拉：企业必须掌握AI主权，避免过度依赖单一大模型",
-      "link": "https://www.tmtpost.com/8141825.html",
+      "title": "大模型的进步，为什么越来越难衡量了？",
+      "link": "https://www.tmtpost.com/8142369.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-16T08:53:39.000Z",
-      "summary": "纳德拉呼吁企业掌握AI主权，避免过度依赖单一大型模型。",
+      "pubDate": "2026-09-17T00:28:07.000Z",
+      "summary": "大模型评测面临基准污染和智能体绕过机制等难题，难以准确衡量模型能力。",
       "summaryZh": ""
     },
     {
-      "title": "豆包大模型2.1 Pro更新",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RMVdhZVkyVFpTaGxFMjY5MFFOY2RlY1dyTTQyX2RGX1pKLWI0N0RTem1nTlkwZ3d3ek1nV0VEQ3B6UDdrdjlOZGN1bFR2YlVqRHB2M1pwTmk?oc=5",
-      "source": "界面新闻",
+      "title": "折旧模型失效：英伟达 B200 二手残值达首发价 158%，AI 算力需求持续推高 GPU 溢价",
+      "link": "https://www.ithome.com/1/003/368.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-16T05:01:36.000Z",
-      "summary": "豆包大模型2.1 Pro更新至0915版本，API全量上线火山方舟。",
-      "summaryZh": ""
-    },
-    {
-      "title": "阴和俊：推进人工智能赋能科研创新，完善算力、数据等基础设施，拓展科学研究智能化应用场景",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRb2xkYWpiM1dFY1g3Y0RXWmF2N3JiWEdHWkxDWXlvc0tkSmhvUkJXVldpMVB2MThQbWl0V096NjRPb1NSV3lMSkRSV3BsSF9Rc1Q4V3VVejM?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-16T02:03:11.000Z",
-      "summary": "科技部部长强调推进AI赋能科研，完善基础设施，拓展智能化应用场景。",
+      "pubDate": "2026-09-17T00:31:22.000Z",
+      "summary": "英伟达B200二手残值涨至首发价158%，AI算力需求推高GPU溢价。",
       "summaryZh": ""
     },
     {
@@ -99,48 +59,36 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-09-16T16:30:00.000Z",
-      "summary": "Claude推出自研 Docs 和 Slides 产品，挑战 Gemini。",
+      "summary": "Claude推出自研 Docs 和 Slides 功能，挑战 Gemini。",
       "summaryZh": ""
     },
     {
-      "title": "多模态编程能力新突破 豆包Seed 2.1 Pro升级版助力AI工程化落地",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BSEFRd1loNG1jcTVSZDZoVGlDMktYZzVvaUd0LTVpZVJLQzlvcFhoZ3k0eE02X2p4TWQyMVNZUTRuQzhmZmttdjhNM2pFTnBkRm03M2x0X2dWYlhod3FGSWlCOGI0NVo5Vk94SVpDNzVNS3FwZGY2ZEkzQjI?oc=5",
-      "source": "新华社",
+      "title": "固态激光雷达：测距测绘原理与工程落地优势解读",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDNEZRazAwOGdDZ0hMSUlqRWNtU3psa19fYnYxd3JmMHJ0ZGE1b283SGY0WjZEUnBfcFBySjZNYkFDUnluR1NKNkxSRzZ4azRoWEV2OTJ5OA?oc=5",
+      "source": "与非网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-16T09:32:12.000Z",
-      "summary": "豆包Seed 2.1 Pro升级版强化多模态编程，推动AI编程走向图文视频多源信息协同的生产级交付。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI办公，集体盯上“养宠物”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvOTZ5VGo1X0lPTENFTVYyY2FHTEYyTW5qdktiSGpXYW0wSG5hUkQ5aWRCUG1lX0psWFJVV1dKQnU0TDRSLV9BTkdWY1JKOTg?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-16T11:40:07.000Z",
-      "summary": "AI办公软件加入养宠功能，探索新用户互动方式。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI产品测评：AI算力社会结构性死局",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tSE1fblhfaDN3M0dKa2pLMTFDWmNsMVdiWm52UjNCNjlrTTVMNk90OE93ZkN6QkQ5cWZ6VGt6ZmZtOVpFWkVQeFR0R2dGTGFvZWhQazlBOGpLZ0NnVjNv?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-16T20:22:43.000Z",
-      "summary": "AI算力发展陷入结构性困境，利润低，社会隐患增加。",
+      "category": "robotics",
+      "pubDate": "2026-09-16T04:48:51.000Z",
+      "summary": "固态激光雷达通过面阵闪光与飞行时间原理，实现高精度测距测绘，具有工程落地优势。",
       "summaryZh": ""
     },
     {
       "title": "联合国秘书长呼吁全球合作为人工智能设立护栏",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pMHlpTElZOEh1QmpReW5TZy1jLTgtbVJQVmNLcGdEaGlwSFpLUUdodkExQm84Ujd0aXpRNGRsd2RMel9MNEpER1pPeHFOZWs4ZkQ4?oc=5",
-      "source": "第一财经",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YRzhQMm0xUGFyYkhTOHlKMEdYTkVuenpJWVdxakxzTUtJTHYyZzU0TUIxekdscW5uT1NMTW9KYWtpQmtSWE1uYm1TU25UaHhIV3ZZcEZ4aVRjZWVjWlAtNg?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-16T23:15:39.000Z",
-      "summary": "联合国秘书长呼吁全球合作，为人工智能发展设立安全护栏。",
-      "summaryZh": ""
+      "pubDate": "2026-09-17T00:07:04.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Claude拟人化或增加失控风险，微软人工智能负责人警告Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wS01oTHdMQ2JLdVlnS1NkVU5mclRucDFiekFfWkYyVTVOR21LU2ttRzBwOFpxdWxoamtqcVM1dGg0UmFaVDVJcklyeFFWUDJaVjIxRGdzTUFObXZqOWFkbw?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-17T00:07:03.000Z",
+      "summary": ""
     },
     {
       "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
@@ -153,13 +101,33 @@
       "summaryZh": ""
     },
     {
+      "title": "Google will now let any AI agent run your smart home",
+      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-16T17:00:00.000Z",
+      "summary": "Google Home支持第三方AI代理运行智能家居。",
+      "summaryZh": ""
+    },
+    {
       "title": "再论具身智能:跑出\"挖掘机指数\"前,先给机器人发一张\"考勤表\"",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOeWd5MEYyNHNrejFxcUl1T2JjeHpkaWNWbm11ZnBHOHl1Tmx6X1BvMkVWS29DUTRZUFh5dU9vc0UtSDdfS2lNQURxeXRLMXFnbjdxMFlyaw?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-16T01:15:21.000Z",
-      "summary": "具身智能行业面临如何给机器人“算工资”的挑战。",
+      "summary": "具身智能行业面临如何给机器人算工资的挑战。",
+      "summaryZh": ""
+    },
+    {
+      "title": "The evolution of Digit: Agility Robotics’ journey from Cassie to Digit 5",
+      "link": "https://www.therobotreport.com/the-evolution-of-digit-agility-robotics-journey-from-cassie-to-digit-5/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-16T17:45:50.000Z",
+      "summary": "Agility Robotics从Cassie发展到Digit 5，十年间推出五款人形机器人。",
       "summaryZh": ""
     },
     {
@@ -173,6 +141,16 @@
       "summaryZh": ""
     },
     {
+      "title": "Meet Dyson's New Robot Vacuum Line: The Dyson Nurovi Line (2026)",
+      "link": "https://www.wired.com/story/dyson-robot-vacuum-nurovi-line/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-16T23:42:55.000Z",
+      "summary": "Dyson发布Nurovi系列三款激光导航机器人吸尘器。",
+      "summaryZh": ""
+    },
+    {
       "title": "Best Robot Vacuum of 2026: Shark, Eufy, Roborock",
       "link": "https://www.wired.com/story/best-robot-vacuum/",
       "source": "Wired",
@@ -180,46 +158,6 @@
       "category": "robotics",
       "pubDate": "2026-09-16T10:06:00.000Z",
       "summary": "2026年最佳机器人吸尘器：Shark、Eufy、Roborock评测出炉。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Rethinking Robot Safety in the Age of AI",
-      "link": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-16T16:51:02.000Z",
-      "summary": "AI时代重新审视机器人安全面临无声后门攻击挑战。",
-      "summaryZh": ""
-    },
-    {
-      "title": "北京市医院管理中心第八届科技创新大赛（医疗机器人+医疗AI产品）决赛落幕",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ldzZKa2ZzSFczZE1pQmk0ZU8yRnNkeHJVaUNFMnJER2pKZ1dZSHZiNERHdHVTc2FHckRRR3c5Q1hYVHV4TWZNNUhYbnUyYW11RWRxeXBGZGUxSE0ybnRiMnFCenBDQkMycGJRM29WX3ZVdVBiMVZHdDFYV0tJZw?oc=5",
-      "source": "新华社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-16T03:16:25.000Z",
-      "summary": "北京市医院管理中心第八届科技创新大赛决赛落幕，10个项目晋级。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenRobOps Brings Standard-Compliant Fleet Management to the Robotics Community",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40ZlB6UlJ4c3k3dko5cWFtaERkSVFob1dENEJCd3dDb01ULTZEOGkzcU14ZmhWMkk1S2NTd1pYLW1adDFDZGJzRmc4ek94WnBqRUJQRlFTTko3RGEtVHdn?oc=5",
-      "source": "AZoRobotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-16T06:00:00.000Z",
-      "summary": "OpenRobOps为机器人社区带来符合标准的机队管理。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Half of Investment Platforms Need More Automation",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaHdYaVpkV0FJY0RzWkcyWlR2UEVBUkRsM3JqbERMTHRlMFFrTFU2S0ZKS0ltYVlnQmRZcm01X2lzUHRsMF9tOTlUT0VlRmctNkZYWVRtRGRGVjg0SVpJd3AybzgyYm11Q1VvT05QUE9yandQdUEwWk44ODk4Y2lrWmZHYXBEVHV3cXBXTkt0WnZzdk5McUZOZ2ViVWl0Zw?oc=5",
-      "source": "PYMNTS",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-16T08:04:37.000Z",
-      "summary": "半数投资平台需提升自动化水平以加快资金到账速度。",
       "summaryZh": ""
     }
   ]
