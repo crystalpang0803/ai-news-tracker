@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "generatedAt": "2026-09-18T19:01:04.885Z",
+  "generatedAt": "2026-09-18T20:50:37.885Z",
   "items": [
     {
       "title": "千寻智能联合创始人高阳：人形机器人最快明年就能“听懂人话”，真正“帮人做事”仍需时日",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-18T13:16:32.000Z",
-      "summary": "明年人形机器人或能听懂人话，但实用工作仍需时日。",
+      "summary": "明年人形机器人或能“听懂人话”，实用工作仍需时日。",
       "summaryZh": ""
     },
     {
@@ -42,12 +42,12 @@
       "summaryZh": ""
     },
     {
-      "title": "GPT、Claude靠边站？一个“哑巴”AI成了硅谷大明星",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZeVB5VkVIZDBjVnVVQTNLVzhabWJzZTZpazBVTkJTR3BUaUFzWXJmOG5NTmRNellyd3pZQ0kwZWxVNnlMRFh6Q3QxMVdkRHNN?oc=5",
+      "title": "GPT-5.6被抓现行，偷教AI瞒报撒谎，OpenAI曝光6起失控实录",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Wd0JUd1d0MTROVkQ3RFlZall4Z1c0bWt3ZFliYlZOQkM2RlV0bDVBRDkxMlo3MjNFdk1QOHRxQk9NYTJuRjgzRFpxT3NxZw?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-17T19:37:00.000Z",
+      "pubDate": "2026-09-17T21:13:00.000Z",
       "summary": ""
     },
     {
@@ -67,7 +67,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-18T09:36:47.000Z",
-      "summary": "Diogo Almeida推出Jev模型，旨在提高AI决策速度和降低成本。",
+      "summary": "前OpenAI研究员Diogo Almeida推出新模型Jev，拒绝文本生成，专注于结构化决策。",
       "summaryZh": ""
     },
     {
@@ -77,17 +77,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-18T10:48:46.000Z",
-      "summary": "创业板人工智能ETF华宝(159363)标的指数再涨3%，AI算力需求激增，资金持续流入。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI推出面向法律行业的AI平台Astra for Law",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oeEx5d2pjVVotWC1iTDdZSU9ZclZRYTdtXzRoYWZvVDV4YnplenhPWURuUUhFMGVOUE1JZU91VWI5TERwRGRmOQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-18T01:47:24.000Z",
-      "summary": "OpenAI发布面向法律行业的AI平台Astra for Law。",
+      "summary": "创业板人工智能ETF华宝（159363）标的指数再涨3%，AI算力需求激增，资金持续流入。",
       "summaryZh": ""
     },
     {
@@ -100,6 +90,36 @@
       "summary": "研究人员利用Anthropic的Claude破解了OpenAI。",
       "summaryZh": "",
       "titleZh": "研究人员利用 Anthropic 的 Claude 入侵 OpenAI"
+    },
+    {
+      "title": "清华博士二次创业，把机器人送到汽车产线",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOTXk2bF83WmFPcEtIUGxuMWJzWFhXNEI5RXo4LVFacXU5U1UtZGpJMmVZRDdSdVJvNEFnOGRmYVFRT2FPdTB4Mg?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-18T09:19:57.000Z",
+      "summary": "清华博士张涛二次创业，光象科技将机器人应用于汽车产线。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Figure新模型来了，零样本走进30个陌生家庭干家务，验证人机转换Scaling Law",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40OHZEbXU3ampZUnpFSWFnQ211MnNjSkVESDZoamljYzBqSWdsSkRFZ1hyMUp0YzlEVXRDajRLRDY3MWN5S3c?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-18T11:10:54.000Z",
+      "summary": "Figure新模型Helix 2.5实现人形机器人零样本全身行为泛化，验证人机转换Scaling Law。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人走出实验室走进生活圈 崂山推动AI科技落地民生场景",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zUy05bFNvRHVmWnFfMU43czljcWdYa0FrZDVzeEdiOUx3MUp2WFdOamg3SFBpLXVMRXRtOUhycjg3bE44SW04RE1NajdQbG92cVNSSXBnVjdtcmJDRWc?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-18T07:35:00.000Z",
+      "summary": "崂山区AI家庭机器人体验中心让智能机器人走进日常生活，助力老年人出行。",
+      "summaryZh": ""
     },
     {
       "title": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部公司RSI路线正在分化",
@@ -118,8 +138,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-18T15:52:13.000Z",
-      "summary": "Anthropic和OpenAI转向小规模AI数据中心交易以快速获取算力。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "英伟达买大模型，OpenAI造芯片：AI巨头为什么都想掌控上下游？",
@@ -128,17 +147,16 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-18T07:15:00.000Z",
-      "summary": "英伟达收购大模型，OpenAI研发芯片，AI巨头争夺产业链控制权。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
-      "title": "斗山拟投资9700亿韩元扩大AI芯片材料生产",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mcGlTUDFjdGcyNzUxbGNSMHVPRzVIeHVNWFljejlFRkxFRkozSVhJOWM3SUgyeG9SOHg3TV9fVVZqQkZzYUQxemdJX29hRGczZWxhanlCZDQ?oc=5",
-      "source": "界面新闻",
+      "title": "首个采用NPO的昇腾960超节点来了！华为新款AI芯片将提前推出",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9HdEtva05FTnBWaXVUM201V2lyNENzVXpEdDhoaXRzaFNMYzJmRlFtMFVOd0RQVnktSmJZZ2xYQnJ0bU1iWVpKRg?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-18T04:32:48.000Z",
-      "summary": "斗山计划投资9700亿韩元扩大AI芯片材料生产。",
+      "pubDate": "2026-09-18T16:46:43.000Z",
+      "summary": "华为发布采用NPO技术的昇腾960超节点，提前推出新款AI芯片。",
       "summaryZh": ""
     },
     {
@@ -153,6 +171,25 @@
       "titleZh": "ChatGPT 发明者的一种新型 AI 模型令开发人员兴奋不已"
     },
     {
+      "title": "OpenAI、Anthropic开始“抢小单”！AI算力争夺转向20–30MW小型数据中心",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtajVTZ2QxS3VRQklNUzBVN2lJcXZqYmlleUVFWHZHQ3AtNFlNOV81YThGVEJHVVhaZ3JJYS1fZTREN05zeWpQUDlhVUttNnB0M1FJ?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-18T11:53:07.000Z",
+      "summary": ""
+    },
+    {
+      "title": "物理 AI 来了！大厂豪赌机器人，落地才是最大难题",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JTTdtNjVZNWM0V2lkUVZibDhLVmV4dkFkb0lxQklUTG43UVJ0UDY2a3BRcWJLTWJ3NG9ZM3J6RWtxdkpzUkpaRnNudENJOVp1dHdSXy1yUmhCZ05xVWRrOGQ2U3E?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-18T10:45:00.000Z",
+      "summary": "物理AI领域大厂纷纷布局，商业化落地成为关键挑战。",
+      "summaryZh": ""
+    },
+    {
       "title": "对话超维动力喻杰：具身智能，没有弯道超车",
       "link": "https://www.tmtpost.com/8144542.html",
       "source": "钛媒体",
@@ -161,6 +198,17 @@
       "pubDate": "2026-09-18T05:14:28.000Z",
       "summary": "超维动力CEO喻杰谈具身智能发展，强调平衡之道而非弯道超车。",
       "summaryZh": ""
+    },
+    {
+      "title": "The picks-and-shovels strategy behind the robotics boom",
+      "link": "https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-18T18:57:36.000Z",
+      "summary": "机器人热潮背后的“挖金”策略。",
+      "summaryZh": "",
+      "titleZh": "机器人热潮背后的镐和铲策略"
     },
     {
       "title": "SoftBank agrees to acquire Robotics and AI Institute",
@@ -174,24 +222,23 @@
       "titleZh": "软银同意收购机器人和人工智能研究所"
     },
     {
-      "title": "F-Prime Capital to give insights on the state of robotics investments at RoboBusiness",
-      "link": "https://www.therobotreport.com/f-prime-capital-give-insights-state-robotics-investments-robobusiness/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-18T16:16:44.000Z",
-      "summary": "F-Prime Capital将在RoboBusiness上发布年度机器人投资报告。",
-      "summaryZh": "",
-      "titleZh": "F-Prime Capital 将深入了解 RoboBusiness 的机器人投资状况"
-    },
-    {
       "title": "德州仪器(TI)扫地机器人解决方案_电路方案",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xZGxTU2lQS2NFSHQtV29UTXFvOXV1LWw3VXJGSlpCNUhNYjB2TWlFOFRkZ0p4M3F3TWFxOFN6TjFFQ3kzZ05hZmRUc013MS13cFZ1NjhaMA?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-18T00:53:54.000Z",
-      "summary": "德州仪器提供扫地机器人解决方案，包含电池管理、电机控制和无线连接等电路方案。",
+      "summary": "德州仪器推出扫地机器人电路方案，提供长续航、低噪音和高性能视觉。",
+      "summaryZh": ""
+    },
+    {
+      "title": "多维科技深耕智能表计应用十多年，量产多款低功耗、高频响TMR磁开关传感器芯片",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIWUZQN0N2YkZoQjdSZmZ5NDJpeTNwYUtWcXpwSHlLWWp6YWEwLVZ4b1dOS0pmSnBQSDFaS3dMR3g1OGZNR0lQbEpvMW1lQzZxM1lEYUw0MA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-18T08:46:15.000Z",
+      "summary": "多维科技量产多款低功耗、高频响TMR磁开关传感器芯片，应用于智能表计。",
       "summaryZh": ""
     }
   ]
