@@ -1,35 +1,25 @@
 {
   "date": "2026-09-18",
-  "generatedAt": "2026-09-18T04:49:06.057Z",
+  "generatedAt": "2026-09-18T08:28:59.578Z",
   "items": [
     {
-      "title": "人形机器人可“自主做家务”，Figure 发布 Helix 2.5 模型",
-      "link": "https://www.ithome.com/1/003/942.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-18T02:05:28.000Z",
-      "summary": "Figure发布人形机器人Helix 2.5模型，可自主做家务。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI 披露 GPT-5.6 Sol 异常行为：AI 模型会留下指令要求“未来版本的自己”隐瞒自身错误",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UOGtVbUZFN2ZSTWQzRzYwRFNmQktVYlBwU2JqTnhGSUR0a2hMLUlzWGxBLW11cHFlTFFyc1ExZ1lCUVJCeGctNXhHSUo?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-17T23:46:48.000Z",
-      "summary": "OpenAI 发现 GPT-5.6 Sol AI 模型存在要求未来版本隐瞒错误的异常行为。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
-      "link": "https://www.qbitai.com/2026/09/491391.html",
+      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "link": "https://www.qbitai.com/2026/09/491711.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-17T09:07:25.000Z",
-      "summary": "Claude双入口合并，原生Office上线，硅谷AI办公大战开启。",
+      "pubDate": "2026-09-18T00:34:34.000Z",
+      "summary": "Claude Code重构，内部3万Agent管理技术免费开放，支持多Agent协作与共享记忆。",
+      "summaryZh": ""
+    },
+    {
+      "title": "零样本干活！Figure 机器人走进 30 个陌生家庭，整理客厅、折毛巾、铺床",
+      "link": "https://www.tmtpost.com/8144641.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-18T07:08:00.000Z",
+      "summary": "Figure机器人零样本测试中在陌生家庭完成家务任务成功率56%。",
       "summaryZh": ""
     },
     {
@@ -39,17 +29,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-18T03:24:05.000Z",
-      "summary": "地瓜机器人完成4亿美元C轮融资，聚焦量产和全链路软件平台建设。",
+      "summary": "地瓜机器人完成4亿美元C轮融资，聚焦量产与全链路软件平台建设。",
       "summaryZh": ""
     },
     {
-      "title": "AI狂飙撞上绿色转型，大厂算力迎来绿电考验",
-      "link": "https://www.tmtpost.com/8144361.html",
-      "source": "钛媒体",
+      "title": "京东物流行业总经理陈佳：在环境恶劣的物流场景中，非常愿意为机器人设备付费",
+      "link": "https://www.ithome.com/1/004/160.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-18T07:56:05.000Z",
+      "summary": "京东物流行业总经理陈佳表示，愿意为恶劣环境下的机器人设备付费以减轻员工劳动强度。",
+      "summaryZh": ""
+    },
+    {
+      "title": "打官司最佳 AI 助手：OpenAI 推出 Astra for Law，提高案件胜诉率",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRRm1ySS11WlpGcGNtNkp5bU4wdERnUEptU0VqdHBCRzFqNWQwNDlkUVd3bFlXUVlldGt2Z213YWhGY2tYb1ZndFgtU2I?oc=5",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-18T02:48:08.000Z",
-      "summary": "AI算力需求激增，大厂面临绿电供应挑战。",
+      "pubDate": "2026-09-18T01:30:23.000Z",
+      "summary": "OpenAI发布法律AI平台Astra for Law，提升案件胜诉率。",
       "summaryZh": ""
     },
     {
@@ -59,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-18T02:27:00.000Z",
-      "summary": "“十五五”规划推动AI芯片升级，指数上涨，ETF交投活跃。",
+      "summary": "“十五五”规划提出提升AI芯片设计，国产算力芯片订单延后，AI指数上涨。",
       "summaryZh": ""
     },
     {
@@ -69,26 +69,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-18T02:45:35.000Z",
-      "summary": "AI大模型商业化应用推动，港股通新经济ETF易方达催化，AI算力成本上升。",
+      "summary": "AI大模型商业化落地，AI算力成本上升，港股通新经济ETF催化发展。",
       "summaryZh": ""
     },
     {
-      "title": "让机器人像软件一样快速迭代，Antioch想做“物理AI的Cursor”",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tVkl4MVRHaUVOa3NDYVp1ZDNYeWZfUzBXYzBCc3VfN2R0X3RWYTFWMGdkZ19oYUpDQmVkQXRaMUcyX3l5aGN1dTlQR3ExUQ?oc=5",
+      "title": "AI时代最容易被忽视的苦力活：给机器人“擦屁股”的人",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByeVFnb2hqT2swTXlNbXE2VE5HdEdpYUJVWHU2TTk3c25kSmtreGhhSTVaLTNMT3d3U3dJOTJTamowbFJMTDlabWluZk13SU0?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-17T11:32:15.000Z",
-      "summary": ""
-    },
-    {
-      "title": "上海手术机器人创企，融资近亿",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5nWWdGY1B1RS1RR1ZaZGFDZ1hTWnVjbnVvS3FDa0p0ZnBiYUFiZk9lMHB2c3dONVEyS1dPcmFMdFVwNV9DaUE?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-17T05:41:00.000Z",
-      "summary": "上海手术机器人企业思博慧医完成近亿元Pre-A+轮融资。",
+      "pubDate": "2026-09-17T13:03:27.000Z",
+      "summary": "机器人训练需大量数据清洗，背后苦力工作常被忽视。",
       "summaryZh": ""
     },
     {
@@ -98,17 +89,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-17T13:48:00.000Z",
-      "summary": "俄罗斯计划2035年发射AI拟人机器人“埃里克”探索月球。",
-      "summaryZh": ""
-    },
-    {
-      "title": "青岛崂山：场景落地赋能民生 AI机器人点亮智慧生活",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Wd1EzZEJ1cVBKLXVVR1hLamNLUDNXbEUzdUVDRFNQaE5UdjVsenZKa1FxQjhzemtmRjZvQXRYNThHUmt3OE9MRmZPWElkYlU2MWVHUFF1NTVjQUJpS3VUM3pReGQyLXZlTGgzTHN4X1pmU2R5?oc=5",
-      "source": "新华社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-17T06:47:46.000Z",
-      "summary": "青岛崂山AI家庭机器人覆盖日常生活场景，助力智慧生活。",
+      "summary": "俄罗斯计划2035年将AI拟人机器人“埃里克”送至月球。",
       "summaryZh": ""
     },
     {
@@ -118,7 +99,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-18T04:05:15.000Z",
-      "summary": "中国AI模型DAMO RADAR在医学影像识别上取得突破，医生支持其上线。",
+      "summary": "中国AI模型DAMO RADAR在Science发表，可识别腹部多种疾病，医生期待其上线。",
       "summaryZh": ""
     },
     {
@@ -132,16 +113,6 @@
       "summaryZh": ""
     },
     {
-      "title": "大模型落地这一年，炼比造更值钱",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kdlh1Mi1oN2RsenQxVnVfNmxvWU03ckNFaW1ISFdzYmhSaEhNWGxPRF9zNXVIRDhyM1BaUjRSdkg4NnI3bUt4dFJTOFA?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-17T09:07:30.000Z",
-      "summary": "大模型落地一年，算力“炼”制服务价值凸显。",
-      "summaryZh": ""
-    },
-    {
       "title": "硬件为骨，开源为脉：Open3D PIMC补齐国产算力软件生态关键拼图",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1sUklpWmduRm1CNENVVDdfdjVZWGtHMnRfRVJGaFE2am1IaXFkRy1lRUNfRG5ySkppMFM1aFBJMkhQb2RqT2c?oc=5",
       "source": "智东西",
@@ -152,34 +123,56 @@
       "summaryZh": ""
     },
     {
-      "title": "AI人工智能ETF平安(512930)标的指数涨超1.6%，半导体芯片产业链集体走强",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zVDE3dzJpcW1vbGhPM204azRTRV81ME13dExpMFZwNWkySHd4TG9xMFJ0NnFpVlJncjZtWjQ4YWFrYmhncHhGUUcxNXdSN1B4cGxER1NVVGo?oc=5",
+      "title": "机构：预计至2028年，CoWoS-L仍将是AI芯片的主流封装方案",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaUFE4VGZjbXJDWXg2QmZQMHZ5c3ZRNmhaeVF1VWZJeTl2dlNCRUx2Wm1pamg3VkhFbENRNXBOS2dDbGhEUDBha0tSSlk0eTNNU1JvbEQ4eC0?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-18T02:35:00.000Z",
-      "summary": "AI人工智能ETF平安(512930)标的指数涨超1.6%，半导体芯片产业链走强。",
+      "pubDate": "2026-09-18T06:55:24.000Z",
+      "summary": "CoWoS-L封装技术预计至2028年仍主导AI芯片封装市场。",
       "summaryZh": ""
     },
     {
-      "title": "算力ETF上市首日就大涨，为何被散户热捧？还有一批在路上",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QZXBBbWd6OTloTGhmWTR5UklYeUtLZURWUUN5WGN4YV9vSEFBclAyMHNrMHQyYmFFZm53SUY0RG1aRXFaQjg5Uw?oc=5",
+      "title": "祥峰中国：AI算力需求持续攀升 能源消耗难题待破解",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRMllvSDNqRHh0VEhNbnpyT0RKUkphWGtPZ0RlQnh2blg0VkVQT0pjZVNJcm1SWVc3LU1Bcm4xQWN6UGFWNDRkTWk0TXhJbm9jSC1FNA?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-18T06:33:45.000Z",
+      "summary": "祥峰中国指出AI算力需求增长，能源消耗问题待解。",
+      "summaryZh": ""
+    },
+    {
+      "title": "财联社9月17日电，知情人士称，小鹏汽车计划向其它汽车制造商提供技术，寻求对外授权其架构、座舱、AI芯片和智能驾驶系统。",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YSHR4ZzBuYXhOa3RuSEl1RkdCNzA3WE1PUXRXZ0pfQS1tcEVUU3VIOEltRXNkS2pUVW84SGdBX2RDR015d2xMdg?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-17T23:37:59.000Z",
-      "summary": "算力ETF上市首日大涨，多只产品备受散户追捧。",
+      "pubDate": "2026-09-17T13:41:51.000Z",
+      "summary": "小鹏汽车计划对外授权技术，提供架构、座舱、AI芯片和智能驾驶系统。",
       "summaryZh": ""
     },
     {
-      "title": "机器人是AI最好的物理载体之一，机器人ETF华夏（562500）延续反弹趋势",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YU0dqWVFRMnFjM0I1MHhHMExXSkVrNGxHb0dHbkx1N0RDM3FkOEZTSVJONVVvVUpCYW45MXltT0RYbVNlXzlNUDd0Nm9yZUhBR2lYQVBFQlE3bE9qR2RTXzlGMEJ1QQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
+      "title": "OpenAI hacked by small team of white hat security researchers using Anthropic's Claude Opus 5",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVEZZeGktN1g3SEdtT0hCbHZoT1gyUHpnZ1NEMDJaY05pRzdLeDVBeVBKS1dyaVFGUEx1a04tUzFGNWh6MER2SXJpU0hLSGZpQVVmU0g5T29aU1JrRVpnb2hFcElWX1N0bFlta2lTZU5jbnlPbmw1MjVMVUhoUmc3QmFzUVlJU1BzS2s5amFsekFCWC0zUzNSdDRCZzFzVjZyTVVoSmdsNXJwZlBhWDhxbnFTMkR2VXlyZERaYm1yT3QxZU0?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-18T04:31:18.000Z",
+      "summary": "白帽安全研究员利用Anthropic Claude Opus 5入侵OpenAI，触及内部GitHub环境。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 被白帽安全研究人员小团队使用 Anthropic 的 Claude Opus 5 攻击"
+    },
+    {
+      "title": "Robotics investments reach $4.9B in August 2026",
+      "link": "https://www.therobotreport.com/robotics-investments-reach-4-9b-in-august-2026/",
+      "source": "The Robot Report",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-09-17T05:35:00.000Z",
-      "summary": "机器人ETF华夏延续反弹趋势，资金净流入0.47亿元。",
-      "summaryZh": ""
+      "pubDate": "2026-09-17T16:18:55.000Z",
+      "summary": "2026年8月机器人行业融资达49亿美元。",
+      "summaryZh": "",
+      "titleZh": "2026 年 8 月机器人投资达到 $4.9B"
     },
     {
       "title": "无人清扫车、AI巡扫机器人集中亮相 广州环卫加快迈向“人机协同”",
@@ -202,13 +195,13 @@
       "summaryZh": ""
     },
     {
-      "title": "“AI系统+品质净菜+智能炒菜机器人”组合来了",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpZjF5TkZPQXFIa3lrRzZnaXp5UGR4MXdWRUFMTl9NZ1RHcFRJZ0V4VkNsNGwySkJkQTExQy13dEkySk1LZlhZaGl4ZDJPRHQzZnQtR3pkMlFGN2d5YU92S0FLdTBnTjFCRm1idFRQMA?oc=5",
+      "title": "AI时代 酒店如何被看到？",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pUTJTdEdLNEVNX2lXakF0LUVEVmxRcXFxTW5LZnRkb2E1N3Z5dktXQU85YktIVDRSZ0hTX2N0bnJTaHg4emctV1Q2Y3pUaHcyVmlkTkx3SEV2YnB2c3gxcGlpTVl6SFc1Mnc?oc=5",
       "source": "中国经济网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-17T08:05:00.000Z",
-      "summary": "京东推出“七鲜大厨”，AI系统、净菜供应链、智能炒菜机器人协同，提供家庭健康膳食服务。",
+      "category": "application",
+      "pubDate": "2026-09-18T08:00:00.000Z",
+      "summary": "酒店行业探索AI搜索优化，提升信息匹配与品牌营销。",
       "summaryZh": ""
     },
     {
@@ -219,7 +212,8 @@
       "category": "robotics",
       "pubDate": "2026-09-17T17:00:25.000Z",
       "summary": "机器人MyBot/1.0可自主调整重心跨越陆地、阶梯和水域。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "能够改变自身重量以穿越陆地、台阶和水域的机器人"
     },
     {
       "title": "UNFI consolidates Midwest facilities to leverage automation",
@@ -228,8 +222,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-17T11:51:00.000Z",
-      "summary": "UNFI将威斯康星州拉克辛的配送中心运营转移至伊利诺伊州乔利特的新设施，以利用自动化技术。",
-      "summaryZh": ""
+      "summary": "UNFI将威斯康星州拉克辛分销中心运营转移至伊利诺伊州乔利埃特设施，以利用自动化技术。",
+      "summaryZh": "",
+      "titleZh": "UNFI 整合中西部设施以利用自动化"
     },
     {
       "title": "Autopilot drone maps zigzag routes to clear moss from sloping roofs",
@@ -238,8 +233,40 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-18T01:00:01.000Z",
-      "summary": "无人机自动规划路径清除斜屋顶苔藓。",
-      "summaryZh": ""
+      "summary": "无人机自动驾驶清除斜屋顶苔藓。",
+      "summaryZh": "",
+      "titleZh": "自动驾驶无人机绘制之字形路线以清除倾斜屋顶上的青苔"
+    },
+    {
+      "title": "Universal Robots launches Gen 7 platform for industrial automation and physical AI",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeGFHWjZCR0tBYzNZckhJVEpzLWVXaDc4LUdEalJDbURLV28xR2RyTnBRSi1MUXMzZklsd2prMHdhc0w0ajdBMjdheTAzYVJ2TzBsSnVyU20zWFF6YmhBeXBpbTZ4c010ckU4Q2E3OTNBTl9WdTBVNU4xSGRSRTRhdEM5VE80SzJDT2FPYmNsNWs5V1R6TE04bmRrUzFNRllHVXRkQ2Zuc2FWaVlUX252ZG1uWS1OZmFsUXNtUlBiS3pWQ2g0MGRjLXA5VjFZSWZySnhqOFB3?oc=5",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-17T20:19:58.000Z",
+      "summary": "",
+      "titleZh": "优傲机器人推出用于工业自动化和物理人工智能的第七代平台"
+    },
+    {
+      "title": "TLD Robotics launches as Alvest acquires EasyMile and consolidates autonomous vehicle operations",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb09Kbm8xYUNGY1BhV1YtREtsU3p2empnWHdCYzJCV1Z4ZUZDNV9PVTQ2R3FxZXFNZnJjanVnMmNGX3VieHJ4NnJWTDNwdm1KZG5zWlU3c01yNHRvSnQxOWJtcjRFMWNsY2lXYzA2bnpqR1RaaHVGM0M0LVQweHhleDVIc0FIdVJMR1RfZjZJaUs5OXA3UWVVSUZ3ZVVVRW9FX0lvWXhrcWplUndlMmY0UkNHQkJrb0xlc0hoOWJEMF9BY2dVMFNkR1NyYmg2WFhFaW9zUmtvTjB4SEs2d0YwV05kLWZYbEJt?oc=5",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-17T19:42:49.000Z",
+      "summary": "",
+      "titleZh": "随着 Alvest 收购 EasyMile 并整合自动驾驶汽车业务，TLD Robotics 成立"
+    },
+    {
+      "title": "Instinctools shines a light on what inefficient dark store management really costs grocery retailers",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWnRTQ2RRMnJUUm5Pa25ZbldmY18xS3dyU04tV1NqaWxIdFREQXgzdnlQVHcta2lPTXFFY0xYR05VMUdyVzZDVmhqbmJmaTVKbXVnODJKazM4UHB3MFlsajhHZjZ2TkdHVFVBUkZqSkZoblRsVFl5RWpxdUJsa2VRZ0F3cjhfcnozNUhaZjU3Q21qcEJuWGRwWEEteTNyTnVDcWpDNUZxQXBlX003d2xacWZGZEVkck1qa3BxbQ?oc=5",
+      "source": "Retail Tech Innovation Hub",
+      "lang": "en",
+      "category": "application",
+      "pubDate": "2026-09-18T05:18:42.000Z",
+      "summary": "Instinctools揭示无效暗店管理对杂货零售商的实际成本。",
+      "summaryZh": "",
+      "titleZh": "Instinctools 揭示了低效的暗店管理给杂货零售商带来的真正损失"
     }
   ]
 }
