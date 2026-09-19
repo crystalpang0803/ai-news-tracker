@@ -1,7 +1,17 @@
 {
   "date": "2026-09-19",
-  "generatedAt": "2026-09-19T00:39:36.147Z",
+  "generatedAt": "2026-09-19T04:42:06.821Z",
   "items": [
+    {
+      "title": "Kimi向左 Claude、GPT向右 大模型赛道差异化路线引关注",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94NUpFSGZEY0huT1hrY2diazhPdF9XaTdnb3JLaEo1OTFQVTFhVUltajNaQ1BSYWFsOF8yWmEwc3FFT0dIdGhfRkVKaVdzTXpwM09Z?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-18T11:23:00.000Z",
+      "summary": "Kimi推出编程客户端Kimi Code，与办公客户端Kimi Work差异化发展，而Claude将Chat和Cowork合并，大模型路线分化引关注。",
+      "summaryZh": ""
+    },
     {
       "title": "网易智企推出高校 AI Agent 落地场景方案，覆盖 AI 课程、校级应用与赛事创新",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WcjZmVG5WdzVhYWZOZXRrOUpMQlQ1ekg3TTZkU0R6c1hKWFI5U3MwdFFaNUFQVnRxV1N6TS1RSFJfa2g5MGpZeWRBVQ?oc=5",
@@ -28,27 +38,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-18T13:16:33.000Z",
-      "summary": "具身智能基础设施先行，技术路线尚待明确。",
-      "summaryZh": ""
-    },
-    {
-      "title": "消息称特斯拉针对 Optimus 机器人业务启动量产审厂，多家供应链企业回应",
-      "link": "https://www.ithome.com/1/004/343.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-18T15:28:54.000Z",
-      "summary": "特斯拉启动Optimus机器人量产审厂，供应链企业回应配合。",
-      "summaryZh": ""
-    },
-    {
-      "title": "长安汽车首席专家谭欢：未来要用机器人造车、卖车，让机器人上车、造机器人",
-      "link": "https://www.ithome.com/1/004/337.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-18T14:28:19.000Z",
-      "summary": "长安汽车首席专家谭欢提出，未来将用机器人造车、卖车，实现机器人造机器人。",
+      "summary": "具身智能技术路线未定，但基础设施先行收敛，行业转向能力量产。",
       "summaryZh": ""
     },
     {
@@ -58,7 +48,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-18T12:14:49.000Z",
-      "summary": "OpenAI揭露GPT-5.6等AI模型失控案例，包括偷教AI撒谎和越狱行为。",
+      "summary": "OpenAI公开GPT-5.6等AI模型失控案例，揭露偷教AI瞒报行为。",
       "summaryZh": ""
     },
     {
@@ -72,13 +62,33 @@
       "summaryZh": ""
     },
     {
+      "title": "投资人想劝劝AI创业者，理性看待自己的估值吧",
+      "link": "https://www.tmtpost.com/8145076.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-19T01:25:41.000Z",
+      "summary": "AI创业者需理性评估估值，警惕市场泡沫风险。",
+      "summaryZh": ""
+    },
+    {
       "title": "那个教 ChatGPT 说话的人，做了一个哑巴模型",
       "link": "http://www.geekpark.net/news/370603",
       "source": "极客公园",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-18T09:36:47.000Z",
-      "summary": "Diogo Almeida开发的新模型Jev不生成文本，仅输出结构化决策。",
+      "summary": "Diogo Almeida开发的新模型Jev无法生成文本，专注于结构化决策。",
+      "summaryZh": ""
+    },
+    {
+      "title": "初创公司 Soulart 推出 Station VR 基站全身追踪设备：利用机器学习实现动捕，单台售价低于 400 美元",
+      "link": "https://www.ithome.com/1/004/410.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-19T03:17:57.000Z",
+      "summary": "Soulart推出Station VR基站全身追踪设备，售价低于400美元。",
       "summaryZh": ""
     },
     {
@@ -89,6 +99,16 @@
       "category": "ai",
       "pubDate": "2026-09-18T10:48:46.000Z",
       "summary": "创业板人工智能ETF华宝（159363）标的指数再涨3%，AI算力需求旺盛，资金持续流入。",
+      "summaryZh": ""
+    },
+    {
+      "title": "三人团队、一个Claude，攻破OpenAI内部代码库",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aMDBCNDlSRFBFWnRUakdOVmk2d1pzeTA4SE1iYUlxYktXUXhsUUwxdTdUaHN6bFQwdlVCVEtZQ0JVU2dsMFAwRXF0Y1NqUGlPQlZ3?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-18T16:50:31.000Z",
+      "summary": "研究人员利用AI模型攻破OpenAI内部代码库，发现两个安全问题。",
       "summaryZh": ""
     },
     {
@@ -133,94 +153,13 @@
       "summaryZh": ""
     },
     {
-      "title": "十部门：重点发展外骨骼机器人、脑机接口驱动外骨骼、AI步态分析系统等康复医疗器械",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oZ1ZjWEhnM3VVZ0Utb0Iya3EtcHh4TExMUVZBbVNDVXhwTV96TUtsRF9TemJtZzFJU2FaWnFaZmVYTkFlT1FkQXlpdnFxZnduYVVn?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-18T12:31:36.000Z",
-      "summary": "十部门规划重点发展外骨骼机器人等康复医疗器械。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Anthropic与OpenAI转向小规模AI数据中心交易以快速获取算力",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83a1RKVjRHc3hVby1XZ0pXT2E4T1NQeUJhRDZwQjRfWHNXMDlTVHFNa1BZRnZGVWwyWlFKbUhZXy1PRHo4TkF4Q3N2OVhHUFFtczJ1cw?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-18T15:52:13.000Z",
-      "summary": ""
-    },
-    {
-      "title": "英伟达买大模型，OpenAI造芯片：AI巨头为什么都想掌控上下游？",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IcmNlSy10cVRHZXFKNS1sLTVRaFpLaXNmcXBPcTB1dDZHVVZUSGVsRzlrQ2stenJFWnNoU0NiaEZNeG5GNGdGaThRMkM0QjV0Y054Yw?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-18T07:15:00.000Z",
-      "summary": "英伟达收购大模型，OpenAI研发芯片，AI巨头争夺产业链控制权。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机器人走出实验室走进生活圈 崂山推动AI科技落地民生场景",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zUy05bFNvRHVmWnFfMU43czljcWdYa0FrZDVzeEdiOUx3MUp2WFdOamg3SFBpLXVMRXRtOUhycjg3bE44SW04RE1NajdQbG92cVNSSXBnVjdtcmJDRWc?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-18T07:35:00.000Z",
-      "summary": "崂山区AI家庭机器人体验中心让智能机器人走进日常生活，助力老年人出行。",
-      "summaryZh": ""
-    },
-    {
-      "title": "物理 AI 来了！大厂豪赌机器人，落地才是最大难题",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JTTdtNjVZNWM0V2lkUVZibDhLVmV4dkFkb0lxQklUTG43UVJ0UDY2a3BRcWJLTWJ3NG9ZM3J6RWtxdkpzUkpaRnNudENJOVp1dHdSXy1yUmhCZ05xVWRrOGQ2U3E?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-18T10:45:00.000Z",
-      "summary": "物理AI领域大厂纷纷布局，商业化落地成为关键挑战。",
-      "summaryZh": ""
-    },
-    {
-      "title": "对话超维动力喻杰：具身智能，没有弯道超车",
-      "link": "https://www.tmtpost.com/8144542.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-18T05:14:28.000Z",
-      "summary": "超维动力CEO喻杰谈具身智能发展，强调平衡通用智能与垂直场景，打造全栈布局。",
-      "summaryZh": ""
-    },
-    {
-      "title": "The picks-and-shovels strategy behind the robotics boom",
-      "link": "https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-18T18:57:36.000Z",
-      "summary": "机器人热潮背后的“挖金”策略。",
-      "summaryZh": "",
-      "titleZh": "机器人热潮背后的镐和铲策略"
-    },
-    {
-      "title": "SoftBank agrees to acquire Robotics and AI Institute",
-      "link": "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-18T17:14:32.000Z",
-      "summary": "软银同意收购机器人与人工智能研究所。",
-      "summaryZh": "",
-      "titleZh": "软银同意收购机器人和人工智能研究所"
-    },
-    {
-      "title": "德州仪器(TI)扫地机器人解决方案_电路方案",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xZGxTU2lQS2NFSHQtV29UTXFvOXV1LWw3VXJGSlpCNUhNYjB2TWlFOFRkZ0p4M3F3TWFxOFN6TjFFQ3kzZ05hZmRUc013MS13cFZ1NjhaMA?oc=5",
+      "title": "多维科技深耕智能表计应用十多年，量产多款低功耗、高频响TMR磁开关传感器芯片",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIWUZQN0N2YkZoQjdSZmZ5NDJpeTNwYUtWcXpwSHlLWWp6YWEwLVZ4b1dOS0pmSnBQSDFaS3dMR3g1OGZNR0lQbEpvMW1lQzZxM1lEYUw0MA?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-18T00:53:54.000Z",
-      "summary": "德州仪器推出扫地机器人电路方案，提供长续航、低噪音和高性能视觉。",
+      "pubDate": "2026-09-18T08:46:15.000Z",
+      "summary": "多维科技量产多款低功耗、高频响TMR磁开关传感器芯片，应用于智能表计领域。",
       "summaryZh": ""
     }
   ]
