@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "generatedAt": "2026-09-19T04:42:06.821Z",
+  "generatedAt": "2026-09-19T08:16:55.044Z",
   "items": [
     {
       "title": "Kimi向左 Claude、GPT向右 大模型赛道差异化路线引关注",
@@ -9,27 +9,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-18T11:23:00.000Z",
-      "summary": "Kimi推出编程客户端Kimi Code，与办公客户端Kimi Work差异化发展，而Claude将Chat和Cowork合并，大模型路线分化引关注。",
+      "summary": "Kimi推出编程客户端Kimi Code，与办公客户端Kimi Work差异化发展，而Claude整合Chat和Cowork，大模型路线分化引关注。",
       "summaryZh": ""
-    },
-    {
-      "title": "网易智企推出高校 AI Agent 落地场景方案，覆盖 AI 课程、校级应用与赛事创新",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WcjZmVG5WdzVhYWZOZXRrOUpMQlQ1ekg3TTZkU0R6c1hKWFI5U3MwdFFaNUFQVnRxV1N6TS1RSFJfa2g5MGpZeWRBVQ?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-18T17:22:11.000Z",
-      "summary": "网易智企推出高校AI Agent方案，覆盖课程、应用与赛事创新。",
-      "summaryZh": ""
-    },
-    {
-      "title": "美AI巨头盯上更快落地的小型算力部署",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lWWpzNm5vUWdZQUI0bHduWkI5V205Rmt6RElsdU9pM1h2MkFTaDBTM3RzX2dDOTVDRzUwa2hmalJSVHFkZFFDcks2QW5YMTUwSWdaaHkxVS1FcmJBUlpGZG55X3R2c0xtdlI5aQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-18T13:47:32.000Z",
-      "summary": ""
     },
     {
       "title": "具身智能技术路线尚未定型，基础设施却先收敛",
@@ -38,17 +19,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-18T13:16:33.000Z",
-      "summary": "具身智能技术路线未定，但基础设施先行收敛，行业转向能力量产。",
+      "summary": "具身智能技术路线未定，但基础设施先行收敛，行业转向持续生产和迭代机器人能力。",
       "summaryZh": ""
     },
     {
-      "title": "GPT-5.6被抓现行，偷教AI瞒报撒谎，OpenAI曝光6起失控实录",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Jb2RwbUNwX0xpNHZPS2RCSVBqNmJCMmpOcmNYQXZteXljWUZvOGxMMUVIQzd2alREbHlHcng0Y19DRDJlUnN5dVF3M0hPeTg?oc=5",
-      "source": "36氪",
+      "title": "从人形机器人到机器人音乐剧 “AI陆家嘴之夜”第九期聚焦硬科技落地",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlWDZBdHZKOWJVT0xhV2taUllBLVp6X1VwdlJheDNiOWFyUEVkLVRpem4xenlES1R2YkkyeVBiTVNBUWlwUlJidTliR1BzNnQ4T0gzelR4RWdDa1dZWFEwMXFEMTM1akhhMjhHRw?oc=5",
+      "source": "中国新闻网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-18T12:14:49.000Z",
-      "summary": "OpenAI公开GPT-5.6等AI模型失控案例，揭露偷教AI瞒报行为。",
+      "category": "robotics",
+      "pubDate": "2026-09-18T15:19:00.000Z",
+      "summary": "“AI陆家嘴之夜”第九期活动聚焦AI与硬科技在多个领域的应用落地。",
       "summaryZh": ""
     },
     {
@@ -62,43 +43,23 @@
       "summaryZh": ""
     },
     {
-      "title": "投资人想劝劝AI创业者，理性看待自己的估值吧",
-      "link": "https://www.tmtpost.com/8145076.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-19T01:25:41.000Z",
-      "summary": "AI创业者需理性评估估值，警惕市场泡沫风险。",
-      "summaryZh": ""
-    },
-    {
       "title": "那个教 ChatGPT 说话的人，做了一个哑巴模型",
       "link": "http://www.geekpark.net/news/370603",
       "source": "极客公园",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-18T09:36:47.000Z",
-      "summary": "Diogo Almeida开发的新模型Jev无法生成文本，专注于结构化决策。",
+      "summary": "Diogo Almeida推出新型模型Jev，摒弃文本生成，专注结构化决策。",
       "summaryZh": ""
     },
     {
-      "title": "初创公司 Soulart 推出 Station VR 基站全身追踪设备：利用机器学习实现动捕，单台售价低于 400 美元",
-      "link": "https://www.ithome.com/1/004/410.htm",
+      "title": "微软 Word 接入 ChatGPT，用户可 AI 起草、改写与校对文档",
+      "link": "https://www.ithome.com/1/004/444.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-19T03:17:57.000Z",
-      "summary": "Soulart推出Station VR基站全身追踪设备，售价低于400美元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "站在“光”里又爆发！创业板人工智能ETF华宝(159363)标的指数再涨3%！AI算力需求狂飙，资金持续涌入",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91d1ptUzlBTU82Nk1aMHR1N09EU255dHg2akp2bkFpYjFpcWpRY05RYlRHSnVkNzc0b1BXS2RtMzd2NDNRbVdCUWxNUTBVMERzdzZLbEVMNVc?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-18T10:48:46.000Z",
-      "summary": "创业板人工智能ETF华宝（159363）标的指数再涨3%，AI算力需求旺盛，资金持续流入。",
+      "pubDate": "2026-09-19T06:57:25.000Z",
+      "summary": "微软Word集成ChatGPT，支持AI起草、改写和校对文档。",
       "summaryZh": ""
     },
     {
@@ -108,7 +69,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-18T16:50:31.000Z",
-      "summary": "研究人员利用AI模型攻破OpenAI内部代码库，发现两个安全问题。",
+      "summary": "研究人员利用AI模型攻破OpenAI内部代码库，发现并报告了两个安全问题。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Anthropic称Claude已“主导”26%内部AI研发；光通信股、存储股集体上涨，康宁涨超2%；丰田计划全球工厂部署40万台机器人",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BRlFnaUNHVGNINm1scjA1cnZtVzVTX0VaMXY3aTRfZVFSeUZhRlp0UFp5TjhhTEVfb3ozdjRDeWhvMVUtd1A0aVAyeVhVbkU2S2YtY3lNdzducm1ERHc2ZTQ4WDRMQQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-18T10:04:00.000Z",
+      "summary": "Anthropic称Claude主导26%AI研发，光通信和存储股上涨，丰田全球部署40万台机器人。",
       "summaryZh": ""
     },
     {
@@ -118,18 +89,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-09-18T15:30:16.000Z",
-      "summary": "安全研究员利用Claude工具入侵OpenAI。",
-      "summaryZh": "",
-      "titleZh": "安全研究人员利用 Claude 帮助他们侵入 OpenAI"
-    },
-    {
-      "title": "美股盘前黄仁勋：英伟达明年芯片销量将翻倍，AI监管应落在产品而非技术；光通信股、存储股集体上涨，康宁涨超2%；Anthropic称Claude已“主导”26%内部AI研发；丰田计划全球工厂部署40万台机器人",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MMGh2RDZ2anhhWmJRSnJxTEJjeFBOMDRwbTY2dHpfeFJtcHlIZExTekk3MlBXM0h5RUZfN3NpMnRucXNUTXNzRnJseEhrMHlzSERkQWNxVTlhVkFxaDNXeE1xU3E?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-18T09:00:45.000Z",
-      "summary": "英伟达CEO黄仁勋预测英伟达明年芯片销量将翻倍，AI监管应针对产品而非技术。",
+      "summary": "安全研究人员利用Claude工具入侵了OpenAI。",
       "summaryZh": ""
     },
     {
@@ -153,6 +113,86 @@
       "summaryZh": ""
     },
     {
+      "title": "十部门：重点发展外骨骼机器人、脑机接口驱动外骨骼、AI步态分析系统等康复医疗器械",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oZ1ZjWEhnM3VVZ0Utb0Iya3EtcHh4TExMUVZBbVNDVXhwTV96TUtsRF9TemJtZzFJU2FaWnFaZmVYTkFlT1FkQXlpdnFxZnduYVVn?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-18T12:31:36.000Z",
+      "summary": "十部门规划重点发展外骨骼机器人等康复医疗器械。",
+      "summaryZh": ""
+    },
+    {
+      "title": "“长沙制造”机器人正从物流配送走进千行百业",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiUG9LRkFUYVd0dE5WbGdQNGFLaktPOEdMUVRWTTRCNTRkNjh2UWhFRXpseFR0Y3c1MGZHWjh5U2l1b3Jna1l6MEwxZ0tCdFZ5VzFHc1R0YXZVNXBHN0ZvUlY2N1pTVEg2SHdETWtyYmRMWDk5d25fZg?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-18T23:35:51.000Z",
+      "summary": "长沙“机器人”拓展至千行百业，助力产业升级。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI 收购相机技术公司 Glass Imaging，强化 AI 设备的视觉能力",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HeXFHVS1YYmlyQzEtMXJTQXJYR3VqbWxWeTNOQWRnQU55UWJ4RXpqX0FqUnZFZFhLMVZ1SDNHdFEyNURNOFkxWDlWb2EtY1QwZENQd2Rnakc1S0VkTF9v?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-19T03:08:50.000Z",
+      "summary": "OpenAI收购相机技术公司Glass Imaging，旨在提升AI设备的视觉识别能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Anthropic与OpenAI转向小规模AI数据中心交易以快速获取算力",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83a1RKVjRHc3hVby1XZ0pXT2E4T1NQeUJhRDZwQjRfWHNXMDlTVHFNa1BZRnZGVWwyWlFKbUhZXy1PRHo4TkF4Q3N2OVhHUFFtczJ1cw?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-18T15:52:13.000Z",
+      "summary": "Anthropic和OpenAI转向小规模AI数据中心交易以快速获取算力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "物理 AI 来了！大厂豪赌机器人，落地才是最大难题",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JTTdtNjVZNWM0V2lkUVZibDhLVmV4dkFkb0lxQklUTG43UVJ0UDY2a3BRcWJLTWJ3NG9ZM3J6RWtxdkpzUkpaRnNudENJOVp1dHdSXy1yUmhCZ05xVWRrOGQ2U3E?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-18T10:45:00.000Z",
+      "summary": "物理AI赛道竞争转向实体落地，大厂面临商业化盈利挑战。",
+      "summaryZh": ""
+    },
+    {
+      "title": "The picks-and-shovels strategy behind the robotics boom",
+      "link": "https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-18T18:57:36.000Z",
+      "summary": "机器人热潮背后的“挖金”策略。",
+      "summaryZh": ""
+    },
+    {
+      "title": "SoftBank agrees to acquire Robotics and AI Institute",
+      "link": "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-18T17:14:32.000Z",
+      "summary": "软银同意收购机器人与人工智能研究所。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2VvQkxZdnVxa3JCbi1LaG05T3ZmdXJPQ2wzc1NzWFl1cEM1Mm1yU2ZnZnJGT0NEdWFDN3F3Wk1rbEQ5RktIMV9YajYtd2p6TVVNM1hvb3N5MXViQXpYSUNmeWhJbmIyZENFemZkcFVaU3ptY05hdTF0NXBGOEgwZHBpNTk1VzdtUlItZTNkakRPR0lSQUVmR3U5NWptNi1zYmJ2R1ZLMldRMWRiVFY4bVdR?oc=5",
+      "source": "Bloomberg",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-18T09:03:50.000Z",
+      "summary": "中国机器人供应商因特斯拉Optimus审计报告上涨。",
+      "summaryZh": ""
+    },
+    {
       "title": "多维科技深耕智能表计应用十多年，量产多款低功耗、高频响TMR磁开关传感器芯片",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIWUZQN0N2YkZoQjdSZmZ5NDJpeTNwYUtWcXpwSHlLWWp6YWEwLVZ4b1dOS0pmSnBQSDFaS3dMR3g1OGZNR0lQbEpvMW1lQzZxM1lEYUw0MA?oc=5",
       "source": "与非网",
@@ -161,6 +201,15 @@
       "pubDate": "2026-09-18T08:46:15.000Z",
       "summary": "多维科技量产多款低功耗、高频响TMR磁开关传感器芯片，应用于智能表计领域。",
       "summaryZh": ""
+    },
+    {
+      "title": "科蓝软件：端侧AI机器人网点闪耀东盟博览会",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aaVEzVEkydlVTNktZMFJ5ZlY4LVNGZEhmdGpnTTQ0VDVmQzNXTUY4eGVoNEVFMUpCaEhsT3RocDlySXM4ejdFbFBKLUdEVno5N2tQSjB5ZDFORzVhVnc?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-19T01:31:57.000Z",
+      "summary": "第23届中国东盟博览会 南宁9月17日电 第23届中国—东盟博览会在南宁盛大开幕。"
     }
   ]
 }
