@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "generatedAt": "2026-09-19T20:32:52.300Z",
+  "generatedAt": "2026-09-19T21:44:42.229Z",
   "items": [
     {
       "title": "通信墙不破，AI Agent算力不立！华为超节点“黑科技”详解",
@@ -23,13 +23,23 @@
       "summaryZh": ""
     },
     {
+      "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+      "link": "https://www.qbitai.com/2026/09/492573.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-19T11:43:12.000Z",
+      "summary": "Qwen 3.8-27B模型实现网页秒级生成，引发开发者圈热议。",
+      "summaryZh": ""
+    },
+    {
       "title": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
       "link": "https://www.qbitai.com/2026/09/492476.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-19T08:28:51.000Z",
-      "summary": "华为汪涛强调，打造AI算力底座需系统工程，单芯片倍增不足以支撑。",
+      "summary": "华为汪涛强调，打造AI算力底座需系统工程，单芯片倍增不足够。",
       "summaryZh": ""
     },
     {
@@ -39,17 +49,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-19T13:06:18.000Z",
-      "summary": "欧洲企业CEO积极寻求在中国机器人产业中占有一席之地。",
+      "summary": "欧洲企业CEO积极布局中国机器人市场，寻求合作与机遇。",
       "summaryZh": ""
-    },
-    {
-      "title": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04WmRlVFlSbEVEOTZTd3hQUjNBR0VkRTNheUtpUkNUNVlGOE00MkdzazJycTg0aGVVeTdUWDYwZkdBdXh6eFdWM0RNazBYdw?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-19T19:28:35.000Z",
-      "summary": ""
     },
     {
       "title": "《广西金融业发展“十五五”规划》印发：加快构建总规模不低于500亿元的人工智能领域基金集群",
@@ -58,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-19T11:50:00.000Z",
-      "summary": "广西印发“十五五”规划，构建500亿人工智能基金集群。",
+      "summary": "广西印发金融业规划，加速建设500亿人工智能基金集群。",
       "summaryZh": ""
     },
     {
@@ -68,7 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-19T01:42:14.000Z",
-      "summary": "360与昇腾AI合作，构建AI Agent提速解决方案。",
+      "summary": "360与昇腾AI合作，构建AI Agent加速解决方案。",
       "summaryZh": ""
     },
     {
@@ -127,37 +128,18 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-19T14:40:00.000Z",
-      "summary": "人形机器人亮相世界机器人大会，银行消费金融借政策东风拓展智能家居市场。",
+      "summary": "人形机器人亮相世界机器人大会，银行消费金融借政策东风拓展智能家居消费贷款。",
       "summaryZh": ""
     },
     {
-      "title": "何仙姑秀“手艺活儿”|AI解锁世界人形机器人运动会",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84aEVWSF9idWlOa0RYSjNtZTRaN0dsMTFEWkdJN3dTWWo5bmZkd3kwM2RFc29lMXFLNkNlQlE5QjJTVVk1TDItZjZlRDFfUFFvUzJlbGtqS2NDSlg3SXFsNjVn?oc=5",
-      "source": "新京报",
+      "title": "活力中国调研行丨告别肩挑背驼，无人机和AI助秭归撑起超200亿元产业",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UNTR1eDRrdVZzcDdKU3d1VS1CaWxKU3plVXdOV0IySDhHaE1PSDJRT2d6R1BUVzZYSVBaNU1kTHE3ZHEtMzQ3bDkzSVZBM3NkM0VCUjdIb1BLUXpseVNNRVhDSThhQQ?oc=5",
+      "source": "每日经济新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-19T00:03:56.000Z",
-      "summary": "AI技术助力人形机器人参与世界运动会，展现灵巧与温度。",
+      "pubDate": "2026-09-19T04:20:00.000Z",
+      "summary": "秭归县利用无人机和AI技术，推动脐橙产业产值超200亿元。",
       "summaryZh": ""
-    },
-    {
-      "title": "科蓝软件：端侧AI机器人网点闪耀中国—东盟博览会",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lc2UyTVBIVWdpbi1UdW5DWU5IUmxJZ3E1N2EyajMxVEZneEkyQVQwT0tocjhJNDh5OHFOMUs3WG1wWTRHODF2dGhFU1NjTEhuWW9Yemp2aThEeDhlMUE?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-19T13:12:03.000Z",
-      "summary": "第23届中国—东盟博览会在南宁盛大开幕。"
-    },
-    {
-      "title": "Icarus Robotics to fly ISS-bound robot in true microgravity for the first time",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUlNPVmFPdnVQNjBMYVBLYW9NWDV5VFcyc2hpOTNjNVNhM1ZiRkNZQjNka0NKMFVlbUdlOVBUa2Zhc2RHNkY3QmJYSWhzNnk3RDBKVEMwbVBXVkFQWW1oYmNtZWltNmZPdzkzQ1lHdHdzdmhBMm4xOHo0dXFheGhrTGR4MW9pYlZxbnNMQXBaUFp1V2lNU3hOR1R5Z0t3NUpjRVp5OVBtZVl4M3dDc2hOZGFob25XU0p0QkxVVVV6SWZpTkpMajcxeWJPVWFqWldr?oc=5",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-18T20:42:15.000Z",
-      "summary": "",
-      "titleZh": "伊卡洛斯机器人公司将首次在真正的微重力环境下驾驶国际空间站机器人"
     },
     {
       "title": "How should investors position for the robot apocalypse?",
@@ -165,7 +147,7 @@
       "source": "Financial Times",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-09-19T04:00:33.000Z",
+      "pubDate": "2026-09-19T04:01:03.000Z",
       "summary": "投资者应如何为机器人时代做准备？",
       "summaryZh": "",
       "titleZh": "投资者应该如何应对机器人末日？"
