@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "generatedAt": "2026-09-19T21:44:42.229Z",
+  "generatedAt": "2026-09-19T23:14:28.494Z",
   "items": [
     {
       "title": "通信墙不破，AI Agent算力不立！华为超节点“黑科技”详解",
@@ -19,8 +19,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-19T13:11:13.000Z",
-      "summary": "璇玑动力中型智能四足机器人全球首发，最大陡坡攀爬45°，支持自动充电。",
+      "summary": "璇玑动力中型智能四足机器人全球首发，攀爬45°陡坡，支持自动充电。",
       "summaryZh": ""
+    },
+    {
+      "title": "OpenAI突然收购，500万人Codex，永不下线",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sMXdrLUhZdS0yUGJPYndBN2thS0NaQ3ZUSW90NEhCM1hfcTVCTHBJS2o0WFFnVGRCTXpYN3BZOGx3VFV6X1E4cENabnJLdw?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-19T13:46:56.000Z",
+      "summary": ""
     },
     {
       "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
@@ -29,7 +38,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-19T11:43:12.000Z",
-      "summary": "Qwen 3.8-27B模型实现网页秒级生成，引发开发者圈热议。",
+      "summary": "Qwen 3.8-27B模型实现网页秒开，开发者圈热议。",
       "summaryZh": ""
     },
     {
@@ -39,7 +48,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-19T08:28:51.000Z",
-      "summary": "华为汪涛强调，打造AI算力底座需系统工程，单芯片倍增不足够。",
+      "summary": "华为计划打造AI算力底座，不止于芯片。",
+      "summaryZh": ""
+    },
+    {
+      "title": "同声传译大模型Qwen3.8-LiveTranslate正式发布",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05MWJrc1B3ZWwzMUxZdENjTUhLeVdlbWc5bnNRMHpVeHpBNXYtYVJONG13ZkVaV3pRYkZ0NlRUSnRtUjVVblNRWm1qUkVjLTVkNEppZEVOWnQ?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-19T07:07:32.000Z",
+      "summary": "同声传译大模型Qwen3.8-LiveTranslate发布，提升实时同传准确度与流畅度。",
       "summaryZh": ""
     },
     {
@@ -48,9 +67,18 @@
       "source": "第一财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-19T13:06:18.000Z",
-      "summary": "欧洲企业CEO积极布局中国机器人市场，寻求合作与机遇。",
+      "pubDate": "2026-09-19T13:04:38.000Z",
+      "summary": "欧洲企业CEO积极寻求加入中国机器人产业浪潮。",
       "summaryZh": ""
+    },
+    {
+      "title": "Claude Code全面开放，接入AGENTS.md",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYNnJYSVZVX0lEMUJyQW5GSWlJSUt5VjZYMDZnVndlbUw4a0FqQlFWUlJ6NHJHcmx6Y3FFMzhxYm8yWE14LVY2N1pfcWZmdw?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-19T08:15:40.000Z",
+      "summary": ""
     },
     {
       "title": "《广西金融业发展“十五五”规划》印发：加快构建总规模不低于500亿元的人工智能领域基金集群",
@@ -69,7 +97,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-19T01:42:14.000Z",
-      "summary": "360与昇腾AI合作，构建AI Agent加速解决方案。",
+      "summary": "360与昇腾AI合作，提升AI Agent性能。",
       "summaryZh": ""
     },
     {
@@ -81,15 +109,6 @@
       "pubDate": "2026-09-19T03:29:43.000Z",
       "summary": "Anthropic考虑IPO前推新AI模型，IPO可能推迟至美中期选举后。",
       "summaryZh": ""
-    },
-    {
-      "title": "人形机器人的“三大争议”：何时大规模部署？算力需求暴增？“人形”是必要的吗？",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44TXV5NU03ZWJtd1lLSko4WGdMbmJZQW42bHZBbzRfR0gwcklxWjIybVc1VUJfQTFPb2pOZlo4bW1XTVlWQjZ4M0ZxMVdXWGZzdjZ3?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-19T05:32:32.000Z",
-      "summary": ""
     },
     {
       "title": "AI产业处于技术迭代与应用场景落地加速期，关注创业板算力ETF易方达（158050）投资机会",
@@ -122,14 +141,15 @@
       "summaryZh": ""
     },
     {
-      "title": "人形机器人蓄势待发 银行消费金融如何借东风？",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tdUFaOEVNX21tc0w5Nmp5aDAyU3lDTG5FMWcxS1VqaUpGUnhnd0pNMUhUeXM1MXlvakdYQ0E5M2JwYm1YRWJoa1A4MmFSRXB3UHdOU21B?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
+      "title": "What Robotics Experts Think of Tesla’s Optimus Robot",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MX3pnRUlFYUZuNGw4OGhLTFFTZ1hLUGlYd0VhdHZENHVpRldlQnhVSy1aU3ZXRDZYVVNGREU1TjFjQkJyVV9fLUlDMFc5WkFQRDk2em9jeXF5UHpoU0hTdTBhZmFsM2xPRHJlM2ExTUs4N2FUcExJQTE4Zk0?oc=5",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-09-19T14:40:00.000Z",
-      "summary": "人形机器人亮相世界机器人大会，银行消费金融借政策东风拓展智能家居消费贷款。",
-      "summaryZh": ""
+      "pubDate": "2026-09-19T04:11:45.000Z",
+      "summary": "特斯拉Optimus机器人获机器人专家评价。",
+      "summaryZh": "",
+      "titleZh": "机器人专家对特斯拉擎天柱机器人的看法"
     },
     {
       "title": "活力中国调研行丨告别肩挑背驼，无人机和AI助秭归撑起超200亿元产业",
@@ -147,7 +167,7 @@
       "source": "Financial Times",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-09-19T04:01:03.000Z",
+      "pubDate": "2026-09-19T04:00:33.000Z",
       "summary": "投资者应如何为机器人时代做准备？",
       "summaryZh": "",
       "titleZh": "投资者应该如何应对机器人末日？"
