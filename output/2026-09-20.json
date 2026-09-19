@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "generatedAt": "2026-09-19T18:34:27.716Z",
+  "generatedAt": "2026-09-19T20:32:52.300Z",
   "items": [
     {
       "title": "通信墙不破，AI Agent算力不立！华为超节点“黑科技”详解",
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-19T13:11:13.000Z",
-      "summary": "璇玑动力中型智能四足机器人全球首发，攀爬45°陡坡，支持自动充电。",
+      "summary": "璇玑动力中型智能四足机器人全球首发，最大陡坡攀爬45°，支持自动充电。",
       "summaryZh": ""
     },
     {
@@ -39,16 +39,16 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-19T13:06:18.000Z",
-      "summary": "欧洲企业CEO积极寻求与中国合作，把握机器人产业机遇。",
+      "summary": "欧洲企业CEO积极寻求在中国机器人产业中占有一席之地。",
       "summaryZh": ""
     },
     {
-      "title": "Claude Code全面开放，接入AGENTS.md",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYNnJYSVZVX0lEMUJyQW5GSWlJSUt5VjZYMDZnVndlbUw4a0FqQlFWUlJ6NHJHcmx6Y3FFMzhxYm8yWE14LVY2N1pfcWZmdw?oc=5",
+      "title": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04WmRlVFlSbEVEOTZTd3hQUjNBR0VkRTNheUtpUkNUNVlGOE00MkdzazJycTg0aGVVeTdUWDYwZkdBdXh6eFdWM0RNazBYdw?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-19T08:15:40.000Z",
+      "pubDate": "2026-09-19T19:28:35.000Z",
       "summary": ""
     },
     {
@@ -58,7 +58,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-19T11:50:00.000Z",
-      "summary": "广西印发“十五五”规划，构建500亿规模人工智能基金集群。",
+      "summary": "广西印发“十五五”规划，构建500亿人工智能基金集群。",
       "summaryZh": ""
     },
     {
@@ -68,7 +68,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-19T01:42:14.000Z",
-      "summary": "360与昇腾AI合作，提升AI Agent性能。",
+      "summary": "360与昇腾AI合作，构建AI Agent提速解决方案。",
       "summaryZh": ""
     },
     {
@@ -78,19 +78,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-19T03:29:43.000Z",
-      "summary": "Anthropic考虑IPO前推新AI模型，IPO可能推迟至美国中期选举后。",
+      "summary": "Anthropic考虑IPO前推新AI模型，IPO可能推迟至美中期选举后。",
       "summaryZh": ""
-    },
-    {
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-18T18:49:30.000Z",
-      "summary": "ChatGPT发明者推出新型AI模型，开发者反响热烈。",
-      "summaryZh": "",
-      "titleZh": "ChatGPT 发明者的一种新型 AI 模型令开发人员兴奋不已"
     },
     {
       "title": "人形机器人的“三大争议”：何时大规模部署？算力需求暴增？“人形”是必要的吗？",
@@ -102,13 +91,23 @@
       "summary": ""
     },
     {
+      "title": "AI产业处于技术迭代与应用场景落地加速期，关注创业板算力ETF易方达（158050）投资机会",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iUmIxUjJyYWJlNU1fY2E1bUtqSGY4TUQ0OVZKQ2NyVXBlUVNHNEEtMGdwcVg2WW5IUk1xeVpzRmE0S3preFdGSVhRbnp0ZU90cTlJT0FMR0pIZDI3UjROTmJQbEFhUQ?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-19T09:44:19.000Z",
+      "summary": "AI产业技术迭代加速，关注创业板算力ETF易方达投资机会。",
+      "summaryZh": ""
+    },
+    {
       "title": "联发科发布天玑9600 Pro：2nm制程与AI原生架构推动端侧智能体落地",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rSm5HRVpYMXNTOFc3QVFHX1paMDhJbWJxVVhKNDdLWVBSQXl2UVZ6dWhlbFVhTlR5VUtMeWticjFDT1o4dnBMSU9fb0xoZElVRk5Pc3FoYw?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-19T02:19:11.000Z",
-      "summary": "联发科发布2nm制程天玑9600 Pro芯片，AI原生架构提升端侧智能体验。",
+      "summary": "联发科发布2nm制程天玑9600 Pro芯片，推动端侧智能体发展。",
       "summaryZh": ""
     },
     {
@@ -118,7 +117,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-19T14:48:20.000Z",
-      "summary": "阿维塔 06T 猎装骑士版官图发布，9月20日上市。",
+      "summary": "阿维塔06T猎装骑士版官图发布，9月20日上市。",
       "summaryZh": ""
     },
     {
@@ -128,39 +127,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-19T14:40:00.000Z",
-      "summary": "人形机器人亮相世界机器人大会，银行消费金融借政策东风拓展智能家居消费市场。",
+      "summary": "人形机器人亮相世界机器人大会，银行消费金融借政策东风拓展智能家居市场。",
       "summaryZh": ""
     },
     {
-      "title": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObUVGZVpiNHRnTVVKVXZQYzhKRXFqQ3JuZDhZMVlDcTIyYWNKWldLdW5pZGF1dVpHcXBHYmxHcE9PM1NVS0ZPa1l5V2duX2xFeFJjRlA3MFIxek1Ed2wzMGRnODhNM2tOQlREdWR3M1RxNl9HczdheGx0WUxST0g1X3d0eW5Ed3VJUzFiSlhZWEcxVTFuN3BENVhld0V2a1ExVGwteUJwMkR6TW00UFJKcGIyZWZHM0xGZ3lBOXNXckFjQlcwNlM4cG9MRDhHeXI0Y1hEcmZ6c0hGdw?oc=5",
-      "source": "Automation World",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-18T20:27:59.000Z",
-      "summary": "制造商在投资自动化前需制定机器人战略。",
-      "summaryZh": "",
-      "titleZh": "问答：为什么制造商在投资自动化之前需要制定机器人策略"
-    },
-    {
-      "title": "活力中国调研行丨告别肩挑背驼，无人机和AI助秭归撑起超200亿元产业",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UNTR1eDRrdVZzcDdKU3d1VS1CaWxKU3plVXdOV0IySDhHaE1PSDJRT2d6R1BUVzZYSVBaNU1kTHE3ZHEtMzQ3bDkzSVZBM3NkM0VCUjdIb1BLUXpseVNNRVhDSThhQQ?oc=5",
-      "source": "每日经济新闻",
+      "title": "何仙姑秀“手艺活儿”|AI解锁世界人形机器人运动会",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84aEVWSF9idWlOa0RYSjNtZTRaN0dsMTFEWkdJN3dTWWo5bmZkd3kwM2RFc29lMXFLNkNlQlE5QjJTVVk1TDItZjZlRDFfUFFvUzJlbGtqS2NDSlg3SXFsNjVn?oc=5",
+      "source": "新京报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-19T04:20:00.000Z",
-      "summary": "秭归县利用无人机和AI技术，实现智慧农业，推动脐橙产业产值超200亿元。",
+      "pubDate": "2026-09-19T00:03:56.000Z",
+      "summary": "AI技术助力人形机器人参与世界运动会，展现灵巧与温度。",
       "summaryZh": ""
     },
     {
-      "title": "EIT expands AI initiative to robotics and launches European founders program with €80 million to give away",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa0dXZkFlNU00VjY2N2l4R3lqTWdubDVHSE1OeXdKUzlaYWJEazJGSjh4cGlWcmZtSW44M2R3WTBZT0FabGV5QlFQNHZOWW5Rc3cyYjJpVE1JSld4Qnp5alpMVUhZZUtSNERDb0g3VEFfTXVMWDdBLV9tcktORGFERWlPY3RFSVZ3cWF1Ukk4SkxvdXlPQ09rR25ESWZ3WEdybVBKYUN1bmRScHVzOWZvNTU4UUd6bFQtclpDdWVoN1EtWVBBcU5qR3BlU3JTZw?oc=5",
-      "source": "Robotics & Automation News",
-      "lang": "en",
+      "title": "科蓝软件：端侧AI机器人网点闪耀中国—东盟博览会",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lc2UyTVBIVWdpbi1UdW5DWU5IUmxJZ3E1N2EyajMxVEZneEkyQVQwT0tocjhJNDh5OHFOMUs3WG1wWTRHODF2dGhFU1NjTEhuWW9Yemp2aThEeDhlMUE?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-18T19:54:25.000Z",
-      "summary": "",
-      "titleZh": "EIT 将人工智能计划扩展到机器人领域，并启动欧洲创始人计划，赠送 8000 万欧元"
+      "pubDate": "2026-09-19T13:12:03.000Z",
+      "summary": "第23届中国—东盟博览会在南宁盛大开幕。"
     },
     {
       "title": "Icarus Robotics to fly ISS-bound robot in true microgravity for the first time",
@@ -178,7 +165,7 @@
       "source": "Financial Times",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-09-19T04:01:03.000Z",
+      "pubDate": "2026-09-19T04:00:33.000Z",
       "summary": "投资者应如何为机器人时代做准备？",
       "summaryZh": "",
       "titleZh": "投资者应该如何应对机器人末日？"
