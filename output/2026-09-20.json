@@ -1,17 +1,7 @@
 {
   "date": "2026-09-20",
-  "generatedAt": "2026-09-19T23:14:28.494Z",
+  "generatedAt": "2026-09-20T00:25:21.920Z",
   "items": [
-    {
-      "title": "通信墙不破，AI Agent算力不立！华为超节点“黑科技”详解",
-      "link": "https://zhidx.com/p/595392.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-19T02:51:05.000Z",
-      "summary": "华为发布超节点“黑科技”，灵衢互联架构提升AI算力效率。",
-      "summaryZh": ""
-    },
     {
       "title": "璇玑动力中型智能四足机器人全球首发：最大陡坡攀爬 45°，支持自动充电",
       "link": "https://www.ithome.com/1/004/558.htm",
@@ -23,52 +13,13 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI突然收购，500万人Codex，永不下线",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sMXdrLUhZdS0yUGJPYndBN2thS0NaQ3ZUSW90NEhCM1hfcTVCTHBJS2o0WFFnVGRCTXpYN3BZOGx3VFV6X1E4cENabnJLdw?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-19T13:46:56.000Z",
-      "summary": ""
-    },
-    {
       "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
       "link": "https://www.qbitai.com/2026/09/492573.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-19T11:43:12.000Z",
-      "summary": "Qwen 3.8-27B模型实现网页秒开，开发者圈热议。",
-      "summaryZh": ""
-    },
-    {
-      "title": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
-      "link": "https://www.qbitai.com/2026/09/492476.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-19T08:28:51.000Z",
-      "summary": "华为计划打造AI算力底座，不止于芯片。",
-      "summaryZh": ""
-    },
-    {
-      "title": "同声传译大模型Qwen3.8-LiveTranslate正式发布",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05MWJrc1B3ZWwzMUxZdENjTUhLeVdlbWc5bnNRMHpVeHpBNXYtYVJONG13ZkVaV3pRYkZ0NlRUSnRtUjVVblNRWm1qUkVjLTVkNEppZEVOWnQ?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-19T07:07:32.000Z",
-      "summary": "同声传译大模型Qwen3.8-LiveTranslate发布，提升实时同传准确度与流畅度。",
-      "summaryZh": ""
-    },
-    {
-      "title": "欧洲企业CEO们，不想错失中国机器人浪潮",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTNjNIdGtiR2JGUm12cUU4YUpNTldMN3pzNTFQZEFjTkJqVHZqeHNwUmdOZFRDc0VMRmVnVHFKaS1HaHpyZW5CSmcwbFdWTFlKandB?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-19T13:04:38.000Z",
-      "summary": "欧洲企业CEO积极寻求加入中国机器人产业浪潮。",
+      "summary": "Qwen 3.8-27B模型实现网页秒级生成，引发开发者圈热议。",
       "summaryZh": ""
     },
     {
@@ -97,7 +48,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-19T01:42:14.000Z",
-      "summary": "360与昇腾AI合作，提升AI Agent性能。",
+      "summary": "360与昇腾AI合作，构建AI Agent提速解决方案。",
       "summaryZh": ""
     },
     {
@@ -111,14 +62,13 @@
       "summaryZh": ""
     },
     {
-      "title": "AI产业处于技术迭代与应用场景落地加速期，关注创业板算力ETF易方达（158050）投资机会",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iUmIxUjJyYWJlNU1fY2E1bUtqSGY4TUQ0OVZKQ2NyVXBlUVNHNEEtMGdwcVg2WW5IUk1xeVpzRmE0S3preFdGSVhRbnp0ZU90cTlJT0FMR0pIZDI3UjROTmJQbEFhUQ?oc=5",
-      "source": "东方财富网",
+      "title": "人形机器人的“三大争议”：何时大规模部署？算力需求暴增？“人形”是必要的吗？",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44TXV5NU03ZWJtd1lLSko4WGdMbmJZQW42bHZBbzRfR0gwcklxWjIybVc1VUJfQTFPb2pOZlo4bW1XTVlWQjZ4M0ZxMVdXWGZzdjZ3?oc=5",
+      "source": "华尔街见闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-19T09:44:19.000Z",
-      "summary": "AI产业技术迭代加速，关注创业板算力ETF易方达投资机会。",
-      "summaryZh": ""
+      "pubDate": "2026-09-19T05:32:32.000Z",
+      "summary": ""
     },
     {
       "title": "联发科发布天玑9600 Pro：2nm制程与AI原生架构推动端侧智能体落地",
@@ -131,6 +81,26 @@
       "summaryZh": ""
     },
     {
+      "title": "网易有道AI Open Day 以“模型×Agent×工作流”探索AI落地新解法——中国青年网",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2ZTQzcHRKNDdTREFxT1FSVmxaTTAwVWo3MXhQZkpOQ0ZsYmEwREYzdjA5TnVfTjlNWDdjbGxxMjRYMWVaZ0R5b19PT2djOENYNzVuZlhyUWVfR2YtX2c?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-19T13:47:00.000Z",
+      "summary": "网易有道AI Open Day探索AI落地新解法，展示AI Agent产品与工作流结合应用。",
+      "summaryZh": ""
+    },
+    {
+      "title": "光纤国内外全线供需极致紧缺！国内集采顶格锁量+海外DCI超长单落地，AI算力光纤超级周期确认",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnUzNFR0wyZzdPUlpuX0ZtMWlWQ2s3TnJ5V2RyWkNHMG9aZUloRHN0T2s2SnNCR19ZajhpdVlxV1Q0Sjl4M21VWjNWZDhQZTlyZlFjdDJR?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-19T11:09:00.000Z",
+      "summary": "全球光纤供需紧张，AI算力推动超级周期确认。",
+      "summaryZh": ""
+    },
+    {
       "title": "阿维塔 06T 猎装骑士版更多官图公布：896 线激光雷达、9 月 20 日上市",
       "link": "https://www.ithome.com/1/004/567.htm",
       "source": "IT之家",
@@ -138,6 +108,46 @@
       "category": "robotics",
       "pubDate": "2026-09-19T14:48:20.000Z",
       "summary": "阿维塔06T猎装骑士版官图发布，9月20日上市。",
+      "summaryZh": ""
+    },
+    {
+      "title": "人形机器人蓄势待发 银行消费金融如何借东风？",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tdUFaOEVNX21tc0w5Nmp5aDAyU3lDTG5FMWcxS1VqaUpGUnhnd0pNMUhUeXM1MXlvakdYQ0E5M2JwYm1YRWJoa1A4MmFSRXB3UHdOU21B?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-19T14:40:00.000Z",
+      "summary": "人形机器人亮相世界机器人大会，银行消费金融面临智能家居消费升级新机遇。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI赋能，文旅融合打开想象空间——2026中国文化旅游产业博览会观察",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTMWdDWU1rVGpvc2ZrTW5HWE1NLXoxZ0I5NUNGV1ZmUmdrR2RSY0JGT0R1TXRxRHJKLU5SU3hHRzBDQzgzOXlXLTZDTnZGMXVaNENaeC1rWE11aXk0S3pWag?oc=5",
+      "source": "光明网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-19T18:45:00.000Z",
+      "summary": "2026中国文化旅游产业博览会展示AI赋能文旅融合新趋势。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Figure的56%新标尺，掀起具身们的泛化验证大考",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BakMzX3d5U2xpY3dlZ1pUOGU2THlyeXRyX3huNWFVWlpDbV9aeGxxRzUtb3czR2MxbXFsQmpiUUxqeEcxazRoa2IwTWJpcnVl?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-19T09:05:00.000Z",
+      "summary": "Figure AI发布新标尺，人形机器人泛化能力提升至56%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人东博会上“拼才艺”",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVUttZDB5cU1vdlpPblVRMV93UTQzQnlQZURuRVVTVW05R0JrNEZhX3lmNnFqUlJEamRsa3ZFalltdy1nUHFOY0xaT2dVY3cxY3RlR3pCZzI0VExUc1ZXZkxyOHNMMG9wMFdrYTg1aVllcG5JSkYyVEhzUkJYQ1R5cGtYVmlOUFZIZVY1b0ZGWQ?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-19T10:29:56.000Z",
+      "summary": "南宁东博会上多款智能机器人展示才艺，成为展会亮点。",
       "summaryZh": ""
     },
     {
@@ -167,7 +177,7 @@
       "source": "Financial Times",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-09-19T04:00:33.000Z",
+      "pubDate": "2026-09-19T04:01:03.000Z",
       "summary": "投资者应如何为机器人时代做准备？",
       "summaryZh": "",
       "titleZh": "投资者应该如何应对机器人末日？"
