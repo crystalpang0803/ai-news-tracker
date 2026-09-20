@@ -1,7 +1,16 @@
 {
   "date": "2026-09-21",
-  "generatedAt": "2026-09-20T18:43:42.457Z",
+  "generatedAt": "2026-09-20T20:44:27.550Z",
   "items": [
+    {
+      "title": "B站上线“AI 无限竞技场”LLM 测评榜：号称“全球百大模型同场竞技”、GPT-6 现居榜首",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wV1p6NF9iU1dYelZwOFVhVkFxUTducFV5S1FMOXNyblN2TjNPbjhlYnRKSk5FaUdiVTlCNmdleER4T0o5VXpZQldCcms?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-20T05:46:36.000Z",
+      "summary": ""
+    },
     {
       "title": "AGI距离落地应用还有多远？深度解析通用人工智能发展现状与未来挑战",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85T2hta0J6RjRhVFZUUXp2OGFWNnVFR3cyU1RoVE1tV1c5YklHcnZnMzdYblo3a0tvWThJWmdjVldaVU1FSFRWSFNxczRpaHVHSnJN?oc=5",
@@ -13,52 +22,41 @@
       "summaryZh": ""
     },
     {
-      "title": "教ChatGPT说话的人，做了个不说话的模型",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54YmR2aFJFQTFjMzVtRVlDZjVEM2FUdFlRX0xqNDNxdEM1TW1KakVzaXJkZUxDeUxCS0RUWmFLaF94czdSMHRtNkxHa1U0WVBjWEVDMXd4clE?oc=5",
-      "source": "界面新闻",
+      "title": "AI算力芯片独角兽奕行智能再获20亿融资， 加速RISC-V云端AI算力商业化落地与生态引领",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5ZFNvVjFoczJpek9SdHdEV1lFS1VZbmtLNUJ6MHFSMXFkdGVYVjV0U3VkT096ZElYZHc5bW9XdmdEMGJKM1FBaTRyN3Rmdw?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-19T19:57:06.000Z",
-      "summary": "AI模型Jev不说话，专注于判断。",
+      "pubDate": "2026-09-19T21:58:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Opus 5.2 与 Gemini 4 Pro 未经官宣已上线，前沿模型的发布流程正在被压缩",
+      "link": "https://www.tmtpost.com/8145908.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-20T10:25:48.000Z",
+      "summary": "前沿模型发布流程被压缩，Opus 5.2 与 Gemini 4 Pro 未经官宣已上线。",
       "summaryZh": ""
     },
     {
-      "title": "贾跃亭的法拉第未来一口气发布九款配置 EAI 机器人，最贵超 92 万元",
-      "link": "https://www.ithome.com/1/005/010.htm",
-      "source": "IT之家",
+      "title": "10岁小孩姐，都能轻松给机器人编程！稚晖君连发两款万元级机器人",
+      "link": "https://zhidx.com/p/595607.html",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-20T15:10:23.000Z",
-      "summary": "法拉第未来发布九款EAI机器人，最高售价超92万元。",
+      "pubDate": "2026-09-20T09:58:42.000Z",
+      "summary": "启元机器人发布两款万元级个人机器人，支持图形化编程，10岁儿童可轻松操作。",
       "summaryZh": ""
     },
     {
       "title": "断网仍可作战：AI 模型加持的无人机可实现战场自主识别、打击目标",
-      "link": "https://www.ithome.com/1/004/954.htm",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3U3FPWVJHNWpqOWVLTXZKUW1vbjhGa1l1dWlpQlMxOHQtRXRyc2QteVVTT3ExR2R2ZzNvR2ppbjlwVEVMTEdUUUcwb1g?oc=5",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-20T11:36:44.000Z",
-      "summary": "AI模型无人机在断网情况下可自主识别和打击目标。",
-      "summaryZh": ""
-    },
-    {
-      "title": "详解李飞飞的世界模型 Atlas：如何影响自动驾驶、人形机器人等Physical AI 产业",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VQjZ1YzQxbV9kX3F3dW9KdWRUaEx1eWFLcGxHdG41VTZZRklydWpuUUxOUWItZUZENW1qOWNuVlhRMVJXMTI0d21NYmN0MUQ2cGRBdGdncw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-20T03:27:46.000Z",
-      "summary": "李飞飞团队发布世界模型Atlas，融合生成与重建，影响自动驾驶和人形机器人算法。",
-      "summaryZh": ""
-    },
-    {
-      "title": "边缘算力升级，工控机站上AI风口",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wdUFSdURpejRKSk5jejFzaVBYcDNhNnN6aktTbmpmSGRDRDdLd3M0X1VXaGI4REJkQWZIYTRhNXdjbGZQZDRWSGUydmpaZw?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-20T10:43:23.000Z",
       "summary": ""
     },
     {
@@ -69,16 +67,6 @@
       "category": "ai",
       "pubDate": "2026-09-20T13:29:26.000Z",
       "summary": "TypeSafe AI推出非大语言模型Jev，速度提升200倍。",
-      "summaryZh": ""
-    },
-    {
-      "title": "一场户外烧烤直播，乐享科技把具身智能大模型拉进了“真刀真枪”时代",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBzMnJpQ0QtZERuRlBaVFFadUZMZFh1WHRJMVlnaGVRMEVlX0ZUWFdmUXhBbFByWThocnpyZGpkckdESjRUTFE?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-20T11:20:19.000Z",
-      "summary": "乐享科技以户外烧烤直播展示具身智能大模型在真实环境中的自主操作能力。",
       "summaryZh": ""
     },
     {
@@ -93,23 +81,13 @@
       "titleZh": "ChatGPT 认为它对您的了解会影响它的答案。以下是如何改变这一现状"
     },
     {
-      "title": "网易有道发布AI Agent全景生态",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Lb0tGYUNydXFhWHE5LWdRNFZKVkQwU0hZUVp2X1Y0bXpnNHJHRTFzc3NHd3FPRmItcnk0NmhyMnBTTzlDaUZKUXNnYkRJT1MtRzJnQVhPNHR0enN5eGZ1Z01ESDdTUU93QTYxZnNIbmY?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-20T12:30:43.000Z",
-      "summary": "网易有道发布AI Agent全景生态，展示多场景AI智能体产品矩阵与最新技术成果。",
-      "summaryZh": ""
-    },
-    {
       "title": "China’s Tech Giants Race to Own the AI Office Agent as Work Itself Becomes the Battlefield",
       "link": "https://www.tmtpost.com/8146181.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-20T05:47:04.000Z",
-      "summary": "中国科技巨头竞相打造AI办公助手，办公工作成为人工智能竞赛战场。",
+      "summary": "中国科技巨头竞相打造AI办公助手，将办公工作转变为人工智能竞赛。",
       "summaryZh": ""
     },
     {
@@ -142,24 +120,34 @@
       "summary": ""
     },
     {
-      "title": "具身智能加速融入先进制造，智身科技与华为云深化产业合作",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yNGQ0QzVDbTBmTlU5X3EtTGZCdkxEbFZDZVVFd2gxR3hzTGpkaTZiTUtPZS1kcFdpR213bmI5bzNEYXdPSWxyVDFXY3I?oc=5",
-      "source": "极客公园",
+      "title": "前OpenAI研究员推出首款“System One”模型引爆AI圈：不生成文本，专为机器做快速决策",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13bmp5U01PcGhLV0d4bGVuQTV3T2lYUE56anI2Nm9TTGFoZmhpRW1uR1dNMWp5dUVTMnlhY2VSeTRMdEFpb2RaUVV3bWtGck9jcmNuU2xwUTFweG5Ya1lHMml2eU9xT0c0Mi1j?oc=5",
+      "source": "澎湃新闻科技",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-20T03:12:16.000Z",
-      "summary": "智身科技与华为云深化合作，推动具身智能规模化应用。",
+      "category": "ai",
+      "pubDate": "2026-09-20T06:04:00.000Z",
+      "summary": "前OpenAI研究员推出“System One”模型，专为机器快速决策。",
       "summaryZh": ""
     },
     {
-      "title": "让 AI 在智能制造中生长",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NT2R6VHhQcEo1NC1tWXVQRUUtUTZMZV9ZSS14UXUteng4VE1HNkV4ak5hcDRQZHBpZTR4MU16NHdZM3EtZmZ4MXFaQmJBRUlpd0duNzRHV016QTlqTHJpcVIxOWF6OW5IZVFr?oc=5",
-      "source": "东方财富网",
+      "title": "具身智能，留不住“一把手”",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02SzlURUh3dVo5YUlPWTdESFlzR3JXVi1MbUYxTUNvWGJpY3BLWkF3WHJjXzNfSXVwUmJnSk9kWm1udzBiX2I5cktRR3h2X0ZJQXdyNU1JOFc?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-20T01:22:00.000Z",
-      "summary": "五新智能AI实践分享会聚焦AI在智能制造中的应用与落地。",
+      "pubDate": "2026-09-20T13:49:33.000Z",
+      "summary": "具身智能领域核心人才密集离职，引发行业关注。",
       "summaryZh": ""
+    },
+    {
+      "title": "Luxembourg deploys additional detection assets following drone sightings",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSm05czFzTUZEcjcyamJpZ09rOGRFYlpFLWhoaFdKVFlpaThZclVlQXV2SHMwZW9rZ3F5NVNMVld2Y0dzWHdabWZJbFlaZEdYY3BMcWFjMmQ1dU41MER4ZXhHa3B3RU44V3JwLWtJeFh6dXh5UEd6dVdNVEV0QUVSOVhweVZnSmJVTkN5R2lLOGV3WWVfajQ3TVhUQk5QWmlsTHEwSEtvX0ptbTNYTGIyRmhlcVh4Y0dUQnJIVzhxc0UtVEV1bklEdWlXcGt5cDQ5?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-20T12:30:54.000Z",
+      "summary": "",
+      "titleZh": "卢森堡在无人机目击事件后部署额外的探测资产"
     },
     {
       "title": "The 'robot relations' department may become reality in workplace of the future",
@@ -168,28 +156,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-20T14:37:34.000Z",
-      "summary": "未来职场可能设立机器人关系部门以应对自动化管理挑战。",
+      "summary": "未来职场可能设立机器人关系部门。",
       "summaryZh": "",
       "titleZh": "“机器人关系”部门可能在未来的工作场所成为现实"
-    },
-    {
-      "title": "刊见湾区科技 | AI不只“会说”，还要“会做”：郭毅可谈具身智能如何改变世界",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RYk1LUThzVHhhNW9rR0ZxRGwwdVAyQ2RjaDRnSFhyRHowU0RKMjRMN091UnFPa0ZIb3RUVWtGRG1iZHdVOVJIVHlKXzQxeFZlUjNqUmxnS0d3U2l3ZnFnc0xCOEctUQ?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-20T08:30:32.000Z",
-      "summary": ""
-    },
-    {
-      "title": "它石智航陈亦伦：从中国磁吸效应看具身智能方案攻坚工业智能化“最后一公里”",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tX3h2LWZRRjA3YnBEQmE0SG51RDZ5UjNGSWNDYzVCeXd0LVM5UU05eUQ5UmdZNm5SZ3NUX3VaWmc1U2VLQ3RQSnhkOXh4MVJxLUR5a1dSblZhMWowX2c5akVDSXFZeWZnNkh6WTVCSGVXckQ2b2lZQUFB?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-20T10:14:13.000Z",
-      "summary": "石智航陈亦伦探讨具身智能方案助力工业智能化发展。",
-      "summaryZh": ""
     }
   ]
 }
