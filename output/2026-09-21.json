@@ -1,14 +1,14 @@
 {
   "date": "2026-09-21",
-  "generatedAt": "2026-09-20T21:49:30.173Z",
+  "generatedAt": "2026-09-20T23:18:45.969Z",
   "items": [
     {
-      "title": "AI算力芯片独角兽奕行智能再获20亿融资， 加速RISC-V云端AI算力商业化落地与生态引领",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5ZFNvVjFoczJpek9SdHdEV1lFS1VZbmtLNUJ6MHFSMXFkdGVYVjV0U3VkT096ZElYZHc5bW9XdmdEMGJKM1FBaTRyN3Rmdw?oc=5",
+      "title": "Claude Code下半年：格式投降OpenAI，功能借鉴DeepSeek",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGT0lOYVlXUk56UUJIYnF1N0RRRkFjUy1ScEFMdURnc3laTjhOMTN0TXhvNmVhdkM4azRJMmdmY1p3QzNoSjliOFFGa0RyUQ?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-19T21:58:00.000Z",
+      "pubDate": "2026-09-20T07:53:00.000Z",
       "summary": ""
     },
     {
@@ -28,7 +28,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-20T11:36:44.000Z",
-      "summary": "AI模型无人机可在断网环境下自主识别和打击目标。",
+      "summary": "AI模型无人机实现战场自主识别与打击目标。",
       "summaryZh": ""
     },
     {
@@ -72,12 +72,22 @@
     },
     {
       "title": "OpenAI前研究员创办TypeSafe AI，推出非大语言模型Jev，速度提升200倍",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zRFNEVkFfTkRnU0U5V0RzVU1KbW13RGpLOFUzdmQ3LTJqQXhwY05leG9WaXh4cGNiX3BRcGZ6OTd0UjVWSERIUzZlUl9wSDRseTByZ2pJbWItajJ0OU5N?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uOHNxdlI2TjY0ajBKV0VYSnltd1JsOV8tVUJ1WUczcTVTX0tsTFRQVHRmWUtIMWZlTTZyODJ0SFAwWVhjTlgtblRjQjN4SF9RUDh5Tg?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-20T13:29:26.000Z",
-      "summary": "TypeSafe AI推出非大语言模型Jev，速度提升200倍。",
+      "summary": "TypeSafe AI推出非大语言模型Jev，速度提升200倍，成本极低且不产生幻觉。",
+      "summaryZh": ""
+    },
+    {
+      "title": "网易有道发布AI Agent全景生态",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Lb0tGYUNydXFhWHE5LWdRNFZKVkQwU0hZUVp2X1Y0bXpnNHJHRTFzc3NHd3FPRmItcnk0NmhyMnBTTzlDaUZKUXNnYkRJT1MtRzJnQVhPNHR0enN5eGZ1Z01ESDdTUU93QTYxZnNIbmY?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-20T12:30:43.000Z",
+      "summary": "网易有道发布AI Agent全景生态，展示多场景AI智能体产品矩阵与最新技术成果。",
       "summaryZh": ""
     },
     {
@@ -88,7 +98,8 @@
       "category": "ai",
       "pubDate": "2026-09-20T09:30:00.000Z",
       "summary": "ChatGPT记忆功能影响回答，可调整设置以保护隐私。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "ChatGPT 认为它对您的了解会影响它的答案。以下是如何改变这一现状"
     },
     {
       "title": "机器人如何自进化，乐享科技走了一条新路",
@@ -108,7 +119,8 @@
       "category": "robotics",
       "pubDate": "2026-09-20T12:45:45.000Z",
       "summary": "人形机器人损坏后需进行高技术、高风险的回收处理。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "当人形机器人发生故障时，你会怎么处理？"
     },
     {
       "title": "英伟达副总裁Ian Buck：从 Vera Rubin 平台看 Agentic AI 时代的算力演进",
@@ -149,6 +161,16 @@
       "summaryZh": ""
     },
     {
+      "title": "从人形机器人到AI养猪大楼，日媒惊叹中国硬核科创惊艳全球",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zOVpjbzhid3ZtQzhkeHB0Z1JkNld1ekRxN1BoM0M4d3hIZmZPTVVVMWdjQ2lzMnlZMnV0LVNwVkxxenJVOTdyZHVKOC1seTViNnlMbmhn?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-20T00:59:00.000Z",
+      "summary": "中国硬核科创在机器人、AI养猪等领域取得全球领先。",
+      "summaryZh": ""
+    },
+    {
       "title": "河北省首张县级人工智能CPO算力券在邯郸成安发布",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ONVVGaUVYM2lodWZiNFZhWjR4TTRhc3Vjb3BSNXlvSXppVVkxMXNhdUJvMnN3SmpLRTdoTWJIQW5zb3pCdkRrVzRKSHRnSXM4UWs4aEJiMThoN0xrdzAzWVltT0x4SUNaeE80R2dJR2tDdw?oc=5",
       "source": "央广网",
@@ -165,7 +187,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-20T20:56:01.000Z",
-      "summary": "日本计划通过工业机械收集AI数据，目标2040年机器人产业规模达20万亿日元。",
+      "summary": "日本计划通过工业机械收集物理AI数据，目标2040年机器人产业规模达20万亿日元。",
       "summaryZh": ""
     },
     {
@@ -175,7 +197,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-20T03:32:34.000Z",
-      "summary": "大模型在购物决策中作用显著，但下单购物功能发展缓慢。",
+      "summary": "大模型在购物决策中作用显著，但下单购物功能发展较慢。",
       "summaryZh": ""
     },
     {
@@ -185,7 +207,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-20T05:04:29.000Z",
-      "summary": "全球首个大型具身智能主题乐园9月24日启幕，超300台机器人集体上岗。",
+      "summary": "全球首个大型具身智能主题乐园9月24日启幕。",
       "summaryZh": ""
     },
     {
@@ -195,17 +217,8 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-20T09:10:46.000Z",
-      "summary": "福建沙县AI公共安全短剧创作中心揭牌，探索“科普+文创+文旅”宣教新模式。",
+      "summary": "福建沙县AI公共安全短剧创作中心揭牌，探索科普+文创+文旅宣教新模式。",
       "summaryZh": ""
-    },
-    {
-      "title": "Luxembourg deploys additional detection assets following drone sightings",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSm05czFzTUZEcjcyamJpZ09rOGRFYlpFLWhoaFdKVFlpaThZclVlQXV2SHMwZW9rZ3F5NVNMVld2Y0dzWHdabWZJbFlaZEdYY3BMcWFjMmQ1dU41MER4ZXhHa3B3RU44V3JwLWtJeFh6dXh5UEd6dVdNVEV0QUVSOVhweVZnSmJVTkN5R2lLOGV3WWVfajQ3TVhUQk5QWmlsTHEwSEtvX0ptbTNYTGIyRmhlcVh4Y0dUQnJIVzhxc0UtVEV1bklEdWlXcGt5cDQ5?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-20T12:30:54.000Z",
-      "summary": ""
     },
     {
       "title": "The 'robot relations' department may become reality in workplace of the future",
@@ -215,7 +228,8 @@
       "category": "robotics",
       "pubDate": "2026-09-20T14:37:34.000Z",
       "summary": "未来职场可能设立机器人关系部门以应对自动化管理挑战。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "“机器人关系”部门可能在未来的工作场所成为现实"
     }
   ]
 }
