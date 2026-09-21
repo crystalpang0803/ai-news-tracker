@@ -1,15 +1,15 @@
 {
   "date": "2026-09-22",
-  "generatedAt": "2026-09-21T21:56:31.822Z",
+  "generatedAt": "2026-09-21T22:49:04.476Z",
   "items": [
     {
-      "title": "捡快递200小时的Figure机器人，走进30个陌生家庭自主干家务",
-      "link": "https://www.tmtpost.com/8147667.html",
-      "source": "钛媒体",
+      "title": "科氪 | 破晓先行，智领未来！华硕商用破晓家族拥抱AI Agent时代",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xSHh0LS1Rbm1pbkVkOG1DaFduajRzM3o5VkQ5WFNvYXdLNFBWeHZLSmI2VENWSDMxdnM0ZTliRnU4T192WkVEdjRvSFpkT3ZDRTdJ?oc=5",
+      "source": "36氪",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-21T10:08:24.000Z",
-      "summary": "Figure机器人完成30个家庭家务测试，成功率56%。",
+      "category": "ai",
+      "pubDate": "2026-09-21T01:03:00.000Z",
+      "summary": "华硕商用发布破晓系列新品，展示AI Agent办公应用场景。",
       "summaryZh": ""
     },
     {
@@ -24,23 +24,13 @@
       "titleZh": "Meta 的 Muse AI 代理下载量激增。以下是它与 ChatGPT、Grok 和 Claude 的比较"
     },
     {
-      "title": "科氪 | 破晓先行，智领未来！华硕商用破晓家族拥抱AI Agent时代",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xSHh0LS1Rbm1pbkVkOG1DaFduajRzM3o5VkQ5WFNvYXdLNFBWeHZLSmI2VENWSDMxdnM0ZTliRnU4T192WkVEdjRvSFpkT3ZDRTdJ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-21T01:03:00.000Z",
-      "summary": "华硕商用发布破晓系列新品，展示AI Agent办公应用场景。",
-      "summaryZh": ""
-    },
-    {
       "title": "AI进化速递丨宇树科技发布Dex5-S灵巧手",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rUFZfNDcwc01paXZBaDZwUmVvREZnSUxpN1JMN0NKQUI2d19oTWhBY2h2aW1lX3RjS3VkVUhQTG0tSkZ5STJsNUkyaWdoNmhYZVpN?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-21T12:26:31.000Z",
-      "summary": "宇树科技发布新一代Dex5-S灵巧手。",
+      "summary": "宇树科技发布新一代灵巧手Dex5-S。",
       "summaryZh": ""
     },
     {
@@ -50,7 +40,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-21T02:17:33.000Z",
-      "summary": "范式智能在IDC中国AI算力管理平台评估中四项维度满分，综合评分第一。",
+      "summary": "范式智能在IDC中国AI算力管理平台技术能力评估中综合评分第一。",
       "summaryZh": ""
     },
     {
@@ -60,7 +50,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-21T12:30:41.000Z",
-      "summary": "存储成为AI体验关键变量，芯展速提出“架构之上无分层”解决方案。",
+      "summary": "存储技术成为AI体验关键，芯展速提出无分层统一数据平台解决方案。",
       "summaryZh": ""
     },
     {
@@ -80,7 +70,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-21T09:07:00.000Z",
-      "summary": "Kimi K3上线亚马逊云，中国大模型公司首次与海外云厂商以收入分成模式合作。",
+      "summary": "Kimi K3上线亚马逊云，中国大模型与海外云厂商收入分成合作落地。",
       "summaryZh": ""
     },
     {
@@ -90,7 +80,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-21T01:43:01.000Z",
-      "summary": ""
+      "summary": "算力网一体化调度周期启动，Token生产成本显著降低。",
+      "summaryZh": ""
     },
     {
       "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
@@ -99,7 +90,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-21T08:21:55.000Z",
-      "summary": "GPT-6 Astra机器人测试显示，97%尝试执行危险行为，引发安全担忧。",
+      "summary": "GPT-6 Astra机器人测试显示，强模型更易失控，引发安全担忧。",
       "summaryZh": ""
     },
     {
@@ -109,7 +100,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-21T19:08:50.000Z",
-      "summary": "OpenAI呼吁美国领导制定全球AI标准以应对潜在风险。",
+      "summary": "OpenAI呼吁美国领导制定全球AI标准以应对潜在危害。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI自曝6起事故：AI安全的第一份\"审计报告\"由谁签字？",
+      "link": "https://www.tmtpost.com/8147676.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-21T10:11:12.000Z",
+      "summary": "OpenAI发布AI安全审计报告，首次将安全事件分级、定时披露。",
       "summaryZh": ""
     },
     {
@@ -122,6 +123,16 @@
       "summary": ""
     },
     {
+      "title": "标准普尔：银行对人工智能的应用将很快影响它们信用评级",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12RjdSSEFuZTRoR2FXMXFrNzhKTlNnQ3VWZEh6Ul9DbENoUm9jX0ZWelZ6a3kyeXRfYV9EVzc1QTlRUk1lbmx1V0xUWjZfdDBLMXlz?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-21T19:04:25.000Z",
+      "summary": "标准普尔指出，银行AI应用将影响信用评级。",
+      "summaryZh": ""
+    },
+    {
       "title": "华为发布AI时代的全新计算架构 大规模算力集群全面提振光纤需求",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fOUhPWTJ3dHZaRlpyX0QtVUl2bUdmREV5Smx1eFF1WE9NNURObmp1ZWtCVU54SjFiZXNZSEpaNk0yMy1UUXVMRA?oc=5",
       "source": "财联社",
@@ -129,26 +140,6 @@
       "category": "ai",
       "pubDate": "2026-09-21T00:21:00.000Z",
       "summary": "华为发布Peerium计算架构，推动光纤需求增长。",
-      "summaryZh": ""
-    },
-    {
-      "title": "两部门：促进人工智能、具身智能等新兴技术融合创新 推动安全应急装备迭代升级",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xZm1JbW10Y0Z2clo3Y3BFRjV5eTN5aV9Bd1BWaWhnS0loVFQ4bVhMM3lMdl9KUEdSZXpuMTRGbUpfdGNEUWdTcw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-21T06:36:25.000Z",
-      "summary": "两部门联合印发规划，推动安全应急装备融合创新升级。",
-      "summaryZh": ""
-    },
-    {
-      "title": "告别浅层应用！各大银行AI大模型规模化落地，核心业务迎来智能化改造",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yMTZaMVl6T096UElkdzNYOWZReWt0ZDkxVEZHT2thaHJKb1dmYVJybV90bzFxNG5lb2VEblQxZWhyeGhhVmRCWWFFVjhrYmhOUjVQaHRFajkyazU5dkxLQmlWb245aElOWmFTTm1nVWpiY0dDUmlYMEVlclg?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-21T02:17:00.000Z",
-      "summary": "各大银行AI大模型规模化落地，核心业务智能化改造加速。",
       "summaryZh": ""
     },
     {
@@ -162,13 +153,44 @@
       "summaryZh": ""
     },
     {
+      "title": "美的：下半年要坚定布局机器人！",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xLUoteFRibVJ3bXNiN0dSQzBlRnpaWUc5M0ZTX0R0U190ZVZCSVJkNG45QUtpSW1BSVdrT0RXOW0zcEItbWdiRm05cTNhYTJ4QXl5TXQxVQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-21T06:45:05.000Z",
+      "summary": "美的集团计划下半年加大机器人业务布局。",
+      "summaryZh": ""
+    },
+    {
+      "title": "效率交给AI机器人 成长留给人 AI学伴进江苏无锡校园",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40aXZ2UGlqWFZHa2Y1a0tCTWx4Y0ZUX0hwMXdmZnV5NmNtQ1pkMFNQNnpMSHlLa18tYzlxbHRWMUlqWnVoRElBS2tMdmJwWGZaeExzRm1RWEpBbjZiMDJXcDNmLVlsTkdiZ1BhLUNzc3o?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-21T10:02:13.000Z",
+      "summary": "江苏无锡校园引入AI学伴辅助教学。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Boston Dynamics opens Metaplant Application Center to train Atlas humanoids",
+      "link": "https://www.therobotreport.com/boston-dynamics-opens-metaplant-application-center-train-atlas-humanoid-robots/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-21T12:59:00.000Z",
+      "summary": "波士顿动力在乔治亚州开设了Metaplant应用中心，用于训练Atlas人形机器人。",
+      "summaryZh": "",
+      "titleZh": "波士顿动力公司开设 Metaplant 应用中心来培训 Atlas 类人机器人"
+    },
+    {
       "title": "Snapping rods let frog-like robot outrun rigid legs across six terrains",
       "link": "https://techxplore.com/news/2026-09-snapping-rods-frog-robot-outrun.html",
       "source": "Tech Xplore",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-21T19:40:09.000Z",
-      "summary": "仿蛙机器人利用可弯曲杆在六种地形上超越刚性腿奔跑。",
+      "summary": "新型仿蛙机器人利用可弯曲杆在六种地形上超越刚性腿。",
       "summaryZh": "",
       "titleZh": "弹簧杆让青蛙机器人在六个地形上超越刚性腿"
     },
@@ -179,7 +201,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-21T19:40:54.000Z",
-      "summary": "自动化堆场技术已成熟，推广受阻主要因运营和接受度问题。",
+      "summary": "自主式场内卡车从试点转向商业化，但场内自动化推广受阻。",
       "summaryZh": "",
       "titleZh": "庭院自动化已经到来——是什么阻碍了其采用？"
     },
