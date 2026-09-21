@@ -1,15 +1,26 @@
 {
   "date": "2026-09-21",
-  "generatedAt": "2026-09-20T23:18:45.969Z",
+  "generatedAt": "2026-09-21T00:31:03.346Z",
   "items": [
     {
-      "title": "Claude Code下半年：格式投降OpenAI，功能借鉴DeepSeek",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGT0lOYVlXUk56UUJIYnF1N0RRRkFjUy1ScEFMdURnc3laTjhOMTN0TXhvNmVhdkM4azRJMmdmY1p3QzNoSjliOFFGa0RyUQ?oc=5",
-      "source": "36氪",
+      "title": "B站上线“AI 无限竞技场”LLM 测评榜：号称“全球百大模型同场竞技”、GPT-6 现居榜首",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wV1p6NF9iU1dYelZwOFVhVkFxUTducFV5S1FMOXNyblN2TjNPbjhlYnRKSk5FaUdiVTlCNmdleER4T0o5VXpZQldCcms?oc=5",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-20T07:53:00.000Z",
-      "summary": ""
+      "pubDate": "2026-09-20T05:46:36.000Z",
+      "summary": "B站推出“AI无限竞技场”LLM测评榜，GPT-6位居榜首。",
+      "summaryZh": ""
+    },
+    {
+      "title": "钛晨报分类推进高校改革，中办、国办最新部署；启元机器人发布个人机器人，19999元起售；长鑫科技第五代技术平台正式量产",
+      "link": "https://www.tmtpost.com/8146468.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-20T23:20:00.000Z",
+      "summary": "中办、国办部署高校改革，启元机器人发布个人机器人，长鑫科技第五代技术平台量产。",
+      "summaryZh": ""
     },
     {
       "title": "贾跃亭的法拉第未来一口气发布九款配置 EAI 机器人，最贵超 92 万元",
@@ -18,37 +29,37 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-20T15:10:23.000Z",
-      "summary": "法拉第未来发布九款EAI机器人，最贵型号售价超92万元。",
+      "summary": "法拉第未来发布九款EAI机器人，最贵超92万元。",
       "summaryZh": ""
     },
     {
-      "title": "断网仍可作战：AI 模型加持的无人机可实现战场自主识别、打击目标",
-      "link": "https://www.ithome.com/1/004/954.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-20T11:36:44.000Z",
-      "summary": "AI模型无人机实现战场自主识别与打击目标。",
-      "summaryZh": ""
-    },
-    {
-      "title": "10岁小孩姐，都能轻松给机器人编程！稚晖君连发两款万元级机器人",
-      "link": "https://zhidx.com/p/595607.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-20T09:58:42.000Z",
-      "summary": "启元机器人发布两款万元级个人机器人，支持图形化编程，10岁小孩可轻松操作。",
-      "summaryZh": ""
-    },
-    {
-      "title": "对话阿里云王朝阳：中国不缺电，AI卡在电与算力的协同",
-      "link": "https://www.tmtpost.com/8146043.html",
+      "title": "蜂助手76亿算力大单追踪：巨额预付款缺口与中间商的重资产险途",
+      "link": "https://www.tmtpost.com/8146274.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-20T03:10:03.000Z",
-      "summary": "中国电力充足，AI发展受制于电与算力协同问题。",
+      "pubDate": "2026-09-21T00:00:00.000Z",
+      "summary": "蜂助手76亿算力大单面临巨额预付款缺口和中间商重资产风险。",
+      "summaryZh": ""
+    },
+    {
+      "title": "又一国产MoE旗舰模型登场！跻身全球开源第三，价格对标DeepSeek-V4-Pro",
+      "link": "https://zhidx.com/p/595573.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-20T10:45:11.000Z",
+      "summary": "阶跃星辰发布MoE旗舰模型Step 5 Preview，跻身全球开源第三，价格对标DeepSeek-V4-Pro。",
+      "summaryZh": ""
+    },
+    {
+      "title": "启元机器人接入WorkBuddy",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OeWN0YmxvV0FiU2x5TUNxd3NZcURiQVJ1MEVZWXdwVWNKRWZOd1paUlowbW5iYmUxZU5Yc0tGR0NRZ2MzWFJEdzVLSQ?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-20T04:46:40.000Z",
+      "summary": "启元机器人接入WorkBuddy，实现智能交互链路。",
       "summaryZh": ""
     },
     {
@@ -71,6 +82,16 @@
       "summary": ""
     },
     {
+      "title": "华为发布新一代AI算力基础设施",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvc2h3aU44MTNqU2hVemx0MW94OWRubzhBQTB1a0lGY2pUT3IwZE5wbkZaRVZyWWtGdDRLU1kzY0FqVE9hdno5dFdoeEhiS2c2czVDR2xGMzVuczhJLUE?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-20T02:23:42.000Z",
+      "summary": "华为发布昇腾960超节点AI算力基础设施，算力卡数量提升至4096卡，采用NPO技术。",
+      "summaryZh": ""
+    },
+    {
       "title": "OpenAI前研究员创办TypeSafe AI，推出非大语言模型Jev，速度提升200倍",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uOHNxdlI2TjY0ajBKV0VYSnltd1JsOV8tVUJ1WUczcTVTX0tsTFRQVHRmWUtIMWZlTTZyODJ0SFAwWVhjTlgtblRjQjN4SF9RUDh5Tg?oc=5",
       "source": "虎嗅",
@@ -81,13 +102,13 @@
       "summaryZh": ""
     },
     {
-      "title": "网易有道发布AI Agent全景生态",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Lb0tGYUNydXFhWHE5LWdRNFZKVkQwU0hZUVp2X1Y0bXpnNHJHRTFzc3NHd3FPRmItcnk0NmhyMnBTTzlDaUZKUXNnYkRJT1MtRzJnQVhPNHR0enN5eGZ1Z01ESDdTUU93QTYxZnNIbmY?oc=5",
-      "source": "科技日报",
+      "title": "中信建投：智谱商业化提速 海外算力需求延续高景气",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RRFVHTnI3M0xKYVRvYTk3TjhhU01BOFFkOUM2Z280alhNQ2ozaG5Nck1idGFHZ1ZUM3g5NmJRVWU1YUJtN2pQUGFteU1sZUk2TmRF?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-20T12:30:43.000Z",
-      "summary": "网易有道发布AI Agent全景生态，展示多场景AI智能体产品矩阵与最新技术成果。",
+      "pubDate": "2026-09-20T23:50:29.000Z",
+      "summary": "中信建投研报显示，智谱商业化加速，海外算力需求持续旺盛。",
       "summaryZh": ""
     },
     {
@@ -102,6 +123,16 @@
       "titleZh": "ChatGPT 认为它对您的了解会影响它的答案。以下是如何改变这一现状"
     },
     {
+      "title": "网易有道发布AI Agent全景生态",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Lb0tGYUNydXFhWHE5LWdRNFZKVkQwU0hZUVp2X1Y0bXpnNHJHRTFzc3NHd3FPRmItcnk0NmhyMnBTTzlDaUZKUXNnYkRJT1MtRzJnQVhPNHR0enN5eGZ1Z01ESDdTUU93QTYxZnNIbmY?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-20T12:30:43.000Z",
+      "summary": "网易有道发布覆盖多场景的AI智能体产品矩阵，探索AI价值创造新阶段。",
+      "summaryZh": ""
+    },
+    {
       "title": "机器人如何自进化，乐享科技走了一条新路",
       "link": "http://www.geekpark.net/news/370665",
       "source": "极客公园",
@@ -112,13 +143,23 @@
       "summaryZh": ""
     },
     {
+      "title": "宇树G1+ 与Digit5不是对手，是人形机器人两条分化路线",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XTTV5VlRxUnlncDBEZk8tTU05SXprS3ZFbjM5bEUxVEtuSVRDcWM3Q25xbml5UVVmSWxlRGo5cWNuVkdhQWkyM29MY3lxRnJ6bTBLRnRONA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-20T07:00:41.000Z",
+      "summary": "宇树G1+与Digit5定位不同，分别面向教育和工业应用市场。",
+      "summaryZh": ""
+    },
+    {
       "title": "What do you do with a humanoid robot when it breaks down?",
       "link": "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-20T12:45:45.000Z",
-      "summary": "人形机器人损坏后需进行高技术、高风险的回收处理。",
+      "summary": "人形机器人报废后需进行复杂的技术回收处理。",
       "summaryZh": "",
       "titleZh": "当人形机器人发生故障时，你会怎么处理？"
     },
@@ -151,16 +192,6 @@
       "summaryZh": ""
     },
     {
-      "title": "宇树G1+ 与Digit5不是对手，是人形机器人两条分化路线",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XTTV5VlRxUnlncDBEZk8tTU05SXprS3ZFbjM5bEUxVEtuSVRDcWM3Q25xbml5UVVmSWxlRGo5cWNuVkdhQWkyM29MY3lxRnJ6bTBLRnRONA?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-20T07:00:41.000Z",
-      "summary": "宇树G1+与Digit5定位不同，分别面向高校和工厂市场。",
-      "summaryZh": ""
-    },
-    {
       "title": "从人形机器人到AI养猪大楼，日媒惊叹中国硬核科创惊艳全球",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zOVpjbzhid3ZtQzhkeHB0Z1JkNld1ekRxN1BoM0M4d3hIZmZPTVVVMWdjQ2lzMnlZMnV0LVNwVkxxenJVOTdyZHVKOC1seTViNnlMbmhn?oc=5",
       "source": "腾讯新闻",
@@ -171,33 +202,13 @@
       "summaryZh": ""
     },
     {
-      "title": "河北省首张县级人工智能CPO算力券在邯郸成安发布",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ONVVGaUVYM2lodWZiNFZhWjR4TTRhc3Vjb3BSNXlvSXppVVkxMXNhdUJvMnN3SmpLRTdoTWJIQW5zb3pCdkRrVzRKSHRnSXM4UWs4aEJiMThoN0xrdzAzWVltT0x4SUNaeE80R2dJR2tDdw?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-20T11:26:52.000Z",
-      "summary": "河北省邯郸成安发布首张县级人工智能CPO算力券。",
-      "summaryZh": ""
-    },
-    {
-      "title": "日本计划利用工业机械收集物理AI数据，目标2040年机器人产业规模达20万亿日元",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rVFlXS243VkJjcVl0ZUZoWlRYZ2JNc1IwWVItVFBzMEpvV0VJX1lydHBkbXN2Sm5ZeTFSMWM1RTBsN0dMLXVEZ0VWU01PRVcyUnpR?oc=5",
-      "source": "虎嗅",
+      "title": "具身智能，留不住“一把手”",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02SzlURUh3dVo5YUlPWTdESFlzR3JXVi1MbUYxTUNvWGJpY3BLWkF3WHJjXzNfSXVwUmJnSk9kWm1udzBiX2I5cktRR3h2X0ZJQXdyNU1JOFc?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-20T20:56:01.000Z",
-      "summary": "日本计划通过工业机械收集物理AI数据，目标2040年机器人产业规模达20万亿日元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "大模型还没学会替你下单，但已经在替你做决定了",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jUzNWZ0xEV1l6Q0JSMWlUSzZqRnhIRndIQms5VEV0M1dSNkc4Sm9lSGVNaGNVQnFveUpWbUlZU0ktUVBranpEaldGcjM?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-20T03:32:34.000Z",
-      "summary": "大模型在购物决策中作用显著，但下单购物功能发展较慢。",
+      "pubDate": "2026-09-20T13:49:33.000Z",
+      "summary": "具身智能领域核心人才密集离职。",
       "summaryZh": ""
     },
     {
@@ -211,16 +222,6 @@
       "summaryZh": ""
     },
     {
-      "title": "福建沙县：AI公共安全短剧创作中心揭牌 探索“科普+文创+文旅”宣教新模式",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1RHAwa1phTXBPZUlWWGR0NGhMd2hFOFJYVk9kN3F2bzRzaWM0clN0TVhHRjdYVTJNN295RklzQVNZVHk0bWlfTGVMYzVYWWVKZl83VkZyTmZIR2xxU2VOZV92eFhackl5R2gteVV0WlVLZw?oc=5",
-      "source": "中国新闻网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-20T09:10:46.000Z",
-      "summary": "福建沙县AI公共安全短剧创作中心揭牌，探索科普+文创+文旅宣教新模式。",
-      "summaryZh": ""
-    },
-    {
       "title": "The 'robot relations' department may become reality in workplace of the future",
       "link": "https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html",
       "source": "CNBC Tech",
@@ -230,6 +231,16 @@
       "summary": "未来职场可能设立机器人关系部门以应对自动化管理挑战。",
       "summaryZh": "",
       "titleZh": "“机器人关系”部门可能在未来的工作场所成为现实"
+    },
+    {
+      "title": "让 AI 在智能制造中生长",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NT2R6VHhQcEo1NC1tWXVQRUUtUTZMZV9ZSS14UXUteng4VE1HNkV4ak5hcDRQZHBpZTR4MU16NHdZM3EtZmZ4MXFaQmJBRUlpd0duNzRHV016QTlqTHJpcVIxOWF6OW5IZVFr?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-20T01:22:00.000Z",
+      "summary": "五新智能AI实践分享会聚焦AI在智能制造中的应用与落地。",
+      "summaryZh": ""
     }
   ]
 }
