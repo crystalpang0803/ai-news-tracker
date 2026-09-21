@@ -1,45 +1,45 @@
 {
   "date": "2026-09-21",
-  "generatedAt": "2026-09-21T00:31:03.346Z",
+  "generatedAt": "2026-09-21T05:02:03.477Z",
   "items": [
     {
-      "title": "B站上线“AI 无限竞技场”LLM 测评榜：号称“全球百大模型同场竞技”、GPT-6 现居榜首",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wV1p6NF9iU1dYelZwOFVhVkFxUTducFV5S1FMOXNyblN2TjNPbjhlYnRKSk5FaUdiVTlCNmdleER4T0o5VXpZQldCcms?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-20T05:46:36.000Z",
-      "summary": "B站推出“AI无限竞技场”LLM测评榜，GPT-6位居榜首。",
-      "summaryZh": ""
-    },
-    {
-      "title": "钛晨报分类推进高校改革，中办、国办最新部署；启元机器人发布个人机器人，19999元起售；长鑫科技第五代技术平台正式量产",
-      "link": "https://www.tmtpost.com/8146468.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-20T23:20:00.000Z",
-      "summary": "中办、国办部署高校改革，启元机器人发布个人机器人，长鑫科技第五代技术平台量产。",
-      "summaryZh": ""
-    },
-    {
-      "title": "贾跃亭的法拉第未来一口气发布九款配置 EAI 机器人，最贵超 92 万元",
-      "link": "https://www.ithome.com/1/005/010.htm",
+      "title": "IDC：2026 上半年全球四足机器人出货量同比增长 92.5%，宇树、云深处、智元三大国产厂商霸榜",
+      "link": "https://www.ithome.com/1/005/123.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-20T15:10:23.000Z",
-      "summary": "法拉第未来发布九款EAI机器人，最贵超92万元。",
+      "pubDate": "2026-09-21T03:53:08.000Z",
+      "summary": "2026年上半年全球四足机器人出货量同比增长92.5%，宇树、云深处、智元三大国产厂商领跑市场。",
       "summaryZh": ""
     },
     {
-      "title": "蜂助手76亿算力大单追踪：巨额预付款缺口与中间商的重资产险途",
-      "link": "https://www.tmtpost.com/8146274.html",
-      "source": "钛媒体",
+      "title": "Figure AI 宣称找到了机器人版 scaling law，同行却说它其实根本不会泛化",
+      "link": "http://www.geekpark.net/news/370607",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-21T03:57:07.000Z",
+      "summary": "Figure AI 机器人泛化能力引争议，成功率仅56%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "能在 100 米高空救援的无人机：“天目山九号”飞行平台发布，一次能载 3 个人",
+      "link": "https://www.ithome.com/1/005/119.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-21T03:34:06.000Z",
+      "summary": "“天目山九号”无人机发布，可载3人高空救援。",
+      "summaryZh": ""
+    },
+    {
+      "title": "IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分",
+      "link": "https://www.qbitai.com/2026/09/493109.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-21T00:00:00.000Z",
-      "summary": "蜂助手76亿算力大单面临巨额预付款缺口和中间商重资产风险。",
+      "pubDate": "2026-09-21T02:17:33.000Z",
+      "summary": "范式AI算力管理平台在IDC评估中综合评分第一，四项关键维度获满分。",
       "summaryZh": ""
     },
     {
@@ -53,24 +53,13 @@
       "summaryZh": ""
     },
     {
-      "title": "启元机器人接入WorkBuddy",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OeWN0YmxvV0FiU2x5TUNxd3NZcURiQVJ1MEVZWXdwVWNKRWZOd1paUlowbW5iYmUxZU5Yc0tGR0NRZ2MzWFJEdzVLSQ?oc=5",
-      "source": "智东西",
+      "title": "机器人IPO门槛收紧？投行一线求证",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PTjdQc2xJbEZ0UmdYaF9DNlFDT0VmdlZ5cHlnNmZrTmVBd2E3QTVDTFdRNDNCMFBuVDdldkZGNWl0TnR5cW83OA?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-20T04:46:40.000Z",
-      "summary": "启元机器人接入WorkBuddy，实现智能交互链路。",
-      "summaryZh": ""
-    },
-    {
-      "title": "详解李飞飞的世界模型 Atlas：如何影响自动驾驶、人形机器人等Physical AI 产业",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VQjZ1YzQxbV9kX3F3dW9KdWRUaEx1eWFLcGxHdG41VTZZRklydWpuUUxOUWItZUZENW1qOWNuVlhRMVJXMTI0d21NYmN0MUQ2cGRBdGdncw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-20T03:27:46.000Z",
-      "summary": "李飞飞的世界模型Atlas融合生成与重建，影响自动驾驶和人形机器人算法。",
-      "summaryZh": ""
+      "pubDate": "2026-09-21T00:21:00.000Z",
+      "summary": ""
     },
     {
       "title": "边缘算力升级，工控机站上AI风口",
@@ -82,23 +71,22 @@
       "summary": ""
     },
     {
-      "title": "华为发布新一代AI算力基础设施",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvc2h3aU44MTNqU2hVemx0MW94OWRubzhBQTB1a0lGY2pUT3IwZE5wbkZaRVZyWWtGdDRLU1kzY0FqVE9hdno5dFdoeEhiS2c2czVDR2xGMzVuczhJLUE?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-20T02:23:42.000Z",
-      "summary": "华为发布昇腾960超节点AI算力基础设施，算力卡数量提升至4096卡，采用NPO技术。",
-      "summaryZh": ""
-    },
-    {
       "title": "OpenAI前研究员创办TypeSafe AI，推出非大语言模型Jev，速度提升200倍",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uOHNxdlI2TjY0ajBKV0VYSnltd1JsOV8tVUJ1WUczcTVTX0tsTFRQVHRmWUtIMWZlTTZyODJ0SFAwWVhjTlgtblRjQjN4SF9RUDh5Tg?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-20T13:29:26.000Z",
-      "summary": "TypeSafe AI推出非大语言模型Jev，速度提升200倍，成本极低且不产生幻觉。",
+      "summary": ""
+    },
+    {
+      "title": "上帝来了：维特根斯坦与Anthropic、OpenAI的全部秘密",
+      "link": "https://www.tmtpost.com/8146716.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-21T01:35:00.000Z",
+      "summary": "维特根斯坦哲学与Anthropic、OpenAI大模型技术存在内在联系。",
       "summaryZh": ""
     },
     {
@@ -123,6 +111,54 @@
       "titleZh": "ChatGPT 认为它对您的了解会影响它的答案。以下是如何改变这一现状"
     },
     {
+      "title": "China slows humanoid robot IPO rush as hype outruns reality",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSll2MnZ6OEFUQ3RlRERmYlhlSFcyaldhWEVGRlR2ZlF2UW8wQ09qdmc5NnFhQ3c4M296Q0F1aXRyRm11dnVqc2FlTkVybGZBQTJfZkY1NmQ2dW8zSGNrdm5VWUZXTmdaSzdLdVJRMWJuemM3VC15bU1CQ05YNHE5VXRmRjI4YkxocVZGTHpTVXRLajFkaVZra29qdXdxVnBOeXVHbzJ1aV81czBtV2c?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-21T03:37:53.000Z",
+      "summary": "",
+      "titleZh": "炒作超过现实，中国放缓人形机器人IPO热潮"
+    },
+    {
+      "title": "告别浅层应用！各大银行AI大模型规模化落地，核心业务迎来智能化改造",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yMTZaMVl6T096UElkdzNYOWZReWt0ZDkxVEZHT2thaHJKb1dmYVJybV90bzFxNG5lb2VEblQxZWhyeGhhVmRCWWFFVjhrYmhOUjVQaHRFajkyazU5dkxLQmlWb245aElOWmFTTm1nVWpiY0dDUmlYMEVlclg?oc=5",
+      "source": "央视网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-21T02:17:00.000Z",
+      "summary": "各大银行AI大模型规模化落地，核心业务智能化改造加速。",
+      "summaryZh": ""
+    },
+    {
+      "title": "昇腾AI赋能江苏百业：算力落地 场景开花",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LV05fTjc1X1pCbTY3c0NGa1QwU21MWTBjdVlLZ2N3WFN3Nmx1RnR4NWdTWGVPZUc2SXhrbHVIN01qTjNMRWF4T2cyT2xDb21mSTN3eXZQMTQ1NTMwMDNkeFNROWtyQWFqcTNndHdaMGdBYk9xVkFoOQ?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-20T12:20:00.000Z",
+      "summary": "昇腾AI在江苏助力多行业智能化升级，算力落地应用场景丰富。",
+      "summaryZh": ""
+    },
+    {
+      "title": "大模型竞争转向推理与多模态执行，国产算力与AI内容商业化有望进一步打开",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UOXV0Y2dYempCckNIN2RVZHYtUTZHTTJjaTBxS0kwamhuN3RMVmVMRXYyYUtkVGFaWnd0YTFRcnQ0Wk9TRmVqNHBWRDE5cmJMWjVqb3RRczBTdUZjWGc?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-21T03:28:00.000Z",
+      "summary": "截至9月21日11点28分，上证指数涨0.58%，深证成指涨0.61%，创业板指涨0.97%。"
+    },
+    {
+      "title": "技术向善如何落地？香蜜湖秋季会议解码人工智能治理新路径",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KWTViYUFiaXhuWUJUaGJRd195NTNSb0k3bkhOc3Jwa1o0VFZuX20ta1R6RzBlME0yaWQzZ2JvdUtFQkZRektKT2hVcy1zeGM0Tlp2aDBOT245bnZNeWc?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-21T04:13:27.000Z",
+      "summary": "9月19日，由深圳香蜜湖国际金融科技研究院与数字金融合作论坛联合组织的“深圳香蜜湖国金院2026秋季会议”在深圳举办。"
+    },
+    {
       "title": "网易有道发布AI Agent全景生态",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Lb0tGYUNydXFhWHE5LWdRNFZKVkQwU0hZUVp2X1Y0bXpnNHJHRTFzc3NHd3FPRmItcnk0NmhyMnBTTzlDaUZKUXNnYkRJT1MtRzJnQVhPNHR0enN5eGZ1Z01ESDdTUU93QTYxZnNIbmY?oc=5",
       "source": "科技日报",
@@ -133,14 +169,15 @@
       "summaryZh": ""
     },
     {
-      "title": "机器人如何自进化，乐享科技走了一条新路",
-      "link": "http://www.geekpark.net/news/370665",
-      "source": "极客公园",
-      "lang": "zh",
+      "title": "What do you do with a humanoid robot when it breaks down?",
+      "link": "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/",
+      "source": "The Robot Report",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-09-20T07:15:14.000Z",
-      "summary": "乐享科技展示全球首个能自进化的具身智能模型，通过户外直播展示机器人在复杂环境中的适应与调整能力。",
-      "summaryZh": ""
+      "pubDate": "2026-09-20T12:45:45.000Z",
+      "summary": "人形机器人损坏后需进行高技术、高风险的回收处理。",
+      "summaryZh": "",
+      "titleZh": "当人形机器人发生故障时，你会怎么处理？"
     },
     {
       "title": "宇树G1+ 与Digit5不是对手，是人形机器人两条分化路线",
@@ -149,66 +186,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-20T07:00:41.000Z",
-      "summary": "宇树G1+与Digit5定位不同，分别面向教育和工业应用市场。",
-      "summaryZh": ""
-    },
-    {
-      "title": "What do you do with a humanoid robot when it breaks down?",
-      "link": "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-20T12:45:45.000Z",
-      "summary": "人形机器人报废后需进行复杂的技术回收处理。",
-      "summaryZh": "",
-      "titleZh": "当人形机器人发生故障时，你会怎么处理？"
-    },
-    {
-      "title": "英伟达副总裁Ian Buck：从 Vera Rubin 平台看 Agentic AI 时代的算力演进",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iVXZWVWpUQW5oSnI3T0FjOHNleFY0NGJ2VTdFeXhiS0tsam5GZkFMVjFuTWtXSFFwTzZOSlZld2VCR0hrVVk3VWVJc1lINHpDSW9J?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-20T06:07:58.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Jev模型创始人：下一个AI时代，绝不是Claude Code时代",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZcWI2ZW9xMlMtWDdYU19HVUF0Z0F0a01WV2ZfSDMzemk2UGJfWWNpa3QxS3dLZ2NucjBSTUYxaGpkM2Vna1NGZV83U0pPTHgyaHc?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-20T14:54:47.000Z",
-      "summary": ""
-    },
-    {
-      "title": "前OpenAI研究员推出首款“System One”模型引爆AI圈：不生成文本，专为机器做快速决策",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13bmp5U01PcGhLV0d4bGVuQTV3T2lYUE56anI2Nm9TTGFoZmhpRW1uR1dNMWp5dUVTMnlhY2VSeTRMdEFpb2RaUVV3bWtGck9jcmNuU2xwUTFweG5Ya1lHMml2eU9xT0c0Mi1j?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-20T06:04:00.000Z",
-      "summary": "前OpenAI研究员推出“System One”模型，专为机器快速决策。",
-      "summaryZh": ""
-    },
-    {
-      "title": "从人形机器人到AI养猪大楼，日媒惊叹中国硬核科创惊艳全球",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zOVpjbzhid3ZtQzhkeHB0Z1JkNld1ekRxN1BoM0M4d3hIZmZPTVVVMWdjQ2lzMnlZMnV0LVNwVkxxenJVOTdyZHVKOC1seTViNnlMbmhn?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-20T00:59:00.000Z",
-      "summary": "中国硬核科创在机器人、AI养猪等领域取得全球领先。",
-      "summaryZh": ""
-    },
-    {
-      "title": "具身智能，留不住“一把手”",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02SzlURUh3dVo5YUlPWTdESFlzR3JXVi1MbUYxTUNvWGJpY3BLWkF3WHJjXzNfSXVwUmJnSk9kWm1udzBiX2I5cktRR3h2X0ZJQXdyNU1JOFc?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-20T13:49:33.000Z",
-      "summary": "具身智能领域核心人才密集离职。",
+      "summary": "宇树G1+与Digit5定位不同，分别面向高校和工厂市场。",
       "summaryZh": ""
     },
     {
@@ -222,24 +200,23 @@
       "summaryZh": ""
     },
     {
-      "title": "The 'robot relations' department may become reality in workplace of the future",
-      "link": "https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html",
-      "source": "CNBC Tech",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-20T14:37:34.000Z",
-      "summary": "未来职场可能设立机器人关系部门以应对自动化管理挑战。",
-      "summaryZh": "",
-      "titleZh": "“机器人关系”部门可能在未来的工作场所成为现实"
-    },
-    {
-      "title": "让 AI 在智能制造中生长",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NT2R6VHhQcEo1NC1tWXVQRUUtUTZMZV9ZSS14UXUteng4VE1HNkV4ak5hcDRQZHBpZTR4MU16NHdZM3EtZmZ4MXFaQmJBRUlpd0duNzRHV016QTlqTHJpcVIxOWF6OW5IZVFr?oc=5",
-      "source": "东方财富网",
+      "title": "智身科技销量突破15000台 具身智能加速融入先进制造",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0tyZTB1WmdKd3Y1U3QxSkI5R2VWc0ctTzdHc2pKOUxjZnpuSEV0VGhJRjJwRG4tbHgzTkZYTnJLRVJIQUR3R2pheTU0UkprOGYzVkpNSzdDRjFhRzV3LXQtZHFudGhodGVyelI0MzV5UTZYWEpaYTFnc3FyME9LdjdOMUZQaXJl?oc=5",
+      "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-20T01:22:00.000Z",
-      "summary": "五新智能AI实践分享会聚焦AI在智能制造中的应用与落地。",
+      "pubDate": "2026-09-20T07:30:31.000Z",
+      "summary": "智身科技具身智能机器人销量突破15000台，加速融入先进制造领域。",
+      "summaryZh": ""
+    },
+    {
+      "title": "ST路通成立科技新公司 含AI及机器人业务",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RSUJvdmJfbzFzWnQ5cHphNXhQcVk3VkFSaFhrVUJQbjJyLXVicXpwZEw0MkloaE9sdlExb0xJYlExeWxvU2Q5SGZnMTVLUUdG?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-21T01:46:28.000Z",
+      "summary": "ST路通成立新公司，专注AI及机器人业务。",
       "summaryZh": ""
     }
   ]
