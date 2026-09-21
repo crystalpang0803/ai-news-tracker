@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "generatedAt": "2026-09-21T20:24:24.242Z",
+  "generatedAt": "2026-09-21T21:56:31.822Z",
   "items": [
     {
       "title": "捡快递200小时的Figure机器人，走进30个陌生家庭自主干家务",
@@ -13,15 +13,15 @@
       "summaryZh": ""
     },
     {
-      "title": "Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads",
+      "title": "Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude",
       "link": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
       "source": "CNBC Tech",
       "lang": "en",
       "category": "ai",
-      "pubDate": "2026-09-21T19:14:21.000Z",
-      "summary": "Meta的Muse AI个人代理工具发布后下载量超过ChatGPT、Grok和Claude。",
+      "pubDate": "2026-09-21T21:31:37.000Z",
+      "summary": "Meta的Muse AI个人代理工具下载量激增，超越ChatGPT成为美国iOS免费应用下载量第一。",
       "summaryZh": "",
-      "titleZh": "Meta 的 Muse 个人 AI 代理在发布后下载量方面超过了 ChatGPT、Grok 和 Claude"
+      "titleZh": "Meta 的 Muse AI 代理下载量激增。以下是它与 ChatGPT、Grok 和 Claude 的比较"
     },
     {
       "title": "科氪 | 破晓先行，智领未来！华硕商用破晓家族拥抱AI Agent时代",
@@ -30,7 +30,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-21T01:03:00.000Z",
-      "summary": "华硕商用发布破晓系列新品，聚焦AI Agent办公场景。",
+      "summary": "华硕商用发布破晓系列新品，展示AI Agent办公应用场景。",
       "summaryZh": ""
     },
     {
@@ -44,13 +44,23 @@
       "summaryZh": ""
     },
     {
+      "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
+      "link": "https://www.qbitai.com/2026/09/493109.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-21T02:17:33.000Z",
+      "summary": "范式智能在IDC中国AI算力管理平台评估中四项维度满分，综合评分第一。",
+      "summaryZh": ""
+    },
+    {
       "title": "对话芯展速李蓁：内存墙下，存储不再是算力的附属品",
       "link": "https://www.tmtpost.com/8147817.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-21T12:30:41.000Z",
-      "summary": "存储技术成为AI体验关键，芯展速提出“架构之上无分层”解决方案。",
+      "summary": "存储成为AI体验关键变量，芯展速提出“架构之上无分层”解决方案。",
       "summaryZh": ""
     },
     {
@@ -64,14 +74,23 @@
       "summaryZh": ""
     },
     {
-      "title": "刚刚，宇树最新灵巧手发布，3.99万元起",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE82RDhiVjF5UXhBcVBGdnh1WHZVM1c4eTZzbE5DaTR3bG1EbjU1alNHaTJEVk04SXhvUHd5RnlKdjZGaXA5c1E?oc=5",
-      "source": "智东西",
+      "title": "国内大模型出海加速：Kimi K3上线亚马逊云，与海外云厂商分成模式落地",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DbHBMYnFhRWwzWG1TRzY2aXkxYUpfVUF1Ti1JUU1YeC1QRHo2bFRjZjZuQkdUaWlGQVJVWllTUGItbDRCbU1acXRXZE5nMUFIeEZQUTA0MGVLcmpHOTZwVg?oc=5",
+      "source": "澎湃新闻科技",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-21T11:49:26.000Z",
-      "summary": "宇树发布新款五指灵巧手Dex5-S，售价3.99万元起。",
+      "category": "ai",
+      "pubDate": "2026-09-21T09:07:00.000Z",
+      "summary": "Kimi K3上线亚马逊云，中国大模型公司首次与海外云厂商以收入分成模式合作。",
       "summaryZh": ""
+    },
+    {
+      "title": "算力网开启一体化调度周期，实现Token规模化降本",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CS2I2WE9VVEZBb0QycnZVMHE3a0hKR3dkcW9DMWhlMVlWLS12SVZiTXpSYk5RemgxczlPY2cyWHFodVpGWDlZcXVZQ1JzQ2FqaUQ3ZDRPZDNQMWdKZXc?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-21T01:43:01.000Z",
+      "summary": ""
     },
     {
       "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
@@ -80,7 +99,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-21T08:21:55.000Z",
-      "summary": "GPT-6 Astra机器人安全测试显示，模型越强越易失控，引发业界担忧。",
+      "summary": "GPT-6 Astra机器人测试显示，97%尝试执行危险行为，引发安全担忧。",
       "summaryZh": ""
     },
     {
@@ -90,6 +109,16 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-21T19:08:50.000Z",
+      "summary": "OpenAI呼吁美国领导制定全球AI标准以应对潜在风险。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI办公，集体盯上“养宠物”",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NT0l0bklwaTZwNTZxb0gyWDBzSHRDWERwbk5OUHpnTmlISU9PdlYwT0lSZHo5S0FNeFR5SHVib2hjcThGbnJRRHd2aFdiTFNlR3o0bVY2R3g?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-21T08:51:50.000Z",
       "summary": ""
     },
     {
@@ -109,19 +138,18 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-21T06:36:25.000Z",
-      "summary": "两部门联合印发规划，推动人工智能等新兴技术与安全应急装备融合创新。",
+      "summary": "两部门联合印发规划，推动安全应急装备融合创新升级。",
       "summaryZh": ""
     },
     {
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "source": "TechCrunch",
-      "lang": "en",
+      "title": "告别浅层应用！各大银行AI大模型规模化落地，核心业务迎来智能化改造",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yMTZaMVl6T096UElkdzNYOWZReWt0ZDkxVEZHT2thaHJKb1dmYVJybV90bzFxNG5lb2VEblQxZWhyeGhhVmRCWWFFVjhrYmhOUjVQaHRFajkyazU5dkxLQmlWb245aElOWmFTTm1nVWpiY0dDUmlYMEVlclg?oc=5",
+      "source": "央视网",
+      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-21T19:19:21.000Z",
-      "summary": "Meta的AI应用Muse在移动端下载量超过ChatGPT。",
-      "summaryZh": "",
-      "titleZh": "Meta 的 Muse 的速度超过了 ChatGPT 的早期移动发布"
+      "pubDate": "2026-09-21T02:17:00.000Z",
+      "summary": "各大银行AI大模型规模化落地，核心业务智能化改造加速。",
+      "summaryZh": ""
     },
     {
       "title": "工博会探营：AI重塑供应链，具身智能机器人走进真实产线",
@@ -134,53 +162,13 @@
       "summaryZh": ""
     },
     {
-      "title": "卖硬件只是开始，启元还想做一个“机器人UGC平台”",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpV2JNWFdWNnFnc2s5NHVuRlBvSlZlQmpLLXZyZnlZUXItcHJXZ0JpTm1YS3JhZVBTWmd0THkwMFhuQXBudFlFMkdVNUdMdWJuZlhRNjVFZw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-21T12:26:46.000Z",
-      "summary": "启元推出个人机器人，打造机器人UGC平台。",
-      "summaryZh": ""
-    },
-    {
-      "title": "效率交给AI机器人 成长留给人 AI学伴进江苏无锡校园",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40aXZ2UGlqWFZHa2Y1a0tCTWx4Y0ZUX0hwMXdmZnV5NmNtQ1pkMFNQNnpMSHlLa18tYzlxbHRWMUlqWnVoRElBS2tMdmJwWGZaeExzRm1RWEpBbjZiMDJXcDNmLVlsTkdiZ1BhLUNzc3o?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-21T10:02:13.000Z",
-      "summary": "江苏无锡校园引入AI学伴辅助教学，提升学习效率。",
-      "summaryZh": ""
-    },
-    {
-      "title": "启元两款个人机器人正式发售",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RY3VhbzRaVEMwcFdNbTJELVBlYzl6VTRjbThJaEJ2ZUFmZlBaSnhXMU95eUVLTTg1bHVuekM1VDRuRjJJVTAydlVmSVRWRzBNU1NBaEs3MkkzeFg5UmdES05KU2N6T3pJcFlrcDBPWHo?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-21T03:01:59.000Z",
-      "summary": "启元Q1、启元T1两款个人机器人正式上市，主打家庭娱乐与个性化服务。",
-      "summaryZh": ""
-    },
-    {
-      "title": "上纬启元的野心：当机器人界的苹果",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zaFNNNm1sYmZpd18tUVlOVjAyd0ZBUll0WlRXYUtFS2kxWDhKNnZlVGxMdUxTYWVsTXRRTEQ2LVVlZE1YV1drc0xoWGFyWXd1NHFCNXRpS1NYZkFZNlNnN01R?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-21T13:17:00.000Z",
-      "summary": "上纬启元推出两款个人机器人，定价与高端iPhone相近，旨在成为机器人界的苹果品牌。",
-      "summaryZh": ""
-    },
-    {
       "title": "Snapping rods let frog-like robot outrun rigid legs across six terrains",
       "link": "https://techxplore.com/news/2026-09-snapping-rods-frog-robot-outrun.html",
       "source": "Tech Xplore",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-21T19:40:09.000Z",
-      "summary": "仿蛙机器人采用可弯曲杆超越刚性腿在六种地形上奔跑。",
+      "summary": "仿蛙机器人利用可弯曲杆在六种地形上超越刚性腿奔跑。",
       "summaryZh": "",
       "titleZh": "弹簧杆让青蛙机器人在六个地形上超越刚性腿"
     },
@@ -191,7 +179,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-21T19:40:54.000Z",
-      "summary": "自主堆场卡车从试点转向商业化，自动化面临采纳难题。",
+      "summary": "自动化堆场技术已成熟，推广受阻主要因运营和接受度问题。",
       "summaryZh": "",
       "titleZh": "庭院自动化已经到来——是什么阻碍了其采用？"
     },
