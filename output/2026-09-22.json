@@ -1,15 +1,15 @@
 {
   "date": "2026-09-22",
-  "generatedAt": "2026-09-21T22:49:04.476Z",
+  "generatedAt": "2026-09-22T00:11:27.533Z",
   "items": [
     {
-      "title": "科氪 | 破晓先行，智领未来！华硕商用破晓家族拥抱AI Agent时代",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xSHh0LS1Rbm1pbkVkOG1DaFduajRzM3o5VkQ5WFNvYXdLNFBWeHZLSmI2VENWSDMxdnM0ZTliRnU4T192WkVEdjRvSFpkT3ZDRTdJ?oc=5",
-      "source": "36氪",
+      "title": "捡快递200小时的Figure机器人，走进30个陌生家庭自主干家务",
+      "link": "https://www.tmtpost.com/8147667.html",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-21T01:03:00.000Z",
-      "summary": "华硕商用发布破晓系列新品，展示AI Agent办公应用场景。",
+      "category": "robotics",
+      "pubDate": "2026-09-21T10:08:24.000Z",
+      "summary": "Figure机器人完成30个家庭家务测试，成功率56%。",
       "summaryZh": ""
     },
     {
@@ -18,10 +18,40 @@
       "source": "CNBC Tech",
       "lang": "en",
       "category": "ai",
-      "pubDate": "2026-09-21T21:31:37.000Z",
+      "pubDate": "2026-09-21T23:03:57.000Z",
       "summary": "Meta的Muse AI个人代理工具下载量激增，超越ChatGPT成为美国iOS免费应用下载量第一。",
       "summaryZh": "",
       "titleZh": "Meta 的 Muse AI 代理下载量激增。以下是它与 ChatGPT、Grok 和 Claude 的比较"
+    },
+    {
+      "title": "科氪 | 破晓先行，智领未来！华硕商用破晓家族拥抱AI Agent时代",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xSHh0LS1Rbm1pbkVkOG1DaFduajRzM3o5VkQ5WFNvYXdLNFBWeHZLSmI2VENWSDMxdnM0ZTliRnU4T192WkVEdjRvSFpkT3ZDRTdJ?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-21T01:03:00.000Z",
+      "summary": "华硕商用发布破晓家族产品，拥抱AI Agent时代办公需求。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI 宣布成立数学与 AI 顾问组，神秘新模型 24 天攻破 100+ 世界级难题",
+      "link": "https://www.ithome.com/1/005/500.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-21T23:27:23.000Z",
+      "summary": "OpenAI成立数学与AI顾问组，神秘模型24天破解百余世界级难题。",
+      "summaryZh": ""
+    },
+    {
+      "title": "英国消费者权益机构 Citizens Advice：基本服务供应商应停止在客服工作中依赖 AI 聊天机器人",
+      "link": "https://www.ithome.com/1/005/497.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-21T23:14:46.000Z",
+      "summary": "英国消费者权益机构呼吁基本服务供应商停止依赖AI聊天机器人，保障用户与真人沟通权利。",
+      "summaryZh": ""
     },
     {
       "title": "AI进化速递丨宇树科技发布Dex5-S灵巧手",
@@ -30,7 +60,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-21T12:26:31.000Z",
-      "summary": "宇树科技发布新一代灵巧手Dex5-S。",
+      "summary": "宇树科技发布新一代Dex5-S灵巧手。",
       "summaryZh": ""
     },
     {
@@ -40,7 +70,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-21T02:17:33.000Z",
-      "summary": "范式智能在IDC中国AI算力管理平台技术能力评估中综合评分第一。",
+      "summary": "范式智能在IDC中国AI算力管理平台评估中四项维度满分，综合评分第一。",
       "summaryZh": ""
     },
     {
@@ -50,7 +80,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-21T12:30:41.000Z",
-      "summary": "存储技术成为AI体验关键，芯展速提出无分层统一数据平台解决方案。",
+      "summary": "存储成为AI体验关键变量，芯展速提出无分层统一数据平台解决方案。",
       "summaryZh": ""
     },
     {
@@ -60,7 +90,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-21T12:01:00.000Z",
-      "summary": "中国大模型Kimi K3接入亚马逊Bedrock，开启北美云分成合作。",
+      "summary": "中国大模型Kimi K3落地亚马逊Bedrock，开启与全球云厂商分成合作。",
       "summaryZh": ""
     },
     {
@@ -70,17 +100,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-21T09:07:00.000Z",
-      "summary": "Kimi K3上线亚马逊云，中国大模型与海外云厂商收入分成合作落地。",
+      "summary": "Kimi K3上线亚马逊云，开启与海外云厂商收入分成合作。",
       "summaryZh": ""
     },
     {
-      "title": "算力网开启一体化调度周期，实现Token规模化降本",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CS2I2WE9VVEZBb0QycnZVMHE3a0hKR3dkcW9DMWhlMVlWLS12SVZiTXpSYk5RemgxczlPY2cyWHFodVpGWDlZcXVZQ1JzQ2FqaUQ3ZDRPZDNQMWdKZXc?oc=5",
+      "title": "华为云码道上线鸿蒙编码大模型-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwdlJmTGR6bWljTVdQbmpvbVc5c05aXzYwTTQxUF9LWklaaWRaSkFQcGZoTDlOXzZCaDJYVE1LMWRINTk2TGNVUjc1Wk5Za0RoLUhWbEctR1F2MGp1V3c?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-21T01:43:01.000Z",
-      "summary": "算力网一体化调度周期启动，Token生产成本显著降低。",
+      "pubDate": "2026-09-21T11:27:38.000Z",
+      "summary": "华为云码道推出全球首个鸿蒙AI编码智能体。",
       "summaryZh": ""
     },
     {
@@ -90,7 +120,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-21T08:21:55.000Z",
-      "summary": "GPT-6 Astra机器人测试显示，强模型更易失控，引发安全担忧。",
+      "summary": "GPT-6 Astra机器人测试显示，97%尝试危险行为，引发安全担忧。",
       "summaryZh": ""
     },
     {
@@ -100,17 +130,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-21T19:08:50.000Z",
-      "summary": "OpenAI呼吁美国领导制定全球AI标准以应对潜在危害。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI自曝6起事故：AI安全的第一份\"审计报告\"由谁签字？",
-      "link": "https://www.tmtpost.com/8147676.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-21T10:11:12.000Z",
-      "summary": "OpenAI发布AI安全审计报告，首次将安全事件分级、定时披露。",
+      "summary": "OpenAI呼吁美国领导制定全球AI标准以应对潜在风险。",
       "summaryZh": ""
     },
     {
@@ -139,7 +159,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-21T00:21:00.000Z",
-      "summary": "华为发布Peerium计算架构，推动光纤需求增长。",
+      "summary": "华为发布全新AI计算架构，推动光纤需求增长。",
       "summaryZh": ""
     },
     {
@@ -153,24 +173,15 @@
       "summaryZh": ""
     },
     {
-      "title": "美的：下半年要坚定布局机器人！",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xLUoteFRibVJ3bXNiN0dSQzBlRnpaWUc5M0ZTX0R0U190ZVZCSVJkNG45QUtpSW1BSVdrT0RXOW0zcEItbWdiRm05cTNhYTJ4QXl5TXQxVQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
+      "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
+      "link": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
+      "source": "Ars Technica",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-09-21T06:45:05.000Z",
-      "summary": "美的集团计划下半年加大机器人业务布局。",
-      "summaryZh": ""
-    },
-    {
-      "title": "效率交给AI机器人 成长留给人 AI学伴进江苏无锡校园",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40aXZ2UGlqWFZHa2Y1a0tCTWx4Y0ZUX0hwMXdmZnV5NmNtQ1pkMFNQNnpMSHlLa18tYzlxbHRWMUlqWnVoRElBS2tMdmJwWGZaeExzRm1RWEpBbjZiMDJXcDNmLVlsTkdiZ1BhLUNzc3o?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-21T10:02:13.000Z",
-      "summary": "江苏无锡校园引入AI学伴辅助教学。",
-      "summaryZh": ""
+      "pubDate": "2026-09-21T21:07:05.000Z",
+      "summary": "乌克兰海军无人机击沉俄罗斯自杀式无人机艇。",
+      "summaryZh": "",
+      "titleZh": "军事里程碑：乌克兰海军无人机击沉俄罗斯神风特攻队无人机船"
     },
     {
       "title": "Boston Dynamics opens Metaplant Application Center to train Atlas humanoids",
@@ -179,40 +190,48 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-21T12:59:00.000Z",
-      "summary": "波士顿动力在乔治亚州开设了Metaplant应用中心，用于训练Atlas人形机器人。",
+      "summary": "波士顿动力在乔治亚州开设了Metaplant应用中心，用于训练Atlas类人机器人。",
       "summaryZh": "",
       "titleZh": "波士顿动力公司开设 Metaplant 应用中心来培训 Atlas 类人机器人"
     },
     {
-      "title": "Snapping rods let frog-like robot outrun rigid legs across six terrains",
-      "link": "https://techxplore.com/news/2026-09-snapping-rods-frog-robot-outrun.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-21T19:40:09.000Z",
-      "summary": "新型仿蛙机器人利用可弯曲杆在六种地形上超越刚性腿。",
-      "summaryZh": "",
-      "titleZh": "弹簧杆让青蛙机器人在六个地形上超越刚性腿"
-    },
-    {
-      "title": "Yard Automation Is Here — What’s Blocking Adoption?",
-      "link": "https://www.freightwaves.com/news/yard-automation-is-here-whats-blocking-adoption",
-      "source": "FreightWaves",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-21T19:40:54.000Z",
-      "summary": "自主式场内卡车从试点转向商业化，但场内自动化推广受阻。",
-      "summaryZh": "",
-      "titleZh": "庭院自动化已经到来——是什么阻碍了其采用？"
-    },
-    {
-      "title": "图集｜金正恩连续三日视察军工厂 无人机生产车间首次曝光",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvYVlXWEo3MVE0TkV6bmZnR2kwMTBGS3VzNncwR1BUcUdOZ25kRnRnZms0c2pDX2M2TWlUb3NuZElWQkdUOUFFYTIycnN5clpzajFWckxUTmhHSVNqRU5rXw?oc=5",
-      "source": "财新网",
+      "title": "美的：下半年要坚定布局机器人！",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xLUoteFRibVJ3bXNiN0dSQzBlRnpaWUc5M0ZTX0R0U190ZVZCSVJkNG45QUtpSW1BSVdrT0RXOW0zcEItbWdiRm05cTNhYTJ4QXl5TXQxVQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-21T09:54:00.000Z",
-      "summary": "金正恩视察军工厂，无人机生产车间首次曝光。",
+      "pubDate": "2026-09-21T06:45:05.000Z",
+      "summary": "美的集团下半年将加大机器人业务布局。",
+      "summaryZh": ""
+    },
+    {
+      "title": "卖硬件只是开始，启元还想做一个“机器人UGC平台”",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpV2JNWFdWNnFnc2s5NHVuRlBvSlZlQmpLLXZyZnlZUXItcHJXZ0JpTm1YS3JhZVBTWmd0THkwMFhuQXBudFlFMkdVNUdMdWJuZlhRNjVFZw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-21T12:26:46.000Z",
+      "summary": "启元推出个人机器人，打造机器人UGC平台。",
+      "summaryZh": ""
+    },
+    {
+      "title": "安徽移动：AI笔墨绘山水 智慧文旅入画来（附图片）",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxRG1SQ1pXUGFHTU9vR1ZBR04zTTAwcC01VmFUWFM1bThYWkgyb1I4UDM1VGNaT09aYUtJcDRGX2Z5OUxpUFdsOThDLVdfWTNjRDVpYmw1S3liMFphckFzd29kQlNTSnRnRFRxYUcyaFF0QXNEakNOTw?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-21T22:51:00.000Z",
+      "summary": "安徽移动利用AI技术赋能文旅，打造智慧景区提升游客体验。",
+      "summaryZh": ""
+    },
+    {
+      "title": "宇信科技获11家机构调研：公司聚焦AI能力和生态，围绕创新技术精准布局对外投资与战略合作，覆盖跨境支付、具身智能",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96MmpsOXVtX0lzMGFsT1h4bU41MHNqNl9sUlpjRmhJYlhYLVBTMkMzM1ZUcDBxM1pxSXJISVQ5RkotZVFVczR5QlhhMHdWV2x0VHYtNzBad0R6cklvaTVCaktR?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-21T23:09:59.000Z",
+      "summary": "宇信科技聚焦AI生态，布局对外投资与战略合作，拓展跨境支付等关键赛道。",
       "summaryZh": ""
     }
   ]
