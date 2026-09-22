@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "generatedAt": "2026-09-22T22:24:50.026Z",
+  "generatedAt": "2026-09-22T23:38:58.533Z",
   "items": [
     {
       "title": "OpenAI 发布 GPT-6 Sol 和 Luna 模型，API 价格大降 50%",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-22T19:25:16.000Z",
-      "summary": "OpenAI发布GPT-6 Sol和Luna模型，API价格较GPT-5.6促销价降50%。",
+      "summary": "OpenAI发布GPT-6 Sol和Luna模型，API价格降至GPT-5.6促销价的一半。",
       "summaryZh": ""
     },
     {
@@ -20,6 +20,16 @@
       "category": "ai",
       "pubDate": "2026-09-22T18:55:08.000Z",
       "summary": "Anthropic发布Claude Opus 5.5模型，性能提升40%，成本降低40%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "刚刚，高通2nm双旗舰来了，为智能体AI重造架构，手机能跑300亿参数大模型",
+      "link": "https://zhidx.com/p/596608.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-22T23:17:46.000Z",
+      "summary": "高通发布2nm制程双旗舰芯片，手机可运行300亿参数大模型。",
       "summaryZh": ""
     },
     {
@@ -39,7 +49,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-22T10:06:34.000Z",
-      "summary": "基元律动韩凯在云栖大会上探讨Agent持续进化路径。",
+      "summary": "基元律动韩凯在云栖大会上探讨Agent持续进化路径，提出多模型调度与反馈闭环技术。",
       "summaryZh": ""
     },
     {
@@ -49,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-22T06:41:00.000Z",
-      "summary": "三部门推动研发轻工纺织行业专用智能体，提升产业链智能化水平。",
+      "summary": "三部门推动研发轻工纺织行业专用AI智能体。",
       "summaryZh": ""
     },
     {
@@ -78,7 +88,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-22T08:45:11.000Z",
-      "summary": "启元机器人发布，迈出家庭服务机器人第一步。",
+      "summary": "启元机器人发布，迈出家庭市场第一步。",
+      "summaryZh": ""
+    },
+    {
+      "title": "“千机进厂”：AI重塑广东制造，具身智能迎场景落地潮",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOGQ5RWhkZldLR2FrdXNLaWxQMS00NV9lSUcyV2FveUxqM0lKZjdOMGRBbjFaV3hhOFJScDlwUkNvVXZQTEVLU0swMUp1NmdWZkgwb2poeDBvbkxYUDNWeEFaWkstV3dsODQ5QUl0UWNEQkRtNElQZHFUMXN2dFMtY2xZSXk4UQ?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-22T23:00:00.000Z",
+      "summary": "广东超2000台人形机器人进厂，AI赋能制造业转型升级。",
       "summaryZh": ""
     },
     {
@@ -98,16 +118,6 @@
       "category": "ai",
       "pubDate": "2026-09-22T02:59:29.000Z",
       "summary": "阿里巴巴将长期投入AI模型、AI芯片和AI云三大基础设施建设。",
-      "summaryZh": ""
-    },
-    {
-      "title": "阿里推新款真武AI芯片！吴泳铭：3倍性能，国产最强",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5pYWlUelc2VTNHb3k1aW9NVkx3RFpacE1tUmoyR0lDVjJrYlRwdVRNVkQ1VGRmWTRyZ1lyakp6VktfVkxtZFE?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-22T05:00:46.000Z",
-      "summary": "阿里发布真武V900 AI芯片，性能提升至真武M890的3倍。",
       "summaryZh": ""
     },
     {
@@ -138,7 +148,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-22T14:00:04.000Z",
-      "summary": "巴芭拉·马佐拉伊致力于构建可持续性机器人新领域。",
+      "summary": "巴芭拉·马佐拉伊致力于打造可持续性机器人新领域。",
       "summaryZh": "",
       "titleZh": "芭芭拉·马佐莱 (Barbara Mazzolai) 希望打造机器人新领域"
     },
@@ -149,7 +159,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-22T03:22:45.000Z",
-      "summary": "国务院发布多项措施促进智能驾驶和具身智能产业发展。",
+      "summary": "“十五五”期间将公布多项措施促进智能驾驶和具身智能产业发展。",
       "summaryZh": ""
     },
     {
@@ -163,24 +173,13 @@
       "summaryZh": ""
     },
     {
-      "title": "AI+机器人赋能中医理疗 广东这家企业实现多重突破",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RdkNqSEIzVUladVlyNXBlTXRMNzRkX2JBdHpNZjhSTS1NT0YzcTRkVFIwM3A2RkVmdmp1Ym1adUI4OC1seW81UFk4UFVWSHlBRDZIMkdXbnRoRjVScktuT1FqcW8zVGxBM1VZcmJzWnM?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-22T03:52:33.000Z",
-      "summary": "广东企业研发AI按摩理疗机器人，实现中医理疗技术突破。",
-      "summaryZh": ""
-    },
-    {
       "title": "AI重塑旅游业：竞争优势从信息流量转向真实供给与履约能力",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HTHJPX184dVBFZmZOUUdnR1JZcWdabjVsZ0N3TWZSMFlKNGY4Z2gzWERYMGEwajB6MzRrWHBhUWRhYXpUdHYxNDlsMUlLWldJUTVKbQ?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-22T08:41:37.000Z",
-      "summary": "旅游业核心竞争力转向真实供给、履约效率与数据资产。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
@@ -194,13 +193,33 @@
       "titleZh": "TechCrunch Disrupt 2026：Aaron Edsinger 在舞台上展示了​​ Hello Robot 的 Stretch 4"
     },
     {
+      "title": "Meta(META.US)Muse掀起“AI颠覆交易” 金融、保险、旅游股集体下挫",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJT3BPcEk2NHVJUng0NDM3R1hwdHFmMmtJd01mbnZvZUdiUFlydEVSckJZRlBzdEE2Tk1tME5VbVZVZjRZdXh2RU1PS0Q0Z0lYbTF6UUxwYzEzb1B0ZWhuRldkcnRuYldQLXphNXdQMnhtS21q?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-22T22:00:00.000Z",
+      "summary": "Meta推出AI智能体Muse引发金融、保险、旅游股下跌。",
+      "summaryZh": ""
+    },
+    {
       "title": "AI“古丽”上岗，新疆旅游有了“智慧大脑”",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EaGRGZUgxVEFQVHVYam03SURZdDk3VlVGMXpQZ1FzUnByMUl5aWkycHgyeWpwaWNMNUVoUGVzNlJITDZRaXdLbk14NUpSdjFTWkVjRURneXA0b19pbndoVUdycTdYSUdKaEhXaVVPYktqdV95YUVoNHlR?oc=5",
       "source": "央广网",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-22T16:14:09.000Z",
-      "summary": "新疆旅游行业引入AI“古丽”，提升服务效率和游客体验。",
+      "summary": "新疆旅游引入AI“古丽”，提供智慧服务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI+机器人赋能中医理疗 广东这家企业实现多重突破",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RdkNqSEIzVUladVlyNXBlTXRMNzRkX2JBdHpNZjhSTS1NT0YzcTRkVFIwM3A2RkVmdmp1Ym1adUI4OC1seW81UFk4UFVWSHlBRDZIMkdXbnRoRjVScktuT1FqcW8zVGxBM1VZcmJzWnM?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-22T03:52:33.000Z",
+      "summary": "广东企业研发AI按摩理疗机器人，实现中医理疗技术突破。",
       "summaryZh": ""
     },
     {
@@ -210,7 +229,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-22T13:17:00.000Z",
-      "summary": "机器人从展示技术走向服务岗位，加速融入文娱场景。",
+      "summary": "机器人从展示技术转向服务岗位，加速融入文娱场景。",
       "summaryZh": ""
     },
     {
@@ -223,16 +242,6 @@
       "summary": "NVIDIA发布Isaac ROS 5.0，提升开源机器人开发能力。",
       "summaryZh": "",
       "titleZh": "NVIDIA Isaac ROS 5.0 推进代理开源机器人开发"
-    },
-    {
-      "title": "赋能物理 AI 走向真实工业场景 石景山区具身智能训练中心揭牌",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrUFBlQnBMREFocTdOeW1Fek0tXzJicm00YVJucDJ1Tkp4MktwUzlHU1FkazBsWjNMMGQ4Q1ZZVDI4dFZfbk1PZHl5bm0?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-22T07:43:57.000Z",
-      "summary": "石景山区具身智能训练中心揭牌，标志着北京首个人形机器人数据训练中心完成升级。",
-      "summaryZh": ""
     }
   ]
 }
