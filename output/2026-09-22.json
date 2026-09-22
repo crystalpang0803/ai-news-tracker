@@ -1,15 +1,15 @@
 {
   "date": "2026-09-22",
-  "generatedAt": "2026-09-22T01:12:10.377Z",
+  "generatedAt": "2026-09-22T05:03:18.478Z",
   "items": [
     {
-      "title": "OpenAI 宣布成立数学与 AI 顾问组，神秘新模型 24 天攻破 100+ 世界级难题",
-      "link": "https://www.ithome.com/1/005/500.htm",
+      "title": "行业首个系统级 Agent Harness 架构：“千问手机”荣耀 Magic9 系列首发搭载阿里 Qwen Intelligence，9 月 28 日发布",
+      "link": "https://www.ithome.com/1/005/644.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-21T23:27:23.000Z",
-      "summary": "OpenAI成立数学与AI顾问组，神秘模型24天破解百余世界级难题。",
+      "pubDate": "2026-09-22T04:12:26.000Z",
+      "summary": "荣耀 Magic9 系列手机首发搭载阿里 Qwen Intelligence，9 月 28 日发布。",
       "summaryZh": ""
     },
     {
@@ -24,23 +24,103 @@
       "titleZh": "Meta 的 Muse AI 代理下载量激增。以下是它与 ChatGPT、Grok 和 Claude 的比较"
     },
     {
-      "title": "英国消费者权益机构 Citizens Advice：基本服务供应商应停止在客服工作中依赖 AI 聊天机器人",
-      "link": "https://www.ithome.com/1/005/497.htm",
+      "title": "我国活跃智能体已近 500 万个，到 2030 年中国 AI 算力市场规模或暴增 300%",
+      "link": "https://www.ithome.com/1/005/586.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-21T23:14:46.000Z",
-      "summary": "英国消费者权益机构呼吁基本服务供应商停止依赖AI聊天机器人，保障用户与真人沟通的权利。",
+      "category": "ai",
+      "pubDate": "2026-09-22T02:35:48.000Z",
+      "summary": "中国活跃智能体近500万个，2030年AI算力市场规模或增300%。",
       "summaryZh": ""
     },
     {
-      "title": "法国兴业银行与Anthropic部署Claude，AI降本最高6亿欧元",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FWmZHRU5RQ2RUVlZHUUZKdGlKb0QxTV9sQzUtZ3cwR2kxNFZndGRDZ25wMTZMRkVYNHhIS3EtcjQ0ak9zNVVKQ05yWjV2Qm8zRDdIRUVOVFpKdw?oc=5",
+      "title": "大模型上车进入交付竞速期！字节豆包座舱助手首搭量产车落地上汽荣威",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03aDQxWVhLWENETFpUazEybWNSZU8tNllRSFdZNjdOTllmWE5WRzQySmhGcWdlV3dnZndFS1NWa2k5WmFwQVlFYjFjYmJleFBJUFZKdXB6UXFPeU1iT1lJRkRR?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-22T02:07:12.000Z",
+      "summary": "字节豆包座舱助手首搭上汽荣威家越07量产车上市。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2万元的启元机器人，撑得起上纬新材的600亿市值吗？",
+      "link": "https://www.tmtpost.com/8148296.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-22T02:58:08.000Z",
+      "summary": "启元机器人新品上市，面临能否支撑母公司上纬新材600亿市值的考验。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI进化速递丨宇树科技发布Dex5-S灵巧手",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rUFZfNDcwc01paXZBaDZwUmVvREZnSUxpN1JMN0NKQUI2d19oTWhBY2h2aW1lX3RjS3VkVUhQTG0tSkZ5STJsNUkyaWdoNmhYZVpN?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-21T12:26:31.000Z",
+      "summary": "宇树科技发布新一代Dex5-S灵巧手。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI与Anthropic营收承压 成本压力驱动AI初创企业转向开源模型",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NX1B2Z2RyRXgwQVFiNXhFeXJoSk12RGRrR3lla1FSdGNhT3VvMzB5ZjFLM2dITkg3MW1JWGtzanotWUwwcW5hei1iR3E5VUZzWjA0?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-21T10:40:00.000Z",
+      "summary": "AI初创企业因成本压力转向开源模型，对OpenAI和Anthropic构成压力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "刚刚，小米刷 AI大模型斩杀线，罗福莉：技术难度超过 DeepSeek R1",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvTVRCaEpTemhuMm1LRXhTWkc1dVZjZGJsbDBIeEZFc0F1V25PNWtKallWVWdSanlWN1VfSDFhanVteW1mR2FrWkU0N21tQQ?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-21T12:27:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
+      "link": "https://www.qbitai.com/2026/09/493502.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-22T02:59:29.000Z",
+      "summary": "阿里巴巴将长期投入AI模型、AI芯片和AI云三大基础设施建设。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI算力之争不靠堆卡！浪潮信息捅破智算能力天花板，还瓦解了产能焦虑",
+      "link": "https://www.qbitai.com/2026/09/493363.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-22T02:22:06.000Z",
+      "summary": "浪潮信息突破智算能力瓶颈，缓解产能焦虑。",
+      "summaryZh": ""
+    },
+    {
+      "title": "沙盘推演：腾讯未来两年营收增长能否支撑5000亿算力扩张？",
+      "link": "https://www.tmtpost.com/8148206.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-22T00:35:00.000Z",
-      "summary": ""
+      "pubDate": "2026-09-22T01:56:32.000Z",
+      "summary": "腾讯未来两年营收增长面临支撑5000亿算力扩张的挑战。",
+      "summaryZh": ""
+    },
+    {
+      "title": "刚刚，华为鸿蒙编码大模型来了！一句话生成鸿蒙应用与元服务",
+      "link": "https://zhidx.com/p/596011.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-21T09:41:11.000Z",
+      "summary": "华为推出鸿蒙编码大模型，一句话生成鸿蒙应用与元服务。",
+      "summaryZh": ""
     },
     {
       "title": "AI智能体之争升温！OpenAI被曝加紧备战Grok Bot与Muse",
@@ -49,116 +129,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-21T05:17:00.000Z",
-      "summary": "OpenAI加紧研发新AI助手应对SpaceX和Meta同类产品。",
+      "summary": "OpenAI加紧研发新AI助手应对SpaceX和Meta同类产品竞争。",
       "summaryZh": ""
     },
     {
-      "title": "国内大模型出海加速：Kimi K3上线亚马逊云，与海外云厂商分成模式落地",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DbHBMYnFhRWwzWG1TRzY2aXkxYUpfVUF1Ti1JUU1YeC1QRHo2bFRjZjZuQkdUaWlGQVJVWllTUGItbDRCbU1acXRXZE5nMUFIeEZQUTA0MGVLcmpHOTZwVg?oc=5",
-      "source": "澎湃新闻科技",
+      "title": "毛利率被吸至-50%！硅谷独角兽反水OpenAI 中国开源模型成救星",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FTnJkeVdzeF80Q2VzV3dzMTFiYUVLSWs1SzVvVFpEVDdmVENzNF9YTFNmaE5yN1dISTVYR3lhTkhMbG1EelpDdXczc2taUERFZmRQakFGVGpXSGttQW9lbjJhNGJUd0pNX0ZseA?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-21T09:07:00.000Z",
-      "summary": "Kimi K3上线亚马逊云，开启与海外云厂商收入分成合作。",
-      "summaryZh": ""
-    },
-    {
-      "title": "北美云分成破冰，Kimi K3落地亚马逊Bedrock，中国大模型站上全球博弈新牌桌",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUldGaERQbmkxY1NRaERQRWdOVERiS2ZRelNzLTVlWnBUdnlpOGhmZG5mcFBkZVFEeUluZ3E2SmM5R1NwVmJoUnkxbk5Fa2JxbWEyRDU4MjFRdE5oZDQ3NmF2b0hsNTZfcmhnYTJFcUcwTGhEVmJ3WkF2cl9UeDExRzRzYktWZGVEVlBTTkhEYw?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-21T14:06:14.000Z",
-      "summary": "Kimi K3落地亚马逊Bedrock，中国大模型首次以分成模式输出模型能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "刚刚，宇树最新灵巧手发布，3.99万元起",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE82RDhiVjF5UXhBcVBGdnh1WHZVM1c4eTZzbE5DaTR3bG1EbjU1alNHaTJEVk04SXhvUHd5RnlKdjZGaXA5c1E?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-21T11:49:26.000Z",
-      "summary": "宇树发布新款五指灵巧手Dex5-S，售价3.99万元起。",
-      "summaryZh": ""
-    },
-    {
-      "title": "华为云码道上线鸿蒙编码大模型-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwdlJmTGR6bWljTVdQbmpvbVc5c05aXzYwTTQxUF9LWklaaWRaSkFQcGZoTDlOXzZCaDJYVE1LMWRINTk2TGNVUjc1Wk5Za0RoLUhWbEctR1F2MGp1V3c?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-21T11:27:38.000Z",
-      "summary": "华为云码道推出全球首个鸿蒙AI编码智能体。",
-      "summaryZh": ""
-    },
-    {
-      "title": "新 Mac mini 首发实测：我的第一台多 Agent电脑-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04RUl1NkE2cG5jZ2Q2RVJzcmhlenY4UGprMzlQWm9TZmZCcXVlZlppV19nRzY1bXBtOVZBYnEzNmdTVHZ2b21OZ1E1djlVVTEw?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-21T09:57:00.000Z",
-      "summary": "新Mac mini首发实测，搭载M6芯片，成为AI PC新选择。",
-      "summaryZh": ""
-    },
-    {
-      "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
-      "link": "https://www.qbitai.com/2026/09/493241.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-21T08:21:55.000Z",
-      "summary": "GPT-6 Astra机器人测试显示，97%尝试执行危险行为，引发安全担忧。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI敦促美国牵头为人工智能制定全球标准。",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaT3ZOZHhJeVI3X0otdTBONlpkUWFRUUpSTUxOUGowSWh6RXo1bWdSc0NXQS02aUZfMW9oR3VWSjRtYnlUZGxBRF9yTnMyVHVjNElz?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-21T19:08:50.000Z",
+      "pubDate": "2026-09-22T03:03:00.000Z",
       "summary": ""
-    },
-    {
-      "title": "LG与微软扩大在人工智能和数据中心领域的战略合作",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sanRqeFRucm9LR3BMZEJIelBNWHo5dFRuRV9jVXNkc19BWDA2eWNhYmhmcjJudWJsNDAzSm92a3pjZU1EdTBIMFl4dWladWJVUVpHYkNMWDlEdw?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-22T00:46:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "[ 盘前点金 算力风向变了；AI短剧站上政策风口；存储龙头11天完成回购",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tQW53MGJZcE52bFBCeGVJa1doZkVHYXZJMXJ6c1Y5b2NoS2luM2wySnk2ck1nYXA3SWhOdHVNUWxBUU03Q29YMDVMT2RKWjBla0w4dThrczE?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-21T23:13:50.000Z",
-      "summary": "算力风向转向，AI短剧受政策扶持，存储龙头快速回购。",
-      "summaryZh": ""
-    },
-    {
-      "title": "工博会探营：AI重塑供应链，具身智能机器人走进真实产线",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHbkxBd2hDazRxMC1BRm9qOWVSQXNvRzI1RHdjU3BZdVN1M3k1ZERkTFNxUVc2WloxRUpOQ2NQLWdzWHFoajlqUXU2Vzg2RC1yX25yVzE1RV9JRy1oVVE?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-21T12:55:00.000Z",
-      "summary": "工博会展示AI智能体与具身智能机器人应用成果。",
-      "summaryZh": ""
-    },
-    {
-      "title": "卖硬件只是开始，启元还想做一个“机器人UGC平台”",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpV2JNWFdWNnFnc2s5NHVuRlBvSlZlQmpLLXZyZnlZUXItcHJXZ0JpTm1YS3JhZVBTWmd0THkwMFhuQXBudFlFMkdVNUdMdWJuZlhRNjVFZw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-21T12:26:46.000Z",
-      "summary": "启元推出个人机器人，打造机器人UGC平台。",
-      "summaryZh": ""
     },
     {
       "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
@@ -181,37 +162,6 @@
       "summary": "波士顿动力在乔治亚州开设了Metaplant应用中心，用于训练Atlas人形机器人。",
       "summaryZh": "",
       "titleZh": "波士顿动力公司开设 Metaplant 应用中心来培训 Atlas 类人机器人"
-    },
-    {
-      "title": "启元两款个人机器人正式发售",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RY3VhbzRaVEMwcFdNbTJELVBlYzl6VTRjbThJaEJ2ZUFmZlBaSnhXMU95eUVLTTg1bHVuekM1VDRuRjJJVTAydlVmSVRWRzBNU1NBaEs3MkkzeFg5UmdES05KU2N6T3pJcFlrcDBPWHo?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-21T03:01:59.000Z",
-      "summary": "启元机器人Q1、T1两款个人机器人正式上市。",
-      "summaryZh": ""
-    },
-    {
-      "title": "上纬启元的野心：当机器人界的苹果",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zaFNNNm1sYmZpd18tUVlOVjAyd0ZBUll0WlRXYUtFS2kxWDhKNnZlVGxMdUxTYWVsTXRRTEQ2LVVlZE1YV1drc0xoWGFyWXd1NHFCNXRpS1NYZkFZNlNnN01R?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-21T13:17:00.000Z",
-      "summary": "上纬启元推出两款个人机器人，定价与高端iPhone相近，旨在成为机器人界的苹果。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Snapping rods let frog-like robot outrun rigid legs across six terrains",
-      "link": "https://techxplore.com/news/2026-09-snapping-rods-frog-robot-outrun.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-21T19:40:09.000Z",
-      "summary": "新型仿蛙机器人利用可弯曲杆在六种地形上超越刚性腿。",
-      "summaryZh": "",
-      "titleZh": "弹簧杆让青蛙机器人在六个地形上超越刚性腿"
     }
   ]
 }
