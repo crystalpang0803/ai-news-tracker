@@ -1,15 +1,15 @@
 {
   "date": "2026-09-23",
-  "generatedAt": "2026-09-22T21:13:32.915Z",
+  "generatedAt": "2026-09-22T22:24:50.026Z",
   "items": [
     {
-      "title": "单机跑Kimi K3首破5.85毫秒，同等投资Token产能提升10倍！浪潮信息破局Agent算力难题",
-      "link": "https://zhidx.com/p/596515.html",
-      "source": "智东西",
+      "title": "OpenAI 发布 GPT-6 Sol 和 Luna 模型，API 价格大降 50%",
+      "link": "https://www.ithome.com/1/006/001.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-22T10:20:45.000Z",
-      "summary": "浪潮信息发布元脑SD200 Ultra超节点AI服务器，单机跑Kimi K3破5.85毫秒，同等投资Token产能提升10倍。",
+      "pubDate": "2026-09-22T19:25:16.000Z",
+      "summary": "OpenAI发布GPT-6 Sol和Luna模型，API价格较GPT-5.6促销价降50%。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-22T10:06:34.000Z",
-      "summary": "基元律动韩凯在云栖大会上探讨Agent持续进化路径，强调多模型调度与反馈闭环的重要性。",
+      "summary": "基元律动韩凯在云栖大会上探讨Agent持续进化路径。",
       "summaryZh": ""
     },
     {
@@ -50,6 +50,16 @@
       "category": "ai",
       "pubDate": "2026-09-22T06:41:00.000Z",
       "summary": "三部门推动研发轻工纺织行业专用智能体，提升产业链智能化水平。",
+      "summaryZh": ""
+    },
+    {
+      "title": "[ 从华尔街到陆家嘴 投资秘籍 Muse走红带动AMD市值创新高 AI智能体重塑算力需求 CPU迎来价值重估！",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80RUN2OTRhbVRHUkJuNmlIZGNtQjFVYzhLN3Y5SDBmUGI0NFh6ZVh6dllDYlJOTmV5TGVKYVQ4bHBmVDFWclJUb0tXeUJpNnZPQUFZRGhNdlA?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-22T13:39:53.000Z",
+      "summary": "AMD市值创新高，AI智能体重塑算力需求，CPU价值重估。",
       "summaryZh": ""
     },
     {
@@ -68,7 +78,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-22T08:45:11.000Z",
-      "summary": "启元机器人发布，迈出家庭市场第一步。",
+      "summary": "启元机器人发布，迈出家庭服务机器人第一步。",
       "summaryZh": ""
     },
     {
@@ -91,23 +101,13 @@
       "summaryZh": ""
     },
     {
-      "title": "腾讯混元发布最新生图模型Hy Image3.5 preview",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wTkRfV1NUOEVUd3lka0txcVJDaDlNR1pkbDV5LWozbEpzT2QzUnNQZlJrZ18yWW93bjhrc3doUm9ENUVGa05JdTBNTQ?oc=5",
+      "title": "阿里推新款真武AI芯片！吴泳铭：3倍性能，国产最强",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5pYWlUelc2VTNHb3k1aW9NVkx3RFpacE1tUmoyR0lDVjJrYlRwdVRNVkQ1VGRmWTRyZ1lyakp6VktfVkxtZFE?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-22T07:38:27.000Z",
-      "summary": "腾讯混元发布Hy Image3.5预览版，生图模型能力显著提升。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI进化速递丨阿里发布新一代AI芯片真武V900",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sTFdHWDJQd2ozSzZONDVCMVNPODNtNlkxNVFwckt1amZTOGxaeTIyQjduRjdSSTFBdHByMC0tZmo1bVAxUThUaUlqX29BZldBRjBR?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-22T08:23:20.000Z",
-      "summary": "阿里发布新一代AI芯片真武V900。",
+      "pubDate": "2026-09-22T05:00:46.000Z",
+      "summary": "阿里发布真武V900 AI芯片，性能提升至真武M890的3倍。",
       "summaryZh": ""
     },
     {
@@ -117,9 +117,30 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-22T17:51:19.000Z",
-      "summary": "NVIDIA发布Isaac ROS 5.0，引入AI智能体助力机器人开发。",
+      "summary": "NVIDIA发布Isaac ROS 5.0，引入AI代理助力机器人开发。",
       "summaryZh": "",
       "titleZh": "NVIDIA 表示，Isaac ROS 5.0 将 AI 代理引入机器人开发"
+    },
+    {
+      "title": "人形机器人公司帕西尼开启A股上市辅导 公司估值超百亿元",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUZEN1UmVMS1hZbkhtdUE4MzJtc2JjbkZNYmFQR0hTc1BIVTJFSVI3T2RIT2pkVG1GbVdJSEZXZ05aTkpYSlpxYUEzSUdVX2dCWmtBQXgzc2xrbEh3clhtaUtESS0?oc=5",
+      "source": "财新网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-22T13:04:00.000Z",
+      "summary": "人形机器人公司帕西尼开启A股上市辅导，估值超百亿元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Barbara Mazzolai Wants to Build a New Field of Robotics",
+      "link": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-22T14:00:04.000Z",
+      "summary": "巴芭拉·马佐拉伊致力于构建可持续性机器人新领域。",
+      "summaryZh": "",
+      "titleZh": "芭芭拉·马佐莱 (Barbara Mazzolai) 希望打造机器人新领域"
     },
     {
       "title": "事关智能驾驶、具身智能产业发展 多项硬核措施公布",
@@ -128,7 +149,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-22T03:22:45.000Z",
-      "summary": "“十五五”期间将加快地理信息数据应用，推动智能驾驶等新兴产业。",
+      "summary": "国务院发布多项措施促进智能驾驶和具身智能产业发展。",
       "summaryZh": ""
     },
     {
@@ -152,23 +173,13 @@
       "summaryZh": ""
     },
     {
-      "title": "“李白”对诗、“爱因斯坦”对话，机器人加速走进文娱场景",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mRXdrOHRObHFvYUtMbDNSa2Z1dk4xNjhweGdFalVEY040WUxNZG1CajJ6RzRkTnhiRkxuamZPbUp4ZWdFWmFsclNLeFFVcFRhdk9zNUhpeXBydW1DMXRQc0hwQVE?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-22T13:17:00.000Z",
-      "summary": "机器人从展示技术转向文娱服务，加速融入文化消费场景。",
-      "summaryZh": ""
-    },
-    {
       "title": "AI重塑旅游业：竞争优势从信息流量转向真实供给与履约能力",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HTHJPX184dVBFZmZOUUdnR1JZcWdabjVsZ0N3TWZSMFlKNGY4Z2gzWERYMGEwajB6MzRrWHBhUWRhYXpUdHYxNDlsMUlLWldJUTVKbQ?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-22T08:41:37.000Z",
-      "summary": "旅游业核心竞争力转向真实供给与履约能力。",
+      "summary": "旅游业核心竞争力转向真实供给、履约效率与数据资产。",
       "summaryZh": ""
     },
     {
@@ -189,7 +200,17 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-22T16:14:09.000Z",
-      "summary": "新疆旅游引入AI“古丽”，提升服务效率。",
+      "summary": "新疆旅游行业引入AI“古丽”，提升服务效率和游客体验。",
+      "summaryZh": ""
+    },
+    {
+      "title": "“李白”对诗、“爱因斯坦”对话，机器人加速走进文娱场景",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mRXdrOHRObHFvYUtMbDNSa2Z1dk4xNjhweGdFalVEY040WUxNZG1CajJ6RzRkTnhiRkxuamZPbUp4ZWdFWmFsclNLeFFVcFRhdk9zNUhpeXBydW1DMXRQc0hwQVE?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-22T13:17:00.000Z",
+      "summary": "机器人从展示技术走向服务岗位，加速融入文娱场景。",
       "summaryZh": ""
     },
     {
@@ -210,30 +231,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-22T07:43:57.000Z",
-      "summary": "石景山区具身智能训练中心揭牌，标志着北京首个人形机器人数据训练中心全面升级。",
+      "summary": "石景山区具身智能训练中心揭牌，标志着北京首个人形机器人数据训练中心完成升级。",
       "summaryZh": ""
-    },
-    {
-      "title": "Robotics E-Device",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNlNOdGpzSzBFakZiZzJleWZ0Q2F5RklQNG1DVXdQQUpJSFpaV2FhQmRFdmEtM3JOSjRuX1JMSHpBelU3Z3JESXpIYUc4RHpwUHE2X1N1Yy1zOXFzeEhZTzBuOXcyd29JYkg4ZnRmRjBySFZyb3U3dlMwQjNhcmhsUlE2amR5WkhXQmJNMlFGNWdoU0JwazZRUFhUTQ?oc=5",
-      "source": "Automation World",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-22T20:05:14.000Z",
-      "summary": "ABB推出E-Device，让用户用平板或PC操作、编程和监控OmniCore机器人。",
-      "summaryZh": "",
-      "titleZh": "机器人电子设备"
-    },
-    {
-      "title": "China's robot dancers limber up for America's Got Talent final",
-      "link": "https://techxplore.com/news/2026-09-china-robot-dancers-limber-america.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-22T09:00:03.000Z",
-      "summary": "中国机器人舞者备战美国达人秀决赛。",
-      "summaryZh": "",
-      "titleZh": "中国机器人舞者为美国达人秀决赛做准备"
     }
   ]
 }
