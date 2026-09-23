@@ -1,25 +1,25 @@
 {
   "date": "2026-09-23",
-  "generatedAt": "2026-09-22T23:38:58.533Z",
+  "generatedAt": "2026-09-23T00:57:08.675Z",
   "items": [
     {
-      "title": "OpenAI 发布 GPT-6 Sol 和 Luna 模型，API 价格大降 50%",
-      "link": "https://www.ithome.com/1/006/001.htm",
-      "source": "IT之家",
+      "title": "Agent的下半场，放大Human的潜力我们邀请了AI局内人——复旦大学NLP 实验室博士生、蚂蚁奖学金得主奚志恒老师，分享他对大模型智能体、强化学习和可扩展监督等研究方向的思考与判断， ChatGPT 爆发时，很多人看到的是更强的对话模型， 但在奚志恒看来，模",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BaUlxUm9OSmFIQXJWWXBMdkxXdzBzUTFIWHVGZlZXS0VLSDVrX1IteEVFeWVWS2E3Z0lyLTlFMW5yX3N6TFhIOHN0aThNeHZWNDFzaThB?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-22T19:25:16.000Z",
-      "summary": "OpenAI发布GPT-6 Sol和Luna模型，API价格降至GPT-5.6促销价的一半。",
+      "pubDate": "2026-09-22T05:47:00.000Z",
+      "summary": "奚志恒探讨AI智能体发展，强调放大人类潜力与扩展能力边界。",
       "summaryZh": ""
     },
     {
-      "title": "Anthropic 发布 Claude Opus 5.5 模型：性能媲美 Fable 5.1，运行成本比 Opus 5 低 40%",
-      "link": "https://www.ithome.com/1/005/998.htm",
-      "source": "IT之家",
+      "title": "单机跑Kimi K3首破5.85毫秒，同等投资Token产能提升10倍！浪潮信息破局Agent算力难题",
+      "link": "https://zhidx.com/p/596515.html",
+      "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-22T18:55:08.000Z",
-      "summary": "Anthropic发布Claude Opus 5.5模型，性能提升40%，成本降低40%。",
+      "pubDate": "2026-09-22T10:20:45.000Z",
+      "summary": "浪潮信息发布元脑SD200 Ultra超节点AI服务器，单机跑Kimi K3破5.85毫秒，同等投资Token产能提升10倍。",
       "summaryZh": ""
     },
     {
@@ -33,6 +33,16 @@
       "summaryZh": ""
     },
     {
+      "title": "大模型上车进入交付竞速期！字节豆包座舱助手首搭量产车落地上汽荣威",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CQlZQdUNqTnhfbVF5T3VZV0xWdHo2T1NmaVVlOFdzYjJKRFV5NUdMSjQ3S2g4eTRLYURhX3ZBcmRrRmF1WWdIMGRFdlJ2bkFVNVhqS1d4MXpxTHJaVVVMbQ?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-22T06:11:11.000Z",
+      "summary": "字节跳动旗下火山引擎的豆包座舱助手首次搭载上汽荣威家越07量产车上市。",
+      "summaryZh": ""
+    },
+    {
       "title": "DELMIA Robotics 弧焊离线编程技术解析：从CAD数据到真机部署的全链路自动化_视频",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tUGZvRUZBYnBCMURFaUFHZWdfQkxHNEZOTlJrc3FyZWRKenUtX3FtdlVTckVkdXJtai1FQTZDSWZwekpRUEZ6TVV2Y3ZMRDdiLTA2TA?oc=5",
       "source": "与非网",
@@ -43,33 +53,33 @@
       "summaryZh": ""
     },
     {
-      "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
-      "link": "https://www.qbitai.com/2026/09/494120.html",
-      "source": "量子位",
+      "title": "高通 CEO 安蒙：智能体时代并不是让 AI 替我们包办一切，而是让技术变得更实用",
+      "link": "https://www.ithome.com/1/006/015.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-22T10:06:34.000Z",
-      "summary": "基元律动韩凯在云栖大会上探讨Agent持续进化路径，提出多模型调度与反馈闭环技术。",
+      "pubDate": "2026-09-22T21:52:58.000Z",
+      "summary": "高通CEO安蒙强调智能体时代AI应提升技术实用性。",
       "summaryZh": ""
     },
     {
-      "title": "三部门：加快研发重点行业垂直领域大模型，开发应用面向轻工纺织全产业链的专用智能体",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBeHBLSURFR0d5aHlOWDR6Z3E3ak0zNFVNOEl2Q3RsYldHaS1hUnNCWVRuOGtuMGx3NWd1bTNCQkRydXFIcU0zLU5yNnpLRHpkQWczNWVNclhLQQ?oc=5",
-      "source": "钛媒体",
+      "title": "AI 也搞“同行评审”？曝 OpenAI 与 Anthropic 曾讨论互测彼此模型",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nT3VfSG5OdlFsVWNtWU1xVnB6WFAwU1huTFdnaGZhVWMtOGNybU5ZR2dRQWVEY3ZhcFlFZXhzQmdVWU8zZGFzVm84MFc?oc=5",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-22T06:41:00.000Z",
-      "summary": "三部门推动研发轻工纺织行业专用AI智能体。",
+      "pubDate": "2026-09-22T09:14:19.000Z",
+      "summary": "OpenAI与Anthropic曾讨论互测彼此AI模型，寻求安全漏洞。",
       "summaryZh": ""
     },
     {
-      "title": "[ 从华尔街到陆家嘴 投资秘籍 Muse走红带动AMD市值创新高 AI智能体重塑算力需求 CPU迎来价值重估！",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80RUN2OTRhbVRHUkJuNmlIZGNtQjFVYzhLN3Y5SDBmUGI0NFh6ZVh6dllDYlJOTmV5TGVKYVQ4bHBmVDFWclJUb0tXeUJpNnZPQUFZRGhNdlA?oc=5",
-      "source": "第一财经",
+      "title": "OpenAI拟在AI模型开发早期阶段引入第三方机构评估安全风险",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoSWNFTVB4VGk1MXJxN1FkbmlqbXJFT0dRSDU2THBDbXNSOWJwelNjX0V0a2FLYWdNQk1ZaGFtbkFaQkRNREphNFFvVjdWWHVPaUlFNkVFcVU?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-22T13:39:53.000Z",
-      "summary": "AMD市值创新高，AI智能体重塑算力需求，CPU价值重估。",
+      "pubDate": "2026-09-22T23:41:44.000Z",
+      "summary": "OpenAI计划在AI模型早期开发引入第三方评估安全风险。",
       "summaryZh": ""
     },
     {
@@ -88,18 +98,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-22T08:45:11.000Z",
-      "summary": "启元机器人发布，迈出家庭市场第一步。",
+      "summary": "启元机器人发布，迈出家庭服务机器人第一步。",
       "summaryZh": ""
     },
     {
-      "title": "“千机进厂”：AI重塑广东制造，具身智能迎场景落地潮",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOGQ5RWhkZldLR2FrdXNLaWxQMS00NV9lSUcyV2FveUxqM0lKZjdOMGRBbjFaV3hhOFJScDlwUkNvVXZQTEVLU0swMUp1NmdWZkgwb2poeDBvbkxYUDNWeEFaWkstV3dsODQ5QUl0UWNEQkRtNElQZHFUMXN2dFMtY2xZSXk4UQ?oc=5",
-      "source": "21财经",
+      "title": "36氪研究院 | 2026年中国AI Agent行业发展研究报告",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ibWMyMWdJVExjZUV3dGJWUFlCU2Foem5CXzJmZGNveDJaTWxkRjBfTkVSV0YzTVBOQU5OVWVnMnpDdnRrQi1LQkh4SDRHQQ?oc=5",
+      "source": "36氪",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-22T23:00:00.000Z",
-      "summary": "广东超2000台人形机器人进厂，AI赋能制造业转型升级。",
-      "summaryZh": ""
+      "category": "ai",
+      "pubDate": "2026-09-22T08:30:00.000Z",
+      "summary": ""
     },
     {
       "title": "谁也没想到，AI算力的下一个主角是CPU",
@@ -109,16 +118,6 @@
       "category": "ai",
       "pubDate": "2026-09-22T06:38:00.000Z",
       "summary": ""
-    },
-    {
-      "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zT0xjTlA0RE5IbnktUmdWMHdldGhDZmtMVTM3QmZBYkVpUmNJYTZ2SkJvcFhLZFVpN2tVRWJIMVhQRWlBLXJhbUVEZDhaVkttWndPXw?oc=5",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-22T02:59:29.000Z",
-      "summary": "阿里巴巴将长期投入AI模型、AI芯片和AI云三大基础设施建设。",
-      "summaryZh": ""
     },
     {
       "title": "Isaac ROS 5.0 brings AI agents to robotics development, says NVIDIA",
@@ -142,27 +141,6 @@
       "summaryZh": ""
     },
     {
-      "title": "Barbara Mazzolai Wants to Build a New Field of Robotics",
-      "link": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-22T14:00:04.000Z",
-      "summary": "巴芭拉·马佐拉伊致力于打造可持续性机器人新领域。",
-      "summaryZh": "",
-      "titleZh": "芭芭拉·马佐莱 (Barbara Mazzolai) 希望打造机器人新领域"
-    },
-    {
-      "title": "事关智能驾驶、具身智能产业发展 多项硬核措施公布",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85ekJwOHhLZzgxRXA0RVBGLXVDV3Y4Q092WEN3YU5Cc0FIakZyeHdYYmdTaDNlbERjRWFYcWtwSzV5cDNZdnRRUA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-22T03:22:45.000Z",
-      "summary": "“十五五”期间将公布多项措施促进智能驾驶和具身智能产业发展。",
-      "summaryZh": ""
-    },
-    {
       "title": "长三角前8个月出口机器人160亿元",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rdVZOT2ljbXlYLXNuUkxRUWxsUDNVajJpZUw2R1BIdXI2NlJEYmJhcmpPVlI2ZkpEVm1lMjZqRjhGemZpMWgtWEVhem43NmxzZzN3X1AtS0RlSGhPaE9zSXhSVDltdksyamhRSUt5RmtLVUxMNWhwSVlOT29TaHc?oc=5",
       "source": "新华网科技",
@@ -171,15 +149,6 @@
       "pubDate": "2026-09-22T11:43:25.000Z",
       "summary": "长三角前8个月机器人出口额达160亿元，同比增长3倍。",
       "summaryZh": ""
-    },
-    {
-      "title": "AI重塑旅游业：竞争优势从信息流量转向真实供给与履约能力",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HTHJPX184dVBFZmZOUUdnR1JZcWdabjVsZ0N3TWZSMFlKNGY4Z2gzWERYMGEwajB6MzRrWHBhUWRhYXpUdHYxNDlsMUlLWldJUTVKbQ?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-22T08:41:37.000Z",
-      "summary": ""
     },
     {
       "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
@@ -193,33 +162,13 @@
       "titleZh": "TechCrunch Disrupt 2026：Aaron Edsinger 在舞台上展示了​​ Hello Robot 的 Stretch 4"
     },
     {
-      "title": "Meta(META.US)Muse掀起“AI颠覆交易” 金融、保险、旅游股集体下挫",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJT3BPcEk2NHVJUng0NDM3R1hwdHFmMmtJd01mbnZvZUdiUFlydEVSckJZRlBzdEE2Tk1tME5VbVZVZjRZdXh2RU1PS0Q0Z0lYbTF6UUxwYzEzb1B0ZWhuRldkcnRuYldQLXphNXdQMnhtS21q?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-22T22:00:00.000Z",
-      "summary": "Meta推出AI智能体Muse引发金融、保险、旅游股下跌。",
-      "summaryZh": ""
-    },
-    {
       "title": "AI“古丽”上岗，新疆旅游有了“智慧大脑”",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EaGRGZUgxVEFQVHVYam03SURZdDk3VlVGMXpQZ1FzUnByMUl5aWkycHgyeWpwaWNMNUVoUGVzNlJITDZRaXdLbk14NUpSdjFTWkVjRURneXA0b19pbndoVUdycTdYSUdKaEhXaVVPYktqdV95YUVoNHlR?oc=5",
       "source": "央广网",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-22T16:14:09.000Z",
-      "summary": "新疆旅游引入AI“古丽”，提供智慧服务。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI+机器人赋能中医理疗 广东这家企业实现多重突破",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RdkNqSEIzVUladVlyNXBlTXRMNzRkX2JBdHpNZjhSTS1NT0YzcTRkVFIwM3A2RkVmdmp1Ym1adUI4OC1seW81UFk4UFVWSHlBRDZIMkdXbnRoRjVScktuT1FqcW8zVGxBM1VZcmJzWnM?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-22T03:52:33.000Z",
-      "summary": "广东企业研发AI按摩理疗机器人，实现中医理疗技术突破。",
+      "summary": "新疆旅游引入AI“古丽”，提升服务效率。",
       "summaryZh": ""
     },
     {
@@ -229,19 +178,29 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-22T13:17:00.000Z",
-      "summary": "机器人从展示技术转向服务岗位，加速融入文娱场景。",
+      "summary": "机器人从展示技术转向服务岗位，加速进入文娱场景。",
       "summaryZh": ""
     },
     {
-      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5",
-      "source": "NVIDIA Blog",
+      "title": "赋能物理 AI 走向真实工业场景 石景山区具身智能训练中心揭牌",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrUFBlQnBMREFocTdOeW1Fek0tXzJicm00YVJucDJ1Tkp4MktwUzlHU1FkazBsWjNMMGQ4Q1ZZVDI4dFZfbk1PZHl5bm0?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-22T07:43:57.000Z",
+      "summary": "石景山区具身智能训练中心揭牌，标志着北京首个人形机器人数据训练中心全面升级。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Robotics E-Device",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNlNOdGpzSzBFakZiZzJleWZ0Q2F5RklQNG1DVXdQQUpJSFpaV2FhQmRFdmEtM3JOSjRuX1JMSHpBelU3Z3JESXpIYUc4RHpwUHE2X1N1Yy1zOXFzeEhZTzBuOXcyd29JYkg4ZnRmRjBySFZyb3U3dlMwQjNhcmhsUlE2amR5WkhXQmJNMlFGNWdoU0JwazZRUFhUTQ?oc=5",
+      "source": "Automation World",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-09-22T12:06:35.000Z",
-      "summary": "NVIDIA发布Isaac ROS 5.0，提升开源机器人开发能力。",
+      "pubDate": "2026-09-22T20:05:14.000Z",
+      "summary": "ABB推出E-Device，让用户用平板或PC操作、编程和监控OmniCore机器人。",
       "summaryZh": "",
-      "titleZh": "NVIDIA Isaac ROS 5.0 推进代理开源机器人开发"
+      "titleZh": "机器人电子设备"
     }
   ]
 }
