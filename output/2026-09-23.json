@@ -1,27 +1,7 @@
 {
   "date": "2026-09-23",
-  "generatedAt": "2026-09-23T04:49:41.722Z",
+  "generatedAt": "2026-09-23T08:49:13.443Z",
   "items": [
-    {
-      "title": "GPT-6 Sol对决Claude Opus 5.5 同日上线AI大模型谁是真正性价比之王",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVYl9oLVh3UVB0dnlNR0x3T0JLZkw4SEQ1U3lraFVkbWV4VU9JQ096US1xMVJ4ajI5RUl1QVpSRFRwWURTb1VpYU1OZUxGTmlmbzRj?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-22T11:11:00.000Z",
-      "summary": "OpenAI与Anthropic同日发布GPT-6 Sol和Claude Opus 5.5，AI大模型性价比之争开启。",
-      "summaryZh": ""
-    },
-    {
-      "title": "GPT-6家族上新 OpenAI打响AI大模型价格战 不止靠低价突围",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12cEwxRTg4NVRieUtJalBqb201c0xZckNQS3B6bVBtMU1veGIyOUpJcmxWVzBSeUdVckM2UzgwM2hCSGxrNFhoMUhyNmVmV0JOaTA0?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-22T11:21:00.000Z",
-      "summary": "OpenAI发布GPT-6 Sol和GPT-6 Luna，价格战下AI模型成本竞争加剧。",
-      "summaryZh": ""
-    },
     {
       "title": "单机跑Kimi K3首破5.85毫秒，同等投资Token产能提升10倍！浪潮信息破局Agent算力难题",
       "link": "https://zhidx.com/p/596515.html",
@@ -33,73 +13,73 @@
       "summaryZh": ""
     },
     {
-      "title": "Anthropic放慢AI开发后首次上新：Claude Opus 5.5 能力接近Fable 5.1，成本降40%；OpenAI再推两款GPT-6模型，Sol和Luna价格腰斩",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96Tm5qZ0UzZ1NHc2pCX3lGMzRNVnZCUW1WaDZacE5VdTljV3dXV3piMGJyT1lwa3NlT21JVElNZHRfUGQ2U1pYMF9idkQ4alRsbFhhWFBib2pWdzBiemFvcU9VejFvUQ?oc=5",
-      "source": "每日经济新闻",
+      "title": "稚晖君把机器人卖到2万元一台，可人可狗可开发！",
+      "link": "https://www.qbitai.com/2026/09/496304.html",
+      "source": "量子位",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-22T23:51:00.000Z",
-      "summary": "Anthropic发布Claude Opus 5.5，OpenAI推出两款GPT-6模型，价格腰斩。",
+      "category": "robotics",
+      "pubDate": "2026-09-23T05:16:54.000Z",
+      "summary": "稚晖君推出两款售价2万元的可变形机器人，主打个性化创作和日常陪伴。",
       "summaryZh": ""
     },
     {
-      "title": "独家对话大咖机器人王坤：具身智能这条路，谁也不能保证“涌现”一定会出现",
-      "link": "https://www.tmtpost.com/8149409.html",
+      "title": "最先跑通具身智能RSI的，未必是模型最强的公司",
+      "link": "https://www.tmtpost.com/8150447.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-23T03:43:47.000Z",
-      "summary": "大咖机器人王坤表示，具身智能领域无法保证“涌现”一定会出现。",
+      "pubDate": "2026-09-23T08:33:40.000Z",
+      "summary": "具身智能RSI发展，基础模型强公司未必领先。",
       "summaryZh": ""
     },
     {
-      "title": "刚刚，高通2nm双旗舰来了，为智能体AI重造架构，手机能跑300亿参数大模型",
-      "link": "https://zhidx.com/p/596608.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-22T23:17:46.000Z",
-      "summary": "高通发布2nm制程双旗舰芯片，手机可运行300亿参数大模型。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Muse走红带动AMD市值创新高AI智能体重塑算力需求！SpaceXAI发布Grok 4.7模型丨20260923从华尔街到陆家嘴",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UYWdpTXpOMFZuZlB2REtjakpnQ2VwZlVMZmZWWERFSE8xR1BMeU1oSUNyUE1VMm41UXN5YUY4WV82a0NvNGRqVVVNdlk4Z3puYXZxLQ?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-23T03:39:28.000Z",
-      "summary": "AMD市值因Muse走红创新高，AI智能体重塑算力需求增长，SpaceXAI发布Grok 4.7模型。",
-      "summaryZh": ""
-    },
-    {
-      "title": "零售成了“机器人练兵场”",
-      "link": "https://www.tmtpost.com/8149507.html",
+      "title": "别急着吹全面国产，手术机器人的“心脏”还在老外手里",
+      "link": "https://www.tmtpost.com/8150247.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-23T03:48:42.000Z",
-      "summary": "零售业成为机器人商业价值检验的关键场景。",
+      "pubDate": "2026-09-23T08:14:10.000Z",
+      "summary": "手术机器人核心部件依赖进口，国产替代仍面临挑战。",
       "summaryZh": ""
     },
     {
-      "title": "DELMIA Robotics 弧焊离线编程技术解析：从CAD数据到真机部署的全链路自动化_视频",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tUGZvRUZBYnBCMURFaUFHZWdfQkxHNEZOTlJrc3FyZWRKenUtX3FtdlVTckVkdXJtai1FQTZDSWZwekpRUEZ6TVV2Y3ZMRDdiLTA2TA?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-22T07:00:32.000Z",
-      "summary": "DELMIA Robotics推出弧焊离线编程技术，实现CAD数据到真机部署全链路自动化。",
-      "summaryZh": ""
-    },
-    {
-      "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
-      "link": "https://www.qbitai.com/2026/09/494120.html",
+      "title": "阿里千问AI平台全面升级模型服务、Agent服务、AI应用",
+      "link": "https://www.qbitai.com/2026/09/496301.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-22T10:06:34.000Z",
-      "summary": "基元律动韩凯在云栖大会演讲，探讨Agent持续进化路径。",
+      "pubDate": "2026-09-23T05:13:19.000Z",
+      "summary": "阿里千问AI平台升级，推出模型服务、Agent服务、AI应用新能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "科大讯飞发布全新语音识别大模型 Spark-ASR-2.0，明日上线讯飞输入法",
+      "link": "https://www.ithome.com/1/006/345.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-23T08:35:48.000Z",
+      "summary": "科大讯飞发布语音识别大模型Spark-ASR-2.0，明日应用于讯飞输入法。",
+      "summaryZh": ""
+    },
+    {
+      "title": "特斯拉北美车机上线 Grok Bot，开车就能语音下单买咖啡、发邮件",
+      "link": "https://www.ithome.com/1/006/247.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-23T06:47:08.000Z",
+      "summary": "特斯拉北美车机新增Grok Bot，支持语音下单咖啡、发邮件等事务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "马斯克惊叹中国AI大模型，称单位算力产出性能几乎是全球顶尖水平",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FTTJUUmNQMDRubi1IX08zaldKS1pkcTBhWEVBZmlkU2NTUE1YUS14UTdHaFdvcTdrdU1nTzMzTUpRQ3hTUE1XWElkVGFBZS0wdHpvZ193bkM?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-23T06:17:16.000Z",
+      "summary": "马斯克称赞中国AI大模型单位算力产出性能接近全球顶尖。",
       "summaryZh": ""
     },
     {
@@ -113,33 +93,64 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI拟在研发早期引入第三方评估AI模型安全风险",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XSzhkZFk0ZzZudjRaUHdxYWlYWlY1cEtiYWN1ZEpmZGFqQjFoTWhQWEhQZXFGVFVwMGJldy0xY0h4TTk5X0UxMUJqd1VsU000X3M3cjhBejFsTF9EbW5nZVF1RmxUS3pCTklfUA?oc=5",
+      "title": "李泽湘投的西工大校友，造水面机器人，半年融资超3亿",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9Cd2ZsYnhVYW5TUTN1R180MTZpdG9HNm9OR3lKQURTS3lGWGdzQkZfdEZZYVVvblJ5eHRLZDY2R3Z2dDdMeUE?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-23T05:37:28.000Z",
+      "summary": "西工大校友创办公司欧卡智舶，半年内完成近3亿融资，专注水面机器人技术。",
+      "summaryZh": ""
+    },
+    {
+      "title": "“千机进厂”：AI重塑广东制造，具身智能迎场景落地潮",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOGQ5RWhkZldLR2FrdXNLaWxQMS00NV9lSUcyV2FveUxqM0lKZjdOMGRBbjFaV3hhOFJScDlwUkNvVXZQTEVLU0swMUp1NmdWZkgwb2poeDBvbkxYUDNWeEFaWkstV3dsODQ5QUl0UWNEQkRtNElQZHFUMXN2dFMtY2xZSXk4UQ?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-22T23:00:00.000Z",
+      "summary": "广东超2000台人形机器人进厂，AI赋能制造转型升级。",
+      "summaryZh": ""
+    },
+    {
+      "title": "苹果新款Mac台式机：主打端侧AI，以降低算力成本为卖点",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5tYW5ZdFpQMzAwMzE3VHVuTTdXTE5nM2JEQzVvRWdZTF9NUmxRX080UlFLRGpEUjhGSTlJbmoyUHVVeXo3X0E?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-22T17:07:29.000Z",
+      "pubDate": "2026-09-22T18:43:35.000Z",
       "summary": ""
     },
     {
-      "title": "DeepSeek 新论文公开 Agent 训练，梁文锋署名",
-      "link": "https://www.ithome.com/1/006/148.htm",
-      "source": "IT之家",
+      "title": "华为发布AI时代的全新计算架构 大规模算力集群全面提振光纤需求",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fOUhPWTJ3dHZaRlpyX0QtVUl2bUdmREV5Smx1eFF1WE9NNURObmp1ZWtCVU54SjFiZXNZSEpaNk0yMy1UUXVMRA?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-23T03:37:48.000Z",
-      "summary": "DeepSeek发布新论文，公开Agent训练技术细节，构建大规模沙盒环境。",
-      "summaryZh": ""
+      "pubDate": "2026-09-22T12:39:55.000Z",
+      "summary": ""
     },
     {
-      "title": "高通 CEO 安蒙：智能体时代并不是让 AI 替我们包办一切，而是让技术变得更实用",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VdjJ5TDZ1U3BjV3l4NjVjclFkLThJQkQwSTJXMmdyLXZjRzg3ZWpKdlNyTTNZM3JfYUJOUDYtQ1RVM3FEcl9Uend4WXk?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "source": "The Verge",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-09-22T21:52:58.000Z",
-      "summary": "高通CEO安蒙强调智能体时代AI应提升技术实用性。",
-      "summaryZh": ""
+      "pubDate": "2026-09-22T20:52:40.000Z",
+      "summary": "Rabbit新AI代理无需R1运行。",
+      "summaryZh": "",
+      "titleZh": "Rabbit 的新 AI 代理不需要 R1 即可运行"
+    },
+    {
+      "title": "Rabbit Is Back, This Time With an AI Agent App",
+      "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-22T16:00:00.000Z",
+      "summary": "Rabbit推出跨平台AI代理操作系统OS3，支持桌面、手机等设备。",
+      "summaryZh": "",
+      "titleZh": "兔子回来了，这次带着人工智能代理应用程序"
     },
     {
       "title": "Isaac ROS 5.0 brings AI agents to robotics development, says NVIDIA",
@@ -148,9 +159,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-22T17:51:19.000Z",
-      "summary": "NVIDIA发布Isaac ROS 5.0，引入AI智能体助力机器人开发。",
+      "summary": "NVIDIA发布Isaac ROS 5.0，引入AI代理助力机器人开发。",
       "summaryZh": "",
       "titleZh": "NVIDIA 表示，Isaac ROS 5.0 将 AI 代理引入机器人开发"
+    },
+    {
+      "title": "机器人靠什么感知世界？10 张动图看懂常用传感器",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3dFZBb285WEY5X3drWVJ2dU82SndXN3laNi1uekhsVGNTcG9hV0piUGhFYzBsUndobTJMZmpzM1hFSjJQWDI4QzdqNFREbzFDeFRlRkRxaw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-22T09:07:17.000Z",
+      "summary": "动图解析：机器人常用传感器工作原理及分类。",
+      "summaryZh": ""
     },
     {
       "title": "Barbara Mazzolai Wants to Build a New Field of Robotics",
@@ -164,6 +185,36 @@
       "titleZh": "芭芭拉·马佐莱 (Barbara Mazzolai) 希望打造机器人新领域"
     },
     {
+      "title": "注册资本1000万，这家新机器人公司能给优必选带来哪些想象力？",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZX3VwWmcyNlRNUGxGRXhPYXl5eGhjeW1vYjdJMVBUZ3dGM2NTWVM2UVY1Zm9aVUVUWmpDVk1BT2NOWlNKVnVFbk5lYVpyb3pKcUlCZ3Fn?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-22T09:10:00.000Z",
+      "summary": "广东茂优智造机器人有限公司成立，注册资本1000万，由优必选持股30%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2026年AI、人形机器人、高端制造如何系统学习？朱光宙的产业研究框架",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZSE5veGlXaXdNb1lqczZKZGZSdDlPYU9jdDNVVEozalBINXpoZTFDRURTUTBwT3dQdmtTaWFVazFPa0RsNDlXanBXckNyLU1E?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-23T06:35:51.000Z",
+      "summary": "朱光宙提出产业研究框架，指导AI、人形机器人、高端制造系统学习。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2026年科技产业投资：AI、人形机器人与高端制造的长期逻辑",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tRklFTWg3Q21xeDBiWUR5NGFtUUNXdERKQzFQbVMteC1Jc0k2LTR6SGYxMmZlc1lYNkJqQmNIdWFfXzlsMUNCY1c2TDNtZS1s?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-23T06:33:51.000Z",
+      "summary": "2026年科技投资聚焦AI、人形机器人和高端制造，关注产业升级与长期趋势。",
+      "summaryZh": ""
+    },
+    {
       "title": "人形机器人公司帕西尼开启A股上市辅导 公司估值超百亿元",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUZEN1UmVMS1hZbkhtdUE4MzJtc2JjbkZNYmFQR0hTc1BIVTJFSVI3T2RIT2pkVG1GbVdJSEZXZ05aTkpYSlpxYUEzSUdVX2dCWmtBQXgzc2xrbEh3clhtaUtESS0?oc=5",
       "source": "财新网",
@@ -171,46 +222,6 @@
       "category": "robotics",
       "pubDate": "2026-09-22T13:04:00.000Z",
       "summary": "人形机器人公司帕西尼开启A股上市辅导，估值超百亿元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI重塑旅游业：竞争优势从信息流量转向真实供给与履约能力",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HTHJPX184dVBFZmZOUUdnR1JZcWdabjVsZ0N3TWZSMFlKNGY4Z2gzWERYMGEwajB6MzRrWHBhUWRhYXpUdHYxNDlsMUlLWldJUTVKbQ?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-22T08:41:37.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Veepai 小鹰魔盒 AI 智能移动监控机器人，兼顾全屋看护与儿童智能陪伴",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90YUt0LWFpUXpkcTBlSTU2QjJVc1JmY1JOSW9LVmdJVFJneXBVSXc3dGRYVFJibjAzSGFSb01BU3VOdHRkQ3Z5TjBsTjI?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-23T03:13:33.000Z",
-      "summary": "Veepai小鹰魔盒AI智能移动监控机器人融合看护与陪伴功能，解决家庭安防及儿童早教痛点。",
-      "summaryZh": ""
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-22T14:30:00.000Z",
-      "summary": "Hello Robot CEO Aaron Edsinger在TechCrunch Disrupt 2026上展示 Stretch 4 机器人。",
-      "summaryZh": "",
-      "titleZh": "TechCrunch Disrupt 2026：Aaron Edsinger 在舞台上展示了​​ Hello Robot 的 Stretch 4"
-    },
-    {
-      "title": "科华数据：公司一直以来高度重视智能制造及AI技术的应用与发展",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16UVh3aHEyMEt2dl8xcTl0dG5wckp2eWtpNXAwZG5HckJoN1FLYVdySE9fc2pIZE0yNF9KdG1KQlJmTll6VlZ3WjhrcGFkUkVWY0t5VjRCc19rS0FwX0ZhcFoyTndFRzI4?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-23T03:59:14.000Z",
-      "summary": "科华数据重视智能制造及AI技术应用与发展。",
       "summaryZh": ""
     },
     {
