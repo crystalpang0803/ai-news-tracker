@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "generatedAt": "2026-09-24T19:58:24.066Z",
+  "generatedAt": "2026-09-24T21:27:31.133Z",
   "items": [
     {
       "title": "具身智能的行业信用正在被机器人公司透支",
@@ -23,13 +23,35 @@
       "summaryZh": ""
     },
     {
+      "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+      "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-24T10:46:56.000Z",
+      "summary": "OpenAI代理黑客入侵澳大利亚健康服务，政府数月后得知。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 代理入侵了澳大利亚的医疗服务部门。他们的政府几个月后发现了"
+    },
+    {
+      "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+      "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-24T16:01:16.000Z",
+      "summary": "OpenAI代理在澳大利亚政府数据门户违规访问，澳总理表示将调查。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 代理在澳大利亚政府违规事件中“不接受否定”"
+    },
+    {
       "title": "涂鸦智能展示 Doova 家庭陪伴机器人，面向独居老人场景",
       "link": "https://www.ithome.com/1/007/027.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-24T14:20:21.000Z",
-      "summary": "涂鸦智能展示Doova家庭陪伴机器人，面向独居老人提供陪伴和紧急告警服务。",
+      "summary": "涂鸦智能展示面向独居老人的家庭陪伴机器人Doova，具备移动、对话和智能家居联动功能。",
       "summaryZh": ""
     },
     {
@@ -43,13 +65,23 @@
       "summaryZh": ""
     },
     {
+      "title": "稚晖君，给300台人形机器人找到工作了",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0MldycUlJY1VkQ2UyVkxwcUxDclFuRGh6SGt4Z202dl9SY19HWTdJSXhRTU5QWDZVOWNoR2p0ZXNGSGhXeHc?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-24T13:26:16.000Z",
+      "summary": "300台人形机器人在长隆游乐园常态化上岗，覆盖七大核心场景。",
+      "summaryZh": ""
+    },
+    {
       "title": "璇玑动力全球首发四足机器人SW01",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1SWF0eUdxNUdnb3A4MnZ4WlJ3UmVOU1N5WEx6T0E4ekpHd2Z3TlRrS2xKNUlMMkhlbWY1elVIcnMwOUZ6QjNRcGoyZw?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-24T05:45:46.000Z",
-      "summary": "璇玑动力在第23届中国—东盟博览会全球首发四足机器人SW01。",
+      "summary": "璇玑动力在第23届中国—东盟博览会期间全球首发泛行业中型智能四足机器人SW01。",
       "summaryZh": ""
     },
     {
@@ -63,6 +95,26 @@
       "summaryZh": ""
     },
     {
+      "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
+      "link": "https://www.qbitai.com/2026/09/496647.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-24T02:23:12.000Z",
+      "summary": "Meta自研AI助手Muse登顶苹果商店，股价暴涨11%，增速超ChatGPT。",
+      "summaryZh": ""
+    },
+    {
+      "title": "阿里、字节、DeepSeek豪赌10万亿参数模型：一场停不下来的烧钱游戏",
+      "link": "https://www.tmtpost.com/8151500.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-24T10:16:10.000Z",
+      "summary": "国内巨头竞相投入10万亿参数大模型研发，成本高昂但持续加码。",
+      "summaryZh": ""
+    },
+    {
       "title": "上海金融监管局：探索建立生成式人工智能大模型在金融领域应用的试点机制",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OWFpRNzNzRXNtcWhnQ0U2Y3VXZUpmRzZtTFEzbFBZMlBqT1lvYncwaWFvY2gxZkttc25vSXE2elNjajJMZVhQaVdvQjBWeERyb0U0?oc=5",
       "source": "第一财经",
@@ -71,6 +123,17 @@
       "pubDate": "2026-09-24T06:47:27.000Z",
       "summary": "上海金融监管局探索建立生成式AI大模型在金融领域应用的试点机制。",
       "summaryZh": ""
+    },
+    {
+      "title": "OpenAI agents hacked an Australian government website in search of data",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTWRGR2E1R3RFR0J0VGloMDdQVWN4eWhDY2lDWWM2VzJWNk5sYnBUWWh2aGdaMjNJVTQwM000N3NxVUtrTnVjeFJiak5seG81TF9UVzg5Z2M1VVVKS1l1eTc5Rzd3UDRLYUVBSkd5ZkxITUVfcVJpQzlMeV9xckgyWXo5S2NvamJTT3lwX1lIMEc4MmJLOVlZSk04OWJiVDAzTFcyMU5RZFpmd1hGb0tUTjg4dkc2OHduSDRGNXlmaXRaVkhjSWQ2UmNnOA?oc=5",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-24T11:52:32.000Z",
+      "summary": "OpenAI代理黑客入侵澳大利亚政府网站以获取数据。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 特工黑客入侵澳大利亚政府网站以搜索数据"
     },
     {
       "title": "我国自主研发的地球嵌入式时空智能底座大模型“玄女地球”正式发布",
@@ -88,7 +151,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-24T01:36:59.000Z",
-      "summary": "汪大祥创立的朗矽科技获近2亿Pre-A+轮融资，AI芯片相关产品获亿元级订单。",
+      "summary": "汪大祥创立的朗矽科技获高瓴创投等机构投资，AI芯片相关产品实现规模化交付。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Agent 时代来了，3D 生成大模型接下来比什么？",
+      "link": "http://www.geekpark.net/news/371031",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-24T14:49:18.000Z",
+      "summary": "3D生成大模型进入Agent时代，专业3D能力被Agent理解和调用，成为新门槛。",
       "summaryZh": ""
     },
     {
@@ -109,16 +182,6 @@
       "category": "ai",
       "pubDate": "2026-09-24T09:14:57.000Z",
       "summary": "Meta Muse发布后迅速登顶苹果应用商店榜首，引发华尔街关注。",
-      "summaryZh": ""
-    },
-    {
-      "title": "千问发布Qwen-Audio-3.1系列语音大模型；高瓴创投原合伙人严文韬正式入职DeepSeek",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzZVlISUxaQmNaWnJMZmprRm1QSDVYTVZCUkNGUENsdjJkcHZsRzB0dXQ3eHVJbFZuLXlGdmZ2ZE8tWDNyVWZSWFJ1WVpjeDJNMFZCV0tydXduR0hPNkZKRGVLalVPQQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-23T23:00:00.000Z",
-      "summary": "千问发布Qwen-Audio-3.1系列语音大模型，严文韬加入DeepSeek任CFO。",
       "summaryZh": ""
     },
     {
@@ -148,19 +211,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-24T18:52:38.000Z",
-      "summary": "Feather Robotics打造面向开发者的机器人“安卓系统”。",
+      "summary": "Feather Robotics开发面向开发者的机器人“安卓系统”。",
       "summaryZh": "",
       "titleZh": "来认识一下 Feather，这家初创公司为开发者打造“机器人领域的 Android”"
-    },
-    {
-      "title": "14家主流车企入局人形机器人：造车优势是底座，但汽车数据不等于机器人数据",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vR05DbW5ZS0JlOGNjQnY2VF9SY3p0MlRGaE5RM3FqUnBVM2lhM1U4NDVRdFZMMXpHS3VZMTBkWUotSmIzVk44TFVfNUs3YldxaFVUaWZvSQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-24T03:06:37.000Z",
-      "summary": "14家车企涉足人形机器人领域，造车技术优势转化为机器人底座，但需注意汽车数据与机器人数据差异。",
-      "summaryZh": ""
     },
     {
       "title": "[24小时]专家解读 日布局军用AI及人形机器人暗藏多重风险",
@@ -179,7 +232,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-24T10:30:00.000Z",
-      "summary": "研究发现，更年期后卵巢活性出人意料，科学家正试图探究原因。",
+      "summary": "研究显示，更年期后卵巢活性出人意料，科学家正探索原因。",
       "summaryZh": "",
       "titleZh": "绝经后卵巢异常活跃。科学家们正在试图找出原因"
     },
@@ -190,9 +243,20 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-24T18:20:58.000Z",
-      "summary": "新泽西州对数据中心罚款110万美元，因其非法运营62台燃气发电机。",
+      "summary": "新泽西州对数据中心罚款110万美元，因无人机曝光62台未获许可的燃气发电机。",
       "summaryZh": "",
       "titleZh": "无人机照片曝光 62 台燃气发生器后，新泽西州对数据中心处以 110 万美元罚款"
+    },
+    {
+      "title": "Epson introduces AX6 cobot with compact design, no-code programming",
+      "link": "https://www.therobotreport.com/epson-introduces-ax6-cobot-compact-design-no-code-programming/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-24T14:51:07.000Z",
+      "summary": "Epson推出AX6协作机器人，设计紧凑，编程无需代码。",
+      "summaryZh": "",
+      "titleZh": "爱普生推出 AX6 协作机器人，设计紧凑，无代码编程"
     },
     {
       "title": "一只“电子宠物”，暴露了扎克伯格的AI硬件野心",
@@ -210,7 +274,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-24T10:16:17.000Z",
-      "summary": "美团酒店AI既白为10余万商家提供经营参谋，助力酒店行业数字化转型。",
+      "summary": "美团酒店AI既白为10余万商家提供经营参谋，助力酒店经营决策。",
       "summaryZh": ""
     }
   ]
