@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "generatedAt": "2026-09-23T23:47:31.223Z",
+  "generatedAt": "2026-09-24T00:54:15.214Z",
   "items": [
     {
       "title": "OpenAI连发两款GPT‑6新模型！API价格腰斩",
@@ -9,7 +9,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-23T04:07:43.000Z",
-      "summary": "OpenAI发布两款GPT-6新模型，API价格降低50%。",
+      "summary": "OpenAI发布两款GPT-6新模型，API价格较上一代降低50%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段",
+      "link": "https://www.qbitai.com/2026/09/496481.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-23T08:54:04.000Z",
+      "summary": "它石智航团队推动中国具身智能技术规模化落地。",
       "summaryZh": ""
     },
     {
@@ -19,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-23T15:31:11.000Z",
-      "summary": "谷歌发布两款新文本转语音模型，支持精确控制台词演绎。",
+      "summary": "谷歌发布两款新文本转语音模型，支持精确控制每一行台词演绎。",
       "summaryZh": ""
     },
     {
@@ -29,7 +39,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-23T15:34:48.000Z",
-      "summary": "Claude写作变差因模型训练偏向AI而非人类理解。",
+      "summary": "Claude写作变差因过度训练适应AI模型而非人类读者。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI算力与新硬件布局落地，消费电子业绩持续兑现",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCQWFzemJqYlpOVVMweHZJQ0RDMTMtTjRBVS1qTmVWS3BJTk9jQUQyRXRUdEJfV3BxY1RDalJib3R3V0IzUDJ0cVI1bGMzNFRRb1B5RGNwcTQ?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-23T23:40:31.000Z",
+      "summary": "AI算力与新硬件推动消费电子业绩增长，多公司布局新赛道。",
       "summaryZh": ""
     },
     {
@@ -43,24 +63,33 @@
       "summaryZh": ""
     },
     {
+      "title": "AI新物种Jev刷屏：一个不会聊天的新模型，凭什么放话Claude Code时代要翻篇？-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XdHBiRkg0RXRXbTZmSnFuN09oRUVQVWlUN05HTnFIUWtMa0xHdS1kazFmcjJQTFlQdlNqaDdpNFAzV19fc0pIZk10SEYyMGJT?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-23T13:45:20.000Z",
+      "summary": "Jev新模型因判断优先、快速低成本、高置信度等特点引发关注，挑战传统大模型。",
+      "summaryZh": ""
+    },
+    {
       "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
       "link": "https://www.qbitai.com/2026/09/496493.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-23T09:50:26.000Z",
-      "summary": "汇智智能发布国内首个FDE直连智能体服务平台Hellome，将AI交付周期缩短至周级。",
+      "summary": "汇智智能推出国内首个FDE直连智能体服务平台，将AI交付周期缩短至周级。",
       "summaryZh": ""
     },
     {
-      "title": "华为大模型双子星联手，Physical AI创业公司息壤开物成立两月，连获数亿元融资，物理能力登顶全球第一",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mX2pseExDbUNlWEtXaUUxUzRWc0VtUDkxVTFtOW1uWFB1Y2h3bXRMaEhVWTFCX1hSOXhpS3gwSkNza3JjaWtHeUxDY18?oc=5",
-      "source": "钛媒体",
+      "title": "谷歌DeepMind核心研究员Bonnie Li转会OpenAI，曾参与Gemini和世界模型研发",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQRWZIYVlJY2xJMzV2R1o3NXJQek5teUladVZuMXhUdnhiTnBOLWtqaHBLaExmVkVZLWhmZEIyNGlKUUo3TnlsYVZGQi16OFhnRmRMLXcxa1VuNGI0bGJz?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-23T09:27:00.000Z",
-      "summary": "息壤开物成立两月获数亿元融资，物理能力登顶全球第一。",
-      "summaryZh": ""
+      "pubDate": "2026-09-23T04:35:53.000Z",
+      "summary": ""
     },
     {
       "title": "ChatGPT mobile app gets voice-based agentic features",
@@ -69,37 +98,37 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-09-23T17:00:00.000Z",
-      "summary": "ChatGPT移动应用新增基于语音的代理功能。",
+      "summary": "ChatGPT移动应用新增基于语音的代理功能，支持文档起草、邮件总结等操作。",
       "summaryZh": "",
       "titleZh": "ChatGPT 移动应用获得基于语音的代理功能"
     },
     {
-      "title": "时维感知融资数千万，给机器人造神经系统",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE93bFh6bVdTWHlCeEp0QWprU1cycEkzLU9NWlhhX1hHQ1BTdGppSDZGUXNncVJ3Rkl4SFNYU3Fxd1pLcTZCUnc?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-23T13:20:44.000Z",
-      "summary": "时维感知完成数千万融资，研发机器人神经系统技术。",
-      "summaryZh": ""
+      "title": "Australia says OpenAI agent breached government health data portal",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWZud0ZEMW9uYlUwVlpoRlBIbW82Tjc4Rjl3WW5jcWxVR25wSmZCTXlOdHkwR2VrQzdzZkUwX3lNMXBGUkZMZU1sYS13dzRRb1RMRzFOVjc5RmJIbXFfNy1ob1VZY1ItYS0tQW9XVHNLc3p3UEJwNy1QRWVSYVFjQnh0ellEX2JSZkpSdXlMYVI4UkV2VE05enVnZFJuV3BaS1pVczF5VE9vaTdZOGZyU2tjTk9oVVE5RVBjTnVWNGNUZzVEZDM0?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-23T22:34:30.000Z",
+      "summary": "",
+      "titleZh": "澳大利亚称 OpenAI 代理破坏了政府健康数据门户"
     },
     {
-      "title": "安卓一夜进入2nm智能体芯片时代，高通发布全球最快移动CPU",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zN1g3a3dQWHh5UjBSOThpZTBwT1huT0tLTXUwR0gwalNQenR2QzJTX2Uta2gyMmNjYXRGTmd0UjhyZzE5LTUwMUJ3QW9yUQ?oc=5",
-      "source": "36氪",
+      "title": "什么？GPT比DeepSeek还便宜了？大模型价格战卷出新高度",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81UHFNdTA3UEhwWkJ6a0hxS0pzSmpQRG5kMk9wYWE4M0c4WUhlcG0wbTlfMGljVG8yR0RTc1o1YlJXU1dkd0ZQM2lXMmJSMGUtZ3hV?oc=5",
+      "source": "华尔街见闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-23T03:32:00.000Z",
+      "pubDate": "2026-09-23T08:23:04.000Z",
       "summary": ""
     },
     {
-      "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
-      "link": "https://www.qbitai.com/2026/09/496393.html",
-      "source": "量子位",
+      "title": "干翻ChatGpt，又一AI王炸引爆全球-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMRzVRdktZOTdqT2ZhUU5KNEUxWWxiem5UMUQyS2hWYktfYzF0aFVibFJzaGxpQTZCZ2RfZ2FHdHZneHpBY1JSVTd6TTl6SG9L?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-23T07:29:50.000Z",
-      "summary": "DeepSeek新论文公开Agent训练技术，DSec系统每秒可产生5000+沙盒。",
+      "pubDate": "2026-09-24T00:32:00.000Z",
+      "summary": "Meta推出AI产品Muse，在个人AI Agent领域取得阶段性胜利。",
       "summaryZh": ""
     },
     {
@@ -113,43 +142,45 @@
       "summaryZh": ""
     },
     {
-      "title": "科大讯飞发布语音识别大模型Spark-ASR-2.0",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ud2J4VzRpY0hjc0ZCQzFaODM3WXVnUkVXV0dfMVZoVFRHc0ViXzJiV0FsSVplS01jN05vQi1pbDE5QWwwVjc2V3ptYTRPbzZhcHlhclhhZTE?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-23T08:29:33.000Z",
-      "summary": "科大讯飞发布语音识别大模型Spark-ASR-2.0，将应用于多款产品。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI进化速递丨千问发布Qwen-Audio-3.1",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SVGRkSkFXVE9rRDRfTy05Tk12TENlbTdxMGNNRGYzZFNmckpjSXBQelF1Y0tWWEs3ZFRTcTR2WS1HaUgxQl9CeERNdy1TNktuSjNN?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-23T13:27:59.000Z",
-      "summary": "千问发布Qwen-Audio-3.1并下调全线语音模型价格。",
-      "summaryZh": ""
-    },
-    {
-      "title": "CPU需求升温、供给承压，英特尔回应AI算力变化",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5TjJSQXRSd2RmNEpKOGNXdzZhdVdrbk0zcTlCV3Y2Q29QbGZ1R1ZkQmlOVERNSGhfQmoxcVkwY1ZXYTJBWk95bTJTd0otb3ZjVS1V?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-23T18:09:19.000Z",
-      "summary": "英特尔回应AI算力变化，称CPU需求升温，供应承压，正推进产能扩大和智能加速方案。",
-      "summaryZh": ""
-    },
-    {
       "title": "具身智能的转机和出清，哪个先来？",
       "link": "https://www.tmtpost.com/8149233.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-23T10:35:41.000Z",
-      "summary": "具身智能行业数据采集问题引发争议，行业悖论与困境并存。",
+      "summary": "具身智能行业数据采集问题引发争议，行业悖论引发担忧。",
+      "summaryZh": ""
+    },
+    {
+      "title": "With the new VENTUNO Q board, Arduino hopes to make robotics development easier",
+      "link": "https://www.therobotreport.com/new-ventuno-q-board-arduino-hopes-make-robotics-development-easier/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-23T18:04:35.000Z",
+      "summary": "Arduino推出新型VENTUNO Q板，旨在简化机器人开发。",
+      "summaryZh": "",
+      "titleZh": "Arduino 希望通过新的 VENTUNO Q 板让机器人开发变得更容易"
+    },
+    {
+      "title": "Qualcomm to acquire PickNik Robotics and keep MoveIt open-source",
+      "link": "https://www.therobotreport.com/qualcomm-acquires-picknik-robotics-keep-moveit-open-source/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-23T11:29:32.000Z",
+      "summary": "高通收购PickNik Robotics并保持MoveIt开源。",
+      "summaryZh": "",
+      "titleZh": "高通收购 PickNik Robotics 并保持 MoveIt 开源"
+    },
+    {
+      "title": "DELMIA Robotics 技术拆解：虚拟设计与真实制造之间的数据闭环_视频",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GckRFMkM0clBHU2tLSDduNHU2cnlPeHBtd21pcjFoOUNBLUdZX19EVmZ1bjZHVTlLT296Y2tlejc0ejdPdllxWVVIYTBmQ05iME44OA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-23T08:04:05.000Z",
+      "summary": "DELMIA Robotics技术实现虚拟设计与真实制造数据闭环。",
       "summaryZh": ""
     },
     {
@@ -159,7 +190,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-23T03:13:33.000Z",
-      "summary": "Veepai小鹰魔盒AI智能机器人融合看护与陪伴功能，解决家庭安防和儿童早教痛点。",
+      "summary": "Veepai小鹰魔盒AI智能移动监控机器人，融合看护与陪伴功能，解决家庭安防和儿童教育痛点。",
       "summaryZh": ""
     },
     {
@@ -174,44 +205,13 @@
       "titleZh": "Black Forest Labs 首次推出 FLUX 3 Action，这是一种开放权重 AI 机器人模型，以竞争对手一半的规模位居排行榜首位"
     },
     {
-      "title": "Helicon brings automation to high-volume composites manufacturing",
-      "link": "https://www.therobotreport.com/helicon-brings-automation-high-volume-composites-manufacturing/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-23T12:30:48.000Z",
-      "summary": "Helicon推出机器人自动化系统，加速碳纤维等复合材料大规模生产。",
-      "summaryZh": "",
-      "titleZh": "Helicon 为大批量复合材料制造带来自动化"
-    },
-    {
       "title": "[新闻直播间]第五届全球数字贸易博览会今天开展 浙江杭州 机器人走进生活 在数贸会遇见AI未来",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVSUR3VzdpZVBYR1RQWnJfV2xEV2tsY0ZqLUk0dkM1ZnRLZVNJNkFEdUNVR1dLaWc0Z1BmS0RKMUhxdjZDLThlMFJjejFuVFZuVkZGNVd6M2RYZEFDRTZjUE5EbEVaX3d2MkRJMVlFUzRHV1lHN0E?oc=5",
       "source": "央视网",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-23T07:24:00.000Z",
-      "summary": "第五届全球数字贸易博览会于浙江杭州开幕，机器人展示AI技术应用。",
-      "summaryZh": ""
-    },
-    {
-      "title": "“球来”！国产球形机器人来了 能滚能游还能打",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zS1c2T2dFVlNLQTZLdVhZSGNHeXpkcEFQYU92bEhyUGEzczR6VS1IRENXbFFvcTlnZDk5cldYSERMUXpwdzZsRTBzSXg5ZExiVUwyRzktWlliWF9odDJTY3lOaGtJLWJUTlRUMEhNTmZ5UjQ1?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-23T07:13:00.000Z",
-      "summary": "我国研发出能滚能游能打的球形机器人。",
-      "summaryZh": ""
-    },
-    {
-      "title": "英特尔战略加码机器人，机会有多大？",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSkdxSGlueDV6T3Z6RFhaOU5wX2xXS3dqS3NWWUxUU1NfMXA3dUg0SDZpMDNYeExIeWJQc1ZBbUsxZ2Y2bGFMMW9wSi1EMnY3bV9WMjAtNkVhR1hSM1Itc283dURQekljWVJxWmRXQmpVUTJHNGVvTmhjU001RVg0SUl3ZDVjQQ?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-23T16:17:27.000Z",
-      "summary": "英特尔发布具身智能开发套件，加码机器人市场，寻求新增长空间。",
+      "summary": "第五届全球数字贸易博览会开幕，浙江杭州展示机器人与AI技术应用。",
       "summaryZh": ""
     },
     {
