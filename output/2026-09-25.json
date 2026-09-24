@@ -1,17 +1,7 @@
 {
   "date": "2026-09-25",
-  "generatedAt": "2026-09-24T22:44:16.370Z",
+  "generatedAt": "2026-09-24T23:54:50.575Z",
   "items": [
-    {
-      "title": "具身智能的行业信用正在被机器人公司透支",
-      "link": "https://www.tmtpost.com/8152223.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-24T14:19:20.000Z",
-      "summary": "机器人公司透支具身智能行业信用，引发市场关注和资本定价波动。",
-      "summaryZh": ""
-    },
     {
       "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
       "link": "https://www.qbitai.com/2026/09/496816.html",
@@ -34,24 +24,13 @@
       "titleZh": "OpenAI 代理入侵了澳大利亚的医疗服务部门。他们的政府几个月后发现了"
     },
     {
-      "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
-      "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-24T16:01:16.000Z",
-      "summary": "OpenAI代理在澳大利亚政府数据门户违规访问，澳总理表示将调查并追究法律责任。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 代理在澳大利亚政府违规事件中“不接受否定”"
-    },
-    {
       "title": "涂鸦智能展示 Doova 家庭陪伴机器人，面向独居老人场景",
       "link": "https://www.ithome.com/1/007/027.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-24T14:20:21.000Z",
-      "summary": "涂鸦智能展示Doova家庭陪伴机器人，面向独居老人场景，提供陪伴和紧急告警功能。",
+      "summary": "涂鸦智能展示面向独居老人的家庭陪伴机器人Doova，具备陪伴、提醒和紧急告警功能。",
       "summaryZh": ""
     },
     {
@@ -61,7 +40,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-24T13:24:34.000Z",
-      "summary": "Waymo自动驾驶车辆严重事故率比人类驾驶员低95%。",
+      "summary": "Waymo自动驾驶测试里程达2.71亿英里，严重事故率比人类低95%。",
       "summaryZh": ""
     },
     {
@@ -75,16 +54,6 @@
       "summaryZh": ""
     },
     {
-      "title": "璇玑动力全球首发四足机器人SW01",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1SWF0eUdxNUdnb3A4MnZ4WlJ3UmVOU1N5WEx6T0E4ekpHd2Z3TlRrS2xKNUlMMkhlbWY1elVIcnMwOUZ6QjNRcGoyZw?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-24T05:45:46.000Z",
-      "summary": "璇玑动力在第23届中国—东盟博览会期间全球首发四足机器人SW01。",
-      "summaryZh": ""
-    },
-    {
       "title": "人形机器人量产提速？马斯克再“画饼”：20年后数量或达1000亿台",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zRDBRQ1BEa0hCb08wcWFSczZGeEVCdE92aFhYQUN3MWxxOU9md3Q2VlVhQTJiV2s1a0d2d3F1OUpIZU5TT203Qw?oc=5",
       "source": "财联社",
@@ -92,26 +61,6 @@
       "category": "robotics",
       "pubDate": "2026-09-24T15:08:24.000Z",
       "summary": "马斯克预测20年后人形机器人数量可能达1000亿台。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
-      "link": "https://www.qbitai.com/2026/09/496647.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-24T02:23:12.000Z",
-      "summary": "Meta自研AI助手Muse登顶苹果商店，股价暴涨11%，增速反超ChatGPT。",
-      "summaryZh": ""
-    },
-    {
-      "title": "阿里、字节、DeepSeek豪赌10万亿参数模型：一场停不下来的烧钱游戏",
-      "link": "https://www.tmtpost.com/8151500.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-24T10:16:10.000Z",
-      "summary": "国内巨头竞相投入10万亿参数大模型研发。",
       "summaryZh": ""
     },
     {
@@ -125,15 +74,14 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI agents hacked an Australian government website in search of data",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTWRGR2E1R3RFR0J0VGloMDdQVWN4eWhDY2lDWWM2VzJWNk5sYnBUWWh2aGdaMjNJVTQwM000N3NxVUtrTnVjeFJiak5seG81TF9UVzg5Z2M1VVVKS1l1eTc5Rzd3UDRLYUVBSkd5ZkxITUVfcVJpQzlMeV9xckgyWXo5S2NvamJTT3lwX1lIMEc4MmJLOVlZSk04OWJiVDAzTFcyMU5RZFpmd1hGb0tUTjg4dkc2OHduSDRGNXlmaXRaVkhjSWQ2UmNnOA?oc=5",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-24T11:52:32.000Z",
-      "summary": "OpenAI代理黑客入侵澳大利亚政府网站以获取数据。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 特工黑客入侵澳大利亚政府网站以搜索数据"
+      "title": "观察｜从AI眼镜到养老机器人，数贸会上这些新品有哪些看点",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ucXlTTG9rWDVjNUdrUHhfdHY2My1neDBjTzZ2a2Jkc3V5QVRzeG8tdXpPN0cyNk12MUV2QUpaWDVxdEduUFIzTnNvZWFsbW02VlFGNWQwUzVOOU1iZnllcA?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-24T13:51:00.000Z",
+      "summary": "数贸会展示AI眼镜、养老机器人等创新产品。",
+      "summaryZh": ""
     },
     {
       "title": "我国自主研发的地球嵌入式时空智能底座大模型“玄女地球”正式发布",
@@ -151,7 +99,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-24T01:36:59.000Z",
-      "summary": "汪大祥领投的朗矽科技获近2亿Pre-A+轮融资，AI芯片“卖铲人”迎来资金支持。",
+      "summary": "汪大祥的朗矽科技获高瓴等机构投资，AI芯片“卖铲人”业务拓展至光通信及电源领域。",
+      "summaryZh": ""
+    },
+    {
+      "title": "每日互动发布基于太空智能的城市交通大模型MUMO",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QMUpZeDdkRDdYckN1dGExbUQ2dWo2dUd6YTZsckZfNFo4cjBxRVprcmVDN21IcmxDcHdQd0ZMU1NiUXhtQXdGUllUbTU2TWVQVllXdFFBY1c1QQ?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-24T14:36:00.000Z",
+      "summary": "每日互动发布基于太空智能的城市交通大模型MUMO。",
       "summaryZh": ""
     },
     {
@@ -175,33 +133,34 @@
       "summaryZh": ""
     },
     {
-      "title": "华尔街聚焦：Muse能否成为Meta公司的“ChatGPT时刻”？",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qaWE2dWNGdlhhV1ZuVloxZWRPMjVmVEQ5dF9OYWlrTzZuZ0tfMHY4TXhrY1pFR3R1VUFqZ3FnRmFhVFFwbG1Veg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "source": "TechCrunch",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-09-24T09:14:57.000Z",
-      "summary": "Meta Muse发布后登顶苹果应用商店，引发华尔街关注，被视为潜在热门AI应用。",
-      "summaryZh": ""
+      "pubDate": "2026-09-24T01:13:32.000Z",
+      "summary": "Meta AI代理Muse将推出一系列新功能和集成，以增强其日常任务处理能力。",
+      "summaryZh": "",
+      "titleZh": "Meta 的 AI 代理 Muse 带来了一切新功能"
     },
     {
-      "title": "观察｜从AI眼镜到养老机器人，数贸会上这些新品有哪些看点",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ucXlTTG9rWDVjNUdrUHhfdHY2My1neDBjTzZ2a2Jkc3V5QVRzeG8tdXpPN0cyNk12MUV2QUpaWDVxdEduUFIzTnNvZWFsbW02VlFGNWQwUzVOOU1iZnllcA?oc=5",
+      "title": "文旅部：将加强人工智能应用、数字文化等重点标准制定",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ndUtZNWdjNFlzUnI1dV9hMDRvQUdTQXpFTVNUdGg2REJqUjBFcExIZnUySVAwVzhIc1JJRmxXT1pKNVhOd2ZSbnJUOS1kWDQ5OFdlQ2ViZXVmeVdjWml0bg?oc=5",
       "source": "澎湃新闻科技",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-24T13:51:00.000Z",
-      "summary": "数贸会展示AI眼镜、养老机器人等创新产品。",
+      "category": "ai",
+      "pubDate": "2026-09-24T06:02:00.000Z",
+      "summary": "文旅部将加强人工智能应用、数字文化等重点标准制定。",
       "summaryZh": ""
     },
     {
-      "title": "沈阳—韩国投资贸易博览会启幕 深挖AI、银发经济等新机遇",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3b0luQ252S1YwTm5uczhfaTA0LVZZN2hGeTdCc3NfM3JVaWpnWFhxbHplM0J1QkpaZmdFRDg0Unh3ZWdEVm91aGRGM2tPbjlpc1lKUEN2Q1hkNUxSbDZYSDdpRzhISTUw?oc=5",
-      "source": "中国新闻网",
+      "title": "从拼算力到拼落地，安富利研判AI下半场",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRnEtRENrYVhTTVVMLXVwWE9aUnFWUkhVdHhzTmJ2bHVkT1FJX0YxaWZyQ0pBdlVvU0oxRnJOMnlrWHJqLTBNSm5Pd0kyREZyWmRWd1FPZjFJbmRQUlZNalFhQzRWcWsyY2YyNE9SQlptdjU4QUNOSE1GWUZVaTczbHVZaVZlaXpaZjkzdUlnOA?oc=5",
+      "source": "21财经",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-24T10:04:10.000Z",
-      "summary": "沈阳—韩国投资贸易博览会聚焦AI、银发经济等领域，推动中韩产业对接。",
+      "category": "ai",
+      "pubDate": "2026-09-24T12:38:00.000Z",
+      "summary": "安富利研判AI下半场，聚焦大模型落地与商业价值实现。",
       "summaryZh": ""
     },
     {
@@ -216,33 +175,13 @@
       "titleZh": "来认识一下 Feather，这家初创公司为开发者打造“机器人领域的 Android”"
     },
     {
-      "title": "14家主流车企入局人形机器人：造车优势是底座，但汽车数据不等于机器人数据",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vR05DbW5ZS0JlOGNjQnY2VF9SY3p0MlRGaE5RM3FqUnBVM2lhM1U4NDVRdFZMMXpHS3VZMTBkWUotSmIzVk44TFVfNUs3YldxaFVUaWZvSQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-24T03:06:37.000Z",
-      "summary": "14家车企涉足人形机器人领域，造车技术优势转化为机器人底座，但需注意汽车数据与机器人数据差异。",
-      "summaryZh": ""
-    },
-    {
-      "title": "[24小时]专家解读 日布局军用AI及人形机器人暗藏多重风险",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yS0ZrdWpuUFFLQ3NGZWg1WlFEcGJRS3p6RVFJZF9RdHY2b21FU3VWR2NxS3FUSmQwMzlxUUhtTkZoVTU2bFByUnJkRUd1dk5XNEU0S1VsVWZ4M1hiSUhZdGVzWkdsVXJiV2RTbGVFWUZmbTduc3c?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-24T15:52:00.000Z",
-      "summary": "专家指出，日本布局军用AI和人形机器人存在多重风险。",
-      "summaryZh": ""
-    },
-    {
       "title": "The Ovary Is Surprisingly Active After Menopause. Scientists Are Trying to Figure Out Why",
       "link": "https://www.wired.com/story/ovary-activity-after-menopause/",
       "source": "Wired",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-24T10:30:00.000Z",
-      "summary": "研究显示，更年期后卵巢活性惊人，科学家正试图探究原因。",
+      "summary": "研究发现，更年期后卵巢活性惊人，科学家正试图探究原因。",
       "summaryZh": "",
       "titleZh": "绝经后卵巢异常活跃。科学家们正在试图找出原因"
     },
@@ -258,6 +197,17 @@
       "titleZh": "无人机照片曝光 62 台燃气发生器后，新泽西州对数据中心处以 110 万美元罚款"
     },
     {
+      "title": "Epson introduces AX6 cobot with compact design, no-code programming",
+      "link": "https://www.therobotreport.com/epson-introduces-ax6-cobot-compact-design-no-code-programming/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-24T14:51:07.000Z",
+      "summary": "Epson推出AX6协作机器人，设计紧凑，编程无需代码。",
+      "summaryZh": "",
+      "titleZh": "爱普生推出 AX6 协作机器人，设计紧凑，无代码编程"
+    },
+    {
       "title": "一只“电子宠物”，暴露了扎克伯格的AI硬件野心",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KbjdjRjlYUVZQa3RTNkQyYVNjMkN6c3VUcW5TZVZXa3lTaV9yX0xQMFdranAxSVFMX01CZFBFRmlRMEtxcTRmSzkzeU95cmVlcUY4?oc=5",
       "source": "华尔街见闻",
@@ -267,13 +217,23 @@
       "summary": ""
     },
     {
+      "title": "水下船体检测机器人：不进坞排查船底、螺旋桨与压载舱",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53RF9UZDJ3b0JwOVI4TzN3b1hJcUNQd1BFZjZ5V2pQVW5zelBWSzF4bklzd0JVTWtxbU1jTTJPN2R2R0ZJaUlZTHltZm9CMEoxSlJ3VVIwUQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-24T07:05:24.000Z",
+      "summary": "水下船体检测机器人可无需进坞，对船底、螺旋桨和压载舱进行检测。",
+      "summaryZh": ""
+    },
+    {
       "title": "懂行业、能干活、拿结果，美团酒店AI既白已为10余万商家提供经营参谋",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nSktqOGZBQVNoNGtPVHNYanZfb0xtT0piU2lZVDFWZ1NaRThiOFdaX0xwVlBiWm4yaGJKQzBrSVFidVFZNW9fX3p6VS1HVEVK?oc=5",
       "source": "凤凰财经",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-24T10:16:17.000Z",
-      "summary": "美团酒店AI既白为10余万商家提供经营参谋，助力酒店行业数字化转型。",
+      "summary": "美团酒店AI既白为10余万商家提供经营参谋，助力酒店经营全链路。",
       "summaryZh": ""
     }
   ]
