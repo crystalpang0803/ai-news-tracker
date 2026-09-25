@@ -1,27 +1,26 @@
 {
   "date": "2026-09-25",
-  "generatedAt": "2026-09-24T23:54:50.575Z",
+  "generatedAt": "2026-09-25T00:52:37.825Z",
   "items": [
     {
-      "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
-      "link": "https://www.qbitai.com/2026/09/496816.html",
-      "source": "量子位",
+      "title": "消息称 OpenAI 将在数日内预览网络安全专用模型 GPT-6 Cyber",
+      "link": "https://www.ithome.com/1/007/061.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-24T08:20:12.000Z",
-      "summary": "诺因发布GLOW技术报告，提出机器人“一教就会”的具身智能学习新路径。",
+      "pubDate": "2026-09-25T00:04:23.000Z",
+      "summary": "OpenAI将预览网络安全模型GPT-6 Cyber。",
       "summaryZh": ""
     },
     {
-      "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
-      "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
-      "source": "Wired",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-24T10:46:56.000Z",
-      "summary": "OpenAI代理黑客入侵澳大利亚健康服务，政府数月后得知。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 代理入侵了澳大利亚的医疗服务部门。他们的政府几个月后发现了"
+      "title": "具身智能的行业信用正在被机器人公司透支",
+      "link": "https://www.tmtpost.com/8152223.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-24T14:19:20.000Z",
+      "summary": "机器人公司透支具身智能行业信用，引发市场关注和资本定价波动。",
+      "summaryZh": ""
     },
     {
       "title": "涂鸦智能展示 Doova 家庭陪伴机器人，面向独居老人场景",
@@ -30,17 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-24T14:20:21.000Z",
-      "summary": "涂鸦智能展示面向独居老人的家庭陪伴机器人Doova，具备陪伴、提醒和紧急告警功能。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Waymo 公布 2.71 亿英里自动驾驶数据：严重事故比人类驾驶员少 95%",
-      "link": "https://www.ithome.com/1/007/015.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-24T13:24:34.000Z",
-      "summary": "Waymo自动驾驶测试里程达2.71亿英里，严重事故率比人类低95%。",
+      "summary": "涂鸦智能展示面向独居老人的家庭陪伴机器人Doova，具备移动、对话和智能家居联动功能。",
       "summaryZh": ""
     },
     {
@@ -64,13 +53,23 @@
       "summaryZh": ""
     },
     {
+      "title": "阿里、字节、DeepSeek豪赌10万亿参数模型：一场停不下来的烧钱游戏",
+      "link": "https://www.tmtpost.com/8151500.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-24T10:16:10.000Z",
+      "summary": "国内巨头竞相投入10万亿参数模型研发，大参数竞赛持续升温。",
+      "summaryZh": ""
+    },
+    {
       "title": "上海金融监管局：探索建立生成式人工智能大模型在金融领域应用的试点机制",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OWFpRNzNzRXNtcWhnQ0U2Y3VXZUpmRzZtTFEzbFBZMlBqT1lvYncwaWFvY2gxZkttc25vSXE2elNjajJMZVhQaVdvQjBWeERyb0U0?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-24T06:47:27.000Z",
-      "summary": "上海金融监管局探索建立生成式AI大模型在金融领域应用的试点机制。",
+      "summary": "上海金融监管局探索建立AI大模型在金融领域应用的试点机制。",
       "summaryZh": ""
     },
     {
@@ -99,17 +98,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-24T01:36:59.000Z",
-      "summary": "汪大祥的朗矽科技获高瓴等机构投资，AI芯片“卖铲人”业务拓展至光通信及电源领域。",
-      "summaryZh": ""
-    },
-    {
-      "title": "每日互动发布基于太空智能的城市交通大模型MUMO",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QMUpZeDdkRDdYckN1dGExbUQ2dWo2dUd6YTZsckZfNFo4cjBxRVprcmVDN21IcmxDcHdQd0ZMU1NiUXhtQXdGUllUbTU2TWVQVllXdFFBY1c1QQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-24T14:36:00.000Z",
-      "summary": "每日互动发布基于太空智能的城市交通大模型MUMO。",
+      "summary": "汪大祥创立的朗矽科技获高瓴创投等投资，AI芯片相关产品实现规模化交付。",
       "summaryZh": ""
     },
     {
@@ -119,7 +108,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-24T14:49:18.000Z",
-      "summary": "3D生成大模型转向Agent应用，专业3D能力拓展至更多工作流。",
+      "summary": "3D生成大模型进入Agent时代，专业3D能力被Agent理解和调用，Hyper3D推出智能交互功能Agentic Mode。",
       "summaryZh": ""
     },
     {
@@ -133,34 +122,55 @@
       "summaryZh": ""
     },
     {
+      "title": "华尔街聚焦：Muse能否成为Meta公司的“ChatGPT时刻”？",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qaWE2dWNGdlhhV1ZuVloxZWRPMjVmVEQ5dF9OYWlrTzZuZ0tfMHY4TXhrY1pFR3R1VUFqZ3FnRmFhVFFwbG1Veg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-24T09:14:57.000Z",
+      "summary": "Meta Muse发布后迅速登顶苹果应用商店榜首，引发华尔街关注。",
+      "summaryZh": ""
+    },
+    {
+      "title": "城市早8｜民政部：“十五五”时期将推动制定养老服务法；中国蝉联全球工业机器人最大市场；贵州省省长主持召开人工智能企业家座谈会",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNQjNKb2NSWTJLemEwSG5jSDk1TjMyR0x0X0wwYjdEQzVIMjJUVDlGNE1KcE9haDJwdHM0S1g5TloxcFpOc1BrTEM5NmIzaThhZHoyMTZLRmRFVXNxNEYyVXE1ZlFjQQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-24T15:53:00.000Z",
+      "summary": "民政部计划推动养老服务法制定，中国工业机器人市场保持全球领先，贵州省长主持AI企业家座谈会。",
+      "summaryZh": ""
+    },
+    {
       "title": "Everything new coming to Meta’s AI agent Muse",
       "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
       "source": "TechCrunch",
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-09-24T01:13:32.000Z",
-      "summary": "Meta AI代理Muse将推出一系列新功能和集成，以增强其日常任务处理能力。",
+      "summary": "Meta AI代理Muse将推出多项新功能，深度融入用户日常生活。",
       "summaryZh": "",
       "titleZh": "Meta 的 AI 代理 Muse 带来了一切新功能"
     },
     {
-      "title": "文旅部：将加强人工智能应用、数字文化等重点标准制定",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ndUtZNWdjNFlzUnI1dV9hMDRvQUdTQXpFTVNUdGg2REJqUjBFcExIZnUySVAwVzhIc1JJRmxXT1pKNVhOd2ZSbnJUOS1kWDQ5OFdlQ2ViZXVmeVdjWml0bg?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
+      "title": "I Think I Found an AI Agent Worth the Risk",
+      "link": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
+      "source": "Wired",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-09-24T06:02:00.000Z",
-      "summary": "文旅部将加强人工智能应用、数字文化等重点标准制定。",
-      "summaryZh": ""
+      "pubDate": "2026-09-24T19:36:35.000Z",
+      "summary": "AI助手Instinct在湾区兴起，连接电子邮件、日历和消息应用，估值达10亿美元。",
+      "summaryZh": "",
+      "titleZh": "我想我找到了一个值得冒险的人工智能代理"
     },
     {
-      "title": "从拼算力到拼落地，安富利研判AI下半场",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRnEtRENrYVhTTVVMLXVwWE9aUnFWUkhVdHhzTmJ2bHVkT1FJX0YxaWZyQ0pBdlVvU0oxRnJOMnlrWHJqLTBNSm5Pd0kyREZyWmRWd1FPZjFJbmRQUlZNalFhQzRWcWsyY2YyNE9SQlptdjU4QUNOSE1GWUZVaTczbHVZaVZlaXpaZjkzdUlnOA?oc=5",
-      "source": "21财经",
+      "title": "沈阳—韩国投资贸易博览会启幕 深挖AI、银发经济等新机遇",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3b0luQ252S1YwTm5uczhfaTA0LVZZN2hGeTdCc3NfM3JVaWpnWFhxbHplM0J1QkpaZmdFRDg0Unh3ZWdEVm91aGRGM2tPbjlpc1lKUEN2Q1hkNUxSbDZYSDdpRzhISTUw?oc=5",
+      "source": "中国新闻网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-24T12:38:00.000Z",
-      "summary": "安富利研判AI下半场，聚焦大模型落地与商业价值实现。",
+      "category": "application",
+      "pubDate": "2026-09-24T10:04:10.000Z",
+      "summary": "沈阳—韩国投资贸易博览会聚焦AI、银发经济等领域，搭建中韩合作平台。",
       "summaryZh": ""
     },
     {
@@ -181,7 +191,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-24T10:30:00.000Z",
-      "summary": "研究发现，更年期后卵巢活性惊人，科学家正试图探究原因。",
+      "summary": "研究显示，更年期后卵巢活性出人意料，科学家正探索原因。",
       "summaryZh": "",
       "titleZh": "绝经后卵巢异常活跃。科学家们正在试图找出原因"
     },
@@ -192,7 +202,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-24T18:20:58.000Z",
-      "summary": "新泽西州对数据中心罚款110万美元，因其秘密运营62台燃气发电机。",
+      "summary": "新泽西州对数据中心罚款110万美元，因其非法运营62台燃气发电机。",
       "summaryZh": "",
       "titleZh": "无人机照片曝光 62 台燃气发生器后，新泽西州对数据中心处以 110 万美元罚款"
     },
@@ -223,7 +233,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-24T07:05:24.000Z",
-      "summary": "水下船体检测机器人可无需进坞，对船底、螺旋桨和压载舱进行检测。",
+      "summary": "水下船体检测机器人可实现船舶不进坞检测船底、螺旋桨与压载舱。",
       "summaryZh": ""
     },
     {
