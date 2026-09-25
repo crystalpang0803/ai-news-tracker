@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "generatedAt": "2026-09-25T20:00:13.338Z",
+  "generatedAt": "2026-09-25T21:29:46.488Z",
   "items": [
     {
       "title": "灵巧手不是等AGI才用：一份被误读的物理AI落地地图",
@@ -9,17 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-25T13:02:57.000Z",
-      "summary": "物理AI灵巧手技术已成熟，但需数据与场景支持。",
-      "summaryZh": ""
-    },
-    {
-      "title": "聊天、编程、智能体三合一，微软正式发布新版 Copilot“超级应用”",
-      "link": "https://www.ithome.com/1/007/230.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-25T12:37:23.000Z",
-      "summary": "微软发布新版Copilot“超级应用”，集成聊天、编程和智能体功能。",
+      "summary": "物理AI灵巧手技术已成熟，但需数据与场景配合。",
       "summaryZh": ""
     },
     {
@@ -29,7 +19,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-25T00:30:54.000Z",
-      "summary": "昇腾超节点发布，为十万亿大模型训练和推理提供最优解决方案。",
+      "summary": "昇腾超节点发布，为十万亿大模型训练提供最优解决方案。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI将推GPT-6 Cyber 全新网络安全专用大模型",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpcmRhY2FUWWtJRkJRd1B1dFpuLWtXVHNTTzJSMWpqT2thLUEzVHlkRkxza21TMGs2cTJmNFZhNWZkS19HWEJ4TXBzUmxxanFfU2VDT293?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-25T02:48:00.000Z",
+      "summary": "OpenAI将发布GPT-6 Cyber网络安全专用大模型及配套产品。",
       "summaryZh": ""
     },
     {
@@ -58,7 +58,7 @@
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-25T08:18:33.000Z",
+      "pubDate": "2026-09-25T19:39:15.000Z",
       "summary": ""
     },
     {
@@ -68,7 +68,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-25T10:00:14.000Z",
-      "summary": "平头哥发布中国最强AI芯片，并开源AI软件栈T-Head SAIL，推动芯片生态共建。",
+      "summary": "平头哥发布中国最强AI芯片，同时开源AI软件栈T-Head SAIL，推动芯片生态共建。",
       "summaryZh": ""
     },
     {
@@ -78,7 +78,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-25T07:56:55.000Z",
-      "summary": "OpenAI 智能体入侵澳政府网站，总理呼吁加强AI监管。",
+      "summary": "OpenAI智能体入侵澳政府网站，澳总理呼吁加强AI监管。",
       "summaryZh": ""
     },
     {
@@ -97,17 +97,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-25T01:34:08.000Z",
-      "summary": "养老机器人市场发展迅速，但谁来买单仍待明确。",
-      "summaryZh": ""
-    },
-    {
-      "title": "微软发布新版Copilot，引入Home、Code和Autopilot三大AI功能",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40TnZ5V01CSXpTUzh6R2pIcEdjWndBeHowaGY2ZHdaaW1LUFVwUGJFblhxeGYzLUpCMXg2QmVnTDh6VDZNcmtNR2NZTFBUMmxTRXlmaDM1Nlk?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-25T12:23:20.000Z",
-      "summary": "微软Copilot新增Home、Code和Autopilot三大AI功能。",
+      "summary": "养老机器人市场发展迅速，但资金投入和盈利模式尚待明确。",
       "summaryZh": ""
     },
     {
@@ -136,7 +126,7 @@
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-25T09:04:04.000Z",
+      "pubDate": "2026-09-25T21:04:28.000Z",
       "summary": "Meta Muse用户规模激增至70万，但算力不足引发故障。",
       "summaryZh": ""
     },
@@ -152,14 +142,13 @@
       "titleZh": "几个月来，OpenAI 的代理群一直在攻击在线数据库以寻找模糊的事实"
     },
     {
-      "title": "OpenAI to preview GPT-6 Cyber within days, Fortune reports",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaW1NWU1LbHpzMTdIQUQ4R1ZabjVjYURuMVd5Rnd4S0RNNVNKMXpIVUJ4NnlTWnpOWG92TkVoUzhOZDNodW1kQVg1X2kwamF0MFFUSl9JQnJzeWMyQ0l2M1JRSy12SWxSMldLYUVqTzhkaDVxWHFCeVpzZzZnNjIzbFpkcHJtRHNBS3lhenFOZXFESmRsWHduai1nYWcwcWJUVC1n?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-24T23:51:48.000Z",
-      "summary": "",
-      "titleZh": "据《财富》报道，OpenAI 将在几天内预览 GPT-6 Cyber"
+      "title": "报道：特斯拉Optimus机器人产能已提升10倍，目标年底周产千台",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZN2hpTWk3a1A4SERpdEpGV2t2Z1UyZWRIeE14NENGOURoZkp3VnlyYWR4YUI4bk9VdDBOV2RZVjhTOWZGbUV5RGsxRmJISGNiUkNn?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-25T13:47:03.000Z",
+      "summary": ""
     },
     {
       "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
@@ -195,23 +184,45 @@
       "titleZh": "Agility Robotics，数字人形机器人制造商，正在探索轮式机器人"
     },
     {
-      "title": "国际机器人联合会：中国正成为产业创新发展重要力量",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZaU9QRzdEb1M0M3NaVU1LZ2laaVh3WUNCMHZBNTdwVE9tOWczM0ZPWkJTSTVLdmhmSk1UTWNTSzdiaHl6RjVQUG9DQzJMaTZoU21Ra0xZcjFqTHBYQnVyaFRWeGZaMTRvODNpbHB5X1d4R1FyV3pxZl9zWkFmZw?oc=5",
-      "source": "新华网科技",
+      "title": "Tesla&#8217;s Optimus robot is going through growing pains",
+      "link": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-25T17:01:36.000Z",
+      "summary": "特斯拉Optimus机器人面临成长挑战。",
+      "summaryZh": "",
+      "titleZh": "特斯拉的擎天柱机器人正在经历成长的阵痛"
+    },
+    {
+      "title": "Video Friday: Life’s Better With a Little Robot Goose",
+      "link": "https://spectrum.ieee.org/video-friday-goose-household-robots",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-25T16:00:04.000Z",
+      "summary": "视频周五：生活因一只小机器人鹅而更美好。",
+      "summaryZh": "",
+      "titleZh": "周五视频：小机器鹅让生活更美好"
+    },
+    {
+      "title": "越千创新布局影像创作机器人 以AI破解拍摄决策难题",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9icldEd0dyVFNVRU9ObjVUNk5VVjdrVlVRdXJ3WHN0dG5HQTQ0VXFwa1pNc0JpdGxGNkZCZkpCcE1uSDAzRTc5Q2FKZ2lyTjJvV04tal80T09YY1BYaEstdURvR0d3QQ?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-24T23:41:51.000Z",
-      "summary": "中国机器人产业快速发展，成为技术创新和产业发展的重要力量。",
+      "pubDate": "2026-09-25T11:09:13.000Z",
+      "summary": "越千创新研发影像创作机器人，利用AI技术解决拍摄决策难题。",
       "summaryZh": ""
     },
     {
-      "title": "深耕具身智能产业赛道 斑马智能推出端侧模型AutoOmni2.0",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MWWxmMDExQUNKcUZFNDBJSlZsbXdRb2llZEh5YkZhQ0VENGx6Xy1CY1lrS192RnQ2R2RSRUVhb3A0OFEwZ29nSTRvanBoWE51S0lETnpJejh1eXRwSUpES2JCc1VTVGE0dmxPS0xia0ZJYktESDZ6M0tvczY?oc=5",
-      "source": "新华社",
+      "title": "从“她力量”到“她生态”：AI+家庭服务改写万亿市场",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QUmdsMzFxSERlZFJ5RzByZDd3UjRKRGpVZjEzd085VTlOS1BCNmk2TklpV2JaaGg3dHBkSHk3Qms1RlZ5UG1Dd3M4b2NXMUVtcERucmZGcGVKZU1XN0NNYlVLOEZ4RkRU?oc=5",
+      "source": "中国新闻网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-25T10:49:17.000Z",
-      "summary": "斑马智能发布端侧模型AutoOmni2.0，实现车端智能交互新范式。",
+      "category": "application",
+      "pubDate": "2026-09-25T14:15:07.000Z",
+      "summary": "AI赋能家庭服务推动万亿市场变革。",
       "summaryZh": ""
     }
   ]
