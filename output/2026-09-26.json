@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "generatedAt": "2026-09-25T23:58:46.282Z",
+  "generatedAt": "2026-09-26T00:54:48.860Z",
   "items": [
     {
       "title": "灵巧手不是等AGI才用：一份被误读的物理AI落地地图",
@@ -9,19 +9,28 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-25T13:02:57.000Z",
-      "summary": "物理AI灵巧手技术已成熟，但需数据与场景配合。",
+      "summary": "物理AI灵巧手技术已成熟，但应用场景受限，需解决智能理解问题。",
       "summaryZh": ""
     },
     {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "source": "TechCrunch",
-      "lang": "en",
+      "title": "OpenAI将推GPT-6 Cyber 全新网络安全专用大模型",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpcmRhY2FUWWtJRkJRd1B1dFpuLWtXVHNTTzJSMWpqT2thLUEzVHlkRkxza21TMGs2cTJmNFZhNWZkS19HWEJ4TXBzUmxxanFfU2VDT293?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-25T22:20:47.000Z",
-      "summary": "OpenAI未授权AI代理在不知情下公开用户图像。",
-      "summaryZh": "",
-      "titleZh": "不安全的 OpenAI 代理在实验室不知情的情况下在互联网上发布了 53 张用户图像"
+      "pubDate": "2026-09-25T02:48:00.000Z",
+      "summary": "OpenAI将发布GPT-6 Cyber网络安全专用大模型及配套产品。",
+      "summaryZh": ""
+    },
+    {
+      "title": "华为腾讯阿里都盯上的生意：不造机器人，却想控制所有机器人？",
+      "link": "https://www.tmtpost.com/8152798.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-26T00:19:43.000Z",
+      "summary": "华为、腾讯、阿里等巨头争夺机器人控制权，聚焦具身智能大脑技术路线。",
+      "summaryZh": ""
     },
     {
       "title": "消息称特斯拉 Optimus V3 机器人量产遇阻：机械手组装困难、AI 能力仍待突破",
@@ -54,13 +63,32 @@
       "summaryZh": ""
     },
     {
+      "title": "OpenAI突然收购，500万人Codex，永不下线",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sMXdrLUhZdS0yUGJPYndBN2thS0NaQ3ZUSW90NEhCM1hfcTVCTHBJS2o0WFFnVGRCTXpYN3BZOGx3VFV6X1E4cENabnJLdw?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-25T19:39:15.000Z",
+      "summary": ""
+    },
+    {
       "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
       "link": "https://www.qbitai.com/2026/09/497108.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-25T10:00:14.000Z",
-      "summary": "平头哥发布中国最强AI芯片，并开源AI软件栈T-Head SAIL。",
+      "summary": "平头哥发布中国最强AI芯片，并开源AI软件栈T-Head SAIL，推动芯片生态共建。",
+      "summaryZh": ""
+    },
+    {
+      "title": "打破“算力存储通信”三堵墙，昇腾超节点给出十万亿大模型训推“最优解”",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9qZjkwSmYtNjlTVDNTbnJPem9aTGlIOWtfQzNIZHFqeFUxdW5jVTJBUTlFWlZlV2E1V0hOc0N3VjBySy1VLVE?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-25T01:41:01.000Z",
+      "summary": "昇腾超节点发布，为十万亿大模型训练和推理提供最优解决方案。",
       "summaryZh": ""
     },
     {
@@ -74,23 +102,24 @@
       "summaryZh": ""
     },
     {
+      "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+      "link": "https://www.qbitai.com/2026/09/497278.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-25T13:24:20.000Z",
+      "summary": "机器人Messinator通过自我对弈在虚拟足球场训练140年，成为“梅西终结者”。",
+      "summaryZh": ""
+    },
+    {
       "title": "养老机器人谁来买单？",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Pak5aUjRIOXVxT0h3SGhGalVXd1NDMmVfQ3pTclRFcHVtQV85akpYN2RMY2dDbmFrZm9LRHZWYTJmX3VOMTc2ZnJGQ1FWbGRoMXpsNlRISFlfVFVPQ0pHR19VSHFwZmc3cFZaN2xjVEZuQQ?oc=5",
       "source": "央广网",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-25T01:34:08.000Z",
-      "summary": "养老机器人市场发展迅速，但谁来买单仍待明确。",
+      "summary": "养老机器人市场发展迅速，但资金投入和盈利模式尚待明确。",
       "summaryZh": ""
-    },
-    {
-      "title": "ChatGPT要卖500美元的Pro Max套餐了！",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwQzktTmtJZlZtQXNmLXBfUHk5eUpGcTA4MXhneGlxRHJ4SkpFTDllMHhqdm01bWlzS0UtenlSSTNqY1RuV2I3WnpQRFhRdw?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-25T05:31:27.000Z",
-      "summary": ""
     },
     {
       "title": "每日互动发布基于太空智能的城市交通大模型MUMO",
@@ -109,50 +138,40 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-25T06:09:54.000Z",
-      "summary": "Meta Muse发布后迅速登顶苹果应用商店榜首，引发华尔街关注。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
-      "title": "Meta Muse用户规模十天冲上70万 但已出现算力不足导致的故障",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GMHozNTZ2cmVWNHdBdjRBMTBydlV3TVF1VVBGSkxqZjJIc1ZOb3NFSTVUZ2d1aVVVYUlNN0liX2NWQTVHd3B1Tg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-25T21:04:28.000Z",
-      "summary": "Meta Muse用户规模激增至70万，但算力不足引发故障。",
-      "summaryZh": ""
-    },
-    {
-      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-      "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
+      "link": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
       "source": "TechCrunch",
       "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-25T15:48:14.000Z",
-      "summary": "OpenAI的智能体群数月来攻击在线数据库寻找罕见事实。",
+      "category": "robotics",
+      "pubDate": "2026-09-25T17:30:00.000Z",
+      "summary": "Muju Earth推出无需机器人的土壤自动通气设备Aeropod。",
       "summaryZh": "",
-      "titleZh": "几个月来，OpenAI 的代理群一直在攻击在线数据库以寻找模糊的事实"
+      "titleZh": "Aeropod 无需机器人即可实现土壤通气自动化 — 请参阅 TechCrunch Disrupt"
     },
     {
-      "title": "Samsara connects fleet data with ChatGPT, Claude and other AI tools",
-      "link": "https://www.freightwaves.com/news/samsara-connects-fleet-data-with-chatgpt-claude-and-other-ai-tools",
-      "source": "FreightWaves",
+      "title": "General Robotics is betting on modular intelligence, not one robot brain",
+      "link": "https://www.therobotreport.com/general-robotics-is-betting-on-modular-intelligence-not-one-robot-brain/",
+      "source": "The Robot Report",
       "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-25T19:10:38.000Z",
-      "summary": "Samsara新MCP允许客户将车队数据直接连接至ChatGPT、Claude等AI工具。",
+      "category": "robotics",
+      "pubDate": "2026-09-25T18:43:22.000Z",
+      "summary": "General Robotics押注模块化智能而非单一机器人大脑。",
       "summaryZh": "",
-      "titleZh": "Samsara 将车队数据与 ChatGPT、Claude 等人工智能工具连接起来"
+      "titleZh": "通用机器人公司押注于模块化智能，而不是一个机器人大脑"
     },
     {
-      "title": "高通孟樸：智能体跨终端协同需2027年至2028年落地",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBud2U0b0Y4bndkWEVVTk5FdUNFeVF2U2JjZVp1bXJBaU9rdHBlXzk1NkJOV19pV0tEVnZTMnlkYXRNNDdxdnZUa29rODNpbWFKRHEyQmJJcnN2c01GZXRCeFBFVXk?oc=5",
-      "source": "财新网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-25T00:12:00.000Z",
-      "summary": "高通孟樸预测智能体跨终端协同技术将在2027至2028年实现落地。",
-      "summaryZh": ""
+      "title": "Agility Robotics, maker of Digit humanoid, exploring wheeled robots",
+      "link": "https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-25T14:08:27.000Z",
+      "summary": "Agility Robotics探索轮式机器人技术。",
+      "summaryZh": "",
+      "titleZh": "Agility Robotics，数字人形机器人制造商，正在探索轮式机器人"
     },
     {
       "title": "[新闻直播间]专家分析 日布局军用AI及人形机器人暗藏多重风险",
@@ -165,63 +184,35 @@
       "summaryZh": ""
     },
     {
-      "title": "越千创新布局影像创作机器人 以AI破解拍摄决策难题",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9icldEd0dyVFNVRU9ObjVUNk5VVjdrVlVRdXJ3WHN0dG5HQTQ0VXFwa1pNc0JpdGxGNkZCZkpCcE1uSDAzRTc5Q2FKZ2lyTjJvV04tal80T09YY1BYaEstdURvR0d3QQ?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
+      "title": "Tesla&#8217;s Optimus robot is going through growing pains",
+      "link": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+      "source": "The Verge",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-09-25T11:09:13.000Z",
-      "summary": "越千创新研发影像创作机器人，利用AI技术解决拍摄决策难题。",
-      "summaryZh": ""
+      "pubDate": "2026-09-25T17:01:36.000Z",
+      "summary": "特斯拉的Optimus机器人面临成长挑战。",
+      "summaryZh": "",
+      "titleZh": "特斯拉的擎天柱机器人正在经历成长的阵痛"
     },
     {
-      "title": "国际机器人联合会：中国正成为产业创新发展重要力量",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Eb1Y2Q2pGdndWRDBhNkd3WmljOUJ2ZURSQWMzdVJTdUhtcjZWelcyOTQ4REhsaW13ODY5U2pOWHB4dmhyZUswLXA4Qi14TGhkYXByRUFMYlM4NE9wbkRpYUpn?oc=5",
-      "source": "光明网",
-      "lang": "zh",
+      "title": "Video Friday: Life’s Better With a Little Robot Goose",
+      "link": "https://spectrum.ieee.org/video-friday-goose-household-robots",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-09-25T03:39:00.000Z",
-      "summary": "中国成为全球工业机器人市场最大国，并推动技术创新和产业发展。",
-      "summaryZh": ""
+      "pubDate": "2026-09-25T16:00:04.000Z",
+      "summary": "视频周五：机器人鹅让生活更美好。",
+      "summaryZh": "",
+      "titleZh": "周五视频：小机器鹅让生活更美好"
     },
     {
-      "title": "深耕具身智能产业赛道 斑马智能推出端侧模型AutoOmni2.0",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MWWxmMDExQUNKcUZFNDBJSlZsbXdRb2llZEh5YkZhQ0VENGx6Xy1CY1lrS192RnQ2R2RSRUVhb3A0OFEwZ29nSTRvanBoWE51S0lETnpJejh1eXRwSUpES2JCc1VTVGE0dmxPS0xia0ZJYktESDZ6M0tvczY?oc=5",
-      "source": "新华社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-25T10:49:17.000Z",
-      "summary": "斑马智能发布端侧模型AutoOmni2.0，实现车端智能交互新范式。",
-      "summaryZh": ""
-    },
-    {
-      "title": "跨维智能与速博达签署具身智能合作意向书",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Wdmd4bWNQWVVOaFMyYnBuQjJDVnZUd2JWZnBFRUlIZVNTUlNxWnRHM21ZZ05KVERXUVhGNkxkNDNNUG83S3NCNEdTcFJaNnZVUVpJV2k0WG5NMVdqS0c2Q3ZTcTc0T2E4N1REcHJnUWI?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-25T03:31:46.000Z",
-      "summary": "跨维智能与速博达签署合作意向书，共同推进Physical AI发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "青海甘德：AI助教机器人走进草原课堂",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85d3YxekFHVmNsakxmR3ZldGhlRWtqcGhwTkhWRGUxRlRLdzVfdFBwcUl4S2RocV9nMTJhYnhucjRBaWdHYkZrMEtiMnFpWDlvM2EwMmgtcTVuQnBzUW9Vd3pKMDlIaFZuZVlpQk1R?oc=5",
+      "title": "从“她力量”到“她生态”：AI+家庭服务改写万亿市场",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QUmdsMzFxSERlZFJ5RzByZDd3UjRKRGpVZjEzd085VTlOS1BCNmk2TklpV2JaaGg3dHBkSHk3Qms1RlZ5UG1Dd3M4b2NXMUVtcERucmZGcGVKZU1XN0NNYlVLOEZ4RkRU?oc=5",
       "source": "中国新闻网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-25T05:31:00.000Z",
-      "summary": "青海甘德地区小学引入AI助教机器人辅助教学。",
-      "summaryZh": ""
-    },
-    {
-      "title": "全形态电力AI机器人全链条保障全球数贸会",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nOXdwbEp4dmZuZDhaX3h4aE5Hb1NGSUd5aTVMV0JYZEoySU1NRFpjSHhVQWt0UWpQdWRETWRnd2p1QVRmVUlkOG04ZzdUQVJwbWtEMHA0THpQOUx5S1ltdEFYODFpWGNFbzJZRDNDcUI?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-25T04:01:27.000Z",
-      "summary": "全形态电力AI机器人应用于全球数贸会保电工作。",
+      "category": "application",
+      "pubDate": "2026-09-25T14:15:07.000Z",
+      "summary": "AI赋能家庭服务推动万亿市场变革。",
       "summaryZh": ""
     }
   ]
