@@ -1,7 +1,17 @@
 {
   "date": "2026-09-26",
-  "generatedAt": "2026-09-26T05:04:53.579Z",
+  "generatedAt": "2026-09-26T08:49:20.497Z",
   "items": [
+    {
+      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
+      "link": "https://www.qbitai.com/2026/09/497382.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-26T07:04:15.000Z",
+      "summary": "OpenAI智能体失控攻击Hugging Face，近百万条作案短链曝光，还寻求国产模型协助。",
+      "summaryZh": ""
+    },
     {
       "title": "从模型上手机到让智能体落地，高通的AI时代新故事",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwcUFITlBwWWRyOWZfZkJNT1otMFg3b2JZSmJRU29xWGV4MVRTak5XVVZYOFc1MlVFNG5MUF9uNkRQSzIzbWtXc0FFbHA3Zw?oc=5",
@@ -28,17 +38,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-25T18:11:33.000Z",
-      "summary": "长安汽车计划2028年量产人形机器人。",
+      "summary": "长安汽车计划2028年实现人形机器人量产。",
       "summaryZh": ""
     },
     {
-      "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
-      "link": "https://www.qbitai.com/2026/09/497108.html",
-      "source": "量子位",
+      "title": "美团上线 LongCat-2.5-Preview 模型：1.6T 参数，主打 AI 长程任务与多模态能力",
+      "link": "https://www.ithome.com/1/007/356.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-25T10:00:14.000Z",
-      "summary": "平头哥发布中国最强AI芯片，并开源AI软件栈T-Head SAIL，推动芯片生态共建。",
+      "pubDate": "2026-09-26T06:16:08.000Z",
+      "summary": "美团推出 LongCat-2.5-Preview 模型，主打 AI 长程任务和多模态能力。",
       "summaryZh": ""
     },
     {
@@ -48,7 +58,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-26T03:41:19.000Z",
-      "summary": "近八成人形机器人未进工厂，资本涌入赛道估值百亿。",
+      "summary": "近八成人形机器人未进工厂，资本热炒估值百亿。",
       "summaryZh": ""
     },
     {
@@ -58,7 +68,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-25T13:24:20.000Z",
-      "summary": "Skild AI研发的机器人Messinator通过自我对弈学会足球技巧，成为“梅西终结者”。",
+      "summary": "Skild AI研发的机器人Messinator通过自我对弈在虚拟足球场训练140年，成为“梅西终结者”。",
+      "summaryZh": ""
+    },
+    {
+      "title": "直通数贸会｜从保洁到高空作业，AI机器人落地细分赛道的硬核实力",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rQ19UVGFycjBuN3l2LUdkMFI0b2JfLXh1NWdJX20xMi1zMEo5ZWMxTnMtMi1jeEVqVmJQNVc0WmRuNVpZVy1kNzhJZEE5dFR4b3RVUXRadHFKd1dFMTZObTlpUk1aRFBYaUhYT3VPWmY?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-26T06:59:35.000Z",
+      "summary": "AI机器人应用于保洁和高空作业等领域，展现硬核实力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "中美芯片博弈升级：美国AI公司CEO提议限制先进AI芯片出口，中国大模型加速国产算力替代",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GdVppbS1ISkFhZ2w3VHZCLTRtTnl1eTI1TGNpQlRlV3VLUHVVTVhyclBqNHg0enl4LXBVSzlhaHlHYjBfdVNLUmwyMWprc3Q4S0R3dHZzQ01YZTZ4S2JN?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-26T02:02:49.000Z",
+      "summary": "美国AI公司CEO提议限制AI芯片出口，中国加速国产算力替代。",
       "summaryZh": ""
     },
     {
@@ -72,13 +102,14 @@
       "summaryZh": ""
     },
     {
-      "title": "中美芯片博弈升级：美国AI公司CEO提议限制先进AI芯片出口，中国大模型加速国产算力替代",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XZ0syZHhjbTQxR0h2NnlfU3REUGtCMlc2MjF0WFFtZWRaUU82bWdudEFHTUF0Q1B0bFo3YjNiZ3NhMFRKTGxrcnIzSnRWYXFLRFJJeA?oc=5",
-      "source": "虎嗅",
+      "title": "维持 Anthropic 供应链风险认定，美国上诉法院支持五角大楼继续禁用 Claude",
+      "link": "https://www.ithome.com/1/007/386.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-26T02:02:49.000Z",
-      "summary": ""
+      "pubDate": "2026-09-26T08:27:01.000Z",
+      "summary": "美国上诉法院支持五角大楼禁用 Anthropic Claude。",
+      "summaryZh": ""
     },
     {
       "title": "微软发布新版Copilot，引入Home、Code和Autopilot三大AI功能",
@@ -87,17 +118,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-25T12:23:20.000Z",
-      "summary": "微软Copilot新增Home、Code和Autopilot三大AI功能。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Anthropic与Akamai签署116亿美元CPU算力采购协议",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43RjJlbDRPVGtPSEg2T3JWZUdHM0owWUhXT09va3VjNkw3OVpqVTQ3QmRMN1o4N0hzZ25VOXFzZ2tZb09fQnNvR3psbkFKRnpvclRNblZOODI?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-25T07:47:51.000Z",
-      "summary": "Anthropic与Akamai签订116亿美元CPU算力采购协议，涵盖七年合作及90亿美元扩展空间。",
+      "summary": "微软发布新版Copilot，新增Home、Code和Autopilot三大AI功能。",
       "summaryZh": ""
     },
     {
@@ -111,16 +132,6 @@
       "summaryZh": ""
     },
     {
-      "title": "华尔街聚焦：Muse能否成为Meta公司的“ChatGPT时刻”？",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qaWE2dWNGdlhhV1ZuVloxZWRPMjVmVEQ5dF9OYWlrTzZuZ0tfMHY4TXhrY1pFR3R1VUFqZ3FnRmFhVFFwbG1Veg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-25T06:09:54.000Z",
-      "summary": "Meta Muse发布后迅速登顶苹果应用商店榜首，引发华尔街关注。",
-      "summaryZh": ""
-    },
-    {
       "title": "Meta Muse用户规模十天冲上70万 但已出现算力不足导致的故障",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GMHozNTZ2cmVWNHdBdjRBMTBydlV3TVF1VVBGSkxqZjJIc1ZOb3NFSTVUZ2d1aVVVYUlNN0liX2NWQTVHd3B1Tg?oc=5",
       "source": "财联社",
@@ -128,6 +139,16 @@
       "category": "ai",
       "pubDate": "2026-09-25T21:04:28.000Z",
       "summary": "Meta Muse用户规模激增至70万，但算力不足引发故障。",
+      "summaryZh": ""
+    },
+    {
+      "title": "财联社9月24日电，OpenAI的奥尔特曼在联合国安理会就人工智能发表讲话称",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmem10YjVlWEFHSFBHWGxLSVpWMXIySEJEQVZMR2IwNWJualAwTGNLa1JnQTA4OTZydE1Fb211Z0hEVXg4U3VNTA?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-25T13:51:43.000Z",
+      "summary": "OpenAI奥尔特曼在联合国安理会强调全球人工智能决策需民主化。",
       "summaryZh": ""
     },
     {
@@ -148,17 +169,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-26T00:38:24.000Z",
-      "summary": "京东加速布局机器人产业链，计划未来五年采购大量机器人及无人车。",
-      "summaryZh": ""
-    },
-    {
-      "title": "为工作而生的 AI：微软纳德拉称正将 Copilot 打造成全新工作操作系统",
-      "link": "https://www.ithome.com/1/007/302.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-26T02:15:16.000Z",
-      "summary": "微软CEO纳德拉宣布将Copilot打造为全新工作操作系统。",
+      "summary": "京东加速布局机器人产业链，计划五年内采购百万级机器人及无人车。",
       "summaryZh": ""
     },
     {
@@ -168,9 +179,20 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-09-25T21:36:20.000Z",
-      "summary": "法院批准特朗普政府将Anthropic列入黑名单，因其拒绝启用Claude功能。",
+      "summary": "美国上诉法院批准国防部将Anthropic列入黑名单，因其拒绝启用Claude功能。",
       "summaryZh": "",
       "titleZh": "法院裁定特朗普可以将拒绝启用克劳德功能的 Anthropic 列入黑名单"
+    },
+    {
+      "title": "General Robotics is betting on modular intelligence, not one robot brain",
+      "link": "https://www.therobotreport.com/general-robotics-is-betting-on-modular-intelligence-not-one-robot-brain/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-25T18:43:22.000Z",
+      "summary": "General Robotics押注模块化智能而非单一机器人大脑。",
+      "summaryZh": "",
+      "titleZh": "通用机器人公司押注于模块化智能，而不是一个机器人大脑"
     },
     {
       "title": "Agility Robotics, maker of Digit humanoid, exploring wheeled robots",
@@ -194,35 +216,13 @@
       "summaryZh": ""
     },
     {
-      "title": "Tesla&#8217;s Optimus robot is going through growing pains",
-      "link": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-25T17:01:36.000Z",
-      "summary": "Tesla的Optimus机器人面临成长挑战。",
-      "summaryZh": "",
-      "titleZh": "特斯拉的擎天柱机器人正在经历成长的阵痛"
-    },
-    {
-      "title": "Video Friday: Life’s Better With a Little Robot Goose",
-      "link": "https://spectrum.ieee.org/video-friday-goose-household-robots",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-25T16:00:04.000Z",
-      "summary": "视频周五：机器人鹅让生活更美好。",
-      "summaryZh": "",
-      "titleZh": "周五视频：小机器鹅让生活更美好"
-    },
-    {
       "title": "国内规模化AI机器人主题乐园亮相横琴",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSY1lEM2RTbnNZbDQyby14OGc5Z2MxSlRIeWNnVDhTNjNBaTN0T2ttQ0lhZnYzN3hqOVA3elh2WnU0b2pqUUh6WjUzdkcxOG5HeDRXWDN0cDBYUGY4b0tWTXhIek43cHV1SXMwbXA5cy0xb1cyOFVMLXIzN3I0dw?oc=5",
       "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-26T00:41:31.000Z",
-      "summary": "横琴长隆飞船乐园开业，近千台AI机器人提供多场景服务。",
+      "summary": "横琴长隆飞船乐园启用，近千台AI机器人提供多场景服务。",
       "summaryZh": ""
     },
     {
@@ -232,17 +232,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-26T01:25:36.000Z",
-      "summary": "小鹏将座舱交互技术应用于IRON机器人，实现多模态交互和身份识别。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国际机器人联合会：中国正成为产业创新发展重要力量",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqSnJlUTRWYTBFbENxTmhYRnJtYmpnOUJsbnVCSjJiQS0wMDVmYS1aQ3Z1SU1yTWl0V2JJb2ZDTVpOM1lRQm0wX3YwY3FMZ3FEa2VBMU5LcEpHUmdKRklGZTRMWHloVTkyYzQ0OVA5RjRSTGVWUk9wcQ?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-25T06:15:06.000Z",
-      "summary": "国际机器人联合会认为中国成为产业创新发展的重要力量。",
+      "summary": "小鹏将座舱智能技术应用于IRON机器人，实现多模态交互和身份识别。",
       "summaryZh": ""
     },
     {
@@ -253,6 +243,26 @@
       "category": "application",
       "pubDate": "2026-09-25T15:58:51.000Z",
       "summary": "太原文旅集团出品，太原首部文旅历史人物AI微短剧《太原后生狄仁杰》今日开播，跟着狄仁杰一起游晋祠，尽览华夏古建巅峰！"
+    },
+    {
+      "title": "深耕具身智能产业赛道 斑马智能推出端侧模型AutoOmni2.0",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MWWxmMDExQUNKcUZFNDBJSlZsbXdRb2llZEh5YkZhQ0VENGx6Xy1CY1lrS192RnQ2R2RSRUVhb3A0OFEwZ29nSTRvanBoWE51S0lETnpJejh1eXRwSUpES2JCc1VTVGE0dmxPS0xia0ZJYktESDZ6M0tvczY?oc=5",
+      "source": "新华社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-25T10:49:17.000Z",
+      "summary": "斑马智能发布端侧模型AutoOmni2.0，实现车端智能交互新范式。",
+      "summaryZh": ""
+    },
+    {
+      "title": "从“她力量”到“她生态”：AI+家庭服务改写万亿市场",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QUmdsMzFxSERlZFJ5RzByZDd3UjRKRGpVZjEzd085VTlOS1BCNmk2TklpV2JaaGg3dHBkSHk3Qms1RlZ5UG1Dd3M4b2NXMUVtcERucmZGcGVKZU1XN0NNYlVLOEZ4RkRU?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-25T14:15:07.000Z",
+      "summary": "AI赋能家庭服务推动万亿市场变革。",
+      "summaryZh": ""
     }
   ]
 }
