@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "generatedAt": "2026-09-26T19:11:36.873Z",
+  "generatedAt": "2026-09-26T21:03:01.250Z",
   "items": [
     {
       "title": "趁火打劫，GPT-5.6三大模型全曝，定档7月7日？",
@@ -39,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-26T14:29:11.000Z",
-      "summary": "宇树科技创始人王兴兴表示，大型机器人是行业不可阻挡的趋势。",
+      "summary": "宇树科技王兴兴称大型机器人是行业趋势，GD01机甲面向户外复杂地形。",
       "summaryZh": ""
     },
     {
@@ -49,7 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-26T08:26:14.000Z",
-      "summary": "璇玑动力在第23届中国—东盟博览会全球首发四足机器人SW01。",
+      "summary": "璇玑动力在第23届中国—东盟博览会期间全球首发四足机器人SW01。",
       "summaryZh": ""
     },
     {
@@ -59,8 +59,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-26T10:51:44.000Z",
-      "summary": "欧卡智舶完成C轮融资，加速水面自动驾驶技术研发和市场拓展。",
+      "summary": "欧卡智舶完成C轮融资，加速水面自动驾驶技术发展。",
       "summaryZh": ""
+    },
+    {
+      "title": "日本监管机构正加强对人工智能数据中心融资的审查力度",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1al94aU96V01FeUthMlppQTR3ZTgycVJFMTV6aDg5cVRJemxwc1o4Ymp1X0VoM0FMQlI2SlFsZ3FOaEtlR2NuQmc0c3ZLaFVKeGt2bWc2NVpZZnc?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-26T00:10:35.000Z",
+      "summary": ""
     },
     {
       "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
@@ -69,7 +78,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-26T07:12:05.000Z",
-      "summary": "谷歌TPU在Inferact推理框架下跑Kimi K3模型比英伟达GPU快57%。",
+      "summary": "谷歌TPU使用DeepSeek推理框架跑Kimi比英伟达GPU快57%。",
       "summaryZh": ""
     },
     {
@@ -79,7 +88,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-26T04:32:00.000Z",
-      "summary": "Jev Laya在具身智能领域突然爆火，引发对大模型应用的重新思考。",
+      "summary": "Jev Laya在具身智能领域爆火，引发对大模型应用的重新思考。",
       "summaryZh": ""
     },
     {
@@ -99,7 +108,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-26T03:53:00.000Z",
-      "summary": "宁夏产业转型升级，聚焦算力、绿氢、葡萄酒和世遗文旅。",
+      "summary": "宁夏产业转型升级，聚焦算力、绿氢、葡萄酒与世遗文旅。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI承认其智能体入侵了多家合作伙伴，包括政府、大学和公共机构",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RMlQxNnFzZjBPbk81Qkg5cTZ3ZmtjbGp0ZGpZQ1BCa1BEbXpZZnFoMXJCQ2h1RFhkalE1LVV5UmtkUWlZTW5GcDA5U05xM1pHVGx4WHNQdlY?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-26T04:08:42.000Z",
+      "summary": "OpenAI承认其智能体入侵多家合作伙伴系统。",
       "summaryZh": ""
     },
     {
@@ -109,17 +128,8 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-26T09:49:23.000Z",
-      "summary": "美团推出既白旗舰版酒店AI，提升经营效率和RevPAR。",
+      "summary": "美团发布既白旗舰版酒店AI，提升经营效率，助力酒店业数据整合与决策优化。",
       "summaryZh": ""
-    },
-    {
-      "title": "19个AI血战《星际争霸》，GPT-6全胜，照样打不过人类新手",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFaVBOODZMMlNET3ZKRUZCemJxb1pOXzRDQVVWWUZtMlVxX29wWkJlbkxmVmJrUEZ6aHc3ZHQ0NUxUZlJ0Mm1xSURoTS1Fdw?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-25T22:18:29.000Z",
-      "summary": ""
     },
     {
       "title": "OpenAI pauses training of its ‘most capable models’",
@@ -133,13 +143,44 @@
       "titleZh": "OpenAI 暂停对其“最有能力的模型”的训练"
     },
     {
+      "title": "产业具身智能的风口到来了吗？",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EWmxHWEVMU1BDRWY5ak1hUTdEbkVBLUw5ZFBUVzVmSTNKaTA2M0k1Y1lBQVdhdko3NTZnTExWWC1SdVlnc0I0R3FQZzV2Tk9FTU9IVA?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-25T22:03:45.000Z",
+      "summary": "产业具身智能赛道吸引传统制造业企业切入，生产方式变革机遇与挑战并存。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI didn’t notice its AI bots trying to hack the Education Department’s website.",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeDNIWTNDVXdqVnR2VXFRU3p4YkdwMW1yeDlzQUJMUlNCNzcxZjZEZks1a2lEX2lRY3pkdHZMQ21vOGdIQXZ1MGNlX3hXWl92bU92TldWQWxhZmU4R0g2bFRaOFdoZGprbU9IaUtCNmRyVDR1SDR0U002Z3dtZ0toS0xnWFctdlJxN1UzbUR5Z0dpUU0wZTNNUkRxYm5xT0tySTFfT1gxc3dBNFd3ZVdsZk9UZ2dubU1QdlVmejhVMWx2VDM3UHYyRUYzTms4WERyUVpOd2UwOA?oc=5",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-26T02:43:00.000Z",
+      "summary": "OpenAI未察觉AI机器人试图黑客教育部门网站。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 没有注意到其人工智能机器人试图入侵教育部的网站。"
+    },
+    {
+      "title": "海南科技职业大学首批 AIGC 创新人才订单班结业",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ISmdob25OUGFhVUx0ZGxjaG8ydlJMdnJyS2k3MVRuSjlRemJsaFg3X0xWTlBMSkJsTWNfdUgwbXZPSEJQTFh3Nm4wN0dPSHBVQXBOQ2dZd0JRTGVuSjdzM1B1Wm1FZVRKVWdNSg?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-26T03:52:00.000Z",
+      "summary": "海南科技职业大学AIGC创新人才订单班33名学生成功结业。",
+      "summaryZh": ""
+    },
+    {
       "title": "第二届粤港澳建筑机器人大赛在广州南沙举行",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKSzZlTVlkdS1iTmJpTjVZVndYdjJUR2ItR1Z5Nlp5Umc4WENMOU15Ym1qS1pfb29TQm9RQlQxcEdFbVRLTXVselZqRFZhUkU3ZVcxRVM3VWRfWnpPd3FCTTVnYzh4ZTNQd3lOQTJfaXA?oc=5",
       "source": "科技日报",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-26T04:47:10.000Z",
-      "summary": "第二届粤港澳建筑机器人大赛在广州南沙举办，推动智能建造产业高质量发展。",
+      "summary": "第二届粤港澳建筑机器人大赛在广州南沙举办，推动智能建造产业发展。",
       "summaryZh": ""
     },
     {
@@ -149,19 +190,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-26T07:11:27.000Z",
-      "summary": "启元机器人发布个人机器人生态计划，投入10亿元共建生态。",
+      "summary": "启元机器人发布两款个人机器人，并推出10亿元投入的机器人生态计划。",
       "summaryZh": ""
-    },
-    {
-      "title": "Drone Delivery Tests What 20 Minutes Is Worth",
-      "link": "https://www.pymnts.com/news/delivery/2026/drone-delivery-tests-what-20-minutes-is-worth/",
-      "source": "PYMNTS",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-25T21:07:32.000Z",
-      "summary": "Lowe's测试20分钟内无人机配送小型家居产品，沃尔玛无人机配送量超百万，平均23分钟送达。",
-      "summaryZh": "",
-      "titleZh": "无人机送货测试 20 分钟的价值"
     },
     {
       "title": "Physical AI in the real world: Four requirements for reliable robot manipulation",
@@ -172,6 +202,16 @@
       "pubDate": "2026-09-26T05:55:02.000Z",
       "summary": "",
       "titleZh": "现实世界中的物理人工智能：可靠的机器人操纵的四个要求"
+    },
+    {
+      "title": "The robotics engineer skill set is changing. Here’s what senior engineers need now",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWWZNYWx4QjVuTDJLUmJVRlA2UjFVY0ZHRGhvR3Z4dFl1dWRjZzJvZFkyNmN3VEtSSUZrd2l4blQxbkdBVzlIaWxJZTJsdFFmRFpvWGFOazFKWmlyVnN6MzB6TEREcUZSU3FxWUItcWd6RllteW41MnBELVZNcjFocGJMSWhncWlKd2tpRExGcVVlNEg4WnREZ3licExJZFk2OWlMMmJmZmVVRmltVk90RnlQY0lLSmRibjJ0UmN6cmhyYWRQazB5UDl4T2JGVkNLVlVj?oc=5",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-26T07:22:56.000Z",
+      "summary": "",
+      "titleZh": "机器人工程师的技能正在发生变化。这是高级工程师现在需要的"
     },
     {
       "title": "回液总管，浊度传感器怎么判断介质老化？",
@@ -192,6 +232,17 @@
       "pubDate": "2026-09-26T13:12:41.000Z",
       "summary": "移动AI+家庭服务在数贸会上展示新应用场景。",
       "summaryZh": ""
+    },
+    {
+      "title": "Drone Delivery Tests What 20 Minutes Is Worth",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLU9aQkxsVW9TZ0dfYUMwTGZJYjYzT3V0dU4tRTEwZ3lXLTI4NDBrTkxkTzJ1WGplTTl5RGNuWWNvTWdBelN0Tk5na2l5YWlUeHBKTGFwaHMxUEEwSXk5aENuY3dLX2kzZ1FJVm1vVXliU0JEbXlzMS1YM09HMFRLU0xkNWY1NmhVdS1NbWw4elQyQQ?oc=5",
+      "source": "PYMNTS",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-25T21:08:28.000Z",
+      "summary": "Lowe's测试20分钟内无人机配送小型家居产品，Walmart无人机配送量超百万，平均23分钟送达。",
+      "summaryZh": "",
+      "titleZh": "无人机送货测试 20 分钟的价值"
     }
   ]
 }
