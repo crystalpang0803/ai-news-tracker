@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "generatedAt": "2026-09-26T22:12:12.591Z",
+  "generatedAt": "2026-09-26T23:40:43.852Z",
   "items": [
     {
       "title": "趁火打劫，GPT-5.6三大模型全曝，定档7月7日？",
@@ -9,29 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-26T07:36:55.000Z",
-      "summary": "GPT-5.6三大模型泄露，发布日期待定。",
-      "summaryZh": ""
-    },
-    {
-      "title": "英国第二大图书馆：牛津大学博德利图书馆藏书被曝用于 OpenAI 模型训练",
-      "link": "https://www.ithome.com/1/007/426.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-26T12:01:03.000Z",
-      "summary": "牛津大学博德利图书馆藏书被用于OpenAI模型训练。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-25T22:20:47.000Z",
-      "summary": "OpenAI未授权AI代理在不知情情况下公开了53张用户图像。",
-      "summaryZh": "",
-      "titleZh": "不安全的 OpenAI 代理在实验室不知情的情况下在互联网上发布了 53 张用户图像"
+      "summary": ""
     },
     {
       "title": "宇树王兴兴回应为何造 390 万元起的载人变形机甲：大型机器人是行业不可阻挡的趋势",
@@ -50,7 +28,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-26T08:26:14.000Z",
-      "summary": "璇玑动力发布全球首款四足机器人SW01。",
+      "summary": "璇玑动力在第23届中国—东盟博览会全球首发泛行业中型智能四足机器人SW01。",
       "summaryZh": ""
     },
     {
@@ -60,17 +38,16 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-26T02:25:00.000Z",
-      "summary": "Claude项目在理论物理领域取得突破，花费低廉。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
-      "title": "Deepseek 桌面版悄悄上线；Muse 大火，扎克伯格跃升全球第四大富豪；OpenAI 被曝筹备推出 ProMax 订阅层级，月费或达 500-600 美元",
-      "link": "http://www.geekpark.net/news/371038",
-      "source": "极客公园",
+      "title": "谷歌、OpenAI、Anthropic据称拟共建“前沿AI标准局”",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93c1hCa1RfU1cwVE9UdjhvcmVoSy1nQ2o2RWRETllQVklIZDFQVTQyQzRGNGJSUXdoQm9hRkF1c25hSHR2THJnYQ?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-26T00:45:21.000Z",
-      "summary": "Deepseek桌面版上线，扎克伯格成全球第四富豪，OpenAI计划推ProMax订阅。",
+      "pubDate": "2026-09-26T04:57:27.000Z",
+      "summary": "谷歌、OpenAI、Anthropic拟共建AI安全标准机构。",
       "summaryZh": ""
     },
     {
@@ -91,7 +68,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-26T10:51:44.000Z",
-      "summary": "欧卡智舶获C轮融资，西安高新区水面自动驾驶企业深化产业布局。",
+      "summary": "欧卡智舶完成C轮融资，加速水面自动驾驶技术研发和市场拓展。",
       "summaryZh": ""
     },
     {
@@ -111,7 +88,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-26T04:32:00.000Z",
-      "summary": "Jev Laya大模型概念引发关注。",
+      "summary": "Jev Laya在具身智能领域突然爆火，引发对大模型应用的重新思考。",
       "summaryZh": ""
     },
     {
@@ -121,7 +98,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-26T12:13:00.000Z",
-      "summary": "高盛预测，六大科技巨头2028-2030年需创收1.42万亿美元以维持AI算力投资回报。",
+      "summary": "高盛报告称，六大科技巨头2028-2030年需创收1.42万亿美元以实现AI算力投资15%年化ROIC。",
       "summaryZh": ""
     },
     {
@@ -131,7 +108,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-26T03:53:00.000Z",
-      "summary": "宁夏聚焦算力、绿氢、葡萄酒和世遗文旅产业新增长点。",
+      "summary": "宁夏产业转型升级，聚焦算力、绿氢、葡萄酒和世遗文旅。",
       "summaryZh": ""
     },
     {
@@ -141,7 +118,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-26T09:49:23.000Z",
-      "summary": "美团发布酒店AI新版本，从提效助手升级为经营参谋。",
+      "summary": "美团发布既白旗舰版酒店AI，提升经营效率，助力酒店业数据整合与决策优化。",
       "summaryZh": ""
     },
     {
@@ -151,27 +128,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-26T03:33:28.000Z",
-      "summary": "水下巡检机器人能力提升，从辅助工具跃升至核心装备。",
+      "summary": "水下巡检机器人从辅助工具跃迁为核心装备，实现导航、操控和感知三大能力突破。",
       "summaryZh": ""
     },
     {
-      "title": "“机器人训练师”正走进各行各业",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CeGN3akRwTDVaVWJWV2Y4U2tiTUlGc1pjUFhoMERZRkpXRHprTXJlLTVXckxPdm03cTA3UHg3cUhUTmE5VGJ6VGxnQkhYb1QzNGdsMVlsZkd4Yy1JeC02eUtIUmVRQWwtdXIwUThoVXNSZHgwNTNJ?oc=5",
-      "source": "央广网",
+      "title": "AI算力中心带动储能需求爆发：机柜级BBU与园区级储能成关键，中国企业订单激增",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWaVRCR1p1Y0FVSlh2SVRYNjk3akRSOGU4NGlnbVV0QUVVeUpDZkgyX2VwWldsY3J0OE1wX3p1OFlaeFRzNEp0Qm5iZDAxN3BTNnFnVg?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-26T03:26:49.000Z",
-      "summary": "机器人训练师应用范围逐渐扩大至多个行业。",
-      "summaryZh": ""
-    },
-    {
-      "title": "涂鸦智能亮相第五届全球数贸会 首发AI家庭陪伴机器人Doova",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWHhVV1lLZUpjUm5fT1dGY19QTmJORUtUdVdNZzFtODdFSGZ5a0gtcV8zTzQ5Ry1OMWxoaWI1OVVrVWl5aU1SN3J0azR2MjZSYzd2Q2FJV0RuelNYYVJJREhLVkpRQmRrZVdQZmVjQVVhYVZRWUd4MkYzUFM5eC03RGhn?oc=5",
-      "source": "中国新闻网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-26T11:25:55.000Z",
-      "summary": "涂鸦智能在数贸会首发AI家庭陪伴机器人Doova。",
+      "category": "ai",
+      "pubDate": "2026-09-26T14:11:25.000Z",
+      "summary": "AI算力中心需求激增，推动中国储能电池订单激增，全球市场增长空间巨大。",
       "summaryZh": ""
     },
     {
@@ -181,7 +148,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-26T04:47:10.000Z",
-      "summary": "第二届粤港澳建筑机器人大赛在广州南沙成功举办。",
+      "summary": "第二届粤港澳建筑机器人大赛在广州南沙举办，推动智能建造产业发展。",
       "summaryZh": ""
     },
     {
@@ -191,7 +158,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-26T07:11:27.000Z",
-      "summary": "启元机器人发布机器人生态底座。",
+      "summary": "启元机器人发布两款个人机器人，并推出10亿元投入的机器人生态计划。",
       "summaryZh": ""
     },
     {
@@ -201,9 +168,39 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-26T15:15:04.000Z",
-      "summary": "美国DARPA计划将维修机器人送入地球同步轨道。",
+      "summary": "DARPA计划将维修机器人送入地球同步轨道。",
       "summaryZh": "",
       "titleZh": "DARPA 将维修机器人送入地球同步轨道的任务"
+    },
+    {
+      "title": "Physical AI in the real world: Four requirements for reliable robot manipulation",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZHlJZGtyTnliOHFDWklJRUtrLXotZk5DcUNTZ2N0d2lYQVJ1ZFo2QmxfbkJEaHhxNGpWb0JGZ19rZTZnUE8zbXNnVkxEc2FKVW9pR0ZnU0g5OHdOcDk0WTcxbWhZNmJSVFhGYUxQTUtZa3VNRnVrUWxWYmo3a2owUmh4U3VvMGhfVTdwOWlfSlBmSjlyZ2E2UjROMkVQZWpYb3pTQ1VvNlB0VXJRak1IckE4WTlQcTFvdGU2WlJIRWtCVlJtT0ZSbFU3UUZ4MWxxV3c?oc=5",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-26T05:55:02.000Z",
+      "summary": "",
+      "titleZh": "现实世界中的物理人工智能：可靠的机器人操纵的四个要求"
+    },
+    {
+      "title": "The robotics engineer skill set is changing. Here’s what senior engineers need now",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWWZNYWx4QjVuTDJLUmJVRlA2UjFVY0ZHRGhvR3Z4dFl1dWRjZzJvZFkyNmN3VEtSSUZrd2l4blQxbkdBVzlIaWxJZTJsdFFmRFpvWGFOazFKWmlyVnN6MzB6TEREcUZSU3FxWUItcWd6RllteW41MnBELVZNcjFocGJMSWhncWlKd2tpRExGcVVlNEg4WnREZ3licExJZFk2OWlMMmJmZmVVRmltVk90RnlQY0lLSmRibjJ0UmN6cmhyYWRQazB5UDl4T2JGVkNLVlVj?oc=5",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-26T07:22:56.000Z",
+      "summary": "",
+      "titleZh": "机器人工程师的技能正在发生变化。这是高级工程师现在需要的"
+    },
+    {
+      "title": "回液总管，浊度传感器怎么判断介质老化？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jeVgweExjaVp4SGkyZTV1WkNhNTdWdnVHR0t3T2Q4ZGlzREJ6ZC0yelM4azRfWHIwNHFiNVhxTlN5dVA4c3V5TnFFYU9kNkxEQ1lhbU0wZw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-26T07:58:31.000Z",
+      "summary": "回液总管浊度传感器通过监测基线偏移和突变告警判断介质老化。",
+      "summaryZh": ""
     }
   ]
 }
