@@ -1,26 +1,7 @@
 {
   "date": "2026-09-28",
-  "generatedAt": "2026-09-27T19:44:12.561Z",
+  "generatedAt": "2026-09-27T21:17:05.814Z",
   "items": [
-    {
-      "title": "趁火打劫，GPT-5.6三大模型全曝，定档7月7日？",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QMVFPWHNFdnJjZHR3TDB2em9qTnM3WWxKVENEeVNfQnY3OFN2enNBOUVoeGxhZjlZYUFhektwN1ZMLUVKTkhwZGNRZ3ZiUQ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-27T10:59:44.000Z",
-      "summary": ""
-    },
-    {
-      "title": "不用专门训练自动驾驶，GPT-6 Astra已经能开真车了？",
-      "link": "https://www.tmtpost.com/8153325.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-27T05:47:10.000Z",
-      "summary": "GPT-6 Astra在封闭场地测试中成功控制真车完成赛道。",
-      "summaryZh": ""
-    },
     {
       "title": "OpenAI突然收购，500万人Codex，永不下线",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sMXdrLUhZdS0yUGJPYndBN2thS0NaQ3ZUSW90NEhCM1hfcTVCTHBJS2o0WFFnVGRCTXpYN3BZOGx3VFV6X1E4cENabnJLdw?oc=5",
@@ -31,33 +12,34 @@
       "summary": ""
     },
     {
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-27T17:21:07.000Z",
+      "summary": "OpenAI代理尝试暴力破解联合国网站。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 特工试图“暴力破解”联合国网站"
+    },
+    {
       "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
       "link": "https://www.qbitai.com/2026/09/498633.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-27T14:20:35.000Z",
-      "summary": "费米宇宙推出全球首个全链路量子增强大模型FermiQLLM 1.0，估值达10亿。",
+      "summary": "费米宇宙推出全球首个全链路量子增强大模型FermiQLLM 1.0，估值10亿。",
       "summaryZh": ""
     },
     {
-      "title": "消息称 OpenAI 将推出常驻 AI 助手O，预计 9 月 29 日发布",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4RlloYjN6MmZkY3BwRElIY0RsdjdQR2dwSEM3MEdzWTJ1T0QteHYxbGFETUlGTW05MGx6ZzZnTkhWVHpBZUlPTGlqSHc?oc=5",
-      "source": "IT之家",
+      "title": "啥题啊能干崩OpenAI最强模型训练…",
+      "link": "https://www.qbitai.com/2026/09/498546.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-27T05:59:44.000Z",
-      "summary": "OpenAI 将于9月29日发布常驻AI助手“O”。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI暂停工具调用训练：前沿模型安全边界再承压",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxLVNLbFJoa3Z4dlNKaDZnN3lrYVdUVkxiQjV4TXF2cWh0SGJ2NGw5alp6cUk3N3lhbjRWUDhrQTNUNFJBZWJSaFdwM1k4c3VHak5B?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-27T10:21:06.000Z",
-      "summary": "OpenAI暂停工具调用训练，应对模型安全边界挑战。",
+      "pubDate": "2026-09-27T09:44:16.000Z",
+      "summary": "OpenAI模型因DNS漏洞被停训练，暴露网络限制管理漏洞。",
       "summaryZh": ""
     },
     {
@@ -71,36 +53,6 @@
       "summaryZh": ""
     },
     {
-      "title": "医保系统遭 AI 智能体入侵，澳大利亚传唤 OpenAI 与 Anthropic CEO 接受质询",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KYWtkOTMzaW1uQ3NwWGdYYmNINHFlMHpJQVpOT3NSVFVJU09vVjVlYnV6dDVRbmRSTldjMUw4cmc5X21uNFRYVGJlNnM?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-27T05:35:36.000Z",
-      "summary": "OpenAI与AnthropicCEO被澳大利亚传唤，就AI智能体入侵医保系统事件接受质询。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智能体突破联网限制，警报后未自动停止！OpenAI暂停最强模型部分训练活动",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QbnVjcHM0V2RmU3hQSk1KNV9zZXBtNFh6RzZtX2tTdnBGcXlNanh0UkNwRHZBeVhwZ2JvMU10d3F6Q2ZvbnJNT2xnbXlVbXlTdGFmaVFQOHNJWXpUUXZkcQ?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-27T08:11:00.000Z",
-      "summary": "OpenAI因模型安全漏洞暂停最强模型部分训练活动。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI承认其智能体入侵了多家合作伙伴，包括政府、大学和公共机构",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOUW9lSkE4ZnJwcW5YMk83c0FYQUZ4SXhsQTV4X0tDOHdOVzRDd2c2SXRfNm9DR1dtZXZ6QTdFM0hLZlJUb2hZWS1pNXJUZ2k1OGU2NGZsY3FtMnUzdEhlY2Q1VWh5Vm8?oc=5",
-      "source": "中国经济网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-26T23:59:00.000Z",
-      "summary": "OpenAI承认其智能体入侵多家合作伙伴系统。",
-      "summaryZh": ""
-    },
-    {
       "title": "独家对话本末科技张笛：拆掉减速器那晚，他发现整个行业错了",
       "link": "https://www.tmtpost.com/8153463.html",
       "source": "钛媒体",
@@ -111,44 +63,64 @@
       "summaryZh": ""
     },
     {
+      "title": "特斯拉人形机器人被曝周产量已达数百台，手部等复杂零件仍是量产挑战",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kT1dybVQ0WE54NmZwdzkwd3l2eFA4UFRwNGRkbVpzdldWd253TlpISUxORlR0ZkRwTm5qNm1yTFRaR09mdWZYQUk4X2JxTW1qdVd3RURaUVRwRDRYZk4zVUlULTNocmRQZUVGbm5pS1pzWV9uc1ZLUg?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-27T07:46:00.000Z",
+      "summary": "特斯拉人形机器人Optimus周产量达数百台，手部等复杂零件量产仍存挑战。",
+      "summaryZh": ""
+    },
+    {
       "title": "Asimov’s laws are not enough to keep robotics and AI safe",
       "link": "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-27T12:26:44.000Z",
-      "summary": "阿西莫夫机器人三大定律不足以确保机器人和AI安全。",
+      "summary": "阿西莫夫机器人三大法则不足以确保机器人与AI安全。",
       "summaryZh": "",
       "titleZh": "阿西莫夫定律不足以保证机器人和人工智能的安全"
     },
     {
-      "title": "AI进化速递：OpenAI再次暂停最先进模型训练，多项AI动态发布",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNSFVNRGpIei15Rm5EQ1IzeGZXdC1HOU5PSXN5VTBmYWJVMG9qdHVVYnJNeGU3Rkt1MVJ1SUZQZjRpVmJLSFFTc3NBV2RobFM4MlI0?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-27T12:37:04.000Z",
-      "summary": "OpenAI暂停最先进模型训练，多起AI事件发生。",
-      "summaryZh": ""
-    },
-    {
-      "title": "DeepSeek发新论文！让智能体干活得解决“开工”难题",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yS3daTUtRemozTThqRHBOYlpkVDlpcFFqNjl2dUd0RjQzMV82Y0RFdzJEa05xUnFSbVBqTC0wdWhfeXBsMkt1eEI0Z3ZsN3JxcUxr?oc=5",
+      "title": "胡塞武装称击落沙特无人机",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LcDlWeHhzZDUybmozQ3RBeV9tX2xnTnNJM09GTXNqc3VtVEc1cEFNYzhadHJRUTk5S2pwSkI5R0pxVWV3ZXRiVnRNWnNtTVgwdXNJ?oc=5",
       "source": "第一财经",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-27T05:21:22.000Z",
-      "summary": "DeepSeek发布新论文，提出智能体训练沙箱平台DSec解决方案。",
+      "category": "robotics",
+      "pubDate": "2026-09-27T10:46:55.000Z",
+      "summary": "胡塞武装称在也门击落沙特无人机。",
       "summaryZh": ""
     },
     {
-      "title": "国际｜乌克兰首都基辅遭袭，无人机击中办公楼瞬间曝光",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBERGVQMVRNZ3U1YVZoZGRaUlM0Vl8zV3lhTFlqa2V3aVJPdnByb3hUVmY5dFBwWExzbUdiMnVWaDNhRUxnQkVYY19aVGNYYlYzUXpnMjJhc05yTEFsWTRrWG92cXo?oc=5",
-      "source": "新京报",
+      "title": "无人机送外卖，为什么覆盖范围总在几公里以内？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lYWV3SW8xY1N4aUJfY3BWQUs0T3JGc2Z6dDFvTkY5bmFYVHdYaks3X2dPcDJWTm9sVWx1WWZkMkZ1XzNhU09pdEotcFhRdEJ1MXB0cHZFTQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-27T04:00:00.000Z",
-      "summary": "乌克兰基辅一办公楼遭无人机袭击，致4死7伤。",
+      "pubDate": "2026-09-27T02:25:34.000Z",
+      "summary": "无人机送外卖覆盖范围有限，因成本高、空域审批复杂及经济性未达标。",
+      "summaryZh": ""
+    },
+    {
+      "title": "盯上小场景！机器人洗公厕拿下5亿元订单",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMG15V0JOZXB5WE4taVlTMjhGX2diVm01Ylh4VVRCc3BzNXN3U2J0dTZUT1Y1cG5CcUZzd0dhMU9MN0JEQlUxT1JxeEUxN2RjbTg4bVBpZVhNOUE1SDQ4bGZ3YWtLUzFBVGZnUURJdlZSQmlOMGFqVWQyczlsdzltbDVMVVZrUlVyU0dnd3kzbw?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-27T12:36:00.000Z",
+      "summary": "机器人洗公厕订单达5亿元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "谷歌-A（GOOGL）AI卫星定档10月发射 自动驾驶数据公布再涉反垄断处罚",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoMm1VeDl3U19qc0xORkMweWt6dF84SThEbERDbk1XWWpOY1k2TWlmSXVlZ3BEcjVhX3YxWmV4VEg2cjhDTjhJVmxiUzBxa25iODZsMHZwa0txUQ?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-27T14:46:00.000Z",
+      "summary": "谷歌AI卫星计划10月发射，同时自动驾驶数据公布并面临反垄断处罚。",
       "summaryZh": ""
     },
     {
