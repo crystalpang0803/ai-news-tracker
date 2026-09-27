@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI & 机器人日报 · 2026-09-28</title>
+<style>
+  :root{color-scheme:light;--ink:#14171c;--muted:#6b7280;--line:#e7e9ec;--bg:#f2f3f5;--card:#ffffff;--accent:#e5484d;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased;}
+  a{color:inherit;text-decoration:none;}
+  .topbar{background:#111418;color:#fff;border-bottom:3px solid var(--accent);}
+  .topbar-inner{max-width:1120px;margin:0 auto;padding:0.95rem 1.5rem;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
+  .brand{font-size:1.4rem;font-weight:800;letter-spacing:-0.02em;display:flex;align-items:center;gap:0.5rem;}
+  .brand .dot{color:var(--accent);}
+  .masthead-meta{font-size:0.8rem;color:#a9afb8;font-variant-numeric:tabular-nums;}
+  .nav{max-width:1120px;margin:0 auto;padding:0.6rem 1.5rem;display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap;font-size:0.82rem;}
+  .nav a,.nav input{background:#fff;border:1px solid var(--line);border-radius:8px;padding:0.35rem 0.85rem;color:#374151;font-weight:600;transition:all .15s;}
+  .nav a:hover{border-color:var(--accent);color:var(--accent);}
+  .nav .spacer{flex:1;}
+  .wrap{max-width:1120px;margin:0 auto;padding:1.4rem 1.5rem 3rem;}
+
+  .hero{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:1.7rem 1.9rem;box-shadow:0 1px 2px rgba(16,24,40,.05);}
+  .hero .kicker{display:inline-flex;align-items:center;gap:.4rem;font-size:0.72rem;font-weight:800;letter-spacing:.08em;color:#fff;background:var(--accent);padding:0.24rem 0.65rem;border-radius:6px;margin-bottom:0.9rem;}
+  .hero h2{font-size:1.75rem;line-height:1.25;font-weight:800;letter-spacing:-0.015em;}
+  .hero .trans{margin-top:0.5rem;}
+  .hero .head{margin-top:0.95rem;}
+
+  /* Sticky jump-tab bar */
+  .tabs{position:sticky;top:0;z-index:20;display:flex;gap:0.5rem;flex-wrap:wrap;background:var(--bg);padding:0.8rem 0 0.7rem;margin:0.8rem 0 0.2rem;border-bottom:1px solid var(--line);}
+  .tab{background:#fff;border:1px solid var(--line);border-radius:999px;padding:0.5rem 1.05rem;font-family:inherit;font-size:0.94rem;font-weight:700;color:#4b5563;cursor:pointer;display:flex;align-items:center;gap:0.5rem;transition:all .15s;}
+  .tab:hover{border-color:#c7cbd1;color:var(--ink);}
+  .tab .ic{font-size:1rem;}
+  .tab .n{font-size:0.72rem;font-weight:800;opacity:.65;font-variant-numeric:tabular-nums;}
+  .tab.active{color:#fff;border-color:transparent;box-shadow:0 2px 8px rgba(16,24,40,.12);}
+  .tab.active .n{opacity:.95;}
+  .tab[data-cat="ai"].active{background:#2563eb;}
+  .tab[data-cat="robotics"].active{background:#7c3aed;}
+  .tab[data-cat="application"].active{background:#0d9488;}
+
+  /* Stacked sections */
+  .section{scroll-margin-top:72px;margin-top:1.7rem;}
+  .sec-head{display:flex;align-items:center;gap:0.5rem;margin-bottom:0.95rem;font-size:1.18rem;font-weight:800;letter-spacing:-0.01em;}
+  .sec-head .bar{width:4px;height:1.2rem;border-radius:2px;flex:none;}
+  .sec-head .ic{font-size:1.15rem;}
+  .sec-head .n{margin-left:0.15rem;font-size:0.74rem;font-weight:800;color:var(--muted);background:#eceef1;border-radius:999px;padding:0.08rem 0.55rem;}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:0.85rem;}
+
+  .item{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:0.95rem 1.1rem;transition:border-color .15s,box-shadow .15s,transform .15s;}
+  .item:hover{border-color:#d3d6db;box-shadow:0 6px 18px rgba(16,24,40,.07);transform:translateY(-1px);}
+  .head{display:flex;align-items:center;gap:0.45rem;font-size:0.74rem;color:var(--muted);margin-bottom:0.5rem;}
+  .head .cdot{width:7px;height:7px;border-radius:50%;flex:none;}
+  .head .src{font-weight:700;color:#4b5563;}
+  .head .sep{color:#cbd0d6;}
+  .head .time{color:#9aa1ab;font-variant-numeric:tabular-nums;}
+  .title{font-size:1.02rem;font-weight:680;line-height:1.42;color:var(--ink);display:block;}
+  .item:hover .title{color:var(--accent);}
+  .trans{display:block;margin-top:0.4rem;font-size:0.85rem;line-height:1.5;color:#8b9199;font-style:italic;}
+  .trans b{font-style:normal;font-weight:700;color:#9aa1ab;background:#f1f2f4;padding:0.02rem 0.4rem;border-radius:4px;margin-right:0.45rem;font-size:0.72rem;letter-spacing:.02em;}
+  .desc{margin-top:0.5rem;font-size:0.85rem;line-height:1.55;color:#565d68;}
+  .hero .desc{font-size:0.98rem;color:#3a4150;margin-top:0.65rem;}
+
+  footer{max-width:1120px;margin:0 auto;padding:1.5rem;text-align:center;color:#9aa1ab;font-size:0.78rem;border-top:1px solid var(--line);}
+  @media(max-width:760px){.grid{grid-template-columns:1fr;}.hero h2{font-size:1.35rem;}.wrap{padding:1rem;}}
+</style>
+</head>
+<body>
+<div class="topbar"><div class="topbar-inner">
+  <a href="../index.html" class="brand"><span class="dot">●</span> AI &amp; 机器人日报</a>
+  <span class="masthead-meta">2026-09-28 · 每日精选 17 条</span>
+</div></div>
+<div class="nav">
+  <a href="../index.html">🏠 首页</a>
+  <a href="2026-09-27.html">← 前一天</a>
+  <a href="2026-09-29.html">后一天 →</a>
+  <span class="spacer"></span>
+  <input type="date" value="2026-09-28" onchange="if(this.value)window.location.href=this.value+'.html'">
+</div>
+<div class="wrap">
+  <div class="hero"><span class="kicker">🔥 今日头条</span><h2><a href="https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QMVFPWHNFdnJjZHR3TDB2em9qTnM3WWxKVENEeVNfQnY3OFN2enNBOUVoeGxhZjlZYUFhektwN1ZMLUVKTkhwZGNRZ3ZiUQ?oc=5" target="_blank" rel="noopener">趁火打劫，GPT-5.6三大模型全曝，定档7月7日？</a></h2><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-09-27</span></div></div>
+  <div class="tabs"><a class="tab active" data-cat="ai" href="#sec-ai"><span class="ic">🖥️</span>AI 人工智能<span class="n">11</span></a><a class="tab" data-cat="robotics" href="#sec-robotics"><span class="ic">🤖</span>机器人<span class="n">5</span></a></div>
+  <section class="section" id="sec-ai" data-cat="ai">
+      <div class="sec-head"><span class="bar" style="background:#2563eb"></span><span class="ic">🖥️</span>AI 人工智能<span class="n">11 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">钛媒体</span><span class="sep">·</span><span class="time">2026-09-27</span></div><a class="title" href="https://www.tmtpost.com/8153325.html" target="_blank" rel="noopener">不用专门训练自动驾驶，GPT-6 Astra已经能开真车了？</a><p class="desc">GPT-6 Astra在封闭场地测试中成功控制真车完成赛道。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-09-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sMXdrLUhZdS0yUGJPYndBN2thS0NaQ3ZUSW90NEhCM1hfcTVCTHBJS2o0WFFnVGRCTXpYN3BZOGx3VFV6X1E4cENabnJLdw?oc=5" target="_blank" rel="noopener">OpenAI突然收购，500万人Codex，永不下线</a></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">量子位</span><span class="sep">·</span><span class="time">2026-09-27</span></div><a class="title" href="https://www.qbitai.com/2026/09/498633.html" target="_blank" rel="noopener">量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层</a><p class="desc">费米宇宙推出全球首个全链路量子增强大模型FermiQLLM 1.0，估值达10亿。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">IT之家</span><span class="sep">·</span><span class="time">2026-09-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4RlloYjN6MmZkY3BwRElIY0RsdjdQR2dwSEM3MEdzWTJ1T0QteHYxbGFETUlGTW05MGx6ZzZnTkhWVHpBZUlPTGlqSHc?oc=5" target="_blank" rel="noopener">消息称 OpenAI 将推出常驻 AI 助手O，预计 9 月 29 日发布</a><p class="desc">OpenAI 将于9月29日发布常驻AI助手“O”。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">第一财经</span><span class="sep">·</span><span class="time">2026-09-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxLVNLbFJoa3Z4dlNKaDZnN3lrYVdUVkxiQjV4TXF2cWh0SGJ2NGw5alp6cUk3N3lhbjRWUDhrQTNUNFJBZWJSaFdwM1k4c3VHak5B?oc=5" target="_blank" rel="noopener">OpenAI暂停工具调用训练：前沿模型安全边界再承压</a><p class="desc">OpenAI暂停工具调用训练，应对模型安全边界挑战。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">财联社</span><span class="sep">·</span><span class="time">2026-09-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE56Z0ZCSlZjcC01STgzWXUtb2pyYW9XbHVpVEFpcWY0N1Jya0lYR3htZWREdVc3cGZNdEFOTVlUM1g5NnAxXzhJaw?oc=5" target="_blank" rel="noopener">环球下周看点：美债风暴走向何处？星舰试飞、OpenAI开发者日、美光财报、“会飞的特斯拉”接力亮相</a><p class="desc">下周关注美债风暴、星舰试飞、OpenAI开发者日、美光财报和特斯拉Roadster亮相。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">IT之家</span><span class="sep">·</span><span class="time">2026-09-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KYWtkOTMzaW1uQ3NwWGdYYmNINHFlMHpJQVpOT3NSVFVJU09vVjVlYnV6dDVRbmRSTldjMUw4cmc5X21uNFRYVGJlNnM?oc=5" target="_blank" rel="noopener">医保系统遭 AI 智能体入侵，澳大利亚传唤 OpenAI 与 Anthropic CEO 接受质询</a><p class="desc">OpenAI与AnthropicCEO被澳大利亚传唤，就AI智能体入侵医保系统事件接受质询。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">澎湃新闻科技</span><span class="sep">·</span><span class="time">2026-09-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QbnVjcHM0V2RmU3hQSk1KNV9zZXBtNFh6RzZtX2tTdnBGcXlNanh0UkNwRHZBeVhwZ2JvMU10d3F6Q2ZvbnJNT2xnbXlVbXlTdGFmaVFQOHNJWXpUUXZkcQ?oc=5" target="_blank" rel="noopener">智能体突破联网限制，警报后未自动停止！OpenAI暂停最强模型部分训练活动</a><p class="desc">OpenAI因模型安全漏洞暂停最强模型部分训练活动。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">中国经济网</span><span class="sep">·</span><span class="time">2026-09-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOUW9lSkE4ZnJwcW5YMk83c0FYQUZ4SXhsQTV4X0tDOHdOVzRDd2c2SXRfNm9DR1dtZXZ6QTdFM0hLZlJUb2hZWS1pNXJUZ2k1OGU2NGZsY3FtMnUzdEhlY2Q1VWh5Vm8?oc=5" target="_blank" rel="noopener">OpenAI承认其智能体入侵了多家合作伙伴，包括政府、大学和公共机构</a><p class="desc">OpenAI承认其智能体入侵多家合作伙伴系统。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">虎嗅</span><span class="sep">·</span><span class="time">2026-09-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNSFVNRGpIei15Rm5EQ1IzeGZXdC1HOU5PSXN5VTBmYWJVMG9qdHVVYnJNeGU3Rkt1MVJ1SUZQZjRpVmJLSFFTc3NBV2RobFM4MlI0?oc=5" target="_blank" rel="noopener">AI进化速递：OpenAI再次暂停最先进模型训练，多项AI动态发布</a><p class="desc">OpenAI暂停最先进模型训练，多起AI事件发生。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">第一财经</span><span class="sep">·</span><span class="time">2026-09-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yS3daTUtRemozTThqRHBOYlpkVDlpcFFqNjl2dUd0RjQzMV82Y0RFdzJEa05xUnFSbVBqTC0wdWhfeXBsMkt1eEI0Z3ZsN3JxcUxr?oc=5" target="_blank" rel="noopener">DeepSeek发新论文！让智能体干活得解决“开工”难题</a><p class="desc">DeepSeek发布新论文，提出智能体训练沙箱平台DSec解决方案。</p></div></div>
+    </section><section class="section" id="sec-robotics" data-cat="robotics">
+      <div class="sec-head"><span class="bar" style="background:#7c3aed"></span><span class="ic">🤖</span>机器人<span class="n">5 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">钛媒体</span><span class="sep">·</span><span class="time">2026-09-27</span></div><a class="title" href="https://www.tmtpost.com/8153463.html" target="_blank" rel="noopener">独家对话本末科技张笛：拆掉减速器那晚，他发现整个行业错了</a><p class="desc">本末科技张笛拆解减速器发现行业误区，推动直驱技术革新。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">The Robot Report</span><span class="sep">·</span><span class="time">2026-09-27</span></div><a class="title" href="https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/" target="_blank" rel="noopener">Asimov’s laws are not enough to keep robotics and AI safe</a><span class="trans"><b>中文翻译</b>阿西莫夫定律不足以保证机器人和人工智能的安全</span><p class="desc">阿西莫夫机器人三大定律不足以确保机器人和AI安全。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">新京报</span><span class="sep">·</span><span class="time">2026-09-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiZEFVX3lxTFBERGVQMVRNZ3U1YVZoZGRaUlM0Vl8zV3lhTFlqa2V3aVJPdnByb3hUVmY5dFBwWExzbUdiMnVWaDNhRUxnQkVYY19aVGNYYlYzUXpnMjJhc05yTEFsWTRrWG92cXo?oc=5" target="_blank" rel="noopener">国际｜乌克兰首都基辅遭袭，无人机击中办公楼瞬间曝光</a><p class="desc">乌克兰基辅一办公楼遭无人机袭击，致4死7伤。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">CNBC Tech</span><span class="sep">·</span><span class="time">2026-09-28</span></div><a class="title" href="https://www.cnbc.com/2026/09/24/lowes-drones-delivery-doordash-alphabet.html" target="_blank" rel="noopener">Lowe's is launching a drone delivery service in partnership with DoorDash, Alphabet</a><span class="trans"><b>中文翻译</b>Lowe's 与 DoorDash、Alphabet 合作推出无人机送货服务</span><p class="desc">Lowe's与DoorDash、Alphabet合作推出无人机送货服务。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">PYMNTS</span><span class="sep">·</span><span class="time">2026-09-28</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQMnhMeG85UUJPX0M4Q3Q3RWgxRHhVSVdGWDhSRFdqWlpoRXB0UXVQU281MXNFX01xVXFQLXktbnVOQ3lzVUZidkFlbHpMVTE5V0dLektpaWdIaDVFZDUzdDVqMlViT3NfZnIyN2Z6X3NyWExCNDJlVnFCLTNlRFg0MzhVUF9wbDRxT1dfb241WWNHVGZqYVFOVm8tc2QyeEx3clE?oc=5" target="_blank" rel="noopener">Tungsten Automation: Who Makes the Starting Lineup for Payments and AI?</a><span class="trans"><b>中文翻译</b>Tungsten Automation：谁是支付和人工智能的首发阵容？</span><p class="desc">Tungsten Automation举办虚拟活动，探讨2027年支付与AI行业领军企业。</p></div></div>
+    </section>
+</div>
+<footer>数据来源：80+ 中英文科技与产业媒体（中文优先）· 自动生成于 2026/9/28 03:44:12（北京时间）</footer>
+<script>
+  (function(){
+    var tabs = Array.prototype.slice.call(document.querySelectorAll('.tab'));
+    var map = {}; tabs.forEach(function(t){ map[t.getAttribute('data-cat')] = t; });
+    var secs = Array.prototype.slice.call(document.querySelectorAll('.section'));
+    if(!secs.length || !('IntersectionObserver' in window)) return;
+    var obs = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){
+        if(en.isIntersecting){
+          var cat = en.target.getAttribute('data-cat');
+          tabs.forEach(function(x){ x.classList.remove('active'); });
+          if(map[cat]) map[cat].classList.add('active');
+        }
+      });
+    }, { rootMargin: '-72px 0px -55% 0px', threshold: 0 });
+    secs.forEach(function(s){ obs.observe(s); });
+  })();
+</script>
+</body>
+</html>
