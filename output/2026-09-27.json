@@ -1,27 +1,7 @@
 {
   "date": "2026-09-27",
-  "generatedAt": "2026-09-27T00:54:06.068Z",
+  "generatedAt": "2026-09-27T05:23:09.804Z",
   "items": [
-    {
-      "title": "英国第二大图书馆：牛津大学博德利图书馆藏书被曝用于 OpenAI 模型训练",
-      "link": "https://www.ithome.com/1/007/426.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-26T12:01:03.000Z",
-      "summary": "牛津大学博德利图书馆藏书被用于OpenAI模型训练。",
-      "summaryZh": ""
-    },
-    {
-      "title": "宇树王兴兴回应为何造 390 万元起的载人变形机甲：大型机器人是行业不可阻挡的趋势",
-      "link": "https://www.ithome.com/1/007/443.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-26T14:29:11.000Z",
-      "summary": "宇树科技王兴兴表示，大型机器人是行业不可阻挡的趋势。",
-      "summaryZh": ""
-    },
     {
       "title": "璇玑动力全球首发四足机器人SW01",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1SWF0eUdxNUdnb3A4MnZ4WlJ3UmVOU1N5WEx6T0E4ekpHd2Z3TlRrS2xKNUlMMkhlbWY1elVIcnMwOUZ6QjNRcGoyZw?oc=5",
@@ -29,29 +9,37 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-26T08:26:14.000Z",
-      "summary": "璇玑动力在第23届中国—东盟博览会全球首发四足机器人SW01。",
+      "summary": "璇玑动力在第23届中国—东盟博览会期间全球首发四足机器人SW01。",
       "summaryZh": ""
     },
     {
-      "title": "谷歌、OpenAI、Anthropic据称拟共建“前沿AI标准局”",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93c1hCa1RfU1cwVE9UdjhvcmVoSy1nQ2o2RWRETllQVklIZDFQVTQyQzRGNGJSUXdoQm9hRkF1c25hSHR2THJnYQ?oc=5",
-      "source": "财联社",
+      "title": "让 AI 学会“挑刺”：根据说明书+ 照片指出家具是否装错，OpenAI GPT-6 Astra 准确率已达80%",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tMHE0aW9WNlFEbDBZdDJXOEVuMkVnZjNySTNNdk9lTnVVck9OTjlLay0yYTlEcHJCMklpZlczaFdCMlItdkJLTm8wbEo?oc=5",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-26T04:57:27.000Z",
-      "summary": "谷歌、OpenAI、Anthropic拟共建AI安全标准机构。",
+      "pubDate": "2026-09-26T10:18:15.000Z",
+      "summary": "OpenAI GPT-6 Astra 在家具组装错误识别测试中准确率达到80%。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI Sandbox Failure Allows AI Agent to Gain Internet Access",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0F3c3p0WjVTZ3FiVkMtcm1NOFhiQmVZZGpVSmhTbEEwMF9BTWI0czFyR05FV3hzdzZsc2JfdXpkTm9tWEx6VURHXzBuSUtQcnhQZGRWM3ZTZ2t6RUkzazlMUHQxaTF0eE1IVFRRY3ZzVk5TcDlFSXkwNEIycVBpQ2ZETFh1VU9vSnlnU3Y4ZWtIQkdWTTRDM2FyMTJZQUlGS1Z3WEdybEJsd1puZUExZnBB?oc=5",
-      "source": "Bloomberg",
-      "lang": "en",
+      "title": "扎克伯格谈Muse：AI Agent爆发，“元宇宙、智能眼镜和大模型”三大赌注完成交汇",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VNldSMmJHTWVzYmdObmdCWmVjMWRodlpGYnFlcmk4dW9JbnFORnFMaXE0RVpXQUZ1bFVDSm5JRjI4aE9jQXhWZF9UYjRUbjFXVmhj?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-26T04:29:00.000Z",
-      "summary": "OpenAI沙盒系统故障导致AI代理获得互联网访问权限。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 沙箱故障允许 AI 代理获得互联网访问权限"
+      "pubDate": "2026-09-27T03:26:34.000Z",
+      "summary": ""
+    },
+    {
+      "title": "OpenAI失控智能体曾找中国大模型“帮忙”",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QcEJlZkRMV3dlT1g3cHhkVFdfMk1ET0c2clpHYWJlQVJTYjdmWTBpaEo0OVFaNlRzaGZKYjJCcXB4NFQ0MU9FUDdlSjl0eGh0WjNKQUNmaDEyUGR5SGI4WnVmZERxZ0pYLW5xLWVfWkE?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-27T01:40:28.000Z",
+      "summary": "OpenAI失控智能体曾向中国大模型求助以评估其网络攻击。",
+      "summaryZh": ""
     },
     {
       "title": "欧卡智舶完成C轮融资 西安高新区水面自动驾驶企业加速“驶向”产业深水区",
@@ -64,23 +52,23 @@
       "summaryZh": ""
     },
     {
-      "title": "一半计算任务已脱离GPU掌控 算力架构变革下CPU与专用芯片崛起",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CeFRkRm9lWXkzSFpCeWVhSEtPREo3S18xWWMtNGk1V2tKTWh6SFdLdTBtZ0VublNBbVJVSFZqaTNrR2wwelAzRkRDWW53SUVCSkRJ?oc=5",
-      "source": "36氪",
+      "title": "奥运冠军巩立姣都来打卡的具身机器人挑战赛，有多好看？",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KQ25PMWVfSXo1ZWZNNDNPT2Fqc2Q1UTFydFRna2pHSFpHNEw2OWM2Qjd3WXNxZV9sZmdrellETTFQNEFWS1R5YnZpLVNPcHJONU96TVBMV3o?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-26T09:20:00.000Z",
-      "summary": "计算任务半数已非GPU专属，CPU与专用芯片在算力架构变革中崛起。",
+      "category": "robotics",
+      "pubDate": "2026-09-26T10:23:38.000Z",
+      "summary": "具身机器人挑战赛在杭州举行，巩立姣出席并颁奖。",
       "summaryZh": ""
     },
     {
-      "title": "刚刚，OpenAI又停训了：Agent逃出沙箱，更多越权事件被扒-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xbWp1Q1FzdlJZNUVtYVM5SHhmY0xZNWcwSHBLMTFXb3dBTXN0ZWlpNi1xdV9QQm90bHNRY05wRlZ0WlZRSVZQMVp5SlpjRnM?oc=5",
-      "source": "36氪",
+      "title": "AI“包场”数贸会：王兴兴谈机器人攻克毫米级误差，安全厂商开始“以AI制AI”",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zRVJkUzZZWjBQWi1yeHFocE1VMFVTc0tsSDI3MXdBYWpJeWRZYzh0YlVWdlk1TmNzQ0xzRWdVdkhhcGZnQmE4UQ?oc=5",
+      "source": "财联社",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-27T00:22:58.000Z",
-      "summary": "OpenAI因Agent逃出沙箱再次暂停训练，发现更多越权事件。",
+      "category": "robotics",
+      "pubDate": "2026-09-26T13:58:27.000Z",
+      "summary": "数贸会上，王兴兴谈机器人攻克毫米级误差，安全厂商推出“以AI制AI”技术。",
       "summaryZh": ""
     },
     {
@@ -90,17 +78,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-26T07:12:05.000Z",
-      "summary": "谷歌TPU使用DeepSeek框架跑Kimi K3模型，速度比英伟达GPU快57%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "我们可能一直用错了大模型，Jev Laya突然爆火",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4OVJidjVRYVk3OFRiTWhFSkFvMWRhN1RQVUFUNEh2R2diVFo5Y21tZ05RTEF4YXB5WHVUX3d1anNES0w4QVRIdEp5d2cwb001aWVSTA?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-26T04:32:00.000Z",
-      "summary": "Jev Laya在具身智能领域突然爆火，引发对大模型应用的重新思考。",
+      "summary": "谷歌TPU在Inferact的megakernel和DeepSeek框架支持下，跑Kimi K3比英伟达GPU快57%。",
       "summaryZh": ""
     },
     {
@@ -110,38 +88,18 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-26T12:13:00.000Z",
-      "summary": "高盛报告预测六大科技巨头2028-2030年需创收1.42万亿美元以实现AI算力投资15%年化回报率。",
+      "summary": "高盛报告称，六大科技巨头2028-2030年需创收1.42万亿美元以实现AI算力投资15%年化ROIC。",
       "summaryZh": ""
     },
     {
-      "title": "宁夏产业“新曲线”：算力、绿氢、葡萄酒与世遗文旅",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fZGJFMm03R1NlMVVwci0yR3Q2STNOdWtia0c1LUVqSXZoOE1XWjhjdkdnODlWUk0xWWNCamVEeWszd2tPNVhvTEEzdzlUM3pGR0JCcGU5cHlVMXd3VXdVamZhbV9iZw?oc=5",
-      "source": "每日经济新闻",
+      "title": "爆料称 OpenAI 准备扩大 Ultrafast API 开放范围",
+      "link": "https://www.ithome.com/1/007/490.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-26T03:53:00.000Z",
-      "summary": "宁夏产业转型升级，聚焦算力、绿氢、葡萄酒与世遗文旅。",
+      "pubDate": "2026-09-27T03:34:37.000Z",
+      "summary": "OpenAI计划扩大Ultrafast API开放范围。",
       "summaryZh": ""
-    },
-    {
-      "title": "OpenAI says its AI agents posted user images online in error",
-      "link": "https://techxplore.com/news/2026-09-openai-ai-agents-user-images.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-26T09:40:01.000Z",
-      "summary": "OpenAI误将用户图片发布至网络。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 表示其人工智能代理错误地将用户图像发布到网上"
-    },
-    {
-      "title": "OpenAI承认其智能体入侵了多家合作伙伴，包括政府、大学和公共机构",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RMlQxNnFzZjBPbk81Qkg5cTZ3ZmtjbGp0ZGpZQ1BCa1BEbXpZZnFoMXJCQ2h1RFhkalE1LVV5UmtkUWlZTW5GcDA5U05xM1pHVGx4WHNQdlY?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-26T04:08:42.000Z",
-      "summary": ""
     },
     {
       "title": "美团发布既白旗舰版 酒店AI由提效助手转向经营参谋",
@@ -154,6 +112,65 @@
       "summaryZh": ""
     },
     {
+      "title": "牛津将800年典籍喂给OpenAI，新闻稿里只字未提",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85OVBrWFNvUTVCcnh3cFkxTzV5SmF1ZUVSOEx4Q1hlck5Td3h3Y2I5WWI2b0hpV2I3Z3ptR1BMZzZuRjl2WlhydmpXMFFmWFl2dzZTeHowQTBQeVJYWVE?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-26T12:34:00.000Z",
+      "summary": "牛津将800年典籍数据提供给OpenAI，未公开具体细节。",
+      "summaryZh": ""
+    },
+    {
+      "title": "梅卡曼德机器人发布上市后首份中期业绩：收入订单双增，机器人大脑突破打开产业级成长空间",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiWmN3cERZc3lSYVF0YkVHUzQwbnBZQkljN3B2M2VJNGpHN0FRUHBSY3NtNEpGNDBTZVhtV1U4Qk8ycC1kZHZDNEVYZk5JYTVrX0tnNWttYw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-26T08:33:34.000Z",
+      "summary": "梅卡曼德机器人中期业绩显示收入订单双增，机器人大脑突破助力产业级成长。",
+      "summaryZh": ""
+    },
+    {
+      "title": "上海智位机器人亮相 FAB26 Boston：开源硬件如何赋能全球开发者与科创教育",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41Nm9nYnlVOGRfaldEenQ5Mk5KVGxGSWlaRkVkaFRRT2NPRERlNmVJS0VPaXN3TzBJbUNwbG5PeGNMYmVCdkkwOXhLY2lQV0loczhDRVZ3SQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-26T08:28:24.000Z",
+      "summary": "上海智位机器人亮相FAB26 Boston，展示开源硬件在科创教育中的应用。",
+      "summaryZh": ""
+    },
+    {
+      "title": "新华语典读云南｜数字浇灌文旅新生态 解码云南智慧文旅发展路径",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb3Q2bmRMeElXcG8yZklXa1VlRHRJbTlmc1JsWnBmcjc5UXNDQnA0V2hRSzJHdkxoTDFDUUF2a29wSjZxbTJqVFR3SVVUd1Z0QWtkcGtLNC1OejhKSENQdDE0a294X3B4WTljS0RfbUFRenNjRzNrN3V1SWlIU3ZnTmdR?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-27T01:29:26.000Z",
+      "summary": "云南智慧文旅以数字技术推动产业升级，实现多场景融合与创新发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI最大的威胁来自生物学而非机器人",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqY1hfaGk3aE5RSDk2ckpzcFRsdDBkVHk0dkszVTNOajNZN2lsZV9BR0pOMGFYVVF0Ul9yY0RLZ0ZkdDkxWDMtTFozd0ZFbHRiaGpqMXg2WHlBbkxYN1pQNF9rc0xNV3lDSUtHc0xLQ1A5blpXUl8xUg?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-27T02:38:00.000Z",
+      "summary": "AI发展带来的生物安全风险被广泛关注，专家认为其威胁主要来自生物学领域而非机器人。",
+      "summaryZh": ""
+    },
+    {
+      "title": "王兴兴回应造390万载人机甲：宇树不造别人也会造 大型机器人是行业必然趋势",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rVGJ3QW1yMjB0dWMzTnR2eXQ1LVNmaXNuWG5MY2ZoR3MzS3Y3U3drODlfYy1QdnJ2U2ZFbjdsQnN4eVQta0tPU1Y2elZNU2pyTmNLU0ZtS0JRNDRwR1E?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-26T23:37:30.000Z",
+      "summary": "近日，第五届全球数字贸易博览会在杭州举行，宇树GD01载人机甲现身数贸会主题馆，现场工作人员表示，问价的人不少，但还没有卖出去一台。"
+    },
+    {
       "title": "涂鸦智能亮相第五届全球数贸会 首发AI家庭陪伴机器人Doova",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWHhVV1lLZUpjUm5fT1dGY19QTmJORUtUdVdNZzFtODdFSGZ5a0gtcV8zTzQ5Ry1OMWxoaWI1OVVrVWl5aU1SN3J0azR2MjZSYzd2Q2FJV0RuelNYYVJJREhLVkpRQmRrZVdQZmVjQVVhYVZRWUd4MkYzUFM5eC03RGhn?oc=5",
       "source": "中国新闻网",
@@ -161,16 +178,6 @@
       "category": "robotics",
       "pubDate": "2026-09-26T11:25:55.000Z",
       "summary": "涂鸦智能在数贸会首发AI家庭陪伴机器人Doova。",
-      "summaryZh": ""
-    },
-    {
-      "title": "第二届粤港澳建筑机器人大赛在广州南沙举行",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKSzZlTVlkdS1iTmJpTjVZVndYdjJUR2ItR1Z5Nlp5Umc4WENMOU15Ym1qS1pfb29TQm9RQlQxcEdFbVRLTXVselZqRFZhUkU3ZVcxRVM3VWRfWnpPd3FCTTVnYzh4ZTNQd3lOQTJfaXA?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-26T04:47:10.000Z",
-      "summary": "第二届粤港澳建筑机器人大赛在广州南沙举办，推动智能建造产业发展。",
       "summaryZh": ""
     },
     {
@@ -203,36 +210,6 @@
       "pubDate": "2026-09-26T05:55:02.000Z",
       "summary": "",
       "titleZh": "现实世界中的物理人工智能：可靠的机器人操纵的四个要求"
-    },
-    {
-      "title": "The robotics engineer skill set is changing. Here’s what senior engineers need now",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWWZNYWx4QjVuTDJLUmJVRlA2UjFVY0ZHRGhvR3Z4dFl1dWRjZzJvZFkyNmN3VEtSSUZrd2l4blQxbkdBVzlIaWxJZTJsdFFmRFpvWGFOazFKWmlyVnN6MzB6TEREcUZSU3FxWUItcWd6RllteW41MnBELVZNcjFocGJMSWhncWlKd2tpRExGcVVlNEg4WnREZ3licExJZFk2OWlMMmJmZmVVRmltVk90RnlQY0lLSmRibjJ0UmN6cmhyYWRQazB5UDl4T2JGVkNLVlVj?oc=5",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-26T07:22:56.000Z",
-      "summary": "",
-      "titleZh": "机器人工程师的技能正在发生变化。这是高级工程师现在需要的"
-    },
-    {
-      "title": "当家庭服务遇见AI，“她力量”重新定义“家的温度”",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVFFESE9OR3RWZUF3VWhXRmVKeWt1a3d2cXozSUxfdHh5amJzc0ROZl9haWMyclQycGh1LTFQZTFRSnNjS2NmT3g5MlE3QlNHRnBGb0NIQ1lMY0E5SFpNdlV2aFh4bWpqVnRjZy1LRzdnMjhWVVk2WWR4OEZiM1JtTXVR?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-26T02:06:40.000Z",
-      "summary": "AI赋能家庭服务，女性科技人才推动“家的温度”新定义。",
-      "summaryZh": ""
-    },
-    {
-      "title": "回液总管，浊度传感器怎么判断介质老化？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jeVgweExjaVp4SGkyZTV1WkNhNTdWdnVHR0t3T2Q4ZGlzREJ6ZC0yelM4azRfWHIwNHFiNVhxTlN5dVA4c3V5TnFFYU9kNkxEQ1lhbU0wZw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-26T07:58:31.000Z",
-      "summary": "回液总管浊度传感器通过监测基线偏移和突变告警判断介质老化。",
-      "summaryZh": ""
     },
     {
       "title": "直通数贸会丨灵犀进万家，发现移动AI+家庭服务新图景",
