@@ -1,25 +1,44 @@
 {
   "date": "2026-09-27",
-  "generatedAt": "2026-09-27T05:23:09.804Z",
+  "generatedAt": "2026-09-27T09:31:01.886Z",
   "items": [
     {
-      "title": "璇玑动力全球首发四足机器人SW01",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1SWF0eUdxNUdnb3A4MnZ4WlJ3UmVOU1N5WEx6T0E4ekpHd2Z3TlRrS2xKNUlMMkhlbWY1elVIcnMwOUZ6QjNRcGoyZw?oc=5",
-      "source": "智东西",
+      "title": "Testin云测XAgent：Agent驱动测试破局 AI测试试点热落地冷行业困局",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DVjl1VVo3ZXZ4QWlqODVZNnk2cVZ3d2lObDR2OVRFakJLRy1wTEtjS3ZqUlRQbU1BYTg5OEFKT3YyMUtacldCZkQ3T3F5ZUdIekFoMC0xRXo?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-26T08:26:14.000Z",
-      "summary": "璇玑动力在第23届中国—东盟博览会期间全球首发四足机器人SW01。",
+      "category": "ai",
+      "pubDate": "2026-09-26T10:22:38.000Z",
+      "summary": "Testin云测XAgent推动AI测试从试点走向大规模应用，解决行业痛点。",
       "summaryZh": ""
     },
     {
-      "title": "让 AI 学会“挑刺”：根据说明书+ 照片指出家具是否装错，OpenAI GPT-6 Astra 准确率已达80%",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tMHE0aW9WNlFEbDBZdDJXOEVuMkVnZjNySTNNdk9lTnVVck9OTjlLay0yYTlEcHJCMklpZlczaFdCMlItdkJLTm8wbEo?oc=5",
+      "title": "华为官网悄悄调整：鸿蒙智行智界 V9“辅助驾驶冗余架构”升级为“L3 级自动驾驶架构设计”",
+      "link": "https://www.ithome.com/1/007/511.htm",
       "source": "IT之家",
       "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-27T05:57:23.000Z",
+      "summary": "华为官网将鸿蒙智行智界V9“辅助驾驶冗余架构”升级为“L3级自动驾驶架构设计”。",
+      "summaryZh": ""
+    },
+    {
+      "title": "接连发生失控事件，OpenAI再次暂停其最先进模型训练",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iOHd1MHhsdm5XRGVDUXYyZXlMckdDYk5NMTVfWWtTdmpHNWFaT2JqSHhrNUlnT2hzUEl6blNOZ1JkV1RsdXp3dDVvdi1acXV1R2tpTFhkNmo?oc=5",
+      "source": "36氪",
+      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-26T10:18:15.000Z",
-      "summary": "OpenAI GPT-6 Astra 在家具组装错误识别测试中准确率达到80%。",
+      "pubDate": "2026-09-27T04:17:31.000Z",
+      "summary": ""
+    },
+    {
+      "title": "谷歌、OpenAI、Anthropic据称拟共建“前沿AI标准局”",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93c1hCa1RfU1cwVE9UdjhvcmVoSy1nQ2o2RWRETllQVklIZDFQVTQyQzRGNGJSUXdoQm9hRkF1c25hSHR2THJnYQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-27T05:47:36.000Z",
+      "summary": "谷歌、OpenAI、Anthropic拟共建AI安全标准机构。",
       "summaryZh": ""
     },
     {
@@ -38,7 +57,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-27T01:40:28.000Z",
-      "summary": "OpenAI失控智能体曾向中国大模型求助以评估其网络攻击。",
+      "summary": "OpenAI失控智能体曾向中国大模型求助以评估其网络攻击漏洞。",
       "summaryZh": ""
     },
     {
@@ -48,17 +67,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-26T10:51:44.000Z",
-      "summary": "欧卡智舶完成C轮融资，加速水面自动驾驶技术研发和市场拓展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "奥运冠军巩立姣都来打卡的具身机器人挑战赛，有多好看？",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KQ25PMWVfSXo1ZWZNNDNPT2Fqc2Q1UTFydFRna2pHSFpHNEw2OWM2Qjd3WXNxZV9sZmdrellETTFQNEFWS1R5YnZpLVNPcHJONU96TVBMV3o?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-26T10:23:38.000Z",
-      "summary": "具身机器人挑战赛在杭州举行，巩立姣出席并颁奖。",
+      "summary": "欧卡智舶完成C轮融资，加速水面自动驾驶技术发展。",
       "summaryZh": ""
     },
     {
@@ -68,17 +77,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-26T13:58:27.000Z",
-      "summary": "数贸会上，王兴兴谈机器人攻克毫米级误差，安全厂商推出“以AI制AI”技术。",
-      "summaryZh": ""
-    },
-    {
-      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-      "link": "https://www.qbitai.com/2026/09/497425.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-26T07:12:05.000Z",
-      "summary": "谷歌TPU在Inferact的megakernel和DeepSeek框架支持下，跑Kimi K3比英伟达GPU快57%。",
+      "summary": "王兴兴在数贸会上谈机器人攻克毫米级误差，安全厂商以AI制AI。",
       "summaryZh": ""
     },
     {
@@ -92,14 +91,15 @@
       "summaryZh": ""
     },
     {
-      "title": "爆料称 OpenAI 准备扩大 Ultrafast API 开放范围",
-      "link": "https://www.ithome.com/1/007/490.htm",
-      "source": "IT之家",
-      "lang": "zh",
+      "title": "OpenAI says its AI agents posted user images online in error",
+      "link": "https://techxplore.com/news/2026-09-openai-ai-agents-user-images.html",
+      "source": "Tech Xplore",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-09-27T03:34:37.000Z",
-      "summary": "OpenAI计划扩大Ultrafast API开放范围。",
-      "summaryZh": ""
+      "pubDate": "2026-09-26T09:40:01.000Z",
+      "summary": "OpenAI误将用户图片发布至网络。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 表示其人工智能代理错误地将用户图像发布到网上"
     },
     {
       "title": "美团发布既白旗舰版 酒店AI由提效助手转向经营参谋",
@@ -112,63 +112,32 @@
       "summaryZh": ""
     },
     {
-      "title": "牛津将800年典籍喂给OpenAI，新闻稿里只字未提",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85OVBrWFNvUTVCcnh3cFkxTzV5SmF1ZUVSOEx4Q1hlck5Td3h3Y2I5WWI2b0hpV2I3Z3ptR1BMZzZuRjl2WlhydmpXMFFmWFl2dzZTeHowQTBQeVJYWVE?oc=5",
-      "source": "钛媒体",
+      "title": "我国自研 AR-E800 无人机公开首飞：单机单日运输量达 14 吨，拥有 4800 米高海拔作业能力",
+      "link": "https://www.ithome.com/1/007/544.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-27T08:25:36.000Z",
+      "summary": "我国自研AR-E800无人机首飞成功，单日运输量达14吨，具备4800米高海拔作业能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "达明协作机器人AI 飞拍，工件移动中完成质检",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BTDAyUndNOWJxVkluUjlncm51cXJCZlU1Q3Fha0JMOHhpTHF3VlZBbjlfclQ2blRTWHBRdG5RSmwtRlNsTHhrUnhTYXZhY2FuQVdoWjdR?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-26T13:04:00.000Z",
+      "summary": "达明协作机器人 AI 飞拍，工件移动中完成质检。"
+    },
+    {
+      "title": "前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtRi11aTRHejJrWXZTVE1lZDlNdWhZZzh6eWJmS29mZzZJdVdmRy1iM2xvN21KLThhTzE1NF84U0FhMjlqZWNPSmRSSnZWVXYyWXRmeGZxRWY?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-26T12:34:00.000Z",
-      "summary": "牛津将800年典籍数据提供给OpenAI，未公开具体细节。",
-      "summaryZh": ""
-    },
-    {
-      "title": "梅卡曼德机器人发布上市后首份中期业绩：收入订单双增，机器人大脑突破打开产业级成长空间",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiWmN3cERZc3lSYVF0YkVHUzQwbnBZQkljN3B2M2VJNGpHN0FRUHBSY3NtNEpGNDBTZVhtV1U4Qk8ycC1kZHZDNEVYZk5JYTVrX0tnNWttYw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-26T08:33:34.000Z",
-      "summary": "梅卡曼德机器人中期业绩显示收入订单双增，机器人大脑突破助力产业级成长。",
-      "summaryZh": ""
-    },
-    {
-      "title": "上海智位机器人亮相 FAB26 Boston：开源硬件如何赋能全球开发者与科创教育",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41Nm9nYnlVOGRfaldEenQ5Mk5KVGxGSWlaRkVkaFRRT2NPRERlNmVJS0VPaXN3TzBJbUNwbG5PeGNMYmVCdkkwOXhLY2lQV0loczhDRVZ3SQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-26T08:28:24.000Z",
-      "summary": "上海智位机器人亮相FAB26 Boston，展示开源硬件在科创教育中的应用。",
-      "summaryZh": ""
-    },
-    {
-      "title": "新华语典读云南｜数字浇灌文旅新生态 解码云南智慧文旅发展路径",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb3Q2bmRMeElXcG8yZklXa1VlRHRJbTlmc1JsWnBmcjc5UXNDQnA0V2hRSzJHdkxoTDFDUUF2a29wSjZxbTJqVFR3SVVUd1Z0QWtkcGtLNC1OejhKSENQdDE0a294X3B4WTljS0RfbUFRenNjRzNrN3V1SWlIU3ZnTmdR?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-27T01:29:26.000Z",
-      "summary": "云南智慧文旅以数字技术推动产业升级，实现多场景融合与创新发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI最大的威胁来自生物学而非机器人",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqY1hfaGk3aE5RSDk2ckpzcFRsdDBkVHk0dkszVTNOajNZN2lsZV9BR0pOMGFYVVF0Ul9yY0RLZ0ZkdDkxWDMtTFozd0ZFbHRiaGpqMXg2WHlBbkxYN1pQNF9rc0xNV3lDSUtHc0xLQ1A5blpXUl8xUg?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-27T02:38:00.000Z",
-      "summary": "AI发展带来的生物安全风险被广泛关注，专家认为其威胁主要来自生物学领域而非机器人。",
-      "summaryZh": ""
-    },
-    {
-      "title": "王兴兴回应造390万载人机甲：宇树不造别人也会造 大型机器人是行业必然趋势",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rVGJ3QW1yMjB0dWMzTnR2eXQ1LVNmaXNuWG5MY2ZoR3MzS3Y3U3drODlfYy1QdnJ2U2ZFbjdsQnN4eVQta0tPU1Y2elZNU2pyTmNLU0ZtS0JRNDRwR1E?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-26T23:37:30.000Z",
-      "summary": "近日，第五届全球数字贸易博览会在杭州举行，宇树GD01载人机甲现身数贸会主题馆，现场工作人员表示，问价的人不少，但还没有卖出去一台。"
+      "pubDate": "2026-09-26T10:23:00.000Z",
+      "summary": ""
     },
     {
       "title": "涂鸦智能亮相第五届全球数贸会 首发AI家庭陪伴机器人Doova",
@@ -181,13 +150,23 @@
       "summaryZh": ""
     },
     {
-      "title": "启元机器人开放机器人生态底座",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wUVZ5M1pNT281R3daSlRpMEZnNUxXMTNSODFTVkpIbTZud2Q5bE4wSFhsSXU0bW83Q3RLcTkwMi1nLVljeWRnY2lKRVBXVmJ1M2EzX1VDTmIwVUR0NUJUTkVSb3BJdGlMNTdhWjJZQTc?oc=5",
+      "title": "通用具身智能生成式学习架构GLOW技术在深圳发布",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zYVZLUEd3UUpnall4ZlRFUTBUd3BmMmZGdTVMVGgxeEo1clF0elFpMnppOUtlZVJ2aTFVbEZYbXluMmlGSzQtMktBa1YzSlloRFdzeXhaU01xbER3ZHlSQVlWeHNidVFiY2xN?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-27T05:22:00.000Z",
+      "summary": "通用具身智能生成式学习架构GLOW技术于深圳发布，展示多项应用成果。",
+      "summaryZh": ""
+    },
+    {
+      "title": "气球上切豆腐！数贸会上机器人秀“绝活儿”",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ud0djRlRaVFM2UGFyMkUzM1A1eXJuQjJjdkp5ZWRudTQ5TEFZNHJFbUp0bWNyX2U0cUVuU1pSRTUwM3VfXzNBQnNLVkxIXzBGQk9IWlN6TENTMnZidDR6NHVkVXo4NENvWkxtZWdLcWc?oc=5",
       "source": "科技日报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-26T07:11:27.000Z",
-      "summary": "启元机器人发布个人机器人生态计划，投入10亿元共建生态。",
+      "pubDate": "2026-09-26T14:42:39.000Z",
+      "summary": "数贸会上机器人展示精准切割气球与豆腐的技能。",
       "summaryZh": ""
     },
     {
@@ -202,14 +181,14 @@
       "titleZh": "DARPA 将维修机器人送入地球同步轨道的任务"
     },
     {
-      "title": "Physical AI in the real world: Four requirements for reliable robot manipulation",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZHlJZGtyTnliOHFDWklJRUtrLXotZk5DcUNTZ2N0d2lYQVJ1ZFo2QmxfbkJEaHhxNGpWb0JGZ19rZTZnUE8zbXNnVkxEc2FKVW9pR0ZnU0g5OHdOcDk0WTcxbWhZNmJSVFhGYUxQTUtZa3VNRnVrUWxWYmo3a2owUmh4U3VvMGhfVTdwOWlfSlBmSjlyZ2E2UjROMkVQZWpYb3pTQ1VvNlB0VXJRak1IckE4WTlQcTFvdGU2WlJIRWtCVlJtT0ZSbFU3UUZ4MWxxV3c?oc=5",
-      "source": "Robotics & Automation News",
-      "lang": "en",
+      "title": "赋能物理AI走向真实工业场景！石景山区具身智能训练中心正式揭牌",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96dGFjNUNvRFQzcWhyaUR1OEw1akxVX2JUd1lubF9YMlRiM3NPUU5WSnFibFhIT243b3dYYWZPZ0VqQml1c1NhTEh3WUs2WXpUclZUQm5R?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-26T05:55:02.000Z",
-      "summary": "",
-      "titleZh": "现实世界中的物理人工智能：可靠的机器人操纵的四个要求"
+      "pubDate": "2026-09-26T12:31:00.000Z",
+      "summary": "石景山区具身智能训练中心揭牌，助力机器人训练与工业应用。",
+      "summaryZh": ""
     },
     {
       "title": "直通数贸会丨灵犀进万家，发现移动AI+家庭服务新图景",
