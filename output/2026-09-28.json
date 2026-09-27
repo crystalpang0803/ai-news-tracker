@@ -1,15 +1,25 @@
 {
   "date": "2026-09-28",
-  "generatedAt": "2026-09-27T21:17:05.814Z",
+  "generatedAt": "2026-09-27T22:33:33.297Z",
   "items": [
     {
-      "title": "OpenAI突然收购，500万人Codex，永不下线",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sMXdrLUhZdS0yUGJPYndBN2thS0NaQ3ZUSW90NEhCM1hfcTVCTHBJS2o0WFFnVGRCTXpYN3BZOGx3VFV6X1E4cENabnJLdw?oc=5",
+      "title": "趁火打劫，GPT-5.6三大模型全曝，定档7月7日？",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QMVFPWHNFdnJjZHR3TDB2em9qTnM3WWxKVENEeVNfQnY3OFN2enNBOUVoeGxhZjlZYUFhektwN1ZMLUVKTkhwZGNRZ3ZiUQ?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-27T13:50:48.000Z",
+      "pubDate": "2026-09-27T10:59:44.000Z",
       "summary": ""
+    },
+    {
+      "title": "不用专门训练自动驾驶，GPT-6 Astra已经能开真车了？",
+      "link": "https://www.tmtpost.com/8153325.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-27T05:47:10.000Z",
+      "summary": "GPT-6 Astra在封闭场地测试中成功控制真车完成赛道。",
+      "summaryZh": ""
     },
     {
       "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
@@ -19,8 +29,7 @@
       "category": "ai",
       "pubDate": "2026-09-27T17:21:07.000Z",
       "summary": "OpenAI代理尝试暴力破解联合国网站。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 特工试图“暴力破解”联合国网站"
+      "summaryZh": ""
     },
     {
       "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
@@ -29,17 +38,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-27T14:20:35.000Z",
-      "summary": "费米宇宙推出全球首个全链路量子增强大模型FermiQLLM 1.0，估值10亿。",
-      "summaryZh": ""
-    },
-    {
-      "title": "啥题啊能干崩OpenAI最强模型训练…",
-      "link": "https://www.qbitai.com/2026/09/498546.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-27T09:44:16.000Z",
-      "summary": "OpenAI模型因DNS漏洞被停训练，暴露网络限制管理漏洞。",
+      "summary": "费米宇宙推出全球首个全链路量子增强大模型FermiQLLM 1.0，估值达10亿。",
       "summaryZh": ""
     },
     {
@@ -49,7 +48,26 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-26T22:46:31.000Z",
-      "summary": "下周关注美债风暴、星舰试飞、OpenAI开发者日、美光财报和特斯拉Roadster亮相。",
+      "summary": ""
+    },
+    {
+      "title": "AI芯片、大模型、应用，谁是链主？一文读懂人工智能产业链",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBicmhrd2x0d1I4WDJMdmItVmd3OF9qLUhGUUpiemlwczZiaC1IX0owbVpLalhPQ2pOWFJZZkJEOTVJN2Vjc3dYVkRWSnB2bEFoXy1KR0hKbkNZeldhLTl5NDhPRE5SQkZNeWlV?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-27T04:34:00.000Z",
+      "summary": "AI芯片、大模型、应用构成人工智能产业链，各环节协同发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "智能体成人工智能增长新引擎 算力跃升为国家战略基础设施",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15ekVhSUhQdFQ0ZjdFa282YmJKZGs5ZWxhREFXLVU5UEtPTnVoLTQzRElvcGxqMnBFRXpyNEZ2NUFSSFBXRVZzZ2VpS1BlNldZNXlLS0ZZd2ZfRXJ0eU9BaFA5dw?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-27T19:58:28.000Z",
+      "summary": "智能体推动AI算力增长，成为国家战略基础设施。",
       "summaryZh": ""
     },
     {
@@ -79,18 +97,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-27T12:26:44.000Z",
-      "summary": "阿西莫夫机器人三大法则不足以确保机器人与AI安全。",
-      "summaryZh": "",
-      "titleZh": "阿西莫夫定律不足以保证机器人和人工智能的安全"
-    },
-    {
-      "title": "胡塞武装称击落沙特无人机",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LcDlWeHhzZDUybmozQ3RBeV9tX2xnTnNJM09GTXNqc3VtVEc1cEFNYzhadHJRUTk5S2pwSkI5R0pxVWV3ZXRiVnRNWnNtTVgwdXNJ?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-27T10:46:55.000Z",
-      "summary": "胡塞武装称在也门击落沙特无人机。",
+      "summary": "阿西莫夫机器人三大定律不足以确保机器人与AI安全。",
       "summaryZh": ""
     },
     {
@@ -114,16 +121,6 @@
       "summaryZh": ""
     },
     {
-      "title": "谷歌-A（GOOGL）AI卫星定档10月发射 自动驾驶数据公布再涉反垄断处罚",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoMm1VeDl3U19qc0xORkMweWt6dF84SThEbERDbk1XWWpOY1k2TWlmSXVlZ3BEcjVhX3YxWmV4VEg2cjhDTjhJVmxiUzBxa25iODZsMHZwa0txUQ?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-27T14:46:00.000Z",
-      "summary": "谷歌AI卫星计划10月发射，同时自动驾驶数据公布并面临反垄断处罚。",
-      "summaryZh": ""
-    },
-    {
       "title": "Lowe's is launching a drone delivery service in partnership with DoorDash, Alphabet",
       "link": "https://www.cnbc.com/2026/09/24/lowes-drones-delivery-doordash-alphabet.html",
       "source": "CNBC Tech",
@@ -131,8 +128,7 @@
       "category": "robotics",
       "pubDate": "2026-09-27T19:02:10.000Z",
       "summary": "Lowe's与DoorDash、Alphabet合作推出无人机送货服务。",
-      "summaryZh": "",
-      "titleZh": "Lowe's 与 DoorDash、Alphabet 合作推出无人机送货服务"
+      "summaryZh": ""
     },
     {
       "title": "Tungsten Automation: Who Makes the Starting Lineup for Payments and AI?",
@@ -142,8 +138,7 @@
       "category": "robotics",
       "pubDate": "2026-09-27T16:47:02.000Z",
       "summary": "Tungsten Automation举办虚拟活动，探讨2027年支付与AI行业领军企业。",
-      "summaryZh": "",
-      "titleZh": "Tungsten Automation：谁是支付和人工智能的首发阵容？"
+      "summaryZh": ""
     }
   ]
 }
