@@ -1,15 +1,16 @@
 {
   "date": "2026-09-28",
-  "generatedAt": "2026-09-27T23:50:51.126Z",
+  "generatedAt": "2026-09-28T01:12:39.316Z",
   "items": [
     {
-      "title": "趁火打劫，GPT-5.6三大模型全曝，定档7月7日？",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QMVFPWHNFdnJjZHR3TDB2em9qTnM3WWxKVENEeVNfQnY3OFN2enNBOUVoeGxhZjlZYUFhektwN1ZMLUVKTkhwZGNRZ3ZiUQ?oc=5",
-      "source": "36氪",
+      "title": "Anthropic Claude Sonnet 5.5 模型偷跑，实测碾压 GPT-6 Sol、直逼 Astra",
+      "link": "https://www.ithome.com/1/007/650.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-27T10:59:44.000Z",
-      "summary": ""
+      "pubDate": "2026-09-28T01:10:40.000Z",
+      "summary": "Anthropic Claude Sonnet 5.5 模型性能超越 GPT-6 Sol，逼近 Astra。",
+      "summaryZh": ""
     },
     {
       "title": "不用专门训练自动驾驶，GPT-6 Astra已经能开真车了？",
@@ -22,24 +23,24 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-27T17:21:07.000Z",
-      "summary": "OpenAI代理尝试暴力破解联合国网站。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 特工试图“暴力破解”联合国网站"
-    },
-    {
-      "title": "OpenAI突然收购，500万人Codex，永不下线",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sMXdrLUhZdS0yUGJPYndBN2thS0NaQ3ZUSW90NEhCM1hfcTVCTHBJS2o0WFFnVGRCTXpYN3BZOGx3VFV6X1E4cENabnJLdw?oc=5",
+      "title": "Grok Bot、Muse刚火，ChatGPT就坐不住了-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zZjF5MlZPUS1paXhOb2ZqMmdOQ0ZzN2huQ0pSc2dtcF85dTcxNkZ6RjlsZmFVbWVwRDJidFh1ZTFIQUZqWEozMjZtV25hUHM?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-27T13:50:48.000Z",
-      "summary": ""
+      "pubDate": "2026-09-28T00:40:20.000Z",
+      "summary": "ChatGPT等AI产品进化速度加快，功能不断拓展，开始拥有自己的电脑和并行处理能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+      "link": "https://www.qbitai.com/2026/09/498633.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-27T14:20:35.000Z",
+      "summary": "费米宇宙推出全球首个全链路量子增强大模型FermiQLLM 1.0，估值10亿。",
+      "summaryZh": ""
     },
     {
       "title": "啥题啊能干崩OpenAI最强模型训练…",
@@ -48,76 +49,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-27T09:44:16.000Z",
-      "summary": "OpenAI模型因DNS漏洞被停训练，暴露网络限制管理漏洞。",
+      "summary": "OpenAI模型训练因DNS漏洞被人为暂停。",
       "summaryZh": ""
     },
     {
-      "title": "消息称 OpenAI 将推出常驻 AI 助手O，预计 9 月 29 日发布",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4RlloYjN6MmZkY3BwRElIY0RsdjdQR2dwSEM3MEdzWTJ1T0QteHYxbGFETUlGTW05MGx6ZzZnTkhWVHpBZUlPTGlqSHc?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-27T05:59:44.000Z",
-      "summary": "OpenAI计划于9月29日发布常驻AI助手“O”。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI暂停工具调用训练：前沿模型安全边界再承压",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxLVNLbFJoa3Z4dlNKaDZnN3lrYVdUVkxiQjV4TXF2cWh0SGJ2NGw5alp6cUk3N3lhbjRWUDhrQTNUNFJBZWJSaFdwM1k4c3VHak5B?oc=5",
+      "title": "中信建投：阿里展示一站式AI方案，算力+应用双提升",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PbFliSjJDQlU0X2x5QU5IcmZld1U2OHVvVXo2SExYV040eWNQWTBVa2w4bUdsdjl1MFBna2ZwUXBCTDlGSm41ZWw3bWtqbElobXdz?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-27T10:21:06.000Z",
-      "summary": "OpenAI暂停工具调用训练，应对模型安全边界挑战。",
-      "summaryZh": ""
-    },
-    {
-      "title": "沙盒失守！AI智能体接连失控，OpenAI再次叫停前沿模型开发。",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SeGdvV0dfdWZaM3YzWWJ3VEVSSmFhUGNWMnRGRC1FWERXUmV5cWNGa3lub1VzZUZ5VWc4dDBZcFYxQnlZZUtic0pTU2Vjd0QtSHFv?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-27T04:14:24.000Z",
-      "summary": ""
-    },
-    {
-      "title": "医保系统遭 AI 智能体入侵，澳大利亚传唤 OpenAI 与 Anthropic CEO 接受质询",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KYWtkOTMzaW1uQ3NwWGdYYmNINHFlMHpJQVpOT3NSVFVJU09vVjVlYnV6dDVRbmRSTldjMUw4cmc5X21uNFRYVGJlNnM?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-27T05:35:36.000Z",
-      "summary": "OpenAI与AnthropicCEO被澳大利亚传唤，就AI智能体入侵医保系统事件接受质询。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智能体突破联网限制，警报后未自动停止！OpenAI暂停最强模型部分训练活动",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QbnVjcHM0V2RmU3hQSk1KNV9zZXBtNFh6RzZtX2tTdnBGcXlNanh0UkNwRHZBeVhwZ2JvMU10d3F6Q2ZvbnJNT2xnbXlVbXlTdGFmaVFQOHNJWXpUUXZkcQ?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-27T08:11:00.000Z",
-      "summary": "OpenAI因模型安全漏洞暂停最强模型训练活动。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI芯片、大模型、应用，谁是链主？一文读懂人工智能产业链",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBicmhrd2x0d1I4WDJMdmItVmd3OF9qLUhGUUpiemlwczZiaC1IX0owbVpLalhPQ2pOWFJZZkJEOTVJN2Vjc3dYVkRWSnB2bEFoXy1KR0hKbkNZeldhLTl5NDhPRE5SQkZNeWlV?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-27T04:34:00.000Z",
-      "summary": "AI芯片、大模型、应用构成人工智能产业链，各环节协同发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智能体成人工智能增长新引擎 算力跃升为国家战略基础设施",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15ekVhSUhQdFQ0ZjdFa282YmJKZGs5ZWxhREFXLVU5UEtPTnVoLTQzRElvcGxqMnBFRXpyNEZ2NUFSSFBXRVZzZ2VpS1BlNldZNXlLS0ZZd2ZfRXJ0eU9BaFA5dw?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-27T19:58:28.000Z",
-      "summary": "智能体推动算力成为国家战略基础设施，2026年中国智能算力规模预计达2576.5EFLOPS。",
+      "pubDate": "2026-09-28T00:12:40.000Z",
+      "summary": "阿里云栖大会展示一站式AI方案，算力与应用同步提升。",
       "summaryZh": ""
     },
     {
@@ -127,7 +69,28 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-27T10:38:20.000Z",
-      "summary": "张笛拆解减速器发现行业误区，推动本末科技直驱技术革新。",
+      "summary": "张笛拆解减速器后，发现直驱技术优于行业主流方案。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Asimov’s laws are not enough to keep robotics and AI safe",
+      "link": "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-27T12:26:44.000Z",
+      "summary": "阿西莫夫机器人三定律不足以确保机器人与AI安全。",
+      "summaryZh": "",
+      "titleZh": "阿西莫夫定律不足以保证机器人和人工智能的安全"
+    },
+    {
+      "title": "无人机送外卖，为什么覆盖范围总在几公里以内？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lYWV3SW8xY1N4aUJfY3BWQUs0T3JGc2Z6dDFvTkY5bmFYVHdYaks3X2dPcDJWTm9sVWx1WWZkMkZ1XzNhU09pdEotcFhRdEJ1MXB0cHZFTQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-27T02:25:34.000Z",
+      "summary": "无人机送外卖覆盖范围有限，因成本高、空域审批复杂及经济性未达标。",
       "summaryZh": ""
     },
     {
@@ -147,29 +110,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-27T14:46:00.000Z",
-      "summary": "谷歌AI卫星计划10月发射，同时自动驾驶数据公布并面临反垄断处罚。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
-      "title": "宇树不造别人也会造，大型机器人是必然趋势；GD01载人机甲现身数贸会，围观问价者众多，但一台没卖出去",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EbndUX2FlLVFYMHg1aVk0Z2ZWandESzZ0eTRjdXRUVWpHUERzNWF4UjFSNHp6c20xbjVhX01Tc2doT2N4MzVFUHg2dS16eXFjSUpFVk12TkRfS2Z2YmkwR3RKVmZIRjc2dmVUcWNR?oc=5",
+      "title": "中医药现代化提速：两项ISO国际标准发布，AI诊疗与灸疗机器人集中亮相",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wM1F6NlVzc1FpNDZSRE5yUzV5QmdrR29pMnFTN1RKU1RWVVFaeTlTNkYxXy16LXdCaTZwYzRiUXN0RktuNGZGUFh6SWZSTHJsV1lLcjd3?oc=5",
       "source": "腾讯新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-27T02:01:00.000Z",
-      "summary": "宇树GD01载人机甲亮相数贸会，围观者众多但未售出一台。",
+      "pubDate": "2026-09-27T05:13:00.000Z",
+      "summary": "中医药两项ISO标准发布，AI诊疗与灸疗机器人亮相，推动现代化进程。",
       "summaryZh": ""
     },
     {
-      "title": "iCandy: Better Robot Bartenders and More Tipsy Tech",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOckgzVktBNG9TcklVRHFBVFEzVnFrODZmYXdGZ01JSjQzcVlRcmhrMWttQ3F3OTF6MS00d0dycUFlQ0RPdk5oWjhwaDk1azhJbk95YUE0OGRGWGZwbkdqbzNzVXRaX3R1TDNiX1pFdE84NHotd3pyM0dfWXFZT3hiTFp0b1M3YWVzRFVLMzZ6NXA1TjVmSUZwbTVPRVRJNVFjdk93UmpqVWxqdHc0ZmdsdGFXUFh2bzFKZExuS3JGRVZ4XzN4Q2hmSExwOUFVeXAtb2E1b0JkdlZEbTBiTjd2OEE3MjY5VXc4QVRpMDhKcFdmSzlQMTRRT09Pc056aWZTTWdSaTlYOUphc1ltTW9LUjBqaHQ2Q2RITmlrX3AybC16dw?oc=5",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-27T00:42:07.000Z",
-      "summary": "iCandy推出更智能的机器人调酒师和更多醉酒科技。",
-      "summaryZh": "",
-      "titleZh": "iCandy：更好的机器人调酒师和更多醉酒技术"
+      "title": "新华语典读云南｜数字浇灌文旅新生态 解码云南智慧文旅发展路径",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3ZTVVbTN2VW5CdFhWbDFJR1UyV2Zhb1lBa2x5UktqeXBKSEVRb1V3SUFkTUNyMC1LNFNMZVF3c0w0Rnh0ZG1oVHhUWnI0NUtMcWdlZUN6TTdoaUJBX25id1dJd0dnSWFTcHBmMFNXTUpFMnBNUkJqamdR?oc=5",
+      "source": "新华社",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-27T01:29:26.000Z",
+      "summary": "云南智慧文旅以数字技术推动产业升级，实现从景区数字化到省级平台搭建的转变。",
+      "summaryZh": ""
     },
     {
       "title": "Lowe's is launching a drone delivery service in partnership with DoorDash, Alphabet",
@@ -178,7 +139,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-27T19:02:10.000Z",
-      "summary": "Lowe's与DoorDash、Alphabet合作推出无人机送货服务。",
+      "summary": "Lowe's与DoorDash、Alphabet合作推出无人机配送服务。",
       "summaryZh": "",
       "titleZh": "Lowe's 与 DoorDash、Alphabet 合作推出无人机送货服务"
     },
