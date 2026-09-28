@@ -1,15 +1,15 @@
 {
   "date": "2026-09-29",
-  "generatedAt": "2026-09-28T23:12:36.449Z",
+  "generatedAt": "2026-09-28T23:56:24.564Z",
   "items": [
     {
-      "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%，智能体编码性能反超 Opus 5.5",
-      "link": "https://www.ithome.com/1/008/072.htm",
-      "source": "IT之家",
+      "title": "英伟达发布开放智能体安全平台，保障智能体从测试到部署全流程安全",
+      "link": "https://zhidx.com/p/597942.html",
+      "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-28T22:47:29.000Z",
-      "summary": "Anthropic发布Sonnet 5.5，速度提升30%，编码性能超Opus 5.5。",
+      "pubDate": "2026-09-28T15:56:50.000Z",
+      "summary": "英伟达发布开放智能体安全平台，强化AI全流程安全。",
       "summaryZh": ""
     },
     {
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-28T12:18:18.000Z",
-      "summary": "“太空兔”模型引发热议，效果与GPT-6 Astra相近，免费开放使用。",
+      "summary": "“太空兔”模型引发热议，效果与GPT-6 Astra相近，10万人围观。",
       "summaryZh": ""
     },
     {
@@ -39,37 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-28T05:36:40.000Z",
-      "summary": "长隆乐园部署300台智元机器人，开启人机共存新时代。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Gemini 2.0发布！主打Agent+多模态，性能超1.5 Pro、可直接生成音频、图片",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oTnVhVEUycnBnQTItT0Vzbkg5Q0Y5MzJSMHEtR3ZJV0xkX3NmeTNYUm1kazZFWmN1RHRLTVc3OTE0eHpFQXZfZGJzZDg?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-28T13:19:29.000Z",
-      "summary": "Gemini 2.0发布，性能超越1.5 Pro，支持多模态输入输出。",
-      "summaryZh": ""
-    },
-    {
-      "title": "跟着Google出海：教你怎么落地Gemini",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wZmJkVFJabzFtN0I5LWg4ZnpSaGlIRVR3T3FFS3B0eVo4UHZ3Wmw4LUdZNnROMlZ1bnluRzZMZm9lSkE4ZHNGQ3hLV20?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-28T13:08:58.000Z",
-      "summary": "Google联合创始人Park推出“从模型到行动”AI工作坊，助开发者将Gemini多模态大模型落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "消息称小米大模型负责人罗福莉晋升至 22 级，已是小米职级体系最高级别",
-      "link": "https://www.ithome.com/1/008/056.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-28T14:53:15.000Z",
-      "summary": "小米大模型负责人罗福莉晋升至22级，成为小米职级体系最高级别。",
+      "summary": "长隆引入300台智元机器人，开启人机共存新时代。",
       "summaryZh": ""
     },
     {
@@ -79,7 +49,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-28T14:38:51.000Z",
-      "summary": "研究人员呼吁关注AI研发自动化风险，警惕“智能爆炸”风险。",
+      "summary": "OpenAI等机构研究人员呼吁关注AI研发自动化风险。",
       "summaryZh": ""
     },
     {
@@ -99,7 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-28T09:24:16.000Z",
-      "summary": "国产算力系列节目第二集将上线，聚焦超节点技术及其在AI发展中的价值。",
+      "summary": "国产算力系列节目第二集将探讨超节点技术及其在AI发展中的价值。",
       "summaryZh": ""
     },
     {
@@ -109,8 +79,26 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-28T03:25:39.000Z",
-      "summary": "OpenAI紧急推出个人AI助手，或于周二开发者大会亮相。",
+      "summary": "OpenAI紧急推出个人AI助手，或周二开发者大会亮相。",
       "summaryZh": ""
+    },
+    {
+      "title": "布局全球算力节点：GoodVision AI构建全域动态调度AI Compute Grid",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mNGRtU1oxMFlPS0tsb29PSEo2WjhiNGJLcEliMllZNDNCSEVoSUNRZWEzeEx6LWRiSEdnZ3JIdGFWSndXcjB3aThkN2tXQQ?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-28T17:32:09.000Z",
+      "summary": ""
+    },
+    {
+      "title": "阿里拟投3亿美元抢\"判卷权\"：大模型下半场，谁定义\"好\"，谁决定下一代-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02c052T2RUdFhjSTZseHc1ai03TC1MX0NIQW84clViU2ItLVVBSkZkcTVWdmtLeXczM0VWUmdXOU9CSHBCc0RJV3lEdkJ2R1pu?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-28T09:16:38.000Z",
+      "summary": ""
     },
     {
       "title": "赌具身智能没有未来的人，是没有未来的 | 对谈伯克利Allen Yang博士",
@@ -129,7 +117,37 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-28T05:50:00.000Z",
-      "summary": "中国具身智能发展需千万小时数据，行业正寻求突破。",
+      "summary": "中国具身智能发展需海量真实动作数据，行业正寻求突破数据采集难题。",
+      "summaryZh": ""
+    },
+    {
+      "title": "​领骏科技 杨文利：自动驾驶商业化时代已经到来",
+      "link": "http://www.geekpark.net/news/371381",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-28T18:11:44.000Z",
+      "summary": "领骏科技CEO杨文利认为自动驾驶商业化时代已到来。",
+      "summaryZh": ""
+    },
+    {
+      "title": "解放人类的高空机器人，如何撬开千亿美元的大市场？",
+      "link": "http://www.geekpark.net/news/371373",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-28T17:58:24.000Z",
+      "summary": "高空机器人技术进步推动特种机器人市场潜力巨大。",
+      "summaryZh": ""
+    },
+    {
+      "title": "从自动驾驶到具身智能，一套基础模型真的能通吃吗？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XaW5oOGhjampueG9QcEQwVTBOLURNWjg4cWdtcFViaWJmOWZYTWNXeF9jdFpOcXZrQkI4OUdhR2I5dGtqRTRvVENLWm1JMFlOV3I0ODdLVQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-28T01:35:18.000Z",
+      "summary": "基础模型在自动驾驶与具身智能领域应用前景待考。",
       "summaryZh": ""
     },
     {
@@ -139,7 +157,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-28T16:03:50.000Z",
-      "summary": "NASA正在排查国际空间站机械臂及其移动运输器的操作问题。",
+      "summary": "NASA正在排查国际空间站机械臂移动运输器的问题。",
       "summaryZh": ""
     },
     {
@@ -149,7 +167,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-28T13:22:53.000Z",
-      "summary": "Raise Robotics在RoboBusiness探讨扩大田间机器人规模。",
+      "summary": "Raise Robotics将在RoboBusiness探讨扩大田间机器人规模。",
       "summaryZh": ""
     },
     {
@@ -159,7 +177,27 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-28T05:15:45.000Z",
-      "summary": "中科建兴将亮相海峡老博会，展示AI+养老解决方案。",
+      "summary": "中科建兴携AI养老解决方案亮相第二届海峡老博会。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人大脑与身体分离商业化趋势加速",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBaFBlR1Jlb0dHOEtvX0ZTQWx2alFqUEpKSjlFX0cwdk15TkhQS0FzQlJsY0FPa1Ria2Rabl9welFnRllQUHgzR2xZaWRvWmUybHBfRw?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-28T10:42:50.000Z",
+      "summary": "机器人“大脑”与“身体”分离，AI先部署到成熟机械臂上商业化。",
+      "summaryZh": ""
+    },
+    {
+      "title": "当机器人站上网球场：AI叩响物理世界之门",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNmRXTjItS2R4dW9KcjIzd0o2MXFBeFpGVk9YV2JPZWRDM2QzLXNUcE9kS3QyeDY4eDBiV3Jua1NSVC1oYXc2dmlQRUd4TGs2aENHWFEyRnBvdFRxbUNoZnNvUzI1clBMRlB6eWJEMUtIZ2pvQWlLbUFnX0RPdm9uYXhVbGk0azg?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-28T08:33:35.000Z",
+      "summary": "网球机器人TENNIIX ULTRA MAX在比赛中展现高速多变球路，引发AI与体育结合新思考。",
       "summaryZh": ""
     },
     {
@@ -193,33 +231,13 @@
       "summaryZh": ""
     },
     {
-      "title": "智身科技B轮融资数亿元机器人量产与智能化双线提速",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NM1ViODUtalRiRnFjZnMzVmVSaEsxOFp4VUI1TWNhUHdsWDgzaDlYc2ptMlB6OWtJMEd4WTRSb2ZMREltMG5adE5qdUZqWGFubXQzLTRzbVBiRklIbWdWSEdpY1BZVkxUdGFCaVZXWkNtcEdRVEE?oc=5",
+      "title": "特斯拉团队长三角审厂背后：Optimus机器人量产“箭在弦上”？",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPcXVrajVGSERNVy1ybWdpYmctbVowMTIyYkNwblBpNlVPM2pRRlhpZUFVQWRHTGY3Y0ZKQUtfR3RDeElEM250VGQ5akdXcUl1cVMtUEM4ckg3YUd6dExFQ3FwUUxFanNpZmdkR0NQTGtFdHdXcWc?oc=5",
       "source": "中国经营网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-28T09:18:01.000Z",
-      "summary": "智身科技B轮融资数亿元，机器人量产与智能化加速。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Nvidia's new AI platform, Nor'easter flight delays, NFL's drone focus and more in Morning Squawk",
-      "link": "https://www.cnbc.com/2026/09/28/5-things-to-know-before-the-stock-market-opens.html",
-      "source": "CNBC Tech",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-28T12:22:35.000Z",
-      "summary": "Nvidia发布新AI平台，Nor'easter导致航班延误，NFL关注无人机应用。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Lowe’s test drives drone delivery",
-      "link": "https://www.freightwaves.com/news/lowes-test-drives-drone-delivery",
-      "source": "FreightWaves",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-28T12:44:44.000Z",
-      "summary": "Lowe's与DoorDash和Alphabet的Wing合作，测试无人机送货服务以提升当日送达能力。",
+      "pubDate": "2026-09-28T08:11:13.000Z",
+      "summary": "特斯拉团队在长三角审厂，Optimus机器人量产进入关键阶段。",
       "summaryZh": ""
     },
     {
