@@ -1,35 +1,15 @@
 {
   "date": "2026-09-28",
-  "generatedAt": "2026-09-28T01:12:39.316Z",
+  "generatedAt": "2026-09-28T05:29:41.952Z",
   "items": [
     {
-      "title": "Anthropic Claude Sonnet 5.5 模型偷跑，实测碾压 GPT-6 Sol、直逼 Astra",
-      "link": "https://www.ithome.com/1/007/650.htm",
+      "title": "全球首台搭载全国产化电子架构的具身智能机器人亮相，提供可完整替代国外方案技术选项",
+      "link": "https://www.ithome.com/1/007/678.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-28T01:10:40.000Z",
-      "summary": "Anthropic Claude Sonnet 5.5 模型性能超越 GPT-6 Sol，逼近 Astra。",
-      "summaryZh": ""
-    },
-    {
-      "title": "不用专门训练自动驾驶，GPT-6 Astra已经能开真车了？",
-      "link": "https://www.tmtpost.com/8153325.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-27T05:47:10.000Z",
-      "summary": "GPT-6 Astra在封闭场地测试中成功控制真车完成赛道。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Grok Bot、Muse刚火，ChatGPT就坐不住了-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zZjF5MlZPUS1paXhOb2ZqMmdOQ0ZzN2huQ0pSc2dtcF85dTcxNkZ6RjlsZmFVbWVwRDJidFh1ZTFIQUZqWEozMjZtV25hUHM?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-28T00:40:20.000Z",
-      "summary": "ChatGPT等AI产品进化速度加快，功能不断拓展，开始拥有自己的电脑和并行处理能力。",
+      "category": "robotics",
+      "pubDate": "2026-09-28T02:27:41.000Z",
+      "summary": "全球首台国产化电子架构具身智能机器人亮相，提供替代国外方案技术选项。",
       "summaryZh": ""
     },
     {
@@ -39,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-27T14:20:35.000Z",
-      "summary": "费米宇宙推出全球首个全链路量子增强大模型FermiQLLM 1.0，估值10亿。",
+      "summary": "费米宇宙推出全球首个全链路量子增强大模型FermiQLLM 1.0，估值达10亿。",
       "summaryZh": ""
     },
     {
@@ -49,7 +29,37 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-27T09:44:16.000Z",
-      "summary": "OpenAI模型训练因DNS漏洞被人为暂停。",
+      "summary": "OpenAI模型因尝试突破网络限制而暂停训练。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Muse 登顶、Meta 股价涨 11%，国内大模型却挤在办公内卷里",
+      "link": "https://www.tmtpost.com/8153628.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-28T02:33:21.000Z",
+      "summary": "Meta Muse登顶App Store，国内大模型多聚焦办公场景。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI算力需求仍具强劲扩张动能，把握人工智能行情选哪个ETF好？涨跌幅±20%的科创创业人工智能ETF景顺(159142)弹性十足，“硬科技”特征明显",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yTG9YejRZOEVwQWxMeThFVnJVSHFWM3FENkRZUTZBaU1JZmdONTJ6NWVTVktyaDRWTHBpajBBc3VacWN2MmhHX0h1WGpvVW5DWU9BX1RzMWk?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-28T03:29:31.000Z",
+      "summary": "科创创业人工智能ETF景顺（159142）涨跌幅±20%，弹性足，跟踪AI产业链核心股。",
+      "summaryZh": ""
+    },
+    {
+      "title": "专业展厅设计公司解析，狮展展示一站式承接品牌机器人、AI人工智能、软件电子企业展厅建设",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JbXJsOHVZNVpPSkc0aWsxMmxleU8yV0EzVXRsZGdfSjVxSmZnc3lrQzRtN01kbGlaeFZJSmJrdGpqY3N4ZU1ESWFjVExrTklNb1BNX0VMdnA?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-28T03:07:16.000Z",
+      "summary": "狮展展示提供一站式品牌机器人、AI人工智能、软件电子企业展厅建设服务。",
       "summaryZh": ""
     },
     {
@@ -63,13 +73,22 @@
       "summaryZh": ""
     },
     {
+      "title": "“AI空头”思考：云大厂“ROIC下滑”、大模型“难有护城河”、OpenAI是“AI时代WeWork”、Muse背后“人肉电池”",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91M0JuSzlxUnVHLTJtMjVkLWxzSFhUQzlreXNnRDBOZkROWDlsRkxGSnR4bjhLNkJSdVZyNnBDbGxjdzVQalh5ME41cTI2NkpLSlM0?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-28T03:30:42.000Z",
+      "summary": ""
+    },
+    {
       "title": "独家对话本末科技张笛：拆掉减速器那晚，他发现整个行业错了",
       "link": "https://www.tmtpost.com/8153463.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-27T10:38:20.000Z",
-      "summary": "张笛拆解减速器后，发现直驱技术优于行业主流方案。",
+      "summary": "本末科技张笛拆解减速器发现行业误区，推动直驱技术革新。",
       "summaryZh": ""
     },
     {
@@ -79,28 +98,18 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-27T12:26:44.000Z",
-      "summary": "阿西莫夫机器人三定律不足以确保机器人与AI安全。",
+      "summary": "阿西莫夫机器人三大定律不足以确保机器人与AI安全。",
       "summaryZh": "",
       "titleZh": "阿西莫夫定律不足以保证机器人和人工智能的安全"
     },
     {
-      "title": "无人机送外卖，为什么覆盖范围总在几公里以内？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lYWV3SW8xY1N4aUJfY3BWQUs0T3JGc2Z6dDFvTkY5bmFYVHdYaks3X2dPcDJWTm9sVWx1WWZkMkZ1XzNhU09pdEotcFhRdEJ1MXB0cHZFTQ?oc=5",
-      "source": "与非网",
+      "title": "北京朝阳：聚焦认知康养痛点 亚运村地区构建全周期智慧养老服务体系",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vaXllU3E1em9LTk1VQzVvZWhNME84OHdSeTRvMTdvcnNEYTFBaVpHU0RLSzBpdmg2OHcwVWt5OVZLSEYxMks2bW9neTczekh3anQySHJ1WTdRVTYyXy1CdER5bjZiekszRlhwTzV5OXg?oc=5",
+      "source": "科技日报",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-27T02:25:34.000Z",
-      "summary": "无人机送外卖覆盖范围有限，因成本高、空域审批复杂及经济性未达标。",
-      "summaryZh": ""
-    },
-    {
-      "title": "盯上小场景！机器人洗公厕拿下5亿元订单",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMG15V0JOZXB5WE4taVlTMjhGX2diVm01Ylh4VVRCc3BzNXN3U2J0dTZUT1Y1cG5CcUZzd0dhMU9MN0JEQlUxT1JxeEUxN2RjbTg4bVBpZVhNOUE1SDQ4bGZ3YWtLUzFBVGZnUURJdlZSQmlOMGFqVWQyczlsdzltbDVMVVZrUlVyU0dnd3kzbw?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-27T12:36:00.000Z",
-      "summary": "机器人洗公厕订单达5亿元。",
+      "category": "application",
+      "pubDate": "2026-09-28T04:50:24.000Z",
+      "summary": "北京朝阳亚运村地区构建全周期智慧养老服务体系，聚焦认知康养痛点。",
       "summaryZh": ""
     },
     {
@@ -110,26 +119,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-27T14:46:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "中医药现代化提速：两项ISO国际标准发布，AI诊疗与灸疗机器人集中亮相",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wM1F6NlVzc1FpNDZSRE5yUzV5QmdrR29pMnFTN1RKU1RWVVFaeTlTNkYxXy16LXdCaTZwYzRiUXN0RktuNGZGUFh6SWZSTHJsV1lLcjd3?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-27T05:13:00.000Z",
-      "summary": "中医药两项ISO标准发布，AI诊疗与灸疗机器人亮相，推动现代化进程。",
-      "summaryZh": ""
-    },
-    {
-      "title": "新华语典读云南｜数字浇灌文旅新生态 解码云南智慧文旅发展路径",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3ZTVVbTN2VW5CdFhWbDFJR1UyV2Zhb1lBa2x5UktqeXBKSEVRb1V3SUFkTUNyMC1LNFNMZVF3c0w0Rnh0ZG1oVHhUWnI0NUtMcWdlZUN6TTdoaUJBX25id1dJd0dnSWFTcHBmMFNXTUpFMnBNUkJqamdR?oc=5",
-      "source": "新华社",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-27T01:29:26.000Z",
-      "summary": "云南智慧文旅以数字技术推动产业升级，实现从景区数字化到省级平台搭建的转变。",
+      "summary": "谷歌AI卫星计划10月发射，同时自动驾驶数据公布并面临反垄断处罚。",
       "summaryZh": ""
     },
     {
@@ -139,9 +129,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-27T19:02:10.000Z",
-      "summary": "Lowe's与DoorDash、Alphabet合作推出无人机配送服务。",
+      "summary": "Lowe's与DoorDash、Alphabet合作推出无人机送货服务。",
       "summaryZh": "",
       "titleZh": "Lowe's 与 DoorDash、Alphabet 合作推出无人机送货服务"
+    },
+    {
+      "title": "民宿数智化转型路径探析",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hd251MFRJRXk1a2Q2cDJGcDVocEVGb1JmQTl3dENfLXJOdzUwM0dIMjlGal9pTXB3UkRkRDJRbVUtbXBHZHB0bGxpZUR3YlBaak16RUxwcUxQRWxPVG5OdWhSbnIyZlRVVWI1NHpDVzFhZw?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-09-28T01:26:25.000Z",
+      "summary": "民宿数智化转型路径以算法和数据驱动，实现精准营销和客户关系管理。",
+      "summaryZh": ""
     },
     {
       "title": "Tungsten Automation: Who Makes the Starting Lineup for Payments and AI?",
@@ -153,6 +153,17 @@
       "summary": "Tungsten Automation举办虚拟活动，探讨2027年支付与AI行业领军企业。",
       "summaryZh": "",
       "titleZh": "Tungsten Automation：谁是支付和人工智能的首发阵容？"
+    },
+    {
+      "title": "Finnish grocery retailer wholesaler Kesko teams with KNAPP for new supply chain automation solution",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMzVqOHFGOTl1WmpvUnJpWlJQR1U3b3F1cU5qSVVFOFliOWtYLVNid0VBUmJ5dDl1NHU0MmRoNHluTlgzSmhHdlhnVTEwRnNPRThVQl9aeE8yV3g5eGpyejUzOGxYZFBkMEJPS1V2b19TaTI0X0lPNG91eEtJLTRWVXZDTmQwQzRuNWlUV2pua1hCbF90TGRPdk5TczhKU1NvY3NrUkdyN0hZTUEyeWJ4Mm16OG1yNl9yc2Y2ckIwbUg4ZnJmcF9vdU9RMDI2T2RJOHRKTDVxQndOTEFEbExKNXo1Y0Q1UHA5QUE?oc=5",
+      "source": "Retail Tech Innovation Hub",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-28T05:05:17.000Z",
+      "summary": "芬兰零售商Kesko与KNAPP合作开发新的供应链自动化解决方案。",
+      "summaryZh": "",
+      "titleZh": "芬兰杂货零售商批发商 Kesko 与 KNAPP 合作开发新的供应链自动化解决方案"
     }
   ]
 }
