@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "generatedAt": "2026-09-29T20:42:35.376Z",
+  "generatedAt": "2026-09-29T22:10:46.439Z",
   "items": [
     {
       "title": "OpenAI 推出 ChatGPT 资料空间、动态页面、协作式幻灯片等 AI 协同工具",
@@ -29,8 +29,30 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-29T03:33:46.000Z",
-      "summary": "OpenAI因安全担忧紧急叫停GPT-6.1 Astra模型发布。",
+      "summary": "OpenAI紧急叫停GPT-6.1 Astra发布，因安全风险。",
       "summaryZh": ""
+    },
+    {
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-29T18:35:00.000Z",
+      "summary": "OpenAI未加入Nvidia反AI恶意代理联盟，但表示支持其工作。",
+      "summaryZh": "",
+      "titleZh": "这就是为什么 OpenAI 没有出现在 Nvidia 全行业范围内终结流氓 AI 代理的努力中"
+    },
+    {
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-29T17:45:51.000Z",
+      "summary": "OpenAI发布类似ChatGPT办公套件，挑战微软办公软件市场。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 与微软展开竞争，推出了一款非常像 ChatGPT 自己的办公套件的产品"
     },
     {
       "title": "璇玑动力全球首发四足机器人SW01",
@@ -49,7 +71,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-29T11:13:01.000Z",
-      "summary": "ARR作为大模型企业估值指标面临挑战，其可持续性受质疑。",
+      "summary": "ARR作为大模型企业指标，其可持续性和估值倍数引发市场关注。",
       "summaryZh": ""
     },
     {
@@ -59,7 +81,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-29T10:01:57.000Z",
-      "summary": "企业应用Agent面临模型与实际业务匹配难题。",
+      "summary": "企业应用Agent面临模型能力与实际业务匹配难题。",
       "summaryZh": ""
     },
     {
@@ -108,8 +130,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-29T03:08:50.000Z",
-      "summary": "机器人领域新闻、分析及研究动态丰富，涵盖技术、应用、市场及投资。",
-      "summaryZh": ""
+      "summary": "机器人技术领域动态：ForceN在RoboBusiness上讲解人形机器人力矩传感，Flourish One家用机器人面向忙碌父母发布，制造业自动化进展分析，Gecko Robotics与NVIDIA合作提升安全控制。",
+      "summaryZh": "",
+      "titleZh": "机器人新闻、分析与研究"
     },
     {
       "title": "一珂不停：浙江这个国家级AI“超级试验场”，会解锁怎样的文旅新玩法？",
@@ -127,7 +150,17 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-29T09:50:00.000Z",
-      "summary": "豆包AI成为山西文旅官方讲解员，提供专业讲解服务，助力智慧旅游发展。",
+      "summary": "山西文旅携手豆包AI，打造专业景区讲解服务，开启智慧旅游新体验。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国际具身智能技能大赛下月举行，检验AI在复杂物理环境下的实操本领",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UbGNkb2JRbTI1Y1ZhZ0xKenhsZmpDb0tUbktZQy1aS2FqVFIwOHRUdTI0NjRyNUFZS1VBTDdPWXMxR1VaWHdMczQteUFPQVFWN3ZEX3Yxd2dFYjhELXkwaw?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-29T14:03:00.000Z",
+      "summary": "国际具身智能技能大赛下月举行，测试AI在复杂环境下的实操能力。",
       "summaryZh": ""
     },
     {
@@ -141,13 +174,13 @@
       "summaryZh": ""
     },
     {
-      "title": "液冷机柜底部，漏液传感器怎么装？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fZ1VKTWxMRk11MG1sT1pmNUFvZE5CeE1odjdhanpPOUFoY3hqR0JXMTZZSG8zbWpkeEh4OFhGQS1wMHN2a3lNVlROVHRiMTUtMHNXNXpFRQ?oc=5",
+      "title": "固态激光雷达：重塑感知边界，定义智能未来",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01YWpCRG9qYjJFRUpWSDFBeDl4akttYUY2WjlLcHJidmxsY19Eam1iNkhFc25aYTVZM3FXb1cxT01ERUlyOHRsakFrWUczd0xMRmdFa0dZNA?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-29T08:48:01.000Z",
-      "summary": "液冷机柜底部漏液传感器安装需考虑位置、数量、固定、编码和联动。",
+      "pubDate": "2026-09-29T08:52:18.000Z",
+      "summary": "固态激光雷达技术革新，引领智能感知系统发展。",
       "summaryZh": ""
     },
     {
@@ -158,7 +191,8 @@
       "category": "robotics",
       "pubDate": "2026-09-29T13:49:00.000Z",
       "summary": "三大消费品公司探讨自动化、采购和物流风险。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "3 位 CPG 讨论自动化、采购和物流风险"
     },
     {
       "title": "Powered by muscle cells, a paper-thin robot swims through a watery maze",
@@ -168,7 +202,8 @@
       "category": "robotics",
       "pubDate": "2026-09-29T14:00:05.000Z",
       "summary": "肌肉细胞驱动，超薄机器人成功游过水迷宫。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "由肌肉细胞提供动力，薄如纸的机器人可以游过水迷宫"
     },
     {
       "title": "全国首个规模化具身智能主题街区落户山西长治",
@@ -177,7 +212,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-29T07:11:31.000Z",
-      "summary": "山西长治建成全国首个规模化具身智能主题街区。",
+      "summary": "山西长治打造全国首个规模化具身智能主题街区。",
       "summaryZh": ""
     }
   ]
