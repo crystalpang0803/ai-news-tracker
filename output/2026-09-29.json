@@ -1,17 +1,7 @@
 {
   "date": "2026-09-29",
-  "generatedAt": "2026-09-29T01:03:55.744Z",
+  "generatedAt": "2026-09-29T02:19:56.931Z",
   "items": [
-    {
-      "title": "内部测试发现安全隐患，消息称 OpenAI 取消发布 AI 模型 GPT‑6.1 Astra",
-      "link": "https://www.ithome.com/1/008/090.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-29T00:12:31.000Z",
-      "summary": "OpenAI因安全隐患取消发布AI模型GPT-6.1 Astra。",
-      "summaryZh": ""
-    },
     {
       "title": "人形机器人还没成熟，Physical AI先去找了机械臂",
       "link": "https://www.tmtpost.com/8154412.html",
@@ -19,17 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-29T00:37:00.000Z",
-      "summary": "Physical AI先于人形机器人成熟，开始商业化应用机械臂。",
-      "summaryZh": ""
-    },
-    {
-      "title": "从沙箱逃逸到 AI“蠕虫”，OpenAI 上线新站披露多起智能体失控事件",
-      "link": "https://www.ithome.com/1/008/079.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-28T23:21:48.000Z",
-      "summary": "OpenAI新站披露多起AI失控事件，包括沙箱逃逸和“蠕虫”攻击。",
+      "summary": "Physical AI先在成熟机械臂上商业化，不待全新人形机器人成熟。",
       "summaryZh": ""
     },
     {
@@ -43,13 +23,43 @@
       "summaryZh": ""
     },
     {
-      "title": "神秘模型“太空兔”火了，效果直逼GPT-6 Astra，10万人围观",
-      "link": "https://zhidx.com/p/597636.html",
+      "title": "人形机器人涌入主题公园：赛博NPC真能赚钱吗？",
+      "link": "https://www.tmtpost.com/8154399.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-29T02:09:00.000Z",
+      "summary": "人形机器人进入主题公园，成为降低成本和吸引游客的新尝试。",
+      "summaryZh": ""
+    },
+    {
+      "title": "麦岩智能：高端商务场景是清洁机器人的下一个蓝海",
+      "link": "http://www.geekpark.net/news/371430",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-29T01:48:34.000Z",
+      "summary": "麦岩智能看好高端商务场景清洁机器人市场潜力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "字节看上的新赛道：AMR 自主机器人",
+      "link": "http://www.geekpark.net/news/371396",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-29T01:13:08.000Z",
+      "summary": "字节跳动关注AMR自主机器人赛道，Syrius炬星出海日本积累经验后回国发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "350亿机器人3D视觉一哥，冲刺港交所！蚂蚁是股东",
+      "link": "https://zhidx.com/p/597621.html",
       "source": "智东西",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-28T12:18:18.000Z",
-      "summary": "“太空兔”模型引发热议，效果与GPT-6 Astra相近，免费开放使用。",
+      "category": "robotics",
+      "pubDate": "2026-09-28T09:33:11.000Z",
+      "summary": "奥比中光冲刺港交所，蚂蚁集团为股东，全球机器人3D视觉市场排名第一。",
       "summaryZh": ""
     },
     {
@@ -59,27 +69,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-28T05:36:40.000Z",
-      "summary": "长隆乐园部署300台智元机器人，开启人机共存新时代。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI据报将于9月29日发布AI助手“o”",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLUE8wSEtSQkZnc002U1U1QmM0RGh0djBUVUZoOXZScUFsSkNMMngzTE81aDd3d3dKQmZpajhHYVRiQ1pGeVpNSk9HclN6bjh2Q3E1b1pLSEMyUQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-28T12:54:00.000Z",
-      "summary": "OpenAI计划9月29日发布AI助手“o”。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Gemini 2.0发布！主打Agent+多模态，性能超1.5 Pro、可直接生成音频、图片",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oTnVhVEUycnBnQTItT0Vzbkg5Q0Y5MzJSMHEtR3ZJV0xkX3NmeTNYUm1kazZFWmN1RHRLTVc3OTE0eHpFQXZfZGJzZDg?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-28T13:19:29.000Z",
-      "summary": "Gemini 2.0发布，性能超越1.5 Pro，支持多模态输入输出。",
+      "summary": "智元300台机器人入驻长隆，开启人机共存新时代。",
       "summaryZh": ""
     },
     {
@@ -89,28 +79,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-28T14:38:51.000Z",
-      "summary": "OpenAI等机构研究人员呼吁关注AI研发自动化风险。",
+      "summary": "研究人员呼吁关注AI研发自动化风险，警惕“智能爆炸”风险。",
       "summaryZh": ""
     },
     {
-      "title": "超节点•解锁人工智能的底层新基建丨懂行•国产算力第二集即将上线",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ickJSRHdpdEtqeW9iWGlSR0xMZFdCcTdYQ1F0cXBLd1F0RWZUU3h3MUZheU1ETVowWmt3Q0NEMFNnRmxpUmVCTHdhUmNqLVduTzQwNg?oc=5",
-      "source": "第一财经",
+      "title": "OpenAI据报将于9月29日发布AI助手“o”",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90cEFsVjV3TGRRRlhxaHZ2WG9lZWxWRHNxYk0tRXBIREl2MXM4dlFyYnNkTUJCUkJMcHRoblIzU3NMRjN0R1IwNFNLTG1uWGs2YVVQcXpNNkU?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-28T09:24:16.000Z",
-      "summary": "国产算力第二集将上线，聚焦超节点在AI底层新基建中的应用。",
+      "pubDate": "2026-09-28T12:43:36.000Z",
+      "summary": "OpenAI计划9月29日发布AI助手“o”。",
       "summaryZh": ""
     },
     {
-      "title": "36氪专访丨华为诺亚生成式大模型负责人创业家庭具身，一年融了超10亿",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XUmF2QVF6dC1Ga0t0U0pvT3YyN0Y2WHQ1X0gzdGxQMDhiY3U5R2p0ejk3X0FnSGhJTG5oMllhblFzS0ZBSlV1TXZxN3FGQmc?oc=5",
-      "source": "36氪",
+      "title": "迎战Meta Muse！OpenAI据称将紧急推出个人AI助手 或于周二亮相",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQXzYzbk1TV2p3cnprUzk5M0lxaER2Zmt5dURRQ2JmREVCaEc1aFVCc3g1WlpVOVU3TVhqVkx5elBOXzAtdmtKeA?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-29T01:01:59.000Z",
-      "summary": "华为诺亚生成式大模型负责人创业公司一年内融资超10亿。",
-      "summaryZh": ""
+      "pubDate": "2026-09-28T03:25:39.000Z",
+      "summary": ""
     },
     {
       "title": "布局全球算力节点：GoodVision AI构建全域动态调度AI Compute Grid",
@@ -122,24 +111,46 @@
       "summary": ""
     },
     {
-      "title": "AI最大的瓶颈，可能不是算力，而是没有身体",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5bXZXWllKVWc2Z0NNcklCcWk1SmJhSXUtWkltaFVORndGZHBQejVqQlZBVGMtaGlOTGRaX0paMzRUQ2JKZmRzYkZLbmI3VXJzWUZVUG9Oc0o?oc=5",
-      "source": "界面新闻",
+      "title": "36氪专访丨华为诺亚生成式大模型负责人创业家庭具身，一年融了超10亿",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qR3VUbUotQWNMa1pLZ2JYTWotQUZ2elNqSU55dFZ3ekNiUjMzWlN5NmFBZXNrVjNTM1ItLU1pVFNFWGJtTEpLNUJwYl90X1Y4?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-28T07:13:51.000Z",
-      "summary": "AI瓶颈在于缺乏与现实世界的互动和体验。",
+      "pubDate": "2026-09-29T01:01:59.000Z",
+      "summary": "华为前诺亚大模型负责人创业公司一年内融资超10亿。",
       "summaryZh": ""
     },
     {
-      "title": "解放人类的高空机器人，如何撬开千亿美元的大市场？",
-      "link": "http://www.geekpark.net/news/371373",
-      "source": "极客公园",
+      "title": "AI进化速递 | 英伟达推出开放式AI智能体安全平台",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCU1lWaXBQMm9tR1AyTk91aENUUS1WdVAwbGhrb21ycVBsOTJtM3A0dVVVaHVkeXFNanREVUdoZVJjaFJWc2hwTFRETThKX1B6c3Nv?oc=5",
+      "source": "第一财经",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-28T17:58:24.000Z",
-      "summary": "高空机器人技术进步推动特种机器人市场潜力巨大。",
+      "category": "ai",
+      "pubDate": "2026-09-28T13:04:47.000Z",
+      "summary": "英伟达发布开放式AI智能体安全平台。",
       "summaryZh": ""
+    },
+    {
+      "title": "Florida seeks a ban on ChatGPT acting like a person",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-28T17:00:23.000Z",
+      "summary": "佛罗里达州寻求禁止ChatGPT模拟人类行为。",
+      "summaryZh": "",
+      "titleZh": "佛罗里达州寻求禁止 ChatGPT 像人一样行事"
+    },
+    {
+      "title": "NASA 'troubleshooting' transporter for space station's robotic arm [Updated]",
+      "link": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-28T16:03:50.000Z",
+      "summary": "NASA正在排查国际空间站机器人臂的移动运输器问题。",
+      "summaryZh": "",
+      "titleZh": "美国宇航局对空间站机械臂运输车进行“故障排除”[更新]"
     },
     {
       "title": "Raise Robotics to discuss scaling field robots at RoboBusiness",
@@ -153,23 +164,43 @@
       "titleZh": "Raise Robotics 将在 RoboBusiness 上讨论扩展现场机器人"
     },
     {
-      "title": "AI赋能绘就“智慧养老”新图景 中科建兴将亮相第二届海峡老博会",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KOXhaaDdmamx2T2VjNndqZWNpR0hzNU9BYXNUSVhLMDRHUzRDZGdHYURlWGNwcEpOeVJ1dDUxTEI1TlJnZmdjSURXRGZnQ19kWlBCQzBmX0pGelExaGNlcEpxeDI1RXdKdHhMZDRlSTJrZw?oc=5",
-      "source": "中国新闻网",
+      "title": "尼得科集团携人形机器人解决方案亮相2026 中国国际工业博览会（2026 CIIF）",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yN0JoOTM5SFpJMkN3NlktWkhlcUZCN2dBci0zSV90Q3Bxc1dKODZuVGtlNVJiMkRYdXh1a0p5NW85bW1jZDhYTnFqSktvY2d5QUhqdVdHTQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-28T05:15:45.000Z",
-      "summary": "中科建兴将亮相海峡老博会，展示AI+养老解决方案。",
+      "category": "robotics",
+      "pubDate": "2026-09-28T06:46:49.000Z",
+      "summary": "尼得科集团携人形机器人解决方案亮相2026 CIIF，展示多款产品及前沿技术。",
       "summaryZh": ""
     },
     {
-      "title": "[天下财经]走近机器人生产半小时供应圈 广东深圳：人才和机器人产业一起成长",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kNnc0NVdOWUtBN0t2QXRvdXdhNWZyWGN6UFZRZzJQNkZoOXpkSVJyVTREbEEyVF8zNVUtdld3LUVaTkJ4cU5ZWUotRmI4LXlIUWgyVldrUGJvQk5zaFRJWVdXbTRXQlI5RTN5MWhDeV9rZ0FrT0E?oc=5",
-      "source": "央视网",
+      "title": "机器人大脑与身体分离商业化趋势加速",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBaFBlR1Jlb0dHOEtvX0ZTQWx2alFqUEpKSjlFX0cwdk15TkhQS0FzQlJsY0FPa1Ria2Rabl9welFnRllQUHgzR2xZaWRvWmUybHBfRw?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-28T05:09:00.000Z",
-      "summary": "深圳机器人产业与人才培养同步发展。",
+      "pubDate": "2026-09-28T10:42:50.000Z",
+      "summary": "机器人“大脑”与“身体”分离，AI直接部署于成熟机械臂商业化加速。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2.2兆瓦AI智充、充电机器人即将上线 吉利淦家阅：补能“安全优先”，拒绝“速成技术”",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wdkxBd1hKYlpNMU1Wc3ZEdFVpQXo0cFdFcy1USGwzNERGUWIxYmxLOEtFVVVaNUlSeUhxS1NETF80OFBRRDA2R2xFcGJ5alN5X0lYOXFGRXFTTFp6TmRSNFdCOXV2QQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-28T08:18:00.000Z",
+      "summary": "吉利发布2.2兆瓦AI智充技术，强调安全优先，拒绝速成技术。",
+      "summaryZh": ""
+    },
+    {
+      "title": "当机器人站上网球场：AI叩响物理世界之门",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNmRXTjItS2R4dW9KcjIzd0o2MXFBeFpGVk9YV2JPZWRDM2QzLXNUcE9kS3QyeDY4eDBiV3Jua1NSVC1oYXc2dmlQRUd4TGs2aENHWFEyRnBvdFRxbUNoZnNvUzI1clBMRlB6eWJEMUtIZ2pvQWlLbUFnX0RPdm9uYXhVbGk0azg?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-28T08:33:35.000Z",
+      "summary": "网球机器人TENNIIX ULTRA MAX在比赛中挑战职业选手，AI技术迈向物理世界应用。",
       "summaryZh": ""
     },
     {
@@ -179,18 +210,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-28T19:18:00.000Z",
-      "summary": "优克联拓展宠物AI及物联网终端，9月股价反弹超10%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智元机器人在广东横琴成立AI公司",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ueVl4QnN4Yng2dUlyeFJqSk0xWGIyRWZLclZEWTU0ODVhN25sWWZYWHR6NFhLei02ZEpnNWt1Z2FZNjhLaEdzM2JQME1weC1T?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-29T00:46:21.000Z",
-      "summary": "智元机器人在广东横琴成立全资控股的AI公司。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "北京朝阳区亚运村街道AI养老服务送到居民家门口",
@@ -201,35 +221,6 @@
       "pubDate": "2026-09-28T16:41:08.000Z",
       "summary": "北京朝阳区亚运村街道推出AI养老服务，居民可在家门口体验。",
       "summaryZh": ""
-    },
-    {
-      "title": "特斯拉团队长三角审厂背后：Optimus机器人量产“箭在弦上”？",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPcXVrajVGSERNVy1ybWdpYmctbVowMTIyYkNwblBpNlVPM2pRRlhpZUFVQWRHTGY3Y0ZKQUtfR3RDeElEM250VGQ5akdXcUl1cVMtUEM4ckg3YUd6dExFQ3FwUUxFanNpZmdkR0NQTGtFdHdXcWc?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-28T08:11:13.000Z",
-      "summary": ""
-    },
-    {
-      "title": "智身科技B轮融资数亿元机器人量产与智能化双线提速",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NM1ViODUtalRiRnFjZnMzVmVSaEsxOFp4VUI1TWNhUHdsWDgzaDlYc2ptMlB6OWtJMEd4WTRSb2ZMREltMG5adE5qdUZqWGFubXQzLTRzbVBiRklIbWdWSEdpY1BZVkxUdGFCaVZXWkNtcEdRVEE?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-28T09:18:01.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Nvidia's new AI platform, Nor'easter flight delays, NFL's drone focus and more in Morning Squawk",
-      "link": "https://www.cnbc.com/2026/09/28/5-things-to-know-before-the-stock-market-opens.html",
-      "source": "CNBC Tech",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-28T12:22:35.000Z",
-      "summary": "Nvidia发布新AI平台，Nor'easter导致航班延误，NFL关注无人机应用等。",
-      "summaryZh": "",
-      "titleZh": "Nvidia 的新 AI 平台、东北航班延误、NFL 无人机焦点以及 Morning Squawk 中的更多内容"
     },
     {
       "title": "Can McDonald’s crack the in-store retail media conundrum?",
