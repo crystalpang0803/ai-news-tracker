@@ -1,17 +1,7 @@
 {
   "date": "2026-09-29",
-  "generatedAt": "2026-09-29T02:19:56.931Z",
+  "generatedAt": "2026-09-29T05:49:17.156Z",
   "items": [
-    {
-      "title": "人形机器人还没成熟，Physical AI先去找了机械臂",
-      "link": "https://www.tmtpost.com/8154412.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-29T00:37:00.000Z",
-      "summary": "Physical AI先在成熟机械臂上商业化，不待全新人形机器人成熟。",
-      "summaryZh": ""
-    },
     {
       "title": "英伟达发布开放智能体安全平台，保障智能体从测试到部署全流程安全",
       "link": "https://zhidx.com/p/597942.html",
@@ -19,57 +9,88 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-28T15:56:50.000Z",
-      "summary": "英伟达发布开放智能体安全平台，强化AI全流程安全。",
+      "summary": "英伟达发布开放智能体安全平台，全流程保障AI安全。",
       "summaryZh": ""
     },
     {
-      "title": "人形机器人涌入主题公园：赛博NPC真能赚钱吗？",
-      "link": "https://www.tmtpost.com/8154399.html",
+      "title": "AI应用正式进入Agent规模化落地阶段，人工智能ETF哪个好？场内借道科创创业人工智能ETF景顺(159142)把握人工智能行情",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mRkNQYy1uQWpXY2phWDV6QzE5VUo0TzNrdkNCNTl6Z19Sc2dhSkZlT3JIOGJUeHNMTDF0dlFPQkFodUtwNzdvS1BBWFIwaFlsbnllUm5od1U?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-29T04:02:24.000Z",
+      "summary": "AI应用规模化落地，景顺科创创业人工智能ETF（159142）把握行情。",
+      "summaryZh": ""
+    },
+    {
+      "title": "人形机器人还没成熟，Physical AI先去找了机械臂",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNUGZ1eXhXVFJGUnRxaWRFODZ2R3VRcGdxZ3lXQkpUOVpVb2NrV19lc0ktUkVfWm05SnJic0ZqQXdoRi1NUzBFd2I3RFo?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-29T02:09:00.000Z",
-      "summary": "人形机器人进入主题公园，成为降低成本和吸引游客的新尝试。",
+      "pubDate": "2026-09-29T00:37:00.000Z",
+      "summary": "Physical AI先于人形机器人成熟，开始商业化应用机械臂。",
       "summaryZh": ""
     },
     {
-      "title": "麦岩智能：高端商务场景是清洁机器人的下一个蓝海",
-      "link": "http://www.geekpark.net/news/371430",
+      "title": "IDC：今年上半年全球人形机器人出货近 2.5 万台同比增长 432.1%，中国独占 1.9 万台",
+      "link": "https://www.ithome.com/1/008/202.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-29T03:31:01.000Z",
+      "summary": "2026年上半年全球人形机器人出货量近2.5万台，同比增长432.1%，中国市场占比超77.9%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI’s AI agents need to catch up",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-28T18:45:00.000Z",
+      "summary": "OpenAI的AI代理需迎头赶上。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 的人工智能代理需要迎头赶上"
+    },
+    {
+      "title": "LG Innotek 将用自动驾驶汽车为自动驾驶传感系统开发收集数据",
+      "link": "https://www.ithome.com/1/008/220.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-29T03:38:11.000Z",
+      "summary": "LG Innotek将部署自动驾驶车队收集数据以开发自动驾驶传感系统。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI据报将于9月29日发布AI助手“o”",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLUE8wSEtSQkZnc002U1U1QmM0RGh0djBUVUZoOXZScUFsSkNMMngzTE81aDd3d3dKQmZpajhHYVRiQ1pGeVpNSk9HclN6bjh2Q3E1b1pLSEMyUQ?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-28T12:54:00.000Z",
+      "summary": "OpenAI计划9月29日发布AI助手“o”。",
+      "summaryZh": ""
+    },
+    {
+      "title": "不到 1 个月估值暴涨 100 亿美元，Jev 创造者：ChatGPT 把 AI 带歪了",
+      "link": "http://www.geekpark.net/news/371126",
       "source": "极客公园",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-29T01:48:34.000Z",
-      "summary": "麦岩智能看好高端商务场景清洁机器人市场潜力。",
+      "category": "ai",
+      "pubDate": "2026-09-28T09:50:05.000Z",
+      "summary": "Jev AI模型估值一个月内翻百倍，其创造者认为ChatGPT将AI带偏。",
       "summaryZh": ""
     },
     {
-      "title": "字节看上的新赛道：AMR 自主机器人",
-      "link": "http://www.geekpark.net/news/371396",
+      "title": "Gemini 2.0发布！主打Agent+多模态，性能超1.5 Pro、可直接生成音频、图片",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oTnVhVEUycnBnQTItT0Vzbkg5Q0Y5MzJSMHEtR3ZJV0xkX3NmeTNYUm1kazZFWmN1RHRLTVc3OTE0eHpFQXZfZGJzZDg?oc=5",
       "source": "极客公园",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-29T01:13:08.000Z",
-      "summary": "字节跳动关注AMR自主机器人赛道，Syrius炬星出海日本积累经验后回国发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "350亿机器人3D视觉一哥，冲刺港交所！蚂蚁是股东",
-      "link": "https://zhidx.com/p/597621.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-28T09:33:11.000Z",
-      "summary": "奥比中光冲刺港交所，蚂蚁集团为股东，全球机器人3D视觉市场排名第一。",
-      "summaryZh": ""
-    },
-    {
-      "title": "具身智能进入部署态：智元300台机器人入职长隆，人机共存时代来临",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84a3kzRlZud1JydC1vc29OVkFSWmhmejM4Xy1qcGxRdW1YblJZamRlaGdmcnNIU2p5MWtxWXNUSkx6Rkl6XzVIZHNrVGZFRlBlVGZhcUVBRQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-28T05:36:40.000Z",
-      "summary": "智元300台机器人入驻长隆，开启人机共存新时代。",
+      "category": "ai",
+      "pubDate": "2026-09-28T13:19:29.000Z",
+      "summary": "Gemini 2.0发布，性能超越1.5 Pro，支持多模态输入输出。",
       "summaryZh": ""
     },
     {
@@ -79,27 +100,28 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-28T14:38:51.000Z",
-      "summary": "研究人员呼吁关注AI研发自动化风险，警惕“智能爆炸”风险。",
+      "summary": "OpenAI等机构研究人员呼吁关注AI研发自动化风险。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI据报将于9月29日发布AI助手“o”",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90cEFsVjV3TGRRRlhxaHZ2WG9lZWxWRHNxYk0tRXBIREl2MXM4dlFyYnNkTUJCUkJMcHRoblIzU3NMRjN0R1IwNFNLTG1uWGs2YVVQcXpNNkU?oc=5",
-      "source": "界面新闻",
+      "title": "超节点•解锁人工智能的底层新基建丨懂行•国产算力第二集即将上线",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ickJSRHdpdEtqeW9iWGlSR0xMZFdCcTdYQ1F0cXBLd1F0RWZUU3h3MUZheU1ETVowWmt3Q0NEMFNnRmxpUmVCTHdhUmNqLVduTzQwNg?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-28T12:43:36.000Z",
-      "summary": "OpenAI计划9月29日发布AI助手“o”。",
+      "pubDate": "2026-09-28T09:24:16.000Z",
+      "summary": "国产算力第二集将上线，聚焦超节点技术及其在AI发展中的价值。",
       "summaryZh": ""
     },
     {
-      "title": "迎战Meta Muse！OpenAI据称将紧急推出个人AI助手 或于周二亮相",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQXzYzbk1TV2p3cnprUzk5M0lxaER2Zmt5dURRQ2JmREVCaEc1aFVCc3g1WlpVOVU3TVhqVkx5elBOXzAtdmtKeA?oc=5",
+      "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9BTzVfNFVZdVFrbUdqeFlJbDZjdVN1WWFhc0pCQkFpWTAyRWNFUzZpSngyakxJRkRJVVNOYkJKYUxkSF9KWmZHWA?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-28T03:25:39.000Z",
-      "summary": ""
+      "pubDate": "2026-09-28T23:50:36.000Z",
+      "summary": "OpenAI取消GPT-6.1发布，Anthropic连续发布新AI模型。",
+      "summaryZh": ""
     },
     {
       "title": "布局全球算力节点：GoodVision AI构建全域动态调度AI Compute Grid",
@@ -112,13 +134,12 @@
     },
     {
       "title": "36氪专访丨华为诺亚生成式大模型负责人创业家庭具身，一年融了超10亿",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qR3VUbUotQWNMa1pLZ2JYTWotQUZ2elNqSU55dFZ3ekNiUjMzWlN5NmFBZXNrVjNTM1ItLU1pVFNFWGJtTEpLNUJwYl90X1Y4?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41cE50cU9DWEJlSE9idVBPZ2RPbFpuYXpqUG1aX0d6T0RDa1R3WXB1VS1Nd0dpX3g4bHV1a0JUc1VId2d0UkV5RzFySnFvdw?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-29T01:01:59.000Z",
-      "summary": "华为前诺亚大模型负责人创业公司一年内融资超10亿。",
-      "summaryZh": ""
+      "pubDate": "2026-09-28T10:00:00.000Z",
+      "summary": ""
     },
     {
       "title": "AI进化速递 | 英伟达推出开放式AI智能体安全平台",
@@ -131,57 +152,24 @@
       "summaryZh": ""
     },
     {
-      "title": "Florida seeks a ban on ChatGPT acting like a person",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-28T17:00:23.000Z",
-      "summary": "佛罗里达州寻求禁止ChatGPT模拟人类行为。",
-      "summaryZh": "",
-      "titleZh": "佛罗里达州寻求禁止 ChatGPT 像人一样行事"
-    },
-    {
-      "title": "NASA 'troubleshooting' transporter for space station's robotic arm [Updated]",
-      "link": "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-28T16:03:50.000Z",
-      "summary": "NASA正在排查国际空间站机器人臂的移动运输器问题。",
-      "summaryZh": "",
-      "titleZh": "美国宇航局对空间站机械臂运输车进行“故障排除”[更新]"
-    },
-    {
       "title": "Raise Robotics to discuss scaling field robots at RoboBusiness",
       "link": "https://www.therobotreport.com/raise-robotics-discuss-scaling-field-robots-robobusiness/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-28T13:22:53.000Z",
-      "summary": "Raise Robotics在RoboBusiness探讨扩大田间机器人规模。",
+      "summary": "Raise Robotics在RoboBusiness探讨田间机器人规模化发展。",
       "summaryZh": "",
       "titleZh": "Raise Robotics 将在 RoboBusiness 上讨论扩展现场机器人"
     },
     {
-      "title": "尼得科集团携人形机器人解决方案亮相2026 中国国际工业博览会（2026 CIIF）",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yN0JoOTM5SFpJMkN3NlktWkhlcUZCN2dBci0zSV90Q3Bxc1dKODZuVGtlNVJiMkRYdXh1a0p5NW85bW1jZDhYTnFqSktvY2d5QUhqdVdHTQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-28T06:46:49.000Z",
-      "summary": "尼得科集团携人形机器人解决方案亮相2026 CIIF，展示多款产品及前沿技术。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机器人大脑与身体分离商业化趋势加速",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBaFBlR1Jlb0dHOEtvX0ZTQWx2alFqUEpKSjlFX0cwdk15TkhQS0FzQlJsY0FPa1Ria2Rabl9welFnRllQUHgzR2xZaWRvWmUybHBfRw?oc=5",
+      "title": "从GUI、CLI与机器人争论，看AI时代的“移动地基”",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hdnJXazBFbHJBdmxHamkwQ2dmNlczN3RWbFlkQ0ZObVIzeE1SaC0wZU1HU3NKUmlSbW9IYzVSU3FCekFvNl9rYnF6a3hjdGVHN3E3Nw?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-28T10:42:50.000Z",
-      "summary": "机器人“大脑”与“身体”分离，AI直接部署于成熟机械臂商业化加速。",
-      "summaryZh": ""
+      "pubDate": "2026-09-28T16:07:12.000Z",
+      "summary": ""
     },
     {
       "title": "2.2兆瓦AI智充、充电机器人即将上线 吉利淦家阅：补能“安全优先”，拒绝“速成技术”",
@@ -200,7 +188,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-28T08:33:35.000Z",
-      "summary": "网球机器人TENNIIX ULTRA MAX在比赛中挑战职业选手，AI技术迈向物理世界应用。",
+      "summary": "网球机器人TENNIIX ULTRA MAX在比赛中挑战职业选手，展示AI在体育领域的应用潜力。",
       "summaryZh": ""
     },
     {
@@ -210,7 +198,18 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-09-28T19:18:00.000Z",
-      "summary": ""
+      "summary": "优克联拓展宠物AI及物联网终端，9月股价反弹超10%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "智元机器人在广东横琴成立AI公司",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ueVl4QnN4Yng2dUlyeFJqSk0xWGIyRWZLclZEWTU0ODVhN25sWWZYWHR6NFhLei02ZEpnNWt1Z2FZNjhLaEdzM2JQME1weC1T?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-29T00:46:21.000Z",
+      "summary": "智元机器人在广东横琴成立全资控股的AI公司。",
+      "summaryZh": ""
     },
     {
       "title": "北京朝阳区亚运村街道AI养老服务送到居民家门口",
@@ -220,6 +219,16 @@
       "category": "application",
       "pubDate": "2026-09-28T16:41:08.000Z",
       "summary": "北京朝阳区亚运村街道推出AI养老服务，居民可在家门口体验。",
+      "summaryZh": ""
+    },
+    {
+      "title": "特斯拉团队长三角审厂背后：Optimus机器人量产“箭在弦上”？",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPcXVrajVGSERNVy1ybWdpYmctbVowMTIyYkNwblBpNlVPM2pRRlhpZUFVQWRHTGY3Y0ZKQUtfR3RDeElEM250VGQ5akdXcUl1cVMtUEM4ckg3YUd6dExFQ3FwUUxFanNpZmdkR0NQTGtFdHdXcWc?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-28T08:11:13.000Z",
+      "summary": "特斯拉团队在长三角审厂，Optimus机器人量产进入关键阶段。",
       "summaryZh": ""
     },
     {
