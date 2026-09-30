@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "generatedAt": "2026-09-30T20:46:26.289Z",
+  "generatedAt": "2026-09-30T22:10:33.814Z",
   "items": [
     {
       "title": "美国外卖平台 DoorDash 将在加州北部推出无人机送餐服务，最快 5 分钟送达",
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-30T10:13:09.000Z",
-      "summary": "OpenAI发布dots，AI Agent市场加速竞争，争夺长期委托。",
+      "summary": "OpenAI发布dots，AI Agent市场竞争加剧，争夺长期委托。",
       "summaryZh": ""
     },
     {
@@ -43,13 +43,23 @@
       "summaryZh": ""
     },
     {
-      "title": "先陪伴还是先干活？家庭机器人的商业分岔路口",
-      "link": "https://www.tmtpost.com/8157194.html",
-      "source": "钛媒体",
+      "title": "半年卖出近5万台，四足机器人全球排名大洗牌",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00MEh1MEFvQ25OSEZmRE01NUhsME5mNVdoeEVrcTZCSk1aS2s3M1RERTZBOFFZUm93UlF3WlZsOXFQZFM1SXc?oc=5",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-30T12:17:02.000Z",
-      "summary": "家庭机器人行业面临“先陪伴还是先干活”的商业选择分歧。",
+      "pubDate": "2026-09-30T11:12:05.000Z",
+      "summary": "全球四足机器人市场半年销量近5万台，行业应用推动企业排名洗牌。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+      "link": "https://www.qbitai.com/2026/09/499654.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-30T14:03:43.000Z",
+      "summary": "OpenAI研究员Noam Brown认为多智能体系统在解决千禧年难题中发挥了关键作用，并探讨未来AI能力提升方向。",
       "summaryZh": ""
     },
     {
@@ -59,7 +69,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-30T02:53:17.000Z",
-      "summary": "DeepSeek开源昇腾基础组件，助力AI芯片软件生态发展。",
+      "summary": "DeepSeek开源昇腾基础组件，共建高效AI芯片软件生态。",
+      "summaryZh": ""
+    },
+    {
+      "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9BTzVfNFVZdVFrbUdqeFlJbDZjdVN1WWFhc0pCQkFpWTAyRWNFUzZpSngyakxJRkRJVVNOYkJKYUxkSF9KWmZHWA?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-30T13:27:44.000Z",
+      "summary": "OpenAI取消GPT-6.1发布，Anthropic连续发布新AI模型。",
       "summaryZh": ""
     },
     {
@@ -69,7 +89,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-09-30T01:25:57.000Z",
-      "summary": "OpenClaw发布由OpenAI、Red Hat和Nvidia支持的免费企业级AI代理控制平台。",
+      "summary": "OpenClaw发布由OpenAI、红帽和英伟达支持的免费企业级AI代理控制平台。",
       "summaryZh": "",
       "titleZh": "OpenClaw 在 OpenAI、Red Hat 和 Nvidia 的支持下，为持久 AI 代理推出免费的企业控制平面"
     },
@@ -80,28 +100,18 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-09-30T14:06:15.000Z",
-      "summary": "OpenAI因AI安全担忧推迟IPO，寻求私下融资30亿美元。",
+      "summary": "OpenAI因AI安全问题推迟IPO，寻求私轮融资。",
       "summaryZh": "",
       "titleZh": "OpenAI 因人工智能安全问题推迟 IPO"
     },
     {
-      "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
-      "link": "https://www.qbitai.com/2026/09/499493.html",
-      "source": "量子位",
+      "title": "OpenAI刹车，Meta狂飙",
+      "link": "https://www.tmtpost.com/8157249.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-30T07:54:54.000Z",
-      "summary": "GPT-6 Astra与宇树G1合作，实现厨房自动化整理。",
-      "summaryZh": ""
-    },
-    {
-      "title": "电厂 | 两个月内五款产品密集亮相，AI Agent争夺“长期委托”",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81TzRSMkRqY2FKUElKVlFBdEFDLVdVZS15S0o0UFZhdzluOTJxZVZ5eDYyLVV3b2hEWDZuT2NCWUVaazBDMXVQaE1oall6MlBCdkM5ZHhXc2Y?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-30T10:31:40.000Z",
-      "summary": "两个月内五款AI Agent产品亮相，争夺长期委托市场。",
+      "pubDate": "2026-09-30T11:17:53.000Z",
+      "summary": "OpenAI高管离职，MetaAI产品上线，AI行业动态变化。",
       "summaryZh": ""
     },
     {
@@ -115,33 +125,56 @@
       "summaryZh": ""
     },
     {
-      "title": "让非洲小农户用上中国大模型，现实吗？",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fWjdmbEVXWWlPaXJyTWFILVZwUlVlVGhpUmU5eHRxdFNpd1NBX19wengzc3ZxZUtlcWYzemV1RDVCbEc4aE5IeVptUFl0OE95SGFj?oc=5",
-      "source": "第一财经",
+      "title": "Your Equity in a Pre-IPO Robotics and Automation Company: What to Expect Before and After a Public Listing",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdGF1cFgwdXluZnZXWERqcWd3cEtleTluRFd6bmgxRkotLW5DME5kaEIwampiOU8wXzJ2VVFtOFh5TVRqakM3ZGUzRGxiRUZRM2R2TWVfSmlvYUgzaHNDbU5Pc0pYSkFLU0hYOEFtTjgwRHRVYmEwa0dCWkw2bEtlaG0tUkxtSGU5TEZNOWxZS1gyWDFheGRxSUktaFNOd0VDeEd5Zk5XSk1oa0pWVkZaNm02Mk5uOVIyOVQyUnpnOEFJNDdzSlhqbGlwWlFyYm1FTDBuNUo5V0ttNGhrZURmbFQ3Z3BhdGZSeTFfQjFRYUwzNi1F?oc=5",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-30T18:47:46.000Z",
+      "summary": "",
+      "titleZh": "您在首次公开募股前的机器人和自动化公司的股权：公开上市前后的预期"
+    },
+    {
+      "title": "特朗普政府推出AI政务网站America.gov，聊天机器人上线即“唱反调”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xLWpWVUNleU1rUFZyaHMxRjEzV0ZMNXZyamViRkZGUUVveDl3S3Q2OF80STJxQW9iX01XR0tvWEVKNDJSeEgydDZQTEw1eDhMb2Rpc2lhckRZQnA2RVE?oc=5",
+      "source": "澎湃新闻科技",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-30T10:51:10.000Z",
-      "summary": "中国农业大学发布肯尼亚农业专属智能体“神农 Zao”，助力非洲小农户。",
+      "category": "robotics",
+      "pubDate": "2026-09-30T02:23:00.000Z",
+      "summary": "特朗普政府推出AI政务网站America.gov，聊天机器人初上线即出现“唱反调”现象。",
       "summaryZh": ""
     },
     {
-      "title": "特朗普政府推出人工智能驱动的政府网站",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GbjdYV0IwaWlyZzhQNF9JWGE4RWNaVF94cVNiendNQzNPNEhZX0NnVWVhS2VNZS13b3NiRE9TbnhpV3BqT3YxTjM4eG8zcHlUcFBZ?oc=5",
-      "source": "第一财经",
+      "title": "半小时，够深圳拼出一台机器人（附核心供应商名单）",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42MEdTTGdvWko0SUEzNk90SGxDTUlndE1UT3ZhNlpkUzRHYjdzbjFoOGczTFJyeVZKTGZSZ1VpU2hibldxU3U4N1BIZ0tZMmJfaFlTRE9BZw?oc=5",
+      "source": "与非网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-29T23:18:44.000Z",
-      "summary": "特朗普政府推出人工智能驱动的政府网站America.gov。",
+      "category": "robotics",
+      "pubDate": "2026-09-30T03:15:35.000Z",
+      "summary": "深圳半小时可组装一台机器人。",
       "summaryZh": ""
     },
     {
-      "title": "AI旅游助手在国庆压力测试中未能做到\"一句话把事办了\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ycUtnWjlXRy1pSjhsek1XSkQ2VHZaWmdfTWNXTnZGb0JLZ2IyelRNWWVJZy1GSnZaYlZVZHZvSk1wTGdGOEtkeHUxamRhdm82TFBNMg?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-30T01:50:18.000Z",
-      "summary": ""
+      "title": "DoorDash’s drone strategy started on the ground",
+      "link": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-30T19:22:13.000Z",
+      "summary": "DoorDash从地面物流入手，逐步发展无人机配送业务。",
+      "summaryZh": "",
+      "titleZh": "DoorDash 的无人机战略从地面开始"
+    },
+    {
+      "title": "The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI",
+      "link": "https://www.therobotreport.com/robot-report-parent-arrowfly-launches-ai-for-engineers-platform-events-engineers-navigating-ai/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-30T14:03:31.000Z",
+      "summary": "Arrowfly推出AI for Engineers平台，为工程师提供AI应用资源。",
+      "summaryZh": "",
+      "titleZh": "《机器人报告》母公司 Arrowfly 推出面向工程师的人工智能平台，并为工程师举办人工智能导航活动"
     },
     {
       "title": "Soccer-playing humanoid robots score a major robotics goal for coordination",
@@ -152,7 +185,7 @@
       "pubDate": "2026-09-30T13:30:02.000Z",
       "summary": "人形机器人足球比赛取得重大进展，展示协调能力。",
       "summaryZh": "",
-      "titleZh": "踢足球的人形机器人在协调性方面取得了机器人学的主要目标"
+      "titleZh": "踢足球的人形机器人在协调方面取得了主要的机器人目标"
     },
     {
       "title": "艾德克斯IT7625线性交流源工作级水下机器人测试方案",
@@ -173,17 +206,7 @@
       "pubDate": "2026-09-30T03:38:06.000Z",
       "summary": "仓库机器人初创公司Destro AI获得800万美元种子轮融资。",
       "summaryZh": "",
-      "titleZh": "“人工智能的下一波浪潮将是物理的”：仓库机器人初创公司 Destro AI 获得 800 万美元种子资金"
-    },
-    {
-      "title": "具身智能的下一场，在仓库里开打",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCYXRQSUxNMUk5U05qd3RVZWI3ODB4eWhVMTUzRzlONjBQYk94Z3YwNTVMaUpzUFM2cGFJc0dKUERMbzdoVGJwSnZSLWc?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-30T10:07:14.000Z",
-      "summary": "机器人拣货在真实仓库应用，效率提升至17%。",
-      "summaryZh": ""
+      "titleZh": "“下一波人工智能将是实体的”：仓库机器人初创公司 Destro AI 获得 800 万美元种子资金"
     }
   ]
 }
