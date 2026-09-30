@@ -1,7 +1,17 @@
 {
   "date": "2026-10-01",
-  "generatedAt": "2026-09-30T22:10:33.814Z",
+  "generatedAt": "2026-09-30T23:12:30.898Z",
   "items": [
+    {
+      "title": "谷歌最前沿 AI 模型：Gemini 4 Argon 登场，长周期代码工程 DeepSWE 测试超 Claude Opus 5.5",
+      "link": "https://www.ithome.com/1/008/953.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-30T22:57:36.000Z",
+      "summary": "谷歌发布AI模型Gemini 4 Argon，在长周期代码工程测试中超越Claude Opus 5.5。",
+      "summaryZh": ""
+    },
     {
       "title": "美国外卖平台 DoorDash 将在加州北部推出无人机送餐服务，最快 5 分钟送达",
       "link": "https://www.ithome.com/1/008/942.htm",
@@ -13,14 +23,22 @@
       "summaryZh": ""
     },
     {
-      "title": "中国大模型首次进入 OpenAI 企业付费结算体系，Kimi K3 接入 Codex 企业通道",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE52R25QRkc4SnN2enh6d0loblF4aXdfZEFqajVZUFhwLWF5RzU5UGhxSVVNRGl6TXR6S3pUcmJkQV9IZmg4VFQwdkl6bUY?oc=5",
-      "source": "IT之家",
+      "title": "Kimi K3接入OpenAI Codex企业通道，中国大模型首次进入OpenAI企业付费结算体系",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FemhoLWllRUFXN2ZfbzZwM3lsZjFhQmRWcnlMWlVubVpVd3V3aDZ5eGQ3OUhaMDdtYXNYanYxLVN0NUJ4dlp5cFBfVnRGZFllSk9TUmlCaGM?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-30T10:19:18.000Z",
-      "summary": "中国开源模型Kimi K3首次接入OpenAI企业通道。",
-      "summaryZh": ""
+      "pubDate": "2026-09-30T09:54:17.000Z",
+      "summary": ""
+    },
+    {
+      "title": "OpenAI推迟模型发布，凸显人工智能安全的竞争成本",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UMnd1ZW5FZFE2b18xbXRmeDFTalI5MzVzZVhmd2ViajVKSDlyMkluUGttOFljS2pyRmxRUXFaNWVaNEFCNEIwc01aN3BJU1RPUnB6NngwbFc?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-30T06:57:33.000Z",
+      "summary": ""
     },
     {
       "title": "OpenAI发布全天候Agent dots，AI Agent市场竞争升温",
@@ -29,7 +47,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-30T10:13:09.000Z",
-      "summary": "OpenAI发布dots，AI Agent市场竞争加剧，争夺长期委托。",
+      "summary": "OpenAI发布dots，AI Agent市场加速竞争，争夺长期委托。",
       "summaryZh": ""
     },
     {
@@ -39,7 +57,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-30T12:50:55.000Z",
-      "summary": "Sharpa发布三大新品，降低机器人进场景门槛。",
+      "summary": "Sharpa发布三款新品，降低机器人进场景门槛。",
+      "summaryZh": ""
+    },
+    {
+      "title": "先陪伴还是先干活？家庭机器人的商业分岔路口",
+      "link": "https://www.tmtpost.com/8157194.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-30T12:17:02.000Z",
+      "summary": "家庭机器人行业面临路径选择：是先提供陪伴功能还是直接承担家务任务。",
       "summaryZh": ""
     },
     {
@@ -49,7 +77,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-30T11:12:05.000Z",
-      "summary": "全球四足机器人市场半年销量近5万台，行业应用推动企业排名洗牌。",
+      "summary": "全球四足机器人市场半年销量近5万台，行业应用推动市场大洗牌。",
       "summaryZh": ""
     },
     {
@@ -59,7 +87,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-30T14:03:43.000Z",
-      "summary": "OpenAI研究员Noam Brown认为多智能体系统在解决千禧年难题中发挥了关键作用，并探讨未来AI能力提升方向。",
+      "summary": "OpenAI研究员Noam Brown认为，多智能体系统在解决千禧年难题中起到关键作用，并探讨未来AI能力提升方向。",
       "summaryZh": ""
     },
     {
@@ -69,7 +97,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-30T02:53:17.000Z",
-      "summary": "DeepSeek开源昇腾基础组件，共建高效AI芯片软件生态。",
+      "summary": "DeepSeek开源昇腾基础组件，助力AI芯片软件生态发展。",
       "summaryZh": ""
     },
     {
@@ -89,7 +117,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-09-30T01:25:57.000Z",
-      "summary": "OpenClaw发布由OpenAI、红帽和英伟达支持的免费企业级AI代理控制平台。",
+      "summary": "OpenClaw发布由OpenAI、Red Hat和Nvidia支持的免费企业级AI代理控制平台。",
       "summaryZh": "",
       "titleZh": "OpenClaw 在 OpenAI、Red Hat 和 Nvidia 的支持下，为持久 AI 代理推出免费的企业控制平面"
     },
@@ -100,18 +128,28 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-09-30T14:06:15.000Z",
-      "summary": "OpenAI因AI安全问题推迟IPO，寻求私轮融资。",
+      "summary": "OpenAI因AI安全问题推迟IPO，寻求私下融资30亿美元。",
       "summaryZh": "",
       "titleZh": "OpenAI 因人工智能安全问题推迟 IPO"
     },
     {
-      "title": "OpenAI刹车，Meta狂飙",
-      "link": "https://www.tmtpost.com/8157249.html",
-      "source": "钛媒体",
+      "title": "对话旋玑智能CEO王业全：给机器人造一颗“智会头”",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJMW9ac1FEWkRxWUo5VUluemlTVXdtQU5Xc2RDWnhxT1JJdFVhMG8ybnRTU0xkQzZNTTBNU3c5TWw4SU01a2c?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-30T12:17:46.000Z",
+      "summary": "旋玑智能CEO王业全致力于研发机器人交互大脑“智会头”，以提升机器人理解与回应人类的能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "电厂 | 两个月内五款产品密集亮相，AI Agent争夺“长期委托”",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81TzRSMkRqY2FKUElKVlFBdEFDLVdVZS15S0o0UFZhdzluOTJxZVZ5eDYyLVV3b2hEWDZuT2NCWUVaazBDMXVQaE1oall6MlBCdkM5ZHhXc2Y?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-30T11:17:53.000Z",
-      "summary": "OpenAI高管离职，MetaAI产品上线，AI行业动态变化。",
+      "pubDate": "2026-09-30T10:31:40.000Z",
+      "summary": "两个月内五款AI Agent产品亮相，争夺长期委托市场。",
       "summaryZh": ""
     },
     {
@@ -121,7 +159,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-30T05:45:00.000Z",
-      "summary": "AI人工智能ETF平安(512930)标的指数盘中下跌，半导体芯片产业链催化活跃。",
+      "summary": "AI人工智能ETF平安(512930)标的指数盘中下跌，半导体芯片产业链受催化。",
+      "summaryZh": ""
+    },
+    {
+      "title": "让非洲小农户用上中国大模型，现实吗？",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fWjdmbEVXWWlPaXJyTWFILVZwUlVlVGhpUmU5eHRxdFNpd1NBX19wengzc3ZxZUtlcWYzemV1RDVCbEc4aE5IeVptUFl0OE95SGFj?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-30T10:51:10.000Z",
+      "summary": "中国农业大学发布肯尼亚农业专属智能体“神农 Zao”，助力非洲小农户。",
       "summaryZh": ""
     },
     {
@@ -145,13 +193,13 @@
       "summaryZh": ""
     },
     {
-      "title": "半小时，够深圳拼出一台机器人（附核心供应商名单）",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42MEdTTGdvWko0SUEzNk90SGxDTUlndE1UT3ZhNlpkUzRHYjdzbjFoOGczTFJyeVZKTGZSZ1VpU2hibldxU3U4N1BIZ0tZMmJfaFlTRE9BZw?oc=5",
-      "source": "与非网",
+      "title": "AI旅游助手在国庆压力测试中未能做到\"一句话把事办了\"",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ycUtnWjlXRy1pSjhsek1XSkQ2VHZaWmdfTWNXTnZGb0JLZ2IyelRNWWVJZy1GSnZaYlZVZHZvSk1wTGdGOEtkeHUxamRhdm82TFBNMg?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-30T03:15:35.000Z",
-      "summary": "深圳半小时可组装一台机器人。",
+      "category": "application",
+      "pubDate": "2026-09-30T01:50:18.000Z",
+      "summary": "AI旅游助手国庆测试中未能实现“一句话办事”。",
       "summaryZh": ""
     },
     {
@@ -174,7 +222,7 @@
       "pubDate": "2026-09-30T14:03:31.000Z",
       "summary": "Arrowfly推出AI for Engineers平台，为工程师提供AI应用资源。",
       "summaryZh": "",
-      "titleZh": "《机器人报告》母公司 Arrowfly 推出面向工程师的人工智能平台，并为工程师举办人工智能导航活动"
+      "titleZh": "《机器人报告》的母公司 Arrowfly 推出了面向工程师的人工智能平台，并为工程师们举办了探索人工智能的活动"
     },
     {
       "title": "Soccer-playing humanoid robots score a major robotics goal for coordination",
@@ -183,9 +231,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-30T13:30:02.000Z",
-      "summary": "人形机器人足球比赛取得重大进展，展示协调能力。",
+      "summary": "人形机器人足球比赛取得重大协调技术突破。",
       "summaryZh": "",
       "titleZh": "踢足球的人形机器人在协调方面取得了主要的机器人目标"
+    },
+    {
+      "title": "半小时，够深圳拼出一台机器人（附核心供应商名单）",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42MEdTTGdvWko0SUEzNk90SGxDTUlndE1UT3ZhNlpkUzRHYjdzbjFoOGczTFJyeVZKTGZSZ1VpU2hibldxU3U4N1BIZ0tZMmJfaFlTRE9BZw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-30T03:15:35.000Z",
+      "summary": "深圳半小时内可拼装出一台机器人，产业链本地化配套成熟。",
+      "summaryZh": ""
     },
     {
       "title": "艾德克斯IT7625线性交流源工作级水下机器人测试方案",
@@ -194,19 +252,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-30T02:30:52.000Z",
-      "summary": "艾德克斯IT7625水下机器人测试方案完成安全验证。",
+      "summary": "艾德克斯IT7625线性交流源成功测试水下机器人供电系统。",
       "summaryZh": ""
-    },
-    {
-      "title": "‘Next wave of AI will be physical’: warehouse robotics startup Destro AI bags $8 million in seed funding",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbTZraTd0TWJCREFGRlY0c2lRRWplaDllanlBZ2xubVVXZ2dZXzBfekYyT29XNkNTb2tWOUtBMnEtdzBucDkxZFNodFZnemVKdWxaeEVCbEM4SllBdVBrS2o0My1RMy1lUHNJQUJBajZjLVBqaWJxcnVTdDJnc0d3Z0lfWXpja3UzYk1EbWZKSW5ocFN4VU4zcUk5WmFsMGxLbE5jQnh2REdGSFQtMjdzTTYtUFhwTTE2ZTJlUFFrVFhxeUZsY0dwdUFtNzV3NVprNnVNMG0tWEVFc2loN3lfT1Zma053QQ?oc=5",
-      "source": "Retail Tech Innovation Hub",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-09-30T03:38:06.000Z",
-      "summary": "仓库机器人初创公司Destro AI获得800万美元种子轮融资。",
-      "summaryZh": "",
-      "titleZh": "“下一波人工智能将是实体的”：仓库机器人初创公司 Destro AI 获得 800 万美元种子资金"
     }
   ]
 }
