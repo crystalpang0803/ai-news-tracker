@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "generatedAt": "2026-09-30T00:34:32.968Z",
+  "generatedAt": "2026-09-30T01:37:14.409Z",
   "items": [
     {
       "title": "钛晨报重大利好！央行“四箭齐发”，房贷贴息政策落地；中行回应万事达信用卡遭盗刷；英伟达欲拉保险公司入场，为AI芯片融资风险兜底",
@@ -9,27 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-29T23:20:00.000Z",
-      "summary": "央行调整货币政策，中行回应信用卡盗刷，英伟达寻求保险风险保障。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI 推出全天候 AI 智能体 Dots，相关域名已被马斯克拿下",
-      "link": "https://www.ithome.com/1/008/559.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-29T23:37:25.000Z",
-      "summary": "OpenAI发布全天候AI智能体Dots，马斯克收购相关域名。",
-      "summaryZh": ""
-    },
-    {
-      "title": "消息称 OpenAI 计划 IPO 前再融资至少 300 亿美元，估值达 1.4 万亿美元",
-      "link": "https://www.ithome.com/1/008/558.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-29T23:28:20.000Z",
-      "summary": "OpenAI计划IPO前再融资300亿美元，估值达1.4万亿美元。",
+      "summary": "央行调整货币政策，中行回应信用卡盗刷，英伟达寻求保险融资保障。",
       "summaryZh": ""
     },
     {
@@ -39,18 +19,28 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-09-29T18:35:00.000Z",
-      "summary": "OpenAI未加入Nvidia的AI安全联盟，但表示支持其工作。",
+      "summary": "OpenAI未加入Nvidia牵头打击恶意AI代理的联盟，但表示支持该平台。",
       "summaryZh": "",
       "titleZh": "这就是为什么 OpenAI 没有出现在 Nvidia 全行业范围内终结流氓 AI 代理的努力中"
     },
     {
-      "title": "Agent进入企业核心业务，模型之外还有多少难题？",
-      "link": "https://www.tmtpost.com/8155430.html",
+      "title": "璇玑动力全球首发四足机器人SW01",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1SWF0eUdxNUdnb3A4MnZ4WlJ3UmVOU1N5WEx6T0E4ekpHd2Z3TlRrS2xKNUlMMkhlbWY1elVIcnMwOUZ6QjNRcGoyZw?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-29T08:27:04.000Z",
+      "summary": "璇玑动力在第23届中国—东盟博览会期间全球首发四足机器人SW01。",
+      "summaryZh": ""
+    },
+    {
+      "title": "ARR真的是大模型企业的黄金指标吗？",
+      "link": "https://www.tmtpost.com/8154376.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-29T10:01:57.000Z",
-      "summary": "企业应用Agent面临模型能力与实际业务匹配难题。",
+      "pubDate": "2026-09-29T11:13:01.000Z",
+      "summary": "ARR作为大模型企业指标，其准确性和可持续性备受质疑。",
       "summaryZh": ""
     },
     {
@@ -64,24 +54,13 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-      "link": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-09-29T14:22:31.000Z",
-      "summary": "OpenAI因安全问题取消GPT-6.1发布计划。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 表示计划中的 GPT-6.1 太不安全，无法发布"
-    },
-    {
       "title": "物理AI的“眼睛”和“大脑”来了！欢创科技(06802)全栈自研感知方案从消费机器人走向工业智能制造",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55cHVObWpOTnBZUVNIS1c5b3F3Mzc3THNFLUlyS2hZcE50UlREZDRjTVJqdVJFQ1RtbnloX1JHZjlkXy1CTVZES0FKR09QcHQy?oc=5",
       "source": "凤凰财经",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-29T13:15:27.000Z",
-      "summary": "欢创科技全栈自研感知方案助力比亚迪智能制造布局，激光雷达出货量全球第一。",
+      "summary": "欢创科技全栈自研感知方案助力比亚迪工业智能制造布局。",
       "summaryZh": ""
     },
     {
@@ -110,7 +89,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-29T03:08:50.000Z",
-      "summary": "机器人领域技术发展迅速，涵盖自动化、人形机器人、AI等多个方面。",
+      "summary": "机器人技术领域新闻、分析及研究动态更新。",
       "summaryZh": "",
       "titleZh": "机器人新闻、分析与研究"
     },
@@ -121,18 +100,18 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-29T05:13:03.000Z",
-      "summary": "中国对类人机器人IPO提出三项新标准，符合者寥寥。",
+      "summary": "中国对类人机器人IPO提出三项新标准，多数企业难以达标。",
       "summaryZh": "",
       "titleZh": "中国对仿人机器人IPO制定了三项新标准。很少有人（如果有的话）遇见他们"
     },
     {
-      "title": "跟着AI读懂山河古建 解锁智慧旅游新体验",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMbmo5WmhnanlJWkc1MkdLWktEek1PYkE5U3cwQUxzOEJrM25mMW1RRnUwM2x0ZXdmaXlPd2M2MzZEU0loaXdyS054NlQyQ05MenZUd21IMWVfWWtPN3dhTGNzbw?oc=5",
-      "source": "光明网",
+      "title": "丰宜科技AI下沉无人零售一线经营决策，重塑无人零售渠道竞争逻辑",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtX0h5TENGRkgtcnJmZ3hZZjRoYVdVNk9QUjd6R0I4UFFJNzUwMjI1OFhHWjlkS0p4VExfNjBTS1hSZFI1dVlodTYyU2lJMktq?oc=5",
+      "source": "凤凰财经",
       "lang": "zh",
       "category": "application",
-      "pubDate": "2026-09-29T09:50:00.000Z",
-      "summary": "山西文旅携手豆包AI，打造智慧旅游新体验，覆盖多景区古建。",
+      "pubDate": "2026-09-29T09:42:56.000Z",
+      "summary": "丰宜科技AI赋能无人零售，提升运营效率，重塑行业竞争格局。",
       "summaryZh": ""
     },
     {
@@ -142,7 +121,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-29T14:03:00.000Z",
-      "summary": "国际具身智能技能大赛将举行，测试AI在复杂物理环境下的实操能力。",
+      "summary": "国际具身智能技能大赛下月举行，聚焦AI在复杂物理环境下的实操能力。",
       "summaryZh": ""
     },
     {
@@ -156,13 +135,13 @@
       "summaryZh": ""
     },
     {
-      "title": "固态激光雷达：重塑感知边界，定义智能未来",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01YWpCRG9qYjJFRUpWSDFBeDl4akttYUY2WjlLcHJidmxsY19Eam1iNkhFc25aYTVZM3FXb1cxT01ERUlyOHRsakFrWUczd0xMRmdFa0dZNA?oc=5",
+      "title": "液冷机柜底部，漏液传感器怎么装？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fZ1VKTWxMRk11MG1sT1pmNUFvZE5CeE1odjdhanpPOUFoY3hqR0JXMTZZSG8zbWpkeEh4OFhGQS1wMHN2a3lNVlROVHRiMTUtMHNXNXpFRQ?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-29T08:52:18.000Z",
-      "summary": "固态激光雷达技术革新，引领智能感知系统发展。",
+      "pubDate": "2026-09-29T08:48:01.000Z",
+      "summary": "液冷机柜底部漏液传感器安装需考虑位置、数量、固定、编码和联动。",
       "summaryZh": ""
     },
     {
@@ -174,6 +153,17 @@
       "pubDate": "2026-09-29T07:11:31.000Z",
       "summary": "山西长治建成全国首个规模化具身智能主题街区。",
       "summaryZh": ""
+    },
+    {
+      "title": "Overhead picking robot",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVm1rMl94cF9WeGFoRHNyT295ZzZUUTljTU1rRFl4QWxidFh5QkFfMWRLY0pibTg3ODNwcWg2UlZoaTRTWTJxOUNvWlAxTlN4TmtRQmpHeXgzTGFOclBOZ1dpTkF2V2hGTTUtOEFJeWQtLVBMRTBFRnBWMmh5MUg5QVl1SWZnZ2lBdHI0cmQyMnY?oc=5",
+      "source": "Automation World",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-09-29T19:39:19.000Z",
+      "summary": "Logic Octopus 1机器人实现高效多臂高空拣选，提升仓储物流空间利用率。",
+      "summaryZh": "",
+      "titleZh": "高架拣选机器人"
     }
   ]
 }
