@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "generatedAt": "2026-10-01T01:35:49.151Z",
+  "generatedAt": "2026-10-01T06:01:45.014Z",
   "items": [
     {
       "title": "Kimi K3接入OpenAI Codex企业通道，中国大模型首次进入OpenAI企业付费结算体系",
@@ -12,14 +12,23 @@
       "summary": ""
     },
     {
-      "title": "内存高价恐成常态：美光称人形机器人每台需 200GB 内存",
-      "link": "https://www.ithome.com/1/008/967.htm",
+      "title": "谷歌最前沿 AI 模型：Gemini 4 Argon 登场，长周期代码工程 DeepSWE 测试超 Claude Opus 5.5",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1EaHhPRWpYTGxSVlVjWGhZWHZ5ZWdldnZNVlAtRWJjdFM2T0NaM09WcDRYcnlCWWY1U3ZIUmNLMDF1QktJWldtT3FGcnE?oc=5",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-01T00:24:05.000Z",
-      "summary": "美光预计人形机器人将推动内存需求，每台需200GB以上，内存价格恐成常态。",
+      "category": "ai",
+      "pubDate": "2026-09-30T22:57:36.000Z",
+      "summary": "谷歌发布AI模型Gemini 4 Argon，在长周期代码工程测试中超越Claude Opus 5.5。",
       "summaryZh": ""
+    },
+    {
+      "title": "OpenAI推迟模型发布，凸显人工智能安全的竞争成本",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UMnd1ZW5FZFE2b18xbXRmeDFTalI5MzVzZVhmd2ViajVKSDlyMkluUGttOFljS2pyRmxRUXFaNWVaNEFCNEIwc01aN3BJU1RPUnB6NngwbFc?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-30T06:57:33.000Z",
+      "summary": ""
     },
     {
       "title": "OpenAI发布全天候Agent dots，AI Agent市场竞争升温",
@@ -28,18 +37,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-30T10:13:09.000Z",
-      "summary": "OpenAI发布dots，AI Agent市场加速竞争，多款产品争夺长期委托。",
-      "summaryZh": ""
-    },
-    {
-      "title": "销量增长、收入缩水：斯坦德机器人的“第二曲线”，怎么越卖越亏？",
-      "link": "https://www.tmtpost.com/8157612.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-01T00:46:59.000Z",
-      "summary": "斯坦德机器人销量增长，但收入和利润却持续缩水。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "Sharpa最新发布的三大新品，把机器人进场景的门槛打了下来",
@@ -52,13 +50,23 @@
       "summaryZh": ""
     },
     {
-      "title": "美国加州《反机器人老板》法案生效，禁止完全依赖 AI 解雇或惩戒员工",
-      "link": "https://www.ithome.com/1/008/965.htm",
+      "title": "先陪伴还是先干活？家庭机器人的商业分岔路口",
+      "link": "https://www.tmtpost.com/8157194.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-09-30T12:17:02.000Z",
+      "summary": "家庭机器人行业面临路径选择：是先提供陪伴功能还是直接承担家务任务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "比尔 · 盖茨：用机器人替代人类工作的公司也应纳税",
+      "link": "https://www.ithome.com/1/009/044.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-01T00:14:48.000Z",
-      "summary": "加州《反机器人老板》法案禁止雇主完全依赖AI解雇或惩戒员工。",
+      "pubDate": "2026-10-01T05:00:06.000Z",
+      "summary": "比尔·盖茨提议对机器人征税以保障失业者收入和维持政府税收来源。",
       "summaryZh": ""
     },
     {
@@ -68,7 +76,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-30T11:12:05.000Z",
-      "summary": "全球四足机器人半年销量近5万台，行业应用推动市场排名大变。",
+      "summary": "全球四足机器人市场半年销量近5万台，行业应用推动企业排名洗牌。",
       "summaryZh": ""
     },
     {
@@ -78,18 +86,39 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-30T14:03:43.000Z",
-      "summary": "OpenAI研究员Noam Brown认为多智能体系统在解决千禧年难题中发挥了关键作用，并探讨未来AI能力提升方向。",
+      "summary": "OpenAI研究员Noam Brown表示，多智能体系统在解决千禧年难题中发挥了关键作用，未来AI能力提升将依赖并行化计算。",
       "summaryZh": ""
     },
     {
-      "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
-      "link": "https://www.qbitai.com/2026/09/499263.html",
-      "source": "量子位",
+      "title": "OpenAI发布AI助手“Dot”：可自主干活，全天候待命",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnNUhGeDNJMlJVUlRCamdLTlhQb1lBWVRfUmZjeHY4NGZ4UjlKRnNPekUxdkNMcUl5c2hUdWY4cXdQR01Jal8xdA?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-30T02:53:17.000Z",
-      "summary": "DeepSeek开源昇腾基础组件，助力AI芯片软件生态发展。",
+      "pubDate": "2026-10-01T03:00:05.000Z",
+      "summary": "OpenAI推出全天候AI助手“Dot”，可自主操作电脑执行任务。",
       "summaryZh": ""
+    },
+    {
+      "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9BTzVfNFVZdVFrbUdqeFlJbDZjdVN1WWFhc0pCQkFpWTAyRWNFUzZpSngyakxJRkRJVVNOYkJKYUxkSF9KWmZHWA?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-30T13:27:44.000Z",
+      "summary": "OpenAI取消GPT-6.1发布，Anthropic连续发布新AI模型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI delays IPO over AI safety concerns",
+      "link": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-09-30T14:06:15.000Z",
+      "summary": "OpenAI因AI安全问题推迟IPO，寻求私轮融资。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 因人工智能安全问题推迟 IPO"
     },
     {
       "title": "对话旋玑智能CEO王业全：给机器人造一颗“智会头”",
@@ -98,27 +127,47 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-09-30T12:17:46.000Z",
-      "summary": "旋玑智能CEO王业全致力于研发机器人交互大脑“智会头”，以提升机器人理解与回应人类的能力。",
+      "summary": "旋玑智能CEO王业全致力于研发机器人交互大脑，以实现机器人的“智会头”。",
       "summaryZh": ""
     },
     {
-      "title": "电厂 | 两个月内五款产品密集亮相，AI Agent争夺“长期委托”",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81TzRSMkRqY2FKUElKVlFBdEFDLVdVZS15S0o0UFZhdzluOTJxZVZ5eDYyLVV3b2hEWDZuT2NCWUVaazBDMXVQaE1oall6MlBCdkM5ZHhXc2Y?oc=5",
-      "source": "界面新闻",
+      "title": "宁波提升具身智能场景落地能力",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pakpMQUZOcmxWYVFiOHVlWEUtN2dZbGNvYS02OWhUVWhvS1NEajdKdzdhdlM5WUx4ZnNOM2sxdGM0MXJoVDhWenhOZmptSE9NaUdPRTdySDRfYXRwRV84?oc=5",
+      "source": "中国经济网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-30T10:31:40.000Z",
-      "summary": "两个月内五款AI Agent产品亮相，争夺长期委托市场。",
+      "category": "robotics",
+      "pubDate": "2026-09-30T23:13:00.000Z",
+      "summary": "宁波推动具身智能在多场景应用，加速产业数字化转型。",
       "summaryZh": ""
     },
     {
-      "title": "AI人工智能ETF平安(512930)标的指数盘中调整，半导体芯片产业链催化不断",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02WUNHYTg0TWctWTNBYkhOTlhFU0RTaHNTTWVyVXZ5UW05MGxhWnk4TTZtNHBfaWY1RW90Yi1CQk1yWjdsTXpRb2U4ZUhXajRzYWY2UGpKZnY?oc=5",
+      "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+      "link": "https://www.qbitai.com/2026/09/499493.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-30T07:54:54.000Z",
+      "summary": "GPT-6 Astra与宇树G1合作，实现厨房自动化清洁。",
+      "summaryZh": ""
+    },
+    {
+      "title": "研究人员称AI智能体曾试图入侵加拿大政府网站，OpenAI回应相关报告",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04NVZlSjBKSVRTc3FGNm14OU5OQm9jRExZU2Vtd0p1eDkzWFFzT2FobDVlV25ackdMN0dCeUJ1R1NWQnIxN19xY0VtYWFiRkFkVlJxME1RSWE?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-30T05:45:00.000Z",
-      "summary": "AI人工智能ETF平安(512930)标的指数盘中下跌，半导体芯片产业链催化活跃。",
+      "pubDate": "2026-10-01T04:20:14.000Z",
+      "summary": "AI智能体尝试入侵加拿大政府网站，OpenAI回应并审查相关报告。",
+      "summaryZh": ""
+    },
+    {
+      "title": "世界知识产权组织报告：人工智能正在重塑创新投资",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DODFsVUl6QWNNQmMtVjNwdXpJZFBLZTlyMUo2ZUJHWEtpVnBPaG1keHpNaG4tbVk2MDQ4dG1ZTjNxYm9lODJxMkU4a1dDY1ZpbzZpSGRrMEw?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-09-30T06:11:15.000Z",
+      "summary": "世界知识产权组织报告显示，人工智能推动创新投资增长，全球研发支出创新高。",
       "summaryZh": ""
     },
     {
@@ -128,36 +177,28 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-09-30T10:51:10.000Z",
-      "summary": "中国农业大学发布肯尼亚农业专属智能体“神农 Zao”，助力非洲小农户。",
+      "summary": "中国农业大学发布肯尼亚农业专属智能体“神农 Zao”，助力非洲小农户解决农业问题。",
       "summaryZh": ""
     },
     {
-      "title": "剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZbjQzTVV4dGVFS2hiTmN6eFJoX3pyTWhZVWhaaUFDVzlicEZlOFNVWFdoWG5TRmFmdlF1bmpYMFZzdFY3eWxTQw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-09-30T12:43:38.000Z",
-      "summary": ""
-    },
-    {
-      "title": "宁波提升具身智能场景落地能力",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pakpMQUZOcmxWYVFiOHVlWEUtN2dZbGNvYS02OWhUVWhvS1NEajdKdzdhdlM5WUx4ZnNOM2sxdGM0MXJoVDhWenhOZmptSE9NaUdPRTdySDRfYXRwRV84?oc=5",
-      "source": "中国经济网",
+      "title": "香港贸发局：秋季四大科技展10月登场，解锁人形机器人、未来产业、智能家居出海新机遇",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NZVIwLWNmTUVxc21jQ2VlQ1I4QjVFaVhiQ1JyTDkwemVJYmJWaDRSUE1zTjFuWnlmWlJuSE5xZERUajVWZlVfMVQ0dUcxNjQw?oc=5",
+      "source": "凤凰财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-30T23:13:00.000Z",
-      "summary": "宁波推动具身智能在多个场景应用落地，实现产业数字化转型。",
+      "pubDate": "2026-09-30T14:45:36.000Z",
+      "summary": "香港贸发局秋季四大科技展聚焦前沿科技，助力企业出海。",
       "summaryZh": ""
     },
     {
-      "title": "AI旅游助手在国庆压力测试中未能做到\"一句话把事办了\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ycUtnWjlXRy1pSjhsek1XSkQ2VHZaWmdfTWNXTnZGb0JLZ2IyelRNWWVJZy1GSnZaYlZVZHZvSk1wTGdGOEtkeHUxamRhdm82TFBNMg?oc=5",
+      "title": "白宫上线AI聊天机器人政府门户America.gov",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxLXM4aHNEQnhWUVRZdFZ4YktUcjJjeTlabXF2b3drYkxYeW94cDRIWDVTclBPUHFsZWwzYVdnZXRlbVI0YURDdkp1aHdQMkNZM2dqdUVTTlF5eURqNmRn?oc=5",
       "source": "虎嗅",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-09-30T01:50:18.000Z",
-      "summary": ""
+      "category": "robotics",
+      "pubDate": "2026-10-01T01:36:53.000Z",
+      "summary": "白宫推出AI聊天机器人政府门户America.gov，旨在整合联邦政府网站，提供官方信息查询服务。",
+      "summaryZh": ""
     },
     {
       "title": "DoorDash’s drone strategy started on the ground",
@@ -177,9 +218,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-09-30T14:03:31.000Z",
-      "summary": "Arrowfly推出面向工程师的AI平台和活动，助力AI应用。",
+      "summary": "Arrowfly推出AI for Engineers平台，为工程师提供AI应用资源。",
       "summaryZh": "",
-      "titleZh": "《机器人报告》的母公司 Arrowfly 推出了面向工程师的人工智能平台，并为工程师们举办了探索人工智能的活动"
+      "titleZh": "《机器人报告》的母公司 Arrowfly 推出了工程师人工智能平台，并为工程师们举办了探索人工智能的活动"
     },
     {
       "title": "Soccer-playing humanoid robots score a major robotics goal for coordination",
@@ -193,23 +234,13 @@
       "titleZh": "踢足球的人形机器人在协调性方面取得了机器人学的主要目标"
     },
     {
-      "title": "特朗普政府推出AI政务网站America.gov，聊天机器人上线即“唱反调”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xLWpWVUNleU1rUFZyaHMxRjEzV0ZMNXZyamViRkZGUUVveDl3S3Q2OF80STJxQW9iX01XR0tvWEVKNDJSeEgydDZQTEw1eDhMb2Rpc2lhckRZQnA2RVE?oc=5",
-      "source": "澎湃新闻科技",
+      "title": "美国加州《反机器人老板》法案生效，禁止完全依赖AI解雇或惩戒员工",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBNWozTVFtZ1ZId3ZiRVY3cnFuTmZPTFRCdUFWWjc4RjVwazE0SkNqMEJQbXNub0pGYnRUXzdhYUFZWTkxZEJneVoyVEY4ampZbmZWUUkzWEJTN1VVT01vREREbWtOaEZwdGU2MTFLcVZCVzV6?oc=5",
+      "source": "金融界",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-09-30T02:23:00.000Z",
-      "summary": "AI政务网站America.gov上线，聊天机器人初现“唱反调”现象。",
-      "summaryZh": ""
-    },
-    {
-      "title": "半小时，够深圳拼出一台机器人（附核心供应商名单）",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42MEdTTGdvWko0SUEzNk90SGxDTUlndE1UT3ZhNlpkUzRHYjdzbjFoOGczTFJyeVZKTGZSZ1VpU2hibldxU3U4N1BIZ0tZMmJfaFlTRE9BZw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-09-30T03:15:35.000Z",
-      "summary": "深圳半小时内可拼装一台机器人，产业链本地化配套成熟。",
+      "pubDate": "2026-10-01T00:18:05.000Z",
+      "summary": "加州《反机器人老板》法案禁止雇主完全依赖AI解雇或惩戒员工。",
       "summaryZh": ""
     },
     {
