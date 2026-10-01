@@ -1,15 +1,15 @@
 {
   "date": "2026-10-02",
-  "generatedAt": "2026-10-01T22:37:27.960Z",
+  "generatedAt": "2026-10-01T23:24:36.405Z",
   "items": [
     {
-      "title": "OpenAI与新思科技将联合开发ChatGPT-Synopsys模型",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93S29WT0lBS3dyWkRYdld4OGExVURvYjF4cmpEeDBFb0Y5S1BKSkdoMi1uMWVzZUhaQlBONGlJWGZpUjhUbzQ5d25KV2xlWjJuRHRLU1BRQUI?oc=5",
-      "source": "界面新闻",
+      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+      "link": "https://www.qbitai.com/2026/10/499663.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-09-30T23:48:45.000Z",
-      "summary": "OpenAI与新思科技合作开发ChatGPT-Synopsys模型，推进半导体创新。",
+      "pubDate": "2026-10-01T15:02:14.000Z",
+      "summary": "谷歌发布Gemini 4模型，性能领先，价格优势明显，仅面向部分网络安全团队。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-01T08:16:17.000Z",
-      "summary": "FDE成为大模型商业化新成本，工程师角色分工细化。",
+      "summary": "FDE成为大模型商业化新成本，工程师需深入客户现场解决定制化需求。",
       "summaryZh": ""
     },
     {
@@ -43,13 +43,33 @@
       "summaryZh": ""
     },
     {
+      "title": "马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半",
+      "link": "https://www.ithome.com/1/009/196.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-01T23:16:54.000Z",
+      "summary": "特斯拉为量产Optimus机器人，将AI5芯片内存用量减半。",
+      "summaryZh": ""
+    },
+    {
       "title": "IROS观察：卡位机器人硬件之后，中国厂商开启下一程",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRQ3o3eWN1RWFFNzJQNW1RUlZ2SFloeEZ2NnZRV1BLRkZrWGVZeGdPN2hIaVlfSXZfa0ItNDdURHRDeEpQZGwyOHZPOXlrWEloX3ZR?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-01T07:37:59.000Z",
-      "summary": "中国厂商在IROS上展示机器人技术，凸显硬件优势，转向务实应用。",
+      "summary": "中国厂商在IROS上展示机器人技术，凸显硬件优势，推动行业务实发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "山东省首家工业机器人9S中心落地临沂罗庄",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHUjNRVWxra0FGcXhEOHV3eWVVcnJlM2Rack9ZTW5pUl9DYS1IWTFrY1I0OU9qSUozcjR2UEtGRDZibmhiWlUzRDhkM3JnMjJ3ZVRwb05ueVotWlFiaHgzVXZVanBBNzlodXNjOW13?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-01T03:24:06.000Z",
+      "summary": "山东省首家工业机器人9S中心在临沂罗庄揭牌运营。",
       "summaryZh": ""
     },
     {
@@ -98,20 +118,9 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-10-01T19:21:53.000Z",
-      "summary": "ChatGPT新增虚拟试衣功能，助力在线购物体验。",
+      "summary": "ChatGPT新增虚拟试衣功能，助力在线购物。",
       "summaryZh": "",
       "titleZh": "ChatGPT 现在可以为您虚拟试衣"
-    },
-    {
-      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-01T14:36:50.000Z",
-      "summary": "OpenAI发布新代理挑战Meta，但能否与免费竞争存疑。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 的新代理是对 Meta 的一次尝试——但它能与免费代理竞争吗？"
     },
     {
       "title": "Precision In Motion. Vishay Precision Group, Inc. (VPG) to Showcase Custom Sensing Capabilities for Humanoid Robotics at RoboBusiness 2026",
@@ -120,9 +129,20 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-01T15:29:55.000Z",
-      "summary": "Vishay Precision Group将在RoboBusiness 2026展示为类人机器人定制的传感能力。",
+      "summary": "Vishay Precision Group将在RoboBusiness 2026展示为类人机器人定制传感能力。",
       "summaryZh": "",
       "titleZh": "运动精准。 Vishay Precision Group, Inc. (VPG) 将在 RoboBusiness 2026 上展示人形机器人的定制传感功能"
+    },
+    {
+      "title": "Rogue OpenAI agents covered their tracks, report says",
+      "link": "https://techxplore.com/news/2026-10-rogue-openai-agents-tracks.html",
+      "source": "Tech Xplore",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-01T22:00:01.000Z",
+      "summary": "报告称，Rogue OpenAI代理隐藏了其活动痕迹。",
+      "summaryZh": "",
+      "titleZh": "报告称，流氓 OpenAI 特工掩盖了他们的踪迹"
     },
     {
       "title": "How Maven Robotics plans to automate industrial work, one task at a time",
@@ -131,7 +151,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-01T12:30:39.000Z",
-      "summary": "Maven Robotics致力于逐步自动化工业工作，已与首客户签订生产合同。",
+      "summary": "Maven Robotics通过逐步自动化工业任务，实现工业自动化。",
       "summaryZh": "",
       "titleZh": "Maven Robotics 计划如何实现工业工作自动化，一次完成一项任务"
     },
@@ -144,6 +164,17 @@
       "pubDate": "2026-10-01T01:36:53.000Z",
       "summary": "白宫推出AI聊天机器人政府门户America.gov，旨在整合政府服务信息。",
       "summaryZh": ""
+    },
+    {
+      "title": "Atlas Robot’s New Hand May Outperform Humanlike Designs",
+      "link": "https://spectrum.ieee.org/robust-robot-hand",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-01T14:40:12.000Z",
+      "summary": "Atlas机器人推出新型手部，性能可能超越类人设计。",
+      "summaryZh": "",
+      "titleZh": "Atlas机器人的新手可能超越类人设计"
     },
     {
       "title": "9月机器人行业月报：本末科技港股上市，启元机器人起售价19999",
@@ -162,19 +193,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-01T16:31:50.000Z",
-      "summary": "KODIAK AI选定亚马逊云服务为自动驾驶卡车技术主要云提供商。",
+      "summary": "KODIAK AI选定亚马逊云服务作为自动驾驶卡车技术主要云提供商。",
       "summaryZh": ""
-    },
-    {
-      "title": "Atlas Robot’s New Hand May Outperform Humanlike Designs",
-      "link": "https://spectrum.ieee.org/robust-robot-hand",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-01T14:40:12.000Z",
-      "summary": "Atlas机器人推出新型手部，性能可能超越类人设计。",
-      "summaryZh": "",
-      "titleZh": "Atlas机器人的新手可能超越类人设计"
     },
     {
       "title": "Anscer Robotics secures FCC approval for its new autonomous mobile robots",
@@ -186,26 +206,6 @@
       "summary": "Anscer Robotics获FCC批准其三款自主移动机器人。",
       "summaryZh": "",
       "titleZh": "Anscer Robotics 的新型自主移动机器人获得 FCC 批准"
-    },
-    {
-      "title": "具身智能最性感的生意，藏在“边角料”里？",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41V215QXpGck85azUtNkZyeC1KeU1GakhxQjRUckNmVXVsRTFOM1NqY0drQ2s2eTl2UUVSNkxZaHFOVUFkc1J5cUNXOHEzN1BwVzNSa1VxSGxBSHdLaldOUFFaSndKeUtWSGhF?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-01T06:10:00.000Z",
-      "summary": "具身智能行业商业化路径探索引发热议。",
-      "summaryZh": ""
-    },
-    {
-      "title": "长沙口岸开启无人机施封新模式",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3cy1kZTZEdTMwZWVWdkE4aEJ1UklwbjJkSGhGd2JkTTlkb2NyNnBaNFlZemZQcVQzYnZPN2pxcVlfVmtzVHB0eFA3ZEQ0a0staS1qMXF4OHhDNGVSTXBFYy1TT2dzQWlhbnVtVmk2VQ?oc=5",
-      "source": "中国新闻网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-01T12:52:00.000Z",
-      "summary": "长沙口岸启用无人机施封新模式，提高通关效率。",
-      "summaryZh": ""
     }
   ]
 }
