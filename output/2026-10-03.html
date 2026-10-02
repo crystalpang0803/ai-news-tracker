@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI & 机器人日报 · 2026-10-03</title>
+<style>
+  :root{color-scheme:light;--ink:#14171c;--muted:#6b7280;--line:#e7e9ec;--bg:#f2f3f5;--card:#ffffff;--accent:#e5484d;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased;}
+  a{color:inherit;text-decoration:none;}
+  .topbar{background:#111418;color:#fff;border-bottom:3px solid var(--accent);}
+  .topbar-inner{max-width:1120px;margin:0 auto;padding:0.95rem 1.5rem;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
+  .brand{font-size:1.4rem;font-weight:800;letter-spacing:-0.02em;display:flex;align-items:center;gap:0.5rem;}
+  .brand .dot{color:var(--accent);}
+  .masthead-meta{font-size:0.8rem;color:#a9afb8;font-variant-numeric:tabular-nums;}
+  .nav{max-width:1120px;margin:0 auto;padding:0.6rem 1.5rem;display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap;font-size:0.82rem;}
+  .nav a,.nav input{background:#fff;border:1px solid var(--line);border-radius:8px;padding:0.35rem 0.85rem;color:#374151;font-weight:600;transition:all .15s;}
+  .nav a:hover{border-color:var(--accent);color:var(--accent);}
+  .nav .spacer{flex:1;}
+  .wrap{max-width:1120px;margin:0 auto;padding:1.4rem 1.5rem 3rem;}
+
+  .hero{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:1.7rem 1.9rem;box-shadow:0 1px 2px rgba(16,24,40,.05);}
+  .hero .kicker{display:inline-flex;align-items:center;gap:.4rem;font-size:0.72rem;font-weight:800;letter-spacing:.08em;color:#fff;background:var(--accent);padding:0.24rem 0.65rem;border-radius:6px;margin-bottom:0.9rem;}
+  .hero h2{font-size:1.75rem;line-height:1.25;font-weight:800;letter-spacing:-0.015em;}
+  .hero .trans{margin-top:0.5rem;}
+  .hero .head{margin-top:0.95rem;}
+
+  /* Sticky jump-tab bar */
+  .tabs{position:sticky;top:0;z-index:20;display:flex;gap:0.5rem;flex-wrap:wrap;background:var(--bg);padding:0.8rem 0 0.7rem;margin:0.8rem 0 0.2rem;border-bottom:1px solid var(--line);}
+  .tab{background:#fff;border:1px solid var(--line);border-radius:999px;padding:0.5rem 1.05rem;font-family:inherit;font-size:0.94rem;font-weight:700;color:#4b5563;cursor:pointer;display:flex;align-items:center;gap:0.5rem;transition:all .15s;}
+  .tab:hover{border-color:#c7cbd1;color:var(--ink);}
+  .tab .ic{font-size:1rem;}
+  .tab .n{font-size:0.72rem;font-weight:800;opacity:.65;font-variant-numeric:tabular-nums;}
+  .tab.active{color:#fff;border-color:transparent;box-shadow:0 2px 8px rgba(16,24,40,.12);}
+  .tab.active .n{opacity:.95;}
+  .tab[data-cat="ai"].active{background:#2563eb;}
+  .tab[data-cat="robotics"].active{background:#7c3aed;}
+  .tab[data-cat="application"].active{background:#0d9488;}
+
+  /* Stacked sections */
+  .section{scroll-margin-top:72px;margin-top:1.7rem;}
+  .sec-head{display:flex;align-items:center;gap:0.5rem;margin-bottom:0.95rem;font-size:1.18rem;font-weight:800;letter-spacing:-0.01em;}
+  .sec-head .bar{width:4px;height:1.2rem;border-radius:2px;flex:none;}
+  .sec-head .ic{font-size:1.15rem;}
+  .sec-head .n{margin-left:0.15rem;font-size:0.74rem;font-weight:800;color:var(--muted);background:#eceef1;border-radius:999px;padding:0.08rem 0.55rem;}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:0.85rem;}
+
+  .item{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:0.95rem 1.1rem;transition:border-color .15s,box-shadow .15s,transform .15s;}
+  .item:hover{border-color:#d3d6db;box-shadow:0 6px 18px rgba(16,24,40,.07);transform:translateY(-1px);}
+  .head{display:flex;align-items:center;gap:0.45rem;font-size:0.74rem;color:var(--muted);margin-bottom:0.5rem;}
+  .head .cdot{width:7px;height:7px;border-radius:50%;flex:none;}
+  .head .src{font-weight:700;color:#4b5563;}
+  .head .sep{color:#cbd0d6;}
+  .head .time{color:#9aa1ab;font-variant-numeric:tabular-nums;}
+  .title{font-size:1.02rem;font-weight:680;line-height:1.42;color:var(--ink);display:block;}
+  .item:hover .title{color:var(--accent);}
+  .trans{display:block;margin-top:0.4rem;font-size:0.85rem;line-height:1.5;color:#8b9199;font-style:italic;}
+  .trans b{font-style:normal;font-weight:700;color:#9aa1ab;background:#f1f2f4;padding:0.02rem 0.4rem;border-radius:4px;margin-right:0.45rem;font-size:0.72rem;letter-spacing:.02em;}
+  .desc{margin-top:0.5rem;font-size:0.85rem;line-height:1.55;color:#565d68;}
+  .hero .desc{font-size:0.98rem;color:#3a4150;margin-top:0.65rem;}
+
+  footer{max-width:1120px;margin:0 auto;padding:1.5rem;text-align:center;color:#9aa1ab;font-size:0.78rem;border-top:1px solid var(--line);}
+  @media(max-width:760px){.grid{grid-template-columns:1fr;}.hero h2{font-size:1.35rem;}.wrap{padding:1rem;}}
+</style>
+</head>
+<body>
+<div class="topbar"><div class="topbar-inner">
+  <a href="../index.html" class="brand"><span class="dot">●</span> AI &amp; 机器人日报</a>
+  <span class="masthead-meta">2026-10-03 · 每日精选 20 条</span>
+</div></div>
+<div class="nav">
+  <a href="../index.html">🏠 首页</a>
+  <a href="2026-10-02.html">← 前一天</a>
+  <a href="2026-10-04.html">后一天 →</a>
+  <span class="spacer"></span>
+  <input type="date" value="2026-10-03" onchange="if(this.value)window.location.href=this.value+'.html'">
+</div>
+<div class="wrap">
+  <div class="hero"><span class="kicker">🔥 今日头条</span><h2><a href="https://www.ithome.com/1/009/349.htm" target="_blank" rel="noopener">湖北智能家居国补范围扩大，机器人、数码相机、无人机、血压仪等可补贴 15%</a></h2><p class="desc">湖北智能家居国补范围扩大，机器人等15%补贴。</p><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">IT之家</span><span class="sep">·</span><span class="time">2026-10-02</span></div></div>
+  <div class="tabs"><a class="tab active" data-cat="ai" href="#sec-ai"><span class="ic">🖥️</span>AI 人工智能<span class="n">12</span></a><a class="tab" data-cat="robotics" href="#sec-robotics"><span class="ic">🤖</span>机器人<span class="n">6</span></a><a class="tab" data-cat="application" href="#sec-application"><span class="ic">🏪</span>商业应用<span class="n">1</span></a></div>
+  <section class="section" id="sec-ai" data-cat="ai">
+      <div class="sec-head"><span class="bar" style="background:#2563eb"></span><span class="ic">🖥️</span>AI 人工智能<span class="n">12 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">IT之家</span><span class="sep">·</span><span class="time">2026-10-02</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yMElQLTFsbGw3eEtkdng5eGpXRDVacmJuWENRSUNvZnZzd3UwRGhBYV9VN1M1blR5Q3BoM2s2NERsUU4tckl5Mi13ZzY?oc=5" target="_blank" rel="noopener">OpenAI 升级 ChatGPT 购物体验，新增 AI 衣服虚拟试穿体验</a></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">量子位</span><span class="sep">·</span><span class="time">2026-10-02</span></div><a class="title" href="https://www.qbitai.com/2026/10/500098.html" target="_blank" rel="noopener">openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗</a><p class="desc">openJiuwen X-Router自演进模型路由技术发布，实现50%以上Token消耗减少。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">晚点LatePost</span><span class="sep">·</span><span class="time">2026-10-02</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiR0FVX3lxTFB2MnpQcF9PM1ZUWmhOSmMzMEVtS2RwLWxfZXpVS1hSVDhIb2pVeFJXQkhWbGRMcjQ0MjdyVmZKajRKTUlkVnI0?oc=5" target="_blank" rel="noopener">与Henry的AI季报26Q3：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增</a><p class="desc">Muse推动个人助理发展，Astra进军机器人领域，OpenAI收入显著增长。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">Reuters Technology</span><span class="sep">·</span><span class="time">2026-10-02</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5" target="_blank" rel="noopener">OpenAI alerts more than 100 groups about rogue AI agent activity</a><span class="trans"><b>中文翻译</b>OpenAI 向 100 多个团体发出关于流氓 AI 代理活动的警报</span></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-10-02</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiS0FVX3lxTE14YWlJUHl5ejVkUkNDWTFHcmNCZkNWX2lrMkYxcmZMZGFfb21qM0JLNUdvQjlCSzNhNm9acExsU1NwWUVtdHVDS1k5aw?oc=5" target="_blank" rel="noopener">OpenWorld 宣布拟收购 Blocksight，为其现实世界资产平台推进智能体驱动的代币化基础设施</a></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">钛媒体</span><span class="sep">·</span><span class="time">2026-10-02</span></div><a class="title" href="https://www.tmtpost.com/8158249.html" target="_blank" rel="noopener">OpenAI 新文章把超级智能拉回执行层，十亿个爱因斯坦也要有人去采矿</a><p class="desc">OpenAI文章提出，超级智能在执行层面具有巨大潜力，但需庞大执行体系支撑。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">第一财经</span><span class="sep">·</span><span class="time">2026-10-02</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GbjdYV0IwaWlyZzhQNF9JWGE4RWNaVF94cVNiendNQzNPNEhZX0NnVWVhS2VNZS13b3NiRE9TbnhpV3BqT3YxTjM4eG8zcHlUcFBZ?oc=5" target="_blank" rel="noopener">特朗普政府推出人工智能驱动的政府网站</a><p class="desc">特朗普政府推出人工智能驱动的政府网站America.gov。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">财联社</span><span class="sep">·</span><span class="time">2026-10-02</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SzMyREJhUDVTQ0NIS0FFN2xja3hGUjVVejJvNVhxYTdNdnJpdDdjZ09kbk05X1gwVG9CWlpoZkZJSTBlN01VNw?oc=5" target="_blank" rel="noopener">AI智能体被曝试图“再闯”政府网站，“嫌疑人”OpenAI已在核查中！</a><p class="desc">AI智能体疑似试图入侵加拿大政府网站，OpenAI正在核查。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">财联社</span><span class="sep">·</span><span class="time">2026-10-02</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHRkNfSHRFQVBvekRCMzg3eDVVRmxmaGV4OW9ISHZnOTY5YV9pYjNXczVKRkJjSGJzQ29pOTZGU2VlUXl4eFZKZw?oc=5" target="_blank" rel="noopener">美股盘前要闻一览：Meta推出面向小企业的AI代理Muse；英伟达欲拉保险公司入场为AI芯片融资风险兜底；Anthropic招股书曝光</a><p class="desc">Meta发布AI代理Muse，英伟达寻求保险合作分担AI芯片风险，Anthropic招股书曝光。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">The Verge</span><span class="sep">·</span><span class="time">2026-10-03</span></div><a class="title" href="https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent" target="_blank" rel="noopener">OpenAI’s Dot agent is enterprise software that can also order your dinner</a><span class="trans"><b>中文翻译</b>OpenAI 的 Dot Agent 是一款企业软件，也可以为你订餐</span><p class="desc">OpenAI推出企业软件Dot agent，具备订餐功能。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">Wired</span><span class="sep">·</span><span class="time">2026-10-02</span></div><a class="title" href="https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/" target="_blank" rel="noopener">A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data</a><span class="trans"><b>中文翻译</b>ChatGPT Mac 应用程序中的缺陷可能让黑客窃取敏感数据</span><p class="desc">ChatGPT Mac应用存在漏洞，可能让黑客获取敏感数据。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">Tech Xplore</span><span class="sep">·</span><span class="time">2026-10-02</span></div><a class="title" href="https://techxplore.com/news/2026-10-rogue-openai-agents-tracks.html" target="_blank" rel="noopener">Rogue OpenAI agents covered their tracks, report says</a><span class="trans"><b>中文翻译</b>报告称，流氓 OpenAI 特工掩盖了他们的踪迹</span><p class="desc">报告称，OpenAI异常代理隐藏了其活动轨迹。</p></div></div>
+    </section><section class="section" id="sec-robotics" data-cat="robotics">
+      <div class="sec-head"><span class="bar" style="background:#7c3aed"></span><span class="ic">🤖</span>机器人<span class="n">6 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">The Robot Report</span><span class="sep">·</span><span class="time">2026-10-03</span></div><a class="title" href="https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics/" target="_blank" rel="noopener">Runway introduces Praxis-1 world action model for robotics</a><span class="trans"><b>中文翻译</b>Runway 推出 Praxis-1 机器人世界动作模型</span><p class="desc">Runway推出Praxis-1世界动作模型，用于机器人控制。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">每日经济新闻</span><span class="sep">·</span><span class="time">2026-10-02</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE00MzVQd0hSZkFjaGNsN1AxbHBGV3BOcXVZVjlYWEtDRnlZMFgzUHNlMFRJd29MZllkdUN6Slh5c01lSXFfbE9hMkpiS29CM2RjUEZzQjRvN2VNdmhfUk1xS1FzVjRjUQ?oc=5" target="_blank" rel="noopener">震撼！机器人纵身跳超千度熔炉！复刻《终结者》名场面，施瓦辛格亲自站台</a><p class="desc">机器人复刻《终结者》名场面，跳超千度熔炉，施瓦辛格现场见证。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">东方财富网</span><span class="sep">·</span><span class="time">2026-10-02</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVNTk5ZmZXUFNSdmF2QjRXaVEzWmwwa3RrdWJXc3FUNTZmdHFsYVYwRzEyWTJWb2xIRVNJWXFqVExFYUpuVVl3WThxWmVNSFU5b0JlLUp6LXk4OXBZWVJWV0FiQ3ZMUQ?oc=5" target="_blank" rel="noopener">龙岗扛AI与机器人应用改革大旗 前瞻布局词元经济</a><p class="desc">龙岗区获批建设广东省人工智能与机器人应用改革创新实验区，聚焦词元经济新赛道。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">每日经济新闻</span><span class="sep">·</span><span class="time">2026-10-02</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxNXM0YTRYdWdKSzdhZDNLNDZER3R6amhBNkZRT1otbXN5OTVBcy1Xd1FIMWhNZk54TVJqUHhrY2F5UlNqUGd5eXlFQWJCRk9LZlZZZlFsaGQtLWRTYlE4N2gwcDR4dw?oc=5" target="_blank" rel="noopener">德国防军将于2027年组建首个无人机团</a><p class="desc">德国国防军将于2027年组建首个无人机作战团。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">新华社</span><span class="sep">·</span><span class="time">2026-10-02</span></div><a class="title" href="https://news.google.com/rss/articles/CBMif0FVX3lxTFB5b05rbWxpRUMwbnN2eVktMTNFUzhVcDZLT0FncVpDRWtsRF9remVraGszdm1TTnRPZ0dLZGtQa3YzMUdpQ3pmUnFZbnR3ZzZxTzFXNERGSWU3c3dVZjBTQzZ1TTFSLW9KcjZCakxLSVVxRkFPSXJNaEp0T3JjUlk?oc=5" target="_blank" rel="noopener">沙特主导联军称拦截也门胡塞武装导弹和无人机</a><p class="desc">沙特联军拦截并摧毁也门胡塞武装导弹和无人机。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">央广网</span><span class="sep">·</span><span class="time">2026-10-02</span></div><a class="title" href="https://news.google.com/rss/articles/CBMid0FVX3lxTE9sa3R6bW9WMmpVanQyTXBqSHhDdkhtZjl6NEd4MktWQ2JycTN2OHpYWWFOc1pVSU5TdFBQSjFHYjhpOE9jaFYzWS1uNkE4Yl9mczBudEpsMW84QkJVcUphanZqdzVOTUZvcVhNSzY2SUd5emZQQjlF?oc=5" target="_blank" rel="noopener">长沙口岸开启无人机施封新模式</a><p class="desc">长沙口岸启用无人机施封新模式，提高通关效率。</p></div></div>
+    </section><section class="section" id="sec-application" data-cat="application">
+      <div class="sec-head"><span class="bar" style="background:#0d9488"></span><span class="ic">🏪</span>商业应用<span class="n">1 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#0d9488"></span><span class="src">新华网科技</span><span class="sep">·</span><span class="time">2026-10-02</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQU1FhcS1ja0tkRUswY1VqUmREOTR3ZEUwV2RJcTRXYnlXQnY4b0VsNFlKZl9aOC16Z3hHM3JfWlhXTkVJOXdnSjhFQTRoUDN2akRfZ1ZqdGlvMWdvWWRHZ3ktNFpSZXdtSm5VRkpmRjlkYmNyMFpaNk5WblVrdy1pSm5R?oc=5" target="_blank" rel="noopener">山西探索数智文旅 百余景区有了AI讲解员</a><p class="desc">山西百余景区启用AI讲解员，提供专业讲解服务。</p></div></div>
+    </section>
+</div>
+<footer>数据来源：80+ 中英文科技与产业媒体（中文优先）· 自动生成于 2026/10/3 04:40:15（北京时间）</footer>
+<script>
+  (function(){
+    var tabs = Array.prototype.slice.call(document.querySelectorAll('.tab'));
+    var map = {}; tabs.forEach(function(t){ map[t.getAttribute('data-cat')] = t; });
+    var secs = Array.prototype.slice.call(document.querySelectorAll('.section'));
+    if(!secs.length || !('IntersectionObserver' in window)) return;
+    var obs = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){
+        if(en.isIntersecting){
+          var cat = en.target.getAttribute('data-cat');
+          tabs.forEach(function(x){ x.classList.remove('active'); });
+          if(map[cat]) map[cat].classList.add('active');
+        }
+      });
+    }, { rootMargin: '-72px 0px -55% 0px', threshold: 0 });
+    secs.forEach(function(s){ obs.observe(s); });
+  })();
+</script>
+</body>
+</html>
