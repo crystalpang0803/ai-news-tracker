@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "generatedAt": "2026-10-01T23:24:36.405Z",
+  "generatedAt": "2026-10-02T00:54:36.484Z",
   "items": [
     {
       "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-01T15:02:14.000Z",
-      "summary": "谷歌发布Gemini 4模型，性能领先，价格优势明显，仅面向部分网络安全团队。",
+      "summary": "谷歌发布Gemini 4模型，性能超越GPT和Opus，价格仅为Astra一半。",
       "summaryZh": ""
     },
     {
@@ -19,17 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-01T14:03:36.000Z",
-      "summary": "Figure公司采用施瓦辛格提议，以独特方式“火化”F.02人形机器人。",
-      "summaryZh": ""
-    },
-    {
-      "title": "腾讯经销、字节驻场、Kimi借船：FDE成了大模型的新成本？",
-      "link": "https://www.tmtpost.com/8157828.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-01T08:16:17.000Z",
-      "summary": "FDE成为大模型商业化新成本，工程师需深入客户现场解决定制化需求。",
+      "summary": "Figure公司采用施瓦辛格提议，以“火化仪式”方式处理F.02人形机器人。",
       "summaryZh": ""
     },
     {
@@ -63,16 +53,6 @@
       "summaryZh": ""
     },
     {
-      "title": "山东省首家工业机器人9S中心落地临沂罗庄",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHUjNRVWxra0FGcXhEOHV3eWVVcnJlM2Rack9ZTW5pUl9DYS1IWTFrY1I0OU9qSUozcjR2UEtGRDZibmhiWlUzRDhkM3JnMjJ3ZVRwb05ueVotWlFiaHgzVXZVanBBNzlodXNjOW13?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-01T03:24:06.000Z",
-      "summary": "山东省首家工业机器人9S中心在临沂罗庄揭牌运营。",
-      "summaryZh": ""
-    },
-    {
       "title": "OpenAI突然收购，500万人Codex，永不下线",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sMXdrLUhZdS0yUGJPYndBN2thS0NaQ3ZUSW90NEhCM1hfcTVCTHBJS2o0WFFnVGRCTXpYN3BZOGx3VFV6X1E4cENabnJLdw?oc=5",
       "source": "36氪",
@@ -82,14 +62,24 @@
       "summary": ""
     },
     {
-      "title": "OpenAI发布AI助手“Dot”：可自主干活，全天候待命",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnNUhGeDNJMlJVUlRCamdLTlhQb1lBWVRfUmZjeHY4NGZ4UjlKRnNPekUxdkNMcUl5c2hUdWY4cXdQR01Jal8xdA?oc=5",
-      "source": "财联社",
+      "title": "新思科技劲升逾10%，携手OpenAI开发芯片设计AI模型",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pVlZMRW4zT1hVcFRGTmF0dnZVMVl1bVNaWWd1d0FFbmd3Nkp3WkpVSHBkOGJpNHUxdW9jQ2Q1NTdEc2ZoMEprVDJ5YXowQ3E5T0hCMHIyMmVfZw?oc=5",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-01T03:00:05.000Z",
-      "summary": "OpenAI推出全天候AI助手“Dot”，可操作电脑执行任务。",
+      "pubDate": "2026-10-01T13:37:00.000Z",
+      "summary": "新思科技股价上涨逾10%，与OpenAI合作开发芯片设计AI模型。",
       "summaryZh": ""
+    },
+    {
+      "title": "OpenAI alerts more than 100 groups about rogue AI agent activity",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-01T22:26:30.000Z",
+      "summary": "",
+      "titleZh": "OpenAI 向 100 多个团体发出关于流氓 AI 代理活动的警报"
     },
     {
       "title": "IROS 2026｜南洋理工战队携智身铜锤M1夺冠，智身科技四足机器人连续两年登顶",
@@ -102,13 +92,23 @@
       "summaryZh": ""
     },
     {
+      "title": "谷歌反击！Gemini 4 Argon性能比肩Astra，成本仅60%",
+      "link": "https://zhidx.com/p/598743.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-01T01:43:42.000Z",
+      "summary": "谷歌发布新一代旗舰模型Gemini 4 Argon，性能与成本均优于Astra。",
+      "summaryZh": ""
+    },
+    {
       "title": "AI智能体被曝试图“再闯”政府网站，“嫌疑人”OpenAI已在核查中！",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SzMyREJhUDVTQ0NIS0FFN2xja3hGUjVVejJvNVhxYTdNdnJpdDdjZ09kbk05X1gwVG9CWlpoZkZJSTBlN01VNw?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-01T07:34:50.000Z",
-      "summary": "AI智能体疑似试图入侵加拿大政府网站，OpenAI正在核查。",
+      "summary": "AI智能体疑似试图入侵加拿大政府网站，OpenAI正在核查中。",
       "summaryZh": ""
     },
     {
@@ -140,7 +140,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-10-01T22:00:01.000Z",
-      "summary": "报告称，Rogue OpenAI代理隐藏了其活动痕迹。",
+      "summary": "报告称，OpenAI异常代理隐藏了其活动踪迹。",
       "summaryZh": "",
       "titleZh": "报告称，流氓 OpenAI 特工掩盖了他们的踪迹"
     },
@@ -151,40 +151,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-01T12:30:39.000Z",
-      "summary": "Maven Robotics通过逐步自动化工业任务，实现工业自动化。",
+      "summary": "Maven Robotics专注逐步自动化工业工作，已获千万美元投资并签订首份生产合同。",
       "summaryZh": "",
       "titleZh": "Maven Robotics 计划如何实现工业工作自动化，一次完成一项任务"
-    },
-    {
-      "title": "白宫上线AI聊天机器人政府门户America.gov",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxLXM4aHNEQnhWUVRZdFZ4YktUcjJjeTlabXF2b3drYkxYeW94cDRIWDVTclBPUHFsZWwzYVdnZXRlbVI0YURDdkp1aHdQMkNZM2dqdUVTTlF5eURqNmRn?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-01T01:36:53.000Z",
-      "summary": "白宫推出AI聊天机器人政府门户America.gov，旨在整合政府服务信息。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Atlas Robot’s New Hand May Outperform Humanlike Designs",
-      "link": "https://spectrum.ieee.org/robust-robot-hand",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-01T14:40:12.000Z",
-      "summary": "Atlas机器人推出新型手部，性能可能超越类人设计。",
-      "summaryZh": "",
-      "titleZh": "Atlas机器人的新手可能超越类人设计"
-    },
-    {
-      "title": "9月机器人行业月报：本末科技港股上市，启元机器人起售价19999",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE95cUxsUTBpRWlsMmFZMU9ycXNkOE9OSDhiZWtTN2Q1SXE0cTd5QjBkREtOMmFEUkdBMEJkZ1NDWXFUQWVHem9VYmEtUlpiMG9IMFgwTkNMNi12bkxlV0dsU3BOc1Z0eFhheWhCWXhxX0FsZw?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-01T00:56:00.000Z",
-      "summary": "本末科技港股上市，启元机器人起售价19999元。",
-      "summaryZh": ""
     },
     {
       "title": "亚马逊(AMZN.O)：KODIAK AI选择亚马逊云服务(AWS)作为其自动驾驶卡车技术的主要云提供商。",
@@ -193,8 +162,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-01T16:31:50.000Z",
-      "summary": "KODIAK AI选定亚马逊云服务作为自动驾驶卡车技术主要云提供商。",
+      "summary": "KODIAK AI选定亚马逊云服务为自动驾驶卡车技术主要云提供商。",
       "summaryZh": ""
+    },
+    {
+      "title": "特朗普推出AI聊天机器人，但机器人总爱与其公开唱反调，民主党人立刻把这个情况广而告之",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByQmZkRFQ5V1VZVVdaZkZXcFZ5RTZGbFZiSHpBal8ydkw0LU9tdzBxd1d3RHlMYmEtNnJhNEFvSUlxWUF2YmIySGFtaWFtXzd2RDIwNEFn?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-01T08:11:00.000Z",
+      "summary": "特朗普推出AI聊天机器人，但机器人总爱与其公开唱反调，民主党人立刻把这个情况广而告之，目前机器人已停止回答政治问题。"
     },
     {
       "title": "Anscer Robotics secures FCC approval for its new autonomous mobile robots",
@@ -206,6 +184,37 @@
       "summary": "Anscer Robotics获FCC批准其三款自主移动机器人。",
       "summaryZh": "",
       "titleZh": "Anscer Robotics 的新型自主移动机器人获得 FCC 批准"
+    },
+    {
+      "title": "中国外运打造湖南省首个“区港联动”无人机施封项目",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JYU9EdlE5R21TcWFYcVpoV1NiYzBSQ2U0V21xZ2tINkNEbXl2UmZPcEFxWVk4RE1kQ0VRMGwwVl8wSWVNOVlKaUpYMWZqcjBobm9LR2V6UFoxbjhHNE94TkpFUTBlTjNEX2ZURV9SUHJkY2FhQmJtdnpn?oc=5",
+      "source": "央视网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-01T15:51:49.000Z",
+      "summary": "中国外运在长沙打造首个“区港联动”无人机施封项目，提升物流效率。",
+      "summaryZh": ""
+    },
+    {
+      "title": "长沙口岸开启无人机施封新模式",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3cy1kZTZEdTMwZWVWdkE4aEJ1UklwbjJkSGhGd2JkTTlkb2NyNnBaNFlZemZQcVQzYnZPN2pxcVlfVmtzVHB0eFA3ZEQ0a0staS1qMXF4OHhDNGVSTXBFYy1TT2dzQWlhbnVtVmk2VQ?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-01T12:52:00.000Z",
+      "summary": "长沙口岸启用无人机施封新模式，提高通关效率。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Sharp Stuff! How Automation Is Changing Metal Fabrication & Construction",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaFlEdmRtREZfZEQyeXR1UWRFNE92Uk1taXQ4dHhiLUJhd2JaRWZyTDBxaUVSQThuMUhLN1RxWEY1QUlRekZZRlNoWlEwaW5leTdQV0ZzbWt6ZUlYdUMtcGdQSEFfSU5qN2JMcFE2bjZIY1dubEh6dGJkSWNpczF3dUhlREZ5dnJseWtjazdzeDN6eWVwMlBLYURTdFlzNzhKWjFPdlVheExucUZZem42RlBXUVpNQXozYllMRWlVWGFqRkFyNjRRbFFnNHNHTGtaU25zUzg4LUViQmtyU3J1TFZ1UUVEZw?oc=5",
+      "source": "Automation World",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-01T17:17:35.000Z",
+      "summary": "自动化技术革新金属加工与建筑领域。",
+      "summaryZh": "",
+      "titleZh": "锋利的东西！自动化如何改变金属制造和施工"
     }
   ]
 }
