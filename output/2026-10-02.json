@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "generatedAt": "2026-10-02T05:45:02.683Z",
+  "generatedAt": "2026-10-02T10:02:22.121Z",
   "items": [
     {
       "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
@@ -13,63 +13,13 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI与新思科技将联合开发ChatGPT-Synopsys模型",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93S29WT0lBS3dyWkRYdld4OGExVURvYjF4cmpEeDBFb0Y5S1BKSkdoMi1uMWVzZUhaQlBONGlJWGZpUjhUbzQ5d25KV2xlWjJuRHRLU1BRQUI?oc=5",
-      "source": "界面新闻",
+      "title": "丘成桐新论文致谢了GPT和Claude",
+      "link": "https://www.qbitai.com/2026/10/499991.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-01T16:06:58.000Z",
-      "summary": "OpenAI与新思科技合作开发ChatGPT-Synopsys模型，推进半导体创新。",
-      "summaryZh": ""
-    },
-    {
-      "title": "谷歌推出了个“做题家”：Gemini 4 Argon屠榜，但干活差点意思",
-      "link": "https://www.tmtpost.com/8157785.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-01T08:16:28.000Z",
-      "summary": "谷歌推出Gemini 4 Argon，在多项测试中领先，但在实际应用中表现一般。",
-      "summaryZh": ""
-    },
-    {
-      "title": "腾讯经销、字节驻场、Kimi借船：FDE成了大模型的新成本？",
-      "link": "https://www.tmtpost.com/8157828.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-01T08:16:17.000Z",
-      "summary": "大模型商业化推动FDE工程师需求增长。",
-      "summaryZh": ""
-    },
-    {
-      "title": "填充 AI 资金弹药：曝 OpenAI 融资再落袋 200 亿美元，英伟达、软银和亚马逊已出资约 90%",
-      "link": "https://www.ithome.com/1/009/270.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-02T05:07:45.000Z",
-      "summary": "OpenAI 获英伟达、软银和亚马逊等投资200亿美元，估值达8500亿美元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Meta Muse引爆个人Agent后，OpenAI发布dots正面迎战",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fSjhGTW1aTjhVZ3Fub0pJZWFLTEJEN0VVeDRRVTljNmZEcEx6QjhSWmRYX1QxTTJpek50Vmc3S3Y4TXYxeEZzWTRLQzRLbUl4bWlF?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-01T08:45:17.000Z",
-      "summary": "OpenAI发布dots个人Agent，与Meta Muse正面竞争。",
-      "summaryZh": ""
-    },
-    {
-      "title": "IROS观察：卡位机器人硬件之后，中国厂商开启下一程",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRQ3o3eWN1RWFFNzJQNW1RUlZ2SFloeEZ2NnZRV1BLRkZrWGVZeGdPN2hIaVlfSXZfa0ItNDdURHRDeEpQZGwyOHZPOXlrWEloX3ZR?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-01T07:37:59.000Z",
-      "summary": "中国厂商在IROS上展示机器人技术，凸显硬件优势，推动行业务实发展。",
+      "pubDate": "2026-10-02T07:27:03.000Z",
+      "summary": "丘成桐新论文利用AI工具GPT和Claude探索微分几何经典猜想，证明七维空间怪球可均匀向内弯曲。",
       "summaryZh": ""
     },
     {
@@ -82,53 +32,13 @@
       "summary": ""
     },
     {
-      "title": "软银完成对OpenAI追加投资最后一笔100亿美元，累计投资达646亿美元",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UX0lJU083QjlrSnZka2trMDFnT1V3Z2lyd25YTGFEN2ZZQk9fZmRSb2dHX3dxQTdFSWJMZ0lmS0VQZjdrWVZpa2VtUFR1ZkNtZVdoVkx4MWU?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-01T07:15:08.000Z",
-      "summary": "软银完成对OpenAI追加投资100亿美元，累计投资达646亿美元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "与Henry的AI季报26Q3：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB2MnpQcF9PM1ZUWmhOSmMzMEVtS2RwLWxfZXpVS1hSVDhIb2pVeFJXQkhWbGRMcjQ0MjdyVmZKajRKTUlkVnI0?oc=5",
-      "source": "晚点LatePost",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-02T01:43:08.000Z",
-      "summary": "AI季报26Q3：Muse推动个人助理发展，Astra涉足机器人，OpenAI收入激增。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI alerts more than 100 groups about rogue AI agent activity",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-01T22:26:30.000Z",
-      "summary": "",
-      "titleZh": "OpenAI 向 100 多个团体发出关于流氓 AI 代理活动的警报"
-    },
-    {
-      "title": "苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》",
-      "link": "http://www.geekpark.net/news/372069",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-02T00:28:26.000Z",
-      "summary": "苹果首款触屏Macbook或10月发布，AI成本三年降数千倍，美人形机器人致敬《终结者2》。",
-      "summaryZh": ""
-    },
-    {
       "title": "IROS 2026｜南洋理工战队携智身铜锤M1夺冠，智身科技四足机器人连续两年登顶",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE81NTdNSllfekgxSDlZaUcwRC1ZSFVnQ1hCSzk2ZTdrWmFTc3JjTjlrRnhwUXNaSU9EVHhKbFpNeFMyc2dmcjlqRDhOVF8?oc=5",
       "source": "极客公园",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-01T10:10:43.000Z",
-      "summary": "南洋理工战队携智身科技四足机器人智身铜锤M1连续两年夺得IROS足式机器人挑战赛冠军。",
+      "summary": "南洋理工战队智身铜锤M1机器人连续两年夺IROS足式机器人挑战赛冠军。",
       "summaryZh": ""
     },
     {
@@ -138,17 +48,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-02T01:40:47.000Z",
-      "summary": "成都举办“智创国庆”系列活动，机器人技术点亮科技文旅新热潮。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI智能体被曝试图“再闯”政府网站，“嫌疑人”OpenAI已在核查中！",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SzMyREJhUDVTQ0NIS0FFN2xja3hGUjVVejJvNVhxYTdNdnJpdDdjZ09kbk05X1gwVG9CWlpoZkZJSTBlN01VNw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-01T07:34:50.000Z",
-      "summary": "AI智能体疑似试图入侵加拿大政府网站，OpenAI正在核查。",
+      "summary": "成都“智创国庆”活动以机器人技术点燃科技文旅新热潮。",
       "summaryZh": ""
     },
     {
@@ -173,13 +73,13 @@
       "titleZh": "运动精准。 Vishay Precision Group, Inc. (VPG) 将在 RoboBusiness 2026 上展示人形机器人的定制传感功能"
     },
     {
-      "title": "自由度 7 → 13：波士顿动力升级 Atlas 机械手，可操控钻头 / 拧螺丝等",
-      "link": "https://www.ithome.com/1/009/256.htm",
-      "source": "IT之家",
+      "title": "苹果首款触屏Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者2》",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqNWM4RE82SEs2UG9xSWtfQTZzX1VabUo2Ynk0b2JkdGljYzZuTk9GdFBQVU1lM2lwTzdjdmNmQUFHZEF2bkFUT014VGU?oc=5",
+      "source": "极客公园",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-02T04:10:22.000Z",
-      "summary": "波士顿动力升级Atlas机械手，自由度提升至13个，可操控钻头等。",
+      "pubDate": "2026-10-02T00:31:50.000Z",
+      "summary": "苹果首款触屏Macbook或10月发布，AI能力成本三年下降数千倍，美人形机器人致敬《终结者2》。",
       "summaryZh": ""
     },
     {
@@ -192,24 +92,34 @@
       "summary": ""
     },
     {
+      "title": "外骨骼、消费级3D打印机、人形机器人……黑科技新物种“闯入”双节礼单",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zanY0RmpqSXFnQ0V4Z0tZZXg1eXI3RGJGYmtVc2NwclNNUGlfWUZTSlZZWjkzaFNmVWtDOE1ZelYzVC1KOExRaHZPNjhCaGRu?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-02T07:10:28.000Z",
+      "summary": "科技产品成为双节热门礼物，外骨骼、3D打印机等黑科技新物种销量攀升。",
+      "summaryZh": ""
+    },
+    {
       "title": "How Maven Robotics plans to automate industrial work, one task at a time",
       "link": "https://www.therobotreport.com/how-maven-robotics-plans-automate-industrial-work-one-task-at-a-time/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-01T12:30:39.000Z",
-      "summary": "Maven Robotics计划分步骤自动化工业工作，已获得千万美元融资并签订首份生产合同。",
+      "summary": "Maven Robotics专注逐项自动化工业任务，实现高效生产。",
       "summaryZh": "",
       "titleZh": "Maven Robotics 计划如何实现工业工作自动化，一次完成一项任务"
     },
     {
-      "title": "人形机器人估值逻辑重构：从稀缺性溢价到业绩确定性的范式切换",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tOWVJdnRiWFhHdEotZG5uaVYzanR2a09SVG94WnZIY19rak1aelFNcDFaV0V6LTFnODdEX1JWOGtXZlBZN3BnZzl0N1NhcE9SVDkwRmFVUWhMdkM3UFJ3OWdn?oc=5",
-      "source": "新京报",
+      "title": "具身智能最性感的生意，藏在“边角料”里？",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuYTJKLU5DQm5IaG9KUk9TRUZnY01xUEEtb3ZZNVBPZWpGek5ONWR1NndvY3RYLUl5cXZlVWM1cXZEeEtBNnBQYkxjeU1QYVc2RERoUkU2N0c?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-01T07:19:00.000Z",
-      "summary": "人形机器人行业估值逻辑从稀缺性溢价转向业绩确定性，宇树科技和拓斯达分别代表技术和业绩两个维度。",
+      "pubDate": "2026-10-02T04:59:19.000Z",
+      "summary": "具身智能行业面临商业化困境，细分场景成破局关键。",
       "summaryZh": ""
     },
     {
@@ -234,13 +144,22 @@
       "titleZh": "Atlas机器人的新手可能超越类人设计"
     },
     {
+      "title": "机器人也来“抢”芯片！特斯拉下调 AI5/AI6 存储规格，为 Optimus 量产让路",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WdXRESUpWT0xoUnpTQk9TMnZ1Rm1jLW5WdURGRVZsVU1VS2FuamRnMFJLLUJobUw5QzNjV3dSWEFYVkJrRmlqZWhvRENaTmt1c2pn?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-02T07:07:50.000Z",
+      "summary": ""
+    },
+    {
       "title": "亚马逊(AMZN.O)：KODIAK AI选择亚马逊云服务(AWS)作为其自动驾驶卡车技术的主要云提供商。",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkc3AyTGlFUXlUeUItX0dXOFdHdDhiOHNwRVZraGdiS01aUE4zRGhsWWpJVGdyckl0LU1HYklIVlJ1NFpZbDJpM0VJd1NzanVxN1dZd1o1Q05CVXZLYmhjX01fb1Q5WmNlQmxTdF9Qaw?oc=5",
       "source": "金融界",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-01T16:31:50.000Z",
-      "summary": "KODIAK AI选定亚马逊云服务为自动驾驶卡车技术主要云提供商。",
+      "summary": "KODIAK AI选定亚马逊云服务作为自动驾驶卡车技术主要云提供商。",
       "summaryZh": ""
     },
     {
