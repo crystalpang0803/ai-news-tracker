@@ -1,15 +1,15 @@
 {
   "date": "2026-10-03",
-  "generatedAt": "2026-10-03T00:33:32.758Z",
+  "generatedAt": "2026-10-03T01:28:27.342Z",
   "items": [
     {
-      "title": "湖北智能家居国补范围扩大，机器人、数码相机、无人机、血压仪等可补贴 15%",
-      "link": "https://www.ithome.com/1/009/349.htm",
-      "source": "IT之家",
+      "title": "全球人形机器人上半年出货激增432%，中国占比近80%，智元出货量超越宇树登顶",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6b1N5QXlfbUd6cnNMaXhpQ3l3RFNHbzhUN0hTbzVYMm01OXFzMUxEdlVMbDFFNlZCSExKYlBLR1B5eEtfTEVPdjB4UC15NkRWVEwzVW5EYjQ?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-02T12:22:17.000Z",
-      "summary": "湖北扩大智能家居国补范围，机器人等15%补贴。",
+      "pubDate": "2026-10-02T15:00:21.000Z",
+      "summary": "全球人形机器人上半年出货量激增432%，中国制造商智元出货量超越宇树科技登顶全球第一。",
       "summaryZh": ""
     },
     {
@@ -19,37 +19,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-02T07:34:15.000Z",
-      "summary": "openJiuwen X-Router自演进模型路由技术发布，实测减少50%以上Token消耗。",
+      "summary": "openJiuwen X-Router自演进模型路由技术发布，实现50%以上Token消耗减少。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI 新文章把超级智能拉回执行层，十亿个爱因斯坦也要有人去采矿",
-      "link": "https://www.tmtpost.com/8158249.html",
-      "source": "钛媒体",
+      "title": "美股盘前要闻一览：Meta推出面向小企业的AI代理Muse；英伟达欲拉保险公司入场为AI芯片融资风险兜底；Anthropic招股书曝光",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHRkNfSHRFQVBvekRCMzg3eDVVRmxmaGV4OW9ISHZnOTY5YV9pYjNXczVKRkJjSGJzQ29pOTZGU2VlUXl4eFZKZw?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-02T02:32:28.000Z",
-      "summary": "OpenAI文章提出，超级智能应专注于执行层面，而非仅限于思考。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI 伦理研究：DeepSeek 对男女一视同仁，美系模型却“区别对待”",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oeFZTWjNZaEJCVXQ0c1luLW5TYjVlMXIybl9sUmhidUs3MXZTNDVJVVNMOTQ3ZDZpZzI1ejdlSS1rTFBxRDBQNWliV1c?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-02T02:55:18.000Z",
-      "summary": "DeepSeek AI模型在道德判断中性别中立，美系模型则存在性别差异。",
-      "summaryZh": ""
-    },
-    {
-      "title": "特朗普政府推出人工智能驱动的政府网站",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GbjdYV0IwaWlyZzhQNF9JWGE4RWNaVF94cVNiendNQzNPNEhZX0NnVWVhS2VNZS13b3NiRE9TbnhpV3BqT3YxTjM4eG8zcHlUcFBZ?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-02T08:28:44.000Z",
-      "summary": "特朗普政府推出人工智能驱动的政府网站America.gov。",
+      "pubDate": "2026-10-02T03:54:09.000Z",
+      "summary": "Meta发布AI代理Muse，英伟达寻求保险业分担AI芯片风险，Anthropic招股书曝光。",
       "summaryZh": ""
     },
     {
@@ -62,17 +42,6 @@
       "summary": "OpenAI推出企业软件Dot agent，可同时订餐。",
       "summaryZh": "",
       "titleZh": "OpenAI 的 Dot Agent 是一款企业软件，也可以为你订餐"
-    },
-    {
-      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-      "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-      "source": "Wired",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-02T09:45:00.000Z",
-      "summary": "ChatGPT Mac应用存在漏洞，可能被黑客获取敏感数据。",
-      "summaryZh": "",
-      "titleZh": "ChatGPT Mac 应用程序中的缺陷可能让黑客窃取敏感数据"
     },
     {
       "title": "大模型私有化部署服务商推荐|数商云：构建企业AI自主可控的核心竞争力",
@@ -95,26 +64,6 @@
       "summaryZh": ""
     },
     {
-      "title": "华为昇腾与DeepSeek深化协作，中国AI公司海外采购算力加速",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vUTB4Tnc5R003NHFLVzFyRzFQVGlCTlVrajMzblZidUl6Y3Z0eFdCMkhDdTBhbFpxeS11Wl9QSTRfMzRINmdzb1M2QnMtNmdBQ0p1NFhHT3ItMV9zMEVz?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-02T07:37:49.000Z",
-      "summary": "华为昇腾与DeepSeek深化合作，国产AI模型加速海外采购算力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "deepseek为什么要在此时拥抱华为？",
-      "link": "https://www.tmtpost.com/8158082.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-02T01:56:11.000Z",
-      "summary": "DeepSeek开源华为昇腾算力平台基础设施组件，实现英伟达平台工具链迁移。",
-      "summaryZh": ""
-    },
-    {
       "title": "Runway introduces Praxis-1 world action model for robotics",
       "link": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics/",
       "source": "The Robot Report",
@@ -126,13 +75,54 @@
       "titleZh": "Runway 推出 Praxis-1 机器人世界动作模型"
     },
     {
+      "title": "华为昇腾与DeepSeek深化协作，中国AI公司海外采购算力加速",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vUTB4Tnc5R003NHFLVzFyRzFQVGlCTlVrajMzblZidUl6Y3Z0eFdCMkhDdTBhbFpxeS11Wl9QSTRfMzRINmdzb1M2QnMtNmdBQ0p1NFhHT3ItMV9zMEVz?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-02T07:37:49.000Z",
+      "summary": "华为昇腾与DeepSeek深化合作，中国AI公司加速海外采购算力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "deepseek为什么要在此时拥抱华为？",
+      "link": "https://www.tmtpost.com/8158082.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-02T01:56:11.000Z",
+      "summary": "DeepSeek开源适配华为昇腾平台，以降低大模型训练成本。",
+      "summaryZh": ""
+    },
+    {
+      "title": "特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%",
+      "link": "https://www.ithome.com/1/009/389.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-03T00:32:30.000Z",
+      "summary": "特朗普提议将“人工智能”改称“超级智能”，斯洛文尼亚“.si”域名注册量激增2100%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "ChatGPT now has a virtual changing room.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMThvZGI2WlNHOVFZUnBtV09VQlozV25wcTBUbEh6dG1LTm1TdlZHVkVHZ1BIYmZRaVd0NGFUdHJIMGxrb25kSEluT21RaVNCLWZtR0o5eWt2QnJTbUsxN21qa2J5N0dYR3pXX0pGY3Q0LVpybE1FU1RNd2VmRE5rR0lQRkhiMElSaEhGZmI2VHA4Z0dPV05xQWJac3A3cjdT?oc=5",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-02T07:43:42.000Z",
+      "summary": "ChatGPT新增虚拟试衣间功能，可试穿衣物并上传个人照片。",
+      "summaryZh": "",
+      "titleZh": "ChatGPT 现在有一个虚拟更衣室。"
+    },
+    {
       "title": "Calling robotics startups: Submissions for the 2026 Robotics Startup Radar close soon",
       "link": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-02T14:00:59.000Z",
-      "summary": "2026年机器人创业公司雷达榜单征稿即将截止。",
+      "summary": "2026机器人创业公司雷达榜单征稿即将截止。",
       "summaryZh": "",
       "titleZh": "召集机器人初创公司：2026 年机器人初创公司雷达的提交即将结束"
     },
@@ -143,17 +133,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-02T11:39:22.000Z",
-      "summary": "龙岗区获批建设广东省人工智能与机器人应用改革创新实验区，布局词元经济。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机器人组团亮相东郊记忆 国庆解锁科技潮玩新体验",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WeHcxLW1lOFFaX19lZ01WRVBTUXg4UzJLdHNCUHM3eFJtRmFpSWE1SHdXWDVwa2VHSFpQSmtNaVlLX29BcDI4TjJ4dFdDVU1WNlpWQWI3R0ZJcG8xbnhYXzNEeW5YSGs?oc=5",
-      "source": "光明网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-02T07:02:00.000Z",
-      "summary": "成都东郊记忆国庆期间举办数字装备展，机器人巡游互动，展示科技潮玩新体验。",
+      "summary": "龙岗区获批建设广东省人工智能与机器人应用改革创新实验区，聚焦AI与机器人产业。",
       "summaryZh": ""
     },
     {
@@ -163,7 +143,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-02T09:58:06.000Z",
-      "summary": "嘉兴首家机器人便利店开业，提供人机互动购物体验。",
+      "summary": "浙江嘉兴首家机器人便利店开业，提供人机互动购物体验。",
       "summaryZh": ""
     },
     {
@@ -184,7 +164,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-02T10:24:48.000Z",
-      "summary": "Agibot以35%市场份额领跑2026年上半年全球人形机器人出货量。",
+      "summary": "Agibot在2026年上半年全球人形机器人出货量中排名第一。",
       "summaryZh": "",
       "titleZh": "IDC数据显示Agibot 2026年上半年全球人形机器人出货量领先"
     },
@@ -195,7 +175,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-02T01:46:21.000Z",
-      "summary": "长沙口岸启用无人机施封，提升货物通关效率。",
+      "summary": "长沙口岸启用无人机施封新模式，提高通关效率。",
       "summaryZh": ""
     }
   ]
