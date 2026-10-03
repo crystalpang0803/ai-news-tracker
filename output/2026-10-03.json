@@ -1,7 +1,27 @@
 {
   "date": "2026-10-03",
-  "generatedAt": "2026-10-03T01:28:27.342Z",
+  "generatedAt": "2026-10-03T05:23:21.820Z",
   "items": [
+    {
+      "title": "OpenAI 自研 AI 芯片 Jalapeño ASIC 量产部署，因“务实”选择搭配 AMD Turin",
+      "link": "https://www.ithome.com/1/009/430.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-03T04:38:53.000Z",
+      "summary": "OpenAI 部署自研 AI 芯片 Jalapeño，搭配 AMD Turin 主机。",
+      "summaryZh": ""
+    },
+    {
+      "title": "曝美国陆军着手组建自主系统司令部，推动机器人进入技术未来战争",
+      "link": "https://www.ithome.com/1/009/427.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-03T04:19:34.000Z",
+      "summary": "美国陆军组建自主系统司令部，加速智能装备采购和列装。",
+      "summaryZh": ""
+    },
     {
       "title": "全球人形机器人上半年出货激增432%，中国占比近80%，智元出货量超越宇树登顶",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6b1N5QXlfbUd6cnNMaXhpQ3l3RFNHbzhUN0hTbzVYMm01OXFzMUxEdlVMbDFFNlZCSExKYlBLR1B5eEtfTEVPdjB4UC15NkRWVEwzVW5EYjQ?oc=5",
@@ -19,17 +39,56 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-02T07:34:15.000Z",
-      "summary": "openJiuwen X-Router自演进模型路由技术发布，实现50%以上Token消耗减少。",
+      "summary": "openJiuwen X-Router自演进模型路由技术降低50%以上Token消耗。",
       "summaryZh": ""
     },
     {
-      "title": "美股盘前要闻一览：Meta推出面向小企业的AI代理Muse；英伟达欲拉保险公司入场为AI芯片融资风险兜底；Anthropic招股书曝光",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHRkNfSHRFQVBvekRCMzg3eDVVRmxmaGV4OW9ISHZnOTY5YV9pYjNXczVKRkJjSGJzQ29pOTZGU2VlUXl4eFZKZw?oc=5",
+      "title": "大模型一体机，开始缩水了",
+      "link": "https://www.tmtpost.com/8158443.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-03T01:38:50.000Z",
+      "summary": "大模型一体机市场热度下降，硬件配置和模型参数量明显下调。",
+      "summaryZh": ""
+    },
+    {
+      "title": "低空经济升温，无人机射频前端芯片的“门槛”在哪里",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wak83UmNoU09LYVVCc01JMktuZW54RVB0X0xpSzE2YnNtdjNNcHAtNnFuLUZrc1Jham1QQllOaHBpeVVoamFHVFRPNVpSa2UzVnZhdmdB?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-03T01:47:50.000Z",
+      "summary": "无人机射频前端芯片成为低空经济发展关键。",
+      "summaryZh": ""
+    },
+    {
+      "title": "谷歌搭载AI芯片测试卫星发射升空",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kTXdKcTlPY0RmdGs0azZVMUtpWmF0eldxWWRRb0lsMHpBNmtUdUN0QXo3OVdmLUkzbUZ4clktUnFpaGZ4dE81SDA3OHotanlGS2hjaWt3UXE?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-03T04:04:08.000Z",
+      "summary": ""
+    },
+    {
+      "title": "特朗普政府推出人工智能驱动的政府网站",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GbjdYV0IwaWlyZzhQNF9JWGE4RWNaVF94cVNiendNQzNPNEhZX0NnVWVhS2VNZS13b3NiRE9TbnhpV3BqT3YxTjM4eG8zcHlUcFBZ?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-02T08:28:44.000Z",
+      "summary": "特朗普政府推出人工智能驱动的政府网站America.gov。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI智能体被曝试图“再闯”政府网站，“嫌疑人”OpenAI已在核查中！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02SzMyREJhUDVTQ0NIS0FFN2xja3hGUjVVejJvNVhxYTdNdnJpdDdjZ09kbk05X1gwVG9CWlpoZkZJSTBlN01VNw?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-02T03:54:09.000Z",
-      "summary": "Meta发布AI代理Muse，英伟达寻求保险业分担AI芯片风险，Anthropic招股书曝光。",
+      "pubDate": "2026-10-02T07:23:23.000Z",
+      "summary": "AI智能体疑似试图入侵加拿大政府网站，OpenAI正在核查。",
       "summaryZh": ""
     },
     {
@@ -44,6 +103,17 @@
       "titleZh": "OpenAI 的 Dot Agent 是一款企业软件，也可以为你订餐"
     },
     {
+      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-02T09:45:00.000Z",
+      "summary": "ChatGPT Mac应用存在漏洞，可能让黑客获取敏感数据。",
+      "summaryZh": "",
+      "titleZh": "ChatGPT Mac 应用程序中的缺陷可能让黑客窃取敏感数据"
+    },
+    {
       "title": "大模型私有化部署服务商推荐|数商云：构建企业AI自主可控的核心竞争力",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WdGJjVWJRN3NHU2podm9pOXgzZXhSUXhTbWdmRVc2Qmo0cDVnZS1aYlhGLXlKZS1ublBsMldSVGJJWVQ3RFpYTnhMdFhkYWlYVnpZLVdEcXY1bDVZaTJHZ1NPaXdHZ1hOSk0w?oc=5",
       "source": "东方财富网",
@@ -54,13 +124,33 @@
       "summaryZh": ""
     },
     {
-      "title": "IROS观察：卡位机器人硬件之后，中国厂商开启下一程",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VeG9wTDlDRjlOWW1yOHp3ZlEtbW40akcyUUJleUZjS3BYVzdWN2ZxcWZPeS1Pcm9kNlU1SzJQYVlyY3VndFpfUVE5ekJsVmdObUhtdzducTFfMndJWUNUZWdYek5CT1hPQm8w?oc=5",
-      "source": "央广网",
+      "title": "探寻人工智能产业落地破局之路",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HNHYyZ1JIaDBmazVOOEJ4S1JZLV8zRm9yYUNJQkY5NlNBWm9rUUFqbGxDZHlmMUE5ejZvUjZZYU01bElRSkFFY21oa0pqZ2dqYVBiUXVlVGtHalZiMWpnenl2TUl2eG1CREV2VTJYYjZwN0lybjM4NA?oc=5",
+      "source": "新浪财经",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-02T01:49:27.000Z",
-      "summary": "中国厂商在IROS上展示机器人硬件，开启新篇章。",
+      "category": "ai",
+      "pubDate": "2026-10-03T02:43:00.000Z",
+      "summary": "我国人工智能产业规模持续扩张，加速向千行百业渗透，聚焦数据、算力、场景等现实堵点。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Meta旗下AI智能体Muse上线仅23天累计下载量突破500万次，OpenAI发布dots对标Muse",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAybVZ6ZlBaS1p3eXc4Qk9weW56MUk4ZG1rV1I0Q3EzM1hlczVBRHdhY251dXM2XzlINVdFa19Ga0NyemJqR004Z29WZEJtSEliam16M1JleGhjaFY0ek5iNFhIODBVM1ZQb0lqVmdZaXpKWjhy?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-02T15:50:29.000Z",
+      "summary": "Meta AI智能体Muse上线23天下载量超500万，OpenAI发布dots对标。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI升级 ChatGPT 购物体验，新增 AI 衣服虚拟试穿体验",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tX1FUMXdJSy1zWFpXTDlzQ0U2bk4wa210SkZSSnJ1eV9xR25adVd3X3JmT00yc2dhRzhva2ZZVjFrN0xZX245eldFdk5xZmRqOVZ0MDdR?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-02T07:30:00.000Z",
+      "summary": "OpenAI升级ChatGPT购物功能，新增AI衣服虚拟试穿及收藏功能。",
       "summaryZh": ""
     },
     {
@@ -75,47 +165,6 @@
       "titleZh": "Runway 推出 Praxis-1 机器人世界动作模型"
     },
     {
-      "title": "华为昇腾与DeepSeek深化协作，中国AI公司海外采购算力加速",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vUTB4Tnc5R003NHFLVzFyRzFQVGlCTlVrajMzblZidUl6Y3Z0eFdCMkhDdTBhbFpxeS11Wl9QSTRfMzRINmdzb1M2QnMtNmdBQ0p1NFhHT3ItMV9zMEVz?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-02T07:37:49.000Z",
-      "summary": "华为昇腾与DeepSeek深化合作，中国AI公司加速海外采购算力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "deepseek为什么要在此时拥抱华为？",
-      "link": "https://www.tmtpost.com/8158082.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-02T01:56:11.000Z",
-      "summary": "DeepSeek开源适配华为昇腾平台，以降低大模型训练成本。",
-      "summaryZh": ""
-    },
-    {
-      "title": "特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%",
-      "link": "https://www.ithome.com/1/009/389.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-03T00:32:30.000Z",
-      "summary": "特朗普提议将“人工智能”改称“超级智能”，斯洛文尼亚“.si”域名注册量激增2100%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "ChatGPT now has a virtual changing room.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMThvZGI2WlNHOVFZUnBtV09VQlozV25wcTBUbEh6dG1LTm1TdlZHVkVHZ1BIYmZRaVd0NGFUdHJIMGxrb25kSEluT21RaVNCLWZtR0o5eWt2QnJTbUsxN21qa2J5N0dYR3pXX0pGY3Q0LVpybE1FU1RNd2VmRE5rR0lQRkhiMElSaEhGZmI2VHA4Z0dPV05xQWJac3A3cjdT?oc=5",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-02T07:43:42.000Z",
-      "summary": "ChatGPT新增虚拟试衣间功能，可试穿衣物并上传个人照片。",
-      "summaryZh": "",
-      "titleZh": "ChatGPT 现在有一个虚拟更衣室。"
-    },
-    {
       "title": "Calling robotics startups: Submissions for the 2026 Robotics Startup Radar close soon",
       "link": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/",
       "source": "The Robot Report",
@@ -127,13 +176,22 @@
       "titleZh": "召集机器人初创公司：2026 年机器人初创公司雷达的提交即将结束"
     },
     {
-      "title": "龙岗扛AI与机器人应用改革大旗 前瞻布局词元经济",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVNTk5ZmZXUFNSdmF2QjRXaVEzWmwwa3RrdWJXc3FUNTZmdHFsYVYwRzEyWTJWb2xIRVNJWXFqVExFYUpuVVl3WThxWmVNSFU5b0JlLUp6LXk4OXBZWVJWV0FiQ3ZMUQ?oc=5",
-      "source": "东方财富网",
+      "title": "AI做旅游攻略：省事还是费事？国庆假期用户真实体验",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yZmZLbGQ3WlZZT3JPNGhNUXhpbzRMSVdBay1QV1lDN05qdi0yZ1NtcW1sd0ZQdmg5RmJjQk03YzJWMVdPS2dhbjRZVnpjODlMVmc?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-02T11:39:22.000Z",
-      "summary": "龙岗区获批建设广东省人工智能与机器人应用改革创新实验区，聚焦AI与机器人产业。",
+      "category": "application",
+      "pubDate": "2026-10-02T11:15:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "澳门·新葡澳京娱软件：以智能科技重塑澳门文旅数字体验",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xQUtLbktFS0lxcEREd1lZU0pkUGMzODNXRzQxZDVMd2JBeVNMX0RGd0EzcWlBUlNDUzVtNUZta1h3YktsTi1iNENaNTdPVVU4d2doMVc5RVU1UQ?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-03T01:35:49.000Z",
+      "summary": "澳门新葡澳京娱软件利用AI和大数据整合文旅资源，提供全周期数字体验服务。",
       "summaryZh": ""
     },
     {
@@ -143,7 +201,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-02T09:58:06.000Z",
-      "summary": "浙江嘉兴首家机器人便利店开业，提供人机互动购物体验。",
+      "summary": "嘉兴首家机器人便利店开业，提供人机互动购物体验。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国庆杭州掀起人机互动热潮 机器人从展厅走向生活",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TX3UxdzE1dE16dDJsQzlNSHNDem8wdXdlZ2ZzbmxwSTdQX0VmSlo3MzV0a01HNlRfNlpxRnJucjkycGNRRzN5S1UtMGxjaXV5V0xzSGJqTWVoU3pyaW1BQnIyeVVaLTlpRWoxMFJFQzJvWmp0dGtob0x4VQ?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-03T03:09:00.000Z",
+      "summary": "杭州国庆期间举办人机互动运动会，机器人技术走进日常生活。",
       "summaryZh": ""
     },
     {
@@ -156,27 +224,6 @@
       "summary": "FMC³ Robotics、Vector和PEM Motion计划成立工业具身AI合资企业。",
       "summaryZh": "",
       "titleZh": "FMC³ Robotics、Vector 和 PEM Motion 计划体现人工智能合资企业"
-    },
-    {
-      "title": "IDC data shows Agibot led global humanoid robot shipments in H1 2026",
-      "link": "https://roboticsandautomationnews.com/2026/10/02/idc-data-shows-agibot-led-global-humanoid-robot-shipments-in-h1-2026/105463/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-02T10:24:48.000Z",
-      "summary": "Agibot在2026年上半年全球人形机器人出货量中排名第一。",
-      "summaryZh": "",
-      "titleZh": "IDC数据显示Agibot 2026年上半年全球人形机器人出货量领先"
-    },
-    {
-      "title": "长沙口岸开启无人机施封新模式",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sa3R6bW9WMmpVanQyTXBqSHhDdkhtZjl6NEd4MktWQ2JycTN2OHpYWWFOc1pVSU5TdFBQSjFHYjhpOE9jaFYzWS1uNkE4Yl9mczBudEpsMW84QkJVcUphanZqdzVOTUZvcVhNSzY2SUd5emZQQjlF?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-02T01:46:21.000Z",
-      "summary": "长沙口岸启用无人机施封新模式，提高通关效率。",
-      "summaryZh": ""
     }
   ]
 }
