@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "generatedAt": "2026-10-03T22:25:50.357Z",
+  "generatedAt": "2026-10-03T23:54:51.444Z",
   "items": [
     {
       "title": "趁火打劫，GPT-5.6三大模型全曝，定档7月7日？",
@@ -12,13 +12,23 @@
       "summary": ""
     },
     {
+      "title": "Anthropic 被曝密会宗教领袖讨论 Claude 意识问题，OpenAI 奥尔特曼发声批评",
+      "link": "https://www.ithome.com/1/009/585.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-03T23:10:20.000Z",
+      "summary": "Anthropic与宗教领袖讨论AI意识问题引发OpenAI批评。",
+      "summaryZh": ""
+    },
+    {
       "title": "上市银行首部人工智能管理办法出台，平安银行率先落地，银行业AI治理进入制度化阶段",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1UeTR5RFBESmNBMG1SQnVBREF4X0NfVWYwQ01oSTd2N2JDbEFUTGpURGxEZ1c0cllZSGRWNzRwVmYzZ2c4ekE?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-03T09:51:19.000Z",
-      "summary": "平安银行发布首部人工智能管理办法，引领银行业AI治理制度化。",
+      "summary": "平安银行发布首部人工智能管理办法，银行业AI治理迈入制度化阶段。",
       "summaryZh": ""
     },
     {
@@ -28,17 +38,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-03T01:38:50.000Z",
-      "summary": "大模型一体机市场降温，硬件配置和模型参数量下调。",
+      "summary": "大模型一体机市场缩水，高端设备需求下降，转向轻量化本地部署。",
       "summaryZh": ""
     },
     {
-      "title": "AI 自动识别后厨违规行为，浙江 19.5 万家外卖商家接入系统",
-      "link": "https://www.ithome.com/1/009/527.htm",
-      "source": "IT之家",
+      "title": "新思科技劲升逾10% 携手OpenAI开发芯片设计AI模型",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12VGRPWEd4T1JfcGN6UHYyS3l1UldJNWtpQm5tLVA5Rk1VZzJmbDh0T1FkUnRJOFFCSVVHUEU3OV9HbUprSW5TTw?oc=5",
+      "source": "财联社",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-03T10:36:12.000Z",
-      "summary": "浙江19.5万外卖商家接入AI后厨监管系统，实现明厨亮灶。",
+      "category": "ai",
+      "pubDate": "2026-10-03T05:14:52.000Z",
+      "summary": "新思科技股价上涨逾10%，与OpenAI合作开发芯片设计AI模型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI首席执行官萨姆·奥特曼：对于人们试图赋予人工智能模型某种宗教般的效力，或是放弃人类自身判断转而依赖这些模型，我感到非常不安，并认为这是一个切实的安全性问题。",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mazZMQTU3OE9OUWpQTV9hVjFxZWM5a1pNWVlRMVU3YnZuU2lJZnVsY1NCTklwcTdVMFp0Uy0yZWEwZ2RDTXhaSzNuRTVGM1NERHg4?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-03T14:21:04.000Z",
+      "summary": "奥特曼担忧过度依赖AI模型成安全风险。",
       "summaryZh": ""
     },
     {
@@ -48,7 +68,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-03T03:59:00.000Z",
-      "summary": "谷歌发射搭载AI芯片的测试卫星，旨在研究太空AI基础设施部署。",
+      "summary": "谷歌发射搭载AI芯片的测试卫星，探索太空AI基础设施部署。",
       "summaryZh": ""
     },
     {
@@ -61,34 +81,13 @@
       "summary": ""
     },
     {
-      "title": "华为 HarmonyOS 7.0 小艺帮帮忙智能体功能调整，将不再支持后续新增的设备",
-      "link": "https://www.ithome.com/1/009/516.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-03T09:18:12.000Z",
-      "summary": "华为HarmonyOS 7.0小艺帮帮忙智能体将停止支持新增设备。",
-      "summaryZh": ""
-    },
-    {
-      "title": "New MIT and Sakana AI framework uses an LLM judge to cut evaluation costs for self-improving coding agents",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSDVzdEplY29renRTNm9PR1Z5QjFpak9tb2RQc2FlQzV0YVlGVDdIZmEtZE9ia28wMmFpakthckd4ejlHN0FpTnBwZHY5ZUxVTW52NTg0ajR1VkpMTExGOHZKdV90VFRqV3p1UTFJSTQ2LWRxWjRScE9FUE1MVHcwcHV2TGlRdmJCR1J5VFlncXMyRVhnVGRwa3dxaDBpUkRpV3dLV3F4T19aTzVYblNNZXdlSmZzTmNTREhSem81TXNYNmNJZHdhT3JDT0pQMmxzZWd6M1NuTFVQb2lf?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-02T22:50:08.000Z",
-      "summary": "MIT与Sakana AI推出框架，利用LLM降低自我改进编码代理评估成本。",
-      "summaryZh": "",
-      "titleZh": "新的 MIT 和 Sakana AI 框架使用法学硕士法官来降低自我改进编码代理的评估成本"
-    },
-    {
       "title": "10月9日起，未订阅用户仅能使用谷歌Gemini Flash-Lite模型",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0M1hFWEhpV1MzWWV2TTBuVnBmeXc1V0czMDAtUEczWUhtVTZRYlRmX3o2WEJZakVodm1la2M0NFUtaUpuU0dvUE4xXzBzenNrYjNrQm1B?oc=5",
       "source": "腾讯新闻",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-03T04:55:00.000Z",
-      "summary": "10月9日起，谷歌Gemini未订阅用户仅能使用Flash-Lite模型。",
+      "summary": "10月9日起，谷歌Gemini未订阅用户仅可使用Flash-Lite模型。",
       "summaryZh": ""
     },
     {
@@ -98,8 +97,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-03T13:10:00.000Z",
-      "summary": "广州琶洲酒店引入具身智能员工，具备多语言沟通和厨房操作能力。",
+      "summary": "广州琶洲酒店引入具身智能员工，可进行多语言沟通及厨房工作。",
       "summaryZh": ""
+    },
+    {
+      "title": "比尔盖茨回应AI恐惧：机器人统治是假的，这两个“真风险”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoNDkwbjdQY0FOWkZ5TlNkYjd3MFo2WF9heXczMUxlMmphcHQxejRNZWticWgwX29lTGlJNGNnb0Z2Q1BuSjRvYmtaYWdpTVBveXJ6V1BR?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-03T13:10:00.000Z",
+      "summary": "比尔盖茨回应AI恐惧：机器人统治是假的，这两个 “真风险”。"
     },
     {
       "title": "国庆杭州掀起人机互动热潮 机器人从展厅走向生活",
@@ -134,6 +142,17 @@
       "titleZh": "有人应该告诉埃隆这些非常酷的技术，称为雷达和激光雷达。"
     },
     {
+      "title": "How Stanford Built a Humanoid Submarine Robot to Explore a 17th-Century Shipwreck",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zelBaUERsUF83TS1ZaDN4VGZRWno5c1FZS0o4cHBEOXF4OUhKNlh4QzRyYjZ2bGJ5dUJtNlVGVHBWZHI5dHN2YnFQcFlnMlNJS0hmcHQ1eXJTMUFoUFpaQ2dxTDVmdHluUGRvaUd5V05FZ3pZX2tZeGR3?oc=5",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-03T09:26:15.000Z",
+      "summary": "斯坦福大学研发人形潜艇机器人探索17世纪沉船遗迹。",
+      "summaryZh": "",
+      "titleZh": "斯坦福大学如何建造人形潜艇机器人来探索 17 世纪的沉船"
+    },
+    {
       "title": "内蒙古呼和浩特用万人红歌+三千架无人机，开启国庆浪漫序章",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0bkFWU05qUVE2SDhRck5uZS1WRFVVM1RBQTJEcW91RlpWWGs1YXh1ZkRaWlNqZVlLSzl5c05fd05VbFFoeTJpcnAzempWQkxYVUlhTGZSTFVhel8zRVhOUHVIcw?oc=5",
       "source": "光明网",
@@ -141,6 +160,16 @@
       "category": "robotics",
       "pubDate": "2026-10-03T01:33:00.000Z",
       "summary": "内蒙古呼和浩特以万人红歌和三千架无人机表演，开启国庆浪漫序章。",
+      "summaryZh": ""
+    },
+    {
+      "title": "因地制宜发展具身智能产业",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGX1lrVVpXSjRQVGlQTFVxYzRyeUpILW5PdXpJWWRGNURIRjIzVThYZzExWkVYMTg1NVc4WUQteWV6VEEyUHBLTEM3Zy1ZNWVzQlRQb1hjWGtidmRPMjlnZFJmM1p5dkV4?oc=5",
+      "source": "中国经济网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-03T00:15:00.000Z",
+      "summary": "上虞区以场景开放和生态协同推动具身智能产业发展。",
       "summaryZh": ""
     }
   ]
