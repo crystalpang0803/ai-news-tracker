@@ -1,7 +1,17 @@
 {
   "date": "2026-10-04",
-  "generatedAt": "2026-10-03T23:54:51.444Z",
+  "generatedAt": "2026-10-04T01:59:58.836Z",
   "items": [
+    {
+      "title": "现代汽车计划部署 2.5 万台波士顿动力 Atlas 机器人，并建设年产能 3 万台的美国工厂",
+      "link": "https://www.ithome.com/1/009/616.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-04T01:53:49.000Z",
+      "summary": "现代汽车计划部署2.5万台波士顿动力Atlas机器人，并建设年产能3万台的美国工厂。",
+      "summaryZh": ""
+    },
     {
       "title": "趁火打劫，GPT-5.6三大模型全曝，定档7月7日？",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QMVFPWHNFdnJjZHR3TDB2em9qTnM3WWxKVENEeVNfQnY3OFN2enNBOUVoeGxhZjlZYUFhektwN1ZMLUVKTkhwZGNRZ3ZiUQ?oc=5",
@@ -10,16 +20,6 @@
       "category": "ai",
       "pubDate": "2026-10-03T10:47:23.000Z",
       "summary": ""
-    },
-    {
-      "title": "Anthropic 被曝密会宗教领袖讨论 Claude 意识问题，OpenAI 奥尔特曼发声批评",
-      "link": "https://www.ithome.com/1/009/585.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-03T23:10:20.000Z",
-      "summary": "Anthropic与宗教领袖讨论AI意识问题引发OpenAI批评。",
-      "summaryZh": ""
     },
     {
       "title": "上市银行首部人工智能管理办法出台，平安银行率先落地，银行业AI治理进入制度化阶段",
@@ -32,14 +32,13 @@
       "summaryZh": ""
     },
     {
-      "title": "大模型一体机，开始缩水了",
-      "link": "https://www.tmtpost.com/8158443.html",
-      "source": "钛媒体",
+      "title": "OpenAI下一代模型，被曝8月提前上线",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PTWxVd2VHaXZrSjRRQmR3QUMwcG5oMjdiNE1KQWlDcV9sdVpCWjVMNHU2R3pBOVNhUmxEanQyaGtwaVdfVk81bVFWWUdtQQ?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-03T01:38:50.000Z",
-      "summary": "大模型一体机市场缩水，高端设备需求下降，转向轻量化本地部署。",
-      "summaryZh": ""
+      "pubDate": "2026-10-03T07:40:11.000Z",
+      "summary": ""
     },
     {
       "title": "新思科技劲升逾10% 携手OpenAI开发芯片设计AI模型",
@@ -52,13 +51,23 @@
       "summaryZh": ""
     },
     {
+      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+      "link": "https://www.qbitai.com/2026/10/501451.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-04T00:53:29.000Z",
+      "summary": "3D公司Meshy不到两年ARR增长至1亿美元，GPT-6引发行业关注。",
+      "summaryZh": ""
+    },
+    {
       "title": "OpenAI首席执行官萨姆·奥特曼：对于人们试图赋予人工智能模型某种宗教般的效力，或是放弃人类自身判断转而依赖这些模型，我感到非常不安，并认为这是一个切实的安全性问题。",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mazZMQTU3OE9OUWpQTV9hVjFxZWM5a1pNWVlRMVU3YnZuU2lJZnVsY1NCTklwcTdVMFp0Uy0yZWEwZ2RDTXhaSzNuRTVGM1NERHg4?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-03T14:21:04.000Z",
-      "summary": "奥特曼担忧过度依赖AI模型成安全风险。",
+      "summary": "奥特曼担忧人工智能模型被过度依赖，视为安全问题。",
       "summaryZh": ""
     },
     {
@@ -68,26 +77,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-03T03:59:00.000Z",
-      "summary": "谷歌发射搭载AI芯片的测试卫星，探索太空AI基础设施部署。",
+      "summary": "谷歌发射搭载AI芯片卫星测试太空运行性能。",
       "summaryZh": ""
     },
     {
-      "title": "CUDA 20年护城河一个周末崩了，Claude独自跑通AMD新GPU",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5abWYyTWoxeUtLUGdmdnhmOHowTGxlVE9KWnQ5SmYwTmU1dFhBOVpJZmlSMDJTOUN6aHVhaTlrVGZjd2gwZ1d5aTc3RXdtQQ?oc=5",
-      "source": "36氪",
+      "title": "美债收益率飙升致美股IPO市场“熄火”，Anthropic 2万亿美元估值存疑；美联储10月加息概率降至22%；澳大利亚又一政府机构遭OpenAI模型入侵；迪拜航空驾驶舱冲突袭击者身份披露",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IOEpqVTFvWmdaWmdoVTE4VnpLZnZaMS1saml4SVVqQ05Ub1ZLeEstQVZQdk5EVzJkRlNKd3d5N2JaZEo3c1h6QjNXeWRCSTFmVlJDX2p5NlNxdDNrcV95Q0g1SXU3Zw?oc=5",
+      "source": "每日经济新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-03T10:10:14.000Z",
-      "summary": ""
+      "pubDate": "2026-10-03T03:42:00.000Z",
+      "summary": "美债收益率飙升影响美股IPO，Anthropic估值存疑，美联储加息概率下降，澳大利亚机构遭入侵，迪拜航空冲突袭击者身份披露。",
+      "summaryZh": ""
     },
     {
-      "title": "10月9日起，未订阅用户仅能使用谷歌Gemini Flash-Lite模型",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0M1hFWEhpV1MzWWV2TTBuVnBmeXc1V0czMDAtUEczWUhtVTZRYlRmX3o2WEJZakVodm1la2M0NFUtaUpuU0dvUE4xXzBzenNrYjNrQm1B?oc=5",
-      "source": "腾讯新闻",
+      "title": "美债收益率创24年新高，美股三季度IPO“熄火”：Oura临阵推迟，OpenAI暂缓上市，Anthropic 2万亿美元估值存疑",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkYndEb2VhaG5WWHJleWdTOFhIekhiM2ZzVUswRVh3WHdkRFUtN29xemFmZGt5cmo5RThrT3N0MGJnN0dkSEk2VUlaS3dfdGFmMDB3LXpkeHZycXVRelZ3X0hVZ09PUQ?oc=5",
+      "source": "每日经济新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-03T04:55:00.000Z",
-      "summary": "10月9日起，谷歌Gemini未订阅用户仅可使用Flash-Lite模型。",
+      "pubDate": "2026-10-03T03:42:00.000Z",
+      "summary": "美债收益率创新高，美股三季度IPO遇冷，多家企业推迟上市。",
       "summaryZh": ""
     },
     {
@@ -97,17 +107,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-03T13:10:00.000Z",
-      "summary": "广州琶洲酒店引入具身智能员工，可进行多语言沟通及厨房工作。",
+      "summary": "广州琶洲酒店引入具身智能员工，具备多语言沟通和厨房操作能力。",
       "summaryZh": ""
-    },
-    {
-      "title": "比尔盖茨回应AI恐惧：机器人统治是假的，这两个“真风险”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoNDkwbjdQY0FOWkZ5TlNkYjd3MFo2WF9heXczMUxlMmphcHQxejRNZWticWgwX29lTGlJNGNnb0Z2Q1BuSjRvYmtaYWdpTVBveXJ6V1BR?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-03T13:10:00.000Z",
-      "summary": "比尔盖茨回应AI恐惧：机器人统治是假的，这两个 “真风险”。"
     },
     {
       "title": "国庆杭州掀起人机互动热潮 机器人从展厅走向生活",
@@ -137,39 +138,18 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-03T17:03:26.000Z",
-      "summary": "马斯克称特斯拉Robotaxi夜间无法运行，雷达和激光雷达技术可解决此问题。",
+      "summary": "马斯克承认特斯拉Robotaxi夜间行驶受限，雷达和激光雷达技术可解决此问题。",
       "summaryZh": "",
       "titleZh": "有人应该告诉埃隆这些非常酷的技术，称为雷达和激光雷达。"
     },
     {
-      "title": "How Stanford Built a Humanoid Submarine Robot to Explore a 17th-Century Shipwreck",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zelBaUERsUF83TS1ZaDN4VGZRWno5c1FZS0o4cHBEOXF4OUhKNlh4QzRyYjZ2bGJ5dUJtNlVGVHBWZHI5dHN2YnFQcFlnMlNJS0hmcHQ1eXJTMUFoUFpaQ2dxTDVmdHluUGRvaUd5V05FZ3pZX2tZeGR3?oc=5",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-03T09:26:15.000Z",
-      "summary": "斯坦福大学研发人形潜艇机器人探索17世纪沉船遗迹。",
-      "summaryZh": "",
-      "titleZh": "斯坦福大学如何建造人形潜艇机器人来探索 17 世纪的沉船"
-    },
-    {
-      "title": "内蒙古呼和浩特用万人红歌+三千架无人机，开启国庆浪漫序章",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0bkFWU05qUVE2SDhRck5uZS1WRFVVM1RBQTJEcW91RlpWWGs1YXh1ZkRaWlNqZVlLSzl5c05fd05VbFFoeTJpcnAzempWQkxYVUlhTGZSTFVhel8zRVhOUHVIcw?oc=5",
-      "source": "光明网",
+      "title": "日本前防卫相：日本将试验性采购乌克兰无人机",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1ZHJYbkJwMDNlRV9uVTBIdnUzZXYzRW1EeDByTTBDejRRWndpME15T2hvOERwYWVIM1NIOGh5ZzZQMnRhbGtxNjEyMnJaXy1wbGQtMw?oc=5",
+      "source": "腾讯科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-03T01:33:00.000Z",
-      "summary": "内蒙古呼和浩特以万人红歌和三千架无人机表演，开启国庆浪漫序章。",
-      "summaryZh": ""
-    },
-    {
-      "title": "因地制宜发展具身智能产业",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGX1lrVVpXSjRQVGlQTFVxYzRyeUpILW5PdXpJWWRGNURIRjIzVThYZzExWkVYMTg1NVc4WUQteWV6VEEyUHBLTEM3Zy1ZNWVzQlRQb1hjWGtidmRPMjlnZFJmM1p5dkV4?oc=5",
-      "source": "中国经济网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-03T00:15:00.000Z",
-      "summary": "上虞区以场景开放和生态协同推动具身智能产业发展。",
+      "pubDate": "2026-10-03T03:56:00.000Z",
+      "summary": "日本将试验性采购乌克兰SkyFall公司无人机。",
       "summaryZh": ""
     }
   ]
