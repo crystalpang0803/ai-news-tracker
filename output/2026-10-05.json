@@ -1,24 +1,45 @@
 {
   "date": "2026-10-05",
-  "generatedAt": "2026-10-04T19:33:22.715Z",
+  "generatedAt": "2026-10-04T21:16:12.806Z",
   "items": [
     {
+      "title": "无人机已经是优等生，机器人为什么还要载人",
+      "link": "https://www.tmtpost.com/8158866.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-04T03:50:27.000Z",
+      "summary": "载人机器人动作不敏捷，成本和技术挑战大。",
+      "summaryZh": ""
+    },
+    {
       "title": "Claude满分、GPT 99分，何恺明团队把AGI考试打穿了",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NR2pmcmdZaXVlaFZnLWRSXzFXZl81OUFmUUExLXozdC1Hc1laTURBZV9RWjB3T1NwaG5CMk5fZ0t6T2s0Z1ZYUVV1VkZZZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CMDVkNnFxRG9SdG9Ubjg0NmRhcDM1SDZyVFltRnlLaVJ6Z1drVFdxcWdOM1g4U0NMQVFYWnJOVGJDYXFwVzdfbkJfSkdsUnRv?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-03T21:00:00.000Z",
-      "summary": ""
+      "pubDate": "2026-10-04T12:01:09.000Z",
+      "summary": "何恺明团队改进AI视觉记忆，使大模型在AGI考试中取得高分。",
+      "summaryZh": ""
     },
     {
-      "title": "机器人格斗公司 REK 举办真人与机器人笼斗赛被叫停：未取得许可组织活动",
-      "link": "https://www.ithome.com/1/009/736.htm",
-      "source": "IT之家",
+      "title": "IBM与OpenAI合作，加速企业安全AI部署",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82NXFPU1pfbmhmc1h3RElKOUdtNi12YVhsVFJVY2dOQ1RDejFRRHB5X19xaUMxMkdjd29LbjlBNjVnenRMSHNMbzNFYTFVa3Rfc3VWbUYzRk13RmVnYzd1ZDBLZ0RWTXM?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-04T15:22:56.000Z",
-      "summary": "机器人格斗公司REK举办真人与机器人笼斗赛被加州政府叫停，因未取得许可。",
+      "category": "ai",
+      "pubDate": "2026-10-04T10:01:39.000Z",
+      "summary": "IBM与OpenAI合作，加速企业安全AI部署，推全新应用安全服务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI据报已在内部部署自研Jalapeño ASIC芯片，高管称选择AMD EPYC Turin主机出于务实考量",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CaFlJaWpiejZiY2RHZVFteVU3OEVINU5WdzhVMks5RlZJOURlR2dWSkRITllNTWxvUWQxZDg1a21mLWNtdHRWZnk2LU9ENklxMFhDSlhqVldSeVEyUWNsSGF5WkE3UQ?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-04T11:33:00.000Z",
+      "summary": "OpenAI内部部署自研Jalapeño ASIC芯片，选用AMD EPYC Turin主机因务实考虑。",
       "summaryZh": ""
     },
     {
@@ -28,12 +49,12 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-03T23:54:32.000Z",
-      "summary": "谷歌发射搭载AI芯片的测试卫星，以测试芯片在太空环境中的性能。",
+      "summary": "谷歌发射搭载AI芯片的测试卫星，探索太空AI基础设施部署。",
       "summaryZh": ""
     },
     {
       "title": "木头姐：聪明的投资者需要开始关注AI Agent把钱花到哪里",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdG52ODVweGtaTUNoV3Y3eHoydE1EdGVmOWlkU0hpaExMTG5SeU1aeFFTR0N6S0FadnZUSDh6TjU4bEJSUU96TldVcmJFaXU2RDBmTXdnb1FicGFWZmZucWhfVjR1bVNOSVhfd2htOU5TNFhzRmdTMmpFdllVN0JfM1VrRVhza24ydU14Uk94b0s5LTZNM0stX0lCQ0VBOFp0SzJ1eXJtWjRQT2dJMnZXUmpZdDVrbWNzWnlJbUw5TUg0YTdfcXlQc3pzMmhEZEpSVnhIdEtvaWduSGpBWWxr?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ3NWOFNGZExnZm5vcEF4bl94RzBLeU9helhGRGkyaTdWbVZiTlllOTRBOE1sQzhCc3Z4a0JQNDhiMmliSklNS1VGZDVISm5ZNVluQW5GWVJVTUhZU0pSdjBURHdiT2lhRVYwUzk3cFRtaGxELTJEUU9JNnctQ3A2MjktLWo1NUJ5ZzQzUi15YWNUQlJUdDJsZk9EdE5nTGRHS3RnZkNaR2t6UEdMaFhnb3lEeGZpbTEyV0h3R3VfQ1hpRUJ4NlhicF9SWllOX3l6eEFoSnVTS18tSFU3bEdj?oc=5",
       "source": "新浪财经",
       "lang": "zh",
       "category": "ai",
@@ -58,7 +79,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-04T03:32:00.000Z",
-      "summary": ""
+      "summary": "OpenAI CEO奥尔特曼呼吁理性看待AI发展。",
+      "summaryZh": ""
     },
     {
       "title": "How robotics and physical AI can responsibly tackle key physical security challenges",
@@ -78,38 +100,28 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-10-04T15:00:00.000Z",
-      "summary": "CleoPtolemy公司为ServiceNow开发了AI代理，实际痛点小于预期路线图。",
+      "summary": "CleoPtolemy开发ServiceNow AI代理，实际痛点小于预期路线图。",
       "summaryZh": "",
       "titleZh": "我们为 ServiceNow 构建了一个人工智能代理。真正的痛点比我们假设的路线图要窄"
     },
     {
-      "title": "OpenAI安全员工离职批评公司文化：更强AI已不适合“边发布边修补”",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcm5tcGZjQjdDY0lvaVlfb2l5RGFxM09ieWtpWFFxUUNOR0RJUi1IdE8yOTNVUmxtSmFBRmVxWHV2cnhXTDEyWVZpd3M4dEZDc2RKZUMxcjQxQWpOZy04ZTRSUDl5ZmFvNXhTaS0tX05mMmdiYVhidkNZdzNJUVNuZ1pFY1ROTjYyYW9QeG5CTFV5QzBYLU1Kc3pydzRBaHAzUzBibVJjVzRRZ0lfdDEwQ21taHc5ZEJuOS1UaE8wVDZjbWFpQnRTU3NUVTFld082QmxHNm8xWWRBQjEyZnc?oc=5",
-      "source": "新浪财经",
+      "title": "震坤行与英特尔达成工业AI合作 发布工业多模态大模型",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EdUpxQ1FkdTFRUmFUMzFPZk9hNjF6dFNqazBieHJKdmdqS3JkWVo1VHZLQUFheW40QUFlRExyMVhiVjBoN3pSaUJVbFdpbVhVSWl6S2xlVG1PZw?oc=5",
+      "source": "经济观察网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-04T06:35:00.000Z",
-      "summary": "OpenAI安全员工离职批评公司文化，认为AI安全标准应向高风险行业靠拢。",
+      "pubDate": "2026-10-04T14:23:00.000Z",
+      "summary": "震坤行与英特尔合作发布工业多模态大模型。",
       "summaryZh": ""
     },
     {
-      "title": "凌晨4点测试两发固体火箭，印度微型导弹关键突破，专打无人机蜂群",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xNFVsWTc0aUZtZE13N25Bd05wZ1N5bV9FSEFVME5QX1JCWnY2dVNyeU0tZ2NNOUlkRDI4QW1hcjh2ZzFMczl2TlhPLXhuVjZCcWt0cDl3?oc=5",
-      "source": "腾讯新闻",
+      "title": "雷柏 VT2/2s MAX V2 版鼠标开启预约：PAW 3955 Ultimate 传感器 + Nordic 54LM20 主控，329 元",
+      "link": "https://www.ithome.com/1/009/696.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-04T06:03:00.000Z",
-      "summary": "印度成功测试JWALA微型导弹，专打无人机蜂群。",
-      "summaryZh": ""
-    },
-    {
-      "title": "APEC人力资源开发部长会：推动人工智能赋能于人",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByb0EyQndQd3ZZYnMyZUZ5a0RHeHA1M0VLM21Oc1RrcUZ1cmlvalZqNXlIUnNMSVVZdnN0MjRxU081dkV5VVA3ZE1uSll6QUt2NWZtVDAwcW5rdw?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-04T03:32:00.000Z",
-      "summary": "APEC部长会探讨人工智能赋能人力资源开发路径。",
+      "pubDate": "2026-10-04T11:14:52.000Z",
+      "summary": "雷柏VT2/2s MAX V2版鼠标开启预约，搭载PAW 3955 Ultimate传感器和Nordic 54LM20主控，售价329元。",
       "summaryZh": ""
     },
     {
@@ -132,46 +144,13 @@
       "summary": ""
     },
     {
-      "title": "How Atlas’ Four Finger Robot Hand Gets Superhuman Grip and Control",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40Q1packtQcnp5cGxORkFDVGRSb3hmQlZIcVVueVhkLWR1RjZaUWs1YkJiZG8wTC1zcklkd0h2dTdiRzZ2bVZWSHZab05taExXbUx3dW9B?oc=5",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-04T14:43:03.000Z",
-      "summary": "Atlas机器人新手具备超越人类手部握力和控制能力。",
-      "summaryZh": "",
-      "titleZh": "Atlas 的四指机械手如何获得超人的抓握力和控制力"
-    },
-    {
-      "title": "Agility Robotics partners with FORT to strengthen safety systems for Digit 5",
-      "link": "https://roboticsandautomationnews.com/2026/10/04/agility-robotics-partners-with-fort-to-strengthen-safety-systems-for-digit-5/105492/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-04T09:19:19.000Z",
-      "summary": "Agility Robotics与FORT合作，加强Digit 5安全系统。",
-      "summaryZh": "",
-      "titleZh": "Agility Robotics 与 FORT 合作加强 Digit 5 的安全系统"
-    },
-    {
-      "title": "荣耀Magic9 Pro Max 体验：把 ARRI 从机械臂带回口袋",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPT250Q0xtcVc0ZVpkZmN6NHJSN3NaSmRIb3RPb2RqZnpueEJ2bEhWcWxHdE5URnhkODlnRk1FaDJpSHF6Q190Y01jOGlPMC05SVh3aGt1UQ?oc=5",
-      "source": "与非网",
+      "title": "如何用AI重新理解宠物：中欧体育app官网以视觉算法重塑养宠基础设施",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nOS00dTBaWjVlX1pKTnNvREczeVhfaW1jRkE2cFI5RUJ3QjRkZ2xqbWZ6TTBmME1JdVQxWHF0SWJTU3h5YWkwZk5LZElNMzNQRHpXUURxRFdqZw?oc=5",
+      "source": "经济观察网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-04T01:55:23.000Z",
-      "summary": "荣耀Magic9 Pro Max搭载ARRI电影模式，将专业影像体验融入旗舰手机。",
-      "summaryZh": ""
-    },
-    {
-      "title": "十分钟读论文 | DCReg：把退化LiDAR配准拆成可诊断、可求解的三个步骤",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qcDVLY05EdXljOEtuNmw3UllSa2dYb085bjU2SkRRV2kwQzhTWjVSMk1FLVBkS3lNOUdzb1dxanZJV240b2xJckJUVHV6bEdqbTVFemgtTQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-04T02:25:43.000Z",
-      "summary": "DCReg将退化LiDAR配准问题分解为可诊断、可求解的三个步骤。",
-      "summaryZh": ""
+      "category": "application",
+      "pubDate": "2026-10-03T22:40:12.000Z",
+      "summary": ""
     }
   ]
 }
