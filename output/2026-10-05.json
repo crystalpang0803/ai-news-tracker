@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "generatedAt": "2026-10-04T21:16:12.806Z",
+  "generatedAt": "2026-10-04T22:31:20.455Z",
   "items": [
     {
       "title": "无人机已经是优等生，机器人为什么还要载人",
@@ -19,17 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-04T12:01:09.000Z",
-      "summary": "何恺明团队改进AI视觉记忆，使大模型在AGI考试中取得高分。",
-      "summaryZh": ""
-    },
-    {
-      "title": "IBM与OpenAI合作，加速企业安全AI部署",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82NXFPU1pfbmhmc1h3RElKOUdtNi12YVhsVFJVY2dOQ1RDejFRRHB5X19xaUMxMkdjd29LbjlBNjVnenRMSHNMbzNFYTFVa3Rfc3VWbUYzRk13RmVnYzd1ZDBLZ0RWTXM?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-04T10:01:39.000Z",
-      "summary": "IBM与OpenAI合作，加速企业安全AI部署，推全新应用安全服务。",
+      "summary": "何恺明团队通过视觉记忆和显式注意力机制，使大模型在AGI考试中取得满分成绩。",
       "summaryZh": ""
     },
     {
@@ -39,17 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-04T11:33:00.000Z",
-      "summary": "OpenAI内部部署自研Jalapeño ASIC芯片，选用AMD EPYC Turin主机因务实考虑。",
-      "summaryZh": ""
-    },
-    {
-      "title": "谷歌搭载AI芯片测试卫星发射升空",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mRUZDeEdQUmYtR1F5dlFWWWtmNW9jUkxCQUk2LUltOGRGeUtHcEp5dGVVb2RsaHFVd0kwS29PQVNla1BlSGpWQUdSNHRpOGV4alVr?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-03T23:54:32.000Z",
-      "summary": "谷歌发射搭载AI芯片的测试卫星，探索太空AI基础设施部署。",
+      "summary": "OpenAI内部部署自研ASIC芯片，选用AMD主机因性能满足需求。",
       "summaryZh": ""
     },
     {
@@ -59,7 +39,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-04T07:21:00.000Z",
-      "summary": "木头姐呼吁投资者关注AI Agent的金融活动。",
+      "summary": "木头姐建议投资者关注AI Agent的金融活动。",
       "summaryZh": ""
     },
     {
@@ -69,17 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-04T14:59:48.000Z",
-      "summary": "微软数据中心项目引入“仿生”计划，修复湿地生态，降低环境影响。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI CEO奥尔特曼反对神化AI",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpWjhWcl8tVHdCbnhJdDhud1J5Q1o3TTVhck9zUXRmUWUwY1pMd18yd0JKaHdPaWZ0V3AzWUQ2am9oNWpKYUxIRUcwRE9TTm53aXg5LQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-04T03:32:00.000Z",
-      "summary": "OpenAI CEO奥尔特曼呼吁理性看待AI发展。",
+      "summary": "微软数据中心项目引入“仿生”计划，修复湿地生态，种植本土植物降低环境影响。",
       "summaryZh": ""
     },
     {
@@ -94,13 +64,33 @@
       "titleZh": "机器人技术和物理人工智能如何负责任地应对关键的物理安全挑战"
     },
     {
+      "title": "OpenAI CEO奥尔特曼反对神化AI",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpWjhWcl8tVHdCbnhJdDhud1J5Q1o3TTVhck9zUXRmUWUwY1pMd18yd0JKaHdPaWZ0V3AzWUQ2am9oNWpKYUxIRUcwRE9TTm53aXg5LQ?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-04T03:32:00.000Z",
+      "summary": "OpenAI CEO奥尔特曼呼吁理性看待AI发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
+      "link": "https://www.ithome.com/1/009/701.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-04T12:27:24.000Z",
+      "summary": "DeepSeek Harness崔添翼强调产品“一切皆插件”理念，注重可扩展性。",
+      "summaryZh": ""
+    },
+    {
       "title": "We built an AI agent for ServiceNow. The real pain points were narrower than our roadmap assumed",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMEVOQVV3UE8tWE1zWlYtNHFPeGUwWGFaakJnZi1UOXN6bm1KLVRNclM1ak5fU0Zlcno5a0hBQTc1VGxTUGNteWhiWWtreXRnQ21odzIydVE1ZXdEVFk3Y3g0cEtnVVg3RDJfcjZrNlE5RzMxZXdqMkVCSjFIdlFES1MwVTFOa2FVdHBtNUpHYURwSmhtUWlhVVNtTFVSTmVrZzh6SWlDb3poRTBLcm5DLUR6cTVBM1Z0cDlqVWFEOFBpRzFnaFlXbC1mMEJCdw?oc=5",
       "source": "VentureBeat",
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-10-04T15:00:00.000Z",
-      "summary": "CleoPtolemy开发ServiceNow AI代理，实际痛点小于预期路线图。",
+      "summary": "CleoPtolemy公司为ServiceNow开发了AI代理，实际痛点小于预期路线图。",
       "summaryZh": "",
       "titleZh": "我们为 ServiceNow 构建了一个人工智能代理。真正的痛点比我们假设的路线图要窄"
     },
@@ -113,44 +103,6 @@
       "pubDate": "2026-10-04T14:23:00.000Z",
       "summary": "震坤行与英特尔合作发布工业多模态大模型。",
       "summaryZh": ""
-    },
-    {
-      "title": "雷柏 VT2/2s MAX V2 版鼠标开启预约：PAW 3955 Ultimate 传感器 + Nordic 54LM20 主控，329 元",
-      "link": "https://www.ithome.com/1/009/696.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-04T11:14:52.000Z",
-      "summary": "雷柏VT2/2s MAX V2版鼠标开启预约，搭载PAW 3955 Ultimate传感器和Nordic 54LM20主控，售价329元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "都在接DeepSeek、WorkBuddy，券商AI最终靠什么拉开差距？",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10cmNhM2gwVU90RWxvUDZsM1RBRXhqYzdkd3U3bmN2MHpuUWxEQ2dIa0tNVGZ6X0RfcjVLUnVlX3dQeno2bTExbw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-04T03:56:00.000Z",
-      "summary": "券商AI竞争转向知识底座、交付物与合规边界。",
-      "summaryZh": ""
-    },
-    {
-      "title": "a16z对话：企业级软件都将被AI Agent重做一遍",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FbEsxTGxXT0UxZUhMcFV4M1N2NTNWSXRHUUZiUGM5T25OSGQydmNyVEpHZHZiRWR6eFc3bEVfaElORGpyQV9VXy1ZMXZUeVlIY29N?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-04T08:06:02.000Z",
-      "summary": ""
-    },
-    {
-      "title": "如何用AI重新理解宠物：中欧体育app官网以视觉算法重塑养宠基础设施",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nOS00dTBaWjVlX1pKTnNvREczeVhfaW1jRkE2cFI5RUJ3QjRkZ2xqbWZ6TTBmME1JdVQxWHF0SWJTU3h5YWkwZk5LZElNMzNQRHpXUURxRFdqZw?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-03T22:40:12.000Z",
-      "summary": ""
     }
   ]
 }
