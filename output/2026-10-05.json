@@ -1,17 +1,7 @@
 {
   "date": "2026-10-05",
-  "generatedAt": "2026-10-05T01:18:08.566Z",
+  "generatedAt": "2026-10-05T05:47:26.128Z",
   "items": [
-    {
-      "title": "无人机已经是优等生，机器人为什么还要载人",
-      "link": "https://www.tmtpost.com/8158866.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-04T03:50:27.000Z",
-      "summary": "载人机器人动作不敏捷，成本高，技术挑战大。",
-      "summaryZh": ""
-    },
     {
       "title": "Claude满分、GPT 99分，何恺明团队把AGI考试打穿了",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CMDVkNnFxRG9SdG9Ubjg0NmRhcDM1SDZyVFltRnlLaVJ6Z1drVFdxcWdOM1g4U0NMQVFYWnJOVGJDYXFwVzdfbkJfSkdsUnRv?oc=5",
@@ -19,27 +9,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-04T12:01:09.000Z",
-      "summary": "何恺明团队通过视觉记忆增强，使大模型在AGI考试中取得满分成绩。",
+      "summary": "何恺明团队改进AI视觉记忆，使大模型在AGI考试中取得满分。",
       "summaryZh": ""
     },
     {
-      "title": "“机器人通用大脑”受追捧：FieldAI 拟融资 7 亿美元，估值达 100 亿美元",
-      "link": "https://www.ithome.com/1/009/746.htm",
+      "title": "消息称 Wayve 将为大众供应自动驾驶解决方案",
+      "link": "https://www.ithome.com/1/009/762.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-05T00:15:29.000Z",
-      "summary": "FieldAI计划融资7亿美元，估值达100亿美元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机器人格斗公司 REK 举办真人与机器人笼斗赛被叫停：未取得许可组织活动",
-      "link": "https://www.ithome.com/1/009/736.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-04T15:22:56.000Z",
-      "summary": "机器人格斗公司REK举办真人与机器人笼斗赛被加州政府叫停，因未取得许可。",
+      "pubDate": "2026-10-05T01:48:19.000Z",
+      "summary": "Wayve将为大众供应自动驾驶解决方案。",
       "summaryZh": ""
     },
     {
@@ -53,23 +33,32 @@
       "summaryZh": ""
     },
     {
-      "title": "现代拟部署2.5万台Atlas机器人并建厂_驱动中国",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92SWE5T3BwLUZ6Z1pPTE5ScndGTGlKSmVHZmF0b0JzYkZ5XzFXRzFFWFBtVTNLT1MzOWJpOWg0VUtwLU5nd3hRMmRWdGozajNHUXFkYTFzaHBWZ0twUHc?oc=5",
-      "source": "同花顺财经",
+      "title": "人形机器人会跳舞，却进不了工厂？制造业龙头开放300个场景“养”具身智能",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HQUktSkYzVjFSNm9lWHEySEdjYTFFMTVNS3gycjJOTlB3S3Y1QzlxLUkxbkJRbEhoeE5FWEo0TjI4cTdYVkh4RWFkenU0SXNCNWRVeVpEZFVVZUV4NTU5Qg?oc=5",
+      "source": "澎湃新闻科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-04T02:06:00.000Z",
-      "summary": "现代汽车集团计划部署2.5万台Atlas机器人并建厂。",
+      "pubDate": "2026-10-05T03:40:00.000Z",
+      "summary": "制造业龙头传化集团开放300场景助力具身智能机器人落地应用。",
       "summaryZh": ""
     },
     {
-      "title": "追光的你｜00后创业者王啸坤：把大模型做进游戏，让AI更有“活人感”",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FNm4wSWdycDhhX1ppd05QSjJOZHdTQ0RpbWRacmlwTF96SEJQMThGQV9DN1VqcThPVExSNG9zS01sZHdoQk1ubXVBTFhRQXQ1V3lIOE5NQ2ZCRU90akIxbg?oc=5",
-      "source": "界面新闻",
+      "title": "算力的尽头是电力：谁能喂饱AI 谁就掌握未来话语权_精彩视频为您呈现",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84Y19MdEY3RHZJanRwV0MtY3pBSjJkb1d6TDZmY3BORDhHQVFDVGFjaC0zTDZfWVVyR1BCS3Ftd0NlWS11N0tnMzhyNzdSOHVmRDBN?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-05T01:15:03.000Z",
-      "summary": "00后创业者王啸坤将大模型技术应用于游戏，提升AI角色“活人感”。",
+      "pubDate": "2026-10-04T17:40:39.000Z",
+      "summary": ""
+    },
+    {
+      "title": "美国佛州一女子把 AI 当“日记本”用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
+      "link": "https://www.ithome.com/1/009/795.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-05T05:00:25.000Z",
+      "summary": "美国女子与AI对话中写暴力威胁，AI识别后报警并逮捕女子。",
       "summaryZh": ""
     },
     {
@@ -83,35 +72,14 @@
       "summaryZh": ""
     },
     {
-      "title": "财联社10月5日电，日本央行副行长内田真一称，人工智能已成为包括日本央行在内的中央银行讨论的关键议题，尤其是在货币政策会议上。人工智能给经济和物价带来上行压力。",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4zRVVmaW1FRU1KQ3FDOWI0UkQ2WkQ2ZXZFc1lrcjVaZWE4U2ltV2Q1eUc0R0hCVWVtSDVvUU1md0hmTC1SYkE?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-04T09:32:00.000Z",
-      "summary": "日本央行副行长指出，人工智能成货币政策讨论关键议题，对经济和物价产生上行压力。",
-      "summaryZh": ""
-    },
-    {
       "title": "木头姐：聪明的投资者需要开始关注AI Agent把钱花到哪里",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS1lfOEtsSlM5TmhVQVpha1ZGR3FfUkZzam52Nl8xX0pMYTJ3aHRGeHlXRTNraTg2bUp6YU1iQk1GNjNfU25NRlpkUGlNRnc4RFZvcmNSaE9rOG9aZnBaUVlLQjhpaHFhRWpxZHJWMS12UjhLREpaQjN0dlhWZldlQnBJSEZDT0FtVnlMMXh5WW02elQwVFZNdWJReUxleURSbnFWOG1GMTNZcUlyc0VMRmhMRmowNkdhajhrX2pta1BZMnkxN0hVd01BM0FGNTZrTlBWc1VTd3QyUDBLak9N?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRG5LcWdfZ3BTeEJKMVhmZm82aExpRUxCX2VSM081TW1BUWRQR0QwVGJLbm9BeG9UVlZTZ2JyYl9YNkozMjJtbFN1N3VTcGlQU0lyTWJaZnpzbmE3bF9XaDNGZ1Z1WHgtTV9IeXkzS2lYY2hzT2pmMXN5Z19IRUJ2TEVQZWRySVhseWpjUnNDSVdOMEdWRTA3ZzctRGE4aENwNXBVYUpIVEJlYVJiT0MwbmI4VEthaEhDeFBLci1BYXowdXpDWjFJZHRsTE9VMEpwNUxnTUlCQ0ZXWkpOZDVB?oc=5",
       "source": "新浪财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-04T07:21:00.000Z",
       "summary": "木头姐建议投资者关注AI Agent的金融活动。",
       "summaryZh": ""
-    },
-    {
-      "title": "We built an AI agent for ServiceNow. The real pain points were narrower than our roadmap assumed",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMEVOQVV3UE8tWE1zWlYtNHFPeGUwWGFaakJnZi1UOXN6bm1KLVRNclM1ak5fU0Zlcno5a0hBQTc1VGxTUGNteWhiWWtreXRnQ21odzIydVE1ZXdEVFk3Y3g0cEtnVVg3RDJfcjZrNlE5RzMxZXdqMkVCSjFIdlFES1MwVTFOa2FVdHBtNUpHYURwSmhtUWlhVVNtTFVSTmVrZzh6SWlDb3poRTBLcm5DLUR6cTVBM1Z0cDlqVWFEOFBpRzFnaFlXbC1mMEJCdw?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-04T15:00:00.000Z",
-      "summary": "CleoPtolemy公司为ServiceNow开发AI代理，实际痛点小于预期路线图。",
-      "summaryZh": "",
-      "titleZh": "我们为 ServiceNow 构建了一个人工智能代理。真正的痛点比我们假设的路线图要窄"
     },
     {
       "title": "How robotics and physical AI can responsibly tackle key physical security challenges",
@@ -125,13 +93,13 @@
       "titleZh": "机器人技术和物理人工智能如何负责任地应对关键的物理安全挑战"
     },
     {
-      "title": "黄山学院等申请基于人工智能的新能源汽车算力调度方法及系统专利，提升智能驾驶感知系统运行稳定性",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ma0FWZXhSaWNiYW15NURNbDdsa3Q4SUNSSTBJMHVFR0pTOTVjNHV1dGljWG1zZnF1alVScm1Hc1E1Tlo1SGpiV1RUMEE5aVIzUko2VEpIbDVYa0RCT3Z6UTllazVSUQ?oc=5",
-      "source": "金融界",
+      "title": "OpenAI奥特曼：应接受AI带来的不好东西，与Anthropic分歧很大",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VRTUxTlV2cFlfaEp2dVRMcnNzbE8tdUdjTHpZVzRwQThzT1c2ak56MlFXcEZrdkhoX09zcnBBOG1hS2RNN0IyNmNBSkFyQXBMUGtlZEFHYTdGdw?oc=5",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-05T00:41:47.000Z",
-      "summary": "黄山学院等申请新能源汽车算力调度专利，提升智能驾驶稳定性。",
+      "pubDate": "2026-10-05T01:41:00.000Z",
+      "summary": "OpenAI CEO奥特曼与Anthropic在AI监管上存在根本分歧。",
       "summaryZh": ""
     },
     {
@@ -145,76 +113,26 @@
       "summaryZh": ""
     },
     {
-      "title": "“AI变量”成为沈城文旅消费核心驱动力",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CdTB6Q01SZzJzeVBLUnRZTTIwVW03VkhBNTZuVEZXVGwtaWdNMC1ORDFIUnNwQjh4azVvR2JrVkNYeTNsX0Y0cmNLSFhyVHcwRmNocWFYOHlyMlU3U1BCVzJzYTU3SnFoMEhPcXNwMXZXUko0X2dTRA?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-04T21:00:00.000Z",
-      "summary": "沈阳文旅消费以“AI变量”为核心，科技互动体验推动市场增长。",
-      "summaryZh": ""
-    },
-    {
       "title": "How Atlas’ Four Finger Robot Hand Gets Superhuman Grip and Control",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40Q1packtQcnp5cGxORkFDVGRSb3hmQlZIcVVueVhkLWR1RjZaUWs1YkJiZG8wTC1zcklkd0h2dTdiRzZ2bVZWSHZab05taExXbUx3dW9B?oc=5",
       "source": "IEEE Spectrum Robotics",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-04T14:43:03.000Z",
-      "summary": "Atlas机器人新手具备超人类握力和控制能力。",
+      "summary": "Atlas机器人新手具备超越人类手部抓握和控制能力。",
       "summaryZh": "",
       "titleZh": "Atlas 的四指机械手如何获得超人的抓握力和控制力"
     },
     {
-      "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ0tDWnAyNW5zeWtTcDBZSUczMHZGZUEtYXFlUHI2dkRpY0ZfYXBmUlBCdHhZQjJucnlYWmxMOXRkOXNsd2w0X245TV9mN2hHNHdkN1UzQjlabUYtb2xvdWtEem5qZXVUQVltbVFBQ2ZEOEN2cFdidGFFbWtIWGlvcklxVWJ1bTFDZmZkWWxNLWRUSGI5QXpnbmhENGpfX1N5S3NXZEpiYWVVa2tEdXNpZmtxcG5VU0dyWFdMUXJNOWJOUndEMy1WLTF1VU1qWlduQ1E?oc=5",
-      "source": "Reuters Technology",
+      "title": "Evri tests out two-legged delivery robot in Barnsley: last week’s biggest retail technology plays",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN3ZDaXNrQ184S1VScjA0em1YMnFhRTBqdGl1V2I3ekZ0dzNkSkVZN1Vjd0x5SDNFYUJldTBuT2JGbVc4ZUVOTmJWMnBfR3RiaXlpbW1ZbWVKSW0tc0R4RUk5SjBiVVZEajhsQVp3cndFNnVoNDFyanFFSjF0NlAzUEg4cmJEMHFROGhIVnJQcWUycDkzQmdwNEdCeHJ4a18xaVRxVkhEWDBiRXRwYk9hNGJlVmZSS3k0MEtOTXRVczc3UzBxWGZPVGNWVFRMajNKdXZoT21PbGNnRUxDZ1Nn?oc=5",
+      "source": "Retail Tech Innovation Hub",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-10-04T16:05:11.000Z",
-      "summary": "",
-      "titleZh": "泽连斯基表示，乌克兰认为俄罗斯与朝鲜共享喷气式无人机技术"
-    },
-    {
-      "title": "Agility Robotics partners with FORT to strengthen safety systems for Digit 5",
-      "link": "https://roboticsandautomationnews.com/2026/10/04/agility-robotics-partners-with-fort-to-strengthen-safety-systems-for-digit-5/105492/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-04T09:19:19.000Z",
-      "summary": "Agility Robotics与FORT合作，强化Digit 5安全系统。",
+      "pubDate": "2026-10-05T05:07:42.000Z",
+      "summary": "Evri在巴恩斯利测试了两足送货机器人。",
       "summaryZh": "",
-      "titleZh": "Agility Robotics 与 FORT 合作加强 Digit 5 的安全系统"
-    },
-    {
-      "title": "当中国机器狗进入哈萨克斯坦工地：托卡耶夫平衡术下的中美“错位竞争”",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnSHZycXExMGJpM0xUWDNZa1FEQ2VKSjgxd2wyRnB2UW5uZEF0OTlxdUVVU0NUWmJOb01HekxyQ08ybHhnOXVpRlh5NTh4dXdPaFVmRTNYSTgxbE4yTXlZelk1WXFZcDZ0M0tmdUxyT2FDUQ?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-04T23:08:00.000Z",
-      "summary": "哈萨克斯坦总统托卡耶夫在AI论坛上强调平衡AI监管，寻求中美科技合作。",
-      "summaryZh": ""
-    },
-    {
-      "title": "荣耀Magic9 Pro Max 体验：把 ARRI 从机械臂带回口袋",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPT250Q0xtcVc0ZVpkZmN6NHJSN3NaSmRIb3RPb2RqZnpueEJ2bEhWcWxHdE5URnhkODlnRk1FaDJpSHF6Q190Y01jOGlPMC05SVh3aGt1UQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-04T01:55:23.000Z",
-      "summary": "荣耀Magic9 Pro Max搭载ARRI影像技术，将专业摄影体验融入手机。",
-      "summaryZh": ""
-    },
-    {
-      "title": "十分钟读论文 | DCReg：把退化LiDAR配准拆成可诊断、可求解的三个步骤",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qcDVLY05EdXljOEtuNmw3UllSa2dYb085bjU2SkRRV2kwQzhTWjVSMk1FLVBkS3lNOUdzb1dxanZJV240b2xJckJUVHV6bEdqbTVFemgtTQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-04T02:25:43.000Z",
-      "summary": "DCReg将退化LiDAR配准问题分解为可诊断、可求解的三个步骤。",
-      "summaryZh": ""
+      "titleZh": "埃夫里在巴恩斯利测试两足送货机器人：上周最大的零售技术游戏"
     }
   ]
 }
