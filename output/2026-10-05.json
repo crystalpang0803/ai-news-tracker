@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "generatedAt": "2026-10-04T22:31:20.455Z",
+  "generatedAt": "2026-10-05T00:00:22.646Z",
   "items": [
     {
       "title": "无人机已经是优等生，机器人为什么还要载人",
@@ -14,32 +14,51 @@
     },
     {
       "title": "Claude满分、GPT 99分，何恺明团队把AGI考试打穿了",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CMDVkNnFxRG9SdG9Ubjg0NmRhcDM1SDZyVFltRnlLaVJ6Z1drVFdxcWdOM1g4U0NMQVFYWnJOVGJDYXFwVzdfbkJfSkdsUnRv?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hVm1JLVdjRlFSVThfd21ZUmxNVjREX3IxTllvS0g3Z0RvMzdFRUxMYUkxVldrWWhYdlZLU0VWMlg2UFM5Nmt3cTFTT3lHdkk?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-04T12:01:09.000Z",
-      "summary": "何恺明团队通过视觉记忆和显式注意力机制，使大模型在AGI考试中取得满分成绩。",
+      "summary": "何恺明团队改进AI视觉记忆，使模型在AGI考试中取得满分。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI据报已在内部部署自研Jalapeño ASIC芯片，高管称选择AMD EPYC Turin主机出于务实考量",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CaFlJaWpiejZiY2RHZVFteVU3OEVINU5WdzhVMks5RlZJOURlR2dWSkRITllNTWxvUWQxZDg1a21mLWNtdHRWZnk2LU9ENklxMFhDSlhqVldSeVEyUWNsSGF5WkE3UQ?oc=5",
-      "source": "金融界",
+      "title": "现代拟部署2.5万台Atlas机器人并建厂_驱动中国",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92SWE5T3BwLUZ6Z1pPTE5ScndGTGlKSmVHZmF0b0JzYkZ5XzFXRzFFWFBtVTNLT1MzOWJpOWg0VUtwLU5nd3hRMmRWdGozajNHUXFkYTFzaHBWZ0twUHc?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-04T02:06:00.000Z",
+      "summary": "现代汽车集团计划部署2.5万台Atlas机器人并建厂。",
+      "summaryZh": ""
+    },
+    {
+      "title": "算力的尽头是电力：谁能喂饱AI 谁就掌握未来话语权_精彩视频为您呈现",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84Y19MdEY3RHZJanRwV0MtY3pBSjJkb1d6TDZmY3BORDhHQVFDVGFjaC0zTDZfWVVyR1BCS3Ftd0NlWS11N0tnMzhyNzdSOHVmRDBN?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-04T11:33:00.000Z",
-      "summary": "OpenAI内部部署自研ASIC芯片，选用AMD主机因性能满足需求。",
+      "pubDate": "2026-10-04T17:40:39.000Z",
+      "summary": ""
+    },
+    {
+      "title": "剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZbjQzTVV4dGVFS2hiTmN6eFJoX3pyTWhZVWhaaUFDVzlicEZlOFNVWFdoWG5TRmFmdlF1bmpYMFZzdFY3eWxTQw?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-04T21:21:36.000Z",
+      "summary": "DeepSeek开源华为昇腾全套组件，旨在构建自主GPU软件生态。",
       "summaryZh": ""
     },
     {
       "title": "木头姐：聪明的投资者需要开始关注AI Agent把钱花到哪里",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ3NWOFNGZExnZm5vcEF4bl94RzBLeU9helhGRGkyaTdWbVZiTlllOTRBOE1sQzhCc3Z4a0JQNDhiMmliSklNS1VGZDVISm5ZNVluQW5GWVJVTUhZU0pSdjBURHdiT2lhRVYwUzk3cFRtaGxELTJEUU9JNnctQ3A2MjktLWo1NUJ5ZzQzUi15YWNUQlJUdDJsZk9EdE5nTGRHS3RnZkNaR2t6UEdMaFhnb3lEeGZpbTEyV0h3R3VfQ1hpRUJ4NlhicF9SWllOX3l6eEFoSnVTS18tSFU3bEdj?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjk1Y25HS0ZJc2hacGowNVFYTlIyU3JNcFpWMGFKOFNTMzhKOUJ5S3FfcjZiRzlTSFFJWEg4aGwwWUo1Vk43SThWU1Q5T2VndkJzeEVlNzNRSEpoY05zUjQ4Q1pJdjF4eGVnTHpEVUMyYlB0UkxwdU9tUlF1VGFxX0tVNWxvTmQ0Q2RHRkRUNktuVVFTanhJT3hIOS1kWFNDNnBrNEdMUHV0Z3NRUkVuWEtrUThSUE81N01OYm82S3VqUG1XS1NaYmxXSkt0QXZsY0ptNjg4MkQ1MzFTODFV?oc=5",
       "source": "新浪财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-04T07:21:00.000Z",
-      "summary": "木头姐建议投资者关注AI Agent的金融活动。",
+      "summary": "木头姐建议投资者关注AI Agent的金融流向。",
       "summaryZh": ""
     },
     {
@@ -49,19 +68,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-04T14:59:48.000Z",
-      "summary": "微软数据中心项目引入“仿生”计划，修复湿地生态，种植本土植物降低环境影响。",
+      "summary": "微软数据中心项目引入“仿生”计划，修复湿地生态，降低环境影响。",
       "summaryZh": ""
-    },
-    {
-      "title": "How robotics and physical AI can responsibly tackle key physical security challenges",
-      "link": "https://www.therobotreport.com/how-robotics-physical-ai-can-responsibly-tackle-key-physical-security-challenges/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-04T12:52:11.000Z",
-      "summary": "机器人与物理AI技术正负责任地应对关键物理安全挑战。",
-      "summaryZh": "",
-      "titleZh": "机器人技术和物理人工智能如何负责任地应对关键的物理安全挑战"
     },
     {
       "title": "OpenAI CEO奥尔特曼反对神化AI",
@@ -74,13 +82,13 @@
       "summaryZh": ""
     },
     {
-      "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
-      "link": "https://www.ithome.com/1/009/701.htm",
-      "source": "IT之家",
+      "title": "财联社10月3日电，OpenAI安全系统团队负责人David Robinson已从公司离职。",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9aTkdlUHIyNFlvR0lERmVxbmp2YVB4TXp5aUdzMTJrcElKMU40dUNxbVdzSFJOcThIMC1pMGxGTjdCZ0lrWW9yNQ?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-04T12:27:24.000Z",
-      "summary": "DeepSeek Harness崔添翼强调产品“一切皆插件”理念，注重可扩展性。",
+      "pubDate": "2026-10-04T07:47:00.000Z",
+      "summary": "OpenAI安全系统团队负责人David Robinson离职。",
       "summaryZh": ""
     },
     {
@@ -95,6 +103,17 @@
       "titleZh": "我们为 ServiceNow 构建了一个人工智能代理。真正的痛点比我们假设的路线图要窄"
     },
     {
+      "title": "How robotics and physical AI can responsibly tackle key physical security challenges",
+      "link": "https://www.therobotreport.com/how-robotics-physical-ai-can-responsibly-tackle-key-physical-security-challenges/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-04T12:52:11.000Z",
+      "summary": "机器人与物理AI技术正负责任地应对关键物理安全挑战。",
+      "summaryZh": "",
+      "titleZh": "机器人技术和物理人工智能如何负责任地应对关键的物理安全挑战"
+    },
+    {
       "title": "震坤行与英特尔达成工业AI合作 发布工业多模态大模型",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EdUpxQ1FkdTFRUmFUMzFPZk9hNjF6dFNqazBieHJKdmdqS3JkWVo1VHZLQUFheW40QUFlRExyMVhiVjBoN3pSaUJVbFdpbVhVSWl6S2xlVG1PZw?oc=5",
       "source": "经济观察网",
@@ -102,6 +121,88 @@
       "category": "ai",
       "pubDate": "2026-10-04T14:23:00.000Z",
       "summary": "震坤行与英特尔合作发布工业多模态大模型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "凌晨4点测试两发固体火箭，印度微型导弹关键突破，专打无人机蜂群",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xNFVsWTc0aUZtZE13N25Bd05wZ1N5bV9FSEFVME5QX1JCWnY2dVNyeU0tZ2NNOUlkRDI4QW1hcjh2ZzFMczl2TlhPLXhuVjZCcWt0cDl3?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-04T06:03:00.000Z",
+      "summary": "印度成功测试JWALA微型导弹，专用于打击无人机蜂群。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI news and analysis| Page 49 of 49",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tSmlGc002TXRUMDh3ck45blZyTlI5SHdNTXM4cXBYNEFlaWZNcmpJRndRcUhQVTR2OS1hLWp3eTVqbVVyTElmZDNaeVJnRm80T0tubg?oc=5",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-04T19:39:40.000Z",
+      "summary": "OpenAI将在Disrupt活动上展示突破性技术，报名截止至10月2日。",
+      "summaryZh": "",
+      "titleZh": "OpenAI新闻与分析|第 49 页，共 49 页"
+    },
+    {
+      "title": "“AI变量”成为沈城文旅消费核心驱动力",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CdTB6Q01SZzJzeVBLUnRZTTIwVW03VkhBNTZuVEZXVGwtaWdNMC1ORDFIUnNwQjh4azVvR2JrVkNYeTNsX0Y0cmNLSFhyVHcwRmNocWFYOHlyMlU3U1BCVzJzYTU3SnFoMEhPcXNwMXZXUko0X2dTRA?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-04T21:00:00.000Z",
+      "summary": "沈阳文旅消费以“AI变量”为核心，科技互动体验推动市场增长。",
+      "summaryZh": ""
+    },
+    {
+      "title": "How Atlas’ Four Finger Robot Hand Gets Superhuman Grip and Control",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40Q1packtQcnp5cGxORkFDVGRSb3hmQlZIcVVueVhkLWR1RjZaUWs1YkJiZG8wTC1zcklkd0h2dTdiRzZ2bVZWSHZab05taExXbUx3dW9B?oc=5",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-04T14:43:03.000Z",
+      "summary": "Atlas机器人新手具备超人类握力和控制能力。",
+      "summaryZh": "",
+      "titleZh": "Atlas 的四指机械手如何获得超人的抓握力和控制力"
+    },
+    {
+      "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ0tDWnAyNW5zeWtTcDBZSUczMHZGZUEtYXFlUHI2dkRpY0ZfYXBmUlBCdHhZQjJucnlYWmxMOXRkOXNsd2w0X245TV9mN2hHNHdkN1UzQjlabUYtb2xvdWtEem5qZXVUQVltbVFBQ2ZEOEN2cFdidGFFbWtIWGlvcklxVWJ1bTFDZmZkWWxNLWRUSGI5QXpnbmhENGpfX1N5S3NXZEpiYWVVa2tEdXNpZmtxcG5VU0dyWFdMUXJNOWJOUndEMy1WLTF1VU1qWlduQ1E?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-04T16:05:11.000Z",
+      "summary": "",
+      "titleZh": "泽连斯基表示，乌克兰认为俄罗斯与朝鲜共享喷气式无人机技术"
+    },
+    {
+      "title": "当中国机器狗进入哈萨克斯坦工地：托卡耶夫平衡术下的中美“错位竞争”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05a1pCbHdXajhiZndQaTJYRXFINWdQSXJnc2k1OVhWY0R1Q2tvdVRGbzhpVENnVnhkVUkwNkw2OEJmOVhkSS10WkExUHZDNjJ1cEdoNjZ5QXBaU00wZ3c?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-04T23:08:00.000Z",
+      "summary": "哈萨克斯坦在中美AI竞争中寻求平衡，同时吸引两国科技企业投资。",
+      "summaryZh": ""
+    },
+    {
+      "title": "荣耀Magic9 Pro Max 体验：把 ARRI 从机械臂带回口袋",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPT250Q0xtcVc0ZVpkZmN6NHJSN3NaSmRIb3RPb2RqZnpueEJ2bEhWcWxHdE5URnhkODlnRk1FaDJpSHF6Q190Y01jOGlPMC05SVh3aGt1UQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-04T01:55:23.000Z",
+      "summary": "荣耀Magic9 Pro Max搭载ARRI影像技术，将专业影像体验融入手机。",
+      "summaryZh": ""
+    },
+    {
+      "title": "十分钟读论文 | DCReg：把退化LiDAR配准拆成可诊断、可求解的三个步骤",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qcDVLY05EdXljOEtuNmw3UllSa2dYb085bjU2SkRRV2kwQzhTWjVSMk1FLVBkS3lNOUdzb1dxanZJV240b2xJckJUVHV6bEdqbTVFemgtTQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-04T02:25:43.000Z",
+      "summary": "DCReg将退化LiDAR配准问题分解为三个可诊断、可求解的步骤。",
       "summaryZh": ""
     }
   ]
