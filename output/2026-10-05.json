@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "generatedAt": "2026-10-05T05:47:26.128Z",
+  "generatedAt": "2026-10-05T10:49:33.725Z",
   "items": [
     {
       "title": "Claude满分、GPT 99分，何恺明团队把AGI考试打穿了",
@@ -9,17 +9,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-04T12:01:09.000Z",
-      "summary": "何恺明团队改进AI视觉记忆，使大模型在AGI考试中取得满分。",
+      "summary": "何恺明团队通过视觉记忆和显式注意力机制，使大模型在AGI考试中取得满分成绩。",
       "summaryZh": ""
     },
     {
-      "title": "消息称 Wayve 将为大众供应自动驾驶解决方案",
-      "link": "https://www.ithome.com/1/009/762.htm",
-      "source": "IT之家",
+      "title": "这个国庆，第一批机器人员工已经上岗",
+      "link": "https://www.tmtpost.com/8159586.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-05T01:48:19.000Z",
-      "summary": "Wayve将为大众供应自动驾驶解决方案。",
+      "pubDate": "2026-10-05T10:08:46.000Z",
+      "summary": "国庆期间，首批机器人员工在多个行业上岗。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-05T00:56:48.000Z",
-      "summary": "黄仁勋与空头就算力资产寿命存在分歧，前者认为可用六年，后者认为三年即报废。",
+      "summary": "黄仁勋与空头就算力资产寿命看法分歧，前者认为可用六年，后者认为三年即报废。",
       "summaryZh": ""
     },
     {
@@ -43,22 +43,23 @@
       "summaryZh": ""
     },
     {
-      "title": "算力的尽头是电力：谁能喂饱AI 谁就掌握未来话语权_精彩视频为您呈现",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84Y19MdEY3RHZJanRwV0MtY3pBSjJkb1d6TDZmY3BORDhHQVFDVGFjaC0zTDZfWVVyR1BCS3Ftd0NlWS11N0tnMzhyNzdSOHVmRDBN?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-04T17:40:39.000Z",
-      "summary": ""
-    },
-    {
-      "title": "美国佛州一女子把 AI 当“日记本”用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
-      "link": "https://www.ithome.com/1/009/795.htm",
+      "title": "OpenAI 奥尔特曼：人工智能的巨大效益值得承担部分风险",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vZWdWeUhTUTRvX01iaENXYlpEbks3UF9QTWtWZWFTTW5OSmRNMFJsbWc2dFhXbVlaMll1cHl2NWpiTUtXWnRQNmdKZXE?oc=5",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-05T05:00:25.000Z",
-      "summary": "美国女子与AI对话中写暴力威胁，AI识别后报警并逮捕女子。",
+      "pubDate": "2026-10-05T01:02:06.000Z",
+      "summary": "OpenAI CEO 奥尔特曼认为AI效益巨大，值得承担部分风险。",
+      "summaryZh": ""
+    },
+    {
+      "title": "追光的你｜00后创业者王啸坤：把大模型做进游戏，让AI更有“活人感”",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FNm4wSWdycDhhX1ppd05QSjJOZHdTQ0RpbWRacmlwTF96SEJQMThGQV9DN1VqcThPVExSNG9zS01sZHdoQk1ubXVBTFhRQXQ1V3lIOE5NQ2ZCRU90akIxbg?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-05T01:15:03.000Z",
+      "summary": "00后创业者王啸坤将大模型技术应用于游戏，提升AI角色“活人感”。",
       "summaryZh": ""
     },
     {
@@ -68,17 +69,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-04T21:21:36.000Z",
-      "summary": "DeepSeek开源华为昇腾全套组件，旨在构建自主GPU软件生态。",
+      "summary": "DeepSeek开源华为昇腾全套组件，对标英伟达CUDA，旨在构建自主GPU软件生态。",
       "summaryZh": ""
     },
     {
-      "title": "木头姐：聪明的投资者需要开始关注AI Agent把钱花到哪里",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRG5LcWdfZ3BTeEJKMVhmZm82aExpRUxCX2VSM081TW1BUWRQR0QwVGJLbm9BeG9UVlZTZ2JyYl9YNkozMjJtbFN1N3VTcGlQU0lyTWJaZnpzbmE3bF9XaDNGZ1Z1WHgtTV9IeXkzS2lYY2hzT2pmMXN5Z19IRUJ2TEVQZWRySVhseWpjUnNDSVdOMEdWRTA3ZzctRGE4aENwNXBVYUpIVEJlYVJiT0MwbmI4VEthaEhDeFBLci1BYXowdXpDWjFJZHRsTE9VMEpwNUxnTUlCQ0ZXWkpOZDVB?oc=5",
-      "source": "新浪财经",
+      "title": "全球大模型第一股，大涨",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zQjEyNGZUWG53blk5MHM4NUZMOS1ZUkJza3k5TFA4SVhwWlAzcDNGQUpHOUE5NEFoRjNnNVN2TjBHNnRJVWl2VA?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-04T07:21:00.000Z",
-      "summary": "木头姐建议投资者关注AI Agent的金融活动。",
+      "pubDate": "2026-10-05T03:59:00.000Z",
+      "summary": "智谱港股股价上涨，成为全球大模型第一股。",
+      "summaryZh": ""
+    },
+    {
+      "title": "爱好者自制天气时钟：基于 Freenove FNK0103S 开发板、可选装人在传感器",
+      "link": "https://www.ithome.com/1/009/819.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-05T07:04:18.000Z",
+      "summary": "爱好者基于Freenove FNK0103S开发板自制天气时钟，可选配人体存在传感器。",
       "summaryZh": ""
     },
     {
@@ -93,13 +104,24 @@
       "titleZh": "机器人技术和物理人工智能如何负责任地应对关键的物理安全挑战"
     },
     {
-      "title": "OpenAI奥特曼：应接受AI带来的不好东西，与Anthropic分歧很大",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VRTUxTlV2cFlfaEp2dVRMcnNzbE8tdUdjTHpZVzRwQThzT1c2ak56MlFXcEZrdkhoX09zcnBBOG1hS2RNN0IyNmNBSkFyQXBMUGtlZEFHYTdGdw?oc=5",
-      "source": "钛媒体",
+      "title": "We built an AI agent for ServiceNow. The real pain points were narrower than our roadmap assumed",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMEVOQVV3UE8tWE1zWlYtNHFPeGUwWGFaakJnZi1UOXN6bm1KLVRNclM1ak5fU0Zlcno5a0hBQTc1VGxTUGNteWhiWWtreXRnQ21odzIydVE1ZXdEVFk3Y3g0cEtnVVg3RDJfcjZrNlE5RzMxZXdqMkVCSjFIdlFES1MwVTFOa2FVdHBtNUpHYURwSmhtUWlhVVNtTFVSTmVrZzh6SWlDb3poRTBLcm5DLUR6cTVBM1Z0cDlqVWFEOFBpRzFnaFlXbC1mMEJCdw?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-04T15:00:00.000Z",
+      "summary": "ServiceNow AI代理开发聚焦于特定痛点，实际需求小于预期路线图。",
+      "summaryZh": "",
+      "titleZh": "我们为 ServiceNow 构建了一个人工智能代理。真正的痛点比我们假设的路线图要窄"
+    },
+    {
+      "title": "放养AI练棋，Claude暴涨250分！GPT-6越练越菜",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BNWZwUzhDdjFvMDRhUkwzWWw1bmtPbTZaTl95aDVuekRXU1dnVUtZbU5hYWNza2tzZEhBMTcxNTg5U0hzQndlcExPV0o4WFFmdzh2Z1dZSU5ycGdRRkJGSkN0SU1PdmZvMUhlOFNWeFJYRGdYU2c?oc=5",
+      "source": "新浪财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-05T01:41:00.000Z",
-      "summary": "OpenAI CEO奥特曼与Anthropic在AI监管上存在根本分歧。",
+      "pubDate": "2026-10-05T10:36:00.000Z",
+      "summary": "AI对弈实验中，Claude Opus 5.5进步显著，GPT-6 Astra则表现不佳。",
       "summaryZh": ""
     },
     {
@@ -113,26 +135,74 @@
       "summaryZh": ""
     },
     {
+      "title": "机器人在北京上“幼儿园”",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KUGc3SjBlS3BIU3MycFFQcTFlVzVjbjFQdWdOQktfdlR5NHBOV0FucG1JSjM0MnVBTmJKRXpMbHdOZXdQQ25CTXNxa1B6V3dkTEF3U01zdE1ZN0FuQ0JMeU5UVXFJRGs?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-05T06:07:32.000Z",
+      "summary": "北京首钢园“机器人幼儿园”开展学习之旅，机器人通过试错成长。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI安全负责人辞职：AI智能体自主行动引发组织管理新挑战",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LX0xsR2UtMEMyS1NMQm9pSTc0dHB1SFk5Wno4N2h4b2JoeV9Ha0hMN2RrczdzY3pCTFY1RzFMbUp0TXZHdXNhXzBidUlwbFpDXzJCSDh4VnB3TVA0VTg4?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-05T00:06:36.000Z",
+      "summary": ""
+    },
+    {
+      "title": "从看风景到玩科技 AI催生浙江文旅消费新场景",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZX090dUVoYzJyM0JYMDFKdVJxNloxNmRVN1M1bWdXOWx0anp4ODU3eS1DTGphWXgwZVVBM3dqcVJZcmdxQzRfUHh3ZHFFOUVCU3k2TEtjX1lRS2hsbkZrcUhMcUFFMHpH?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-05T06:48:04.000Z",
+      "summary": "AI技术推动浙江文旅消费场景创新，从看风景到体验科技产品。",
+      "summaryZh": ""
+    },
+    {
       "title": "How Atlas’ Four Finger Robot Hand Gets Superhuman Grip and Control",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40Q1packtQcnp5cGxORkFDVGRSb3hmQlZIcVVueVhkLWR1RjZaUWs1YkJiZG8wTC1zcklkd0h2dTdiRzZ2bVZWSHZab05taExXbUx3dW9B?oc=5",
       "source": "IEEE Spectrum Robotics",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-04T14:43:03.000Z",
-      "summary": "Atlas机器人新手具备超越人类手部抓握和控制能力。",
+      "summary": "Atlas机器人新手具备超人类握力和控制能力。",
       "summaryZh": "",
       "titleZh": "Atlas 的四指机械手如何获得超人的抓握力和控制力"
     },
     {
-      "title": "Evri tests out two-legged delivery robot in Barnsley: last week’s biggest retail technology plays",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN3ZDaXNrQ184S1VScjA0em1YMnFhRTBqdGl1V2I3ekZ0dzNkSkVZN1Vjd0x5SDNFYUJldTBuT2JGbVc4ZUVOTmJWMnBfR3RiaXlpbW1ZbWVKSW0tc0R4RUk5SjBiVVZEajhsQVp3cndFNnVoNDFyanFFSjF0NlAzUEg4cmJEMHFROGhIVnJQcWUycDkzQmdwNEdCeHJ4a18xaVRxVkhEWDBiRXRwYk9hNGJlVmZSS3k0MEtOTXRVczc3UzBxWGZPVGNWVFRMajNKdXZoT21PbGNnRUxDZ1Nn?oc=5",
-      "source": "Retail Tech Innovation Hub",
+      "title": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONm1aN3JiNld4ZkM1VTI1TFdCNFRiTmF5TlBFNk5QMmdnaWEwZjJXaTQ5eFBhb29wRnVWM01vWmtiZkVoRG5qSmJnTXY1V0dsTTFtYjZSN1JYRHFodzEwV0NVQVJVYlBaWEVkakQ0WEJXa1hBbUFsRmNJNEotTkd6aHBxYzR4M0NOczhpM00xVkZHQ2t2bV96YjhNSFlaa19McEpwU3ZNMENoQTg3cDhxb0R1YVA5QUprM2d5cVlB?oc=5",
+      "source": "Reuters Technology",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-10-05T05:07:42.000Z",
-      "summary": "Evri在巴恩斯利测试了两足送货机器人。",
-      "summaryZh": "",
-      "titleZh": "埃夫里在巴恩斯利测试两足送货机器人：上周最大的零售技术游戏"
+      "pubDate": "2026-10-05T06:10:00.000Z",
+      "summary": "",
+      "titleZh": "德国电信预计到 2030 年人工智能和自动化将节省 25 亿欧元"
+    },
+    {
+      "title": "Austrian government's No. 2 figure says he will step down",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRVFRVEc2bTh5QnlBTXl2VE8zMkppZ19faTlSQlJfTU50dE9yZjFkRmE0VVhyVzY4X21KRWIyZWVyUHVGSktfUVJ2NXNfWFd0WXNobG5jakRZRVBYcWM0c1czOWl4RGRKa0NVVjlVRG9hMnh5OGFEZ1JiNzc5T2hPVVJjNEdkVnNPMjRHN3lsRmZqSkhSbjNIVkYya3NPUQ?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-04T21:13:06.000Z",
+      "summary": "",
+      "titleZh": "奥地利政府二号人物表示将辞职"
+    },
+    {
+      "title": "当中国机器狗进入哈萨克斯坦工地：托卡耶夫平衡术下的中美“错位竞争”",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnSHZycXExMGJpM0xUWDNZa1FEQ2VKSjgxd2wyRnB2UW5uZEF0OTlxdUVVU0NUWmJOb01HekxyQ08ybHhnOXVpRlh5NTh4dXdPaFVmRTNYSTgxbE4yTXlZelk1WXFZcDZ0M0tmdUxyT2FDUQ?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-04T23:08:00.000Z",
+      "summary": "哈萨克斯坦总统托卡耶夫在AI论坛上强调平衡AI监管，寻求中美科技合作。",
+      "summaryZh": ""
     }
   ]
 }
