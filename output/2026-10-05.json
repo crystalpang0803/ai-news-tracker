@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "generatedAt": "2026-10-05T00:00:22.646Z",
+  "generatedAt": "2026-10-05T01:18:08.566Z",
   "items": [
     {
       "title": "无人机已经是优等生，机器人为什么还要载人",
@@ -9,17 +9,47 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-04T03:50:27.000Z",
-      "summary": "载人机器人动作不敏捷，成本和技术挑战大。",
+      "summary": "载人机器人动作不敏捷，成本高，技术挑战大。",
       "summaryZh": ""
     },
     {
       "title": "Claude满分、GPT 99分，何恺明团队把AGI考试打穿了",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hVm1JLVdjRlFSVThfd21ZUmxNVjREX3IxTllvS0g3Z0RvMzdFRUxMYUkxVldrWWhYdlZLU0VWMlg2UFM5Nmt3cTFTT3lHdkk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CMDVkNnFxRG9SdG9Ubjg0NmRhcDM1SDZyVFltRnlLaVJ6Z1drVFdxcWdOM1g4U0NMQVFYWnJOVGJDYXFwVzdfbkJfSkdsUnRv?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-04T12:01:09.000Z",
-      "summary": "何恺明团队改进AI视觉记忆，使模型在AGI考试中取得满分。",
+      "summary": "何恺明团队通过视觉记忆增强，使大模型在AGI考试中取得满分成绩。",
+      "summaryZh": ""
+    },
+    {
+      "title": "“机器人通用大脑”受追捧：FieldAI 拟融资 7 亿美元，估值达 100 亿美元",
+      "link": "https://www.ithome.com/1/009/746.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-05T00:15:29.000Z",
+      "summary": "FieldAI计划融资7亿美元，估值达100亿美元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人格斗公司 REK 举办真人与机器人笼斗赛被叫停：未取得许可组织活动",
+      "link": "https://www.ithome.com/1/009/736.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-04T15:22:56.000Z",
+      "summary": "机器人格斗公司REK举办真人与机器人笼斗赛被加州政府叫停，因未取得许可。",
+      "summaryZh": ""
+    },
+    {
+      "title": "算力资产寿命的多空之争：黄仁勋说能用六年，空头说三年就该报废",
+      "link": "https://www.tmtpost.com/8158686.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-05T00:56:48.000Z",
+      "summary": "黄仁勋与空头就算力资产寿命存在分歧，前者认为可用六年，后者认为三年即报废。",
       "summaryZh": ""
     },
     {
@@ -33,13 +63,14 @@
       "summaryZh": ""
     },
     {
-      "title": "算力的尽头是电力：谁能喂饱AI 谁就掌握未来话语权_精彩视频为您呈现",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84Y19MdEY3RHZJanRwV0MtY3pBSjJkb1d6TDZmY3BORDhHQVFDVGFjaC0zTDZfWVVyR1BCS3Ftd0NlWS11N0tnMzhyNzdSOHVmRDBN?oc=5",
-      "source": "36氪",
+      "title": "追光的你｜00后创业者王啸坤：把大模型做进游戏，让AI更有“活人感”",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FNm4wSWdycDhhX1ppd05QSjJOZHdTQ0RpbWRacmlwTF96SEJQMThGQV9DN1VqcThPVExSNG9zS01sZHdoQk1ubXVBTFhRQXQ1V3lIOE5NQ2ZCRU90akIxbg?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-04T17:40:39.000Z",
-      "summary": ""
+      "pubDate": "2026-10-05T01:15:03.000Z",
+      "summary": "00后创业者王啸坤将大模型技术应用于游戏，提升AI角色“活人感”。",
+      "summaryZh": ""
     },
     {
       "title": "剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件",
@@ -52,43 +83,23 @@
       "summaryZh": ""
     },
     {
+      "title": "财联社10月5日电，日本央行副行长内田真一称，人工智能已成为包括日本央行在内的中央银行讨论的关键议题，尤其是在货币政策会议上。人工智能给经济和物价带来上行压力。",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4zRVVmaW1FRU1KQ3FDOWI0UkQ2WkQ2ZXZFc1lrcjVaZWE4U2ltV2Q1eUc0R0hCVWVtSDVvUU1md0hmTC1SYkE?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-04T09:32:00.000Z",
+      "summary": "日本央行副行长指出，人工智能成货币政策讨论关键议题，对经济和物价产生上行压力。",
+      "summaryZh": ""
+    },
+    {
       "title": "木头姐：聪明的投资者需要开始关注AI Agent把钱花到哪里",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYjk1Y25HS0ZJc2hacGowNVFYTlIyU3JNcFpWMGFKOFNTMzhKOUJ5S3FfcjZiRzlTSFFJWEg4aGwwWUo1Vk43SThWU1Q5T2VndkJzeEVlNzNRSEpoY05zUjQ4Q1pJdjF4eGVnTHpEVUMyYlB0UkxwdU9tUlF1VGFxX0tVNWxvTmQ0Q2RHRkRUNktuVVFTanhJT3hIOS1kWFNDNnBrNEdMUHV0Z3NRUkVuWEtrUThSUE81N01OYm82S3VqUG1XS1NaYmxXSkt0QXZsY0ptNjg4MkQ1MzFTODFV?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS1lfOEtsSlM5TmhVQVpha1ZGR3FfUkZzam52Nl8xX0pMYTJ3aHRGeHlXRTNraTg2bUp6YU1iQk1GNjNfU25NRlpkUGlNRnc4RFZvcmNSaE9rOG9aZnBaUVlLQjhpaHFhRWpxZHJWMS12UjhLREpaQjN0dlhWZldlQnBJSEZDT0FtVnlMMXh5WW02elQwVFZNdWJReUxleURSbnFWOG1GMTNZcUlyc0VMRmhMRmowNkdhajhrX2pta1BZMnkxN0hVd01BM0FGNTZrTlBWc1VTd3QyUDBLak9N?oc=5",
       "source": "新浪财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-04T07:21:00.000Z",
-      "summary": "木头姐建议投资者关注AI Agent的金融流向。",
-      "summaryZh": ""
-    },
-    {
-      "title": "消息称微软为 20 多个数据中心建设项目引入“仿生”计划：修复湿地生态、种植本土植物以降低环境影响",
-      "link": "https://www.ithome.com/1/009/734.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-04T14:59:48.000Z",
-      "summary": "微软数据中心项目引入“仿生”计划，修复湿地生态，降低环境影响。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI CEO奥尔特曼反对神化AI",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpWjhWcl8tVHdCbnhJdDhud1J5Q1o3TTVhck9zUXRmUWUwY1pMd18yd0JKaHdPaWZ0V3AzWUQ2am9oNWpKYUxIRUcwRE9TTm53aXg5LQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-04T03:32:00.000Z",
-      "summary": "OpenAI CEO奥尔特曼呼吁理性看待AI发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "财联社10月3日电，OpenAI安全系统团队负责人David Robinson已从公司离职。",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9aTkdlUHIyNFlvR0lERmVxbmp2YVB4TXp5aUdzMTJrcElKMU40dUNxbVdzSFJOcThIMC1pMGxGTjdCZ0lrWW9yNQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-04T07:47:00.000Z",
-      "summary": "OpenAI安全系统团队负责人David Robinson离职。",
+      "summary": "木头姐建议投资者关注AI Agent的金融活动。",
       "summaryZh": ""
     },
     {
@@ -98,7 +109,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-10-04T15:00:00.000Z",
-      "summary": "CleoPtolemy公司为ServiceNow开发了AI代理，实际痛点小于预期路线图。",
+      "summary": "CleoPtolemy公司为ServiceNow开发AI代理，实际痛点小于预期路线图。",
       "summaryZh": "",
       "titleZh": "我们为 ServiceNow 构建了一个人工智能代理。真正的痛点比我们假设的路线图要窄"
     },
@@ -114,6 +125,16 @@
       "titleZh": "机器人技术和物理人工智能如何负责任地应对关键的物理安全挑战"
     },
     {
+      "title": "黄山学院等申请基于人工智能的新能源汽车算力调度方法及系统专利，提升智能驾驶感知系统运行稳定性",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ma0FWZXhSaWNiYW15NURNbDdsa3Q4SUNSSTBJMHVFR0pTOTVjNHV1dGljWG1zZnF1alVScm1Hc1E1Tlo1SGpiV1RUMEE5aVIzUko2VEpIbDVYa0RCT3Z6UTllazVSUQ?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-05T00:41:47.000Z",
+      "summary": "黄山学院等申请新能源汽车算力调度专利，提升智能驾驶稳定性。",
+      "summaryZh": ""
+    },
+    {
       "title": "震坤行与英特尔达成工业AI合作 发布工业多模态大模型",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EdUpxQ1FkdTFRUmFUMzFPZk9hNjF6dFNqazBieHJKdmdqS3JkWVo1VHZLQUFheW40QUFlRExyMVhiVjBoN3pSaUJVbFdpbVhVSWl6S2xlVG1PZw?oc=5",
       "source": "经济观察网",
@@ -122,27 +143,6 @@
       "pubDate": "2026-10-04T14:23:00.000Z",
       "summary": "震坤行与英特尔合作发布工业多模态大模型。",
       "summaryZh": ""
-    },
-    {
-      "title": "凌晨4点测试两发固体火箭，印度微型导弹关键突破，专打无人机蜂群",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xNFVsWTc0aUZtZE13N25Bd05wZ1N5bV9FSEFVME5QX1JCWnY2dVNyeU0tZ2NNOUlkRDI4QW1hcjh2ZzFMczl2TlhPLXhuVjZCcWt0cDl3?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-04T06:03:00.000Z",
-      "summary": "印度成功测试JWALA微型导弹，专用于打击无人机蜂群。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI news and analysis| Page 49 of 49",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tSmlGc002TXRUMDh3ck45blZyTlI5SHdNTXM4cXBYNEFlaWZNcmpJRndRcUhQVTR2OS1hLWp3eTVqbVVyTElmZDNaeVJnRm80T0tubg?oc=5",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-04T19:39:40.000Z",
-      "summary": "OpenAI将在Disrupt活动上展示突破性技术，报名截止至10月2日。",
-      "summaryZh": "",
-      "titleZh": "OpenAI新闻与分析|第 49 页，共 49 页"
     },
     {
       "title": "“AI变量”成为沈城文旅消费核心驱动力",
@@ -176,13 +176,24 @@
       "titleZh": "泽连斯基表示，乌克兰认为俄罗斯与朝鲜共享喷气式无人机技术"
     },
     {
+      "title": "Agility Robotics partners with FORT to strengthen safety systems for Digit 5",
+      "link": "https://roboticsandautomationnews.com/2026/10/04/agility-robotics-partners-with-fort-to-strengthen-safety-systems-for-digit-5/105492/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-04T09:19:19.000Z",
+      "summary": "Agility Robotics与FORT合作，强化Digit 5安全系统。",
+      "summaryZh": "",
+      "titleZh": "Agility Robotics 与 FORT 合作加强 Digit 5 的安全系统"
+    },
+    {
       "title": "当中国机器狗进入哈萨克斯坦工地：托卡耶夫平衡术下的中美“错位竞争”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05a1pCbHdXajhiZndQaTJYRXFINWdQSXJnc2k1OVhWY0R1Q2tvdVRGbzhpVENnVnhkVUkwNkw2OEJmOVhkSS10WkExUHZDNjJ1cEdoNjZ5QXBaU00wZ3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnSHZycXExMGJpM0xUWDNZa1FEQ2VKSjgxd2wyRnB2UW5uZEF0OTlxdUVVU0NUWmJOb01HekxyQ08ybHhnOXVpRlh5NTh4dXdPaFVmRTNYSTgxbE4yTXlZelk1WXFZcDZ0M0tmdUxyT2FDUQ?oc=5",
       "source": "澎湃新闻科技",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-04T23:08:00.000Z",
-      "summary": "哈萨克斯坦在中美AI竞争中寻求平衡，同时吸引两国科技企业投资。",
+      "summary": "哈萨克斯坦总统托卡耶夫在AI论坛上强调平衡AI监管，寻求中美科技合作。",
       "summaryZh": ""
     },
     {
@@ -192,7 +203,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-04T01:55:23.000Z",
-      "summary": "荣耀Magic9 Pro Max搭载ARRI影像技术，将专业影像体验融入手机。",
+      "summary": "荣耀Magic9 Pro Max搭载ARRI影像技术，将专业摄影体验融入手机。",
       "summaryZh": ""
     },
     {
@@ -202,7 +213,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-04T02:25:43.000Z",
-      "summary": "DCReg将退化LiDAR配准问题分解为三个可诊断、可求解的步骤。",
+      "summary": "DCReg将退化LiDAR配准问题分解为可诊断、可求解的三个步骤。",
       "summaryZh": ""
     }
   ]
