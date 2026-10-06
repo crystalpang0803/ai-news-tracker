@@ -1,26 +1,7 @@
 {
   "date": "2026-10-07",
-  "generatedAt": "2026-10-06T22:36:54.395Z",
+  "generatedAt": "2026-10-06T23:14:26.631Z",
   "items": [
-    {
-      "title": "落地欧盟文本溯源合规：OpenAI为ChatGPT和Codex植入隐形水印",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XMkJNeGFlSUdqazM5aXFhU05vZGg1d255WUg3ZzVyeURWcGxxNldYeHZfbHRPSkhibmJ2VV94U2VORzlWM2xkMTRFLU8yN0c2WU9uaDZ3?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-06T05:30:00.000Z",
-      "summary": "OpenAI为ChatGPT和Codex植入欧盟合规的隐形水印技术textGrain。",
-      "summaryZh": ""
-    },
-    {
-      "title": "多家阿联酋基金以及贝莱德据悉商谈参与OpenAI最新一轮300亿美元融资",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZbGZ5eEdISDZSNTRrSXVaaUM2Sk1ZWkptdHU0T2ltaHNLZVBJcDlBcC1GWFFYVzV1THlXN2NNd2lhQlRHUThQbzk5aTg1Ym9hczhkcUI3X1E?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-06T03:06:14.000Z",
-      "summary": ""
-    },
     {
       "title": "DeepSeek被爆最新融资800亿，正为冲击IPO做准备",
       "link": "https://www.tmtpost.com/8159961.html",
@@ -32,13 +13,13 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI与Ironclad开展合作 针对复杂合同工作流开展人工智能智能体研究",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YLWwxYWtGV09WejlOQWpleExqTmlfZHN3ZEVUd18ybmpHb1dCdFRPU2o4TzgzM1dGYWwwX1U3QXUtbkRkeHEzM3ZDcnQ0WkZMUnhxQ0NUanFfQUZWdzltQlNKaw?oc=5",
-      "source": "东方财富网",
+      "title": "谷歌推出 EmbeddingGemma 2：支持多模态、7.4 亿参数量化手机端运行只需 191MB 内存",
+      "link": "https://www.ithome.com/1/010/125.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-06T17:59:41.000Z",
-      "summary": "OpenAI与Ironclad合作研究复杂合同工作流的人工智能智能体。",
+      "pubDate": "2026-10-06T22:41:19.000Z",
+      "summary": "谷歌推出EmbeddingGemma 2，支持多模态，7.4亿参数量化手机端运行仅需191MB内存。",
       "summaryZh": ""
     },
     {
@@ -48,27 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-06T19:46:00.000Z",
-      "summary": "Vgain Compute推出支持多AI模型的AI Token平台。",
-      "summaryZh": ""
-    },
-    {
-      "title": "3C数码行业出海 GEO 指南：如何让海外大模型主动推荐你的品牌？",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xVXNXcHZ4a2g5TWI2cnFDZ2pLMDRnTkFLbFVjR0QxZnBvMDhVbHlFZHkxaGZHZXdfV0RUa3drMC1jYm1JUmJpZnRjcGI?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-06T11:44:00.000Z",
-      "summary": "3C数码品牌出海需优化GEO策略，提升海外大模型推荐率。",
-      "summaryZh": ""
-    },
-    {
-      "title": "开发者本地跑大模型用什么 AI 主机？先解决环境配置与多任务内存",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWdkNqZ3ItQUJuSDhWNnZtSS1fd0k5c3dCYjVxUEJVM3d0R1hUV3RMMWRvTjdrcXNabC1aaFY1Y3U4SXp5cEg3XzRNNEE?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-06T11:41:11.000Z",
-      "summary": "联想百应 AI 主机 mini 100 解决开发者本地跑大模型的环境配置与多任务内存问题。",
+      "summary": "Vgain Compute推出AI Token平台，支持多款模型。",
       "summaryZh": ""
     },
     {
@@ -82,12 +43,12 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI发布前沿大模型的全新数学能力测试成果‌",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHX0t4XzF2SENQckhhU3lPRjYxX1EtS2NXRGVrVkZxQnc1UGRmaEUtX282UUJMYjZlM3pVMWJsV3NDUlZfX2Y0eHdKZndSTldWOGZHWjdLTE42endXc1g1aGxMZGNFYThuTzk2V053MA?oc=5",
-      "source": "金融界",
+      "title": "OpenAI发布前沿大模型的全新数学能力测试成果",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80V0poYjZqS0lUVFIxQWVYMlFsZGpyLS0xRFNJUUEzZXJzN014c3BYT0lzcEdfRlhvT25JLXduajBkVGxLRFI0U1BiUkU2OTVlcFRwS3Frb2xhUVc0NjE0Yg?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-06T22:30:33.000Z",
+      "pubDate": "2026-10-06T22:54:59.000Z",
       "summary": "OpenAI发布大模型数学能力测试成果，含Lean语言形式化证明。",
       "summaryZh": ""
     },
@@ -109,7 +70,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-06T06:45:40.000Z",
-      "summary": "OpenAI启动“疯狂28天”计划首日，宣布GPT-6模型推理速度提升约50%，但用户反馈冷嘲热讽。",
+      "summary": "OpenAI“疯狂28天”首日，GPT-6模型推理速度提升约50%，但用户反馈冷嘲热讽。",
       "summaryZh": ""
     },
     {
@@ -119,19 +80,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-06T03:06:40.000Z",
-      "summary": "Manus独立后推出2.0版本，Agent竞争转向生态较量。",
+      "summary": "Manus独立后推出新版本，Agent竞争转向生态较量。",
       "summaryZh": ""
-    },
-    {
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-06T16:00:00.000Z",
-      "summary": "Anthropic为初创企业提供免费一年的Claude Team和1000美元的API信用额度。",
-      "summaryZh": "",
-      "titleZh": "Anthropic 为初创公司提供一年免费的 Claude Team 和 1,000 美元的积分"
     },
     {
       "title": "TwelveLabs debuts Pegasus 1.6 to improve robotics training data from first-person video",
@@ -162,7 +112,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-06T09:32:50.000Z",
-      "summary": "Deliveroo与Coco Robotics将在英国多地进行机器人配送服务。",
+      "summary": "Deliveroo与Coco Robotics将在英国多城市推出机器人配送服务。",
       "summaryZh": "",
       "titleZh": "Deliveroo 和 Coco Robotics 将在英国推出机器人送货服务"
     },
@@ -173,7 +123,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-06T09:14:33.000Z",
-      "summary": "中国宠物智能用品市场快速增长，全球销量达22.4亿元。",
+      "summary": "中国宠物智能用品市场增长迅速，全球销量同比增长21.7%。",
       "summaryZh": ""
     },
     {
@@ -183,16 +133,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-06T14:50:07.000Z",
-      "summary": ""
-    },
-    {
-      "title": "胡塞武装称首次实战使用新型自制无人机",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FYTNObXU2LWxLTHdhMm9vVzJBZUtDOUNHMEpuU0lpbE0tZHlnLTFVQzZtOU1PaER4dXhWeFVjTFlNS0JLbkIyV0RsTkxfTVJhNk43NmNUek8xTjVBRDJCUmotT3RLZw?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-06T13:26:00.000Z",
-      "summary": "胡塞武装在实战中首次使用新型自制无人机。",
+      "summary": "北约制定“胜利理论”战略，以无人机和AI应对潜在俄罗斯袭击。",
       "summaryZh": ""
     },
     {
@@ -202,7 +143,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-06T11:07:00.000Z",
-      "summary": "金华启用AI“雷达”保障民宿安全，打造绿电“驿站”提升旅客体验。",
+      "summary": "浙江金华运用AI技术保障民宿安全，打造绿电驿站服务旅客。",
       "summaryZh": ""
     },
     {
@@ -212,7 +153,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-06T17:35:00.000Z",
-      "summary": "深海机器人结合生物灵感设计和声学导航，应对工程挑战，提升未知海洋区域探索能力。",
+      "summary": "深海机器人结合生物灵感设计和声学导航，应对工程挑战以拓展未知海洋区域探索。",
       "summaryZh": "",
       "titleZh": "深度机器人技术：深海工程机械"
     }
