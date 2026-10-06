@@ -1,7 +1,17 @@
 {
   "date": "2026-10-07",
-  "generatedAt": "2026-10-06T20:56:15.532Z",
+  "generatedAt": "2026-10-06T22:36:54.395Z",
   "items": [
+    {
+      "title": "落地欧盟文本溯源合规：OpenAI为ChatGPT和Codex植入隐形水印",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XMkJNeGFlSUdqazM5aXFhU05vZGg1d255WUg3ZzVyeURWcGxxNldYeHZfbHRPSkhibmJ2VV94U2VORzlWM2xkMTRFLU8yN0c2WU9uaDZ3?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-06T05:30:00.000Z",
+      "summary": "OpenAI为ChatGPT和Codex植入欧盟合规的隐形水印技术textGrain。",
+      "summaryZh": ""
+    },
     {
       "title": "多家阿联酋基金以及贝莱德据悉商谈参与OpenAI最新一轮300亿美元融资",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZbGZ5eEdISDZSNTRrSXVaaUM2Sk1ZWkptdHU0T2ltaHNLZVBJcDlBcC1GWFFYVzV1THlXN2NNd2lhQlRHUThQbzk5aTg1Ym9hczhkcUI3X1E?oc=5",
@@ -22,16 +32,6 @@
       "summaryZh": ""
     },
     {
-      "title": "将GPT-6系列前沿模型接入Atlassian全平台，打造AI体验，助力团队完成工作的规划、搭建与交付。",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SRU81ZEdNeDNGeldRa1FyNEE4OGl1aV8ycm9IWUhZUlpnRzJDeDZLYVpPdnRXNGxwaTFuU1Z6ZHRjWFdnc2pnVg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-05T22:18:00.000Z",
-      "summary": "Atlassian与OpenAI合作，接入GPT-6模型，提升AI体验，助力团队工作。",
-      "summaryZh": ""
-    },
-    {
       "title": "OpenAI与Ironclad开展合作 针对复杂合同工作流开展人工智能智能体研究",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YLWwxYWtGV09WejlOQWpleExqTmlfZHN3ZEVUd18ybmpHb1dCdFRPU2o4TzgzM1dGYWwwX1U3QXUtbkRkeHEzM3ZDcnQ0WkZMUnhxQ0NUanFfQUZWdzltQlNKaw?oc=5",
       "source": "东方财富网",
@@ -48,7 +48,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-06T19:46:00.000Z",
-      "summary": "Vgain Compute推出AI Token平台，支持多款模型。",
+      "summary": "Vgain Compute推出支持多AI模型的AI Token平台。",
       "summaryZh": ""
     },
     {
@@ -62,6 +62,16 @@
       "summaryZh": ""
     },
     {
+      "title": "开发者本地跑大模型用什么 AI 主机？先解决环境配置与多任务内存",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWdkNqZ3ItQUJuSDhWNnZtSS1fd0k5c3dCYjVxUEJVM3d0R1hUV3RMMWRvTjdrcXNabC1aaFY1Y3U4SXp5cEg3XzRNNEE?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-06T11:41:11.000Z",
+      "summary": "联想百应 AI 主机 mini 100 解决开发者本地跑大模型的环境配置与多任务内存问题。",
+      "summaryZh": ""
+    },
+    {
       "title": "苏姿丰：AI芯片需求非常旺盛 AMD将持续大幅扩产",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5seFp4aDQ3dzN5alEzN1VFMnp4VnRkY2RqQjBtblh4UWlYWXJRQTk1YzlGSjZ5aDBHTW5pcng1MWg0bjdYZlRyNA?oc=5",
       "source": "财联社",
@@ -72,14 +82,25 @@
       "summaryZh": ""
     },
     {
+      "title": "OpenAI发布前沿大模型的全新数学能力测试成果‌",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHX0t4XzF2SENQckhhU3lPRjYxX1EtS2NXRGVrVkZxQnc1UGRmaEUtX282UUJMYjZlM3pVMWJsV3NDUlZfX2Y0eHdKZndSTldWOGZHWjdLTE42endXc1g1aGxMZGNFYThuTzk2V053MA?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-06T22:30:33.000Z",
+      "summary": "OpenAI发布大模型数学能力测试成果，含Lean语言形式化证明。",
+      "summaryZh": ""
+    },
+    {
       "title": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing",
       "link": "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-05T23:34:35.000Z",
-      "summary": "Teradyne投资Bright Machines，推动AI基础设施制造自动化。",
-      "summaryZh": ""
+      "summary": "Teradyne投资Bright Machines，将机器人技术应用于AI基础设施制造。",
+      "summaryZh": "",
+      "titleZh": "泰瑞达投资 Bright Machines，将机器人技术引入人工智能基础设施制造"
     },
     {
       "title": "OpenAI疯狂28天首日，这都发了些啥啊…",
@@ -88,7 +109,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-06T06:45:40.000Z",
-      "summary": "OpenAI启动“疯狂28天”计划首日，GPT-6模型推理速度提升约50%，但用户反馈冷嘲热讽。",
+      "summary": "OpenAI启动“疯狂28天”计划首日，宣布GPT-6模型推理速度提升约50%，但用户反馈冷嘲热讽。",
       "summaryZh": ""
     },
     {
@@ -102,6 +123,17 @@
       "summaryZh": ""
     },
     {
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-06T16:00:00.000Z",
+      "summary": "Anthropic为初创企业提供免费一年的Claude Team和1000美元的API信用额度。",
+      "summaryZh": "",
+      "titleZh": "Anthropic 为初创公司提供一年免费的 Claude Team 和 1,000 美元的积分"
+    },
+    {
       "title": "TwelveLabs debuts Pegasus 1.6 to improve robotics training data from first-person video",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY19CNUtmUjdkLTk0clZSSzRYNHVOaTJXY2xrdXZHUVJpRVlwRnIyaldzcm85ZlhFV3Bjb2t2TVlfcTZzZXF5WEJLRUc5YnB6ZjVWblNNRUFYRTY3WGlMUXhfQWFqS1czR2EzYU5JcWY3WXhfdEZzbml3WVNReTcyT3VDWXVfSi1KQjhCdmVFS2ZTNVVNbmZSdlBJOFBXVkYxcFpoRzF2SzJOZW4xT3daM2s2eFNHRkFmUjl1aktzcw?oc=5",
       "source": "VentureBeat",
@@ -109,7 +141,19 @@
       "category": "robotics",
       "pubDate": "2026-10-06T18:17:35.000Z",
       "summary": "TwelveLabs发布Pegasus 1.6，优化机器人训练数据，支持第一视角视频。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "TwelveLabs 首次推出 Pegasus 1.6，以改进第一人称视频中的机器人训练数据"
+    },
+    {
+      "title": "Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO",
+      "link": "https://www.therobotreport.com/boston-dynamics-appoints-former-amazon-executive-rohit-prasad-new-ceo/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-06T21:00:30.000Z",
+      "summary": "Boston Dynamics任命前亚马逊高管Rohit Prasad为新任CEO。",
+      "summaryZh": "",
+      "titleZh": "波士顿动力公司任命亚马逊前高管罗希特·普拉萨德为新任首席执行官"
     },
     {
       "title": "Deliveroo and Coco Robotics to roll out robot deliveries across the UK",
@@ -119,7 +163,8 @@
       "category": "robotics",
       "pubDate": "2026-10-06T09:32:50.000Z",
       "summary": "Deliveroo与Coco Robotics将在英国多地进行机器人配送服务。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "Deliveroo 和 Coco Robotics 将在英国推出机器人送货服务"
     },
     {
       "title": "“毛孩子”带火大生意 中国宠物智能用品全球“圈粉”",
@@ -128,27 +173,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-06T09:14:33.000Z",
-      "summary": "中国宠物智能用品市场快速增长，全球销量同比增长21.7%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "FCC robot restrictions could accelerate shift to local AI",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQREw2aFRGY1VpZHQ1azlLYXFUeXZNTFRDbEp3SGJEbVd5bl9HQU1ncDZsOGlPOVVPcGR0OU5JSHJVb0U4MWVOUEptbFhuMExKZk9mVEhOZ0diUWhqcUwwQXhQbDRteWpVT2hmcUV5dzIwYkJxd2N2WWNaemk0LW92TGllWXNIbnctV0Y2Y3JWR3pMYW8?oc=5",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-06T01:33:05.000Z",
-      "summary": "FCC限制外国机器人可能加速本地AI应用发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Japanese nursing home operator Charm Care invests in humanoid company Donut Robotics",
-      "link": "https://roboticsandautomationnews.com/2026/10/05/japanese-nursing-home-operator-charm-care-invests-in-humanoid-company-donut-robotics/105545/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-05T21:15:33.000Z",
-      "summary": "日本养老机构运营商Charm Care投资200万美元于人形机器人公司Donut Robotics。",
+      "summary": "中国宠物智能用品市场快速增长，全球销量达22.4亿元。",
       "summaryZh": ""
     },
     {
@@ -158,7 +183,16 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-06T14:50:07.000Z",
-      "summary": "北约制定“胜利理论”战略，以无人机和AI应对俄罗斯可能的袭击。",
+      "summary": ""
+    },
+    {
+      "title": "胡塞武装称首次实战使用新型自制无人机",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FYTNObXU2LWxLTHdhMm9vVzJBZUtDOUNHMEpuU0lpbE0tZHlnLTFVQzZtOU1PaER4dXhWeFVjTFlNS0JLbkIyV0RsTkxfTVJhNk43NmNUek8xTjVBRDJCUmotT3RLZw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-06T13:26:00.000Z",
+      "summary": "胡塞武装在实战中首次使用新型自制无人机。",
       "summaryZh": ""
     },
     {
@@ -168,7 +202,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-06T11:07:00.000Z",
-      "summary": "浙江金华启用AI“雷达”保障民宿安全，打造绿电“驿站”温暖旅客。",
+      "summary": "金华启用AI“雷达”保障民宿安全，打造绿电“驿站”提升旅客体验。",
       "summaryZh": ""
     },
     {
@@ -178,8 +212,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-06T17:35:00.000Z",
-      "summary": "深海机器人结合生物灵感设计和声学导航，应对工程挑战，以增强对未知海洋区域的探索。",
-      "summaryZh": ""
+      "summary": "深海机器人结合生物灵感设计和声学导航，应对工程挑战，提升未知海洋区域探索能力。",
+      "summaryZh": "",
+      "titleZh": "深度机器人技术：深海工程机械"
     }
   ]
 }
