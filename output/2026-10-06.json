@@ -1,16 +1,24 @@
 {
   "date": "2026-10-06",
-  "generatedAt": "2026-10-06T02:31:35.154Z",
+  "generatedAt": "2026-10-06T06:26:59.927Z",
   "items": [
     {
-      "title": "ChatGPT正式推出文字水印功能 GPT-6研发进度提速50%",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90ZmpPNF91Q2FoN2Uwdl9icUNlMmRyNkYtemRsd0NlRV9ELVlRUmR6ckxsUjNieEZtaDFTdDlXVHd4dng0MWpJUGZZOGhTVlRMWU5z?oc=5",
+      "title": "刚刚，ChatGPT 推出文字水印，GPT-6 提速 50%",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SUXNfNWw5T01FU1ZnN1Q3aVRwWmZPdXZLeGwwOEpiLWJ2RTNabkp2a25JQlBvNmU5TTl5YmhJMktqdEVtMmVnejQ5ODNvZw?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-05T10:08:00.000Z",
-      "summary": "ChatGPT推出文字水印，GPT-6研发提速50%。",
-      "summaryZh": ""
+      "summary": ""
+    },
+    {
+      "title": "智能体越狱频发：OpenAI踩刹车取消GPT-6.1 Astra发布，Meta猛踩油门边开边修",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pSm5qMEROODMyczZNSlV3Nm1kcjBfQnczeFNpNXM4bFNYTWtpQ1YybnBZVkp2emJqZE12V2F5bG1jQXk5SlNjVFNOZThyazlUTWNPR1hldURQQ01qb2lv?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-06T04:32:06.000Z",
+      "summary": ""
     },
     {
       "title": "消息称 OpenAI 洽谈 300 亿美元融资，阿联酋基金、贝莱德入局磋商",
@@ -19,7 +27,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-06T02:29:06.000Z",
-      "summary": "OpenAI 正洽谈300亿美元融资，阿联酋基金和贝莱德参与磋商。",
+      "summary": "OpenAI洽谈300亿美元融资，阿联酋基金和贝莱德参与磋商。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-05T16:55:42.000Z",
+      "summary": "OpenAI公关在询问ChatGPT用户自杀事件时，要求记者“继续”。",
+      "summaryZh": ""
+    },
+    {
+      "title": "想改造工厂的机器人，先被工厂改造了",
+      "link": "https://www.tmtpost.com/8159783.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-06T03:56:44.000Z",
+      "summary": "机器人故障记录助力下一代设计改进。",
       "summaryZh": ""
     },
     {
@@ -29,27 +57,47 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-05T14:49:00.000Z",
-      "summary": "上海将于10月举办国际具身智能技能大赛，加速机器人技能落地验证。",
+      "summary": "上海举办国际具身智能技能大赛，验证机器人技能。",
       "summaryZh": ""
     },
     {
-      "title": "Lola Vision Systems要降低AI芯片部署门槛_驱动中国",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqMi1halh5ZE1ydTZuR0ZkU25sZEJndG1vTUYxVGVTR0ZKNmNzUXBNU3MxamRnQzItY3ZIMy1yN2IzQ21LWjdMdjlHS3BEVzlCWW11NHQyYTlSdTZ1REE?oc=5",
-      "source": "同花顺财经",
+      "title": "卖铲人不灵了：AI资本开支的4%回报比，正在重定价整个算力链",
+      "link": "https://www.tmtpost.com/8159557.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-05T16:02:00.000Z",
-      "summary": "洛拉视觉系统推出编译器工具链，旨在降低AI芯片部署门槛。",
+      "pubDate": "2026-10-06T01:31:00.000Z",
+      "summary": "AI资本开支回报率低至4%，重定价算力链。",
       "summaryZh": ""
     },
     {
-      "title": "打造国庆 “科技过节” 新体验 第26赛季robotex世界机器人大赛亚洲总决赛开幕",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fby1uajVxLXg2MFRZODVQR2JvT282YXNnQzJKVXhmeVhqSV9JVkpndkdhZ0RIc0lxUHFIdXNteTYzZG8wSXNPbGtXRzN2ekVUNlY2Vy01eENtMkJoT2huRzNfV1pRSU9jbzU0Yw?oc=5",
-      "source": "中国新闻网",
+      "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+      "link": "https://www.ithome.com/1/009/990.htm",
+      "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-05T03:43:00.000Z",
-      "summary": "第26赛季Robotex世界机器人大赛亚洲总决赛在上海开幕，汇聚全球机器人技术精英。",
+      "category": "ai",
+      "pubDate": "2026-10-06T06:25:15.000Z",
+      "summary": "DeepSeek 将完成至少800亿融资，腾讯、宁德时代等重金参与。",
+      "summaryZh": ""
+    },
+    {
+      "title": "多家阿联酋基金以及贝莱德据悉商谈参与OpenAI最新一轮300亿美元融资",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FbkxycEtpbkJrZEkwSzZodFlMdjJ2WUowM0JzaURmM3VmaWpKMVI2NFNhTXRPNkhRWWlQV0tGZl9ETlJ4cVBJbg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-05T23:50:52.000Z",
+      "summary": "多家阿联酋基金和贝莱德商谈参与OpenAI 300亿美元融资。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI leads AI agent security at 40%",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdThMekdEOFNRd0tvRXJkeTA0MXE3dUY5bHk1NVJZUklXX1c4bW9EdUF5VXI2eEtaMEFocTBPUHhqOUYtclJXV1BwQ2NBMHNiU0UweXpDUGI5ZjNDWFRrWDJIdHFPM1pVb1lRZEluQzVCdWJYZjZhejFTQi1ONjNuLVBBTWNDUDQ1S1F1RW1CNVJsZkVMc0FuY2c0SmYzOVl3ZDFjZDhtZzVIeEJEaU9panJJRTN6TThTVzVFSE5WNmNmbGtvWGpjeEVsN3k0MmZncWkyUWxEamRlUzU1UTAwQjNTTVNhM0U5VFhDc2JzY3pGMW9EZkNETnFwWF9BMzE4b210SUswVG1uMDVQ?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-05T17:40:17.000Z",
+      "summary": "OpenAI成为企业AI代理安全首选，近四成组织依赖其内置安全工具。",
       "summaryZh": ""
     },
     {
@@ -59,67 +107,45 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-05T23:34:35.000Z",
-      "summary": "Teradyne投资Bright Machines，推动AI基础设施制造自动化。",
-      "summaryZh": "",
-      "titleZh": "泰瑞达投资 Bright Machines，将机器人技术引入人工智能基础设施制造"
-    },
-    {
-      "title": "世界模型不是更大的多模态大模型",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tNXMyVXlhYXlBWFJlOHY1eTY3NG5lb1BmeVdkQzliQ0t6alNMY3NscDRtd0JnSU9GWV9yZ0ozTXpVY2RFazZkenZPWk9NN09iX1RZNXc3WEZIRXdZNkhkaUd3?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-05T15:31:01.000Z",
-      "summary": ""
-    },
-    {
-      "title": "市场消息：Meta 与微软正采取措施，让员工逐步停用，Anthropic 的，Claude 模型。",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaVUZLVTlZYnM0N2tZV2VndnV1Z2FJVk5YeWtqeE10TDRsSzVtZ3ViZUlQdkptQ2E5WVhWVGhUa3dqS1MwVVZjVDZOdm1RdVBIUEdB?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-05T18:19:15.000Z",
-      "summary": "Meta与微软逐步停用Anthropic的Claude模型。",
+      "summary": "Teradyne投资Bright Machines，将机器人技术应用于AI基础设施制造。",
       "summaryZh": ""
     },
     {
-      "title": "快手的视频Agent，会不会来晚了？",
-      "link": "https://www.tmtpost.com/8159522.html",
-      "source": "钛媒体",
+      "title": "一老板花90万买4条机器狗不满表现，具微科技：已通过协商妥善处理",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vOFhjaFozR2x1bkVsdUJCbVV3R0xWTTRBalE2emtCSFMxREkwRXEydWNqWFBrZjFHYWExa3NnMTFCaVJ5UmEzQ1VhUWoyLUM1VERiV09iRHo?oc=5",
+      "source": "36氪",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-05T09:36:30.000Z",
-      "summary": "快手推出AI创作工具likli和视频生成模型Kling 4.0，加入AI视频创作Agent竞争。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Cerebras涨超10%，Altman称其是OpenAI的“密切合作伙伴”",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50VndaT0J1WXZ3YUVkQU5HQTdwS3RtVGt1WkQ1Q0ctZ2ItWWozbDVvcW1ubnVnZlhxUWZKb0VtVy0tVFdHcTAzRFA4UWo1b0YzMHh3?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-05T16:03:49.000Z",
-      "summary": ""
-    },
-    {
-      "title": "FCC robot restrictions could accelerate shift to local AI",
-      "link": "https://www.therobotreport.com/fcc-robot-restrictions-could-accelerate-shift-to-local-ai/",
-      "source": "The Robot Report",
-      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-10-05T17:30:12.000Z",
-      "summary": "FCC限制外国机器人可能加速本地AI应用发展。",
-      "summaryZh": "",
-      "titleZh": "FCC 机器人限制可能会加速向本地人工智能的转变"
+      "pubDate": "2026-10-06T05:52:24.000Z",
+      "summary": ""
+    },
+    {
+      "title": "媒体原创特朗普被曝在掳走马杜罗前曾问过AI聊天机器人，当AI成为总统的“第二意见”，谁来为战争后果负责？",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5paEppeU5hTE5lR2dWeklvUmdSanZ3VVpxLU9uZXBXUW10Mlc0bmRLczg2a3BDYUVEUjc3ZkFoODZiODIyMmt5MGNYdlYyQWRRdGNhSTlR?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-05T07:40:00.000Z",
+      "summary": "#媒体原创特朗普被曝在掳走马杜罗前曾问过AI聊天机器人，当AI成为总统的“第二意见”，谁来为战争后果负责？"
+    },
+    {
+      "title": "机器人在北京上“幼儿园”_中新社_北京分社",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEVUVoOUFraDNCUGxDd3BLVzlpaFY5M0w1bmdXOTgyRGdNWHJva3U3bDdyd3JxS2JZelNMQVR0MW55VzVaR3RqTjFwRDJDZmUwODBaaUlxV0dqTFotbFZ4V2U4MElVZncy?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-06T05:29:00.000Z",
+      "summary": "北京幼儿园引入机器人辅助教学。",
+      "summaryZh": ""
     },
     {
       "title": "全球超级养老金集体减配美股，AI集中度敲响警钟！",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xbnJNd2NnbjZhdGJwNGVYazV3UDN2X3Z1QWJPYldubldueVRrUVBlVTBaRXNfVFB4VmxNTHZzTjBYUTRVWmRldVpHVEtPc2RnRlNRZEJFR0Nya0NLN1E4Z2k4cjhWUlU4U3NiWkg2OTZRUQ?oc=5",
-      "source": "金融界",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZ0N0VGRiRXBWZUFmSElNeTVJUFgtTXZ1QnNJMmZpZ05QU1VVQlN3TnVTSm92MGl1Wm1WVGxUQm1ZSGJmVGdXRW5tSy1YVzVfMjlGZ193?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
       "category": "application",
-      "pubDate": "2026-10-05T11:16:20.000Z",
-      "summary": "全球超级养老金降低美股配置，担忧AI投资周期集中度风险。",
+      "pubDate": "2026-10-05T11:28:00.000Z",
+      "summary": "全球超级养老金降低美股配置，担忧AI投资集中度风险。",
       "summaryZh": ""
     },
     {
@@ -130,29 +156,7 @@
       "category": "robotics",
       "pubDate": "2026-10-05T21:15:33.000Z",
       "summary": "日本养老机构运营商Charm Care投资200万美元于人形机器人公司Donut Robotics。",
-      "summaryZh": "",
-      "titleZh": "日本疗养院运营商 Charm Care 投资人形机器人公司 Donut Robotics"
-    },
-    {
-      "title": "Ency Software and Estun launch technology partnership for integrated robot programming",
-      "link": "https://roboticsandautomationnews.com/2026/10/05/ency-software-and-estun-launch-technology-partnership-for-integrated-robot-programming/105549/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-05T22:16:44.000Z",
-      "summary": "Ency Software与Estun合作，推出集成机器人编程技术。",
-      "summaryZh": "",
-      "titleZh": "Ency Software 与 Estun 建立集成机器人编程技术合作伙伴关系"
-    },
-    {
-      "title": "Exclusive | Robotics Startup RobCo Hits $1 Billion Valuation",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0d1U2ttS2JZU1YyTTRobnlEbnZKQXFqbnZKU0JGY05tTmNMMFVkOUFfVWxzX2RjV1hQaUNfeDhfMjEyNU5wNzdNeHFFSVpuVkdLLUVnc204Qk1ocG5UU2stNzByVjhidmFXTU1ndXlXY3ZtQ3BRMlVnbUtZcGgyenZZVHBTcTZZ?oc=5",
-      "source": "WSJ Tech",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-05T07:00:00.000Z",
-      "summary": "",
-      "titleZh": "独家|机器人初创公司 RobCo 估值达到 10 亿美元"
+      "summaryZh": ""
     }
   ]
 }
