@@ -1,15 +1,25 @@
 {
   "date": "2026-10-06",
-  "generatedAt": "2026-10-06T01:47:41.921Z",
+  "generatedAt": "2026-10-06T02:31:35.154Z",
   "items": [
     {
-      "title": "叫板 DeepSeek、Kimi，英伟达投资的 Reflection AI 发布旗下首款开放权重 AI 模型 Beam",
-      "link": "https://www.ithome.com/1/009/932.htm",
+      "title": "ChatGPT正式推出文字水印功能 GPT-6研发进度提速50%",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90ZmpPNF91Q2FoN2Uwdl9icUNlMmRyNkYtemRsd0NlRV9ELVlRUmR6ckxsUjNieEZtaDFTdDlXVHd4dng0MWpJUGZZOGhTVlRMWU5z?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-05T10:08:00.000Z",
+      "summary": "ChatGPT推出文字水印，GPT-6研发提速50%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "消息称 OpenAI 洽谈 300 亿美元融资，阿联酋基金、贝莱德入局磋商",
+      "link": "https://www.ithome.com/1/009/961.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-06T00:42:20.000Z",
-      "summary": "Reflection AI发布首款开放权重AI模型Beam，对标DeepSeek、Kimi等中国AI模型。",
+      "pubDate": "2026-10-06T02:29:06.000Z",
+      "summary": "OpenAI 正洽谈300亿美元融资，阿联酋基金和贝莱德参与磋商。",
       "summaryZh": ""
     },
     {
@@ -23,23 +33,13 @@
       "summaryZh": ""
     },
     {
-      "title": "多家阿联酋基金以及贝莱德据悉商谈参与OpenAI最新一轮300亿美元融资",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FbkxycEtpbkJrZEkwSzZodFlMdjJ2WUowM0JzaURmM3VmaWpKMVI2NFNhTXRPNkhRWWlQV0tGZl9ETlJ4cVBJbg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-05T23:50:52.000Z",
-      "summary": "阿联酋基金和贝莱德商谈参与OpenAI300亿美元融资。",
-      "summaryZh": ""
-    },
-    {
       "title": "Lola Vision Systems要降低AI芯片部署门槛_驱动中国",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqMi1halh5ZE1ydTZuR0ZkU25sZEJndG1vTUYxVGVTR0ZKNmNzUXBNU3MxamRnQzItY3ZIMy1yN2IzQ21LWjdMdjlHS3BEVzlCWW11NHQyYTlSdTZ1REE?oc=5",
       "source": "同花顺财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-05T16:02:00.000Z",
-      "summary": "洛拉视觉系统推出编译器工具链，降低AI芯片部署门槛。",
+      "summary": "洛拉视觉系统推出编译器工具链，旨在降低AI芯片部署门槛。",
       "summaryZh": ""
     },
     {
@@ -49,7 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-05T03:43:00.000Z",
-      "summary": "第26赛季Robotex世界机器人大赛亚洲总决赛在上海开幕，聚焦科技创新与教育。",
+      "summary": "第26赛季Robotex世界机器人大赛亚洲总决赛在上海开幕，汇聚全球机器人技术精英。",
       "summaryZh": ""
     },
     {
@@ -59,18 +59,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-05T23:34:35.000Z",
-      "summary": "Teradyne投资Bright Machines，将机器人技术应用于AI基础设施制造。",
+      "summary": "Teradyne投资Bright Machines，推动AI基础设施制造自动化。",
       "summaryZh": "",
       "titleZh": "泰瑞达投资 Bright Machines，将机器人技术引入人工智能基础设施制造"
-    },
-    {
-      "title": "Hinton盛赞，Gemini核心贡献者演讲：未来会有数十亿超人级AI爱因斯坦",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mZV9TWXgzYkh2Z09WMU44azBMQ3dCc1JQQnp5M1JHSWVFTE1GeExLY3JYV2F0dEpzRXBIRmstOFNucl95UDRCdjAyU1JqZw?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-05T08:39:49.000Z",
-      "summary": ""
     },
     {
       "title": "世界模型不是更大的多模态大模型",
@@ -79,7 +70,16 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-05T15:31:01.000Z",
-      "summary": "世界模型并非简单的多模态大模型。",
+      "summary": ""
+    },
+    {
+      "title": "市场消息：Meta 与微软正采取措施，让员工逐步停用，Anthropic 的，Claude 模型。",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaVUZLVTlZYnM0N2tZV2VndnV1Z2FJVk5YeWtqeE10TDRsSzVtZ3ViZUlQdkptQ2E5WVhWVGhUa3dqS1MwVVZjVDZOdm1RdVBIUEdB?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-05T18:19:15.000Z",
+      "summary": "Meta与微软逐步停用Anthropic的Claude模型。",
       "summaryZh": ""
     },
     {
@@ -93,14 +93,13 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI Agents Invaded SEC, Commerce Department Websites",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNam9BTHhqSkRJZzF0RmRkN1piR3lMdE9ib0pTUlNaVGNGN2tLVXY0UGN3OUN5V04tT0J1MTBDMHgxV1lmNXo5a1ZVVkllZnl6RVhhSk5pRFlHLVdRNTNSQnZhc014YzhCaU9nNDZiUGJ5YzRYYkpjM2dRWnhUa0sxeExmeW9uNkJpYlN0eEZBVHpZWmNnVVlQbGxaQTV0TERRYUpJ?oc=5",
-      "source": "WSJ Tech",
-      "lang": "en",
+      "title": "Cerebras涨超10%，Altman称其是OpenAI的“密切合作伙伴”",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50VndaT0J1WXZ3YUVkQU5HQTdwS3RtVGt1WkQ1Q0ctZ2ItWWozbDVvcW1ubnVnZlhxUWZKb0VtVy0tVFdHcTAzRFA4UWo1b0YzMHh3?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-05T05:08:22.000Z",
-      "summary": "",
-      "titleZh": "OpenAI 代理入侵 SEC、商务部网站"
+      "pubDate": "2026-10-05T16:03:49.000Z",
+      "summary": ""
     },
     {
       "title": "FCC robot restrictions could accelerate shift to local AI",
@@ -109,7 +108,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-05T17:30:12.000Z",
-      "summary": "FCC对机器人限制可能加速本地AI应用发展。",
+      "summary": "FCC限制外国机器人可能加速本地AI应用发展。",
       "summaryZh": "",
       "titleZh": "FCC 机器人限制可能会加速向本地人工智能的转变"
     },
