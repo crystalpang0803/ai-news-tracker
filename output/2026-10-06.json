@@ -1,17 +1,7 @@
 {
   "date": "2026-10-06",
-  "generatedAt": "2026-10-06T00:57:03.469Z",
+  "generatedAt": "2026-10-06T01:47:41.921Z",
   "items": [
-    {
-      "title": "OpenAI 将在欧盟为 ChatGPT 和 Codex 文本输出添加隐形水印",
-      "link": "https://www.ithome.com/1/009/903.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-05T15:58:02.000Z",
-      "summary": "OpenAI将在欧盟为ChatGPT和Codex添加隐形水印以符合欧盟人工智能法案。",
-      "summaryZh": ""
-    },
     {
       "title": "叫板 DeepSeek、Kimi，英伟达投资的 Reflection AI 发布旗下首款开放权重 AI 模型 Beam",
       "link": "https://www.ithome.com/1/009/932.htm",
@@ -33,23 +23,14 @@
       "summaryZh": ""
     },
     {
-      "title": "刚刚，Tibo承诺连续28天发布或重置，OpenAI遭遇信任危机",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45Y3RHMVlEXy13V1YxaHROYnVnUjVudUxiTkIxM2tVTFgycnE5U1F1Z291UnlEYkM5VDNXcFowYmQ4SGozRmdVRkFKWlR3eTQt?oc=5",
-      "source": "36氪",
+      "title": "多家阿联酋基金以及贝莱德据悉商谈参与OpenAI最新一轮300亿美元融资",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FbkxycEtpbkJrZEkwSzZodFlMdjJ2WUowM0JzaURmM3VmaWpKMVI2NFNhTXRPNkhRWWlQV0tGZl9ETlJ4cVBJbg?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-05T06:02:12.000Z",
-      "summary": "Tibo承诺连续28天更新，OpenAI面临用户信任挑战。",
+      "pubDate": "2026-10-05T23:50:52.000Z",
+      "summary": "阿联酋基金和贝莱德商谈参与OpenAI300亿美元融资。",
       "summaryZh": ""
-    },
-    {
-      "title": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04WmRlVFlSbEVEOTZTd3hQUjNBR0VkRTNheUtpUkNUNVlGOE00MkdzazJycTg0aGVVeTdUWDYwZkdBdXh6eFdWM0RNazBYdw?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-05T01:06:10.000Z",
-      "summary": ""
     },
     {
       "title": "Lola Vision Systems要降低AI芯片部署门槛_驱动中国",
@@ -58,7 +39,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-05T16:02:00.000Z",
-      "summary": "洛拉视觉系统开发编译器工具链，降低AI芯片部署门槛。",
+      "summary": "洛拉视觉系统推出编译器工具链，降低AI芯片部署门槛。",
       "summaryZh": ""
     },
     {
@@ -68,17 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-05T03:43:00.000Z",
-      "summary": "第26赛季Robotex世界机器人大赛亚洲总决赛在上海开幕，汇聚全球机器人技术精英。",
-      "summaryZh": ""
-    },
-    {
-      "title": "快手的视频Agent，会不会来晚了？",
-      "link": "https://www.tmtpost.com/8159522.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-05T09:36:30.000Z",
-      "summary": "快手推出AI创作工具likli和视频模型Kling 4.0，加入AI视频创作Agent竞争。",
+      "summary": "第26赛季Robotex世界机器人大赛亚洲总决赛在上海开幕，聚焦科技创新与教育。",
       "summaryZh": ""
     },
     {
@@ -93,33 +64,43 @@
       "titleZh": "泰瑞达投资 Bright Machines，将机器人技术引入人工智能基础设施制造"
     },
     {
-      "title": "OpenAI奥特曼：应接受AI带来的不好东西，与Anthropic分歧很大",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VRTUxTlV2cFlfaEp2dVRMcnNzbE8tdUdjTHpZVzRwQThzT1c2ak56MlFXcEZrdkhoX09zcnBBOG1hS2RNN0IyNmNBSkFyQXBMUGtlZEFHYTdGdw?oc=5",
-      "source": "钛媒体",
+      "title": "Hinton盛赞，Gemini核心贡献者演讲：未来会有数十亿超人级AI爱因斯坦",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mZV9TWXgzYkh2Z09WMU44azBMQ3dCc1JQQnp5M1JHSWVFTE1GeExLY3JYV2F0dEpzRXBIRmstOFNucl95UDRCdjAyU1JqZw?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-05T01:41:00.000Z",
-      "summary": "OpenAI CEO奥特曼与Anthropic在AI监管上存在根本分歧。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Cerebras涨超10%，Altman称其是OpenAI的“密切合作伙伴”",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50VndaT0J1WXZ3YUVkQU5HQTdwS3RtVGt1WkQ1Q0ctZ2ItWWozbDVvcW1ubnVnZlhxUWZKb0VtVy0tVFdHcTAzRFA4UWo1b0YzMHh3?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-05T16:03:49.000Z",
+      "pubDate": "2026-10-05T08:39:49.000Z",
       "summary": ""
     },
     {
-      "title": "OpenAI被指控在最新发布的AI模型中窃取“Astra”这个名称。",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ucVU4NlV4dVVCUURPOW1GdWh0MDN6UHRSdGtHa3hHckNRb3gydU0xN20wdzUyMWZBaEw5eGJ5bGN5STNuZ1ZrcHpYSm5mdHpEUjUycVN4SERkYWZWaDF4SGFLOXF6N0Vzd0gtZlllUQ?oc=5",
-      "source": "金融界",
+      "title": "世界模型不是更大的多模态大模型",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tNXMyVXlhYXlBWFJlOHY1eTY3NG5lb1BmeVdkQzliQ0t6alNMY3NscDRtd0JnSU9GWV9yZ0ozTXpVY2RFazZkenZPWk9NN09iX1RZNXc3WEZIRXdZNkhkaUd3?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-05T16:40:32.000Z",
-      "summary": "OpenAI新AI模型被指盗用“Astra”名称。",
+      "pubDate": "2026-10-05T15:31:01.000Z",
+      "summary": "世界模型并非简单的多模态大模型。",
       "summaryZh": ""
+    },
+    {
+      "title": "快手的视频Agent，会不会来晚了？",
+      "link": "https://www.tmtpost.com/8159522.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-05T09:36:30.000Z",
+      "summary": "快手推出AI创作工具likli和视频生成模型Kling 4.0，加入AI视频创作Agent竞争。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI Agents Invaded SEC, Commerce Department Websites",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNam9BTHhqSkRJZzF0RmRkN1piR3lMdE9ib0pTUlNaVGNGN2tLVXY0UGN3OUN5V04tT0J1MTBDMHgxV1lmNXo5a1ZVVkllZnl6RVhhSk5pRFlHLVdRNTNSQnZhc014YzhCaU9nNDZiUGJ5YzRYYkpjM2dRWnhUa0sxeExmeW9uNkJpYlN0eEZBVHpZWmNnVVlQbGxaQTV0TERRYUpJ?oc=5",
+      "source": "WSJ Tech",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-05T05:08:22.000Z",
+      "summary": "",
+      "titleZh": "OpenAI 代理入侵 SEC、商务部网站"
     },
     {
       "title": "FCC robot restrictions could accelerate shift to local AI",
@@ -133,43 +114,13 @@
       "titleZh": "FCC 机器人限制可能会加速向本地人工智能的转变"
     },
     {
-      "title": "多位AI研究人员就离开实验室、AGI危险、IPO及AI安全等问题进行问答",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6U0hBa3JUUE5heVlncjByY3lQMnpMUGtveXJXdEJlQUxnVVlzMlpYWE1YTTlVRTFGd2ZPY0p4eWhGcXR3QWlfbFNCZVF0MlNncVVF?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-05T14:39:23.000Z",
-      "summary": "AI研究人员就离开实验室、AGI危险等话题进行问答。",
-      "summaryZh": ""
-    },
-    {
-      "title": "腾讯70亿美元租甲骨文的算力， 是一步险棋",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iT09BeE1Oa1Jra2FCd0FLdTJiOWNEVDcybUtyWi0ta1h3U3l6QVIyZm4yR2ZEMXFlV05FRktDNmwxbUd6eklFcnpTWFpvVGZkUmJqRllEUU9zeDlUcktZ?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-05T08:20:38.000Z",
-      "summary": "腾讯以70亿美元租用甲骨文算力，面临技术路线变化和出口管制风险。",
-      "summaryZh": ""
-    },
-    {
-      "title": "乌称人工智能炮塔首次成功拦截俄无人机",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91NC0yekdsNTBWWkMyZDJoTzRnZ0FtVEZ5dk14eHIxXzNQSzdjTGEyTDdyeXZLTkJUZFlUY2Q3dU1LaDk2OWhUMnVjUU5La2Q4dGJNV1JRWmQ?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-05T23:36:48.000Z",
-      "summary": "乌克兰人工智能炮塔首次成功拦截俄无人机。",
-      "summaryZh": ""
-    },
-    {
       "title": "全球超级养老金集体减配美股，AI集中度敲响警钟！",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xbnJNd2NnbjZhdGJwNGVYazV3UDN2X3Z1QWJPYldubldueVRrUVBlVTBaRXNfVFB4VmxNTHZzTjBYUTRVWmRldVpHVEtPc2RnRlNRZEJFR0Nya0NLN1E4Z2k4cjhWUlU4U3NiWkg2OTZRUQ?oc=5",
       "source": "金融界",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-05T11:16:20.000Z",
-      "summary": "全球超级养老金降低美股配置，担忧AI投资集中度风险。",
+      "summary": "全球超级养老金降低美股配置，担忧AI投资周期集中度风险。",
       "summaryZh": ""
     },
     {
@@ -203,17 +154,6 @@
       "pubDate": "2026-10-05T07:00:00.000Z",
       "summary": "",
       "titleZh": "独家|机器人初创公司 RobCo 估值达到 10 亿美元"
-    },
-    {
-      "title": "Evri tests out two-legged delivery robot in Barnsley: last week’s biggest retail technology plays",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN3ZDaXNrQ184S1VScjA0em1YMnFhRTBqdGl1V2I3ekZ0dzNkSkVZN1Vjd0x5SDNFYUJldTBuT2JGbVc4ZUVOTmJWMnBfR3RiaXlpbW1ZbWVKSW0tc0R4RUk5SjBiVVZEajhsQVp3cndFNnVoNDFyanFFSjF0NlAzUEg4cmJEMHFROGhIVnJQcWUycDkzQmdwNEdCeHJ4a18xaVRxVkhEWDBiRXRwYk9hNGJlVmZSS3k0MEtOTXRVczc3UzBxWGZPVGNWVFRMajNKdXZoT21PbGNnRUxDZ1Nn?oc=5",
-      "source": "Retail Tech Innovation Hub",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-05T05:07:42.000Z",
-      "summary": "Evri在 Barnsley测试了两足自主配送机器人。",
-      "summaryZh": "",
-      "titleZh": "埃夫里在巴恩斯利测试两足送货机器人：上周最大的零售技术游戏"
     }
   ]
 }
