@@ -1,19 +1,20 @@
 {
   "date": "2026-10-06",
-  "generatedAt": "2026-10-06T06:26:59.927Z",
+  "generatedAt": "2026-10-06T10:45:19.532Z",
   "items": [
     {
-      "title": "刚刚，ChatGPT 推出文字水印，GPT-6 提速 50%",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SUXNfNWw5T01FU1ZnN1Q3aVRwWmZPdXZLeGwwOEpiLWJ2RTNabkp2a25JQlBvNmU5TTl5YmhJMktqdEVtMmVnejQ5ODNvZw?oc=5",
-      "source": "36氪",
+      "title": "瑞萨推出品牌首款低压氮化镓功率半导体，面向 AI 数据中心、人形机器人等领域",
+      "link": "https://www.ithome.com/1/010/015.htm",
+      "source": "IT之家",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-05T10:08:00.000Z",
-      "summary": ""
+      "category": "robotics",
+      "pubDate": "2026-10-06T08:42:27.000Z",
+      "summary": "瑞萨发布首款低压氮化镓功率半导体，面向AI数据中心等应用。",
+      "summaryZh": ""
     },
     {
       "title": "智能体越狱频发：OpenAI踩刹车取消GPT-6.1 Astra发布，Meta猛踩油门边开边修",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pSm5qMEROODMyczZNSlV3Nm1kcjBfQnczeFNpNXM4bFNYTWtpQ1YybnBZVkp2emJqZE12V2F5bG1jQXk5SlNjVFNOZThyazlUTWNPR1hldURQQ01qb2lv?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBajNoUFdaZm9WaGcyVWl0T3VOakhyc1RycC1nSkR2T0lSTDBpZ0V4WXctQzEzV1g2ZTZxQ1ZEOFJQYnB5OHQzOTNOOVRheU1nV245Ng?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
@@ -21,24 +22,15 @@
       "summary": ""
     },
     {
-      "title": "消息称 OpenAI 洽谈 300 亿美元融资，阿联酋基金、贝莱德入局磋商",
-      "link": "https://www.ithome.com/1/009/961.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-06T02:29:06.000Z",
-      "summary": "OpenAI洽谈300亿美元融资，阿联酋基金和贝莱德参与磋商。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
       "source": "The Verge",
       "lang": "en",
       "category": "ai",
-      "pubDate": "2026-10-05T16:55:42.000Z",
-      "summary": "OpenAI公关在询问ChatGPT用户自杀事件时，要求记者“继续”。",
-      "summaryZh": ""
+      "pubDate": "2026-10-05T18:08:39.000Z",
+      "summary": "OpenAI在ChatGPT和Codex中添加文本水印功能。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 正在 ChatGPT 和 Codex 中添加文本水印"
     },
     {
       "title": "想改造工厂的机器人，先被工厂改造了",
@@ -57,7 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-05T14:49:00.000Z",
-      "summary": "上海举办国际具身智能技能大赛，验证机器人技能。",
+      "summary": "上海将于10月举办国际具身智能技能大赛，加速机器人技能落地验证。",
       "summaryZh": ""
     },
     {
@@ -67,27 +59,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-06T01:31:00.000Z",
-      "summary": "AI资本开支回报率低至4%，重定价算力链。",
+      "summary": "AI资本开支回报率低至4%，引发算力链重定价。",
       "summaryZh": ""
     },
     {
-      "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-      "link": "https://www.ithome.com/1/009/990.htm",
+      "title": "韩国拟推 4.7 万亿韩元专项计划，明年 3 月起研发前沿 AI 大模型",
+      "link": "https://www.ithome.com/1/010/000.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-06T06:25:15.000Z",
-      "summary": "DeepSeek 将完成至少800亿融资，腾讯、宁德时代等重金参与。",
-      "summaryZh": ""
-    },
-    {
-      "title": "多家阿联酋基金以及贝莱德据悉商谈参与OpenAI最新一轮300亿美元融资",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FbkxycEtpbkJrZEkwSzZodFlMdjJ2WUowM0JzaURmM3VmaWpKMVI2NFNhTXRPNkhRWWlQV0tGZl9ETlJ4cVBJbg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-05T23:50:52.000Z",
-      "summary": "多家阿联酋基金和贝莱德商谈参与OpenAI 300亿美元融资。",
+      "pubDate": "2026-10-06T07:18:37.000Z",
+      "summary": "韩国计划投入4.7万亿韩元研发前沿AI大模型。",
       "summaryZh": ""
     },
     {
@@ -98,65 +80,98 @@
       "category": "ai",
       "pubDate": "2026-10-05T17:40:17.000Z",
       "summary": "OpenAI成为企业AI代理安全首选，近四成组织依赖其内置安全工具。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "OpenAI 在 AI 代理安全性方面领先 40%"
     },
     {
-      "title": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing",
-      "link": "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-05T23:34:35.000Z",
-      "summary": "Teradyne投资Bright Machines，将机器人技术应用于AI基础设施制造。",
-      "summaryZh": ""
-    },
-    {
-      "title": "一老板花90万买4条机器狗不满表现，具微科技：已通过协商妥善处理",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vOFhjaFozR2x1bkVsdUJCbVV3R0xWTTRBalE2emtCSFMxREkwRXEydWNqWFBrZjFHYWExa3NnMTFCaVJ5UmEzQ1VhUWoyLUM1VERiV09iRHo?oc=5",
+      "title": "90后站上C位：姚顺雨、罗福莉、刘大一恒、陈宇森、周畅们接管国产大模型",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NRm1oUURDOU5HTk10UzZVRjBuYlh0Tjd3SXh3OVZjc2xwaWEybzJNdkZzejhKWWgxd0NaRzJMeGJUZWhaR2hGdk02TFVvdw?oc=5",
       "source": "36氪",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-06T05:52:24.000Z",
+      "category": "ai",
+      "pubDate": "2026-10-05T10:56:00.000Z",
       "summary": ""
     },
     {
-      "title": "媒体原创特朗普被曝在掳走马杜罗前曾问过AI聊天机器人，当AI成为总统的“第二意见”，谁来为战争后果负责？",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5paEppeU5hTE5lR2dWeklvUmdSanZ3VVpxLU9uZXBXUW10Mlc0bmRLczg2a3BDYUVEUjc3ZkFoODZiODIyMmt5MGNYdlYyQWRRdGNhSTlR?oc=5",
-      "source": "腾讯新闻",
+      "title": "OpenAI在其智能体擅访澳数据后采取新防范措施",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtaldoelA3RUxUZzlaZEVWMFRyU1QwTFdHV1ZJdmVUcXp0alcySUhVQ3BXckhxSDhtMjVKSFVVaUd4aHpDSGNKT3lSLUYyaFBRWi1KRzBYYzU?oc=5",
+      "source": "36氪",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-05T07:40:00.000Z",
-      "summary": "#媒体原创特朗普被曝在掳走马杜罗前曾问过AI聊天机器人，当AI成为总统的“第二意见”，谁来为战争后果负责？"
+      "category": "ai",
+      "pubDate": "2026-10-06T09:52:37.000Z",
+      "summary": ""
     },
     {
-      "title": "机器人在北京上“幼儿园”_中新社_北京分社",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEVUVoOUFraDNCUGxDd3BLVzlpaFY5M0w1bmdXOTgyRGdNWHJva3U3bDdyd3JxS2JZelNMQVR0MW55VzVaR3RqTjFwRDJDZmUwODBaaUlxV0dqTFotbFZ4V2U4MElVZncy?oc=5",
-      "source": "中国新闻网",
+      "title": "OpenAI 宣布28 天计划，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球动力塔计划",
+      "link": "http://www.geekpark.net/news/372086",
+      "source": "极客公园",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-06T05:29:00.000Z",
-      "summary": "北京幼儿园引入机器人辅助教学。",
+      "category": "ai",
+      "pubDate": "2026-10-06T01:16:53.000Z",
+      "summary": "OpenAI推28天计划改进Codex、Work，TikTok上线AI电商功能，蓝色起源公布月球动力塔计划。",
       "summaryZh": ""
     },
     {
-      "title": "全球超级养老金集体减配美股，AI集中度敲响警钟！",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JZ0N0VGRiRXBWZUFmSElNeTVJUFgtTXZ1QnNJMmZpZ05QU1VVQlN3TnVTSm92MGl1Wm1WVGxUQm1ZSGJmVGdXRW5tSy1YVzVfMjlGZ193?oc=5",
-      "source": "腾讯新闻",
+      "title": "接二连三！国产大模型出海持续落地，跨境传输赛道催化不断10月6日消息，智谱G",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMlVoZ1RWTkF6ZER0NUhtSFVrYWVsUG5zY3QwaVBJTGJ5aEt4NWxxQi1vazNkZFV1VEFlT1E5Qm1sb25rVXJpckRYWkxnSVRXNUpwcGhHVlY0VnhVZGQ3a09LbnZmdmhWelY0MXRCNHgtcXJVbVNnbUtpcDRJYjBiMkxFWVljQjhSTnJQLUtfUlRkQkRJM1VkZ0ZXOWVkOXpEbjg2OW5hU25DbnNLTmxvNnoyNmxKQVhFcXAzNkwzeHB2aWhuT0I1bXJkN1RXX0xmLURlZ0xDNVpEaGo5NkgyY2xpT1Y3b1FJeko5Vi1CcE1Mdw?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-05T11:28:00.000Z",
-      "summary": "全球超级养老金降低美股配置，担忧AI投资集中度风险。",
+      "category": "ai",
+      "pubDate": "2026-10-06T01:53:00.000Z",
+      "summary": "智谱GLM-5.3接入Amazon Bedrock，国产大模型出海趋势持续。",
       "summaryZh": ""
     },
     {
-      "title": "Japanese nursing home operator Charm Care invests in humanoid company Donut Robotics",
-      "link": "https://roboticsandautomationnews.com/2026/10/05/japanese-nursing-home-operator-charm-care-invests-in-humanoid-company-donut-robotics/105545/",
+      "title": "AI大模型在沧州的落地场景越来越丰富——构建“最强大脑” 升级传统产业",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VcVl2ZlpIS3ItMGNPRXFFa0ZwSFNEOGQ0elB0dndtaHNwN2RoaFN1LUZNdmJhUFZnMWZwUm9pcmFYR2ZIMmpxdGhUSTFLdzh6enc4cDFsTkU2SmJja2o5eDM1V1BkSUxqelNBNVpDcVBNTzF5Vko5Yg?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-06T10:20:00.000Z",
+      "summary": "AI大模型在沧州丰富落地场景，助力传统产业升级。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Lola Vision Systems要降低AI芯片部署门槛_驱动中国",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqMi1halh5ZE1ydTZuR0ZkU25sZEJndG1vTUYxVGVTR0ZKNmNzUXBNU3MxamRnQzItY3ZIMy1yN2IzQ21LWjdMdjlHS3BEVzlCWW11NHQyYTlSdTZ1REE?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-05T16:02:00.000Z",
+      "summary": "洛拉视觉系统开发工具链降低AI芯片部署门槛。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人在北京上“幼儿园”：不背标准答案 全靠试错成长",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLanh5WUpYbGt1c2N2cDAtUEJLMms4bS1nNWlvZGRKYkREZzZlZlJGdDNGZ2w1dVhnMHhLbmNvNFVNZ0docDF1MDlCVnQ2X0VhM2tvYXZrUG01RWMyYV84el9uTnQyaG5XUG5VUTJoaDk?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-06T06:08:10.000Z",
+      "summary": "北京“机器人幼儿园”通过试错学习，提升机器人运动控制和场景适应能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "RoboTech event expands focus on real-world robot applications",
+      "link": "https://roboticsandautomationnews.com/2026/10/06/robotech-event-expands-focus-on-real-world-robot-applications/105558/",
       "source": "Robotics & Automation News",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-10-05T21:15:33.000Z",
-      "summary": "日本养老机构运营商Charm Care投资200万美元于人形机器人公司Donut Robotics。",
-      "summaryZh": ""
+      "pubDate": "2026-10-06T08:44:36.000Z",
+      "summary": "RoboTech 2026聚焦现实机器人应用，拓展工业、商业及特殊用途机器人领域。",
+      "summaryZh": "",
+      "titleZh": "RoboTech 活动扩大了对现实世界机器人应用的关注"
+    },
+    {
+      "title": "US giant Walmart and Wing are expanding their American drone delivery service to Seattle and Denver",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUGVGU2NlQmkyNFNkTTFXWHdYaTB5SGJyZldGazhtdUdrUllzZFJhMzFta3BzQWMtUGpaU2xod003UThxdm83NVVValhYYkQxNkZia0ROOHFqUzREOEUtdkF6ZHVfTnlrYkl6Qzh6YUdORFRsRzRvdWdUU2dnbkFSam1uTWhqaW0wR2N3UElKaUJxRFc0TXVIdWZqa1pmNWdTSnMyVnRHUG1BZk95YmpyTWhRcmVpTGRHSm9KOXBIQnNJTFM0d2ZZU2xzRWFiUHUwejVZcFBjZlo?oc=5",
+      "source": "Retail Tech Innovation Hub",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-06T09:15:37.000Z",
+      "summary": "沃尔玛与Wing将扩展美国无人机配送服务至西雅图和丹佛。",
+      "summaryZh": "",
+      "titleZh": "美国巨头沃尔玛和 Wing 正在将其美国无人机送货服务扩展到西雅图和丹佛"
     }
   ]
 }
