@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "generatedAt": "2026-10-05T22:34:45.313Z",
+  "generatedAt": "2026-10-05T23:59:55.653Z",
   "items": [
     {
       "title": "OpenAI 将在欧盟为 ChatGPT 和 Codex 文本输出添加隐形水印",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-05T15:58:02.000Z",
-      "summary": "OpenAI将在欧盟为ChatGPT和Codex文本输出添加不可见水印。",
+      "summary": "OpenAI 将在欧盟为 ChatGPT 和 Codex 文本输出添加机器可识别的隐形水印。",
       "summaryZh": ""
     },
     {
@@ -19,17 +19,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-05T14:49:00.000Z",
-      "summary": "上海将于10月举办国际具身智能技能大赛，加速机器人技能落地验证。",
+      "summary": "上海举办国际具身智能技能大赛，验证机器人技能。",
       "summaryZh": ""
     },
     {
-      "title": "施耐德电气宣布以 226 亿美元收购 PTC，拓展人工智能业务",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sdm9jY0F6NXctTFE1aGVBYWNOeW43UDNJT0ZMTk04N3Y5dHZWT1RHdFhhYkoyYU8ybjJsRkZoNGNuYUUxbi04bXctTkI?oc=5",
+      "title": "丰田联合五十铃推出新款 Sora 氢燃料电池巴士，续航突破 300 公里",
+      "link": "https://www.ithome.com/1/009/919.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-05T06:07:35.000Z",
-      "summary": "施耐德电气以226亿美元收购PTC，拓展人工智能业务。",
+      "pubDate": "2026-10-05T23:24:38.000Z",
+      "summary": "丰田与五十铃联合推出续航超300公里的新款Sora氢燃料电池巴士。",
       "summaryZh": ""
     },
     {
@@ -49,8 +49,29 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-05T03:43:00.000Z",
-      "summary": "第26赛季Robotex世界机器人大赛亚洲总决赛在上海开幕，聚焦科技创新与教育。",
+      "summary": "第26赛季Robotex世界机器人大赛亚洲总决赛在上海开幕，吸引全球选手参与。",
       "summaryZh": ""
+    },
+    {
+      "title": "世界模型不是更大的多模态大模型",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tNXMyVXlhYXlBWFJlOHY1eTY3NG5lb1BmeVdkQzliQ0t6alNMY3NscDRtd0JnSU9GWV9yZ0ozTXpVY2RFazZkenZPWk9NN09iX1RZNXc3WEZIRXdZNkhkaUd3?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-05T15:31:01.000Z",
+      "summary": "世界模型并非简单的多模态大模型扩展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing",
+      "link": "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-05T23:34:35.000Z",
+      "summary": "Teradyne投资Bright Machines，将机器人技术应用于AI基础设施制造。",
+      "summaryZh": "",
+      "titleZh": "泰瑞达投资 Bright Machines，将机器人技术引入人工智能基础设施制造"
     },
     {
       "title": "OpenAI奥特曼：应接受AI带来的不好东西，与Anthropic分歧很大",
@@ -59,7 +80,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-05T01:41:00.000Z",
+      "summary": "OpenAI CEO奥特曼与Anthropic在AI监管问题上存在根本分歧。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Cerebras涨超10%，Altman称其是OpenAI的“密切合作伙伴”",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50VndaT0J1WXZ3YUVkQU5HQTdwS3RtVGt1WkQ1Q0ctZ2ItWWozbDVvcW1ubnVnZlhxUWZKb0VtVy0tVFdHcTAzRFA4UWo1b0YzMHh3?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-05T16:03:49.000Z",
       "summary": ""
+    },
+    {
+      "title": "OpenAI被指控在最新发布的AI模型中窃取“Astra”这个名称。",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ucVU4NlV4dVVCUURPOW1GdWh0MDN6UHRSdGtHa3hHckNRb3gydU0xN20wdzUyMWZBaEw5eGJ5bGN5STNuZ1ZrcHpYSm5mdHpEUjUycVN4SERkYWZWaDF4SGFLOXF6N0Vzd0gtZlllUQ?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-05T16:40:32.000Z",
+      "summary": "OpenAI新AI模型被指盗用“Astra”名称。",
+      "summaryZh": ""
     },
     {
       "title": "FCC robot restrictions could accelerate shift to local AI",
@@ -79,7 +120,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-05T08:37:11.000Z",
-      "summary": "吕骋强调个人Agent不应改变人类思考方式。",
+      "summary": "Rabbit创始人吕骋强调，个人Agent不应改变人类思考方式。",
       "summaryZh": ""
     },
     {
@@ -91,25 +132,6 @@
       "pubDate": "2026-10-05T14:39:23.000Z",
       "summary": "AI研究人员就离开实验室、AGI危险等话题进行问答。",
       "summaryZh": ""
-    },
-    {
-      "title": "腾讯70亿美元租甲骨文的算力， 是一步险棋",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iT09BeE1Oa1Jra2FCd0FLdTJiOWNEVDcybUtyWi0ta1h3U3l6QVIyZm4yR2ZEMXFlV05FRktDNmwxbUd6eklFcnpTWFpvVGZkUmJqRllEUU9zeDlUcktZ?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-05T08:20:38.000Z",
-      "summary": "腾讯以70亿美元租用甲骨文算力，面临技术路线变化和出口管制风险。",
-      "summaryZh": ""
-    },
-    {
-      "title": "浙江温州：着力优化人工智能创业营商环境",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iYUpGQ3NGa3lwV3hadG1QaGJfZEI0U0RPVFR2emltTzdWRHVHeDVQaFMxOFdkdnBGWWxxa01Cc1BNUEplMWZlNmhZZmUwZ05TOHRLeE5iVlZKZw?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-05T08:25:00.000Z",
-      "summary": ""
     },
     {
       "title": "乌称人工智能炮塔首次成功拦截俄无人机",
@@ -128,7 +150,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-05T11:16:20.000Z",
-      "summary": "全球超级养老金降低美股配置，担忧AI投资集中度风险。",
+      "summary": "全球超级养老金降低美股配置，担忧AI投资周期集中度风险。",
       "summaryZh": ""
     },
     {
@@ -162,17 +184,6 @@
       "pubDate": "2026-10-05T07:00:00.000Z",
       "summary": "",
       "titleZh": "独家|机器人初创公司 RobCo 估值达到 10 亿美元"
-    },
-    {
-      "title": "Evri tests out two-legged delivery robot in Barnsley: last week’s biggest retail technology plays",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN3ZDaXNrQ184S1VScjA0em1YMnFhRTBqdGl1V2I3ekZ0dzNkSkVZN1Vjd0x5SDNFYUJldTBuT2JGbVc4ZUVOTmJWMnBfR3RiaXlpbW1ZbWVKSW0tc0R4RUk5SjBiVVZEajhsQVp3cndFNnVoNDFyanFFSjF0NlAzUEg4cmJEMHFROGhIVnJQcWUycDkzQmdwNEdCeHJ4a18xaVRxVkhEWDBiRXRwYk9hNGJlVmZSS3k0MEtOTXRVczc3UzBxWGZPVGNWVFRMajNKdXZoT21PbGNnRUxDZ1Nn?oc=5",
-      "source": "Retail Tech Innovation Hub",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-05T05:07:42.000Z",
-      "summary": "Evri在 Barnsley测试了两足行走配送机器人。",
-      "summaryZh": "",
-      "titleZh": "埃夫里在巴恩斯利测试两足送货机器人：上周最大的零售技术游戏"
     }
   ]
 }
