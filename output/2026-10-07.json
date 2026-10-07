@@ -1,25 +1,25 @@
 {
   "date": "2026-10-07",
-  "generatedAt": "2026-10-06T23:14:26.631Z",
+  "generatedAt": "2026-10-07T00:49:44.368Z",
   "items": [
     {
-      "title": "DeepSeek被爆最新融资800亿，正为冲击IPO做准备",
-      "link": "https://www.tmtpost.com/8159961.html",
-      "source": "钛媒体",
+      "title": "落地欧盟文本溯源合规：OpenAI为ChatGPT和Codex植入隐形水印",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XMkJNeGFlSUdqazM5aXFhU05vZGg1d255WUg3ZzVyeURWcGxxNldYeHZfbHRPSkhibmJ2VV94U2VORzlWM2xkMTRFLU8yN0c2WU9uaDZ3?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-06T13:10:48.000Z",
-      "summary": "DeepSeek完成800亿人民币融资，为2027年IPO做准备。",
+      "pubDate": "2026-10-06T05:30:00.000Z",
+      "summary": "OpenAI为ChatGPT和Codex植入隐形水印以符合欧盟文本溯源合规要求。",
       "summaryZh": ""
     },
     {
-      "title": "谷歌推出 EmbeddingGemma 2：支持多模态、7.4 亿参数量化手机端运行只需 191MB 内存",
-      "link": "https://www.ithome.com/1/010/125.htm",
-      "source": "IT之家",
+      "title": "OpenAI与Ironclad开展合作 针对复杂合同工作流开展人工智能智能体研究",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YLWwxYWtGV09WejlOQWpleExqTmlfZHN3ZEVUd18ybmpHb1dCdFRPU2o4TzgzM1dGYWwwX1U3QXUtbkRkeHEzM3ZDcnQ0WkZMUnhxQ0NUanFfQUZWdzltQlNKaw?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-06T22:41:19.000Z",
-      "summary": "谷歌推出EmbeddingGemma 2，支持多模态，7.4亿参数量化手机端运行仅需191MB内存。",
+      "pubDate": "2026-10-06T17:59:41.000Z",
+      "summary": "OpenAI与Ironclad合作研究复杂合同工作流的人工智能智能体。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-06T19:46:00.000Z",
-      "summary": "Vgain Compute推出AI Token平台，支持多款模型。",
+      "summary": "Vgain Compute推出支持多AI模型的AI Token平台。",
+      "summaryZh": ""
+    },
+    {
+      "title": "派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude",
+      "link": "http://www.geekpark.net/news/372089",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-07T00:39:21.000Z",
+      "summary": "派拉蒙收购时代华纳，月之暗面完成PreIPO融资，微软Meta限制员工使用Claude。",
       "summaryZh": ""
     },
     {
@@ -43,54 +53,13 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI发布前沿大模型的全新数学能力测试成果",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80V0poYjZqS0lUVFIxQWVYMlFsZGpyLS0xRFNJUUEzZXJzN014c3BYT0lzcEdfRlhvT25JLXduajBkVGxLRFI0U1BiUkU2OTVlcFRwS3Frb2xhUVc0NjE0Yg?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-06T22:54:59.000Z",
-      "summary": "OpenAI发布大模型数学能力测试成果，含Lean语言形式化证明。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing",
-      "link": "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-05T23:34:35.000Z",
-      "summary": "Teradyne投资Bright Machines，将机器人技术应用于AI基础设施制造。",
-      "summaryZh": "",
-      "titleZh": "泰瑞达投资 Bright Machines，将机器人技术引入人工智能基础设施制造"
-    },
-    {
-      "title": "OpenAI疯狂28天首日，这都发了些啥啊…",
-      "link": "https://www.qbitai.com/2026/10/501726.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-06T06:45:40.000Z",
-      "summary": "OpenAI“疯狂28天”首日，GPT-6模型推理速度提升约50%，但用户反馈冷嘲热讽。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Manus重新独立，Agent之战换了打法",
-      "link": "https://www.tmtpost.com/8159743.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-06T03:06:40.000Z",
-      "summary": "Manus独立后推出新版本，Agent竞争转向生态较量。",
-      "summaryZh": ""
-    },
-    {
       "title": "TwelveLabs debuts Pegasus 1.6 to improve robotics training data from first-person video",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY19CNUtmUjdkLTk0clZSSzRYNHVOaTJXY2xrdXZHUVJpRVlwRnIyaldzcm85ZlhFV3Bjb2t2TVlfcTZzZXF5WEJLRUc5YnB6ZjVWblNNRUFYRTY3WGlMUXhfQWFqS1czR2EzYU5JcWY3WXhfdEZzbml3WVNReTcyT3VDWXVfSi1KQjhCdmVFS2ZTNVVNbmZSdlBJOFBXVkYxcFpoRzF2SzJOZW4xT3daM2s2eFNHRkFmUjl1aktzcw?oc=5",
       "source": "VentureBeat",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-06T18:17:35.000Z",
-      "summary": "TwelveLabs发布Pegasus 1.6，优化机器人训练数据，支持第一视角视频。",
+      "summary": "TwelveLabs发布Pegasus 1.6，提升机器人训练数据从第一视角视频获取能力。",
       "summaryZh": "",
       "titleZh": "TwelveLabs 首次推出 Pegasus 1.6，以改进第一人称视频中的机器人训练数据"
     },
@@ -104,6 +73,17 @@
       "summary": "Boston Dynamics任命前亚马逊高管Rohit Prasad为新任CEO。",
       "summaryZh": "",
       "titleZh": "波士顿动力公司任命亚马逊前高管罗希特·普拉萨德为新任首席执行官"
+    },
+    {
+      "title": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTFpVU05md1Q1d1N0MjhlMFhtamY2VERoVmIxSzNkemJpMk9jbG81bDZidkt5YXVsMVRGT2k1ZnhHZjNqSjU0OWJtcURTYlRQMXZEa2ZaNzh5X3JHUzEwQ3diVFBNdzZZazNHS2NOMWxDTjRNaHIxSk9qSVBaUUVLOGJiTFJxVWJHSmxHR1Iyc0JBSFRRU3FreXFmM3VJY2ExQW5CMTdKMWVxV282a1M1alE3Yw?oc=5",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-06T02:01:56.000Z",
+      "summary": "Teradyne投资Bright Machines，将机器人技术应用于AI基础设施制造。",
+      "summaryZh": "",
+      "titleZh": "泰瑞达投资 Bright Machines，将机器人技术引入人工智能基础设施制造"
     },
     {
       "title": "Deliveroo and Coco Robotics to roll out robot deliveries across the UK",
@@ -123,7 +103,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-06T09:14:33.000Z",
-      "summary": "中国宠物智能用品市场增长迅速，全球销量同比增长21.7%。",
+      "summary": "中国宠物智能用品市场快速增长，全球销量同比增长21.7%。",
       "summaryZh": ""
     },
     {
@@ -133,18 +113,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-06T14:50:07.000Z",
-      "summary": "北约制定“胜利理论”战略，以无人机和AI应对潜在俄罗斯袭击。",
-      "summaryZh": ""
-    },
-    {
-      "title": "[中国新闻]浙江金华：AI“雷达”护民宿 绿电“驿站”暖旅途",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YQURkRUZFTVRRYndpX1l6TDQ1QUJteVBPTWdyTzBNWWF6RUFwdXpudXlXcjBPMDJVMVVLN3ZaY3MtTExteHl2a2hmenJLXzlFRF9GeUtXTDNha0xlSXd4dFB2NndHekk5QWVnTks3M1BKMWE1d3c?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-06T11:07:00.000Z",
-      "summary": "浙江金华运用AI技术保障民宿安全，打造绿电驿站服务旅客。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "Robotics at Depth: Engineering Machines for the Deep Ocean",
@@ -156,6 +125,16 @@
       "summary": "深海机器人结合生物灵感设计和声学导航，应对工程挑战以拓展未知海洋区域探索。",
       "summaryZh": "",
       "titleZh": "深度机器人技术：深海工程机械"
+    },
+    {
+      "title": "[中国新闻]浙江金华：AI“雷达”护民宿 绿电“驿站”暖旅途",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YQURkRUZFTVRRYndpX1l6TDQ1QUJteVBPTWdyTzBNWWF6RUFwdXpudXlXcjBPMDJVMVVLN3ZaY3MtTExteHl2a2hmenJLXzlFRF9GeUtXTDNha0xlSXd4dFB2NndHekk5QWVnTks3M1BKMWE1d3c?oc=5",
+      "source": "央视网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-06T11:07:00.000Z",
+      "summary": "浙江金华启用AI“雷达”保障民宿安全，打造绿电“驿站”提升旅客体验。",
+      "summaryZh": ""
     }
   ]
 }
