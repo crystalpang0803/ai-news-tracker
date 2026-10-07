@@ -1,25 +1,56 @@
 {
   "date": "2026-10-07",
-  "generatedAt": "2026-10-07T01:49:52.551Z",
+  "generatedAt": "2026-10-07T06:05:54.249Z",
   "items": [
     {
-      "title": "OpenAI 发布又一批 AI 数学研究成果，攻破数百个悬而未决难题",
-      "link": "https://www.ithome.com/1/010/137.htm",
-      "source": "IT之家",
+      "title": "Claude、GPT“跨界”做视频，Seedance们的护城河还牢吗？",
+      "link": "https://www.tmtpost.com/8160182.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-06T23:42:31.000Z",
-      "summary": "OpenAI发布AI数学研究，解决数百个未决难题。",
+      "pubDate": "2026-10-07T04:35:32.000Z",
+      "summary": "通用大模型 Claude 和 GPT 跨界进入视频领域，挑战 Seedance 等专业视频模型。",
       "summaryZh": ""
     },
     {
-      "title": "多家阿联酋基金以及贝莱德据悉商谈参与OpenAI最新一轮300亿美元融资",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZbGZ5eEdISDZSNTRrSXVaaUM2Sk1ZWkptdHU0T2ltaHNLZVBJcDlBcC1GWFFYVzV1THlXN2NNd2lhQlRHUThQbzk5aTg1Ym9hczhkcUI3X1E?oc=5",
-      "source": "36氪",
+      "title": "银行AI Agent开发怎么选？关键能力+落地案例+价格全攻略",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aNmZ0ZGotYUpLSFVXN0dIRHgxY2l6SVRLc2UwT1h3Mm1CbE45SDI4TE9xdzUtbkNRVUFwbjBLMkMtMDRxQTZ2bnN5c1RqUlZQNWJTSzlnNzNXU1dEWDRxaHNaVVBPSFBHajVF?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-06T03:06:14.000Z",
-      "summary": ""
+      "pubDate": "2026-10-06T23:08:00.000Z",
+      "summary": "银行AI Agent开发需关注安全合规、模型准确、系统集成、运维优化等关键能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "网球机器人火了，但好生意要从“有效付费小时”算起",
+      "link": "https://www.tmtpost.com/8160190.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-07T04:35:37.000Z",
+      "summary": "网球机器人销量增长，但持续盈利需关注有效付费使用时长。",
+      "summaryZh": ""
+    },
+    {
+      "title": "宏景科技声明：所有算力设备均通过合规商业渠道采购",
+      "link": "https://www.ithome.com/1/010/191.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-07T05:20:56.000Z",
+      "summary": "宏景科技声明所有算力设备合规采购。",
+      "summaryZh": ""
+    },
+    {
+      "title": "将GPT-6系列前沿模型接入Atlassian全平台，打造AI体验，助力团队完成工作的规划、搭建与交付。",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SRU81ZEdNeDNGeldRa1FyNEE4OGl1aV8ycm9IWUhZUlpnRzJDeDZLYVpPdnRXNGxwaTFuU1Z6ZHRjWFdnc2pnVg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-06T22:02:00.000Z",
+      "summary": "Atlassian与OpenAI合作，接入GPT-6模型，打造AI体验，助力团队工作。",
+      "summaryZh": ""
     },
     {
       "title": "OpenAI与Ironclad开展合作 针对复杂合同工作流开展人工智能智能体研究",
@@ -28,17 +59,26 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-06T18:49:25.000Z",
-      "summary": "OpenAI与Ironclad合作研究AI智能体优化复杂合同工作流。",
+      "summary": "OpenAI与Ironclad合作研发AI智能体，用于复杂合同工作流。",
       "summaryZh": ""
     },
     {
-      "title": "派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude",
-      "link": "http://www.geekpark.net/news/372089",
-      "source": "极客公园",
+      "title": "AI算力初创公司Lambda拟在IPO前最后一轮融资中筹集40亿美元",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUYjkwSWpIVU5UbnE3N1VOV1NTcXdHU0ctYnE0amlZc0lVX19SczVxTk5STHVJcHpDeUM3c3RfZDQySnY3a3dPNkR0SDc1WXA3ZTcteHE2SVU?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-07T00:39:21.000Z",
-      "summary": "派拉蒙收购时代华纳，月之暗面完成500亿PreIPO融资，微软Meta限制员工使用Claude。",
+      "pubDate": "2026-10-07T01:56:40.000Z",
+      "summary": ""
+    },
+    {
+      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "link": "https://www.qbitai.com/2026/10/501749.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-07T01:05:13.000Z",
+      "summary": "OpenAI发布722篇数学论文，涵盖多个数学领域和千禧难题。",
       "summaryZh": ""
     },
     {
@@ -52,36 +92,6 @@
       "summaryZh": ""
     },
     {
-      "title": "智慧航运新风口：AI智能体开发落地案例与推荐",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRTmFwcVU2U2p2VzN6VzhvaFNvOWFHVk1idEtmY043WHNUelY5WF9wMW1qOTA0U0JKamlhOGlPdkc5cDBqNi0tcWRLSXB5TmZuUUttRm5ERmdNMW5ZamZNUGtNMTlEWWFIdUQ4?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-06T23:03:00.000Z",
-      "summary": "AI智能体在智慧航运领域落地，助力企业数字化转型。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI发布前沿大模型的全新数学能力测试成果‌",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHX0t4XzF2SENQckhhU3lPRjYxX1EtS2NXRGVrVkZxQnc1UGRmaEUtX282UUJMYjZlM3pVMWJsV3NDUlZfX2Y0eHdKZndSTldWOGZHWjdLTE42endXc1g1aGxMZGNFYThuTzk2V053MA?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-06T22:30:33.000Z",
-      "summary": "OpenAI发布大模型数学能力测试成果，含Lean语言形式化证明。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI：我们将发布由内部前沿模型得出的一系列全新数学研究成果。我们一直与普林斯顿高等研究院数学与人工智能独立顾问组保持沟通，并参考其意见与公开建议，以此作为发布这些成果的依据。",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NWnZMNUJ5eVZ5WnVMcjYyVkVYUkVsWlNfbnJCT0YwNUxuSENBSDFMdTJpT01FMVRGczJpM2g2eW5OMm9YMU1RQnFMTU9mMGZkck9nUWpscXdEcmxKUDlzem5TRGtwSl82UUlMdUxCQQ?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-06T23:46:40.000Z",
-      "summary": "OpenAI将发布基于内部模型的新数学研究成果，参考普林斯顿顾问意见。",
-      "summaryZh": ""
-    },
-    {
       "title": "波士顿动力换帅，亚马逊前高管出任 CEO",
       "link": "https://www.ithome.com/1/010/151.htm",
       "source": "IT之家",
@@ -92,43 +102,34 @@
       "summaryZh": ""
     },
     {
-      "title": "AI几年内或超越所有人类，Claude核心研究员预测",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CRVUxUzZIWC1XaGFPNGRCMnB2YzktZlB5NkZZcE51MGQ5X0dYUDVfU1JGSjUtOVVPMTNob0RXclRtNElMYnIxNVB1QjV5cEE?oc=5",
-      "source": "36氪",
+      "title": "机器人当教具 吉林把科创课搬进仿生机器人基地",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44ZU40dUZGMG5EaVR6X3RYOElzZmNiQi05am9MeDJlRml4MldYQ19BbGJoTmRqeUk4b1ZUbGpPR1UybmpGQnY2RmNOZ1Azd052Zzk4U3FuaUdhUnZ5QUhTeUtORERZSGhNemlfMFd3UEVmUnU4eXhnUkhYNA?oc=5",
+      "source": "中国新闻网",
       "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-07T05:46:00.000Z",
+      "summary": "吉林仿生机器人基地开设科创训练营，吸引学生体验机器人编程与操作。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "source": "TechCrunch",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-10-07T01:03:20.000Z",
-      "summary": "Anthropic核心研究员预测AI几年内可能超越所有人类。",
-      "summaryZh": ""
+      "pubDate": "2026-10-06T16:00:00.000Z",
+      "summary": "Anthropic为初创企业提供免费一年的Claude Team和1000美元的API信用额度。",
+      "summaryZh": "",
+      "titleZh": "Anthropic 为初创公司提供一年免费的 Claude Team 和 1,000 美元的积分"
     },
     {
-      "title": "TwelveLabs debuts Pegasus 1.6 to improve robotics training data from first-person video",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY19CNUtmUjdkLTk0clZSSzRYNHVOaTJXY2xrdXZHUVJpRVlwRnIyaldzcm85ZlhFV3Bjb2t2TVlfcTZzZXF5WEJLRUc5YnB6ZjVWblNNRUFYRTY3WGlMUXhfQWFqS1czR2EzYU5JcWY3WXhfdEZzbml3WVNReTcyT3VDWXVfSi1KQjhCdmVFS2ZTNVVNbmZSdlBJOFBXVkYxcFpoRzF2SzJOZW4xT3daM2s2eFNHRkFmUjl1aktzcw?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
+      "title": "首家机器人智慧小店亮相彭城七里",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rRERnOWo0dnFubnhleUlVUkhpNWY5aW5PWDlXWlRrdHNuNUlpbzYxWkszODJmZUVKb1ZSUWFhZlYxVXU1WWJMYjNrUUhpSVpRbUNmczNDa3ZtM3paWnc?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-06T18:17:35.000Z",
-      "summary": "TwelveLabs发布Pegasus 1.6，优化机器人训练数据，支持第一视角视频。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO",
-      "link": "https://www.therobotreport.com/boston-dynamics-appoints-former-amazon-executive-rohit-prasad-new-ceo/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-06T21:00:30.000Z",
-      "summary": "Boston Dynamics任命前亚马逊高管Rohit Prasad为新任CEO。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTFpVU05md1Q1d1N0MjhlMFhtamY2VERoVmIxSzNkemJpMk9jbG81bDZidkt5YXVsMVRGT2k1ZnhHZjNqSjU0OWJtcURTYlRQMXZEa2ZaNzh5X3JHUzEwQ3diVFBNdzZZazNHS2NOMWxDTjRNaHIxSk9qSVBaUUVLOGJiTFJxVWJHSmxHR1Iyc0JBSFRRU3FreXFmM3VJY2ExQW5CMTdKMWVxV282a1M1alE3Yw?oc=5",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-06T02:01:56.000Z",
-      "summary": "Teradyne投资Bright Machines，将机器人技术应用于AI基础设施制造。",
+      "pubDate": "2026-10-07T00:46:00.000Z",
+      "summary": "徐州首家机器人智慧小店亮相，提供智能化购物体验。",
       "summaryZh": ""
     },
     {
@@ -139,17 +140,8 @@
       "category": "robotics",
       "pubDate": "2026-10-06T09:32:50.000Z",
       "summary": "Deliveroo与Coco Robotics将在英国多城市推出机器人配送服务。",
-      "summaryZh": ""
-    },
-    {
-      "title": "“毛孩子”带火大生意 中国宠物智能用品全球“圈粉”",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91UTRBdjVqUWVZTEZ4LWRDQ1ZvRHhTYXpiSF9DMll3N0xmb19SYTlBNXB1R0MzeGlVb3l4alZqWEx1c0tKWHRUU2NPejBsOVZ2VnlSMUdhR2lDS2lnWU5Pc2t2SmExSVRvT1kwNVR2Yw?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-06T09:14:33.000Z",
-      "summary": "中国宠物智能用品市场增长迅速，全球销量同比增长21.7%。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "Deliveroo 和 Coco Robotics 将在英国推出机器人送货服务"
     },
     {
       "title": "北约拟以无人机和AI应对“可能的俄罗斯袭击”。",
@@ -167,7 +159,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-07T00:30:27.000Z",
-      "summary": "郭源生提出“十五五”智能传感器产业应聚焦工艺、质量与场景融合。",
+      "summary": "郭源生提出“十五五”智能传感器产业应聚焦工艺、质量、场景三大路径实现高质量发展。",
       "summaryZh": ""
     },
     {
@@ -177,7 +169,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-06T11:07:00.000Z",
-      "summary": "浙江金华启用AI“雷达”保障民宿安全，打造绿电“驿站”提升旅客体验。",
+      "summary": "浙江金华应用AI技术保障民宿安全，打造绿电驿站服务旅客。",
       "summaryZh": ""
     },
     {
@@ -188,7 +180,19 @@
       "category": "robotics",
       "pubDate": "2026-10-06T17:35:00.000Z",
       "summary": "深海机器人结合生物灵感设计和声学导航，应对工程挑战，提升对未知海洋区域的探索。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "深度机器人技术：深海工程机械"
+    },
+    {
+      "title": "Refined Robotics boss Nick Hafner talks deployment challenges as delivery robot crashes in front of BBC",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMF9DMlZtNGdja2RkNDJFZmNlOUJhR2Q4QzVPbHpXZE1YZFJsazhmTGRSNkRseEFjX0VMMUZPSkNQY3ZqcGttUW1yd3g4TERkaWJCd1pjckRXQ2JqU1g3RXVuS1I4YmNZSVUxQzd1ck5zRzJSa0hkYVgxeG1tQjBaWWZWYjF2OFJ3QW9uTmc5QnpKVTF1TGt1bEpKMk10Y1FrcmtfdzdxbG5vTlEwSVB5Q3ZmM2JiOWxlSXBaaG1DODdSZVlJWXg3X1dZek50dE16MmZ2dGxwaWZ2MG0xVFN1aG5XUnRTMlg4Q3c?oc=5",
+      "source": "Retail Tech Innovation Hub",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-07T03:57:17.000Z",
+      "summary": "Refined Robotics CEO Nick Hafner讨论部署挑战，配送机器人撞上BBC前。",
+      "summaryZh": "",
+      "titleZh": "精致机器人公司老板尼克·哈夫纳 (Nick Hafner) 在 BBC 面前谈论送货机器人坠毁时的部署挑战"
     }
   ]
 }
