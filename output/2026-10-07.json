@@ -1,16 +1,25 @@
 {
   "date": "2026-10-07",
-  "generatedAt": "2026-10-07T00:49:44.368Z",
+  "generatedAt": "2026-10-07T01:49:52.551Z",
   "items": [
     {
-      "title": "落地欧盟文本溯源合规：OpenAI为ChatGPT和Codex植入隐形水印",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XMkJNeGFlSUdqazM5aXFhU05vZGg1d255WUg3ZzVyeURWcGxxNldYeHZfbHRPSkhibmJ2VV94U2VORzlWM2xkMTRFLU8yN0c2WU9uaDZ3?oc=5",
-      "source": "腾讯新闻",
+      "title": "OpenAI 发布又一批 AI 数学研究成果，攻破数百个悬而未决难题",
+      "link": "https://www.ithome.com/1/010/137.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-06T05:30:00.000Z",
-      "summary": "OpenAI为ChatGPT和Codex植入隐形水印以符合欧盟文本溯源合规要求。",
+      "pubDate": "2026-10-06T23:42:31.000Z",
+      "summary": "OpenAI发布AI数学研究，解决数百个未决难题。",
       "summaryZh": ""
+    },
+    {
+      "title": "多家阿联酋基金以及贝莱德据悉商谈参与OpenAI最新一轮300亿美元融资",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZbGZ5eEdISDZSNTRrSXVaaUM2Sk1ZWkptdHU0T2ltaHNLZVBJcDlBcC1GWFFYVzV1THlXN2NNd2lhQlRHUThQbzk5aTg1Ym9hczhkcUI3X1E?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-06T03:06:14.000Z",
+      "summary": ""
     },
     {
       "title": "OpenAI与Ironclad开展合作 针对复杂合同工作流开展人工智能智能体研究",
@@ -18,18 +27,8 @@
       "source": "东方财富网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-06T17:59:41.000Z",
-      "summary": "OpenAI与Ironclad合作研究复杂合同工作流的人工智能智能体。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Vgain Compute发布Vgain Compute AI Token平台。支持Kimi、千问、GPT、Meta LLAMA模型。",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qLVIxMkdHemZPN2tTMnJuVHZvSEJRUzlDdkRxYXRzSFZsM0pzemlMYUdDRTlaU1Z3bzF3MUVGeF9Hc2tSdHlSc1JydU43VGc4eTFyUzhmVHRKbWZFd2FLMEh3ZmpYcVQyS2haNm85cTR4LUxzaVd3NQ?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-06T19:46:00.000Z",
-      "summary": "Vgain Compute推出支持多AI模型的AI Token平台。",
+      "pubDate": "2026-10-06T18:49:25.000Z",
+      "summary": "OpenAI与Ironclad合作研究AI智能体优化复杂合同工作流。",
       "summaryZh": ""
     },
     {
@@ -39,7 +38,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-07T00:39:21.000Z",
-      "summary": "派拉蒙收购时代华纳，月之暗面完成PreIPO融资，微软Meta限制员工使用Claude。",
+      "summary": "派拉蒙收购时代华纳，月之暗面完成500亿PreIPO融资，微软Meta限制员工使用Claude。",
       "summaryZh": ""
     },
     {
@@ -53,15 +52,64 @@
       "summaryZh": ""
     },
     {
+      "title": "智慧航运新风口：AI智能体开发落地案例与推荐",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRTmFwcVU2U2p2VzN6VzhvaFNvOWFHVk1idEtmY043WHNUelY5WF9wMW1qOTA0U0JKamlhOGlPdkc5cDBqNi0tcWRLSXB5TmZuUUttRm5ERmdNMW5ZamZNUGtNMTlEWWFIdUQ4?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-06T23:03:00.000Z",
+      "summary": "AI智能体在智慧航运领域落地，助力企业数字化转型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI发布前沿大模型的全新数学能力测试成果‌",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHX0t4XzF2SENQckhhU3lPRjYxX1EtS2NXRGVrVkZxQnc1UGRmaEUtX282UUJMYjZlM3pVMWJsV3NDUlZfX2Y0eHdKZndSTldWOGZHWjdLTE42endXc1g1aGxMZGNFYThuTzk2V053MA?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-06T22:30:33.000Z",
+      "summary": "OpenAI发布大模型数学能力测试成果，含Lean语言形式化证明。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI：我们将发布由内部前沿模型得出的一系列全新数学研究成果。我们一直与普林斯顿高等研究院数学与人工智能独立顾问组保持沟通，并参考其意见与公开建议，以此作为发布这些成果的依据。",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NWnZMNUJ5eVZ5WnVMcjYyVkVYUkVsWlNfbnJCT0YwNUxuSENBSDFMdTJpT01FMVRGczJpM2g2eW5OMm9YMU1RQnFMTU9mMGZkck9nUWpscXdEcmxKUDlzem5TRGtwSl82UUlMdUxCQQ?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-06T23:46:40.000Z",
+      "summary": "OpenAI将发布基于内部模型的新数学研究成果，参考普林斯顿顾问意见。",
+      "summaryZh": ""
+    },
+    {
+      "title": "波士顿动力换帅，亚马逊前高管出任 CEO",
+      "link": "https://www.ithome.com/1/010/151.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-07T01:10:39.000Z",
+      "summary": "波士顿动力任命亚马逊前高管罗希特·普拉萨德为CEO。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI几年内或超越所有人类，Claude核心研究员预测",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CRVUxUzZIWC1XaGFPNGRCMnB2YzktZlB5NkZZcE51MGQ5X0dYUDVfU1JGSjUtOVVPMTNob0RXclRtNElMYnIxNVB1QjV5cEE?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-07T01:03:20.000Z",
+      "summary": "Anthropic核心研究员预测AI几年内可能超越所有人类。",
+      "summaryZh": ""
+    },
+    {
       "title": "TwelveLabs debuts Pegasus 1.6 to improve robotics training data from first-person video",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY19CNUtmUjdkLTk0clZSSzRYNHVOaTJXY2xrdXZHUVJpRVlwRnIyaldzcm85ZlhFV3Bjb2t2TVlfcTZzZXF5WEJLRUc5YnB6ZjVWblNNRUFYRTY3WGlMUXhfQWFqS1czR2EzYU5JcWY3WXhfdEZzbml3WVNReTcyT3VDWXVfSi1KQjhCdmVFS2ZTNVVNbmZSdlBJOFBXVkYxcFpoRzF2SzJOZW4xT3daM2s2eFNHRkFmUjl1aktzcw?oc=5",
       "source": "VentureBeat",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-06T18:17:35.000Z",
-      "summary": "TwelveLabs发布Pegasus 1.6，提升机器人训练数据从第一视角视频获取能力。",
-      "summaryZh": "",
-      "titleZh": "TwelveLabs 首次推出 Pegasus 1.6，以改进第一人称视频中的机器人训练数据"
+      "summary": "TwelveLabs发布Pegasus 1.6，优化机器人训练数据，支持第一视角视频。",
+      "summaryZh": ""
     },
     {
       "title": "Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO",
@@ -71,8 +119,7 @@
       "category": "robotics",
       "pubDate": "2026-10-06T21:00:30.000Z",
       "summary": "Boston Dynamics任命前亚马逊高管Rohit Prasad为新任CEO。",
-      "summaryZh": "",
-      "titleZh": "波士顿动力公司任命亚马逊前高管罗希特·普拉萨德为新任首席执行官"
+      "summaryZh": ""
     },
     {
       "title": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing",
@@ -82,8 +129,7 @@
       "category": "robotics",
       "pubDate": "2026-10-06T02:01:56.000Z",
       "summary": "Teradyne投资Bright Machines，将机器人技术应用于AI基础设施制造。",
-      "summaryZh": "",
-      "titleZh": "泰瑞达投资 Bright Machines，将机器人技术引入人工智能基础设施制造"
+      "summaryZh": ""
     },
     {
       "title": "Deliveroo and Coco Robotics to roll out robot deliveries across the UK",
@@ -93,8 +139,7 @@
       "category": "robotics",
       "pubDate": "2026-10-06T09:32:50.000Z",
       "summary": "Deliveroo与Coco Robotics将在英国多城市推出机器人配送服务。",
-      "summaryZh": "",
-      "titleZh": "Deliveroo 和 Coco Robotics 将在英国推出机器人送货服务"
+      "summaryZh": ""
     },
     {
       "title": "“毛孩子”带火大生意 中国宠物智能用品全球“圈粉”",
@@ -103,7 +148,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-06T09:14:33.000Z",
-      "summary": "中国宠物智能用品市场快速增长，全球销量同比增长21.7%。",
+      "summary": "中国宠物智能用品市场增长迅速，全球销量同比增长21.7%。",
       "summaryZh": ""
     },
     {
@@ -116,15 +161,14 @@
       "summary": ""
     },
     {
-      "title": "Robotics at Depth: Engineering Machines for the Deep Ocean",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tcXlZNVJhTmFuYy1XVlhzTGIyUVZtbWdCZlA0U0FkVVZ4aXhBZEFNY2JDM29LTnQyWFVsNXVIbXZHNE9zVDJKZmdYMlF2Z202ZHpSOGkxZmNreVRKYk1tSVFpVmo?oc=5",
-      "source": "AZoRobotics",
-      "lang": "en",
+      "title": "郭源生谈“十五五”智能传感器产业高质量发展路径：工艺筑基、质量托底、场景牵引",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EOXNMdXVna1lpbDd0YUlIY18zcUdVaTRFb2NVZTdXcEd6U19qVXJ1QXQ0LTJrNXo0clNNNmttc09yLXdTUHhyTkh1M1dLTmhSalZCNlQwZw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-06T17:35:00.000Z",
-      "summary": "深海机器人结合生物灵感设计和声学导航，应对工程挑战以拓展未知海洋区域探索。",
-      "summaryZh": "",
-      "titleZh": "深度机器人技术：深海工程机械"
+      "pubDate": "2026-10-07T00:30:27.000Z",
+      "summary": "郭源生提出“十五五”智能传感器产业应聚焦工艺、质量与场景融合。",
+      "summaryZh": ""
     },
     {
       "title": "[中国新闻]浙江金华：AI“雷达”护民宿 绿电“驿站”暖旅途",
@@ -134,6 +178,16 @@
       "category": "application",
       "pubDate": "2026-10-06T11:07:00.000Z",
       "summary": "浙江金华启用AI“雷达”保障民宿安全，打造绿电“驿站”提升旅客体验。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Robotics at Depth: Engineering Machines for the Deep Ocean",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tcXlZNVJhTmFuYy1XVlhzTGIyUVZtbWdCZlA0U0FkVVZ4aXhBZEFNY2JDM29LTnQyWFVsNXVIbXZHNE9zVDJKZmdYMlF2Z202ZHpSOGkxZmNreVRKYk1tSVFpVmo?oc=5",
+      "source": "AZoRobotics",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-06T17:35:00.000Z",
+      "summary": "深海机器人结合生物灵感设计和声学导航，应对工程挑战，提升对未知海洋区域的探索。",
       "summaryZh": ""
     }
   ]
