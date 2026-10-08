@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "generatedAt": "2026-10-08T23:17:01.194Z",
+  "generatedAt": "2026-10-08T23:57:05.573Z",
   "items": [
     {
       "title": "AI进化速递丨OpenAI面向全球所有ChatGPT用户全面上线GPT-6",
@@ -13,13 +13,13 @@
       "summaryZh": ""
     },
     {
-      "title": "AI落地瓶颈在人才？Anthropic斥资1亿美元推出“Claude前沿学院”",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CVWdicGZlZm9KY3lhX1NNRjY1QzZZUWFsZUhFMHlsT1UzLUk0QkVvTG5hMVBkNlJ3M3lkTGVsUEdKeldGQ1kxUw?oc=5",
-      "source": "财联社",
+      "title": "Claude最强迷你模型登场，价格暴降90%，直逼DeepSeek？",
+      "link": "https://zhidx.com/p/598985.html",
+      "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-08T13:27:55.000Z",
-      "summary": "Anthropic斥资1亿美元成立“Claude前沿学院”，培养万名AI部署工程师。",
+      "pubDate": "2026-10-08T02:54:12.000Z",
+      "summary": "Anthropic发布低价高效迷你模型Claude Haiku 5.5，性能直逼DeepSeek。",
       "summaryZh": ""
     },
     {
@@ -29,17 +29,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-08T10:46:45.000Z",
-      "summary": "广东产业链以质量为公共底座，家电龙头与机器人企业共同推动制造业升级。",
+      "summary": "广东产业链以质量为公共底座，家电龙头和机器人企业推动行业标准。",
       "summaryZh": ""
     },
     {
-      "title": "2026\"人工智能 + 制造\" 落地期，工业图纸 AI 识别软件六款解析与选型参考",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1nQ0N3ZlNnRHM0QVpjV0VuNmNoRjlvcU9ZZGlUWktFbUEydE1YQmEtV3JGcUhVcWNfZl81NnJWcTRWR3ZDVHNQRDNzeGs?oc=5",
+      "title": "ChatGPT教我打麻将，OpenAI智能界面实测：重新定义AI交互-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWc0N6RjZ5dk1CTU1yWk9WaGFudTAyLWxyWWI4cDBLeDFzRnhnYnVsTGFDNlljUDVpekN4QnZSdmpXemlWemotbjRyemowNGM?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-08T23:23:59.000Z",
+      "summary": "OpenAI推出ChatGPT智能界面，实现交互体验革新。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Anthropic 修订使用政策，首次禁止用户虐待 Claude AI 模型",
+      "link": "https://www.ithome.com/1/010/759.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-08T10:05:24.000Z",
-      "summary": "2026年工业图纸AI识别软件六款产品解析，助力制造企业数字化升级。",
+      "pubDate": "2026-10-08T23:31:17.000Z",
+      "summary": "Anthropic 首次禁止用户虐待 Claude AI 模型。",
       "summaryZh": ""
     },
     {
@@ -53,16 +63,6 @@
       "summaryZh": ""
     },
     {
-      "title": "量化派跑通机器人手抓饼制作流程“物理AI”具身智能解决方案在餐饮场景验证再升级",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04bHZGRGQ0QXlRNXZUVEM3NGFMWTRwaWdxZm9pcE1CLTZHaVlMR0tvRXhKeU1zNFJ0bldnT0ZjYWhoNkdGblUxM3Q4bkhVRDlX?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-08T02:13:20.000Z",
-      "summary": "量化派机器人完成手抓饼全流程制作，验证“物理AI”具身智能在餐饮场景的应用。",
-      "summaryZh": ""
-    },
-    {
       "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
       "link": "https://www.qbitai.com/2026/10/501915.html",
       "source": "量子位",
@@ -73,13 +73,13 @@
       "summaryZh": ""
     },
     {
-      "title": "搭载英伟达RTX Spark N1X超级芯片：联想YOGA Pro 15开启盲约，端侧跑通超千亿参数大模型",
-      "link": "https://zhidx.com/p/599283.html",
-      "source": "智东西",
+      "title": "将GPT-6系列前沿模型接入Atlassian全平台，打造AI体验，助力团队完成工作的规划、搭建与交付。",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SRU81ZEdNeDNGeldRa1FyNEE4OGl1aV8ycm9IWUhZUlpnRzJDeDZLYVpPdnRXNGxwaTFuU1Z6ZHRjWFdnc2pnVg?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-08T15:39:07.000Z",
-      "summary": "联想YOGA Pro 15搭载RTX Spark N1X芯片，实现端侧超千亿参数大模型运行。",
+      "pubDate": "2026-10-08T21:44:55.000Z",
+      "summary": "Atlassian与OpenAI合作，接入GPT-6模型，打造AI体验，助力团队工作。",
       "summaryZh": ""
     },
     {
@@ -94,33 +94,34 @@
       "titleZh": "Meta 如何在 AI 代理竞赛中领先 OpenAI"
     },
     {
-      "title": "49 起、108 亿：9月人形机器人融资榜",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8teVVKNDNhV1Q4aHl5MjZuOFF0d1k0TG1QV0dkTTYxOW9JTUVNM2YwWVRfX3JVMWY1YTJwc1Y0QXpFeG1DVEZINVE3U2Jfc3NaVWRyZ0oxUQ?oc=5",
-      "source": "与非网",
+      "title": "姚颂、杨宇欣联手，连发两款机器人，瞄准24小时便利店",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBIS2x3b0o1VFRoR0lMbXlReTdLb3N2VlhTY25Cb3kxSTktblQ3bDVLR0k5VnJSU1dlcmVwbWpTc05fR0x4Qmc?oc=5",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-08T01:49:03.000Z",
-      "summary": "9月人形机器人领域融资事件49起，总金额达108.3亿元。",
+      "pubDate": "2026-10-08T12:08:30.000Z",
+      "summary": "正行创新发布两款机器人，针对24小时便利店场景，提供自动化搬运、补货等服务。",
       "summaryZh": ""
     },
     {
-      "title": "' 压缩必失忆、加长算力炸'：VortexFlow 抛弃 KV Cache 和注意力机制，用物理演化驱动重建AI 推理范式",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xX002TUFSSWdnY0FMVjlDLWFYaXBMcFE2bmFsYm1fZ3ctRC1WdGZyU2FWNlhvc3NnM3dSUlcwb2tqakN3YnpmOEhsbDhVQzJL?oc=5",
-      "source": "36氪",
+      "title": "GPT-6今起免费用！拒答变少，话变多了",
+      "link": "https://www.qbitai.com/2026/10/501834.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-08T08:24:16.000Z",
-      "summary": "VortexFlow以物理演化驱动，重构AI推理范式，实现无压缩长上下文和高效推理。",
+      "pubDate": "2026-10-08T01:07:19.000Z",
+      "summary": "OpenAI宣布GPT-6免费向ChatGPT用户推送，拒答减少，回答内容丰富。",
       "summaryZh": ""
     },
     {
-      "title": "AI Agent越能干，为什么越危险？_精彩视频为您呈现",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VZGJGWk5XMHdmMFFQck50MXhnVnFYa2Zld2dSdjhoREZyLVdDcVhuaUVsSm5qNHJ3Z0czVEU3cGFOcG9pS2Y1cTRkanhycTNMNk0w?oc=5",
-      "source": "36氪",
+      "title": "3 名遭解雇 OpenAI 研究员发公开信，称公司做法或引发“寒蝉效应”",
+      "link": "https://www.ithome.com/1/010/760.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-08T11:40:01.000Z",
-      "summary": ""
+      "pubDate": "2026-10-08T23:36:32.000Z",
+      "summary": "遭解雇 OpenAI 研究员发公开信，担忧公司做法引发“寒蝉效应”。",
+      "summaryZh": ""
     },
     {
       "title": "国内企业签署海外算力协议，南方基金王博聚焦AI算力基建方向",
@@ -130,6 +131,26 @@
       "category": "ai",
       "pubDate": "2026-10-08T01:41:21.000Z",
       "summary": "国内企业签署海外算力租赁协议，南方基金王博关注AI算力基建投资。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国盛证券：AI算力催生电力缺口，燃机景气周期下国内产业链迎发展良机",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWRW9mMUVJX0txVUNFaGVnejNMdkg1a3RaOEZUUUJkRlBuQU4xcjY2Z09MaEpNdGlCR1B4Ykd0ZE90bVBhcHQyZXdvWE5uZk5SOXZGTTYyNFY?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-08T00:53:13.000Z",
+      "summary": "AI算力推动下，国内燃气轮机产业链迎发展机遇。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI算力订单暴增至500亿美元！英伟达支持的Lambda拟融资40亿美元冲刺IPO",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QWTFiay1LRjU3QkRoYlhVeVI4X1hKaHNXRE9WS1IzOWFSdXNueG1MRk9jRGtlR3JKOVJJWnpyTDBrOG00dlU2YQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-08T21:26:15.000Z",
+      "summary": "Lambda计划融资40亿美元，AI算力订单激增至500亿美元。",
       "summaryZh": ""
     },
     {
@@ -193,7 +214,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-08T18:06:45.000Z",
-      "summary": "机器人企业推动快速3D打印需求增长，加速生产进程。",
+      "summary": "机器人企业推动快速3D打印需求增长，加速生产。",
       "summaryZh": "",
       "titleZh": "随着对更快生产的需求增长，机器人公司转向急于 3D 打印"
     }
