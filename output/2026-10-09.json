@@ -1,17 +1,7 @@
 {
   "date": "2026-10-09",
-  "generatedAt": "2026-10-08T21:16:12.424Z",
+  "generatedAt": "2026-10-08T23:17:01.194Z",
   "items": [
-    {
-      "title": "谷歌云发布 Gemini Agent，定位“通用工作智能体”",
-      "link": "https://www.ithome.com/1/010/706.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-08T13:21:00.000Z",
-      "summary": "谷歌云发布通用工作智能体Gemini Agent，支持多种任务和模型。",
-      "summaryZh": ""
-    },
     {
       "title": "AI进化速递丨OpenAI面向全球所有ChatGPT用户全面上线GPT-6",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WY2VXWTZMdWM0bUNkdDhTZHJjYWwwMXNGWl9vZmNJdVNHQ3ZVeWpERWVVYnVuV3JWRmp4UFQwalVEMVV4a0ZrQ0g2N1VYTDVlZDNV?oc=5",
@@ -19,17 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-08T13:00:53.000Z",
-      "summary": "OpenAI全面向全球ChatGPT用户推出GPT-6。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Claude最强迷你模型登场，价格暴降90%，直逼DeepSeek？",
-      "link": "https://zhidx.com/p/598985.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-08T02:54:12.000Z",
-      "summary": "Anthropic发布低价高效迷你模型Claude Haiku 5.5，性能强于DeepSeek。",
+      "summary": "OpenAI为全球ChatGPT用户全面推出GPT-6。",
       "summaryZh": ""
     },
     {
@@ -39,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-08T13:27:55.000Z",
-      "summary": "Anthropic投资1亿美元成立“Claude前沿学院”，培养万名AI部署工程师。",
+      "summary": "Anthropic斥资1亿美元成立“Claude前沿学院”，培养万名AI部署工程师。",
       "summaryZh": ""
     },
     {
@@ -49,7 +29,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-08T10:46:45.000Z",
-      "summary": "广东产业链以质量为公共底座，家电龙头和机器人企业推动行业标准。",
+      "summary": "广东产业链以质量为公共底座，家电龙头与机器人企业共同推动制造业升级。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2026\"人工智能 + 制造\" 落地期，工业图纸 AI 识别软件六款解析与选型参考",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1nQ0N3ZlNnRHM0QVpjV0VuNmNoRjlvcU9ZZGlUWktFbUEydE1YQmEtV3JGcUhVcWNfZl81NnJWcTRWR3ZDVHNQRDNzeGs?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-08T10:05:24.000Z",
+      "summary": "2026年工业图纸AI识别软件六款产品解析，助力制造企业数字化升级。",
       "summaryZh": ""
     },
     {
@@ -83,23 +73,35 @@
       "summaryZh": ""
     },
     {
+      "title": "搭载英伟达RTX Spark N1X超级芯片：联想YOGA Pro 15开启盲约，端侧跑通超千亿参数大模型",
+      "link": "https://zhidx.com/p/599283.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-08T15:39:07.000Z",
+      "summary": "联想YOGA Pro 15搭载RTX Spark N1X芯片，实现端侧超千亿参数大模型运行。",
+      "summaryZh": ""
+    },
+    {
+      "title": "How Meta got ahead of OpenAI in the AI agent race",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYW5BUV93UHpJcndUc3NSWDZrNHN2Y0lLamtmODNrdWJjUEJxLUJCdkdENFBrQzFiT2hoSFlqRllaa3JQZ1BxZ0t5aTh2T080aUhULXMtUm80VzQ3Nnk4SEpQTElUOExEMkhnMnB0TE9jSkxnNTRzMFVyU2dEc0VNV0tHbVhVQ1BFdE5ETDhCemRzMUU?oc=5",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-08T14:00:00.000Z",
+      "summary": "Meta在人工智能代理竞赛中领先于OpenAI。",
+      "summaryZh": "",
+      "titleZh": "Meta 如何在 AI 代理竞赛中领先 OpenAI"
+    },
+    {
       "title": "49 起、108 亿：9月人形机器人融资榜",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8teVVKNDNhV1Q4aHl5MjZuOFF0d1k0TG1QV0dkTTYxOW9JTUVNM2YwWVRfX3JVMWY1YTJwc1Y0QXpFeG1DVEZINVE3U2Jfc3NaVWRyZ0oxUQ?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-08T01:49:03.000Z",
-      "summary": "9月人形机器人领域融资达49起，总金额108亿。",
+      "summary": "9月人形机器人领域融资事件49起，总金额达108.3亿元。",
       "summaryZh": ""
-    },
-    {
-      "title": "国产大模型，正在沦为“产品周期股”",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2cC1IOUhfODVtSHhOUHlVcE93aHliSV9kU1I3TDEwTkYzdFV5MWw2dFVuTkx0Q0lBclNaRjMtRmxBQWVGSmtKUWFYd2xrdw?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-07T22:39:00.000Z",
-      "summary": ""
     },
     {
       "title": "' 压缩必失忆、加长算力炸'：VortexFlow 抛弃 KV Cache 和注意力机制，用物理演化驱动重建AI 推理范式",
@@ -108,28 +110,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-08T08:24:16.000Z",
-      "summary": "VortexFlow用物理演化驱动重建AI推理范式，实现无压缩长上下文和降低算力成本。",
+      "summary": "VortexFlow以物理演化驱动，重构AI推理范式，实现无压缩长上下文和高效推理。",
       "summaryZh": ""
     },
     {
-      "title": "让AI主动推荐品牌，今日商讯GEO系统深度适配主流大模型",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE55cFVIX21NQXBRNXBhQkNuVmowR3RsS1hjeHJIZXVyUi1IOFcxSzNaaFVGSTM3VjR3eFFfaWNRSDcwdEZwRWI3eW5jVjg?oc=5",
-      "source": "IT之家",
+      "title": "AI Agent越能干，为什么越危险？_精彩视频为您呈现",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VZGJGWk5XMHdmMFFQck50MXhnVnFYa2Zld2dSdjhoREZyLVdDcVhuaUVsSm5qNHJ3Z0czVEU3cGFOcG9pS2Y1cTRkanhycTNMNk0w?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-08T08:49:41.000Z",
-      "summary": "今日商讯GEO系统深度适配主流大模型，助力AI主动推荐品牌。",
-      "summaryZh": ""
-    },
-    {
-      "title": "黄坤明：深圳要举全市之力加速推进人工智能和机器人产业发展",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mMHZRendUc0VTTVgtelM4SXd6aVZKQ1pDdTlPUFpscURUR1plaEhrR25lNW9JYVNkNENFcTU1M05pLVFYNmRpNEI5MnE0bjB4RzhCeXlqd2Q?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-08T09:01:37.000Z",
-      "summary": "深圳将全力推进人工智能和机器人产业发展。",
-      "summaryZh": ""
+      "pubDate": "2026-10-08T11:40:01.000Z",
+      "summary": ""
     },
     {
       "title": "国内企业签署海外算力协议，南方基金王博聚焦AI算力基建方向",
@@ -142,46 +133,6 @@
       "summaryZh": ""
     },
     {
-      "title": "大模型推理成本加速下降 AI应用端渗透有望迎来提速",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Sb2dTLWRUZC1oV0JDbjRfWk5YS0FrV053dS1tRTZfYXp6TGJCa3pJSVBRa2pTblk5UzljSTNzSUtxT3VpMTd0WQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-07T23:42:00.000Z",
-      "summary": "大模型推理成本下降，AI应用渗透加速。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Helm.ai Signs $70 Million in Commercial Contracts as Its Foundation-Model Platform Expands Beyond Automotive into Industrial Automation and Robotics",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSS01Vko1ei1vMEJkTTFPSnB0RUxoS0lVYjEwYnBqLTA0T2dSQkx5bFpfMWZWdnBvNndkZ3dNSklqRDhGNVFRS3dGOWhCNS0xeUFudU12TGZFY25zeDZlMDZKVWRQeGVGcXh2ZjZHbXpQTlhZZ0dXaUFleHpHdS0wanNySmloV0NQRUdZeUtIQVQyeUh1SzZPSXhqbUtTeHkxZklxV0lRSEtsc29WdF9ZSjFCWDdEZ0w2QmV5QlQ2WU1RcWRRZnhuN0dvTDlrMTcyWFdoaXNfb0lyUVNITWtiaGY3aTJmUmFUdEZObWVjVzNyWXJQYlBkTkFwMGNGSXpQS1hheFJTM3BYWGc?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-08T16:00:31.000Z",
-      "summary": "Helm.ai签署7000万美元商业合同，拓展至工业自动化和机器人领域。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Jabil discusses the pace of humanoid robot development and production",
-      "link": "https://www.therobotreport.com/jabil-discusses-pace-humanoid-robot-development-production/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-08T16:16:21.000Z",
-      "summary": "Jabil探讨人形机器人研发与生产进度，多家企业准备量产。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AWS launches open-source Physical AI Toolchain for robotics",
-      "link": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-08T13:23:58.000Z",
-      "summary": "AWS推出开源物理AI工具链，助力机器人AI模型训练与部署。",
-      "summaryZh": ""
-    },
-    {
       "title": "California is trying to shut down robot vs. human cage matches",
       "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
       "source": "The Verge",
@@ -189,7 +140,8 @@
       "category": "robotics",
       "pubDate": "2026-10-08T20:06:56.000Z",
       "summary": "加州试图禁止机器人与人类笼斗比赛。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "加州正试图关闭机器人与人类的笼子比赛"
     },
     {
       "title": "This Disembodied Hand Is All the Robot You Need",
@@ -199,7 +151,19 @@
       "category": "robotics",
       "pubDate": "2026-10-08T12:00:02.000Z",
       "summary": "机器人手利用AI学习新技能。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "这只没有实体的手就是你所需要的机器人"
+    },
+    {
+      "title": "SafeWorld emerges from stealth to build, deploy robot safety simulation technologies",
+      "link": "https://www.therobotreport.com/safeworld-emerges-stealth-build-deploy-robot-safety-simulation-technologies/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-08T21:09:48.000Z",
+      "summary": "SafeWorld获1200万美元种子轮融资，推出机器人安全模拟技术。",
+      "summaryZh": "",
+      "titleZh": "SafeWorld 悄然崛起，构建、部署机器人安全模拟技术"
     },
     {
       "title": "Robbyant and AFDE partner to expand embodied AI and robotics across Middle East",
@@ -209,7 +173,29 @@
       "category": "robotics",
       "pubDate": "2026-10-08T19:10:55.000Z",
       "summary": "Robbyant与AFDE合作拓展中东地区具身AI和机器人技术。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "Robbyant 和 AFDE 合作在中东地区拓展嵌入式人工智能和机器人技术"
+    },
+    {
+      "title": "Dutch firm uses AI to help drone systems 'talk' on Ukraine's battlefield",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNXZJQ083ancxS1lGeXhhV0w2Xy1CaU1md0IxdGlhdklJMnFpcUNfVW9jbjNIT3NxaVFVcHhIcTY1a1lHUUkwenkyQWdCMjBkeTliVkxKcGRzOGppNkhTZUJlbUtfZnRYTFNTb1dTWnAyb2Jua2YzeDVOTU9PS242dF9LUnZiaENXc2J6RDRnbHNUR0tYMHlYbVZsRG1xSXVSWXdwNnQ4TUc5b1FlbVFrbzJyTzltemo4YmtESk5GUHhoUi16b3c4WA?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-08T09:06:09.000Z",
+      "summary": "",
+      "titleZh": "荷兰公司利用人工智能帮助无人机系统在乌克兰战场上“对话”"
+    },
+    {
+      "title": "Robotics companies turn to rush 3D printing as demand for faster production grows",
+      "link": "https://roboticsandautomationnews.com/2026/10/08/robotics-companies-turn-to-rush-3d-printing-as-demand-for-faster-production-grows/105743/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-08T18:06:45.000Z",
+      "summary": "机器人企业推动快速3D打印需求增长，加速生产进程。",
+      "summaryZh": "",
+      "titleZh": "随着对更快生产的需求增长，机器人公司转向急于 3D 打印"
     }
   ]
 }
