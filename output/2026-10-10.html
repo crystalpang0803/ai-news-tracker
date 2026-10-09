@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI & 机器人日报 · 2026-10-10</title>
+<style>
+  :root{color-scheme:light;--ink:#14171c;--muted:#6b7280;--line:#e7e9ec;--bg:#f2f3f5;--card:#ffffff;--accent:#e5484d;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased;}
+  a{color:inherit;text-decoration:none;}
+  .topbar{background:#111418;color:#fff;border-bottom:3px solid var(--accent);}
+  .topbar-inner{max-width:1120px;margin:0 auto;padding:0.95rem 1.5rem;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
+  .brand{font-size:1.4rem;font-weight:800;letter-spacing:-0.02em;display:flex;align-items:center;gap:0.5rem;}
+  .brand .dot{color:var(--accent);}
+  .masthead-meta{font-size:0.8rem;color:#a9afb8;font-variant-numeric:tabular-nums;}
+  .nav{max-width:1120px;margin:0 auto;padding:0.6rem 1.5rem;display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap;font-size:0.82rem;}
+  .nav a,.nav input{background:#fff;border:1px solid var(--line);border-radius:8px;padding:0.35rem 0.85rem;color:#374151;font-weight:600;transition:all .15s;}
+  .nav a:hover{border-color:var(--accent);color:var(--accent);}
+  .nav .spacer{flex:1;}
+  .wrap{max-width:1120px;margin:0 auto;padding:1.4rem 1.5rem 3rem;}
+
+  .hero{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:1.7rem 1.9rem;box-shadow:0 1px 2px rgba(16,24,40,.05);}
+  .hero .kicker{display:inline-flex;align-items:center;gap:.4rem;font-size:0.72rem;font-weight:800;letter-spacing:.08em;color:#fff;background:var(--accent);padding:0.24rem 0.65rem;border-radius:6px;margin-bottom:0.9rem;}
+  .hero h2{font-size:1.75rem;line-height:1.25;font-weight:800;letter-spacing:-0.015em;}
+  .hero .trans{margin-top:0.5rem;}
+  .hero .head{margin-top:0.95rem;}
+
+  /* Sticky jump-tab bar */
+  .tabs{position:sticky;top:0;z-index:20;display:flex;gap:0.5rem;flex-wrap:wrap;background:var(--bg);padding:0.8rem 0 0.7rem;margin:0.8rem 0 0.2rem;border-bottom:1px solid var(--line);}
+  .tab{background:#fff;border:1px solid var(--line);border-radius:999px;padding:0.5rem 1.05rem;font-family:inherit;font-size:0.94rem;font-weight:700;color:#4b5563;cursor:pointer;display:flex;align-items:center;gap:0.5rem;transition:all .15s;}
+  .tab:hover{border-color:#c7cbd1;color:var(--ink);}
+  .tab .ic{font-size:1rem;}
+  .tab .n{font-size:0.72rem;font-weight:800;opacity:.65;font-variant-numeric:tabular-nums;}
+  .tab.active{color:#fff;border-color:transparent;box-shadow:0 2px 8px rgba(16,24,40,.12);}
+  .tab.active .n{opacity:.95;}
+  .tab[data-cat="ai"].active{background:#2563eb;}
+  .tab[data-cat="robotics"].active{background:#7c3aed;}
+  .tab[data-cat="application"].active{background:#0d9488;}
+
+  /* Stacked sections */
+  .section{scroll-margin-top:72px;margin-top:1.7rem;}
+  .sec-head{display:flex;align-items:center;gap:0.5rem;margin-bottom:0.95rem;font-size:1.18rem;font-weight:800;letter-spacing:-0.01em;}
+  .sec-head .bar{width:4px;height:1.2rem;border-radius:2px;flex:none;}
+  .sec-head .ic{font-size:1.15rem;}
+  .sec-head .n{margin-left:0.15rem;font-size:0.74rem;font-weight:800;color:var(--muted);background:#eceef1;border-radius:999px;padding:0.08rem 0.55rem;}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:0.85rem;}
+
+  .item{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:0.95rem 1.1rem;transition:border-color .15s,box-shadow .15s,transform .15s;}
+  .item:hover{border-color:#d3d6db;box-shadow:0 6px 18px rgba(16,24,40,.07);transform:translateY(-1px);}
+  .head{display:flex;align-items:center;gap:0.45rem;font-size:0.74rem;color:var(--muted);margin-bottom:0.5rem;}
+  .head .cdot{width:7px;height:7px;border-radius:50%;flex:none;}
+  .head .src{font-weight:700;color:#4b5563;}
+  .head .sep{color:#cbd0d6;}
+  .head .time{color:#9aa1ab;font-variant-numeric:tabular-nums;}
+  .title{font-size:1.02rem;font-weight:680;line-height:1.42;color:var(--ink);display:block;}
+  .item:hover .title{color:var(--accent);}
+  .trans{display:block;margin-top:0.4rem;font-size:0.85rem;line-height:1.5;color:#8b9199;font-style:italic;}
+  .trans b{font-style:normal;font-weight:700;color:#9aa1ab;background:#f1f2f4;padding:0.02rem 0.4rem;border-radius:4px;margin-right:0.45rem;font-size:0.72rem;letter-spacing:.02em;}
+  .desc{margin-top:0.5rem;font-size:0.85rem;line-height:1.55;color:#565d68;}
+  .hero .desc{font-size:0.98rem;color:#3a4150;margin-top:0.65rem;}
+
+  footer{max-width:1120px;margin:0 auto;padding:1.5rem;text-align:center;color:#9aa1ab;font-size:0.78rem;border-top:1px solid var(--line);}
+  @media(max-width:760px){.grid{grid-template-columns:1fr;}.hero h2{font-size:1.35rem;}.wrap{padding:1rem;}}
+</style>
+</head>
+<body>
+<div class="topbar"><div class="topbar-inner">
+  <a href="../index.html" class="brand"><span class="dot">●</span> AI &amp; 机器人日报</a>
+  <span class="masthead-meta">2026-10-10 · 每日精选 22 条</span>
+</div></div>
+<div class="nav">
+  <a href="../index.html">🏠 首页</a>
+  <a href="2026-10-09.html">← 前一天</a>
+  <a href="2026-10-11.html">后一天 →</a>
+  <span class="spacer"></span>
+  <input type="date" value="2026-10-10" onchange="if(this.value)window.location.href=this.value+'.html'">
+</div>
+<div class="wrap">
+  <div class="hero"><span class="kicker">🔥 今日头条</span><h2><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE41Um9ySV9mTmVXM18xVTdLcVhhR3p6WWVSdmlnT2Q0enMtVDQwd01NbDdfbDNqYjUwZlM3cEl1anJGNlBNMjUzMjUzeWFFVU1md0Q1MQ?oc=5" target="_blank" rel="noopener">豆包汽车落地，AI已经上车抢方向盘了！</a></h2><p class="desc">豆包汽车搭载AI技术实现自动驾驶。</p><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">钛媒体</span><span class="sep">·</span><span class="time">2026-10-09</span></div></div>
+  <div class="tabs"><a class="tab active" data-cat="ai" href="#sec-ai"><span class="ic">🖥️</span>AI 人工智能<span class="n">8</span></a><a class="tab" data-cat="robotics" href="#sec-robotics"><span class="ic">🤖</span>机器人<span class="n">12</span></a><a class="tab" data-cat="application" href="#sec-application"><span class="ic">🏪</span>商业应用<span class="n">1</span></a></div>
+  <section class="section" id="sec-ai" data-cat="ai">
+      <div class="sec-head"><span class="bar" style="background:#2563eb"></span><span class="ic">🖥️</span>AI 人工智能<span class="n">8 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">IT之家</span><span class="sep">·</span><span class="time">2026-10-09</span></div><a class="title" href="https://www.ithome.com/1/011/142.htm" target="_blank" rel="noopener">国务院发布《关于发展新质生产力的意见》：加快推进智能网联新能源汽车、人工智能手机和电脑、人形机器人等新一代智能终端场景应用</a><p class="desc">国务院发布意见，加速智能终端应用发展。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">IT之家</span><span class="sep">·</span><span class="time">2026-10-09</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wb0lhblpxU3dBSVczOEZKRlVZdk84Y3NrTDBUc21CejhGSFkteDN6MUx1Z0t6QzRseVZGc1VaYzZtWndnLUdaWVVWNVU?oc=5" target="_blank" rel="noopener">Anthropic 修订使用政策，首次禁止用户虐待 Claude AI 模型</a><p class="desc">Anthropic 首次禁止用户虐待 Claude AI 模型，新规将于 2026 年 11 月 12 日生效。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">第一财经</span><span class="sep">·</span><span class="time">2026-10-09</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MNTFQSFJDSWc1bGVEV2Y3NkpoMHNUb3VuSkMwZzdaaVJYNzVPeGJxTmlpRFFPdW9hN1RSUTYzdW9fN1lFTXNLWXdObkRUUjVkN1Zz?oc=5" target="_blank" rel="noopener">AI进化速递丨OpenAI预计2026年底年化营收将达700亿美元</a><p class="desc">OpenAI预计2026年底年化营收将达700亿美元。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">量子位</span><span class="sep">·</span><span class="time">2026-10-09</span></div><a class="title" href="https://www.qbitai.com/2026/10/502096.html" target="_blank" rel="noopener">代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化</a><p class="desc">AgentGarten构建实时试炼场，让智能体边玩边进化。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">虎嗅</span><span class="sep">·</span><span class="time">2026-10-09</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWZnVJUUx1aWxwYUNTRGV3anNRSEo1TnFBVU1EYVV1cVIxSldDY0hpM2xBajVsYk1SSVk0RDg5eGYtNC1oVmx2N1hwY05XbjlORjRXSQ?oc=5" target="_blank" rel="noopener">十一假期国内大模型发布集体降温：厂商转向Agent、算力与融资布局</a><p class="desc">十一假期国内大模型厂商转向工具链、算力、融资和商业化布局。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">钛媒体</span><span class="sep">·</span><span class="time">2026-10-09</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pUFduejlTTjJQWWg5OUZGNzRScTVVUG9BU2tzMFdfcE5hZFpuMEdwbnlaQUJxdDlHMlFSRHFRcHoxMVNWOVRJb0hQWjE?oc=5" target="_blank" rel="noopener">大模型长假静悄悄</a><p class="desc">国内大模型厂商十一长假集体静默。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">界面新闻</span><span class="sep">·</span><span class="time">2026-10-09</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhQUxtd0t4SDZiY3g3U2hzaVhtUWNzSGNsYzZSSWo3aXhlcGJ1X3VMVzVvdEFwelFNdlp6NlpWVzZKbTRkYmdPaWpzV09wX3Voc0FjeGZ3?oc=5" target="_blank" rel="noopener">海外大模型降本与国产AI商业化进展共振，关注港股通互联网ETF永赢(159170)</a><p class="desc">海外大模型降本与国产AI商业化进展推动港股互联网ETF永赢（159170）受关注。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">第一财经</span><span class="sep">·</span><span class="time">2026-10-09</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Pa1g5Q00tc2NHQjZXQUpWNHotTDVmLWNhNHBZVzF5dDNIQWstMmI4cDMzWVRZQzFYRG5tMlVIbHUxZklockpsdm0wTS1WRkFDTFY0?oc=5" target="_blank" rel="noopener">谷歌Gemini Agent入场，AI办公赛道多了一个抢工位的</a><p class="desc">谷歌发布Gemini Agent，进军AI办公市场，与企业现有办公软件竞争。</p></div></div>
+    </section><section class="section" id="sec-robotics" data-cat="robotics">
+      <div class="sec-head"><span class="bar" style="background:#7c3aed"></span><span class="ic">🤖</span>机器人<span class="n">12 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">智东西</span><span class="sep">·</span><span class="time">2026-10-09</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yZ1VVWFBNWWh0MW8zRlpneDVkeWhvaTdqTjY4NnNfel96akltOTFSLU01ZW5pMTZUdE0wUE9iN2pvdHVpdEpiVA?oc=5" target="_blank" rel="noopener">华人教授黄碧薇新成果：机器人干活，终于会三思而后行了</a><p class="desc">黄碧薇教授研发的机器人系统CRIS-0实现动态环境下的自主执行和任务恢复能力。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">量子位</span><span class="sep">·</span><span class="time">2026-10-09</span></div><a class="title" href="https://www.qbitai.com/2026/10/502330.html" target="_blank" rel="noopener">灵巧操作头号玩家：Sharpa把指尖触觉进化到全面体感</a><p class="desc">Sharpa推出D01机器人、W02灵巧手和AE01数据手套，提升机器人触觉感知和操作能力。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">与非网</span><span class="sep">·</span><span class="time">2026-10-09</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE1taHBlMGpmWjROSE1raGVsY1BqeTV6YTZiY1J1Q3B6MkVzVGI5WjlWWV9xMER3b3FmSVZVTWJVbTNpWnVnVmtQbm1xdnVPNk1hVHVxN2ppSQ?oc=5" target="_blank" rel="noopener">15万美元一台、3亿美元订单按技能解锁：人形机器人的真实账本摊开了</a><p class="desc">人形机器人售价15万美元，获3亿美元订单。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">TechCrunch</span><span class="sep">·</span><span class="time">2026-10-10</span></div><a class="title" href="https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/" target="_blank" rel="noopener">Danu Robotics’ fight to build a better recycling robot</a><p class="desc">丹努机器人致力于打造更高效的回收机器人。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">The Robot Report</span><span class="sep">·</span><span class="time">2026-10-10</span></div><a class="title" href="https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/" target="_blank" rel="noopener">Why humanoid robot demos still fail the generalization test</a><p class="desc">人形机器人演示仍无法通过泛化测试。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">与非网</span><span class="sep">·</span><span class="time">2026-10-09</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IZTF1NEZ1WkNqNmlBOWQwV29od1NNWnRpY2kyWTBScG52UG5vekhVYVlQTnJIQmhmNlpQVmdwcXl2cGh6RWk2WHZoUnRRaG1yX05ob3FfRQ?oc=5" target="_blank" rel="noopener">伟创电气：工控老兵的机器人新战场</a><p class="desc">伟创电气进军机器人领域，拓展工控业务新战场。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">中国经济网</span><span class="sep">·</span><span class="time">2026-10-09</span></div><a class="title" href="https://news.google.com/rss/articles/CBMifkFVX3lxTE5rX0xHdkZ6c1JfUnNSaE1ldHhnX2JJSlV0czRBekdENlVwcjVvNk1pNkQ5TFRfXzRWM0FQUHpTQWNGcV85U1I4d19ZNU4zMUw1cVFreWpwNW4xZFVLWjk3Z3VWZEtFY0tYai1aS3BzTVVEdE1ielBZbTZaSEtDZw?oc=5" target="_blank" rel="noopener">“数字副手”让客户服务更及时、更专业、更有温度——阳光人寿推出四级机构AI管理机器人“阳掌柜”</a><p class="desc">阳光人寿推出AI管理机器人“阳掌柜”，提升客户服务效率与专业性。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">MIT Technology Review</span><span class="sep">·</span><span class="time">2026-10-09</span></div><a class="title" href="https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/" target="_blank" rel="noopener">Job titles of the future: Delivery drone air traffic controller</a><p class="desc">未来职业：无人机配送空中交通管制员。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">IEEE Spectrum Robotics</span><span class="sep">·</span><span class="time">2026-10-09</span></div><a class="title" href="https://spectrum.ieee.org/video-friday-reachy-mini-raps" target="_blank" rel="noopener">Video Friday: Robot Decommissioning Takes a Fun Turn</a><p class="desc">机器人报废过程变得有趣。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">The Robot Report</span><span class="sep">·</span><span class="time">2026-10-10</span></div><a class="title" href="https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/" target="_blank" rel="noopener">Boston Dynamics gives more insight into its redesigned humanoid hand</a><p class="desc">Boston Dynamics展示其重新设计的人形机器人手，具备13个自由度，适用于大规模制造。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">IEEE Spectrum Robotics</span><span class="sep">·</span><span class="time">2026-10-09</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE10blh0c1laYkhucFdhckpyVG9QS0k0RWoxRzRWSHVWbGlnOGZQeGxIdFVjMXRScWRLa0FrdFduTTBpNkdVeFhPV2dpSGVZNVZGZGkxNDc3TlNXZlN2TUl4TDMxWlBNdw?oc=5" target="_blank" rel="noopener">Robot Decommissioning By Ball-Pit Free Fall!?! Plus Reachy Mini Raps!</a><p class="desc">机器人报废采用球池自由落体方式，Reachy Mini机器人进行说唱表演。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">Robotics &amp; Automation News</span><span class="sep">·</span><span class="time">2026-10-10</span></div><a class="title" href="https://roboticsandautomationnews.com/2026/10/09/uks-national-composites-centre-to-lead-business-support-for-new-9-8-million-greater-south-west-robotics-hub/105803/" target="_blank" rel="noopener">UK’s National Composites Centre to lead business support for new £9.8 million Greater South West robotics hub</a><p class="desc">英国国家复合材料中心将领导一项980万英镑的西南地区机器人中心商业支持项目。</p></div></div>
+    </section><section class="section" id="sec-application" data-cat="application">
+      <div class="sec-head"><span class="bar" style="background:#0d9488"></span><span class="ic">🏪</span>商业应用<span class="n">1 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#0d9488"></span><span class="src">21财经</span><span class="sep">·</span><span class="time">2026-10-09</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WRFBfeUJDYVJEb3ozY3ZRWEN4RXU4eGlubmF6YUVjaVdJQ1d3X29JZ192UTl4aVVJRGtDR0Z1TW1HVjJTS3VucFBsZEZqR1E1cjExWllOSmVPd3ZZX1Vvc2NCVlNTZw?oc=5" target="_blank" rel="noopener">出境订单近翻倍、AI 订酒店首次走红：抖音生活服务发布中秋国庆消费报告</a></div></div>
+    </section>
+</div>
+<footer>数据来源：80+ 中英文科技与产业媒体（中文优先）· 自动生成于 2026/10/10 04:49:37（北京时间）</footer>
+<script>
+  (function(){
+    var tabs = Array.prototype.slice.call(document.querySelectorAll('.tab'));
+    var map = {}; tabs.forEach(function(t){ map[t.getAttribute('data-cat')] = t; });
+    var secs = Array.prototype.slice.call(document.querySelectorAll('.section'));
+    if(!secs.length || !('IntersectionObserver' in window)) return;
+    var obs = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){
+        if(en.isIntersecting){
+          var cat = en.target.getAttribute('data-cat');
+          tabs.forEach(function(x){ x.classList.remove('active'); });
+          if(map[cat]) map[cat].classList.add('active');
+        }
+      });
+    }, { rootMargin: '-72px 0px -55% 0px', threshold: 0 });
+    secs.forEach(function(s){ obs.observe(s); });
+  })();
+</script>
+</body>
+</html>
