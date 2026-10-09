@@ -1,15 +1,15 @@
 {
   "date": "2026-10-09",
-  "generatedAt": "2026-10-09T06:14:55.039Z",
+  "generatedAt": "2026-10-09T10:53:43.002Z",
   "items": [
     {
-      "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
-      "link": "https://www.qbitai.com/2026/10/502083.html",
+      "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+      "link": "https://www.qbitai.com/2026/10/502106.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-09T00:16:56.000Z",
-      "summary": "谷歌发布办公Agent Gemini，支持调用Claude量子位模型。",
+      "pubDate": "2026-10-09T02:37:22.000Z",
+      "summary": "openJiuwen开源企业级AgentOS，助力智能体在企业规模落地。",
       "summaryZh": ""
     },
     {
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-08T13:00:53.000Z",
-      "summary": "OpenAI全面推出GPT-6，面向全球ChatGPT用户。",
+      "summary": "OpenAI为全球ChatGPT用户全面推出GPT-6。",
       "summaryZh": ""
     },
     {
@@ -29,54 +29,57 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-08T13:22:00.000Z",
-      "summary": ""
+      "summary": "Anthropic斥资1亿美元推出“Claude前沿学院”，培养万名AI部署工程师。",
+      "summaryZh": ""
     },
     {
-      "title": "比亚迪人形机器人外观专利公布",
-      "link": "https://www.ithome.com/1/010/907.htm",
+      "title": "消息称人形机器人租赁价格大跳水，日租金跌破千元",
+      "link": "https://www.ithome.com/1/011/054.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-09T05:19:51.000Z",
-      "summary": "比亚迪公布人形机器人外观设计专利。",
+      "pubDate": "2026-10-09T09:00:04.000Z",
+      "summary": "人形机器人租赁价格大幅下降，日租金跌破千元。",
       "summaryZh": ""
     },
     {
-      "title": "ChatGPT教我打麻将，OpenAI智能界面实测：重新定义AI交互",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OcEpsTEEtUEQyRk9XT2xaYkVkWnZIYVV4eG4wcENCRU04VVdYbVV0NnlUeUNwMGhpb2tjU0JmZVlnOWRDUmFsUHJtNUxNdw?oc=5",
-      "source": "36氪",
+      "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+      "link": "https://www.qbitai.com/2026/10/502125.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-08T08:23:00.000Z",
-      "summary": ""
+      "pubDate": "2026-10-09T03:52:21.000Z",
+      "summary": "清华星动纪元VPP2模型在RoboDojo仿真榜单中综合得分和成功率均排名第一。",
+      "summaryZh": ""
     },
     {
-      "title": "GPT-6.1 Sol极速版快8倍，但依然口碑秒崩？“变相涨价”被网友怒喷",
-      "link": "https://zhidx.com/p/599323.html",
+      "title": "OpenAI带头“扫货”：195起AI并购，最大一笔110亿",
+      "link": "https://zhidx.com/p/599105.html",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-09T04:52:10.000Z",
-      "summary": "GPT-6.1 Sol极速版速度提升8倍，但价格翻倍，用户反馈负面。",
+      "pubDate": "2026-10-09T07:18:27.000Z",
+      "summary": "OpenAI主导AI并购潮，195起交易中最大一笔达110亿。",
       "summaryZh": ""
     },
     {
-      "title": "Manus获超5亿美元融资 AI Agent赛道再升温",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmVklaTXYyYmJtYUlncFotaTk0NG1CaTU2NkVGYzMyOW5KT1Y5RUFNUnoyWFAxTm9MQUhMY2J6OUwyWjBKLU9URw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-08T10:12:46.000Z",
-      "summary": ""
-    },
-    {
-      "title": "日薪120元，我给机器人当“老师”",
-      "link": "https://www.tmtpost.com/8161952.html",
+      "title": "真人对战机器人，一票难求的格斗赛被叫停",
+      "link": "https://www.tmtpost.com/8162701.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-09T03:13:00.000Z",
-      "summary": "机器人数据采集员日薪120元，需重复做家务动作训练机器人。",
+      "pubDate": "2026-10-09T09:32:26.000Z",
+      "summary": "加州监管部门叫停未经批准的真人格斗机器人比赛。",
+      "summaryZh": ""
+    },
+    {
+      "title": "打折还是 MOVA 猛：P70S 活水洗地扫拖机器人 3299 → 999 元 20:00 开抢",
+      "link": "https://www.ithome.com/1/011/090.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-09T10:37:11.000Z",
+      "summary": "MOVA P70S 活水洗地扫拖机器人今晚20:00降至999元开抢。",
       "summaryZh": ""
     },
     {
@@ -90,63 +93,141 @@
       "summaryZh": ""
     },
     {
-      "title": "Anthropic 修订使用政策，首次禁止用户虐待 Claude AI 模型",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wb0lhblpxU3dBSVczOEZKRlVZdk84Y3NrTDBUc21CejhGSFkteDN6MUx1Z0t6QzRseVZGc1VaYzZtWndnLUdaWVVWNVU?oc=5",
-      "source": "IT之家",
+      "title": "数智安防再添新力量 赛格立诺巡检机器人正式登陆京东平台",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94Ukt1VGd5eDdPUnM0YURLTFRLUERwTVZlLXFVRVhIbXJvLVU3UDZzbFUzQWEyM0FvNkVBWDU0LTNKWlBmYzRaZGs2RVJnc0t0cE1wZlZySjA3SG95S1dnSVFiaHc?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-09T09:58:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "谷歌云发布 Gemini Agent；Manus 官宣五亿美元融资；小鹏上线 Robotaxi 打车小程序",
+      "link": "http://www.geekpark.net/news/372143",
+      "source": "极客公园",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-08T23:31:17.000Z",
-      "summary": "Anthropic 首次禁止用户虐待 Claude AI 模型，新规将于 2026 年 11 月 12 日生效。",
+      "pubDate": "2026-10-09T00:35:13.000Z",
+      "summary": "谷歌云发布智能体Gemini Agent，Manus融资5亿美元，小鹏上线Robotaxi打车小程序。",
       "summaryZh": ""
     },
     {
-      "title": "How Meta got ahead of OpenAI in the AI agent race",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYW5BUV93UHpJcndUc3NSWDZrNHN2Y0lLamtmODNrdWJjUEJxLUJCdkdENFBrQzFiT2hoSFlqRllaa3JQZ1BxZ0t5aTh2T080aUhULXMtUm80VzQ3Nnk4SEpQTElUOExEMkhnMnB0TE9jSkxnNTRzMFVyU2dEc0VNV0tHbVhVQ1BFdE5ETDhCemRzMUU?oc=5",
-      "source": "The Verge",
-      "lang": "en",
+      "title": "南威软件借GPT-6掀降价东风，政务AI成本红利进入兑现期",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Jckp6V3AwWFBZWTlmVFM1N1NYX05ZOWMwZENxV1hGTGpSdlhXM0MtelNnR203SHpOczBVSlhpV3FhTXh6Z3RYV3J5UEkzY1hVRjdOZ3RzRjM?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-08T14:00:00.000Z",
-      "summary": "Meta在人工智能代理竞赛中领先于OpenAI。",
+      "pubDate": "2026-10-09T08:55:42.000Z",
+      "summary": "南威软件借GPT-6降价，政务AI成本降低，推动行业成本红利兑现。",
       "summaryZh": ""
     },
     {
-      "title": "黄坤明：深圳要举全市之力加速推进人工智能和机器人产业发展",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02RGRDc3pDUkFDejQ5S3VYUnRhREhmci1KWDhVMEs3dXpHTERlaFc2a0YtNmFoU0JOelRZQUZDOE5UUm11aS1ZdzVjZEQ0SjlWY1IzVVpTa2ZWUQ?oc=5",
+      "title": "将GPT-6系列前沿模型接入Atlassian全平台，打造AI体验，助力团队完成工作的规划、搭建与交付。",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SRU81ZEdNeDNGeldRa1FyNEE4OGl1aV8ycm9IWUhZUlpnRzJDeDZLYVpPdnRXNGxwaTFuU1Z6ZHRjWFdnc2pnVg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-08T21:44:55.000Z",
+      "summary": "Atlassian与OpenAI合作，接入GPT-6模型，提升AI体验，助力团队工作。",
+      "summaryZh": ""
+    },
+    {
+      "title": "谷歌云推出Gemini Agent，AI智能体产业化进程加速",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JbzJJMXZtZm0xVGhtNS1wbzQyLUl1d3c1YjN5ekRidUpWR2F2Z1RqTFRWdzg5aFp2bjh4SU41cUxiTldabTFvdVFGMnpvX3FLZW5yM29RTEJWbDhiX1MwRHpoSXV4dw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-09T01:30:00.000Z",
+      "summary": "谷歌云发布通用工作智能体Gemini Agent，加速AI智能体产业化。",
+      "summaryZh": ""
+    },
+    {
+      "title": "姚颂、杨宇欣联手，连发两款机器人，瞄准24小时便利店",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1DLThJUVVnUE96a2ozT2VxZDNsNWRvWWdfbUlLVzZNRFN0WWJJQlJPcThwSnRuc2JaZUFWUFU4UDFoQ0lKVTRiYg?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-08T12:08:30.000Z",
+      "summary": "正行创新发布两款机器人，针对24小时便利店等零售场景，提供自动化搬运、补货等服务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "大模型长假静悄悄-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qZndtUkhSRnRFWWtBMTRoRmF5UDJ4NmdENmxDUVVWbDdQODFRdnZ2cko0bzM1RVRxM0tVUHdkQXhVVERiWnc2b3prWWVCS1U?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-09T10:50:40.000Z",
+      "summary": "国内大模型厂商在长假期间发布活动减少。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Google在Gemini Agent中调用Claude，AI竞争转向上下文与生态",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PRlZjb0dUS000Tm1KZ0laLTA2WlRnNUcwV2pPcDVRYlZILThyakNnanFZbWRaaElnUHVBdTZMbVBhdmNzLWN6bFpwUzRmVWNmbUF6Ng?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-09T02:09:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "美股AI芯片股盘前集体上涨，博通涨超2%",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oaW1YVXc5YlRsblNiQVRpNmI3MkJoVWhsc1hlZFZwM196WlozTm1YQmsxNWp1SEtJYVNzcm9BZlZUYTRNcHczNEJPVndscldfalloRENfT1Ftdw?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-08T08:53:00.000Z",
-      "summary": "深圳全力推进人工智能和机器人产业发展。",
+      "pubDate": "2026-10-09T08:18:00.000Z",
+      "summary": "美股AI芯片股盘前集体上涨，博通涨超2%。",
       "summaryZh": ""
     },
     {
-      "title": "AI算力建设持续加码 柴发燃气内燃机迎刚性替代机遇",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NSXM4dW9FTmdUUDNzcXZqbUhXZnFqanpCNHlNLW5ralNpZmJTMnB2S0l3SHpCM2ozR28xbUdhYjJMWlFvTmJSbDlqX0V6bHN0NGpJNQ?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-09T03:55:30.000Z",
-      "summary": "AI算力建设推动柴发燃气内燃机成为数据中心刚性标配。",
-      "summaryZh": ""
-    },
-    {
-      "title": "“人工智能+民航”迈向规模化落地",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTEZvaDAwY1k0RXpHVnRMeVQzdkU3SEVyNzJWZ2dvMnlaNnJELTg5S0R1Mm0xeW45M3BlZXdhQjNQWENOOHh0X1hnM0JBR1hzZjZXdjVHa2psMWVtVE1Gb2dXX3ZWQm5OY2JYaURBWkZlOGVtWlJ4emZsYWZiSmZseWdyWGM?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-09T01:12:16.000Z",
-      "summary": "人工智能技术全面融入民航各环节，推动行业高质量发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "灵巧操作头号玩家：Sharpa把指尖触觉进化到全面体感",
-      "link": "https://www.qbitai.com/2026/10/502330.html",
-      "source": "量子位",
+      "title": "护工不是人：机器人给我们养老还有多远？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mSDAwX0RxUHNNdjlFamMwNEJES2ZVNnRBN1RpSlNqRHY0bEtYLVBIeFUtUDM4dnpSdGt4RkR5WkhfSWNDRjBhNDF3Sk9RQmhJRnlULVlIOA?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-09T04:15:05.000Z",
-      "summary": "Sharpa推出D01机器人、W02灵巧手和AE01数据手套，实现全面体感交互。",
+      "pubDate": "2026-10-09T07:06:53.000Z",
+      "summary": "人形机器人养老需求强烈，但技术尚有限。",
+      "summaryZh": ""
+    },
+    {
+      "title": "我国具身智能产业化加速落地",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcjVVczVkV1RRazgwWDBJSFpPY1lhLUZUOGxtNUlaQTFuRjRGVi1ReE5iTEpiWWpjRUpqaW5PYm9aWno4Q3VYQjJSNGt1YlZUTnpGWlpIZkRORnpRNjJZZVV0a1Q2TTV2OGdYVF9EeGhRc2k4dkdhV2hDT0kzNlJrNzRvQ3p2bDRMcUFuREh4QkFPdFZFMFFfTnJMZm1VUWR3aUtGMUo0dTN6c0Q4dXNr?oc=5",
+      "source": "央视网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-08T12:00:37.000Z",
+      "summary": "我国具身智能产业加速实现商业化应用。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Helm.ai Signs $70 Million in Commercial Contracts as Its Foundation-Model Platform Expands Beyond Automotive into Industrial Automation and Robotics",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSS01Vko1ei1vMEJkTTFPSnB0RUxoS0lVYjEwYnBqLTA0T2dSQkx5bFpfMWZWdnBvNndkZ3dNSklqRDhGNVFRS3dGOWhCNS0xeUFudU12TGZFY25zeDZlMDZKVWRQeGVGcXh2ZjZHbXpQTlhZZ0dXaUFleHpHdS0wanNySmloV0NQRUdZeUtIQVQyeUh1SzZPSXhqbUtTeHkxZklxV0lRSEtsc29WdF9ZSjFCWDdEZ0w2QmV5QlQ2WU1RcWRRZnhuN0dvTDlrMTcyWFdoaXNfb0lyUVNITWtiaGY3aTJmUmFUdEZObWVjVzNyWXJQYlBkTkFwMGNGSXpQS1hheFJTM3BYWGc?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-08T16:00:31.000Z",
+      "summary": "Helm.ai签署7000万美元商业合同，拓展至工业自动化和机器人领域。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Jabil discusses the pace of humanoid robot development and production",
+      "link": "https://www.therobotreport.com/jabil-discusses-pace-humanoid-robot-development-production/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-08T16:16:21.000Z",
+      "summary": "Jabil探讨人形机器人研发与生产进展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AWS launches open-source Physical AI Toolchain for robotics",
+      "link": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-08T13:23:58.000Z",
+      "summary": "AWS推出开源物理AI工具链，助力机器人AI模型训练与部署。",
       "summaryZh": ""
     },
     {
@@ -160,43 +241,33 @@
       "summaryZh": ""
     },
     {
-      "title": "全球AI投融资动态,AI创投日报,AI原生软件、具身智能,Hone,Arena",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mcEdVRXMyZ1NCdTZ6blUzcFU4UEhKTGJGc09iU1hpWnZLaFZtVzU5WW4yUnVsX0VrN2QwUjIzNXBzOHVsbUpIZm5HcDNPSDJscFFVengwdnlNb0JHejBCNTlWUU9ZM3hHNThHNWEtbw?oc=5",
-      "source": "虎嗅",
+      "title": "山西太原小店：科技赋能智慧养老 温情守护银龄安康",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSZ2VmV2YwVGlZa3dvWjFIdjFLbHdjTTF0SnVUaktnenlSOU1oQmxSRlo3MloxdDlwX0ZuemtkQlAxbnpfMFYtWGJCSGRGS0dBaHQwdjdTWXg0ZGFQMXl6X3hyaXlGLUJT?oc=5",
+      "source": "中国新闻网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-08T18:07:11.000Z",
-      "summary": "AI领域融资热度持续，多项目获得巨额投资。",
+      "category": "application",
+      "pubDate": "2026-10-09T06:27:00.000Z",
+      "summary": "山西太原小店运用科技助力智慧养老，守护老年人健康。",
       "summaryZh": ""
     },
     {
-      "title": "California is trying to shut down robot vs. human cage matches",
-      "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-08T20:06:56.000Z",
-      "summary": "加州试图禁止机器人与人类笼斗比赛。",
+      "title": "AI当向导“边走边问”带火文旅新消费 “赏秋+特色体验”为“小城”聚集人气",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMWENkYk5VeDNOLXVRd05CWVRvb085VTRkZXhDYXliWGRhbDlreHZ1RlZ3d19YRWwzRTVCamVleWJhSVlkNm54dHJiYTA0UGd4dHVDN3QzTVJ3VzNWMkdLMDVjOXJNLVAxNDZabFl1Q0R4MHp1VzdsMQ?oc=5",
+      "source": "央视网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-09T04:00:17.000Z",
+      "summary": "AI导览助力文旅消费，赏秋体验吸引游客。",
       "summaryZh": ""
     },
     {
-      "title": "This Disembodied Hand Is All the Robot You Need",
-      "link": "https://spectrum.ieee.org/walking-robotic-hand",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-08T12:00:02.000Z",
-      "summary": "机器人手利用AI学习新技能。",
-      "summaryZh": ""
-    },
-    {
-      "title": "文旅推送千篇一律要怪AI吗？",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fRnRLUExnNzdGVXdJUWI3OWdqd2N4RnZwT2FfRTBLYkJLU3E1VGZhWEpRSkl0eGR3akpyY2xDU3k2ODdEamtjZnpIWlBJSXY0Tkg4RXRRdmZKbkF5UVZ3bnlwcmVPdGFtcnFVNnJpdW9WVi0zcUE?oc=5",
+      "title": "AI做攻略、“双向奔赴”……国庆文旅热力足",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ValpIVkFLWEszUTVzSWE1NjY3U29qZ29qeHdNc3BCMHRzOVFvWkFHM09ZODhzSUxtWjNXQ2NDQ0k3WVpTR1dUQ3NxWk1vcEd0Y2hTcHh5X1BmaDJFMlVVX0dsY0ZPUU5NQzF6V1VzempyUk84d3BLWA?oc=5",
       "source": "新浪财经",
       "lang": "zh",
       "category": "application",
-      "pubDate": "2026-10-09T02:30:00.000Z",
-      "summary": "文旅推送同质化现象与AI技术普及有关。",
+      "pubDate": "2026-10-09T09:55:00.000Z",
+      "summary": "国庆假期AI助力文旅消费，全国出游人数和花费均增长。",
       "summaryZh": ""
     }
   ]
