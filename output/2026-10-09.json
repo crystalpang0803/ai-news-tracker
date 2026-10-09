@@ -1,15 +1,15 @@
 {
   "date": "2026-10-09",
-  "generatedAt": "2026-10-09T01:16:49.220Z",
+  "generatedAt": "2026-10-09T02:35:34.300Z",
   "items": [
     {
-      "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
-      "link": "https://www.qbitai.com/2026/10/502083.html",
-      "source": "量子位",
+      "title": "人形机器人抢入口，工业机器人抢利润",
+      "link": "https://www.tmtpost.com/8161596.html",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-09T00:16:56.000Z",
-      "summary": "谷歌发布办公Agent Gemini，支持调用Claude模型。",
+      "category": "robotics",
+      "pubDate": "2026-10-09T01:52:00.000Z",
+      "summary": "人形机器人抢夺未来市场入口，工业机器人则专注于赚取当前利润。",
       "summaryZh": ""
     },
     {
@@ -19,57 +19,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-08T02:54:12.000Z",
-      "summary": "Anthropic发布价格大幅下降的Claude Haiku 5.5模型，性能接近DeepSeek。",
+      "summary": "Anthropic发布价格低至90%的Claude Haiku 5.5模型，性能接近DeepSeek。",
       "summaryZh": ""
     },
     {
-      "title": "AI落地瓶颈在人才？Anthropic斥资1亿美元推出“Claude前沿学院”",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CVWdicGZlZm9KY3lhX1NNRjY1QzZZUWFsZUhFMHlsT1UzLUk0QkVvTG5hMVBkNlJ3M3lkTGVsUEdKeldGQ1kxUw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-08T13:27:55.000Z",
-      "summary": "Anthropic投资1亿美元成立“Claude前沿学院”，培养万名AI部署工程师。",
-      "summaryZh": ""
-    },
-    {
-      "title": "卖机器人“皮肤”之外，触觉厂商还想卖数据和模型",
-      "link": "https://www.tmtpost.com/8161374.html",
+      "title": "OpenAI和Anthropic，开启“模型之战”",
+      "link": "https://www.tmtpost.com/8161593.html",
       "source": "钛媒体",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-09T00:39:16.000Z",
-      "summary": "触觉厂商拓展业务，欲将数据和模型商业化。",
-      "summaryZh": ""
-    },
-    {
-      "title": "自动驾驶货运的下一战：不在卡车里，在 500 英里以内",
-      "link": "https://www.tmtpost.com/8161239.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-08T11:59:54.000Z",
-      "summary": "自动驾驶货运竞争转向500英里以内短途货运，资本和监管成关键。",
-      "summaryZh": ""
-    },
-    {
-      "title": "聊天机器人怂恿用户自残、挨饿，Character.AI 遭肯塔基州指控“产品存在缺陷”",
-      "link": "https://www.ithome.com/1/010/769.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-09T00:05:12.000Z",
-      "summary": "Character.AI 聊天机器人因诱导自残行为被肯塔基州指控产品缺陷。",
-      "summaryZh": ""
-    },
-    {
-      "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
-      "link": "https://www.qbitai.com/2026/10/501915.html",
-      "source": "量子位",
-      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-08T02:15:37.000Z",
-      "summary": "阶跃终端将于10月13日发布大模型原生智能体手机STEPX Neo。",
+      "pubDate": "2026-10-09T01:34:00.000Z",
+      "summary": "OpenAI和Anthropic分别推出GPT-6和Claude Haiku 5.5，开启AI模型性能与成本效率之争。",
       "summaryZh": ""
     },
     {
@@ -79,7 +39,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-09T00:35:13.000Z",
-      "summary": "谷歌云发布通用工作智能体，Manus获5亿融资，小鹏推Robotaxi打车小程序。",
+      "summary": "谷歌云发布智能体Gemini Agent，Manus获5亿融资，小鹏推Robotaxi打车小程序。",
       "summaryZh": ""
     },
     {
@@ -103,23 +63,33 @@
       "summaryZh": ""
     },
     {
-      "title": "49 起、108 亿：9月人形机器人融资榜",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8teVVKNDNhV1Q4aHl5MjZuOFF0d1k0TG1QV0dkTTYxOW9JTUVNM2YwWVRfX3JVMWY1YTJwc1Y0QXpFeG1DVEZINVE3U2Jfc3NaVWRyZ0oxUQ?oc=5",
-      "source": "与非网",
+      "title": "姚颂、杨宇欣联手，连发两款机器人，瞄准24小时便利店",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBIS2x3b0o1VFRoR0lMbXlReTdLb3N2VlhTY25Cb3kxSTktblQ3bDVLR0k5VnJSU1dlcmVwbWpTc05fR0x4Qmc?oc=5",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-08T01:49:03.000Z",
-      "summary": "9月人形机器人领域融资事件49起，总金额达108.3亿元。",
+      "pubDate": "2026-10-08T12:08:30.000Z",
+      "summary": "正行创新发布两款机器人，针对24小时便利店等零售场景，提供自动化搬运、补货等服务。",
       "summaryZh": ""
     },
     {
-      "title": "国内企业签署海外算力协议，南方基金王博聚焦AI算力基建方向",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HSm15X0tsb2hPaHJxNUJWbkNhTnNrektPOWswbGhaNjI0cXE3NmgteGNXMGJ3ZVdOUUF1aWxOWlZKQ25INl9PaUt0dkUyRjg5VzFaUW15UGg?oc=5",
-      "source": "界面新闻",
+      "title": "' 压缩必失忆、加长算力炸'：VortexFlow 抛弃 KV Cache 和注意力机制，用物理演化驱动重建AI 推理范式",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xX002TUFSSWdnY0FMVjlDLWFYaXBMcFE2bmFsYm1fZ3ctRC1WdGZyU2FWNlhvc3NnM3dSUlcwb2tqakN3YnpmOEhsbDhVQzJL?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-08T01:41:21.000Z",
-      "summary": "国内企业签署海外算力租赁协议，南方基金王博关注AI算力基建。",
+      "pubDate": "2026-10-08T08:24:16.000Z",
+      "summary": "VortexFlow以物理演化驱动，重构AI推理范式，实现无压缩长上下文和高效能。",
+      "summaryZh": ""
+    },
+    {
+      "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+      "link": "https://www.qbitai.com/2026/10/502096.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-09T02:03:48.000Z",
+      "summary": "AgentGarten构建实时试炼场，让智能体边玩边进化。",
       "summaryZh": ""
     },
     {
@@ -133,25 +103,6 @@
       "summaryZh": ""
     },
     {
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-08T18:18:00.000Z",
-      "summary": "Google将具备执行能力的AI引入Gemini，首先面向企业用户。",
-      "summaryZh": ""
-    },
-    {
-      "title": "博通拟为OpenAI筹集300亿美元债务融资，AI算力扩张加速转向杠杆化",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sbHZXTVJSREFlejZyY3g1MURMOUhBSDFNbFVfeGgxVHBHNmZGVVpiNnRLd1NobnlUNHFaY3FLVVZYMHRmdDE4ejFxRmZJdGtJNEM4?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-08T03:47:53.000Z",
-      "summary": ""
-    },
-    {
       "title": "速腾聚创第三季度激光雷达总销量 59.56 万台同比增长 220.9%，创单季历史新高",
       "link": "https://www.ithome.com/1/010/781.htm",
       "source": "IT之家",
@@ -162,13 +113,23 @@
       "summaryZh": ""
     },
     {
-      "title": "Helm.ai Signs $70 Million in Commercial Contracts as Its Foundation-Model Platform Expands Beyond Automotive into Industrial Automation and Robotics",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSS01Vko1ei1vMEJkTTFPSnB0RUxoS0lVYjEwYnBqLTA0T2dSQkx5bFpfMWZWdnBvNndkZ3dNSklqRDhGNVFRS3dGOWhCNS0xeUFudU12TGZFY25zeDZlMDZKVWRQeGVGcXh2ZjZHbXpQTlhZZ0dXaUFleHpHdS0wanNySmloV0NQRUdZeUtIQVQyeUh1SzZPSXhqbUtTeHkxZklxV0lRSEtsc29WdF9ZSjFCWDdEZ0w2QmV5QlQ2WU1RcWRRZnhuN0dvTDlrMTcyWFdoaXNfb0lyUVNITWtiaGY3aTJmUmFUdEZObWVjVzNyWXJQYlBkTkFwMGNGSXpQS1hheFJTM3BYWGc?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
+      "title": "具身智能 | In-Context Learning：机器人如何从一段视频学会新任务",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFN2dTZDlrOXp1SHhRa204ejQ1R3lvVjVfYmE4S0hPTWd3bHBFU0l5Vnc2cFdGUTl5R2tqdWhSNllnb2xOVy12VHdacXpTTkJBcXNnRFFUaw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-08T16:00:31.000Z",
-      "summary": "Helm.ai签署7000万美元商业合同，拓展至工业自动化和机器人领域。",
+      "pubDate": "2026-10-08T07:00:47.000Z",
+      "summary": "机器人通过In-Context Learning从视频示范中学习新任务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "10款上新！9月人形机器人新品图鉴",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Tb1ZSMEprYlk5bnNCaVpHU0wyNWl1bnZwRHN5N1BzbXU0MGRzYnkzQVNIZG9YR2IzTDRJbS13blJXc0h4bmhOem9FTUhoY3NTaU1Gd3JBWQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-08T05:08:18.000Z",
+      "summary": "9月10款人形机器人新品发布，涵盖工业、家庭和科研领域。",
       "summaryZh": ""
     },
     {
@@ -182,23 +143,13 @@
       "summaryZh": ""
     },
     {
-      "title": "AWS launches open-source Physical AI Toolchain for robotics",
-      "link": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-08T13:23:58.000Z",
-      "summary": "AWS推出开源物理AI工具链，助力机器人AI模型训练与部署。",
-      "summaryZh": ""
-    },
-    {
-      "title": "具身智能 | In-Context Learning：机器人如何从一段视频学会新任务",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFN2dTZDlrOXp1SHhRa204ejQ1R3lvVjVfYmE4S0hPTWd3bHBFU0l5Vnc2cFdGUTl5R2tqdWhSNllnb2xOVy12VHdacXpTTkJBcXNnRFFUaw?oc=5",
-      "source": "与非网",
+      "title": "搭载全国产化电子架构的具身智能机器人亮相",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBySEJRRThQOTBYcnNublliYnRMY1RmaVRWSkFOWlB5OTllMEpocE9oUm9feU9Scm9PVlpYSkNVUXE3c2EzT0dBaUY2MDA4MjlVUDB3VUg3dzdEMTJWMjFXTnJzbkxqaEZQc21MRW5jWlBCaUxCLW9yZ0FyWFBZdw?oc=5",
+      "source": "新华社",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-08T07:00:47.000Z",
-      "summary": "机器人通过In-Context Learning从视频示范中学习新任务。",
+      "pubDate": "2026-10-08T06:59:49.000Z",
+      "summary": "全国产化电子架构具身智能机器人亮相，实现自主行为安全边界。",
       "summaryZh": ""
     },
     {
