@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "generatedAt": "2026-10-09T23:29:16.653Z",
+  "generatedAt": "2026-10-10T01:00:16.093Z",
   "items": [
     {
       "title": "谷歌 Gemini 4“Argon”模型即将发布，消息称内部测试“Carbon”新版本",
@@ -9,17 +9,37 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-09T22:51:52.000Z",
-      "summary": "谷歌发布Gemini 4“Argon”模型，内部测试性能更强“Carbon”版本。",
+      "summary": "谷歌发布新一代AI模型Gemini 4“Argon”，内部测试“Carbon”新版本。",
       "summaryZh": ""
     },
     {
-      "title": "AI进化速递丨OpenAI预计2026年底年化营收将达700亿美元",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MNTFQSFJDSWc1bGVEV2Y3NkpoMHNUb3VuSkMwZzdaaVJYNzVPeGJxTmlpRFFPdW9hN1RSUTYzdW9fN1lFTXNLWXdObkRUUjVkN1Zz?oc=5",
-      "source": "第一财经",
+      "title": "比亚迪人形机器人，真容曝光！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56b3dFQ0N6bExYQldsOFdZNmw5MUFSVE9ZaGM0dnVGOXFvajRHajFZV05wTlhFYWpmaDRveDF4d3VDYW5NOEN6bQ?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-09T08:06:54.000Z",
+      "summary": "比亚迪自研人形机器人外观设计专利首次曝光。",
+      "summaryZh": ""
+    },
+    {
+      "title": "头部大模型降本迭代加速，创业板算力ETF易方达（158050）盘中获3600万份净申购",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OYXV4WG1ubC1sNURBNV9JbmtqVG93MEFRWVVXVFEzYUFmeGszUFpwUnV1MlJqNTVrMEhTZURHWlJibVRMTEg2cA?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-09T12:56:53.000Z",
-      "summary": "OpenAI预计2026年底年化营收将达700亿美元。",
+      "pubDate": "2026-10-09T09:08:30.000Z",
+      "summary": "头部大模型降本迭代，创业板算力ETF易方达盘中获3600万份净申购。",
+      "summaryZh": ""
+    },
+    {
+      "title": "博通正为其与OpenAI合作的定制AI芯片项目安排超500亿美元融资，创业板算力ETF天弘（158061）跌超4%，近5日净流入超6400万元",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iTU9oc0NOdGxGelpncDZXV3llSURuTzgyUFJPZDRSakVPTFZFM2FVQ2s2aUJxaUFKSzlUelotLXhPSEZVLW1rOU52MW1rWVRiTGJVWHhwSTEzSjBBV0R5bnNkSnpIQQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-09T01:16:00.000Z",
+      "summary": "博通定制AI芯片项目融资超500亿美元，创业板算力ETF天弘跌超4%。",
       "summaryZh": ""
     },
     {
@@ -29,17 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-09T12:13:10.000Z",
-      "summary": "黄碧薇教授研发的机器人智能系统CRIS-0实现自主决策与纠错，提升动态环境下的操作能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
-      "link": "https://www.qbitai.com/2026/10/502096.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-09T02:03:48.000Z",
-      "summary": "AgentGarten构建实时试炼场，让智能体边玩边进化。",
+      "summary": "黄碧薇教授研发的机器人智能系统CRIS-0实现自主决策与纠错能力。",
       "summaryZh": ""
     },
     {
@@ -49,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-09T09:32:57.000Z",
-      "summary": "国内大模型厂商十一假期转向工具链、算力、融资和商业化布局。",
+      "summary": "国内大模型厂商十一假期转向工具链、算力、融资和商业化布局，竞争重心转向Agent与产品落地。",
       "summaryZh": ""
     },
     {
@@ -63,6 +73,15 @@
       "summaryZh": ""
     },
     {
+      "title": "“请3休13”的黄金周，AI旅游攻略把我练成了特种兵",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13V0lsM3JzNWRYNzZFYmRxMEp5SndkaE5abEpRQmtIelhYd3hmVUF3S0hhWnFNX2txNGVPNXkyX0NubW1ManNmZkxaVVZ1dw?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-09T08:24:00.000Z",
+      "summary": ""
+    },
+    {
       "title": "海外大模型降本与国产AI商业化进展共振，关注港股通互联网ETF永赢(159170)",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhQUxtd0t4SDZiY3g3U2hzaVhtUWNzSGNsYzZSSWo3aXhlcGJ1X3VMVzVvdEFwelFNdlp6NlpWVzZKbTRkYmdPaWpzV09wX3Voc0FjeGZ3?oc=5",
       "source": "界面新闻",
@@ -70,6 +89,56 @@
       "category": "ai",
       "pubDate": "2026-10-09T06:25:18.000Z",
       "summary": "海外大模型降本与国产AI商业化进展推动港股通互联网ETF永赢（159170）受关注。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI服务器被动元件需求高增，MLCC缺货涨价延续，创业板算力ETF易方达(158050)标的指数反弹向上",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wYm5NWG9SMTdqVUJqREtQYlBOdmtxRFVWcUhxMUl2cnJZbC1zUGxMR0ZNWjVOeE8ySWNuSkRfQXl1cmsxMHh6Skh0OUNTMWMwV0JKMWNldXk?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-09T07:25:12.000Z",
+      "summary": "AI服务器元件需求上升，MLCC缺货涨价，创业板算力ETF指数反弹。",
+      "summaryZh": ""
+    },
+    {
+      "title": "谷歌Gemini Agent入场，AI办公赛道多了一个抢工位的",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Pa1g5Q00tc2NHQjZXQUpWNHotTDVmLWNhNHBZVzF5dDNIQWstMmI4cDMzWVRZQzFYRG5tMlVIbHUxZklockpsdm0wTS1WRkFDTFY0?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-09T04:11:26.000Z",
+      "summary": "谷歌发布Gemini Agent，进军AI办公市场，与企业现有办公软件和系统连接。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI算力建设持续加码 柴发燃气内燃机迎刚性替代机遇",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NSXM4dW9FTmdUUDNzcXZqbUhXZnFqanpCNHlNLW5ralNpZmJTMnB2S0l3SHpCM2ozR28xbUdhYjJMWlFvTmJSbDlqX0V6bHN0NGpJNQ?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-09T03:55:30.000Z",
+      "summary": "AI算力建设推动柴发燃气内燃机成为数据中心刚性标配。",
+      "summaryZh": ""
+    },
+    {
+      "title": "大模型推理成本加速下降 AI应用端渗透有望迎来提速",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Sb2dTLWRUZC1oV0JDbjRfWk5YS0FrV053dS1tRTZfYXp6TGJCa3pJSVBRa2pTblk5UzljSTNzSUtxT3VpMTd0WQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-09T21:48:09.000Z",
+      "summary": "大模型推理成本下降，AI应用渗透加速。",
+      "summaryZh": ""
+    },
+    {
+      "title": "“人工智能+民航”迈向规模化落地",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTEZvaDAwY1k0RXpHVnRMeVQzdkU3SEVyNzJWZ2dvMnlaNnJELTg5S0R1Mm0xeW45M3BlZXdhQjNQWENOOHh0X1hnM0JBR1hzZjZXdjVHa2psMWVtVE1Gb2dXX3ZWQm5OY2JYaURBWkZlOGVtWlJ4emZsYWZiSmZseWdyWGM?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-09T01:12:16.000Z",
+      "summary": "人工智能技术深度融入民航全产业链，推动行业智能化发展。",
       "summaryZh": ""
     },
     {
@@ -83,36 +152,47 @@
       "summaryZh": ""
     },
     {
-      "title": "15万美元一台、3亿美元订单按技能解锁：人形机器人的真实账本摊开了",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1taHBlMGpmWjROSE1raGVsY1BqeTV6YTZiY1J1Q3B6MkVzVGI5WjlWWV9xMER3b3FmSVZVTWJVbTNpWnVnVmtQbm1xdnVPNk1hVHVxN2ppSQ?oc=5",
-      "source": "与非网",
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-09T16:45:00.000Z",
+      "summary": "丹努机器人致力于打造更高效的回收机器人。",
+      "summaryZh": "",
+      "titleZh": "Danu Robotics 致力于打造更好的回收机器人"
+    },
+    {
+      "title": "“数字副手”让客户服务更及时、更专业、更有温度——阳光人寿推出四级机构AI管理机器人“阳掌柜”",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rX0xHdkZ6c1JfUnNSaE1ldHhnX2JJSlV0czRBekdENlVwcjVvNk1pNkQ5TFRfXzRWM0FQUHpTQWNGcV85U1I4d19ZNU4zMUw1cVFreWpwNW4xZFVLWjk3Z3VWZEtFY0tYai1aS3BzTVVEdE1ielBZbTZaSEtDZw?oc=5",
+      "source": "中国经济网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-09T05:38:42.000Z",
-      "summary": "人形机器人Digit 5成本15万美元，订单3亿美元，按技能分批解锁。",
+      "pubDate": "2026-10-09T09:24:00.000Z",
+      "summary": "阳光人寿推出AI管理机器人“阳掌柜”，提升客户服务效率与专业性。",
       "summaryZh": ""
     },
     {
-      "title": "Why humanoid robot demos still fail the generalization test",
-      "link": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/",
+      "title": "Video Friday: Robot Decommissioning Takes a Fun Turn",
+      "link": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-09T15:30:02.000Z",
+      "summary": "机器人报废过程变得有趣。",
+      "summaryZh": "",
+      "titleZh": "周五视频：机器人退役发生了有趣的转变"
+    },
+    {
+      "title": "Boston Dynamics gives more insight into its redesigned humanoid hand",
+      "link": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-10-09T19:28:41.000Z",
-      "summary": "人形机器人演示仍无法通过泛化测试。",
+      "pubDate": "2026-10-09T16:59:57.000Z",
+      "summary": "波士顿动力展示其重新设计的人形机器人手，具备13个自由度，适用于大规模制造。",
       "summaryZh": "",
-      "titleZh": "为什么人形机器人演示仍然未能通过泛化测试"
-    },
-    {
-      "title": "Job titles of the future: Delivery drone air traffic controller",
-      "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-09T09:00:00.000Z",
-      "summary": "未来职业：无人机配送空中交通管制员。",
-      "summaryZh": "",
-      "titleZh": "未来的职位：送货无人机空中交通管制员"
+      "titleZh": "波士顿动力公司更深入地了解其重新设计的人形手"
     },
     {
       "title": "Robot Decommissioning By Ball-Pit Free Fall!?! Plus Reachy Mini Raps!",
@@ -121,7 +201,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-09T15:33:47.000Z",
-      "summary": "机器人报废采用球池自由落体方式，Reachy Mini机器人表演说唱。",
+      "summary": "机器人报废采用球池自由落体方式，Reachy Mini机器人进行说唱表演。",
       "summaryZh": "",
       "titleZh": "机器人通过球坑自由落体退役！？！再加上迷你说唱！"
     },
@@ -146,28 +226,6 @@
       "summary": "金斯顿大学将领导英国首个废物回收机器人中心。",
       "summaryZh": "",
       "titleZh": "金斯顿大学被选为英国第一个废物和回收机器人中心的领导者"
-    },
-    {
-      "title": "These ‘4 pillars’ are critical for successful automation",
-      "link": "https://www.supplychaindive.com/news/these-4-pillars-are-critical-for-successful-automation/831500/",
-      "source": "Supply Chain Dive",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-09T13:59:48.000Z",
-      "summary": "成功自动化需关注人员、流程、数据和系统四大支柱。",
-      "summaryZh": "",
-      "titleZh": "这“四大支柱”对于成功的自动化至关重要"
-    },
-    {
-      "title": "Robot Talk Episode 165 – Robots behind the research, with Kushant Patel",
-      "link": "https://robohub.org/robot-talk-episode-165-robots-behind-the-research-with-kushant-patel/",
-      "source": "Robohub",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-09T11:52:18.000Z",
-      "summary": "Kushant Patel分享其在科学设施中工作的机器人研发经验。",
-      "summaryZh": "",
-      "titleZh": "机器人谈话第 165 集 – 研究背后的机器人，与库尚特·帕特尔 (Kushant Patel) 合作"
     }
   ]
 }
