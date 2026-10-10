@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "generatedAt": "2026-10-10T05:58:01.443Z",
+  "generatedAt": "2026-10-10T10:06:46.733Z",
   "items": [
     {
       "title": "硅谷大模型不装了：Claude卷价格，GPT学豆包",
@@ -9,87 +9,76 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-10T01:10:22.000Z",
-      "summary": "硅谷大模型价格战升级，Claude和GPT-6 Luna大幅降价。",
-      "summaryZh": ""
-    },
-    {
-      "title": "上线5天杀进手机，OpenAI dots移动端来了，AI Agent从桌面走进口袋",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90aGREclhJWW9YVVg5LUV4a1owNE9OTmpzZDdXT3Z6cVBGcVgzbWY3bVBwNzVneXNiN0J6M2JGZzdxbjVSSXEzak55UDFnZTQ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-10T02:18:26.000Z",
-      "summary": "OpenAI dots移动端上线，AI Agent从桌面走进口袋。",
+      "summary": "硅谷大模型价格战升级，Claude和GPT推出低价模型。",
       "summaryZh": ""
     },
     {
       "title": "Anthropic发布Claude Haiku 5.5，OpenAI上线GPT-6免费层，海外大模型价格战转向小模型",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81bm9CbWVMcU0zRzlVNHBFOGhCZzk5OF81ZGZqS013OExPRklSQ1ozMEo2TjYzUzQ5MFduUXNuNnk5VHJOLUhQRmh2Q1AtcnE3b1Qwa1pKelc2WnE5akVZ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03X2dkeWlNaDN4ckllX0hsUHRtWFl5eHF4SU8zWXVzaXNaSVR1ekVDQjlTTUZucE5saXgtLVdVVVo5SERGLXM3WFcwZ0lVVzJ1QVQ5Wg?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-10T00:38:11.000Z",
-      "summary": "Anthropic推出低价Claude Haiku 5.5，OpenAI免费提供GPT-6，海外AI小模型价格战加剧。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
-      "title": "Claude 管理智能体新增动态工作流，单次最多并行调度 1000 个 AI Agents",
-      "link": "https://www.ithome.com/1/011/329.htm",
+      "title": "中国企业首次：小鹏集团当选联合国自动驾驶工作组秘书长",
+      "link": "https://www.ithome.com/1/011/388.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-10T05:38:05.000Z",
-      "summary": "Claude管理智能体引入动态工作流，单次最多并行调度1000个AI Agents。",
+      "category": "robotics",
+      "pubDate": "2026-10-10T07:22:53.000Z",
+      "summary": "小鹏集团成为联合国自动驾驶工作组秘书长，代表中国企业首次获此殊荣。",
       "summaryZh": ""
     },
     {
-      "title": "豆包汽车落地，AI已经上车抢方向盘了！",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41Um9ySV9mTmVXM18xVTdLcVhhR3p6WWVSdmlnT2Q0enMtVDQwd01NbDdfbDNqYjUwZlM3cEl1anJGNlBNMjUzMjUzeWFFVU1md0Q1MQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-09T07:31:00.000Z",
-      "summary": "豆包汽车搭载AI技术，实现自动驾驶功能。",
-      "summaryZh": ""
-    },
-    {
-      "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
-      "link": "https://www.ithome.com/1/011/325.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-10T05:10:05.000Z",
-      "summary": "16岁少年用AI规划登山路线被困悬崖，事后不责怪AI。",
-      "summaryZh": ""
-    },
-    {
-      "title": "比亚迪人形机器人，真容曝光！",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56b3dFQ0N6bExYQldsOFdZNmw5MUFSVE9ZaGM0dnVGOXFvajRHajFZV05wTlhFYWpmaDRveDF4d3VDYW5NOEN6bQ?oc=5",
+      "title": "全国首个！东土科技联合逐际动力给机器人装上了国产“神经系统” ，具身智能迎来历史一刻！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yYktLUU1pLXZIbkNQNVB2MDBMWVRtRFU3S0hSUm5GdktVZmM5N3RwVVlsV0U4NnhocmVxMG5SS0VwRGNLcTlySg?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-09T08:06:54.000Z",
-      "summary": "比亚迪自研人形机器人外观专利首次曝光，具备行走、平衡及交互功能。",
-      "summaryZh": ""
-    },
-    {
-      "title": "外媒：中国配送机器人正在打开夜间配送巨大市场",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FV0ZacS1YN3pLa2hiTXJydzNLbHlHOWpxblYzN3AtUjFWTDFaamFoSHlPRDlRc2lzLWgtendnUW5nLUsxWDVwQXR2R09Teks2RHVQd1U1enAyY1JwTkY2UXVhUkhJaXNfWnRTUFdIZw?oc=5",
-      "source": "中国经济网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-10T03:02:00.000Z",
-      "summary": "中国配送机器人市场潜力巨大，正推动夜间配送发展。",
+      "pubDate": "2026-10-10T00:00:50.000Z",
+      "summary": "东土科技与逐际动力联合推出全国首个搭载国产电子架构的人形机器人。",
       "summaryZh": ""
     },
     {
       "title": "OpenAI营收预期缩水，Manus却融资5亿美元：AI赛道风向变了",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DMnFMaS11VUN5aGdiQzd1a2d1UDRyckVkY093eW11VUhJdzBnODJQUDNONHFGMFVJOUhfRnl5THk0anZoalNMWkZsdE9iUFE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U2JRMzU4X0trai00clR0aFhoazlnUm9zbmJpVlRhRlhCZmNVYXkzeXBoWHNWMC1TRXNuTXlNLTNyeHJGazl6SFpVdVBCRWlh?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-10T03:23:43.000Z",
+      "pubDate": "2026-10-09T12:20:00.000Z",
       "summary": "OpenAI营收预期缩水，Manus融资5亿美元，AI行业风向转变。",
+      "summaryZh": ""
+    },
+    {
+      "title": "MiniMax跌掉80%、DeepSeek拟融资1000亿：大模型IPO潮谁来接盘？-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qS0I3MjdTY3lZVVU0NmJtbDZ6cEszZDdUYWk2am1nVjdpdlhGWkxNNEMzZlRSNlljUE83Y0ZOZUxCSTAzSlZTSmc1X1JHTzUx?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-10T01:38:02.000Z",
+      "summary": "MiniMax股价大跌，DeepSeek拟融资千亿，大模型IPO市场面临接盘难题。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Muse发布一个月，Personal Agent让新 BAT 集体上头",
+      "link": "https://www.tmtpost.com/8163156.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-10T01:08:54.000Z",
+      "summary": "Muse发布一个月，Personal Agent功能引发新BAT集体关注。",
+      "summaryZh": ""
+    },
+    {
+      "title": "腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill",
+      "link": "https://www.ithome.com/1/011/432.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-10T08:52:04.000Z",
+      "summary": "腾讯云开源TeamAI工具，支持跨Agent共享Skill。",
       "summaryZh": ""
     },
     {
@@ -103,33 +92,14 @@
       "summaryZh": ""
     },
     {
-      "title": "头部大模型降本迭代加速，创业板算力ETF易方达（158050）盘中获3600万份净申购",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OYXV4WG1ubC1sNURBNV9JbmtqVG93MEFRWVVXVFEzYUFmeGszUFpwUnV1MlJqNTVrMEhTZURHWlJibVRMTEg2cA?oc=5",
+      "title": "OpenAI再次叫停前沿模型开发 AI+网络安全成国家级战略重点方向",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XcEhsbEZkZ1NUNUVOT0FvUzRfSTlpSjE3Z3BtQms1c3VKeGpIdU9BTFM1LXNvUkdyT3ZFeE9DVG05Rlg5c2tyRA?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-09T09:08:30.000Z",
-      "summary": "头部大模型降本加速，创业板算力ETF易方达盘中获3600万份净申购。",
+      "pubDate": "2026-10-10T07:02:08.000Z",
+      "summary": "OpenAI暂停前沿模型开发，AI+网络安全成国家级战略重点。",
       "summaryZh": ""
-    },
-    {
-      "title": "华人教授黄碧薇新成果：机器人干活，终于会三思而后行了",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yZ1VVWFBNWWh0MW8zRlpneDVkeWhvaTdqTjY4NnNfel96akltOTFSLU01ZW5pMTZUdE0wUE9iN2pvdHVpdEpiVA?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-09T12:13:10.000Z",
-      "summary": "黄碧薇教授研发的机器人系统CRIS-0实现动态环境下的自主执行和任务恢复能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "十一假期国内大模型发布集体降温：厂商转向Agent、算力与融资布局",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWZnVJUUx1aWxwYUNTRGV3anNRSEo1TnFBVU1EYVV1cVIxSldDY0hpM2xBajVsYk1SSVk0RDg5eGYtNC1oVmx2N1hwY05XbjlORjRXSQ?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-09T09:32:57.000Z",
-      "summary": ""
     },
     {
       "title": "Jev 开发商估值已达 75 亿美元；苹果投资 AI 音频初创；传 OpenAI、Anthropic 高管私下推演 AI 灾难场景",
@@ -142,14 +112,43 @@
       "summaryZh": ""
     },
     {
-      "title": "海外大模型降本与国产AI商业化进展共振，关注港股通互联网ETF永赢(159170)",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhQUxtd0t4SDZiY3g3U2hzaVhtUWNzSGNsYzZSSWo3aXhlcGJ1X3VMVzVvdEFwelFNdlp6NlpWVzZKbTRkYmdPaWpzV09wX3Voc0FjeGZ3?oc=5",
-      "source": "界面新闻",
+      "title": "特斯拉获知名分析师力挺：实体人工智能最好投资标的",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KSjVxZmpYN1p5aHcydmV6RjgtbEhWZUc3NTZzbGk1eWNZbXlUU1Zya2RlSklEWmk1ZTQtVGJtYTlUVE1vQks4Rg?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-09T06:25:18.000Z",
-      "summary": "海外大模型降本与国产AI商业化进展推动港股通互联网ETF永赢（159170）受关注。",
+      "pubDate": "2026-10-10T03:31:00.000Z",
+      "summary": "知名分析师Dan Ives看好特斯拉，认为其是实体人工智能最佳投资标的。",
       "summaryZh": ""
+    },
+    {
+      "title": "人工智能场景化落地三亚",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ieV82U281SE1JTW9hMDFTdEJxcGRaTDZqVWFjNDN1dzVhQS15dXFKdmNicVVnRjdWT0VWRlJRX2xRTERUbkRQaTNDMEJoNFJSbmtSeEZ0bWZSandPTEE4TF9TeFRTLW5SalBnUA?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-10T00:38:00.000Z",
+      "summary": "三亚落地AI场景化应用，推动智慧城市建设。",
+      "summaryZh": ""
+    },
+    {
+      "title": "刚刚，比亚迪人形机器人专利视图首次公开",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1dHZmVDVLMkw3N1FENmhJSkxOb2FNMUhIYWxmSUlfZG95NTVmMWJJSVJGeDZZay1RT1FSRDBoaGZjTG9iSVMwUlpqNFowT2dIM21seURrOA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-10T02:58:43.000Z",
+      "summary": "比亚迪人形机器人专利视图首次公开，具备行走、平衡及交互功能。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI年化收入口径落差达200亿美元，引发AI产业链估值与全球市场波动",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aSDVjdkY2dnVpdFZrQmFhcFpTUlV5cnpTdzhGemhWb0JUeU5aSUtScU1qMW1VdVI5VHFxRGFCeURhZS03Z251emNQNUYxUUtQaEp6Sg?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-09T10:09:25.000Z",
+      "summary": ""
     },
     {
       "title": "Danu Robotics’ fight to build a better recycling robot",
@@ -158,7 +157,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-09T16:45:00.000Z",
-      "summary": "丹努机器人致力于打造更高效的回收机器人。",
+      "summary": "丹努机器人致力于研发更高效的回收机器人。",
       "summaryZh": "",
       "titleZh": "Danu Robotics 致力于打造更好的回收机器人"
     },
@@ -172,47 +171,6 @@
       "summary": "人形机器人演示仍无法通过泛化测试。",
       "summaryZh": "",
       "titleZh": "为什么人形机器人演示仍然未能通过泛化测试"
-    },
-    {
-      "title": "机器人不缺身体，缺的是数据",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0teWZpajdZNDQwVGxhWXBlUV9NUFVJM0t1UFZfQ2kzZ1BJR0ZFT1Q0b2RCR0I1RERmSE9wNW1zaEt5Q0VaN2VVakpJVDZpYnkzMTRMYVF1SQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-10T01:55:07.000Z",
-      "summary": "机器人发展瓶颈在于缺乏高质量物理交互数据。",
-      "summaryZh": ""
-    },
-    {
-      "title": "伟创电气：工控老兵的机器人新战场",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IZTF1NEZ1WkNqNmlBOWQwV29od1NNWnRpY2kyWTBScG52UG5vekhVYVlQTnJIQmhmNlpQVmdwcXl2cGh6RWk2WHZoUnRRaG1yX05ob3FfRQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-09T07:27:31.000Z",
-      "summary": "伟创电气拓展机器人领域，变频器业务稳健，同时加大研发投入，专利数量丰富。",
-      "summaryZh": ""
-    },
-    {
-      "title": "无锡农业机器人勇“闯”欧洲",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80bldvT0xtWi02Uzc0SE9TQWZfTkhMMDZIVFRMQXlZLU1hOFM5c29KeFVWV3M5ZTRzRHJsUDdvc0RlRkdoVEYyU1VaeUVPaWRhRmRsQW5mVENZNlRzSFZYR3dULTg2ZnFYeXBpNmJHSmxMa1Fs?oc=5",
-      "source": "新华社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-10T01:13:15.000Z",
-      "summary": "无锡农业机器人研究所牵头中欧农业机器人论坛，推动中欧农业机器人合作。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Job titles of the future: Delivery drone air traffic controller",
-      "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-      "source": "MIT Technology Review",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-09T09:00:00.000Z",
-      "summary": "未来职业：无人机配送空中交通管制员。",
-      "summaryZh": "",
-      "titleZh": "未来的职位：送货无人机空中交通管制员"
     },
     {
       "title": "Video Friday: Robot Decommissioning Takes a Fun Turn",
@@ -232,18 +190,38 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-09T16:59:57.000Z",
-      "summary": "波士顿动力展示了其重新设计的人形机器人手，具备13个自由度，适用于大规模制造。",
+      "summary": "Boston Dynamics展示其重新设计的人形机器人手，具备13个自由度，适用于大规模制造。",
       "summaryZh": "",
       "titleZh": "波士顿动力公司更深入地了解其重新设计的人形手"
     },
     {
-      "title": "“数字副手”让客户服务更及时、更专业、更有温度——阳光人寿推出四级机构AI管理机器人“阳掌柜”",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rX0xHdkZ6c1JfUnNSaE1ldHhnX2JJSlV0czRBekdENlVwcjVvNk1pNkQ5TFRfXzRWM0FQUHpTQWNGcV85U1I4d19ZNU4zMUw1cVFreWpwNW4xZFVLWjk3Z3VWZEtFY0tYai1aS3BzTVVEdE1ielBZbTZaSEtDZw?oc=5",
-      "source": "中国经济网",
+      "title": "无锡农业机器人勇“闯”欧洲",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80bldvT0xtWi02Uzc0SE9TQWZfTkhMMDZIVFRMQXlZLU1hOFM5c29KeFVWV3M5ZTRzRHJsUDdvc0RlRkdoVEYyU1VaeUVPaWRhRmRsQW5mVENZNlRzSFZYR3dULTg2ZnFYeXBpNmJHSmxMa1Fs?oc=5",
+      "source": "新华社",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-09T09:24:00.000Z",
-      "summary": "阳光人寿推出AI管理机器人“阳掌柜”，提升客户服务及时性与专业性。",
+      "pubDate": "2026-10-10T01:13:15.000Z",
+      "summary": "无锡农业机器人研究所牵头中欧农业机器人论坛，推动中欧农业机器人合作。",
+      "summaryZh": ""
+    },
+    {
+      "title": "具身智能帕西尼启动IPO 估值已过百亿",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR25hYU1FZzBEWlZxaGNYNE90aE5fVmlweXpmdmh0aDl6YW1kOHdkQk03YXZMelNDaWpHaGxjR2I4bkFqS0JqTlhpdUZ0Uy1VaWVXUV9XRkZzYml2Q1hVaFZVZ2VkMzZ4UnUxQzF3SjEzamNfdkdqTi1sdTd4WVZKdg?oc=5",
+      "source": "新华社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-10T07:52:00.000Z",
+      "summary": "具身智能公司帕西尼启动IPO，估值超百亿。",
+      "summaryZh": ""
+    },
+    {
+      "title": "四川眉山东坡AI智慧适老化体验馆对外开放",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TM0I5SFZHM3plM0VZejF3QzVBVXhKM0g4aEhUdk1WbWlnTl8yUDZ0NG91RkZ1c0JyRG5yclJyTkxqMkg3emYzdTlGcWZtYllLWE96cGltZ2VGUU5ONXJMWWxDNlNUZW9xcFkyMDBVY1Y?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-10T07:10:30.000Z",
+      "summary": "四川眉山东坡AI智慧适老化体验馆对外开放，展示适老化产品及改造方案。",
       "summaryZh": ""
     }
   ]
