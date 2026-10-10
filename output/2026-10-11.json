@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "generatedAt": "2026-10-10T20:01:41.123Z",
+  "generatedAt": "2026-10-10T21:34:12.271Z",
   "items": [
     {
       "title": "2026人形机器人公司全景：四类赛道分化与场景落地的三维评估体系",
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-10T03:02:00.000Z",
-      "summary": "中国配送机器人市场潜力巨大，正推动夜间配送发展。",
+      "summary": "中国配送机器人开启夜间配送市场，助力物流效率提升。",
       "summaryZh": ""
     },
     {
@@ -48,7 +48,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-10T01:39:29.000Z",
-      "summary": "OpenAI回应三名安全研究员解雇事件，强调调查发现问题超公开信披露内容。",
+      "summary": "OpenAI回应三名安全研究员解雇事件，称其违反敏感信息处理政策。",
       "summaryZh": ""
     },
     {
@@ -58,7 +58,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-10T06:18:00.000Z",
-      "summary": "北京规划增加人工智能终端产品有效供给。",
+      "summary": "北京将扩大人工智能终端产品有效供给。",
       "summaryZh": ""
     },
     {
@@ -68,7 +68,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-10T08:51:54.000Z",
-      "summary": "Meta 搁置向 Anthropic 出租 AI 算力计划。",
+      "summary": "Meta搁置向Anthropic出租AI算力计划。",
       "summaryZh": ""
     },
     {
@@ -99,17 +99,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-10T02:11:51.000Z",
-      "summary": "中国一汽基于EOA范式，打造企业级智能体OpenMind，推动企业智能化转型。",
-      "summaryZh": ""
-    },
-    {
-      "title": "GPT-6.1 Sol Ultrafast 来了！腾讯连续38个交易日回购，阿里加速布局全栈AI！云计算ETF汇添富(159273)指数深V反弹涨超1%！连续五日吸金！",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ub0d1cmRxcl80dTU1S0l0V2VubWxhRXo4RmNnc1ZpSHNuNGVHdnV3TkxsZUNWeGhnOElia2l4amRwVVEybHVMdkxHV2c2eGRLakVkT3ZB?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-09T20:08:15.000Z",
-      "summary": "腾讯回购持续，阿里加速AI布局，云计算ETF反弹涨超1%。",
+      "summary": "中国一汽基于EOA范式，打造企业级智能体OpenMind，推动企业智能体高效协同与进化。",
       "summaryZh": ""
     },
     {
@@ -123,15 +113,6 @@
       "summaryZh": ""
     },
     {
-      "title": "微软推出高速决策AI模型，速度超GPT-6 Sol达35倍",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QTURCbTBNbnlNTWdfbWw4RlZ6WUVsdmhMaVd1V005YkRoYzR4TDRvejJMaTN2RlRhcEJESGc1WHl3YUo3MDFvaFRoeHAya3pISWxN?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-09T20:08:11.000Z",
-      "summary": ""
-    },
-    {
       "title": "谷歌推动Agent混战升级 AI算力架构有望重塑",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04MlpHTlJUUmtRbDcxa3BsZE1FUWtEbXNOdU13eTdDc3VNblpXdHFOaUpLSWtLNG1tcmRUN3pUME44MWtYQlNoS0hYeTNJcFo3RlBUbWZWVjQ1XzJYRnA1VQ?oc=5",
       "source": "东方财富网",
@@ -142,23 +123,34 @@
       "summaryZh": ""
     },
     {
+      "title": "比GPT-6 Sol快35倍！微软“抢跑”决策AI模型",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWU5vdVpPVVluRGp1WlNEVDZOUndqQXVfdjRzOXVaZ0dBMEN6bGFRa0VLYTdNSHpsdGZSTGNJR05CNEVOcTR4eUxhdldRaHlTdGYtcGw2RnE4WHJOT0VTM3pyNlE2c0ZWQ3JGRGFqUmVyNzlYWnMxY1lqOGRmUHpBdA?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-10T03:15:00.000Z",
+      "summary": "微软推出快速决策AI模型，运行速度比GPT-6 Sol快35倍。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI营收少算200亿美元，如何牵动全球AI股？",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcXZnRUk4cEJydjlUaHlMNG1XcXVHRHQxZlQyR19SY3d6OHN5SDRhVUozMEs0WWQ0aUxOTGNSMFFuWmhYZlBEelJPMVZmakxQalctaVlwZGNKNlFlLTh2SWt2WjlQOFNRSzVqN1VwLWx3YVhBTkpZVjNLSDg2ZE5Ydkk2LWRXdw?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-09T23:00:00.000Z",
+      "summary": "OpenAI营收统计调整引发全球AI股波动，市值蒸发数千亿美元。",
+      "summaryZh": ""
+    },
+    {
       "title": "机器人不缺身体，缺的是数据",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0teWZpajdZNDQwVGxhWXBlUV9NUFVJM0t1UFZfQ2kzZ1BJR0ZFT1Q0b2RCR0I1RERmSE9wNW1zaEt5Q0VaN2VVakpJVDZpYnkzMTRMYVF1SQ?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-10T01:55:07.000Z",
-      "summary": "机器人技术发展面临数据获取难题。",
+      "summary": "机器人技术发展需大量数据支持。",
       "summaryZh": ""
-    },
-    {
-      "title": "骗过机器人大赛，垫高棋子，探究 AI 棋盘识别的局限",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QSnRTNHN2Rjg4aTQ5Z1d6eVhaUTdiMFpzSmZzTjBtU09MOXB5OGtPMW9rTloxNlJmeVpTN25MRi1MUWxpTmhFUmt5NDFGMWoybG1LVnd3?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-10T04:34:00.000Z",
-      "summary": "骗过机器人大赛，垫高棋子，探究 AI 棋盘识别的局限。"
     },
     {
       "title": "机器人进24小时便利店，正行创新推出零售物理AI解决方案",
@@ -182,17 +174,6 @@
       "titleZh": "纽约与 Intuition Robotics 合作扩展人工智能伴侣计划"
     },
     {
-      "title": "UK’s National Composites Centre to lead business support for new £9.8 million Greater South West robotics hub",
-      "link": "https://roboticsandautomationnews.com/2026/10/09/uks-national-composites-centre-to-lead-business-support-for-new-9-8-million-greater-south-west-robotics-hub/105803/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-09T20:13:50.000Z",
-      "summary": "英国国家复合材料中心将领导一项980万英镑的西南地区机器人中心的企业支持工作。",
-      "summaryZh": "",
-      "titleZh": "英国国家复合材料中心将为价值 980 万英镑的新大西南机器人中心提供业务支持"
-    },
-    {
       "title": "苹果把摄像头做成\"不录像的传感器\"：隐私牌能撬开智能家居吗？",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwTnY2NV9vU0dIMTZZcEdkTUhmRHBxcThxa1FGVklVY2hlcFRnZi15XzFEMXFhTmdrQkFjYXEyUmR1ZmhtYkZZVDJ1X2YzMXY3aVRz?oc=5",
       "source": "华尔街见闻",
@@ -208,8 +189,29 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-10T16:17:19.000Z",
-      "summary": "安徽省揭牌成立具身智能创新中心。",
+      "summary": "安徽省成立具身智能创新中心，推动产业融合发展。",
       "summaryZh": ""
+    },
+    {
+      "title": "隆基精控智能制造基地启用 加速光储融合与全球交付布局",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxelozenRWMGJTNnpvc2YwR0RVTXd2VXdzOFRDNFoyYlJHMVd6dE1EdmhNQlREaEhHcXZuTkEweVEyLTYyTnJSM25hRzN2U1JSWF9HTE1KRDhNTGRTelQ4aF9EbklMNTF0NERTVzZTRlg?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-10T11:20:51.000Z",
+      "summary": "隆基精控智能制造基地启用，加速光储融合与全球交付布局。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Inside the ‘robot gyms’ training machines for the real world",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLU1pd1pSTGtQdHFiMzlxazZJaFVYVFhwTU5IU0tnMzJTeEVlZFhlUXotbmtNN0RSUnp4VHRfX1czbTJmQXAzcFFQeW1FOW5sWTFhSVBVb0Qyc1IxdmFYMXp6Mmo5cF9rbWNyX2dEMzlzR1YyY1RVU29SU2lTcGVWZTFRams?oc=5",
+      "source": "Financial Times",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-10T04:00:07.000Z",
+      "summary": "全球“机器人健身房”培养现实世界机器训练。",
+      "summaryZh": "",
+      "titleZh": "真实世界的“机器人健身房”训练机器内部"
     }
   ]
 }
