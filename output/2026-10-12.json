@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "generatedAt": "2026-10-11T20:12:42.974Z",
+  "generatedAt": "2026-10-11T21:50:24.717Z",
   "items": [
     {
       "title": "DJI ROMO 2评测：清洁难题一网打尽2026年的扫地机器人应该是什么样？透明的外壳？毫米级避障？雷达自适应机械臂？你很难想象，大疆真的把这玩意造出来了，将无人机的技术和经验，下放到家用清洁设备上，这就是我们今天的主角——第二代AI超幅扫拖机器人",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-10T22:22:53.000Z",
-      "summary": "大疆推出第二代AI超幅扫拖机器人ROMO 2，融合无人机技术。",
+      "summary": "大疆推出第二代AI超幅扫拖机器人ROMO 2，集无人机技术与清洁功能于一身。",
       "summaryZh": ""
     },
     {
@@ -19,17 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-11T10:49:17.000Z",
-      "summary": "主流大模型代码能力测评：豆包等表现佳，Codex和ChatGPT更胜一筹。",
-      "summaryZh": ""
-    },
-    {
-      "title": "硅谷AI现状：谁有算力谁是爹",
-      "link": "https://www.qbitai.com/2026/10/502585.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-11T05:22:38.000Z",
-      "summary": "硅谷AI行业陷入算力争夺战，算力成为企业竞争关键。",
+      "summary": "主流大模型代码能力测评：豆包等表现良好，ChatGPT和Claude在Python代码表现更优。",
       "summaryZh": ""
     },
     {
@@ -49,7 +39,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-11T03:18:25.000Z",
-      "summary": "鹿明机器人与面壁智能签署战略合作，共同推进具身智能技术。",
+      "summary": "鹿明机器人与面壁智能签署战略合作，聚焦具身智能领域。",
+      "summaryZh": ""
+    },
+    {
+      "title": "雷神科技董事长路凯林：云边端闭环落地 从电竞硬件厂迈向全栈算力服务商",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OaUFqdWhONGlwSUc4cHJlTXd2UTgwS2w2QVg0anZJc2NPYkhPaURhNG1NVWRuRHZVQ1hiVU9mYU5zcHQ4ZjVSM3Zmd3RncG1fY3RudVdKZXhKekpMeXNSa0Z3?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-11T21:27:50.000Z",
+      "summary": "雷神科技从电竞硬件厂转型为全栈算力服务商，完成云边端闭环落地。",
       "summaryZh": ""
     },
     {
@@ -60,7 +60,8 @@
       "category": "ai",
       "pubDate": "2026-10-11T14:00:00.000Z",
       "summary": "多位高管认为语音AI尚未达到ChatGPT时刻。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "这些高管认为语音 AI 尚未达到 ChatGPT 时刻"
     },
     {
       "title": "本末科技，还没吃上具身智能这碗饭",
@@ -69,17 +70,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-11T13:08:08.000Z",
-      "summary": "本末科技具身智能业务收入占比低，主要依赖扫地机器人，仍处于亏损状态。",
+      "summary": "本末科技具身智能业务占比低，主要依赖扫地机器人，仍处于亏损状态。",
       "summaryZh": ""
     },
     {
-      "title": "阿维塔 T09 概念版全球首秀：定位全新旗舰 SUV，配备四激光雷达",
-      "link": "https://www.ithome.com/1/011/701.htm",
-      "source": "IT之家",
+      "title": "城市早8｜前三季度全国城镇新增就业1052 万人；广东人形机器人力争2028年产量破8万台；江苏推出三张“AI 券”",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjTkpWUWtsbDdodUVEZlZGNEZ3V2VvSXVCWm9SMUdVLTg2eHRiQ25OdVJHZ0hmeWJQV3NMNUtNNE9tVEY2TGJhdXFCNmo2Q3lUQkVHVFdYcU52Nks3ZkFpMVJiVWpTQQ?oc=5",
+      "source": "每日经济新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-11T13:35:36.000Z",
-      "summary": "阿维塔T09概念版全球首秀，定位旗舰SUV，配四激光雷达。",
+      "pubDate": "2026-10-11T01:52:00.000Z",
+      "summary": "前三季度全国城镇新增就业1052万人，广东人形机器人产量目标2028年破8万台，江苏推出三张“AI券”。",
       "summaryZh": ""
     },
     {
@@ -89,7 +90,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-11T03:27:08.000Z",
-      "summary": "DeepSeek Bot民间版推出，基于DSH插件，支持模型接入和持久化记忆。",
+      "summary": "DeepSeek Bot民间版推出，基于DSH插件，支持模型接入与持久化记忆。",
       "summaryZh": ""
     },
     {
@@ -99,7 +100,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-11T13:13:13.000Z",
-      "summary": "AI巨头放缓模型训练，安全与伦理争议加剧。",
+      "summary": "AI巨头放缓模型训练，安全伦理争议加剧。",
       "summaryZh": ""
     },
     {
@@ -109,7 +110,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-11T00:53:38.000Z",
-      "summary": "马斯克预测SpaceX估值超1000万亿遭质疑，腾讯字节加速AI研发。",
+      "summary": "马斯克预测SpaceX估值超1000万亿遭质疑，腾讯字节加速AI智能体研发。",
       "summaryZh": ""
     },
     {
@@ -119,17 +120,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-11T03:50:03.000Z",
-      "summary": "AI智能体推动Robotaxi产业闭环，网约车流量见顶。",
-      "summaryZh": ""
-    },
-    {
-      "title": "星际大模型｜山东人工智能垂域大模型之星火燎原",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FZ3AxeHpqdEgtTnVfc0k2NGxvdmVSZ0dDNklNalJKVEd4cVBzWVhTcTJ4a2VGYXpCRlp3eTdodVZtUFlodFRFM1BrbVVob0tw?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-11T10:24:35.000Z",
-      "summary": "山东极视角科技推出星际视觉语言大模型，突破传统CV局限，助力产业数智化升级。",
+      "summary": "AI智能体助力Robotaxi产业闭环，网约车流量见顶。",
       "summaryZh": ""
     },
     {
@@ -149,7 +140,8 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-10-11T02:22:09.000Z",
-      "summary": ""
+      "summary": "",
+      "titleZh": "非营利组织表示，OpenAI 面向青少年的 ChatGPT 存在“不可接受的风险”"
     },
     {
       "title": "马斯克：复杂的机器人演示几乎都是预先编排好的，那不是真正的AI",
@@ -158,7 +150,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-11T12:55:00.000Z",
-      "summary": "马斯克称复杂机器人演示非真正AI，需能应对未知情况。",
+      "summary": "马斯克称复杂机器人演示多为预先编排，非真正AI。",
       "summaryZh": ""
     },
     {
@@ -172,23 +164,13 @@
       "summaryZh": ""
     },
     {
-      "title": "中国AI竞争从争夺算力转向经营算力：数据中心扩张、模型降价与阿里资本开支",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBydnM1WnJxMHV6ekg5bXRXS2pNSnJBeW9EWnB1Q1U4WEFyUDNHRzN1YlRJdjhwOVFzZTdicFpBTE1xd0Z3aktnQ1lnemo2NV8xUmFNOQ?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-11T02:42:15.000Z",
-      "summary": "中国AI行业从争夺算力转向经营算力，数据中心扩张、模型降价与资本开支成为新课题。",
-      "summaryZh": ""
-    },
-    {
       "title": "36氪（KRKR）发布年度产业投资机构名册 印证AI与具身智能赛道合流",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HcWFBbGhHOFItVHJxeXVWRmMwLWtwUjFHZXhsTlIxcEphbTF0cmFzQ0VDb1pQelF0bi1NUWMxdzNJWHlhRngzZ0NYbTYtYkFfbXRUV2lnT0U?oc=5",
       "source": "经济观察网",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-11T14:26:00.000Z",
-      "summary": "发布名册显示AI与具身智能赛道投资机构重合度超六成。",
+      "summary": "发布名册显示AI与具身智能投资机构重合度超六成。",
       "summaryZh": ""
     },
     {
