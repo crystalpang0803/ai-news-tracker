@@ -1,15 +1,15 @@
 {
   "date": "2026-10-11",
-  "generatedAt": "2026-10-11T05:53:34.055Z",
+  "generatedAt": "2026-10-11T10:17:48.931Z",
   "items": [
     {
-      "title": "请来Claude老祖，谷歌能借Agent翻身吗？",
-      "link": "https://www.tmtpost.com/8164268.html",
-      "source": "钛媒体",
+      "title": "DeepSeek测评：多款主流大模型科研文本撰写能力对比 | 36氪AI测评 - m-ai.36kr.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zZW5tR0tEQlJNWUR1dHBvR24zMDE4QUN0RWFmbXcwU1R0U3lDMUF0djdVc2h3djNsSWdjVG45M3NRSkVtdjFxWDktVVVnWk9LZHI1VWNqUnl4S1AtcmJ3?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-11T04:50:00.000Z",
-      "summary": "谷歌发布Gemini Agent，试图借助Claude模型提升AI助手能力。",
+      "pubDate": "2026-10-11T02:02:36.000Z",
+      "summary": "多款主流大模型科研文本撰写能力对比，各有优劣。",
       "summaryZh": ""
     },
     {
@@ -23,13 +23,72 @@
       "summaryZh": ""
     },
     {
+      "title": "马斯克称给信用卡拍照就能用 Grok Bot 购物，OpenAI 蒂博调侃“不如直接把卡发网上”",
+      "link": "https://www.ithome.com/1/011/616.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-11T07:39:04.000Z",
+      "summary": "马斯克称Grok Bot可拍照信用卡购物，OpenAI负责人调侃安全风险。",
+      "summaryZh": ""
+    },
+    {
+      "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfLUZ5ZFlnZjU3el9pbGwySGxfTlg0VnNMdHdTRjZkck9vV2RjazZWTmVDcFdhX1Q0R2w4UWFNbzlmaFBMNUcwY3JHUQ?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-11T08:26:30.000Z",
+      "summary": "阶跃终端10月13日发布首款大模型原生智能体手机STEPX Neo。",
+      "summaryZh": ""
+    },
+    {
+      "title": "北京发布“一横八纵”普惠型智慧养老院方案",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UNXdRYm9LUFhsM2c3bmpyWDl3NlFoeUtjVGRvXzNaMU9DUUY0NlZvSFhsNUVCd1N0elUzTTZjLVhiUkZnaVdNa0hlTjBsWlEwTG9HT19XZHEzRnhhX1dFYzFpM0FnNWhQTTl5T1R3?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-11T00:09:51.000Z",
+      "summary": "北京推出“一横八纵”智慧养老院方案，覆盖197个社区，预计2030年服务600万老人。",
+      "summaryZh": ""
+    },
+    {
+      "title": "从陪伴到助行 养老机器人守护“银发生活”",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CeWtNeDM3Mk5tT011M1V1UTlyX2ZCd0lYZ3JMWk1QclA1OXlyMms5dEtwUHZwUVZ3ZzJhTUdOZ2p3WUFOY0lZWGx3VGNHTWJlTzZYSjNFVW9OQ1JTdDhRMUFudU1MTzdBS1E?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-11T03:30:00.000Z",
+      "summary": "养老机器人助力“银发生活”，提供陪伴与助行服务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fWTJ5Y212RnZZS0hBUjgyQzMzWmU4dW5HWE8zYXVtdGNFbUhvOFAwanZGNmlFcVREYUtlZVhrMDZ6YUd6V0x5TVlSY0g2Zw?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-10T11:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "何恺明团队发布多模态Harness框架",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85TVBHVm9XckpiNjdQYUFic1VqazFfUXZSeVFXU2hjWF9icmJfX3hYWmttc1BuTkhReXdnTDlRN2pKMUNuX3dPdmdfcFcwY0NheHVCSw?oc=5",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-11T08:59:06.000Z",
+      "summary": "何恺明团队发布多模态Harness框架VISTA，实现模型在交互中积累、保存并利用视觉经验。",
+      "summaryZh": ""
+    },
+    {
       "title": "编程体验接近Opus 5.5？谷歌Gemini 4新版本曝光",
       "link": "https://zhidx.com/p/599720.html",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-10T11:09:21.000Z",
-      "summary": "谷歌内部测试Gemini 4新版本Carbon，编程体验接近Opus 5.5。",
+      "summary": "谷歌Gemini 4新版本Carbon曝光，编程体验接近Opus 5.5。",
       "summaryZh": ""
     },
     {
@@ -39,20 +98,97 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-10-10T13:00:00.000Z",
-      "summary": "AI代理制造商承诺保护隐私，能否兑现存疑。",
-      "summaryZh": "",
-      "titleZh": "人工智能代理制造商承诺保护隐私——他们会兑现吗？"
+      "summary": "AI代理制造商承诺保护隐私，能否兑现引关注。",
+      "summaryZh": ""
     },
     {
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News Tech",
-      "lang": "en",
+      "title": "挖走Claude Science之父！全球最大AI医疗独角兽，要做自己的大模型",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tU3BVeGhINnNnNlNPVTNINS1WQ2RMcHdVUHNScmM3OEhuckZHTUxESGhvZmdxNHFoUTh3T0JETmZnRkZ1NEZNWEJxOEJFdGlqQkVseEhUNU5QeWMzMmFrVnp0S2lIV0FnSWZvcU4xN2tDWG1fZnZ4OQ?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-10T10:06:23.000Z",
-      "summary": "Anthropic AI代理向警方发送虚假谋杀案线索。",
-      "summaryZh": "",
-      "titleZh": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索"
+      "pubDate": "2026-10-11T10:00:00.000Z",
+      "summary": "OpenEvidence挖走Claude Science之父，打造医学AI模型家族，估值达150亿美元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "TypeSafe AI的“不会聊天”产品上线约两周后OpenAI跟进，公司完成8.7亿美元A轮融资",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aU1JaZm9BcHBPbmpSUFZTeFJPWldMbzZCdG5ZaGxiQ2JRS01EQWhvbEZUNjJ0a2ltR0ZUTGJPYjlpSmIyMktXVjRtNXFRTEhsVDR1ZFprcXAxT19rYmhYenVGTDFDUQ?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-11T00:17:51.000Z",
+      "summary": "TypeSafe AI“不会聊天”产品上线后，OpenAI跟进，公司获8.7亿美元A轮融资。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人进24小时便利店，正行创新推出零售物理AI解决方案",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90UW9tb1NiRElRMmRLQkRtRkxka1JHdFZUTzdsaTZiRTVHUkRvMjBpbzJqT2tuQ1h3Njk1M2lYX1N2V3JwS05JYUlhRk80WTZBNXhycTV3YjdSemYtRjk2UU5RZFc?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-10T14:14:00.000Z",
+      "summary": "正行创新推出面向零售的物理AI解决方案，机器人助力24小时便利店运营。",
+      "summaryZh": ""
+    },
+    {
+      "title": "New York extends AI companion program in partnership with Intuition Robotics",
+      "link": "https://roboticsandautomationnews.com/2026/10/10/new-york-extends-ai-companion-program-in-partnership-with-intuition-robotics/105806/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-10T11:50:18.000Z",
+      "summary": "纽约州与Intuition Robotics续签AI陪伴计划，助力老年人减少孤独感。",
+      "summaryZh": ""
+    },
+    {
+      "title": "苹果把摄像头做成\"不录像的传感器\"：隐私牌能撬开智能家居吗？",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwTnY2NV9vU0dIMTZZcEdkTUhmRHBxcThxa1FGVklVY2hlcFRnZi15XzFEMXFhTmdrQkFjYXEyUmR1ZmhtYkZZVDJ1X2YzMXY3aVRz?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-10T10:57:05.000Z",
+      "summary": ""
+    },
+    {
+      "title": "工业级安全围栏：固态激光雷达如何重塑人机协作新范式",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfbEF5QjAwZ0dWcmZ4bGJJaGtVSWdVZjYtNTF6cXRVS2Z0ZmdodTF2ZllTZFZtY3hoNURjc3JheWJNMHNpVDlrUkpsVFNWRHNwNUZkRDYyQQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-11T05:49:23.000Z",
+      "summary": "固态激光雷达技术革新工业级安全围栏，实现人机协作安全与效率平衡。",
+      "summaryZh": ""
+    },
+    {
+      "title": "液冷系统清洗时，颗粒度传感器怎么监测残留？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hSnFrNUhjSU1hZnFwWWJERjZiQ29rSER3ZUxiTUg2a0k3LTl0OE1PSUd2UzA2MnNxbXVBelQ1bDBvNDVCQTZZX1RQTTR0aVJKdmlhTnNwTQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-11T06:38:03.000Z",
+      "summary": "颗粒度传感器通过液体光阻法监测液冷系统清洗残留，评估过滤器效率和污染等级。",
+      "summaryZh": ""
+    },
+    {
+      "title": "安徽省具身智能创新中心揭牌",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1naFk2aE1aT1BCX2lRQWlfUFA2S0FPSk5XazZ3S0xYd1hrb3ROYVpJSm1pMk5mWGNYTU44MEZSeHQ2UlJ6dmw3WWkxOTBubGVmUWI2VzU3eGVwZ1RMSU9hSHlVaXZyVkFoSFhpampR?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-10T16:17:19.000Z",
+      "summary": "安徽省揭牌成立具身智能创新中心。",
+      "summaryZh": ""
+    },
+    {
+      "title": "隆基精控智能制造基地启用 加速光储融合与全球交付布局",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxelozenRWMGJTNnpvc2YwR0RVTXd2VXdzOFRDNFoyYlJHMVd6dE1EdmhNQlREaEhHcXZuTkEweVEyLTYyTnJSM25hRzN2U1JSWF9HTE1KRDhNTGRTelQ4aF9EbklMNTF0NERTVzZTRlg?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-10T11:20:51.000Z",
+      "summary": "隆基精控智能制造基地启用，加速光储融合与全球交付布局。",
+      "summaryZh": ""
     }
   ]
 }
