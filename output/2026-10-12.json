@@ -1,17 +1,7 @@
 {
   "date": "2026-10-12",
-  "generatedAt": "2026-10-11T21:50:24.717Z",
+  "generatedAt": "2026-10-11T23:08:56.914Z",
   "items": [
-    {
-      "title": "DJI ROMO 2评测：清洁难题一网打尽2026年的扫地机器人应该是什么样？透明的外壳？毫米级避障？雷达自适应机械臂？你很难想象，大疆真的把这玩意造出来了，将无人机的技术和经验，下放到家用清洁设备上，这就是我们今天的主角——第二代AI超幅扫拖机器人",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ONjI2bFVtTGlIUl8yRFh4WXVCdG1INWNMLWtIV2FmY1F0My1qdlJrY2R1VG9tcFZaTERuQ1VsOVR5eWlZdHZzNFA4R2RId2RjV1R4dW5R?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-10T22:22:53.000Z",
-      "summary": "大疆推出第二代AI超幅扫拖机器人ROMO 2，集无人机技术与清洁功能于一身。",
-      "summaryZh": ""
-    },
     {
       "title": "豆包测评：主流大模型代码能力深度测评：从代码生成到工程化落地的模型差异",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43NG1BUUVvbDUzRTRYdFVfam1MUlNKalktM2lOYURONXEwSEdNbzlGS1JmZmxocGctbGpiRVptcS1PR0dsLVdhQXlrZWNnUE44S2lYZjZNTnRBX3NIcVBJ?oc=5",
@@ -19,7 +9,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-11T10:49:17.000Z",
-      "summary": "主流大模型代码能力测评：豆包等表现良好，ChatGPT和Claude在Python代码表现更优。",
+      "summary": "主流大模型代码能力测评：国外模型在Python表现更优，Codex实现问答式生成代码到直接完成任务跨越。",
+      "summaryZh": ""
+    },
+    {
+      "title": "硅谷AI现状：谁有算力谁是爹",
+      "link": "https://www.qbitai.com/2026/10/502585.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-11T05:22:38.000Z",
+      "summary": "硅谷AI行业陷入算力争夺战，算力成为企业竞争关键。",
       "summaryZh": ""
     },
     {
@@ -43,25 +43,34 @@
       "summaryZh": ""
     },
     {
+      "title": "腾讯文档AI测评：腾讯文档AI大模型使用评价与测评 | 36氪AI测评 - m-ai.36kr.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16NGN4enJ3Zy1KZWdUWUItSERzbGw0MVBBbVJfZS1OdEpYUFpyUDQ5R3ZZRm1GVmstS2NwTjVuOVUxWHh6NVNVWDFaYm45OFU5cmZqWWNEZG5zTXY2V1Jn?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-11T02:02:36.000Z",
+      "summary": "腾讯文档AI大模型测评：快速生成文档，总结准确但专业性有限。",
+      "summaryZh": ""
+    },
+    {
+      "title": "拓宽大模型商业化落地路径",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rN0FWVnprZkhxbklLZ2s5YTE2Z1NvZzlRd1J2NUh2MVB1bjVpN3ZjeTlvNHVvbFFDOVNrV0FtbDN4V2VoeUNUZHF6MGh5aU1NdmhOLUZWeWtEMXRVRkpLTC1ybVBSeTk2ZUlXVWNUamhWUlVaUWxPcA?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-11T21:44:00.000Z",
+      "summary": "我国大模型商业化加速，面临挑战与机遇。",
+      "summaryZh": ""
+    },
+    {
       "title": "雷神科技董事长路凯林：云边端闭环落地 从电竞硬件厂迈向全栈算力服务商",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OaUFqdWhONGlwSUc4cHJlTXd2UTgwS2w2QVg0anZJc2NPYkhPaURhNG1NVWRuRHZVQ1hiVU9mYU5zcHQ4ZjVSM3Zmd3RncG1fY3RudVdKZXhKekpMeXNSa0Z3?oc=5",
       "source": "同花顺财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-11T21:27:50.000Z",
-      "summary": "雷神科技从电竞硬件厂转型为全栈算力服务商，完成云边端闭环落地。",
+      "summary": "雷神科技从电竞硬件厂转型为全栈算力服务商，今年信创业务营收有望翻倍。",
       "summaryZh": ""
-    },
-    {
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-11T14:00:00.000Z",
-      "summary": "多位高管认为语音AI尚未达到ChatGPT时刻。",
-      "summaryZh": "",
-      "titleZh": "这些高管认为语音 AI 尚未达到 ChatGPT 时刻"
     },
     {
       "title": "本末科技，还没吃上具身智能这碗饭",
@@ -70,17 +79,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-11T13:08:08.000Z",
-      "summary": "本末科技具身智能业务占比低，主要依赖扫地机器人，仍处于亏损状态。",
-      "summaryZh": ""
-    },
-    {
-      "title": "城市早8｜前三季度全国城镇新增就业1052 万人；广东人形机器人力争2028年产量破8万台；江苏推出三张“AI 券”",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjTkpWUWtsbDdodUVEZlZGNEZ3V2VvSXVCWm9SMUdVLTg2eHRiQ25OdVJHZ0hmeWJQV3NMNUtNNE9tVEY2TGJhdXFCNmo2Q3lUQkVHVFdYcU52Nks3ZkFpMVJiVWpTQQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-11T01:52:00.000Z",
-      "summary": "前三季度全国城镇新增就业1052万人，广东人形机器人产量目标2028年破8万台，江苏推出三张“AI券”。",
+      "summary": "本末科技具身智能业务收入占比低，主要依赖扫地机器人，仍处于亏损状态。",
       "summaryZh": ""
     },
     {
@@ -90,7 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-11T03:27:08.000Z",
-      "summary": "DeepSeek Bot民间版推出，基于DSH插件，支持模型接入与持久化记忆。",
+      "summary": "DeepSeek Bot民间版推出，基于DSH插件，支持模型接入和团队协作。",
       "summaryZh": ""
     },
     {
@@ -110,17 +109,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-11T00:53:38.000Z",
-      "summary": "马斯克预测SpaceX估值超1000万亿遭质疑，腾讯字节加速AI智能体研发。",
+      "summary": "马斯克预测SpaceX估值超1000万亿遭质疑，腾讯字节加速AI研发。",
       "summaryZh": ""
     },
     {
-      "title": "AI Agent 重构出行：网约车流量见顶，AI智能体打通Robotaxi产业闭环",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5T21hRF9wb21nMWd4YnNFV1g5NzVNQjdRRy1JVXVPSGRETlBDQjFReExYcFVuVGFSTzBOblJtclpvNEJvYUdzN3JfWmM4OVhKc29SLVVmTQ?oc=5",
-      "source": "与非网",
+      "title": "星际大模型｜山东人工智能垂域大模型之星火燎原",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FZ3AxeHpqdEgtTnVfc0k2NGxvdmVSZ0dDNklNalJKVEd4cVBzWVhTcTJ4a2VGYXpCRlp3eTdodVZtUFlodFRFM1BrbVVob0tw?oc=5",
+      "source": "凤凰财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-11T03:50:03.000Z",
-      "summary": "AI智能体助力Robotaxi产业闭环，网约车流量见顶。",
+      "pubDate": "2026-10-11T10:24:35.000Z",
+      "summary": "山东极视角科技推出星际视觉语言大模型，助力工业场景智能化升级。",
       "summaryZh": ""
     },
     {
@@ -134,23 +133,13 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI’s ChatGPT for Teens Poses ‘Unacceptable Risk,’ Nonprofit Says",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZW9OTGdpUjUzbldpeFl1aVpQUW8wbFFRYVZ0QU5GOXpmbEpLeDZTQTVQOTYySTd6RHZqekZvTXZod2VIRU5leU52S3Y0Yk9qdlRxSnZzY2ZYQnZoemZNSlNVS1pSUHk3NThPVHBEeVdLZWQ3YkVNVk5WR1lwQ2t3X043ZzEyY2sweUcwejVHTW5UR08xNTBMR0J3TzBsQkxEM1JB?oc=5",
-      "source": "WSJ Tech",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-11T02:22:09.000Z",
-      "summary": "",
-      "titleZh": "非营利组织表示，OpenAI 面向青少年的 ChatGPT 存在“不可接受的风险”"
-    },
-    {
       "title": "马斯克：复杂的机器人演示几乎都是预先编排好的，那不是真正的AI",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6YXBtSUs1V2VKeUtkUENyTEt1bzJHTEZELVFMdk9uVTQ0dHEya1BlejBIZElWQk1Zc3dDanplSHVVTHRqLWtHZnMzU1NOSHNOS19FSDFKZi05Tjd6eTMzVg?oc=5",
       "source": "澎湃新闻科技",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-11T12:55:00.000Z",
-      "summary": "马斯克称复杂机器人演示多为预先编排，非真正AI。",
+      "summary": "马斯克称复杂机器人演示多预编排，非真正AI。",
       "summaryZh": ""
     },
     {
@@ -160,7 +149,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-11T06:32:55.000Z",
-      "summary": "自助咖啡机器人实现安全验证与AI语音交互。",
+      "summary": "自助咖啡机器人采用雷达和语音芯片实现人存检测与AI语音交互。",
       "summaryZh": ""
     },
     {
@@ -170,17 +159,28 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-11T14:26:00.000Z",
-      "summary": "发布名册显示AI与具身智能投资机构重合度超六成。",
+      "summary": "发布名册显示AI与具身智能赛道投资机构重合度超六成。",
       "summaryZh": ""
     },
     {
-      "title": "发动机曲轴位置传感器工作原理",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85UkdNaGtra2hURzF3VjVrV0xndlYtRUtLMjdMcE9sZ0RoZU0xZW5LRHRCWVFJa0xkbml5MEpoekNJUGpsYnRjdklsaHNwR0FIWjgycEpR?oc=5",
-      "source": "腾讯新闻",
+      "title": "沙特主导联军在东部地区拦截一架无人机",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GdnJvMWFQUFVrNHZLczJXZ19sVVQ5RURBZS1vVklVeHNKYm9tVk55Ny1pXy0wdGFnaU9feHlmcng3RTV1M2xiMnh5Rkl1QU10dHlvTGhYWmMwWVVsUVYzQ25CN2RVdw?oc=5",
+      "source": "每日经济新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-11T04:38:00.000Z",
-      "summary": ""
+      "pubDate": "2026-10-11T21:06:00.000Z",
+      "summary": "沙特联军在东部地区拦截并摧毁一架无人机。",
+      "summaryZh": ""
+    },
+    {
+      "title": "图达通(02665.HK)：第三季度激光雷达出货量达到26.89万台 同比增长217%",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWXdOVnM4RHFHSWVON1pqajVUNTJwbXpCYTNkTm1ZS3Znak1UNUxSa3NMbjBybDd1aVdPTXpiakJjZDIyazBHQXV0ZWZvS0UxT0s4Q3Jjb3N5VXpkVHlyak82OVByZw?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-11T22:43:01.000Z",
+      "summary": "图达通第三季度激光雷达出货量同比增长217%。",
+      "summaryZh": ""
     }
   ]
 }
