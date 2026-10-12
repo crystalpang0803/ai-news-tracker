@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T00:38:01.851Z",
+  "generatedAt": "2026-10-12T01:48:31.678Z",
   "items": [
     {
       "title": "豆包测评：主流大模型代码能力深度测评：从代码生成到工程化落地的模型差异",
@@ -9,17 +9,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-11T10:49:17.000Z",
-      "summary": "主流大模型代码能力测评：豆包等表现良好，Codex和ChatGPT更胜一筹。",
+      "summary": "主流大模型代码能力测评：国外模型在Python表现更优，Codex实现问答式生成代码到直接完成任务跨越。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI 宣布 GPT-6.1 Sol 默认上下文长度从 272k 提升至 500k，增加约 80%",
-      "link": "https://www.ithome.com/1/011/736.htm",
+      "title": "越障高度 40mm：小米米家扫拖机器人 6 水箱版 1779 元、上下水版 2089 元",
+      "link": "https://www.ithome.com/1/011/746.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-12T00:23:08.000Z",
-      "summary": "OpenAI将GPT-6.1 Sol默认上下文长度提升至500k，增加约80%。",
+      "category": "robotics",
+      "pubDate": "2026-10-12T00:57:20.000Z",
+      "summary": "小米米家扫拖机器人6水箱版1779元，上下水版2089元。",
       "summaryZh": ""
     },
     {
@@ -43,32 +43,32 @@
       "summaryZh": ""
     },
     {
-      "title": "英伟达被曝洽谈收购或加码投资Reflection AI；优必选联手建发股份共推万台人形机器人销售",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qRmN1RGRkS0l4c2NwV1V6VXJNWWoybjlRM1VvdElmd1Nqc2xuS3ZTc2VIaFVzU0hDZGFpcm5EWi1HUG1La1pWVV9yZmtKbTB3MjZtSzcwNlluQ0hIaFVSTFgtR2RXUQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-11T23:00:00.000Z",
-      "summary": "英伟达洽谈收购Reflection AI，优必选与建发股份合作推万台人形机器人。",
-      "summaryZh": ""
-    },
-    {
-      "title": "ChatGPT共同创造者Liam Fedus：数学之后，AI该去实验室了",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00QjZBeUZFRVpuRnRQNEg1eHctc3ZpclR3ejlZUmllWGNJSzhGQkZDbG1FVVpJQk1nZ0kyczJxajE3QTNWcUdyOHN1VXlyUQ?oc=5",
+      "title": "一家儿童机器人公司推出物理AI模型平台，即将完成超3000万美元的融资",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zVWhJN0NKMVlOdGhDakdkSFNMOUQ4aUo1OWpFUzFVdXpYOWZMSEVJZmV4WmFudnp5dkFsOVkyRDMwWDVUTGtaNEdZYVB4QQ?oc=5",
       "source": "36氪",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-11T23:46:11.000Z",
+      "category": "robotics",
+      "pubDate": "2026-10-12T01:42:41.000Z",
       "summary": ""
     },
     {
+      "title": "鹿明机器人与面壁智能达成战略合作",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zMUgtSzZ0MzNCYVdfcUg1c3RJSmlVNnFBUjB0TjRrTmhjTnhlSUZqUEkyUHZ0WWpqMExhNUtYaWhzV2hNZVpJTXZKaVZNblFrcjZiTlZtcDk?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-11T03:18:25.000Z",
+      "summary": "鹿明机器人与面壁智能签署战略合作，聚焦具身智能领域。",
+      "summaryZh": ""
+    },
+    {
       "title": "拓宽大模型商业化落地路径",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLaEVNLXR3OGhPOGtUcTVHWFJ3OC1ZdzhrOEdMY01lQlBXY0JoNmRvR3hHejRNT1dEU3dKNXFYS21ra2RycC1qZDFPMDBXM1Y3a09vc0M3ekw4MWNMMWVfcWFLbVI2NERkVVNN?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tZU04TmZPWk50YVE1ZE5ZYzEteFJTNTRfN3ZXem95cDJjN2JtVmU1d0hnVWN4TkdBbmdKUVF6Y1dVekJzRjVCVWF5V1E0Yzk3Sl9FNXo4VUtNVXVMaGpYZnZuTUhSWTZPUlE?oc=5",
       "source": "中国经济网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-11T22:10:22.000Z",
-      "summary": "我国大模型商业化加速，面临挑战与机遇。",
+      "pubDate": "2026-10-11T23:23:00.000Z",
+      "summary": "我国大模型商业化加速，面临挑战与机遇并重。",
       "summaryZh": ""
     },
     {
@@ -83,23 +83,23 @@
       "titleZh": "这些高管认为语音 AI 尚未达到 ChatGPT 时刻"
     },
     {
-      "title": "AI驱动的旅游：APEC经济体最佳实践与战略手册",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96eG1lMHZIT2JTeDZEU1hBeGRRTE0ySDE0b2d1aXUxRndUcW1ZWk5kWkdJV1NuUlE1MC1uTHUwemxrelhKZFRRbUtpQW5RMVRCZGJpNmhlLXZzaWhwV1p6NzZmUDhCMHdoa2RDeHAyWU9FVHNkRnRyVDVKc0JuakE?oc=5",
-      "source": "新浪财经",
+      "title": "本末科技，还没吃上具身智能这碗饭",
+      "link": "https://www.tmtpost.com/8164407.html",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-11T22:07:00.000Z",
-      "summary": "APEC经济体发布AI驱动的旅游最佳实践与战略手册，预测2030年旅游AI市场规模将达130至140亿美元。",
+      "category": "robotics",
+      "pubDate": "2026-10-11T13:08:08.000Z",
+      "summary": "本末科技具身智能业务营收占比5%，主要依赖扫地机器人，仍处于亏损状态。",
       "summaryZh": ""
     },
     {
-      "title": "阿维塔 T09 概念版全球首秀：定位全新旗舰 SUV，配备四激光雷达",
-      "link": "https://www.ithome.com/1/011/701.htm",
-      "source": "IT之家",
+      "title": "城市早8｜前三季度全国城镇新增就业1052 万人；广东人形机器人力争2028年产量破8万台；江苏推出三张“AI 券”",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjTkpWUWtsbDdodUVEZlZGNEZ3V2VvSXVCWm9SMUdVLTg2eHRiQ25OdVJHZ0hmeWJQV3NMNUtNNE9tVEY2TGJhdXFCNmo2Q3lUQkVHVFdYcU52Nks3ZkFpMVJiVWpTQQ?oc=5",
+      "source": "每日经济新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-11T13:35:36.000Z",
-      "summary": "阿维塔T09概念版全球首秀，定位旗舰SUV，配备四激光雷达。",
+      "pubDate": "2026-10-11T01:52:00.000Z",
+      "summary": "全国城镇新增就业1052万人，广东人形机器人产量目标2028年破8万台，江苏推三张“AI券”。",
       "summaryZh": ""
     },
     {
@@ -109,7 +109,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-11T03:27:08.000Z",
-      "summary": "DeepSeek Bot民间版插件上线，支持自定义Bot和模型，具备持久记忆功能。",
+      "summary": "DeepSeek Bot民间版推出，基于DSH插件，支持自定义Bot和模型。",
       "summaryZh": ""
     },
     {
@@ -123,33 +123,63 @@
       "summaryZh": ""
     },
     {
-      "title": "马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手",
-      "link": "http://www.geekpark.net/news/372216",
-      "source": "极客公园",
+      "title": "AI Agent 重构出行：网约车流量见顶，AI智能体打通Robotaxi产业闭环",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5T21hRF9wb21nMWd4YnNFV1g5NzVNQjdRRy1JVXVPSGRETlBDQjFReExYcFVuVGFSTzBOblJtclpvNEJvYUdzN3JfWmM4OVhKc29SLVVmTQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-11T00:53:38.000Z",
-      "summary": "马斯克预测SpaceX估值超1000万亿遭质疑，腾讯字节加速AI研发。",
+      "pubDate": "2026-10-11T03:50:03.000Z",
+      "summary": "AI智能体推动网约车行业变革，实现Robotaxi产业闭环。",
       "summaryZh": ""
     },
     {
-      "title": "星际大模型｜山东人工智能垂域大模型之星火燎原",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FZ3AxeHpqdEgtTnVfc0k2NGxvdmVSZ0dDNklNalJKVEd4cVBzWVhTcTJ4a2VGYXpCRlp3eTdodVZtUFlodFRFM1BrbVVob0tw?oc=5",
-      "source": "凤凰财经",
+      "title": "云鼎科技如何打造“懂矿山”的大模型？｜山东人工智能垂域大模型系列报道",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BdjgwOFRzUFYxbjNPcThhUHVudExiVmllaFEwcmhEMW90ZGp6N3BMN2NlVGYwN2JnOW5oQ1pxSkY4eU9rc05FREY5ZTRQVkY5czRlZEZUcE8?oc=5",
+      "source": "经济观察网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-11T10:24:35.000Z",
-      "summary": "山东极视角科技推出星际视觉语言大模型，助力工业场景智能化升级。",
+      "pubDate": "2026-10-12T01:40:00.000Z",
+      "summary": "云鼎科技打造全球首个矿山行业大模型，推动矿山AI标准化开发。",
       "summaryZh": ""
     },
     {
-      "title": "马斯克：复杂的机器人演示几乎都是预先编排好的，那不是真正的AI",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6YXBtSUs1V2VKeUtkUENyTEt1bzJHTEZELVFMdk9uVTQ0dHEya1BlejBIZElWQk1Zc3dDanplSHVVTHRqLWtHZnMzU1NOSHNOS19FSDFKZi05Tjd6eTMzVg?oc=5",
-      "source": "澎湃新闻科技",
+      "title": "文化中国行·科技赋能典型案例丨三层服务体系、海量数据底座、七大AI智能体……大模型“晋问AI”带您了解三晋文化",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjTW4xeU92NnU0TjZuZ2dHbWhfNzBTcXRqaUZ0dk1vMG5LNHlnTUM5bkFiSjVfRENLZG5fVFAycUMzVmVlYzVnaHVuY1d1bHdPQURfMjN3clU4QkFwbnpsU1dCQ05ndEFMYVFSalJoSEQ?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-11T23:38:22.000Z",
+      "summary": "晋问AI大模型展示AI赋能三晋文化实践探索成果。",
+      "summaryZh": ""
+    },
+    {
+      "title": "智能体发展重塑算力需求格局",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15azhiWHVJYU9kNlNjVWp5OU1iMW91RkFLTnZJTGd4OHJMNWtUVEZhaGM3SGJ1bE9WcUl6b010d0tYMnZFWnZ2UHBWdFlaV3lIVGJDR3h6ZlBLUzR1TlNVWjhxdjlBMGQzSldfUTVYQ0xyNV9PLWNj?oc=5",
+      "source": "中国经济网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-11T23:10:00.000Z",
+      "summary": "全球智能体数量激增，推动算力需求持续攀升，产业格局发生变革。",
+      "summaryZh": ""
+    },
+    {
+      "title": "我国首列具身智能数字地铁列车亮相",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2pqREdkMmhYSFhlWEZMQlFxU2FmOW5FQl9QTXpRcURwMkhGbW9YY2kwUG5LSXFqVXlsYno1VW4xbC1fdm0tc3BuXzIzSlV5eUI4UFVXRW5GaWtIRWxpbDlxaHdMVWpiSHdrTXdZN3hreEFIODhodlFGQ05IT1d4enctMWY?oc=5",
+      "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-11T12:55:00.000Z",
-      "summary": "马斯克称复杂机器人演示多预编排，非真正AI。",
+      "pubDate": "2026-10-12T01:03:12.000Z",
+      "summary": "我国首列具身智能数字地铁列车VELLINK亮相，应用多项先进技术提升智能化和绿色化水平。",
+      "summaryZh": ""
+    },
+    {
+      "title": "[天下财经]亚马逊前高管普拉萨德出任波士顿动力CEO",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAycXBvZ2VYU2taNUo1RWEyVjQ0Wm43bFFjWGhwczl4azlRYXhwN2FCSjluX3lockhtUkJhZThKa1hUQVdZTURSeWZVNDNtZVRGQWFXRXZ6ZFIxdUJ3aFVQVDg3OXgwVG83Y0RORHJHN201OUp2eEE?oc=5",
+      "source": "央视网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-11T05:43:00.000Z",
+      "summary": "亚马逊前高管普拉萨德担任波士顿动力CEO。",
       "summaryZh": ""
     },
     {
