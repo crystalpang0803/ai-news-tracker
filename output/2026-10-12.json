@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "generatedAt": "2026-10-11T23:08:56.914Z",
+  "generatedAt": "2026-10-12T00:38:01.851Z",
   "items": [
     {
       "title": "豆包测评：主流大模型代码能力深度测评：从代码生成到工程化落地的模型差异",
@@ -9,7 +9,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-11T10:49:17.000Z",
-      "summary": "主流大模型代码能力测评：国外模型在Python表现更优，Codex实现问答式生成代码到直接完成任务跨越。",
+      "summary": "主流大模型代码能力测评：豆包等表现良好，Codex和ChatGPT更胜一筹。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI 宣布 GPT-6.1 Sol 默认上下文长度从 272k 提升至 500k，增加约 80%",
+      "link": "https://www.ithome.com/1/011/736.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-12T00:23:08.000Z",
+      "summary": "OpenAI将GPT-6.1 Sol默认上下文长度提升至500k，增加约80%。",
       "summaryZh": ""
     },
     {
@@ -19,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-11T05:22:38.000Z",
-      "summary": "硅谷AI行业陷入算力争夺战，算力成为企业竞争关键。",
+      "summary": "硅谷AI行业正陷入算力争夺战，算力成为企业竞争的关键资源。",
       "summaryZh": ""
     },
     {
@@ -33,53 +43,63 @@
       "summaryZh": ""
     },
     {
-      "title": "鹿明机器人与面壁智能达成战略合作",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zMUgtSzZ0MzNCYVdfcUg1c3RJSmlVNnFBUjB0TjRrTmhjTnhlSUZqUEkyUHZ0WWpqMExhNUtYaWhzV2hNZVpJTXZKaVZNblFrcjZiTlZtcDk?oc=5",
-      "source": "界面新闻",
+      "title": "英伟达被曝洽谈收购或加码投资Reflection AI；优必选联手建发股份共推万台人形机器人销售",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qRmN1RGRkS0l4c2NwV1V6VXJNWWoybjlRM1VvdElmd1Nqc2xuS3ZTc2VIaFVzU0hDZGFpcm5EWi1HUG1La1pWVV9yZmtKbTB3MjZtSzcwNlluQ0hIaFVSTFgtR2RXUQ?oc=5",
+      "source": "每日经济新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-11T03:18:25.000Z",
-      "summary": "鹿明机器人与面壁智能签署战略合作，聚焦具身智能领域。",
+      "pubDate": "2026-10-11T23:00:00.000Z",
+      "summary": "英伟达洽谈收购Reflection AI，优必选与建发股份合作推万台人形机器人。",
       "summaryZh": ""
     },
     {
-      "title": "腾讯文档AI测评：腾讯文档AI大模型使用评价与测评 | 36氪AI测评 - m-ai.36kr.com",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16NGN4enJ3Zy1KZWdUWUItSERzbGw0MVBBbVJfZS1OdEpYUFpyUDQ5R3ZZRm1GVmstS2NwTjVuOVUxWHh6NVNVWDFaYm45OFU5cmZqWWNEZG5zTXY2V1Jn?oc=5",
+      "title": "ChatGPT共同创造者Liam Fedus：数学之后，AI该去实验室了",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00QjZBeUZFRVpuRnRQNEg1eHctc3ZpclR3ejlZUmllWGNJSzhGQkZDbG1FVVpJQk1nZ0kyczJxajE3QTNWcUdyOHN1VXlyUQ?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-11T02:02:36.000Z",
-      "summary": "腾讯文档AI大模型测评：快速生成文档，总结准确但专业性有限。",
-      "summaryZh": ""
+      "pubDate": "2026-10-11T23:46:11.000Z",
+      "summary": ""
     },
     {
       "title": "拓宽大模型商业化落地路径",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rN0FWVnprZkhxbklLZ2s5YTE2Z1NvZzlRd1J2NUh2MVB1bjVpN3ZjeTlvNHVvbFFDOVNrV0FtbDN4V2VoeUNUZHF6MGh5aU1NdmhOLUZWeWtEMXRVRkpLTC1ybVBSeTk2ZUlXVWNUamhWUlVaUWxPcA?oc=5",
-      "source": "新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLaEVNLXR3OGhPOGtUcTVHWFJ3OC1ZdzhrOEdMY01lQlBXY0JoNmRvR3hHejRNT1dEU3dKNXFYS21ra2RycC1qZDFPMDBXM1Y3a09vc0M3ekw4MWNMMWVfcWFLbVI2NERkVVNN?oc=5",
+      "source": "中国经济网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-11T21:44:00.000Z",
+      "pubDate": "2026-10-11T22:10:22.000Z",
       "summary": "我国大模型商业化加速，面临挑战与机遇。",
       "summaryZh": ""
     },
     {
-      "title": "雷神科技董事长路凯林：云边端闭环落地 从电竞硬件厂迈向全栈算力服务商",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OaUFqdWhONGlwSUc4cHJlTXd2UTgwS2w2QVg0anZJc2NPYkhPaURhNG1NVWRuRHZVQ1hiVU9mYU5zcHQ4ZjVSM3Zmd3RncG1fY3RudVdKZXhKekpMeXNSa0Z3?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "source": "TechCrunch",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-10-11T21:27:50.000Z",
-      "summary": "雷神科技从电竞硬件厂转型为全栈算力服务商，今年信创业务营收有望翻倍。",
+      "pubDate": "2026-10-11T14:00:00.000Z",
+      "summary": "多位高管认为语音AI尚未达到ChatGPT时刻。",
+      "summaryZh": "",
+      "titleZh": "这些高管认为语音 AI 尚未达到 ChatGPT 时刻"
+    },
+    {
+      "title": "AI驱动的旅游：APEC经济体最佳实践与战略手册",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96eG1lMHZIT2JTeDZEU1hBeGRRTE0ySDE0b2d1aXUxRndUcW1ZWk5kWkdJV1NuUlE1MC1uTHUwemxrelhKZFRRbUtpQW5RMVRCZGJpNmhlLXZzaWhwV1p6NzZmUDhCMHdoa2RDeHAyWU9FVHNkRnRyVDVKc0JuakE?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-11T22:07:00.000Z",
+      "summary": "APEC经济体发布AI驱动的旅游最佳实践与战略手册，预测2030年旅游AI市场规模将达130至140亿美元。",
       "summaryZh": ""
     },
     {
-      "title": "本末科技，还没吃上具身智能这碗饭",
-      "link": "https://www.tmtpost.com/8164407.html",
-      "source": "钛媒体",
+      "title": "阿维塔 T09 概念版全球首秀：定位全新旗舰 SUV，配备四激光雷达",
+      "link": "https://www.ithome.com/1/011/701.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-11T13:08:08.000Z",
-      "summary": "本末科技具身智能业务收入占比低，主要依赖扫地机器人，仍处于亏损状态。",
+      "pubDate": "2026-10-11T13:35:36.000Z",
+      "summary": "阿维塔T09概念版全球首秀，定位旗舰SUV，配备四激光雷达。",
       "summaryZh": ""
     },
     {
@@ -89,7 +109,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-11T03:27:08.000Z",
-      "summary": "DeepSeek Bot民间版推出，基于DSH插件，支持模型接入和团队协作。",
+      "summary": "DeepSeek Bot民间版插件上线，支持自定义Bot和模型，具备持久记忆功能。",
       "summaryZh": ""
     },
     {
@@ -123,16 +143,6 @@
       "summaryZh": ""
     },
     {
-      "title": "从“手工作坊”到流水线：解锁浪潮人工智能工厂量产密码｜山东人工智能垂域大模型系列报道",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQSHl5SUktU09aR29KSVBQZnI3b1dDbGY1R2F1R2pzYTh6U251NUdwNnRSTkVzLUNQdnBzYTRVb0RzQkRrS2labzRjMkN5ZE5u?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-11T00:39:20.000Z",
-      "summary": "浪潮人工智能工厂实现大模型规模化量产，提升生产效率75%。",
-      "summaryZh": ""
-    },
-    {
       "title": "马斯克：复杂的机器人演示几乎都是预先编排好的，那不是真正的AI",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6YXBtSUs1V2VKeUtkUENyTEt1bzJHTEZELVFMdk9uVTQ0dHEya1BlejBIZElWQk1Zc3dDanplSHVVTHRqLWtHZnMzU1NOSHNOS19FSDFKZi05Tjd6eTMzVg?oc=5",
       "source": "澎湃新闻科技",
@@ -143,43 +153,22 @@
       "summaryZh": ""
     },
     {
-      "title": "自助咖啡机器人存检测与AI语音交互整体解决方案",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15czR2VEtSOFhOeUNhUFdZbHlRR3B1azdWbWQwTW0teWtJTFhXZmNrQ0hrYzhRaFlIMXVjZ1BzS2EtVXkyRjhSc0FVWUE1M3lsWU9vWHVMNA?oc=5",
-      "source": "与非网",
+      "title": "发动机曲轴位置传感器工作原理",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85UkdNaGtra2hURzF3VjVrV0xndlYtRUtLMjdMcE9sZ0RoZU0xZW5LRHRCWVFJa0xkbml5MEpoekNJUGpsYnRjdklsaHNwR0FIWjgycEpR?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-11T06:32:55.000Z",
-      "summary": "自助咖啡机器人采用雷达和语音芯片实现人存检测与AI语音交互。",
-      "summaryZh": ""
+      "pubDate": "2026-10-11T04:38:00.000Z",
+      "summary": ""
     },
     {
-      "title": "36氪（KRKR）发布年度产业投资机构名册 印证AI与具身智能赛道合流",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HcWFBbGhHOFItVHJxeXVWRmMwLWtwUjFHZXhsTlIxcEphbTF0cmFzQ0VDb1pQelF0bi1NUWMxdzNJWHlhRngzZ0NYbTYtYkFfbXRUV2lnT0U?oc=5",
-      "source": "经济观察网",
+      "title": "“工业具身智能一哥”通过上市聆讯，微亿智造抵近港股",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yRTA5NWNNX3JWNGhBVGZUbGNVMTFGUjJCTGZMSldiSVpCaDVxM2RoZkdOajF1RjVuaUNVTnJYbXZTY2lESzdsZTlRWFFreVZS?oc=5",
+      "source": "凤凰财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-11T14:26:00.000Z",
-      "summary": "发布名册显示AI与具身智能赛道投资机构重合度超六成。",
-      "summaryZh": ""
-    },
-    {
-      "title": "沙特主导联军在东部地区拦截一架无人机",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GdnJvMWFQUFVrNHZLczJXZ19sVVQ5RURBZS1vVklVeHNKYm9tVk55Ny1pXy0wdGFnaU9feHlmcng3RTV1M2xiMnh5Rkl1QU10dHlvTGhYWmMwWVVsUVYzQ25CN2RVdw?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-11T21:06:00.000Z",
-      "summary": "沙特联军在东部地区拦截并摧毁一架无人机。",
-      "summaryZh": ""
-    },
-    {
-      "title": "图达通(02665.HK)：第三季度激光雷达出货量达到26.89万台 同比增长217%",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VWXdOVnM4RHFHSWVON1pqajVUNTJwbXpCYTNkTm1ZS3Znak1UNUxSa3NMbjBybDd1aVdPTXpiakJjZDIyazBHQXV0ZWZvS0UxT0s4Q3Jjb3N5VXpkVHlyak82OVByZw?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-11T22:43:01.000Z",
-      "summary": "图达通第三季度激光雷达出货量同比增长217%。",
+      "pubDate": "2026-10-11T14:18:50.000Z",
+      "summary": "冲刺港股主板上市，市场份额约20%。",
       "summaryZh": ""
     }
   ]
