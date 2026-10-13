@@ -1,7 +1,17 @@
 {
   "date": "2026-10-14",
-  "generatedAt": "2026-10-13T21:11:47.808Z",
+  "generatedAt": "2026-10-13T22:38:24.584Z",
   "items": [
+    {
+      "title": "阶跃终端首款大模型原生智能体手机 STEPX Neo 先行版发布：骁龙 8 系芯片，全栈价 3999 元起",
+      "link": "https://www.ithome.com/1/012/556.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-13T12:18:55.000Z",
+      "summary": "阶跃终端发布首款大模型原生智能体手机STEPX Neo先行版，搭载骁龙8系芯片，全栈价3999元起。",
+      "summaryZh": ""
+    },
     {
       "title": "自动驾驶公司 Applied Intuition 获得投资邀约，估值达 300 亿美元",
       "link": "https://www.ithome.com/1/012/584.htm",
@@ -13,23 +23,33 @@
       "summaryZh": ""
     },
     {
-      "title": "谷歌给Agent发工牌：企业AI的下一站不是AGI，是\"标准主权\"",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MbUV2MXcwMHE2MEtEakE4QmZSWHRLTC0tQ2ZQMWJfMjlNYzB0VC1VMmRYdU5PVURMS1Jpc1RjQ2VWS2dMVnlxQm84czE?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-13T08:42:00.000Z",
-      "summary": "谷歌发布企业级Gemini Agent，聚焦于标准主权而非AGI。",
-      "summaryZh": ""
-    },
-    {
       "title": "在AI时代“改变世界”，买电、买算力，还是造底座？",
       "link": "https://zhidx.com/p/600388.html",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-13T11:00:33.000Z",
-      "summary": "AI企业竞争转向能源基础设施布局。",
+      "summary": "AI企业正从购买算力转向布局能源基础设施。",
+      "summaryZh": ""
+    },
+    {
+      "title": "财联社10月14日电，谷歌开始向Google AI订阅用户推出Gemini 4 Argon",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TckZNSkJhMmhibWpzWmtjdWpXbFNLbGdwN0ZkeGFaYWhOUTYxN0s4Snk3dTNMbUptOEFkcGV6YVRubFJuY0lUbQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-13T16:03:33.000Z",
+      "summary": "谷歌推出面向AI订阅用户的Gemini 4 Argon，支持多平台应用。",
+      "summaryZh": ""
+    },
+    {
+      "title": "微软发布Maia 300 AI芯片：自研算力落地 逐步降低英伟达依赖",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnQVBsOVVxbWpJNTJsczlaZ2g0NW5yWEdDbTBjQXJxei1uMUpQUUxCNUZoZTN3TnUzUnJ4eFlDQU5VS24yZll1eDVzdVFzNldxSnRtSm8ybkxKNXFsS0tHanJPQXZzaS1VaFk2Rk00NTRyTWN6VDF6Z3NQd1llcTA?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-12T23:15:00.000Z",
+      "summary": "微软发布Maia 300 AI芯片，旨在降低对英伟达等供应商的依赖。",
       "summaryZh": ""
     },
     {
@@ -40,17 +60,6 @@
       "category": "ai",
       "pubDate": "2026-10-13T17:05:00.000Z",
       "summary": "OpenAI的AI代理平台使用公司数量是Anthropic的两倍。",
-      "summaryZh": "",
-      "titleZh": "VentureBeat 最新调查发现，使用 OpenAI 人工智能代理平台的公司数量是 Anthropic 的两倍"
-    },
-    {
-      "title": "王兴兴对AI更乐观了，机器人为何还没大规模进厂？",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wOTJSMUNBdjJobVdPUzFwQXlpZ2oyQ2U0QmZ6NDFZWWFtRG5XQUs0eFp4a1ZkNkZWM1l1ZFBoNXR1bHE0NmdWaWxzQjg1X0ZU?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-13T01:26:07.000Z",
-      "summary": "王兴兴认为AI技术进步可能比预期更快，但机器人进厂仍需解决泛化性和效率问题。",
       "summaryZh": ""
     },
     {
@@ -63,13 +72,22 @@
       "summary": ""
     },
     {
-      "title": "“求索”4.0上线，国内首个人工智能全产业链评测基准发布",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55TlpNTUljRmV4Qk1HLWlBUGV0bDNCRktEdGlOamRhbzRpbEctbldFeTAxYVg2cDRSbGFmRzFGbG5LbFJFY2x1aEY3TzhHZTZnREp2NV9ORXNKQQ?oc=5",
+      "title": "大模型能写诗，却走不出工厂围栏：燕心科技把 ' 符号 + 行为 + 连接 ' 三条路线融进 RISC-V 芯片，做即插即用的机器人大脑",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KY05MSGVHbWVQYWtiZjMzR05jaE5wTF9HYzZIdTFNRlh1TDB4ZXpJakV6T2pJd3c3OEZSS2JKNmNielRSVklGM0d1cw?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-13T06:09:29.000Z",
+      "summary": ""
+    },
+    {
+      "title": "聚焦人工智能与餐饮场景融合，第35届中国厨师节将呈现多元活动",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zZGVrRmZ2Z1lTVEc2SmJ0VklYWHdiYzFiZmVRNWEwb01TUUMyX3oyX1FCNGhLOVNWeFhSdzlCYmd4VlRRem9PNDF6dWo?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-13T14:53:00.000Z",
-      "summary": "国内首个人工智能全产业链评测基准“求索”4.0版正式发布。",
+      "pubDate": "2026-10-12T23:43:00.000Z",
+      "summary": "第35届中国厨师节聚焦AI与餐饮融合，举办多元活动。",
       "summaryZh": ""
     },
     {
@@ -93,23 +111,13 @@
       "summaryZh": ""
     },
     {
-      "title": "微软发布新一代自研AI芯片Maia 300：明年启动数吉瓦级部署，推理能效提升40%",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jd3lKQ3N4Sy0zSVJxcXBsU1ZrQ3RWd2FFU2tiLTlNNDRmWlhndzhVU0EtWlRZSHRWRzdMNF8xLUxyZVppUnRoOEtJOUdCUEdSdUdMY1o4bTd3c2JxNWxPSA?oc=5",
-      "source": "澎湃新闻科技",
+      "title": "中国大模型海外收入跟不上调用量增长，有望破解？",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BOXN1NTR1SXZlMlNGWHhkLXB1NkN1THVwQzQ2SkgxTzdHSjBOYnc1ZXZZWkNIYVM4R0lndE1XenVocTdLUmNWbExpRHlHS25nWjYw?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-13T10:26:00.000Z",
-      "summary": "微软发布新一代AI芯片Maia 300，明年启动数吉瓦级部署，推理能效提升40%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43UXVZdFhsWHhXcnlUNXZlT3lLR1c2UkVqclByT3ZEaE03cDFmWXlQdlJ0cDlXaHBOUkEtS0NzTkZRQmFhdmQ4M2kzMzl4LUhkRURpODdiWUtxblpUMWViSmdFMHF2cVdIek11bTczVXo?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-13T09:08:32.000Z",
-      "summary": "商汤大装置助力上海量子城市首批智能体落地，调度效率提升80%。",
+      "pubDate": "2026-10-13T13:43:13.000Z",
+      "summary": "中国大模型海外收入增速慢于调用量增长，有望通过自主可控和开源策略改变。",
       "summaryZh": ""
     },
     {
@@ -119,7 +127,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-13T04:07:04.000Z",
-      "summary": "上海举办具身智能技能大赛，千余支队伍解企业真实考卷。",
+      "summary": "上海举办具身智能技能大赛，千支队伍解企业真实考卷。",
       "summaryZh": ""
     },
     {
@@ -129,68 +137,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-13T02:01:56.000Z",
-      "summary": "优必选位列《财富》2026全球未来成长120强榜首，中国企业第一。",
+      "summary": "优必选入选《财富》全球未来成长120强，位列全球第11、中国企业第一。",
       "summaryZh": ""
     },
     {
-      "title": "华为睿影 Z10 模块相机采用海思自研 50Mp 1 英寸 RYYB 传感器",
-      "link": "https://www.ithome.com/1/012/549.htm",
-      "source": "IT之家",
+      "title": "Phoenix LiDAR Systems技术资源_电路方案_技术资料",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QZW9Wd3paNUYxRkUzQUVGVWZiYVFQazNRVDljWFBFNnktdmlEME5RQ2FRQXBleWRzLVdYMGJtelpKSTF2eXJ2M0tmRGJsODQ2WG01Rk5BMnNCZmdrNzlPM0JQUnluallHcy1OOTN3?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-13T11:41:58.000Z",
-      "summary": "华为睿影 Z10 模块相机搭载海思自研 50Mp RYYB 传感器。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
-      "link": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-13T18:30:03.000Z",
-      "summary": "Rivian子公司Mind Robotics聘请前福特电动车部门负责人Doug Field担任总裁。",
-      "summaryZh": "",
-      "titleZh": "Rivian 的初创公司 Mind Robotics 聘请了前福特电动汽车首席执行官 Doug Field"
-    },
-    {
-      "title": "智能制造下半场，物理AI离接管工厂还有多远？",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MNUcxOXlYYlZkdkxLa1AwR1dnVWRlblNJNkpnV19sMFo4aXVKY1lqbWlSb3pudkZ2X0NpV2xUZGtvamp6UVVnUVhvTGR1YVV2NDI0?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-13T18:20:19.000Z",
-      "summary": "物理AI在智能制造中的应用仍面临诸多挑战。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Promise Robotics partners with D.R. Horton on physical AI for homebuilding",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNjg4Ul9tSkhucGdKWUJKTWR6dF9qUFVQNGJOVnloTEF2NHQ3OGNibXc4aDR6cUxwLVpsZmpVbWdWUlhWOHBTV2JZcnI3UDVpTHRuSURibUdWaW5OZ0ljeVNybjg2WldjWXFsZkdBSUFlcS1Uc1EwbHZpT3NpQjRSdzRnV3A2b0RPWDUxUzB5OS1JWjk5ay1ucg?oc=5",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-13T13:12:03.000Z",
-      "summary": "",
-      "titleZh": "乔鼎机器人与 D.R. 合作霍顿谈住宅建筑的物理人工智能"
-    },
-    {
-      "title": "Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZWhWamlLa3ZHbzJHOFNQTXJyUDUtNDl4MnE1QTc0QjJXYjJrQzZnSHpUa1B4U0xDRF9lVXdnREYtSzNuQ3VxdFp4YjhycTh5MnZPY0hCRzNaYUN6d2FsQXpiSFJsYnlGN0tfR0Qyc2ZKelRPbFEyV0lpcmFfeXpycnJJelJtbXVfUzhWV2VQWnQ0anlmS1ZoajJvbXpuRThNM0VFdF9vRTVBWXVHYnZEODludWJacTRnX3c?oc=5",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-13T19:58:26.000Z",
-      "summary": "",
-      "titleZh": "Hello Robot、A&K Robotics 将在 RoboBusiness 讨论机器人如何在拥挤的室内空间中导航"
-    },
-    {
-      "title": "星尘智能拿下10亿融资，CEO来杰：机器人是非常容易挣钱的行业|深圳市|广东省|估值|客户",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96TEc1RXdUdGNxNnRPR2Q1aGg0SWZKNGp1YVpHT2o3aHA2UzdYY0dXaFhlc0dpcEFsNW9NWElob0hJSnZvc091RXNORE9vX3RmMDNJSU9VV3RrZkJ1dnpPWHR1M2JtTjNHby11ajk5cjF5VTA?oc=5",
-      "source": "新浪科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-13T11:04:00.000Z",
-      "summary": "星尘智能完成10亿融资，CEO来杰称机器人行业易盈利。",
+      "pubDate": "2026-10-12T23:30:50.000Z",
+      "summary": "Phoenix LiDAR Systems技术资源完成安全验证后可继续浏览。",
       "summaryZh": ""
     },
     {
@@ -200,7 +157,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-13T03:58:03.000Z",
-      "summary": "具身智能“滨江时刻”活动举办，推动标准与赛事双向发展。",
+      "summary": "具身智能“滨江时刻”活动发布，推动标准与赛事双向发展。",
       "summaryZh": ""
     },
     {
@@ -210,7 +167,58 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-13T07:50:00.000Z",
-      "summary": ""
+      "summary": "上地科技市集举办，3000余人体验AI机器人等科技产品。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Scan Computers partners with OLO Robotics to make advanced robots easier to implement",
+      "link": "https://roboticsandautomationnews.com/2026/10/13/scan-computers-partners-with-olo-robotics-to-make-advanced-robots-easier-to-implement/105877/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-13T16:18:02.000Z",
+      "summary": "Scan Computers与OLO Robotics合作简化高级机器人部署。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Walmart to expand Wing drone delivery to Denver, Seattle",
+      "link": "https://www.supplychaindive.com/news/walmart-to-expand-wing-drone-delivery-to-denver-seattle/832654/",
+      "source": "Supply Chain Dive",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-13T13:30:16.000Z",
+      "summary": "Walmart计划明年将Wing无人机配送服务扩展至丹佛和西雅图。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Beetle-inspired soft robot follows finger commands to walk, grip and relay sensory information",
+      "link": "https://techxplore.com/news/2026-10-beetle-soft-robot-finger-relay.html",
+      "source": "Tech Xplore",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-13T14:40:14.000Z",
+      "summary": "仿甲虫软体机器人可跟随手指指令行走、抓握并传递感官信息。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Symbotic acquires cellumation to expand warehouse automation portfolio",
+      "link": "https://roboticsandautomationnews.com/2026/10/13/symbotic-announces-acquisition-of-cellumation-advancing-next-generation-sortation-technology-for-the-global-supply-chain/105868/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-13T15:10:47.000Z",
+      "summary": "Symbotic收购德国自动化公司cellumation，拓展仓库自动化产品线。",
+      "summaryZh": ""
+    },
+    {
+      "title": "物理AI操作系统、全球首家工业具身6S店齐亮相！工业具身智能论坛举办",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14bEw1SEp0ZW03ZmxGNVM0LUwxajVHX1lCbXk1R3gwOXVwSDlGaXItcWt4ZXU5dnA1UFU0NlJpcElFWC15YlZIZWRrOHE1bFMtdGUwYVN3?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-13T10:45:00.000Z",
+      "summary": "物理AI操作系统和全球首家工业具身6S店亮相工业具身智能论坛。",
+      "summaryZh": ""
     }
   ]
 }
