@@ -1,15 +1,15 @@
 {
   "date": "2026-10-14",
-  "generatedAt": "2026-10-13T23:25:58.391Z",
+  "generatedAt": "2026-10-14T00:23:26.859Z",
   "items": [
     {
-      "title": "谷歌最强 AI 模型：Gemini 4 Argon 上线，输出词元上限 100 万个、专攻最棘手难题",
-      "link": "https://www.ithome.com/1/012/601.htm",
+      "title": "AI 长视频时代来临：OpenAI GPT-6 Astra 助力生成时长从 1 分钟提升到 10 分钟",
+      "link": "https://www.ithome.com/1/012/639.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-13T16:16:12.000Z",
-      "summary": "谷歌发布AI模型Gemini 4 Argon，输出词元上限100万，专攻复杂难题。",
+      "pubDate": "2026-10-13T23:44:48.000Z",
+      "summary": "OpenAI GPT-6 Astra助力Higgsfield AI视频生成时长提升至10分钟。",
       "summaryZh": ""
     },
     {
@@ -19,7 +19,26 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-13T14:35:07.000Z",
-      "summary": "自动驾驶公司Applied Intuition获多份投资邀约，估值300亿美元。",
+      "summary": "自动驾驶公司Applied Intuition获多份投资邀约，估值达300亿美元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "谷歌开始向Google AI订阅用户推出Gemini 4 Argon",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uTF9OcnEtaTRhbGIyQ0d1WUtRS3VNbnUwN2hfa3dnU05Pak9VZ3lhcG5qZWJVYW5IX2Zrck81QW5tazhuQjlBeUl2UENieXJDd1FuZjFXZEs?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-13T23:09:30.000Z",
+      "summary": ""
+    },
+    {
+      "title": "谷歌给Agent发工牌：企业AI的下一站不是AGI，是\"标准主权\"",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MbUV2MXcwMHE2MEtEakE4QmZSWHRLTC0tQ2ZQMWJfMjlNYzB0VC1VMmRYdU5PVURMS1Jpc1RjQ2VWS2dMVnlxQm84czE?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-13T08:42:00.000Z",
+      "summary": "谷歌发布企业级Gemini Agent，聚焦于标准主权而非AGI。",
       "summaryZh": ""
     },
     {
@@ -33,33 +52,13 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI's AI agent platform is used by twice as many companies as Anthropic's, new VentureBeat survey finds",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZlYwdVI2WWI5aFhaN3NoS2llUko2VmIyckttSE1pWW44S0ZDSGlybC1MTFdfUFYyS0VFRXg4SjliU2N6RTBWYVhNSk9MU2dCU3FPRlMtdElyT19fUTlNNjNFRkVYNGlBVENLX0VjREJYNjFSMDF6dHYtVHlkSVZzMC1MeWdIUDBXLUJuSkh5bW80VU9xVy1uQjBVc1J3cjZUMzY2WnNXVzRMTUlYVW5VUUVKSVByOFc0eENsNDJPbE1tUkw2dnZJX09Pdm5sR2dyYTdhQms1OEw?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-13T17:05:00.000Z",
-      "summary": "OpenAI的AI代理平台使用公司数量是Anthropic的两倍。",
-      "summaryZh": ""
-    },
-    {
       "title": "王兴兴对AI更乐观了，机器人为何还没大规模进厂？",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wOTJSMUNBdjJobVdPUzFwQXlpZ2oyQ2U0QmZ6NDFZWWFtRG5XQUs0eFp4a1ZkNkZWM1l1ZFBoNXR1bHE0NmdWaWxzQjg1X0ZU?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-13T01:26:07.000Z",
-      "summary": "王兴兴认为AI技术进步可能比预期更快，但机器人进厂仍需解决泛化性和效率问题。",
-      "summaryZh": ""
-    },
-    {
-      "title": "“求索”4.0上线，国内首个人工智能全产业链评测基准发布",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55TlpNTUljRmV4Qk1HLWlBUGV0bDNCRktEdGlOamRhbzRpbEctbldFeTAxYVg2cDRSbGFmRzFGbG5LbFJFY2x1aEY3TzhHZTZnREp2NV9ORXNKQQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-13T14:53:00.000Z",
-      "summary": "国内发布首个人工智能全产业链评测基准“求索”4.0版。",
+      "summary": "王兴兴认为机器人进厂需解决泛化性和效率问题，AI技术进步可能超预期。",
       "summaryZh": ""
     },
     {
@@ -83,23 +82,23 @@
       "summaryZh": ""
     },
     {
+      "title": "中国大模型海外收入跟不上调用量增长，有望破解？",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BOXN1NTR1SXZlMlNGWHhkLXB1NkN1THVwQzQ2SkgxTzdHSjBOYnc1ZXZZWkNIYVM4R0lndE1XenVocTdLUmNWbExpRHlHS25nWjYw?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-13T13:43:13.000Z",
+      "summary": "中国大模型海外收入增速慢于调用量增长，有望通过自主可控和开源模式改变。",
+      "summaryZh": ""
+    },
+    {
       "title": "阿里千问发布新一代AI眼镜、AI耳机，AI硬件加入智能体竞争下半场",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXZnd2WVNUR1c0Wno2c2NycF9XNGpOTkE4YXdSTVNMTm44MTRaOXhWNF9DTHEzSmk3UC1GclkyUi1VV1BXa1JCOVNyakFHNl9KV1kw?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-13T10:50:39.000Z",
-      "summary": "阿里千问发布AI眼镜、AI耳机，加入智能体竞争下半场。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机构持续上修全球AI支出预期，创业板算力ETF易方达（158050）标的指数早盘翻红涨1.6%",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xT1JUTnc0cDRUVDlPdXZIN2dwQnlLR21DVGNhaEtzemRYZnVqNk52dTlxYW9vSHp2ekFWSV9VblNOUWpHOTlJTQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-13T04:59:02.000Z",
-      "summary": "全球AI支出预期持续上调，创业板算力ETF易方达（158050）标的指数涨1.6%。",
+      "summary": "阿里千问发布AI眼镜、AI耳机，AI硬件加入智能体竞争下半场。",
       "summaryZh": ""
     },
     {
@@ -123,6 +122,16 @@
       "summaryZh": ""
     },
     {
+      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43UXVZdFhsWHhXcnlUNXZlT3lLR1c2UkVqclByT3ZEaE03cDFmWXlQdlJ0cDlXaHBOUkEtS0NzTkZRQmFhdmQ4M2kzMzl4LUhkRURpODdiWUtxblpUMWViSmdFMHF2cVdIek11bTczVXo?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-13T09:08:32.000Z",
+      "summary": "商汤大装置助力上海量子城市首批智能体落地，调度效率提升80%。",
+      "summaryZh": ""
+    },
+    {
       "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
       "link": "https://www.qbitai.com/2026/10/502784.html",
       "source": "量子位",
@@ -139,7 +148,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-13T02:01:56.000Z",
-      "summary": "优必选荣登《财富》2026全球未来成长120强，位居全球第11、中国企业第一。",
+      "summary": "优必选位列《财富》2026全球未来成长120强榜首，中国企业第一。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Meta发布Muse Wonder系列模型，综合智能指数56分逼近Claude Opus 5.5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2UzBDQ2Zla1RrTTRHSjNxZFpYZnNXOGJaVEoxYnJDMnBucmVBa0RRUXpWMWtzdG1kUmE4WHNXSVV1dHFYWVc4ZWNnN09NZGd5SFM1Nw?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-13T02:10:01.000Z",
+      "summary": "Meta发布Muse Wonder系列模型，长程编程领先但3D生成表现不佳。",
       "summaryZh": ""
     },
     {
@@ -150,7 +169,19 @@
       "category": "robotics",
       "pubDate": "2026-10-13T18:30:03.000Z",
       "summary": "Rivian子公司Mind Robotics聘请前福特电动车部门负责人Doug Field担任总裁。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "Rivian 的初创公司 Mind Robotics 聘请了前福特电动汽车首席执行官 Doug Field"
+    },
+    {
+      "title": "NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors",
+      "link": "https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-13T23:22:05.000Z",
+      "summary": "纽约州老龄办公室与Intuition Robotics扩大合作，将ElliQ智能伴侣引入更多老年人。",
+      "summaryZh": "",
+      "titleZh": "NYSOFA 扩大与 Intuition Robotics 的合作伙伴关系，将 ElliQ 带给更多老年人"
     },
     {
       "title": "Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness",
@@ -159,27 +190,18 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-13T19:48:58.000Z",
-      "summary": "Hello Robot与A&K Robotics将在RoboBusiness探讨机器人如何在拥挤室内空间导航。",
-      "summaryZh": ""
+      "summary": "Hello Robot与A&K Robotics将探讨机器人如何在拥挤室内空间导航。",
+      "summaryZh": "",
+      "titleZh": "Hello Robot、A&K Robotics 将在 RoboBusiness 讨论机器人如何在拥挤的室内空间中导航"
     },
     {
-      "title": "Promise Robotics partners with D.R. Horton on physical AI for homebuilding",
-      "link": "https://www.therobotreport.com/promise-robotics-partners-d-r-horton-physical-ai-homebuilding/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-13T13:00:05.000Z",
-      "summary": "Promise Robotics与D.R. Horton合作，利用物理AI技术加速美国1,250套住宅建设。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智能制造下半场，物理AI离接管工厂还有多远？",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MNUcxOXlYYlZkdkxLa1AwR1dnVWRlblNJNkpnV19sMFo4aXVKY1lqbWlSb3pudkZ2X0NpV2xUZGtvamp6UVVnUVhvTGR1YVV2NDI0?oc=5",
-      "source": "第一财经",
+      "title": "星尘智能拿下10亿融资，CEO来杰：机器人是非常容易挣钱的行业|深圳市|广东省|估值|客户",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96TEc1RXdUdGNxNnRPR2Q1aGg0SWZKNGp1YVpHT2o3aHA2UzdYY0dXaFhlc0dpcEFsNW9NWElob0hJSnZvc091RXNORE9vX3RmMDNJSU9VV3RrZkJ1dnpPWHR1M2JtTjNHby11ajk5cjF5VTA?oc=5",
+      "source": "新浪科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-13T18:20:19.000Z",
-      "summary": "物理AI在智能制造领域发展迅速，但面临技术挑战和实际应用难题。",
+      "pubDate": "2026-10-13T11:04:00.000Z",
+      "summary": "星尘智能完成10亿融资，CEO来杰称机器人行业易盈利。",
       "summaryZh": ""
     },
     {
@@ -203,14 +225,26 @@
       "summaryZh": ""
     },
     {
-      "title": "NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors",
-      "link": "https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/",
-      "source": "Robotics Business Review",
+      "title": "China Is Poised to Spearhead a $5 Trillion Humanoid Robot Market",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTQ5OHU0dmR0LW81WUFpMUlTaDNjNTZHU2NfNkdmc0tnRlVQSTJKck8xR0lwUFZrek1waG02c0tuQkM3Qk04cHYxRWswZjQzTThtc0hNckNVZXF2d0pmeWFkMUFPcUJtZVQxRGtwR1ZvUGh6ZlRvMlBkR255VjQ0aHlSMkZqSkJJazFDNDJiWnJTX1gzdV81RGNVbVoyZVYwbmtjUURFb204dDI0RUpDVElOMFRIcjVvbDM0?oc=5",
+      "source": "Bloomberg",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-10-13T23:22:05.000Z",
-      "summary": "NYSOFA与Intuition Robotics扩展合作，将ElliQ智能伴侣引入更多老年人。",
-      "summaryZh": ""
+      "pubDate": "2026-10-13T21:00:29.000Z",
+      "summary": "中国将引领价值5万亿美元的人形机器人市场。",
+      "summaryZh": "",
+      "titleZh": "中国准备引领价值 5 万亿美元的人形机器人市场"
+    },
+    {
+      "title": "Scan Computers partners with OLO Robotics to make advanced robots easier to implement",
+      "link": "https://roboticsandautomationnews.com/2026/10/13/scan-computers-partners-with-olo-robotics-to-make-advanced-robots-easier-to-implement/105877/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-13T16:18:02.000Z",
+      "summary": "Scan Computers与OLO Robotics合作，简化高级机器人部署。",
+      "summaryZh": "",
+      "titleZh": "Scan Computers 与 OLO Robotics 合作，让先进机器人更容易实施"
     }
   ]
 }
