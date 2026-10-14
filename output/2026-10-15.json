@@ -1,27 +1,7 @@
 {
   "date": "2026-10-15",
-  "generatedAt": "2026-10-14T21:36:00.260Z",
+  "generatedAt": "2026-10-14T22:37:04.647Z",
   "items": [
-    {
-      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
-      "link": "https://www.qbitai.com/2026/10/503165.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-14T03:32:48.000Z",
-      "summary": "APUS AI开源Reflex Agent，响应速度比Claude Code快3倍，实现无限上下文。",
-      "summaryZh": ""
-    },
-    {
-      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
-      "link": "https://www.qbitai.com/2026/10/503201.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-14T06:45:38.000Z",
-      "summary": "STEPX Neo手机搭载大模型原生AI系统，正式上市销售。",
-      "summaryZh": ""
-    },
     {
       "title": "信仰加速，估值刹车：具身智能最后一道题，王兴兴凭什么交给 GPT-7",
       "link": "https://www.tmtpost.com/8168230.html",
@@ -33,23 +13,13 @@
       "summaryZh": ""
     },
     {
-      "title": "智能体长任务总“失忆”？国产开源破局，类Jev模型接管Agent调度",
-      "link": "https://zhidx.com/p/600750.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-14T14:35:41.000Z",
-      "summary": "国产开源Reflex Agent采用类Jev模型解决智能体长任务“失忆”问题。",
-      "summaryZh": ""
-    },
-    {
       "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
       "source": "The Verge",
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-10-14T21:11:28.000Z",
-      "summary": "八州起诉OpenAI，称ChatGPT不安全于儿童使用。",
+      "summary": "八州起诉OpenAI，称ChatGPT不安全适合儿童使用。",
       "summaryZh": ""
     },
     {
@@ -60,6 +30,16 @@
       "category": "robotics",
       "pubDate": "2026-10-14T13:12:59.000Z",
       "summary": "大疆AI ROMO 2扫拖机器人11.11官方直降至3823元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI投资人重仓布局 广州博士创业项目获资本青睐",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CVDFObVlnNC1fak9FZm52UHhvZXBtbWpiZ21GX0dSNnVtV3FMMEJTRUNORVNtdXZMTnRYMDduMS02SUhfTmdlaFBOaDViemxKZzFN?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-14T11:31:00.000Z",
+      "summary": "广州博士创业项目云蝶科技获OpenAI投资人StellarS Capital等机构数亿元投资。",
       "summaryZh": ""
     },
     {
@@ -79,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-14T14:01:41.000Z",
-      "summary": "Nothing将推出两款智能眼镜，一款音频版，一款摄像头版，后者支持ChatGPT。",
+      "summary": "Nothing将推出两款智能眼镜，一款音频版，一款摄像头版，支持ChatGPT。",
       "summaryZh": ""
     },
     {
@@ -93,32 +73,33 @@
       "summaryZh": ""
     },
     {
-      "title": "清华核研院硕士造重工机器人，融资亿元级",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBadXB3bFUwQzRmLUNWRHpPSXIwVzVtbE1TZHVCZGJDam85U2FnLUp1cHFFT0pSTE9HVV96MUd3S2FpeFFNdE9SWA?oc=5",
-      "source": "智东西",
+      "title": "Eight US states sue OpenAI, claiming ChatGPT harms young users",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjc1cUY3cXJlLWNETVRLdnEzVGt4QzlBRFFFZ2p1aUVqdFRGMUNxMHFnNTlZVk5Pcmg0dUUyUkVhWnFJeWpLWnI5a2lMNjR3WGVRRlV6NnZiOTZnUXUtUnJteWZ2VEVwVW1wX1NkdThUSE9kck41ZFc1ZmlwS0FLVmxQS0k5WFEyMDM0cS0xVWxyQnBzVUJka0lhRm04Znp4TUE?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-14T20:40:52.000Z",
+      "summary": ""
+    },
+    {
+      "title": "具身智能跨过分水岭，遍地都是想卖老股的投资人",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SOWxuS0ZYSjAzTDRNV2xzTHdWR09TQTAxang2QmZ1MEFYWFRLc3VMUjl3cU1hanVVQjI5YVNscjk0UkV1MV9udE83VW5kTGkz?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-14T10:05:00.000Z",
-      "summary": "清华核研院硕士创办的重工机器人企业帝尔博格完成亿元级Pre-A+轮融资。",
+      "pubDate": "2026-10-14T01:25:44.000Z",
+      "summary": "具身智能融资降温，一级市场出现大量想卖老股的投资人。",
       "summaryZh": ""
     },
     {
-      "title": "逛遍2026工博会国芯展，一文读懂工业AI算力下沉的真实图景",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aUU5nb1RZdlZDRmFxMkk2NFV3c0l3V1c1a0t2Skl2QmRtUmNFSTRTalNodS16UnFCb1l6X0dCV1ZYemgyb25KSXJpaw?oc=5",
-      "source": "36氪",
+      "title": "浙大机器人研究院教授创业，种子轮融资数千万",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qZlVKVmNDQWFYMG1IX3pnTVp4ZkcyV0V3bk8yc1RuWkhlVDRlOTVONHpmT1JueHl2LXNjRklWRWF2ME1uVjV4VQ?oc=5",
+      "source": "智东西",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-13T22:08:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "港大教授创业，雷军华为都投了：一条\"非主流\"技术路线，想改写大模型\"逐字生成\"的老办法",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SeHl4V282VEgzblA4NGNjanJEa2xuQm8xTTl5THBlSGZKTXF3UG5hZ2lTRVRQOVZVYi1nbkk4QUdhcE91OEYtSlg2VlZhQQ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-13T22:22:00.000Z",
-      "summary": ""
+      "category": "robotics",
+      "pubDate": "2026-10-14T11:16:21.000Z",
+      "summary": "浙大机器人研究院教授团队领衔的NEXFORM新元体完成数千万元种子轮融资。",
+      "summaryZh": ""
     },
     {
       "title": "OpenAI提出每美元有效智能，大模型定价从Token转向任务价值",
@@ -127,7 +108,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-14T08:53:45.000Z",
-      "summary": "OpenAI提出以“每美元有效智能”替代Token价格计价大模型。",
+      "summary": "OpenAI提出以“每美元有效智能”替代Token计价，大模型厂商转向任务价值定价。",
       "summaryZh": ""
     },
     {
@@ -141,14 +122,13 @@
       "summaryZh": ""
     },
     {
-      "title": "How ADI is helping robotics startups scale",
-      "link": "https://www.therobotreport.com/how-adi-is-helping-robotics-startups-scale/",
-      "source": "The Robot Report",
-      "lang": "en",
+      "title": "人形机器人在全国多地加速进厂，上手干活还要学什么？",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VSXFUQWRVWUEzRl9QcVpjRHIxd1hqMk41TS1UbkFSR0RaSWpuYU9yclFqQUtJU0k3V0U3VXBBYTRLbWphbVVQeVI1d05sYkF3eFBnMjFQbldFYjQ0cFN5aGFYeFE?oc=5",
+      "source": "新京报",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-14T20:29:21.000Z",
-      "summary": "ADI助力机器人初创企业实现规模化生产。",
-      "summaryZh": ""
+      "pubDate": "2026-10-14T09:36:00.000Z",
+      "summary": ""
     },
     {
       "title": "估值翻番至300亿美元，自动驾驶软件商Applied Intuition跻身AI独角兽顶级梯队",
@@ -160,6 +140,16 @@
       "summary": ""
     },
     {
+      "title": "ABB机器人中国区总裁：软银收购仍在推进，对中国市场承诺不变",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45cFN5a3NOZzcwMjgtVUN5SUhubXliRkEwdmpFVGNHOHJ3MzFqZ2hEd2lZVFpWZVNzTmZiRE12ZmpKQlAyZUQtc19xbkxqRnlWamxUWlBEem1OcXllNnNVSQ?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-14T12:12:00.000Z",
+      "summary": "ABB机器人中国区总裁确认软银收购进展良好，中国市场承诺不变。",
+      "summaryZh": ""
+    },
+    {
       "title": "China's Hesai launches spatial camera to boost AI-powered robotics adoption",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEo0MHozeUJ0MXphaWZoLU8zaXJKYzdLOWdyTHczYUlTV0xaSlhKbDJWeUFwelVaRmIwVF9rV3hTQmVOemJ5dHd0ZkdKYzRGaGNQdG5wNjdlRVR0a3VGQk1hczh5UnJSeEItbUVCSzhWM09LaVpqa19OT2VtX1VfSDYxQjZUZkd0Z0phWjRsMkpkUlRuQ3ZIeEhIeU9zRU9wQzI4aHhybWJGd0d2dW95Q1pseDRBWjdNRnc?oc=5",
       "source": "Reuters Technology",
@@ -167,6 +157,16 @@
       "category": "robotics",
       "pubDate": "2026-10-14T14:41:53.000Z",
       "summary": ""
+    },
+    {
+      "title": "腾讯机器人一号员工的具身公司，刚刚融了10亿",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tZWhsRXNqajd2RUR6cGswMjJuRTNjMWp5VDFKbEtEcHBmdDdFdlMyTlNXRnJaOF9EZW9jWEd3OUNUNm9NYk1QMFdtcTVmaWxqeGhRY0d4WQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-14T11:10:45.000Z",
+      "summary": "腾讯机器人公司融资10亿。",
+      "summaryZh": ""
     },
     {
       "title": "大摩上调万豪酒店目标价至384美元 看好AI预订时代受益逻辑",
@@ -199,13 +199,23 @@
       "summaryZh": ""
     },
     {
+      "title": "观察｜AI与具身智能热潮汹涌，工业巨头们积极拥抱但谨慎依旧",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MWFFZVUFMMFZjV1pJd3VvSlcxdDV3LWNaNTlPQ0dSWG5YLUc4S0dsazBMZ3VvZXNQU21Cd1o4Y3dxVDFONGY1cmY4blk5b1R3bDBDdWFGaDB4OHFqTURKNw?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-14T12:11:00.000Z",
+      "summary": "工业巨头积极拥抱AI与具身智能，但强调安全可靠和工业级应用。",
+      "summaryZh": ""
+    },
+    {
       "title": "述评丨锚定新一代智能制造主攻方向",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFdnd5TFhxSURQck1oX180amRfc1VtcXZGMEczNjhlOFU3Q2JES0E3dmJyLWhTWlFMM3FKYnlxcmpvd3hwNVpBSHByaGhsLXZkTzdxSnNnaw?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-14T09:08:41.000Z",
-      "summary": "我国聚焦新一代智能制造安全验证技术发展。",
+      "summary": "我国明确新一代智能制造主攻方向。",
       "summaryZh": ""
     }
   ]
