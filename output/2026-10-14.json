@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "generatedAt": "2026-10-14T00:23:26.859Z",
+  "generatedAt": "2026-10-14T01:24:39.361Z",
   "items": [
     {
       "title": "AI 长视频时代来临：OpenAI GPT-6 Astra 助力生成时长从 1 分钟提升到 10 分钟",
@@ -10,16 +10,6 @@
       "category": "ai",
       "pubDate": "2026-10-13T23:44:48.000Z",
       "summary": "OpenAI GPT-6 Astra助力Higgsfield AI视频生成时长提升至10分钟。",
-      "summaryZh": ""
-    },
-    {
-      "title": "自动驾驶公司 Applied Intuition 获得投资邀约，估值达 300 亿美元",
-      "link": "https://www.ithome.com/1/012/584.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-13T14:35:07.000Z",
-      "summary": "自动驾驶公司Applied Intuition获多份投资邀约，估值达300亿美元。",
       "summaryZh": ""
     },
     {
@@ -38,7 +28,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-13T08:42:00.000Z",
-      "summary": "谷歌发布企业级Gemini Agent，聚焦于标准主权而非AGI。",
+      "summary": "谷歌发布企业级Gemini Agent，强调标准主权而非AGI。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI 芯片企业 Cerebras CEO 预言：家用 AI 时代即将到来，AI 智能体帮你搞定生活琐事",
+      "link": "https://www.ithome.com/1/012/632.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-13T23:18:52.000Z",
+      "summary": "Cerebras CEO 预言家用AI时代将至，AI智能体将助解决生活琐事。",
+      "summaryZh": ""
+    },
+    {
+      "title": "你的手机能跑35B大模型了！只要3GB内存，还无损",
+      "link": "https://zhidx.com/p/600463.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-13T13:40:45.000Z",
+      "summary": "面壁智能发布35B大模型MiniCPM-V4.7，可在3GB内存手机上无损运行。",
       "summaryZh": ""
     },
     {
@@ -58,17 +68,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-13T01:26:07.000Z",
-      "summary": "王兴兴认为机器人进厂需解决泛化性和效率问题，AI技术进步可能超预期。",
-      "summaryZh": ""
-    },
-    {
-      "title": "腾讯WorkBuddy企业版，上线一站式Agent可观测平台",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9adWp1NFJ0VU0wTmpxUEFyVjRSMWlhSWFMUFl1V3Z0dllza21xSV9qSXVzT1Z3WnRCeWlFXzZxOGhzbFp5c1I4S0daWQ?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-13T14:10:31.000Z",
-      "summary": "腾讯WorkBuddy企业版推出一站式Agent可观测平台，实现智能体全链路管理。",
+      "summary": "王兴兴认为AI技术进步可能比预期更快，但机器人进厂仍需解决泛化性和效率问题。",
       "summaryZh": ""
     },
     {
@@ -88,7 +88,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-13T13:43:13.000Z",
-      "summary": "中国大模型海外收入增速慢于调用量增长，有望通过自主可控和开源模式改变。",
+      "summary": "中国大模型海外收入增速慢于调用量增长，有望通过开源模型和自主可控策略改善。",
       "summaryZh": ""
     },
     {
@@ -98,7 +98,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-13T10:50:39.000Z",
-      "summary": "阿里千问发布AI眼镜、AI耳机，AI硬件加入智能体竞争下半场。",
+      "summary": "阿里千问发布AI眼镜、AI耳机，加入智能体竞争下半场。",
       "summaryZh": ""
     },
     {
@@ -122,16 +122,6 @@
       "summaryZh": ""
     },
     {
-      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43UXVZdFhsWHhXcnlUNXZlT3lLR1c2UkVqclByT3ZEaE03cDFmWXlQdlJ0cDlXaHBOUkEtS0NzTkZRQmFhdmQ4M2kzMzl4LUhkRURpODdiWUtxblpUMWViSmdFMHF2cVdIek11bTczVXo?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-13T09:08:32.000Z",
-      "summary": "商汤大装置助力上海量子城市首批智能体落地，调度效率提升80%。",
-      "summaryZh": ""
-    },
-    {
       "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
       "link": "https://www.qbitai.com/2026/10/502784.html",
       "source": "量子位",
@@ -148,17 +138,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-13T02:01:56.000Z",
-      "summary": "优必选位列《财富》2026全球未来成长120强榜首，中国企业第一。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Meta发布Muse Wonder系列模型，综合智能指数56分逼近Claude Opus 5.5",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2UzBDQ2Zla1RrTTRHSjNxZFpYZnNXOGJaVEoxYnJDMnBucmVBa0RRUXpWMWtzdG1kUmE4WHNXSVV1dHFYWVc4ZWNnN09NZGd5SFM1Nw?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-13T02:10:01.000Z",
-      "summary": "Meta发布Muse Wonder系列模型，长程编程领先但3D生成表现不佳。",
+      "summary": "优必选荣登《财富》2026全球未来成长120强，位居全球第11、中国企业第一。",
       "summaryZh": ""
     },
     {
@@ -179,7 +159,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-13T23:22:05.000Z",
-      "summary": "纽约州老龄办公室与Intuition Robotics扩大合作，将ElliQ智能伴侣引入更多老年人。",
+      "summary": "NYSOFA与Intuition Robotics扩展合作，将ElliQ智能伴侣引入更多老年人。",
       "summaryZh": "",
       "titleZh": "NYSOFA 扩大与 Intuition Robotics 的合作伙伴关系，将 ElliQ 带给更多老年人"
     },
@@ -190,19 +170,18 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-13T19:48:58.000Z",
-      "summary": "Hello Robot与A&K Robotics将探讨机器人如何在拥挤室内空间导航。",
+      "summary": "Hello Robot与A&K Robotics在RoboBusiness探讨机器人如何在拥挤室内空间导航。",
       "summaryZh": "",
       "titleZh": "Hello Robot、A&K Robotics 将在 RoboBusiness 讨论机器人如何在拥挤的室内空间中导航"
     },
     {
-      "title": "星尘智能拿下10亿融资，CEO来杰：机器人是非常容易挣钱的行业|深圳市|广东省|估值|客户",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96TEc1RXdUdGNxNnRPR2Q1aGg0SWZKNGp1YVpHT2o3aHA2UzdYY0dXaFhlc0dpcEFsNW9NWElob0hJSnZvc091RXNORE9vX3RmMDNJSU9VV3RrZkJ1dnpPWHR1M2JtTjNHby11ajk5cjF5VTA?oc=5",
-      "source": "新浪科技",
+      "title": "估值翻番至300亿美元，自动驾驶软件商Applied Intuition跻身AI独角兽顶级梯队",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5RXM2SVdNNjZSMlBJR0FWcFY5RkN0RklwSjV3NGM1S2ZDd0V4WGlCWkxvQnJSdUx2ZlhZRXA5d0dlS0xHNlJkdEhscGFBOVgxaE9J?oc=5",
+      "source": "华尔街见闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-13T11:04:00.000Z",
-      "summary": "星尘智能完成10亿融资，CEO来杰称机器人行业易盈利。",
-      "summaryZh": ""
+      "pubDate": "2026-10-14T00:15:49.000Z",
+      "summary": ""
     },
     {
       "title": "具身智能“滨江时刻”：一场标准与赛事的双向奔赴",
@@ -221,7 +200,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-13T07:50:00.000Z",
-      "summary": "上地科技市集举办，3000余人体验AI机器人等科技产品。",
+      "summary": "上地科技市集举办，AI机器人互动吸引3000余人体验科技产品。",
       "summaryZh": ""
     },
     {
@@ -245,6 +224,16 @@
       "summary": "Scan Computers与OLO Robotics合作，简化高级机器人部署。",
       "summaryZh": "",
       "titleZh": "Scan Computers 与 OLO Robotics 合作，让先进机器人更容易实施"
+    },
+    {
+      "title": "[央视财经评论]周密：智慧物流推动电商提质增效",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00bGgtYlAwNzU4ZkpDZGlRTDRWcU1fTktHcmkwVnlmaDc3SHZzQWljVkpOLXVGbjM5TDgxOXB3VmwtR2FYdWZkX0dBbXhTQ0NneS11ZjNqLTVCVDF6RDhTSTd6a3NZRXpYZnJRRExiS1A0RHpvM0E?oc=5",
+      "source": "央视网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-13T14:37:00.000Z",
+      "summary": "周密评论：智慧物流助力电商提升效率。",
+      "summaryZh": ""
     }
   ]
 }
