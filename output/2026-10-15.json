@@ -1,76 +1,15 @@
 {
   "date": "2026-10-15",
-  "generatedAt": "2026-10-15T00:54:44.515Z",
+  "generatedAt": "2026-10-15T04:46:41.686Z",
   "items": [
     {
-      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
-      "link": "https://www.qbitai.com/2026/10/503165.html",
-      "source": "量子位",
+      "title": "大模型训练数据合规全景：版权、个人信息、商业秘密三大风险与落地路径",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xbi11Q3MxV0d1ODQyVEgyTkE4VVdsb2JZU1VULU9pc0p5d01HSzRNOW5lbFRiZ3BnNlNwc3BzZTV1YVFnMUdpOFAyazVsemlx?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-14T03:32:48.000Z",
-      "summary": "APUS AI开源Reflex Agent，实现无限上下文，响应速度比Claude Code快3倍。",
-      "summaryZh": ""
-    },
-    {
-      "title": "入职约 1 年：OpenAI 基础设施与 AI 算力负责人卡蒂离职，曾主导“星际之门”计划",
-      "link": "https://www.ithome.com/1/013/158.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-14T23:30:06.000Z",
-      "summary": "OpenAI基础设施与AI算力负责人卡蒂离职，由乌代·鲁达拉朱接替。",
-      "summaryZh": ""
-    },
-    {
-      "title": "万元级人形机器人，只是“赛博玩具”？",
-      "link": "https://www.tmtpost.com/8168453.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-14T10:30:40.000Z",
-      "summary": "万元级人形机器人多用于娱乐，功能有限。",
-      "summaryZh": ""
-    },
-    {
-      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
-      "link": "https://www.qbitai.com/2026/10/503201.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-14T06:45:38.000Z",
-      "summary": "STEPX首款大模型原生智能体手机STEPX Neo正式发布，搭载Step AOS 1.0操作系统和阶跃Amoo智能体。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智能体长任务总“失忆”？国产开源破局，类Jev模型接管Agent调度",
-      "link": "https://zhidx.com/p/600750.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-14T14:35:41.000Z",
-      "summary": "国产开源Reflex Agent采用类Jev模型解决智能体长任务“失忆”问题。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-14T21:11:28.000Z",
-      "summary": "八州起诉OpenAI，称ChatGPT不安全于儿童使用。",
-      "summaryZh": "",
-      "titleZh": "八个州起诉 OpenAI，称 ChatGPT 对儿童不安全"
-    },
-    {
-      "title": "机器人还没找好工作，小鹏为什么先建工厂？",
-      "link": "https://www.tmtpost.com/8168921.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-15T00:22:40.000Z",
-      "summary": "小鹏为尚未确定销售对象的人形机器人IRON提前布局产线和资金，计划2027年进入欧洲市场。",
+      "pubDate": "2026-10-15T04:12:08.000Z",
+      "summary": "大模型训练数据合规面临版权、个人信息、商业秘密三大风险，需构建体系化合规框架。",
       "summaryZh": ""
     },
     {
@@ -80,7 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-14T23:34:37.000Z",
-      "summary": "OpenAI发布GPT-6 Astra后，通用模型在机器人策略应用上取得突破，引发对通用模型与Robotics边界影响的讨论。",
+      "summary": "OpenAI发布GPT-6 Astra后，通用模型在机器人策略领域表现突出，引发对通用模型与Robotics边界影响的讨论。",
       "summaryZh": ""
     },
     {
@@ -93,33 +32,54 @@
       "summary": ""
     },
     {
-      "title": "SpaceXAI 发布 Grok Voice 3.0：号称全球最智能的语音模型，延迟低于 1 秒",
-      "link": "https://www.ithome.com/1/013/159.htm",
+      "title": "昆仑万维发布世界首款消费级显卡视频大模型游戏，同步开源",
+      "link": "https://www.ithome.com/1/013/283.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-14T23:35:09.000Z",
-      "summary": "SpaceXAI发布Grok Voice 3.0，全球最智能语音模型，延迟低于1秒。",
+      "pubDate": "2026-10-15T04:00:28.000Z",
+      "summary": "昆仑万维发布全球首款消费级显卡视频大模型游戏Matrix-Game 4.0，同步开源。",
       "summaryZh": ""
     },
     {
-      "title": "微软计划将算力规模扩大超两倍，AI人工智能ETF平安(512930)备受关注",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ud0dQNWk1Tkc0SVZJM083SV9KMWNZOHVKRXpTSm5iWTBWWlE5bkFDeE5NSTV2ZU04Z181bnU3S0pvejNRa0VYVmhOaGdreXhYenJITFlYdHo?oc=5",
-      "source": "界面新闻",
+      "title": "阶跃 Step 5 Preview 大模型权重开放，支持 100 万 token 上下文窗口",
+      "link": "https://www.ithome.com/1/013/268.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-14T03:04:00.000Z",
-      "summary": "微软计划扩大数据中心容量，AI人工智能ETF平安受关注。",
+      "pubDate": "2026-10-15T03:22:04.000Z",
+      "summary": "阶跃发布Step 5 Preview大模型，支持百万token上下文窗口。",
       "summaryZh": ""
     },
     {
-      "title": "逛遍2026工博会国芯展，一文读懂工业AI算力下沉的真实图景",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZNDI0ZUx5aGt3VGtBWURwY0xZenRYTUlxSDltdHRxUG44aXhVU3dJMF9KMnhWMkREN2M1Vk1yTGpjc0xJeXBIN3o3a1FnWmM?oc=5",
-      "source": "36氪",
+      "title": "游戏行业的“GPT时刻”又进一步？英伟达发布DLSS 5新模型 渲染速度半年提高10倍",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83SHNUQXhJUjUxcVV1aVNlcTA2MXdQREt6d2lSQ2hjYU1DS3pNT1RfeXNfaF9MekhqTzRfQnNQRUVqSTl4bXRyQw?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-14T13:13:22.000Z",
-      "summary": ""
+      "pubDate": "2026-10-15T03:41:56.000Z",
+      "summary": "英伟达发布DLSS 5新模型，渲染速度半年提升10倍。",
+      "summaryZh": ""
+    },
+    {
+      "title": "浙大机器人研究院教授创业，种子轮融资数千万",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qZlVKVmNDQWFYMG1IX3pnTVp4ZkcyV0V3bk8yc1RuWkhlVDRlOTVONHpmT1JueHl2LXNjRklWRWF2ME1uVjV4VQ?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-14T11:16:21.000Z",
+      "summary": "浙大机器人研究院教授团队领衔的NEXFORM新元体完成数千万元种子轮融资。",
+      "summaryZh": ""
+    },
+    {
+      "title": "谷歌DeepMind新模型放大招：机器人看视频自学扔沙包，连中7次",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5faGRhM2Q4ZGVVNTZuYmtfclhQQzQtNGV1VWszMDZmRm5pLXRaekpNUU9yZzFhOHlHeVdOcjR0VVhjTzcxNU5xTQ?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-14T10:05:45.000Z",
+      "summary": "谷歌DeepMind新模型Gemini 4 Argon让机器人通过视频学习扔沙包，连续成功7次。",
+      "summaryZh": ""
     },
     {
       "title": "OpenAI提出每美元有效智能，大模型定价从Token转向任务价值",
@@ -128,16 +88,57 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-14T08:53:45.000Z",
-      "summary": ""
+      "summary": "OpenAI提出以“每美元有效智能”替代Token计价，大模型厂商转向任务价值定价。",
+      "summaryZh": ""
     },
     {
-      "title": "00后创始人Noah Shinn的Instinct成立一年估值达100亿美元，个人AI Agent与交易佣金模式受关注",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51ZVR4UnR2Z2NXSnpjbFoyRGx4ZjlXUUlCYzBUMXJCdjZfV2JFMV94WXdTckZXZWw4dkdWZ0xEXzZYUjBuYjlVRUNDMzkyNWx4RzdiYQ?oc=5",
-      "source": "虎嗅",
+      "title": "中证指数将发布中证中银沪深港人工智能产业指数",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FdkwtZ21Ua0NiRzl5MnNFRlIyaEFHOXJhREowODlwMzE3TnpXODFsMHo4cGN3bEFwY25FdFJ6RFJQUmhlS0g4ZTlxMWtpNDZKbDN2RGJqWEpXdw?oc=5",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-14T08:53:20.000Z",
-      "summary": "Instinct无App，通过短信电话交互，年交易额10亿，靠商家佣金盈利，估值达100亿。",
+      "pubDate": "2026-10-14T09:31:57.000Z",
+      "summary": "中证指数发布中证中银沪深港人工智能产业指数。",
+      "summaryZh": ""
+    },
+    {
+      "title": "制造业大模型与数字员工方案发布，南方基金麦骏杰关注AI产业成长",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96MG9wVXNkd1hOWXNYaml3NDdQcVIxTWpGdXhrZVZJR0l2T0t0M2RDRUljRER4Z3N0dW9nbHY4bWpJc1F1a3hBRGVUTG1EUWhfbXluTGNn?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-15T01:52:12.000Z",
+      "summary": "制造业大模型与数字员工方案发布，南方基金麦骏杰关注AI产业成长趋势。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI芯片板块下挫",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wRDFjeVVjWXdJRDdBTm5IMlgxdWNBX2Nkd0IycjA3RVE3dUo2QjVDcmdGV1MzNC1KeTRNU2FYeHRSZUxLQlRKb2RCNlJaNmFLdEtmOA?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-15T01:30:00.000Z",
+      "summary": "AI芯片板块整体下跌，多股跌幅超4%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI sued by 8 states over ChatGPT safety concerns",
+      "link": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
+      "source": "CNBC Tech",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-14T21:09:20.000Z",
+      "summary": "八州就ChatGPT安全问题起诉OpenAI。",
+      "summaryZh": ""
+    },
+    {
+      "title": "禾赛CEO李一帆：人形机器人并不代表自动化升级，是物理AI基建还没跟上",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CejgwbGQ1dml6ZjA5UjYzT2tiblM2eHZGMHBCN3BnV0xvUzhLa2NoZk5GeU9WRG1xZFpOWnVEeVZ2M2dSVEljRThUbjR0M29IUlRuUlhOZk5LUjZXZVBEMA?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-15T01:20:00.000Z",
+      "summary": "人形机器人不代表自动化升级，物理AI基建尚待完善。",
       "summaryZh": ""
     },
     {
@@ -147,7 +148,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-14T09:36:00.000Z",
-      "summary": ""
+      "summary": "人形机器人加速进厂，需学习适应具体工位和任务。",
+      "summaryZh": ""
     },
     {
       "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
@@ -156,9 +158,8 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-14T21:03:11.000Z",
-      "summary": "疑似俄制无人机导致黑海五艘船只受损，北约考虑重新部署反无人机防御系统。",
-      "summaryZh": "",
-      "titleZh": "随着攻击沉没更多黑海航运，北约可能重新部署反无人机防御系统"
+      "summary": "疑似俄制无人机攻击导致黑海多艘船只受损，北约考虑重新部署反无人机防御系统。",
+      "summaryZh": ""
     },
     {
       "title": "How ADI is helping robotics startups scale",
@@ -168,8 +169,7 @@
       "category": "robotics",
       "pubDate": "2026-10-14T20:34:32.000Z",
       "summary": "ADI助力机器人初创企业实现规模扩张。",
-      "summaryZh": "",
-      "titleZh": "ADI 如何帮助机器人初创公司扩大规模"
+      "summaryZh": ""
     },
     {
       "title": "China's Hesai launches spatial camera to boost AI-powered robotics adoption",
@@ -178,38 +178,46 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-14T14:41:53.000Z",
-      "summary": "",
-      "titleZh": "中国禾赛推出空间相机以促进人工智能驱动的机器人技术的采用"
+      "summary": ""
     },
     {
-      "title": "Drones on the line: New algorithms help drone fleets inspect power infrastructure",
-      "link": "https://techxplore.com/news/2026-10-drones-line-algorithms-drone-fleets.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-14T19:00:16.000Z",
-      "summary": "新型算法助力无人机编队检查电力基础设施。",
-      "summaryZh": "",
-      "titleZh": "无人机上线：新算法帮助无人机机队检查电力基础设施"
-    },
-    {
-      "title": "观察｜AI与具身智能热潮汹涌，工业巨头们积极拥抱但谨慎依旧",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtOXhqbXEzb3BuZkdHQm9UNlNZSmlXekZseU0zU2lLVmtQQ1NZTGxsaFpJOGUycmVnNHl3Zlhua0F5cEZ1QWQtcnR0dnRHcmZUWUVBOEFpWWlIdFFGdVZKazhqQmhSOXZkZ1ZNbFM3T3N2QQ?oc=5",
+      "title": "ABB机器人中国区总裁：软银收购仍在推进，对中国市场承诺不变",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45cFN5a3NOZzcwMjgtVUN5SUhubXliRkEwdmpFVGNHOHJ3MzFqZ2hEd2lZVFpWZVNzTmZiRE12ZmpKQlAyZUQtc19xbkxqRnlWamxUWlBEem1OcXllNnNVSQ?oc=5",
       "source": "澎湃新闻科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-14T12:11:00.000Z",
-      "summary": "工业巨头积极拥抱AI与具身智能，但强调安全可靠和工业级应用。",
+      "pubDate": "2026-10-14T12:12:00.000Z",
+      "summary": "ABB机器人中国区总裁确认软银收购进展良好，中国市场承诺不变。",
       "summaryZh": ""
     },
     {
-      "title": "荷兰一款AI控制无人机时速达百公里",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52dFg2VnRrTFpsOGdFYjFtdmttS3RiOXFDelBoTk5UU2NjSVZLMUhDcXI1MkVEWHRrR01vcFBzRnV1MzNIOTJ4U1RaRDFZVkh4RklHWjNKbXY0ZnhlejQxTw?oc=5",
-      "source": "澎湃新闻科技",
+      "title": "腾讯机器人一号员工的具身公司，刚刚融了10亿",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tZWhsRXNqajd2RUR6cGswMjJuRTNjMWp5VDFKbEtEcHBmdDdFdlMyTlNXRnJaOF9EZW9jWEd3OUNUNm9NYk1QMFdtcTVmaWxqeGhRY0d4WQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-14T23:03:00.000Z",
-      "summary": "荷兰AI控制无人机实现百公里时速飞行。",
+      "pubDate": "2026-10-14T11:10:45.000Z",
+      "summary": "腾讯机器人一号员工创办的具身公司获得10亿融资。",
+      "summaryZh": ""
+    },
+    {
+      "title": "大摩上调万豪酒店目标价至384美元 看好AI预订时代受益逻辑",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50SkRBX2YzdG9ndzhVRWxkazNJN3laaUoyaWhCaFpaRzNzb3k2OHZrdTNiZFdZT3Q1b0tYTnVlSUgxRmcwMlBYaE9mbk12YjEwX2I2cWlsZmM?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-14T21:30:00.000Z",
+      "summary": "摩根士丹利上调万豪酒店目标价至384美元，看好AI预订时代受益逻辑。",
+      "summaryZh": ""
+    },
+    {
+      "title": "China Is Beating the US to the $5 Trillion Robot Market",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzVZOGtYbkFkM3lselBMMUJYcVNPWld5ZlRGeEZmTVlyLVNZUDN5SXg5RnNRQThBeFhKU2UydG41b3B1YnpYd3VnNjgyVXAzS05uREdsMXp3cVlOVGlPS2NEM1RSajRuTlZxVEtYbkR2MDJONXdZem4yRTNUSUVIVE1vdlZLZnBiSGtwazRZeEN4NG5KRGtiYV9nQ1NSMUl5QlpfcGRPZ180Z0dq?oc=5",
+      "source": "Bloomberg",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-14T10:28:01.000Z",
+      "summary": "中国在机器人市场超越美国，占据5万亿美元份额。",
       "summaryZh": ""
     }
   ]
