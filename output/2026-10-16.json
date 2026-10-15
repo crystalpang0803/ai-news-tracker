@@ -1,15 +1,35 @@
 {
   "date": "2026-10-16",
-  "generatedAt": "2026-10-15T21:17:32.344Z",
+  "generatedAt": "2026-10-15T22:40:23.072Z",
   "items": [
     {
       "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
-      "link": "https://www.qbitai.com/2026/10/503614.html",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93aVJDcFZMTTVfYUU3R0ViR1RQQ1ZPc3Zob0lCaU51M2JXZXlpQ1RiT3M5cjEzZl9XWVZDNWFLbDVZQ1lkV2cteEVfT1BkVGlKVmlpcw?oc=5",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-15T08:48:31.000Z",
       "summary": "智库发布报告，解析企业智能化转型六大断点及全链路破局框架。",
+      "summaryZh": ""
+    },
+    {
+      "title": "“机器人之眼”收入成谜，股东套现7.8亿，奥比中光278倍PE谁在买单？",
+      "link": "https://www.tmtpost.com/8168985.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-15T10:21:28.000Z",
+      "summary": "奥比中光机器人业务收入成谜，股东套现7.8亿，PE高达278倍引质疑。",
+      "summaryZh": ""
+    },
+    {
+      "title": "由盈转亏，云深处IPO依旧全靠机器狗",
+      "link": "https://www.tmtpost.com/8168901.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-15T10:09:35.000Z",
+      "summary": "云深处IPO由盈转亏，主要依赖机器狗产品，人形机器人商业化进展缓慢。",
       "summaryZh": ""
     },
     {
@@ -33,23 +53,13 @@
       "summaryZh": ""
     },
     {
-      "title": "人形机器人最尴尬的事：长了一双腿，却只能定住干活",
-      "link": "http://www.geekpark.net/news/372420",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-15T10:20:44.000Z",
-      "summary": "人形机器人因双腿稳定性问题，难以完成实际工作操作。",
-      "summaryZh": ""
-    },
-    {
       "title": "李飞飞和姚班大神，给机器人造了个数据流水线，还能自己进化",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wMGNQQ25SU0Flc0R3cW82REdTVTVUTXd3UnRKZEZUTUhZdzRaUE1HcElSdktMdkh4WVg5UFdndENsMUtVeC1Leg?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-15T05:34:35.000Z",
-      "summary": "李飞飞团队研发的DexAgent机器人灵巧操作框架，可自进化数据流水线，提升机器人训练数据质量。",
+      "summary": "李飞飞团队开发DexAgent，实现机器人数据流水线与自主进化。",
       "summaryZh": ""
     },
     {
@@ -59,27 +69,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-15T09:50:17.000Z",
-      "summary": "南科大教授研发手术机器人，爱博合创完成数千万元融资。",
+      "summary": "南科大教授创办的手术机器人公司爱博合创完成数千万元融资，用于产品研发和商业化。",
       "summaryZh": ""
     },
     {
-      "title": "黄仁勋谈中国 AI 公司：算力越缺，越逼着他们把架构做到极致",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LeEw0MXl4ZWQ3Y0FuTUY2SkdsMDV1N2UyaHExOG5VRElXeEVhVkpnMHo0a0ZhU0NDYTlpbjZrTW05S2JhaUlRT3BybF9KREkt?oc=5",
-      "source": "36氪",
+      "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IbXNrNjhGSC1iLWszU1hCZG9mYi1keGlxODltMW9RRmhjaDRVMlY1LUZQUURaemphRHE5MUdQRUpaRkdkNi1CbUk4TFVydUlxUWpQVQ?oc=5",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-15T09:15:15.000Z",
-      "summary": "黄仁勋认为中国AI公司因算力短缺而推动架构优化。",
+      "pubDate": "2026-10-15T09:43:29.000Z",
+      "summary": "苹果智能接入阿里千问大模型，10月底在中国发布测试版本。",
       "summaryZh": ""
     },
     {
-      "title": "155款App向豆包手机说“不”，智能体为什么翻不过互联网的围墙？",
-      "link": "https://www.tmtpost.com/8169608.html",
-      "source": "钛媒体",
+      "title": "微软办公AI 智能体技术突破：不换模型响应提速400%，词元消耗减30%",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0UFo4dEVTd1J3TnRpb2VOdE0xUDhkdVRZaHhpQkJ6MzJFT1U4QWIwYTQ0WnFzYU5nVmdQVjJtWmVDZjNTN05nWnJqel8?oc=5",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-15T08:32:49.000Z",
-      "summary": "豆包手机助手SAEP协议遭155款App拒绝，引发流量和隐私担忧。",
+      "pubDate": "2026-10-15T05:43:16.000Z",
+      "summary": "微软办公AI智能体技术升级，响应速度提升400%，词元消耗减少30%。",
       "summaryZh": ""
     },
     {
@@ -99,7 +109,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-15T11:51:13.000Z",
-      "summary": "我国生成式AI用户超7亿，超7成用于回答问题。",
+      "summary": "我国生成式AI用户突破7亿，超7成用于回答问题。",
+      "summaryZh": ""
+    },
+    {
+      "title": "财联社10月15日电，台积电表示，对人工智能大趋势有坚定信心，A14芯片将于2028年启动量产。",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnM1AyQVdpSHBPZzV5a1JDYmJOck1xOGNoTXZVaTdTMV82VzNCejNXOTBlNHFUaE9QOE5NWlVEZTAtTEgzMUktdQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-15T06:19:56.000Z",
+      "summary": "台积电宣布A14芯片将于2028年量产，对人工智能趋势持坚定信心。",
+      "summaryZh": ""
+    },
+    {
+      "title": "财联社10月15日电，港股大模型股走低，智谱、MINIMAX均跌超10%。",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE05R1lOLWd1SVl0TGZpNTFiV3ZGZDNvbExRM0h2YkxxeXI4MjNOSk9YSTlqMXVDQ1hSRGJ5QW9JYjBhN25RNmtwNQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-15T05:22:42.000Z",
+      "summary": "港股大模型股智谱、MINIMAX股价均跌超10%。",
       "summaryZh": ""
     },
     {
@@ -109,7 +139,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-15T01:19:00.000Z",
-      "summary": "AI产业面临算力债务风险，语音生产与具身数据应用拓展，产业进入成本与落地检验期。",
+      "summary": "AI产业风险与落地分层，算力债务、语音生产与具身数据成关注焦点。",
       "summaryZh": ""
     },
     {
@@ -123,13 +153,33 @@
       "summaryZh": ""
     },
     {
-      "title": "梅卡曼德亮相工博会 服务“人工智能+制造”规模化落地",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WdVZGVTViT1ZnV2VzWng3cE1VVXRFem03djNFMlE4UmgyaEVLNkI0RGJuLXNya3NicF9udWdzR21jSkdrRWZ3MkhINTctSFhZekVLNFUzanY?oc=5",
-      "source": "经济观察网",
+      "title": "禾赛CEO李一帆：人形机器人并不代表自动化升级，是物理AI基建还没跟上",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CejgwbGQ1dml6ZjA5UjYzT2tiblM2eHZGMHBCN3BnV0xvUzhLa2NoZk5GeU9WRG1xZFpOWnVEeVZ2M2dSVEljRThUbjR0M29IUlRuUlhOZk5LUjZXZVBEMA?oc=5",
+      "source": "澎湃新闻科技",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-15T09:22:00.000Z",
-      "summary": "梅卡曼德在工博会展示“眼脑手”技术，推动“人工智能+制造”规模化落地。",
+      "category": "robotics",
+      "pubDate": "2026-10-15T01:20:00.000Z",
+      "summary": "人形机器人不代表自动化升级，物理AI基建尚待完善。",
+      "summaryZh": ""
+    },
+    {
+      "title": "行业间呈K型分化 松下FA：AI基建投资带动业绩增长 将具身智能、液冷培育为第二增长曲线",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oeGlsQU1fNEEtMU04SEZmeTFFczBmXzdTbFZUd1ZyV1hNQzd6TUlqTVZrVVhFRm1wTS1EXzdFbzBKS2lWWGlzbmRhN3ZVQ3BpaW1TbXJYWGRFM2Q0dEZTUDRMNTkxUQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-15T11:09:00.000Z",
+      "summary": "松下FA业绩增长，AI基建投资推动，培育具身智能、液冷为第二增长曲线。",
+      "summaryZh": ""
+    },
+    {
+      "title": "出海50个国家和地区！嘉定这家“机器人大脑”赋能全球工业制造",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6a05CUjk0VVRHaHhpQS1HQXhvZ2hNdkx5ZzBSdGNuLVEtODFNWFJRRjZCRGN2NHlKaU85YVhWNm9yaE5fQUszQ1Q0NG9XOHdkWnFtZmMzSQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-15T13:29:22.000Z",
+      "summary": "嘉定“机器人大脑”助力全球工业制造拓展至50国。",
       "summaryZh": ""
     },
     {
@@ -139,37 +189,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-15T11:00:00.000Z",
-      "summary": "儿童机器人玩具存中国服务器，易遭黑客攻击。",
-      "summaryZh": ""
-    },
-    {
-      "title": "荷兰一款AI控制无人机时速达百公里",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52dFg2VnRrTFpsOGdFYjFtdmttS3RiOXFDelBoTk5UU2NjSVZLMUhDcXI1MkVEWHRrR01vcFBzRnV1MzNIOTJ4U1RaRDFZVkh4RklHWjNKbXY0ZnhlejQxTw?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-14T23:03:00.000Z",
-      "summary": "荷兰AI控制无人机时速达百公里，超越人类飞手。",
-      "summaryZh": ""
-    },
-    {
-      "title": "香港首个具身智能国际应用训练场开幕",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DMmM2OXlidWlyMXRTbmZ1RmNSbmt1ak4tc2VBTkVsV3ctQXRtTXR6am5nWmdwUjZ3bmZlVFlORHNPS0g2ODZab1hhbDMzX0djQVY1WmlTU051dmNCblJOa05oSnA3SWd3d1kzQUhCR09MVmZXb0tobEhXQXVyUQ?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-15T12:18:47.000Z",
-      "summary": "香港首个具身智能国际应用训练场正式启用，旨在推动技术走向产业应用。",
-      "summaryZh": ""
-    },
-    {
-      "title": "“RGB+Depth+AI”，ams OSRAM为什么要给手机再加几颗光学传感器？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkclFpOFBuZHZHZkR4SVBhOVNZZVJrTzJLSW41UXZKNm1uaXdsZkg2d3IzckhqWnlqMXJ6SGpqN2dSTkRNUnZiV290dzdYN0pnUGZaMEpfcw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-15T08:31:31.000Z",
-      "summary": "ams OSRAM为手机增加光学传感器以提升RGB+Depth+AI功能。",
+      "summary": "儿童机器人玩具存中国服务器，易受黑客攻击。",
       "summaryZh": ""
     },
     {
@@ -179,47 +199,28 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-15T17:10:31.000Z",
-      "summary": "西门子加入“机器人美国”，投资机器人增长和政策。",
+      "summary": "西门子加入“机器人美国”，投资机器人增长和政策发展。",
       "summaryZh": ""
     },
     {
-      "title": "从激光雷达到数据引擎，禾赛想要在物理AI中寻找第二增长曲线",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2RrbXVvc2dzQ18xbS1Fc3RpTHdxaEpieENoeUJMdGpreTdmQ28yWlN0d3k4cER5TS1FX1V2SERQTmtYTFh4ejdfU3ViVldEWGlYVElKVFM3eWtMVDR4dW9TMkh2Vklyc1hDRVVlNVpFdVBZSGRJZTk2bkJLOUVqYjkyQzEtNkhjREMxVXhpdw?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-15T10:30:00.000Z",
-      "summary": "禾赛发布三维世界数据引擎Kosmo，拓展物理AI应用领域。",
-      "summaryZh": ""
-    },
-    {
-      "title": "不是AI与制造业简单叠加 从工博会看新一代智能制造发展趋势",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKdDFEVFRSa3hJamtPTkR0SmJiVHY1bFQ3U1UtTURCSjFYbGJXODQyV1U3NHBDZTQ1V0pial9iSEpzUHltWEVwUVBmNVN2ZlhF?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-15T05:03:03.000Z",
-      "summary": "工博会展示新一代智能制造成果，关注点从形态转向交付与效率。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Packaging Line Automation: How To Improve Throughput Before Investing In New Equipment",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYjViUUNhbXFxSXpYR0dDcDRmcE9OaUNhYWVHU2tucFpMVUFqNGNZMVR5TmdmTE8tX1pvYjBQMnNNNlQ2Skh6dHdyQ3RUSTYtZ0paVEtsS28wdGtLUjRqcjYzWm5CZlQ3ZjcyZHJTeUpQaE1vYWM2blJVcXBRdi1BVUVGcHpudUNBOEthaVhTNkRCOXRHWjA3SzJ2WnZubm9zX19ib3AtbGhiUFNVSWV4bmJTUjBsUl8taXZOb1lDdjVYdHNLeWxCank1a2tOWHhDNU1wRGpRejQ?oc=5",
-      "source": "Automation World",
+      "title": "Best SAST Tools for Python and Java Automation Backends",
+      "link": "https://roboticsandautomationnews.com/2026/10/15/best-sast-tools-for-python-and-java-automation-backends/105982/",
+      "source": "Robotics & Automation News",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-10-15T17:40:34.000Z",
-      "summary": "通过低CAPEX自动化、优化生产线平衡和包装材料，提升制造效率，无需额外投资新设备。",
+      "pubDate": "2026-10-15T21:30:06.000Z",
+      "summary": "介绍五款针对Python和Java后端自动化构建的SAST工具及其特点。",
       "summaryZh": ""
     },
     {
-      "title": "Teriyaki Madness Announces Partnership with Zipline’s Drone Delivery Service",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMjNNb211amVVUkgzLU12SldPOU9YT0xfU2dwY2Y4dXhQLUhUeEhGZVVKSFcwYnNDNTRtMnJjeGZ6d1JsTFcxOFI0dkxPWXd5dzliQ3pOYUJlYVJ3TU5Pdl9QLXYyZWxKSU5ueHFEX0FaU0gxSTZOMWdPd2pfWVhwcjN1M29oWXB1Y2JlbEhKZzcyTmsxX2pHTjdzZ3N5Z2hSMGFUcEx6RWxJQm1LQWc?oc=5",
-      "source": "QSR Magazine",
-      "lang": "en",
+      "title": "荷兰一款AI控制无人机时速达百公里",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52dFg2VnRrTFpsOGdFYjFtdmttS3RiOXFDelBoTk5UU2NjSVZLMUhDcXI1MkVEWHRrR01vcFBzRnV1MzNIOTJ4U1RaRDFZVkh4RklHWjNKbXY0ZnhlejQxTw?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-15T21:12:49.000Z",
-      "summary": ""
+      "pubDate": "2026-10-14T23:03:00.000Z",
+      "summary": "荷兰AI控制无人机实现百公里时速飞行。",
+      "summaryZh": ""
     }
   ]
 }
