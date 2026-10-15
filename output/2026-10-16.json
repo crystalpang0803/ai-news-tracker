@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "generatedAt": "2026-10-15T22:40:23.072Z",
+  "generatedAt": "2026-10-15T23:43:27.757Z",
   "items": [
     {
       "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
@@ -10,6 +10,16 @@
       "category": "ai",
       "pubDate": "2026-10-15T08:48:31.000Z",
       "summary": "智库发布报告，解析企业智能化转型六大断点及全链路破局框架。",
+      "summaryZh": ""
+    },
+    {
+      "title": "英伟达发布 1200 亿参数大模型 Nemotron 3.5 Super VL：单 GPU 智能体任务吞吐量最高提升 5 倍，74B 版本压缩至 24GB",
+      "link": "https://www.ithome.com/1/013/679.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-15T15:19:12.000Z",
+      "summary": "英伟达发布Nemotron 3.5 Super VL大模型，单GPU智能体任务吞吐量提升5倍。",
       "summaryZh": ""
     },
     {
@@ -33,13 +43,33 @@
       "summaryZh": ""
     },
     {
+      "title": "沃尔沃与英伟达扩大合作，进一步提升未来车型自动驾驶安全性",
+      "link": "https://www.ithome.com/1/013/690.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-15T17:37:23.000Z",
+      "summary": "沃尔沃与英伟达深化合作，共同提升未来车型自动驾驶安全。",
+      "summaryZh": ""
+    },
+    {
       "title": "AI算力主线下，指数化布局或成把握产业趋势的高效方式，科创创业人工智能ETF景顺(159142)一键打包“国产芯片+光模块”",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5R0VQMFJycUZBaW8ySGhuM3Q0bHNMOVlxOFVRVkhzaml0aG54LTkwWFV4R3JRVDhDa2tYZHNxMGpzWW9WYWplRlJLSHB0ajhrTmhfNWlYMnE?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-15T07:11:54.000Z",
-      "summary": "景顺科创创业人工智能ETF（159142）涵盖国产芯片与光模块，助力投资者把握AI算力趋势。",
+      "summary": "景顺科创创业人工智能ETF（159142）涵盖国产芯片和光模块，助力投资者把握AI算力趋势。",
+      "summaryZh": ""
+    },
+    {
+      "title": "爱芯元智发布AX8860系列AI芯片 面向边端大模型部署",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mVmtiLU96ZDJqam8xRHN3a1BwOWFwOHZxdGpuTUtiSlNtSFdYNnZVbUN3YTVzLV9SNTdNQWxabEtWTUhuSVMybDAxb3dhQzRkanFsd2RwWlZtc0Zhd0tJV0JUbmNIUQ?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-15T07:33:47.000Z",
+      "summary": "爱芯元智发布AX8860系列AI芯片，支持大模型在边缘和端侧部署。",
       "summaryZh": ""
     },
     {
@@ -63,13 +93,13 @@
       "summaryZh": ""
     },
     {
-      "title": "南科大教授做手术机器人，融资数千万",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jSmVEeGN6LV91VGdyV2VkZ3QwY21YUWxIMUR0ZVJLemtsVkpiMkJxelBuSTE4VkJ6UU9zWXJzaDBNWWVFeFM1Vw?oc=5",
-      "source": "智东西",
+      "title": "黄仁勋谈中国 AI 公司：算力越缺，越逼着他们把架构做到极致",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LeEw0MXl4ZWQ3Y0FuTUY2SkdsMDV1N2UyaHExOG5VRElXeEVhVkpnMHo0a0ZhU0NDYTlpbjZrTW05S2JhaUlRT3BybF9KREkt?oc=5",
+      "source": "36氪",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-15T09:50:17.000Z",
-      "summary": "南科大教授创办的手术机器人公司爱博合创完成数千万元融资，用于产品研发和商业化。",
+      "category": "ai",
+      "pubDate": "2026-10-15T09:15:15.000Z",
+      "summary": "黄仁勋认为中国AI公司因算力短缺而推动架构优化。",
       "summaryZh": ""
     },
     {
@@ -80,16 +110,6 @@
       "category": "ai",
       "pubDate": "2026-10-15T09:43:29.000Z",
       "summary": "苹果智能接入阿里千问大模型，10月底在中国发布测试版本。",
-      "summaryZh": ""
-    },
-    {
-      "title": "微软办公AI 智能体技术突破：不换模型响应提速400%，词元消耗减30%",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0UFo4dEVTd1J3TnRpb2VOdE0xUDhkdVRZaHhpQkJ6MzJFT1U4QWIwYTQ0WnFzYU5nVmdQVjJtWmVDZjNTN05nWnJqel8?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-15T05:43:16.000Z",
-      "summary": "微软办公AI智能体技术升级，响应速度提升400%，词元消耗减少30%。",
       "summaryZh": ""
     },
     {
@@ -129,37 +149,37 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-15T05:22:42.000Z",
-      "summary": "港股大模型股智谱、MINIMAX股价均跌超10%。",
+      "summary": "港股大模型股智谱、MINIMAX跌超10%。",
       "summaryZh": ""
     },
     {
-      "title": "AI产业风向｜算力债务、语音生产与具身数据：AI产业的风险与落地正在分层",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBISjY3aURWcXg5SEZ0WGhGd0cyUVpsZHd0TFI0cEZhSEd5VnBia1I2RFhSYmQyajFhcUtPT05fMXdCX2dIeWtSSXFqTjZCRlQ5aXlseFBmQTN4UVdDZVZndm9yd2xNUzlCWGlj?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "source": "The Verge",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-10-15T01:19:00.000Z",
-      "summary": "AI产业风险与落地分层，算力债务、语音生产与具身数据成关注焦点。",
+      "pubDate": "2026-10-15T22:43:23.000Z",
+      "summary": "ChatGPT可查看Chrome标签页。",
       "summaryZh": ""
     },
     {
-      "title": "多点开花、加速落地 我国太空算力产业展现强劲发展势头",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMckt0czhnOXphSzg1NzlQWF9YWVBLMU5TdFE4dU5pcmlucDcxV3VIMV9Qc3BqeV9NWkxlelZId1pkTEhsWG1qT3FqY1ZTZXd1Z1ItY1AyRzFXZDNEOGxKVHg5ejJrT1NhNG1ZdVlYb1psQy05Z2tvcg?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-15T01:55:38.000Z",
-      "summary": "我国太空算力产业多点开花，发展势头强劲。",
+      "title": "How Warehouse Robots Cross Borders: What Global Automation Teams Get Wrong About International Shipping",
+      "link": "https://roboticsandautomationnews.com/2026/10/15/how-warehouse-robots-cross-borders-what-global-automation-teams-get-wrong-about-international-shipping/105937/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-15T11:12:56.000Z",
+      "summary": "全球自动化团队在国际物流中常因忽视关税分类等细节导致仓库机器人跨境受阻。",
       "summaryZh": ""
     },
     {
-      "title": "禾赛CEO李一帆：人形机器人并不代表自动化升级，是物理AI基建还没跟上",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CejgwbGQ1dml6ZjA5UjYzT2tiblM2eHZGMHBCN3BnV0xvUzhLa2NoZk5GeU9WRG1xZFpOWnVEeVZ2M2dSVEljRThUbjR0M29IUlRuUlhOZk5LUjZXZVBEMA?oc=5",
-      "source": "澎湃新闻科技",
+      "title": "晚上十点加班的机械臂：AI搞科研，到底在替谁打工？",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aeEM5Ym1PWU0tY3FRQlFjMjRSUHp0dlhnbkx6NlcwV0RrRWtrQUNKeTZrWS0xZHp6Wi1PeUNnbjdrdXV2S0JjNC1BZGpjcW9O?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-15T01:20:00.000Z",
-      "summary": "人形机器人不代表自动化升级，物理AI基建尚待完善。",
+      "pubDate": "2026-10-15T12:41:18.000Z",
+      "summary": "AI在科研中扮演辅助角色，加速材料发现和生物制药进程。",
       "summaryZh": ""
     },
     {
@@ -173,6 +193,16 @@
       "summaryZh": ""
     },
     {
+      "title": "从手机影像到机器人触觉，ams OSRAM如何让光成为智能终端感知世界的新入口",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96ZkVjbEl6aTYyd0xBeVVPZXFyc19tZXI4LVl4ZGwtZmphbEFiZnUzSFFEbnBVZW9BX2tZdUZYUy1pbjRzblhSV1J1dFhabUp0TmEzSjZ3QQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-15T08:38:11.000Z",
+      "summary": "ams OSRAM技术让光成为智能终端感知世界的新途径。",
+      "summaryZh": ""
+    },
+    {
       "title": "出海50个国家和地区！嘉定这家“机器人大脑”赋能全球工业制造",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6a05CUjk0VVRHaHhpQS1HQXhvZ2hNdkx5ZzBSdGNuLVEtODFNWFJRRjZCRGN2NHlKaU85YVhWNm9yaE5fQUszQ1Q0NG9XOHdkWnFtZmMzSQ?oc=5",
       "source": "与非网",
@@ -180,46 +210,6 @@
       "category": "robotics",
       "pubDate": "2026-10-15T13:29:22.000Z",
       "summary": "嘉定“机器人大脑”助力全球工业制造拓展至50国。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sVzlMZGVCUU5tYXJKamJhMS1tYUlMNFdrM2ZiZnhhSXdhRWREMkJOR1MzMmpyblVNM1BsYVVQbWNwLTBwdHdBa2JQQVhuemRYVG5oNFg0YmZiNTI4cEJnVEY3bXR2MmNTei1HcU40S2dvc29aa1R3?oc=5",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-15T11:00:00.000Z",
-      "summary": "儿童机器人玩具存中国服务器，易受黑客攻击。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Siemens Joins Robots For America, Investing In Robotics Growth And Policy",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV3pEQmEtYWhjNmkwR2tjRF9WNUFFUm93MkdVUGZQYVhoa3FOU2tZX2JmcGMtQ2hncVVwQkhkUU9wMXBCYzRhWkw3ZTIwTThoV0doZ0diNjFKU0xaelZpUXhoTFZ6U0xZNkxSVVpPaU5XbjgxU3hhdlB5V2VnR0xFck44alZPWmRfNndWUFhRSmhzc25HYWhoN1R3clpWWU5uVWY2UDJZMHRXLURHN1lIeXhfVUpmcnM2VkFGMlVHdWctWGhTWTByMjNtR2xKczlVWWpmYm1UbzNGbUwyTmVJeGNfQQ?oc=5",
-      "source": "Automation World",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-15T17:10:31.000Z",
-      "summary": "西门子加入“机器人美国”，投资机器人增长和政策发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Best SAST Tools for Python and Java Automation Backends",
-      "link": "https://roboticsandautomationnews.com/2026/10/15/best-sast-tools-for-python-and-java-automation-backends/105982/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-15T21:30:06.000Z",
-      "summary": "介绍五款针对Python和Java后端自动化构建的SAST工具及其特点。",
-      "summaryZh": ""
-    },
-    {
-      "title": "荷兰一款AI控制无人机时速达百公里",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52dFg2VnRrTFpsOGdFYjFtdmttS3RiOXFDelBoTk5UU2NjSVZLMUhDcXI1MkVEWHRrR01vcFBzRnV1MzNIOTJ4U1RaRDFZVkh4RklHWjNKbXY0ZnhlejQxTw?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-14T23:03:00.000Z",
-      "summary": "荷兰AI控制无人机实现百公里时速飞行。",
       "summaryZh": ""
     }
   ]
