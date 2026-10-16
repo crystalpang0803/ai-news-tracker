@@ -1,45 +1,15 @@
 {
   "date": "2026-10-16",
-  "generatedAt": "2026-10-15T23:43:27.757Z",
+  "generatedAt": "2026-10-16T00:46:44.066Z",
   "items": [
     {
-      "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93aVJDcFZMTTVfYUU3R0ViR1RQQ1ZPc3Zob0lCaU51M2JXZXlpQ1RiT3M5cjEzZl9XWVZDNWFLbDVZQ1lkV2cteEVfT1BkVGlKVmlpcw?oc=5",
-      "source": "量子位",
+      "title": "中信证券：AI EDA正成为AI Agent落地下一个重要方向，EDA价值有望重估",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HVjZDb0diNFVzRlNRWE96X0RjZWRKRGlwVjVncGppNzJHQ0NXYTd4cGZLaGNLVDUwZ3doemZ5NjV2ODdjWnhhcGpxQVFFOTZwVDdmQTV5STQ?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-15T08:48:31.000Z",
-      "summary": "智库发布报告，解析企业智能化转型六大断点及全链路破局框架。",
-      "summaryZh": ""
-    },
-    {
-      "title": "英伟达发布 1200 亿参数大模型 Nemotron 3.5 Super VL：单 GPU 智能体任务吞吐量最高提升 5 倍，74B 版本压缩至 24GB",
-      "link": "https://www.ithome.com/1/013/679.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-15T15:19:12.000Z",
-      "summary": "英伟达发布Nemotron 3.5 Super VL大模型，单GPU智能体任务吞吐量提升5倍。",
-      "summaryZh": ""
-    },
-    {
-      "title": "“机器人之眼”收入成谜，股东套现7.8亿，奥比中光278倍PE谁在买单？",
-      "link": "https://www.tmtpost.com/8168985.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-15T10:21:28.000Z",
-      "summary": "奥比中光机器人业务收入成谜，股东套现7.8亿，PE高达278倍引质疑。",
-      "summaryZh": ""
-    },
-    {
-      "title": "由盈转亏，云深处IPO依旧全靠机器狗",
-      "link": "https://www.tmtpost.com/8168901.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-15T10:09:35.000Z",
-      "summary": "云深处IPO由盈转亏，主要依赖机器狗产品，人形机器人商业化进展缓慢。",
+      "pubDate": "2026-10-16T00:21:50.000Z",
+      "summary": "AI EDA成为AI Agent落地关键，EDA价值重估可期。",
       "summaryZh": ""
     },
     {
@@ -59,17 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-15T07:11:54.000Z",
-      "summary": "景顺科创创业人工智能ETF（159142）涵盖国产芯片和光模块，助力投资者把握AI算力趋势。",
-      "summaryZh": ""
-    },
-    {
-      "title": "爱芯元智发布AX8860系列AI芯片 面向边端大模型部署",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mVmtiLU96ZDJqam8xRHN3a1BwOWFwOHZxdGpuTUtiSlNtSFdYNnZVbUN3YTVzLV9SNTdNQWxabEtWTUhuSVMybDAxb3dhQzRkanFsd2RwWlZtc0Zhd0tJV0JUbmNIUQ?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-15T07:33:47.000Z",
-      "summary": "爱芯元智发布AX8860系列AI芯片，支持大模型在边缘和端侧部署。",
+      "summary": "景顺科创创业人工智能ETF打包“国产芯片+光模块”，助力AI产业趋势把握。",
       "summaryZh": ""
     },
     {
@@ -83,23 +43,53 @@
       "summaryZh": ""
     },
     {
+      "title": "人形机器人最尴尬的事：长了一双腿，却只能定住干活",
+      "link": "http://www.geekpark.net/news/372420",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-15T10:20:44.000Z",
+      "summary": "人形机器人因双腿稳定性问题，难以实现高效工作。",
+      "summaryZh": ""
+    },
+    {
       "title": "李飞飞和姚班大神，给机器人造了个数据流水线，还能自己进化",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wMGNQQ25SU0Flc0R3cW82REdTVTVUTXd3UnRKZEZUTUhZdzRaUE1HcElSdktMdkh4WVg5UFdndENsMUtVeC1Leg?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-15T05:34:35.000Z",
-      "summary": "李飞飞团队开发DexAgent，实现机器人数据流水线与自主进化。",
+      "summary": "李飞飞团队开发DexAgent，实现机器人数据流水线及自主进化。",
       "summaryZh": ""
     },
     {
-      "title": "黄仁勋谈中国 AI 公司：算力越缺，越逼着他们把架构做到极致",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LeEw0MXl4ZWQ3Y0FuTUY2SkdsMDV1N2UyaHExOG5VRElXeEVhVkpnMHo0a0ZhU0NDYTlpbjZrTW05S2JhaUlRT3BybF9KREkt?oc=5",
+      "title": "南科大教授做手术机器人，融资数千万",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jSmVEeGN6LV91VGdyV2VkZ3QwY21YUWxIMUR0ZVJLemtsVkpiMkJxelBuSTE4VkJ6UU9zWXJzaDBNWWVFeFM1Vw?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-15T09:50:17.000Z",
+      "summary": "南科大教授研发手术机器人，爱博合创完成数千万元融资。",
+      "summaryZh": ""
+    },
+    {
+      "title": "梁文锋盯上机器人，大模型要取代具身模型？",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HMmlrZDZaRFprMTBWWnNFSXZULTRGMXlOYzhYbG9GZWs1YkpmV2h6Qk13ZjlsXzNZd1NiSFFaMndXV1NHZmZPdWU0SG1oUEJR?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-15T09:15:15.000Z",
-      "summary": "黄仁勋认为中国AI公司因算力短缺而推动架构优化。",
+      "pubDate": "2026-10-16T00:34:35.000Z",
+      "summary": "梁文锋接触机器人公司，探索大模型在具身智能领域的应用。",
+      "summaryZh": ""
+    },
+    {
+      "title": "CoreWeave创始人套现33亿美元：AI算力泡沫的第一道裂缝",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zTEozSjRIQ0xfQkk2d01vekNlZ2h3ZURTc3p5X2U1b1RTRFZKODVUMmNPMHRlb3dpVGtLTy1ZbzVxTWFHdnJKNlBRUWRHWnc?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-16T00:45:10.000Z",
+      "summary": "CoreWeave创始人套现33亿美元，AI算力泡沫风险引关注。",
       "summaryZh": ""
     },
     {
@@ -113,13 +103,13 @@
       "summaryZh": ""
     },
     {
-      "title": "覆盖1000余个场景，工信部发布人工智能“产业导航图”",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5LTRxOGpwVTFfSTRtQTR4SEZEZXdXcGo1cGRlUWhtZEdWUjlSa0NrZ3p6TXJheGtnX1NiTnc4TUpMMGxJT0I1R1pySjNGWE14LU16TEMwaG4?oc=5",
-      "source": "界面新闻",
+      "title": "155款App向豆包手机说“不”，智能体为什么翻不过互联网的围墙？",
+      "link": "https://www.tmtpost.com/8169608.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-15T10:40:24.000Z",
-      "summary": "工信部发布覆盖1000余场景的人工智能“产业导航图”。",
+      "pubDate": "2026-10-15T08:32:49.000Z",
+      "summary": "豆包手机助手SAEP协议遭155款App拒绝，引发流量和隐私担忧。",
       "summaryZh": ""
     },
     {
@@ -129,7 +119,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-15T11:51:13.000Z",
-      "summary": "我国生成式AI用户突破7亿，超7成用于回答问题。",
+      "summary": "我国生成式AI用户超7亿，超7成用于回答问题。",
       "summaryZh": ""
     },
     {
@@ -143,53 +133,13 @@
       "summaryZh": ""
     },
     {
-      "title": "财联社10月15日电，港股大模型股走低，智谱、MINIMAX均跌超10%。",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE05R1lOLWd1SVl0TGZpNTFiV3ZGZDNvbExRM0h2YkxxeXI4MjNOSk9YSTlqMXVDQ1hSRGJ5QW9JYjBhN25RNmtwNQ?oc=5",
-      "source": "财联社",
+      "title": "AI产业风向｜算力债务、语音生产与具身数据：AI产业的风险与落地正在分层",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBISjY3aURWcXg5SEZ0WGhGd0cyUVpsZHd0TFI0cEZhSEd5VnBia1I2RFhSYmQyajFhcUtPT05fMXdCX2dIeWtSSXFqTjZCRlQ5aXlseFBmQTN4UVdDZVZndm9yd2xNUzlCWGlj?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-15T05:22:42.000Z",
-      "summary": "港股大模型股智谱、MINIMAX跌超10%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-15T22:43:23.000Z",
-      "summary": "ChatGPT可查看Chrome标签页。",
-      "summaryZh": ""
-    },
-    {
-      "title": "How Warehouse Robots Cross Borders: What Global Automation Teams Get Wrong About International Shipping",
-      "link": "https://roboticsandautomationnews.com/2026/10/15/how-warehouse-robots-cross-borders-what-global-automation-teams-get-wrong-about-international-shipping/105937/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-15T11:12:56.000Z",
-      "summary": "全球自动化团队在国际物流中常因忽视关税分类等细节导致仓库机器人跨境受阻。",
-      "summaryZh": ""
-    },
-    {
-      "title": "晚上十点加班的机械臂：AI搞科研，到底在替谁打工？",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aeEM5Ym1PWU0tY3FRQlFjMjRSUHp0dlhnbkx6NlcwV0RrRWtrQUNKeTZrWS0xZHp6Wi1PeUNnbjdrdXV2S0JjNC1BZGpjcW9O?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-15T12:41:18.000Z",
-      "summary": "AI在科研中扮演辅助角色，加速材料发现和生物制药进程。",
-      "summaryZh": ""
-    },
-    {
-      "title": "行业间呈K型分化 松下FA：AI基建投资带动业绩增长 将具身智能、液冷培育为第二增长曲线",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oeGlsQU1fNEEtMU04SEZmeTFFczBmXzdTbFZUd1ZyV1hNQzd6TUlqTVZrVVhFRm1wTS1EXzdFbzBKS2lWWGlzbmRhN3ZVQ3BpaW1TbXJYWGRFM2Q0dEZTUDRMNTkxUQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-15T11:09:00.000Z",
-      "summary": "松下FA业绩增长，AI基建投资推动，培育具身智能、液冷为第二增长曲线。",
+      "pubDate": "2026-10-15T01:19:00.000Z",
+      "summary": "AI产业风险与落地分层，算力债务、语音生产与具身数据成关注焦点。",
       "summaryZh": ""
     },
     {
@@ -199,7 +149,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-15T08:38:11.000Z",
-      "summary": "ams OSRAM技术让光成为智能终端感知世界的新途径。",
+      "summary": "ams OSRAM利用光技术提升智能终端感知能力。",
       "summaryZh": ""
     },
     {
@@ -210,6 +160,66 @@
       "category": "robotics",
       "pubDate": "2026-10-15T13:29:22.000Z",
       "summary": "嘉定“机器人大脑”助力全球工业制造拓展至50国。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sVzlMZGVCUU5tYXJKamJhMS1tYUlMNFdrM2ZiZnhhSXdhRWREMkJOR1MzMmpyblVNM1BsYVVQbWNwLTBwdHdBa2JQQVhuemRYVG5oNFg0YmZiNTI4cEJnVEY3bXR2MmNTei1HcU40S2dvc29aa1R3?oc=5",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-15T11:00:00.000Z",
+      "summary": "儿童机器人玩具存中国服务器，易受黑客攻击。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Siemens Joins Robots For America, Investing In Robotics Growth And Policy",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV3pEQmEtYWhjNmkwR2tjRF9WNUFFUm93MkdVUGZQYVhoa3FOU2tZX2JmcGMtQ2hncVVwQkhkUU9wMXBCYzRhWkw3ZTIwTThoV0doZ0diNjFKU0xaelZpUXhoTFZ6U0xZNkxSVVpPaU5XbjgxU3hhdlB5V2VnR0xFck44alZPWmRfNndWUFhRSmhzc25HYWhoN1R3clpWWU5uVWY2UDJZMHRXLURHN1lIeXhfVUpmcnM2VkFGMlVHdWctWGhTWTByMjNtR2xKczlVWWpmYm1UbzNGbUwyTmVJeGNfQQ?oc=5",
+      "source": "Automation World",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-15T17:10:31.000Z",
+      "summary": "西门子加入“机器人美国”，投资机器人增长和政策发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Best SAST Tools for Python and Java Automation Backends",
+      "link": "https://roboticsandautomationnews.com/2026/10/15/best-sast-tools-for-python-and-java-automation-backends/105982/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-15T21:30:06.000Z",
+      "summary": "介绍五款针对Python和Java后端自动化构建的SAST工具及其特点。",
+      "summaryZh": ""
+    },
+    {
+      "title": "香港首个具身智能国际应用训练场开幕",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DMmM2OXlidWlyMXRTbmZ1RmNSbmt1ak4tc2VBTkVsV3ctQXRtTXR6am5nWmdwUjZ3bmZlVFlORHNPS0g2ODZab1hhbDMzX0djQVY1WmlTU051dmNCblJOa05oSnA3SWd3d1kzQUhCR09MVmZXb0tobEhXQXVyUQ?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-15T12:18:47.000Z",
+      "summary": "香港首个具身智能国际应用训练场正式启用，旨在推动技术走向产业应用。",
+      "summaryZh": ""
+    },
+    {
+      "title": "从激光雷达到数据引擎，禾赛想要在物理AI中寻找第二增长曲线",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2RrbXVvc2dzQ18xbS1Fc3RpTHdxaEpieENoeUJMdGpreTdmQ28yWlN0d3k4cER5TS1FX1V2SERQTmtYTFh4ejdfU3ViVldEWGlYVElKVFM3eWtMVDR4dW9TMkh2Vklyc1hDRVVlNVpFdVBZSGRJZTk2bkJLOUVqYjkyQzEtNkhjREMxVXhpdw?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-15T10:30:00.000Z",
+      "summary": "禾赛发布三维世界数据引擎Kosmo，拓展物理AI应用领域。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Packaging Line Automation: How To Improve Throughput Before Investing In New Equipment",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYjViUUNhbXFxSXpYR0dDcDRmcE9OaUNhYWVHU2tucFpMVUFqNGNZMVR5TmdmTE8tX1pvYjBQMnNNNlQ2Skh6dHdyQ3RUSTYtZ0paVEtsS28wdGtLUjRqcjYzWm5CZlQ3ZjcyZHJTeUpQaE1vYWM2blJVcXBRdi1BVUVGcHpudUNBOEthaVhTNkRCOXRHWjA3SzJ2WnZubm9zX19ib3AtbGhiUFNVSWV4bmJTUjBsUl8taXZOb1lDdjVYdHNLeWxCank1a2tOWHhDNU1wRGpRejQ?oc=5",
+      "source": "Automation World",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-15T17:40:34.000Z",
+      "summary": "通过低CAPEX自动化、优化生产线平衡和包装材料，提升制造效率，无需额外设备投资。",
       "summaryZh": ""
     }
   ]
