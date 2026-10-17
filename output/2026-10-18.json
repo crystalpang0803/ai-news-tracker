@@ -1,7 +1,17 @@
 {
   "date": "2026-10-18",
-  "generatedAt": "2026-10-17T18:25:34.330Z",
+  "generatedAt": "2026-10-17T20:29:54.415Z",
   "items": [
+    {
+      "title": "梁圣又掀桌了！DeepSeek新模型斩杀GPT-6，许愿式编程时代降临",
+      "link": "https://zhidx.com/p/601905.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-17T10:03:11.000Z",
+      "summary": "DeepSeek新模型V4.1-Flash-1017发布，性能超越GPT-6，开启许愿式编程时代。",
+      "summaryZh": ""
+    },
     {
       "title": "宇树科技展示中心在天津建成投用，集中陈列多款机器人产品",
       "link": "https://www.ithome.com/1/014/380.htm",
@@ -13,33 +23,13 @@
       "summaryZh": ""
     },
     {
-      "title": "通用大模型正在重做机器人的研发与交付",
-      "link": "https://www.tmtpost.com/8171971.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-17T09:29:15.000Z",
-      "summary": "通用大模型开始承担更多机器人研发与交付工作。",
-      "summaryZh": ""
-    },
-    {
-      "title": "夹在字节缝隙中的AI融资明星们",
-      "link": "https://www.tmtpost.com/8171535.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-17T07:38:37.000Z",
-      "summary": "AI视频企业面临字节生态整合挑战，融资明星面临机遇与困境。",
-      "summaryZh": ""
-    },
-    {
       "title": "华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS",
       "link": "https://www.ithome.com/1/014/390.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-17T11:56:31.000Z",
-      "summary": "华硕发布首款英特尔 Arc Pro B70 显卡，32GB ECC 显存，AI 算力达 367 TOPS。",
+      "summary": "华硕发布首款英特尔 Arc Pro B70 显卡，32GB ECC 显存，AI 算力 367 TOPS。",
       "summaryZh": ""
     },
     {
@@ -49,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-17T01:51:59.000Z",
-      "summary": "香港首个具身智能国际应用训练场揭幕，智平方等七家公司成首批技术伙伴。",
+      "summary": "香港首个具身智能国际应用训练场揭幕，智平方等七家公司成为首批技术伙伴。",
       "summaryZh": ""
     },
     {
@@ -59,27 +49,26 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-17T00:07:02.000Z",
-      "summary": "中国机器人产业吸引全球企业合作，共同应对技术挑战。",
+      "summary": "中国机器人产业吸引全球企业合作，共同推动技术进步和产业链完善。",
       "summaryZh": ""
     },
     {
-      "title": "“眼脑手”全链升级 具身智能加速落地制造一线",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tQ3NHTWJTRk5TaTVNa094MzNoZl80ZnQtOTY1d1VyYlo0OVdROFVNQzhNZGxPSE1jVlpxVkp2UW9SVE50b2NTa3ZRZjJ2bjZEQWxvdjAtVm5pdTNqdFdhNQ?oc=5",
-      "source": "光明网",
+      "title": "豆包工作上线，AI巨头狂卷办公场景，独立客户端成标配？",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5MVBBTVM0OTVTRmxnQzVCMkV5S2pWemZ2enR2WEgzSEFmMmxTVFc2cFFMRnZxYWtqVWxwMnZJRnl2Nmd1bm1ON3FLSEMwdw?oc=5",
+      "source": "36氪",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-17T12:20:00.000Z",
-      "summary": "梅卡曼德机器人“眼脑手”全链升级，加速具身智能在制造一线应用。",
-      "summaryZh": ""
+      "category": "ai",
+      "pubDate": "2026-10-17T15:48:21.000Z",
+      "summary": ""
     },
     {
-      "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
-      "link": "https://www.qbitai.com/2026/10/503910.html",
+      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51UnY4TUJneU9XcWVrMzUxSzZSVDVhaU45NXh0MmFmcWZCajc2LWtodVhpRnJxQ1ZVdnYyTmFaUG1mWG5EQzlzM1p4SEtxYzVvbDdfNw?oc=5",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-17T12:06:51.000Z",
-      "summary": "AI Claude半小时破解20年密码学悬案，揭示NIST标准椭圆曲线种子生成真相。",
+      "pubDate": "2026-10-17T12:10:35.000Z",
+      "summary": "清华开源智能体操作系统PilotDeck 2.0，降低AI任务成本83%，实现AI记忆可查可改。",
       "summaryZh": ""
     },
     {
@@ -89,7 +78,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-17T05:39:10.000Z",
-      "summary": "20个大模型挑战《杀戮尖塔》A20难度，仅GPT-5.6 Sol通关一次心脏。",
+      "summary": "大模型在《杀戮尖塔》A20难度测试中通关率低，策略保守导致失败。",
+      "summaryZh": ""
+    },
+    {
+      "title": "广交会：人工智能新品为外贸增长注入新动能",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBONmF6dW5kR0VBRm5EVHpDeGgwTUt3OV9tMEh0a0JpTTRuME8wdklNTXVsQmJiQTdzQ2JxcmhkSDZlUUJNZl9yMUdkLWlDQ2UtaUM5cDM5d3JtQQ?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-17T12:14:00.000Z",
+      "summary": "广交会人工智能新品助力外贸增长。",
       "summaryZh": ""
     },
     {
@@ -100,26 +99,6 @@
       "category": "ai",
       "pubDate": "2026-10-16T21:43:59.000Z",
       "summary": "腾讯WorkBuddy企业版推出一站式Agent可观测平台，实现智能体全链路管理。",
-      "summaryZh": ""
-    },
-    {
-      "title": "破解跨域协同瓶颈，智能体互联平台发布",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tdDBuMi04TXc0RjFWZWZLOHRPYnZTMFBWQmkzUi1MR05vN0J3VHBacEduQl9CRlVlejc5eHhwcDhyODBHaDZJOHZ2UWhkREozbkFHd3Yxa0g?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-17T03:15:29.000Z",
-      "summary": "智能体互联平台AXP发布，破解跨域协同难题。",
-      "summaryZh": ""
-    },
-    {
-      "title": "深化拓展“人工智能+”，国常会最新部署",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YUmtZbUwzWXhseDZpN2xiYWdydktKRmYyckVZUGU5S0taUV9aMWFQdFdjUW5uTFEtSVVBcVI4Z1FzVkdVRmJyRVZvWnJ4ZWhaeFgw?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-17T02:38:35.000Z",
-      "summary": "国常会部署深化“人工智能+”行动，强化技术创新与产业应用融合。",
       "summaryZh": ""
     },
     {
@@ -169,7 +148,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-17T00:09:10.000Z",
-      "summary": "智慧养老产品满足多样化需求，从试点走向普及。",
+      "summary": "智慧养老产品应用普及，满足多样化养老需求。",
       "summaryZh": ""
     },
     {
@@ -182,6 +161,26 @@
       "summary": "特斯拉Optimus机器人获机器人专家评价。",
       "summaryZh": "",
       "titleZh": "机器人专家对特斯拉擎天柱机器人的看法"
+    },
+    {
+      "title": "北京：中小学生智能机器人大比拼",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ0NkYzZZV0hHM2lIallJZ1YzS2RVaTM1RnhCV2NOd2RJUkFpZWstb01CbnRHMFpEcjRybzhMNVlvczZWRUN4R3hkQmFWNkw0SnlBcnBXYzRqbDhpZUNDbl9LMmpLLWppeUNXQnZiOGhXZ2lkcTRZOGM5NEZtc2wtcFRkckFEYmZ3SjJHMWI2TQ?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-17T12:03:47.000Z",
+      "summary": "北京举办中小学生智能机器人比赛，200多支队伍400余选手参与。",
+      "summaryZh": ""
+    },
+    {
+      "title": "广交会上的机器人出海记：从“卖产品”到“建体系”",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YVW9NZmZ4Q1ViZlNDS3E0T3hGRFY3SVhIN25YMmtIV2o2Qk4tWjMyT3ZwRWpMd3VveVp0N0szSVNHQ2g0VHhWQ0o5Vi11OWpkbzdZWmo1dVRNV2xaRkJRWHFzU21KUmREMEtqelNwQ2JPaEN0V095MA?oc=5",
+      "source": "央视网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-17T15:52:00.000Z",
+      "summary": "中国机器人企业广交会上展示从产品销售到海外服务体系搭建的新趋势。",
+      "summaryZh": ""
     },
     {
       "title": "全国粮食安全宣传周｜当育种遇上AI和机器人，“汗水农业”向“智慧农业”加速迈进",
@@ -210,7 +209,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-16T23:16:58.000Z",
-      "summary": "济南开设机器人专业学校，培养实际操作技能。",
+      "summary": "济南开设机器人专业培训学校，培养实际操作技能。",
       "summaryZh": ""
     },
     {
@@ -220,29 +219,8 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-17T11:33:00.000Z",
-      "summary": "沈阳打造AI文旅互动剧，培育本土AI产业新力量。",
+      "summary": "沈阳打造AI文旅互动剧，推动产教融合培育AI新力量。",
       "summaryZh": ""
-    },
-    {
-      "title": "聚焦真实生活场景，中小学生用国产开源硬件搭建智能机器人",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iZXl5QVpIc1BLaEFQV3BkSEs3YmNHd1o1VnRNaWF2aWpIclc2VEpXZmZpMTNDSkFEOVNOazlfWW1BR0dMRmJTOFkya3FUaTktb0NtZEhGdzE0NkFmcWZ0ZDBJTWU?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-17T07:03:00.000Z",
-      "summary": "中小学生利用国产开源硬件搭建智能机器人参赛。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Team develops embodied robotic arm 'EmArm' with human-like touch sensing",
-      "link": "https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-17T11:00:13.000Z",
-      "summary": "研发出具有类似人类触觉感知的机器人手臂EmArm。",
-      "summaryZh": "",
-      "titleZh": "团队开发具有类人触摸感应功能的实体机械臂“EmArm”"
     }
   ]
 }
