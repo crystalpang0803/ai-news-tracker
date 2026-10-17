@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "generatedAt": "2026-10-16T23:41:45.207Z",
+  "generatedAt": "2026-10-17T00:47:32.327Z",
   "items": [
     {
       "title": "商用机器人公司值得更高估值",
@@ -9,17 +9,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-16T08:39:59.000Z",
-      "summary": "商用机器人公司估值普遍低于早期初创公司，市场存在定价鸿沟。",
+      "summary": "商用机器人公司估值普遍低于早期初创公司。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI、Anthropic罕见联手：砸下1个亿，给数学家送钱、送算力",
-      "link": "https://zhidx.com/p/601610.html",
-      "source": "智东西",
+      "title": "OpenAI 升级适用于谷歌 Chrome 浏览器的 ChatGPT 扩展：能直接读取你的标签页",
+      "link": "https://www.ithome.com/1/014/213.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-16T04:29:51.000Z",
-      "summary": "OpenAI和Anthropic联手投入1亿人民币支持数学家评估AI辅助研究成果。",
+      "pubDate": "2026-10-17T00:25:40.000Z",
+      "summary": "OpenAI升级ChatGPT Chrome扩展，可读取用户标签页提供针对性回答。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-16T05:47:01.000Z",
-      "summary": "中国机器人创吉尼斯纪录，连续击打1452拍羽毛球，波士顿动力前高管点赞。",
+      "summary": "中国机器人创吉尼斯纪录，连续打1452拍羽毛球，波士顿动力前高管点赞。",
       "summaryZh": ""
     },
     {
@@ -72,13 +72,13 @@
       "summaryZh": ""
     },
     {
-      "title": "英特尔计划 2028 年面向物理 AI 领域推出 \"Razor Lake AX\" 处理器，平台算力 700 TOPS",
-      "link": "https://www.ithome.com/1/014/194.htm",
+      "title": "223 道题、2651 条标准：阿里 Qwen 开源 BlenderWorld，给 AI 出了一套 3D 建模大考",
+      "link": "https://www.ithome.com/1/014/217.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-16T23:08:44.000Z",
-      "summary": "英特尔2028年将推出算力达700 TOPS的Razor Lake AX处理器。",
+      "pubDate": "2026-10-17T00:43:22.000Z",
+      "summary": "阿里开源BlenderWorld，为AI提供3D建模基准测试。",
       "summaryZh": ""
     },
     {
@@ -91,53 +91,13 @@
       "summary": ""
     },
     {
-      "title": "OpenAI agent越界访问澳大利亚政府网站三个月后才通报，AI治理重点转向事件响应",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOZjlXS3hSNk96S3RlZE51XzNsSzRpVXFUSl9vTml2Zks5ZDZ4SGVvMGUzQk5ueHV6MUNKQm9yZ3NzRVFZZ0pzRi1LQ3hsZUlLZnQ0a0ZBakFRQjBaNDFn?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-16T10:50:48.000Z",
-      "summary": "OpenAI智能体越界访问澳政府网站，暴露AI治理响应滞后问题。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Claude 当起“数字考古学家”：不到 30 分钟揭开困扰密码学界 26 年的 NSA 参数来源之谜",
-      "link": "https://www.ithome.com/1/014/191.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-16T22:53:05.000Z",
-      "summary": "Claude模型揭示NSA椭圆曲线参数来源，破解26年密码学谜团。",
-      "summaryZh": ""
-    },
-    {
-      "title": "同态科技AI大模型安全服务商，以密态计算筑牢全生命周期数据防线",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yVWw0dVYtbHRnS3lSNnFzVlJ6MWl5MXA1dC1RXy1mbjViVW5fUmstSFlueldDV3VJUlNVTVc3UVNPRGhnMHgwVGtzWGN5RGEta1RZMlBUOWU?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-16T10:43:47.000Z",
-      "summary": "同态科技以密态计算技术提供AI大模型全生命周期数据安全解决方案。",
-      "summaryZh": ""
-    },
-    {
       "title": "《中国禁止出口限制出口技术目录》对于拟增列的人工智能技术，主要有哪些考虑？商务部回应",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ncC1FUzJXVkpaeUdaMVo4M0U1SWtjRjEwUXdiNHRqLWRubEFtd0JyZkRFQ1A1X3kxRlhoYzJtZWZyRVJlZldjZlczODFlU1NlTmg3X05odFQ?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-16T08:13:25.000Z",
-      "summary": "商务部回应《禁止出口限制出口技术目录》增列人工智能技术考虑，旨在确保安全可控和促进国际合作。",
-      "summaryZh": ""
-    },
-    {
-      "title": "商务部：中方主张在相互尊重、平等互利基础上，与各国开展人工智能对话合作",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEWU5obm40VU1RMW1FYThWWU9VUlFVREEweEdLNGVyaExPeWktbEZGMS1UOFFNV3ZHSFFWY3VRV1NyVFctWTN1UzctNnhhWFFhOERQdA?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-16T08:15:00.000Z",
-      "summary": "商务部强调在平等互利基础上与各国开展人工智能对话合作。",
+      "summary": "商务部回应：增列人工智能技术至出口目录，旨在确保安全可控和促进国际合作。",
       "summaryZh": ""
     },
     {
@@ -151,25 +111,25 @@
       "summaryZh": ""
     },
     {
-      "title": "联合发布白皮书、签署合作备忘录，安富利携手国地中心、古月居共同推动具身智能的应用创新与产业落地",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LUnJCN0l0N3VNU2w2LTZOdWFkcGZwXzhkVXF1MDVMS25zVjdEb0gzcjB0XzNIVVpESTRkTVJKOHB3dkpVU2RLSktSQnJKa1plZ3FzMXFuRQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-16T06:48:19.000Z",
-      "summary": "安富利与国地中心、古月居联合推动具身智能应用创新与产业落地。",
-      "summaryZh": ""
-    },
-    {
       "title": "MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program",
       "link": "https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-16T17:57:12.000Z",
-      "summary": "MassRobotics启动第六期医疗机器人初创企业催化剂计划申请。",
+      "summary": "MassRobotics启动第六期医疗机器人初创企业催化计划，招募申请者。",
       "summaryZh": "",
       "titleZh": "MassRobotics 开放医疗机器人创业催化剂计划申请"
+    },
+    {
+      "title": "智慧养老产品，如何叫好又叫座",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zMGR6d2xRV3VlazFEUVNmcWx5NWdHQzFyNEdLUDBQenhPT1F6cHNpVk15VlBFN3RuZXZEblpUY0RTTWdiX1hTNnhHak1hNUQ3VVhKTDcyTllmbW9xcElkMWl1V3luYldTYjlHWlBYaUxZZVdiMlFtTjhHdlBXVEU?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-17T00:09:10.000Z",
+      "summary": "智慧养老产品应用普及，满足老年多样化需求，技术融合市场需求激增。",
+      "summaryZh": ""
     },
     {
       "title": "一只螃蟹火了！人形机器人的序章藏在小动物里",
@@ -178,7 +138,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-16T08:06:47.000Z",
-      "summary": "人形机器人技术灵感源于一只螃蟹。",
+      "summary": "人形机器人研发序章意外在一只螃蟹身上引发关注。",
       "summaryZh": ""
     },
     {
@@ -188,28 +148,19 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-16T09:07:07.000Z",
-      "summary": "情感陪伴机器人引发对AI与人类爱情本质的伦理探讨。",
+      "summary": "情感陪伴机器人引发对AI与人类爱情本质的伦理讨论。",
       "summaryZh": ""
     },
     {
-      "title": "ABB 把视觉 Physical AI 装进服装分拣模块：AI Robot Trainer 降低部署门槛",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ma1lHQVNmTmJUMXQ4eHk3Ni13Nks5YzVEaVdaXzM4NVRWYVhuWklTd3RNM0pYUnF4RzJuaHdDSDk0LXFic1hNbEhXR2w2ZThodEdXR19KVXdzdXpoSzRoZGZwS09VV3JyeDhiREpOSFFhYUJVX0E2M0ZRcEl3R2M?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
+      "title": "Why opportunity charging is winning as robot fleets scale",
+      "link": "https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/",
+      "source": "The Robot Report",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-10-16T08:07:00.000Z",
-      "summary": "ABB推出基于视觉的Physical AI服装分拣模块，集成AI Robot Trainer，降低部署门槛。",
-      "summaryZh": ""
-    },
-    {
-      "title": "三家国际机器人巨头，都把 AI 放上了 C 位",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zdU44Tkh1T3gxck9qdkpDQTBsYkJaTS12bm5YUnd0UGF5Q0VQWEdOdlpLcFJTM0YwbXpmYnl4TUxkaEUxLWVmS0hyMkdvV0dETUdJUzVyTXdhUQ?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-16T10:06:23.000Z",
-      "summary": "国际机器人巨头将AI技术置于核心地位，展示创新成果。",
-      "summaryZh": ""
+      "pubDate": "2026-10-16T23:39:33.000Z",
+      "summary": "机会充电成为机器人车队规模扩大时的主流技术。",
+      "summaryZh": "",
+      "titleZh": "为什么机会充电随着机器人车队规模的扩大而获胜"
     },
     {
       "title": "60多平方米集成70多种智能设备，养老样板间展示“无感”守护",
