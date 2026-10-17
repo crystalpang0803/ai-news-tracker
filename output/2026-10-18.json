@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "generatedAt": "2026-10-17T20:29:54.415Z",
+  "generatedAt": "2026-10-17T21:43:48.204Z",
   "items": [
     {
       "title": "梁圣又掀桌了！DeepSeek新模型斩杀GPT-6，许愿式编程时代降临",
@@ -23,6 +23,16 @@
       "summaryZh": ""
     },
     {
+      "title": "夹在字节缝隙中的AI融资明星们",
+      "link": "https://www.tmtpost.com/8171535.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-17T07:38:37.000Z",
+      "summary": "AI视频公司面临字节生态挤压，独立平台生意受威胁。",
+      "summaryZh": ""
+    },
+    {
       "title": "华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS",
       "link": "https://www.ithome.com/1/014/390.htm",
       "source": "IT之家",
@@ -39,17 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-17T01:51:59.000Z",
-      "summary": "香港首个具身智能国际应用训练场揭幕，智平方等七家公司成为首批技术伙伴。",
-      "summaryZh": ""
-    },
-    {
-      "title": "中国机器人，聚全球之力",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80R3FSczVTNjJGV1I1Mm8wT20tbHdfMGl1T0c2aUVzMUdic0E4YmtzcHJKOU14czd6S2xScmxrQl9QWFYta1RHeUZ3RElBT0c1Qmx3?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-17T00:07:02.000Z",
-      "summary": "中国机器人产业吸引全球企业合作，共同推动技术进步和产业链完善。",
+      "summary": "香港首个“具身智能国际应用训练场”揭幕，智平方等七家公司成为首批技术伙伴。",
       "summaryZh": ""
     },
     {
@@ -69,16 +69,6 @@
       "category": "ai",
       "pubDate": "2026-10-17T12:10:35.000Z",
       "summary": "清华开源智能体操作系统PilotDeck 2.0，降低AI任务成本83%，实现AI记忆可查可改。",
-      "summaryZh": ""
-    },
-    {
-      "title": "研究用《杀戮尖塔》A20难度测试20个大模型，仅GPT-5.6 Sol通关一次心脏",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QOHNnMVRsM2J0eklJQlpZUnVOc0NtbjN3NDV2Z0JwSnBZby1TT0RnVjRpempqXzZqa2c1S3Y2SEhtTzlaX1J1V3ZReTdfWFJCMHRreQ?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-17T05:39:10.000Z",
-      "summary": "大模型在《杀戮尖塔》A20难度测试中通关率低，策略保守导致失败。",
       "summaryZh": ""
     },
     {
@@ -102,6 +92,16 @@
       "summaryZh": ""
     },
     {
+      "title": "广东已备案195款大模型 位居全国前列",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZSWZjN3BOSTBVUXR6SDloZUhCV1JvTUdPUFcxMmZNajZYcFVNdXJsMDlxV0JFdlpxQmhJczhYRHFYSXZBZkE?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-17T02:54:59.000Z",
+      "summary": "广东备案195款大模型，全国领先。",
+      "summaryZh": ""
+    },
+    {
       "title": "湾芯展与会专家：未来五年算力建设重点将从规模扩展转向提质增效、生态成熟",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RUHoxWERRNGJuSG5wOHFwM3BEVExtc0lvTll2LVZsbmE0RnZUcVl6bk1kNXdtaTJQWkV0NlF6Z1NjMTcxSmhOTw?oc=5",
       "source": "财联社",
@@ -109,16 +109,6 @@
       "category": "ai",
       "pubDate": "2026-10-17T05:32:26.000Z",
       "summary": "未来五年算力建设将转向提质增效和生态成熟。",
-      "summaryZh": ""
-    },
-    {
-      "title": "再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发，注重以落地应用牵引技术创新",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qOUprdnBpUWw4OXpta3kxd1F5cTNhOHZJcmx3UnVzTWRENEFaOWtwa3FNMzNtck4zTEV1RTlpcjZORVU5bFRHMmo1VWw4SDRkNW5VOXdfckoxZ1dzc3hVQW9LWFE?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-17T04:05:00.000Z",
-      "summary": "国务院强调以落地应用牵引人工智能技术创新，深化拓展“人工智能+”行动。",
       "summaryZh": ""
     },
     {
@@ -148,38 +138,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-17T00:09:10.000Z",
-      "summary": "智慧养老产品应用普及，满足多样化养老需求。",
-      "summaryZh": ""
-    },
-    {
-      "title": "What Robotics Experts Think of Tesla’s Optimus Robot",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwY0R6VDhqUUFGZ04wSWtmRkhlZXlSY0pBTG1iSnZkUWJFdmdyZ2lwcG50bG5KMDNJM2FRWUpuNnNlbmsyTGhZRXlsOTRLVDNNSE5odVhhYUhnOHA3bXJfQVQwdktFOUVxY092eU9VcExWOEhFaktmckRjeEo?oc=5",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-16T22:47:36.000Z",
-      "summary": "特斯拉Optimus机器人获机器人专家评价。",
-      "summaryZh": "",
-      "titleZh": "机器人专家对特斯拉擎天柱机器人的看法"
-    },
-    {
-      "title": "北京：中小学生智能机器人大比拼",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ0NkYzZZV0hHM2lIallJZ1YzS2RVaTM1RnhCV2NOd2RJUkFpZWstb01CbnRHMFpEcjRybzhMNVlvczZWRUN4R3hkQmFWNkw0SnlBcnBXYzRqbDhpZUNDbl9LMmpLLWppeUNXQnZiOGhXZ2lkcTRZOGM5NEZtc2wtcFRkckFEYmZ3SjJHMWI2TQ?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-17T12:03:47.000Z",
-      "summary": "北京举办中小学生智能机器人比赛，200多支队伍400余选手参与。",
-      "summaryZh": ""
-    },
-    {
-      "title": "广交会上的机器人出海记：从“卖产品”到“建体系”",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YVW9NZmZ4Q1ViZlNDS3E0T3hGRFY3SVhIN25YMmtIV2o2Qk4tWjMyT3ZwRWpMd3VveVp0N0szSVNHQ2g0VHhWQ0o5Vi11OWpkbzdZWmo1dVRNV2xaRkJRWHFzU21KUmREMEtqelNwQ2JPaEN0V095MA?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-17T15:52:00.000Z",
-      "summary": "中国机器人企业广交会上展示从产品销售到海外服务体系搭建的新趋势。",
+      "summary": "智慧养老产品应用广泛，满足多样化养老需求，技术融合市场需求，产业生态加速建设。",
       "summaryZh": ""
     },
     {
@@ -189,7 +148,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-17T01:15:00.000Z",
-      "summary": "AI和机器人助力农业育种，推动智慧农业发展。",
+      "summary": "AI和机器人助力农业育种，推动传统农业向智慧农业转型。",
       "summaryZh": ""
     },
     {
@@ -209,7 +168,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-16T23:16:58.000Z",
-      "summary": "济南开设机器人专业培训学校，培养实际操作技能。",
+      "summary": "济南开设机器人专业学校，培养实际操作技能。",
       "summaryZh": ""
     },
     {
@@ -219,7 +178,38 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-17T11:33:00.000Z",
-      "summary": "沈阳打造AI文旅互动剧，推动产教融合培育AI新力量。",
+      "summary": "沈阳通过AI文旅互动剧和产教融合培育本土AI新力量。",
+      "summaryZh": ""
+    },
+    {
+      "title": "聚焦真实生活场景，中小学生用国产开源硬件搭建智能机器人",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iZXl5QVpIc1BLaEFQV3BkSEs3YmNHd1o1VnRNaWF2aWpIclc2VEpXZmZpMTNDSkFEOVNOazlfWW1BR0dMRmJTOFkya3FUaTktb0NtZEhGdzE0NkFmcWZ0ZDBJTWU?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-17T07:03:00.000Z",
+      "summary": "中小学生利用国产开源硬件搭建智能机器人参赛。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Team develops embodied robotic arm 'EmArm' with human-like touch sensing",
+      "link": "https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html",
+      "source": "Tech Xplore",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-17T11:00:13.000Z",
+      "summary": "研发出具备类似人类触觉感知的机器人手臂EmArm。",
+      "summaryZh": "",
+      "titleZh": "团队开发具有类人触摸感应功能的实体机械臂“EmArm”"
+    },
+    {
+      "title": "俄称击落多架乌无人机 乌称多地能源设施遭袭",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MMHg5WU1QYzE0UUFueFNjdjdvM1pNbnNnOHgtVnpDekwybFIzOVNtOFNrMkdWZGdsVERXZDZpWnNNY1RzZGY2Um9ycHp0RlpETVV3UmE2WC1VQ3lUYnBieUl3ekJIdw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-17T08:04:00.000Z",
+      "summary": "俄称击落乌无人机，乌称多地能源设施遭袭。",
       "summaryZh": ""
     }
   ]
