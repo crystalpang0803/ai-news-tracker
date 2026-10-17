@@ -1,17 +1,7 @@
 {
   "date": "2026-10-18",
-  "generatedAt": "2026-10-17T21:43:48.204Z",
+  "generatedAt": "2026-10-17T23:13:00.325Z",
   "items": [
-    {
-      "title": "梁圣又掀桌了！DeepSeek新模型斩杀GPT-6，许愿式编程时代降临",
-      "link": "https://zhidx.com/p/601905.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-17T10:03:11.000Z",
-      "summary": "DeepSeek新模型V4.1-Flash-1017发布，性能超越GPT-6，开启许愿式编程时代。",
-      "summaryZh": ""
-    },
     {
       "title": "宇树科技展示中心在天津建成投用，集中陈列多款机器人产品",
       "link": "https://www.ithome.com/1/014/380.htm",
@@ -20,6 +10,26 @@
       "category": "robotics",
       "pubDate": "2026-10-17T11:21:44.000Z",
       "summary": "宇树科技天津展示中心建成，展示多款机器人产品。",
+      "summaryZh": ""
+    },
+    {
+      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+      "link": "https://www.qbitai.com/2026/10/503935.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-17T12:10:35.000Z",
+      "summary": "清华开源智能体操作系统PilotDeck 2.0，降低AI任务成本83%，实现AI记忆可查可改。",
+      "summaryZh": ""
+    },
+    {
+      "title": "通用大模型正在重做机器人的研发与交付",
+      "link": "https://www.tmtpost.com/8171971.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-17T09:29:15.000Z",
+      "summary": "通用大模型开始承担更多机器人研发与交付工作。",
       "summaryZh": ""
     },
     {
@@ -33,16 +43,6 @@
       "summaryZh": ""
     },
     {
-      "title": "华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS",
-      "link": "https://www.ithome.com/1/014/390.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-17T11:56:31.000Z",
-      "summary": "华硕发布首款英特尔 Arc Pro B70 显卡，32GB ECC 显存，AI 算力 367 TOPS。",
-      "summaryZh": ""
-    },
-    {
       "title": "香港首个“具身智能国际应用训练场”揭幕，智平方等七家公司等成首批技术伙伴",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyLUkzWGRrb0Z6Nl9VRS05NXl5NlJfQUxaa0NtYmcwUldJaTBoZXhRU3dPNmdxMmczSTFUUFplM1ZETGlJUjF4ckMwcHJ6WWduOTRodXVkQ1I?oc=5",
       "source": "界面新闻",
@@ -50,6 +50,26 @@
       "category": "robotics",
       "pubDate": "2026-10-17T01:51:59.000Z",
       "summary": "香港首个“具身智能国际应用训练场”揭幕，智平方等七家公司成为首批技术伙伴。",
+      "summaryZh": ""
+    },
+    {
+      "title": "中国机器人，聚全球之力",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80R3FSczVTNjJGV1I1Mm8wT20tbHdfMGl1T0c2aUVzMUdic0E4YmtzcHJKOU14czd6S2xScmxrQl9QWFYta1RHeUZ3RElBT0c1Qmx3?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-17T00:07:02.000Z",
+      "summary": "中国机器人产业吸引全球企业合作，共同推动技术进步和产业链完善。",
+      "summaryZh": ""
+    },
+    {
+      "title": "“眼脑手”全链升级 具身智能加速落地制造一线",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tQ3NHTWJTRk5TaTVNa094MzNoZl80ZnQtOTY1d1VyYlo0OVdROFVNQzhNZGxPSE1jVlpxVkp2UW9SVE50b2NTa3ZRZjJ2bjZEQWxvdjAtVm5pdTNqdFdhNQ?oc=5",
+      "source": "光明网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-17T12:20:00.000Z",
+      "summary": "梅卡曼德机器人“眼脑手”全链升级，加速具身智能在制造一线落地应用。",
       "summaryZh": ""
     },
     {
@@ -62,33 +82,23 @@
       "summary": ""
     },
     {
-      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51UnY4TUJneU9XcWVrMzUxSzZSVDVhaU45NXh0MmFmcWZCajc2LWtodVhpRnJxQ1ZVdnYyTmFaUG1mWG5EQzlzM1p4SEtxYzVvbDdfNw?oc=5",
-      "source": "量子位",
+      "title": "研究用《杀戮尖塔》A20难度测试20个大模型，仅GPT-5.6 Sol通关一次心脏",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QOHNnMVRsM2J0eklJQlpZUnVOc0NtbjN3NDV2Z0JwSnBZby1TT0RnVjRpempqXzZqa2c1S3Y2SEhtTzlaX1J1V3ZReTdfWFJCMHRreQ?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-17T12:10:35.000Z",
-      "summary": "清华开源智能体操作系统PilotDeck 2.0，降低AI任务成本83%，实现AI记忆可查可改。",
+      "pubDate": "2026-10-17T05:39:10.000Z",
+      "summary": "20个大模型挑战《杀戮尖塔》A20难度，仅GPT-5.6 Sol通关一次心脏。",
       "summaryZh": ""
     },
     {
-      "title": "广交会：人工智能新品为外贸增长注入新动能",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBONmF6dW5kR0VBRm5EVHpDeGgwTUt3OV9tMEh0a0JpTTRuME8wdklNTXVsQmJiQTdzQ2JxcmhkSDZlUUJNZl9yMUdkLWlDQ2UtaUM5cDM5d3JtQQ?oc=5",
-      "source": "钛媒体",
+      "title": "AI进化速递丨DeepSeek V4.1 Flash发布新版本",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93Zm8wajhEcTJZX3FETkxtQXNMNDcwazRhb2FTSm93SW9iSHZBTW9DbjBQbXRiQkFMTjNobWhPLUVoX3dGaXZjWFlwZ1RQUzZDZHdZ?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-17T12:14:00.000Z",
-      "summary": "广交会人工智能新品助力外贸增长。",
-      "summaryZh": ""
-    },
-    {
-      "title": "腾讯WorkBuddy企业版，上线一站式Agent可观测平台",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9adWp1NFJ0VU0wTmpxUEFyVjRSMWlhSWFMUFl1V3Z0dllza21xSV9qSXVzT1Z3WnRCeWlFXzZxOGhzbFp5c1I4S0daWQ?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-16T21:43:59.000Z",
-      "summary": "腾讯WorkBuddy企业版推出一站式Agent可观测平台，实现智能体全链路管理。",
+      "pubDate": "2026-10-17T12:29:59.000Z",
+      "summary": "DeepSeek V4.1 Flash发布新版本，开放搜索引擎。",
       "summaryZh": ""
     },
     {
@@ -98,7 +108,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-17T02:54:59.000Z",
-      "summary": "广东备案195款大模型，全国领先。",
+      "summary": "广东备案195款大模型，居全国首位。",
       "summaryZh": ""
     },
     {
@@ -112,6 +122,26 @@
       "summaryZh": ""
     },
     {
+      "title": "再提“人工智能+”！国务院最新部署：要从我国产业体系完备、应用场景丰富、工程化能力强等实际出发，注重以落地应用牵引技术创新",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qOUprdnBpUWw4OXpta3kxd1F5cTNhOHZJcmx3UnVzTWRENEFaOWtwa3FNMzNtck4zTEV1RTlpcjZORVU5bFRHMmo1VWw4SDRkNW5VOXdfckoxZ1dzc3hVQW9LWFE?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-17T04:05:00.000Z",
+      "summary": "国务院强调以落地应用牵引人工智能技术创新，深化拓展“人工智能+”行动。",
+      "summaryZh": ""
+    },
+    {
+      "title": "10.97 万元起吉利星瑞 L PLUS 正式上市，国内首款搭载激光雷达的燃油轿车",
+      "link": "https://www.ithome.com/1/014/394.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-17T12:35:26.000Z",
+      "summary": "吉利星瑞L PLUS上市，首款搭载激光雷达的燃油轿车。",
+      "summaryZh": ""
+    },
+    {
       "title": "人形机器人最难的关节部件，做到100%合格！凭什么？",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Kb2ZUelYxUXI2Z2dhUWNJSzdYY2YwcWtmcTJHaVJHUnF2UVNnRDhBSExBVmlQemZPMlhUVXNVWGRCVFpvS0JlbzE3Z2xMenZxbnNWWXY4RQ?oc=5",
       "source": "与非网",
@@ -122,13 +152,13 @@
       "summaryZh": ""
     },
     {
-      "title": "人形机器人精密加工，8家机加厂都拒了，为什么？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WMFRNZVkxY3JtMkYzTHljcW1aemV2bkJoX05DWmtBNThsdmRiM2ItSlBQamNVU0thalkzSzFlWlB3ekYzZ0twR2RSQTQ4cmh5SWlKNzNDYw?oc=5",
-      "source": "与非网",
+      "title": "刚刚，Claude半小时解开二十多年密码学谜题",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92WEV6U1F1enNHVG5NdTFpVmRHa3lfOXdKU1Q0MnlySTZRUF9VYkd3a1hINUR0YWg0UUdFZmgzNXZrb05KNEpxNHQzck1CMVdj?oc=5",
+      "source": "36氪",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-17T06:41:56.000Z",
-      "summary": "人形机器人精密加工遭8家机加厂拒绝，原因待查。",
+      "category": "ai",
+      "pubDate": "2026-10-17T01:10:54.000Z",
+      "summary": "Claude模型半小时破解了困扰密码学界二十多年的NIST椭圆曲线种子生成方式。",
       "summaryZh": ""
     },
     {
@@ -138,38 +168,67 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-17T00:09:10.000Z",
-      "summary": "智慧养老产品应用广泛，满足多样化养老需求，技术融合市场需求，产业生态加速建设。",
+      "summary": "智慧养老产品满足多样化需求，从试点走向普及。",
       "summaryZh": ""
     },
     {
-      "title": "全国粮食安全宣传周｜当育种遇上AI和机器人，“汗水农业”向“智慧农业”加速迈进",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqZjhTc1E3WkI5dk8yS3Y1OEJlRnNLR2ZhcGxTMU1uSGRRbGFVR0xLVEhZMTVSMEpJTnpmNWRUVlhFYURVbDQwdTBiWmc3azljM3FsTnZab3NnNElQcnUtcQ?oc=5",
-      "source": "光明网",
+      "title": "人形机器人精密加工，8家机加厂都拒了，为什么？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WMFRNZVkxY3JtMkYzTHljcW1aemV2bkJoX05DWmtBNThsdmRiM2ItSlBQamNVU0thalkzSzFlWlB3ekYzZ0twR2RSQTQ4cmh5SWlKNzNDYw?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-17T01:15:00.000Z",
-      "summary": "AI和机器人助力农业育种，推动传统农业向智慧农业转型。",
+      "pubDate": "2026-10-17T06:41:56.000Z",
+      "summary": "人形机器人精密加工遭8家机加厂拒绝，原因待确认。",
       "summaryZh": ""
     },
     {
-      "title": "广东顺德 机器人产业加速奔跑",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nM2RXY3hCVVZIYkpVaVp0TmxsVmtBRnlLRnhDb1JjNFJWUTRRdU5uZTFQdTNmRDMzazM3MHozQldrRm9BbGltQWRYT3A1a2x5YnRnUjJjTy1heWxySllvWDlydUFfRVEyMHVBYk5UNWc?oc=5",
-      "source": "央广网",
+      "title": "马斯克反思白宫往事 称美债问题只能靠AI和机器人解决",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85eVFHaU82UFdGVVlKc1FQWk14Z2NxNFRCSGxmeXg3SjgybUw3b1l4ejFtU2hUNmtMaU1CbTVkSkl6Q1EtZkNNREpSTzFVNlFEanpyaFR6X0k5YWZPWktZa3JDZw?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-17T02:18:50.000Z",
-      "summary": "广东顺德机器人产业快速发展，企业数量和产值持续增长。",
+      "pubDate": "2026-10-17T20:04:48.000Z",
+      "summary": "马斯克认为AI和机器人是解决美国国债问题的唯一途径。",
       "summaryZh": ""
     },
     {
-      "title": "想上岗先上学 济南这所机器人“学校”专教真本事",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5iam9qLVBIUVVyd2hfWFEyUUtzVUlOazFRQ1BMY3hkLWJlbEcxOUduZjh0VGEzWUR2R180NVdTRjNjWk54a2ZrbmpENGJJVzBEdDJZNGdjc21UMTZJcGtqaXlOQ0Nkckppel9DUDZDYw?oc=5",
-      "source": "央广网",
+      "title": "北京：中小学生智能机器人大比拼",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYUlkQ0ZBNnZIeXd3TUU3a1E1andYejh2WklhUXBTZjJQYjlkTkdLRGFkalhzc2J1Q2Z0eTFDZTdKcHZrdFNXRmFCV2J5Z2FIMUg5bHJuaXFuLVZEUnVveDFNNWJSLWFsd3N1Y0dRd09pVXpDWEtidDVvNFJDbHBqYzlpalZUWWYyY3pMUjVaTQ?oc=5",
+      "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-16T23:16:58.000Z",
-      "summary": "济南开设机器人专业学校，培养实际操作技能。",
+      "pubDate": "2026-10-17T12:03:47.000Z",
+      "summary": "北京举办中小学生智能机器人比赛，200多支队伍400多名选手参赛。",
       "summaryZh": ""
+    },
+    {
+      "title": "广交会上的机器人出海记：从“卖产品”到“建体系”",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YVW9NZmZ4Q1ViZlNDS3E0T3hGRFY3SVhIN25YMmtIV2o2Qk4tWjMyT3ZwRWpMd3VveVp0N0szSVNHQ2g0VHhWQ0o5Vi11OWpkbzdZWmo1dVRNV2xaRkJRWHFzU21KUmREMEtqelNwQ2JPaEN0V095MA?oc=5",
+      "source": "央视网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-17T15:52:00.000Z",
+      "summary": "中国机器人企业从单纯销售产品转向构建海外服务体系，拓展全球市场。",
+      "summaryZh": ""
+    },
+    {
+      "title": "二倍做多机器人与AI指数ETF-Direxion收跌4.6%，成交额63.92万美元",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ3N5UHBaelZuX0ROQUM4ZWx0QTh0LXc3ZUNXaGtsdnd5Qk1qOEFzTHNJcXBIUW15VE1QMG1TdzNsd2g2T0JOQ2FiSDh6d1JiNW1jZUc5a0NTdHoyZDRqdUQ3ZWNycGpwY3BGbE1uOFMxSVJZN3BHMlJUcnV1R2R1QVhaYkM4bDhEb20tYUVB?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-16T23:51:24.000Z",
+      "summary": "二倍做多机器人与AI指数ETF-Direxion收跌4.6%，成交额63.92万美元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "安富利发布具身智能白皮书，近期股价随AI板块调整走弱",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EajZoVE9mS0hMWk5zcnZzQnRBUWZiNW95OXdOb3FrbHNQR2NISndNNDFyc0R4QzJKLWpYWElCWWNvRW9qUnU2VmNkeWNrT25tcm43S3dtUzg?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-17T18:42:00.000Z",
+      "summary": ""
     },
     {
       "title": "从AI文旅互动剧到产教融合 沈阳培育本土AI新力量",
@@ -179,37 +238,6 @@
       "category": "application",
       "pubDate": "2026-10-17T11:33:00.000Z",
       "summary": "沈阳通过AI文旅互动剧和产教融合培育本土AI新力量。",
-      "summaryZh": ""
-    },
-    {
-      "title": "聚焦真实生活场景，中小学生用国产开源硬件搭建智能机器人",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iZXl5QVpIc1BLaEFQV3BkSEs3YmNHd1o1VnRNaWF2aWpIclc2VEpXZmZpMTNDSkFEOVNOazlfWW1BR0dMRmJTOFkya3FUaTktb0NtZEhGdzE0NkFmcWZ0ZDBJTWU?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-17T07:03:00.000Z",
-      "summary": "中小学生利用国产开源硬件搭建智能机器人参赛。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Team develops embodied robotic arm 'EmArm' with human-like touch sensing",
-      "link": "https://techxplore.com/news/2026-10-team-embodied-robotic-arm-emarm.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-17T11:00:13.000Z",
-      "summary": "研发出具备类似人类触觉感知的机器人手臂EmArm。",
-      "summaryZh": "",
-      "titleZh": "团队开发具有类人触摸感应功能的实体机械臂“EmArm”"
-    },
-    {
-      "title": "俄称击落多架乌无人机 乌称多地能源设施遭袭",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MMHg5WU1QYzE0UUFueFNjdjdvM1pNbnNnOHgtVnpDekwybFIzOVNtOFNrMkdWZGdsVERXZDZpWnNNY1RzZGY2Um9ycHp0RlpETVV3UmE2WC1VQ3lUYnBieUl3ekJIdw?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-17T08:04:00.000Z",
-      "summary": "俄称击落乌无人机，乌称多地能源设施遭袭。",
       "summaryZh": ""
     }
   ]
