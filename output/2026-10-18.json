@@ -1,17 +1,7 @@
 {
   "date": "2026-10-18",
-  "generatedAt": "2026-10-18T04:40:09.011Z",
+  "generatedAt": "2026-10-18T08:19:00.472Z",
   "items": [
-    {
-      "title": "充电 9 分钟可工作 90 分钟，Agility Robotics 为 Digit 5 人形机器人搭载 Nyobolt 快充电池",
-      "link": "https://www.ithome.com/1/014/454.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-18T01:52:16.000Z",
-      "summary": "Agility Robotics为Digit 5人形机器人搭载Nyobolt快充电池，充电9分钟可工作90分钟。",
-      "summaryZh": ""
-    },
     {
       "title": "梁圣又掀桌了！DeepSeek新模型斩杀GPT-6，许愿式编程时代降临",
       "link": "https://zhidx.com/p/601905.html",
@@ -20,6 +10,16 @@
       "category": "ai",
       "pubDate": "2026-10-17T10:03:11.000Z",
       "summary": "DeepSeek新模型V4.1-Flash-1017发布，性能超越GPT-6，开启许愿式编程时代。",
+      "summaryZh": ""
+    },
+    {
+      "title": "广交会70年机器人成“顶流”：不止看表演，采购商想要落地和海外仓",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xMGkyUW1Ga0FaV2ZYdl9FdzAtQmdUT1g2VThiWmI1TGZac0lVMEJhRUJQRUhhMWlrb0FxWXBjamFxS012T3Q5RGpkWndyRnBObWlpYVVpZXU?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-18T06:01:03.000Z",
+      "summary": "广交会机器人展区受热捧，采购商寻求落地和海外仓合作。",
       "summaryZh": ""
     },
     {
@@ -43,6 +43,25 @@
       "summaryZh": ""
     },
     {
+      "title": "还没IPO，OpenAI 600名员工已套现66亿美元",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xd1EyNXNhTlEtbkFiUTBTUXVyV1N4Znk5S0ltOVRYX0xjdFZBZmI3NHZPTy15SWNicGpjbFZCOU5FZlBPcm9vSXEwa2w3Zw?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-17T15:03:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+      "link": "https://www.qbitai.com/2026/10/504067.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-17T12:21:09.000Z",
+      "summary": "DeepSeek发布新模型V4.1-Flash-1017，性能提升同时降低成本。",
+      "summaryZh": ""
+    },
+    {
       "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
       "link": "https://www.qbitai.com/2026/10/503935.html",
       "source": "量子位",
@@ -50,16 +69,6 @@
       "category": "ai",
       "pubDate": "2026-10-17T12:10:35.000Z",
       "summary": "清华开源智能体操作系统PilotDeck 2.0，降低AI任务成本83%，实现AI记忆可查可改。",
-      "summaryZh": ""
-    },
-    {
-      "title": "通用大模型正在重做机器人的研发与交付",
-      "link": "https://www.tmtpost.com/8171971.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-17T09:29:15.000Z",
-      "summary": "通用大模型开始承担更多机器人研发与交付工作。",
       "summaryZh": ""
     },
     {
@@ -72,22 +81,24 @@
       "summary": ""
     },
     {
-      "title": "近10亿，荣丰控股拟易主，广州算力人陈群萍入局",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTcVg0dl9pYklTZUpjaGNGckozaE1EallYb3pPblQ3aGZFN2FhOXJLdTZEU0kybFpJaFlKemdwWnByZjhKcWhFSERNUDhYdw?oc=5",
-      "source": "36氪",
+      "title": "“眼脑手”全链升级 具身智能加速落地制造一线",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tQ3NHTWJTRk5TaTVNa094MzNoZl80ZnQtOTY1d1VyYlo0OVdROFVNQzhNZGxPSE1jVlpxVkp2UW9SVE50b2NTa3ZRZjJ2bjZEQWxvdjAtVm5pdTNqdFdhNQ?oc=5",
+      "source": "光明网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-18T00:16:41.000Z",
-      "summary": ""
+      "category": "robotics",
+      "pubDate": "2026-10-17T12:20:00.000Z",
+      "summary": "梅卡曼德机器人“眼脑手”全链升级，加速具身智能在制造一线落地应用。",
+      "summaryZh": ""
     },
     {
-      "title": "研究用《杀戮尖塔》A20难度测试20个大模型，仅GPT-5.6 Sol通关一次心脏",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QOHNnMVRsM2J0eklJQlpZUnVOc0NtbjN3NDV2Z0JwSnBZby1TT0RnVjRpempqXzZqa2c1S3Y2SEhtTzlaX1J1V3ZReTdfWFJCMHRreQ?oc=5",
-      "source": "虎嗅",
+      "title": "广交会：人工智能新品为外贸增长注入新动能",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBONmF6dW5kR0VBRm5EVHpDeGgwTUt3OV9tMEh0a0JpTTRuME8wdklNTXVsQmJiQTdzQ2JxcmhkSDZlUUJNZl9yMUdkLWlDQ2UtaUM5cDM5d3JtQQ?oc=5",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-17T05:39:10.000Z",
-      "summary": ""
+      "pubDate": "2026-10-17T12:14:00.000Z",
+      "summary": "广交会人工智能新品助力外贸增长。",
+      "summaryZh": ""
     },
     {
       "title": "腾讯WorkBuddy企业版，上线一站式Agent可观测平台",
@@ -96,7 +107,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-17T23:14:03.000Z",
-      "summary": "腾讯WorkBuddy企业版推出一站式Agent可观测平台，实现智能体全链路管理。",
+      "summary": "腾讯WorkBuddy企业版推出一站式Agent可观测平台。",
+      "summaryZh": ""
+    },
+    {
+      "title": "DeepSeek V4.1 Flash新版本发布",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jRDRPSm5WYW9YRjBOUVQxX3BSR0lOOFQ4aFhMaXMxM3RDSkptRzRnSlNpLUxfVlNoWFh5OTNaV2ZucEJUZmVLNjVneTRHanRUVXJ6TEdBaGI?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-17T09:08:28.000Z",
+      "summary": "DeepSeek V4.1 Flash新版本发布，支持更多编程任务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "DeepSeek更新模型了，还对外开放了搜索引擎",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UWlJsX2dIRzhXckQ5UE1JVW9YM3ZGeTZSZkdEMDNVeTlGQk1oNGxOQXlqUk44Q1ZJaXN1blBpdzhueXh6Tk5QQVVWMWdFWXVVeFJR?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-17T10:22:42.000Z",
+      "summary": "DeepSeek更新至V4.1-Flash-1017版本，开放自研搜索API，针对SEO作弊、GEO操纵和低质AIGC进行过滤。",
       "summaryZh": ""
     },
     {
@@ -106,17 +137,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-17T23:33:31.000Z",
-      "summary": "国常会部署“人工智能+”行动，推动技术从“能用”转向“好用”，促进产业实际应用。",
+      "summary": "国常会部署“人工智能+”行动，推动技术从“能用”到“好用”转向产业实践。",
       "summaryZh": ""
     },
     {
-      "title": "人形机器人精密加工，8家机加厂都拒了，为什么？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WMFRNZVkxY3JtMkYzTHljcW1aemV2bkJoX05DWmtBNThsdmRiM2ItSlBQamNVU0thalkzSzFlWlB3ekYzZ0twR2RSQTQ4cmh5SWlKNzNDYw?oc=5",
-      "source": "与非网",
+      "title": "海康威视高管称AI大模型助力场景数字化业务已进入加速落地期",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NVWN5cXA0b0g4Vl9uelZwTDlHaHlYMTgtM2toblVjU3FaQVJ0cWJXY2VFTk1EN3FHTkx6VGYtTXNHRS1qdi1iTGpZdG91ZkV5RGtoNEpSdW1scEZXbjZwUkVsSWJVV04tbzFkWW1PU0F5aTVl?oc=5",
+      "source": "金融界",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-17T06:41:56.000Z",
-      "summary": "人形机器人精密加工遭8家机加厂拒绝，原因待查。",
+      "category": "ai",
+      "pubDate": "2026-10-18T05:50:13.000Z",
+      "summary": "海康威视AI大模型助力场景数字化业务加速落地，推动产业链品质升级。",
       "summaryZh": ""
     },
     {
@@ -130,13 +161,14 @@
       "summaryZh": ""
     },
     {
-      "title": "马斯克反思政府效率部经历：削减开支未解决赤字，称AI和机器人是解决美国国债唯一办法。",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RS25WTW90S0F6TFhjb2pSWEI1LUVrNmV0S0hVdkNwZENiN0E4S19Xb2xMdGtxTVZvR1pQbUY2ODgtLWRIZUdnUHJRbEV4VklFQ1FEYlF0cHlXUjNDWnZV?oc=5",
-      "source": "虎嗅",
+      "title": "高通中国区董事长孟樸：终端侧 AI 正发挥重要作用，智能体的发展进一步加速这一趋势",
+      "link": "https://www.ithome.com/1/014/522.htm",
+      "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-18T00:36:38.000Z",
-      "summary": ""
+      "category": "ai",
+      "pubDate": "2026-10-18T07:51:23.000Z",
+      "summary": "高通中国区董事长孟樸强调终端侧AI重要作用，智能体发展加速。",
+      "summaryZh": ""
     },
     {
       "title": "What Robotics Experts Think of Tesla’s Optimus Robot",
@@ -150,22 +182,23 @@
       "titleZh": "机器人专家对特斯拉擎天柱机器人的看法"
     },
     {
-      "title": "马斯克反思DOGE：“政府内部”无法解决赤字，只有AI和机器人才能救美国",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIMmdoM0Raa3l0b2UyQjFyOUFfeEhEY0ZnQ1BtWG92a3JhWk1qM2x3WlpIbjJfRU5hSXpnOENCakRJajZIaXVlLUVIQU9LMXRlb3Rj?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-18T01:04:20.000Z",
-      "summary": ""
-    },
-    {
       "title": "北京：中小学生智能机器人大比拼",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ0NkYzZZV0hHM2lIallJZ1YzS2RVaTM1RnhCV2NOd2RJUkFpZWstb01CbnRHMFpEcjRybzhMNVlvczZWRUN4R3hkQmFWNkw0SnlBcnBXYzRqbDhpZUNDbl9LMmpLLWppeUNXQnZiOGhXZ2lkcTRZOGM5NEZtc2wtcFRkckFEYmZ3SjJHMWI2TQ?oc=5",
       "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-17T12:03:47.000Z",
-      "summary": "北京举办中小学生智能机器人比赛，200多支队伍400多名选手参赛。",
+      "summary": "北京市举办中小学生智能机器人比赛，200多支队伍400多名选手参赛。",
+      "summaryZh": ""
+    },
+    {
+      "title": "贝壳公益重阳再发银龄观察报告，探讨AI时代养老话题",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZUVzemRQZVVLa3ppM3NBMmlXRGluYzlUdkJWMl9wV1RJQlZpamkxaTBRbUNzTE4zdmhyeUxqcjNvWWJzRlFRb1QzVmtfQ0VsRXVOUDdsbHBGaXdDblpZREtJSXRXbnRZR0JrNUNFM19abkxqSlZ4eHZuaG5sWDUtVA?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-18T05:47:14.000Z",
+      "summary": "贝壳公益重阳发布银龄观察报告，探讨AI时代养老挑战与机遇。",
       "summaryZh": ""
     },
     {
@@ -175,7 +208,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-17T15:52:00.000Z",
-      "summary": "中国机器人企业广交会上展示从产品销售到海外服务体系搭建的新趋势。",
+      "summary": "中国机器人企业从单纯销售产品转向构建海外服务体系，推动全球市场拓展。",
       "summaryZh": ""
     },
     {
