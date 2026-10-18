@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "generatedAt": "2026-10-18T20:33:31.476Z",
+  "generatedAt": "2026-10-18T21:52:19.525Z",
   "items": [
     {
       "title": "直击广交会：中国机器人出海面临机遇，需做好合规和服务落地",
@@ -10,6 +10,16 @@
       "category": "robotics",
       "pubDate": "2026-10-18T17:17:03.000Z",
       "summary": "中国机器人产业在出海过程中需重视合规和服务落地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "物理AI走进工博会机器人展区 柔性制造需求推动技术落地",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16X2ptUzczLVItaHR2cE1HRFRnSkZTeVZneDBTVVlyaG10bVlmaVJDZzJucnZiQXhmT25zQUk2VWtrcnVhaUJLdjBrV0JhaFU1bEpHUw?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-18T12:37:58.000Z",
+      "summary": "物理AI在工博会机器人展区亮相，柔性制造需求促进技术实际应用。",
       "summaryZh": ""
     },
     {
@@ -29,37 +39,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-18T14:44:29.000Z",
-      "summary": "苹果计划为HomeView智能家庭中枢配备电动机械臂，预计2027年推出。",
+      "summary": "苹果计划为HomeView智能家庭中枢配备电动机械臂，最早2027年推出。",
       "summaryZh": ""
     },
     {
-      "title": "广交会上的机器人，正在从“秀一场”走向“用一程”",
-      "link": "https://zhidx.com/p/601942.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-18T08:10:50.000Z",
-      "summary": "广交会上机器人应用从展示走向实际使用，技术挑战与解决方案并存。",
-      "summaryZh": ""
-    },
-    {
-      "title": "中美AI竞争的新变量：开源、算力与产业生态",
-      "link": "https://www.tmtpost.com/8172534.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-18T14:37:59.000Z",
-      "summary": "中美AI竞争转向开源、算力与产业生态综合竞争。",
-      "summaryZh": ""
-    },
-    {
-      "title": "英伟达优化 Kimi K3 模型推理速度，提升 1.68 倍",
-      "link": "https://www.ithome.com/1/014/595.htm",
+      "title": "研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险",
+      "link": "https://www.ithome.com/1/014/589.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-18T13:25:18.000Z",
-      "summary": "英伟达优化Kimi K3模型，推理速度提升1.68倍。",
+      "pubDate": "2026-10-18T12:21:25.000Z",
+      "summary": "AI智能体追回火车票退款实验暴露激进执行任务风险。",
       "summaryZh": ""
     },
     {
@@ -72,12 +62,12 @@
       "summary": ""
     },
     {
-      "title": "近10亿，荣丰控股拟易主，广州算力人陈群萍入局",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTcVg0dl9pYklTZUpjaGNGckozaE1EallYb3pPblQ3aGZFN2FhOXJLdTZEU0kybFpJaFlKemdwWnByZjhKcWhFSERNUDhYdw?oc=5",
+      "title": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0eFVZWjlEWGFwem1IWGxvQUFJTGZXR0JyT2dHR0hPd0Uwb05lSEc1bkpqLWhIa3ZnUzZWb0Zna2RMdXJiR1pyaV8xMWtJdw?oc=5",
       "source": "36氪",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-18T00:16:41.000Z",
+      "category": "robotics",
+      "pubDate": "2026-10-18T04:35:37.000Z",
       "summary": ""
     },
     {
@@ -87,17 +77,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-18T09:57:40.000Z",
-      "summary": "2026年国内AI算力云厂商三大类别增速与选型全景分析。",
-      "summaryZh": ""
-    },
-    {
-      "title": "广交会上的AI算力生意：中国供应商从连接器做到终端",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sOFo4bDFnenhJZDJXeDY3MHVDSkpVRG9iVWtnYjlNcjc4RFFWanBIWmltWlZaVUk4ZVU2WlB5eUJLbkNoS2xkUndrcldzY3NLVnFR?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-18T09:56:44.000Z",
-      "summary": "中国供应商在广交会上展示从连接器到终端的AI算力产品，深度参与全球算力建设。",
+      "summary": "2026年，中国AI云市场规模预计增长148%，智算云/AI云厂商在算力、平台与生态层面形成多层次布局。",
       "summaryZh": ""
     },
     {
@@ -107,7 +87,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-18T02:53:31.000Z",
-      "summary": "美银、花旗限制AI代理访问客户账户，担忧智能理财导致存款流失。",
+      "summary": "美银、花旗等银行限制AI代理访问客户账户，担忧存款流失及责任问题。",
       "summaryZh": ""
     },
     {
@@ -117,7 +97,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-18T11:17:00.000Z",
-      "summary": "国务院强调以落地应用牵引人工智能技术创新，深化拓展“人工智能+”行动。",
+      "summary": "国务院强调以落地应用牵引人工智能技术创新。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI和机器人才是美债的解药？马斯克认为政府内部不愿意解决财政赤字",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4ybFNNRmZCRnltdVNEZEhNSFhIZUs3UFBjYzU0YUFERW9ZNFNla2JoLVNIVmVJdHJyR1pGQUtRa3dnUTkxR1JJR0FXQzFrWVkzUFhOVUlVZ0g?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-18T09:31:08.000Z",
+      "summary": "马斯克认为AI和机器人是解决美债问题的唯一途径，政府内部缺乏削减开支意愿。",
       "summaryZh": ""
     },
     {
@@ -127,7 +117,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-17T22:25:33.000Z",
-      "summary": "中科曙光计划在沈阳设立海光人工智能产业创新中心分中心。",
+      "summary": "中科曙光计划在沈阳设立海光人工智能产业创新中心。",
       "summaryZh": ""
     },
     {
@@ -141,13 +131,13 @@
       "summaryZh": ""
     },
     {
-      "title": "钧舵机器人工博会发布四大产品矩阵，打造工业具身智能执行层全栈能力",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HbUQ4MTZaRGZRdGdIVmxOcUdWeEI4TjRSUlJoTHBPQjNUd2pQY0g2aExHc0t6TEM4VGVnQjVvcjhZd3lSMktPb0RJM1E5Mk9xRGlVcmkwQ3ZVdlR5NTVuUVIxSm5mZ2x2cnZ6TFZXcEtpQ1E?oc=5",
-      "source": "央广网",
+      "title": "OpenAI发力人形机器人研发 将AI大脑作为核心突破口",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DN3hoc2RSZUlEUHVRa21DbF9RSmlodkpRdjVZS1RqbzhZcV81T1loYldsel9HeWVfcThhb1AyN29oZ21TTUx4Rl9uY3R0MU5Dc3dGUk9KT3ZOQ2h4THJNNQ?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-18T10:37:49.000Z",
-      "summary": "钧舵机器人工博会发布四大产品矩阵，构建工业具身智能执行层全栈能力。",
+      "category": "ai",
+      "pubDate": "2026-10-18T16:07:30.000Z",
+      "summary": "OpenAI投入人形机器人研发，以AI大脑为核心。",
       "summaryZh": ""
     },
     {
@@ -158,16 +148,6 @@
       "category": "ai",
       "pubDate": "2026-10-18T01:24:02.000Z",
       "summary": "FPGA、物理AI等技术创新重构芯片行业新格局。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI发力人形机器人研发 将AI大脑作为核心突破口",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DazlXek54TGxBWlJWOGZrQ2pTaFNUekRzdy16Q1IySi1Fd21sQkZEQ3BwbEFDZlBTdWN3VTF6TmxaWEw3dDg2MDE4VXZiQ3NTTm1BRlc4NzVTRDhlZFBvODY4NU10c0lVclg4c05TQQ?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-18T08:49:57.000Z",
-      "summary": "OpenAI布局人形机器人研发，以AI大脑为核心，预计2027年推出演示样机。",
       "summaryZh": ""
     },
     {
@@ -191,25 +171,44 @@
       "summaryZh": ""
     },
     {
+      "title": "马斯克反思政府效率部经历：削减开支未解决赤字，称AI和机器人是解决美国国债唯一办法。",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RS25WTW90S0F6TFhjb2pSWEI1LUVrNmV0S0hVdkNwZENiN0E4S19Xb2xMdGtxTVZvR1pQbUY2ODgtLWRIZUdnUHJRbEV4VklFQ1FEYlF0cHlXUjNDWnZV?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-18T00:36:38.000Z",
+      "summary": "马斯克认为AI和机器人是解决美国国债问题的唯一途径。",
+      "summaryZh": ""
+    },
+    {
+      "title": "景顺亚太区投资解决方案客户总监：人工智能基础设施蕴藏投资机遇。",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83RmhJc1M0T0U2Rnc4VGRFd19rVW53VWw2RHZ3Sm9XYzNUQzJjbkZaNnppSUszS3NKbkhnOUZJaG11a2RyVmZST1gxZHNaazBjRGs0?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-18T00:29:55.000Z",
+      "summary": ""
+    },
+    {
+      "title": "阶跃终端原生智能体手机STEPX Neo先行版发售；可灵AI新一代模型Kling 4.0正式上线",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5za2dHX3RmQXBiZmQ0aFdtbDZxaWlvVU5VQ0NhalJuejk4d2JtRFpkMTlCeGVuLUYtbUQ0ZE13cUVwSURKVFUtQ1ZXSW1BVlpDU2toTUdDVU9GMVdCMXlCNUpVN0h3dw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-18T13:04:00.000Z",
+      "summary": "阶跃终端发布原生智能体手机STEPX Neo先行版，可灵AI新一代模型Kling 4.0上线。",
+      "summaryZh": ""
+    },
+    {
       "title": "A woman was arrested in Philly for blocking a delivery robot",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
       "source": "The Verge",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-18T18:28:10.000Z",
-      "summary": "费城一女子因阻拦送餐机器人被捕。",
+      "summary": "费城一女子因阻挡送餐机器人被捕。",
       "summaryZh": "",
       "titleZh": "一名女子因阻挡送货机器人而在费城被捕"
-    },
-    {
-      "title": "马斯克：美债问题只能靠AI和机器人解决",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZOGN3VnFLcUZqeXVMYlVYdzRYYTRhcXM0UGh3d3dCQndhZTJWMTlNbm5DTW92czZpQnhUalBFajVyU0phQVBfUVp2THJBTlVsRng1bmR4Ylpsd3BBcGR4WXJJVQ?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-18T10:25:22.000Z",
-      "summary": "马斯克认为AI和机器人技术是解决美债问题的唯一途径。",
-      "summaryZh": ""
     }
   ]
 }
