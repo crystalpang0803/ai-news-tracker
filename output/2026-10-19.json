@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "generatedAt": "2026-10-18T23:22:18.477Z",
+  "generatedAt": "2026-10-19T00:31:28.167Z",
   "items": [
     {
       "title": "直击广交会：中国机器人出海面临机遇，需做好合规和服务落地",
@@ -8,7 +8,7 @@
       "source": "第一财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-18T17:17:03.000Z",
+      "pubDate": "2026-10-18T11:45:37.000Z",
       "summary": "中国机器人产业在出海过程中需重视合规和服务落地。",
       "summaryZh": ""
     },
@@ -43,16 +43,6 @@
       "summaryZh": ""
     },
     {
-      "title": "中美AI竞争的新变量：开源、算力与产业生态",
-      "link": "https://www.tmtpost.com/8172534.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-18T14:37:59.000Z",
-      "summary": "中美AI竞争转向开源、算力与产业生态综合竞争。",
-      "summaryZh": ""
-    },
-    {
       "title": "英伟达优化 Kimi K3 模型推理速度，提升 1.68 倍",
       "link": "https://www.ithome.com/1/014/595.htm",
       "source": "IT之家",
@@ -63,23 +53,23 @@
       "summaryZh": ""
     },
     {
-      "title": "小鹏机器人，站在了C位",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KT1JTOFJUWnRncFNoRUJZTUE1cWJTT0Y0UlNzekRubm9IcEhqWE5MUjZKNEhGMXl0eHFxS29OTXBvbzhBNTJvalk0aWZNUQ?oc=5",
+      "title": "Gemini 4 Argon打穿AGI终极考场",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WZjhsN3FVb05QSVpiTWdfVkpxcG9aMmw2Y0hTZktENWhZbmk1R01BakRfNnBrbDFxNHNtS3ZUVm9QTXlwa1JKZkE5RHhnMEhq?oc=5",
       "source": "36氪",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-18T06:30:29.000Z",
-      "summary": ""
+      "category": "ai",
+      "pubDate": "2026-10-19T00:14:06.000Z",
+      "summary": "Gemini 4 Argon在ARC-AGI-3上取得97.5%成绩，成为继OpenAI后第二家突破95%的AI实验室。",
+      "summaryZh": ""
     },
     {
-      "title": "AI和机器人才是美债的解药？马斯克认为政府内部不愿意解决财政赤字",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4ybFNNRmZCRnltdVNEZEhNSFhIZUs3UFBjYzU0YUFERW9ZNFNla2JoLVNIVmVJdHJyR1pGQUtRa3dnUTkxR1JJR0FXQzFrWVkzUFhOVUlVZ0g?oc=5",
-      "source": "界面新闻",
+      "title": "近10亿，荣丰控股拟易主，广州算力人陈群萍入局",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTcVg0dl9pYklTZUpjaGNGckozaE1EallYb3pPblQ3aGZFN2FhOXJLdTZEU0kybFpJaFlKemdwWnByZjhKcWhFSERNUDhYdw?oc=5",
+      "source": "36氪",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-18T09:31:08.000Z",
-      "summary": "马斯克认为AI和机器人是解决美债问题的唯一途径，政府内部缺乏削减开支意愿。",
-      "summaryZh": ""
+      "category": "ai",
+      "pubDate": "2026-10-18T20:39:57.000Z",
+      "summary": ""
     },
     {
       "title": "智算云/AI 云是什么？2026 国内 AI 算力云厂商三大类别、增速与选型全景",
@@ -88,7 +78,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-18T09:57:40.000Z",
-      "summary": "2026年国内AI算力云厂商三大类别增速与选型全景分析。",
+      "summary": "2026年，中国AI云市场规模预计增长148%，AI云厂商在算力、平台与生态层面形成多层次布局。",
+      "summaryZh": ""
+    },
+    {
+      "title": "广交会上的AI算力生意：中国供应商从连接器做到终端",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sOFo4bDFnenhJZDJXeDY3MHVDSkpVRG9iVWtnYjlNcjc4RFFWanBIWmltWlZaVUk4ZVU2WlB5eUJLbkNoS2xkUndrcldzY3NLVnFR?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-18T09:56:44.000Z",
+      "summary": "中国供应商在广交会上展示从连接器到终端的AI算力产品，深度参与全球算力建设。",
       "summaryZh": ""
     },
     {
@@ -98,7 +98,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-18T02:53:31.000Z",
-      "summary": "美银、花旗等银行限制AI代理访问客户账户，担忧存款流失及责任问题。",
+      "summary": "美银、花旗限制AI代理访问客户账户，担忧智能理财导致存款流失。",
       "summaryZh": ""
     },
     {
@@ -113,42 +113,42 @@
     },
     {
       "title": "“人工智能+文旅”试点落地 政策红利开启场景化赛道",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tUDVXb1c5Yi1veHRBUjYxa1NLMnhwMXFqd0pfY08xdG5aQTF0UzVfekFMeDVCWGxIX1MtVUwyUjByMjVSSThOZ0N5RlRtNkUzU1JCZUM5azlvYW00RXM0WVdGUklrMzA3ODB5RHd5VQ?oc=5",
-      "source": "中国经济网",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSTJrY1NldE9ONjdZeGVnTDFIMkFsVE9qUGpqeVFrYlZrbGpjMTJtODFFRkxhY3VUMHBCSHVmVWFVVzktS3Z1VTBKbDEzRVJTZmNRdDdFWnpUZGRneFBPZnpTVzlGZnpNU3Y5Q3dvTmFKdjZZNzJQTUtJZnNOTHNrYQ?oc=5",
+      "source": "新华网科技",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-18T22:55:00.000Z",
-      "summary": "“人工智能+文旅”试点落地，开启文旅场景化新赛道。",
+      "pubDate": "2026-10-19T00:02:58.000Z",
+      "summary": "“人工智能+文旅”试点落地，开启场景化赛道，推动文旅业智能化发展。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI发力人形机器人研发 将AI大脑作为核心突破口",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DazlXek54TGxBWlJWOGZrQ2pTaFNUekRzdy16Q1IySi1Fd21sQkZEQ3BwbEFDZlBTdWN3VTF6TmxaWEw3dDg2MDE4VXZiQ3NTTm1BRlc4NzVTRDhlZFBvODY4NU10c0lVclg4c05TQQ?oc=5",
+      "title": "本地AI大模型部署推动9年前Tesla V100走红，国内二手市场单卡溢价1400元",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oN1lTQUxQTlJHRVpCd0dMY1hhRkJ4RVlYNFVkSXFzOUZURmlMUUZhZlRROERTS19waTJaaEN4azg2eUhkcXZVUFlBS1hGMEZCVzVVcUM2YVdrcWJTRTEycXVqeFFRX0pzNzA2NndOTjV0N05I?oc=5",
       "source": "金融界",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-18T08:49:57.000Z",
-      "summary": "OpenAI布局人形机器人研发，以AI大脑为核心，预计2027年推出演示样机。",
+      "pubDate": "2026-10-18T08:17:08.000Z",
+      "summary": "Tesla V100因AI大模型需求走红，国内二手市场单卡溢价1400元。",
       "summaryZh": ""
     },
     {
-      "title": "自上而下 正向设计 济南人形机器人带着方案“上岗”",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UWWJ5U0o0OFc1b3NWci1jR0RMWlB6c2RYRTdrdmsxV296SWU4aGV1aUh0WXFHdzZFVjNPbUtGR1pWYXVSVGw2bFdrVW1ZdERCa2JWZncxUDNtQVlqN3Azak9vdC11emtUazhhcTZ3?oc=5",
+      "title": "钧舵机器人工博会发布四大产品矩阵，打造工业具身智能执行层全栈能力",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HbUQ4MTZaRGZRdGdIVmxOcUdWeEI4TjRSUlJoTHBPQjNUd2pQY0g2aExHc0t6TEM4VGVnQjVvcjhZd3lSMktPb0RJM1E5Mk9xRGlVcmkwQ3ZVdlR5NTVuUVIxSm5mZ2x2cnZ6TFZXcEtpQ1E?oc=5",
       "source": "央广网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-18T02:38:16.000Z",
-      "summary": "济南人形机器人E2正式上线，应用于工业领域。",
+      "pubDate": "2026-10-18T10:37:49.000Z",
+      "summary": "钧舵机器人工博会发布四大产品矩阵，构建工业具身智能执行层全栈能力。",
       "summaryZh": ""
     },
     {
-      "title": "首届全球具身智能应用创新挑战赛暨2026中国机器人大赛举行",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92cEM4LXBCNzNWVTljcWxXT3dzT0thY1RyS1VYUjY0M2NXMU5wLWVOaVRGZWplQkF2Y2VvQjN0bU1aQVFSMDBDZ1lKcGVPY25ESjhaSVhrWEJJZEZ3WklBdzBkQ1g4SEUtNmo0VEd2Nko?oc=5",
-      "source": "科技日报",
+      "title": "FPGA，物理AI、Agent算力、Chiplet封装重构行业新格局",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zQlJZQVdUWnBZT3BUTFdNSTYxMm13dk80d0ViaWk1b2tqQW5GUVBjbURMZmdoMl8zYk5EcF9HYlJXaTZFV285MHdySHRHZmsyMW43a1ZXSQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-18T11:37:23.000Z",
-      "summary": "首届全球具身智能应用创新挑战赛暨2026中国机器人大赛在杭州闭幕，168支队伍获前三名。",
+      "category": "ai",
+      "pubDate": "2026-10-18T01:24:02.000Z",
+      "summary": "FPGA、物理AI等技术创新重构芯片行业新格局。",
       "summaryZh": ""
     },
     {
@@ -158,38 +158,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-18T00:36:38.000Z",
-      "summary": ""
+      "summary": "马斯克认为AI和机器人是解决美国国债问题的唯一途径。",
+      "summaryZh": ""
     },
     {
-      "title": "景顺亚太区投资解决方案客户总监：人工智能基础设施蕴藏投资机遇。",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83RmhJc1M0T0U2Rnc4VGRFd19rVW53VWw2RHZ3Sm9XYzNUQzJjbkZaNnppSUszS3NKbkhnOUZJaG11a2RyVmZST1gxZHNaazBjRGs0?oc=5",
+      "title": "OpenAI下线对话内下单功能：智能体商务首回合遇阻，电商履约与结账仍由平台掌握",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11UUUzcU9GUjhiZGxnMlJURVF6RGVFNGNJN1RDWmRZR2RhUTZSYVdtUjd6SjVDbFpwSVd4alFyYlRta1hlQkJXdkZoc2ZXM1UxX20tOFMxbk1kLUxndUtV?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-18T00:29:55.000Z",
-      "summary": "景顺亚太区总监认为AI基础设施投资潜力巨大。",
-      "summaryZh": ""
-    },
-    {
-      "title": "阶跃终端原生智能体手机STEPX Neo先行版发售；可灵AI新一代模型Kling 4.0正式上线",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5za2dHX3RmQXBiZmQ0aFdtbDZxaWlvVU5VQ0NhalJuejk4d2JtRFpkMTlCeGVuLUYtbUQ0ZE13cUVwSURKVFUtQ1ZXSW1BVlpDU2toTUdDVU9GMVdCMXlCNUpVN0h3dw?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-18T13:04:00.000Z",
-      "summary": "阶跃终端发布原生智能体手机STEPX Neo先行版，可灵AI新一代模型Kling 4.0上线。",
-      "summaryZh": ""
-    },
-    {
-      "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
-      "link": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-18T22:20:53.000Z",
-      "summary": "萨凡纳警察将Flock账户登录信息提供给其ICE特工丈夫。",
-      "summaryZh": "",
-      "titleZh": "一名萨凡纳警察将她的 Flock 登录信息交给了她 ICE 特工的丈夫"
+      "pubDate": "2026-10-18T02:08:00.000Z",
+      "summary": ""
     },
     {
       "title": "A woman was arrested in Philly for blocking a delivery robot",
@@ -203,25 +182,25 @@
       "titleZh": "一名女子因阻挡送货机器人而在费城被捕"
     },
     {
-      "title": "领益智造招股书讲述的具身智能战略 有多少变成了现实？",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IaHM4WkUtRFZSR045cnVRY3REaFV2bnNSV1JtNldmV1pxcDA3T2tVcVdRWEMzUVdIMGJkWlVEYWdRZ3daUjcyNWFzNjN5ZVVQ?oc=5",
-      "source": "凤凰财经",
+      "title": "马斯克：美债问题只能靠AI和机器人解决",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZOGN3VnFLcUZqeXVMYlVYdzRYYTRhcXM0UGh3d3dCQndhZTJWMTlNbm5DTW92czZpQnhUalBFajVyU0phQVBfUVp2THJBTlVsRng1bmR4Ylpsd3BBcGR4WXJJVQ?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-18T01:00:00.000Z",
-      "summary": "领益智造招股书披露具身智能战略实施进展，新业务营收占比仍低。",
+      "pubDate": "2026-10-18T10:25:22.000Z",
+      "summary": "马斯克认为AI和机器人技术是解决美债问题的唯一途径。",
       "summaryZh": ""
     },
     {
-      "title": "Puma Robot History MIT Standford AI",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fSFpudFl3R1M1YkhWTzNiaUpoeVIyeWk0bUloak9QMDdEaHdZR19wRllweFoxcnZaY0hEd2hUbW5aRmVTWlg1bko1QXduQ21CUV95djJiRzc3V1poS0RlS05KVzBLVUU?oc=5",
+      "title": "Watch as doctors perform revolutionary robot-assisted surgery",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR1g4ZWFTc3dNdl9VS2ZwRy1wR2djQ2oxVVlsTHd2bWJWNk9rOUdSUmJsR3dlblZ6REtEWktwbHh2b1hZdHpnbTJYWTdFUi1MdU1ZM0tOcTEtTFJpeThVelhZa3Q1X0wxb0dWSXExRWpDR2NOSEZhNFZzRTVHd1p0dU01ZUxqamJfclE?oc=5",
       "source": "Robohub",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-10-18T21:38:06.000Z",
-      "summary": "Puma机器人历史与MIT、斯坦福AI研究相关内容在Robohub发布。",
+      "pubDate": "2026-10-18T23:48:54.000Z",
+      "summary": "医生成功实施革命性机器人辅助手术。",
       "summaryZh": "",
-      "titleZh": "Puma 机器人历史 MIT 斯坦福 AI"
+      "titleZh": "观看医生进行革命性的机器人辅助手术"
     }
   ]
 }
