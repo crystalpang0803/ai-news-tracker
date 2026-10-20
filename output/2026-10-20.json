@@ -1,84 +1,64 @@
 {
   "date": "2026-10-20",
-  "generatedAt": "2026-10-20T04:56:33.825Z",
+  "generatedAt": "2026-10-20T08:51:43.653Z",
   "items": [
     {
-      "title": "南方基金旗下科创人工智能ETF南方(589230)标的指数大涨近5%，行业盛会启幕、英伟达加速AI工厂战略落地",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JSnFtdEtoUFR4a0ZLb0hwR1BORGxoMG5ub3ItdzNWcFFQU3lhNXVUWEpYOWt2a2J6WVhnYy1YbWN2YV9zd0pGNHJacXhkLXpIMWxkYjJ5bHc?oc=5",
-      "source": "界面新闻",
+      "title": "对话Dyna Robotics：被部署教训了300天后，找到机器人Scaling Law",
+      "link": "https://www.tmtpost.com/8174365.html",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-20T02:54:00.000Z",
-      "summary": "南方基金旗下科创人工智能ETF南方(589230)标的指数大涨近5%，英伟达加速AI工厂战略落地。",
+      "category": "robotics",
+      "pubDate": "2026-10-20T08:39:27.000Z",
+      "summary": "Dyna Robotics通过300天部署经验，发现机器人Scaling Law。",
       "summaryZh": ""
     },
     {
-      "title": "消息称 Waymo 计划明年年底前将自动驾驶车队规模扩至目前 5 倍，达 2 万辆",
-      "link": "https://www.ithome.com/1/015/218.htm",
+      "title": "山东：探索“具身智能 + 旅游”落地应用，支持山岳型景区投放登山助力机器人",
+      "link": "https://www.ithome.com/1/015/388.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-20T03:29:38.000Z",
-      "summary": "Waymo计划明年年底将自动驾驶车队规模扩大至2万辆。",
+      "pubDate": "2026-10-20T08:18:33.000Z",
+      "summary": "山东规划支持山岳景区投放登山助力机器人，探索“具身智能 + 旅游”应用。",
       "summaryZh": ""
     },
     {
-      "title": "2026年全球商用服务机器人行业现状、竞争格局与趋势分析，行业集中度有望进一步提升",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vUGRUNGV2WXdqOWd3aGFFbV9SdUdmYXk0V2FiWV8zdnBBVWJHTUJpUlpBbDY2MFVtdm5XSnN0cDhWM0tyMGRNVWx5QjBlVkNmbWNKblpHSQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-20T01:55:09.000Z",
-      "summary": "2026年全球商用服务机器人行业集中度将提升。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI下场造人形机器人，奥尔特曼：AI大脑是关键",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IejNHS1NNSU9XaEtPd3B3bkFZTk5hM3dMbUxEcFpQcUJ3NnROUk1LZC15T0hvRUtneXRBWERLTUpZWlVVNGF1Y2xLM3ctQQ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-19T11:16:44.000Z",
-      "summary": ""
-    },
-    {
-      "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
-      "link": "https://www.qbitai.com/2026/10/504277.html",
+      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+      "link": "https://www.qbitai.com/2026/10/504314.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-19T14:33:26.000Z",
-      "summary": "量子计算公司推动量子算力服务化，搭建千比特规模量子算力云平台。",
+      "pubDate": "2026-10-20T01:09:43.000Z",
+      "summary": "Claude新模型发布，能跳出思维定势，修复bug更高效。",
       "summaryZh": ""
     },
     {
-      "title": "DeepSeek学霸的降维打击：没刷榜，在工位打游戏，模型能力却控制不住地涨",
-      "link": "https://www.tmtpost.com/8173268.html",
-      "source": "钛媒体",
+      "title": "一目科技与韩国 Physical AI 前沿企业 NEOUL ROBOTICS 达成战略合作",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSZ0FJSjN2Sjh6Q2gtd29fTS0yQlJkRUNqbXdUQ0tRem1IdFpGUzNhRW9wTVExYkxMSURucHBiOVFtS2JtXzhtN1ZYWTdjV3RMMUNyWHlyeU0?oc=5",
+      "source": "36氪",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-20T03:59:35.000Z",
-      "summary": "DeepSeek员工在工位打游戏，模型能力却意外提升。",
-      "summaryZh": ""
+      "category": "robotics",
+      "pubDate": "2026-10-19T15:44:00.000Z",
+      "summary": ""
     },
     {
-      "title": "DeepSeek新模型升级，梁文锋正在为具身智能铺路？",
-      "link": "https://www.tmtpost.com/8173675.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-20T03:14:33.000Z",
-      "summary": "DeepSeek发布新模型V4.1-Flash-1017，降低AI编程门槛，探索具身智能领域。",
-      "summaryZh": ""
-    },
-    {
-      "title": "奇瑞 CheryMind 垂域基础大模型亮相，为物理 AI 而生",
-      "link": "https://www.ithome.com/1/015/219.htm",
+      "title": "ADS 标志灯选装细则明确，仅具备 L3 级及以上自动驾驶系统车辆才允许安装“小蓝灯”",
+      "link": "https://www.ithome.com/1/015/326.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-20T03:32:35.000Z",
-      "summary": "奇瑞发布CheryMind垂域基础大模型，旨在推动物理AI发展。",
+      "category": "robotics",
+      "pubDate": "2026-10-20T07:19:02.000Z",
+      "summary": "具备 L3 级及以上自动驾驶系统车辆可安装 ADS 标志灯。",
+      "summaryZh": ""
+    },
+    {
+      "title": "曝苹果首款“消费级机器人”，定价1000美元",
+      "link": "https://zhidx.com/p/602115.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-19T09:16:50.000Z",
+      "summary": "苹果发布首款消费级机器人，定价1000美元。",
       "summaryZh": ""
     },
     {
@@ -102,14 +82,13 @@
       "summaryZh": ""
     },
     {
-      "title": "清华姚班、哈佛学霸，让机器人自己写代码、练技能，终于不用人手把手带了",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55NWtlNjExa0pXTzBoN1d6ZmdNb3g4aXFGNEhEV3VKUmxqUHg5b29VSWFCVmNXNUhCTlVKeVNxY1dCcHZIYVlCMg?oc=5",
-      "source": "智东西",
+      "title": "中国大模型狂吸近80万亿Token调用量，连续25周碾压美国",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3M2tnRTUxNHNPd2FGb0FqQ083VXVTSWlTczdMQjNaRTB4cmFzYnVRS3BibDRHc2d4T190WHZ5ek9VdGRwdG9DS0ZZWVZfUQ?oc=5",
+      "source": "36氪",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-19T10:37:01.000Z",
-      "summary": "机器人通过自主探索和经验学习，实现自主编程和技能提升。",
-      "summaryZh": ""
+      "category": "ai",
+      "pubDate": "2026-10-19T12:49:00.000Z",
+      "summary": ""
     },
     {
       "title": "澳大利亚AI公司Apate部署35万个AI Agent卧底诈骗对话，提取超25万条情报",
@@ -122,14 +101,65 @@
       "summaryZh": ""
     },
     {
-      "title": "意法半导体(ST)扫地机器人解决方案_电路方案",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DZVFkMnhJQi1NdkhrTTFqSlpkdkdoNU43cjVNX0piMlVDb0xEVGtQQ1FkZHh6NEVTS2FiQlhhc29WZTlCcm5LazdQcjFBcFpVQi1tZm1zdw?oc=5",
+      "title": "从AI短剧热潮到Kling 4.0全量上线：AI应用持续突破！科创创业人工智能ETF景顺(159142)高效捕捉AI产业景气度",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ucklMUTgtNGdnc2lyanZiaFgzekNiNko1S2k1OUc1NmxQWml0VGpMaEhmaHlXN3J0SDF4by15LWxTdDVNS3NLSnpWU0dMUGZtY0hKaV8xZlI?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-20T05:35:07.000Z",
+      "summary": "AI应用持续突破，Kling 4.0全量上线，AI产业景气度被景顺ETF高效捕捉。",
+      "summaryZh": ""
+    },
+    {
+      "title": "潘功胜：审慎评估人工智能对金融市场、货币政策影响，前瞻性做好政策准备",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NelFpMWxkek41cTNKRFhsOE0ydkotWXBnZXFRQWl4UG85Y3FISHBGV0NRWWZDeFY1emw2UmQ2VlFMWjNPNzhQbmhiN0gyRnpVWUw4?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-19T12:15:37.000Z",
+      "summary": "潘功胜强调审慎评估AI对金融影响，前瞻性制定政策。",
+      "summaryZh": ""
+    },
+    {
+      "title": "港股大模型概念走低",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KRnBXbGt0bDZPSTBDS2V5U2JrWm4zMk1vQlZqOFlCWmxpeXEycUV3UlBaSmMyYUlxSWc2OVlFX2ZKUUFxUTNzaTlyLXBIMW5ZTTI0?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-20T05:32:19.000Z",
+      "summary": "港股大模型概念股MINIMAX、智谱股价下跌。",
+      "summaryZh": ""
+    },
+    {
+      "title": "60万台减速器，等10万台整机：人形机器人的“身体”跑得太快了",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWS0VKQVdlR2JOUXZjS3BXRTRBUmcxMjEzTl82TkVpNE0xZkU5anJiNnctU0dYVXlXM3RjVU9IZGNvT3dkN3VaTVRjYW14UTczTmJ5MUNINA?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-20T01:43:16.000Z",
-      "summary": "意法半导体推出扫地机器人电路方案，提供多种电机控制解决方案和传感器。",
+      "pubDate": "2026-10-20T02:48:06.000Z",
+      "summary": "人形机器人减速器需求远超整机供应。",
       "summaryZh": ""
+    },
+    {
+      "title": "广州：大模型落地应用场景促进产业向新",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBadVhfbGxSaXRXM1I4bFplaEdiaG9Vak9SRXVfSGFxclJFNFUzQzNINDFVcHZ5d0xkbHN5bm4zZ1FDVzE2ZHZsa21KRzU2S2JuRGZDa3ptZElQSlhpVHdZV1R5MTlqdV9KUlp2N1VaczZuRGs?oc=5",
+      "source": "中国经济网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-20T07:05:00.000Z",
+      "summary": "广州大模型应用场景丰富，推动产业创新发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source": "MIT Technology Review",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-19T09:08:05.000Z",
+      "summary": "AI研究者在虚拟岛屿上孤立Claude，其开始自发“玩耍”。",
+      "summaryZh": "",
+      "titleZh": "人工智能研究人员将克劳德困在一个虚拟的荒岛上。它开始“玩”了。"
     },
     {
       "title": "Daimon Robotics building the infrastructure layer for tactile intelligence",
@@ -138,7 +168,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-19T17:07:52.000Z",
-      "summary": "Daimon Robotics构建触觉智能基础设施层，连接触觉传感、数据收集、模拟和AI模型。",
+      "summary": "Daimon Robotics构建触觉智能基础设施层，连接触觉感知、数据收集、模拟和AI模型。",
       "summaryZh": "",
       "titleZh": "Daimon Robotics 构建触觉智能基础设施层"
     },
@@ -149,38 +179,18 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-19T15:55:12.000Z",
-      "summary": "Kodama Systems获700万美元投资，将机器人技术应用于美国东南部林业。",
+      "summary": "Kodama获700万美元投资，将机器人技术应用于美国东南部林业。",
       "summaryZh": "",
       "titleZh": "Kodama 筹集了 700 万美元，将机器人技术引入林业"
     },
     {
-      "title": "商务部：用AI让家政养老更靠谱、观赛上课更丰富",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SaHlEaHEybDVvUENNeFE4WFFzMHg0cjE2Ynd4NGYtU1k4aE9FWWRHcFdLNG5wR0pjTmZYT2kzdHU4bk55SEpfazktZlByV09pYmtlYW14RThXTmt6ZmEyd281U24?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-19T09:18:00.000Z",
-      "summary": "商务部提出用AI技术提升家政养老、观赛上课等服务品质。",
-      "summaryZh": ""
-    },
-    {
-      "title": "A股三大指数涨跌不一 成交额不足1.5万亿 机器人与银行板块领涨",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90VHNxQVBXRDd6dUF4X0xQNEFjMEJ6Z1h1NTJkMjhlbDY4Z3RYYjM5cC1TQzlDclYza2NUXzI1azdWMlRnajVnbldTd0taWXlmVDFIYW05WFpHUXFUaTcwaQ?oc=5",
-      "source": "东方财富网",
+      "title": "《具身智能发展报告（2026年）》：935 亿热钱背后，机器人月开机不足 10 天",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5dS11NnlSRWR6QXM1cS1FLVhMaHZ5YlpjLWlpbG51MnJMQlI1b0ZyVnVTMFZoLVpWSlFxbXRqVk43YzBBV1VrZjFydVpPMkxFUm1RdG1Wcw?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-20T01:55:32.000Z",
-      "summary": "A股三大指数涨跌不一，机器人与银行板块领涨。",
-      "summaryZh": ""
-    },
-    {
-      "title": "光庭信息(301221.SZ)：暂未涉及机器人软件应用、AI影视剧生成软件开发等业务",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NZl9oSF91d2JvTkpOOHNlN3FaWkpYdnZnRFJKdjMyUGo4eEJKNTJSWHhIUFNCZ0dHdnk0bl9raEJScHZIUjhPMGozcll4SlFHSHhSR1RyemRiY0NQT2hkU0VVUmpuQQ?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-20T03:56:54.000Z",
-      "summary": "光庭信息未涉足机器人软件和AI影视剧生成软件开发。",
+      "pubDate": "2026-10-20T02:04:20.000Z",
+      "summary": "2026年具身智能报告显示，机器人月开机不足10天，热钱达935亿。",
       "summaryZh": ""
     },
     {
@@ -195,33 +205,24 @@
       "titleZh": "我没想到会建造的机器人"
     },
     {
-      "title": "New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap",
-      "link": "https://roboticsandautomationnews.com/2026/10/19/new-3-67-million-yorkshire-robotics-hub-will-help-manufacturers-bridge-automation-gap/106034/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-19T12:01:33.000Z",
-      "summary": "约克郡机器人中心获370万英镑资助，助力制造商实现自动化转型。",
-      "summaryZh": "",
-      "titleZh": "耗资 367 万英镑新建的约克郡机器人中心将帮助制造商弥合自动化差距"
-    },
-    {
-      "title": "美光正在为物理AI研发EIM存储器，天弘机器人基金标的指数逆市大涨近2%",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44ck1sT3F0b1lKWDFqWEpMSmJ5bVl1R2xMU2VZQU1ya2x5U2Q5WUdMaUxhMDVEckRtSzVrUGpsZkRkRlJxLWFLTjlTV0VraE5PbWlDRFRtTjlrRUFZQWc?oc=5",
-      "source": "同花顺财经",
+      "title": "A股三大指数涨跌不一 成交额不足1.5万亿 机器人与银行板块领涨",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90VHNxQVBXRDd6dUF4X0xQNEFjMEJ6Z1h1NTJkMjhlbDY4Z3RYYjM5cC1TQzlDclYza2NUXzI1azdWMlRnajVnbldTd0taWXlmVDFIYW05WFpHUXFUaTcwaQ?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-20T03:03:49.000Z",
-      "summary": "截至发稿，上证指数下跌0.27%，深证成指下跌0.48%，创业板指下跌0.59%。"
+      "pubDate": "2026-10-20T01:55:32.000Z",
+      "summary": "A股三大指数震荡，成交额不足1.5万亿，机器人与银行板块领涨。",
+      "summaryZh": ""
     },
     {
-      "title": "物理AI、机器人领域催化频频 五一视界涨超18% 兆威机电涨超13%",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vSi1FeE5fSHQ4anYxZHhPSldMWDlIMDl1T3Nja0E2cTl2aDJmZy1NMDlLTWFaZ29Yblc0NFhndXEwaVE0bHJQdE1rR1pZRWJjOVBxalF3OTE1V2VZdlE?oc=5",
-      "source": "同花顺财经",
+      "title": "延庆建成文旅AI短片库，40件优质短片入库展映",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKcE52MS1UdV9XblRNQWE3T1pjRG5Xc2I5QnNScmVCVVFtNWJJR1BTbnZuNTl1MXVRTTlEeWpTTnNoSVk5ZGdDdkNtcHR0VjFiSW1seXpR?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-20T02:19:58.000Z",
-      "summary": ""
+      "category": "application",
+      "pubDate": "2026-10-19T10:01:00.000Z",
+      "summary": "延庆文旅AI短片库建成，展映40件优质短片。",
+      "summaryZh": ""
     },
     {
       "title": "中国电信鹰眼舆情系统——文旅口碑的AI守护者",
@@ -234,23 +235,13 @@
       "summaryZh": ""
     },
     {
-      "title": "延庆建成文旅AI短片库，40件优质短片入库展映",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDVm9RMDR1MWcwelJ2QXJUT0NZazY4TkFHUXd5cklxeF94UFZhU2xXcTUza0tfNW10VzZiMHlfR2VrT2FTdGxRVHJxcjBLNGRNTWdDazNvbGFqOVcxWjNaRFFybkU?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-19T10:01:00.000Z",
-      "summary": "延庆文旅AI短片库建成，40件优质短片入库展映。",
-      "summaryZh": ""
-    },
-    {
       "title": "Target takes a cautious approach to in-store retail media",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV3BDZWczNlhxVHhhYk5PQ0staWFFQlotY2JHZXBvbXJSdGhkcHExaVg4WFJtZ0lfYVJwUFdYajRDX1c3OHB1eDZsY0NOUWJyS3ItcjBsenJhVjZ2UzA1MGthQnF6RDVQMGZJcGlxOVozV3R6N3NHU3hIQ2hKYV9HdHJyRVdBc182bWY4RkRfdw?oc=5",
       "source": "eMarketer",
       "lang": "en",
       "category": "application",
       "pubDate": "2026-10-19T22:04:02.000Z",
-      "summary": "Target对店内零售媒体采取谨慎态度。",
+      "summary": "Target对店内零售媒体持谨慎态度。",
       "summaryZh": "",
       "titleZh": "Target 对店内零售媒体采取谨慎态度"
     }
