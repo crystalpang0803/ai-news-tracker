@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "generatedAt": "2026-10-19T23:04:51.364Z",
+  "generatedAt": "2026-10-20T00:27:17.505Z",
   "items": [
     {
       "title": "纽娲机器人杨睿刚：无人配送跑了十年，机器人为何还到不了家门？",
@@ -9,7 +9,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-19T13:02:51.000Z",
-      "summary": "无人配送机器人面临小区入户难题，成本和环境复杂性成主要挑战。",
+      "summary": "无人配送机器人面临小区入户难题，成本和环境复杂性成挑战。",
+      "summaryZh": ""
+    },
+    {
+      "title": "赶在 Anthropic 上市前：消息称 OpenAI 加速新一轮融资进程，估值或超 1.4 万亿美元",
+      "link": "https://www.ithome.com/1/015/078.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-19T23:51:53.000Z",
+      "summary": "OpenAI 加速融资，估值可能超1.4万亿美元。",
       "summaryZh": ""
     },
     {
@@ -32,23 +42,13 @@
       "summaryZh": ""
     },
     {
-      "title": "四个谷歌 Gemini 4 Argon 智能体成功击败末影龙通关《我的世界》，耗时 27 小时",
-      "link": "https://www.ithome.com/1/015/048.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-19T15:03:29.000Z",
-      "summary": "谷歌四个Gemini 4 Argon智能体自主通关《我的世界》，耗时27小时。",
-      "summaryZh": ""
-    },
-    {
       "title": "正面硬刚DeepSeek！MiniMax M3.1 Flash发布，输出卷到200+TPS，价格砍到1/2",
       "link": "https://zhidx.com/p/602354.html",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-19T15:05:20.000Z",
-      "summary": "MiniMax M3.1 Flash发布，性能与DeepSeek相当，价格降至一半。",
+      "summary": "MiniMax M3.1 Flash发布，性能提升至200+TPS，价格降至DeepSeek的一半。",
       "summaryZh": ""
     },
     {
@@ -62,23 +62,23 @@
       "summaryZh": ""
     },
     {
-      "title": "AI芯片创企Tenstorrent融资15亿美元，投后估值62亿美元",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zUEpzWHdHZExQRW9kb09MSlBETm82UVRpTU9USFFjN0hnTkdwNGFUaUg0UVNGRmlYS095MDdOMlgwTXZaUy1OY25paFp1ODFMOWRZdGhTRGw?oc=5",
+      "title": "Nscale据悉洽谈向Anthropic提供AI算力，潜在交易规模约450亿美元",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tSzRSRlA5bnFFWnloS2dva0Y0OFJHMy01eFJMME5Od0VzTlJsazZWakVwSkk3UmNqN2ozMWFFXzYyUjFWU3luM0RxU09JTTY0VWQzc04yMzk?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-19T12:31:04.000Z",
-      "summary": "AI芯片初创公司Tenstorrent完成15亿美元E轮融资，投后估值达62亿美元。",
+      "pubDate": "2026-10-19T23:30:01.000Z",
+      "summary": "Nscale与Anthropic洽谈450亿美元AI算力供应协议。",
       "summaryZh": ""
     },
     {
-      "title": "政策红利接连释放，AI人工智能ETF平安(512930)交投活跃",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGQ2NEd0VIREktZGx5aVo5ZlAwbU9fMjVHcGZMd19Xd1BXdkZ4TU9kX0tQVHZpMGxzalc4T3FyZWJCUzdCX0pydHpuOGpJZ1R0OFV4b0NaMU4?oc=5",
-      "source": "界面新闻",
+      "title": "中信建投：建议关注企业级AI应用、算力服务及国产芯片和超节点",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ydmNDdkh5TDJ0MHdEWTRWUk94OHI1UkUzLUV4TDBWVkxFanVLaHNQZU9OY0I5UU83bzhPdFozY00xUmJMU19FSm15NXdnSnZGaVhXSA?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-19T01:32:00.000Z",
-      "summary": "AI人工智能ETF平安交投活跃，政策红利推动市场关注。",
+      "pubDate": "2026-10-20T00:17:00.000Z",
+      "summary": "中信建投建议关注企业级AI应用、算力服务及国产芯片和超节点。",
       "summaryZh": ""
     },
     {
@@ -92,23 +92,13 @@
       "summaryZh": ""
     },
     {
-      "title": "国家统计局：“人工智能+”行动有力带动了新兴领域的投资和出口",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05d2ZhQ0N1YmlCbkk5clZuUE1BUUJzSE5CLVlhWHdaREdDY3Y1UzBLOXpKNTRvYmpYOWxPeW1NT0QzNTA4NS1Dcm1HRkRHcXFJSjBZ?oc=5",
-      "source": "第一财经",
+      "title": "最新全球AI大模型每周Token调用榜出炉：阶跃星辰Step 5 Preview跻身全球前三",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PN0VmWWZVSnlXWURzT1ZiakVKTlkxZTAyV0hwVGtzTDZTejBwY1otUlVsbUxUbkJXSERaWWV3a05uTzBXV2V5OA?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-19T03:43:39.000Z",
-      "summary": "国家统计局称“人工智能+”行动推动新兴领域投资和出口增长。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国常会定调！人工智能+布署落地加快，机会在哪里？",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rMDlUY09aWllNazJDaVQzZEQxSDFzdU1XTl9Ld0JNOWZkSFJHaWZySkp2eEx2MV9wZnhJYm1PNE1RcF94cTk1LWkza0lUOFFjeXhHVl9MWHB0WlJ6TEZ4SVMwR2RqZ3dEd3Bz?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-18T23:15:00.000Z",
-      "summary": "国常会部署加快人工智能落地，聚焦算力基础设施和AI安全。",
+      "pubDate": "2026-10-19T07:55:30.000Z",
+      "summary": "阶跃星辰Step 5 Preview跻身全球AI大模型Token调用榜第三。",
       "summaryZh": ""
     },
     {
@@ -122,25 +112,48 @@
       "summaryZh": ""
     },
     {
-      "title": "国常会部署人工智能发展 以落地应用牵引技术创新",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mLU1hTlN3c2V3OGlXWl9icUFFd2dpWi1CV3pKaFZ1MjhWY2VUSFpFLXJmdmZyUEtEUmc1Qk5YWThQa0FnYVZpazdVSU1KWlBtYmlFaEo2YzBNYXVUdmI1aGdZZExyR0NIREE?oc=5",
-      "source": "中国经济网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-18T23:16:00.000Z",
-      "summary": "国常会部署人工智能发展，强调落地应用牵引技术创新。",
-      "summaryZh": ""
-    },
-    {
       "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
       "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
       "source": "MIT Technology Review",
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-10-19T09:08:05.000Z",
-      "summary": "AI研究者在虚拟岛屿上孤立Claude，AI开始“玩耍”。",
+      "summary": "AI研究人员将Claude置于虚拟荒岛，AI开始“玩耍”。",
       "summaryZh": "",
       "titleZh": "人工智能研究人员将克劳德困在一个虚拟的荒岛上。它开始“玩”了。"
+    },
+    {
+      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+      "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-19T19:49:17.000Z",
+      "summary": "OpenAI前工程师因涉嫌窃听被控，被下令继续羁押候审。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 工程师被指控监视高管，并被勒令拘留"
+    },
+    {
+      "title": "Daimon Robotics building the infrastructure layer for tactile intelligence",
+      "link": "https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-19T17:07:52.000Z",
+      "summary": "Daimon Robotics构建触觉智能基础设施层，连接触觉感知、数据收集、模拟和AI模型。",
+      "summaryZh": "",
+      "titleZh": "Daimon Robotics 构建触觉智能基础设施层"
+    },
+    {
+      "title": "Kodama raises $7M to bring robotics to forestry",
+      "link": "https://www.therobotreport.com/kodama-raises-7m-bring-robotics-forestry/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-19T15:55:12.000Z",
+      "summary": "Kodama获700万美元投资，将机器人技术应用于林业。",
+      "summaryZh": "",
+      "titleZh": "Kodama 筹集了 700 万美元，将机器人技术引入林业"
     },
     {
       "title": "商务部：用AI让家政养老更靠谱、观赛上课更丰富",
@@ -167,7 +180,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-19T11:06:09.000Z",
-      "summary": ""
+      "summary": "WorkBuddy以机器人形式入驻企业微信，辅助办公但存在算力、时间等错误。",
+      "summaryZh": ""
     },
     {
       "title": "The Robot I Didn’t Expect to Build",
@@ -187,18 +201,18 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-19T12:01:33.000Z",
-      "summary": "约克郡机器人中心获370万英镑资助，助力制造商跨越自动化鸿沟。",
+      "summary": "布拉德福德大学领投的370万英镑约克郡机器人中心助力制造商跨越自动化鸿沟。",
       "summaryZh": "",
       "titleZh": "耗资 367 万英镑新建的约克郡机器人中心将帮助制造商弥合自动化差距"
     },
     {
-      "title": "在工博会上看机器人“打工”",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2V5d3dTd19lMkM5RGhSc0ZVb2ZWcHljWWpBQkdrWXlWalpJMVAtaExPekp0cjFJMDNIZEtYQkJ1Rl9BSy11LTVlUnNFbzVKTmpTZ1JmRkRWTks5Q18xaTM3NmViUWtwcFpNVEQwV1hmUzFHeHB3N2JWWlplR3FRa3ZuSzg?oc=5",
-      "source": "新华网科技",
+      "title": "A股三大指数涨跌不一 成交额不足1.5万亿 机器人与银行板块领涨",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90VHNxQVBXRDd6dUF4X0xQNEFjMEJ6Z1h1NTJkMjhlbDY4Z3RYYjM5cC1TQzlDclYza2NUXzI1azdWMlRnajVnbldTd0taWXlmVDFIYW05WFpHUXFUaTcwaQ?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-19T02:19:45.000Z",
-      "summary": "工博会上机器人展示真实产线作业，具身智能技术迈向规模交付。",
+      "pubDate": "2026-10-19T07:03:54.000Z",
+      "summary": "A股三大指数涨跌互现，成交额不足1.5万亿，机器人与银行板块领涨。",
       "summaryZh": ""
     },
     {
@@ -219,27 +233,6 @@
       "category": "application",
       "pubDate": "2026-10-19T10:01:00.000Z",
       "summary": ""
-    },
-    {
-      "title": "Siemens targets up to 80% factory automation with AI, board member says",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRjVrdExYOGRCNGoxVi1VZXFIZVpaMk9LNUhlc1AxZmdHYmxSVjQwZzlUaFRJRTlfMzd6RmN1Y3FnNzQxSG1lMUZtTDd1T2MxbEo0YTdia3ltMXR0T2Nudnk1OHZlZ0lhYVhGQzgyNV8zSnMzanV5UG5zV1dldTJuSEl1WGc1Q3RwckxrbUh5WWJmM1hrWHhFc1ZpUnJOdzBYbHp2WTd5WjBYQkNRekFyeg?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-19T14:13:45.000Z",
-      "summary": "",
-      "titleZh": "董事会成员表示，西门子的目标是通过人工智能实现高达 80% 的工厂自动化"
-    },
-    {
-      "title": "The Robot Group opens UK enquiries for X-Humanoid robots",
-      "link": "https://roboticsandautomationnews.com/2026/10/19/the-robot-group-opens-uk-enquiries-for-x-humanoid-robots/106030/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-19T11:51:09.000Z",
-      "summary": "机器人集团在英国开启X-Humanoid机器人询价。",
-      "summaryZh": "",
-      "titleZh": "机器人集团在英国对 X-Humanoid 机器人展开询价"
     },
     {
       "title": "Target takes a cautious approach to in-store retail media",
