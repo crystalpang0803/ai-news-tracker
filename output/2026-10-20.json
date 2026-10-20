@@ -1,35 +1,84 @@
 {
   "date": "2026-10-20",
-  "generatedAt": "2026-10-20T01:17:21.734Z",
+  "generatedAt": "2026-10-20T04:56:33.825Z",
   "items": [
     {
-      "title": "纽娲机器人杨睿刚：无人配送跑了十年，机器人为何还到不了家门？",
-      "link": "https://www.tmtpost.com/8171183.html",
-      "source": "钛媒体",
+      "title": "南方基金旗下科创人工智能ETF南方(589230)标的指数大涨近5%，行业盛会启幕、英伟达加速AI工厂战略落地",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JSnFtdEtoUFR4a0ZLb0hwR1BORGxoMG5ub3ItdzNWcFFQU3lhNXVUWEpYOWt2a2J6WVhnYy1YbWN2YV9zd0pGNHJacXhkLXpIMWxkYjJ5bHc?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-19T13:02:51.000Z",
-      "summary": "无人配送机器人面临小区入户难题，成本高企，技术挑战多。",
+      "category": "ai",
+      "pubDate": "2026-10-20T02:54:00.000Z",
+      "summary": "南方基金旗下科创人工智能ETF南方(589230)标的指数大涨近5%，英伟达加速AI工厂战略落地。",
       "summaryZh": ""
     },
     {
-      "title": "赶在 Anthropic 上市前：消息称 OpenAI 加速新一轮融资进程，估值或超 1.4 万亿美元",
-      "link": "https://www.ithome.com/1/015/078.htm",
+      "title": "消息称 Waymo 计划明年年底前将自动驾驶车队规模扩至目前 5 倍，达 2 万辆",
+      "link": "https://www.ithome.com/1/015/218.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-20T03:29:38.000Z",
+      "summary": "Waymo计划明年年底将自动驾驶车队规模扩大至2万辆。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2026年全球商用服务机器人行业现状、竞争格局与趋势分析，行业集中度有望进一步提升",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vUGRUNGV2WXdqOWd3aGFFbV9SdUdmYXk0V2FiWV8zdnBBVWJHTUJpUlpBbDY2MFVtdm5XSnN0cDhWM0tyMGRNVWx5QjBlVkNmbWNKblpHSQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-20T01:55:09.000Z",
+      "summary": "2026年全球商用服务机器人行业集中度将提升。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI下场造人形机器人，奥尔特曼：AI大脑是关键",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IejNHS1NNSU9XaEtPd3B3bkFZTk5hM3dMbUxEcFpQcUJ3NnROUk1LZC15T0hvRUtneXRBWERLTUpZWlVVNGF1Y2xLM3ctQQ?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-19T11:16:44.000Z",
+      "summary": ""
+    },
+    {
+      "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
+      "link": "https://www.qbitai.com/2026/10/504277.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-19T14:33:26.000Z",
+      "summary": "量子计算公司推动量子算力服务化，搭建千比特规模量子算力云平台。",
+      "summaryZh": ""
+    },
+    {
+      "title": "DeepSeek学霸的降维打击：没刷榜，在工位打游戏，模型能力却控制不住地涨",
+      "link": "https://www.tmtpost.com/8173268.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-20T03:59:35.000Z",
+      "summary": "DeepSeek员工在工位打游戏，模型能力却意外提升。",
+      "summaryZh": ""
+    },
+    {
+      "title": "DeepSeek新模型升级，梁文锋正在为具身智能铺路？",
+      "link": "https://www.tmtpost.com/8173675.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-20T03:14:33.000Z",
+      "summary": "DeepSeek发布新模型V4.1-Flash-1017，降低AI编程门槛，探索具身智能领域。",
+      "summaryZh": ""
+    },
+    {
+      "title": "奇瑞 CheryMind 垂域基础大模型亮相，为物理 AI 而生",
+      "link": "https://www.ithome.com/1/015/219.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-19T23:51:53.000Z",
-      "summary": "OpenAI 加速融资，估值可能超1.4万亿美元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "万亿级机器人市场，可否成为美的第二增长曲线？",
-      "link": "https://www.tmtpost.com/8172784.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-19T11:03:26.000Z",
-      "summary": "美的机器人业务增长迅速，但盈利能力不足，距离成为第二增长曲线仍面临挑战。",
+      "pubDate": "2026-10-20T03:32:35.000Z",
+      "summary": "奇瑞发布CheryMind垂域基础大模型，旨在推动物理AI发展。",
       "summaryZh": ""
     },
     {
@@ -39,7 +88,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-19T15:05:20.000Z",
-      "summary": "MiniMax M3.1 Flash发布，性能提升至200+TPS，价格降至DeepSeek一半。",
+      "summary": "MiniMax M3.1 Flash发布，性能与DeepSeek相当，价格降至一半。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI终端普及与国产算力需求增长，科创创业人工智能ETF永赢(159141)受关注",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vd0NNOW1OdTJGNkg4WkhWRW9YdS1yRFc3VTJXZlh1WFBqb3VlVm13cTVpZ2JUeFRBUnd0Nm9pTS1VbElHcEVFNC1oSFljblF4Y3RDZERNbjQ?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-20T03:42:59.000Z",
+      "summary": "科创创业人工智能ETF永赢（159141）因AI终端普及和算力需求增长受市场关注。",
       "summaryZh": ""
     },
     {
@@ -49,87 +108,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-19T10:37:01.000Z",
-      "summary": "清华姚班、哈佛学霸研发RAX框架，机器人可自主写代码、练技能。",
+      "summary": "机器人通过自主探索和经验学习，实现自主编程和技能提升。",
       "summaryZh": ""
     },
     {
-      "title": "把大模型塞进卫星里：是商业航天真风口，还是又一个资本故事？",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84S3paUndBMnk3ZWxJRm5faEpfNWlwbjR1MXd4aTh4aTZZaGNyRkUwOUdRWklNMUhQa1ZUWVJQZE1MODQtOUFTZGtPTUtyNHVxSWN3?oc=5",
-      "source": "36氪",
+      "title": "澳大利亚AI公司Apate部署35万个AI Agent卧底诈骗对话，提取超25万条情报",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hTHJudjkzZ2pOOTJVWl82N0I3OTdOay1WanEzM29tVnc0ZFk1bllGRUFjTjJzeWNBczEwR1I1ZGpISlpOeVJGVUdjcXlDaGk2QWhUdA?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-19T09:22:00.000Z",
-      "summary": "商业航天企业正探索将AI大模型搭载卫星，面临散热难题和中美不同商业路线挑战。",
+      "pubDate": "2026-10-20T02:17:20.000Z",
+      "summary": "Apate公司AI Agent卧底诈骗对话，提取25万条情报。",
       "summaryZh": ""
     },
     {
-      "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwZlZpR3FwYUlJVmZ0UEJpOF9MS01IWVd5R3pEQUdaU3B0RHJrN21vbjhyUFY1eV81TUlnVDR1T212WVZuMnJCcGpHNnNNZ29OalZBVg?oc=5",
-      "source": "量子位",
+      "title": "意法半导体(ST)扫地机器人解决方案_电路方案",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DZVFkMnhJQi1NdkhrTTFqSlpkdkdoNU43cjVNX0piMlVDb0xEVGtQQ1FkZHh6NEVTS2FiQlhhc29WZTlCcm5LazdQcjFBcFpVQi1tZm1zdw?oc=5",
+      "source": "与非网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-19T14:33:26.000Z",
-      "summary": "量子计算公司推进量子算力服务，搭建千比特规模量子算力云平台。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI芯片创企Tenstorrent融资15亿美元，投后估值62亿美元",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zUEpzWHdHZExQRW9kb09MSlBETm82UVRpTU9USFFjN0hnTkdwNGFUaUg0UVNGRmlYS095MDdOMlgwTXZaUy1OY25paFp1ODFMOWRZdGhTRGw?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-19T12:31:04.000Z",
-      "summary": "AI芯片初创公司Tenstorrent完成15亿美元E轮融资，投后估值达62亿美元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Nscale据悉洽谈向Anthropic提供AI算力，潜在交易规模约450亿美元",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tSzRSRlA5bnFFWnloS2dva0Y0OFJHMy01eFJMME5Od0VzTlJsazZWakVwSkk3UmNqN2ozMWFFXzYyUjFWU3luM0RxU09JTTY0VWQzc04yMzk?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-19T23:30:01.000Z",
-      "summary": "Nscale与Anthropic洽谈450亿美元AI算力供应协议。",
-      "summaryZh": ""
-    },
-    {
-      "title": "潘功胜：审慎评估人工智能对金融市场、货币政策影响，前瞻性做好政策准备",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NelFpMWxkek41cTNKRFhsOE0ydkotWXBnZXFRQWl4UG85Y3FISHBGV0NRWWZDeFY1emw2UmQ2VlFMWjNPNzhQbmhiN0gyRnpVWUw4?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-19T12:15:37.000Z",
-      "summary": "潘功胜强调审慎评估AI对金融影响，前瞻性制定政策。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国家统计局：“人工智能+”行动有力带动了新兴领域的投资和出口",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05d2ZhQ0N1YmlCbkk5clZuUE1BUUJzSE5CLVlhWHdaREdDY3Y1UzBLOXpKNTRvYmpYOWxPeW1NT0QzNTA4NS1Dcm1HRkRHcXFJSjBZ?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-19T03:43:39.000Z",
-      "summary": "国家统计局称“人工智能+”行动推动新兴领域投资和出口增长。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Zillow推出适用于Claude人工智能平台的连接器",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tcV9CT3dqYUE4bVNjTmI1SDZVem9VckNmNGFZNnhYY1FDaFVZbmxGX25ueUxucmZkR0RmYXZjOUxXMTZ2Nk9mcVhEeVVnc25ZWXdWcTVwanZQSldyM2pweUo1V3V6QQ?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-19T19:30:25.000Z",
-      "summary": "Zillow发布Claude平台连接器，不向Anthropic传输数据。",
-      "summaryZh": ""
-    },
-    {
-      "title": "纳指涨超1%，AI硬件股集体反弹；央行宣布将出台多项政策举措；国内超一半算力在造爽剧？豆包回应",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GbERiandNODhjdm5RclJYNVFfbTRWVnduckRkbVBWb1BmbE9YZVRnZ0VGRHRDNi1nY2NXOS1WdFZyLVgwNHFOQXB3Uk1jdUZZWWhOV2RscWVfamtRYzdvb1NuMHZsZw?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-19T13:46:00.000Z",
-      "summary": "纳指上涨，AI硬件股反弹，央行宣布多项政策，算力应用引关注。",
+      "category": "robotics",
+      "pubDate": "2026-10-20T01:43:16.000Z",
+      "summary": "意法半导体推出扫地机器人电路方案，提供多种电机控制解决方案和传感器。",
       "summaryZh": ""
     },
     {
@@ -139,7 +138,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-19T17:07:52.000Z",
-      "summary": "Daimon Robotics构建触觉智能基础设施层，连接触觉感知、数据收集、模拟和AI模型。",
+      "summary": "Daimon Robotics构建触觉智能基础设施层，连接触觉传感、数据收集、模拟和AI模型。",
       "summaryZh": "",
       "titleZh": "Daimon Robotics 构建触觉智能基础设施层"
     },
@@ -150,9 +149,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-19T15:55:12.000Z",
-      "summary": "Kodama获700万美元投资，将机器人技术应用于美国东南部林业。",
+      "summary": "Kodama Systems获700万美元投资，将机器人技术应用于美国东南部林业。",
       "summaryZh": "",
       "titleZh": "Kodama 筹集了 700 万美元，将机器人技术引入林业"
+    },
+    {
+      "title": "商务部：用AI让家政养老更靠谱、观赛上课更丰富",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SaHlEaHEybDVvUENNeFE4WFFzMHg0cjE2Ynd4NGYtU1k4aE9FWWRHcFdLNG5wR0pjTmZYT2kzdHU4bk55SEpfazktZlByV09pYmtlYW14RThXTmt6ZmEyd281U24?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-19T09:18:00.000Z",
+      "summary": "商务部提出用AI技术提升家政养老、观赛上课等服务品质。",
+      "summaryZh": ""
     },
     {
       "title": "A股三大指数涨跌不一 成交额不足1.5万亿 机器人与银行板块领涨",
@@ -160,39 +169,59 @@
       "source": "东方财富网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-19T07:03:54.000Z",
-      "summary": "A股三大指数涨跌互现，成交额不足1.5万亿，机器人与银行板块领涨。",
+      "pubDate": "2026-10-20T01:55:32.000Z",
+      "summary": "A股三大指数涨跌不一，机器人与银行板块领涨。",
       "summaryZh": ""
     },
     {
-      "title": "在工博会上看机器人“打工”",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2V5d3dTd19lMkM5RGhSc0ZVb2ZWcHljWWpBQkdrWXlWalpJMVAtaExPekp0cjFJMDNIZEtYQkJ1Rl9BSy11LTVlUnNFbzVKTmpTZ1JmRkRWTks5Q18xaTM3NmViUWtwcFpNVEQwV1hmUzFHeHB3N2JWWlplR3FRa3ZuSzg?oc=5",
-      "source": "新华网科技",
+      "title": "光庭信息(301221.SZ)：暂未涉及机器人软件应用、AI影视剧生成软件开发等业务",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NZl9oSF91d2JvTkpOOHNlN3FaWkpYdnZnRFJKdjMyUGo4eEJKNTJSWHhIUFNCZ0dHdnk0bl9raEJScHZIUjhPMGozcll4SlFHSHhSR1RyemRiY0NQT2hkU0VVUmpuQQ?oc=5",
+      "source": "金融界",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-19T02:19:45.000Z",
-      "summary": "工博会上机器人展示真实生产线应用，具身智能迈向规模交付。",
+      "pubDate": "2026-10-20T03:56:54.000Z",
+      "summary": "光庭信息未涉足机器人软件和AI影视剧生成软件开发。",
       "summaryZh": ""
     },
     {
-      "title": "2026“盐东方杯”全国青少年信息机器人科技素养实践活动圆满收官",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tdzRvZ19ERGVqVW0tMmxxRmMzdUVZVm9ma0l1OUtweU1DMnJIc0tWSVRDMEhIZTFZcGZ5SEd1ZXpDeTFuaTJ4MlVZZHJaVUlDZE9RUGlvMXZ0WGIyUWMxRHNwNGVZVFVHTlMtSzJJeVM?oc=5",
-      "source": "央广网",
-      "lang": "zh",
+      "title": "The Robot I Didn’t Expect to Build",
+      "link": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-10-19T07:59:53.000Z",
-      "summary": "2026“盐东方杯”全国青少年信息机器人科技素养实践活动圆满结束。",
-      "summaryZh": ""
+      "pubDate": "2026-10-19T13:00:03.000Z",
+      "summary": "Agility Robotics重新设计Digit 5机器人，优先考虑安全性。",
+      "summaryZh": "",
+      "titleZh": "我没想到会建造的机器人"
     },
     {
-      "title": "江苏：以数据赋能AI机器人产业“智”领未来",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lSUY2Y055N3o5UWFoQlJxcHdMczNna3MzdFVoZVNMTjl4czcxTUZtcVJuWkpHVjA5eWtfOW0zamM5d3QwZFVQX3lsY0k3VG53UDNZUXF0WFVwcTJQeVpydFVtQmJUMG42?oc=5",
-      "source": "中国新闻网",
+      "title": "New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap",
+      "link": "https://roboticsandautomationnews.com/2026/10/19/new-3-67-million-yorkshire-robotics-hub-will-help-manufacturers-bridge-automation-gap/106034/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-19T12:01:33.000Z",
+      "summary": "约克郡机器人中心获370万英镑资助，助力制造商实现自动化转型。",
+      "summaryZh": "",
+      "titleZh": "耗资 367 万英镑新建的约克郡机器人中心将帮助制造商弥合自动化差距"
+    },
+    {
+      "title": "美光正在为物理AI研发EIM存储器，天弘机器人基金标的指数逆市大涨近2%",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44ck1sT3F0b1lKWDFqWEpMSmJ5bVl1R2xMU2VZQU1ya2x5U2Q5WUdMaUxhMDVEckRtSzVrUGpsZkRkRlJxLWFLTjlTV0VraE5PbWlDRFRtTjlrRUFZQWc?oc=5",
+      "source": "同花顺财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-20T00:14:56.000Z",
-      "summary": "江苏以数据赋能AI机器人产业，推动行业智能化发展。",
-      "summaryZh": ""
+      "pubDate": "2026-10-20T03:03:49.000Z",
+      "summary": "截至发稿，上证指数下跌0.27%，深证成指下跌0.48%，创业板指下跌0.59%。"
+    },
+    {
+      "title": "物理AI、机器人领域催化频频 五一视界涨超18% 兆威机电涨超13%",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vSi1FeE5fSHQ4anYxZHhPSldMWDlIMDl1T3Nja0E2cTl2aDJmZy1NMDlLTWFaZ29Yblc0NFhndXEwaVE0bHJQdE1rR1pZRWJjOVBxalF3OTE1V2VZdlE?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-20T02:19:58.000Z",
+      "summary": ""
     },
     {
       "title": "中国电信鹰眼舆情系统——文旅口碑的AI守护者",
@@ -211,40 +240,8 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-19T10:01:00.000Z",
-      "summary": "延庆文旅AI短片库建成，展映40件优质作品。",
+      "summary": "延庆文旅AI短片库建成，40件优质短片入库展映。",
       "summaryZh": ""
-    },
-    {
-      "title": "Siemens targets up to 80% factory automation with AI, board member says",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRjVrdExYOGRCNGoxVi1VZXFIZVpaMk9LNUhlc1AxZmdHYmxSVjQwZzlUaFRJRTlfMzd6RmN1Y3FnNzQxSG1lMUZtTDd1T2MxbEo0YTdia3ltMXR0T2Nudnk1OHZlZ0lhYVhGQzgyNV8zSnMzanV5UG5zV1dldTJuSEl1WGc1Q3RwckxrbUh5WWJmM1hrWHhFc1ZpUnJOdzBYbHp2WTd5WjBYQkNRekFyeg?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-19T14:13:45.000Z",
-      "summary": "",
-      "titleZh": "董事会成员表示，西门子的目标是通过人工智能实现高达 80% 的工厂自动化"
-    },
-    {
-      "title": "The Robot Group opens UK enquiries for X-Humanoid robots",
-      "link": "https://roboticsandautomationnews.com/2026/10/19/the-robot-group-opens-uk-enquiries-for-x-humanoid-robots/106030/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-19T11:51:09.000Z",
-      "summary": "机器人集团在英国开启X-Humanoid机器人询价。",
-      "summaryZh": "",
-      "titleZh": "机器人集团在英国对 X-Humanoid 机器人展开询价"
-    },
-    {
-      "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-      "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-      "source": "CNBC Tech",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-19T12:34:01.000Z",
-      "summary": "摩根大通投资5亿美元于美国国防初创企业，涉足机器人工厂和超音速导弹。",
-      "summaryZh": "",
-      "titleZh": "机器人工厂和高超音速导弹：摩根大通首笔 50 亿美元的国防投资"
     },
     {
       "title": "Target takes a cautious approach to in-store retail media",
