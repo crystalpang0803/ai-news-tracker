@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generatedAt": "2026-10-20T19:58:36.517Z",
+  "generatedAt": "2026-10-20T21:32:33.576Z",
   "items": [
     {
       "title": "梁圣大气！DeepSeek推理框架全开源，公布日均吞吐和毛利，真正的OpenAI来了",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-20T10:45:44.000Z",
-      "summary": "DeepSeek开源推理框架，公布高吞吐和毛利数据。",
+      "summary": "DeepSeek开源推理框架，公布高性能吞吐和毛利数据。",
       "summaryZh": ""
     },
     {
@@ -33,13 +33,43 @@
       "summaryZh": ""
     },
     {
-      "title": "美国人工智能事务主管称负责任开发AI的建议将很快发布",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDeG1NQXFnSGpzcFpkQTZtamNvTlRPSkRRRExvVk8wNzdvZDRNR00yMUUwLWdiRW9yU2lwdEJPNTBvSnhGekhWcmt3SlVFRUlpS1Y5OVpiS1JpUQ?oc=5",
+      "title": "11所学校获赠助教机器人！AI教育实验区项目落地顺德",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVNOck1KbkpoYWEyaUhYQ3lXVjJrdUY0b0hGMEl0a0JGb0Z6dm9EYWdoV3F0WGlfZDVXZkRJd2tveUE1cDNZWHFJMlNCYTV0RjhKb2JxdFNUNzBmMkpTWE54Y09SeHJGRmo4RFhZaUR6eVZzeHRmWWJmRjVOQi1LUExxNFpOSjFrYWhzbTJkdw?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-20T09:25:00.000Z",
+      "summary": "顺德11所学校获赠助教机器人，AI教育实验区项目启动。",
+      "summaryZh": ""
+    },
+    {
+      "title": "算力租金剧烈震荡，AI也要买“保险”",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BY2Z3QjBqdkxMU1BxQjI4WTZmTU95d3RCZmdZUzJxeC1hN1pjZU5kYzVqRFFfOGtXa09zckw5VHJvb1J0QVpUSXZDTE9OLWc?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-20T11:29:06.000Z",
+      "summary": "算力租金波动剧烈，AI企业面临成本风险，寻求金融工具避险。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI算力中心背后，一场价值千亿的\"制冷战争\"",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9UODhtTXlvQkJBQy1iOV9xWlFwb2x6TEl3ZUZIOXVOT0VwV0YyNzgxRkxKRU9ZMkVVd3lkSnFUMUFiZ1dRalZoczVqRkFQQmp3?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-20T11:49:26.000Z",
+      "summary": "AI算力中心散热技术升级，液冷技术成为行业趋势。",
+      "summaryZh": ""
+    },
+    {
+      "title": "美股AI算力租赁商Nebius股价下跌5%，短暂触及近三个月低点",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXaTdIbXNCaGh2cTM2T0I1ZDRHN2xuakgxU3N3MnVkRUlCNDhOOGFVWTNWa21ZZ3pUc1d1X0JuTnExRm0wSTd6QVhfcHIxaDViSmEwTDhpRmU1QQ?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-20T14:52:00.000Z",
-      "summary": "美国AI事务主管称负责任AI开发建议将发布。",
+      "pubDate": "2026-10-20T13:50:00.000Z",
+      "summary": "Nebius股价下跌5%，触及近三个月低点。",
       "summaryZh": ""
     },
     {
@@ -53,13 +83,23 @@
       "summaryZh": ""
     },
     {
+      "title": "港股大模型股持续走低，MINIMAX跌超6%",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UOVJRR2xTX0g0X1kyR2hwOFRJb01HZDU1LVlSVmNxM3kwblVoOEpRNTZzVmdnMWdzbGtEMW5UVU9CYURDOFd5QmVGVkd3ZUdDcTJDa25yT3E?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-20T05:21:25.000Z",
+      "summary": "MINIMAX等港股大模型股持续下跌，MINIMAX跌超6%。",
+      "summaryZh": ""
+    },
+    {
       "title": "周小川：应当开展研究并做好预案，应对人工智能相关投资失败可能带来的金融风险",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YVkVCVUlHVXdkZkFHRkVoNnlZMGVyU2RmbU9pWDRNR1o3ZDZFTHByYWIxUHZyZG95MzRxNmZmeml5Wi0xM2FFOXZadmlKN3oyYUhn?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-20T11:03:40.000Z",
-      "summary": "周小川建议研究并制定预案应对AI投资失败可能引发的金融风险。",
+      "summary": "周小川建议研究并制定预案，应对AI投资失败可能引发的金融风险。",
       "summaryZh": ""
     },
     {
@@ -69,7 +109,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-20T08:06:46.000Z",
-      "summary": "国家药监局推进AI赋能医药产业创新，支持重点领域突破。",
+      "summary": "国家药监局推进AI赋能医药产业创新发展，支持重点领域突破。",
+      "summaryZh": ""
+    },
+    {
+      "title": "CoreWeave引爆AI融资恐慌！华尔街集体“救火”：不足以动摇整体AI交易",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xcmZ6R1NXZU5SbVpOSU4tNmg3eERfN28zWGZYa0FEb3dHUzhGWDdzU0xLOWM0dVd2Nm00N2FGanBGNzhoTjhFVA?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-20T03:55:39.000Z",
+      "summary": "CoreWeave融资风波引发AI交易担忧，华尔街认为个案不足以动摇整体市场。",
       "summaryZh": ""
     },
     {
@@ -78,19 +128,31 @@
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-20T16:36:40.000Z",
+      "pubDate": "2026-10-20T19:50:59.000Z",
       "summary": "商务部、科技部拟修订《中国禁止出口限制出口技术目录》，增列人工智能、生物医药、光伏技术。",
       "summaryZh": ""
     },
     {
-      "title": "齐鲁文化大模型赋能济宁文旅新场景",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HOVdCa0hIVjUzODRHNVlFRTdDdWEwRjE1N2NVSzk5VFB2MDR2OWx4cGxWTG1ackFqNjc2QjJ5VzlVYjdtTjVSUDhvQ045clpkVTNaV2Jfb2dfYzJ1WU82NjN3SWc4RXhSUUNMcjhmMVF6Ync1Q2lOYWdn?oc=5",
-      "source": "新华社",
-      "lang": "zh",
+      "title": "ChatGPT now lets you lock your chats",
+      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "source": "TechCrunch",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-10-20T02:52:04.000Z",
-      "summary": "济宁市“三馆”启用AI伴游，推动文旅数字化升级。",
-      "summaryZh": ""
+      "pubDate": "2026-10-20T18:36:53.000Z",
+      "summary": "ChatGPT新增锁聊功能，用户可设置PIN码或生物识别解锁，保护隐私。",
+      "summaryZh": "",
+      "titleZh": "ChatGPT 现在可以让您锁定聊天"
+    },
+    {
+      "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+      "link": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-20T15:07:43.000Z",
+      "summary": "AI加入顶级互联网研究者邮件列表引发隐私争议。",
+      "summaryZh": "",
+      "titleZh": "人工智能代理加入了顶级互联网研究人员的列表服务。回复一切混乱仍在上演"
     },
     {
       "title": "具身智能，卡在哪——王兴兴的\"一两年\"到底承诺了什么",
@@ -99,7 +161,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-20T08:39:21.000Z",
-      "summary": "王兴兴称具身智能“一两年”内可实现，但需解决模型、Agent与物理载体三者协同难题。",
+      "summary": "王兴兴称具身智能“一两年”内可实现，但需解决模型、Agent与物理载体间的协同问题。",
       "summaryZh": ""
     },
     {
@@ -113,13 +175,24 @@
       "summaryZh": ""
     },
     {
+      "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+      "link": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-20T13:17:36.000Z",
+      "summary": "SpaceX前员工创办的无人机公司Reliable Robotics获得1.15亿美元融资，估值超10亿美元。",
+      "summaryZh": "",
+      "titleZh": "SpaceX 校友的航空初创公司 Reliable Robotics 融资 1.15 亿美元，估值超过 10 亿美元"
+    },
+    {
       "title": "Reservoir launches new agricultural robotics incubator for Washington growers",
       "link": "https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-20T19:40:05.000Z",
-      "summary": "Reservoir与华盛顿州多机构合作，成立农业机器人孵化器，助力当地种植户应对劳动力短缺。",
+      "summary": "Reservoir与华盛顿州多机构合作成立农业机器人孵化器。",
       "summaryZh": "",
       "titleZh": "水库为华盛顿种植者推出新型农业机器人孵化器"
     },
@@ -135,13 +208,34 @@
       "titleZh": "RoboBusiness 更名为机器人峰会暨西部博览会"
     },
     {
-      "title": "第二届综合交通运输大模型智能体创新应用大赛决赛开幕",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JQ3V0eE90MlVGa3ZyMldBWGhJZWthcXpiWkM0SVNtZVZCN25zMWdZMXdabkJ6d1F6a25VZkNGd09VLTVYOU9HVlpHY0hIak1PaUFPaFViQUszVFlKbTZ6ak9vR2twcDNWMFo3WEVXWlk?oc=5",
-      "source": "科技日报",
+      "title": "今日市场核心热点--物理AI+机器人+端侧AI",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNd3pCamJIVnlXaW1oWGxJOUpnR3RqRTAxdGtnajBpZjQ5SGFQb2tyLTY3eFZ6NHpmb3ZjcWpQNGJMcGlHanZSaXlrYTFyVTdyUGJIbEo1ZmR1RWYzQi11NHJmbXNRSG5mWlZXZHliN0xKbGhNMXdKekJQOFpJRlEtUGp5ek9KcGsxQjJ6MTZqMDRvOWg2ZjJoeTRrc2YzOXNqZXd1WVNYMTc1U3dYR3ozc1V4Zk1fYldLTUd6UVRuQlFpQUZFNGctRG5BcThla2I1UEgydXdTTVF5dDNnSGhCTWtKSHZrcEdxemZ6VlJtb3FKdFZkbnIwcERudG1WSWs?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-20T07:14:52.000Z",
-      "summary": "第二届综合交通运输大模型智能体创新应用大赛决赛在四川绵阳开幕，聚焦交通AI创新。",
+      "category": "robotics",
+      "pubDate": "2026-10-20T09:22:00.000Z",
+      "summary": "物理AI、机器人、端侧AI板块今日大涨，相关个股表现强劲。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-20T18:22:54.000Z",
+      "summary": "乌克兰成功使用无人机救援伤员，将无人机救援理念付诸实践。",
+      "summaryZh": "",
+      "titleZh": "乌克兰无人机救援受伤士兵将备受吹捧的想法付诸实践"
+    },
+    {
+      "title": "良渚为世界可持续旅游实践提供中国智慧",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ta3hqdHg5YzNVeGMxNXNUbG90SmNnUkpsamN3dERuaFp0OU1SeklkMkF4Y0NEeUxvWWFqWkpzX1E2MjlwSmdSa2pLTDZ3T2p4emppaTM1M09UdnBmOFFjeU1yRTBiN21GeGNEbFRXVjdHaXQwNjladlY5QzlNVTA?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-20T08:30:22.000Z",
+      "summary": "良渚遗址探索结合保护与发展的可持续旅游模式。",
       "summaryZh": ""
     },
     {
@@ -155,44 +249,13 @@
       "summaryZh": ""
     },
     {
-      "title": "江苏：以数据赋能AI机器人产业“智”领未来",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lSUY2Y055N3o5UWFoQlJxcHdMczNna3MzdFVoZVNMTjl4czcxTUZtcVJuWkpHVjA5eWtfOW0zamM5d3QwZFVQX3lsY0k3VG53UDNZUXF0WFVwcTJQeVpydFVtQmJUMG42?oc=5",
-      "source": "中国新闻网",
+      "title": "智能机器人的传播风险及其治理路径",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zaDN5UTV6dS1yeWx0OGRPZWFCVFhaQzNHa3NKc19PQ2d6UVRNRV8xclR2cEVvUGIwc0ZGVGo2di1qY2NfOEk0QmRfeS1HOHRVeG1PSFlYVFplMTRYdkYyZ3d6bw?oc=5",
+      "source": "光明网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-20T00:14:56.000Z",
-      "summary": "江苏以数据赋能AI机器人产业，推动行业智能化发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "西门子与英伟达合作推进人工智能驱动的自动化工厂",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xd3dUMVBZVjZiUkx0RVRHalJEbFg3eDM2TzRhVFlHWXRhV2xZVmFrSnBsSDN0ZlJmQ0l3RUY2MjJORzR0TmxTd2VPeWh4SWNP?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-19T20:53:44.000Z",
-      "summary": "西门子与英伟达合作打造全球首个AI驱动自动化工厂。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Exotec expands warehouse robotics business in Japan with two major Skypod installations",
-      "link": "https://roboticsandautomationnews.com/2026/10/20/exotec-expands-warehouse-robotics-business-in-japan-with-two-major-skypod-installations/106138/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-20T16:44:38.000Z",
-      "summary": "Exotec在日本部署两套Skypod系统，加强物流自动化市场地位。",
-      "summaryZh": "",
-      "titleZh": "Exotec 通过两个主要 Skypod 安装扩大了日本的仓库机器人业务"
-    },
-    {
-      "title": "良渚为世界可持续旅游实践提供中国智慧",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ta3hqdHg5YzNVeGMxNXNUbG90SmNnUkpsamN3dERuaFp0OU1SeklkMkF4Y0NEeUxvWWFqWkpzX1E2MjlwSmdSa2pLTDZ3T2p4emppaTM1M09UdnBmOFFjeU1yRTBiN21GeGNEbFRXVjdHaXQwNjladlY5QzlNVTA?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-20T08:30:22.000Z",
-      "summary": "良渚遗址探索可持续旅游发展模式，提供中国智慧。",
+      "pubDate": "2026-10-20T02:44:00.000Z",
+      "summary": "智能机器人传播风险需从技术、伦理和法律三方面协同治理。",
       "summaryZh": ""
     },
     {
@@ -202,39 +265,18 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-20T14:35:21.000Z",
-      "summary": "景小智AI伴游平台覆盖全国18省，提供AI导览等服务。",
+      "summary": "景小智AI伴游平台覆盖全国18省，提供文旅服务。",
       "summaryZh": ""
     },
     {
-      "title": "工信部起草新一代智能制造政策措施，推动“AI+制造”深度融合",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wMjZpdnVmNk85N25ESHlFd3ZCQ1RLVXVTcDFFdTlleGNoTkdIaVNtUGpEYVBrWmxSUXhoWUJ1R2JxYmx0RjJjVEdocDFvd0h4eUxyT2pTSm5JVzN2b0M1dDllYVc?oc=5",
-      "source": "新京报",
+      "title": "联创智云——数据筑基、AI赋能的文旅政务智慧引擎",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE16Wkd4YkpxdHRqOEotTmdTR3B3TkJvbEN3QnFJaDBSMUIwN3JsU2RZdjR5Vlc2RUVjWFF0RkpMendhRkp6cU8yZ3BuSjdPTmdaS2RGbUdUZEY5NkRENHc1WFRMR1ZFejNnbTJWTHFaU3FWUQ?oc=5",
+      "source": "中国新闻网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-20T09:46:00.000Z",
-      "summary": "工信部起草政策推动“AI+制造”深度融合，加速制造业智能化发展。",
+      "category": "application",
+      "pubDate": "2026-10-20T14:31:08.000Z",
+      "summary": "联创智云发布文旅政务智慧引擎，AI赋能数据筑基。",
       "summaryZh": ""
-    },
-    {
-      "title": "工信部答新京报贝壳财经：正在研究起草新一代智能制造有关政策措施",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95NDFrX18zVGVKTURmaFU0Znc1bEF2dldTWnh0UkVtbUVGQlk5WlJKOFZHdG9FMEpMOXhSYkNfdFFUT3dIS19EcHZGT0V5Q09WUC1pNEswY29XQTFQaFhPNGpsdlk?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-20T09:00:00.000Z",
-      "summary": "工信部研究起草新一代智能制造政策措施，推动人工智能与制造业深度融合。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Antigravity just halved the price of its drone — by swapping its headset for wristwatch control",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ3BZYmJES3RreVExVTNReURGYktBTmZNR1pVOXRDZmJ0Q0ppWXhYcXk1eHRyZE5wdTljc0ZhRU9xSlBvVHdwMmhfa1hHSmJWV3N1bVREbnkzcTBsTUJ5MjJnY29FeGpQLWNmc21OblY3QmVFWlJ1X0V2dzlWMWZkN2pZLWZWS0hTY0NzemNSc0c?oc=5",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-20T13:00:00.000Z",
-      "summary": "Antigravity将无人机价格减半，改为手表控制取代头戴设备。",
-      "summaryZh": "",
-      "titleZh": "Antigravity 将其无人机的价格降低了一半——将耳机改为手表控制"
     }
   ]
 }
