@@ -1,17 +1,7 @@
 {
   "date": "2026-10-21",
-  "generatedAt": "2026-10-21T00:59:31.104Z",
+  "generatedAt": "2026-10-21T04:55:40.394Z",
   "items": [
-    {
-      "title": "OpenAI 为 ChatGPT 推出聊天上锁功能，通过 PIN 码、生物识别保护敏感对话",
-      "link": "https://www.ithome.com/1/015/629.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-20T23:22:26.000Z",
-      "summary": "OpenAI为ChatGPT推出聊天上锁功能，支持PIN码和生物识别保护隐私对话。",
-      "summaryZh": ""
-    },
     {
       "title": "梁圣大气！DeepSeek推理框架全开源，公布日均吞吐和毛利，真正的OpenAI来了",
       "link": "https://zhidx.com/p/602635.html",
@@ -23,43 +13,33 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI 增强 AI 模型攻克冷门编程语言，COBOL 迁移准确率飙至 97.9%",
-      "link": "https://www.ithome.com/1/015/633.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-20T23:45:48.000Z",
-      "summary": "OpenAI AI模型提升COBOL迁移准确率至97.9%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI称GPT-6.1 Sol与GPT-6 Astra两个AI Agent削弱对齐失效监控",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03YldZTzdxelpmdGc1MDU4bWV4akFmbWVGb2pxbWJ2Mkg2VzNXSEotY3RiRUI1czdJZ1VjR2MtRnFyd3M4V0h6NTBYX2ZHZkZzX1Y3OEthbDk1NmhvMmk1bWRZb0N4VjYwbENQdjluWDRENXZJ?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-21T00:31:07.000Z",
-      "summary": "OpenAI两个AI Agent削弱对齐失效监控，公司评估系统问题。",
-      "summaryZh": ""
-    },
-    {
-      "title": "当机器狗学会自己挣钱，芯片才是真正的赢家",
-      "link": "https://www.tmtpost.com/8175041.html",
+      "title": "机器人的身体，不值钱了",
+      "link": "https://www.tmtpost.com/8174288.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-21T00:51:48.000Z",
-      "summary": "机器狗芯片需求转向分布式，推动产业升级。",
+      "pubDate": "2026-10-21T02:25:00.000Z",
+      "summary": "机器人公司盈合破产清算，机器人赛道融资额翻倍。",
       "summaryZh": ""
     },
     {
-      "title": "2026年全球商用服务机器人行业现状、竞争格局与趋势分析，行业集中度有望进一步提升",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vUGRUNGV2WXdqOWd3aGFFbV9SdUdmYXk0V2FiWV8zdnBBVWJHTUJpUlpBbDY2MFVtdm5XSnN0cDhWM0tyMGRNVWx5QjBlVkNmbWNKblpHSQ?oc=5",
-      "source": "与非网",
+      "title": "Momenta 曹旭东：2028 年有望迎来 L4 自动驾驶规模化拐点",
+      "link": "https://www.ithome.com/1/015/704.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-20T02:17:46.000Z",
-      "summary": "2026年全球商用服务机器人行业集中度预计上升。",
+      "pubDate": "2026-10-21T02:41:06.000Z",
+      "summary": "曹旭东预判2028年L4自动驾驶将迎来规模化拐点。",
+      "summaryZh": ""
+    },
+    {
+      "title": "算力已经不再是最大的挑战，互连才是",
+      "link": "https://www.tmtpost.com/8175846.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-21T03:33:48.000Z",
+      "summary": "互连技术成为AI算力发展瓶颈，芯片间数据传输效率待提升。",
       "summaryZh": ""
     },
     {
@@ -73,6 +53,36 @@
       "summaryZh": ""
     },
     {
+      "title": "小米 MiMo-V2.5-Pro 模型今日下线，替换为 V2.6-Pro 后将支持多模态理解",
+      "link": "https://www.ithome.com/1/015/709.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-21T02:55:37.000Z",
+      "summary": "小米MiMo-V2.5-Pro模型下线，V2.6-Pro支持多模态理解。",
+      "summaryZh": ""
+    },
+    {
+      "title": "高层定调明确全面实施“人工智能+”行动，把握人工智能行情选哪个ETF好？科创创业人工智能ETF景顺(159142)一键覆盖“算力+光模块”双主线",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LMHpXMUNZV2FLRTNiMnNhM0pTV3Y0YjM2eWJoNDZIRVhfN2VXbElwMzBsZU1uUW5USEkxaWs5NnFwMm1PdzJQdFdtcUIxSFN5OHZSNV9NTWk?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-21T04:34:31.000Z",
+      "summary": "高层明确全面实施“人工智能+”行动，景顺科创创业人工智能ETF覆盖算力与光模块。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI says its AI agents weakened internal monitoring system",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2hxMmVsMXJ3Qzg3cDFjTWc4d2s1eTlxMUpUd3FtZVhzX3p6UEJyaGFfdF9pazEzeXJmRVFoRnMxaWZMTThxaUMzLTdOejlXc1dmZl9LVE1PMTZqWW9YdmxTM1FfYlJxXzBrWlFmZ1lQRjFmUjFEQzJJZW1OMG1oeUl5T3FIRlBsTU5KanZ4b3lFeVh3dDFqb3NJU1hlcWw0VUk1bVM3YVdyc0paOXd2OHpEQXQ?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-21T02:37:00.000Z",
+      "summary": "",
+      "titleZh": "OpenAI 表示其人工智能代理削弱了内部监控系统"
+    },
+    {
       "title": "安富利等机构联合发布具身智能白皮书",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HMi1JMWk5cHNIOTdBMEJObzNmUEdUbUZBc0EwbGFnZmFQZDJYbkVubHFFQWZLM3ZIanN5MDN6UG0zZGdtYjZzTnYzNA?oc=5",
       "source": "智东西",
@@ -83,43 +93,32 @@
       "summaryZh": ""
     },
     {
-      "title": "算力租金剧烈震荡，AI也要买“保险”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BY2Z3QjBqdkxMU1BxQjI4WTZmTU95d3RCZmdZUzJxeC1hN1pjZU5kYzVqRFFfOGtXa09zckw5VHJvb1J0QVpUSXZDTE9OLWc?oc=5",
+      "title": "大模型秋招中，那些零Offer的名校应届生们",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtaTlZTVZSbk5TU3ZvMEptdXhMejJXWHJXNXplUFVBUVBGbUtEVHZQZWppNDByNkRoM1lGUDVncUdXRDI4SFNuSk92N2VTcXRO?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-20T11:29:06.000Z",
-      "summary": "算力租金波动剧烈，AI企业寻求成本风险“保险”。",
+      "pubDate": "2026-10-21T03:54:37.000Z",
+      "summary": "大模型秋招中，部分名校应届生面临零Offer困境。",
       "summaryZh": ""
     },
     {
-      "title": "CoreWeave引爆AI融资恐慌",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zMnAxdmpCMk1KVlFBaWJLdnY2Z2xpdmc1NGgyRkRxUTQ3UWlmOW1FWTN3T3Ywc0xWMGhoNTZ0V1phV2Vqbk1IYkVFMGVScTA?oc=5",
+      "title": "这个双11，大模型攻入腹地",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yQmFoTEtBSXhvM0dyNjk5dVVDVEgwNE9NUkJ5bFRmT3pHaXNHcmI3VWVxbndDTVBSMlJ4ZHpQeFJPNkhHUkptQWM3QXhSdw?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-20T11:14:13.000Z",
-      "summary": "CoreWeave债务危机引发AI行业融资担忧，但多家机构认为个案不等于全行业危机。",
-      "summaryZh": ""
+      "pubDate": "2026-10-20T13:01:00.000Z",
+      "summary": ""
     },
     {
-      "title": "神州问学灵果MaaS平台正式上线！一个平台“管好大模型”",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvVG5vZVhkcUZWeEFLbGRzaEJ3WVZVMzl4Rkt0U0N2aDhDRkF4T2t2T0ExLVdEanRFUmZobkZtNjQxRUpuLVVaWnV4LXFTUGZKTy1QOEVJbWU?oc=5",
-      "source": "界面新闻",
+      "title": "开源大模型替代性增强，企业私有化部署与主权AI需求催生新服务市场",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxQTItZEM0WDZVSjZKMlhyZ3NwczZXRkFfQVhETC1uOVBiM1VMaEZNdDhZVGsyYjZaTkFPZm40Mkc2LTZwdTI1cGRGODJuYlFqN3BQTzZvcy1rM2dtTmRZ?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-20T10:00:17.000Z",
-      "summary": "神州问学灵果MaaS平台上线，提供统一解法应对AI落地难题。",
-      "summaryZh": ""
-    },
-    {
-      "title": "周小川：应当开展研究并做好预案，应对人工智能相关投资失败可能带来的金融风险",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jSUNCemRDTG5mSFVBdV9hcmFKNWgxNkhiT3ZvYUo3N1kxeWhjeTQxVE90am83RDYwSE5rOTBLUURoSGYtQzQ3aC01TGxmV09hQ0tKSA?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-20T11:01:00.000Z",
-      "summary": "周小川建议研究应对AI投资失败可能引发的金融风险。",
+      "pubDate": "2026-10-21T02:00:21.000Z",
+      "summary": "开源大模型替代性增强，企业私有化部署需求催生新服务市场。",
       "summaryZh": ""
     },
     {
@@ -129,17 +128,18 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-20T19:50:59.000Z",
-      "summary": "商务部、科技部修订《中国禁止出口限制出口技术目录》，增列人工智能、生物医药、光伏技术。",
+      "summary": "商务部、科技部拟修订《中国禁止出口限制出口技术目录》，增列人工智能、生物医药、光伏技术。",
       "summaryZh": ""
     },
     {
-      "title": "马斯克称多数唱跳人形机器人不是真AI！老外惊叹：难道真的是遥控玩具？",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vVDhBUVhYaWY3RmgybnpTQ3hWdjZnUUcwdW1qdTU5dkxrZ1B2dEUyVUl4cE10b25nTHJwTGg4RGxMS3ZCdUN5UDluaHF3QkxSRnlmMnp3?oc=5",
+      "title": "工业AI规模化落地 破解传统产业转型难题",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FR3B4SlU5WnNQTkdISW1uWFR5SEcyOGFaNV85T1Zocm5PcTFGb2NfYzVobGhVYlRDZlhDNXNidjlhb0J3RzYxVVlEdzl2UlFDbDgyS19B?oc=5",
       "source": "腾讯新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-20T15:53:00.000Z",
-      "summary": "马斯克称多数唱跳人形机器人不是真AI！"
+      "category": "application",
+      "pubDate": "2026-10-20T07:45:00.000Z",
+      "summary": "工业AI规模化推广，助力传统产业数字化转型。",
+      "summaryZh": ""
     },
     {
       "title": "Reservoir launches new agricultural robotics incubator for Washington growers",
@@ -164,16 +164,6 @@
       "titleZh": "RoboBusiness 更名为机器人峰会暨西部博览会"
     },
     {
-      "title": "[ 盘前点金 新一代智能制造加速布局；AI制药又现巨头联袂；章建平大举加仓这只股",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jaXMzQ2lDSmVOSTdwRGpxVDFnZ2VYR0JpZHo3bjZsWVBuZDE3azhMN3l5Rk1pbFpjbllTNFZEYU41di1XQ2ktQ1QyWjRRNThmM1BPSlFrN2o?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-20T23:11:58.000Z",
-      "summary": "新一代智能制造加速，AI制药巨头合作，章建平加仓某股。",
-      "summaryZh": ""
-    },
-    {
       "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
       "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
       "source": "Ars Technica",
@@ -196,16 +186,6 @@
       "titleZh": "Exotec 通过两个主要 Skypod 安装扩大了日本的仓库机器人业务"
     },
     {
-      "title": "今日市场核心热点--物理AI+机器人+端侧AI",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNd3pCamJIVnlXaW1oWGxJOUpnR3RqRTAxdGtnajBpZjQ5SGFQb2tyLTY3eFZ6NHpmb3ZjcWpQNGJMcGlHanZSaXlrYTFyVTdyUGJIbEo1ZmR1RWYzQi11NHJmbXNRSG5mWlZXZHliN0xKbGhNMXdKekJQOFpJRlEtUGp5ek9KcGsxQjJ6MTZqMDRvOWg2ZjJoeTRrc2YzOXNqZXd1WVNYMTc1U3dYR3ozc1V4Zk1fYldLTUd6UVRuQlFpQUZFNGctRG5BcThla2I1UEgydXdTTVF5dDNnSGhCTWtKSHZrcEdxemZ6VlJtb3FKdFZkbnIwcERudG1WSWs?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-20T09:22:00.000Z",
-      "summary": "物理AI、机器人、端侧AI板块今日大涨，相关个股表现强劲。",
-      "summaryZh": ""
-    },
-    {
       "title": "10.20 机器人PK AI短剧",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pVk9kSU5aZzVJZmdvNzBPMGxfSjc2cVpjMWMwVGVnM0pjejJOYzc0WS1sTUw5ZTdrd05iNjlLMTVyUElXUFZIV0ZTQ3FnY1ExS3JsLU11U2JyaGRhRTljdkNGWkdJOEE4RllF?oc=5",
       "source": "东方财富网",
@@ -222,7 +202,17 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-20T08:30:22.000Z",
-      "summary": "良渚遗址探索可持续旅游发展模式，提供中国智慧。",
+      "summary": "良渚遗址探索保护与旅游发展相结合模式，为全球提供中国经验。",
+      "summaryZh": ""
+    },
+    {
+      "title": "广交会上的机器人，正在从“秀一场”走向“用一程”",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjdU8zdVVGbGRpV3BXV3RIeEtJcUc1cF8wY3R4bnBOVE9SdkZaWlo3YXBJQUFoeVVXNEtId2lrTkhVYjZnSXN3TnlQbXBzUlZGWnFvbklvbw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-20T10:33:55.000Z",
+      "summary": "广交会上机器人展示从表演走向实际应用。",
       "summaryZh": ""
     },
     {
@@ -232,7 +222,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-20T14:35:21.000Z",
-      "summary": "景小智AI伴游平台覆盖全国18省，提供AI导览等服务。",
+      "summary": "景小智AI伴游平台覆盖全国18省，提供文旅服务。",
       "summaryZh": ""
     },
     {
@@ -242,7 +232,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-20T14:31:08.000Z",
-      "summary": "联创智云推出文旅政务智慧引擎，AI赋能数据筑基。",
+      "summary": "联创智云发布文旅政务智慧引擎，AI赋能数据筑基。",
       "summaryZh": ""
     }
   ]
