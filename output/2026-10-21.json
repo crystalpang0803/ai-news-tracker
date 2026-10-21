@@ -1,25 +1,35 @@
 {
   "date": "2026-10-21",
-  "generatedAt": "2026-10-20T22:39:19.068Z",
+  "generatedAt": "2026-10-20T23:58:44.240Z",
   "items": [
     {
-      "title": "Waymo 计划明年进军西班牙市场，在该国首都马德里推出自动驾驶网约车服务",
-      "link": "https://www.ithome.com/1/015/574.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-20T13:34:33.000Z",
-      "summary": "Waymo计划2027年在西班牙马德里推出自动驾驶网约车服务。",
-      "summaryZh": ""
-    },
-    {
-      "title": "DeepSeek 宣布将内部推理框架 DeepInfer 全面开源，目标实现大模型普惠",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hWl8xR19fM1lJVnRNbk9tbERLRktFUzRXVlhzanRnYjdja2wxQXdGRUZqOW9ZSDE2bGtxaHlkbGE5cG5qa3JfYmxhcjc?oc=5",
+      "title": "OpenAI 为 ChatGPT 推出聊天上锁功能，通过 PIN 码、生物识别保护敏感对话",
+      "link": "https://www.ithome.com/1/015/629.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-20T09:05:10.000Z",
-      "summary": "DeepSeek开源内部推理框架DeepInfer，旨在降低大模型算力成本。",
+      "pubDate": "2026-10-20T23:22:26.000Z",
+      "summary": "ChatGPT新增聊天上锁功能，支持PIN码和生物识别保护隐私对话。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI 宣布收购 AI 生物科技初创企业 Orchestra Bio",
+      "link": "https://www.ithome.com/1/015/621.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-20T22:51:11.000Z",
+      "summary": "OpenAI收购AI生物科技初创企业Orchestra Bio，将整合团队技术投入Rosalind项目研发。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2026年全球商用服务机器人行业现状、竞争格局与趋势分析，行业集中度有望进一步提升",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vUGRUNGV2WXdqOWd3aGFFbV9SdUdmYXk0V2FiWV8zdnBBVWJHTUJpUlpBbDY2MFVtdm5XSnN0cDhWM0tyMGRNVWx5QjBlVkNmbWNKblpHSQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-20T02:17:46.000Z",
+      "summary": "2026年全球商用服务机器人行业集中度将提升。",
       "summaryZh": ""
     },
     {
@@ -49,17 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-20T11:49:26.000Z",
-      "summary": "AI算力中心散热技术升级，液冷技术成为关键，价值千亿市场争夺激烈。",
-      "summaryZh": ""
-    },
-    {
-      "title": "美股AI算力租赁商Nebius股价下跌5%，短暂触及近三个月低点",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXaTdIbXNCaGh2cTM2T0I1ZDRHN2xuakgxU3N3MnVkRUlCNDhOOGFVWTNWa21ZZ3pUc1d1X0JuTnExRm0wSTd6QVhfcHIxaDViSmEwTDhpRmU1QQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-20T13:50:00.000Z",
-      "summary": "Nebius股价下跌5%，触及近三个月低点。",
+      "summary": "AI算力中心散热技术升级，液冷技术成为行业趋势。",
       "summaryZh": ""
     },
     {
@@ -79,7 +79,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-20T11:01:00.000Z",
-      "summary": "周小川建议研究应对AI投资失败可能引发的金融风险。",
+      "summary": "周小川建议研究并制定预案应对AI投资失败可能引发的金融风险。",
+      "summaryZh": ""
+    },
+    {
+      "title": "CoreWeave引爆AI融资恐慌！华尔街集体“救火”：不足以动摇整体AI交易",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xcmZ6R1NXZU5SbVpOSU4tNmg3eERfN28zWGZYa0FEb3dHUzhGWDdzU0xLOWM0dVd2Nm00N2FGanBGNzhoTjhFVA?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-20T03:55:39.000Z",
+      "summary": "CoreWeave融资风波引发AI交易担忧，华尔街认为个案不足以动摇整体市场。",
       "summaryZh": ""
     },
     {
@@ -93,36 +103,14 @@
       "summaryZh": ""
     },
     {
-      "title": "ChatGPT now lets you lock your chats",
-      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "source": "TechCrunch",
-      "lang": "en",
+      "title": "齐鲁文化大模型赋能济宁文旅新场景",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HOVdCa0hIVjUzODRHNVlFRTdDdWEwRjE1N2NVSzk5VFB2MDR2OWx4cGxWTG1ackFqNjc2QjJ5VzlVYjdtTjVSUDhvQ045clpkVTNaV2Jfb2dfYzJ1WU82NjN3SWc4RXhSUUNMcjhmMVF6Ync1Q2lOYWdn?oc=5",
+      "source": "新华社",
+      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-20T18:36:53.000Z",
-      "summary": "ChatGPT新增锁聊功能，用户可设置PIN码或生物识别解锁，保护隐私。",
-      "summaryZh": "",
-      "titleZh": "ChatGPT 现在可以让您锁定聊天"
-    },
-    {
-      "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
-      "link": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
-      "source": "Wired",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-20T15:07:43.000Z",
-      "summary": "AI加入顶级互联网研究者邮件列表引发隐私争议。",
-      "summaryZh": "",
-      "titleZh": "人工智能代理加入了顶级互联网研究人员的列表服务。回复一切混乱仍在上演"
-    },
-    {
-      "title": "EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHQyOU05TVZ4RVNpTGdJX18zeHlMZ1pGOGdNeGFmRnFMNERObThVUTl2Ny1CVGU1Vm5IMF9aSS1qaWpOTWlFdDBLeHZIa1lkYnltX1pnU1BLbGdGM3duM1FJZDhocndUWGlUZ0pSaEV6U2RUdzgwX1FaY2s2YllieUo3cTBSWVUtRzJEczR3YXliUzB0d0dRQkRsWjlaQ0FCeXBKM1A2MjlaYzdZa0E?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-19T23:18:00.000Z",
-      "summary": "",
-      "titleZh": "独家报道：消息人士称，OpenAI 寻求在 Anthropic IPO 之前加速融资"
+      "pubDate": "2026-10-20T02:52:04.000Z",
+      "summary": "济宁市“三馆”启用AI伴游，推动文旅数字化升级。",
+      "summaryZh": ""
     },
     {
       "title": "具身智能，卡在哪——王兴兴的\"一两年\"到底承诺了什么",
@@ -131,7 +119,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-20T08:39:21.000Z",
-      "summary": "王兴兴称具身智能“一两年”内可实现，但需解决模型、Agent与物理载体三者协同难题。",
+      "summary": "王兴兴承诺一两年内实现具身智能，但需解决模型、Agent和物理载体三大难题。",
       "summaryZh": ""
     },
     {
@@ -141,7 +129,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-20T19:40:05.000Z",
-      "summary": "Reservoir与华盛顿州多机构合作成立农业机器人孵化器。",
+      "summary": "Reservoir与华盛顿州多机构合作，成立农业机器人孵化器。",
       "summaryZh": "",
       "titleZh": "水库为华盛顿种植者推出新型农业机器人孵化器"
     },
@@ -152,18 +140,48 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-20T16:23:21.000Z",
-      "summary": "RoboBusiness更名为Robotics Summit Expo West，聚焦商业机器人设计与部署。",
+      "summary": "RoboBusiness更名Robotics Summit Expo West，聚焦商业机器人设计与部署。",
       "summaryZh": "",
       "titleZh": "RoboBusiness 更名为机器人峰会暨西部博览会"
     },
     {
-      "title": "底盘支架焊接品质不稳定？看看机器人怎么解决_视频",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iV29mSGNaeXJVNUI4TXpBSWUycDNBMm1ZSVo2eklGejdZWVJzMEEtWFM1OHZ3TXpQOW5BR2Y1WnRGZTVHUVNsSHR5VmJoYnF4SzNBMQ?oc=5",
-      "source": "与非网",
+      "title": "[ 盘前点金 新一代智能制造加速布局；AI制药又现巨头联袂；章建平大举加仓这只股",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jaXMzQ2lDSmVOSTdwRGpxVDFnZ2VYR0JpZHo3bjZsWVBuZDE3azhMN3l5Rk1pbFpjbllTNFZEYU41di1XQ2ktQ1QyWjRRNThmM1BPSlFrN2o?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-19T23:26:29.000Z",
-      "summary": "机器人技术提升底盘支架焊接品质稳定性。",
+      "pubDate": "2026-10-20T23:11:58.000Z",
+      "summary": "新一代智能制造加速，AI制药巨头合作，章建平加仓。",
+      "summaryZh": ""
+    },
+    {
+      "title": "今日市场核心热点--物理AI+机器人+端侧AI",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNd3pCamJIVnlXaW1oWGxJOUpnR3RqRTAxdGtnajBpZjQ5SGFQb2tyLTY3eFZ6NHpmb3ZjcWpQNGJMcGlHanZSaXlrYTFyVTdyUGJIbEo1ZmR1RWYzQi11NHJmbXNRSG5mWlZXZHliN0xKbGhNMXdKekJQOFpJRlEtUGp5ek9KcGsxQjJ6MTZqMDRvOWg2ZjJoeTRrc2YzOXNqZXd1WVNYMTc1U3dYR3ozc1V4Zk1fYldLTUd6UVRuQlFpQUZFNGctRG5BcThla2I1UEgydXdTTVF5dDNnSGhCTWtKSHZrcEdxemZ6VlJtb3FKdFZkbnIwcERudG1WSWs?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-20T09:22:00.000Z",
+      "summary": "物理AI、机器人、端侧AI板块今日大涨，相关个股表现强劲。",
+      "summaryZh": ""
+    },
+    {
+      "title": "10.20 机器人PK AI短剧",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pVk9kSU5aZzVJZmdvNzBPMGxfSjc2cVpjMWMwVGVnM0pjejJOYzc0WS1sTUw5ZTdrd05iNjlLMTVyUElXUFZIV0ZTQ3FnY1ExS3JsLU11U2JyaGRhRTljdkNGWkdJOEE4RllF?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-20T06:28:00.000Z",
+      "summary": "机器人与AI短剧在10月20日进行对决。",
+      "summaryZh": ""
+    },
+    {
+      "title": "良渚为世界可持续旅游实践提供中国智慧",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ta3hqdHg5YzNVeGMxNXNUbG90SmNnUkpsamN3dERuaFp0OU1SeklkMkF4Y0NEeUxvWWFqWkpzX1E2MjlwSmdSa2pLTDZ3T2p4emppaTM1M09UdnBmOFFjeU1yRTBiN21GeGNEbFRXVjdHaXQwNjladlY5QzlNVTA?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-20T08:30:22.000Z",
+      "summary": "良渚遗址探索将文化遗产保护与区域发展相结合，为全球可持续旅游提供中国方案。",
       "summaryZh": ""
     },
     {
@@ -173,28 +191,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-20T02:44:00.000Z",
-      "summary": "智能机器人传播风险需从技术、伦理和法律三方面协同治理。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
-      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-20T18:22:54.000Z",
-      "summary": "乌克兰成功使用无人机救援伤员，将无人机救援理念付诸实践。",
-      "summaryZh": "",
-      "titleZh": "乌克兰无人机救援受伤士兵将备受吹捧的想法付诸实践"
-    },
-    {
-      "title": "良渚为世界可持续旅游实践提供中国智慧",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ta3hqdHg5YzNVeGMxNXNUbG90SmNnUkpsamN3dERuaFp0OU1SeklkMkF4Y0NEeUxvWWFqWkpzX1E2MjlwSmdSa2pLTDZ3T2p4emppaTM1M09UdnBmOFFjeU1yRTBiN21GeGNEbFRXVjdHaXQwNjladlY5QzlNVTA?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-20T08:30:22.000Z",
-      "summary": "良渚遗址探索保护与旅游发展相结合模式，为全球提供中国智慧。",
+      "summary": "我国发布智能机器人伦理审查与服务办法，应对传播风险与治理挑战。",
       "summaryZh": ""
     },
     {
@@ -204,7 +201,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-20T00:14:56.000Z",
-      "summary": "江苏以数据赋能AI机器人产业，推动行业智能化发展。",
+      "summary": "江苏以数据赋能AI机器人产业，推动产业智能化发展。",
       "summaryZh": ""
     },
     {
@@ -214,7 +211,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-20T14:35:21.000Z",
-      "summary": "景小智AI伴游平台覆盖全国18省，提供AI导览等服务。",
+      "summary": "景小智AI伴游平台覆盖全国18省，提供文旅服务。",
       "summaryZh": ""
     },
     {
@@ -225,16 +222,6 @@
       "category": "robotics",
       "pubDate": "2026-10-20T09:00:00.000Z",
       "summary": "工信部研究起草新一代智能制造政策措施，推动人工智能与制造业深度融合。",
-      "summaryZh": ""
-    },
-    {
-      "title": "工信部起草新一代智能制造政策措施，推动“AI+制造”深度融合",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wMjZpdnVmNk85N25ESHlFd3ZCQ1RLVXVTcDFFdTlleGNoTkdIaVNtUGpEYVBrWmxSUXhoWUJ1R2JxYmx0RjJjVEdocDFvd0h4eUxyT2pTSm5JVzN2b0M1dDllYVc?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-20T09:46:00.000Z",
-      "summary": "工信部起草政策推动“AI+制造”深度融合，加速制造业智能化发展。",
       "summaryZh": ""
     }
   ]
