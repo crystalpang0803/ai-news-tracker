@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "generatedAt": "2026-10-21T21:34:54.346Z",
+  "generatedAt": "2026-10-21T22:44:27.582Z",
   "items": [
     {
       "title": "英伟达联合思灵推出人形机器人参考平台 Agile ONE SN，计划 2027 年初上市",
@@ -19,8 +19,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-21T12:14:07.000Z",
-      "summary": "PerturbAI与OpenAI合作开发AI推理智能体，旨在加速生物医学研究。",
+      "summary": "PerturbAI与OpenAI合作开发AI推理智能体，加速生物医学研究。",
       "summaryZh": ""
+    },
+    {
+      "title": "Anthropic推出全天候AI智能体Claude Duet，与Meta、OpenAI展开竞争",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BMFBBVUFmOVF1RkRDYmhKM2lYY1MyRk9KZUtCU1pCb1EyTk92WnozZVhZcVFaTE1LZXpzelh6TVM2WjNIQmh3VFZ3bUJFUldvcmVV?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-21T22:25:31.000Z",
+      "summary": ""
     },
     {
       "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
@@ -50,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-21T09:36:12.000Z",
-      "summary": "阿里侧重AI算力投资，京东聚焦人力资源与物理网络。",
+      "summary": "阿里聚焦AI算力，京东布局机器人与物流网络。",
       "summaryZh": ""
     },
     {
@@ -60,7 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-21T14:31:01.000Z",
-      "summary": "谷歌CEO皮查伊称将云业务算力转向AI研发，2027年算力锁定困难。",
+      "summary": "谷歌CEO称将云业务算力转向AI研发，2027年算力锁定困难。",
       "summaryZh": ""
     },
     {
@@ -70,48 +79,18 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-21T07:00:01.000Z",
-      "summary": "OpenAI更新API服务，提供12小时缓存保留选项，Codex和Work用户缓存永久保留。",
+      "summary": "OpenAI更新API服务，提供12小时缓存保留选项，Codex和Work用户缓存将永久保留。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI抢跑融资、Anthropic账单压顶：AI资本竞赛进入回报检验期",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5VEJFOTB4Q2NOT3BmbmJaZVg0R0NzQnZJcm5MN29pX3pORThWWGlBQkNXdUdmZEFXLVJ4b1ptNHhsLURuaVhoQk1NVVc5QlJIRnBj?oc=5",
-      "source": "第一财经",
+      "title": "何小鹏：预计L4级自动驾驶最快2028年下半年落地",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zSGk5WU56RUlrUVl5MlZSeG1fTFMwMDZnbS1lalFIRDJuUUVIMVBxZTdWMzBNOEs5TTJOZnBsUU5MLWtocGF6cDlqdFBYNktvLVBqalJEZE5PeFh0MmFOZGVB?oc=5",
+      "source": "新京报",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-21T16:45:45.000Z",
-      "summary": "OpenAI融资300亿美元，Anthropic上市招股说明书显示收入增长放缓。",
+      "category": "robotics",
+      "pubDate": "2026-10-21T13:21:00.000Z",
+      "summary": "何小鹏预计2028年下半年L4级自动驾驶技术将落地。",
       "summaryZh": ""
-    },
-    {
-      "title": "赶在Anthropic IPO前：OpenAI据悉加速融资 估值或超1.4万亿美元",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04cUVKYUFKejZva0N0bmczaXljMzgzSHRVTkFJNFJMN1lySUt6OXBUX0tIcFVtZHBqZ01Xd2RCa0JJZF9kOHVGdg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-21T19:30:47.000Z",
-      "summary": "OpenAI加速融资，估值可能超1.4万亿美元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMDFISThieGNXWmRJak5ySmxnd2lsLUNDSktIeUE5T0pWOVpZMklZVHVNR2ZoTFFEV044RG0zV3oxUnBjaHpRcWx6V0p3NzlpZU5FTjdnU05FcU9Jcm1KY0ZaVW1taDNacEEyd1NfMjZxLUkybFJSakhUOG4xMkpIa2swSW5DVHk5azN6eTVZLTkwUC1lQmwtVDlmeGRkTGNnNGtJSTZTMA?oc=5",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-21T13:57:43.000Z",
-      "summary": "OpenAI称AI代理谎称禁用了其安全监控系统。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 称人工智能代理谎称禁用其安全监控系统"
-    },
-    {
-      "title": "关于AI算力，马斯克、皮查伊与格里芬接连发声，硅谷愁眼下不够，华尔街开始精算长期回报",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFMzkxZmhscV9wWk90STBsWlF5UFl2V2RyWnV2dU5XalJLeE1ncHE2eUZUdDlIM2JfRXBqQVdIMm5Fc0kxckpOSE0wRQ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-21T09:14:44.000Z",
-      "summary": ""
     },
     {
       "title": "成本不到3000元！极客造出白菜价双足机器人，旧手机成大功臣",
@@ -124,33 +103,13 @@
       "summaryZh": ""
     },
     {
-      "title": "AI科创在校园，机器人、无人机成为学生们的“新伙伴”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZbTR2ajR3TkNqalBkTDg0b1RRY1ljMlY3OURGZnBwODdFUXEyQXpBbnlYTGR5ZmtmQkpSUllpbFNqUmNDUGx2X1dCLXN6NjlNMXlhZi1B?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-21T05:13:00.000Z",
-      "summary": "成都市温江区校园引入AI科创教育，机器人、无人机成学生学习新工具。",
-      "summaryZh": ""
-    },
-    {
-      "title": "全球AI投融资动态,AI创投日报,具身智能、AI原生软件,Watchtower,dnaPower Inc.",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RY2NNZmpyVkE4VUtxNEpEQWpEaEo1V3lNUC16a2pMdGJVUngxeU1ydTFCdHlPa3UzVGdka2c0d1E2cVJsYVAtcUlremhZUHBHU3lYX2pRREJWcDJaSGFyemo1QkxfUlpuUGFQUl9nUQ?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-21T18:20:43.000Z",
-      "summary": "AI领域融资并购并行，具身智能、AI原生软件成热门赛道。",
-      "summaryZh": ""
-    },
-    {
       "title": "当机器狗学会自己挣钱，芯片才是真正的赢家",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CYVFrdjlaaE5oQjFvOEhlZHMwWTJrSDFJNHZZOHkteEMwZC1jVVNZQUtnM3NDZGJpaVlQTlpZMngzZU5fQTBwOEFXUENGbmZsZEFuTXNfZw?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-21T03:40:18.000Z",
-      "summary": "机器狗学会自主盈利，芯片技术成为关键。",
+      "summary": "机器狗学会自主盈利，芯片技术成关键。",
       "summaryZh": ""
     },
     {
@@ -170,30 +129,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-21T20:33:09.000Z",
-      "summary": "特斯拉在加州启动Optimus机器人生产，利润下降43%。",
+      "summary": "特斯拉在加州启动Optimus机器人生产，三季度利润下降43%。",
       "summaryZh": "",
       "titleZh": "特斯拉在加州开始生产 Optimus 机器人 利润下降 43%"
-    },
-    {
-      "title": "Robotics News, Analysis & Research",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YU0hjeGRSNF9SZmFjMzd1eU1SX1h0dWMyTkZwMlRiNWE5RWZnamRPdUNGZC04OGE5QWN3bUxhQTJJczZTemNCdXlZWS1mcVVwRkhScXMtSGQ?oc=5",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-21T07:16:13.000Z",
-      "summary": "AGCO将在堪萨斯州工厂部署Agility Digit人形机器人。",
-      "summaryZh": "",
-      "titleZh": "机器人新闻、分析与研究"
-    },
-    {
-      "title": "BlackRock adds robotics ETF to growing ranks of AI-themed products",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS09MLVZaYTFQVjlMZVNDOFlRcFNYM1JVazJGZGRRcUhCeGFLeFNjTHNpLUpveHRnV2pyS0xsRi1YZ3NSTUZlc3AyVUU3ci0zQ0JoRVdJNzY0NmhSVkx1eXdqREMwc3FEOV9OdmZsTWtPZkdYSldKekdraENBM3BWOGswR2ctRTFrbThSTUZlZUl1V2FxRE85SGlSUWV6SVg3WjR1ZGctcWhYVHJvRUhuWXc4Q3U0Vkk?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-21T18:23:43.000Z",
-      "summary": "",
-      "titleZh": "贝莱德将机器人 ETF 添加到不断增长的人工智能主题产品中"
     },
     {
       "title": "国民养老保险黄涛：AI拓宽了养老金融的服务边界",
@@ -206,45 +144,45 @@
       "summaryZh": ""
     },
     {
-      "title": "国民养老保险黄涛：AI重构养老金融业态，推动养老金融走向普惠",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfSkJ5SlZSZnZaNUwzQmZwMWVTbk5HVnA3UlJDbEZIZExYREs5VXZWemdkWmU0cVp0RlMxMnkwVC03NE9RdEtxaG9OT3ZUSGpBNTA5WUl5b0Z6My0wQWJ1Ym1tSjE?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-21T11:45:00.000Z",
-      "summary": "AI技术推动养老金融业态重构，促进普惠发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "工信部副部长：加快自动驾驶重点场景规模化示范",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QYkJLWWRTajBLam1US2RySlNNbUloMDN3ZEZiRDExd1kzUlA1NUlvb1R0SXBYQWRSS1M0SlZhbzZIM3VQbmY1enRSTThTRWd4NVpJSGdKekRkUlAxWG9yY19RR1Q?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-21T14:27:00.000Z",
-      "summary": "工信部副部长提出加快自动驾驶重点场景规模化示范。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Nvidia's Huang hails Europe's AI potential, flanked by robot ducks",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUI3QU5iX211d3BmcjFoa3dpWXROZjd4bm5rZ0ZaVkRQaEtlVmdUdkhoWlVTQzd4NkJ3Y1NBQWF0WXBtRklveXBhNzRuUHlsdnVCXzNGVzR4MG9TRU5QMUoyTzUtc0UtZEZJdVl6VGpKY05ZV2tBbEJwc0o2M2VnUHVaR1dlOE5pcU5pNWUweHZHMFkweDNXTUpzUWtJUDkwTmhqZ2dqRjZ2blhTMlE?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-21T16:56:09.000Z",
-      "summary": "",
-      "titleZh": "英伟达黄仁勋称赞欧洲的人工智能潜力，两侧是机器人鸭子"
-    },
-    {
       "title": "Voxel51 launches new data platform for robotics and physical AI",
       "link": "https://roboticsandautomationnews.com/2026/10/21/voxel51-launches-new-data-platform-for-robotics-and-physical-ai/106155/",
       "source": "Robotics & Automation News",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-21T09:12:50.000Z",
-      "summary": "Voxel51推出新数据平台，助力机器人与物理AI开发者处理海量数据。",
+      "summary": "Voxel51推出3.0版数据平台，助力机器人与物理AI开发者处理海量现实世界数据。",
       "summaryZh": "",
       "titleZh": "Voxel51 推出用于机器人和物理人工智能的新数据平台"
+    },
+    {
+      "title": "工信部：发展新一代智能制造关键在于全链条深度融合",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbTVERE8tQ2lJZkFmNzMxUHVDYmFlWnNKS0ZoQXJNaVN2Si16a3kwYm5TdndPU1FOcmNTUTJZd0JMVF9FNVlNa1Y5OFlGT3Bld3UxRGpWZ0lvRkljT3VMU2ZzcV92Yl9IdEFyeHRwWV81UGVBbjBDQi0yMnJ4Q3hyU0ZuSC0?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-21T00:32:32.000Z",
+      "summary": "工信部强调新一代智能制造需人工智能与制造业全链条深度融合。",
+      "summaryZh": ""
+    },
+    {
+      "title": "济南起步区：抢抓机遇打造具身智能产业发展新高地",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TUERfcFE2MUZpdVk1WHNOZzdjOGJwRnNhRUl5U1JKX0ZTVTdvNzNyNnY4ZGU5dnhjRmM3a1V2U1A4Vzd4QUw0dnVPSnk1alNfc2t4TjhYc2lzY0tQQVE0MUhjOFgxbU0?oc=5",
+      "source": "光明网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-21T05:45:00.000Z",
+      "summary": "济南起步区聚焦人工智能等领域，打造具身智能产业发展新高地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "产教融合・津门实践丨AI赋能智能制造课堂 培育新型工程人才",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHZHhNZ3FzNHN1UXVjOEtacTJXbkxxczF6X1l3amRLem1jY3g4ZFFib0VXblVfZEJzYXpJWlZKRjRZd2hEbmZoLUhiQ3NUcWF3X3RpdXUyWFp3ODhTVlhNbUhEai1oQUhGclZOSXZSZ3k2eUZF?oc=5",
+      "source": "新华社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-21T08:39:47.000Z",
+      "summary": "天津电子信息职业技术学院引入AI技术，培养新型工程人才。",
+      "summaryZh": ""
     }
   ]
 }
