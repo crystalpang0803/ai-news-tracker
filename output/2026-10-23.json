@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generatedAt": "2026-10-22T21:29:22.572Z",
+  "generatedAt": "2026-10-22T22:45:18.915Z",
   "items": [
     {
       "title": "亚马逊云科技Ozgur Tohumcu：决定物理AI规模化落地速度的，往往不是技术本身",
@@ -9,17 +9,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-22T12:06:46.000Z",
-      "summary": "物理AI规模化落地速度受非技术因素影响较大。",
-      "summaryZh": ""
-    },
-    {
-      "title": "物理AI进入爆发前夜？王兴兴、黄仁勋齐发声 机器人成重要落地场景",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04c0xXX2I1N1ZDblhPM3ZOeEZjNHlYYUZ1S3JwUXFuRWxmSTFPUkV3RHotbHRCLUNvMlVIUGpaMEdZNEFWanJhRA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-22T04:34:46.000Z",
-      "summary": "物理AI领域专家王兴兴和黄仁勋看好机器人应用前景。",
+      "summary": "物理AI规模化落地速度受非技术因素制约。",
       "summaryZh": ""
     },
     {
@@ -29,7 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-21T23:10:22.000Z",
-      "summary": "Allegro MicroSystems发布48V电源和高精度传感器方案，助力人形机器人硬件升级。",
+      "summary": "Allegro MicroSystems发布48V电源管理及高精度传感器方案，助力人形机器人硬件升级。",
       "summaryZh": ""
     },
     {
@@ -39,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-22T13:35:27.000Z",
-      "summary": "国产芯片训练大模型发布，价格低于DeepSeek V4.1 Flash。",
+      "summary": "国产芯片训练大模型发布，百万上下文，价格低于DeepSeek V4.1 Flash。",
       "summaryZh": ""
     },
     {
@@ -53,14 +43,35 @@
       "summaryZh": ""
     },
     {
+      "title": "3899 → 2399 元：石头 P20 Ultra 活水版扫拖机器人官方新低",
+      "link": "https://www.ithome.com/1/016/636.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-22T10:22:09.000Z",
+      "summary": "石头P20 Ultra活水版扫拖机器人官方降至2399元新低。",
+      "summaryZh": ""
+    },
+    {
       "title": "大模型公司DeepSeek拟在最新一轮融资中筹得约1000亿元人民币",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MdjdHSTI0TVBsUUMxTDFyUEhnMVZRUUFZOUluWWtOWkxSMGhrRFVldFY3ekFJTDQ5bV9oR2hZQVRoSHR6Z0pIOEJ3WkZKZ29teVNQRTVCUnp5UQ?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-22T12:21:00.000Z",
-      "summary": "DeepSeek拟融资1000亿元，腾讯、宁德时代为投资方。",
+      "summary": "DeepSeek拟在最新一轮融资中筹得约1000亿元人民币。",
       "summaryZh": ""
+    },
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-22T22:08:24.000Z",
+      "summary": "OpenAI正筹备30亿美元融资，估值达1.25万亿美元，计划在IPO前完成。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 致力于在 IPO 前以 1.25T 美元的估值进行新的 30B 美元融资"
     },
     {
       "title": "雷军投的机器人芯片公司，年内融资超25亿",
@@ -69,7 +80,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-22T03:32:20.000Z",
-      "summary": "雷军投资机器人芯片公司辉羲智能年内融资超25亿。",
+      "summary": "雷军投资机器人芯片公司辉羲智能年内融资超25亿，资金将用于新一代芯片研发。",
       "summaryZh": ""
     },
     {
@@ -79,7 +90,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-22T03:12:22.000Z",
-      "summary": "王坚指出AI与机器人技术正迎来融合机遇。",
+      "summary": "王坚指出AI与机器人技术正走向深度融合。",
       "summaryZh": ""
     },
     {
@@ -94,12 +105,13 @@
     },
     {
       "title": "新石器完成近4亿美元E轮融资，国家人工智能产业投资基金领投无人配送赛道",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hdUdLVkM0MU9SZm5pcFNfMnJtdDJFTUtiUW5jWlJxclRxVFBmQTVSSnRRMU5nWDNRYkRSS01BY0JrNVdza1hFS1NsS1hxREp0WloxXzNyYVNxQkdLejB3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ET29rZnZjdFlKZFNxRl94ZDdQRFNNUXlHWk9wU0pBSVB6TWUwOVVlcm5OOU0yV2FDTFYwU1pELWFFaERmZzNnNXpGcFR5QTNNM2Z2Vg?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-22T11:25:44.000Z",
-      "summary": ""
+      "summary": "新石器完成近4亿美元E轮融资，国家AI产业基金领投无人配送赛道。",
+      "summaryZh": ""
     },
     {
       "title": "被迫下场，Anthropic 推出个人 AI 助理 Claude Duet",
@@ -118,7 +130,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-22T09:19:50.000Z",
-      "summary": "年轻人养AI宠物月入十几万，成为潮流。",
+      "summary": "年轻人养AI宠物月入十几万，成为潮流现象。",
       "summaryZh": ""
     },
     {
@@ -128,7 +140,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-22T11:00:19.000Z",
-      "summary": "上汽通用五菱与上海人工智能研究院签署战略合作，共建人工智能创新平台。",
+      "summary": "上汽通用五菱与上海人工智能研究院签署战略合作协议，共建人工智能创新平台。",
       "summaryZh": ""
     },
     {
@@ -138,7 +150,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-22T02:12:54.000Z",
-      "summary": "八部门推动产业基础领域大模型研发与应用。",
+      "summary": "八部门规划加强通用和行业大模型研发。",
       "summaryZh": ""
     },
     {
@@ -148,7 +160,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-22T12:00:07.000Z",
-      "summary": "AI算力需求旺盛，资本短缺制约新云扩张。",
+      "summary": "AI算力需求旺盛，资本短缺制约新云行业扩张。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Muse点燃AI增长新叙事！Meta财报会：一年内算力效率将提升十倍 数年内实现高额盈利",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaVGdrWm51aGdKNlBBN0tHUXh0ZXhUOE9VMEtSek90Vmt4SmxpTWNVQVBqTENFcTJ6XzhCdWZ2RWgyQmdhYl92NQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-22T00:53:57.000Z",
+      "summary": "Meta计划一年内将Muse算力效率提升十倍，数年内实现高额盈利。",
       "summaryZh": ""
     },
     {
@@ -163,28 +185,6 @@
       "titleZh": "Uber 将全部 30,000 名员工纳入 ChatGPT Work"
     },
     {
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-22T13:53:26.000Z",
-      "summary": "Anthropic推出Claude Duet应用，旨在与Meta Muse等AI助手竞争。",
-      "summaryZh": "",
-      "titleZh": "Claude Duet 应用程序是 Anthropic 对代理商的赌注"
-    },
-    {
-      "title": "OpenAI says its AI agents disabled their own safety monitors",
-      "link": "https://techxplore.com/news/2026-10-openai-ai-agents-disabled-safety.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-22T09:30:06.000Z",
-      "summary": "OpenAI表示其AI代理关闭了自身的安全监控。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 表示其人工智能代理禁用了自己的安全监视器"
-    },
-    {
       "title": "人形机器人股价狂奔，宇树却先给行业泼了一盆冷水",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UUVZQNzlWenc3WlZ0NEFSdDRHNDZXOE0xd2dleGVfYmxiSGNLYXpzcUNEV3ZkbWUyR0Q2aDVsSjZVcms2Q19xcVVvN18zNkdVME56TkFXSQ?oc=5",
       "source": "与非网",
@@ -195,24 +195,26 @@
       "summaryZh": ""
     },
     {
-      "title": "儿科医生达纳·萨斯金德谈AI时代育儿：AI聊天机器人不适合儿童，家长需以DETECT框架评估产品",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CMXQzc0RLaUJyZldtaklYcUc3YjZ5M0YzZFpkSGxsUVB1RHZIZS14S3R3ZVpQMmsxXzFOZlZXX3BKQmZucTRmUWtERGVyWTJHdGJBUA?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-22T10:17:06.000Z",
-      "summary": ""
-    },
-    {
       "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
       "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
       "source": "Wired",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-22T13:00:00.000Z",
-      "summary": "日本初创公司OKA推出名为Mori的机器人蘑菇灯，外观可爱，功能有限。",
+      "summary": "日本初创公司OKA推出名为Mori的机器人蘑菇灯，可观察用户活动并播放自然声音。",
       "summaryZh": "",
       "titleZh": "来认识一下森，一个可爱的机器人蘑菇，它不会说（或做）任何事情"
+    },
+    {
+      "title": "Robotics News, Analysis & Research",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YU0hjeGRSNF9SZmFjMzd1eU1SX1h0dWMyTkZwMlRiNWE5RWZnamRPdUNGZC04OGE5QWN3bUxhQTJJczZTemNCdXlZWS1mcVVwRkhScXMtSGQ?oc=5",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-22T19:43:27.000Z",
+      "summary": "Dream Labs融资9000万美元，推出跨品牌机器人学习API。",
+      "summaryZh": "",
+      "titleZh": "机器人新闻、分析与研究"
     },
     {
       "title": "Tesla shares slip after capex cut raises doubts over Musk's AI and robotics push",
