@@ -1,25 +1,15 @@
 {
   "date": "2026-10-22",
-  "generatedAt": "2026-10-22T04:55:37.440Z",
+  "generatedAt": "2026-10-22T08:54:26.465Z",
   "items": [
     {
-      "title": "OpenAI又出手！收购生物医药AI创企，让Agent帮药企管研发",
-      "link": "https://zhidx.com/p/602942.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-21T08:29:26.000Z",
-      "summary": "OpenAI收购生物医药AI创企Orchestra，旨在利用AI技术提升药企研发管理效率。",
-      "summaryZh": ""
-    },
-    {
-      "title": "王兴兴：宇树 G1 已累计生产下线约 1-2 万台，是全球最畅销的人形机器人",
-      "link": "https://www.ithome.com/1/016/258.htm",
+      "title": "宇树科技王兴兴：我很害怕浪费每一天，这代人有希望把人形机器人生产力提升到下一个台阶",
+      "link": "https://www.ithome.com/1/016/475.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-22T02:55:40.000Z",
-      "summary": "宇树G1机器人累计生产下线约1-2万台，成为全球最畅销人形机器人。",
+      "pubDate": "2026-10-22T07:22:22.000Z",
+      "summary": "宇树科技王兴兴表示，人形机器人有望提升生产力至新台阶。",
       "summaryZh": ""
     },
     {
@@ -39,27 +29,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-21T11:30:33.000Z",
-      "summary": "英伟达推出AI工厂参考设计，将部署周期缩短至14天，并加速智能体与物理AI应用落地。",
+      "summary": "英伟达推出AI工厂参考设计，将部署周期缩短至14天，并加速智能体与物理AI落地。",
       "summaryZh": ""
     },
     {
-      "title": "工信部郭守刚：L3 级自动驾驶产品第二批准入试点工作正在进行",
-      "link": "https://www.ithome.com/1/016/347.htm",
+      "title": "刷新上海办公楼租赁史最大单笔纪录，机器人头部企业智元拿下超 22 万平方米办公面积",
+      "link": "https://www.ithome.com/1/016/502.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-22T04:51:42.000Z",
-      "summary": "工信部启动L3级自动驾驶产品第二批准入试点工作。",
+      "pubDate": "2026-10-22T08:26:24.000Z",
+      "summary": "机器人企业智元租赁超22万平方米上海办公楼，创租赁纪录。",
       "summaryZh": ""
     },
     {
-      "title": "首都在线：账面扭亏，AI算力持续投入",
-      "link": "https://www.tmtpost.com/8176619.html",
-      "source": "钛媒体",
+      "title": "人形机器人迈向工业落地，IMU怎么选？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBteDU2MlBkeXRMOG5NODBzSHh4emNoTmJ1LUthUXcxSHh1RUxFLWFjblV3M2l3bzdCVmlmT1JJSnlpa0lLcmJ6REo3ZnpTb0l4ZzViYWtqMA?oc=5",
+      "source": "与非网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-21T13:11:59.000Z",
-      "summary": "首都在线前三季度扭亏为盈，持续投入AI算力。",
+      "category": "robotics",
+      "pubDate": "2026-10-22T07:58:21.000Z",
+      "summary": "人形机器人安全验证技术助力工业应用落地。",
       "summaryZh": ""
     },
     {
@@ -69,7 +59,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-22T01:19:00.000Z",
-      "summary": "OpenAI更新使用政策，模型路由器、AI网关访问需审批。",
+      "summary": "OpenAI更新政策，模型路由器、AI网关访问需审批。",
+      "summaryZh": ""
+    },
+    {
+      "title": "1000亿！曝DeepSeek拿下中国AI最大融资",
+      "link": "https://zhidx.com/p/603434.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-22T04:30:14.000Z",
+      "summary": "DeepSeek完成1000亿融资，创中国AI行业最大融资纪录。",
+      "summaryZh": ""
+    },
+    {
+      "title": "刚刚，Claude个人智能体空降！主动找你汇报，突袭Muse和Dot",
+      "link": "https://zhidx.com/p/603353.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-21T23:04:32.000Z",
+      "summary": "Anthropic推出主动汇报的AI智能体Claude Duet，可处理工作任务。",
       "summaryZh": ""
     },
     {
@@ -105,6 +115,16 @@
       "summaryZh": ""
     },
     {
+      "title": "宇树科技正式发布世界物理AI大赛",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JeHJEQUcweFU5V0JxOE1kOThFcTFRVjFZcnNWX0hrSlhrNklJR2xldGNBX1dsVHV0d2Zuek1pYWJYRXRWVnBaNmNLTUJsRlZ1Q05sYg?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-22T08:40:00.000Z",
+      "summary": "宇树科技发布世界物理AI大赛，设八大赛道，奖金数千万元。",
+      "summaryZh": ""
+    },
+    {
       "title": "特斯拉Q3财报出炉：加码AI和机器人汽车主业承压，资本支出远逊预期！",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1iUEhCY1JmaWJ0S2VDeV9aMzlMM3JqazVfSTdCWUhib0xiV0tHbml4UndIX1psenpENVVycnBjbkNLaXJCSFU0MQ?oc=5",
       "source": "财联社",
@@ -115,51 +135,52 @@
       "summaryZh": ""
     },
     {
-      "title": "DeepSeek开源推理框架，有人算出AI的毛利：82%",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yZ2VVeXA3dWFPaWhaY2x1VjU4cVpiTjF5YWpUdXZVTmhqcEZ6dGEwNjJERnNWZjNVdGJGMDhlZG5nNG9CN256c0p4ZzZHdw?oc=5",
+      "title": "大模型厂商，为什么决定不了自己在具身智能的位置？",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4alROYzJYamlOQWJVelN3SU1laGRiTXFpWmxIbHRLZUoxelQ2a05HNGJVVVpsZUk2MlhMSTB2cHEwZDhCbkRRc0IyMXBPQQ?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-21T08:28:00.000Z",
+      "pubDate": "2026-10-21T14:23:00.000Z",
       "summary": ""
     },
     {
-      "title": "关于AI算力，马斯克、皮查伊与格里芬接连发声，硅谷愁眼下不够，华尔街开始精算长期回报",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFMzkxZmhscV9wWk90STBsWlF5UFl2V2RyWnV2dU5XalJLeE1ncHE2eUZUdDlIM2JfRXBqQVdIMm5Fc0kxckpOSE0wRQ?oc=5",
-      "source": "36氪",
+      "title": "谁在给OpenAI供应具身数据？",
+      "link": "https://www.qbitai.com/2026/10/504800.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-21T09:14:44.000Z",
-      "summary": ""
-    },
-    {
-      "title": "八部门：加强产业基础领域通用大模型和行业大模型研发布局",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LMjJFWkpfQzFVUWVzZHl5R2pZbDFpODh6anVlRUY1Z3lNcmhzaVBybTFfc3Z4Q29iY21MbHg4YkliaGpMOV80QmZ4R0lrMzAxUVVF?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-22T02:12:54.000Z",
-      "summary": "八部门联合发布规划，推动产业基础领域大模型研发与应用。",
+      "pubDate": "2026-10-22T07:05:59.000Z",
+      "summary": "OpenAI通过购买Maxinsights的Egocentric数据集，实现了具身任务的控制能力提升。",
       "summaryZh": ""
     },
     {
-      "title": "成本不到3000元！极客造出白菜价双足机器人，旧手机成大功臣",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pVjc2Q3J1bEc4ZTZ5MUdyRkU1a3c2aF92OVlOSl83TXdfZ2JOTkpiWUw5bGEtVU40bElaS211MGFub1dncktSLUN0elhLMVVjYk50N1hkdw?oc=5",
+      "title": "首都在线：账面扭亏，AI算力持续投入",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE12aFJFVGtwRWU0UHZIZ2VMZ0tmRjBQMDM1eEtyVVBJWmd0ZlpnZFlvSWE3SzFLdGFVNmxteWlWakx3TUNQMmxWUnR5VmM?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-21T13:11:00.000Z",
+      "summary": "首都在线前三季度扭亏为盈，AI算力持续投入。",
+      "summaryZh": ""
+    },
+    {
+      "title": "智元连投两家：热管理成为人形机器人的必争之地",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rLWZKdXVnb3AzNDk2MDh5ZXNNUWZWbjlYcVFoWWxnNy1VSDZYam1zZGVENjlBZnpMTE5zQ0REQWxTX2RMeldCMmwzRE56dkY1eHktYnNZZw?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-21T14:15:16.000Z",
-      "summary": "极客利用旧手机打造低成本双足机器人。",
+      "pubDate": "2026-10-22T06:33:33.000Z",
+      "summary": "智元连投两家企业，热管理技术成人形机器人竞争焦点。",
       "summaryZh": ""
     },
     {
-      "title": "AI科创在校园，机器人、无人机成为学生们的“新伙伴”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZbTR2ajR3TkNqalBkTDg0b1RRY1ljMlY3OURGZnBwODdFUXEyQXpBbnlYTGR5ZmtmQkpSUllpbFNqUmNDUGx2X1dCLXN6NjlNMXlhZi1B?oc=5",
-      "source": "腾讯新闻",
+      "title": "国民养老保险党委书记、总经理黄涛：AI让保险承诺、渠道连接、客户服务更透明、更可及、更前瞻",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lQTY0Q3VEY1NsX3lUT21CM250NFNhM1k0MEpzWDhXVG4tS2MzZ291S1Qxenl4cW9vbWo4TDdUbk5pOGVHZWRrRUh2Q2dfVTZxMm5OTXo4ckN1V28xZ2xBTk43STk4dw?oc=5",
+      "source": "每日经济新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-21T05:13:00.000Z",
-      "summary": "成都市温江区校园引入AI教育，机器人、无人机成学生学习新工具。",
+      "category": "application",
+      "pubDate": "2026-10-21T15:02:00.000Z",
+      "summary": "黄涛表示AI技术使保险承诺、渠道连接、客户服务更透明、可及和前瞻。",
       "summaryZh": ""
     },
     {
@@ -172,25 +193,6 @@
       "summary": "特斯拉在加州启动Optimus机器人生产，三季度利润下降43%。",
       "summaryZh": "",
       "titleZh": "特斯拉在加州开始生产 Optimus 机器人 利润下降 43%"
-    },
-    {
-      "title": "BlackRock adds robotics ETF to growing ranks of AI-themed products",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS09MLVZaYTFQVjlMZVNDOFlRcFNYM1JVazJGZGRRcUhCeGFLeFNjTHNpLUpveHRnV2pyS0xsRi1YZ3NSTUZlc3AyVUU3ci0zQ0JoRVdJNzY0NmhSVkx1eXdqREMwc3FEOV9OdmZsTWtPZkdYSldKekdraENBM3BWOGswR2ctRTFrbThSTUZlZUl1V2FxRE85SGlSUWV6SVg3WjR1ZGctcWhYVHJvRUhuWXc4Q3U0Vkk?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-21T18:23:43.000Z",
-      "summary": "",
-      "titleZh": "贝莱德将机器人 ETF 添加到不断增长的人工智能主题产品中"
-    },
-    {
-      "title": "创业板跌2%，机器人逆势爆发、宇树拉升5%，AI硬件下跌、光模块再调整，恒科指跌3%，权重科网股集体走低",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tZjJpdmxDSGNfUUZ2M2tYVmtrcnZyZmY4UHlsUzB0Sklwa0NVYjRFZlNQbDllX1pjQjJseDAwT3dUMy0tNTJ0TnBlZDJRbjVyMWpN?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-22T01:58:17.000Z",
-      "summary": ""
     },
     {
       "title": "让世界AI上青岛 | 数智浪潮遇见山海，青岛文旅打开全新想象",
@@ -219,17 +221,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-21T12:35:20.000Z",
-      "summary": "四川绵阳利用无人机巡检和智慧配送推动低空经济发展。",
+      "summary": "四川绵阳利用无人机巡检和智慧配送，推动低空经济生态发展。",
       "summaryZh": ""
     },
     {
-      "title": "汽车“小蓝灯”身份明确 L3以上级别自动驾驶车辆才能装配",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SamFWVmx5ZVlIdElhOEotSHRhbXg4STlWb29EWW9RdThSMkZCTTY4Yk04Sl9vS0RIalpyWDhXV29nZnR4a3llU3ZLQ1Q0a0pYZG9OV01DWTluUkVfOEtCM2NjTGc?oc=5",
-      "source": "财新网",
+      "title": "国产机器人成“顶流” 从广交会加速走向世界",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zQlVmS0k5NGZIN0h4ZmVCTUFfZnQzZWc2YUNGdVFjSnNoY3RpX1NJRHRmdm9qZ0hfMFlLcGEzX2d6akJqQXhzemloellhSmM4Wm4zUENGTmhjREE2SU1MRGFEMV9HQjVzYkw0QXpxamNkTlVOM3Fn?oc=5",
+      "source": "中国经济网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-22T01:51:00.000Z",
-      "summary": "L3以上自动驾驶车辆需装配蓝绿色标志灯。",
+      "pubDate": "2026-10-21T23:40:00.000Z",
+      "summary": "国产机器人在第140届广交会上成为焦点，加速走向全球市场。",
       "summaryZh": ""
     },
     {
@@ -239,7 +241,17 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-21T11:45:00.000Z",
-      "summary": "AI技术推动养老金融行业向普惠化发展。",
+      "summary": "AI技术推动养老金融业态重构，助力普惠发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "工信部副部长：加快自动驾驶重点场景规模化示范",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QYkJLWWRTajBLam1US2RySlNNbUloMDN3ZEZiRDExd1kzUlA1NUlvb1R0SXBYQWRSS1M0SlZhbzZIM3VQbmY1enRSTThTRWd4NVpJSGdKekRkUlAxWG9yY19RR1Q?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-21T14:27:00.000Z",
+      "summary": "工信部副部长提出加快自动驾驶重点场景规模化示范。",
       "summaryZh": ""
     }
   ]
