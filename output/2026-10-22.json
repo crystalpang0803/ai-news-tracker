@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "generatedAt": "2026-10-22T00:03:10.421Z",
+  "generatedAt": "2026-10-22T00:55:04.677Z",
   "items": [
     {
       "title": "24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-21T22:44:18.000Z",
-      "summary": "Anthropic推出全天候AI智能体Claude Duet，挑战Meta和OpenAI。",
+      "summary": "Anthropic推出全天候AI智能体Claude Duet，具备主动工作能力。",
       "summaryZh": ""
     },
     {
@@ -19,17 +19,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-21T12:14:07.000Z",
-      "summary": "PerturbAI与OpenAI合作开发AI推理智能体，旨在加速生物医学研究。",
+      "summary": "PerturbAI与OpenAI合作开发AI推理智能体，加速生物医学研究。",
       "summaryZh": ""
-    },
-    {
-      "title": "OpenAI抢滩AI制药：又收购一家初创，CTO来自北大",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WakVuN0d4R1pjbHBnbEdST3NwX0lDQndxekttYXFZWU1uaHZpRVNsNHNIVjBOQm8zRWg5UV9zTTRITHlyVXZJdl9law?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-21T08:04:32.000Z",
-      "summary": ""
     },
     {
       "title": "首都在线：账面扭亏，AI算力持续投入",
@@ -38,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-21T13:11:59.000Z",
-      "summary": "首都在线三季报扭亏为盈，持续投入AI算力。",
+      "summary": "首都在线前三季度扭亏为盈，持续投入AI算力。",
       "summaryZh": ""
     },
     {
@@ -48,7 +39,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-21T09:50:13.000Z",
-      "summary": "无人车企业融资增加，行业竞争加剧。",
+      "summary": "无人车企业融资加码，行业竞争加剧。",
       "summaryZh": ""
     },
     {
@@ -72,16 +63,6 @@
       "summaryZh": ""
     },
     {
-      "title": "科创创业人工智能ETF鹏华(588410)标的指数涨超2.4%，三季报叠加产业利好，端侧AI、算力租赁盘中走高",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JcW1OX1M2S0JkMG9hQ2FlVjE0dzBqdEFZNF9aZHNoTFNYc2JhZXFZMVl4MlpsbHBCMHBkME9Yd1pGRHo2Z1JPclZyRk9KOFF4U0ZZUjdHVFQ?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-21T01:50:00.000Z",
-      "summary": "科创创业人工智能ETF鹏华涨超2.4%，端侧AI和算力租赁板块走强。",
-      "summaryZh": ""
-    },
-    {
       "title": "成本不到3000元！极客造出白菜价双足机器人，旧手机成大功臣",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pVjc2Q3J1bEc4ZTZ5MUdyRkU1a3c2aF92OVlOSl83TXdfZ2JOTkpiWUw5bGEtVU40bElaS211MGFub1dncktSLUN0elhLMVVjYk50N1hkdw?oc=5",
       "source": "与非网",
@@ -98,7 +79,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-21T18:20:43.000Z",
-      "summary": "AI领域投融资活跃，具身智能和AI原生软件受资本关注。",
+      "summary": "AI原生软件、具身智能等领域投融资活跃，多组学健康检测受资本青睐。",
       "summaryZh": ""
     },
     {
@@ -108,7 +89,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-21T03:40:18.000Z",
-      "summary": "机器狗学会自主盈利，芯片技术成为关键。",
+      "summary": "机器狗学会自主赚钱，芯片技术成关键。",
       "summaryZh": ""
     },
     {
@@ -138,19 +119,30 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-21T20:33:09.000Z",
-      "summary": "特斯拉在加州启动Optimus机器人生产，同时利润下降43%。",
+      "summary": "特斯拉在加州工厂启动Optimus机器人生产，三季度利润下降43%。",
       "summaryZh": "",
       "titleZh": "特斯拉在加州开始生产 Optimus 机器人 利润下降 43%"
     },
     {
-      "title": "让世界AI上青岛 | 数智浪潮遇见山海，青岛文旅打开全新想象",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JZndtWmN1dHRNSGRNTVdZWU9RZENlVkhEYWF6SXpkYUVBSmR6RWh6aWRUM1hJVUFvNGpxdjgtTTlnYkVsLVRodVhhcHlwSnZfV29DQmk4T1FtY1EtemFrVnpR?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-21T11:33:00.000Z",
-      "summary": "青岛文旅产业深度融入AI技术，打造沉浸式体验，推动智慧旅游发展。",
-      "summaryZh": ""
+      "title": "Robotics News, Analysis & Research",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YU0hjeGRSNF9SZmFjMzd1eU1SX1h0dWMyTkZwMlRiNWE5RWZnamRPdUNGZC04OGE5QWN3bUxhQTJJczZTemNCdXlZWS1mcVVwRkhScXMtSGQ?oc=5",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-21T07:16:13.000Z",
+      "summary": "AGCO将在堪萨斯州工厂部署Agility Digit人形机器人。",
+      "summaryZh": "",
+      "titleZh": "机器人新闻、分析与研究"
+    },
+    {
+      "title": "BlackRock adds robotics ETF to growing ranks of AI-themed products",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS09MLVZaYTFQVjlMZVNDOFlRcFNYM1JVazJGZGRRcUhCeGFLeFNjTHNpLUpveHRnV2pyS0xsRi1YZ3NSTUZlc3AyVUU3ci0zQ0JoRVdJNzY0NmhSVkx1eXdqREMwc3FEOV9OdmZsTWtPZkdYSldKekdraENBM3BWOGswR2ctRTFrbThSTUZlZUl1V2FxRE85SGlSUWV6SVg3WjR1ZGctcWhYVHJvRUhuWXc4Q3U0Vkk?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-21T18:23:43.000Z",
+      "summary": "",
+      "titleZh": "贝莱德将机器人 ETF 纳入不断增长的人工智能主题产品行列"
     },
     {
       "title": "国民养老保险黄涛：AI拓宽了养老金融的服务边界",
@@ -163,6 +155,16 @@
       "summaryZh": ""
     },
     {
+      "title": "国民养老保险黄涛：AI重构养老金融业态，推动养老金融走向普惠",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfSkJ5SlZSZnZaNUwzQmZwMWVTbk5HVnA3UlJDbEZIZExYREs5VXZWemdkWmU0cVp0RlMxMnkwVC03NE9RdEtxaG9OT3ZUSGpBNTA5WUl5b0Z6My0wQWJ1Ym1tSjE?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-21T11:45:00.000Z",
+      "summary": "AI技术推动养老金融业态重构，助力普惠发展。",
+      "summaryZh": ""
+    },
+    {
       "title": "Nvidia's Huang hails Europe's AI potential, flanked by robot ducks",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUI3QU5iX211d3BmcjFoa3dpWXROZjd4bm5rZ0ZaVkRQaEtlVmdUdkhoWlVTQzd4NkJ3Y1NBQWF0WXBtRklveXBhNzRuUHlsdnVCXzNGVzR4MG9TRU5QMUoyTzUtc0UtZEZJdVl6VGpKY05ZV2tBbEJwc0o2M2VnUHVaR1dlOE5pcU5pNWUweHZHMFkweDNXTUpzUWtJUDkwTmhqZ2dqRjZ2blhTMlE?oc=5",
       "source": "Reuters Technology",
@@ -170,7 +172,7 @@
       "category": "robotics",
       "pubDate": "2026-10-21T16:56:09.000Z",
       "summary": "",
-      "titleZh": "英伟达黄仁勋称赞欧洲的人工智能潜力，两侧是机器人鸭子"
+      "titleZh": "英伟达黄仁勋称赞欧洲人工智能潜力，两侧是机器人鸭子"
     },
     {
       "title": "Voxel51 launches new data platform for robotics and physical AI",
@@ -179,7 +181,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-21T09:12:50.000Z",
-      "summary": "Voxel51推出3.0版数据平台，助力机器人与物理AI开发者管理海量现实世界数据。",
+      "summary": "Voxel51推出新数据平台，助力机器人与物理AI开发。",
       "summaryZh": "",
       "titleZh": "Voxel51 推出用于机器人和物理人工智能的新数据平台"
     },
@@ -190,7 +192,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-21T05:45:00.000Z",
-      "summary": "济南起步区抢抓机遇，打造具身智能产业发展新高地。",
+      "summary": "济南起步区聚焦人工智能等产业，打造具身智能产业发展新高地。",
       "summaryZh": ""
     },
     {
@@ -200,7 +202,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-21T08:39:47.000Z",
-      "summary": "天津电子信息职业技术学院引入AI技术，培养新型工程人才。",
+      "summary": "天津电子信息职业技术学院引入AI技术，提升工业机器人专业人才培养。",
       "summaryZh": ""
     }
   ]
