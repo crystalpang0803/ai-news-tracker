@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "generatedAt": "2026-10-23T21:19:37.952Z",
+  "generatedAt": "2026-10-23T22:38:11.340Z",
   "items": [
     {
       "title": "OpenAI 联合研究机构部署数千个 AI 智能体：32 分钟分析数百万个小鼠脑细胞，相当于人类数月时间",
@@ -10,16 +10,6 @@
       "category": "ai",
       "pubDate": "2026-10-23T14:43:44.000Z",
       "summary": "OpenAI联合研究机构利用AI智能体32分钟完成数百万小鼠脑细胞分析，效率远超人类。",
-      "summaryZh": ""
-    },
-    {
-      "title": "让你安心用 AI 网购 / 订票 / 点外卖：1Password 推出智能体密码授权功能",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nY2F5aUVIZ2Zsc2NabnRjSXQxb256bkJDRGdxeGV4M3lkVnpxV0Z5UWpxUmF1bW1FVDdNQ190UDVqZWhSQUh6anVhSDA?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-22T23:54:44.000Z",
-      "summary": "1Password推出智能体密码授权功能，保障AI操作密码安全。",
       "summaryZh": ""
     },
     {
@@ -39,97 +29,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-23T06:06:36.000Z",
-      "summary": "宁德时代投资的北京机器人创企松延动力秘密递交港交所IPO申请。",
+      "summary": "宁德时代投资的北京机器人公司松延动力秘密递交港交所IPO申请。",
       "summaryZh": ""
     },
     {
-      "title": "DeepSeek之后，StartLux再来：开源首个决策模型推理引擎，推理快至5.3倍",
-      "link": "https://zhidx.com/p/604121.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-23T11:50:11.000Z",
-      "summary": "StartLux开源决策模型推理引擎Prism，推理速度提升至5.3倍。",
-      "summaryZh": ""
-    },
-    {
-      "title": "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uWC1QNDZwWFN3WU10OEd0XzVNOE43TnFjeVI2N3ZfSTk2RGRmNUxFMGtUaHREWEVwaF9ENnpqN3lURGF3UEdwSmh1Mnh3c2prMkdxMg?oc=5",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-23T08:40:57.000Z",
-      "summary": "高德发布基于开放世界行为的全身基座模型λ0，提升机器人全身动作协调能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI购物智能体加速落地：Wizard接入Best Buy，沃尔玛开放通道，亚马逊拦截Meta Muse",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jV20wdGhieHJuS1JuV2VIQURhTW4yUjdDNTdMbmVjMGh5bDdUVzFnZ3Z4OVk0Nl8ydlpyejR6VzJTN0l0MHVtdEdwMnFlTnR5N2FOdw?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-23T13:46:00.000Z",
-      "summary": "AI购物智能体在沃尔玛开放通道，亚马逊拦截Meta Muse，但落地仍取决于零售商与用户授权。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Anthropic联合创始人：中国AI落后西方半年 大模型还太笨了",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YQmFIZWE5M3A5bURlR2p1WFlHR2h6X3VGdEVGTWRQLXBuN3p1djZOVl8wT3pnallIMHNLTm1iRmxjMlhCTzlIOVEyNzk4VWdyR21sSQ?oc=5",
+      "title": "AI 智能体疯狂入侵人类系统：十几起漏洞依次排开，AI真正攻破了哪一层?",
+      "link": "https://www.tmtpost.com/8179406.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-23T10:52:00.000Z",
-      "summary": "Anthropic联合创始人称中国AI落后西方半年，大模型性能不足。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国办发布重磅文件，拓展新兴领域人工智能就业新空间",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBncUdXelQxVHBpMkFaUGJzUy1PMG9SUi0wYmFZYU45a0NyNUEtX0ZmYXVHNGQ1VUNETDlyRW1LeWhBQWdEbGhlbGZ2eE1vWDRlZlpaUHBsZUc?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-23T09:55:52.000Z",
-      "summary": "国办发布文件，拓展人工智能领域就业新空间。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国务院办公厅印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UUF9RNF9QRXFtNnlrRkhUQm94LXhsZnNXUmR3VndjTjNTanZ1OVNOalR5ZE8wejRjZHppc2dHMldJNU5FYklldkRfQ2xTTXZaX0NB?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-23T09:03:55.000Z",
-      "summary": "国务院办公厅印发意见，推动AI技术助力构建就业友好型发展方式。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Anthropic据悉上半年净亏807亿美元 未来拟斥7500亿美元加码算力",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5MGRrUk9BRHdZa0NBZ2c5UHVRT3ZJNEZ0c0xGSkdmMEtnaWltVnhPb21MVW1qVUxUT0xXMTlHQ1dpbjNlWjdadA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-23T04:45:39.000Z",
-      "summary": "Anthropic上半年净亏807亿，计划未来7至10年再投7500亿加码算力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "上海：鼓励企业前瞻布局物理AI 重点突破世界模型构建、多模态物理感知、虚实交互与自主决策等核心技术",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14d3I4NnJEWnZ0aG9WRW4xM1FSbFBsMlhJdi1nNGE1WUF1bnZNZjRRX1Y1eVFYb3F1ejEtWUF1bTRrdTM2dEJSRw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-23T07:49:22.000Z",
-      "summary": "上海鼓励企业布局物理AI，攻关核心技术。",
-      "summaryZh": ""
-    },
-    {
-      "title": "海康威视前三季度净利增近四成 大模型产品落地多领域",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsZzBtLXhpOTk4NXBEcVIyazg5REkyeGpOTFBDcTNhTTlfY1FUQ2p4SW1wMGxXaDJPanVRQTRjdFRRZkhCTFJBM2FEb2xYMlJONHc2cUVVbmpqdw?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-23T10:59:00.000Z",
-      "summary": "海康威视前三季度净利增近四成，大模型产品多领域落地。",
+      "pubDate": "2026-10-23T10:30:32.000Z",
+      "summary": "AI智能体连续攻破多系统漏洞，引发安全担忧。",
       "summaryZh": ""
     },
     {
@@ -144,63 +54,59 @@
       "titleZh": "周五视频：四足机器人独自解决巨型魔方"
     },
     {
-      "title": "具身智能机器人应用技术员：给机器人当“老师”",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RdXVhT0xSUk0xTWVjbTRNeUxDM0hlRXNaQjEtRHJVYUstMG9aazN2QTNJWUtQeUpOUVdBNGo3WjRXbEctLXNodzI2YkY4TlpEbUpuZXdsc0xLaXd3SnptUTN4NkU1VWdTb2NpdEpiWTc0aVlCcWUtLVdHNmxVY00?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-23T12:32:04.000Z",
-      "summary": "具身智能机器人应用技术员通过搭建虚拟环境训练机器人，使其在真实场景中熟练操作。",
-      "summaryZh": ""
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-23T21:11:07.000Z",
+      "summary": "OpenAI训练前沿AI模型无需互联网接入。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 现在无需连接互联网即可训练其前沿人工智能模型"
     },
     {
-      "title": "工业机器人功能安全：从风险到韧性",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12ZGJlN0I3WGdJNW9MRUJPcUVtaFZ2TzZaZk9pTEQxU2YtTmJlTU1oMDMzVWNNdUVSb1hCTjVZcjNSYjRqYTAxNWQ2dnJLX3JLU3Uxdi1sbw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-23T02:33:00.000Z",
-      "summary": "工业机器人功能安全验证技术提升，风险控制转向韧性增强。",
-      "summaryZh": ""
+      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-23T16:26:29.000Z",
+      "summary": "Daytona完成60亿美元B轮融资，估值达10亿美元，由FirstMark领投。",
+      "summaryZh": "",
+      "titleZh": "代理云初创公司 Daytona 估值达到 10 亿美元，由 FirstMark 和天使名人录支持"
     },
     {
-      "title": "人形机器人打破博尔特纪录，赢在何处？",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TaEc3M2hLZWZyckpnZkRaLWk5YVYyUndPOEpxTjk1dUllZGYyemlLSjI2d21hSUUzQWN1Y09iZ1Y5aFM2ZTFpTlV4bF9rR0hod2dnOEdJVkgtTUF5bnBZ?oc=5",
-      "source": "财新网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-23T10:12:00.000Z",
-      "summary": "人形机器人打破博尔特百米纪录，综合技术体系领先。",
-      "summaryZh": ""
+      "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+      "link": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
+      "source": "CNBC Tech",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-23T12:39:27.000Z",
+      "summary": "OpenAI接近完成30亿美元融资，估值达1.25万亿美元，由阿联酋投资者领投。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 即将完成 300 亿美元融资，估值 1.25 万亿美元，由阿联酋投资者领投"
     },
     {
-      "title": "叠纸低调搞起了机器人，七个月前已开始招兵买马",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YeGpOWGZaVGt3ZWpWVWw0cXQwd3Y5Sm0zVEQ4VXN5aW51LWpoMm83MHN2ZVoxWEV4bFR5MVFEeVBncGVsTGNTNzhUZ0hLYnBudGlZ?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
+      "title": "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
+      "link": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
+      "source": "CNBC Tech",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-10-23T07:14:29.000Z",
-      "summary": ""
+      "pubDate": "2026-10-23T12:08:30.000Z",
+      "summary": "Nvidia GTC柏林峰会聚焦AI，CEO黄仁勋谈资本需求与挑战。",
+      "summaryZh": "",
+      "titleZh": "Nvidia 人工智能展示现场：詹森狂热、机器鸭子和 Neocloud 困境"
     },
     {
-      "title": "从GPU到机器人，英伟达正在押注AI的下半场",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSm1uT0dWNWFjRFo5dkJKOEpuXzZxZUI5dVMxVzd2NUZtamp3bU1KTlNaT202ME0wRUlMM3lEMHVMRkk2Ymc2d0xiQzc3ejZJUVFSYlM1MktUeDY0UURLM0RPT0FYYmpNQXNPVVROTW9rX2dzTlozdE5uMnJwdVdxWjY1YmxoZHZYUjRzNUNoMA?oc=5",
-      "source": "21财经",
-      "lang": "zh",
+      "title": "Flexible robot arms learn to predict their next move",
+      "link": "https://techxplore.com/news/2026-10-flexible-robot-arms.html",
+      "source": "Tech Xplore",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-10-23T08:05:00.000Z",
-      "summary": "英伟达CEO黄仁勋在GTC演讲中提出AI工厂概念，强调AI制造业的产业化难题。",
-      "summaryZh": ""
-    },
-    {
-      "title": "美团外卖：将给全国外卖商家赠送“AI店长”，部分试用商家已实现超30%增长",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VbkFOdUN6ODlvM3R0S0JOVkFNd3JheWFtWklUamRPSHNjZDVibk4yUDJUdTdFVFNPaTUycjJHV1U5SExXUEhyY2tPLWpZZ3ZVVzhtNDk1by1RMVdSM2FZNFRTdjV4dkJvWVphSVg5ZDk?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-23T04:59:32.000Z",
-      "summary": "美团外卖推出“AI店长”，部分商家营业额增长超30%。",
-      "summaryZh": ""
+      "pubDate": "2026-10-23T21:00:02.000Z",
+      "summary": "柔性机器人手臂学会预测下一步动作。",
+      "summaryZh": "",
+      "titleZh": "灵活的机器人手臂学习预测下一步行动"
     }
   ]
 }
