@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generatedAt": "2026-10-23T00:01:56.582Z",
+  "generatedAt": "2026-10-23T00:58:41.653Z",
   "items": [
     {
       "title": "物理AI进入爆发前夜？王兴兴、黄仁勋齐发声 机器人成重要落地场景",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-22T04:34:46.000Z",
-      "summary": "物理AI技术发展迅速，机器人成为重要应用场景。",
+      "summary": "物理AI技术进入爆发前夜，机器人成为重要应用场景。",
       "summaryZh": ""
     },
     {
@@ -19,7 +19,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-22T13:35:27.000Z",
-      "summary": "科大讯飞发布端云一体大模型讯飞星火X2.6，价格低于DeepSeek V4.1 Flash。",
+      "summary": "全国产芯片训练的大模型讯飞星火X2.6发布，百万上下文，价格低于DeepSeek V4.1 Flash。",
+      "summaryZh": ""
+    },
+    {
+      "title": "通用汽车：目标让旗下最畅销皮卡和 SUV 实现“脱眼”自动驾驶",
+      "link": "https://www.ithome.com/1/016/784.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-23T00:31:44.000Z",
+      "summary": "通用汽车计划为旗下皮卡和SUV引入无需注视路面的自动驾驶功能。",
       "summaryZh": ""
     },
     {
@@ -30,16 +40,6 @@
       "category": "robotics",
       "pubDate": "2026-10-22T23:38:12.000Z",
       "summary": "特斯拉计划为Optimus机器人建立训练基地，通过模仿人类学习方式提升其技能。",
-      "summaryZh": ""
-    },
-    {
-      "title": "我国今年前 8 个月手术机器人出口 6.72 亿元同比增长 272.92%，广东、上海全国领跑",
-      "link": "https://www.ithome.com/1/016/738.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-22T14:43:59.000Z",
-      "summary": "我国手术机器人出口额前8月达6.72亿元，同比增长272.92%，广东、上海领跑全国。",
       "summaryZh": ""
     },
     {
@@ -80,17 +80,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-22T03:12:22.000Z",
-      "summary": "王坚指出AI与机器人技术正迎来融合机遇。",
-      "summaryZh": ""
-    },
-    {
-      "title": "三星电机将获特斯拉、英伟达合计3.7万亿韩元投资，共建AI芯片基板产线-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VUFh5QlRKbzFJVk9CdVVrejJSVkJLZ1BaMEtNRnc3dGFZN3lPc1JmeXlBdUlWMmt1dTZDM2VickZzd1AzMGFpYzA4UjMyZ0lKdGhzSEloLUw4UU1IVFE?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-22T08:03:26.000Z",
-      "summary": "三星电机获特斯拉、英伟达3.7万亿韩元投资，共建AI芯片基板产线。",
+      "summary": "王坚指出AI与机器人技术路径融合，迎来结合新机遇。",
       "summaryZh": ""
     },
     {
@@ -103,13 +93,13 @@
       "summary": ""
     },
     {
-      "title": "别人养宠物花钱，这些年轻人养AI宠物月入十几万",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IUEstcFQxanlDRlctejQ5QVl4RWVHSWdXbk9VZTNLa1lhYjlfN0l4Z29OcFE4WGlpNWJEN3lZSE9tVWdOQlF6U2hTTS1TblFy?oc=5",
-      "source": "36氪",
+      "title": "被迫下场，Anthropic 推出个人 AI 助理 Claude Duet",
+      "link": "http://www.geekpark.net/news/372740",
+      "source": "极客公园",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-22T09:19:50.000Z",
-      "summary": "年轻人养AI宠物月入十几万，成为潮流。",
+      "category": "ai",
+      "pubDate": "2026-10-22T07:23:08.000Z",
+      "summary": "Anthropic推出个人AI助理Claude Duet，主打克制与判断力。",
       "summaryZh": ""
     },
     {
@@ -120,6 +110,16 @@
       "category": "ai",
       "pubDate": "2026-10-22T11:00:19.000Z",
       "summary": "上汽通用五菱与上海人工智能研究院签署战略合作协议，共建人工智能创新平台。",
+      "summaryZh": ""
+    },
+    {
+      "title": "别人养宠物花钱，这些年轻人养AI宠物月入十几万",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IUEstcFQxanlDRlctejQ5QVl4RWVHSWdXbk9VZTNLa1lhYjlfN0l4Z29OcFE4WGlpNWJEN3lZSE9tVWdOQlF6U2hTTS1TblFy?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-22T09:19:50.000Z",
+      "summary": "年轻人养AI宠物月入十几万，成为潮流现象。",
       "summaryZh": ""
     },
     {
@@ -134,23 +134,24 @@
       "titleZh": "Uber 将全部 30,000 名员工纳入 ChatGPT Work"
     },
     {
-      "title": "送餐机器人语音交互方案：从离线唤醒到云端大模型",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzZUVzRXNvZW1LLU9BZ29KX21ZeVVrc0ZSX0NKYW5JZll1V3JIOUFvejBpa1FUeHhndi1RZTNNZjdPRG43RHZMdXBWOVJBUy1iYnc3aW4yOA?oc=5",
-      "source": "与非网",
-      "lang": "zh",
+      "title": "Uber Deploys OpenAI Agents to All 30,000 Employees",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/uber-deploys-openai-agents-to-all-30000-employees/",
+      "source": "PYMNTS",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-10-22T00:54:43.000Z",
-      "summary": "送餐机器人语音交互方案实现离线唤醒至云端大模型转换。",
-      "summaryZh": ""
+      "pubDate": "2026-10-22T23:50:57.000Z",
+      "summary": "Uber向全球30000名员工部署OpenAI的ChatGPT工作代理。",
+      "summaryZh": "",
+      "titleZh": "Uber 为全部 30,000 名员工部署 OpenAI 代理"
     },
     {
-      "title": "港股物理AI概念延续涨势，黄仁勋GTC柏林演讲称智能体与物理AI加速落地",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTFdXOTBsa3Njc1lnSTBhOEN1RVdVangzbC1Cd1haLVM4TXV1N0xNbjhfVld6X2s1ekM4SWdzdEJabWhYby05SHM0RmlCVGMtVTNKZ1pMeVJ4NzV0UHlwRDExNDFab29Kb3ByNTVVVUpvcU9ib1I2N0Z4VU4tcndmZ2J4MWpHWXBXUG5VQUVfVQ?oc=5",
-      "source": "21财经",
+      "title": "OpenAI将把人工智能模型迁移到谷歌云平台",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5INXIwRTJjd3VUaUljMFdZV2d6LTZLeXIxTndmX00wc3hvdF9FUHlzV24xM1pYT0xNcG5aVzNKaURoWXhUOGcxN3lTVE9GNEZ6WVZVeg?oc=5",
+      "source": "腾讯科技",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-22T03:20:00.000Z",
-      "summary": "港股物理AI概念股涨，黄仁勋演讲称智能体与物理AI加速落地。",
+      "pubDate": "2026-10-22T01:54:00.000Z",
+      "summary": "OpenAI将人工智能模型迁移至谷歌云平台，拓展企业开发者市场。",
       "summaryZh": ""
     },
     {
@@ -164,13 +165,23 @@
       "summaryZh": ""
     },
     {
+      "title": "大模型加快上车智能网联落地尚需打通堵点",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43RTIwSU1hb1BpR09uN0NtRHlTVTVxc0Y2Y2I2NUl6MFotMkdKV1Axa0gwRlVCQUVqR1hFTGhPZjZERm1QbXFCSkg2aVAxRGcxV0VEWVZBbTV4dC1qNldaYUNJVUljMFRQekNGQ2RLVU1NVWJfZkdn?oc=5",
+      "source": "中国经济网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-22T23:35:00.000Z",
+      "summary": "智能网联汽车大模型落地需解决商业化堵点。",
+      "summaryZh": ""
+    },
+    {
       "title": "Unitree Shortens Its Embodied-AI Clock—and Opens a Global Contest",
       "link": "https://www.tmtpost.com/8178216.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-22T23:24:04.000Z",
-      "summary": "Unitree缩短了其具身AI研发周期，并开启全球竞赛。",
+      "summary": "Unitree缩短了具身AI研发周期，并开启全球竞赛。",
       "summaryZh": ""
     },
     {
