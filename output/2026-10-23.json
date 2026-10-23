@@ -1,65 +1,55 @@
 {
   "date": "2026-10-23",
-  "generatedAt": "2026-10-23T00:58:41.653Z",
+  "generatedAt": "2026-10-23T04:57:46.706Z",
   "items": [
     {
-      "title": "物理AI进入爆发前夜？王兴兴、黄仁勋齐发声 机器人成重要落地场景",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04c0xXX2I1N1ZDblhPM3ZOeEZjNHlYYUZ1S3JwUXFuRWxmSTFPUkV3RHotbHRCLUNvMlVIUGpaMEdZNEFWanJhRA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-22T04:34:46.000Z",
-      "summary": "物理AI技术进入爆发前夜，机器人成为重要应用场景。",
-      "summaryZh": ""
-    },
-    {
-      "title": "全国产芯片训练的大模型来了！百万上下文，价格比DeepSeek V4.1 Flash更低",
-      "link": "https://zhidx.com/p/603664.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-22T13:35:27.000Z",
-      "summary": "全国产芯片训练的大模型讯飞星火X2.6发布，百万上下文，价格低于DeepSeek V4.1 Flash。",
-      "summaryZh": ""
-    },
-    {
-      "title": "通用汽车：目标让旗下最畅销皮卡和 SUV 实现“脱眼”自动驾驶",
-      "link": "https://www.ithome.com/1/016/784.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-23T00:31:44.000Z",
-      "summary": "通用汽车计划为旗下皮卡和SUV引入无需注视路面的自动驾驶功能。",
-      "summaryZh": ""
-    },
-    {
-      "title": "特斯拉要为 Optimus 建“学校”，马斯克称训练机器人就像育儿",
-      "link": "https://www.ithome.com/1/016/769.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-22T23:38:12.000Z",
-      "summary": "特斯拉计划为Optimus机器人建立训练基地，通过模仿人类学习方式提升其技能。",
-      "summaryZh": ""
-    },
-    {
-      "title": "钛晨报《对外投资管理办法》12月1日起施行，投资者范围明确含居民个人；DeepSeek据称完成1000亿元融资，宁德时代和腾讯参投；宁德时代董秘被打？知情人士回应",
-      "link": "https://www.tmtpost.com/8178065.html",
+      "title": "人形机器人租金暴跌，厂商为什么还在铺渠道？",
+      "link": "https://www.tmtpost.com/8177860.html",
       "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-22T23:20:00.000Z",
-      "summary": "《对外投资管理办法》12月1日起施行，DeepSeek完成百亿融资，宁德时代董秘被打事件有新进展。",
+      "category": "robotics",
+      "pubDate": "2026-10-23T03:20:00.000Z",
+      "summary": "人形机器人租金暴跌，厂商加紧铺渠道以提升交付与使用能力。",
       "summaryZh": ""
     },
     {
-      "title": "八部门：加强产业基础领域通用大模型和行业大模型研发布局推动工业机理与智能体决策模型融合",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SX2pDVU5SRXhHclMxdXZTNUZPNXgzUnEwWXRjODIydklZZkJTdzUxRkZ5dFVkV3FNS1NwTG80Zk55ZzlzOEZiZA?oc=5",
+      "title": "报告称 2026 年国内大模型均价翻倍，每秒吞吐量也翻倍",
+      "link": "https://www.ithome.com/1/016/876.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-23T03:51:58.000Z",
+      "summary": "2026年国内大模型均价和吞吐量均翻倍。",
+      "summaryZh": ""
+    },
+    {
+      "title": "DeepSeek 完成千亿元人民币新一轮融资，消息称“联想系”投资者入局",
+      "link": "https://www.ithome.com/1/016/875.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-23T03:50:10.000Z",
+      "summary": "DeepSeek完成千亿元新一轮融资，联想系投资者加入。",
+      "summaryZh": ""
+    },
+    {
+      "title": "赶在Anthropic IPO前：OpenAI据悉加速融资 估值或超1.4万亿美元",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04cUVKYUFKejZva0N0bmczaXljMzgzSHRVTkFJNFJMN1lySUt6OXBUX0tIcFVtZHBqZ01Xd2RCa0JJZF9kOHVGdg?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-22T02:19:18.000Z",
-      "summary": "八部门推动产业基础领域大模型研发，融合工业机理与智能决策模型。",
+      "pubDate": "2026-10-22T06:52:10.000Z",
+      "summary": "OpenAI加速融资，估值可能超1.4万亿美元，抢在Anthropic IPO前锁定投资。",
+      "summaryZh": ""
+    },
+    {
+      "title": "荣耀亮相 CEIC：Magic9 领衔 AI 智能体手机 全场景 AI 生态加速落地",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9faDlNckprb0hsejRvQzMxRGtzRkdnZm9BbW05VjZfTnc4SG9GY3NCMjFHVTFOUEtxS1JOLXlNVFBLM3p0WUhzb0JFZGpqRENTdnZPamNOLVpBQlItQmlmd01Qd0R0cElyUWkwbDlkNWlEMDR1?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-23T04:41:13.000Z",
+      "summary": "荣耀Magic9系列亮相CEIC，展示全场景AI生态及YOYO智能体技术。",
       "summaryZh": ""
     },
     {
@@ -74,14 +64,42 @@
       "titleZh": "OpenAI 致力于在 IPO 前以 1.25T 美元的估值进行新的 30B 美元融资"
     },
     {
-      "title": "王坚：AI与机器人正迎来进一步结合的机会",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wQVZvSzFMTnhXdGRaN1BIaXExRzFzRmx2NnhJZUpUSEZjSzBrclRZVXZORVd5TGFlNnVoUW4zbWs1bFFVMDNHNVozMlR2Yk8tVjBBM1N6bHE?oc=5",
+      "title": "易启未来AI按摩机器人切入银发康养，商业模式取决于利用率与复购",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5cTBBMHNFeHNhNFpSTjA5and0Q2NodzcySzEwV0VGSFoySEZIMUhWNlJQMUw0NHc3VzVCZzNHMUloRnFPdlR3eVFtM3VWMVBzcDFMRA?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-23T02:46:54.000Z",
+      "summary": ""
+    },
+    {
+      "title": "宇树王兴兴：希望未来机器人能完成80%任务，物理AI最快一到两年实现突破",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ga2RlQVEtQVFkVG53Ri1vcHlsZndRNlFwdURMcTZCaWFzTGtXcUpDU2lERE5DN1E1V2dqZTFkeFVaOFBxMW1uaFh5dHI0bUpSWE9lZmx4UktWVVVRRUpwdQ?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-22T03:12:22.000Z",
-      "summary": "王坚指出AI与机器人技术路径融合，迎来结合新机遇。",
+      "pubDate": "2026-10-22T07:27:10.000Z",
+      "summary": "宇树科技CEO王兴兴预测物理AI将在一到两年内实现突破，机器人未来可完成80%任务。",
       "summaryZh": ""
+    },
+    {
+      "title": "什么？一个人就能训练大模型，指标还能硬刚K3V4？",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vV1hxS3dLem4ta3RQTVZ5VDJOQXd5ZWF3aXZrZUJwa2xTTzZ4WTdpYWlHQ2FkbVhiakxmeFp5aUY1SFJHMDR1OXFiZ2twQ3BU?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-23T04:19:42.000Z",
+      "summary": "Mirendil公司一人团队训练出千亿参数模型，部分指标逼近主流一线模型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "具身智能最好变现机会：全力卖给大模型公司",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56WUdKT0FxOHp0MFFGMVJrZXRoZDlnWEdZQWY3Q0d6aEJJb084SkVDQjR4dU9uMWp5TGFDSGVDRER4akFzalNETmtRSQ?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-22T10:23:00.000Z",
+      "summary": ""
     },
     {
       "title": "新石器完成近4亿美元E轮融资，国家人工智能产业投资基金领投无人配送赛道",
@@ -99,7 +117,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-22T07:23:08.000Z",
-      "summary": "Anthropic推出个人AI助理Claude Duet，主打克制与判断力。",
+      "summary": "Anthropic发布个人AI助理Claude Duet，主打主动判断与用户协作。",
+      "summaryZh": ""
+    },
+    {
+      "title": "DeepSeek 开源看家算子的同一周，AI 超过了它",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkZ3ZndHpoQjZpUjVaZENrb0RfQXQzZmlDN2NFNmxMQ3FOSl9BZlh5YUtzbFd3cUNXaGdmbDY5VE9nck5LMmdPSUxlMA?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-22T13:10:18.000Z",
+      "summary": "DeepSeek开源算子后，AI刷新性能记录。",
       "summaryZh": ""
     },
     {
@@ -113,95 +141,13 @@
       "summaryZh": ""
     },
     {
-      "title": "别人养宠物花钱，这些年轻人养AI宠物月入十几万",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IUEstcFQxanlDRlctejQ5QVl4RWVHSWdXbk9VZTNLa1lhYjlfN0l4Z29OcFE4WGlpNWJEN3lZSE9tVWdOQlF6U2hTTS1TblFy?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-22T09:19:50.000Z",
-      "summary": "年轻人养AI宠物月入十几万，成为潮流现象。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-22T16:00:00.000Z",
-      "summary": "Uber宣布全球3万名员工将使用ChatGPT Work。",
-      "summaryZh": "",
-      "titleZh": "Uber 将全部 30,000 名员工纳入 ChatGPT Work"
-    },
-    {
-      "title": "Uber Deploys OpenAI Agents to All 30,000 Employees",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/uber-deploys-openai-agents-to-all-30000-employees/",
-      "source": "PYMNTS",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-22T23:50:57.000Z",
-      "summary": "Uber向全球30000名员工部署OpenAI的ChatGPT工作代理。",
-      "summaryZh": "",
-      "titleZh": "Uber 为全部 30,000 名员工部署 OpenAI 代理"
-    },
-    {
-      "title": "OpenAI将把人工智能模型迁移到谷歌云平台",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5INXIwRTJjd3VUaUljMFdZV2d6LTZLeXIxTndmX00wc3hvdF9FUHlzV24xM1pYT0xNcG5aVzNKaURoWXhUOGcxN3lTVE9GNEZ6WVZVeg?oc=5",
-      "source": "腾讯科技",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-22T01:54:00.000Z",
-      "summary": "OpenAI将人工智能模型迁移至谷歌云平台，拓展企业开发者市场。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国家统计局：人工智能加快落地，成为经济增长新引擎",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwdi1WbTY1azF1ZjYwLTd6ZzN3OVI5bjhmUHViVlcyX2JjbVNIbS1Gd0JKX1BtNWZseVVteDllMnl5bXRGOGNtLUZ6alRRUVpMZkNkVGFHS3R2RWlqSnRMVQ?oc=5",
-      "source": "光明网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-22T17:28:00.000Z",
-      "summary": "国家统计局称，人工智能加速落地，成为推动经济增长的新引擎。",
-      "summaryZh": ""
-    },
-    {
-      "title": "大模型加快上车智能网联落地尚需打通堵点",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43RTIwSU1hb1BpR09uN0NtRHlTVTVxc0Y2Y2I2NUl6MFotMkdKV1Axa0gwRlVCQUVqR1hFTGhPZjZERm1QbXFCSkg2aVAxRGcxV0VEWVZBbTV4dC1qNldaYUNJVUljMFRQekNGQ2RLVU1NVWJfZkdn?oc=5",
-      "source": "中国经济网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-22T23:35:00.000Z",
-      "summary": "智能网联汽车大模型落地需解决商业化堵点。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Unitree Shortens Its Embodied-AI Clock—and Opens a Global Contest",
-      "link": "https://www.tmtpost.com/8178216.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-22T23:24:04.000Z",
-      "summary": "Unitree缩短了具身AI研发周期，并开启全球竞赛。",
-      "summaryZh": ""
-    },
-    {
-      "title": "人形机器人股价狂奔，宇树却先给行业泼了一盆冷水",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UUVZQNzlWenc3WlZ0NEFSdDRHNDZXOE0xd2dleGVfYmxiSGNLYXpzcUNEV3ZkbWUyR0Q2aDVsSjZVcms2Q19xcVVvN18zNkdVME56TkFXSQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-22T14:07:46.000Z",
-      "summary": "宇树科技对人形机器人行业前景表示谨慎。",
-      "summaryZh": ""
-    },
-    {
       "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
       "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
       "source": "Wired",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-22T13:00:00.000Z",
-      "summary": "日本初创公司OKA推出名为Mori的机器人蘑菇灯，可观察用户活动并播放自然声音。",
+      "summary": "日本初创公司OKA推出名为Mori的机器人蘑菇灯，可观察用户并播放自然声音。",
       "summaryZh": "",
       "titleZh": "来认识一下森，一个可爱的机器人蘑菇，它不会说（或做）任何事情"
     },
@@ -243,8 +189,28 @@
       "source": "东方财富网",
       "lang": "zh",
       "category": "application",
-      "pubDate": "2026-10-22T09:02:30.000Z",
-      "summary": "国民养老总经理黄涛提出养老金融应普惠，AI拓宽服务边界。",
+      "pubDate": "2026-10-22T06:02:43.000Z",
+      "summary": "国民养老总经理黄涛提出养老金融应普惠，AI拓宽服务边界但保险本质不变。",
+      "summaryZh": ""
+    },
+    {
+      "title": "全球具身智能已来到“标准先行、规则定局”关键期",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tVzUyMFVKYUhHd3NfeWlSVVJraXRZd2p1U1BMSU9KR19oTXFmeWRmbE5zUm9KYWg0czVTUGpsRlEydXA5bmJ0TWVZekgwSUpzdlFqZ3Zfaw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-22T08:43:03.000Z",
+      "summary": "全球具身智能进入标准制定和规则确立的关键阶段。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人“陪玩”考验哪些真本事",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50aUV3Q09aNWNrQUFqNHBOQlozQ1hXcEs1UTN3c2N3bGlKdHVaWjR0WHdpc2x1WnRRUUVfUlplcFVNWjZIQWhadWpneGkwcFlTc2hXdmRpZnM3ZUYtMUJSRE9ZdGNROC1LMXV0M1M2azl1WTBJQXFLQg?oc=5",
+      "source": "央视网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-22T08:02:50.000Z",
+      "summary": "珠海横琴长隆飞船乐园启用超300台机器人“陪玩”，推动具身智能技术进入文旅服务领域。",
       "summaryZh": ""
     }
   ]
