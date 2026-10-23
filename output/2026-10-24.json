@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "generatedAt": "2026-10-23T19:56:08.416Z",
+  "generatedAt": "2026-10-23T21:19:37.952Z",
   "items": [
     {
       "title": "OpenAI 联合研究机构部署数千个 AI 智能体：32 分钟分析数百万个小鼠脑细胞，相当于人类数月时间",
@@ -19,27 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-22T23:54:44.000Z",
-      "summary": "1Password推出智能体密码授权功能，保障AI操作账户安全。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI给GPT-6装上“快脑”！100毫秒做决策，API全面开放",
-      "link": "https://zhidx.com/p/604023.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-23T08:21:34.000Z",
-      "summary": "OpenAI推出GPT-6决策接口，响应时间缩短至100毫秒。",
-      "summaryZh": ""
-    },
-    {
-      "title": "寒武纪：将继续围绕面向大模型的芯片和软件平台项目等巩固并扩大在人工智能算力领域的技术领先优势",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00Z3oxc0sxY0t0TmIzTE9xSWlNcWI0R2RDNTRGWExHZTZ2TGk0RW1CN09mRVpWOERFb0JtUEdURnRVV3Z1SGU5eFBSTTF6LU9Ga0F2cA?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-23T12:53:00.000Z",
-      "summary": "寒武纪将加大研发投入，巩固人工智能算力领域技术领先优势。",
+      "summary": "1Password推出智能体密码授权功能，保障AI操作密码安全。",
       "summaryZh": ""
     },
     {
@@ -59,17 +39,37 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-23T06:06:36.000Z",
-      "summary": "宁德时代投资的北京机器人公司松延动力秘密递交港交所IPO申请。",
+      "summary": "宁德时代投资的北京机器人创企松延动力秘密递交港交所IPO申请。",
       "summaryZh": ""
     },
     {
-      "title": "AI漫剧的老板们在给算力打工-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZbVVRaS11M0wxYzFhSlFlZ05Vek8zUHR6ODNxcWpPS2tGVkVBQUp6MzNlSUpkQ1ZiRXl5Q2xUN09zNGxFZGV5cTAwTzhDQlcz?oc=5",
-      "source": "36氪",
+      "title": "DeepSeek之后，StartLux再来：开源首个决策模型推理引擎，推理快至5.3倍",
+      "link": "https://zhidx.com/p/604121.html",
+      "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-23T07:47:43.000Z",
-      "summary": "AI漫剧制作成本降低，但算力成本上升，老板们面临利润压力。",
+      "pubDate": "2026-10-23T11:50:11.000Z",
+      "summary": "StartLux开源决策模型推理引擎Prism，推理速度提升至5.3倍。",
+      "summaryZh": ""
+    },
+    {
+      "title": "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uWC1QNDZwWFN3WU10OEd0XzVNOE43TnFjeVI2N3ZfSTk2RGRmNUxFMGtUaHREWEVwaF9ENnpqN3lURGF3UEdwSmh1Mnh3c2prMkdxMg?oc=5",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-23T08:40:57.000Z",
+      "summary": "高德发布基于开放世界行为的全身基座模型λ0，提升机器人全身动作协调能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI购物智能体加速落地：Wizard接入Best Buy，沃尔玛开放通道，亚马逊拦截Meta Muse",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jV20wdGhieHJuS1JuV2VIQURhTW4yUjdDNTdMbmVjMGh5bDdUVzFnZ3Z4OVk0Nl8ydlpyejR6VzJTN0l0MHVtdEdwMnFlTnR5N2FOdw?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-23T13:46:00.000Z",
+      "summary": "AI购物智能体在沃尔玛开放通道，亚马逊拦截Meta Muse，但落地仍取决于零售商与用户授权。",
       "summaryZh": ""
     },
     {
@@ -79,7 +79,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-23T10:52:00.000Z",
-      "summary": "Anthropic联合创始人称中国AI落后西方半年，大模型存在不足。",
+      "summary": "Anthropic联合创始人称中国AI落后西方半年，大模型性能不足。",
       "summaryZh": ""
     },
     {
@@ -99,7 +99,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-23T09:03:55.000Z",
-      "summary": "国务院办公厅印发意见，推动AI技术发展助力构建就业友好型发展方式。",
+      "summary": "国务院办公厅印发意见，推动AI技术助力构建就业友好型发展方式。",
       "summaryZh": ""
     },
     {
@@ -109,7 +109,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-23T04:45:39.000Z",
-      "summary": "Anthropic上半年净亏807亿美元，计划未来7至10年再投入7500亿美元加码算力。",
+      "summary": "Anthropic上半年净亏807亿，计划未来7至10年再投7500亿加码算力。",
       "summaryZh": ""
     },
     {
@@ -119,17 +119,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-23T07:49:22.000Z",
-      "summary": "上海鼓励企业布局物理AI，攻关世界模型等核心技术。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国民养老总经理黄涛：AI技术的快速普及，正在深刻重塑养老金融的服务边界-手机金融界",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fOUpCOVpWam1MQmxHdlRXOVRaVFJXSzU1UmpONDVJNU1hSnF2cDZBT2Z3Q3Npbk5WZVBPWmxMMWQzNTFKU3FycTg3R0gzZERIQWU2NGoyT0locERTOHVRV0lLNXBGMy1JWld2bldrQ3RyUzl0dXNj?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-23T13:11:50.000Z",
-      "summary": "AI技术重塑养老金融服务边界，提升普惠性。",
+      "summary": "上海鼓励企业布局物理AI，攻关核心技术。",
       "summaryZh": ""
     },
     {
@@ -160,7 +150,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-23T12:32:04.000Z",
-      "summary": "具身智能机器人应用技术员通过训练和测试，使机器人从虚拟环境走向实际应用场景。",
+      "summary": "具身智能机器人应用技术员通过搭建虚拟环境训练机器人，使其在真实场景中熟练操作。",
       "summaryZh": ""
     },
     {
@@ -199,7 +189,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-23T08:05:00.000Z",
-      "summary": "英伟达CEO黄仁勋在GTC演讲中展示AI机器人，强调AI产业化难题及AI工厂概念。",
+      "summary": "英伟达CEO黄仁勋在GTC演讲中提出AI工厂概念，强调AI制造业的产业化难题。",
       "summaryZh": ""
     },
     {
