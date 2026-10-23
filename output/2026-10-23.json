@@ -1,25 +1,15 @@
 {
   "date": "2026-10-23",
-  "generatedAt": "2026-10-22T22:45:18.915Z",
+  "generatedAt": "2026-10-23T00:01:56.582Z",
   "items": [
     {
-      "title": "亚马逊云科技Ozgur Tohumcu：决定物理AI规模化落地速度的，往往不是技术本身",
-      "link": "https://www.tmtpost.com/8177096.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-22T12:06:46.000Z",
-      "summary": "物理AI规模化落地速度受非技术因素制约。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Allegro MicroSystems 推出 48V 电源管理与高精度传感器解决方案，赋能人形机器人“具身智能”硬件革新",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJRUdoYjZ0LVJQQzBMWDVWSl9rbHFRTDNpb2dMSjJ5UXk0aVpHNGU4N1lKdk9QN3RNM2NLSkV0YlI2QTRUZmdDMThVc3BGTXA3Qm8zdDY5Yw?oc=5",
-      "source": "与非网",
+      "title": "物理AI进入爆发前夜？王兴兴、黄仁勋齐发声 机器人成重要落地场景",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04c0xXX2I1N1ZDblhPM3ZOeEZjNHlYYUZ1S3JwUXFuRWxmSTFPUkV3RHotbHRCLUNvMlVIUGpaMEdZNEFWanJhRA?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-21T23:10:22.000Z",
-      "summary": "Allegro MicroSystems发布48V电源管理及高精度传感器方案，助力人形机器人硬件升级。",
+      "pubDate": "2026-10-22T04:34:46.000Z",
+      "summary": "物理AI技术发展迅速，机器人成为重要应用场景。",
       "summaryZh": ""
     },
     {
@@ -29,7 +19,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-22T13:35:27.000Z",
-      "summary": "国产芯片训练大模型发布，百万上下文，价格低于DeepSeek V4.1 Flash。",
+      "summary": "科大讯飞发布端云一体大模型讯飞星火X2.6，价格低于DeepSeek V4.1 Flash。",
+      "summaryZh": ""
+    },
+    {
+      "title": "特斯拉要为 Optimus 建“学校”，马斯克称训练机器人就像育儿",
+      "link": "https://www.ithome.com/1/016/769.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-22T23:38:12.000Z",
+      "summary": "特斯拉计划为Optimus机器人建立训练基地，通过模仿人类学习方式提升其技能。",
       "summaryZh": ""
     },
     {
@@ -43,23 +43,23 @@
       "summaryZh": ""
     },
     {
-      "title": "3899 → 2399 元：石头 P20 Ultra 活水版扫拖机器人官方新低",
-      "link": "https://www.ithome.com/1/016/636.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-22T10:22:09.000Z",
-      "summary": "石头P20 Ultra活水版扫拖机器人官方降至2399元新低。",
-      "summaryZh": ""
-    },
-    {
-      "title": "大模型公司DeepSeek拟在最新一轮融资中筹得约1000亿元人民币",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MdjdHSTI0TVBsUUMxTDFyUEhnMVZRUUFZOUluWWtOWkxSMGhrRFVldFY3ekFJTDQ5bV9oR2hZQVRoSHR6Z0pIOEJ3WkZKZ29teVNQRTVCUnp5UQ?oc=5",
+      "title": "钛晨报《对外投资管理办法》12月1日起施行，投资者范围明确含居民个人；DeepSeek据称完成1000亿元融资，宁德时代和腾讯参投；宁德时代董秘被打？知情人士回应",
+      "link": "https://www.tmtpost.com/8178065.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-22T12:21:00.000Z",
-      "summary": "DeepSeek拟在最新一轮融资中筹得约1000亿元人民币。",
+      "pubDate": "2026-10-22T23:20:00.000Z",
+      "summary": "《对外投资管理办法》12月1日起施行，DeepSeek完成百亿融资，宁德时代董秘被打事件有新进展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "八部门：加强产业基础领域通用大模型和行业大模型研发布局推动工业机理与智能体决策模型融合",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SX2pDVU5SRXhHclMxdXZTNUZPNXgzUnEwWXRjODIydklZZkJTdzUxRkZ5dFVkV3FNS1NwTG80Zk55ZzlzOEZiZA?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-22T02:19:18.000Z",
+      "summary": "八部门推动产业基础领域大模型研发，融合工业机理与智能决策模型。",
       "summaryZh": ""
     },
     {
@@ -69,19 +69,9 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-10-22T22:08:24.000Z",
-      "summary": "OpenAI正筹备30亿美元融资，估值达1.25万亿美元，计划在IPO前完成。",
+      "summary": "OpenAI正筹备30亿美元融资，估值达1.25万亿美元，暂不急于IPO。",
       "summaryZh": "",
       "titleZh": "OpenAI 致力于在 IPO 前以 1.25T 美元的估值进行新的 30B 美元融资"
-    },
-    {
-      "title": "雷军投的机器人芯片公司，年内融资超25亿",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44ZWVDSFhDZXlydmY1RkNueGduRTdpTWdPTG9LOFJUMHpoZEhYNkg4NlRha2l2QWF4SGR2ek1VdjBOT2RfempsZg?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-22T03:32:20.000Z",
-      "summary": "雷军投资机器人芯片公司辉羲智能年内融资超25亿，资金将用于新一代芯片研发。",
-      "summaryZh": ""
     },
     {
       "title": "王坚：AI与机器人正迎来进一步结合的机会",
@@ -90,7 +80,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-22T03:12:22.000Z",
-      "summary": "王坚指出AI与机器人技术正走向深度融合。",
+      "summary": "王坚指出AI与机器人技术正迎来融合机遇。",
       "summaryZh": ""
     },
     {
@@ -110,18 +100,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-22T11:25:44.000Z",
-      "summary": "新石器完成近4亿美元E轮融资，国家AI产业基金领投无人配送赛道。",
-      "summaryZh": ""
-    },
-    {
-      "title": "被迫下场，Anthropic 推出个人 AI 助理 Claude Duet",
-      "link": "http://www.geekpark.net/news/372740",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-22T07:23:08.000Z",
-      "summary": "Anthropic推出个人AI助理Claude Duet，主打主动判断和克制功能。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "别人养宠物花钱，这些年轻人养AI宠物月入十几万",
@@ -130,7 +109,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-22T09:19:50.000Z",
-      "summary": "年轻人养AI宠物月入十几万，成为潮流现象。",
+      "summary": "年轻人养AI宠物月入十几万，成为潮流。",
       "summaryZh": ""
     },
     {
@@ -144,36 +123,6 @@
       "summaryZh": ""
     },
     {
-      "title": "八部门：加强产业基础领域通用大模型和行业大模型研发布局",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LMjJFWkpfQzFVUWVzZHl5R2pZbDFpODh6anVlRUY1Z3lNcmhzaVBybTFfc3Z4Q29iY21MbHg4YkliaGpMOV80QmZ4R0lrMzAxUVVF?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-22T02:12:54.000Z",
-      "summary": "八部门规划加强通用和行业大模型研发。",
-      "summaryZh": ""
-    },
-    {
-      "title": "黄仁勋：AI算力需求极其旺盛 但资本短缺制约“新云”扩张",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LRUF1dHVfQ00zVlFkakZ0LUpqcnhnSzdPbks0SVNfeDVZWnlzV09HaWlKbC1aeHRyM1ZRZ1I0c3JzdDFuSmVnTw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-22T12:00:07.000Z",
-      "summary": "AI算力需求旺盛，资本短缺制约新云行业扩张。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Muse点燃AI增长新叙事！Meta财报会：一年内算力效率将提升十倍 数年内实现高额盈利",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaVGdrWm51aGdKNlBBN0tHUXh0ZXhUOE9VMEtSek90Vmt4SmxpTWNVQVBqTENFcTJ6XzhCdWZ2RWgyQmdhYl92NQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-22T00:53:57.000Z",
-      "summary": "Meta计划一年内将Muse算力效率提升十倍，数年内实现高额盈利。",
-      "summaryZh": ""
-    },
-    {
       "title": "Uber puts all 30,000 employees on ChatGPT Work",
       "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
       "source": "TechCrunch",
@@ -183,6 +132,46 @@
       "summary": "Uber宣布全球3万名员工将使用ChatGPT Work。",
       "summaryZh": "",
       "titleZh": "Uber 将全部 30,000 名员工纳入 ChatGPT Work"
+    },
+    {
+      "title": "送餐机器人语音交互方案：从离线唤醒到云端大模型",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzZUVzRXNvZW1LLU9BZ29KX21ZeVVrc0ZSX0NKYW5JZll1V3JIOUFvejBpa1FUeHhndi1RZTNNZjdPRG43RHZMdXBWOVJBUy1iYnc3aW4yOA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-22T00:54:43.000Z",
+      "summary": "送餐机器人语音交互方案实现离线唤醒至云端大模型转换。",
+      "summaryZh": ""
+    },
+    {
+      "title": "港股物理AI概念延续涨势，黄仁勋GTC柏林演讲称智能体与物理AI加速落地",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTFdXOTBsa3Njc1lnSTBhOEN1RVdVangzbC1Cd1haLVM4TXV1N0xNbjhfVld6X2s1ekM4SWdzdEJabWhYby05SHM0RmlCVGMtVTNKZ1pMeVJ4NzV0UHlwRDExNDFab29Kb3ByNTVVVUpvcU9ib1I2N0Z4VU4tcndmZ2J4MWpHWXBXUG5VQUVfVQ?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-22T03:20:00.000Z",
+      "summary": "港股物理AI概念股涨，黄仁勋演讲称智能体与物理AI加速落地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国家统计局：人工智能加快落地，成为经济增长新引擎",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwdi1WbTY1azF1ZjYwLTd6ZzN3OVI5bjhmUHViVlcyX2JjbVNIbS1Gd0JKX1BtNWZseVVteDllMnl5bXRGOGNtLUZ6alRRUVpMZkNkVGFHS3R2RWlqSnRMVQ?oc=5",
+      "source": "光明网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-22T17:28:00.000Z",
+      "summary": "国家统计局称，人工智能加速落地，成为推动经济增长的新引擎。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Unitree Shortens Its Embodied-AI Clock—and Opens a Global Contest",
+      "link": "https://www.tmtpost.com/8178216.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-22T23:24:04.000Z",
+      "summary": "Unitree缩短了其具身AI研发周期，并开启全球竞赛。",
+      "summaryZh": ""
     },
     {
       "title": "人形机器人股价狂奔，宇树却先给行业泼了一盆冷水",
@@ -236,6 +225,16 @@
       "summary": "Infineon宣布意大利初创公司AdapTronics赢得人形机器人创业挑战赛。",
       "summaryZh": "",
       "titleZh": "英飞凌公布人形机器人创业挑战赛获胜者"
+    },
+    {
+      "title": "国民养老总经理黄涛：养老金融要做普惠 AI拓宽的是服务边界",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3a0M3UzVhX0JiSlZBN1UtbHR5M1FpTEdDUVBOc2dFeENvN3Z4N0dWX1VfbEdUX00wX2JiNy1uSG1mUUZaeUtQbXUtMnBWNnVjZWxjandqcnRHNnI1dGp0V25DOG1NQQ?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-22T09:02:30.000Z",
+      "summary": "国民养老总经理黄涛提出养老金融应普惠，AI拓宽服务边界。",
+      "summaryZh": ""
     }
   ]
 }
