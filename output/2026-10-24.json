@@ -1,7 +1,17 @@
 {
   "date": "2026-10-24",
-  "generatedAt": "2026-10-23T22:38:11.340Z",
+  "generatedAt": "2026-10-23T23:53:26.235Z",
   "items": [
+    {
+      "title": "Kimi K3.1 Pro 正式发布：月之暗面最强 3 万亿级模型，编程智能体测评超 GPT-6",
+      "link": "https://www.ithome.com/1/017/284.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-23T23:08:43.000Z",
+      "summary": "Kimi K3.1 Pro发布，3万亿级模型编程智能体测评超GPT-6。",
+      "summaryZh": ""
+    },
     {
       "title": "OpenAI 联合研究机构部署数千个 AI 智能体：32 分钟分析数百万个小鼠脑细胞，相当于人类数月时间",
       "link": "https://www.ithome.com/1/017/274.htm",
@@ -13,13 +23,23 @@
       "summaryZh": ""
     },
     {
-      "title": "智元两年投出47笔融资，多数投给了自家机器人的上游",
-      "link": "https://www.tmtpost.com/8178163.html",
-      "source": "钛媒体",
+      "title": "OpenAI给GPT-6装上“快脑”！100毫秒做决策，API全面开放",
+      "link": "https://zhidx.com/p/604023.html",
+      "source": "智东西",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-23T10:19:48.000Z",
-      "summary": "智元两年内投资47笔，多投自家机器人上游产业链。",
+      "category": "ai",
+      "pubDate": "2026-10-23T08:21:34.000Z",
+      "summary": "OpenAI推出GPT-6决策接口，响应时间缩短至100毫秒。",
+      "summaryZh": ""
+    },
+    {
+      "title": "寒武纪：将继续围绕面向大模型的芯片和软件平台项目等巩固并扩大在人工智能算力领域的技术领先优势",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00Z3oxc0sxY0t0TmIzTE9xSWlNcWI0R2RDNTRGWExHZTZ2TGk0RW1CN09mRVpWOERFb0JtUEdURnRVV3Z1SGU5eFBSTTF6LU9Ga0F2cA?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-23T12:53:00.000Z",
+      "summary": "寒武纪将加大研发投入，巩固人工智能算力领域技术领先优势。",
       "summaryZh": ""
     },
     {
@@ -29,17 +49,135 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-23T06:06:36.000Z",
-      "summary": "宁德时代投资的北京机器人公司松延动力秘密递交港交所IPO申请。",
+      "summary": "北京机器人创企松延动力秘密递交港交所IPO申请。",
       "summaryZh": ""
     },
     {
-      "title": "AI 智能体疯狂入侵人类系统：十几起漏洞依次排开，AI真正攻破了哪一层?",
-      "link": "https://www.tmtpost.com/8179406.html",
+      "title": "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uWC1QNDZwWFN3WU10OEd0XzVNOE43TnFjeVI2N3ZfSTk2RGRmNUxFMGtUaHREWEVwaF9ENnpqN3lURGF3UEdwSmh1Mnh3c2prMkdxMg?oc=5",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-23T08:40:57.000Z",
+      "summary": "高德发布基于开放世界行为的全身基座模型λ0，推动机器人动作对齐。",
+      "summaryZh": ""
+    },
+    {
+      "title": "物理AI进入爆发前夜？王兴兴、黄仁勋齐发声 机器人成重要落地场景",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWcHl4akNhbVNURl9EWjhtWmNVclo1djlIRlZSaEhBcUpXR2ZMZE9QV2IyUUp3VDQyY1FjMEpraW9RVDZhY0N5dzRfaHNTVWhQRHRERHhhSGplNDU0amwwRQ?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-23T11:19:40.000Z",
+      "summary": "物理AI领域专家王兴兴、黄仁勋看好机器人应用前景。",
+      "summaryZh": ""
+    },
+    {
+      "title": "10万台订单落地，机器人加速导入氮化镓",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5eEhqMW1VVXpMSE9MU0tfMWppUmpsdVhYODlvNVFmV1FlUTNPR1hOd2Qyc2tYZUFSSWtoTnVzNWhNOURxSG5fd25JSXNaVXhFY1JSdDhhSQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-23T08:24:02.000Z",
+      "summary": "机器人加速导入氮化镓，10万台订单落地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI漫剧的老板们在给算力打工-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZbVVRaS11M0wxYzFhSlFlZ05Vek8zUHR6ODNxcWpPS2tGVkVBQUp6MzNlSUpkQ1ZiRXl5Q2xUN09zNGxFZGV5cTAwTzhDQlcz?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-23T07:47:43.000Z",
+      "summary": "AI漫剧制作成本降低，但算力成本上升，老板们面临收益压力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国务院办公厅印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03dHB3QUQxOXRKYTVQOTJ1ZGt5RF9IUG5WbUtZWWZHeURGNjMzb3RNU2RLUEhCdjFHVDBTam1ycVlVLTJ5S0dadm1Dc3RkN2NfX0VwRnZ2clI?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-23T09:07:38.000Z",
+      "summary": ""
+    },
+    {
+      "title": "AI购物智能体加速落地：Wizard接入Best Buy，沃尔玛开放通道，亚马逊拦截Meta Muse",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jV20wdGhieHJuS1JuV2VIQURhTW4yUjdDNTdMbmVjMGh5bDdUVzFnZ3Z4OVk0Nl8ydlpyejR6VzJTN0l0MHVtdEdwMnFlTnR5N2FOdw?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-23T13:46:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "AI大算力芯片公司亿铸科技完成10亿级融资",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fVmFQZGJ5ZnN2Y19YUDZqLVNJaDBqLU9BZXdFR19WZjlRaWNjaG51RjB0c1hJcjBsOHQtbUpBazZiUVNzZ1RDSG9BZlV4d1dHTHozc2htbW1FUQ?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-23T10:30:32.000Z",
-      "summary": "AI智能体连续攻破多系统漏洞，引发安全担忧。",
+      "pubDate": "2026-10-23T11:19:00.000Z",
+      "summary": "AI大算力芯片公司亿铸科技完成10亿级融资。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国办发布重磅文件，拓展新兴领域人工智能就业新空间",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBncUdXelQxVHBpMkFaUGJzUy1PMG9SUi0wYmFZYU45a0NyNUEtX0ZmYXVHNGQ1VUNETDlyRW1LeWhBQWdEbGhlbGZ2eE1vWDRlZlpaUHBsZUc?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-23T09:55:52.000Z",
+      "summary": "国办发布文件，拓展人工智能领域就业新空间。",
+      "summaryZh": ""
+    },
+    {
+      "title": "上海：鼓励企业前瞻布局物理AI 重点突破世界模型构建、多模态物理感知、虚实交互与自主决策等核心技术",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14d3I4NnJEWnZ0aG9WRW4xM1FSbFBsMlhJdi1nNGE1WUF1bnZNZjRRX1Y1eVFYb3F1ejEtWUF1bTRrdTM2dEJSRw?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-23T07:49:22.000Z",
+      "summary": "上海鼓励企业布局物理AI，攻关核心技术。",
+      "summaryZh": ""
+    },
+    {
+      "title": "《国家信息化“十五五”规划》印发：推进人工智能等基础性立法强化无人驾驶、低空经济等新兴领域立法研究",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5MY0Z0Y2JxNUI3a011LVdvY0ZaODZxdnlXVlBvWURVd2V5bEs0RjRYRTRCaGxtNjhlQnBoLUZoZnZXTnlLTUlLcw?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-23T11:33:00.000Z",
+      "summary": "《国家信息化“十五五”规划》强调推进人工智能等基础性立法，加强无人驾驶、低空经济等领域立法研究。",
+      "summaryZh": ""
+    },
+    {
+      "title": "天融信发布政务AI一体化安全方案，持续推进智能体安全落地",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qRkJ2WG80RVptNlBZcXNzTm9CTlFpbjdzUHBYRmZ0dTN1bEI0M1JpcEZPaEhJZWJlbVhxYXBZZFBLSzcteHZITGRFRFB0VXNQZ1ZqYW8yQXFvdXFBZ0cyWjlYUWUtOGk4N3lGZGZLUkg4VHYw?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-23T08:56:04.000Z",
+      "summary": "天融信发布政务AI一体化安全方案，覆盖四大场景，融合五类能力，保障政务AI应用合规有序。",
+      "summaryZh": ""
+    },
+    {
+      "title": "具身智能机器人应用技术员：给机器人当“老师”",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RdXVhT0xSUk0xTWVjbTRNeUxDM0hlRXNaQjEtRHJVYUstMG9aazN2QTNJWUtQeUpOUVdBNGo3WjRXbEctLXNodzI2YkY4TlpEbUpuZXdsc0xLaXd3SnptUTN4NkU1VWdTb2NpdEpiWTc0aVlCcWUtLVdHNmxVY00?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-23T12:32:04.000Z",
+      "summary": "具身智能机器人应用技术员通过训练和调试，使机器人从实验室走向实际应用场景。",
+      "summaryZh": ""
+    },
+    {
+      "title": "工业机器人功能安全：从风险到韧性",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12ZGJlN0I3WGdJNW9MRUJPcUVtaFZ2TzZaZk9pTEQxU2YtTmJlTU1oMDMzVWNNdUVSb1hCTjVZcjNSYjRqYTAxNWQ2dnJLX3JLU3Uxdi1sbw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-23T02:33:00.000Z",
+      "summary": "工业机器人功能安全验证技术提升至韧性水平。",
       "summaryZh": ""
     },
     {
@@ -54,59 +192,63 @@
       "titleZh": "周五视频：四足机器人独自解决巨型魔方"
     },
     {
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-23T21:11:07.000Z",
-      "summary": "OpenAI训练前沿AI模型无需互联网接入。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 现在无需连接互联网即可训练其前沿人工智能模型"
-    },
-    {
-      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-      "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-23T16:26:29.000Z",
-      "summary": "Daytona完成60亿美元B轮融资，估值达10亿美元，由FirstMark领投。",
-      "summaryZh": "",
-      "titleZh": "代理云初创公司 Daytona 估值达到 10 亿美元，由 FirstMark 和天使名人录支持"
-    },
-    {
-      "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
-      "link": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
-      "source": "CNBC Tech",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-23T12:39:27.000Z",
-      "summary": "OpenAI接近完成30亿美元融资，估值达1.25万亿美元，由阿联酋投资者领投。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 即将完成 300 亿美元融资，估值 1.25 万亿美元，由阿联酋投资者领投"
-    },
-    {
-      "title": "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
-      "link": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
-      "source": "CNBC Tech",
-      "lang": "en",
+      "title": "人形机器人打破博尔特纪录，赢在何处？",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TaEc3M2hLZWZyckpnZkRaLWk5YVYyUndPOEpxTjk1dUllZGYyemlLSjI2d21hSUUzQWN1Y09iZ1Y5aFM2ZTFpTlV4bF9rR0hod2dnOEdJVkgtTUF5bnBZ?oc=5",
+      "source": "财新网",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-23T12:08:30.000Z",
-      "summary": "Nvidia GTC柏林峰会聚焦AI，CEO黄仁勋谈资本需求与挑战。",
-      "summaryZh": "",
-      "titleZh": "Nvidia 人工智能展示现场：詹森狂热、机器鸭子和 Neocloud 困境"
+      "pubDate": "2026-10-23T10:12:00.000Z",
+      "summary": "人形机器人打破博尔特百米纪录，综合技术体系领先。",
+      "summaryZh": ""
     },
     {
-      "title": "Flexible robot arms learn to predict their next move",
-      "link": "https://techxplore.com/news/2026-10-flexible-robot-arms.html",
-      "source": "Tech Xplore",
-      "lang": "en",
+      "title": "叠纸低调搞起了机器人，七个月前已开始招兵买马",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YeGpOWGZaVGt3ZWpWVWw0cXQwd3Y5Sm0zVEQ4VXN5aW51LWpoMm83MHN2ZVoxWEV4bFR5MVFEeVBncGVsTGNTNzhUZ0hLYnBudGlZ?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-23T21:00:02.000Z",
-      "summary": "柔性机器人手臂学会预测下一步动作。",
-      "summaryZh": "",
-      "titleZh": "灵活的机器人手臂学习预测下一步行动"
+      "pubDate": "2026-10-23T07:14:29.000Z",
+      "summary": ""
+    },
+    {
+      "title": "从GPU到机器人，英伟达正在押注AI的下半场",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSm1uT0dWNWFjRFo5dkJKOEpuXzZxZUI5dVMxVzd2NUZtamp3bU1KTlNaT202ME0wRUlMM3lEMHVMRkk2Ymc2d0xiQzc3ejZJUVFSYlM1MktUeDY0UURLM0RPT0FYYmpNQXNPVVROTW9rX2dzTlozdE5uMnJwdVdxWjY1YmxoZHZYUjRzNUNoMA?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-23T08:05:00.000Z",
+      "summary": "英伟达CEO黄仁勋在GTC演讲中提出AI工厂概念，强调AI制造业需全栈化基础设施。",
+      "summaryZh": ""
+    },
+    {
+      "title": "五一视界（06651）纳入英伟达生态涨超25%，机器人板块共振",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uTS04UWpxUElsekozczZkem90WktPVHRWWUpCd0VkUTFwYW05TE1Xd21DZHBWSmw2ajRrMTUzQlRfXzhDVmpVbUFYV1owakdZajQ4YU41N3g?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-23T08:13:00.000Z",
+      "summary": "五一视界纳入英伟达生态股价涨25.75%，机器人板块午后共振走强。",
+      "summaryZh": ""
+    },
+    {
+      "title": "美团外卖：将给全国外卖商家赠送“AI店长”，部分试用商家已实现超30%增长",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VbkFOdUN6ODlvM3R0S0JOVkFNd3JheWFtWklUamRPSHNjZDVibk4yUDJUdTdFVFNPaTUycjJHV1U5SExXUEhyY2tPLWpZZ3ZVVzhtNDk1by1RMVdSM2FZNFRTdjV4dkJvWVphSVg5ZDk?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-23T04:59:32.000Z",
+      "summary": "美团外卖推出“AI店长”，部分商家营业额增长超30%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "新一代口袋级AI外骨骼机器人“π6”系列在深圳发布",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DdWhfQmdqdW45Z240Zi1kbmhyN3kzbWdaZ1IzZFN4NFhqZFE3RHdFQ1VacnQ1RzhITmdDX1ZFdWh3MzhFVkpDZWVqWFdTQnNoaWgtX0VFbXB3elNQM2FUN2ZkMXBwbGJDcmlTcWVYX3E?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-23T12:32:37.000Z",
+      "summary": "深圳发布新一代口袋级AI外骨骼机器人“π6”系列。",
+      "summaryZh": ""
     }
   ]
 }
