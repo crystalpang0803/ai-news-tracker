@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "generatedAt": "2026-10-24T18:45:12.067Z",
+  "generatedAt": "2026-10-24T20:41:04.964Z",
   "items": [
     {
       "title": "Agent、机器人与制药，谁先被GPT-6 Astra改写？",
@@ -9,37 +9,26 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-24T00:14:00.000Z",
-      "summary": "GPT-6 Astra发布，引发AI领域对Agent、机器人和制药行业影响的讨论。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI+金融迈入规模化落地期，如何“用得上、管得住、可追溯”",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vdDFXa1hMdlJlaGNBTG5HR0xvS3dOa3N4dXNPdW1kdURmTEZaWFhkTWliMUJKaEJQS1ZOT3JBMF9jRE10NTZOZGpUekRKdnMwMGFF?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-24T07:37:15.000Z",
-      "summary": "AI+金融进入规模化应用，探讨如何确保安全可控与可追溯。",
+      "summary": "GPT-6 Astra发布，引发AI领域对Agent、机器人和制药行业变革的讨论。",
       "summaryZh": ""
     },
     {
       "title": "百台同场，厘米协同：智元远征A3创下 “最多人形机器人同时跳舞” 吉尼斯世界纪录",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jS2l0Q29faE1MVVR2UkZuTEJWQ0pVVEZ0TEItaU1pQXk3TjFFYkRaZmVUZ3VycGlfSXRsVE50NkItNVZNaHlBNVAxWmpoZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aem53Wll6UEFIYkZBSE1wcVhlSWFtdEs4Wk9VZFFPM1FjZkdqdF9MQXFHUHpsLV9PUXBORGRwTUNuSUJtU04xMU5rWQ?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-23T19:47:00.000Z",
+      "pubDate": "2026-10-24T11:03:56.000Z",
       "summary": ""
     },
     {
-      "title": "机器人跑跳舞蹈，如何落地为实际价值？",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5meDk1Y2lKUjZfakFheEhrbkxYZzk1Z3RPaDdkWllqc2RIYWc1S2ZyVzZMeDFQMHJDMkpzaWZZYlFkZVltMFZGWmpyVnl6X3djcnJiR0gxMFo5WFBFRWJV?oc=5",
-      "source": "财新网",
+      "title": "DeepSeek新模型登场，用户要给AI付的钱又少了",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wWGRLTFhZX2dWcU1QbE5sS2lBdHdERk5BY21xbk1qaUhOV0QtSTVJWW1MdDBHU0NZMktoTTI4NVN6UGRjU0JZczhIaHdBUQ?oc=5",
+      "source": "36氪",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-24T09:00:00.000Z",
-      "summary": "人形机器人极限跑跳舞蹈，技术可拓展至实际生产应用。",
-      "summaryZh": ""
+      "category": "ai",
+      "pubDate": "2026-10-24T17:34:42.000Z",
+      "summary": ""
     },
     {
       "title": "Anthropic Claude 付款页面新增中国及港澳台地区选项，支持银联卡支付",
@@ -58,7 +47,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-24T04:56:41.000Z",
-      "summary": "库班提出用AI“喷药”类比抵御失控智能体，强调AI防御恶意攻击的重要性。",
+      "summary": "库班建议用AI“喷药”抵御失控智能体，类比防蟑螂。",
       "summaryZh": ""
     },
     {
@@ -69,6 +58,26 @@
       "category": "ai",
       "pubDate": "2026-10-24T12:31:47.000Z",
       "summary": "Kimi K3.1 Pro和K3.1 Pro Highspeed发布。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI创业方向仍存分歧：看对技术也可能看错生意",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNN0dfcEp5YjNyZF9xWDYxMlRzcDNMS1VmM0lRaVZUbTdIUWNpM0I1WjNQZ1lUWk1zeUFOd2NNOHRKQWhnTEtNdnNhMGlhNnEyZ1Rn?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-24T10:27:26.000Z",
+      "summary": "AI创业方向分歧，技术判断与商业价值匹配存疑。",
+      "summaryZh": ""
+    },
+    {
+      "title": "上海：鼓励企业前瞻布局物理AI 重点突破世界模型构建、多模态物理感知、虚实交互与自主决策等核心技术",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14d3I4NnJEWnZ0aG9WRW4xM1FSbFBsMlhJdi1nNGE1WUF1bnZNZjRRX1Y1eVFYb3F1ejEtWUF1bTRrdTM2dEJSRw?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-24T18:46:01.000Z",
+      "summary": "上海鼓励企业布局物理AI，攻关世界模型等核心技术。",
       "summaryZh": ""
     },
     {
@@ -83,13 +92,32 @@
       "titleZh": "在被迫选择的情况下，Grok 的人工智能模型选择了共和党人。 OpenAI 选择了民主党人。"
     },
     {
+      "title": "Anthropic推出Claude Duet智能体研究预览版",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKSktoTnByaUNDdjhYdGtwbURtYndnMG9MRDBhWHlvRVhyRTY1WmJJT3RIOTZsU2VzZE5qTVpJcENWX3E4N1N2Vi1KZC1OWEhDclEw?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-23T21:19:23.000Z",
+      "summary": ""
+    },
+    {
       "title": "马斯克Q3财报：人形机器人或将成为全球最大产业，量产背后精密零部件成为关键",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KZWRWNko1c1JGOVBNOWhFcjZfUk5USFJhY0c2N0NKVDVvV2dNQ1pmaDNKc2l1RENMdnpveGFHa1FDSHNYY0U4dW5fQjFtVnNJRWdkYmJMOA?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-24T06:21:41.000Z",
-      "summary": "马斯克Q3财报显示人形机器人产业潜力巨大，精密零部件成为量产关键。",
+      "summary": "马斯克Q3财报显示人形机器人产业潜力巨大，精密零部件成量产关键。",
+      "summaryZh": ""
+    },
+    {
+      "title": "跳出轮式局限，四足机器人重构变电站巡检的运行逻辑",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vaDVoZHVVRXpMWEdGRWhWZW1JbFBHZDc1U05xdkEzR0ZaVU1QS1Fod3JYUDhwZjV1UFRyTHJaN1VrSWVnYXI3Sk5XNkNkRVp0elBxUG02MA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-24T06:10:39.000Z",
+      "summary": "四足机器人应用于变电站巡检，突破传统轮式局限。",
       "summaryZh": ""
     },
     {
@@ -99,8 +127,16 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-24T08:52:49.000Z",
-      "summary": "OpenAI发布722篇AI生成数学手稿，引发数学界对AI冲击基础数学的讨论。",
-      "summaryZh": ""
+      "summary": ""
+    },
+    {
+      "title": "OpenAI收购Orchestra Bio，全球大厂加速布局AI制药与AI4S",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BZkYwR0NzZDFGRlg0X3hPdDlsUEk0eUNvQ0dRNXlQNTg1TUR2RVYwRkFCd2djZTFZbGtjcy1oU0drOXpqSXo2SlN6WWFuOTZFRzBrcA?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-23T23:15:58.000Z",
+      "summary": ""
     },
     {
       "title": "6大AI、30个剧本实测：claude才是“烧心体”的亲妈？",
@@ -109,7 +145,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-24T00:48:00.000Z",
-      "summary": "AI短剧“烧心体”剧本多由Claude生成。",
+      "summary": "AI模型Claude在“烧心体”短剧剧本创作中表现突出。",
       "summaryZh": ""
     },
     {
@@ -119,18 +155,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-24T12:34:27.000Z",
-      "summary": "Eka Robotics获1.5亿美元融资，扩大其机器人视觉-力量-行动模型。",
+      "summary": "Eka Robotics获1.5亿美元融资，扩大机器人视觉-力-行动模型规模。",
       "summaryZh": "",
       "titleZh": "Eka Robotics 融资 1.5 亿美元，用于扩展其机器人视觉-力-动作模型"
-    },
-    {
-      "title": "多利好催化，物理AI、机器人引领反攻",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtVFZFcHJtbEJncDJFRGNpWlVzWGhFN1NjX2JaSjlidTQ4SW1vQU1xS2o4d3FYSnNNajBVTTlFUUJMemJtS1BfTnVSVG4zV3cwNy04NzJEU1UzR3c0Z2VmRE55SWhkcm8?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-24T17:37:25.000Z",
-      "summary": "东方财富网股吧话题频道，这里有最热的股市热门话题、观点，帮助您及时了解市场动态。"
     },
     {
       "title": "《具身智能领域青年科学家分布与流动报告》发布 勾勒全球前沿人才图谱",
@@ -139,7 +166,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-24T10:12:00.000Z",
-      "summary": "《具身智能领域青年科学家分布与流动报告》发布，全球青年科学家人才图谱呈现。",
+      "summary": "《具身智能领域青年科学家分布与流动报告》发布，揭示全球青年科学家群体特征。",
       "summaryZh": ""
     },
     {
@@ -191,7 +218,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-24T16:50:43.000Z",
-      "summary": "计算压缩空气吹除成本成为关注焦点。",
+      "summary": "计算压缩空气吹除成本的方法被提出。",
       "summaryZh": "",
       "titleZh": "压缩空气吹扫的美元数字"
     }
