@@ -1,15 +1,25 @@
 {
   "date": "2026-10-24",
-  "generatedAt": "2026-10-24T04:42:38.637Z",
+  "generatedAt": "2026-10-24T08:23:09.642Z",
   "items": [
     {
-      "title": "车企造人形机器人，究竟图什么？",
-      "link": "https://www.tmtpost.com/8179852.html",
-      "source": "钛媒体",
+      "title": "网传宇树科技机器人侧空翻表演甩断腿，系新发布的 H2-X 人形机器人",
+      "link": "https://www.ithome.com/1/017/383.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-24T01:35:00.000Z",
-      "summary": "车企造人形机器人旨在优化生产、提升门店体验，并探索新的增长曲线。",
+      "pubDate": "2026-10-24T06:44:01.000Z",
+      "summary": "宇树科技新发布H2-X人形机器人侧空翻表演中发生意外，机械小腿脱落。",
+      "summaryZh": ""
+    },
+    {
+      "title": "智元在山东济南组织 110 台人形机器人同时跳舞，创下吉尼斯世界纪录",
+      "link": "https://www.ithome.com/1/017/382.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-24T06:40:13.000Z",
+      "summary": "智元在山东济南组织110台人形机器人跳舞，创吉尼斯世界纪录。",
       "summaryZh": ""
     },
     {
@@ -19,17 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-24T01:43:33.000Z",
-      "summary": "物理AI技术发展迅速，机器人成为重要应用场景。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI 联合研究机构部署数千个AI 智能体：32 分钟分析数百万个小鼠脑细胞，相当于人类数月时间",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4ejd5LXhDOHhqYnZkTno3VTRZSTFuLUJZRDNZUENHTVNraFN5S3l4YkthZTY0M0FpZ2l6RnJJUGJ2RUVqeWdMOUEyRFY?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-23T14:43:44.000Z",
-      "summary": "OpenAI联合研究机构利用AI智能体32分钟完成数百万小鼠脑细胞分析，效率远超人类。",
+      "summary": "物理AI技术有望在机器人领域实现突破性应用。",
       "summaryZh": ""
     },
     {
@@ -39,17 +39,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-23T12:53:00.000Z",
-      "summary": "寒武纪将加大研发投入，巩固人工智能算力领域技术领先优势。",
+      "summary": "寒武纪加大研发投入，巩固人工智能算力领域技术领先优势。",
       "summaryZh": ""
     },
     {
-      "title": "美国拟推新规：自动驾驶汽车要用青绿色灯光“自报家门”",
-      "link": "https://www.ithome.com/1/017/334.htm",
-      "source": "IT之家",
+      "title": "L3将至，华地魔三巨头同台：自动驾驶下半场的生存哲学",
+      "link": "https://www.tmtpost.com/8179664.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-24T03:48:36.000Z",
-      "summary": "美国拟规定自动驾驶汽车使用青绿色灯光标识。",
+      "pubDate": "2026-10-24T02:01:00.000Z",
+      "summary": "华地魔三巨头同台探讨自动驾驶下半场生存哲学，对技术进步和供应商定位有不同看法。",
+      "summaryZh": ""
+    },
+    {
+      "title": "10亿估值的明星机器狗公司，欠薪800万",
+      "link": "https://www.tmtpost.com/8179895.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-24T01:45:00.000Z",
+      "summary": "明星机器狗公司无境动力欠薪800万，实控人联系不上，公司停工。",
       "summaryZh": ""
     },
     {
@@ -63,6 +73,16 @@
       "summaryZh": ""
     },
     {
+      "title": "金蝶灵基连推三项核心升级，发布企业级智能体评测基准",
+      "link": "https://zhidx.com/p/603939.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-23T10:50:38.000Z",
+      "summary": "金蝶灵基发布三项核心升级，推出国内首个企业管理场景智能体评测基准。",
+      "summaryZh": ""
+    },
+    {
       "title": "英国将出资1亿英镑设AI生物安全实验室，OpenAI、Anthropic参与合作",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Tc0lScTFyYkhCbzVrVXczdmxQQUhYT0o0Y21fVjFkYmNZdjlMNkxPcUZkNF8zSWYwWnR2cE5xOWd3ZU51VWc1aERYVE92TUFCTnhtUVZlWlQ?oc=5",
       "source": "界面新闻",
@@ -73,33 +93,31 @@
       "summaryZh": ""
     },
     {
+      "title": "9点1氪丨国内大模型均价涨至13元；原“死了么”APP公布收费标准，最高199元/年；寒武纪第三季度净利润14.04亿元，同比增长147.74%",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yZjFSM2hlR2VmR3ZlZzJyTlllaW53aDRMbEhDSEtNZzJwTGlJakJJbUR6OHk1X25MLVcxVmVEbkVTWEJxelFRVlRpT2kxZw?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-23T10:06:00.000Z",
+      "summary": ""
+    },
+    {
       "title": "AI购物智能体加速落地：Wizard接入Best Buy，沃尔玛开放通道，亚马逊拦截Meta Muse",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jV20wdGhieHJuS1JuV2VIQURhTW4yUjdDNTdMbmVjMGh5bDdUVzFnZ3Z4OVk0Nl8ydlpyejR6VzJTN0l0MHVtdEdwMnFlTnR5N2FOdw?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-23T13:46:00.000Z",
-      "summary": "AI购物智能体在沃尔玛开放通道，亚马逊拦截Meta Muse，但落地仍取决于零售商与用户授权。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
-      "title": "Anthropic联合创始人：中国AI落后西方半年 大模型还太笨了",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YQmFIZWE5M3A5bURlR2p1WFlHR2h6X3VGdEVGTWRQLXBuN3p1djZOVl8wT3pnallIMHNLTm1iRmxjMlhCTzlIOVEyNzk4VWdyR21sSQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-23T10:52:00.000Z",
-      "summary": "Anthropic联合创始人称中国AI落后西方半年，大模型性能不足。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国办发布重磅文件，拓展新兴领域人工智能就业新空间",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBncUdXelQxVHBpMkFaUGJzUy1PMG9SUi0wYmFZYU45a0NyNUEtX0ZmYXVHNGQ1VUNETDlyRW1LeWhBQWdEbGhlbGZ2eE1vWDRlZlpaUHBsZUc?oc=5",
+      "title": "上纬新材旗下启元机器人发布“物理AI启仔计划”",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9weFRSRjJoY3U0bEdZQkVPMmFBV0VEZmlTeWdiTmZSVzJaUHFvOWt3RUF2SVlhcG9CaEEydl9jQUJPb1M3QnVBLWpYdDQ2RzAxNUZkaU9VWnc?oc=5",
       "source": "界面新闻",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-23T09:55:52.000Z",
-      "summary": "国办发布文件，拓展人工智能领域就业新空间。",
+      "category": "robotics",
+      "pubDate": "2026-10-24T04:00:09.000Z",
+      "summary": "上纬新材启元机器人发布“物理AI启仔计划”，开放机器人开发平台及配套工具。",
       "summaryZh": ""
     },
     {
@@ -113,6 +131,16 @@
       "summaryZh": ""
     },
     {
+      "title": "Meta未来支出承诺增至8250亿美元 AI算力军备竞赛再加码",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sU0U1b0t6YTZwSGlwZlBfYzhEaFBlVWJxa0dSNzVpYkFfc3pYU3JJWmRGU0VnOEZDZXJPV1hiT0lQUUlUSGprdg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-24T00:00:42.000Z",
+      "summary": "Meta承诺未来支出增至8250亿美元，主要投资AI算力基础设施。",
+      "summaryZh": ""
+    },
+    {
       "title": "讯飞医疗星火医疗大模型V3.7升级：病历生成合理率提升至85%，AI患者管理3.0落地300余家医院",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tMGR3TUZlS3V5SDR0TmVYWnVtNmUwREJfZjN1Wk5ldE55VmQtY3o3d1hYTUh4aVR3ZE1jUE1tWDBZcDB4VnBTX0RUeF9lY0ZZNElTUmFZZ1dOOG1rbW1Oa01kZ25jRkpYaEJF?oc=5",
       "source": "东方财富网",
@@ -123,22 +151,34 @@
       "summaryZh": ""
     },
     {
+      "title": "10万台订单落地，机器人加速导入氮化镓",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5eEhqMW1VVXpMSE9MU0tfMWppUmpsdVhYODlvNVFmV1FlUTNPR1hOd2Qyc2tYZUFSSWtoTnVzNWhNOURxSG5fd25JSXNaVXhFY1JSdDhhSQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-23T08:24:02.000Z",
+      "summary": "机器人加速导入氮化镓，10万台订单落地。",
+      "summaryZh": ""
+    },
+    {
       "title": "海康威视前三季度净利增近四成 大模型产品落地多领域",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsZzBtLXhpOTk4NXBEcVIyazg5REkyeGpOTFBDcTNhTTlfY1FUQ2p4SW1wMGxXaDJPanVRQTRjdFRRZkhCTFJBM2FEb2xYMlJONHc2cUVVbmpqdw?oc=5",
       "source": "经济观察网",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-23T10:59:00.000Z",
-      "summary": ""
+      "summary": "海康威视前三季度净利增近四成，大模型产品多领域落地。",
+      "summaryZh": ""
     },
     {
-      "title": "OpenAI融资创纪录AI进入烧钱大战",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TTVU4YXNTZG5kbS13enZOMWtmNHZDbU9ETndJSGpZdF9zaTd2VGZsS1Rld2ZEV2dDZWFwZUJ2NzhjRVBjTjdEalVxZWRTOXBaLS1VUkZR?oc=5",
-      "source": "腾讯新闻",
+      "title": "iRTE2026：声网CEO赵斌提出五级对话能力框架，实时互动迈入对话 AGI 时代",
+      "link": "https://www.qbitai.com/2026/10/504913.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-23T08:04:00.000Z",
-      "summary": ""
+      "pubDate": "2026-10-23T08:45:30.000Z",
+      "summary": "声网CEO赵斌在iRTE2026提出五级对话能力框架，实时互动迈向对话AGI时代。",
+      "summaryZh": ""
     },
     {
       "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
@@ -158,26 +198,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-23T12:32:04.000Z",
-      "summary": "具身智能机器人应用技术员通过搭建虚拟环境训练机器人，使其在真实场景中熟练操作。",
+      "summary": "具身智能机器人应用技术员通过训练和调试，使机器人从实验室走向实际应用场景。",
       "summaryZh": ""
     },
     {
-      "title": "叠纸低调搞起了机器人，七个月前已开始招兵买马",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YeGpOWGZaVGt3ZWpWVWw0cXQwd3Y5Sm0zVEQ4VXN5aW51LWpoMm83MHN2ZVoxWEV4bFR5MVFEeVBncGVsTGNTNzhUZ0hLYnBudGlZ?oc=5",
-      "source": "华尔街见闻",
+      "title": "割草机器人定时总乱套？一颗RTC让时间“不掉线”｜YXC YSN8130选型方案_视频",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ITVJEN1ZxUnA5aXBzelBYMHhaZHM5OU8zUndwRjB0ZlVQVUJEeE84MlNua0ZOSTZ5S2xCdFk5TWkzQnRMV0JKSHFva18yZU9GMHFUdA?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-23T07:14:29.000Z",
-      "summary": ""
+      "pubDate": "2026-10-23T08:27:18.000Z",
+      "summary": "YXC YSN8130 RTC芯片解决割草机器人定时乱套问题。",
+      "summaryZh": ""
     },
     {
-      "title": "美团外卖：将给全国外卖商家赠送“AI店长”，部分试用商家已实现超30%增长",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VbkFOdUN6ODlvM3R0S0JOVkFNd3JheWFtWklUamRPSHNjZDVibk4yUDJUdTdFVFNPaTUycjJHV1U5SExXUEhyY2tPLWpZZ3ZVVzhtNDk1by1RMVdSM2FZNFRTdjV4dkJvWVphSVg5ZDk?oc=5",
-      "source": "央广网",
+      "title": "人形机器人打破博尔特纪录，赢在何处？",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TaEc3M2hLZWZyckpnZkRaLWk5YVYyUndPOEpxTjk1dUllZGYyemlLSjI2d21hSUUzQWN1Y09iZ1Y5aFM2ZTFpTlV4bF9rR0hod2dnOEdJVkgtTUF5bnBZ?oc=5",
+      "source": "财新网",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-23T04:59:32.000Z",
-      "summary": "美团外卖推出“AI店长”，部分商家营业额增长超30%。",
+      "category": "robotics",
+      "pubDate": "2026-10-23T10:12:00.000Z",
+      "summary": "人形机器人打破博尔特百米纪录，综合技术体系领先。",
       "summaryZh": ""
     }
   ]
