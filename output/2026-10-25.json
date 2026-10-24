@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "generatedAt": "2026-10-24T20:41:04.964Z",
+  "generatedAt": "2026-10-24T21:52:22.676Z",
   "items": [
     {
       "title": "Agent、机器人与制药，谁先被GPT-6 Astra改写？",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-24T00:14:00.000Z",
-      "summary": "GPT-6 Astra发布，引发AI领域对Agent、机器人和制药行业变革的讨论。",
+      "summary": "GPT-6 Astra发布，引发AI领域对Agent、机器人和制药行业影响的讨论。",
       "summaryZh": ""
     },
     {
@@ -67,7 +67,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-24T10:27:26.000Z",
-      "summary": "AI创业方向分歧，技术判断与商业价值匹配存疑。",
+      "summary": "AI创业方向分歧，技术判断与商业落地存在偏差。",
       "summaryZh": ""
     },
     {
@@ -92,25 +92,6 @@
       "titleZh": "在被迫选择的情况下，Grok 的人工智能模型选择了共和党人。 OpenAI 选择了民主党人。"
     },
     {
-      "title": "Anthropic推出Claude Duet智能体研究预览版",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKSktoTnByaUNDdjhYdGtwbURtYndnMG9MRDBhWHlvRVhyRTY1WmJJT3RIOTZsU2VzZE5qTVpJcENWX3E4N1N2Vi1KZC1OWEhDclEw?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-23T21:19:23.000Z",
-      "summary": ""
-    },
-    {
-      "title": "马斯克Q3财报：人形机器人或将成为全球最大产业，量产背后精密零部件成为关键",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KZWRWNko1c1JGOVBNOWhFcjZfUk5USFJhY0c2N0NKVDVvV2dNQ1pmaDNKc2l1RENMdnpveGFHa1FDSHNYY0U4dW5fQjFtVnNJRWdkYmJMOA?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-24T06:21:41.000Z",
-      "summary": "马斯克Q3财报显示人形机器人产业潜力巨大，精密零部件成量产关键。",
-      "summaryZh": ""
-    },
-    {
       "title": "跳出轮式局限，四足机器人重构变电站巡检的运行逻辑",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vaDVoZHVVRXpMWEdGRWhWZW1JbFBHZDc1U05xdkEzR0ZaVU1QS1Fod3JYUDhwZjV1UFRyTHJaN1VrSWVnYXI3Sk5XNkNkRVp0elBxUG02MA?oc=5",
       "source": "与非网",
@@ -121,31 +102,23 @@
       "summaryZh": ""
     },
     {
-      "title": "复旦学者李志远谈OpenAI发布722篇数学手稿：AI冲击基础数学，但数学不会不存在",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fRzNUdHQ2VG9HM3drcWxWQlhVSFV0S2drM3FmWUNZM2Q2NC1ocnp0bXZVN1J3dXpmMHhmS1hESFBiZ0VhendQZ1dFalJDSXo1dWhDVQ?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-24T08:52:49.000Z",
-      "summary": ""
-    },
-    {
       "title": "OpenAI收购Orchestra Bio，全球大厂加速布局AI制药与AI4S",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BZkYwR0NzZDFGRlg0X3hPdDlsUEk0eUNvQ0dRNXlQNTg1TUR2RVYwRkFCd2djZTFZbGtjcy1oU0drOXpqSXo2SlN6WWFuOTZFRzBrcA?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-23T23:15:58.000Z",
-      "summary": ""
+      "summary": "OpenAI收购Orchestra Bio，AI制药领域巨头加速布局。",
+      "summaryZh": ""
     },
     {
-      "title": "6大AI、30个剧本实测：claude才是“烧心体”的亲妈？",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xeTdScTRjTVdvc180a3VTeVJ0Q29lVGdfck1GZk1IQVlRbzg1eVcyNzNaZklhYkJwdm9hRnhGT1NXZ1hWdXhwOVZPRFc?oc=5",
+      "title": "Deepseek招天才，Kimi找老兵",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xQTg3V3J2RklKTGMyelZmQndWaHpVVWphandlaDY1STJZSVo1SWJwa2ZlbjdRcGtzbXl4VUx5azhKcE1nRkZ2V29ibmQ?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-24T00:48:00.000Z",
-      "summary": "AI模型Claude在“烧心体”短剧剧本创作中表现突出。",
+      "pubDate": "2026-10-24T08:58:00.000Z",
+      "summary": "DeepSeek招聘注重年轻天才，Kimi侧重实战经验丰富的人才。",
       "summaryZh": ""
     },
     {
@@ -155,9 +128,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-24T12:34:27.000Z",
-      "summary": "Eka Robotics获1.5亿美元融资，扩大机器人视觉-力-行动模型规模。",
+      "summary": "Eka Robotics获1.5亿美元融资，扩大其机器人视觉-力-动作模型。",
       "summaryZh": "",
       "titleZh": "Eka Robotics 融资 1.5 亿美元，用于扩展其机器人视觉-力-动作模型"
+    },
+    {
+      "title": "前沿AI模型安全引爆担忧？OpenAI“表决心”：将完全断网训练！",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxYXlMUVVWMlY1T0dLZ1NnMXdPNXpSSi1NbjByb2R0dmdiR05hZWIyNG81ME15RmR5S2VGdDdOTkNrSG5XVF83OG1MREljZVE1djhNcmZjT1JwQ3N4Ul9ySjRUeUJnNTBkS0xKNjV2NA?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-24T02:33:34.000Z",
+      "summary": "OpenAI宣布将在封闭系统中断网训练前沿AI模型。",
+      "summaryZh": ""
     },
     {
       "title": "《具身智能领域青年科学家分布与流动报告》发布 勾勒全球前沿人才图谱",
@@ -166,27 +149,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-24T10:12:00.000Z",
-      "summary": "《具身智能领域青年科学家分布与流动报告》发布，揭示全球青年科学家群体特征。",
+      "summary": "《具身智能领域青年科学家分布与流动报告》发布，揭示全球青年科研人才特征。",
       "summaryZh": ""
     },
     {
-      "title": "自动驾驶“下半场”怎么看",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QSEZDaUt1YTVVeWJiRXBfaGhqb1lOYWdSM1lZX0JacW1WTmtrYjVYajg3Qjdrd1JMTjVmRFhJSy0zY2dPU3JqNG9rYXM5NUZWMEJmVVIyT2V2LVBjdGM2QndfbzdXNnJMdXV4R1JweXdDZk0?oc=5",
-      "source": "央广网",
+      "title": "王兴兴的发言，透露出具身智能要过两年苦日子",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HeTJ6b25ZNFk4WHF6LU1XWUZuQ3Z5MDZaVmZiM1Y1aXZMeGRUa1VLQ0toZmhoenVPMUU3U21hNWpfaVlfZ2EtSDZkZGNXS0dkRjNhTnhHXzdnRzFXWFV4Xw?oc=5",
+      "source": "澎湃新闻科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-24T02:17:09.000Z",
-      "summary": "2026年自动驾驶行业聚焦“下半场”，技术突破与市场应用并行推进。",
-      "summaryZh": ""
-    },
-    {
-      "title": "探访医博会丨植发、理疗、循经治疗……一大批医疗机器人来袭",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qNFVXcTZPTjQwY2h3VU9fR2ZoM3JYU19NZDRGcUVDbklobExzRm1qd1lGLWxUUlZHa05jaHZwVXZSQ0hZb0lFaTJWRGFYeE1fclRqSFhlRHZvaFRUYjE4ZnlUd2I?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-24T10:01:00.000Z",
-      "summary": "医博会展示多款医疗机器人，涵盖植发、理疗、循经治疗等领域。",
+      "pubDate": "2026-10-24T00:19:00.000Z",
+      "summary": "王兴兴透露具身智能行业面临至少两年瓶颈，商业化落地还需时日。",
       "summaryZh": ""
     },
     {
@@ -201,26 +174,45 @@
       "titleZh": "可穿戴系统捕获人类活动数据以进行机器人训练"
     },
     {
-      "title": "Flexible robot arms learn to predict their next move",
-      "link": "https://techxplore.com/news/2026-10-flexible-robot-arms.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-23T21:00:02.000Z",
-      "summary": "柔性机器人手臂学会预测下一步动作。",
-      "summaryZh": "",
-      "titleZh": "灵活的机器人手臂学习预测下一步行动"
-    },
-    {
       "title": "Putting a Dollar Figure on Compressed Air Blow-Off",
       "link": "https://roboticsandautomationnews.com/2026/10/24/putting-a-dollar-figure-on-compressed-air-blow-off/106283/",
       "source": "Robotics & Automation News",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-24T16:50:43.000Z",
-      "summary": "计算压缩空气吹除成本的方法被提出。",
+      "summary": "计算压缩空气吹除成本成为节能关键。",
       "summaryZh": "",
       "titleZh": "压缩空气吹扫的美元数字"
+    },
+    {
+      "title": "从MEMS到数字输出：气压传感器如何进化为智能感知节点",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fSG8tUkJXRURCOXlOdXJZMWtza0FPUVV6bThoTi1DVmhOVVFIOWlVRnA3R2VmQVRZd3BxSXZiSjlaSTQ1UUk1NENCbHllaFhkUkZCUzZwQQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-24T06:06:39.000Z",
+      "summary": "气压传感器技术升级，进化为智能感知节点。",
+      "summaryZh": ""
+    },
+    {
+      "title": "加快发展新一代智能制造 工信部明确四方面重点举措",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEbHlDZVcwak56SWZTSGlWd0Q3X0cwZ3hjVXFubnkyeWFBR2RKbTQxekpYT2JwVFZkUXhXWEtoMFI1VE9mMDdYOFZXZTA1ZktRbXBNSXZsb3JBMUp4enhxN3ZrQVVWRllJby1Kbk13?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-24T01:51:23.000Z",
+      "summary": "工信部明确新一代智能制造四方面重点举措。",
+      "summaryZh": ""
+    },
+    {
+      "title": "未来五年，安徽将新一代智能制造定为主攻方向",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qY3dCbDg4bWEwNzJzb0MySmdNTlFoWklxMExfeHlrQUgxMm5PN1BYcFdvbzRNVGNDbURLX0NMQ2xvemU4eDJhUlh0endmY3I2Uy1XTk5rbXhPN084Q19aTGtsVEQzTE50a0M5ZA?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-24T00:56:41.000Z",
+      "summary": "安徽未来五年将新一代智能制造作为主攻方向。",
+      "summaryZh": ""
     }
   ]
 }
