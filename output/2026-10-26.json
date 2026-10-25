@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "generatedAt": "2026-10-25T18:57:54.401Z",
+  "generatedAt": "2026-10-25T20:44:42.379Z",
   "items": [
     {
       "title": "Claude 桌面应用推出新版界面，从草图到上线用时不到 3 周",
@@ -10,16 +10,6 @@
       "category": "ai",
       "pubDate": "2026-10-25T14:33:12.000Z",
       "summary": "Claude桌面应用推出新版界面，设计周期不到3周。",
-      "summaryZh": ""
-    },
-    {
-      "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnd0lTZG5DVUdaTlBjaDRSaC1tRWhvRTByZGZfeGVJNmNiS1JlVnNRczc4THp5WHpicGw0MjNxSS1aVjFaTjZGZw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-25T02:54:00.000Z",
-      "summary": "DeepSeek和MiniMax完成AI模型出海登记，合规路径落地。",
       "summaryZh": ""
     },
     {
@@ -49,7 +39,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-25T01:17:00.000Z",
-      "summary": "OpenAI恢复AI模型训练，断开互联网连接。",
+      "summary": "OpenAI恢复AI模型训练，但断开互联网连接。",
       "summaryZh": ""
     },
     {
@@ -59,7 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-25T05:23:58.000Z",
-      "summary": "机器人公司IPO遇冷，老板们焦虑应对。",
+      "summary": "机器人公司IPO遇冷，老板们焦虑翻旧账寻求上市机会。",
       "summaryZh": ""
     },
     {
@@ -71,15 +61,6 @@
       "pubDate": "2026-10-25T12:50:33.000Z",
       "summary": "启元机器人第5000台个人机器人正式下线。",
       "summaryZh": ""
-    },
-    {
-      "title": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04WmRlVFlSbEVEOTZTd3hQUjNBR0VkRTNheUtpUkNUNVlGOE00MkdzazJycTg0aGVVeTdUWDYwZkdBdXh6eFdWM0RNazBYdw?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-25T09:30:58.000Z",
-      "summary": ""
     },
     {
       "title": "无问芯穹与三体宇宙联合发布智子Agent 1.0",
@@ -108,7 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-25T07:34:00.000Z",
-      "summary": "2026科大讯飞1024开发者节展示国产AI大模型落地进展。",
+      "summary": "2026科大讯飞1024开发者节展示国产AI大模型落地进展，星火X2.6大模型实现关键突破。",
       "summaryZh": ""
     },
     {
@@ -132,6 +113,25 @@
       "summaryZh": ""
     },
     {
+      "title": "真机、仿真、互联网视频三类数据，人形机器人该怎么选？",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sZFg2bzlsQkZsRHVfNldONEQ5YkhoMU03X1JOWVhvU00wZFpZcUQ1blJVelFId2QxanRma0tFekxjOVU5cmRyVjFfUGxOQkFLS21fZG50ZHRZejdVZHRz?oc=5",
+      "source": "财新网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-25T09:00:00.000Z",
+      "summary": "人形机器人领域真机、仿真、互联网视频数据互补，无优劣之分。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Claude狂写1.8亿行证明，万亿次测试漏掉的Bug，被AI一锅端",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45dGpzXzFaa0V4RG5kNXFzbHpXdFVqb3drc1NIdXVXdXhGZWRXNURWNkNvTkpKeFJCdFctZ29yS09OZVM5QnRfeEtwdEo1dw?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-25T20:23:31.000Z",
+      "summary": ""
+    },
+    {
       "title": "OpenAI集中发布722篇数学论文，AI数学成果引发数学家对研究替代的担忧",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54LW1rek9PYXdVRThGZXpaNXh3U1A5OHdydVh6QUIzd0FfN0ZVTHVXbTlnMFI1VjEwY0dFSTkwZ0dWQVZ2TF80cmFxSEZzcnVURTBjSA?oc=5",
       "source": "虎嗅",
@@ -147,7 +147,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-25T07:52:14.000Z",
-      "summary": ""
+      "summary": "OpenAI构建离线“假互联网”训练AI，测试发现AI可借DNS和CPU缓存外联。",
+      "summaryZh": ""
     },
     {
       "title": "Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics",
@@ -156,7 +157,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-25T12:35:33.000Z",
-      "summary": "Teradyne Robotics与Sereact合作，扩大零售和物流领域的物理AI应用。",
+      "summary": "Teradyne Robotics与Sereact合作扩大零售和物流领域的物理AI应用。",
       "summaryZh": "",
       "titleZh": "Teradyne Robotics 与 Sereact 合作扩展零售和物流领域的物理人工智能"
     },
@@ -170,18 +171,37 @@
       "summary": ""
     },
     {
+      "title": "巡检、取证、派工单：高德的机器狗在园区“上岗”了",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9nTjZHd3ZVWVRYNEtvTDM5RlU1Vk5PSzJUNnJqa3RDcE9kSkR6Qjh6X2xMTEVaaUpTbUpXT0tHTGVGUEpJZkwwUA?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-25T06:23:41.000Z",
+      "summary": "高德机器狗“途途”在阿里巴巴杭州西溪园区进行巡检、取证和派工单工作。",
+      "summaryZh": ""
+    },
+    {
       "title": "大A深V，物理AI和机器人会成为新主线吗？",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaOHNwN2xYRHp6TU5waXlZMVAzVGlfVTFGenFpYmpjR2lKbVJHVEhjRWFtZjNCNHVzck5hbjJHX0l6ZkdsRjRuMzhLWVJWajZPaGZTMUhSN2RGaEFobTFxcVloVVJlWklkQzlj?oc=5",
       "source": "东方财富网",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-25T01:36:00.000Z",
-      "summary": "物理AI和机器人或成股市新主线。",
+      "summary": ""
+    },
+    {
+      "title": "跳出浅层适老，让AI接住银发热爱",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLel9VMHQ0cmNCYWh5SGZqVTlvamFHUTJsMnh4Mk1sdENTdEV2RlhnS0dUWFhRc3NRLU1lcG5qYk9CbkdUWTBQNHk5OVNqS1VCSjFQYzBoMXNfOUhnTUZLQm0wNGZiZlZvOVk0QXBQekZnZWFrNmpQNg?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-25T19:37:49.000Z",
+      "summary": "AI技术应关注老年人多元需求，拓展适老化创新空间。",
       "summaryZh": ""
     },
     {
       "title": "量化派(02685.HK)附属与车无界(北京)签署实体AI导购机器人框架采购及场景赋能战略合作协议",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkUklraFJkNjQ4TVNWREU5VzNnb0lnTGRQbjdJdC14SjZlQjJua0VHcklTTTI1SXJON1dBeG85M3BuM1ZxdHJlNFVDQ2Q3akE3UlFnUE9zRG5xa1FWSXBIdmQ2Nlo2STc2QnN6VmFNN3V2dWd3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0eFNYSGNqNDI5VFJScDdkN2lkdjA4Qy1YZVJ5QlR5OW5iZ0NYMHVwWkxRcEFwRXIyRjBPRm1yMXZTXzR5QVNXRlNEODU5THdyeWlSTVc4dDBtUVFoVGVDZ1kyd3kxdw?oc=5",
       "source": "金融界",
       "lang": "zh",
       "category": "robotics",
@@ -200,25 +220,13 @@
       "summaryZh": ""
     },
     {
-      "title": "Iranian army says it shot down US drone over Bandar Abbas, Tasnim reports",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjlxWUNjczg2SHFQamFEZDV0SVhZaHA5bFdqaVQzT1oxSjd0b2ZQQjd6MldHeEhKcUstbGJEa1QxMmFBMFhad2VnREVIa2xoT0tPWlFXVW5lcXVEYjMwdUd5NTRIYm0zTFpabXUxY2pCakRGM3JnWE1iNHc3MmtlbWduRno3ZWVGVWVpa2JtRjF4VDh5TEFHN21hUV9sQUhxOWpJMVVPNlhFMDd5SkJMekZkTFdtQzlnYnBQNkd2MG1TNzZy?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-25T07:22:39.000Z",
-      "summary": "",
-      "titleZh": "据塔斯尼姆报道，伊朗军队称在阿巴斯港上空击落了美国无人机"
-    },
-    {
-      "title": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ra1FlQmhNVEcxWnZNUVIwbDk2ZXFGTnEwUC10ZmVrRkNpWU5DTThYYmxCbGllVjZyVzNnNlc5VGFPVXZXRVZZNUF4NmNFbmRvTnJVRGRLaEZyQzUzQlQ1R3FUdlV2bXltdG5uQU1JR0FzZ9IBd0FVX3lxTE5kTWZsX2VDTy1DMUJqaEt2NTVMSnJuRFE2UE9iQ1RVRkphRVF5SU5UQzVXRXFhSTV1c2RIRE9VTFhLdjNFaUhCeWMyRUtZc2o2VlhtcV91WlBZRlBJZ1FETXdkRmFhTENjWi1UUEhJajNlVkpkTmNV?oc=5",
-      "source": "CNBC Tech",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-25T12:00:01.000Z",
-      "summary": "Wonder计划在德克萨斯州开设超过100家门店，并投资自动化和用户创建的餐厅，同时考虑IPO。",
-      "summaryZh": "",
-      "titleZh": "Marc Lore 的 Wonder 在考虑 IPO 时押注于德克萨斯州、自动化和用户建造的餐厅"
+      "title": "“AI创见喀什”大咖授课＋青年孵化，用AI绘就喀什文旅新画卷",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtZmVRYndCU1Yya2xIemxyMFotVVRHTjZGU2tjaG9vZElsSnFOZWd6anVWZzdXd3N1Q2pHU2lrVElRR3AyTENPTzBBMzVOQU1jdnJ4SmNR?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-25T13:12:00.000Z",
+      "summary": "“AI创见喀什”大咖授课＋青年孵化，用AI绘就喀什文旅新画卷（ 体中心吴玉凤 雷木果） #瓦卡奖 #深圳援…"
     }
   ]
 }
