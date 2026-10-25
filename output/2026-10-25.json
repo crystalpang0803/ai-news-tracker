@@ -1,15 +1,44 @@
 {
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T00:33:18.196Z",
+  "generatedAt": "2026-10-25T04:48:31.479Z",
   "items": [
     {
-      "title": "瑞典政府办公厅出手，禁止办公电脑直接访问 ChatGPT、Claude",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wM0NQYTZjTlJ6RTdzQVdNX1NTU3lqTlAyNlZHcjlLQmlNT2dVUk9fMHptN0RGakN4TjNub2lzMUItMEJKbkdKaE9BdE8?oc=5",
-      "source": "IT之家",
+      "title": "娱乐资本论实测六大模型写餐饮商战短剧：Claude最有“烧心味”，豆包擅长生成金句",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VOXZUT2MzRndDUDVNV0R3eFo4UE9YYUhZQnAyMDVUc2VHdlZoS2xmOS1hakU4aTZzdkN2TkRPbFg1Wkp4V3hFQml3VUVjdE1DLWZ2bw?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-24T06:45:40.000Z",
-      "summary": "瑞典政府办公厅禁止办公电脑直接访问ChatGPT、Claude等AI服务。",
+      "pubDate": "2026-10-25T03:13:26.000Z",
+      "summary": ""
+    },
+    {
+      "title": "新石器再获近4亿美元融资，无人配送进入规模化竞争",
+      "link": "https://www.tmtpost.com/8179257.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-25T01:52:01.000Z",
+      "summary": "新石器完成近4亿美元融资，无人配送行业进入规模化竞争阶段。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2027 —— 人形机器人“电影宣发”大撞车之年",
+      "link": "https://www.tmtpost.com/8180836.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-25T01:27:51.000Z",
+      "summary": "全球多家机器人公司集体将2027年定为产品发布时间点。",
+      "summaryZh": ""
+    },
+    {
+      "title": "软银投资的农业无人机创企极飞科技：希望让每个农民都有自己的机器人",
+      "link": "https://www.ithome.com/1/017/552.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-25T01:58:35.000Z",
+      "summary": "极飞科技推出自动化无人机，旨在解决农业劳动力短缺问题。",
       "summaryZh": ""
     },
     {
@@ -22,23 +51,23 @@
       "summary": ""
     },
     {
-      "title": "精选丨魏海洪：宽基ETF弹性较小 建议关注物理AI 人形机器人方向",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NRGo3bml6czBCVVQzOUx5SWQ0M0d3MVhZNmpLVTZrbGhiV1BqdkNhY19tSk1fVDlSMUp1QS16eUY0REY5Nnc2bUd5YlZfODQybXN6dA?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-24T11:04:28.000Z",
-      "summary": "魏海洪建议关注物理AI和人形机器人方向，认为宽基ETF弹性较小。",
-      "summaryZh": ""
-    },
-    {
-      "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
-      "link": "https://www.ithome.com/1/017/525.htm",
+      "title": "亚马逊 CEO 贾西： 2027 年 AWS 算力基本售罄，部分订单锁定到 2028 年",
+      "link": "https://www.ithome.com/1/017/549.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-24T23:09:54.000Z",
-      "summary": "GPU Unlock开源项目可提升RTX 30系列显卡AI算力，性能提升达60%。",
+      "pubDate": "2026-10-25T01:37:07.000Z",
+      "summary": "2027年AWS算力基本售罄，部分订单锁定至2028年。",
+      "summaryZh": ""
+    },
+    {
+      "title": "云深处科技密集发布具身大脑系列成果 贯通具身智能全技术链路",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE16OXZKSWNaeE8tOVBsdnUyUThUOHNjYXBTTEMtb296RndZQTF5aFFfR01VSUtENmF3VFhlaUxCT3RxTHRVTUZvdQ?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-24T14:41:29.000Z",
+      "summary": "云深处科技发布具身大脑系列成果，实现具身智能全技术链路贯通。",
       "summaryZh": ""
     },
     {
@@ -48,17 +77,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-24T09:00:00.000Z",
-      "summary": "人形机器人极限跑跳舞蹈技术可拓展至实际生产应用。",
+      "summary": "人形机器人极限跑跳舞蹈，技术可拓展至实际生产应用。",
       "summaryZh": ""
-    },
-    {
-      "title": "DeepSeek新模型登场，用户要给AI付的钱又少了",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wWGRLTFhZX2dWcU1QbE5sS2lBdHdERk5BY21xbk1qaUhOV0QtSTVJWW1MdDBHU0NZMktoTTI4NVN6UGRjU0JZczhIaHdBUQ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-24T17:34:42.000Z",
-      "summary": ""
     },
     {
       "title": "AI进化速递丨Kimi K3.1 Pro发布",
@@ -68,6 +88,36 @@
       "category": "ai",
       "pubDate": "2026-10-24T12:31:47.000Z",
       "summary": "Kimi K3.1 Pro和K3.1 Pro Highspeed发布。",
+      "summaryZh": ""
+    },
+    {
+      "title": "推动人工智能技术走出实验室，中国移动发布时空智能系列模型能力及标杆场景",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VbTNiUWRhdURsbDUxWjh5cTZJNWhwTVc4Wm9fZnJHZVcxTHhYdFY5VWlRX09jVlNYbE1Nal9UcjJTc25hYllDNXlzNVBkWjR6aFRj?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-24T12:44:55.000Z",
+      "summary": "中国移动发布时空智能系列模型，赋能实体经济关键领域。",
+      "summaryZh": ""
+    },
+    {
+      "title": "上海：鼓励企业前瞻布局物理AI 重点突破世界模型构建、多模态物理感知、虚实交互与自主决策等核心技术",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14d3I4NnJEWnZ0aG9WRW4xM1FSbFBsMlhJdi1nNGE1WUF1bnZNZjRRX1Y1eVFYb3F1ejEtWUF1bTRrdTM2dEJSRw?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-24T18:46:01.000Z",
+      "summary": "上海推动企业布局物理AI，攻关核心技术，最高支持2000万元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "《国家信息化“十五五”规划》印发：推进人工智能等基础性立法强化无人驾驶、低空经济等新兴领域立法研究",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5MY0Z0Y2JxNUI3a011LVdvY0ZaODZxdnlXVlBvWURVd2V5bEs0RjRYRTRCaGxtNjhlQnBoLUZoZnZXTnlLTUlLcw?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-24T12:24:00.000Z",
+      "summary": "《国家信息化“十五五”规划》强调推进人工智能等基础性立法，加强无人驾驶、低空经济等领域立法研究。",
       "summaryZh": ""
     },
     {
@@ -82,14 +132,25 @@
       "titleZh": "在被迫选择的情况下，Grok 的人工智能模型选择了共和党人。 OpenAI 选择了民主党人。"
     },
     {
-      "title": "天津：AI健康“反诈”课堂推动数字健康适老化落地",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tTTh2ZEpDN1phZEIzUUlyNTdodjVwZ094anVMaFdMczRZTzhqQzYtSDVITk1iVl9vLUNTUlpKcUR3N05OSmpMbGpWM3N2TlBZR2RQVzVJcTRRVjViRk9kcTc0VHA5ZG5tMUM0eVlyOA?oc=5",
-      "source": "央广网",
+      "title": "复旦学者李志远谈OpenAI发布722篇数学手稿：AI冲击基础数学，但数学不会不存在",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fRzNUdHQ2VG9HM3drcWxWQlhVSFV0S2drM3FmWUNZM2Q2NC1ocnp0bXZVN1J3dXpmMHhmS1hESFBiZ0VhendQZ1dFalJDSXo1dWhDVQ?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-24T02:58:48.000Z",
-      "summary": "天津AI健康“反诈”课堂助力数字健康适老化。",
+      "category": "ai",
+      "pubDate": "2026-10-24T08:52:49.000Z",
+      "summary": "OpenAI发布722篇AI生成数学手稿，引发数学界对AI冲击基础数学的讨论。",
       "summaryZh": ""
+    },
+    {
+      "title": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
+      "link": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-24T12:34:27.000Z",
+      "summary": "Eka Robotics获1.5亿美元融资，扩大其机器人视觉-力量-动作模型。",
+      "summaryZh": "",
+      "titleZh": "Eka Robotics 融资 1.5 亿美元，用于扩展其机器人视觉-力-动作模型"
     },
     {
       "title": "马斯克Q3财报：人形机器人或将成为全球最大产业，量产背后精密零部件成为关键",
@@ -98,7 +159,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-24T06:21:41.000Z",
-      "summary": "马斯克Q3财报显示人形机器人产业潜力巨大，精密零部件成为量产关键。",
+      "summary": "马斯克Q3财报显示人形机器人产业潜力巨大，精密零部件是量产关键。",
       "summaryZh": ""
     },
     {
@@ -112,103 +173,43 @@
       "summaryZh": ""
     },
     {
-      "title": "复旦学者李志远谈OpenAI发布722篇数学手稿：AI冲击基础数学，但数学不会不存在",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fRzNUdHQ2VG9HM3drcWxWQlhVSFV0S2drM3FmWUNZM2Q2NC1ocnp0bXZVN1J3dXpmMHhmS1hESFBiZ0VhendQZ1dFalJDSXo1dWhDVQ?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-24T08:52:49.000Z",
-      "summary": "OpenAI发布722篇AI生成数学手稿，引发数学界对AI冲击基础数学的讨论。",
-      "summaryZh": ""
-    },
-    {
-      "title": "6大AI、30个剧本实测：claude才是“烧心体”的亲妈？",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xeTdScTRjTVdvc180a3VTeVJ0Q29lVGdfck1GZk1IQVlRbzg1eVcyNzNaZklhYkJwdm9hRnhGT1NXZ1hWdXhwOVZPRFc?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-24T00:48:00.000Z",
-      "summary": "AI短剧“烧心体”剧本多由Claude生成。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Deepseek招天才，Kimi找老兵",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xQTg3V3J2RklKTGMyelZmQndWaHpVVWphandlaDY1STJZSVo1SWJwa2ZlbjdRcGtzbXl4VUx5azhKcE1nRkZ2V29ibmQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-24T08:58:00.000Z",
-      "summary": "DeepSeek招聘注重年轻天才，Kimi侧重实战老兵。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xMkRfT0dMOEl4NG5jbGItZG9ZenFXbVpiQU5RUlRUeS1wU0o0eWp5Sy1fMkV2SjJUZ2JZaHcyOXJwZjNQdWdDZg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-24T07:49:11.000Z",
-      "summary": "英国将设立全球首个AI生物安全实验室，由OpenAI、Anthropic等共同支持。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
-      "link": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-24T12:34:27.000Z",
-      "summary": "Eka Robotics获1.5亿美元投资，扩大其机器人视觉-力-行动模型。",
-      "summaryZh": "",
-      "titleZh": "Eka Robotics 融资 1.5 亿美元，用于扩展其机器人视觉-力-动作模型"
-    },
-    {
       "title": "[开讲啦]全球第一个空间天气人工智能大模型是如何“磨”出来的？",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWNXBBbDRZdXpZT2x3czR4dVZUbzJMYndDdnZBOGdzN3BrZHk1Y1JsdWRPUEtPU3QyajR4eTN2eFFoSTNqT0paZ0g0S3NrdlFKRFhVZTlrMXNDZE5WWFVKa3FpeTZPR0RUM3cxb1dLSXFEdmN2MVE?oc=5",
       "source": "央视网",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-24T15:27:00.000Z",
-      "summary": "全球首个空间天气AI大模型研发过程揭秘。",
+      "summary": "全球首个空间天气人工智能大模型研发过程揭秘。",
       "summaryZh": ""
     },
     {
-      "title": "Kimi迭代3万亿参数大模型 首次推出Pro版本模型",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvand6SGdDTElUNkd0Zkp3emFrX2NwYWpnOHRVUm5YNlEwd2xhWEZfTFB1V295M2hMb216eGZ6RUlCU3VxQ0NIRzd1VFJVdkNMaU9lSEU5MFdmOFItQlpQNVd4clk?oc=5",
-      "source": "财新网",
+      "title": "[正点财经]为防范安全风险 OpenAI前沿AI模型训练将断网",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BN0FneWNfTGJFUkZFT0ttRGNRNzh5S0pFbFJGeTJUTE1mTVVnUXhDR1NTZk1qdGFkaUkzTUhiM0xqaUJ6Z2Y3R0NKTnJLMWJ1UEMwaUlYMWpMYUIxRURma0tPek9hWjBhdUtsSEYtNndCQ255WHc?oc=5",
+      "source": "央视网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-24T06:28:00.000Z",
-      "summary": "Kimi发布3万亿参数大模型Pro版本，支持100万上下文。",
+      "pubDate": "2026-10-24T06:55:00.000Z",
+      "summary": "OpenAI为防范安全风险将断网进行前沿AI模型训练。",
       "summaryZh": ""
     },
     {
-      "title": "#多利好催化，物理AI、机器人引领反攻#",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtVFZFcHJtbEJncDJFRGNpWlVzWGhFN1NjX2JaSjlidTQ4SW1vQU1xS2o4d3FYSnNNajBVTTlFUUJMemJtS1BfTnVSVG4zV3cwNy04NzJEU1UzR3c0Z2VmRE55SWhkcm8?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-24T22:07:25.000Z",
-      "summary": "东方财富网股吧话题频道，这里有最热的股市热门话题、观点，帮助您及时了解市场动态。"
-    },
-    {
-      "title": "大族激光与大族数控2026年前三季度业绩大增，AI算力带动PCB设备订单增长",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KRXlRU2xKelRlSnByVFBPektJTGI1MGpHVHdCTjZzUG9JQ3Bna21hWk9OSHkwczBEQ24xdWpQbjR3dkxqcFZJVTZrQjFTUnhVV1JXWQ?oc=5",
-      "source": "虎嗅",
+      "title": "讯飞星火医疗大模型V3.7升级，AI患者管理3.0发布并启动行业标准共建",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RT1NDanp6d1Vxd2xvM1pxRDJ3Zm5yZW9qeVZMYml6NHduVk8wcnFUWFBVUDQ1TGRUVEwzbkFWdTdCTy13OHFwSTdQZGQ1clJteHZEb19WLTl5djBNdzBWazhSNVgwS2hpaGQyTEtSblBMQ1RuTGE0dWV6dkI?oc=5",
+      "source": "新浪财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-24T03:12:04.000Z",
-      "summary": "大族激光与大族数控前三季度业绩因AI PCB需求激增，但股价较年内高点腰斩。",
+      "pubDate": "2026-10-25T02:55:50.000Z",
+      "summary": "讯飞星火医疗大模型V3.7升级，AI患者管理3.0发布并启动行业标准共建。",
       "summaryZh": ""
     },
     {
-      "title": "《具身智能领域青年科学家分布与流动报告》发布 勾勒全球前沿人才图谱",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mNVhZNml4TTBweXBoT0ptbkhwUUZPVk80ZFlXVVphcXJpZzJtVXdWU0ZkQzl3V1dFVVhqNVVwcGVveWFJbVd5RXhod0ltMnN2b0ZQVHlVMExZRFE5aGVsOQ?oc=5",
-      "source": "光明网",
+      "title": "芯报丨寒武纪：当前人工智能算力市场需求持续旺盛，能够支撑公司业务稳步增长",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLRGlGT0F1c0Vqdjd3Y2ZuSFhhMXNGQnZlSnAxRk5GUEZ2WXRMTzlmaWpHLUV4S2dzR2JsWlcyZldkcFY1azQwM1dLZTBYSXl0WDl4Ulp3?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-24T10:12:00.000Z",
-      "summary": "《具身智能领域青年科学家分布与流动报告》发布，揭示全球青年科学家群体特征。",
+      "category": "ai",
+      "pubDate": "2026-10-24T12:30:00.000Z",
+      "summary": "寒武纪称人工智能算力市场需求旺盛，支撑公司业务稳步增长。",
       "summaryZh": ""
     },
     {
@@ -228,29 +229,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-24T23:44:00.000Z",
-      "summary": "炒菜机器人搭载视觉系统，加速在餐饮业上岗，市场规模预计2030年突破117亿元。",
+      "summary": "炒菜机器人搭载视觉系统，加速在餐饮业上岗，市场预计2030年将突破117亿元。",
       "summaryZh": ""
-    },
-    {
-      "title": "探访医博会丨植发、理疗、循经治疗……一大批医疗机器人来袭",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qNFVXcTZPTjQwY2h3VU9fR2ZoM3JYU19NZDRGcUVDbklobExzRm1qd1lGLWxUUlZHa05jaHZwVXZSQ0hZb0lFaTJWRGFYeE1fclRqSFhlRHZvaFRUYjE4ZnlUd2I?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-24T10:01:00.000Z",
-      "summary": "医博会展示多款医疗机器人，涵盖植发、理疗等领域。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Robot Babies: Cute or Creepy?",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFbFpKNVM3T1BmdHJMNE1TdVdGTnlyUmFMcjlkUUxJT1luOVJ5VGJjblZjY0VTN0RsWU9sWUNXZFpUYlBoY3BnWDN2X0dtX2dTbUk4dTJPM2ZiQVdzN1RvZDlPWVB2dzVUZ0FCWlBGd1hWQQ?oc=5",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-24T12:21:09.000Z",
-      "summary": "机器人婴儿引发可爱与恐怖的讨论。",
-      "summaryZh": "",
-      "titleZh": "机器人婴儿：可爱还是令人毛骨悚然？"
     }
   ]
 }
