@@ -1,15 +1,15 @@
 {
   "date": "2026-10-25",
-  "generatedAt": "2026-10-24T23:23:15.786Z",
+  "generatedAt": "2026-10-25T00:33:18.196Z",
   "items": [
     {
-      "title": "Agent、机器人与制药，谁先被GPT-6 Astra改写？",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJR25jbzExOEZpNEFxTEVfazNPblJ1d1FhRU5ibnpXc2RRaUc1enUtTWJJSXRaNzhoWUdCajhER2N0cWhVeWdiZGVyck4?oc=5",
-      "source": "钛媒体",
+      "title": "瑞典政府办公厅出手，禁止办公电脑直接访问 ChatGPT、Claude",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wM0NQYTZjTlJ6RTdzQVdNX1NTU3lqTlAyNlZHcjlLQmlNT2dVUk9fMHptN0RGakN4TjNub2lzMUItMEJKbkdKaE9BdE8?oc=5",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-24T00:14:00.000Z",
-      "summary": "GPT-6 Astra发布，引发AI领域对Agent、机器人和制药行业变革的讨论。",
+      "pubDate": "2026-10-24T06:45:40.000Z",
+      "summary": "瑞典政府办公厅禁止办公电脑直接访问ChatGPT、Claude等AI服务。",
       "summaryZh": ""
     },
     {
@@ -22,34 +22,43 @@
       "summary": ""
     },
     {
+      "title": "精选丨魏海洪：宽基ETF弹性较小 建议关注物理AI 人形机器人方向",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NRGo3bml6czBCVVQzOUx5SWQ0M0d3MVhZNmpLVTZrbGhiV1BqdkNhY19tSk1fVDlSMUp1QS16eUY0REY5Nnc2bUd5YlZfODQybXN6dA?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-24T11:04:28.000Z",
+      "summary": "魏海洪建议关注物理AI和人形机器人方向，认为宽基ETF弹性较小。",
+      "summaryZh": ""
+    },
+    {
+      "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
+      "link": "https://www.ithome.com/1/017/525.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-24T23:09:54.000Z",
+      "summary": "GPU Unlock开源项目可提升RTX 30系列显卡AI算力，性能提升达60%。",
+      "summaryZh": ""
+    },
+    {
       "title": "机器人跑跳舞蹈，如何落地为实际价值？",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5meDk1Y2lKUjZfakFheEhrbkxYZzk1Z3RPaDdkWllqc2RIYWc1S2ZyVzZMeDFQMHJDMkpzaWZZYlFkZVltMFZGWmpyVnl6X3djcnJiR0gxMFo5WFBFRWJV?oc=5",
       "source": "财新网",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-24T09:00:00.000Z",
-      "summary": "人形机器人极限跑跳舞蹈，技术可拓展至实际生产应用。",
+      "summary": "人形机器人极限跑跳舞蹈技术可拓展至实际生产应用。",
       "summaryZh": ""
     },
     {
-      "title": "信通院报告：大模型价格回升明显，词元价格较去年下半年翻倍，日均消耗量增长3倍",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92b2RJQU1wUVB5NzNlRktib2xnVEVWTXJWZWRoRG5xSDNtb1hYc3ZsenRSWjFpeDNncEhCcmlBMXhHdGtia3JhYy1YUEg4UlJlWTRKUV9Jd2pRc1RFNWc?oc=5",
+      "title": "DeepSeek新模型登场，用户要给AI付的钱又少了",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wWGRLTFhZX2dWcU1QbE5sS2lBdHdERk5BY21xbk1qaUhOV0QtSTVJWW1MdDBHU0NZMktoTTI4NVN6UGRjU0JZczhIaHdBUQ?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-24T06:48:23.000Z",
-      "summary": "大模型词元服务价格翻倍，日均消耗量增长3倍。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Anthropic Claude 付款页面新增中国及港澳台地区选项，支持银联卡支付",
-      "link": "https://www.ithome.com/1/017/490.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-24T11:39:49.000Z",
-      "summary": "Anthropic Claude付款页面支持中国及港澳台地区银联卡支付。",
-      "summaryZh": ""
+      "pubDate": "2026-10-24T17:34:42.000Z",
+      "summary": ""
     },
     {
       "title": "AI进化速递丨Kimi K3.1 Pro发布",
@@ -59,26 +68,6 @@
       "category": "ai",
       "pubDate": "2026-10-24T12:31:47.000Z",
       "summary": "Kimi K3.1 Pro和K3.1 Pro Highspeed发布。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI创业方向仍存分歧：看对技术也可能看错生意",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNN0dfcEp5YjNyZF9xWDYxMlRzcDNMS1VmM0lRaVZUbTdIUWNpM0I1WjNQZ1lUWk1zeUFOd2NNOHRKQWhnTEtNdnNhMGlhNnEyZ1Rn?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-24T10:27:26.000Z",
-      "summary": "AI创业方向分歧，技术进步与商业化曲线不同步。",
-      "summaryZh": ""
-    },
-    {
-      "title": "上海：鼓励企业前瞻布局物理AI 重点突破世界模型构建、多模态物理感知、虚实交互与自主决策等核心技术",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14d3I4NnJEWnZ0aG9WRW4xM1FSbFBsMlhJdi1nNGE1WUF1bnZNZjRRX1Y1eVFYb3F1ejEtWUF1bTRrdTM2dEJSRw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-24T18:46:01.000Z",
-      "summary": "上海鼓励企业布局物理AI，攻关核心技术。",
       "summaryZh": ""
     },
     {
@@ -93,13 +82,23 @@
       "titleZh": "在被迫选择的情况下，Grok 的人工智能模型选择了共和党人。 OpenAI 选择了民主党人。"
     },
     {
+      "title": "天津：AI健康“反诈”课堂推动数字健康适老化落地",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tTTh2ZEpDN1phZEIzUUlyNTdodjVwZ094anVMaFdMczRZTzhqQzYtSDVITk1iVl9vLUNTUlpKcUR3N05OSmpMbGpWM3N2TlBZR2RQVzVJcTRRVjViRk9kcTc0VHA5ZG5tMUM0eVlyOA?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-24T02:58:48.000Z",
+      "summary": "天津AI健康“反诈”课堂助力数字健康适老化。",
+      "summaryZh": ""
+    },
+    {
       "title": "马斯克Q3财报：人形机器人或将成为全球最大产业，量产背后精密零部件成为关键",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KZWRWNko1c1JGOVBNOWhFcjZfUk5USFJhY0c2N0NKVDVvV2dNQ1pmaDNKc2l1RENMdnpveGFHa1FDSHNYY0U4dW5fQjFtVnNJRWdkYmJMOA?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-24T06:21:41.000Z",
-      "summary": "马斯克Q3财报显示人形机器人产业潜力巨大，精密零部件成量产关键。",
+      "summary": "马斯克Q3财报显示人形机器人产业潜力巨大，精密零部件成为量产关键。",
       "summaryZh": ""
     },
     {
@@ -133,15 +132,55 @@
       "summaryZh": ""
     },
     {
+      "title": "Deepseek招天才，Kimi找老兵",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xQTg3V3J2RklKTGMyelZmQndWaHpVVWphandlaDY1STJZSVo1SWJwa2ZlbjdRcGtzbXl4VUx5azhKcE1nRkZ2V29ibmQ?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-24T08:58:00.000Z",
+      "summary": "DeepSeek招聘注重年轻天才，Kimi侧重实战老兵。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xMkRfT0dMOEl4NG5jbGItZG9ZenFXbVpiQU5RUlRUeS1wU0o0eWp5Sy1fMkV2SjJUZ2JZaHcyOXJwZjNQdWdDZg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-24T07:49:11.000Z",
+      "summary": "英国将设立全球首个AI生物安全实验室，由OpenAI、Anthropic等共同支持。",
+      "summaryZh": ""
+    },
+    {
       "title": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
       "link": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-24T12:34:27.000Z",
-      "summary": "Eka Robotics获1.5亿美元融资，扩大其机器人视觉-力-行动模型。",
+      "summary": "Eka Robotics获1.5亿美元投资，扩大其机器人视觉-力-行动模型。",
       "summaryZh": "",
       "titleZh": "Eka Robotics 融资 1.5 亿美元，用于扩展其机器人视觉-力-动作模型"
+    },
+    {
+      "title": "[开讲啦]全球第一个空间天气人工智能大模型是如何“磨”出来的？",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWNXBBbDRZdXpZT2x3czR4dVZUbzJMYndDdnZBOGdzN3BrZHk1Y1JsdWRPUEtPU3QyajR4eTN2eFFoSTNqT0paZ0g0S3NrdlFKRFhVZTlrMXNDZE5WWFVKa3FpeTZPR0RUM3cxb1dLSXFEdmN2MVE?oc=5",
+      "source": "央视网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-24T15:27:00.000Z",
+      "summary": "全球首个空间天气AI大模型研发过程揭秘。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Kimi迭代3万亿参数大模型 首次推出Pro版本模型",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvand6SGdDTElUNkd0Zkp3emFrX2NwYWpnOHRVUm5YNlEwd2xhWEZfTFB1V295M2hMb216eGZ6RUlCU3VxQ0NIRzd1VFJVdkNMaU9lSEU5MFdmOFItQlpQNVd4clk?oc=5",
+      "source": "财新网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-24T06:28:00.000Z",
+      "summary": "Kimi发布3万亿参数大模型Pro版本，支持100万上下文。",
+      "summaryZh": ""
     },
     {
       "title": "#多利好催化，物理AI、机器人引领反攻#",
@@ -149,17 +188,17 @@
       "source": "东方财富网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-24T20:37:25.000Z",
+      "pubDate": "2026-10-24T22:07:25.000Z",
       "summary": "东方财富网股吧话题频道，这里有最热的股市热门话题、观点，帮助您及时了解市场动态。"
     },
     {
-      "title": "炒菜机器人进入商用关键期 从餐厅到食堂 渗透率快速提升",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16ZmxuMGd6UWdiMnl3d2NSMDZMUVJIS0pUc2szb2NYVlcwQWpod2NJVzdWM3JaNmo4VmRkRktldXhQUWZESVNRbF9vVVpEVm9rSDNHSVRCT2E3d19YakxjeUhjTV9GbmxnTVd1UjJHVVR2NjRnUUl5ZQ?oc=5",
-      "source": "央视网",
+      "title": "大族激光与大族数控2026年前三季度业绩大增，AI算力带动PCB设备订单增长",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KRXlRU2xKelRlSnByVFBPektJTGI1MGpHVHdCTjZzUG9JQ3Bna21hWk9OSHkwczBEQ24xdWpQbjR3dkxqcFZJVTZrQjFTUnhVV1JXWQ?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-24T18:22:30.000Z",
-      "summary": "炒菜机器人商用渗透率快速提升，从餐厅到食堂广泛应用。",
+      "category": "ai",
+      "pubDate": "2026-10-24T03:12:04.000Z",
+      "summary": "大族激光与大族数控前三季度业绩因AI PCB需求激增，但股价较年内高点腰斩。",
       "summaryZh": ""
     },
     {
@@ -173,16 +212,6 @@
       "summaryZh": ""
     },
     {
-      "title": "自动驾驶“下半场”怎么看",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QSEZDaUt1YTVVeWJiRXBfaGhqb1lOYWdSM1lZX0JacW1WTmtrYjVYajg3Qjdrd1JMTjVmRFhJSy0zY2dPU3JqNG9rYXM5NUZWMEJmVVIyT2V2LVBjdGM2QndfbzdXNnJMdXV4R1JweXdDZk0?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-24T02:17:09.000Z",
-      "summary": "2026年自动驾驶行业聚焦“转弯”技术，企业加速产品落地。",
-      "summaryZh": ""
-    },
-    {
       "title": "第八届国际医用机器人创新发展论坛在京举行",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tTEhhWTljbUJkQk1TUE1ZQ1Vna0NkUWdnMTcyZ18xWTZ3RGZoNnd3OWtkR0FZbTBpcURBOVgwczFpa3I0MDBNUUQ0d1RBb01QbG1HcUIteXo2Nk16MzVyZll0elk?oc=5",
       "source": "科技日报",
@@ -190,6 +219,16 @@
       "category": "robotics",
       "pubDate": "2026-10-24T14:54:48.000Z",
       "summary": "第八届国际医用机器人创新发展论坛聚焦高端医疗器械产业，探讨高质量发展路径。",
+      "summaryZh": ""
+    },
+    {
+      "title": "炒菜机器人加速上岗 它炒的菜味道如何？",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pUjg0Y3BKd05OTkFOT1JvWWF1UmVReG5KdnpzYS1HdnhFdTh5d05hNUZmaEhlUXI5SzZsbkNVNnZxWmlVT0xPTmhzcUR6a1YtOFRGMjBwN2xkRENDMHE0d0U0TGxDMFBZZGdvM3YyUQ?oc=5",
+      "source": "中国经济网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-24T23:44:00.000Z",
+      "summary": "炒菜机器人搭载视觉系统，加速在餐饮业上岗，市场规模预计2030年突破117亿元。",
       "summaryZh": ""
     },
     {
@@ -204,11 +243,11 @@
     },
     {
       "title": "Robot Babies: Cute or Creepy?",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xdlpsZGlTOHJuMkpsRGczM3Ffa0M2aGRnN0FoSHNzWGVEN3NxUUVoS1RvUGVNRjhnNVBWVkxhdjBUUGZybXpmb0Fnci1wUGFvLVptZmUxNnBSOW5nd282LVgwTWVEY282RjM0cDItOVhhQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFbFpKNVM3T1BmdHJMNE1TdVdGTnlyUmFMcjlkUUxJT1luOVJ5VGJjblZjY0VTN0RsWU9sWUNXZFpUYlBoY3BnWDN2X0dtX2dTbUk4dTJPM2ZiQVdzN1RvZDlPWVB2dzVUZ0FCWlBGd1hWQQ?oc=5",
       "source": "IEEE Spectrum Robotics",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-10-24T09:49:34.000Z",
+      "pubDate": "2026-10-24T12:21:09.000Z",
       "summary": "机器人婴儿引发可爱与恐怖的讨论。",
       "summaryZh": "",
       "titleZh": "机器人婴儿：可爱还是令人毛骨悚然？"
