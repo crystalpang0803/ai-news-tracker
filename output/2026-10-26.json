@@ -1,7 +1,27 @@
 {
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T00:44:10.417Z",
+  "generatedAt": "2026-10-26T04:53:41.317Z",
   "items": [
+    {
+      "title": "小鹏集团 Robotaxi 小鹏悠游获批 L4 级自动驾驶示范运营资质",
+      "link": "https://www.ithome.com/1/017/808.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-26T03:15:42.000Z",
+      "summary": "小鹏集团Robotaxi小鹏悠游获广州市L4级自动驾驶示范运营资质。",
+      "summaryZh": ""
+    },
+    {
+      "title": "丰田发力人形机器人，挑战特斯拉与中国厂商",
+      "link": "https://www.ithome.com/1/017/778.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-26T02:31:59.000Z",
+      "summary": "丰田加速布局人形机器人市场，挑战特斯拉及中国厂商。",
+      "summaryZh": ""
+    },
     {
       "title": "从客厅到课堂，再到养老院：广交会上AI落地现场不断延展",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xZS1ROW5WdElQaVE0X3BYZnh3czRUOUctM2FXcnhZWWVRRHJQTnYyLUx2elc1emJvY21vdEY3Q18zNGVNV0s2UWdMMXJmdUFlVzRr?oc=5",
@@ -13,63 +33,42 @@
       "summaryZh": ""
     },
     {
-      "title": "停训11天后重启，OpenAI最强模型断网开练",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wRW5Iczl3NDA1ck4ySVJRTVctOGRQVXNrd1dHd3ZIT3NYcHhjVUw4RXhzbzM4NUtTVnB5SGdrUWxtWnA5S25PbTdPZjZndWM?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-25T23:50:58.000Z",
-      "summary": "OpenAI最强模型停训11天后在断网环境下重启训练。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI恢复对AI模型训练，但不再接入互联网",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03a1ZrSl9MT0RhQzF0UkhMQkRJVW5POGJldkJmYnQ1bFVFZmRWQXc2Q1RuTlk4ZXVVQ3FCbDU4c3N0RVhXQWVtSUVPSHo5M0VXQXB2WA?oc=5",
+      "title": "IPO暂缓，智元机器人何去何从？",
+      "link": "https://www.tmtpost.com/8181407.html",
       "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-25T01:17:00.000Z",
-      "summary": "OpenAI恢复AI模型训练，断开互联网连接。",
-      "summaryZh": ""
-    },
-    {
-      "title": "马斯克的 Grok 发布 AI 版《奥德赛》前 7 分钟内容，被指缺乏艺术感染力",
-      "link": "https://www.ithome.com/1/017/727.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-25T23:30:27.000Z",
-      "summary": "马斯克AI版《奥德赛》前7分钟被批缺乏艺术感染力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI进化速递丨启元机器人第5000台个人机器人正式下线",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NLVpETFJKZURpNmtsamxiaDVJNTJQVkp2V2dWNmE2eUtEZTRrX0tpaTM2ck1oWUJmYXNXMExkenNtVWNsOE1nNGpTdDV6c3dQOXZB?oc=5",
-      "source": "第一财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-25T12:50:33.000Z",
-      "summary": "启元机器人第5000台个人机器人正式下线。",
+      "pubDate": "2026-10-26T01:48:33.000Z",
+      "summary": "智元机器人IPO暂缓，转向内部打磨业务基本面。",
       "summaryZh": ""
     },
     {
-      "title": "AI大模型狂飙，面板行业也扛不住了",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42U3c2MGNmZmVleEwxZS0tOUtySVZBQ0owYkJBRU15ckJZRXhuZTJkbG5CdTVIVER5djFTaWxoQWtPVklkbkNqdVdGUmVmLWN1?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-26T00:26:01.000Z",
-      "summary": "面板行业面临成本上涨压力，AI大模型需求推高HBM等元器件价格。",
-      "summaryZh": ""
-    },
-    {
-      "title": "中信证券：AI融资热潮下，CDS利差透露什么信号？",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEWjk2Y0I3T2ZSOEk3NGJzTzBraXRMeVpSaE52OUc3UTJ6dlNmdFUxUGhxcDhEQ1FhSTlpNmc1eXNwQWZjOUQ1Rk5EaDNVd0xheWZxdEJVbUlVZw?oc=5",
+      "title": "从“天感地算”到“天数天算”：中国企业在太空布局算力枢纽",
+      "link": "https://www.tmtpost.com/8181256.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-25T01:00:00.000Z",
-      "summary": "中信证券研报指出，AI融资热潮下，CDS利差上升但未演变为行业性信用风险。",
+      "pubDate": "2026-10-26T01:54:08.000Z",
+      "summary": "中国企业在太空布局算力枢纽，实现卫星在轨AI计算，开启商业航天智能化新变革。",
+      "summaryZh": ""
+    },
+    {
+      "title": "从“拼模型”到“抢入口”：国产大模型进军消费硬件",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pMU9IeERzYzhDY3FuUFRtanVldGdDX0xJLXNOTVJuYWJ0MnFPOW04d2piREsyazRhVGtzMFJFcmpIa3RaeHdFcUFnLThPQQ?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-25T09:53:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "总支出近亿，电视台掀起AI算力采购潮",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wZW15MjhkcFA2Ynh4VzY4WjQ2REVNZG4zZGVxdEljZEFISzl5WVlvU2VGSjNpMGpaWFJxNU5VQThtbTR5UGpaZ25fM2ZmYURj?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-26T00:56:08.000Z",
+      "summary": "电视台总支出近亿，大规模采购AI算力。",
       "summaryZh": ""
     },
     {
@@ -79,7 +78,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-25T15:56:07.000Z",
-      "summary": "无问芯穹与三体宇宙发布智子Agent 1.0，AI对话Agent具备智子人格特征。",
+      "summary": "无问芯穹与三体宇宙发布具有智子人格特征的AI对话Agent“智子Agent 1.0”。",
+      "summaryZh": ""
+    },
+    {
+      "title": "佳贤通信正与深圳市政府沟通构建基于AI-RAN技术的人工智能孵化中心",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xdmF3WHRBOTZ0WUZwTDNkbTItN081bkRtbEpyRHVpSllQaERQODZKN3BrYXA3cVZCQkp6eXZGRjZpX21yQWxFR1EtTFAwUEVVV1FFX0dHSGs?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-26T01:27:36.000Z",
+      "summary": "佳贤通信与深圳市政府合作，拟基于AI-RAN技术建人工智能孵化中心。",
+      "summaryZh": ""
+    },
+    {
+      "title": "港股大模型“双雄”走弱，MINIMAX-W跌超11%",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rREl4VkNXam1vbEtDS1d4M2x5cERLLXplRUx0WHNuNTRNRTAyX1Z0Tkt5Yk9YU3Q3aUNnQms3VENkTDQtUUlTR3Z3ZzhJQmxMX1A1c0JacU8?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-26T02:30:47.000Z",
+      "summary": "MINIMAX-W跌超11%，智谱跌近5%，港股大模型“双雄”走弱。",
       "summaryZh": ""
     },
     {
@@ -89,17 +108,37 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-25T22:45:26.000Z",
-      "summary": "Anthropic旗下AI模型Claude访问了公开的美国佐治亚州选民数据。",
+      "summary": "Anthropic旗下AI模型Claude未经许可访问佐治亚州选民数据。",
       "summaryZh": ""
     },
     {
-      "title": "端云协同成为人工智能落地新路径",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa3Z5X3pFRXI2YUdzdDhUb3AxTkRrT1liMnZGY0tXN3liZWxURUFHZHdwOVRtZVdnV1NaWkRYVzA3eEtMcmJEVVJRWXI2bjdGYmdHVmlhano5U2dIRGhjaEtfdDRTalFmakFZME9ydEpkbVg5Mk9oZHp5UlQ0NkRsUlBxcXd5REE?oc=5",
-      "source": "新浪财经",
+      "title": "A股异动丨物理AI成市场新引擎，人形机器人概念持续强势，宇树科技涨超7%",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvNlMtMExBdVZEMUtrWFBfMFU3YjJiSWlrc0xOcndac2dqQ3B3OEhCTkhFM1ZyeXV3clZEVVFOUGk5RHk1NmdCYml2ZmV0T1Zuc2MtVXNYUndBU2dkSTdlVlM0cGlhbTkwSS1Nd3VCQzFrLWFN?oc=5",
+      "source": "金融界",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-25T06:01:58.000Z",
-      "summary": "科大讯飞发布星火X2.6，端云协同破解AI安全与成本难题。",
+      "category": "robotics",
+      "pubDate": "2026-10-26T02:44:17.000Z",
+      "summary": "物理AI和人形机器人概念股在A股市场持续走强，宇树科技涨超7%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "港股异动 | 万咖壹联(01762)早盘涨近5% 物理AI进入落地环节 旗下二向箔服务多家头部机器人企业",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMVFd0MHZ6WjMwSTNRWnFZVXJEd3U5VjROTE8wQkJxRVpaekliSU5vQVJvdUJONnl0SkRXZXhxTzBEODF1MlBNQmVucDRZNGtiT1FhSVpNQ0dKbVVTSzUtOERkVDlpaHU3NjVlamV0Z24yaWRJ?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-26T01:38:59.000Z",
+      "summary": "万咖壹联涨近5%，物理AI落地，二向箔服务多机器人企业。",
+      "summaryZh": ""
+    },
+    {
+      "title": "物理AI催化，这回“轮”到家庭机器人",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdmJoQUpvV2VYbVlaeXo3aXR2TVNCV3NjU3B3ZUlrcVBTS294SDNteVk2ZllsdlJqRkZPcUNMem1WWE5TaHFPLVlyU1NHcFpwV2Z1Ukh4N2E3SEZrVWRVcjdZdDY1Z1d6bkVSSVBBYWdpYkcyV0tIVUVVVEdkTXQ0MHFrVWlfbkVuak5lOGhHQQ?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-26T04:21:00.000Z",
+      "summary": "物理AI推动家庭机器人市场升温，卧安机器人股价上涨。",
       "summaryZh": ""
     },
     {
@@ -109,7 +148,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-25T07:34:00.000Z",
-      "summary": "2026科大讯飞1024开发者节展示国产AI大模型落地进展。",
+      "summary": "2026科大讯飞1024开发者节展示国产AI大模型落地进展，星火X2.6大模型实现关键突破。",
       "summaryZh": ""
     },
     {
@@ -123,136 +162,83 @@
       "summaryZh": ""
     },
     {
+      "title": "DeepSeek完成近1000亿元融资，腾讯与宁德时代领投，国产算力与AI回报争议并存",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Ya3N3M2pfNXhCaDBFQ2pKZkJ3ZmZjTzRZRjE4OC1JaGJCeTNNdTdsRGJ2LV95SUd4VVc4NXExVXREdDYxOTREOEZIekJHelkzMHFGbw?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-26T03:46:03.000Z",
+      "summary": "DeepSeek获千亿融资，押注国产算力，AI回报存疑。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI披露前沿模型训练隔离环境：AI在离线互联网中训练，测试中曾借DNS和CPU缓存外联",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfMWtjRGVtWG5nS19kZ21yWHJVYXI5WTE0T0RMTzVLaG5abmpJM0pmNGUwWkZWbW1rMGc1dnJtTVNvSVhqX00xWXJwZ05jeTN5dlF1NQ?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-25T07:52:14.000Z",
+      "summary": ""
+    },
+    {
+      "title": "DeepSeek一款大模型单周调用量，登顶全球第一",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XYi1CUzJ6T200cy1TTXI0aGF3bjlsRlFNWXhIWGk0eGJyaFdnX0ctYzU2LWFMYWJXMzAtT2h1SnY2Rl91UTZSajFpaGdjd2dSdWQ5SnJmNTNOWlVJMHFOLVFRdXlYQQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-26T04:30:00.000Z",
+      "summary": "DeepSeek大模型单周调用量全球第一。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人“打人”算谁的？具身智能产业亟需构建分级监管治理体系",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XN2l4dmxvUmZnbjg0aWlHM2prZmdxRWZDR29uTkxFRTdIZjBxYndZN2JXRVFPck1GSHJ2ZHQxQXBURXJ2aDU2cUxLaUtDdFN1MDZyT3AtSQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-26T01:27:16.000Z",
+      "summary": "机器人打人事件引发监管关注，具身智能产业需建立分级治理体系。",
+      "summaryZh": ""
+    },
+    {
       "title": "真机、仿真、互联网视频三类数据，人形机器人该怎么选？",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sZFg2bzlsQkZsRHVfNldONEQ5YkhoMU03X1JOWVhvU00wZFpZcUQ1blJVelFId2QxanRma0tFekxjOVU5cmRyVjFfUGxOQkFLS21fZG50ZHRZejdVZHRz?oc=5",
       "source": "财新网",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-25T09:00:00.000Z",
-      "summary": "人形机器人发展需结合真机、仿真、互联网视频三类数据。",
+      "summary": "人形机器人领域真机、仿真、互联网视频数据互补，无优劣之分。",
       "summaryZh": ""
     },
     {
-      "title": "Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics",
-      "link": "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-25T12:35:33.000Z",
-      "summary": "Teradyne Robotics与Sereact合作扩大零售和物流领域的物理AI应用。",
-      "summaryZh": "",
-      "titleZh": "Teradyne Robotics 与 Sereact 合作扩展零售和物流领域的物理人工智能"
-    },
-    {
-      "title": "巡检、取证、派工单：高德的机器狗在园区“上岗”了",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4xUVRDUEFwaV9PaXpxVVhkNzhYcUJheVZJT3NSVG1MLUJjN1NuQV9vQ0lSQmtyZy00MmdGUVFQTExEd0lJbVE?oc=5",
-      "source": "智东西",
+      "title": "慧眼随身，预知前路：艾迈斯欧司朗携手肯綮科技，推动外骨骼机器人迈向“主动感知”",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xV0dTaGxRTWpHVjNaaEgtcTI4QWdCSndlZWRWMmFjM09yVm5Hb3FuOXU4cXBOVHlENHhkQ05udk5vZ0Q3d1NzRlFPanEzd3JsU3BCdFQwSQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-25T06:23:41.000Z",
-      "summary": "高德机器狗“途途”在阿里巴巴杭州西溪园区执行巡检等任务。",
+      "pubDate": "2026-10-26T02:39:57.000Z",
+      "summary": "艾迈斯欧司朗与肯綮科技合作，研发外骨骼机器人实现主动感知技术。",
       "summaryZh": ""
     },
     {
-      "title": "物理AI和机器人买什么会议核心观点-20261025",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQalJCVzdHQUtPRmpBV2Rkek9MUklRZVNPS3ROQzRHT2x6UHVBNmpCT2U5TEZTdUpJWkU5Qlk2Rm9aZkpxVk56VHU2RTVILVkzRTVXRDR6dDJQODdjS21NSGVJMi1LUm1XekJsbWZ4MGR2UzlkR2hpeElnVWc5d21weTFxWmVPc2Znem80N09uNC1CU2tXbWdlSHJ2SGFLQXh1cWVvM2NtdTZCeTRieDFoR1FpX1VmS2lFZm50U3ZrTWVrV0FnRGFkZ3pGeUR0ZGJSdFJXa1Bta0s1ZDlPVm1kRlRhZE1Dc2NBOFJCMUhxcFhrVFBjdXBxTi1fb1l6VWpBelBDOVZOUQ?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-25T13:55:00.000Z",
-      "summary": "物理AI和机器人会议聚焦数据采集、模型驱动和产业链机会。",
-      "summaryZh": ""
-    },
-    {
-      "title": "从“机械执行”迈向“智能决策” 炒菜机器人应用边界不断拓展",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zdnpzdlRMY0hmdkxmVk1sWU1nWmdDZEpCTm9uX3BCa0FJSzZXamhwazRaTFZrYzIwSXZvM001Vm5ROVRwYXVpV1h6V2NNX3NRSHozSXNYaEhqdnFEWFc4WUE3RXZGZHh3d3RVZy1TOER1YmpMSjN0Qg?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-25T03:48:40.000Z",
-      "summary": "炒菜机器人技术升级，应用范围持续扩大。",
-      "summaryZh": ""
-    },
-    {
-      "title": "跳出浅层适老，让AI接住银发热爱",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLel9VMHQ0cmNCYWh5SGZqVTlvamFHUTJsMnh4Mk1sdENTdEV2RlhnS0dUWFhRc3NRLU1lcG5qYk9CbkdUWTBQNHk5OVNqS1VCSjFQYzBoMXNfOUhnTUZLQm0wNGZiZlZvOVk0QXBQekZnZWFrNmpQNg?oc=5",
-      "source": "新浪财经",
+      "title": "高质量发展看中国｜AI赋能养老托育 科技消费链接烟火日常",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYSU9CbTBCdEdvaGJiUlRHeUxtV3NpeWM3cDE3b0VycEFCME5YZ3c3VFFTRUcwUmhjYjl0QjQzejYzVkMyd1FaUGc4UHgxNHd6bEhEUHFFYzlOcUJEWmdfSllGWjRlMUlLWkV2andtT0VBM1k?oc=5",
+      "source": "央广网",
       "lang": "zh",
       "category": "application",
-      "pubDate": "2026-10-25T19:37:49.000Z",
-      "summary": "AI技术应关注银发群体多元需求，拓展适老化创新空间。",
+      "pubDate": "2026-10-26T01:11:53.000Z",
+      "summary": "中国AI技术助力养老托育，科技消费融入日常生活。",
       "summaryZh": ""
     },
     {
-      "title": "明年，机器人就能进你家叠被子？",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaGdjQ1F2QzJ6SVk4ODB2U1dYOGhxNkJTRzlnd0dKbmVFUFZFdEp1a0Y3SlV5UmtUOHE4bDVNY2phei1iNHVfV2Uta1ZRTkF5c2pKaldPbU83YnNFbjZzTmF0Tzlfdk9NeC15NGM4V3FvQnVkSjFMZnA2RkZWMWJVdHJWMDZLdWFTUHdrN3k3RQ?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-25T12:03:00.000Z",
-      "summary": "明年宇树科技机器人有望进入家庭，实现叠被子功能。",
-      "summaryZh": ""
-    },
-    {
-      "title": "“AI创见喀什”大咖授课＋青年孵化，用AI绘就喀什文旅新画卷",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtZmVRYndCU1Yya2xIemxyMFotVVRHTjZGU2tjaG9vZElsSnFOZWd6anVWZzdXd3N1Q2pHU2lrVElRR3AyTENPTzBBMzVOQU1jdnJ4SmNR?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-25T13:12:00.000Z",
-      "summary": "“AI创见喀什”大咖授课＋青年孵化，用AI绘就喀什文旅新画卷（ 体中心吴玉凤 雷木果） #瓦卡奖 #深圳援…"
-    },
-    {
-      "title": "数智赋能向深 八闽文旅拓新——福建数字文旅创新发展观察",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VZ2lLZ0ZlMzBwdk9EWjE2UkdtdDgxZGhqdUhZenN5MmtZU0dzWS1pWjNmRUVyR1ZqQlByUThlcVUyTFVXMWlaNnVEenZBS1Q5bGhHQmFrRXpEQnd6MzNtbnJkLTI4Z1BsaVY0VGFxYktsUQ?oc=5",
+      "title": "AI健康“反诈”进养老院：百度健康让“求证”这件事不再丢人",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hcjdGN09Qam5PV1hiYmdrRnFJVXN6X1RQU0wzM0pmdnA4N0lPdWhHZXhfWTNLS093bmx4UHd6TDFKQTJOaGdLQjM4T1FPZ3REZzV0OFFUeXFCZllXeC1vZUtYZ251T3lZ?oc=5",
       "source": "中国新闻网",
       "lang": "zh",
       "category": "application",
-      "pubDate": "2026-10-25T15:01:48.000Z",
-      "summary": "福建数字文旅创新发展，AI赋能实现文旅产业转型升级。",
+      "pubDate": "2026-10-26T03:05:12.000Z",
+      "summary": "百度健康AI反诈课堂进养老院，助老人求证健康信息。",
       "summaryZh": ""
-    },
-    {
-      "title": "Iranian army says it shot down US drone over Bandar Abbas, Tasnim reports",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNjlxWUNjczg2SHFQamFEZDV0SVhZaHA5bFdqaVQzT1oxSjd0b2ZQQjd6MldHeEhKcUstbGJEa1QxMmFBMFhad2VnREVIa2xoT0tPWlFXVW5lcXVEYjMwdUd5NTRIYm0zTFpabXUxY2pCakRGM3JnWE1iNHc3MmtlbWduRno3ZWVGVWVpa2JtRjF4VDh5TEFHN21hUV9sQUhxOWpJMVVPNlhFMDd5SkJMekZkTFdtQzlnYnBQNkd2MG1TNzZy?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-25T07:22:39.000Z",
-      "summary": "",
-      "titleZh": "据塔斯尼姆报道，伊朗军队称在阿巴斯港上空击落了美国无人机"
-    },
-    {
-      "title": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ra1FlQmhNVEcxWnZNUVIwbDk2ZXFGTnEwUC10ZmVrRkNpWU5DTThYYmxCbGllVjZyVzNnNlc5VGFPVXZXRVZZNUF4NmNFbmRvTnJVRGRLaEZyQzUzQlQ1R3FUdlV2bXltdG5uQU1JR0FzZ9IBd0FVX3lxTE5kTWZsX2VDTy1DMUJqaEt2NTVMSnJuRFE2UE9iQ1RVRkphRVF5SU5UQzVXRXFhSTV1c2RIRE9VTFhLdjNFaUhCeWMyRUtZc2o2VlhtcV91WlBZRlBJZ1FETXdkRmFhTENjWi1UUEhJajNlVkpkTmNV?oc=5",
-      "source": "CNBC Tech",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-25T12:00:01.000Z",
-      "summary": "Wonder计划在德克萨斯州开设超过100家门店，并投资自动化和用户构建的餐厅，同时考虑IPO。",
-      "summaryZh": "",
-      "titleZh": "Marc Lore 的 Wonder 在考虑 IPO 时押注于德克萨斯州、自动化和用户建造的餐厅"
-    },
-    {
-      "title": "杰创智能的物理AI探索：让具身智能走进真实作业场景",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iZHZCdzVMcjBZb0x3NlZGeGtCb2JrNjRPMlMxTmFtQzVoc0VPS2EyaWs0R1lBZDVvU19sU1AxZ0htc1BYcl8tLTdPSjdjN2dLYWNFbDVnWHdzVUJDQXZ3bUZR?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-25T08:35:51.000Z",
-      "summary": "杰创智能AI机器狗亮相广交会，展示具身智能在安保执勤中的应用。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Toyota takes on Tesla and China in humanoid robot race",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOay04eC1KWXJvNXZNTTlwaWtmU3F6UmlUU0VZck0zTkhIdmdiQWNhdTBWNDFtelRnemhNTUR6bU1ObE5rMHdJNHEwSzh0WlZaQ1dBM0ZiTUc1MV9iMzE4NXFpQmtUYnJqSlpCMGJiUzk2dXZnSWhzSlJQLUtqRl9KaE5LeHU?oc=5",
-      "source": "Financial Times",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-25T21:00:06.000Z",
-      "summary": "丰田加入人形机器人竞赛，挑战特斯拉和中国企业。",
-      "summaryZh": "",
-      "titleZh": "丰田在人形机器人竞赛中迎战特斯拉和中国"
     }
   ]
 }
