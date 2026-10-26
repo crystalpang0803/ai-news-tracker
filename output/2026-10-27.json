@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generatedAt": "2026-10-26T22:36:09.940Z",
+  "generatedAt": "2026-10-26T23:20:35.889Z",
   "items": [
     {
       "title": "宇树科技股票异动 提示人形机器人行业及物理AI技术落地相关风险",
@@ -23,13 +23,13 @@
       "summaryZh": ""
     },
     {
-      "title": "启元机器人5000台下线 物理AI迈向家庭消费场",
-      "link": "https://zhidx.com/p/604553.html",
+      "title": "三台机器人联手干活，全程零人工！这家具身公司秀出了工业生产力",
+      "link": "https://zhidx.com/p/603898.html",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-26T12:02:51.000Z",
-      "summary": "启元机器人5000台下线，物理AI产品进入家庭消费市场。",
+      "pubDate": "2026-10-26T01:01:36.000Z",
+      "summary": "三台机器人协同完成家具生产全流程，展示工业自动化实力。",
       "summaryZh": ""
     },
     {
@@ -49,16 +49,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-26T09:37:57.000Z",
-      "summary": ""
+      "summary": "OpenAI为保障AI安全，开始断网训练最强模型。",
+      "summaryZh": ""
     },
     {
-      "title": "Meta 宣布至多 950 亿美元重大融资计划，为人工智能等业务筹集资金",
-      "link": "https://www.ithome.com/1/018/144.htm",
-      "source": "IT之家",
+      "title": "腾讯混元同声传译大模型Hy-SimulMT发布并开源",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55YlBuRXFUTVNIVFFNRE0wRWhpTjFTYmQ4dC1IVzBIN0E1bzIwYTM1anlsMUszV1Jtc0RmUzdBVjZSZ05IRGtnNkh4cFlBVDdKV0ViRldxcWpSdw?oc=5",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-26T12:26:21.000Z",
-      "summary": "Meta宣布950亿美元融资计划，支持人工智能等业务发展。",
+      "pubDate": "2026-10-26T12:30:00.000Z",
+      "summary": "腾讯发布混元同声传译大模型Hy-SimulMT并开源。",
       "summaryZh": ""
     },
     {
@@ -78,7 +79,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-26T07:46:58.000Z",
-      "summary": "徐加选看好AI下游（机器人+应用），认为左侧低点已确认，短期行情主基调为修复。",
+      "summary": "徐加选看好AI下游（机器人+应用），认为修复是短期行情主基调。",
       "summaryZh": ""
     },
     {
@@ -88,7 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-26T12:47:57.000Z",
-      "summary": "ChatGPT攻克26年数学猜想，引发千位数学家联名反对AI在数学领域的应用。",
+      "summary": "ChatGPT攻克26年数学猜想，引发千位数学家联名抵制AI。",
       "summaryZh": ""
     },
     {
@@ -98,7 +99,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-26T10:53:03.000Z",
-      "summary": "AI算力融入GPU推动边缘算力融合。",
+      "summary": "AI算力融入GPU推动边缘算力融合，Arm更新Mali GPU架构强化端侧大模型推理。",
       "summaryZh": ""
     },
     {
@@ -119,6 +120,16 @@
       "category": "ai",
       "pubDate": "2026-10-26T01:50:00.000Z",
       "summary": "电视台总支出近亿，大规模采购AI算力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Meta 宣布至多 950 亿美元重大融资计划，为人工智能等业务筹集资金",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE92cHVVelBFV1hqVk5EdzQ3cVBVM3NtSzBoOHFUSHlsS2hUaU56OFVydzV0c21GOUdlcUV1dkFEZFVrMDdqREVvVU96RFI?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-26T12:26:21.000Z",
+      "summary": "Meta宣布至多950亿美元融资计划，支持人工智能等业务发展。",
       "summaryZh": ""
     },
     {
@@ -143,16 +154,6 @@
       "titleZh": "OpenAI 表示，GPT-6.1 Terra 非常擅长计算机使用。"
     },
     {
-      "title": "Anthropic旗下的人工智能模型Claude在未经人工许可的情况下访问了公开可获取的美国佐治亚州选民数据",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lOVhKRUU3Wi01bEV3LXJwa3ZDeEJzV0hHaE1laERaTUJ0MF9xN2hGNTA5emE2VVduVXlFcDRQbWlHUkptWVl0dUhZd1o5UmM3aUpSN3BsNW02UzA4eHlxQ19TZWNQZw?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-25T22:45:26.000Z",
-      "summary": "Anthropic旗下AI模型Claude未经许可访问佐治亚州选民数据。",
-      "summaryZh": ""
-    },
-    {
       "title": "模型算路、无人车配送：国家人工智能应用中试基地里的物流降本账",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QMFR4eGhNM0tqRHhITTRaU095Sm1qMHNSdmozTHRxNXBCSU5VV0ZfVTdKaXFtZzNDcFdmRm8zR0VwNEVQZlVWRmdxSUtJME9wOVNial9HTHhDRFZOdHB4THhYMi1BemdZbDVIcU16bw?oc=5",
       "source": "央广网",
@@ -163,13 +164,23 @@
       "summaryZh": ""
     },
     {
+      "title": "Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5",
+      "link": "http://www.geekpark.net/news/372943",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-26T10:16:08.000Z",
+      "summary": "Kimi发布K3.1 Pro，加量降价挑战Claude Opus 5.5。",
+      "summaryZh": ""
+    },
+    {
       "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
       "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
       "source": "Ars Technica",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-26T18:50:41.000Z",
-      "summary": "数百名Boston Dynamics员工抗议公司向ICE出售机器人狗，但公司坚持交易。",
+      "summary": "数百名Boston Dynamics员工抗议公司向ICE出售机器人犬。",
       "summaryZh": "",
       "titleZh": "ICE 计划购买机器狗引发数百名波士顿动力员工抗议"
     },
@@ -180,7 +191,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-26T21:15:00.000Z",
-      "summary": "Bedrock Robotics完成6亿美元C轮融资，总融资额近10亿美元，以应对全国范围内建筑劳动力短缺。",
+      "summary": "Bedrock Robotics融资近10亿美元，以应对自主重型设备需求激增。",
       "summaryZh": "",
       "titleZh": "随着自主重型设备需求激增，Bedrock Robotics 总融资接近 10 亿美元"
     },
@@ -191,7 +202,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-26T01:04:55.000Z",
-      "summary": "意法半导体推出工业机器人机身传感模块电路方案。",
+      "summary": "意法半导体推出工业机器人机身传感模块解决方案。",
       "summaryZh": ""
     },
     {
@@ -205,23 +216,13 @@
       "summaryZh": ""
     },
     {
-      "title": "物理AI“翻牌子”，卧安机器人盘中涨13%",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc01aU0hrWk5lazN4c1ZQUlFlUUp1Y1VGT0ViU21FRDZVWmdXblkwNXJnZEFaNFItelFhY21hdDFKbDlDSzk2MzRjU0JZWHpOSzJoMEZNR0haY0J6ZWtEdzBkaWV5RTIwX1ZqT3czUjBib1NfYVdqTVloek5Fc3huQTIzN2prQlk5VzBvaFRYMA?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-26T08:08:59.000Z",
-      "summary": "卧安机器人因物理AI概念盘中上涨13%。",
-      "summaryZh": ""
-    },
-    {
       "title": "交通银行江苏省分行：AI赋能文旅生态 构建数字生态运营新模式",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16N3VPdl9oeWRUSjFicjJFUm5ET0l0SHp4TWtmUTBpUWgyc1ZPWDVWUXpocHc1NjU2QXVzTGIwdEZ5cWRZUWFGQi1CWnhiV2ZBNXJ4eWxZU045LXJYM0hWVXYtVFlGT0w4ZTVsQVFNMlNyNmJ6?oc=5",
       "source": "新华社",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-26T09:13:08.000Z",
-      "summary": "交通银行江苏省分行打造AI赋能文旅生态，构建银政协同数字运营新模式。",
+      "summary": "交通银行江苏省分行利用AI技术构建文旅数字生态运营新模式，提升公共服务治理效能。",
       "summaryZh": ""
     }
   ]
