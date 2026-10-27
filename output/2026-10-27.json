@@ -1,7 +1,17 @@
 {
   "date": "2026-10-27",
-  "generatedAt": "2026-10-27T05:11:51.562Z",
+  "generatedAt": "2026-10-27T09:19:15.669Z",
   "items": [
+    {
+      "title": "宇树科技：人形机器人行业尚处于商业化早期物理AI技术从实验室演示走向真实场景的规模化落地仍面临多重挑战",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tWndYUHpyUlJ5VTk0bXVFS3FJQzRyV24waV9ocFRwcXpXNUVubUUtSVFfMkVnVWpHTG1fUGJ1eEVYaUVhWVBudW5zQWxNTVUt?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-26T10:20:48.000Z",
+      "summary": "宇树科技人形机器人商业化早期，物理AI技术落地面临挑战。",
+      "summaryZh": ""
+    },
     {
       "title": "OpenAI发GPT-6.1新模型！用十分之一价格，干翻GPT-6 Astra",
       "link": "https://zhidx.com/p/604650.html",
@@ -13,23 +23,23 @@
       "summaryZh": ""
     },
     {
-      "title": "剑指美股人形和仿生机器人第一股，FFR 完成对 FFAI 的合并交易并挂牌上市",
-      "link": "https://www.ithome.com/1/018/301.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-27T03:26:24.000Z",
-      "summary": "FFR完成对FFAI合并并挂牌上市，目标成为美股人形和仿生机器人第一股。",
-      "summaryZh": ""
-    },
-    {
       "title": "宇树科技股票异动 提示人形机器人行业及物理AI技术落地相关风险",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFZ1l2WWlCMjQwajM2VVhPYXlEUmhkdHEwb2V1clMya2czM1JHRlBwejg2QUhpQ0xBYlFLNXpOVHhrSld4bkRDOWUxaW1xWGhPMC1sYVljb1d3YldUbUNxOUczdVNFakE3NkI5cGN5OA?oc=5",
       "source": "央广网",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-26T12:49:27.000Z",
-      "summary": "宇树科技股票异常波动，提示人形机器人及物理AI技术落地风险。",
+      "summary": "宇树科技股票异动，提示人形机器人及物理AI技术落地风险。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI开始断网训练最强模型：“安全起见”",
+      "link": "https://www.qbitai.com/2026/10/505529.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-26T09:37:57.000Z",
+      "summary": "OpenAI为保障AI安全，开始断网训练最强模型。",
       "summaryZh": ""
     },
     {
@@ -43,102 +53,72 @@
       "summaryZh": ""
     },
     {
-      "title": "“行元智能”杨世琦：不做本体，押注机器人“词元”",
-      "link": "https://www.tmtpost.com/8183026.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-27T01:59:59.000Z",
-      "summary": "行元智能押注机器人“词元”，专注数据规模化与模型协同设计。",
-      "summaryZh": ""
-    },
-    {
-      "title": "算力最多，进展最慢：字节大模型困于赛马制",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42N1VpUHA3aERzMXk2V2FTZV9LQU5GLVY4X3NYVUhFb016ZHJ2UUFYekZBcHBYZ0J5S3VneHBoSnZqcXVEcG9vejBZa0wtQQ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-26T09:12:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "OpenAI开始断网训练最强模型：“安全起见”",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOcDlmTFFzZjZKcUNabHQ5OTd0aXJkOVJvcnRPVWdLRzZLd1psQVVfSzR4YndCdjVKT09nZzhZOHBNVFcwZ1V1Y1RiU3lfZTBtanp3RA?oc=5",
+      "title": "小米披露灵巧手最新技术探索成果：基于1827个工厂SOP验证，升级21自由度仿生灵巧手",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Xal9GQVJzaFdINVpWUlZwaHlfLWNUOU82Tm1tWE9UZ3ZBRF9tWXJJaFlTQ3hMTUxqakp4VWNJRHdtVHp1UE95NFJaVEhIZEcyZzNTbQ?oc=5",
       "source": "量子位",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-26T09:37:57.000Z",
-      "summary": "OpenAI为安全起见断网训练最强模型，以应对AI安全事故频发。",
+      "category": "robotics",
+      "pubDate": "2026-10-27T07:09:28.000Z",
+      "summary": "小米发布基于1827个工厂SOP验证的21自由度仿生灵巧手。",
       "summaryZh": ""
     },
     {
-      "title": "光模块中国大模型调用量稳居全球首位，国办发文强化AI就业支撑，机构：AI应用加速渗透反哺底层算力需求",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zd1k3TUR2M3hEV2lMNi15NS1UNWp0U0JOb2tvNFozZGV3OXFQb0ZMYUlDSi1zM00tRjRhOTVYZDN0UXJQdXRNYmtxUDB1bDZMdDNSaDVmVHk?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-27T02:36:43.000Z",
-      "summary": "中国光模块大模型调用量全球领先，AI应用加速推动算力需求。",
-      "summaryZh": ""
-    },
-    {
-      "title": "探路者：旗下通途半导体与端侧大模型推理AI芯片头部企业战略合作",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9raEVVNmVNNThBYk44XzNkZDI4QThJT2JPNUNnUEtYOFcxS0dWeFR0V2JhdGVYb3Uxa3Z4dzdBTExrTnZEVjdpZmgxV2NXOFViWHZQRQ?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-26T06:41:00.000Z",
-      "summary": "探路者旗下通途半导体与AI芯片头部企业合作，聚焦移动端图形加速与端侧AI技术。",
-      "summaryZh": ""
-    },
-    {
-      "title": "小米官宣 21 自由度仿生灵巧手：26 电机混合驱动、1500 点高密度全掌触觉",
-      "link": "https://www.ithome.com/1/018/345.htm",
+      "title": "李在镕首次视察三星 RX 机器人事业部，关注 CES 2027 参展技术的研发进展",
+      "link": "https://www.ithome.com/1/018/478.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-27T04:26:33.000Z",
-      "summary": "小米发布21自由度仿生灵巧手，具备26电机混合驱动和1500点高密度全掌触觉。",
+      "pubDate": "2026-10-27T08:00:56.000Z",
+      "summary": "李在镕视察三星RX机器人事业部，关注CES 2027参展技术进展。",
       "summaryZh": ""
     },
     {
-      "title": "ChatGPT攻克26年猜想，千位数学家宣战AI，数学界彻底撕裂了-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FaWlETTBoNzZqV3VTWktVT283ZzMycDRfaDdTSWRhWmVvdEhqRWc0T0tFbU9YV2pwdDdyMzBxTEJ6TUlKWDg3Mm8xM2hCRzk0?oc=5",
+      "title": "算力最多，进展最慢：字节大模型困于赛马制-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95Um1tYnAxb1phQzk5M2Q0TFBFMDBrZjVZSVpnZkJoMmNzQUJxdU5fRW00ZEh4al9JMlJqTHpJdVlkWTlnNlVPZVZUVEpLNFda?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-26T12:47:57.000Z",
-      "summary": "ChatGPT攻克26年数学猜想，引发千位数学家联名反对AI参与数学研究。",
+      "pubDate": "2026-10-27T00:14:02.000Z",
+      "summary": "字节大模型因赛马制导致研发进展缓慢。",
       "summaryZh": ""
     },
     {
-      "title": "10亿Tokens免费送！实测全国产算力模型Spark-X2.6，纯代码搓出3D故宫",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zbW9aVW03a0JuejFnazNWZHFJSXBJTmRoNU52dTRMZmFialU2Y2tJdUlCZXdHbmU2QkowclFSc0pFMFhKNlprU0hJTHgzaTBjVE81cw?oc=5",
-      "source": "量子位",
+      "title": "大模型时代，谁会成为那部不肯换掉的“iPhone”？",
+      "link": "https://www.tmtpost.com/8182615.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-26T06:31:50.000Z",
-      "summary": "国产算力模型Spark-X2.6纯代码生成3D故宫，并免费提供10亿Tokens。",
+      "pubDate": "2026-10-27T08:21:42.000Z",
+      "summary": "大模型竞争转向用户习惯，谁能成为用户不愿更换的“iPhone”？",
       "summaryZh": ""
     },
     {
-      "title": "字节跳动扩招算力人才，大厂AI竞争进入软硬协同阶段",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qY21TNXozYXNMRnR5QVFabUh6aTZKZlREbjJWNThGQVU2cXJuR3d2RE0xQjNEVVF0SVBySGZZeW91NHM5VWN1bnZxUzNYMTB6a3Ew?oc=5",
+      "title": "睿尔曼智能发布GEN62万元级六轴机械臂",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QTHJuYU02RFBteko1TU5sU2RHd2diZkRodlhFSEhuWmwzMUhyZExsVm5lVUFta2FMcHRrZHlLWkFqS1ZfWWNsOU43RQ?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-26T15:50:19.000Z",
+      "summary": "睿尔曼智能发布万元级六轴机械臂GEN62，配置门槛降至万元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Anthropic招股书终披露：大模型到底赚不赚钱？",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jdmdXZTdrcE9SNDA4VXJESV9fY0JWbzFOaHFKS1dKbm9EVlduT0NUekl1dXdKX2ptTVVZODJCc1l0UVE1aHZwRmhKZEpoUQ?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-26T15:17:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "DeepSeek调用量连续三周全球第一，但最赚钱的还是海外模型",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5RWE4d056MFBTMzZYSm9ULVNxcmE5NnNLTTRwWW5Ua0VibGhuYW55S3dfcTVTeGYtSUhHel9nQzVpVWNsbGFVUTZEX3c0eGk4?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-26T10:09:34.000Z",
-      "summary": "字节跳动加大算力人才招聘，AI竞争进入软硬协同阶段。",
-      "summaryZh": ""
-    },
-    {
-      "title": "财联社10月27日电，港股“大模型双雄”双双上涨，智谱涨超10%，MINIMAX-W涨超4%。",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBXOFpUNmZiRGdMek9jU1A5RFBXV0JQblVJbHhfVEtVMkVMZkxZVDVwSkc0NXlDSmdabTktRGQ5T1ZjMUlJb2c?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-26T10:48:00.000Z",
-      "summary": "港股“大模型双雄”智谱、MINIMAX-W股价上涨，分别涨超10%和4%。",
+      "pubDate": "2026-10-26T10:34:57.000Z",
+      "summary": "DeepSeek模型连续三周全球调用量第一，但海外模型仍更赚钱。",
       "summaryZh": ""
     },
     {
@@ -153,14 +133,45 @@
       "titleZh": "OpenAI 表示，GPT-6.1 Terra 非常擅长计算机使用。"
     },
     {
-      "title": "朗新推动AI智能体落地电力交易、虚拟电厂等垂直场景",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2ZVViOHphczhLa2Z2d3Y1MEJ4QUx1dlFiZ2s5c2JjdkRCanNxdzlMcERIWUFPN3ZUQ3FOV0l6TTNVV0QxR2tqNWZud09HbDNxb0czSHJTOEY?oc=5",
-      "source": "经济观察网",
+      "title": "2027 款东风奕派 007 将于 10 月 30 日上市：换装半隐藏式门把手，激光雷达",
+      "link": "https://www.ithome.com/1/018/512.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-27T08:37:45.000Z",
+      "summary": "2027款东风奕派007将于10月30日上市，换装半隐藏式门把手，配备激光雷达。",
+      "summaryZh": ""
+    },
+    {
+      "title": "左手开源模型，右手创作 Agent，Hi3D 的 AI 3D 下半场",
+      "link": "http://www.geekpark.net/news/372939",
+      "source": "极客公园",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-27T01:53:00.000Z",
-      "summary": "朗新科技推动AI智能体在电力交易、虚拟电厂等垂直场景应用。",
+      "pubDate": "2026-10-27T07:59:20.000Z",
+      "summary": "Hi3D开源生产级3D模型底座，推出以创作者为核心的AI创作工具。",
       "summaryZh": ""
+    },
+    {
+      "title": "物理AI概念火热，百台人形机器人共舞刷新纪录，离真正干活还差什么？",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pVmRHUm5FdUxqc2d3ZElkLW5mNmRCMnZUTFYxRVdTZ3JGTlAzNi1BeGRiT25weEozbzBEZWVaa3VRbGxtMVhsNTd0X1VyUVNsbUVJSlczX3NuSkg4MWdXczJwTU8wUQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-27T03:52:00.000Z",
+      "summary": "百台人形机器人刷新跳舞纪录，但离实际应用仍需技术突破。",
+      "summaryZh": ""
+    },
+    {
+      "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+      "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-26T18:50:41.000Z",
+      "summary": "数百名Boston Dynamics员工抗议公司向ICE出售机器人犬。",
+      "summaryZh": "",
+      "titleZh": "ICE 计划购买机器狗引发数百名波士顿动力员工抗议"
     },
     {
       "title": "君逸数码成立机器人技术公司，含AI业务",
@@ -169,37 +180,36 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-26T09:23:00.000Z",
-      "summary": "君逸数码全资成立机器人技术公司，涉AI业务。",
+      "summary": "君逸数码成立机器人技术公司，专注AI业务。",
       "summaryZh": ""
     },
     {
-      "title": "中科创达发布滴水AIOS 3.0，汽车、机器人、AI眼镜都要自主智能",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41cnVOSHJ6MHZ4R3RnMGZ4aTBxYW5hXzBIUDhDUUdQTkpDSWQzbmhmaUdYeVR5UmZGWEFDODV6aGg5YjBlV1NGOHhVcUhqa3dFcHl5S1RMVQ?oc=5",
+      "title": "通宇通讯，安乃达：通信 AI‑RAN 憧憬遇兑现不确定性，电机机器人板块警惕回调压力",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45YkhCcGdGWE5wRTRkSUhNbnlyZ3ZzbThwSkJWRXBqazN4cG9NcXp4Q2ZSaDVyQ25ZRGJyMzJtTzBhR3VyYXJFbXJDMUNROVZ3a0g3emlOLWpEWXRHY1ZYTEFBVFBlTHU4NVpv?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-26T09:36:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "德州仪器(TI)移动机器人电机控制解决方案_电路方案",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kcE1Cel9oSDY2WUwwY2YxNkFaQkVKUW92UGxweW5CbDVmM0M3dkcyMUlXWHJaTm8tV1FxU1R3ZG02U3BvV3NfMGtQeXpFcHFIQ0VObVpmUQ?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-26T07:08:41.000Z",
-      "summary": "中科创达发布滴水AIOS 3.0，赋能汽车、机器人、AI眼镜自主智能。",
+      "pubDate": "2026-10-27T01:20:57.000Z",
+      "summary": "德州仪器推出移动机器人电机控制电路方案。",
       "summaryZh": ""
     },
     {
-      "title": "物理AI“翻牌子”，卧安机器人盘中涨13%",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc01aU0hrWk5lazN4c1ZQUlFlUUp1Y1VGT0ViU21FRDZVWmdXblkwNXJnZEFaNFItelFhY21hdDFKbDlDSzk2MzRjU0JZWHpOSzJoMEZNR0haY0J6ZWtEdzBkaWV5RTIwX1ZqT3czUjBib1NfYVdqTVloek5Fc3huQTIzN2prQlk5VzBvaFRYMA?oc=5",
-      "source": "21财经",
+      "title": "全球首例机器人猥亵案背后的监管盲区",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55cHY0bVVTSWYtUlZUMTJtb09XQUFuUkFyTGdBTlVZVVVrSGs5NFFaUXIwcHJlaFlzRDZCYkxldFlCRHRUQUk2YnlDZUNFbFpmM3pBTHNZTQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-26T08:08:59.000Z",
-      "summary": "卧安机器人因物理AI概念盘中上涨13%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "诺亦腾机器人完成Pre-A+++轮融资，汇融基金独家投资",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GdUtoUWpQMmVVSDVDOVVFXzJhb0lNNk13RHFTVnNHSjRTd3hnc096VGNCSDM1U2tUVTZJTkRPd2wyWGJJbXhFSDVfNVBXd2JnUUtNNlQtTXA?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-26T09:31:00.000Z",
-      "summary": "诺亦腾机器人完成Pre-A+++轮融资，汇融基金独家投资。",
+      "pubDate": "2026-10-27T02:11:23.000Z",
+      "summary": "全球首例机器人猥亵案凸显监管漏洞。",
       "summaryZh": ""
     },
     {
@@ -209,18 +219,17 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-27T01:18:38.000Z",
-      "summary": "AI技术助力银发族探索兴趣，拓展生活空间。",
+      "summary": "AI技术助力银发族享受更丰富生活体验。",
       "summaryZh": ""
     },
     {
-      "title": "贝恩《全球汽车消费者调研》：AI、电动化与自动驾驶正在改变消费者购车决策",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12V0NxdVd6VVc1Ym4tdFpUZkloV2lqbzBCNVFKeUQyVzJSYXJ2NWJQeHIyWDVUNm1fanlXVVNNX3pxSVJCTlZRNEJkSG1qYXVvbzBFbzRiSXRDLWFCR2lpVDJSYy1EaTQ3eFUxbA?oc=5",
-      "source": "中国新闻网",
+      "title": "ESG典型案例丨从一辆无人车到一张绿色网络：韵达股份的ESG长期主义实践",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UN0hpdXd2anhjY1lJcnMyVmNxbTJKS2dTSGVadXNVQjFIQ0xsVXpQSHlQZFN0NFFvakNmRFZ2UWUyNTZ4NzZWdGJDenJ2SGswYnk4bDc4b1FhYWwxQjFSTUJ3?oc=5",
+      "source": "中国经营网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-26T11:43:00.000Z",
-      "summary": "全球汽车消费者调研显示，AI、电动化与自动驾驶影响购车决策。",
-      "summaryZh": ""
+      "category": "application",
+      "pubDate": "2026-10-27T07:04:00.000Z",
+      "summary": ""
     }
   ]
 }
