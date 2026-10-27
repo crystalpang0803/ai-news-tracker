@@ -1,7 +1,27 @@
 {
   "date": "2026-10-28",
-  "generatedAt": "2026-10-27T20:38:26.440Z",
+  "generatedAt": "2026-10-27T22:07:09.760Z",
   "items": [
+    {
+      "title": "OpenAI新模型降价，中国大模型的“便宜”要失灵了？",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DQ1RTVENyZi1ScVFSSUpzYzRWaHY0d0hSTFBhMFJXWnlFdXp6MTZCZjBVdzAwVkZTbVZZRV9XXzc2clQ5bTRRV1o1b2ZvTWc?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-27T10:20:01.000Z",
+      "summary": "OpenAI发布GPT-6.1 Terra，价格降低50%，性能提升明显。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HVkwtS2pNdmlNYWxOMW9LdU03VGZmbzhfV1JjSmZfV0R2ZkZERU5mZW4zX3lsbTVhRmhzSkwwclhUVjF3eFNhWE1iVVNKdzZtYVdhMQ?oc=5",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-27T08:18:59.000Z",
+      "summary": "国产AI 3D大模型Hi3D开源商用，性能优于GPT-6。",
+      "summaryZh": ""
+    },
     {
       "title": "直播丨香港金融科技周2026：金融AI的规模化落地与商业化路径——从“数字员工”到盈利新引擎",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aSmZsX3pTNG9mWDgwdGlJVkMwNnVLcWhyVThwNERyTGFoa1ZtZi1wNFJhc1IwODRpa0JLZHVRQnVxcnRIMlVWWjZWTVRKM1dYbmRR?oc=5",
@@ -9,7 +29,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-27T11:50:01.000Z",
-      "summary": "香港金融科技周2026聚焦金融AI规模化落地与商业化路径探讨。",
+      "summary": "香港金融科技周2026探讨金融AI规模化落地与商业化路径。",
       "summaryZh": ""
     },
     {
@@ -33,13 +53,23 @@
       "summaryZh": ""
     },
     {
+      "title": "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aUmVHNTl1d1BEbm9PMTRCYmp6Y0Z4M0JhNjZqcFNCNno4bmo0X1F2Sl95S2Qwc2FZSzAtekV2ODdRQ0dWMmQtRmU4ak0?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-26T23:37:17.000Z",
+      "summary": "OpenAI AI模型在数学、计算机科学和物理学领域取得三项重大突破。",
+      "summaryZh": ""
+    },
+    {
       "title": "光模块中国大模型调用量稳居全球首位，国办发文强化AI就业支撑，机构：AI应用加速渗透反哺底层算力需求",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zd1k3TUR2M3hEV2lMNi15NS1UNWp0U0JOb2tvNFozZGV3OXFQb0ZMYUlDSi1zM00tRjRhOTVYZDN0UXJQdXRNYmtxUDB1bDZMdDNSaDVmVHk?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-27T02:36:43.000Z",
-      "summary": "中国光模块大模型调用量全球领先，AI应用加速推动算力需求。",
+      "summary": "中国AI大模型调用量全球领先，国办强化AI就业支撑，AI应用加速渗透反哺底层算力需求。",
       "summaryZh": ""
     },
     {
@@ -53,23 +83,13 @@
       "summaryZh": ""
     },
     {
-      "title": "做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HT2JVZWJ5SDR5TnpYbkVBSUR5UFo3a1FJSU9GU2dUWjJ3YzhsS2xZVGZMd1k1N19VbjhQdzBBZWFFdFlBY3pDNGlQQndlQmstQkJ5Ug?oc=5",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-27T07:44:41.000Z",
-      "summary": "达卯科技以能源大脑技术破解绿电直连项目落地难题，推动算电协同发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "上海：加快突破AI高性能芯片，加快构建“枢纽-区域-边缘”算力设施体系",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PMnRSLVk2eTlHbUhYbXR6UW52OFdXZldlQXdLQWpfUXFaXzNiSGY2bU90THN6d3JFVExzNGpGYVc5Qjlhd2tmLVhXXzI2YkwzUFJTVlA5d3BYdw?oc=5",
+      "title": "博通与多家银行合作进行630亿美元AI融资",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IVXktZ3JZeWQxOW5lTXhQT2FhaWhOMXJGZGpaZGx3Njlxa2trSmZFb0pCeVVsS0JEMW5XbWNmM1V2ZWxtU0RFT2NORl85REhHcV9wajI5QWhvZw?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-27T09:36:00.000Z",
-      "summary": "上海加速AI芯片突破，构建算力设施体系。",
+      "pubDate": "2026-10-27T00:05:00.000Z",
+      "summary": "博通与多家银行合作设立630亿美元AI融资安排。",
       "summaryZh": ""
     },
     {
@@ -79,7 +99,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-27T07:45:34.000Z",
-      "summary": "阿里、蚂蚁系资本投资链企AI，押注招投标垂直大模型。",
+      "summary": "阿里、蚂蚁系资本支持链企AI开发招投标垂直大模型。",
       "summaryZh": ""
     },
     {
@@ -93,13 +113,23 @@
       "summaryZh": ""
     },
     {
-      "title": "Anthropic预计资本开支仍将大幅增长 AI算力需求有望保持在高位",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wYlVHRGRiZllCTmt4NmFhZVNBa0VjS0FKWUIzOGQ5WWgwLWlwLWJkUkYxaW5STUtCSWZhOWh0d1plNnZ3aGhjSQ?oc=5",
+      "title": "港股“大模型双雄”双双走强",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yMG5Eei0tSFRTUVlSRXdSMDh4aHRybFRXakMtTlBSWkNNSXpsNmFMTDZ0Z0N1WHgteEhIRmo4cmZsMU5XVnBkSkZrYl9YeHdNRDFR?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-27T11:51:08.000Z",
+      "summary": "智谱涨超10%，MINIMAX-W涨超4%，港股“大模型双雄”股价走强。",
+      "summaryZh": ""
+    },
+    {
+      "title": "英伟达拟出资30亿美元认购Meta新股 双方深化AI智能体合作",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wdFVvUTdrVGUwRmdnVmY4c2Ffb0RVbGNoVVRJT25hV3I1X3piQjlYUGRnd3lXWl8yMy1GVDNmTjhGekhfN2RSQg?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-27T00:07:00.000Z",
-      "summary": "Anthropic预计资本开支大幅增长，AI算力需求保持高位。",
+      "pubDate": "2026-10-27T09:47:58.000Z",
+      "summary": "英伟达拟投30亿美元认购Meta新股，深化AI智能体合作。",
       "summaryZh": ""
     },
     {
@@ -109,18 +139,38 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-27T01:53:00.000Z",
-      "summary": "朗新科技推动AI智能体在电力交易、虚拟电厂等垂直场景应用。",
+      "summary": ""
+    },
+    {
+      "title": "具身智能“奇点”将至？宇树科技王兴兴：我真的非常害怕浪费每一天",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE81WWhOckw4Z2MzYWFBSWNrM1ZYNU83d0VCZy14d3QzdHp1V3ZLdlhGYlN2UDg2b21USUl3UWtkakNTUkZ2QmZHNQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-27T09:16:27.000Z",
+      "summary": "宇树科技王兴兴预测AI“奇点”将至，启动宇创计划孵化超200家生态企业。",
       "summaryZh": ""
     },
     {
-      "title": "启元机器人第 5000 台下线，从规模化量产迈向商业化验证",
-      "link": "http://www.geekpark.net/news/373003",
-      "source": "极客公园",
+      "title": "OpenAI宣布AI模型在数学、计算机科学与物理领域取得三项基础性证明突破",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1POS1DT1RaSklQWW5ybnBUMTdGeGJ4UDA5ZlYwdjlaVno5T284SU01VUpPb3JiQ3NLWWtvX3BzY0ZXRGJfc1ROWjRLQTdtR05ZVVMxQQ?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-27T08:46:19.000Z",
-      "summary": "启元机器人完成第5000台下线，标志着从规模化量产迈向商业化验证。",
+      "category": "ai",
+      "pubDate": "2026-10-27T01:55:18.000Z",
+      "summary": "OpenAI AI模型在数学、计算机科学和物理领域取得三项基础性证明突破。",
       "summaryZh": ""
+    },
+    {
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-27T20:48:58.000Z",
+      "summary": "研究人员对OpenAI保密其突破性进展感到不满。",
+      "summaryZh": "",
+      "titleZh": "研究人员已经厌倦了 OpenAI 的突破"
     },
     {
       "title": "四足机器人市场分化加剧 云深处科技领跑行业级应用赛道",
@@ -133,59 +183,6 @@
       "summaryZh": ""
     },
     {
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-27T02:00:00.000Z",
-      "summary": "OpenAI发布持续运行的个人助理工具dots。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 如何将其编码工具变成点，一个永远在线的个人助理"
-    },
-    {
-      "title": "Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges",
-      "link": "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-26T21:15:00.000Z",
-      "summary": "Bedrock Robotics获6亿美元C轮融资，总融资近10亿美元，以应对全国范围内的建筑劳动力短缺。",
-      "summaryZh": "",
-      "titleZh": "随着自主重型设备需求激增，Bedrock Robotics 总融资接近 10 亿美元"
-    },
-    {
-      "title": "用豆包缴纳水费和燃气费？大模型“开抢”生活服务入口",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81RXo4NHppMC15eHVhWDhpeThzSHR0VXpGNTBVNE1BUzl2VTN5VFZhaGhPOV9mcVFTQm5mNnJwd3lTSFNLMkV6QXFpUV9MTWtKMHRxRWNJOWF0a3hIQjVRTnFSWXRadw?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-27T03:42:58.000Z",
-      "summary": "AI大模型开始涉足生活缴费服务，上海用户可语音缴纳水费和燃气费。",
-      "summaryZh": ""
-    },
-    {
-      "title": "《上海市加快发展新一代智能制造行动方案》印发",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yNlJhWVN5QXl3M2xrVVNqZ0t4ZEFoRnZ3d2x1MUc0aWtiaDVyeWRsOG8xUUc3ZWhaMmFkVkNKM0RIeUNScDJQN0ZBU0VXY0hyd004?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-27T17:15:34.000Z",
-      "summary": "上海印发智能制造行动方案，目标2028年实现智能工厂全覆盖。",
-      "summaryZh": ""
-    },
-    {
-      "title": "My favorite robot vacuum just got quieter, and more expensive",
-      "link": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-27T16:00:00.000Z",
-      "summary": "我的机器人吸尘器变得更安静但价格上涨。",
-      "summaryZh": "",
-      "titleZh": "我最喜欢的机器人真空吸尘器变得更安静，而且更贵"
-    },
-    {
       "title": "研发导盲机器人，这位盲人创业者拿到了数千万元股权融资",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sNy1KNnNCLU1qV0dFN1Z2cTQxT1g2U0tNQlJCdF9DeVJVdjVxdkc1akczcFMxZnJjdmZZaHVJTmtPZ19UMXluallRSmNTbEZIR3RaYzlvM0k?oc=5",
       "source": "经济观察网",
@@ -193,16 +190,6 @@
       "category": "robotics",
       "pubDate": "2026-10-27T12:07:00.000Z",
       "summary": "盲人创业者研发导盲机器人，获数千万元Pre-A轮股权融资。",
-      "summaryZh": ""
-    },
-    {
-      "title": "事关智能制造，上海重大发布",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85aDVweWV5TkQ4YTVNamN5WWx4aG9CM0NPUEVfV2JtWkhmNDQ1X0lQa1ZyclNaMTdNcXVwOVJVd3dvTF9LdlMwMWRubXZWSldE?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-27T10:59:35.000Z",
-      "summary": "上海发布《行动方案》，推动智能制造装备升级，实现智能工厂全覆盖。",
       "summaryZh": ""
     },
     {
@@ -216,15 +203,25 @@
       "summaryZh": ""
     },
     {
-      "title": "Qualcomm to acquire PickNik to expand open-source robotics and physical AI capabilities",
-      "link": "https://roboticsandautomationnews.com/2026/10/26/qualcomm-to-acquire-picknik-to-expand-open-source-robotics-and-physical-ai-capabilities/106361/",
-      "source": "Robotics & Automation News",
+      "title": "My favorite robot vacuum just got quieter, and more expensive",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSnZsV29JSm5uc0dMWDBYc2h6Y1RfbGdtTWRTMlJlVDR5Ukh3dTRNZTJTMFBhU2dMSUx5NWs0UXBxVUR5eThnR3dUVmsyUVpZZzRsWTJRTWl1Umg0UGZ6Ui1ZQ2hkVC1adS1WTGZIQVAxRkxyZUVGczBoaTgyMFpXb0VQal9GNlRlc3o4YjVXYllkZw?oc=5",
+      "source": "The Verge",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-10-26T22:03:54.000Z",
-      "summary": "高通收购机器人软件公司PickNik，以增强其开源机器人和物理AI能力。",
+      "pubDate": "2026-10-27T16:00:00.000Z",
+      "summary": "我的机器人吸尘器变得更安静但价格上涨。",
       "summaryZh": "",
-      "titleZh": "高通收购 PickNik 以扩展开源机器人和物理人工智能能力"
+      "titleZh": "我最喜欢的机器人真空吸尘器变得更安静，而且更贵"
+    },
+    {
+      "title": "高峰来了、打法换了：AI与具身智能首次规模化上场，快递业迎战 “最科技”“双 11”",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2U2NyOWhRaF9NQ1dHcHJ0RmtTZTNuc3I2UkN4Rkk0Vi03ejY4SGhVRWxua2dVQ2J5Zzdhb0w2UVd6Z0FWdE5jenljQURBREliakZLNHdhWk5uQlkzZGROZFJsZlNFUQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-27T14:54:00.000Z",
+      "summary": "AI与具身智能首次大规模应用于快递业，助力“双11”高峰应对。",
+      "summaryZh": ""
     }
   ]
 }
