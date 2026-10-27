@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generatedAt": "2026-10-27T00:35:27.115Z",
+  "generatedAt": "2026-10-27T01:37:57.111Z",
   "items": [
     {
       "title": "OpenAI 低成本新模型 GPT-6.1 Terra 深夜炸场：每项任务成本仅 Claude Opus 5.5 九分之一，更快更准确",
@@ -13,24 +13,43 @@
       "summaryZh": ""
     },
     {
+      "title": "宇树科技股票异动 提示人形机器人行业及物理AI技术落地相关风险",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFZ1l2WWlCMjQwajM2VVhPYXlEUmhkdHEwb2V1clMya2czM1JHRlBwejg2QUhpQ0xBYlFLNXpOVHhrSld4bkRDOWUxaW1xWGhPMC1sYVljb1d3YldUbUNxOUczdVNFakE3NkI5cGN5OA?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-26T12:49:27.000Z",
+      "summary": "宇树科技股票异动，提示人形机器人及物理AI技术落地风险。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Counterpoint：英伟达引领人形机器人 AI 加速器市场，高通、英特尔、特斯拉、小鹏逐步崛起",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1URWplNFRRV0psMEl1ZFlNdl95VzM5Q25KTW95UGNLR3p0YVNnbGRsWktheGI1U0NZdGpnSGgwRWU1MkVlVngxQ044RFk?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-26T10:06:16.000Z",
+      "summary": "英伟达主导人形机器人AI加速器市场，高通、英特尔等厂商逐步崛起。",
+      "summaryZh": ""
+    },
+    {
       "title": "启元机器人5000台下线 物理AI迈向家庭消费场",
       "link": "https://zhidx.com/p/604553.html",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-26T12:02:51.000Z",
-      "summary": "启元机器人5000台下线，物理AI产品进入家庭消费市场。",
+      "summary": "启元机器人5000台量产下线，物理AI产品进入家庭消费市场。",
       "summaryZh": ""
     },
     {
-      "title": "三台机器人联手干活，全程零人工！这家具身公司秀出了工业生产力",
-      "link": "https://zhidx.com/p/603898.html",
-      "source": "智东西",
+      "title": "算力最多，进展最慢：字节大模型困于赛马制",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42N1VpUHA3aERzMXk2V2FTZV9LQU5GLVY4X3NYVUhFb016ZHJ2UUFYekZBcHBYZ0J5S3VneHBoSnZqcXVEcG9vejBZa0wtQQ?oc=5",
+      "source": "36氪",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-26T01:01:36.000Z",
-      "summary": "三台机器人协同完成家具生产全程，展示工业自动化水平。",
-      "summaryZh": ""
+      "category": "ai",
+      "pubDate": "2026-10-26T09:12:00.000Z",
+      "summary": ""
     },
     {
       "title": "OpenAI开始断网训练最强模型：“安全起见”",
@@ -49,7 +68,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-26T12:30:00.000Z",
-      "summary": "腾讯发布开源混元同声传译大模型Hy-SimulMT，支持中英语音实时翻译。",
+      "summary": "腾讯发布混元同声传译大模型Hy-SimulMT，支持中英语音实时翻译。",
       "summaryZh": ""
     },
     {
@@ -73,22 +92,14 @@
       "summaryZh": ""
     },
     {
-      "title": "当AI压进GPU，边缘算力走向融合-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5USVNZaWx1bklKV0duWng2TnQ4bmF1cjFhcVhVbm10Y2lESGd2MEpMeHpHV3NaNXRPYXVBaGd6eU9FOFBUWGVzNmtNdw?oc=5",
+      "title": "ChatGPT攻克26年猜想，千位数学家宣战AI，数学界彻底撕裂了-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FaWlETTBoNzZqV3VTWktVT283ZzMycDRfaDdTSWRhWmVvdEhqRWc0T0tFbU9YV2pwdDdyMzBxTEJ6TUlKWDg3Mm8xM2hCRzk0?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-26T11:08:20.000Z",
-      "summary": ""
-    },
-    {
-      "title": "博通与多家银行合作进行630亿美元AI融资-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WUkRuMnZUcGd3SFVLalk0bkh1eVM1ZnNjbk80MzlnN3R6VGRaNU04bHN5OGVTSGpyeEpkSlJYcDRLRXY4S3B1aUZnNnZQZ0tYRkN0Rzh0STk?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-26T23:56:26.000Z",
-      "summary": ""
+      "pubDate": "2026-10-26T12:47:57.000Z",
+      "summary": "ChatGPT攻克26年数学猜想，引发千位数学家联名抵制AI。",
+      "summaryZh": ""
     },
     {
       "title": "B站AI创造公开赛第二赛季启动，设百万奖金池、英伟达算力加持",
@@ -97,7 +108,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-26T05:09:35.000Z",
-      "summary": "B站AI创造公开赛第二赛季启动，设百万奖金池，英伟达提供算力支持。",
+      "summary": "B站AI创造公开赛第二赛季启动，百万奖金池吸引开发者参与。",
       "summaryZh": ""
     },
     {
@@ -107,7 +118,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-26T01:50:00.000Z",
-      "summary": "电视台总支出近亿，大规模采购AI算力服务。",
+      "summary": "电视台总支出近亿，大规模采购AI算力。",
       "summaryZh": ""
     },
     {
@@ -117,37 +128,28 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-26T08:14:58.000Z",
-      "summary": "外交部表示欢迎更多国家加入世界人工智能合作组织。",
+      "summary": "外交部欢迎更多国家加入世界人工智能合作组织。",
       "summaryZh": ""
     },
     {
-      "title": "字节跳动扩招算力人才，大厂AI竞争进入软硬协同阶段",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qY21TNXozYXNMRnR5QVFabUh6aTZKZlREbjJWNThGQVU2cXJuR3d2RE0xQjNEVVF0SVBySGZZeW91NHM5VWN1bnZxUzNYMTB6a3Ew?oc=5",
-      "source": "第一财经",
+      "title": "GPT-6.1 Terra is very good at computer use, OpenAI says.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXhWcFNrand2dkh1U1Ntd1RORFhldFFSdUJXX3RvRzF1eDNkclMtV25QWTRLampjWUFhdUZET0xmQkRSQndPMW5UaThrU0F4cG5ESmZrclM2MDA4X2ppeWNPa2l4RTNEX0R6ZjhOQkl4OTI2clhTcy00eVY1NzA4SjhpRVdBY3F3TkJqTlFtTWUwT0RlNUUyZVNrbk9TNFFabHRVSmJtUHNkYW9BbS1hWkU4eHA?oc=5",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-26T18:22:51.000Z",
+      "summary": "OpenAI宣布GPT-6.1 Terra在计算机使用方面表现优异。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 表示，GPT-6.1 Terra 非常擅长计算机使用。"
+    },
+    {
+      "title": "Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5",
+      "link": "http://www.geekpark.net/news/372943",
+      "source": "极客公园",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-26T10:09:34.000Z",
-      "summary": "字节跳动加大算力人才招聘，AI竞争进入软硬协同阶段。",
-      "summaryZh": ""
-    },
-    {
-      "title": "模型算路、无人车配送：国家人工智能应用中试基地里的物流降本账",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QMFR4eGhNM0tqRHhITTRaU095Sm1qMHNSdmozTHRxNXBCSU5VV0ZfVTdKaXFtZzNDcFdmRm8zR0VwNEVQZlVWRmdxSUtJME9wOVNial9HTHhDRFZOdHB4THhYMi1BemdZbDVIcU16bw?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-26T09:24:15.000Z",
-      "summary": "国家人工智能应用中试基地展示物流降本应用案例。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AIoT 典型商业实践：AI 眼镜、人形机器人、低空经济、AI 安全新挑战",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PMW5oR0k5X0ZUZE1IZHl2M3A4c09QVmJhdkQ5cG9SbWI4dnVUTk5mNXRrQkh4WllOVVhVWm40QmRyZ0VsVGN5blY5clpYTHRMcUF3eWt3NA?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-26T05:29:04.000Z",
-      "summary": "AI眼镜、人形机器人等领域AIoT应用实践涌现，同时面临新安全挑战。",
+      "pubDate": "2026-10-26T10:16:08.000Z",
+      "summary": "Kimi发布K3.1 Pro，加量降价挑战Claude Opus 5.5。",
       "summaryZh": ""
     },
     {
@@ -168,28 +170,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-26T21:15:00.000Z",
-      "summary": "Bedrock Robotics获6亿美元C轮融资，总融资近10亿美元，以应对全国建筑劳动力短缺。",
+      "summary": "Bedrock Robotics获6亿美元C轮融资，总融资近10亿美元，以应对全国范围内建筑劳动力短缺。",
       "summaryZh": "",
       "titleZh": "随着自主重型设备需求激增，Bedrock Robotics 总融资接近 10 亿美元"
     },
     {
-      "title": "宇树科技大涨超8%，近7日股价飙升超6成",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OTTFpS2JmUTNUTDV5bUJxVXpGd2c2aWp1N09SSi1nM1NsOTd1akVUWEE5Z0RHbC13OHRqLUJiQmRxRXowTHZGYw?oc=5",
-      "source": "财联社",
+      "title": "“探店”不“到店”！记者实测“AI探店”：花不到10元，视频出炉！有公司月流水达800万",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qQm85aGVkSzVFRjlRTlZtcUI1RVJZMjdfN3dsWW9TVjN5SlI1SENjdm95cDVMU1JfS3ljY0U1UXVEUTBXX2dEQmRfTVVsV1lxMndoTmY2YzFvRVlhcVJGVDl0bU50a1ltN3p3?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-26T02:52:32.000Z",
-      "summary": "宇树科技近7日股价涨超6成，盘中一度涨超8%。",
+      "category": "application",
+      "pubDate": "2026-10-26T12:37:00.000Z",
+      "summary": "AI探店视频成本低至几元，月流水达800万，引发虚假宣传担忧。",
       "summaryZh": ""
-    },
-    {
-      "title": "诺亦腾机器人完成Pre-A+++轮融资，汇融基金独家投资",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GdUtoUWpQMmVVSDVDOVVFXzJhb0lNNk13RHFTVnNHSjRTd3hnc096VGNCSDM1U2tUVTZJTkRPd2wyWGJJbXhFSDVfNVBXd2JnUUtNNlQtTXA?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-26T09:31:00.000Z",
-      "summary": ""
     },
     {
       "title": "交通银行江苏省分行：AI赋能文旅生态 构建数字生态运营新模式",
@@ -199,36 +192,6 @@
       "category": "application",
       "pubDate": "2026-10-26T09:13:08.000Z",
       "summary": "交通银行江苏省分行打造AI赋能文旅生态，构建银政协同数字运营新模式。",
-      "summaryZh": ""
-    },
-    {
-      "title": "从智能婴儿床到如厕机器人，科技走进日常生活场景，AI加速赋能“一老一幼”照护体验",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5ZnVaYlBLckdJSzlueUVDNldqS3pFNnFaOTFBM3BhNUJHTkoxbjJUT2tJMTg4dmwtTzZ4M3F4MVFENmtrLUtnWXhTaUE4dGFqRGNUV3dVUDlsX3FpcERzRkZhYi1RbVU3aW5xZ1k3LVhUMDAzR2pF?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-26T01:19:02.000Z",
-      "summary": "AI技术助力智能产品融入“一老一幼”照护场景。",
-      "summaryZh": ""
-    },
-    {
-      "title": "“科技向善，智创未来”2026年海淀区青少年机器人科普竞技活动举办",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HX2ZHcnhzWkdraXotdHIxLS1FNXpPQ2wwZzN4c3RDUnNZVjY5WDRlMDViT1NsTy1TeU00dVpDYkg2MUFNVi1UbE5DbmF0S2txOFptSEF1WGplUVlwMTFaY2dNckx0ZkJVNkpPWmVBeGU?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-26T13:07:37.000Z",
-      "summary": "2026年海淀区举办青少年机器人科普竞技活动，聚焦科技创新与人文思考。",
-      "summaryZh": ""
-    },
-    {
-      "title": "中科慧灵完成数亿元A++轮融资，推动具身智能从概念走向产业",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KSEV6enRaek1sdnFjcjJVV2gyNm5XMXJZUi1zS2NaMmZ1RGhETWdrTWhVb0IwVnhtZEwyQUFrbzRsTlJEZ1pGYktWcWhyNDN6MEVWeWdXXzBia3YyYmU1eGdyQTlXcWhPM3JVams4Z3A?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-26T07:38:36.000Z",
-      "summary": "中科慧灵完成数亿元A++轮融资，推动具身智能产业化发展。",
       "summaryZh": ""
     }
   ]
