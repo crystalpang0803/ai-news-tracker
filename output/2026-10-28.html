@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI & 机器人日报 · 2026-10-28</title>
+<style>
+  :root{color-scheme:light;--ink:#14171c;--muted:#6b7280;--line:#e7e9ec;--bg:#f2f3f5;--card:#ffffff;--accent:#e5484d;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased;}
+  a{color:inherit;text-decoration:none;}
+  .topbar{background:#111418;color:#fff;border-bottom:3px solid var(--accent);}
+  .topbar-inner{max-width:1120px;margin:0 auto;padding:0.95rem 1.5rem;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
+  .brand{font-size:1.4rem;font-weight:800;letter-spacing:-0.02em;display:flex;align-items:center;gap:0.5rem;}
+  .brand .dot{color:var(--accent);}
+  .masthead-meta{font-size:0.8rem;color:#a9afb8;font-variant-numeric:tabular-nums;}
+  .nav{max-width:1120px;margin:0 auto;padding:0.6rem 1.5rem;display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap;font-size:0.82rem;}
+  .nav a,.nav input{background:#fff;border:1px solid var(--line);border-radius:8px;padding:0.35rem 0.85rem;color:#374151;font-weight:600;transition:all .15s;}
+  .nav a:hover{border-color:var(--accent);color:var(--accent);}
+  .nav .spacer{flex:1;}
+  .wrap{max-width:1120px;margin:0 auto;padding:1.4rem 1.5rem 3rem;}
+
+  .hero{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:1.7rem 1.9rem;box-shadow:0 1px 2px rgba(16,24,40,.05);}
+  .hero .kicker{display:inline-flex;align-items:center;gap:.4rem;font-size:0.72rem;font-weight:800;letter-spacing:.08em;color:#fff;background:var(--accent);padding:0.24rem 0.65rem;border-radius:6px;margin-bottom:0.9rem;}
+  .hero h2{font-size:1.75rem;line-height:1.25;font-weight:800;letter-spacing:-0.015em;}
+  .hero .trans{margin-top:0.5rem;}
+  .hero .head{margin-top:0.95rem;}
+
+  /* Sticky jump-tab bar */
+  .tabs{position:sticky;top:0;z-index:20;display:flex;gap:0.5rem;flex-wrap:wrap;background:var(--bg);padding:0.8rem 0 0.7rem;margin:0.8rem 0 0.2rem;border-bottom:1px solid var(--line);}
+  .tab{background:#fff;border:1px solid var(--line);border-radius:999px;padding:0.5rem 1.05rem;font-family:inherit;font-size:0.94rem;font-weight:700;color:#4b5563;cursor:pointer;display:flex;align-items:center;gap:0.5rem;transition:all .15s;}
+  .tab:hover{border-color:#c7cbd1;color:var(--ink);}
+  .tab .ic{font-size:1rem;}
+  .tab .n{font-size:0.72rem;font-weight:800;opacity:.65;font-variant-numeric:tabular-nums;}
+  .tab.active{color:#fff;border-color:transparent;box-shadow:0 2px 8px rgba(16,24,40,.12);}
+  .tab.active .n{opacity:.95;}
+  .tab[data-cat="ai"].active{background:#2563eb;}
+  .tab[data-cat="robotics"].active{background:#7c3aed;}
+  .tab[data-cat="application"].active{background:#0d9488;}
+
+  /* Stacked sections */
+  .section{scroll-margin-top:72px;margin-top:1.7rem;}
+  .sec-head{display:flex;align-items:center;gap:0.5rem;margin-bottom:0.95rem;font-size:1.18rem;font-weight:800;letter-spacing:-0.01em;}
+  .sec-head .bar{width:4px;height:1.2rem;border-radius:2px;flex:none;}
+  .sec-head .ic{font-size:1.15rem;}
+  .sec-head .n{margin-left:0.15rem;font-size:0.74rem;font-weight:800;color:var(--muted);background:#eceef1;border-radius:999px;padding:0.08rem 0.55rem;}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:0.85rem;}
+
+  .item{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:0.95rem 1.1rem;transition:border-color .15s,box-shadow .15s,transform .15s;}
+  .item:hover{border-color:#d3d6db;box-shadow:0 6px 18px rgba(16,24,40,.07);transform:translateY(-1px);}
+  .head{display:flex;align-items:center;gap:0.45rem;font-size:0.74rem;color:var(--muted);margin-bottom:0.5rem;}
+  .head .cdot{width:7px;height:7px;border-radius:50%;flex:none;}
+  .head .src{font-weight:700;color:#4b5563;}
+  .head .sep{color:#cbd0d6;}
+  .head .time{color:#9aa1ab;font-variant-numeric:tabular-nums;}
+  .title{font-size:1.02rem;font-weight:680;line-height:1.42;color:var(--ink);display:block;}
+  .item:hover .title{color:var(--accent);}
+  .trans{display:block;margin-top:0.4rem;font-size:0.85rem;line-height:1.5;color:#8b9199;font-style:italic;}
+  .trans b{font-style:normal;font-weight:700;color:#9aa1ab;background:#f1f2f4;padding:0.02rem 0.4rem;border-radius:4px;margin-right:0.45rem;font-size:0.72rem;letter-spacing:.02em;}
+  .desc{margin-top:0.5rem;font-size:0.85rem;line-height:1.55;color:#565d68;}
+  .hero .desc{font-size:0.98rem;color:#3a4150;margin-top:0.65rem;}
+
+  footer{max-width:1120px;margin:0 auto;padding:1.5rem;text-align:center;color:#9aa1ab;font-size:0.78rem;border-top:1px solid var(--line);}
+  @media(max-width:760px){.grid{grid-template-columns:1fr;}.hero h2{font-size:1.35rem;}.wrap{padding:1rem;}}
+</style>
+</head>
+<body>
+<div class="topbar"><div class="topbar-inner">
+  <a href="../index.html" class="brand"><span class="dot">●</span> AI &amp; 机器人日报</a>
+  <span class="masthead-meta">2026-10-28 · 每日精选 22 条</span>
+</div></div>
+<div class="nav">
+  <a href="../index.html">🏠 首页</a>
+  <a href="2026-10-27.html">← 前一天</a>
+  <a href="2026-10-29.html">后一天 →</a>
+  <span class="spacer"></span>
+  <input type="date" value="2026-10-28" onchange="if(this.value)window.location.href=this.value+'.html'">
+</div>
+<div class="wrap">
+  <div class="hero"><span class="kicker">🔥 今日头条</span><h2><a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aSmZsX3pTNG9mWDgwdGlJVkMwNnVLcWhyVThwNERyTGFoa1ZtZi1wNFJhc1IwODRpa0JLZHVRQnVxcnRIMlVWWjZWTVRKM1dYbmRR?oc=5" target="_blank" rel="noopener">直播丨香港金融科技周2026：金融AI的规模化落地与商业化路径——从“数字员工”到盈利新引擎</a></h2><p class="desc">香港金融科技周2026聚焦金融AI规模化落地与商业化路径探讨。</p><div class="head"><span class="cdot" style="background:#0d9488"></span><span class="src">第一财经</span><span class="sep">·</span><span class="time">2026-10-27</span></div></div>
+  <div class="tabs"><a class="tab active" data-cat="ai" href="#sec-ai"><span class="ic">🖥️</span>AI 人工智能<span class="n">9</span></a><a class="tab" data-cat="robotics" href="#sec-robotics"><span class="ic">🤖</span>机器人<span class="n">12</span></a></div>
+  <section class="section" id="sec-ai" data-cat="ai">
+      <div class="sec-head"><span class="bar" style="background:#2563eb"></span><span class="ic">🖥️</span>AI 人工智能<span class="n">9 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">界面新闻</span><span class="sep">·</span><span class="time">2026-10-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zd1k3TUR2M3hEV2lMNi15NS1UNWp0U0JOb2tvNFozZGV3OXFQb0ZMYUlDSi1zM00tRjRhOTVYZDN0UXJQdXRNYmtxUDB1bDZMdDNSaDVmVHk?oc=5" target="_blank" rel="noopener">光模块中国大模型调用量稳居全球首位，国办发文强化AI就业支撑，机构：AI应用加速渗透反哺底层算力需求</a><p class="desc">中国光模块大模型调用量全球领先，AI应用加速推动算力需求。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">量子位</span><span class="sep">·</span><span class="time">2026-10-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HT2JVZWJ5SDR5TnpYbkVBSUR5UFo3a1FJSU9GU2dUWjJ3YzhsS2xZVGZMd1k1N19VbjhQdzBBZWFFdFlBY3pDNGlQQndlQmstQkJ5Ug?oc=5" target="_blank" rel="noopener">做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同</a><p class="desc">达卯科技以能源大脑技术破解绿电直连项目落地难题，推动算电协同发展。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">钛媒体</span><span class="sep">·</span><span class="time">2026-10-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PMnRSLVk2eTlHbUhYbXR6UW52OFdXZldlQXdLQWpfUXFaXzNiSGY2bU90THN6d3JFVExzNGpGYVc5Qjlhd2tmLVhXXzI2YkwzUFJTVlA5d3BYdw?oc=5" target="_blank" rel="noopener">上海：加快突破AI高性能芯片，加快构建“枢纽-区域-边缘”算力设施体系</a><p class="desc">上海加速AI芯片突破，构建算力设施体系。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">IT之家</span><span class="sep">·</span><span class="time">2026-10-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiTEFVX3lxTE90QU53UGkySFVHYzdLRXNsME13LTNpTVZGOVhnYTgyNU9McElrbmxZak5kMmtCbHpSY25SX2NyQnd4Q1ZZakVpdENBZmc?oc=5" target="_blank" rel="noopener">阿里、蚂蚁系资本加持，链企AI押注招投标垂直大模型</a><p class="desc">阿里、蚂蚁系资本投资链企AI，押注招投标垂直大模型。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">界面新闻</span><span class="sep">·</span><span class="time">2026-10-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vOWtKaTBPRVRrOW9FUm9sOGZiRHNEV3hLSEM0UjZKTHRpTExfcmF6TFJWNFU3YXpQT29pVnNCZmdGRWptQ05qcDM1VUQ5ZnE5OVdRYVFoQ0o?oc=5" target="_blank" rel="noopener">百惠金控：金管局推出“ART”框架，引导银行业负责任应用人工智能</a><p class="desc">金管局发布“ART”框架，引导银行业负责任应用人工智能。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">财联社</span><span class="sep">·</span><span class="time">2026-10-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wYlVHRGRiZllCTmt4NmFhZVNBa0VjS0FKWUIzOGQ5WWgwLWlwLWJkUkYxaW5STUtCSWZhOWh0d1plNnZ3aGhjSQ?oc=5" target="_blank" rel="noopener">Anthropic预计资本开支仍将大幅增长 AI算力需求有望保持在高位</a><p class="desc">Anthropic预计资本开支大幅增长，AI算力需求保持高位。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">经济观察网</span><span class="sep">·</span><span class="time">2026-10-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2ZVViOHphczhLa2Z2d3Y1MEJ4QUx1dlFiZ2s5c2JjdkRCanNxdzlMcERIWUFPN3ZUQ3FOV0l6TTNVV0QxR2tqNWZud09HbDNxb0czSHJTOEY?oc=5" target="_blank" rel="noopener">朗新推动AI智能体落地电力交易、虚拟电厂等垂直场景</a><p class="desc">朗新科技推动AI智能体在电力交易、虚拟电厂等垂直场景应用。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">TechCrunch</span><span class="sep">·</span><span class="time">2026-10-27</span></div><a class="title" href="https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/" target="_blank" rel="noopener">How OpenAI turned its coding tools into dots, an always-on personal assistant</a><span class="trans"><b>中文翻译</b>OpenAI 如何将其编码工具变成点，一个永远在线的个人助理</span><p class="desc">OpenAI发布持续运行的个人助理工具dots。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">金融界</span><span class="sep">·</span><span class="time">2026-10-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE81RXo4NHppMC15eHVhWDhpeThzSHR0VXpGNTBVNE1BUzl2VTN5VFZhaGhPOV9mcVFTQm5mNnJwd3lTSFNLMkV6QXFpUV9MTWtKMHRxRWNJOWF0a3hIQjVRTnFSWXRadw?oc=5" target="_blank" rel="noopener">用豆包缴纳水费和燃气费？大模型“开抢”生活服务入口</a><p class="desc">AI大模型开始涉足生活缴费服务，上海用户可语音缴纳水费和燃气费。</p></div></div>
+    </section><section class="section" id="sec-robotics" data-cat="robotics">
+      <div class="sec-head"><span class="bar" style="background:#7c3aed"></span><span class="ic">🤖</span>机器人<span class="n">12 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">量子位</span><span class="sep">·</span><span class="time">2026-10-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE45eC1jSHU4c1Boclp2T1VYcWx6dURvcm1vVzFWWkhwNHF1aDBxUjZISzdEWm9EWVNXb2t5VHVGekIxcVhSOF90RXFac1RoMV9FVmZpUQ?oc=5" target="_blank" rel="noopener">不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法</a><p class="desc">人形机器人RP1全栈开源，提供从机械结构到运动算法的完整研发链路。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">钛媒体</span><span class="sep">·</span><span class="time">2026-10-27</span></div><a class="title" href="https://www.tmtpost.com/8183283.html" target="_blank" rel="noopener">年薪1亿挖科学家、月薪10万招实习生，机器人公司天价抢人</a><p class="desc">机器人公司以高薪抢夺人才，年薪1亿挖科学家、月薪10万招实习生。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">澎湃新闻科技</span><span class="sep">·</span><span class="time">2026-10-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kNkg2b1U2bko5elI1dXF0T2JkNXE3SGlHYkNZb3JibHdXWm9SSlFPUjBuYk51NERCWWhXWUdwOVVfbE5TSGdHeEQ4eVo4VFQ4bzBpSE9iM2Z2c0RfaV9qNw?oc=5" target="_blank" rel="noopener">上海发布新一代智能制造行动方案：到2028年推动8000台人形机器人进工厂</a><p class="desc">上海计划到2028年推动8000台人形机器人进工厂，实现智能工厂全覆盖。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">极客公园</span><span class="sep">·</span><span class="time">2026-10-27</span></div><a class="title" href="http://www.geekpark.net/news/373003" target="_blank" rel="noopener">启元机器人第 5000 台下线，从规模化量产迈向商业化验证</a><p class="desc">启元机器人完成第5000台下线，标志着从规模化量产迈向商业化验证。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">与非网</span><span class="sep">·</span><span class="time">2026-10-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtci1pcUhad1dMdENKT1QxemR6MHp4VTJIMlRWcnAwSXVZS3Y4ZXp5Q2ZINWJsNjRqR2hFYnRLSV9yR28yRWxWNUJMaXRYSWtBeGgxSkNWSQ?oc=5" target="_blank" rel="noopener">四足机器人市场分化加剧 云深处科技领跑行业级应用赛道</a><p class="desc">云深处科技在四足机器人行业级应用赛道领跑。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">The Robot Report</span><span class="sep">·</span><span class="time">2026-10-27</span></div><a class="title" href="https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/" target="_blank" rel="noopener">Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges</a><span class="trans"><b>中文翻译</b>随着自主重型设备需求激增，Bedrock Robotics 总融资接近 10 亿美元</span><p class="desc">Bedrock Robotics获6亿美元C轮融资，总融资近10亿美元，以应对全国范围内的建筑劳动力短缺。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">第一财经</span><span class="sep">·</span><span class="time">2026-10-28</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yNlJhWVN5QXl3M2xrVVNqZ0t4ZEFoRnZ3d2x1MUc0aWtiaDVyeWRsOG8xUUc3ZWhaMmFkVkNKM0RIeUNScDJQN0ZBU0VXY0hyd004?oc=5" target="_blank" rel="noopener">《上海市加快发展新一代智能制造行动方案》印发</a><p class="desc">上海印发智能制造行动方案，目标2028年实现智能工厂全覆盖。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">The Verge</span><span class="sep">·</span><span class="time">2026-10-28</span></div><a class="title" href="https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date" target="_blank" rel="noopener">My favorite robot vacuum just got quieter, and more expensive</a><span class="trans"><b>中文翻译</b>我最喜欢的机器人真空吸尘器变得更安静，而且更贵</span><p class="desc">我的机器人吸尘器变得更安静但价格上涨。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">经济观察网</span><span class="sep">·</span><span class="time">2026-10-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sNy1KNnNCLU1qV0dFN1Z2cTQxT1g2U0tNQlJCdF9DeVJVdjVxdkc1akczcFMxZnJjdmZZaHVJTmtPZ19UMXluallRSmNTbEZIR3RaYzlvM0k?oc=5" target="_blank" rel="noopener">研发导盲机器人，这位盲人创业者拿到了数千万元股权融资</a><p class="desc">盲人创业者研发导盲机器人，获数千万元Pre-A轮股权融资。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">凤凰财经</span><span class="sep">·</span><span class="time">2026-10-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiUEFVX3lxTE85aDVweWV5TkQ4YTVNamN5WWx4aG9CM0NPUEVfV2JtWkhmNDQ1X0lQa1ZyclNaMTdNcXVwOVJVd3dvTF9LdlMwMWRubXZWSldE?oc=5" target="_blank" rel="noopener">事关智能制造，上海重大发布</a><p class="desc">上海发布《行动方案》，推动智能制造装备升级，实现智能工厂全覆盖。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">财新网</span><span class="sep">·</span><span class="time">2026-10-27</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WVVVvY2lkRnVLdHhlMm1TenNFWklkaE5pbDBNZDFMYzk3czR0cUlwSW1KdVdKYjFReU1XYV9PVUgxejdfS2RXYXo0b3FHVXktRVVDcmdLVkRrQVFfR0dj?oc=5" target="_blank" rel="noopener">机器人数据采集中心，未来能否成长为独立生意？</a><p class="desc">机器人数据采集中心或成独立产业，面临技术瓶颈。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">Robotics &amp; Automation News</span><span class="sep">·</span><span class="time">2026-10-27</span></div><a class="title" href="https://roboticsandautomationnews.com/2026/10/26/qualcomm-to-acquire-picknik-to-expand-open-source-robotics-and-physical-ai-capabilities/106361/" target="_blank" rel="noopener">Qualcomm to acquire PickNik to expand open-source robotics and physical AI capabilities</a><span class="trans"><b>中文翻译</b>高通收购 PickNik 以扩展开源机器人和物理人工智能能力</span><p class="desc">高通收购机器人软件公司PickNik，以增强其开源机器人和物理AI能力。</p></div></div>
+    </section>
+</div>
+<footer>数据来源：80+ 中英文科技与产业媒体（中文优先）· 自动生成于 2026/10/28 04:38:26（北京时间）</footer>
+<script>
+  (function(){
+    var tabs = Array.prototype.slice.call(document.querySelectorAll('.tab'));
+    var map = {}; tabs.forEach(function(t){ map[t.getAttribute('data-cat')] = t; });
+    var secs = Array.prototype.slice.call(document.querySelectorAll('.section'));
+    if(!secs.length || !('IntersectionObserver' in window)) return;
+    var obs = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){
+        if(en.isIntersecting){
+          var cat = en.target.getAttribute('data-cat');
+          tabs.forEach(function(x){ x.classList.remove('active'); });
+          if(map[cat]) map[cat].classList.add('active');
+        }
+      });
+    }, { rootMargin: '-72px 0px -55% 0px', threshold: 0 });
+    secs.forEach(function(s){ obs.observe(s); });
+  })();
+</script>
+</body>
+</html>
