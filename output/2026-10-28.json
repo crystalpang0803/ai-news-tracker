@@ -1,17 +1,7 @@
 {
   "date": "2026-10-28",
-  "generatedAt": "2026-10-27T22:07:09.760Z",
+  "generatedAt": "2026-10-27T23:09:43.088Z",
   "items": [
-    {
-      "title": "OpenAI新模型降价，中国大模型的“便宜”要失灵了？",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DQ1RTVENyZi1ScVFSSUpzYzRWaHY0d0hSTFBhMFJXWnlFdXp6MTZCZjBVdzAwVkZTbVZZRV9XXzc2clQ5bTRRV1o1b2ZvTWc?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-27T10:20:01.000Z",
-      "summary": "OpenAI发布GPT-6.1 Terra，价格降低50%，性能提升明显。",
-      "summaryZh": ""
-    },
     {
       "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HVkwtS2pNdmlNYWxOMW9LdU03VGZmbzhfV1JjSmZfV0R2ZkZERU5mZW4zX3lsbTVhRmhzSkwwclhUVjF3eFNhWE1iVVNKdzZtYVdhMQ?oc=5",
@@ -20,16 +10,6 @@
       "category": "ai",
       "pubDate": "2026-10-27T08:18:59.000Z",
       "summary": "国产AI 3D大模型Hi3D开源商用，性能优于GPT-6。",
-      "summaryZh": ""
-    },
-    {
-      "title": "直播丨香港金融科技周2026：金融AI的规模化落地与商业化路径——从“数字员工”到盈利新引擎",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aSmZsX3pTNG9mWDgwdGlJVkMwNnVLcWhyVThwNERyTGFoa1ZtZi1wNFJhc1IwODRpa0JLZHVRQnVxcnRIMlVWWjZWTVRKM1dYbmRR?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-27T11:50:01.000Z",
-      "summary": "香港金融科技周2026探讨金融AI规模化落地与商业化路径。",
       "summaryZh": ""
     },
     {
@@ -53,6 +33,16 @@
       "summaryZh": ""
     },
     {
+      "title": "算力最多，进展最慢：字节大模型困于赛马制",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ITThTMGlIa0VhdVNDWWtIU2YxbVViZEVJTU4tNXJRdjJtTTByVVhyeC1KZ3NUanJLb3Y2dWhQbUl5THJxdzVza09FWEE?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-27T09:19:00.000Z",
+      "summary": "字节大模型因赛马制导致研发进展缓慢。",
+      "summaryZh": ""
+    },
+    {
       "title": "OpenAI 宣布斩获三项重大科学突破，涉及数学猜想、计算机算法及千禧年难题",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aUmVHNTl1d1BEbm9PMTRCYmp6Y0Z4M0JhNjZqcFNCNno4bmo0X1F2Sl95S2Qwc2FZSzAtekV2ODdRQ0dWMmQtRmU4ak0?oc=5",
       "source": "IT之家",
@@ -73,23 +63,33 @@
       "summaryZh": ""
     },
     {
-      "title": "上海发布新一代智能制造行动方案：到2028年推动8000台人形机器人进工厂",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kNkg2b1U2bko5elI1dXF0T2JkNXE3SGlHYkNZb3JibHdXWm9SSlFPUjBuYk51NERCWWhXWUdwOVVfbE5TSGdHeEQ4eVo4VFQ4bzBpSE9iM2Z2c0RfaV9qNw?oc=5",
-      "source": "澎湃新闻科技",
+      "title": "资金重回机器人：从“造身体”到“喂大脑”，物理AI新叙事浮现",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93TG9EOXRMc2IxSGUyTzBUZmtuU1poaUctYzlzLWZwTWRpTHAwUHRQcmQtdENid1Q0UVBzY0I0dVVrWkFiTlZwYU9pTWtDSHlaN2ZN?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-27T13:06:00.000Z",
-      "summary": "上海计划到2028年推动8000台人形机器人进工厂，实现智能工厂全覆盖。",
+      "pubDate": "2026-10-27T12:24:31.000Z",
+      "summary": "机器人板块资金转向数据服务，关注具身数据供给能力。",
       "summaryZh": ""
     },
     {
-      "title": "博通与多家银行合作进行630亿美元AI融资",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IVXktZ3JZeWQxOW5lTXhQT2FhaWhOMXJGZGpaZGx3Njlxa2trSmZFb0pCeVVsS0JEMW5XbWNmM1V2ZWxtU0RFT2NORl85REhHcV9wajI5QWhvZw?oc=5",
-      "source": "钛媒体",
+      "title": "普渡机器人零售场景实践：门店自动化运营全景解析",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0QTNGdVRzZDk3NlBSczV0SlhaS29zbjU5OHhrQWwxemdjRjNackJYM1JPYVpaRU1MVU5xaGNpRTBJc05JU1Ixay0xdVBvWnpOZkRrc2QwNA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-27T02:11:28.000Z",
+      "summary": "普渡机器人解析门店自动化运营实践。",
+      "summaryZh": ""
+    },
+    {
+      "title": "大模型做审计，如何确保结果可复核？LogsAI给出新方案",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HLW9ZUEhxRGpEcC04S1pLMVJxbml1cGNBOS1xY0JlcU5lYzQ1alBPMkkzOW9icUpZN0FXaUVSNGdvMC1WQU9peEJvTDZzempj?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-27T00:05:00.000Z",
-      "summary": "博通与多家银行合作设立630亿美元AI融资安排。",
+      "pubDate": "2026-10-27T08:43:25.000Z",
+      "summary": "LogsAI为大模型审计提供确定性框架，确保审计结果可复核。",
       "summaryZh": ""
     },
     {
@@ -99,7 +99,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-27T07:45:34.000Z",
-      "summary": "阿里、蚂蚁系资本支持链企AI开发招投标垂直大模型。",
+      "summary": "阿里、蚂蚁系资本投资链企AI，押注招投标垂直大模型。",
       "summaryZh": ""
     },
     {
@@ -113,24 +113,25 @@
       "summaryZh": ""
     },
     {
-      "title": "港股“大模型双雄”双双走强",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yMG5Eei0tSFRTUVlSRXdSMDh4aHRybFRXakMtTlBSWkNNSXpsNmFMTDZ0Z0N1WHgteEhIRmo4cmZsMU5XVnBkSkZrYl9YeHdNRDFR?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-27T11:51:08.000Z",
-      "summary": "智谱涨超10%，MINIMAX-W涨超4%，港股“大模型双雄”股价走强。",
-      "summaryZh": ""
-    },
-    {
-      "title": "英伟达拟出资30亿美元认购Meta新股 双方深化AI智能体合作",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wdFVvUTdrVGUwRmdnVmY4c2Ffb0RVbGNoVVRJT25hV3I1X3piQjlYUGRnd3lXWl8yMy1GVDNmTjhGekhfN2RSQg?oc=5",
+      "title": "Anthropic预计资本开支仍将大幅增长 AI算力需求有望保持在高位",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wYlVHRGRiZllCTmt4NmFhZVNBa0VjS0FKWUIzOGQ5WWgwLWlwLWJkUkYxaW5STUtCSWZhOWh0d1plNnZ3aGhjSQ?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-27T09:47:58.000Z",
-      "summary": "英伟达拟投30亿美元认购Meta新股，深化AI智能体合作。",
+      "pubDate": "2026-10-27T00:07:00.000Z",
+      "summary": "Anthropic预计资本开支大幅增长，AI算力需求保持高位。",
       "summaryZh": ""
+    },
+    {
+      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+      "link": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-10-27T09:30:00.000Z",
+      "summary": "测试了六大主流AI助手，Meta Muse和Anthropic Claude Duet表现最佳。",
+      "summaryZh": "",
+      "titleZh": "我花了一天的时间测试了所有主要的人工智能代理。这是最好的一个"
     },
     {
       "title": "朗新推动AI智能体落地电力交易、虚拟电厂等垂直场景",
@@ -142,13 +143,13 @@
       "summary": ""
     },
     {
-      "title": "具身智能“奇点”将至？宇树科技王兴兴：我真的非常害怕浪费每一天",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE81WWhOckw4Z2MzYWFBSWNrM1ZYNU83d0VCZy14d3QzdHp1V3ZLdlhGYlN2UDg2b21USUl3UWtkakNTUkZ2QmZHNQ?oc=5",
-      "source": "财联社",
+      "title": "AI端侧入口价值正逐渐显现，大厂Agent与AI终端密集落地",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUTm1jMFpFUzlJemVrQzNPSmNrbkVNUTdpM0NLeVNXNDA1eENkZkNpM1BNWTZDZkxJU09FNWhjNFV6ekZDNXhvQXl6dHIzdFRraDRZbDV3?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-27T09:16:27.000Z",
-      "summary": "宇树科技王兴兴预测AI“奇点”将至，启动宇创计划孵化超200家生态企业。",
+      "category": "ai",
+      "pubDate": "2026-10-27T00:24:00.000Z",
+      "summary": "AI端侧入口价值凸显，大厂Agent与AI终端加速落地。",
       "summaryZh": ""
     },
     {
@@ -162,15 +163,14 @@
       "summaryZh": ""
     },
     {
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-27T20:48:58.000Z",
-      "summary": "研究人员对OpenAI保密其突破性进展感到不满。",
-      "summaryZh": "",
-      "titleZh": "研究人员已经厌倦了 OpenAI 的突破"
+      "title": "启元机器人第 5000 台下线，从规模化量产迈向商业化验证",
+      "link": "http://www.geekpark.net/news/373003",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-27T08:46:19.000Z",
+      "summary": "启元机器人完成第5000台下线，标志着从规模化量产迈向商业化验证阶段。",
+      "summaryZh": ""
     },
     {
       "title": "四足机器人市场分化加剧 云深处科技领跑行业级应用赛道",
@@ -181,6 +181,17 @@
       "pubDate": "2026-10-27T09:55:21.000Z",
       "summary": "云深处科技在四足机器人行业级应用赛道领跑。",
       "summaryZh": ""
+    },
+    {
+      "title": "ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres",
+      "link": "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-27T14:29:58.000Z",
+      "summary": "ANYbotics推出ANYmal X四足机器人，专为易爆环境设计。",
+      "summaryZh": "",
+      "titleZh": "ANYbotics 开始提供适用于爆炸性环境的 ANYmal X 腿机器人"
     },
     {
       "title": "研发导盲机器人，这位盲人创业者拿到了数千万元股权融资",
@@ -200,27 +211,6 @@
       "category": "robotics",
       "pubDate": "2026-10-27T09:48:00.000Z",
       "summary": "机器人数据采集中心或成独立产业，面临技术瓶颈。",
-      "summaryZh": ""
-    },
-    {
-      "title": "My favorite robot vacuum just got quieter, and more expensive",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSnZsV29JSm5uc0dMWDBYc2h6Y1RfbGdtTWRTMlJlVDR5Ukh3dTRNZTJTMFBhU2dMSUx5NWs0UXBxVUR5eThnR3dUVmsyUVpZZzRsWTJRTWl1Umg0UGZ6Ui1ZQ2hkVC1adS1WTGZIQVAxRkxyZUVGczBoaTgyMFpXb0VQal9GNlRlc3o4YjVXYllkZw?oc=5",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-27T16:00:00.000Z",
-      "summary": "我的机器人吸尘器变得更安静但价格上涨。",
-      "summaryZh": "",
-      "titleZh": "我最喜欢的机器人真空吸尘器变得更安静，而且更贵"
-    },
-    {
-      "title": "高峰来了、打法换了：AI与具身智能首次规模化上场，快递业迎战 “最科技”“双 11”",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2U2NyOWhRaF9NQ1dHcHJ0RmtTZTNuc3I2UkN4Rkk0Vi03ejY4SGhVRWxua2dVQ2J5Zzdhb0w2UVd6Z0FWdE5jenljQURBREliakZLNHdhWk5uQlkzZGROZFJsZlNFUQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-27T14:54:00.000Z",
-      "summary": "AI与具身智能首次大规模应用于快递业，助力“双11”高峰应对。",
       "summaryZh": ""
     }
   ]
