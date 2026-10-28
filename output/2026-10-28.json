@@ -1,27 +1,7 @@
 {
   "date": "2026-10-28",
-  "generatedAt": "2026-10-28T01:44:25.448Z",
+  "generatedAt": "2026-10-28T05:48:17.139Z",
   "items": [
-    {
-      "title": "特斯拉计划用 Optimus 人形机器人给 Robotaxi 插拔充电枪，终极目标是无线充电",
-      "link": "https://www.ithome.com/1/018/743.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-28T01:21:53.000Z",
-      "summary": "特斯拉将用Optimus机器人插拔充电枪，并研发无线充电技术。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI新模型降价，中国大模型的“便宜”要失灵了？",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DQ1RTVENyZi1ScVFSSUpzYzRWaHY0d0hSTFBhMFJXWnlFdXp6MTZCZjBVdzAwVkZTbVZZRV9XXzc2clQ5bTRRV1o1b2ZvTWc?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-27T10:20:01.000Z",
-      "summary": "OpenAI新模型GPT-6.1 Terra降价，性能提升，对中国大模型构成挑战。",
-      "summaryZh": ""
-    },
     {
       "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HVkwtS2pNdmlNYWxOMW9LdU03VGZmbzhfV1JjSmZfV0R2ZkZERU5mZW4zX3lsbTVhRmhzSkwwclhUVjF3eFNhWE1iVVNKdzZtYVdhMQ?oc=5",
@@ -39,17 +19,38 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-27T12:57:51.000Z",
-      "summary": "人形机器人RP1全栈开源，提供从机械结构到运动算法的完整研发链路。",
+      "summary": "人形机器人RP1全栈开源，从机械结构到运动算法，开发者可深入研究和修改。",
       "summaryZh": ""
     },
     {
-      "title": "算力最多，进展最慢：字节大模型困于赛马制",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ITThTMGlIa0VhdVNDWWtIU2YxbVViZEVJTU4tNXJRdjJtTTByVVhyeC1KZ3NUanJLb3Y2dWhQbUl5THJxdzVza09FWEE?oc=5",
-      "source": "钛媒体",
+      "title": "小鹏集团副总裁顾捷：IRON 机器人固态电池已小批量量产",
+      "link": "https://www.ithome.com/1/018/884.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-28T04:54:30.000Z",
+      "summary": "小鹏集团宣布IRON机器人固态电池已小批量量产。",
+      "summaryZh": ""
+    },
+    {
+      "title": "索尼推出手机主摄图像传感器 LYTIA 720，提升暗光及 HDR 视频拍摄表现",
+      "link": "https://www.ithome.com/1/018/859.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-28T03:59:50.000Z",
+      "summary": "索尼发布LYTIA 720图像传感器，提升手机暗光及HDR视频拍摄性能。",
+      "summaryZh": ""
+    },
+    {
+      "title": "人工智能ETF华富(515980)标的指数盘中冲高涨超2%，大厂密集发布Agent产品，端侧AI板块具备配置价值",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TRk12ZkNwR0VIMXNDemVGWDBwWFZ0OUV3SWtKVVNUSnRjY21SWWd2YlB5WmlENGd5MGZPS09aRnNaMVRlYVJjdDU0UXpCNkFTMDhIMWs0cVI?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-27T09:19:00.000Z",
-      "summary": ""
+      "pubDate": "2026-10-28T01:59:00.000Z",
+      "summary": "人工智能ETF华富指数上涨超2%，端侧AI板块受关注。",
+      "summaryZh": ""
     },
     {
       "title": "甲骨文携手OpenAI推出企业AI产品套件，覆盖办公、开发与网络安全",
@@ -58,17 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-28T01:30:00.000Z",
-      "summary": "甲骨文与OpenAI合作，推出涵盖办公、开发与网络安全的企业AI产品套件。",
-      "summaryZh": ""
-    },
-    {
-      "title": "光模块中国大模型调用量稳居全球首位，国办发文强化AI就业支撑，机构：AI应用加速渗透反哺底层算力需求",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zd1k3TUR2M3hEV2lMNi15NS1UNWp0U0JOb2tvNFozZGV3OXFQb0ZMYUlDSi1zM00tRjRhOTVYZDN0UXJQdXRNYmtxUDB1bDZMdDNSaDVmVHk?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-27T02:36:43.000Z",
-      "summary": "中国AI大模型调用量全球领先，国办强化AI就业支撑，AI应用加速渗透反哺算力需求。",
+      "summary": "甲骨文与OpenAI合作推出企业AI产品套件，涵盖办公、开发和网络安全。",
       "summaryZh": ""
     },
     {
@@ -79,8 +70,7 @@
       "category": "ai",
       "pubDate": "2026-10-27T23:34:27.000Z",
       "summary": "亚马逊工程师女儿因GPT-4o指导停药而死亡，其父母起诉OpenAI。",
-      "summaryZh": "",
-      "titleZh": "父母起诉 OpenAI，指控 GPT-4o 指导他们的女儿戒掉癫痫药物"
+      "summaryZh": ""
     },
     {
       "title": "1027机器人、物理AI方向活跃度依然较高，能否继续做多？（金融街吴海荣）",
@@ -93,23 +83,40 @@
       "summaryZh": ""
     },
     {
-      "title": "港股“大模型双雄”双双走强",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yMG5Eei0tSFRTUVlSRXdSMDh4aHRybFRXakMtTlBSWkNNSXpsNmFMTDZ0Z0N1WHgteEhIRmo4cmZsMU5XVnBkSkZrYl9YeHdNRDFR?oc=5",
+      "title": "AI融资焦虑或近顶峰，Novogratz预计信贷市场将趋稳",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Hb3VIajVWMi05WmI3U2hVRURRb1dKUWJtSWt1c2JYeXZiaEZjM1B0VFhPVmVsckRCclliSG9qZTdrRDBSam4zOHRlWGV5UXU3R0hpOWhiYlhZTWc?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-27T08:14:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Claude 的账单，金主先看不下去了",
+      "link": "https://www.tmtpost.com/8183902.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-28T03:08:42.000Z",
+      "summary": "Anthropic 已经演示了它的天花板在哪。"
+    },
+    {
+      "title": "景旺电子：AI算力领域的高性能PCB供应依然偏紧",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwUTlrdGxDYnM1RzdfZjF6elNwTTZwQ1VzT3U5VjZIblpPOEp0aXQ2RDJJQ2VzSFp4UDlLX0dGcjFicFBRdkhkNHZaU3EwTUhhSVV0eFN2RUpfaUxUdkZaTzY2QnFJNGs?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-27T13:47:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "SK海力士：预计人工智能投资势头将持续",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xMmJRLWM3S0cxSnV3STJyNEtXZGxDcm1uelA1Qk9QUGhtUEdVTG8xNUF5dWhQOVhEbi1ZOWNnODctajVhYlcwNWpTdnozczlRM04w?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-27T11:51:08.000Z",
-      "summary": "智谱涨超10%，MINIMAX-W涨超4%，港股“大模型双雄”股价走强。",
-      "summaryZh": ""
-    },
-    {
-      "title": "上海：培育语料服务、数字孪生、AI Agent等单点实施型服务商",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE53bFBUdlJCZ2FjLURtRl9uNWtRWU1aRlR1SGRHZ0sxTjI0Y01GNjRWNDhuRk1PS0NGTE5qVk1sbklkekhlTW84SQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-27T09:41:29.000Z",
-      "summary": "上海发布行动方案，培育新一代智能制造服务商。",
+      "pubDate": "2026-10-28T00:40:44.000Z",
+      "summary": "SK海力士预计AI投资将持续增长。",
       "summaryZh": ""
     },
     {
@@ -119,38 +126,27 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-10-27T09:30:00.000Z",
-      "summary": "测试六款主流AI助手，Anthropic的Claude Duet表现最佳。",
-      "summaryZh": "",
-      "titleZh": "我花了一天的时间测试了所有主要的人工智能代理。这是最好的一个"
+      "summary": "测试了六大AI代理，Meta Muse和Anthropic Claude Duet表现最佳。",
+      "summaryZh": ""
     },
     {
-      "title": "普渡机器人零售场景实践：门店自动化运营全景解析",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0QTNGdVRzZDk3NlBSczV0SlhaS29zbjU5OHhrQWwxemdjRjNackJYM1JPYVpaRU1MVU5xaGNpRTBJc05JU1Ixay0xdVBvWnpOZkRrc2QwNA?oc=5",
-      "source": "与非网",
+      "title": "上海发布新一代智能制造行动方案：到2028年推动8000台人形机器人进工厂",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kNkg2b1U2bko5elI1dXF0T2JkNXE3SGlHYkNZb3JibHdXWm9SSlFPUjBuYk51NERCWWhXWUdwOVVfbE5TSGdHeEQ4eVo4VFQ4bzBpSE9iM2Z2c0RfaV9qNw?oc=5",
+      "source": "澎湃新闻科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-27T02:11:28.000Z",
-      "summary": "普渡机器人解析门店自动化运营实践。",
+      "pubDate": "2026-10-27T13:06:00.000Z",
+      "summary": "上海计划到2028年推动8000台人形机器人进工厂，实现智能工厂全覆盖。",
       "summaryZh": ""
     },
     {
-      "title": "据The Information：OpenAI计划购买谷歌的人工智能芯片。",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1abEFvUjgyZzhUZVJHWGxLeWRqNlpTN3hEaUpTMEhpV2U1S2RfLWlkZ0pqRGJKWHVRNjgwekFjVnJ6T295VUs1VlFPYTRqOE44TDJSRzFqMHdRekJGMGlNNnp4dm9oYlBTaDlGMmZvTQ?oc=5",
-      "source": "金融界",
+      "title": "OpenAI计划采购谷歌AI芯片",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45TWpSOVdGaEN3X2dZOWVLR29CU2cwby1VSWdXSzE5Vlhkam1VYVFFbHdGalhEX1BoWm52OFRteFdrN05ITGFMbDhlc1lYNnhmZGVkRVVYLThDQUkwa09PNlNn?oc=5",
+      "source": "同花顺财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-28T00:02:51.000Z",
-      "summary": "OpenAI计划采购谷歌人工智能芯片。",
-      "summaryZh": ""
-    },
-    {
-      "title": "朗新推动AI智能体落地电力交易、虚拟电厂等垂直场景",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2ZVViOHphczhLa2Z2d3Y1MEJ4QUx1dlFiZ2s5c2JjdkRCanNxdzlMcERIWUFPN3ZUQ3FOV0l6TTNVV0QxR2tqNWZud09HbDNxb0czSHJTOEY?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-27T01:53:00.000Z",
-      "summary": "朗新科技推动AI智能体在电力交易、虚拟电厂等领域落地应用。",
+      "pubDate": "2026-10-28T02:00:32.000Z",
+      "summary": "OpenAI计划采购谷歌AI芯片，深化双方合作关系。",
       "summaryZh": ""
     },
     {
@@ -174,13 +170,23 @@
       "summaryZh": ""
     },
     {
-      "title": "启元机器人第 5000 台下线，从规模化量产迈向商业化验证",
-      "link": "http://www.geekpark.net/news/373003",
-      "source": "极客公园",
+      "title": "AI写88小时，人类读7周，数学家开始读懂OpenAI千禧难题证明",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoV0NCV3JZdkpBT0F0Nm0wLUg5UkxfUV9XRWJrT0FNZzEyRGQ1NHdQakp6RGVhdjE0bmNGV3NrcFlIQnRYbVlVUmstNThHYkk?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-28T00:37:14.000Z",
+      "summary": "数学家开始理解OpenAI用AI解决的纳维-斯托克斯千禧难题证明。",
+      "summaryZh": ""
+    },
+    {
+      "title": "具身智能“奇点”将至？宇树科技王兴兴：我真的非常害怕浪费每一天",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE81WWhOckw4Z2MzYWFBSWNrM1ZYNU83d0VCZy14d3QzdHp1V3ZLdlhGYlN2UDg2b21USUl3UWtkakNTUkZ2QmZHNQ?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-27T08:46:19.000Z",
-      "summary": "启元机器人完成第5000台下线，标志着从规模化量产迈向商业化验证阶段。",
+      "pubDate": "2026-10-27T09:16:27.000Z",
+      "summary": "宇树科技王兴兴预测AI“奇点”将至，启动宇创计划孵化生态企业。",
       "summaryZh": ""
     },
     {
@@ -190,29 +196,28 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-27T09:55:21.000Z",
-      "summary": "云深处科技在四足机器人行业级应用赛道领跑。",
+      "summary": "云深处科技在四足机器人行业级应用领域表现突出。",
       "summaryZh": ""
     },
     {
-      "title": "全球AI投融资动态,AI创投日报,具身智能,Avante",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3SHRfVzlRLWRDQmVMTXhSN0x1Wi1CVFFMQ0hmV3VPNWJHYnA3VlZ4cmxmZjRadUNzZ1UxTWlfTFd3TjJjZ0VIWlNqSkh5bjRsOUNNcnhnQmdobnlqZFpSYUpUV0NEZEJBZGh6UHM4aw?oc=5",
-      "source": "虎嗅",
+      "title": "禾赛造“相机”：死磕具身数据的激光雷达公司才是好机器人公司",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HOUR0blZVeWxSRmJMcjBiYmtRZEozM21vc3J4dFdsOXZYZFA5eDlUTWRlbUVWMEQtSnFoMnZuR0tQOVl6QjFIbmRDWjk2alA5NmZHZGlXZw?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-27T19:24:01.000Z",
-      "summary": "AI领域融资热度持续，脑机接口等方向备受青睐，多起投融资事件发生。",
+      "pubDate": "2026-10-27T10:09:01.000Z",
+      "summary": "禾赛推出激光雷达相机，强调具身数据在机器人公司的重要性。",
       "summaryZh": ""
     },
     {
-      "title": "ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres",
-      "link": "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-27T14:29:58.000Z",
-      "summary": "ANYbotics推出ANYmal X四足机器人，专为易爆环境设计。",
-      "summaryZh": "",
-      "titleZh": "ANYbotics 开始提供适用于爆炸性环境的 ANYmal X 腿机器人"
+      "title": "养老金“冲进”AI大牛股",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPajRpN2xvREdXWlE0RUZCYVNSdjlZaUtNYmFzanBrbTZLRlIxWWNrdENaeDVqQjhlNnUzMjhvZGJmTTlWREVybFRncDdSX1R1NndTbVBCLXhNVzVZc0dtb0xJMHdfSHZZb3hydEVaazlxbjBpbkFzSm5YVlRFemJZMTJQa1dfX3N5SWpGQUhRQQ?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-28T02:28:00.000Z",
+      "summary": "养老金三季度加大对AI产业链关注，新进协创数据、香农芯创等。",
+      "summaryZh": ""
     }
   ]
 }
