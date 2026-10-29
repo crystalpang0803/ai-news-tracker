@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generatedAt": "2026-10-29T22:41:24.497Z",
+  "generatedAt": "2026-10-29T23:34:46.731Z",
   "items": [
     {
       "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-29T00:03:58.000Z",
-      "summary": "Gemini 4 Carbon在智能指数中超越Opus 5.5，首发Token半价。",
+      "summary": "Gemini 4 Carbon在Artificial Analysis智能指数中超越Opus 5.5，首发Token半价。",
       "summaryZh": ""
     },
     {
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-29T06:32:52.000Z",
-      "summary": "Claude Code 2.1.311版本新增环境变量，允许AI智能体删除文件无需用户逐次确认。",
+      "summary": "Claude Code 2.1.311版新增环境变量，允许AI智能体删除文件无需用户逐次批准。",
       "summaryZh": ""
     },
     {
@@ -39,11 +39,11 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-29T17:05:49.000Z",
-      "summary": "AI巡检机器人应用于进博会，识别违规和发现意外，保障安全。",
+      "summary": "AI巡检机器人应用于进博会，识别违规及意外情况保障安全。",
       "summaryZh": ""
     },
     {
-      "title": "宇树回应净利润下滑：系算力、大模型方向研发投入增加所致-36氪",
+      "title": "宇树回应净利润下滑：系算力、大模型方向研发投入增加所致",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYT0Nqb0lyd21YTmZFUGFLTUtQYWtRT2JmaWxBS2x3SWFlV3M5OEgzMXRYLTRnRTNSa0JGT0ExeDBTY3ZYeG96RTZRNjdKWmRPZ05TYWJ3TjFFRWhmZ2c?oc=5",
       "source": "36氪",
       "lang": "zh",
@@ -59,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-29T02:18:28.000Z",
-      "summary": "扩散模型Clover-35B-A3B-Preview在Agent任务中速度超越Jev，参数量达350亿。",
+      "summary": "扩散模型Clover-35B-A3B-Preview在Agent任务中表现优异，速度比Jev快一倍。",
       "summaryZh": ""
     },
     {
@@ -79,7 +79,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-29T15:21:09.000Z",
-      "summary": "腾讯混元大模型Hy4正式版加入视觉理解，Flash版本即将推出。",
+      "summary": "腾讯混元大模型Hy4正式版发布，首次加入视觉理解，Flash版本也将推出。",
       "summaryZh": ""
     },
     {
@@ -89,7 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-29T13:13:02.000Z",
-      "summary": "XHEART发布大模型芯片X7 Ultra，累计出货超20万颗。",
+      "summary": "XHEART发布大模型芯片X7 Ultra，X7系列出货超20万颗。",
       "summaryZh": ""
     },
     {
@@ -103,33 +103,33 @@
       "summaryZh": ""
     },
     {
+      "title": "新浪新闻“探索之心35”入围名单揭晓 20款AI算力基础设施产品挺进终审阶段",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKeHdsd0hVVndCeFVaX0U5b0ZWOUtwaGdJc21BUlItMmtVZE5hQVlNWE1rNkNaQVZDbHFrWmlDblhFRHBtNVUwRmE1MHVtR0MxQU1ZYkNZRHc?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-29T09:27:19.000Z",
+      "summary": "20款AI算力基础设施产品入围新浪新闻“探索之心35”终审。",
+      "summaryZh": ""
+    },
+    {
+      "title": "智元发布首个“工时KPI”Worken，AI人工智能ETF平安(512930)备受关注",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VNkN0VjlKc1pvYzhENHpLdE9UZC1RQWQ2dXlTOWhSTGxHNXdzX29QOHR0c1NfTlhUNHljUGdoNDVfcy1JenU1TnpVa3h5ZTdvR3N0WHo5R0M?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-29T02:50:00.000Z",
+      "summary": "智元发布“工时KPI”Worken，AI人工智能ETF平安(512930)受关注。",
+      "summaryZh": ""
+    },
+    {
       "title": "上海：优化算力中心用电价格政策，扩大农业分时电价政策实施范围",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NRUpIRWE2bUpDTHMzaVdLMWRMVG1feTYteFBGRzRoS2pfdDRkU21RUGhmZ1BHQ0Vubl9Tc2Z6Ul94ellRQ21MSnNPMEVqVU5fMkpn?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-29T03:26:19.000Z",
-      "summary": "上海调整算力中心电价，扩大农业分时电价政策覆盖范围。",
-      "summaryZh": ""
-    },
-    {
-      "title": "财联社10月29日电，美股AI算力租赁商盘前普跌，CoreWeave盘前跌6%，Nebius跌6.6%，IREN跌5%。",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1iejNmbXgyeVJ5M1FINDZPS3h5WkNaQjVEM2hFaEExTk9XeU51WGZFOXdhN2dTSkdDQ2dCaEJtenZNV0xkX252Tw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-29T12:54:00.000Z",
-      "summary": "美股AI算力租赁商盘前普遍下跌，CoreWeave、Nebius、IREN跌幅分别为6%、6.6%、5%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI算力扩张与三季报业绩共振，南方基金旗下科创芯片ETF南方(588890)跟踪标的指数上证科创板芯片指数(000685.SH)昨日收涨3.62%",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA0cXpjczRwSkhQYnlONndfb3dxM0drMTl1a0h6bFV0bThzeHl1aU9GNHlNWGRIUTV5U0JlcTRtZHBNdXFMLVZ3OA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-29T10:06:51.000Z",
-      "summary": "南方基金旗下科创芯片ETF南方昨日收涨3.62%，跟踪指数上证科创板芯片指数涨3.62%。",
+      "summary": "上海调整算力中心电价政策，扩大农业分时电价实施范围。",
       "summaryZh": ""
     },
     {
@@ -170,7 +170,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-29T19:07:53.000Z",
-      "summary": "特朗普宣布外国制造的工厂机器人进口构成国家安全威胁，下令与贸易伙伴进行谈判，并威胁未来可能征收新关税。",
+      "summary": "特朗普宣布外国制造的工厂机器人进口构成国家安全威胁，下令与贸易伙伴进行新谈判，并威胁未来可能征收新关税。",
       "summaryZh": "",
       "titleZh": "特朗普宣布进口机器人对国家安全构成威胁"
     },
@@ -181,9 +181,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-29T04:01:46.000Z",
-      "summary": "AGIBOT在2026年创新日上推出Worken，用于衡量机器人生产力。",
+      "summary": "AGIBOT在2026年创新日上推出Worken框架，用于衡量机器人实际工作环境下的生产力。",
       "summaryZh": "",
       "titleZh": "AGIBOT 在 2026 年 AGIBOT 创新日上推出 Worken 来测量机器人生产力"
+    },
+    {
+      "title": "农民变身数据采集员：叠衣、扫地10分钟能“教”机器人",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92WWFnb3VlX1hfQy15R05GdjF6c0UzZzNQd1dGZDV4WG0xOUQwQkRPMlJfUFpWV2lfZjJma1F2ZGFGNHhBY1ZGd1pHcldrMmt0bUxrTFk0TVB6Q3MzTUlMWDRSVzVPU2szUzh0dlRRc0xHWnExdldIaU9OTUhqcE0?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-29T11:17:58.000Z",
+      "summary": "农民通过叠衣、扫地等家务动作采集数据，成为智能机器人数据采集员。",
+      "summaryZh": ""
     },
     {
       "title": "四川最牛便利连锁超市搞机器人售货，黄了",
@@ -192,7 +202,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-29T05:35:46.000Z",
-      "summary": "四川便利连锁超市机器人售货项目失败。",
+      "summary": "四川便利连锁超市的机器人售货项目失败。",
       "summaryZh": ""
     },
     {
@@ -206,33 +216,13 @@
       "summaryZh": ""
     },
     {
-      "title": "机器人也要有KPI了？智元发布首个物理AI价值度量单位- 21世纪经济报道",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONlQzUDhqeE1Sai1NVWZfUTE5dHMyLWxhZFJZZHBjekRhdjl4WE9HT3p3NHJvWlM4UVpES2pYdkVWakhVY21SM1NVUzVvWTVYaG1sSTdadW5WN1pwcy1Db1NadDlYbmNEWDNQUnNRU2xVa3VmSERKeFBYTzJEaVZsWlBPcEROUlZDVElwclVOeFJDeVpw?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-29T07:01:08.000Z",
-      "summary": "智元发布物理AI价值度量单位“Worken”，用于衡量机器人自主作业产出。",
-      "summaryZh": ""
-    },
-    {
       "title": "天鹅到家CEO陈小华：用AI重塑组织流程，探索智能化新路径",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDT0ZsSVd2LTREbFloUmNaYkItYUJteWFZQmNlMkxpZmtfcXZueUVZdEw4MUk0a2hCZmhzQUlWLVljTnNUaDl2dnhuQU54SmhZSFBoLTVpUHRUY2pEeXl5cQ?oc=5",
       "source": "同花顺财经",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-29T10:32:18.000Z",
-      "summary": "天鹅到家CEO陈小华在清华年会上分享AI重塑企业流程的实践与认知。",
-      "summaryZh": ""
-    },
-    {
-      "title": "香港“物流科技博览2026”聚焦智慧物流应用",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6RE4zczJnMG5ZZE5QRlRBN045VFNQcTk4UmJNTWtaN3RuWDQ5S080UnJLOUUtWTRPRUxjYnNwT09oc1ljS21Kam5iQWlSOVF2b0Vmb0xQdGpkQlFGTVpBRGxVaWNibm4zbS1vX1VuY255QjVxRUdCNTVJUnBrd00?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-29T13:19:04.000Z",
-      "summary": "“物流科技博览2026”在香港举办，展示智慧物流创新应用。",
+      "summary": "天鹅到家CEO陈小华提出利用AI重塑组织流程，探索智能化新路径。",
       "summaryZh": ""
     }
   ]
