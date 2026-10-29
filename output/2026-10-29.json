@@ -1,45 +1,25 @@
 {
   "date": "2026-10-29",
-  "generatedAt": "2026-10-29T05:53:40.221Z",
+  "generatedAt": "2026-10-29T10:23:30.712Z",
   "items": [
     {
-      "title": "人形机器人，要出大结果了",
-      "link": "https://www.tmtpost.com/8185839.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-29T04:44:22.000Z",
-      "summary": "特斯拉人形机器人Optimus量产线开工，AI机器人技术迈向实用化。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Optimus的第一份工作是插枪：人形机器人的主战场，从来不在工厂",
-      "link": "https://www.tmtpost.com/8185429.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-29T03:32:00.000Z",
-      "summary": "人形机器人主战场在非标服务业，工厂仅是练兵场。",
-      "summaryZh": ""
-    },
-    {
-      "title": "全国首个华为昇腾 950DT 超节点集群在武汉上线，全面支撑万亿参数大模型训练与智能体推理",
-      "link": "https://www.ithome.com/1/019/419.htm",
+      "title": "X more thing：新芯航途 XHEART X9 大模型芯片计划 2027 年推出，算力提升至 3000 TOPS",
+      "link": "https://www.ithome.com/1/019/609.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-29T05:12:52.000Z",
-      "summary": "武汉上线全国首个华为昇腾950DT超节点集群，全面支持万亿参数大模型训练与智能体推理。",
+      "pubDate": "2026-10-29T09:34:17.000Z",
+      "summary": "新芯航途XHEART X9大模型芯片计划2027年推出，算力达3000 TOPS。",
       "summaryZh": ""
     },
     {
-      "title": "谷歌Gemini 4 Carbon深夜屠榜！新季度云收入大涨103%，订单堆到3.7万亿",
-      "link": "https://zhidx.com/p/605392.html",
+      "title": "蚂蚁版Muse背后模型开源！Agent测评赶超Deepseek-V4-Pro",
+      "link": "https://zhidx.com/p/605139.html",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-29T02:30:30.000Z",
-      "summary": "谷歌Gemini 4 Carbon模型发布，云收入激增103%，订单量达3.7万亿。",
+      "pubDate": "2026-10-28T10:33:49.000Z",
+      "summary": "蚂蚁开源Ling-3.1-flash-1019模型，在智能指数评测中赶超Deepseek-V4-Pro。",
       "summaryZh": ""
     },
     {
@@ -54,34 +34,43 @@
       "titleZh": "随着人工智能重塑网络，Google 向更多应用开放 Gemini 和搜索"
     },
     {
-      "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05OGNodlp5QUs5Q1hhTGY0TnE5UXdsdV8zWGFKWVFsWDMtVW9RLVY3MXJlMEw0NnMxWmNaQkpKTmdqdE1Wd0xWSGxaSjJVdkZXQVZHMA?oc=5",
+      "title": "美国纽约州新法令禁止向未成年人提供不安全 AI 聊天机器人服务",
+      "link": "https://www.ithome.com/1/019/627.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-29T09:47:03.000Z",
+      "summary": "纽约州禁止向未成年人提供不安全AI聊天机器人服务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "中国大模型训练如何突破算力瓶颈",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JSTRNMUZxQk1pb2hfMmNFRnlyaW5DZENEcjZDT25HX3hwZ3pHbHBsRzJDS3Fmb2wtMmdOTUp3ckJKcTg2WVF1ZENuRlE0aWVH?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-29T09:57:50.000Z",
+      "summary": "中国大模型训练算力瓶颈待突破，效率提升难以缩小与美国的差距。",
+      "summaryZh": ""
+    },
+    {
+      "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
+      "link": "https://www.qbitai.com/2026/10/506478.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-28T08:55:26.000Z",
-      "summary": "机器人AI公司Physical Intelligence计划融资10亿美元，估值达200亿美元。",
+      "pubDate": "2026-10-29T06:53:19.000Z",
+      "summary": "Genspark Media Studio发布，AI助零基础用户拍短剧。",
       "summaryZh": ""
     },
     {
-      "title": "腾讯与 Visa 宣布战略合作，包含跨境支付、企业级 AI、智能体支付等领域",
-      "link": "https://www.ithome.com/1/019/425.htm",
-      "source": "IT之家",
+      "title": "技术至上的kimi，遇到了全球化难题",
+      "link": "https://www.tmtpost.com/8185022.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-29T05:34:50.000Z",
-      "summary": "腾讯与Visa宣布在跨境支付、AI等领域展开战略合作。",
-      "summaryZh": ""
-    },
-    {
-      "title": "宇树回应净利润下滑：系算力、大模型方向研发投入增加所致",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11OThmOWxvVS0zR0o5R2tNZ0hKeEZVdjJDZEpTc2trMkJfVnNrcnc4Zy1NSXA2TVNnandhdGJxMVA5RUMwRy1WaHhVUkp1NzBYdVhuWGM1dFE?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-29T03:09:41.000Z",
-      "summary": "宇树科技净利润下滑因算力、大模型研发投入增加。",
-      "summaryZh": ""
+      "pubDate": "2026-10-29T09:07:29.000Z",
+      "summary": "好模型只是基本功，企业全球化还需要顶级团队。"
     },
     {
       "title": "AI算力主线强势回归，南方基金旗下创业板人工智能ETF南方(159382)跟踪标的指数昨日收涨4.81%",
@@ -91,16 +80,6 @@
       "category": "ai",
       "pubDate": "2026-10-29T01:58:10.000Z",
       "summary": "南方基金创业板人工智能ETF南方(159382)跟踪指数昨日上涨4.81%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "15万名群演肖像声音喂给大模型？豆包辟谣",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85TENnTkoxQ3RKOW85UzFTOThWRXpXVFBTTXdHN2lpSHN1aEFKTVAtVGlEb09CcU8xZjduNG5CeWwzdkRYekpsb2FnR041Y1VCVTU4?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-28T09:19:59.000Z",
-      "summary": "豆包辟谣：横店与字节合作未使用15万名群演肖像声音喂给大模型。",
       "summaryZh": ""
     },
     {
@@ -123,22 +102,43 @@
       "summary": ""
     },
     {
-      "title": "Anthropic流血上市？国产大模型看到了什么",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOdGZ4b3lMX0FKTURmTUktQVJTN0NWWjFmRUJGMlJHLXhBZUM1Rl9yQUx4a0JkblBqc3dBOFRYYTlmNHNxazZOVDdyV1JUQQ?oc=5",
-      "source": "36氪",
+      "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+      "link": "https://www.qbitai.com/2026/10/506273.html",
+      "source": "量子位",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-28T08:48:00.000Z",
-      "summary": ""
+      "category": "robotics",
+      "pubDate": "2026-10-29T02:51:45.000Z",
+      "summary": "小雨智造与国家钢结构质检中心共建实验室，推动具身智能焊接与检测技术发展。",
+      "summaryZh": ""
     },
     {
-      "title": "国务院办公厅发布人工智能就业影响意见，首次将AI就业冲击纳入技术部署前置考量",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4TGF3S0ZMMGdaX2RxQXpkWDE5R205Vkt3OWMwR2xmcUU4dkNDSFhFdHZRV0NKMVd5ZkZCQU90R3B4dU1XVS05ellmUGYxZS1MTTREdw?oc=5",
-      "source": "虎嗅",
+      "title": "物理AI触觉革命：泛亚微透从“触觉皮肤”到“信号神经”，打造人形机器人感知神经核心材料平台！",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWY1cxdzc0UzlkQTR0VWQ0bVNRUDJ4RmZjZ2V1N2FjRk9LOWUyZE1oTDZnRXROWmJSdkJNWnQ1VFRrRFN1Z19wQjNCLU9iUVZwVFFzbEVvdS0tLU9nallLVEtWaUJtd1V6elYw?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-28T14:40:14.000Z",
-      "summary": "国务院首次将AI就业冲击纳入技术部署前置考量，倡导失业缓冲期与就业风险评估。",
+      "category": "robotics",
+      "pubDate": "2026-10-28T12:26:00.000Z",
+      "summary": "泛亚微透打造人形机器人感知神经核心材料平台，实现触觉感知与信号传输。",
+      "summaryZh": ""
+    },
+    {
+      "title": "上市！收入仅超1000万。贾跃亭，人形机器人故事能跑通吗？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11RDdEQkpOc2dWUUdsYWw3YzM1UW1MbUFkclhmZXBJdmtqSTFBdGliT1RsWGJJQ0dDQl9TUkd2MG5RRVJtRGg3dG5aeG5JVGlGYnI4QVJwMA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-29T03:16:34.000Z",
+      "summary": "贾跃亭人形机器人项目上市，收入超1000万，安全验证待确认。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2025中国工业机器人行业市场份额排名",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZTDQ2Vm1ZVkJMMHRIaDNXQVlhNHNzaEhReXFHcXZSaHRYd1pFSW90aEE0eHJCMndORFpVQnBLODhEQUxhcHdQX2JFREJDNmJNcUNjVXpocw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-29T02:50:42.000Z",
+      "summary": "2025年中国工业机器人市场份额排名已确认。",
       "summaryZh": ""
     },
     {
@@ -148,7 +148,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-28T18:40:57.000Z",
-      "summary": "Symbotic对沃尔玛的依赖度高达90.5%，为机器人初创公司提供客户依赖度参考。",
+      "summary": "Symbotic对沃尔玛的依赖性为机器人初创公司提供了关于关键客户的启示。",
       "summaryZh": "",
       "titleZh": "Symbotic 的沃尔玛增长让机器人初创公司了解了哪些重要客户"
     },
@@ -159,19 +159,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-28T16:28:48.000Z",
-      "summary": "Warp Sciences融资2.15亿美元，将机器人技术应用于药物研究。",
+      "summary": "Warp Sciences融资2.15亿美元，利用机器人技术加速药物研发。",
       "summaryZh": "",
       "titleZh": "Warp Sciences 悄然崛起，将机器人技术应用于药物研究"
-    },
-    {
-      "title": "2025中国工业机器人行业市场份额排名",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZTDQ2Vm1ZVkJMMHRIaDNXQVlhNHNzaEhReXFHcXZSaHRYd1pFSW90aEE0eHJCMndORFpVQnBLODhEQUxhcHdQX2JFREJDNmJNcUNjVXpocw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-29T02:50:42.000Z",
-      "summary": "2025年中国工业机器人市场份额排名公布。",
-      "summaryZh": ""
     },
     {
       "title": "机器人、机器狗集中亮相，苏宁易购新店打造AI消费新入口",
@@ -180,37 +170,38 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-29T04:01:05.000Z",
-      "summary": "苏宁易购新店推出AI消费新入口，机器人、机器狗等AI产品亮相。",
+      "summary": "苏宁易购新店推出AI消费新入口，机器人、机器狗等AI设备亮相。",
       "summaryZh": ""
     },
     {
-      "title": "具身智能+服装 艾图科技发布艾妮机器人与产线王",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52TlZ0UTRmMWk3VGJORndDRmFTTG16akt6TUhRd0VldjBUc0RLQWk4bUtNT2NKUWZBTzRwdWw5ZThkamJWcEJQcDdyc2syTW9PNkktUGdJNUEtNjRtTWFuMTVB?oc=5",
-      "source": "新京报",
+      "title": "AI从提效走向经营，酒店业竞争升级",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FV1VPcWllR29vQTNfRkE0M2dEazZQLUlhSkQxeGE4Y2NsZ09TZHQydWwyRGM1OGUzTHdFUW1KNkd1dXk3ZThUOGVxc3dOYXRTMndXZHRIdnA0R001b0FpSA?oc=5",
+      "source": "澎湃新闻科技",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-29T01:20:00.000Z",
-      "summary": "艾图科技发布艾妮机器人与产线王，助力服装行业智能化升级。",
+      "category": "application",
+      "pubDate": "2026-10-29T07:12:00.000Z",
+      "summary": "酒店业AI工具从提效转向经营，助力行业竞争升级。",
       "summaryZh": ""
     },
     {
-      "title": "马斯克最新预测：机器人内存需求超乎想象",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MVDE0d0RiT0dzMHNBay04RHZucTNsQ3hxSFMxQWxBQURFTzBMZXRXWllFX0dBcjU2alBKdzQwSnJEcUY5T1pwQ0Z4VVlNcUhpUC0xZV8zMU5UY1c5X1o1Wg?oc=5",
+      "title": "上海：拟依法有序推动自动驾驶技术在出租汽车行业的应用",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNY01RYmNsX0RtNWhYLWxaMG42RUhFcTQyVEpEdUtqMWRNQXpBSDNkeHhOUmgyVG5NcFFYOVA2VWtrRENsMHVtUnUxbFJXaE1GYnZEa2NqSzdKaXNQZ0VxaA?oc=5",
       "source": "东方财富网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-28T07:40:47.000Z",
-      "summary": "马斯克预测机器人内存需求将远超预期。",
+      "pubDate": "2026-10-29T01:50:48.000Z",
+      "summary": "上海计划依法有序推广自动驾驶出租车应用。",
       "summaryZh": ""
     },
     {
-      "title": "养老金“冲进”AI大牛股",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLcjdEcWNKLVlod0ZBbjBXYWpabzVHdDRZd241WnpEOW1SeVhaaDN5RDNNQnJ0TGIySnZSVnptUk42bnZ3LTdlNUJHZXlXRHdNUTFwTjY4aEtmRW1SUndqaElENXBOUQ?oc=5",
-      "source": "21财经",
+      "title": "全国首个AI服务一条街开放 机器人“租着用 按图造”",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YTk1JbE1qOF9aY2xOczdNdnhQZkhlYmxNYnVWcTgwZ2RPeGljbDBwQmZBbzRha3FuTDRjaGRUTjVONnh3ZkF5ZEFneEdhdDVmbmg1OFlwdUo2RG5oR0p0RElMUENNMXZUMTBreFk0dlhDei0wa3J1cg?oc=5",
+      "source": "央视网",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-28T09:29:02.000Z",
-      "summary": ""
+      "category": "robotics",
+      "pubDate": "2026-10-28T18:05:40.000Z",
+      "summary": "全国首个AI服务一条街启用，机器人可租赁按图定制。",
+      "summaryZh": ""
     },
     {
       "title": "California Puts a 15-Minute Clock on AI Customer Service Handoffs",
@@ -219,7 +210,7 @@
       "lang": "en",
       "category": "application",
       "pubDate": "2026-10-28T17:34:29.000Z",
-      "summary": "加州规定AI客服交接需在15分钟内完成，违规罚款最高5000美元。",
+      "summary": "加州规定AI客服交接须在15分钟内完成，违规罚款最高5000美元。",
       "summaryZh": "",
       "titleZh": "加州对人工智能客户服务交接实行 15 分钟限制"
     }
