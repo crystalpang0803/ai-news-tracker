@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generatedAt": "2026-10-30T01:08:59.194Z",
+  "generatedAt": "2026-10-30T02:09:37.076Z",
   "items": [
     {
       "title": "OpenAI“服软”：ChatGPT Pro 订阅用量翻倍，取消 Pro 200 砍半计划",
@@ -9,17 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-30T00:34:52.000Z",
-      "summary": "OpenAI取消ChatGPT Pro订阅砍半计划，订阅用量翻倍。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Gemini 4 Carbon登顶难掩财报失色，谷歌AI豪赌的账单",
-      "link": "https://www.tmtpost.com/8186405.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-29T12:46:13.000Z",
-      "summary": "谷歌AI投资巨大，三季度财报净利润下滑，云业务增长亮眼。",
+      "summary": "OpenAI取消ChatGPT Pro 200砍半计划，订阅用量翻倍。",
       "summaryZh": ""
     },
     {
@@ -30,16 +20,6 @@
       "category": "ai",
       "pubDate": "2026-10-29T06:32:52.000Z",
       "summary": "Claude Code 2.1.311版引入新环境变量，允许AI智能体在删除文件时无需用户逐次批准。",
-      "summaryZh": ""
-    },
-    {
-      "title": "谷歌Gemini 4 Carbon深夜屠榜！新季度云收入大涨103%，订单堆到3.7万亿",
-      "link": "https://zhidx.com/p/605392.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-29T02:30:30.000Z",
-      "summary": "谷歌Gemini 4 Carbon发布，云收入大增103%，订单量达3.7万亿。",
       "summaryZh": ""
     },
     {
@@ -79,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-29T15:21:09.000Z",
-      "summary": "腾讯混元大模型Hy4正式版发布，首添视觉理解功能，Flash版本同步推出。",
+      "summary": "腾讯混元大模型Hy4正式版发布，首添视觉理解功能，Flash版本同期推出。",
       "summaryZh": ""
     },
     {
@@ -153,6 +133,16 @@
       "summaryZh": ""
     },
     {
+      "title": "人形机器人关节怎么加工：创世纪五轴的精密零部件方案",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45cndrZWdBREtSanhta21mZ2l1NEpUNm9hb2FtZU5JUjBQSVhOWFRLZm5tZFFvY0lHRmczVHNpQXhOMHFfUmhlVTV5SS1qMUo4cUY1MEZLcw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-29T05:20:29.000Z",
+      "summary": "创世纪五轴方案实现人形机器人关节精密加工。",
+      "summaryZh": ""
+    },
+    {
       "title": "2026 Robotics Handbook looks at humanoids, AI, and design choices",
       "link": "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/",
       "source": "The Robot Report",
@@ -162,6 +152,16 @@
       "summary": "2026年机器人手册聚焦人形机器人、人工智能和设计选择，探讨工程挑战和市场机遇。",
       "summaryZh": "",
       "titleZh": "2026 年机器人手册着眼于类人机器人、人工智能和设计选择"
+    },
+    {
+      "title": "农民变身数据采集员：叠衣、扫地10分钟能“教”机器人",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92WWFnb3VlX1hfQy15R05GdjF6c0UzZzNQd1dGZDV4WG0xOUQwQkRPMlJfUFpWV2lfZjJma1F2ZGFGNHhBY1ZGd1pHcldrMmt0bUxrTFk0TVB6Q3MzTUlMWDRSVzVPU2szUzh0dlRRc0xHWnExdldIaU9OTUhqcE0?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-29T11:17:58.000Z",
+      "summary": "农民通过叠衣、扫地等家务动作采集数据，成为智能机器人数据采集员。",
+      "summaryZh": ""
     },
     {
       "title": "四川最牛便利连锁超市搞机器人售货，黄了",
@@ -185,17 +185,6 @@
       "titleZh": "特朗普宣布进口机器人对国家安全构成威胁"
     },
     {
-      "title": "AGIBOT introduces Worken to measure robot productivity at AGIBOT Innovation Day 2026",
-      "link": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-10-29T04:01:46.000Z",
-      "summary": "AGIBOT在2026年创新日上推出Worken框架，用于衡量机器人实际工作环境中的生产力。",
-      "summaryZh": "",
-      "titleZh": "AGIBOT 在 2026 年 AGIBOT 创新日上推出 Worken 来测量机器人生产力"
-    },
-    {
       "title": "宇树科技首份财报交卷，留下对物理AI的信念",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeHJkOVpOS0NiZ0FWbVhGQXQ4djMyLVNEU0JydVhVSlVUMG1idHRWczJGemxJb05LUE5kOW5waDV1U0xORUwwaXo5c1BNWUhYWjIyTVNEX1NWZU5GVGZ6VTBvT3JjSXZQUEtVOUhoWFRLa3VSNE1LTkxMWFRaQ2g0c0xZYThjdFc1WHdnOGpkMA?oc=5",
       "source": "21财经",
@@ -206,13 +195,23 @@
       "summaryZh": ""
     },
     {
+      "title": "机器人也要有KPI了？智元发布首个物理AI价值度量单位- 21世纪经济报道",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONlQzUDhqeE1Sai1NVWZfUTE5dHMyLWxhZFJZZHBjekRhdjl4WE9HT3p3NHJvWlM4UVpES2pYdkVWakhVY21SM1NVUzVvWTVYaG1sSTdadW5WN1pwcy1Db1NadDlYbmNEWDNQUnNRU2xVa3VmSERKeFBYTzJEaVZsWlBPcEROUlZDVElwclVOeFJDeVpw?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-29T07:01:08.000Z",
+      "summary": "智元发布物理AI价值度量单位Worken，用于衡量机器人自主作业产出。",
+      "summaryZh": ""
+    },
+    {
       "title": "天鹅到家CEO陈小华：用AI重塑组织流程，探索智能化新路径",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDT0ZsSVd2LTREbFloUmNaYkItYUJteWFZQmNlMkxpZmtfcXZueUVZdEw4MUk0a2hCZmhzQUlWLVljTnNUaDl2dnhuQU54SmhZSFBoLTVpUHRUY2pEeXl5cQ?oc=5",
       "source": "同花顺财经",
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-29T10:32:18.000Z",
-      "summary": "天鹅到家CEO陈小华在清华年会上分享AI重塑企业流程的实践与认知。",
+      "summary": "天鹅到家CEO陈小华在清华年会上分享AI重塑组织流程的实践与认知。",
       "summaryZh": ""
     },
     {
@@ -222,7 +221,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-29T10:44:09.000Z",
-      "summary": "启元机器人接入WorkBuddy，推动AI在物理世界应用落地。",
+      "summary": "启元机器人接入WorkBuddy，推动AI技术融入物理世界应用。",
       "summaryZh": ""
     },
     {
