@@ -1,15 +1,25 @@
 {
   "date": "2026-10-30",
-  "generatedAt": "2026-10-29T23:34:46.731Z",
+  "generatedAt": "2026-10-30T01:08:59.194Z",
   "items": [
     {
-      "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
-      "link": "https://www.qbitai.com/2026/10/506227.html",
-      "source": "量子位",
+      "title": "OpenAI“服软”：ChatGPT Pro 订阅用量翻倍，取消 Pro 200 砍半计划",
+      "link": "https://www.ithome.com/1/019/848.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-29T00:03:58.000Z",
-      "summary": "Gemini 4 Carbon在Artificial Analysis智能指数中超越Opus 5.5，首发Token半价。",
+      "pubDate": "2026-10-30T00:34:52.000Z",
+      "summary": "OpenAI取消ChatGPT Pro订阅砍半计划，订阅用量翻倍。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Gemini 4 Carbon登顶难掩财报失色，谷歌AI豪赌的账单",
+      "link": "https://www.tmtpost.com/8186405.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-29T12:46:13.000Z",
+      "summary": "谷歌AI投资巨大，三季度财报净利润下滑，云业务增长亮眼。",
       "summaryZh": ""
     },
     {
@@ -19,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-29T06:32:52.000Z",
-      "summary": "Claude Code 2.1.311版新增环境变量，允许AI智能体删除文件无需用户逐次批准。",
+      "summary": "Claude Code 2.1.311版引入新环境变量，允许AI智能体在删除文件时无需用户逐次批准。",
       "summaryZh": ""
     },
     {
@@ -39,7 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-29T17:05:49.000Z",
-      "summary": "AI巡检机器人应用于进博会，识别违规及意外情况保障安全。",
+      "summary": "AI巡检机器人应用于进博会，识别违规和发现意外，保障安全。",
       "summaryZh": ""
     },
     {
@@ -49,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-29T02:28:51.000Z",
-      "summary": "宇树科技净利润下滑因算力、大模型研发投入增加。",
+      "summary": "宇树净利润下滑因算力、大模型研发投入增加。",
       "summaryZh": ""
     },
     {
@@ -63,43 +73,43 @@
       "summaryZh": ""
     },
     {
-      "title": "Anthropic 推出 Claude 智能报告工具，可监控员工使用 AI 的情况与开销",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TS2NDYkExU0FRYlg5Szg5cFUzUjRydU5NWVl2VmlVbDNiamt6NVFsek5hYUsyWGJ1UnRybWNOVWJLMUlKRUFDaDdESzc?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-29T08:05:06.000Z",
-      "summary": "Anthropic推出Claude智能报告工具，可监控员工AI使用情况与开销。",
-      "summaryZh": ""
-    },
-    {
       "title": "汤道生预告混元Hy4，首次加入视觉理解，Flash版本也将推出",
       "link": "https://zhidx.com/p/605433.html",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-29T15:21:09.000Z",
-      "summary": "腾讯混元大模型Hy4正式版发布，首次加入视觉理解，Flash版本也将推出。",
+      "summary": "腾讯混元大模型Hy4正式版发布，首添视觉理解功能，Flash版本同步推出。",
       "summaryZh": ""
     },
     {
-      "title": "XHEART正式发布大模型芯片X7 Ultra",
+      "title": "宝德计算鲲鹏超节点规模化商用落地：7 亿大单开启 Agentic AI 算力新纪元",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBydjRsMGEwSEEyMVFQZHJTYThMR1FBbXBvbE1Lb2ZKczRsaE5tWG5JaENTRU9EZEhxT0x4TkJic1FwNXgzTUJ5UmtJREZDYUs5bkx5TGFoTkZVZW14WmZjUkRweklXOGVaRFdkR0ZhdjQzUUFTbkJfRjBRTkc?oc=5",
+      "source": "新华社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-29T07:37:26.000Z",
+      "summary": "宝德计算中标京东7亿鲲鹏超节点项目，开启Agentic AI算力新纪元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "XHEART正式发布大模型芯片X7 Ultra-36氪",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXamdCMTE4bkVHNlpuT2NrSGo4TllJbjF2b3RiRHh5SHpkcGtzOHJKMWNtSVQ3cGxXcjFycF80bG1LOVI3VllEaU1vVGstUS02aU1rdDJDaktUZTNLVXc?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-29T13:13:02.000Z",
-      "summary": "XHEART发布大模型芯片X7 Ultra，X7系列出货超20万颗。",
+      "summary": "XHEART发布大模型芯片X7 Ultra，累计出货超20万颗。",
       "summaryZh": ""
     },
     {
-      "title": "诉称前亚马逊工程师万博雯按ChatGPT建议停用抗癫痫药后猝死，OpenAI在美遭民事诉讼",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BU2pib3Jwd28yeDhGQkZEUmpBaDVkeW92TWVfY3N5WTFsNGZNQ3VjTWVzSXd3TVEyUUpVck9fSlZ2cWdoM1Z1c1doUzdrNjIxSzktLQ?oc=5",
-      "source": "虎嗅",
+      "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyQlhrYmlnWkx5aGFUWVlueFI4cHRqMFdZN3pnQjhvcjlCcXlULVExYlNQV3JuWHdESTZCaXJDU05xcDVJM3A0RXM5c2FsYzFJRVo5eQ?oc=5",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-29T00:57:01.000Z",
-      "summary": "前亚马逊工程师万博雯按ChatGPT建议停用抗癫痫药后猝死，OpenAI在美国面临民事诉讼。",
+      "pubDate": "2026-10-29T09:58:26.000Z",
+      "summary": "STEPX Neo发布两周后迎来首次升级，智能体能力持续拓展。",
       "summaryZh": ""
     },
     {
@@ -119,17 +129,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-29T02:50:00.000Z",
-      "summary": "智元发布“工时KPI”Worken，AI人工智能ETF平安(512930)受关注。",
-      "summaryZh": ""
-    },
-    {
-      "title": "上海：优化算力中心用电价格政策，扩大农业分时电价政策实施范围",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NRUpIRWE2bUpDTHMzaVdLMWRMVG1feTYteFBGRzRoS2pfdDRkU21RUGhmZ1BHQ0Vubl9Tc2Z6Ul94ellRQ21MSnNPMEVqVU5fMkpn?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-29T03:26:19.000Z",
-      "summary": "上海调整算力中心电价政策，扩大农业分时电价实施范围。",
+      "summary": "智元发布“工时KPI”Worken，AI人工智能ETF平安受关注。",
       "summaryZh": ""
     },
     {
@@ -143,13 +143,13 @@
       "summaryZh": ""
     },
     {
-      "title": "人形机器人关节怎么加工：创世纪五轴的精密零部件方案",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45cndrZWdBREtSanhta21mZ2l1NEpUNm9hb2FtZU5JUjBQSVhOWFRLZm5tZFFvY0lHRmczVHNpQXhOMHFfUmhlVTV5SS1qMUo4cUY1MEZLcw?oc=5",
-      "source": "与非网",
+      "title": "智元彭志辉：物理AI还在早期，万台人形机器人上岗才是物理AI的胜利",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tbXFoRlhyRmRWd01SNy14bm9KbU1LaDh5a0ljYjVvMlVfYmtzVTY4VHprTmRPN2NiRExMcmdKR21uSWluMTlYVlZsOWljSEh0bmp6VFk4TjIxUmRqVHcxTA?oc=5",
+      "source": "澎湃新闻科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-29T05:20:29.000Z",
-      "summary": "创世纪五轴方案实现人形机器人关节精密加工。",
+      "pubDate": "2026-10-29T23:29:00.000Z",
+      "summary": "智元彭志辉认为万台人形机器人上岗是物理AI胜利的关键节点。",
       "summaryZh": ""
     },
     {
@@ -162,6 +162,16 @@
       "summary": "2026年机器人手册聚焦人形机器人、人工智能和设计选择，探讨工程挑战和市场机遇。",
       "summaryZh": "",
       "titleZh": "2026 年机器人手册着眼于类人机器人、人工智能和设计选择"
+    },
+    {
+      "title": "四川最牛便利连锁超市搞机器人售货，黄了",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5abFJHTHloQ1kxLVVQNjlycnMwcEhnQTlZTzhuckdlSkRqbGhhcDZDYUlpaUg0RWdfSXh1Vmx0YnFrSEgtUkVEZGpxN1lpNEtiTER0dWtZRQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-29T05:35:46.000Z",
+      "summary": "四川便利连锁超市的机器人售货项目失败。",
+      "summaryZh": ""
     },
     {
       "title": "Trump declares robot imports a national security threat",
@@ -181,29 +191,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-29T04:01:46.000Z",
-      "summary": "AGIBOT在2026年创新日上推出Worken框架，用于衡量机器人实际工作环境下的生产力。",
+      "summary": "AGIBOT在2026年创新日上推出Worken框架，用于衡量机器人实际工作环境中的生产力。",
       "summaryZh": "",
       "titleZh": "AGIBOT 在 2026 年 AGIBOT 创新日上推出 Worken 来测量机器人生产力"
-    },
-    {
-      "title": "农民变身数据采集员：叠衣、扫地10分钟能“教”机器人",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92WWFnb3VlX1hfQy15R05GdjF6c0UzZzNQd1dGZDV4WG0xOUQwQkRPMlJfUFpWV2lfZjJma1F2ZGFGNHhBY1ZGd1pHcldrMmt0bUxrTFk0TVB6Q3MzTUlMWDRSVzVPU2szUzh0dlRRc0xHWnExdldIaU9OTUhqcE0?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-29T11:17:58.000Z",
-      "summary": "农民通过叠衣、扫地等家务动作采集数据，成为智能机器人数据采集员。",
-      "summaryZh": ""
-    },
-    {
-      "title": "四川最牛便利连锁超市搞机器人售货，黄了",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5abFJHTHloQ1kxLVVQNjlycnMwcEhnQTlZTzhuckdlSkRqbGhhcDZDYUlpaUg0RWdfSXh1Vmx0YnFrSEgtUkVEZGpxN1lpNEtiTER0dWtZRQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-29T05:35:46.000Z",
-      "summary": "四川便利连锁超市的机器人售货项目失败。",
-      "summaryZh": ""
     },
     {
       "title": "宇树科技首份财报交卷，留下对物理AI的信念",
@@ -222,7 +212,27 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-29T10:32:18.000Z",
-      "summary": "天鹅到家CEO陈小华提出利用AI重塑组织流程，探索智能化新路径。",
+      "summary": "天鹅到家CEO陈小华在清华年会上分享AI重塑企业流程的实践与认知。",
+      "summaryZh": ""
+    },
+    {
+      "title": "启元CEO田华：启元机器人接入WorkBuddy，加速AI走进物理世界",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zWEl2UXd2NldYeTl3ZGdkeHJ0TkJsUnhNSjY0Rk5OSTBfNVBPRzhrRFdhVXNkbWluZ2xlMHJpR3E1SUdJdHd3Sk40NU8tN3oxQkhLeWMxa043ejEwRi1FU2NQaFFKbEFzMWtvbUZTR3lxZkdS?oc=5",
+      "source": "新华社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-29T10:44:09.000Z",
+      "summary": "启元机器人接入WorkBuddy，推动AI在物理世界应用落地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "香港“物流科技博览2026”聚焦智慧物流应用",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6RE4zczJnMG5ZZE5QRlRBN045VFNQcTk4UmJNTWtaN3RuWDQ5S080UnJLOUUtWTRPRUxjYnNwT09oc1ljS21Kam5iQWlSOVF2b0Vmb0xQdGpkQlFGTVpBRGxVaWNibm4zbS1vX1VuY255QjVxRUdCNTVJUnBrd00?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-29T13:19:04.000Z",
+      "summary": "“物流科技博览2026”在香港举办，聚焦智慧物流应用及创新技术展示。",
       "summaryZh": ""
     }
   ]
