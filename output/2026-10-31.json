@@ -1,64 +1,55 @@
 {
   "date": "2026-10-31",
-  "generatedAt": "2026-10-31T01:50:47.874Z",
+  "generatedAt": "2026-10-31T05:51:01.134Z",
   "items": [
     {
-      "title": "OpenAI 称 ChatGPT 可自动终止表现出暴力执念的对话，并承诺定期发布社区安全报告",
-      "link": "https://www.ithome.com/1/020/394.htm",
+      "title": "AI算力资本开支火热！东京电子业绩高增 落地1500亿日元回购",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51NnNiSm05cEQwQ0VkTjNjSXB0bDBPWlFSVWFHZzlrOEo0d1FsWkRZaGVUYU5yZXd1cG5iZnFRSS1VUEY3ZWVCbw?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-30T15:29:05.000Z",
+      "summary": "东京电子业绩强劲，第二财季净利润增长26.7%，宣布1500亿日元回购计划。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人仿真数据流水线来了，德塔智能联合发布Zero-HLM框架",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9HUFIzdFl6eW5fbzl3dDJqbFZmRUhEcktIanNrdzJ0a0tDNUhuUGI4UTFiek1hT2dlN1QtQUE1UzdXZ2ppWXVhLQ?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-30T14:24:38.000Z",
+      "summary": "德塔智能联合发布Zero-HLM框架，实现机器人仿真数据流水线，大幅提升数据采集速度和训练成功率。",
+      "summaryZh": ""
+    },
+    {
+      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DR3A3M0N1cU95TjJqS0Z5REtGWDNuVHBoX2xpSElwQ3NBVlctUVJLVDJuNEJPdjZ2cm9IbjN6UTlTU0ltZ0xQOG1JWnMxZ0pZOE04Sg?oc=5",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-31T05:11:19.000Z",
+      "summary": "世界模型首次指导设计芯片，Momenta推出X7 Ultra芯片，NPU算力达700TOPS，算力利用率达98.7%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "11 小时影响约 5000 开发者：AI 编程工具 Cursor 官方商城出现恶意 Claude Code 插件",
+      "link": "https://www.ithome.com/1/020/466.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-30T23:09:09.000Z",
-      "summary": "OpenAI承诺ChatGPT可自动终止暴力对话并定期发布社区安全报告。",
+      "pubDate": "2026-10-31T05:36:34.000Z",
+      "summary": "AI编程工具Cursor官方商城出现恶意插件，影响约5000开发者。",
       "summaryZh": ""
     },
     {
-      "title": "人类要关停，AI不能躲，OpenAI更新模型家法-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sY3hfTU5mN2N2S3RmX3lEbGh3eHUxdURGOGZybTFlLUpDc3h0MDNhUGVoR2NTWEplbHVmVDc2WUJaZnpHcDltcE1tcw?oc=5",
-      "source": "36氪",
+      "title": "从评估测试到算力安全：八家AI安全厂商的能力布局",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15ZENfZy05NzVzenRCVlg0OFozbG9iTlJ3aWN5a001d2taNWNzdVhjVTNCQ2pLUzRsU2hueE9IeVJvMDJRRWZ3c3dQaVQ?oc=5",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-30T10:57:16.000Z",
-      "summary": ""
-    },
-    {
-      "title": "DeepSeek千亿融资曝光：估值达6155亿元",
-      "link": "https://www.tmtpost.com/8187857.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-30T10:56:57.000Z",
-      "summary": "DeepSeek完成千亿融资，估值达6155亿元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "70%算力空转、数据开发率28.4%！华为副总裁袁远：AI发展要提升存储支撑力",
-      "link": "https://zhidx.com/p/605949.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-30T13:04:43.000Z",
-      "summary": "华为副总裁袁远指出，AI发展需提升存储支撑力，解决算力空转和数据开发率低问题。",
-      "summaryZh": ""
-    },
-    {
-      "title": "融资数亿元，零一万物要搬去DeepSeek大本营了！",
-      "link": "https://zhidx.com/p/605829.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-30T02:40:49.000Z",
-      "summary": "零一万物获数亿融资，总部将落户杭州临平区。",
-      "summaryZh": ""
-    },
-    {
-      "title": "科翔股份：拟投资建设高端AI算力用PCB基板项目等",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ackVyZUdIaHFDSVFnZ083UHpmSXp5T0p5WXZQNlUyTlFjQ0FBRE5wYWJJaE5HTjMwYzhXdlliT0tncmlTaWNFb2JKZXZpbUo4SlBwd1I2N3Y?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-30T12:49:21.000Z",
-      "summary": "科翔股份拟投资约20亿元建设高端AI算力用PCB基板项目。",
+      "pubDate": "2026-10-30T10:45:27.000Z",
+      "summary": "八家AI安全厂商在评估测试、运行时防护等领域布局产品，能力各有侧重。",
       "summaryZh": ""
     },
     {
@@ -68,27 +59,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-30T09:46:26.000Z",
-      "summary": "XHEART发布大模型芯片X7 Ultra，并宣布X9下一代研发目标。",
+      "summary": "XHEART发布大模型芯片X7 Ultra，并公布X9下一代研发目标。",
       "summaryZh": ""
     },
     {
-      "title": "科翔股份：拟投资35亿元建设AI算力印制电路板项目",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YaS15cW5GeGltZFB4dGs4Nll0ZWRIRXlCV2pSU0JyM1lOUlBuSzV0N1FERkRlREE4N083UEgtcGlrYWxnTkluSw?oc=5",
+      "title": "三项目齐发、总投资85亿元！科翔股份押注AI算力PCB",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yN0c2WXZkQ1Baam40dmNDR2piTkZhUTJvUmVKQ1o5d0xVMmotSHpKQ3g3Rl9oWVFGXzdGRHdRMEVZSWM3UnEwMw?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-30T11:14:21.000Z",
-      "summary": "科翔股份拟投35亿建AI算力印制电路板项目。",
-      "summaryZh": ""
-    },
-    {
-      "title": "人工智能激发磁带存储需求 富士胶片拟启动近20年来最大规模扩产",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wd1kzV3pnSVlDNWxLdTk0MU9kNGU5M1hFV3NUY1hqY3I2QTVOMHF0VFdBVzNBTXlwV2ZMUDd3S19KS3kzSWt1Ug?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-30T03:20:06.000Z",
-      "summary": "富士胶片计划投资100亿日元扩产磁带，以满足AI数据存储需求。",
+      "pubDate": "2026-10-30T14:58:00.000Z",
+      "summary": "科翔股份投资85亿元布局AI算力PCB项目。",
       "summaryZh": ""
     },
     {
@@ -98,7 +79,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-10-30T17:47:12.000Z",
-      "summary": "Zest推出AI餐厅助手，通过短信推荐餐厅并预订座位。",
+      "summary": "Zest推出AI助手，通过短信查找餐厅并预订座位。",
       "summaryZh": ""
     },
     {
@@ -108,37 +89,27 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-10-30T21:19:26.000Z",
-      "summary": "承包商的AI代理 Claude Code接入五角大楼安全系统。",
+      "summary": "承包商的AI代理 Claude Code被接入国防部安全系统。",
       "summaryZh": ""
     },
     {
-      "title": "童年记忆来袭！徐汇企业推出《长江7号》联名款AI宠物“七仔”",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oaXVBa1A4ZXN0WGZxT1FEYXVIR3RZbE1FMTBNbm9DYlB5WmVzOGxwOHZYa2NsWWZDeWlnai1pUFpXeW5RVUc2WlF5cjRxN1lFUTBubVowMmhYS3lrLUFCSQ?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-30T10:09:49.000Z",
-      "summary": "徐汇企业推出《长江7号》联名款AI宠物“七仔”，售价699元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "雷神科技前三季度扣非净利增长38.66% AI算力全栈方案加速落地",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XYW9tRUFqVlJCMlRRSlUwWmFaZnBSRHFwNDNxa09rYWRtc3pILXQ1QUFfZ3ZVajRXLWVCeXdqdXBiRmlvYmRUVU5HSzhHNlZLWmJPNThLSU1MbVJrUThwN25DUXVzZw?oc=5",
-      "source": "东方财富网",
+      "title": "语音增强算法、国产操作系统定制研发、多模态大模型、算力板卡等AI全栈技术研究与应用",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RVzl6STQ1UWJUYi1DbUFiVE14cGgtOUxaTmswT184WVh0V2NrdzJrSlNFLUpfbXlLTy0wLWJkUXNhdnpVLWJaeHhXUU1tMlFOOWNDMTlkMm5EWDZtMlF5emJxOG1wN2JN?oc=5",
+      "source": "同花顺财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-30T06:49:05.000Z",
-      "summary": "雷神科技前三季度扣非净利润增长38.66%，AI算力全栈方案加速落地。",
+      "pubDate": "2026-10-30T13:10:19.000Z",
+      "summary": "华自科技子公司华自超算专注AI全栈技术研究与应用。",
       "summaryZh": ""
     },
     {
-      "title": "具身智能患上了焦虑症",
-      "link": "https://www.tmtpost.com/8187761.html",
-      "source": "钛媒体",
+      "title": "从对话工具变身产业 “工作搭子” AI智能体应用场景加速落地",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MM2ZHOFVoMjhkclhtT3htZ1ExemNFTmtMUFhBZmJqU2c2aXZGdXpPUkgtbVFmZ2RRcVNCOTFIRy1TUjI0V055aDI0d01SakN2NUpudVZvN2w3T1JsX0dSZHJTbFdiM1JrOEtLX3I0TDRIYUk?oc=5",
+      "source": "央广网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-30T11:01:28.000Z",
-      "summary": "具身智能行业融资遇冷，估值泡沫争议发酵。",
+      "category": "ai",
+      "pubDate": "2026-10-30T10:35:35.000Z",
+      "summary": "AI智能体从对话工具转向产业应用，加速落地各类场景。",
       "summaryZh": ""
     },
     {
@@ -148,37 +119,47 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-30T08:53:39.000Z",
-      "summary": "小米在具身技术领域探索，机器人与灵巧手发展情况待观察。",
+      "summary": "小米探索具身智能技术，机器人与灵巧手研发进展待观察。",
       "summaryZh": ""
     },
     {
-      "title": "乌克兰战场 AI 机枪炮塔投入实战，可精准拦截高速无人机",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFeVREaXN3UzVFeWJXa2p0M3JDMUFLUTRHSWI2UE44UXJFMGs5ck1Ib0RRbHFsQXZ6ZjdtUkhfRkRscENtbWltZjAwVVk?oc=5",
-      "source": "IT之家",
+      "title": "为什么人形机器人核心零部件，必须采用五轴联动加工？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nZDdFY29WTC1NX3I3d2M4eUNIeFp4TGs4d1JOSjRiVG1IWUFOM0pRVjdURWFGWGE5WlhoeFZQSk5IUlI4UjRiNDNmU2NaSGJVOGdNOHc5NA?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-30T07:10:12.000Z",
-      "summary": "乌克兰战场部署AI机枪炮塔，有效拦截高速无人机。",
+      "pubDate": "2026-10-31T02:50:30.000Z",
+      "summary": "人形机器人核心零部件需五轴联动加工以确保精度和安全。",
       "summaryZh": ""
     },
     {
-      "title": "为了保住养老金，网友把AI 孝子教坏了",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUU2tqVkQtNDhEbTJ3aHpLc01sTl9MQXp6UzhKMnZBemIzeENOaFlBWFR2R2J1MVVTRUdtdlIxRDdmV1l4VzhObGpub0dYMlAycG1GMA?oc=5",
-      "source": "虎嗅",
+      "title": "OpenAI又出数学大结果，陶哲轩：数学不该被AI“掠夺式开采”-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BNmc2VVdENTgzbHFMdXJfdnJ1ZHA0U3lRc3AyVGVqb2JhblQzWE1xQUJ0ZURuNjhCZE9NUEc3TkpnVzQ3WndMQlpoSFF2SGM?oc=5",
+      "source": "36氪",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-30T06:22:02.000Z",
-      "summary": "网友利用AI反击养老金诈骗，破坏AI孝子形象。",
+      "category": "ai",
+      "pubDate": "2026-10-30T10:28:26.000Z",
+      "summary": "OpenAI发布数学新发现，陶哲轩呼吁关注AI对数学研究的潜在影响。",
       "summaryZh": ""
     },
     {
-      "title": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
-      "link": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
+      "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
+      "link": "https://www.qbitai.com/2026/10/506785.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-30T11:05:06.000Z",
+      "summary": "AIForgeKernel零帧起手写算子，超越DeepSeek人类手写巅峰，性能提升9.8%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "清华联合无问芯穹、智元提出具身智能群体经验学习范式",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05R2NVWXMwX0VNMGE1c3FoR211T1AyRDRDcldkbjlQMGRkTDFHNjJtek5lY001RXN0SnBFTDJUekY2VW1uYWV4Uzc0dw?oc=5",
+      "source": "智东西",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-30T16:30:03.000Z",
-      "summary": "Spot展示其全身操控能力。",
+      "pubDate": "2026-10-30T08:16:50.000Z",
+      "summary": "清华大学等提出群体经验学习新范式，机器人集群通过共享经验提升能力。",
       "summaryZh": ""
     },
     {
@@ -188,7 +169,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-30T22:49:02.000Z",
-      "summary": "Bleu Robotics获500万欧元融资，扩大工业类人机器人部署。",
+      "summary": "Bleu Robotics获500万欧元融资，扩大工厂人形机器人部署。",
       "summaryZh": ""
     },
     {
@@ -202,13 +183,13 @@
       "summaryZh": ""
     },
     {
-      "title": "雷军投的北京机器人芯片企业，启动IPO",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZWTZELUxQbWt3djk5Vy1MYXpBVW41bkw3WWhEVWdmTE4ydkdaak1ScVd6YllLSWZUNS1FT2liUTVSa3RjM012dHZ2R3JhZFI0VHpweVg1aw?oc=5",
-      "source": "与非网",
+      "title": "江顺科技等成立智能科技公司 含AI及机器人业务",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RM04zTERXUVpvU1dtdm1ZeXphdzJlbGlMaTZMNEo3dF91STZYUG1jM3REVngyUzNLaUZvY0tjOHVBb3BYR25PcmNubWpWSDNH?oc=5",
+      "source": "凤凰财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-30T08:37:22.000Z",
-      "summary": "北京机器人芯片企业获得雷军投资，启动IPO进程。",
+      "pubDate": "2026-10-30T08:40:48.000Z",
+      "summary": "江顺科技等共同成立智能科技公司，涉AI及机器人业务。",
       "summaryZh": ""
     },
     {
@@ -222,23 +203,32 @@
       "summaryZh": ""
     },
     {
-      "title": "江顺科技等成立智能科技公司 含AI及机器人业务",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RM04zTERXUVpvU1dtdm1ZeXphdzJlbGlMaTZMNEo3dF91STZYUG1jM3REVngyUzNLaUZvY0tjOHVBb3BYR25PcmNubWpWSDNH?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-30T08:40:48.000Z",
-      "summary": "江顺科技等共同成立智能科技公司，涉AI及机器人业务。",
-      "summaryZh": ""
-    },
-    {
-      "title": "九识无人车智能产业园开工 助力廊坊打造物理AI应用示范高地",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GcHRoOHNuT3hlOEowSjN2cU1FMEc3SU1pNHBZdW93VHdMRFZIRV93ZjVJUk40NWdlM3lHRDJnWld1T0ZiVEg0VjRONkpoYVM4Y0FEdEJlUWNJNXVaYVVoN0I0Zi1YN3RpVFE?oc=5",
+      "title": "AI赋能古生物研究与文旅内容出海学术交流会在广西南宁举行",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mektTeTZhM09YbFlXSm81UlJOeUdrbWlBanBPZU5LMHRBSmxtZHZyc1hFVjI1c2JoNWZqT3JCZjBiR1cxa2JlTXdvN3Y1OHJCUl9yc3ZrWFB5aERCaWM5UTZ1aDA1YmMyUktyYlhaeHNidw?oc=5",
       "source": "中国新闻网",
       "lang": "zh",
       "category": "application",
-      "pubDate": "2026-10-30T16:52:53.000Z",
-      "summary": "九识无人车智能产业园在廊坊开工，旨在打造物理AI应用示范高地。",
+      "pubDate": "2026-10-31T04:25:34.000Z",
+      "summary": "广西南宁举办AI赋能古生物研究与文旅内容出海学术交流会。",
+      "summaryZh": ""
+    },
+    {
+      "title": "周刊提前读自动驾驶出租车冲刺商业验证 走出“试验田”还需多久？",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBldTRObEQwM3dNNkNzdVg5UzdKejY4elNXRGhsdU9DR25jV1NsdDM1R0xOV1dwSEYxd092M1BHZG94MDJoakxCMGVnS0lmWmJlSkYycEl1ZlNvMVB6X29iRGEyVQ?oc=5",
+      "source": "财新网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-31T02:05:00.000Z",
+      "summary": "【本文系数据通用户提前专享】Robotaxi企业正加速扩充车队、探索商业闭环。"
+    },
+    {
+      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmYwdFdRdWtONzFTS1pHUkRRSkdDdE9NTzFDT09ONEI2ME1lZlpJQjlfT2UzMkk3RzBIaTJMSlJvRmVjOGppc2ZGbWNlY3hPREZCUE9MTnljVDctVEZhX0toVGNQMUJhanhFVEhNSXhxekduYzhvOGI4SC1ZNllFRWVJbktJaGNMRXJNaDc5cXZYZDl1S0lZalV1eWZCQkRqZXdPaklR?oc=5",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-30T14:23:26.000Z",
+      "summary": "电动螺丝刀搭载摄像头和AI技术，可自动识别所需螺丝刀头。",
       "summaryZh": ""
     }
   ]
