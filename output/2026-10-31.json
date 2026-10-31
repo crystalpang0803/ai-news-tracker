@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "generatedAt": "2026-10-31T00:53:01.251Z",
+  "generatedAt": "2026-10-31T01:50:47.874Z",
   "items": [
     {
       "title": "OpenAI 称 ChatGPT 可自动终止表现出暴力执念的对话，并承诺定期发布社区安全报告",
@@ -13,23 +13,52 @@
       "summaryZh": ""
     },
     {
-      "title": "华为官网公开鸿蒙智行享界 V8 选配：标配 ±12° 后轮转向、Ultra 采用 L3 自动驾驶架构，32.98 万元起",
-      "link": "https://www.ithome.com/1/020/386.htm",
-      "source": "IT之家",
+      "title": "人类要关停，AI不能躲，OpenAI更新模型家法-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sY3hfTU5mN2N2S3RmX3lEbGh3eHUxdURGOGZybTFlLUpDc3h0MDNhUGVoR2NTWEplbHVmVDc2WUJaZnpHcDltcE1tcw?oc=5",
+      "source": "36氪",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-30T15:51:23.000Z",
-      "summary": "华为鸿蒙智行享界V8发布，标配12°后轮转向，L3自动驾驶，32.98万元起。",
+      "category": "ai",
+      "pubDate": "2026-10-30T10:57:16.000Z",
+      "summary": ""
+    },
+    {
+      "title": "DeepSeek千亿融资曝光：估值达6155亿元",
+      "link": "https://www.tmtpost.com/8187857.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-30T10:56:57.000Z",
+      "summary": "DeepSeek完成千亿融资，估值达6155亿元。",
       "summaryZh": ""
     },
     {
-      "title": "主打一个听劝，OpenAI把Pro额度翻倍了",
-      "link": "https://zhidx.com/p/605791.html",
+      "title": "70%算力空转、数据开发率28.4%！华为副总裁袁远：AI发展要提升存储支撑力",
+      "link": "https://zhidx.com/p/605949.html",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-30T02:45:17.000Z",
-      "summary": "OpenAI将Pro订阅额度翻倍，回应用户反馈并撤回削减计划。",
+      "pubDate": "2026-10-30T13:04:43.000Z",
+      "summary": "华为副总裁袁远指出，AI发展需提升存储支撑力，解决算力空转和数据开发率低问题。",
+      "summaryZh": ""
+    },
+    {
+      "title": "融资数亿元，零一万物要搬去DeepSeek大本营了！",
+      "link": "https://zhidx.com/p/605829.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-30T02:40:49.000Z",
+      "summary": "零一万物获数亿融资，总部将落户杭州临平区。",
+      "summaryZh": ""
+    },
+    {
+      "title": "科翔股份：拟投资建设高端AI算力用PCB基板项目等",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ackVyZUdIaHFDSVFnZ083UHpmSXp5T0p5WXZQNlUyTlFjQ0FBRE5wYWJJaE5HTjMwYzhXdlliT0tncmlTaWNFb2JKZXZpbUo4SlBwd1I2N3Y?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-30T12:49:21.000Z",
+      "summary": "科翔股份拟投资约20亿元建设高端AI算力用PCB基板项目。",
       "summaryZh": ""
     },
     {
@@ -39,7 +68,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-30T09:46:26.000Z",
-      "summary": "XHEART发布大模型芯片X7 Ultra，并公布X9下一代研发目标。",
+      "summary": "XHEART发布大模型芯片X7 Ultra，并宣布X9下一代研发目标。",
+      "summaryZh": ""
+    },
+    {
+      "title": "科翔股份：拟投资35亿元建设AI算力印制电路板项目",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YaS15cW5GeGltZFB4dGs4Nll0ZWRIRXlCV2pSU0JyM1lOUlBuSzV0N1FERkRlREE4N083UEgtcGlrYWxnTkluSw?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-30T11:14:21.000Z",
+      "summary": "科翔股份拟投35亿建AI算力印制电路板项目。",
       "summaryZh": ""
     },
     {
@@ -59,7 +98,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-10-30T17:47:12.000Z",
-      "summary": "Zest推出AI餐厅助手，通过短信查找餐厅并预订座位。",
+      "summary": "Zest推出AI餐厅助手，通过短信推荐餐厅并预订座位。",
       "summaryZh": ""
     },
     {
@@ -69,7 +108,17 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-10-30T21:19:26.000Z",
-      "summary": "承包商的AI代理 Claude Code被接入国防部安全系统。",
+      "summary": "承包商的AI代理 Claude Code接入五角大楼安全系统。",
+      "summaryZh": ""
+    },
+    {
+      "title": "童年记忆来袭！徐汇企业推出《长江7号》联名款AI宠物“七仔”",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oaXVBa1A4ZXN0WGZxT1FEYXVIR3RZbE1FMTBNbm9DYlB5WmVzOGxwOHZYa2NsWWZDeWlnai1pUFpXeW5RVUc2WlF5cjRxN1lFUTBubVowMmhYS3lrLUFCSQ?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-30T10:09:49.000Z",
+      "summary": "徐汇企业推出《长江7号》联名款AI宠物“七仔”，售价699元。",
       "summaryZh": ""
     },
     {
@@ -83,33 +132,13 @@
       "summaryZh": ""
     },
     {
-      "title": "国家人工智能应用中试基地(消费领域家居家电方向)落地青岛",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OLUxxd3Z4MzJsSmZ3Tkl3RHFFek5peHRXU2VsOFc4MVQ1cWFsT0ZVUXh2aW9ROHdKUE1PQUp0R3dWNm96OG9FUm1qdG50YkdIMkVZcmlPbGE0LWRLYVdwRVRBRnpZVjVBckt0MFBRVUhfZDBTdlVNUQ?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-31T00:37:00.000Z",
-      "summary": "青岛启动建设国家人工智能应用中试基地，聚焦家居家电领域。",
-      "summaryZh": ""
-    },
-    {
-      "title": "语音增强算法、国产操作系统定制研发、多模态大模型、算力板卡等AI全栈技术研究与应用",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RVzl6STQ1UWJUYi1DbUFiVE14cGgtOUxaTmswT184WVh0V2NrdzJrSlNFLUpfbXlLTy0wLWJkUXNhdnpVLWJaeHhXUU1tMlFOOWNDMTlkMm5EWDZtMlF5emJxOG1wN2JN?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-30T13:10:19.000Z",
-      "summary": "华自科技子公司华自超算专注AI全栈技术研究与应用。",
-      "summaryZh": ""
-    },
-    {
       "title": "具身智能患上了焦虑症",
       "link": "https://www.tmtpost.com/8187761.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-30T11:01:28.000Z",
-      "summary": "具身智能投资热度大幅降温，融资压力集中显现。",
+      "summary": "具身智能行业融资遇冷，估值泡沫争议发酵。",
       "summaryZh": ""
     },
     {
@@ -119,7 +148,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-30T08:53:39.000Z",
-      "summary": "小米探索具身智能技术，机器人与灵巧手研发进展待观察。",
+      "summary": "小米在具身技术领域探索，机器人与灵巧手发展情况待观察。",
+      "summaryZh": ""
+    },
+    {
+      "title": "乌克兰战场 AI 机枪炮塔投入实战，可精准拦截高速无人机",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFeVREaXN3UzVFeWJXa2p0M3JDMUFLUTRHSWI2UE44UXJFMGs5ck1Ib0RRbHFsQXZ6ZjdtUkhfRkRscENtbWltZjAwVVk?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-30T07:10:12.000Z",
+      "summary": "乌克兰战场部署AI机枪炮塔，有效拦截高速无人机。",
+      "summaryZh": ""
+    },
+    {
+      "title": "为了保住养老金，网友把AI 孝子教坏了",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUU2tqVkQtNDhEbTJ3aHpLc01sTl9MQXp6UzhKMnZBemIzeENOaFlBWFR2R2J1MVVTRUdtdlIxRDdmV1l4VzhObGpub0dYMlAycG1GMA?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-10-30T06:22:02.000Z",
+      "summary": "网友利用AI反击养老金诈骗，破坏AI孝子形象。",
       "summaryZh": ""
     },
     {
@@ -139,7 +188,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-30T22:49:02.000Z",
-      "summary": "Bleu Robotics获500万欧元融资，扩大工业人形机器人部署。",
+      "summary": "Bleu Robotics获500万欧元融资，扩大工业类人机器人部署。",
       "summaryZh": ""
     },
     {
@@ -149,7 +198,17 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-10-30T15:13:56.000Z",
-      "summary": "APEC代表在杭州研讨AI赋能旅游，探讨智慧旅游发展及挑战。",
+      "summary": "APEC代表在杭州研讨AI赋能智慧旅游发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "雷军投的北京机器人芯片企业，启动IPO",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZWTZELUxQbWt3djk5Vy1MYXpBVW41bkw3WWhEVWdmTE4ydkdaak1ScVd6YllLSWZUNS1FT2liUTVSa3RjM012dHZ2R3JhZFI0VHpweVg1aw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-30T08:37:22.000Z",
+      "summary": "北京机器人芯片企业获得雷军投资，启动IPO进程。",
       "summaryZh": ""
     },
     {
@@ -163,33 +222,24 @@
       "summaryZh": ""
     },
     {
-      "title": "跻身“国家队”！这款“成都高新造”机器人在玉米地里精准除杂！",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sLUdCbXFEZklKVXNzbnFITWEzQzdBdy1MRnN1andEamxNZW55UVRMZTJrVEtqa010VjdKeXRyYklQcTZJUUVxcEpVZ3FIb3ZhSVpjYldDS0ZrOXp4QXRoSFpNR1hJRGc?oc=5",
-      "source": "光明网",
+      "title": "江顺科技等成立智能科技公司 含AI及机器人业务",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RM04zTERXUVpvU1dtdm1ZeXphdzJlbGlMaTZMNEo3dF91STZYUG1jM3REVngyUzNLaUZvY0tjOHVBb3BYR25PcmNubWpWSDNH?oc=5",
+      "source": "凤凰财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-30T08:41:18.000Z",
-      "summary": "成都高新区企业研发的制种玉米田间除杂机器人入选国家典型应用场景。",
+      "pubDate": "2026-10-30T08:40:48.000Z",
+      "summary": "江顺科技等共同成立智能科技公司，涉AI及机器人业务。",
       "summaryZh": ""
     },
     {
-      "title": "启元机器人接入WorkBuddy 加速AI走进物理世界",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91S29ESFZWd0JSdFQtNGdwV2E2MHVTeHRleUc5ZWxtVzFqSFgzZ1FtQk5tMmp4ZEFjdklraklhcFRjbFA0cVMwT0hmdWVQYzFKd013Z3NIZzhjLVhYOEFlMXk1NmV6ZTRyZHJPVUhtcXE?oc=5",
-      "source": "科技日报",
+      "title": "九识无人车智能产业园开工 助力廊坊打造物理AI应用示范高地",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GcHRoOHNuT3hlOEowSjN2cU1FMEc3SU1pNHBZdW93VHdMRFZIRV93ZjVJUk40NWdlM3lHRDJnWld1T0ZiVEg0VjRONkpoYVM4Y0FEdEJlUWNJNXVaYVVoN0I0Zi1YN3RpVFE?oc=5",
+      "source": "中国新闻网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-30T07:41:18.000Z",
-      "summary": "启元机器人接入WorkBuddy，推动AI在物理世界应用落地。",
+      "category": "application",
+      "pubDate": "2026-10-30T16:52:53.000Z",
+      "summary": "九识无人车智能产业园在廊坊开工，旨在打造物理AI应用示范高地。",
       "summaryZh": ""
-    },
-    {
-      "title": "2万台下线后，智元给机器人“撤保姆”",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOMVJiUFlKNk41ckxjT0hPRmw5Y3V0RzBPZ0VlNjZNd19EbmowTVNPVEg3QmtYM1hrTG5DejNFTmhNMnVWOEpaMXRabTA3R19SR2haQ0tBSlkzSGRVMktadkdudm4?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-30T13:20:00.000Z",
-      "summary": ""
     }
   ]
 }
