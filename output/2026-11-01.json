@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "generatedAt": "2026-10-31T19:55:31.092Z",
+  "generatedAt": "2026-10-31T21:25:58.435Z",
   "items": [
     {
       "title": "上市价 4699 元 → 国补后 2800 元：石头扫拖机器人 P20 Max 上下水版新低",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-31T13:56:49.000Z",
-      "summary": "石头P20 Max扫拖机器人上下水版国补后降至2800元。",
+      "summary": "石头扫拖机器人P20 Max上下水版国补后降至2800元。",
       "summaryZh": ""
     },
     {
@@ -42,13 +42,13 @@
       "summaryZh": ""
     },
     {
-      "title": "机器人产业链公司三季度业绩分野，仍在等待盈利拐点",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vZXVPVFpyVVZaVjlBLTd5QmdnMzhEd05NNXFraFlfOFhRdVpqR0M3UnFHNEZvTXNLSU1EVGlGTjJTZTVkZFZvb3hKdW8xVWh3QW51cS1pRnk?oc=5",
+      "title": "DeepSeek发布全新Agent架构",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZclVaS04xV0lkSkpGR01NTFdyR2lzVWxHZ0lQaUxIOHgtU05Pd2pJY3puZEhoeFZtYkhYVFlDTFNDRTBhV3ZjM1k2Q1RCZ2RwY2pEZ0tSLS0?oc=5",
       "source": "界面新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-31T14:01:30.000Z",
-      "summary": "机器人产业链公司三季度业绩分化，部分企业盈利能力下降。",
+      "category": "ai",
+      "pubDate": "2026-10-31T14:48:08.000Z",
+      "summary": "DeepSeek推出Super-agent架构，突破多任务协作限制。",
       "summaryZh": ""
     },
     {
@@ -72,6 +72,16 @@
       "summaryZh": ""
     },
     {
+      "title": "国家人工智能应用中试基地(消费领域家居家电方向)落地青岛",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUDlQY1B3d2ltNkJRQWl6RDM1M04tUFpGSlJCRzdLTjJ2X0J4RDQ4VF92Q3RleTNsdm9uWnRLbDBNUl8yeU9zd3NMXzMxRjVLaGtDVlQxTGN5amlLbFVCbEhqX3dYd3Q3SGRTeHltODNDbEZ3clRGM0VkVnZocEY3ZU9B?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-31T00:28:05.000Z",
+      "summary": "青岛启动建设国家人工智能应用中试基地，聚焦家居家电领域。",
+      "summaryZh": ""
+    },
+    {
       "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
       "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
       "source": "Wired",
@@ -83,24 +93,13 @@
       "titleZh": "人工智能代理将药物注射到活老鼠的大脑中"
     },
     {
-      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
-      "source": "Wired",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-10-30T21:19:26.000Z",
-      "summary": "承包商的AI代理 Claude Code被接入国防部安全系统。",
-      "summaryZh": "",
-      "titleZh": "承包商克劳德特工如何进入五角大楼"
-    },
-    {
-      "title": "国家人工智能应用中试基地(消费领域家居家电方向)落地青岛",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUDlQY1B3d2ltNkJRQWl6RDM1M04tUFpGSlJCRzdLTjJ2X0J4RDQ4VF92Q3RleTNsdm9uWnRLbDBNUl8yeU9zd3NMXzMxRjVLaGtDVlQxTGN5amlLbFVCbEhqX3dYd3Q3SGRTeHltODNDbEZ3clRGM0VkVnZocEY3ZU9B?oc=5",
-      "source": "新华网科技",
+      "title": "AI抛售席卷市场之际，传OpenAI融资目标砍掉逾三成、估值同步调降",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGUzY0dUFGVHIyZEdjOUFfMEdpTlBNOHVyT2luY19WRXlpZzNqdmt4Q2JzSVBBdk5PZTYzN2VDTkdBemlYQmhmQldIb2dyWmNBQzNVOXIwdTNITEI3MnBSTGd0QzZJZw?oc=5",
+      "source": "金融界",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-10-31T00:28:05.000Z",
-      "summary": "青岛建设国家人工智能应用中试基地，聚焦家居家电领域，助力产业升级。",
+      "pubDate": "2026-10-31T00:24:42.000Z",
+      "summary": "OpenAI融资目标缩水至200亿美元，估值下调至1.25万亿美元。",
       "summaryZh": ""
     },
     {
@@ -144,13 +143,33 @@
       "summaryZh": ""
     },
     {
-      "title": "武汉工商学院学子夺得2026睿抗机器人开发者大赛（北斗时空应用）全国总决赛一等奖",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01Mkh3ZXdJRVpmOW9hXzV3eXBZZG1IU0pQakJwZ1gycnhGLVJsbUNoLU4yNVZvaE9lNzVFbHlyT09kY0hyMjIyN0dSQTR2eVV0Vnlydk5zbHF1NzZGVWRYeU1VMDh6VHlJUnpCbVhtSElUX1Nr?oc=5",
-      "source": "新华社",
+      "title": "奥特曼自曝OpenAI新模型：让我兴奋到两晚没睡！",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50U0pPdnVVNl9yRUdBb2l5VDFmOHVlQ0JZMXJvOWg2VTRRR2p6bWx4NTM5WnM5eDBMM1A1NjJ3Y2w5MXhoS2I4UzVTX3RjeVktU1VUc1g3U3pkZVh6N0Ftb3Y2LXRONjZrOU01YXlVVjJ6UQ?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-31T01:00:05.000Z",
+      "summary": "奥特曼透露OpenAI新模型攻克多项难题，令其兴奋至失眠。",
+      "summaryZh": ""
+    },
+    {
+      "title": "[中国新闻]北京：创新算力方案 助力终端搭载大模型",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QOF85UG9Oa1JtdllCNVVvX3pWS2g4RTJfMGM0LUtGNzMySHFUbXVJMmVsQ1UySW1sMUE5RUhIbTdmc2RUdWlfUzc2NnpQeTZKckRrME1Mc09HbXNFZk9ZTGN4UlJodGdSMTI4SjNncnJJZk9Ua1E?oc=5",
+      "source": "央视网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-31T02:21:00.000Z",
+      "summary": "北京推出创新算力方案，支持终端运行大模型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "数字孪生工程技术人员：为机器人搭建虚拟“训练场”",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLZko4cGJfcl9ON2czVnVyNXdGQ0c0NFlia3dZTjNnN0xxLVBHOVNLQXBFSmkwUDRkbEJ5a2FWN29pZ1o0TVFpdVBRbGdnTGdaSGl6UVIzZ0FNWmlFbDhmS3QwUndsNTNZbi1NeGhoT05BUEt1Qm5tRTNhTnQ0RGc?oc=5",
+      "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-31T04:56:37.000Z",
-      "summary": "武汉工商学院学子在2026睿抗机器人开发者大赛中获全国总决赛一等奖。",
+      "pubDate": "2026-10-31T12:50:08.000Z",
+      "summary": "数字孪生技术助力机器人提前在虚拟空间完成巡检任务训练。",
       "summaryZh": ""
     },
     {
@@ -161,16 +180,6 @@
       "category": "robotics",
       "pubDate": "2026-10-31T02:05:00.000Z",
       "summary": "【本文系数据通用户提前专享】Robotaxi企业正加速扩充车队、探索商业闭环。"
-    },
-    {
-      "title": "警惕AI骗局 守住乡村养老钱",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zSjVfVnNLcjBvTFQwWXd3QkxnMGxjZVpNWGRIWHplMktqN0U1eHFuRkxqbTFtLUdSeDd0UHZqbDE4WGNXbkdweWQtMEhJNjEtcU9rcTUzR1hvbnBaVlg4NmlOSEE0YWpCQXNOQnJZNEFWd0hBczRXcw?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-10-31T17:30:30.000Z",
-      "summary": "央视提醒：警惕AI骗局，保护乡村养老资金安全。",
-      "summaryZh": ""
     },
     {
       "title": "最新财新周刊｜自动驾驶如何走出“试验田”",
@@ -198,7 +207,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-31T07:46:00.000Z",
-      "summary": "机器人乐队亮相清河站西广场，开启海淀金秋多场文化演出。",
+      "summary": "机器人乐队亮相清河站西广场，开启海淀金秋文化派对。",
       "summaryZh": ""
     },
     {
@@ -208,7 +217,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-10-31T13:17:45.000Z",
-      "summary": "Google推出了一款机器人种植机。",
+      "summary": "谷歌推出了一款机器人种植机。",
       "summaryZh": "",
       "titleZh": "谷歌制造了一个机器人播种机。"
     },
@@ -233,6 +242,17 @@
       "summary": "Foundry Robotics获1亿美元投资，建美国首个自主装配工厂。",
       "summaryZh": "",
       "titleZh": "Foundry Robotics 融资 1 亿美元，建设“美国第一家自主组装工厂”"
+    },
+    {
+      "title": "Global Ocean Robotics Day highlights advances in autonomous underwater robots",
+      "link": "https://roboticsandautomationnews.com/2026/10/30/global-ocean-robotics-day-highlights-advances-in-autonomous-underwater-robots/106546/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-10-30T22:41:24.000Z",
+      "summary": "全球海洋机器人日活动聚焦自主水下机器人技术进展。",
+      "summaryZh": "",
+      "titleZh": "全球海洋机器人日凸显自主水下机器人的进步"
     }
   ]
 }
