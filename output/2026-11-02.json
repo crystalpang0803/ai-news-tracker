@@ -1,7 +1,17 @@
 {
   "date": "2026-11-02",
-  "generatedAt": "2026-11-01T21:57:47.930Z",
+  "generatedAt": "2026-11-01T23:04:20.330Z",
   "items": [
+    {
+      "title": "OpenAI 即将启动大规模公关宣传，考虑将数据中心重新包装为“AI 算力园区”",
+      "link": "https://www.ithome.com/1/020/844.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-01T22:58:19.000Z",
+      "summary": "OpenAI计划大规模宣传，将数据中心转型为“AI算力园区”。",
+      "summaryZh": ""
+    },
     {
       "title": "Muse人形机器人来了！小扎带队，中国造",
       "link": "https://zhidx.com/p/606349.html",
@@ -9,7 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-01T15:00:31.000Z",
-      "summary": "Meta与傅利叶合作开发人形机器人Max原型，旨在打造消费级机器人。",
+      "summary": "Meta与傅利叶合作开发人形机器人Max原型，旨在提升未来产品。",
       "summaryZh": ""
     },
     {
@@ -39,7 +49,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-01T15:38:04.000Z",
-      "summary": "蚂蚁集团领投矩侨工业，助力机器人皮肤研发。",
+      "summary": "蚂蚁集团领投矩侨工业，助力机器人皮肤研发与量产。",
       "summaryZh": ""
     },
     {
@@ -49,17 +59,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-01T11:44:15.000Z",
-      "summary": "量化派AI技术助力CHAO餐厅落地北京，开启外卖试运营。",
-      "summaryZh": ""
-    },
-    {
-      "title": "京东10月31日与无界动力签战略合作，机器人已落地七鲜咖啡门店",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14VnZmZmFKeEl5M21DRnJtcEZwenhnaHVLcG43bEw3VUtZSUJVanNicHJuN2xna0VjUWg1enZoR1FpbkZubkhiUURzcnFHVnphMU9fazNPd3BOQQ?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-01T19:09:00.000Z",
-      "summary": "京东与无界动力合作，机器人开始在七鲜咖啡门店使用。",
+      "summary": "量化派AI智慧后厨CHAO餐厅在北京落地，将提供机器人智慧后厨服务。",
       "summaryZh": ""
     },
     {
@@ -69,7 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-01T09:14:37.000Z",
-      "summary": "AI基础设施瓶颈在于电力、硬件、算法和利用率的综合效率。",
+      "summary": "AI发展受制于电力与制造系统工程，需关注基础设施全链条。",
       "summaryZh": ""
     },
     {
@@ -80,6 +80,16 @@
       "category": "ai",
       "pubDate": "2026-11-01T00:29:48.000Z",
       "summary": "DeepSeek发布Super Agent架构，苹果市值超越英伟达，Meta与傅利叶合作开发Muse机器人。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI算力与新能源协同驱动 A股三季报“动能向新”",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE83aGtKOGcyM0ZMNGVKbUFHQmtIcnFFWVV4cWVhbXd2OVk2LUhLdGFMSl9oTVRQd3l3djdkZ3FLNDJMbGxZcEE?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-01T06:36:00.000Z",
+      "summary": "A股三季报显示，AI算力与新能源板块业绩强劲，推动市场向新赛道倾斜。",
       "summaryZh": ""
     },
     {
@@ -98,7 +108,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-01T12:13:53.000Z",
-      "summary": ""
+      "summary": "DeepSeek开源Super-agent原型，旨在让AI自主发现并修复Bug，持续参与日常工作。",
+      "summaryZh": ""
     },
     {
       "title": "详解Super Agent：会主动干活，更懂何时闭嘴",
@@ -117,7 +128,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-01T12:36:00.000Z",
-      "summary": "OpenAI估值和融资下调，美国AI产业增长叙事转向。",
+      "summary": "OpenAI下调估值和融资规模，美国AI产业增长叙事转向。",
       "summaryZh": ""
     },
     {
@@ -127,7 +138,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-01T21:55:23.000Z",
-      "summary": "OpenAI考虑将数据中心更名为“AI计算园区”。",
+      "summary": "OpenAI计划将数据中心更名为“AI计算园区”。",
       "summaryZh": "",
       "titleZh": "OpenAI 可能会将其数据中心重新命名为“AI 计算园区”"
     },
@@ -149,9 +160,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-01T13:00:31.000Z",
-      "summary": "3M推出针对机器人连接挑战的解决方案，优化运动、密度和可靠性。",
+      "summary": "3M推出针对机器人连接挑战的解决方案，以应对运动、密度和稳定性需求。",
       "summaryZh": "",
       "titleZh": "解决现代机器人技术中的互连挑战：3M 如何进行运动、密度和正常运行时间工程"
+    },
+    {
+      "title": "AI进化速递丨DeepSeek发布全新Agent架构",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ma3p6b0c3OVlZQUlRT3R5eWlkMU1SRzItcGREVzNqR1pheXJranFIa0R4cl9zYkJVTGh6M1hNd2R5ZDA2VnA2T1A0RlQ4Q1RyZTRzck5fWDFyRVBMa3dOM2ZfbFVLdnJObm1PcUdtNy1DU3hiUENBdg?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-01T12:58:15.000Z",
+      "summary": "DeepSeek发布全新Agent架构。",
+      "summaryZh": ""
     },
     {
       "title": "广东省工业机器人与智能家居应用赋能中心揭牌启用",
@@ -170,7 +191,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-01T12:44:00.000Z",
-      "summary": "中国机器人研发从追赶转向无人区探索，多条技术路线并行验证。",
+      "summary": "中国人形机器人研发从追赶转向无人区探索，多条技术路线并行验证。",
+      "summaryZh": ""
+    },
+    {
+      "title": "惠普加码AI家庭打印；上海迪士尼第三座主题酒店官宣开业",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9objVRYVdnaVRDUFlXSktLdGlJc3VjdWdLT3B3ZE9Ddjg4a2pfZTJsd2Fub3ExNzRlZ3Z1VGZ3Vk1NQTNkcEYxWmkzUU02NEViQklzcTE2VVFFd21ldDVTUVQ5WGhMZw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-01T23:00:00.000Z",
+      "summary": "惠普发布AI学习打印机，上海迪士尼第三座主题酒店开业。",
       "summaryZh": ""
     },
     {
@@ -183,23 +214,13 @@
       "summary": ""
     },
     {
-      "title": "百台机器人如何“向同伴学习”？",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zM2JVdS1aOXd0aEFxWTU2eGt5NDBzQURRTTVWaWhMMDVFRGZpX0RFM1FIbDBUVlphVzhiUml3bGY3VlJObVo4S3drTUxYTWtsNEJRLWVBS1hvTm5LZUVmUHRtcFYwb1RLVFNMNzlDSnVDdzhfcTBtdXdCNUZfYTA?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-01T07:14:10.000Z",
-      "summary": "百台机器人通过群体经验学习提升手机包装任务成功率至98.3%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "[共同关注]关注·观察：AI制定旅游攻略 能放心出发吗？AI旅游攻略精准匹配需求但过于理想化",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SSHZMb3p0RWpqTXdsMDBhNmhkMEVGc2RUS1ladERQUHpkN0YzVkNZeFcxc3ZFNzVIVkx4SlZYSXN2R25IalYwZk9lVm9sS29JSkdTeVBoU2hkTENVam9LbmtBaGwwZjhuQndSRkNlYl81bzFrdGc?oc=5",
+      "title": "[正点财经]用AI制定旅游攻略：需求提充分 核实不能少",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mZjRpYmN3bUtPNm5kanRIWllJcXVVajVveHRybUFaVHJSQzNUdzRrTjluUkhPZHJyWHZIbnNjWXByMXZDUVJVa1c1WUJDT25HcVFSaVZEdmVsVEVIVmM2RTI4YTY2ZVVWOGo1MHh6LWFSb095WXc?oc=5",
       "source": "央视网",
       "lang": "zh",
       "category": "application",
-      "pubDate": "2026-11-01T10:57:00.000Z",
-      "summary": "AI旅游攻略精准匹配需求，但过于理想化。",
+      "pubDate": "2026-11-01T09:25:00.000Z",
+      "summary": "AI技术用于制定旅游攻略需充分需求与核实。",
       "summaryZh": ""
     },
     {
@@ -208,7 +229,7 @@
       "source": "21财经",
       "lang": "zh",
       "category": "application",
-      "pubDate": "2026-11-01T10:28:00.000Z",
+      "pubDate": "2026-11-01T10:28:35.000Z",
       "summary": "AI制定旅游攻略体验喜忧参半，省心高效与费心踩坑并存。",
       "summaryZh": ""
     }
