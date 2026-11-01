@@ -1,7 +1,17 @@
 {
   "date": "2026-11-01",
-  "generatedAt": "2026-10-31T22:49:04.334Z",
+  "generatedAt": "2026-11-01T00:13:17.272Z",
   "items": [
+    {
+      "title": "消息称 Meta 与中国企业傅利叶打造人形机器人原型，号称 Muse 模型的物理化身",
+      "link": "https://www.ithome.com/1/020/636.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-31T23:12:21.000Z",
+      "summary": "Meta与傅利叶合作打造人形机器人Max原型，视为Muse模型的物理化身。",
+      "summaryZh": ""
+    },
     {
       "title": "上市价 4699 元 → 国补后 2800 元：石头扫拖机器人 P20 Max 上下水版新低",
       "link": "https://www.ithome.com/1/020/619.htm",
@@ -9,17 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-31T13:56:49.000Z",
-      "summary": "石头扫拖机器人P20 Max上下水版以旧换新至2800元新低。",
-      "summaryZh": ""
-    },
-    {
-      "title": "无界动力与京东达成战略合作，机器人 K15 上岗七鲜咖啡",
-      "link": "https://www.ithome.com/1/020/598.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-31T12:13:50.000Z",
-      "summary": "无界动力机器人K15在七鲜咖啡门店上岗，与京东合作拓展智能零售。",
+      "summary": "石头P20 Max扫拖机器人上下水版国补后降至2800元。",
       "summaryZh": ""
     },
     {
@@ -30,16 +30,6 @@
       "category": "ai",
       "pubDate": "2026-10-31T02:00:50.000Z",
       "summary": ""
-    },
-    {
-      "title": "透视A股三季报：AI算力领跑，材料量价齐升，地产和消费寻底",
-      "link": "https://www.tmtpost.com/8188863.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-31T13:15:46.000Z",
-      "summary": "A股三季报显示，AI算力领涨，材料板块量价齐升，地产和消费板块寻底。",
-      "summaryZh": ""
     },
     {
       "title": "DeepSeek发布全新Agent架构",
@@ -58,8 +48,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-31T12:25:00.000Z",
-      "summary": "机器人空翻技术尚需商业化验证。",
+      "summary": "机器人空翻技术尚待商业化应用。",
       "summaryZh": ""
+    },
+    {
+      "title": "三星高管会见OpenAI首席执行官，探讨人工智能转型",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CQVI0anRUZldDYmp2ajRIek1LNzI0aWlfeHMwaUFRZGlMMi1ySzJDbHlVRnN5cUpfTGNxU1BYS2ZQaXE4T0llYVVJWmxSTzFhNEp4blduZWM4eW8ybWd3Sg?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-10-31T08:50:16.000Z",
+      "summary": ""
     },
     {
       "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已解封",
@@ -68,7 +67,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-31T05:05:29.000Z",
-      "summary": "Claude取消5小时使用限制，200美元Ultra用户率先解封。",
+      "summary": "Claude取消5小时使用限制，Ultra用户已解封。",
       "summaryZh": ""
     },
     {
@@ -88,7 +87,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-31T19:57:24.000Z",
-      "summary": "英伟达拟投资30亿美元认购Meta新股，深化AI智能体合作。",
+      "summary": "英伟达拟投30亿美元认购Meta新股，深化AI智能体合作。",
       "summaryZh": ""
     },
     {
@@ -109,7 +108,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-31T00:28:05.000Z",
-      "summary": "青岛启动建设国家人工智能应用中试基地，聚焦家居家电领域。",
+      "summary": "青岛启动国家人工智能应用中试基地，聚焦家居家电领域。",
       "summaryZh": ""
     },
     {
@@ -133,26 +132,6 @@
       "summaryZh": ""
     },
     {
-      "title": "具身机器人、咖啡机械臂走进商场“科技节”，阿姨追问：什么时候能买到保姆机器人？",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLb0t3MTdiRDBxYkxuLWxfcXJNUDdpZEkwOGw1c3Y1ZW1QWjF3RjJJZEwzRF8xT0hLXzlubi1xQ0duVkxPdjcwQmpSbE9ZbU5SNVN3WlhNZUpGTTg1TXVOag?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-31T10:49:29.000Z",
-      "summary": "商场科技节展示前沿AI产品，市民期待家用保姆机器人。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Claude套餐大升级！Max 20x 升级为 Ultra，5 小时限额直接取消",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qMWEyekx1RW9yeHA5SF9KMjh3T1QzS1ZpelpDTDd3Y0o5eWVrT3FSbDV0RFRBX21DQUdOMGZjRUVsVkk4UnU1bWJiSnFzYlk?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-10-31T01:18:26.000Z",
-      "summary": "Anthropic升级Claude套餐，Max 20x更名为Ultra，取消5小时使用限制。",
-      "summaryZh": ""
-    },
-    {
       "title": "智能体年均增长超一倍，百度智能云给智能体配了套新底座",
       "link": "https://zhidx.com/p/606278.html",
       "source": "智东西",
@@ -169,17 +148,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-10-31T01:00:05.000Z",
-      "summary": "奥特曼透露OpenAI新模型攻克多项难题，令其兴奋至失眠。",
-      "summaryZh": ""
-    },
-    {
-      "title": "数字孪生工程技术人员：为机器人搭建虚拟“训练场”",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLZko4cGJfcl9ON2czVnVyNXdGQ0c0NFlia3dZTjNnN0xxLVBHOVNLQXBFSmkwUDRkbEJ5a2FWN29pZ1o0TVFpdVBRbGdnTGdaSGl6UVIzZ0FNWmlFbDhmS3QwUndsNTNZbi1NeGhoT05BUEt1Qm5tRTNhTnQ0RGc?oc=5",
-      "source": "新华网科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-31T12:50:08.000Z",
-      "summary": "数字孪生技术助力机器人提前在虚拟空间完成巡检任务训练。",
+      "summary": "奥特曼透露OpenAI新模型攻克学术难题，引发兴奋失眠。",
       "summaryZh": ""
     },
     {
@@ -189,18 +158,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-31T02:50:10.000Z",
-      "summary": "深圳慧闻智造指出关节模组成2026年机器人产业链热门赛道。",
+      "summary": "关节模组成为2026年机器人产业链热门赛道。",
       "summaryZh": ""
     },
     {
-      "title": "Meta builds humanoid robot with Chinese startup Fourier, The Information says",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTFWdC1PaTBpUG1YSmt0aW9XWTNEdzJsdjRYeUtCd1FfUGVXNlBuYUpGemJVUXZTM2IxTkExZ3BOSy1MblBvdjhrYUY0VDY2LS1BVnhJTU5YYVR1RzFDMzk2SUtKTjR2QmNSZkx0VDlkcm55ZEthSGp3Nms0WlBPaFN2MzJ0SWhsbFhVV1dTZEdwdF8tSTNCUU5hVHV0N0dkZGlmNF9oQnh0dkcwQ3J6NWVPVVVBeV9vWFNYcA?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
+      "title": "瑞璐塑业：以PEEK齿轮精密注塑方案，助力机器人关节实现高效传动",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTVmY5cjlCdEVSd3hoWjVBOFFDQVZ2YUo4UjVBU1hYbldkWUlORmsxekxTY3dfVFRQVFhxTTh4bkNRaHFLVllsUWJkOVJ6OHI2UEs1ZTYtZw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-10-31T16:14:09.000Z",
-      "summary": "",
-      "titleZh": "The Information 称，Meta 与中国初创公司 Fourier 合作打造人形机器人"
+      "pubDate": "2026-10-31T07:46:41.000Z",
+      "summary": "瑞璐塑业推出PEEK齿轮精密注塑方案，提升机器人关节传动效率。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI江苏青年说④｜AI上岗江苏门诊解锁新医疗：机器人变身“导诊员”，AI筛查惠及超400万患者",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50UEt4M19JV3FwUm9IaThQcDRKRnFEMzBhMHRtMXZBY3A4MzUzZHY0U1dhS3l6Zm9vTEhrM0pDRjdUSUIwSjJzaS10cnZ5Vi1FR0xpVEx3?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-31T07:55:00.000Z",
+      "summary": "AI江苏青年说｜AI上岗江苏门诊解锁新医疗：机器人变身“导诊员”，AI筛查惠及超400万患者。"
     },
     {
       "title": "武汉工商学院学子夺得2026睿抗机器人开发者大赛（北斗时空应用）全国总决赛一等奖",
@@ -210,6 +188,16 @@
       "category": "robotics",
       "pubDate": "2026-10-31T04:56:37.000Z",
       "summary": "武汉工商学院学子在2026睿抗机器人开发者大赛中获全国总决赛一等奖。",
+      "summaryZh": ""
+    },
+    {
+      "title": "港澳台侨学子探访“成都智造”：在科创岛感受AI与机器人前沿",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40M2hmM2UyYWxTaTNRNUlhbG1FTERlY2s4dEd4dWxtRFo1VXg2ZFFITXdSSVlia2NNbXFtQmdYQllzU09WdzJuSW1YNGFVWV9LcXhFNUE3MURGdUtFdHNNbEVTYWJpV2Zj?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-10-31T13:20:16.000Z",
+      "summary": "港澳台侨学子在成都科创岛体验AI与机器人前沿技术。",
       "summaryZh": ""
     },
     {
@@ -228,26 +216,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-10-31T14:03:12.000Z",
-      "summary": "Robotaxi企业加速扩充车队，探索商业闭环，逐步开展全无人载客运营尝试。",
-      "summaryZh": ""
-    },
-    {
-      "title": "心言机器人推出Bubbo 1 创始人称“不得不做自己的硬件”",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNczYybWRiV0N3WjFfb0VPc0FhNGZCdmxRSlhTdC0zTmlqSWljMENDZkRMTFpRSzFYcWEzNzVUdE5FanpzNmowaFBzT2dUa2s1R196Qk9KXzN0NUpxWEtzckJB?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-31T06:46:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "机器人乐队亮相清河站西广场，金秋多场演出在海淀上地上演",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vTEsyR3BTTkVGenEwem9BdlhPX3k0eWVGOHFRZDI3aUsyOVJsRjhZRTNmbGlBc3ZWYjNkZGUtYzV2SzI4NHNickRBVVNjM2pXRC1SbmREM3JmbVBwZ3A1dWJITUo?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-10-31T07:46:00.000Z",
-      "summary": "机器人乐队亮相清河站西广场，开启海淀金秋文化派对。",
+      "summary": "Robotaxi企业加速扩充车队，探索商业闭环，逐步开展全无人载客运营。",
       "summaryZh": ""
     }
   ]
