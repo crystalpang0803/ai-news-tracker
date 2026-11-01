@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "generatedAt": "2026-11-01T20:27:22.169Z",
+  "generatedAt": "2026-11-01T21:57:47.930Z",
   "items": [
     {
       "title": "Muse人形机器人来了！小扎带队，中国造",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-01T15:00:31.000Z",
-      "summary": "Meta与傅利叶合作开发人形机器人Max，旨在满足家庭交互需求。",
+      "summary": "Meta与傅利叶合作开发人形机器人Max原型，旨在打造消费级机器人。",
       "summaryZh": ""
     },
     {
@@ -19,7 +19,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-01T05:05:17.000Z",
-      "summary": ""
+      "summary": "OpenAI将新一轮融资目标从300亿美元下调至200亿美元，估值缩水1500亿。",
+      "summaryZh": ""
     },
     {
       "title": "市场监管总局发布钢铁智能制造相关国家标准：破设计口径不一、数据互通难题",
@@ -38,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-01T15:38:04.000Z",
-      "summary": "蚂蚁集团领投矩侨工业，助力机器人皮肤研发与量产。",
+      "summary": "蚂蚁集团领投矩侨工业，助力机器人皮肤研发。",
       "summaryZh": ""
     },
     {
@@ -48,7 +49,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-01T11:44:15.000Z",
-      "summary": "量化派AI智慧后厨CHAO餐厅在北京落地，将于美团上线。",
+      "summary": "量化派AI技术助力CHAO餐厅落地北京，开启外卖试运营。",
+      "summaryZh": ""
+    },
+    {
+      "title": "京东10月31日与无界动力签战略合作，机器人已落地七鲜咖啡门店",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14VnZmZmFKeEl5M21DRnJtcEZwenhnaHVLcG43bEw3VUtZSUJVanNicHJuN2xna0VjUWg1enZoR1FpbkZubkhiUURzcnFHVnphMU9fazNPd3BOQQ?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-01T19:09:00.000Z",
+      "summary": "京东与无界动力合作，机器人开始在七鲜咖啡门店使用。",
       "summaryZh": ""
     },
     {
@@ -72,14 +83,13 @@
       "summaryZh": ""
     },
     {
-      "title": "广东省工业机器人与智能家居应用赋能中心揭牌启用",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFbHd0aHRzaFhSVlFuX3I2NWhOWXlvMUJrX05SOFNhYmFsMVJlM2JpU3NkOEJsQTBiMWExeE1CSTYyR0owYjNMOWViV1ZUTmFKZXpINTE3S0pqdUd3THcyUlJzZE50NUNQYVNSVg?oc=5",
-      "source": "中国新闻网",
+      "title": "NBA主帅用AI执教第一人？马祖拉：每天用Claude梳理战术和心理，从没用过ChatGPT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zMVFrX2FOenR6bW1zUWlGaHh5Um1lcEN4Wjl4UEN4R3VBUV9ldWZtZ1R3dU1WWW5TR0pVaUN4SUZkQVJITzRteEU1WmxXOUJtczRWbXln?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-01T04:43:00.000Z",
-      "summary": "广东省工业机器人与智能家居应用赋能中心正式启用。",
-      "summaryZh": ""
+      "category": "ai",
+      "pubDate": "2026-10-31T23:35:00.000Z",
+      "summary": "凯尔特人主帅乔·马祖拉在98.5 The Sports Hub电台节目中，完整披露了他每天使用AI工具Claude辅助执教的细节。"
     },
     {
       "title": "DeepSeek开源Super-agent研究原型：让AI主动发现Bug并持续参与日常工作",
@@ -88,8 +98,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-01T12:13:53.000Z",
-      "summary": "DeepSeek开源Super-agent原型，旨在让AI自主发现并修复Bug，持续参与日常工作。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "详解Super Agent：会主动干活，更懂何时闭嘴",
@@ -98,7 +107,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-01T08:26:38.000Z",
-      "summary": "Super Agent是更自主的Agent系统，能主动干活且懂适时闭嘴。",
+      "summary": "Super Agent是更自主的Agent系统，能主动干活且懂得适时闭嘴。",
       "summaryZh": ""
     },
     {
@@ -108,8 +117,19 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-01T12:36:00.000Z",
-      "summary": "OpenAI下调估值和融资规模，美国AI产业增长叙事转向。",
+      "summary": "OpenAI估值和融资下调，美国AI产业增长叙事转向。",
       "summaryZh": ""
+    },
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-01T21:55:23.000Z",
+      "summary": "OpenAI考虑将数据中心更名为“AI计算园区”。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 可能会将其数据中心重新命名为“AI 计算园区”"
     },
     {
       "title": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics",
@@ -118,7 +138,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-01T14:00:58.000Z",
-      "summary": "AI助力两天内发现28个零日漏洞，影响机器人软件工具安全。",
+      "summary": "AI助力两天内发现28个零日漏洞，影响机器人生态系统安全。",
       "summaryZh": "",
       "titleZh": "不到两天的 28 个零日发现：AI 速度发现对机器人意味着什么"
     },
@@ -129,9 +149,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-01T13:00:31.000Z",
-      "summary": "3M推出针对机器人连接挑战的解决方案，以应对运动、密度和稳定性需求。",
+      "summary": "3M推出针对机器人连接挑战的解决方案，优化运动、密度和可靠性。",
       "summaryZh": "",
       "titleZh": "解决现代机器人技术中的互连挑战：3M 如何进行运动、密度和正常运行时间工程"
+    },
+    {
+      "title": "广东省工业机器人与智能家居应用赋能中心揭牌启用",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFbHd0aHRzaFhSVlFuX3I2NWhOWXlvMUJrX05SOFNhYmFsMVJlM2JpU3NkOEJsQTBiMWExeE1CSTYyR0owYjNMOWViV1ZUTmFKZXpINTE3S0pqdUd3THcyUlJzZE50NUNQYVNSVg?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-01T04:43:00.000Z",
+      "summary": "广东省工业机器人与智能家居应用赋能中心正式启用。",
+      "summaryZh": ""
     },
     {
       "title": "中国人形机器人研发逻辑发生了怎样的转向？",
@@ -140,27 +170,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-01T12:44:00.000Z",
-      "summary": "中国人形机器人研发从追赶转向无人区探索，多路径并行验证。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI Agent定价模式仍未闭环：按成果、用量与替代人工均遇结构性难题",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HRldaSHZySWFSbGl5OV9aWVJFMkxKcmF2X3dUQmRXZjJNcUFXc0huT0k4ZEtQajNFeXJvcE5mMEVQYzRvM0wwNVBDZENLa3lhVGp3YQ?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-01T12:24:41.000Z",
-      "summary": "AI行业收费模式未定，按成果、用量等均面临难题。",
-      "summaryZh": ""
-    },
-    {
-      "title": "最新报告显示中国人工智能推理数据量首超训练数据量",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ibE9HZEdSbmlTYUliX0xSTmJBSExiQmg1anc0YXprVzhSOW5iYkRqNXBGd1BDdUJaSE03WXpZbEE5X2RlNEQyQmFyVWpGOHpxWmNlZ0NxVGhQQQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-01T11:07:00.000Z",
-      "summary": "中国人工智能推理数据量首次超过训练数据量。",
+      "summary": "中国机器人研发从追赶转向无人区探索，多条技术路线并行验证。",
       "summaryZh": ""
     },
     {
@@ -179,7 +189,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-01T07:14:10.000Z",
-      "summary": "百台机器人通过群体经验学习实现协同改进，手机包装任务成功率提升至98.3%。",
+      "summary": "百台机器人通过群体经验学习提升手机包装任务成功率至98.3%。",
       "summaryZh": ""
     },
     {
@@ -190,16 +200,6 @@
       "category": "application",
       "pubDate": "2026-11-01T10:57:00.000Z",
       "summary": "AI旅游攻略精准匹配需求，但过于理想化。",
-      "summaryZh": ""
-    },
-    {
-      "title": "福莱新材触觉传感器月产能超1万套，今年下半年交付提速并筹划新建触觉传感器产线",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4Sms0T0VjaGF6STZmZUx0emtwVEt6bm9BSFJMVnlVTXUyLVZiNHFyNmZUbEZUdjVMZVB4UklBRzU1WV9NNGU4OHBQZVZPWm0wczZ4MHlXa0pEbG84SGNiYkx2YkxQUQ?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-01T00:09:30.000Z",
-      "summary": "福莱新材触觉传感器月产能超1万套，下半年交付提速并计划新建产线。",
       "summaryZh": ""
     },
     {
