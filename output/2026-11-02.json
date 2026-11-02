@@ -1,15 +1,16 @@
 {
   "date": "2026-11-02",
-  "generatedAt": "2026-11-02T06:15:23.317Z",
+  "generatedAt": "2026-11-02T11:39:51.749Z",
   "items": [
     {
-      "title": "算力不再是AI Agent的天花板，生态围墙才是？",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNWjlZLU9yd0ZmOGtoaGRzd1dTYVZYREkzSkhCU1NucWlsZ1pXS3BiMlRRRnRwY0JnNHBDbWNfOEVxc2F4S01YdEhHeUw?oc=5",
-      "source": "钛媒体",
+      "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
+      "link": "https://www.qbitai.com/2026/11/507225.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-02T02:27:00.000Z",
-      "summary": ""
+      "pubDate": "2026-11-02T07:27:54.000Z",
+      "summary": "OpenAI发布新版模型准则，强调“忠于人类意图”为首要原则。",
+      "summaryZh": ""
     },
     {
       "title": "Muse人形机器人来了！小扎带队，中国造",
@@ -18,7 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-01T15:00:31.000Z",
-      "summary": "Meta与傅利叶合作开发人形机器人Max原型，旨在打造消费级机器人。",
+      "summary": "Meta与傅利叶合作开发人形机器人Max原型，旨在提升家庭交互体验。",
       "summaryZh": ""
     },
     {
@@ -32,132 +33,144 @@
       "summaryZh": ""
     },
     {
+      "title": "数据中心遭抵触？OpenAI“玩文字游戏”：中期选举后改名为AI算力园区！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oTUtsZjc3T3R3cTdDYVlNZUcyTWNqektDZklySlBwbVVneWpVZjljV2ZHMThhZUh1X25jMVVHM0FKUzBJNEJ6OQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-02T02:53:28.000Z",
+      "summary": "OpenAI将数据中心更名为“AI算力园区”应对政治环境变化。",
+      "summaryZh": ""
+    },
+    {
       "title": "半导体芯片链周度深调，AI算力产业进展密集落地",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Lbjl6VGgzdDlCX0FBMjN1LTlraGZfbVJMYUhjQVBzb1NTSWJVR0hLa1R2YkctOGw0MTdwUlVuMVczZXJ6QjZQXw?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-02T02:42:16.000Z",
-      "summary": "半导体芯片链指数周度大幅回调，AI算力产业进展密集落地。",
+      "summary": "半导体芯片链指数周度大幅回调，AI算力产业密集落地。",
       "summaryZh": ""
     },
     {
-      "title": "美国资本在买“大脑”，中国资本在催机器人出货？",
-      "link": "https://www.tmtpost.com/8189780.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-02T05:14:00.000Z",
-      "summary": "零营收的PI冲击200亿美元估值，国内资本却在催机器人拿订单、做交付。"
-    },
-    {
-      "title": "43 分 41 秒，首届 CMG 世界机器人登泰山大赛足式竞速冠军产生",
-      "link": "https://www.ithome.com/1/020/938.htm",
+      "title": "宇树机器人 G1 因过热退出登泰山大赛，被担架抬下山",
+      "link": "https://www.ithome.com/1/021/222.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-02T04:54:32.000Z",
-      "summary": "首届CMG世界机器人登泰山大赛足式竞速赛冠军产生，北京灵翌科技队以43分41秒夺冠。",
+      "pubDate": "2026-11-02T10:03:34.000Z",
+      "summary": "宇树机器人G1因过热退出登泰山大赛，被担架抬下山。",
       "summaryZh": ""
     },
     {
-      "title": "AI推导出外星数学，38年无解混沌难题，被GPT-6联手Claude终结-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41X2pheXd3Y3lTS2U0LTNnWm5NcndnVmhxQ3A4UUNIQW5URE1iWi1WQUcwVlFBV3B0VjFTRmdMX2V4TWUzeWZ1d0FNM0lkX1U?oc=5",
+      "title": "首届 CMG 世界机器人登泰山大赛赛果出炉，最快 27 分 26 秒夺冠",
+      "link": "https://www.ithome.com/1/021/102.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-02T08:30:34.000Z",
+      "summary": "首届CMG世界机器人登泰山大赛落幕，最快27分26秒夺冠。",
+      "summaryZh": ""
+    },
+    {
+      "title": "DeepSeek开源Super-agent，AI开始自己给AI派活，Agent竞争有了新方向",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Ub1kza0h1SUUwbmhpR3hseFV5dlZLbFJrTUx1YTRWS2h2Rk9ITmhKWFBva2g4TGlLM3ZwaTdMbjM4d215STVacEwteW9OQjA?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-02T00:16:28.000Z",
-      "summary": "GPT-6与Claude联手解析38年无解混沌难题。",
+      "pubDate": "2026-11-02T11:27:33.000Z",
+      "summary": "DeepSeek开源Super-agent，AI自主分配任务，推动Agent行业竞争新方向。",
       "summaryZh": ""
     },
     {
-      "title": "美团龙猫发布 LongCat-2.5 原生多模态 AI 模型：1.6T 参数，面向长程智能体任务",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tOG0tTnpVMFV5UXRXdVZYNlNxMlRGVXl6UlgtWEc0SDdjMTU5WVZkcFlXcm43QXRuU2hWSnc2THFsWDAyMHdjTmY3RVI?oc=5",
-      "source": "IT之家",
+      "title": "OpenAI says it’s tightening ChatGPT controls around violence.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVE15RklzWDI3NUNMcHk2QURkUDZCZXZDamsxVlFrcE9hejZwZDV2QnJOZXZ1SGlqY2VqYWdPWGZQXzVBVU82Umh1cGZGOGtWcmN2QUdqM0I1MkRPdUg2YU9qcE4xSG1ET1loUV8xNnUyc0E4RnlNYW5QWXlGTGRqWWtfZUduMUJJZ3I4Rnk5NUppX3NQS0pxNXY1dEFiU0dkSGpGSlR2T3M4Y1VhZ0hqa2xlMGdqQTgzTElN?oc=5",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-02T08:41:49.000Z",
+      "summary": "OpenAI加强ChatGPT对暴力内容的控制。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 表示正在加强 ChatGPT 对暴力的控制。"
+    },
+    {
+      "title": "蚂蚁集团，投了一家造机器人皮肤的创企",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1NdU42UzY2YmFGRWV4SzhpcnNLMkNac1E0RUZjbkNweDFscmdWWVFYclpRUDJxbHlBT21adlNGWE9sZ2ptcjB4bg?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-01T15:38:04.000Z",
+      "summary": "蚂蚁集团领投矩侨工业，助力机器人皮肤研发。",
+      "summaryZh": ""
+    },
+    {
+      "title": "京东10月31日与无界动力签战略合作，机器人已落地七鲜咖啡门店",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jU19mb2NCR1hnM2FqcnVwTnFtTnlzLTUtbFdqTnZMeUo1UTVfMDZral96U3ltN0c5MllZYzhEV0FnQnRaWXlvVEZBbXIwNUV1VGZ1OC1SRWU?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-01T19:09:00.000Z",
+      "summary": "京东与无界动力合作，机器人开始在七鲜咖啡门店使用。",
+      "summaryZh": ""
+    },
+    {
+      "title": "借着帕累托曲线，大模型重新定义性价比？-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MakxGcG8wVjhtcDl4QUwxeEl5TjFXd3RVRjNzektGOHJ5R3Z2OHlOczJQS3VBSGg3Z19GQVZaVnJrWlQ1N29tX1J5MENVN2c?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-02T01:18:38.000Z",
-      "summary": "美团龙猫发布LongCat-2.5多模态AI模型，参数量达1.6万亿，强化视觉理解与智能体编程能力。",
+      "pubDate": "2026-11-02T01:41:23.000Z",
+      "summary": "DeepSeek大模型V4.1 Flash-1017以极低成本实现高效，引领行业性价比新标准。",
+      "summaryZh": ""
+    },
+    {
+      "title": "6370亿算力账单背后：AI上演铁路剧本，谁会死在通车前",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1veHFsRlVSSTJlcWU4MXRRTXRrWDd3YUN6R1pQLXhiRDRSODlaRmg3OVp4RDFpU20za0Rpa1N5ZE84X2tiNVRQUHF6Y2g?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-02T08:44:00.000Z",
+      "summary": "AI算力行业面临巨额算力账单，技术突破但资本风险高。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI算力产业链维持高景气度",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pNERlVjlwakRsbEVCeFBEU3RnLUszaDRNNlB5TUV5OVNxai1vdUVzdEFLVHdhd3hUNk1zeE1FaUVJLWt5Z1VVdUN1OWVPMkNXbWFtV0k3bXQ?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-01T23:30:19.000Z",
+      "summary": "AI算力产业链公司业绩增长，机构普遍看好行业景气度延续。",
+      "summaryZh": ""
+    },
+    {
+      "title": "科创创业人工智能ETF景顺(159142)跟踪指数中证科创创业人工智能指数上涨1.75%，跟踪指数已处近1年估值低位",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tS0RVTHoyYV9WUlZKLVk3ZHJmb0RzTWYxZE5uYjRkXzFiaFdwS3JMbmVpenR1YjBhdk92Y1RRcWtBX2NRcHpwT2szcEV6UDFCRUpFaklZT04?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-02T03:17:10.000Z",
+      "summary": "科创创业人工智能ETF景顺(159142)跟踪指数上涨1.75%，估值处于近一年低位。",
       "summaryZh": ""
     },
     {
       "title": "问诊机器人、AI眼镜，智能应用落地开花！科技创新打造消费新场景新体验",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6ektqOHBwcHpaeWdWejhwTHpPdkR2S18yYzZSWDdHdlNPR29rWmhJM2RsSVZZZ3VQa1hnbi1RV2JRb3IyU21HdHhaV0dkYUt5cnhrSnZnTDdNZkdNeGtmOUVsMUpxWHZjT3V1MWNOWWJQa3kyLWo5bw?oc=5",
-      "source": "央视网",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RQkpHTXk4SkhpazN3eld0RDFRZUNEQUtJekZEbldQMHJKOHZkZW9xeTI1NDNCblpBdjFmUmNWdHI5NnpMNGtqbkR5T1FsWG5lWXJ1ZG16RXRWUzl0bFdn?oc=5",
+      "source": "光明网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-01T08:45:29.000Z",
-      "summary": "问诊机器人和AI眼镜等智能应用落地，推动消费场景和体验创新。",
+      "pubDate": "2026-11-01T12:52:00.000Z",
+      "summary": "智能问诊机器人和AI眼镜等创新应用推动消费场景升级。",
       "summaryZh": ""
     },
     {
-      "title": "融资1055亿，DeepSeek扩列AI硬件朋友圈：生态第一，模型第二",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwOXlOU3dIdkJIRm9iLWREblc4OFJYeHpaeEd1X1RuZmd5TnlNalc2a0xCc2JhUGJDN2ZBSjdoQ2hGb2FpRlZXSEFZaGRnQQ?oc=5",
-      "source": "36氪",
+      "title": "地瓜机器人与宇树科技联手 剑指具身智能教育",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjUnl1SG5lNVVfM2VPcmdmQ1pLVGNVdWc0QmFyaGRmcW9XMFVlaEYzaE1zVl9xcTFGeTVTTGZYUmlzbWIyUDdKbHBHRmpVcjJIVVNVWW9yb1F5YzVVTEZMbFp3?oc=5",
+      "source": "中国经营网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-01T08:32:00.000Z",
+      "category": "robotics",
+      "pubDate": "2026-11-02T04:33:00.000Z",
       "summary": ""
-    },
-    {
-      "title": "大模型定义芯片，XHEART发布X7 Ultra，国产智驾芯片开启量产落地新阶段",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Xd01fSmN2RHFSZ1JiN3NYcldJSkdwcG5yTXZkWGtMM1BBQUt3SF8xUDJwbTAzVXhDSTQ2NWtYdUQ0a2ZOME9LWDRVSW53SFhuSXJhRDlPcm9ENC02VUVLNmVR?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-02T04:49:03.000Z",
-      "summary": "XHEART发布X7 Ultra智驾芯片，开启量产落地新阶段。",
-      "summaryZh": ""
-    },
-    {
-      "title": "从50P算力池到产业楼宇，看南昌红谷滩项目加速落地",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DejRTaFktYXJxVXJhUVltdkN2cm5pSlNjRW4wN3RyU1Z6Y3FNZFBaS3hoRkU4M05Yc2huNGtBQVdsNW1UeWVVNzR6cnNES0xQZWhLX3pNM0xVenpUZ1BrMjlzQUl3VThC?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-02T00:15:13.000Z",
-      "summary": "南昌红谷滩项目50P算力池落地，产业楼宇建设加速。",
-      "summaryZh": ""
-    },
-    {
-      "title": "算力变“词元”，西安打通AI落地“最后一公里”",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40SmhIR2tNbFdMMmFXeThSRU9sdXBUbE9fWlRLUEVmYzdoRXBqVExnc3FpQzJmUUlGYm43eFc0elQyZHluNjd1bkNpcUwzc2E2YUR2LWZ3TWFfVk5xY29jMEJLU0JUblBpSC02dGlWdm4?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-02T05:32:24.000Z",
-      "summary": "西安通过政策扶持和资源整合，推动算力向词元应用转化，助力AI产业落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "广东一批人工智能产业项目落地签约",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uU0pjanBybGZuMDBadzFFbVRwLTdjZ3dTOTlTZ1VzY09hNkh4am5IRmFCcjd0QXJMTW11WGJoNE9LNGpTeUplSlpObmhfTGItSmxYQmkwUEN1REtTcmUxbTZoZDFYREtYNFY1dE9CckU?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-02T04:53:19.000Z",
-      "summary": "广东举办人工智能论坛，多项目签约落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
-      "link": "https://www.qbitai.com/2026/11/507038.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-01T13:09:55.000Z",
-      "summary": "Anthropic紧急叫停Claude Code，禁止其逆向游戏克隆。",
-      "summaryZh": ""
-    },
-    {
-      "title": "DeepSeek开源Super-agent研究原型：让AI主动发现Bug并持续参与日常工作",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpeE1ZNVpVaWtBY1B5MUJQNlVTM3pHOTRLVC1YMXl1VEc3Y1EtaXI0RDN2dy1lSmZCOWFtczNWRU1KbXM1NVZDRkVuN0I2TnFVd1JhcA?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-01T12:13:53.000Z",
-      "summary": "DeepSeek开源Super-agent原型，旨在让AI自主发现并修复Bug，持续参与日常工作。",
-      "summaryZh": ""
     },
     {
       "title": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics",
@@ -177,9 +190,18 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-01T13:00:31.000Z",
-      "summary": "3M推出针对机器人连接挑战的解决方案，以应对运动、密度和可靠性需求。",
+      "summary": "3M推出针对机器人连接挑战的解决方案，旨在提升运动、密度和稳定性。",
       "summaryZh": "",
       "titleZh": "解决现代机器人技术中的互连挑战：3M 如何进行运动、密度和正常运行时间工程"
+    },
+    {
+      "title": "傅利叶携手Meta，探索人形机器人研发新分工",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jTzcxcTMxN1ZBNnVpM1pWc251X2hjaGRFNV9GRlBwWUl1Z0Y4UlZFbUk1NmxPZUhmOWJ1djlhZ0xZUEV4WUR2QU85endHU1lHR2M0?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-02T04:16:53.000Z",
+      "summary": ""
     },
     {
       "title": "千问集成到苹果AI；Meta人形机器人中国造",
@@ -188,26 +210,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-02T04:09:59.000Z",
-      "summary": "千问集成苹果AI，Meta人形机器人中国研发。",
+      "summary": "苹果AI集成千问，Meta中国造人形机器人。",
       "summaryZh": ""
     },
     {
-      "title": "从数字沈括到 6G、人形机器人！这场 AI 论坛亮点满满",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQRzBzc1BmSURILW1oaFRhajlJQzhPN3QwS2tiSUV1REFsTnFnUkpfb2pzSDFkV0VLdmZ5V3RGZ0JoMHl1TmZDRlpvdHdoU1JxOXJHeHhaaGNjYk4zSmc?oc=5",
-      "source": "同花顺财经",
+      "title": "惠普加码AI家庭打印；上海迪士尼第三座主题酒店官宣开业",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9objVRYVdnaVRDUFlXSktLdGlJc3VjdWdLT3B3ZE9Ddjg4a2pfZTJsd2Fub3ExNzRlZ3Z1VGZ3Vk1NQTNkcEYxWmkzUU02NEViQklzcTE2VVFFd21ldDVTUVQ5WGhMZw?oc=5",
+      "source": "每日经济新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-02T03:35:27.000Z",
-      "summary": "广东经视记者陈炯如吴蓉 11月2日上午，2026大湾区科学论坛人工智能分论坛暨第七届中国(广东)人工智能论坛在广州南沙国际会议中心举行。"
+      "category": "application",
+      "pubDate": "2026-11-01T23:00:00.000Z",
+      "summary": "惠普发布AI学习打印机，上海迪士尼第三座主题酒店开业。",
+      "summaryZh": ""
     },
     {
-      "title": "中国人形机器人研发逻辑发生了怎样的转向？",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XeFJQRUlIX1dlanA0cDVGbE5fZjJrTGk3aWVLSXg2OFEydkZvZTBiejdIUzlTZUMxazQ5czk2ekdpWDdxeHRZdDk0SXpUdnU5MjBLWkp1aElSR2xrX1Bv?oc=5",
-      "source": "财新网",
+      "title": "AI养老进社区，别急着夸“炫酷”，先看老人敢不敢伸手",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RUnhtYWNBZHBlZ190VFJ6U05ITnBVMXMwcUJycmJEQl8xdW9UODVfZnE3VjJwY2tjeDhfQUx0NlgwcncycGE3OHFoUWduR0RjMkl4SldZVkNkU2hPOUNJWVN2Q2FZVGxPTUYzWTNlWURlRGw0SXc?oc=5",
+      "source": "新浪财经",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-01T12:44:00.000Z",
-      "summary": "中国人形机器人研发从追赶转向无人区探索，多条技术路线并行验证。",
+      "category": "application",
+      "pubDate": "2026-11-02T02:26:22.000Z",
+      "summary": "AI养老进社区，关注老人是否愿意使用。",
       "summaryZh": ""
     },
     {
@@ -217,17 +240,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-02T01:02:00.000Z",
-      "summary": "记者实测AI旅游攻略，体验喜忧参半，AI信息时滞性和局限性明显。",
-      "summaryZh": ""
-    },
-    {
-      "title": "几十秒出一份攻略，AI当“旅游搭子”靠谱吗？",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUmMwZ2l6S1VDWG14bW9EV0xDTnFhQWlzNW1pODM4SXJQbGk5Z0JwMXNjeGxTbGtac1Q1OFB4WlZEd3dlVGpRRkUwQXJCTTNDSW5FelUtNjVQRkRuUFpZZzUyaVhsQVh6NUNhWEVkWkcwSXhKUTVXUmh3ZkctVTZnSzh1VWtRQWljYWJrOXZuYw?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-01T10:28:35.000Z",
-      "summary": "AI制定旅游攻略体验不一，省心与踩坑并存。",
+      "summary": "记者实测AI旅游攻略，体验喜忧参半，AI信息时滞性和局限性显现。",
       "summaryZh": ""
     }
   ]
