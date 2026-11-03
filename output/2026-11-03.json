@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "generatedAt": "2026-11-03T06:54:08.938Z",
+  "generatedAt": "2026-11-03T11:17:59.701Z",
   "items": [
     {
       "title": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
@@ -13,81 +13,95 @@
       "summaryZh": ""
     },
     {
-      "title": "小米机器人“双线突破”：成功挑战工厂 8 小时作业、家庭长程任务",
-      "link": "https://www.ithome.com/1/021/525.htm",
-      "source": "IT之家",
+      "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+      "link": "https://www.qbitai.com/2026/11/507322.html",
+      "source": "量子位",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-03T06:01:46.000Z",
-      "summary": "小米机器人同时实现工厂8小时作业和家庭长程任务挑战。",
+      "category": "ai",
+      "pubDate": "2026-11-03T01:57:30.000Z",
+      "summary": "MIT研究发现GPT-6 Astra可修改Qwen权重，数学能力提升6倍。",
       "summaryZh": ""
     },
     {
-      "title": "优必选发布具身智能仿真平台Thinker-Sim 物理AI及数据采集再迎催化",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KbndzMnJxb01DUEhxWDV1Wm9ham5GY2hTT1JDRTc1Y0pwRzZ2Y2c3VFA1cWl0blJac0tYY3liR08tSGR3X204YQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-02T23:55:00.000Z",
-      "summary": "优必选发布Thinker-Sim平台，推动物理AI和数据采集发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "人形机器人迈向“部署态” 产业竞争从“下线”转向“上岗”",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1naVFJX2stSmtaNG5rSG05bGtLeS1UQXl5aGdzbHNxVGY2cWNLS1M2SnE3bEg2SkFiV2wxMk5zYUpUTkM3d1ZHTWF6XzY1R2lYNXJYUE5aVVlMZzV4MHZzZTJ3?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-02T08:09:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "不与大模型对抗，星尘智能想用AOS接住通用智能的红利",
-      "link": "https://www.tmtpost.com/8191171.html",
+      "title": "DeepSeek不满足于模型，还要让AI自己干活",
+      "link": "https://www.tmtpost.com/8190971.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-03T03:13:20.000Z",
-      "summary": "星尘智能以AOS操作系统连接通用智能，探索AI伙伴关系。",
+      "pubDate": "2026-11-03T09:38:34.000Z",
+      "summary": "DeepSeek开源Super-agent原型，探索自主智能体架构，旨在提升AI多任务处理能力。",
       "summaryZh": ""
     },
     {
-      "title": "月之暗面 Kimi 发布游戏开发与创意工作解决方案：AI 可直接操作 Unity、虚幻引擎等",
-      "link": "https://www.ithome.com/1/021/539.htm",
+      "title": "OpenAI 发布 LifeVal 基准：从选幼儿园到报税，测试 AI 的“人间烟火”技能",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zYzJiTTA0Z0ZqblQ1eThFbzktTjJTM0NfUmJjX2xIN2NSYlVVN19ONC1GMHZ4eTlmTTZIcXFFbDVFMFpqaUdoWF8zTEE?oc=5",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-03T06:42:23.000Z",
-      "summary": "该方案基于 Kimi K3.1 系列模型，配合 Kimi Code 与 Kimi Work 系列 Agent，通过插件连接 Unity、虚幻引擎、Blender 等专业工具，可直接操作现有工程，交付可编辑文件与操作记录…"
+      "pubDate": "2026-11-03T01:54:54.000Z",
+      "summary": "OpenAI发布LifeVal基准，测试AI在日常生活任务中的实用性。",
+      "summaryZh": ""
     },
     {
-      "title": "美团发1.6万亿参数新模型，通用Agent测试超Opus-5，国产芯特别优化",
-      "link": "https://zhidx.com/p/606379.html",
+      "title": "英特尔与腾讯发布基于至强6+的云实例，晒智能体AI基础设施全家桶",
+      "link": "https://zhidx.com/p/606250.html",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-02T10:34:36.000Z",
-      "summary": "美团发布1.6万亿参数新模型LongCat-2.5，测试表现优于Claude-Opus-5等模型。",
+      "pubDate": "2026-11-03T11:10:21.000Z",
+      "summary": "英特尔与腾讯发布基于至强6+的云实例，展示智能体AI基础设施全家桶。",
       "summaryZh": ""
     },
     {
-      "title": "国家发改委：人工智能安全挑战需要各国共同面对，共研安全治理标准",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oSVAxMU0xdmJHMkUycnlGcmZFREdLZ0J6N3Fvc2JMWGY1U3NJa3ZQQWZaaFN0T1B2bnJaYVRpVURKVkd2UklPd0NaekM0cGQzWm5oRDZhc0QyZE9GRkE?oc=5",
-      "source": "36氪",
+      "title": "国芯训练国模！DeepSeek下一代大模型计划用昇腾芯片训练",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MeENRQVRPRjJmX1lvWWw3dDFYN01ROHZ0QW1UdjlDNzdWcWxwMmtnLTBWajhfcW9fN004QjQ1OTZOYkJya3g2Yg?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-03T03:26:25.000Z",
-      "summary": "国家发改委呼吁全球共同应对AI安全挑战，共研治理标准。",
+      "pubDate": "2026-11-03T02:41:00.000Z",
+      "summary": "DeepSeek下一代大模型DeepSeek V5计划基于昇腾芯片进行预训练。",
       "summaryZh": ""
     },
     {
-      "title": "国家发改委：健全“人工智能+”政策体系，细化落实重点行业实施方案",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RbjlVTWlYWldjUFMxeDIxeVJIT1ZUcFBWaU9qcEkzcG1qY2VaVlFrV0ZQMzR6bU9vVHVIbm5YTEstaVJSc2NFZWh4MjZpN0hUWXU2SF92bmQ?oc=5",
+      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWVR0eUlPQnZkWXRha202OEZuMUYwRmtmQzl6dWU4Vm9yQTlQRkI3LUxEcG9mTEl6WkwwMGVBWWpsbGVybDlYUk9HMXFOS0dNd2JtekNzSHhVc3F4Y0dIY3pJeGlsaDZMdF90N1pBdVZCWjdMaGgtaUk0ZDlDVkpWWEhFT0VfOHhfYUd2eFlFOERtdw?oc=5",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-02T13:57:53.000Z",
+      "summary": "OpenAI将合并ChatGPT的Chat和Work标签。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 最终合并 ChatGPT 的聊天和工作选项卡"
+    },
+    {
+      "title": "最小参赛机器人征战泰山！宇泛“灵猫”自主竞速赛第一",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lNUoxTXhMQjBGdml4MVNYU3BlS29oXzdRRW1xNkpZbjJRRmJ5eDdFQ3cxT3RLU3RTWkRqNXhINmIwQ2thV3BiM0JGNA?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-02T11:25:38.000Z",
+      "summary": "宇泛“灵猫”机器人泰山自主竞速赛夺冠。",
+      "summaryZh": ""
+    },
+    {
+      "title": "通用大模型进不了化工现场：超智能科做行业知识增强-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HUnJjMGRETDA4TEticWZXUzAzczFCN19TTFVLNVRwaXRUcVBaRG5TYWJqaU5qcXJMSHFXMWU2VmpGbERFUXFUbllreEwyUDl1?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-03T02:59:19.000Z",
-      "summary": ""
+      "pubDate": "2026-11-03T09:55:35.000Z",
+      "summary": "超智能科开发行业知识增强技术，提升化工现场设备故障识别准确率至98.7%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "企业级 AI 智能体发展报告：四大主流技术路线评估与适配场景参考-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CeWkxRkhScU90ZGRyU2ZhNjVKRUh3MVpvQUNnc3dTYkF1YVp3X2dLMk1xRlFOTkowdUdRZVI0YkFkSkM5WW54NHAtVjBtYWxx?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-03T10:04:22.000Z",
+      "summary": "企业级AI智能体市场规模预计达449亿元，报告评估四大技术路线及适配场景。",
+      "summaryZh": ""
     },
     {
       "title": "OpenAI融资目标下调与Anthropic信用评级担忧引发AI资本链可持续性讨论",
@@ -96,78 +110,69 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-03T01:54:56.000Z",
-      "summary": ""
+      "summary": "OpenAI融资目标下调，估值缩水，引发AI资本链可持续性讨论。",
+      "summaryZh": ""
     },
     {
-      "title": "价格战在中国大模型行业结束了，但成本战才刚开始",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE83Z1BQWEVEOE9Cb0tDVEpPTnhQQjFnLXN4Wl8wR3VQRjRkMTloM3huYmJCMVdEWThHUWpMekRPVDAtVGNSWkxqSU5PZkM?oc=5",
+      "title": "哈塞特反驳AI融资担忧，称该行业不存在被全面抛售的风险",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11NmZmcW5YNDY0Ukpub0pPcTVTLXg0d2U1N0R2WFhidjlsMzNiYTF5RHdMNEhiN3BRT1dXQVY1Y2xJRjZsUGV0WnJ3QXF3T0VYUTNuOVk4b1dBZw?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-02T07:42:00.000Z",
-      "summary": "中国大模型行业价格战结束，成本优化竞争加剧。",
+      "pubDate": "2026-11-03T04:46:00.000Z",
+      "summary": "哈塞特称AI行业资金充裕，无全面抛售风险。",
       "summaryZh": ""
     },
     {
-      "title": "事关“人工智能+”，发改委作出最新部署",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUcmgzdDRkVlFCd2RhTms2VUp5Zzd1RWlDdUxic0dvS3ZwVW1MdXBwMXR6OGdVUTRBWHNCQnMtUnVjZjlqai1xMUZUeEo4RmVUSVh5TGV1OWE?oc=5",
-      "source": "界面新闻",
+      "title": "男子用 AI 破解 AI 平台接口：400 多万个账号薅积分、偷算力卖钱，被判刑 3 年缓刑 3 年",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kdVFIeGMwRWNVS1UzWF91bW9JNjBLVEhyLXcydU5sZDFfbVlmaFl0eDFNbXduYnFmSWdBaFlrSGtQSktCWVE3bnNoLTY?oc=5",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-03T03:37:15.000Z",
-      "summary": "发改委部署“人工智能+”深化拓展，细化实施方案和制度支撑。",
+      "pubDate": "2026-11-03T03:50:38.000Z",
+      "summary": "男子利用AI破解AI平台接口，非法获利被判刑3年缓刑3年。",
       "summaryZh": ""
     },
     {
-      "title": "墨芯人工智能完成近10亿元C+轮融资",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44S3BlQ1hQcmVmeU9LXzdMNWlqbTBhanJEakhXVndHMktyQWp5ZWNxVFRURGFYWElYc01yNnlQd093a1JwaHpxNFZmZEUyc2ppenlEa2t4UzU?oc=5",
-      "source": "界面新闻",
+      "title": "重庆中信银行发布风险提示 AI拟声骗走养老钱",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBMzNERUh0dWxWNmpjSnlwRDJwSW1QZmVwb1h6WTJoOGItc3htTTd3OV9IaHFrS19kcEYyOHdzV29BN1ZPT1o0RTRGbUNrV2VWWUVURzdkczNmTHN4TVRVZWhPTTdwdw?oc=5",
+      "source": "央广网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-03T00:40:53.000Z",
-      "summary": "墨芯人工智能完成近10亿元C+轮融资，资金用于芯片升级和产学研联盟建设。",
+      "category": "application",
+      "pubDate": "2026-11-03T10:03:07.000Z",
+      "summary": "中信银行发布风险提示，AI拟声诈骗养老钱需警惕。",
       "summaryZh": ""
     },
     {
-      "title": "英德两国拟将人工智能纳入军事合作",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QT0FZMldvZV9seWxRQnVrYm9EVG5WQXU0SmxfckxhNzBSbWVWUkFUMWsyWmg0bFpHVmF1aExnYVY1VEUxbEttcA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-02T12:29:05.000Z",
-      "summary": "英德计划将人工智能技术纳入军事合作，开展技术测试与研发。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机器人关节外壳、机器人结构件异形件定制，精密五轴加工怎么保证高精度",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhT1NWM09iTUtPXy1KZkt3T0hPZUdxYkRjV0VkQlpDQTRmTFBKSkcwS2JCRlQ1cHdZd0dmSWptUC1Mc1ZUZDRTdkhyM1FUNzYtMURkTlhhVQ?oc=5",
-      "source": "与非网",
+      "title": "心言巴布Bubbo 1：一台机器人，如何成为家人",
+      "link": "http://www.geekpark.net/news/373399",
+      "source": "极客公园",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-03T03:39:50.000Z",
-      "summary": "精密五轴加工确保机器人关节外壳及结构件定制高精度。",
+      "pubDate": "2026-11-03T07:11:52.000Z",
+      "summary": "心言机器人发布家庭陪伴机器人巴布（Bubbo 1），主打伙伴式交互，售价9499元。",
       "summaryZh": ""
     },
     {
-      "title": "自动驾驶商用前夜，2026买车要不要先选L3级架构？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KXzFfUGpPZXFJWHZueU5DNDNhOGgwSnVJRTNOY0Jxa0xXTDJmZU5rdkJCN0dTMGg3czJZRDBzOGxic013ZEZ6U3FEUERFOHVKaXNNVkhJTQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-03T01:51:10.000Z",
-      "summary": "2026年购车需关注L3级自动驾驶架构安全验证。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Agility Robotics says more than 30 companies considering Digit humanoid robot",
-      "link": "https://roboticsandautomationnews.com/2026/11/02/agility-robotics-says-more-than-30-companies-considering-digit-humanoid-robot/106595/",
-      "source": "Robotics & Automation News",
+      "title": "Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC",
+      "link": "https://www.therobotreport.com/agility-robotics-shareholders-approve-25b-humanoid-spac/",
+      "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-02T11:24:37.000Z",
-      "summary": "Agility Robotics的Digit人形机器人吸引30多家公司考虑使用。",
+      "pubDate": "2026-11-03T00:15:39.000Z",
+      "summary": "Churchill Capital XI股东批准25亿美元收购人形机器人公司Agility Robotics。",
       "summaryZh": "",
-      "titleZh": "Agility Robotics表示超过30家公司正在考虑数字人形机器人"
+      "titleZh": "Churchill Capital XI 股东批准 2.5B 美元 Agility Robotics 人形 SPAC"
+    },
+    {
+      "title": "大看台｜跑赢人类后，机器人为啥还要去泰山“修炼”",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOalMxNHppYUlIYkNvN2V6a1l1QktQYmZsQ0xuVFltb3ZMc3ZGcXRINm5WNHRBSko4VzlJa0QzNEFXazljb0h0eWxIdi1MQnVGNnpzT1o2RzNGNVQxSEtONEZOSGM5bDI3RmdnSFoxY0d5T1pJYjZwRl9GYzRidE0yMkdLNXlyZHM?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-03T10:08:51.000Z",
+      "summary": "机器人登泰山大赛考验平衡控制和地形适应能力，推动技术进步。",
+      "summaryZh": ""
     },
     {
       "title": "中韩具身智能Physical AI创新与合作论坛在广州南沙举行",
@@ -176,27 +181,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-02T12:02:48.000Z",
-      "summary": "中韩具身智能Physical AI创新与合作论坛在广州南沙举行，聚焦前沿技术交流与合作。",
+      "summary": "中韩具身智能Physical AI创新与合作论坛在广州南沙举办，聚焦前沿科技合作与产业协同。",
       "summaryZh": ""
     },
     {
-      "title": "AI净利增281%、机器人增94.8%：三季报“新引擎”兑现",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHVlSzVHbFo0c090ZUdfWEt2aHJQa2dza2Q2OVVaZ2t4b0tNRmdkOGdNbkJCQWp1VGhCS0cyLVV4Wm1WWkU1akpOQ3FFREF4TjIwX1ZCWDBqU21lVFg3UDhrOV9uT2hJNFY2aFo3d0c4bVBfVERBWkJ2YnFwTndaTkxlMWlQZ0QtdHZtZWh5OA?oc=5",
-      "source": "21财经",
+      "title": "[24小时]AI制定旅游攻略 能放心出发吗？AI旅游攻略精准匹配需求但过于理想化",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZi1LamwyQ1FzWE1xWmZLQUhOZ05fdDRiazJzQTgtRGUtcTVSN1dLbS1sSU4tMm96WE1fTHVOcVFfRUxMaFByblctVDRzbndIM2lwVnRyMUcyeUhQa0x2cUtGN1BkMWZFN3Vfdy1vS1VQM2V0UUg4RGltbDBSRmNtT0F0UXgxWG1mMHZHYmZWanNJcnJHXzhB?oc=5",
+      "source": "央视网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-02T10:30:26.000Z",
-      "summary": "AI和机器人板块净利润大幅增长，三季报显示科技行业成为新引擎。",
-      "summaryZh": ""
-    },
-    {
-      "title": "心言机器人给AI装了一副身体，正式发布巴布（Bubbo 1）",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NUjM5c1RsWDlwV0FRblhEbjNCRko4dVBvOTMzY2hZSnRrSm1uWVA5NHJhakFUa3piVU5YSkZWbHJsZXU4MmJqYVdMbTd1SmQ1TXdYa2lR?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-02T08:08:00.000Z",
-      "summary": "心言机器人发布具身家庭智能体巴布（Bubbo 1），采用伙伴式交互。",
+      "category": "application",
+      "pubDate": "2026-11-02T14:55:56.000Z",
+      "summary": "AI旅游攻略精准但理想化，需谨慎参考。",
       "summaryZh": ""
     },
     {
@@ -206,7 +201,17 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-03T01:37:44.000Z",
-      "summary": "AI宠物短视频成为年轻人新兴娱乐方式，引发流量变现和法律伦理问题。",
+      "summary": "AI宠物短视频成为年轻人新兴娱乐方式，引发内容同质化和版权争议等问题。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI探店视频制作成本低廉不用真人出镜也能夸赞菜品环境“探店”不再“到店”哪些法律边界亟待厘清？",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wYmg4TEh1c0dycjg5R2lKN0NKT2ZFZk9DMDlZTVpWdm5YckQ5bF9NdEk0RzRWc1ZpRmEwbXFBcVdhZ1FQdVFITGRUcTU5YUNKM1JZUDE1OVZGSnoxbjhhc2pDb1RaMDViQnhqUQ?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-03T08:51:16.000Z",
+      "summary": "AI探店视频兴起，法律边界待明确。",
       "summaryZh": ""
     },
     {
@@ -216,18 +221,61 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-03T05:54:13.000Z",
-      "summary": "AI探店视频法律边界待明确，数字人“吃播”引发争议。",
+      "summary": "AI探店视频法律边界待明确，数字人演“吃播”引发争议。",
       "summaryZh": ""
     },
     {
-      "title": "广交会观察：机器人、AI算法层见叠出 中国智能化适老产品“出海”走俏",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xSURESllRRm9CQjdzYkJUZGRyRzUwVjdPYlVlYzAtcDhWVUtramdjWXptbVNxX3hFbUVubDFrY09FSjBtWGJhdDN3cHZQMTFSUU84UjRJekhpLUhGNVhtYlRNcjRUeVdt?oc=5",
-      "source": "中国新闻网",
+      "title": "安防驶入AI新赛道！2026安博会看点：具身机器人、低空安防、智慧警务同台亮相",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzZ0ZqekFPS0ZFSjVBLV9VWnV3LU82aXhuR0FGTnllY0stcm9KM0NhTDExS3pXZjBURXlNS24wRXQxTWd4RXVLRTFYVjQwdjJULW9EenFvdGpHRWRhaWllMnd2WTZncWVyQWNETmt4RTM?oc=5",
+      "source": "科技日报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-03T05:02:29.000Z",
-      "summary": "广交会上中国智能化适老产品受海外市场欢迎。",
+      "pubDate": "2026-11-03T08:11:53.000Z",
+      "summary": "2026安博会聚焦AI安防，具身机器人等新技术亮相。",
       "summaryZh": ""
+    },
+    {
+      "title": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcHZETVpaTVFfV1pia2dHWUFQUm1mdGJ6UFVydWVRdmJIelFsUVpnWVROLURZc2Fiam5XaUhWWlJGbTFCbVNmX1NBcF9lSjVRYnpRMXhlTFJuX2t3S01mNTZKZEdnOWN5SHc5bjJaRG95TGtEV1JVVVU4blR0MEJ2eWhn?oc=5",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-02T17:06:10.000Z",
+      "summary": "苹果“Ultra”智能家居机器人可能要等到2028年才能推出。",
+      "summaryZh": "",
+      "titleZh": "苹果的“Ultra”智能家居机器人可能要等到 2028 年"
+    },
+    {
+      "title": "Walmart commits $6B to up distribution center automation with Symbotic",
+      "link": "https://www.supplychaindive.com/news/walmart-commits-6b-to-up-distribution-center-automation-with-symbotic/873356/",
+      "source": "Supply Chain Dive",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-02T15:07:07.000Z",
+      "summary": "沃尔玛投资60亿美元与Symbotic合作提升配送中心自动化。",
+      "summaryZh": "",
+      "titleZh": "沃尔玛投入 60 亿美元通过 Symbotic 提升配送中心自动化水平"
+    },
+    {
+      "title": "Robot platform combines AI and rapid imaging to improve perovskite solar cell fabrication",
+      "link": "https://techxplore.com/news/2026-11-robot-platform-combines-ai-rapid.html",
+      "source": "Tech Xplore",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-02T14:40:10.000Z",
+      "summary": "机器人平台结合AI和快速成像技术提升钙钛矿太阳能电池制造效率。",
+      "summaryZh": "",
+      "titleZh": "机器人平台结合人工智能和快速成像来改进钙钛矿太阳能电池的制造"
+    },
+    {
+      "title": "Could your existing in-store network become a retail media channel?",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXhncFpCSlJMMTF5eExhNlp5MlBydjMxdFc2N216YzUyWHg0THp6RTdDakU4ckdLVFFtVlFLblFaM19LSy0zckpYb2JBbFV1NjgtbmhPYmtPOEMxUXBneDBzYTZ2LUtXRVpNbV8tQ29oZ0pCeWlLRHZHYmozODdEVHQ3TzJNSEpMdzdqSjloLTZPVkRmcFBaQUhsaDA5T3ViM2UzRUhDR25iRFFyclRTUW93?oc=5",
+      "source": "Retail Gazette",
+      "lang": "en",
+      "category": "application",
+      "pubDate": "2026-11-03T10:06:43.000Z",
+      "summary": "",
+      "titleZh": "您现有的店内网络能否成为零售媒体渠道？"
     },
     {
       "title": "US grocery retailer Seed to Table enlists Live Buzz Intelligence for AI powered immersive in-store experience",
@@ -241,15 +289,15 @@
       "titleZh": "美国杂货零售商 Seed to Table 聘请 Live Buzz Intelligence 提供人工智能驱动的沉浸式店内体验"
     },
     {
-      "title": "Ahold Delhaize USA ramps up in-store technology modernisation push with NCR Voyix technology",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMzY4ekFqaENoZHYwekd2ZFRUYWhUM01yX3VwdF9jUWZueXBrWmdkanZjZVJYNE1EV290cXV1U2xjNHlfR0pnc2ZlbDVPSGdfcUFmMzg0MXY4c2FfZ2kzXzFMY04zVkJwWUJUbW03WmNyN2VXUldFc282UmFFclJIS3lHSlN1amlpUy1jelZEZG5YTXlaRlVIc2JZOV8wNE1mWExpZFZ6dnRMZVJKeWdVN0ZGaFQ0bHdrVnhjUXhDWEhfOU5rTWRheEZjWW9Gd1lyRmVaVTVBZlRueEE?oc=5",
+      "title": "Ahold Delhaize USA ramps up in-store technology modernisation push with NCR Voyix",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM2RDckxXeTVvcF9obU5oUGRwZW5tcG5vTm5SN3Y5dUpHN21GUlZVX01RMlFuTkdMSXJ0SFZnNy1RZmtrMEQ2TkxLRlc4ZkVyN1BUR3RPYjBBZzN3MWx5OWF5aUNjNENKaXR2SS1EQ0xLaWtTUFZfOTBxc0FKOGoxU2NOWlRpbjlxMFR6OVoza2pIak5xNWtBN0JBb0JaYk9fSlNiSkVzd2tHcGdBRlpGYlBBUllBU042ckQyTnJ5ajdZTGNfNmhXelhCWm54bnZQZXRN?oc=5",
       "source": "Retail Tech Innovation Hub",
       "lang": "en",
       "category": "application",
-      "pubDate": "2026-11-03T05:32:04.000Z",
-      "summary": "Ahold Delhaize USA加速店内技术现代化，采用NCR Voyix技术。",
+      "pubDate": "2026-11-03T09:18:43.000Z",
+      "summary": "Ahold Delhaize USA与NCR Voyix合作，加速店内技术现代化，已在100家门店部署新POS系统。",
       "summaryZh": "",
-      "titleZh": "Ahold Delhaize USA 利用 NCR Voyix 技术加大店内技术现代化进程"
+      "titleZh": "Ahold Delhaize USA 与 NCR Voyix 合作加大店内技术现代化进程"
     }
   ]
 }
