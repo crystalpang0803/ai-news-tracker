@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "generatedAt": "2026-11-02T23:27:39.577Z",
+  "generatedAt": "2026-11-03T00:54:09.439Z",
   "items": [
     {
       "title": "算力不再是AI Agent的天花板，生态围墙才是？",
@@ -13,13 +13,13 @@
       "summaryZh": ""
     },
     {
-      "title": "首届 CMG 世界机器人登泰山大赛收官，宇树斩获 1 金 2 银",
-      "link": "https://www.ithome.com/1/021/250.htm",
+      "title": "日本拟修订汽车安全认证标准，为 L4、L5 级自动驾驶车辆量产铺路",
+      "link": "https://www.ithome.com/1/021/304.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-02T11:54:11.000Z",
-      "summary": "宇树科技在首届CMG世界机器人登泰山大赛中获1金2银。",
+      "pubDate": "2026-11-03T00:06:15.000Z",
+      "summary": "日本修订汽车安全认证标准，推动L4、L5级自动驾驶车辆量产。",
       "summaryZh": ""
     },
     {
@@ -32,6 +32,16 @@
       "summary": ""
     },
     {
+      "title": "腾讯 TenPay Global 与万事达卡签署合作备忘录，入境扫码支付、汇款与智能体支付同步推进",
+      "link": "https://www.ithome.com/1/021/294.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-02T23:20:06.000Z",
+      "summary": "腾讯TenPay Global与万事达卡合作，推进入境扫码支付、汇款及智能体支付。",
+      "summaryZh": ""
+    },
+    {
       "title": "两个清北00后，融近六千万，做机器人小脑",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FSVJTRjFwa0dIcVNHYW1GNDNoRTBNN2d1R1B0RWFSU09jd0xJcmJFSFkxaHU4QnlVc2JKYkozbHZWdXpGVXByMw?oc=5",
       "source": "智东西",
@@ -42,33 +52,23 @@
       "summaryZh": ""
     },
     {
-      "title": "最小参赛机器人征战泰山！宇泛“灵猫”自主竞速赛第一",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lNUoxTXhMQjBGdml4MVNYU3BlS29oXzdRRW1xNkpZbjJRRmJ5eDdFQ3cxT3RLU3RTWkRqNXhINmIwQ2thV3BiM0JGNA?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-02T11:25:38.000Z",
-      "summary": "宇泛“灵猫”机器人泰山自主竞速赛夺冠。",
-      "summaryZh": ""
-    },
-    {
-      "title": "融资1055亿，DeepSeek扩列AI硬件朋友圈：生态第一，模型第二-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5idWpIM1lYQmlheTBzUnVaWUhBeFpEOFA2UmpLRUNQcFNIYWpOZWJYdEVPSEEwd1c5bG1BY09RV0dXdUhxY3B2WGJCaTBCYy16?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-02T00:36:39.000Z",
-      "summary": "DeepSeek完成1055亿融资，拓展AI硬件生态圈，强化模型能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "价格战在中国大模型行业结束了，但成本战才刚开始",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE83Z1BQWEVEOE9Cb0tDVEpPTnhQQjFnLXN4Wl8wR3VQRjRkMTloM3huYmJCMVdEWThHUWpMekRPVDAtVGNSWkxqSU5PZkM?oc=5",
+      "title": "借着帕累托曲线，大模型重新定义性价比？",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE12RVo5dzBjNHh4SEg0X3l4Yi15bVVWSnNray1UdElKVlhaNDlGaENDdUl6TUlXV21FQUY3WGE0a0V4TVI1MGphUXFuLUM?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-02T07:42:00.000Z",
-      "summary": "中国大模型行业价格战结束，成本优化成为竞争焦点。",
+      "pubDate": "2026-11-02T01:03:00.000Z",
+      "summary": "DeepSeek大模型V4.1 Flash-1017发布，性价比大幅提升，引领行业新标准。",
+      "summaryZh": ""
+    },
+    {
+      "title": "墨芯人工智能完成近10亿元C+轮融资",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44S3BlQ1hQcmVmeU9LXzdMNWlqbTBhanJEakhXVndHMktyQWp5ZWNxVFRURGFYWElYc01yNnlQd093a1JwaHpxNFZmZEUyc2ppenlEa2t4UzU?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-03T00:40:53.000Z",
+      "summary": "墨芯人工智能完成近10亿元C+轮融资，资金将用于芯片升级和产学研联盟建设。",
       "summaryZh": ""
     },
     {
@@ -98,18 +98,18 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-02T22:16:00.000Z",
-      "summary": "MIT利用GPT-6 Astra直接编辑Qwen模型权重，数学性能提升约六倍。",
+      "summary": "MIT研究人员利用GPT-6 Astra直接编辑Qwen模型权重，提升数学性能约六倍。",
       "summaryZh": "",
       "titleZh": "“就像神经网络的基因编辑一样”：麻省理工学院的研究人员使用 GPT-6 Astra 直接编辑 Qwen 的开放权重，提高数学成绩"
     },
     {
-      "title": "大模型定义芯片，XHEART发布X7 Ultra，国产智驾芯片开启量产落地新阶段",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Xd01fSmN2RHFSZ1JiN3NYcldJSkdwcG5yTXZkWGtMM1BBQUt3SF8xUDJwbTAzVXhDSTQ2NWtYdUQ0a2ZOME9LWDRVSW53SFhuSXJhRDlPcm9ENC02VUVLNmVR?oc=5",
-      "source": "同花顺财经",
+      "title": "大模型芯片落地，兄弟助力Momenta抢跑？",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TVEZ2TWFyRWFGSEJneWFLRDE5dk1fQUJJbHh6ZVpFd0V0d3Y1N0NiSmJLMG41VU9vVXFOZkptY1ZTeWprN3MyTFpKSHI2N0NDUnF3cmV3?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-02T04:49:03.000Z",
-      "summary": "XHEART发布X7 Ultra大模型芯片，国产智驾芯片量产落地迈入新阶段。",
+      "pubDate": "2026-11-02T08:53:00.000Z",
+      "summary": "Momenta与兄弟公司联手发布大模型芯片X7 Ultra，旨在提升智能驾驶大模型性能。",
       "summaryZh": ""
     },
     {
@@ -119,7 +119,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-02T05:32:24.000Z",
-      "summary": "西安以算力变“词元”推动AI落地，成为产业应用高地。",
+      "summary": "西安通过政策扶持和资源整合，推动算力向词元应用转化，助力AI产业落地。",
       "summaryZh": ""
     },
     {
@@ -139,36 +139,49 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-02T04:58:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "苹果：国行Apple Intelligence接入千问，11月4日开放测试，12月正式推出；Meta联合傅里叶研发人形机器人原型“Max”",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IRHlwUXU3TC1CbGRvaDRSZjdBWnJkd0EtNURMbENjMjhIaUE4M3NEdmVBREFVQVg5Q3UzVFE1UG1oa25GaFMyVDhLZkhpNkRNYjNTNHNxT0dwbjNxNDEwZE5WRkxZZw?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-01T23:45:00.000Z",
-      "summary": "苹果国行AI接入千问，Meta研发人形机器人原型“Max”。",
+      "summary": "机器科学完成数亿元A2轮融资，加速大模型迭代与商业化落地。",
       "summaryZh": ""
     },
     {
-      "title": "智驾公司开始做机器人，智驾技术真的能撑起具身智能吗？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44ak5MYV9NMEFBRU1vd0RyeDB2Q3dDWHF0QzJoTktpYUI4MFhjSFRONXNNNEoyVjRUOUhRdktrZDgyUUkzRERKMEh4NjlJTFdHdVhCUkJYWQ?oc=5",
-      "source": "与非网",
+      "title": "央视严选中国AI创业十骏：唯一AI制药公司是清华系",
+      "link": "https://www.qbitai.com/2026/11/507150.html",
+      "source": "量子位",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-02T04:02:10.000Z",
-      "summary": "智驾公司涉足机器人领域，探讨智驾技术对具身智能的支撑作用。",
+      "category": "ai",
+      "pubDate": "2026-11-02T06:28:07.000Z",
+      "summary": "央视评选中国AI创业十骏，清华系AI制药公司水木分子入选。",
       "summaryZh": ""
     },
     {
-      "title": "从数字沈括到 6G、人形机器人！这场 AI 论坛亮点满满",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdVp5SGxVUEs0bVVqci1nbHM3T3ZvS2EtUHFJQnRFNGV2aEE5SEJ0VjI0VDRabk1CYmFjTjd2Ym1leVUySDlRMElnZzJMV2Q4Qm9ON1JzbXpwWHRucEdJeGIwTmt1emcwWU91TG9MYUQ5QXNrS1EzN2M3THBTd2NERlpld0JhbE5oekxPZlV2dw?oc=5",
-      "source": "21财经",
+      "title": "Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC",
+      "link": "https://www.therobotreport.com/agility-robotics-shareholders-approve-25b-humanoid-spac/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-03T00:15:39.000Z",
+      "summary": "Churchill Capital XI股东批准25亿美元收购人形机器人公司Agility Robotics。",
+      "summaryZh": "",
+      "titleZh": "Churchill Capital XI 股东批准 2.5B 美元 Agility Robotics 人形 SPAC"
+    },
+    {
+      "title": "Agility Robotics says more than 30 companies considering Digit humanoid robot",
+      "link": "https://roboticsandautomationnews.com/2026/11/02/agility-robotics-says-more-than-30-companies-considering-digit-humanoid-robot/106595/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-02T11:24:37.000Z",
+      "summary": "Agility Robotics的Digit人形机器人吸引超30家公司考虑合作。",
+      "summaryZh": "",
+      "titleZh": "Agility Robotics表示超过30家公司正在考虑数字人形机器人"
+    },
+    {
+      "title": "消费电子ETF平安(561600)标的指数红盘向上，京东双十一机器人品类成交额同比增长超10倍",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWOEhqaHUtVEJTY1lpZ3d0MERZelVzbDNrRjVueTRhenJqU2lqSW5fQ3ozd3M1OTk4b1lGNm1ZMWpxNEJsaTg4SGRSM3VZTWNJQm9uc01Jak82dnlVNzZ6VEZVa0ZsMWlSdDZv?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-02T03:31:16.000Z",
-      "summary": "2026大湾区AI论坛聚焦前沿技术，推动产业升级。",
+      "pubDate": "2026-11-02T02:40:00.000Z",
+      "summary": "消费电子ETF平安指数上涨，京东双十一机器人品类成交额同比增长超10倍。",
       "summaryZh": ""
     },
     {
@@ -182,43 +195,23 @@
       "summaryZh": ""
     },
     {
-      "title": "中韩具身智能Physical AI创新与合作论坛在广州南沙举行",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vTVRFbnY1eXpiQkU5c0Y1dmNnOGx2NUx0aUF3ZTBoTEFKNW1FTzBHNDJKUlNtalBTNVQ5VVdjaHZUbVQ2LXFDb2Utcy1vYkVobms4V0JwNGIwczRGZ2s3SUduNktlalFQQUdtRTNPSGFfZUE1b04wM2R3?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-02T12:02:48.000Z",
-      "summary": "中韩具身智能Physical AI创新与合作论坛在广州南沙举行，聚焦前沿科技成果转化与产业协同。",
-      "summaryZh": ""
-    },
-    {
       "title": "AI净利增281%、机器人增94.8%：三季报“新引擎”兑现",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHVlSzVHbFo0c090ZUdfWEt2aHJQa2dza2Q2OVVaZ2t4b0tNRmdkOGdNbkJCQWp1VGhCS0cyLVV4Wm1WWkU1akpOQ3FFREF4TjIwX1ZCWDBqU21lVFg3UDhrOV9uT2hJNFY2aFo3d0c4bVBfVERBWkJ2YnFwTndaTkxlMWlQZ0QtdHZtZWh5OA?oc=5",
       "source": "21财经",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-02T10:30:26.000Z",
-      "summary": "AI和机器人板块净利润大幅增长，三季报显示科技行业成为新引擎。",
+      "summary": "AI和机器人板块业绩显著增长，科技与资源行业同步回暖。",
       "summaryZh": ""
     },
     {
-      "title": "简智机器人完成1亿美元A+轮融资",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zeXZocHBZZ2JoWExJNm8yX0RWc3RzTEdkOXRzQUdNZGNjRm5XT3A3TkZqaXVoNFlzREZJMm9UZmdrZS1kUE9yTE5nbkhvTXlNR0VxMVNQSDk?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-02T01:26:00.000Z",
-      "summary": "简智机器人完成1亿美元A+轮融资，投资方包括上汽集团、百度等。",
-      "summaryZh": ""
-    },
-    {
-      "title": "签约生物医药、机器人 AI论坛推动产学研深度对接",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WSTZya3BXeXR4TTBnR2F1aUJzMHljY1NCS3JMZEJzTHJjTkt4bzRJcG1fRDh6UUJnR1VSd3lidmZLQmthOWdwMjJmVWdwTHFmVFNPVTJmQlRlTVRLNWpMd3dyelh3UkhhbEE?oc=5",
+      "title": "年轻人爱上云养“AI宠物”",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HdFVFa29fdU85elpXdENSN1JvSkJ6UlRrZERGXzY2RWJfLS1ZNmVuZzZiN1k0R2NwV3VVd3lCMWNFOThiaG5mdmJiSGY0VXY1U0d0aWtRcFE1anBHclRWaUVGSWUwQjU4?oc=5",
       "source": "中国新闻网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-02T12:07:13.000Z",
-      "summary": "2026大湾区科学论坛人工智能分论坛签约推动产学研深度对接。",
+      "category": "application",
+      "pubDate": "2026-11-02T23:49:10.000Z",
+      "summary": "年轻人热衷于云养AI宠物，相关视频内容成为新兴创业赛道。",
       "summaryZh": ""
     }
   ]
