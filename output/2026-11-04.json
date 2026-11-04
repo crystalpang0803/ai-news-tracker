@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generatedAt": "2026-11-04T01:29:23.028Z",
+  "generatedAt": "2026-11-04T02:43:40.326Z",
   "items": [
     {
       "title": "OpenAI 证实：ChatGPT 搜索查询量已达谷歌 20%",
@@ -9,17 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-03T23:16:23.000Z",
-      "summary": "ChatGPT搜索查询量达谷歌20%，OpenAI挑战谷歌搜索初见成效。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI ChatGPT 最新数据：周活跃用户达 12 亿，两个月新增 2 亿",
-      "link": "https://www.ithome.com/1/021/878.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-03T22:39:56.000Z",
-      "summary": "ChatGPT周活跃用户达12亿，两个月新增2亿。",
+      "summary": "ChatGPT搜索查询量达谷歌20%，OpenAI证实挑战初见成效。",
       "summaryZh": ""
     },
     {
@@ -29,27 +19,38 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-03T13:57:11.000Z",
-      "summary": "极智嘉推出24/7自主智能仓计划，目标实现7×24小时自主运行、持续进化。",
+      "summary": "极智嘉推出24/7自主智能仓计划，目标实现7×24小时仓库自主运行。",
       "summaryZh": ""
     },
     {
-      "title": "推理时代，算力产业需要换一套账本",
-      "link": "https://www.tmtpost.com/8191692.html",
-      "source": "钛媒体",
+      "title": "谷歌调整 K-12 教育 AI 政策：Gemini、搜索等服务默认关闭",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xTGpRZWpPWHNnazdTdnJLNy1LVnpqZGdPcHRzSVIyQUdVelBtcXN5SHN1SEVTN3RZZkwyY3d1MThqZGV0cmJEZThXOWc?oc=5",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-03T11:00:09.000Z",
-      "summary": "算力产业价值体系转变，从追求峰值算力转向追求效率。",
+      "pubDate": "2026-11-03T22:47:23.000Z",
+      "summary": "谷歌调整K-12教育AI政策，Gemini、搜索等服务默认关闭需管理员启用。",
       "summaryZh": ""
     },
     {
-      "title": "普林斯顿AI Lab出题，空间智能大考：人类83.3%，大模型最高39.7%-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51LTY4ZGdaQlNHaGptR3R0bk5UQ0xadkhVRnpRYkt6bDJMZUxJXzRsQ3VfSXRhNmFqb0k3UTdzNGNLNkIwMGh2TEJrNDl6Qk0?oc=5",
-      "source": "36氪",
-      "lang": "zh",
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXNJQ0NxOENuN0dfdUhVS0p5NUN3YTc5TkpTQi1LMDJac2hGUWlGOF85RWFHaFU1cE05cmU4YmFUdVRaWlNVT05xVV9ia2JYMFJMUnB2Ti03UlpFNFlpUnM3U05zVGtCMjM0Ti1ZQ3lLdjdfb2VtN0xkX2xRR0hRS05yYUhtdzlFVGxWYTdyRlFiVnE2UjluZjlnTkgyRW42bkh5S25YRU9JZTBZNzVoall6NnU?oc=5",
+      "source": "The Verge",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-11-03T23:55:02.000Z",
-      "summary": "普林斯顿AI Lab空间智能大考，人类准确率83.3%，大模型最高39.7%。",
+      "pubDate": "2026-11-03T18:30:42.000Z",
+      "summary": "OpenAI称ChatGPT在搜索领域追赶谷歌。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 表示 ChatGPT 在搜索领域正在追赶 Google"
+    },
+    {
+      "title": "银河通用机器人与保利发展控股达成战略合作",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04bHc3dFNwLUpDYjlMUFlMY0JZSndSdnFsdGs0UWVPMlpsVVRKTnZqdjRlLWNEUF9scWlsSlVYTGVfMHN2T3NZQUpyWHlsdnkzd3NF?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-03T13:54:09.000Z",
+      "summary": "银河通用机器人与保利发展控股签署战略合作，共同探索具身智能在城市建设中的应用。",
       "summaryZh": ""
     },
     {
@@ -63,13 +64,23 @@
       "summaryZh": ""
     },
     {
-      "title": "中国正推动世界人工智能合作组织实体化运行进程",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IZVZWY1BGcUhXY3FESGU5dnZTM3lpNGFxaHppOVZfQkc3bWZYYjN1WFZqY3lfN3ByOWRRNUV3ZE13WFJCTS15QVJhYUJfc2pIY2JBNEcxWEVIUQ?oc=5",
+      "title": "百度AI芯片子公司的香港IPO据称或推迟至明年",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DQVBEMnBtMzdCcTNFV043d3NkRDlNN20zMER3TzJKNGZTM1N1NEJLdjBnOW5WVVFoYUFDOTJSRU9iVmdQdjluTEhCR0NIcEJteHl4QlkyTFlvUQ?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-03T09:24:00.000Z",
-      "summary": "中国推动世界人工智能合作组织实体化，38国加入创始成员。",
+      "pubDate": "2026-11-03T06:53:00.000Z",
+      "summary": "百度AI芯片子公司香港IPO可能推迟至明年。",
+      "summaryZh": ""
+    },
+    {
+      "title": "曙光云首个政企可信桌面级AI智能体OneBox发布",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KMmdSZ1JLZnJxVUlRZl9EdmN4MmRiMXFKRkQwLTlGQzQ1VTBLamFub0RmMzVyNFhBNWR4SEU5a1ludFdGNjB0bWdlV2ViNzRiVWJCSDhmNTJiZw?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-03T07:14:00.000Z",
+      "summary": "曙光云发布首个政企可信桌面级AI智能体OneBox。",
       "summaryZh": ""
     },
     {
@@ -79,7 +90,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-03T22:46:09.000Z",
-      "summary": "2026年，仓储自动化：人形机器人与AMR应用场景及成熟度不同。",
+      "summary": "2026年，仓储自动化：人形机器人与AMR应用场景不同。",
       "summaryZh": "",
       "titleZh": "仓库中的人形机器人与 AMR：2026 年哪种自动化更有意义？"
     },
@@ -90,27 +101,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-03T12:00:39.000Z",
-      "summary": "OpenAI以折扣、额度赠送和工程师支持等策略，成功从Anthropic手中抢得超过6.7亿人民币的年单。",
+      "summary": "OpenAI以折扣和额外服务策略赢得超过6.7亿人民币年单，争夺Anthropic客户。",
       "summaryZh": ""
     },
     {
-      "title": "政策、市场、人才三重驱动下，IITC人工智能ESG分析师证书的差异化价值",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Hb0FVWXlxRFE0cWRLcmZfZmltd0pCYTQ1cFRNUzJDSGdGUHZ3c21RelNNa24xZzlSU0NNVFlFMHhkRnVCeW1pemlpWjFLOF9RV1hGT2k1WDk?oc=5",
+      "title": "科创人工智能ETF富国(589380)跟踪指数上证科创板人工智能指数上涨2.44%，跟踪指数已处近1年估值低位",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnRnI2SjBiTW1hS1FGXzl1S3JubFk4cEJVdXhyZVc3V1l3dk9raVZTS2lRUzJGN2VQM1VNckRyVVFRbEJNUTdCMHpPNFN6UVJWNHhoYW1rS3U?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-03T15:18:50.000Z",
-      "summary": "IITC人工智能ESG分析师证书助力企业ESG落地，填补市场复合型人才缺口。",
+      "pubDate": "2026-11-04T02:08:00.000Z",
+      "summary": "科创人工智能ETF富国上涨2.44%，跟踪指数估值处近一年低位。",
       "summaryZh": ""
     },
     {
-      "title": "广东：加快发展“人工智能+消费”，推动人工智能手机和电脑、智能机器人等高端化发展",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfbXBNNWJmc2RhT01EZW00cHdIaE1iUWNpWU1HNjRNbS1aZTUxV2IxeXBCaVNsOU4zaXMxaEdQTG4zRVphdTVzSkxHR0w5VExFcEs2UzUzMlo?oc=5",
+      "title": "人工智能ETF华富(515980)连续3天净流入，北美云厂商开启新一轮密集债务扩张，AI投资进入价值验证阶段",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZUGdPUEh4YndCMjFRTUpXN1Exa0ZWVktGYldiZ3JpRGhTY2MwdVpMNXZlMk5GZlF2d3BRUUFlX00zcFFXRk94SnZTR3IyZUJ2ZVpyc3RUZE8?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-03T07:22:39.000Z",
-      "summary": "广东推动人工智能手机、电脑等高端化发展，丰富数字消费选择。",
+      "pubDate": "2026-11-04T02:28:43.000Z",
+      "summary": "人工智能ETF华富连续3天净流入，北美云厂商密集发债，AI投资价值验证。",
       "summaryZh": ""
     },
     {
@@ -124,33 +135,24 @@
       "summaryZh": ""
     },
     {
-      "title": "三项目齐发、总投资85亿元！科翔股份押注AI算力PCB",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yN0c2WXZkQ1Baam40dmNDR2piTkZhUTJvUmVKQ1o5d0xVMmotSHpKQ3g3Rl9oWVFGXzdGRHdRMEVZSWM3UnEwMw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-03T22:03:08.000Z",
-      "summary": "科翔股份投资85亿元布局AI算力PCB项目。",
-      "summaryZh": ""
-    },
-    {
       "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
       "link": "https://www.qbitai.com/2026/11/507419.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-03T06:55:30.000Z",
-      "summary": "纯语音Personal Agent Orilo问世，语音交互实现个性化服务。",
+      "summary": "纯语音Personal Agent Orilo发布，提供自然交互体验，有望成为乔布斯心中的Siri。",
       "summaryZh": ""
     },
     {
-      "title": "43分41秒，宇树科技交出“机器狗爬泰山”成绩单",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XZkEtQ1pWMTZSeTdXSG1QYUpGQXdMMnc4QU4wT01oTElyT05kNFd3d1R0N3NFWDRYSmxPNGNNdjk3Umg4YjlUaFZWU1diOWxSekpWUzRwZVBjQzRVVHBEOVJR?oc=5",
-      "source": "中国经营网",
+      "title": "广交会观察：机器人、AI算法层见叠出 中国智能化适老产品“出海”走俏",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xSURESllRRm9CQjdzYkJUZGRyRzUwVjdPYlVlYzAtcDhWVUtramdjWXptbVNxX3hFbUVubDFrY09FSjBtWGJhdDN3cHZQMTFSUU84UjRJekhpLUhGNVhtYlRNcjRUeVdt?oc=5",
+      "source": "中国新闻网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-03T03:51:00.000Z",
-      "summary": ""
+      "pubDate": "2026-11-03T05:02:29.000Z",
+      "summary": "广交会上中国智能化适老产品受海外市场欢迎。",
+      "summaryZh": ""
     },
     {
       "title": "Optimized fuzzy logic controller cuts average robotic arm tracking error by 89% in simulations",
@@ -159,7 +161,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-03T17:20:06.000Z",
-      "summary": "优化模糊逻辑控制器在模拟中使机器人臂跟踪误差平均降低89%。",
+      "summary": "优化模糊逻辑控制器在模拟中使机器人手臂跟踪误差平均降低89%。",
       "summaryZh": "",
       "titleZh": "优化的模糊逻辑控制器将模拟中的平均机械臂跟踪误差降低了 89%"
     },
@@ -180,7 +182,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-03T19:30:05.000Z",
-      "summary": "机器人手学习灵活操作，减少掉落物体。",
+      "summary": "机器人手通过学习实现灵活操作，减少掉落物体。",
       "summaryZh": "",
       "titleZh": "机器人手通过更少的掉落物体来学习灵活的动作"
     },
@@ -191,7 +193,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-03T18:55:24.000Z",
-      "summary": "机器人制造商追踪产出但未计算回报。",
+      "summary": "人形机器人制造商追踪产出但未计算回报。",
       "summaryZh": "",
       "titleZh": "人形机器人制造商跟踪产出但不跟踪回报"
     },
@@ -202,20 +204,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-03T08:41:59.000Z",
-      "summary": "Tutor Intelligence获7500万美元融资，扩大机器人工作团队规模。",
+      "summary": "Tutor Intelligence获7500万美元融资，扩大机器人劳动力规模。",
       "summaryZh": "",
       "titleZh": "Tutor Intelligence 融资 7500 万美元以扩大机器人劳动力规模"
-    },
-    {
-      "title": "What Makes a Robot Truly Autonomous?",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UQ1h0ajNNUEV4X1hEM3VxQkVvSTJ5QTdVbVYzdFM0ODVzVHA2Ymk4Y3hBSU9sbnVtLVF1UlozRnFhc0pmX2VGZHVSQjdSak83MTJHcEo5dmRFWGd6Ykt0YVdhbGc?oc=5",
-      "source": "AZoRobotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-03T17:41:00.000Z",
-      "summary": "机器人自主性涉及评估能力、可靠性和地图构建，对多样化实际场景应用至关重要。",
-      "summaryZh": "",
-      "titleZh": "是什么让机器人真正实现自主？"
     }
   ]
 }
