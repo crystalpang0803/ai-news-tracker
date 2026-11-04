@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generatedAt": "2026-11-04T00:11:56.855Z",
+  "generatedAt": "2026-11-04T01:29:23.028Z",
   "items": [
     {
       "title": "OpenAI 证实：ChatGPT 搜索查询量已达谷歌 20%",
@@ -9,17 +9,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-03T23:16:23.000Z",
-      "summary": "ChatGPT搜索查询量达谷歌20%。",
+      "summary": "ChatGPT搜索查询量达谷歌20%，OpenAI挑战谷歌搜索初见成效。",
       "summaryZh": ""
     },
     {
-      "title": "谷歌调整 K-12 教育 AI 政策：Gemini、搜索等服务默认关闭",
-      "link": "https://www.ithome.com/1/021/880.htm",
+      "title": "OpenAI ChatGPT 最新数据：周活跃用户达 12 亿，两个月新增 2 亿",
+      "link": "https://www.ithome.com/1/021/878.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-03T22:47:23.000Z",
-      "summary": "谷歌调整K-12教育AI政策，Gemini、搜索等服务默认关闭需管理员授权。",
+      "pubDate": "2026-11-03T22:39:56.000Z",
+      "summary": "ChatGPT周活跃用户达12亿，两个月新增2亿。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-03T13:57:11.000Z",
-      "summary": "极智嘉推出24/7自主智能仓计划，目标实现仓库全流程自动化和AI自主运行。",
+      "summary": "极智嘉推出24/7自主智能仓计划，目标实现7×24小时自主运行、持续进化。",
       "summaryZh": ""
     },
     {
@@ -39,27 +39,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-03T11:00:09.000Z",
-      "summary": "算力产业价值体系转向效率，AI推理算力需求增长显著。",
+      "summary": "算力产业价值体系转变，从追求峰值算力转向追求效率。",
       "summaryZh": ""
     },
     {
-      "title": "银河通用机器人与保利发展控股达成战略合作",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04bHc3dFNwLUpDYjlMUFlMY0JZSndSdnFsdGs0UWVPMlpsVVRKTnZqdjRlLWNEUF9scWlsSlVYTGVfMHN2T3NZQUpyWHlsdnkzd3NF?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-03T13:54:09.000Z",
-      "summary": "银河通用机器人与保利发展控股签署战略合作，共同探索具身智能在城市建设中的应用。",
-      "summaryZh": ""
-    },
-    {
-      "title": "大模型时代，如何维系持续学习的能力？-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TclBfS0lKMUpvMjlsUklmOGk1YUdXVHlZOVUycS1IVG04WGc2aWU0ODRabzNmS3VZZkJneGZocm1sWmNEcmdURFFGQ1gxTWc?oc=5",
+      "title": "普林斯顿AI Lab出题，空间智能大考：人类83.3%，大模型最高39.7%-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51LTY4ZGdaQlNHaGptR3R0bk5UQ0xadkhVRnpRYkt6bDJMZUxJXzRsQ3VfSXRhNmFqb0k3UTdzNGNLNkIwMGh2TEJrNDl6Qk0?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-03T23:20:10.000Z",
-      "summary": "大模型时代，如何通过苏格拉底式导师法重获深度学习能力。",
+      "pubDate": "2026-11-03T23:55:02.000Z",
+      "summary": "普林斯顿AI Lab空间智能大考，人类准确率83.3%，大模型最高39.7%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "刚刚，Anthropic开源FlashProve，给大模型办了一张防伪身份证-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jMnAxNHYtQi1qMUtYd1FkWUxxYjZtT1F3MnJBM1ppOWxNRDVMcHo0ZFNOYjg0MGhpVGM1WlUzd2h4MTlhUXpEbVZQMm9Yd1hm?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-03T23:59:55.000Z",
+      "summary": "Anthropic开源FlashProve，为大型语言模型提供零知识证明技术，确保模型身份验证。",
       "summaryZh": ""
     },
     {
@@ -79,17 +79,38 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-03T22:46:09.000Z",
-      "summary": "2026年，仓库自动化：人形机器人与AMR技术成熟度不同，应用场景各异。",
+      "summary": "2026年，仓储自动化：人形机器人与AMR应用场景及成熟度不同。",
+      "summaryZh": "",
+      "titleZh": "仓库中的人形机器人与 AMR：2026 年哪种自动化更有意义？"
+    },
+    {
+      "title": "曝OpenAI拿下超6.7亿年单！打“骨折”、送额度、配工程师，就为了抢Anthropic客户",
+      "link": "https://zhidx.com/p/606670.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-03T12:00:39.000Z",
+      "summary": "OpenAI以折扣、额度赠送和工程师支持等策略，成功从Anthropic手中抢得超过6.7亿人民币的年单。",
       "summaryZh": ""
     },
     {
-      "title": "事关“人工智能+”，发改委作出最新部署",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUcmgzdDRkVlFCd2RhTms2VUp5Zzd1RWlDdUxic0dvS3ZwVW1MdXBwMXR6OGdVUTRBWHNCQnMtUnVjZjlqai1xMUZUeEo4RmVUSVh5TGV1OWE?oc=5",
+      "title": "政策、市场、人才三重驱动下，IITC人工智能ESG分析师证书的差异化价值",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Hb0FVWXlxRFE0cWRLcmZfZmltd0pCYTQ1cFRNUzJDSGdGUHZ3c21RelNNa24xZzlSU0NNVFlFMHhkRnVCeW1pemlpWjFLOF9RV1hGT2k1WDk?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-03T03:37:15.000Z",
-      "summary": "发改委部署“人工智能+”深化拓展，细化实施方案和制度支撑。",
+      "pubDate": "2026-11-03T15:18:50.000Z",
+      "summary": "IITC人工智能ESG分析师证书助力企业ESG落地，填补市场复合型人才缺口。",
+      "summaryZh": ""
+    },
+    {
+      "title": "广东：加快发展“人工智能+消费”，推动人工智能手机和电脑、智能机器人等高端化发展",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfbXBNNWJmc2RhT01EZW00cHdIaE1iUWNpWU1HNjRNbS1aZTUxV2IxeXBCaVNsOU4zaXMxaEdQTG4zRVphdTVzSkxHR0w5VExFcEs2UzUzMlo?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-03T07:22:39.000Z",
+      "summary": "广东推动人工智能手机、电脑等高端化发展，丰富数字消费选择。",
       "summaryZh": ""
     },
     {
@@ -99,7 +120,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-03T05:04:07.000Z",
-      "summary": "AI行业面临巨额投资与债务融资困境，引发对潜在风险的关注。",
+      "summary": "AI行业面临巨额投资与债务融资困境，引发潜在风险担忧。",
       "summaryZh": ""
     },
     {
@@ -119,17 +140,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-03T06:55:30.000Z",
-      "summary": "纯语音Personal Agent Orilo问世，提供自然交互体验。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Grok Bot暗暗砍额度，马斯克承认：成本难持续",
-      "link": "https://zhidx.com/p/606855.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-03T08:22:37.000Z",
-      "summary": "Grok Bot因成本过高开始限制用户额度，马斯克承认难以持续。",
+      "summary": "纯语音Personal Agent Orilo问世，语音交互实现个性化服务。",
       "summaryZh": ""
     },
     {
@@ -148,7 +159,18 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-03T17:20:06.000Z",
-      "summary": "优化模糊逻辑控制器在模拟中使机器人手臂跟踪误差平均降低89%。",
+      "summary": "优化模糊逻辑控制器在模拟中使机器人臂跟踪误差平均降低89%。",
+      "summaryZh": "",
+      "titleZh": "优化的模糊逻辑控制器将模拟中的平均机械臂跟踪误差降低了 89%"
+    },
+    {
+      "title": "宇树科技Q3净利环比降近五成，现金流“腰斩”",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uT0hrMF9IXzhLRXNiNTdKQ19WdjdmNzdHQ3pwYnZlbU9vLUx2V3pPQlFsUEM2dnhtUE9TV1I2QzFscWh6cmstMmRKZTlzMnoycjEtVy0xTQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-03T06:06:35.000Z",
+      "summary": "宇树科技Q3净利润环比下降近五成，现金流减少一半。",
       "summaryZh": ""
     },
     {
@@ -158,8 +180,20 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-03T19:30:05.000Z",
-      "summary": "机器人手通过减少掉落物体学会灵活操作。",
-      "summaryZh": ""
+      "summary": "机器人手学习灵活操作，减少掉落物体。",
+      "summaryZh": "",
+      "titleZh": "机器人手通过更少的掉落物体来学习灵活的动作"
+    },
+    {
+      "title": "Humanoid Robot Makers Track Output but Not Payback",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOakdKRnNaMXlqdkNOVnd6azU2ZmZDQWVCeXg0STE4SWpaOUthWmszNDZQd2wyb01jOV9zVWxWMTB0MmlrWHVQLXpwZmtsb1R6YnZjNGhPTmtqUE9MQU9nRThWQ0lhdm9ybVFIU0Rzc2dLQVE3ak5ObUtTclBYSEZyM3pJdTFMNHZNckN3ellFNmlzd3AzZlJ6bElnUURTS29URl94c3AxR3RBZHZW?oc=5",
+      "source": "PYMNTS",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-03T18:55:24.000Z",
+      "summary": "机器人制造商追踪产出但未计算回报。",
+      "summaryZh": "",
+      "titleZh": "人形机器人制造商跟踪产出但不跟踪回报"
     },
     {
       "title": "Tutor Intelligence raises $75 million to scale robot workforce",
@@ -168,8 +202,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-03T08:41:59.000Z",
-      "summary": "Tutor Intelligence获7500万美元融资，扩大机器人劳动力规模。",
-      "summaryZh": ""
+      "summary": "Tutor Intelligence获7500万美元融资，扩大机器人工作团队规模。",
+      "summaryZh": "",
+      "titleZh": "Tutor Intelligence 融资 7500 万美元以扩大机器人劳动力规模"
     },
     {
       "title": "What Makes a Robot Truly Autonomous?",
@@ -179,7 +214,8 @@
       "category": "robotics",
       "pubDate": "2026-11-03T17:41:00.000Z",
       "summary": "机器人自主性涉及评估能力、可靠性和地图构建，对多样化实际场景应用至关重要。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "是什么让机器人真正实现自主？"
     }
   ]
 }
