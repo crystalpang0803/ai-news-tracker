@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "generatedAt": "2026-11-04T21:50:02.561Z",
+  "generatedAt": "2026-11-04T23:34:43.279Z",
   "items": [
     {
       "title": "大模型时代，智驾芯片的算力赢学失效了",
@@ -13,34 +13,15 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI CEO 奥尔特曼回应内存言论争议：遭断章取义，希望扩大内存产能",
-      "link": "https://www.ithome.com/1/022/385.htm",
-      "source": "IT之家",
-      "lang": "zh",
+      "title": "Adobe Integrates Marketing AI Agent in ChatGPT and Claude",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/adobe-integrates-marketing-ai-agent-in-chatgpt-and-claude/",
+      "source": "PYMNTS",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-11-04T11:28:33.000Z",
-      "summary": "OpenAI CEO奥尔特曼回应内存言论争议，称言论被断章取义，呼吁扩大内存产能。",
-      "summaryZh": ""
-    },
-    {
-      "title": "网易智企发布企业级AI Agent平台“帝王蟹”三项升级",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wXy1VZzBNSHp2c2tWNFZaTGZwcVRNV0ZmOTd6emZjb2lBZEFzRnYtdU9vcmhiUTlGY2UtZGpaS0oxTmhLTUR4ZkNFQUN3ZGZqb3c3d0l6cUw?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-04T07:52:40.000Z",
-      "summary": "网易智企发布AI Agent平台“帝王蟹”升级，推出智能工牌及两项新能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "现代汽车展示自动加氢机器人，以及高耐久性燃料电池系统",
-      "link": "https://www.ithome.com/1/022/381.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-04T11:16:55.000Z",
-      "summary": "现代汽车展示自动加氢机器人和高耐久性燃料电池系统。",
-      "summaryZh": ""
+      "pubDate": "2026-11-04T21:58:42.000Z",
+      "summary": "Adobe将营销AI代理集成至ChatGPT和Claude等AI平台。",
+      "summaryZh": "",
+      "titleZh": "Adobe 将营销 AI 代理集成到 ChatGPT 和 Claude 中"
     },
     {
       "title": "42亿GPU采购背后，游族网络跨界AI算力生意",
@@ -49,7 +30,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-04T10:04:44.000Z",
-      "summary": "游族网络以42亿采购GPU，跨界AI算力市场面临挑战。",
+      "summary": "游族网络斥资42亿采购GPU，跨界AI算力市场面临挑战。",
       "summaryZh": ""
     },
     {
@@ -59,7 +40,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-04T02:49:54.000Z",
-      "summary": "苹果接入阿里通义千问大模型，端侧AI概念股受提振，科创人工智能ETF华宝（589520）资金关注度上升。",
+      "summary": "苹果接入阿里通义千问，端侧AI概念股受提振，科创人工智能ETF华宝（589520）资金关注度上升。",
       "summaryZh": ""
     },
     {
@@ -69,7 +50,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-04T16:13:23.000Z",
-      "summary": "百度Apollo推出全新世界模型ApolloWorld，实现虚拟路测效率提升，一天里程相当于真实测试车三年。",
+      "summary": "百度Apollo推出全新世界模型ApolloWorld，实现虚拟路测效率提升，一天相当于真实路测三年。",
       "summaryZh": ""
     },
     {
@@ -79,7 +60,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-04T12:10:13.000Z",
-      "summary": "蔚来李斌强调自动驾驶应解放司机精力，减少事故，而非取代出租车和网约车司机工作。",
+      "summary": "蔚来李斌强调自动驾驶应解放司机，而非取代其工作。",
+      "summaryZh": ""
+    },
+    {
+      "title": "韩国政府与AMD就AI芯片合作展开后续磋商",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VamJlS0hCeUR1M0pDaDNXZ3BidHVEUFZnd3pTM0g4NkZMR1NucnVUQWVOMjVHMTRjNjFJdlNRdnN5dF9IU2JSOHdjTk9jZWZoMkR5ZXJwMkthREREa1E?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-04T01:51:48.000Z",
+      "summary": "韩国政府与AMD就AI芯片合作协议进行后续磋商。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2026年国内端侧AI芯片企业深度解析：国科微成AI视觉赛道优选",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1nNGc0XzNRTjRFVUp1NDQ1MFB6emVGVWV2SDQ0cGVmSnFQcFk3X3oxS3l2MUVUN0toNl9zbGd1Z1dwbWRmZ2RXTUNwaVY?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-04T14:27:40.000Z",
+      "summary": "国科微凭借全栈自研和规模量产能力，成为AI视觉赛道优选企业，2026年上半年AI视觉芯片收入增长超两倍。",
       "summaryZh": ""
     },
     {
@@ -99,7 +100,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-04T11:00:32.000Z",
-      "summary": "AI融资热下，美欧市场面临债券过剩风险。",
+      "summary": "AI融资热潮下，美欧市场面临债券过剩风险。",
       "summaryZh": ""
     },
     {
@@ -109,7 +110,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-04T01:10:39.000Z",
-      "summary": "AMD数据中心营收近乎翻倍，预计明年收入占比将超80%。",
+      "summary": "AMD数据中心营收翻倍，预计明年收入占比将超80%。",
       "summaryZh": ""
     },
     {
@@ -119,20 +120,9 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-04T18:00:00.000Z",
-      "summary": "ChatGPT新增生成动画GIF功能。",
+      "summary": "ChatGPT新增生成动态GIF功能。",
       "summaryZh": "",
       "titleZh": "ChatGPT 现在将为您制作动画 GIF"
-    },
-    {
-      "title": "Humanoid Robots in Warehouses vs AMRs: Which Automation Makes Sense in 2026?",
-      "link": "https://roboticsandautomationnews.com/2026/11/03/humanoid-robots-in-warehouses-vs-amrs-which-automation-makes-sense-in-2026/106685/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-03T22:46:09.000Z",
-      "summary": "2026年，仓储自动化：人形机器人与AMR应用场景不同。",
-      "summaryZh": "",
-      "titleZh": "仓库中的人形机器人与 AMR：2026 年哪种自动化更有意义？"
     },
     {
       "title": "政策密集加码AI应用加速落地人工智能ETF易方达（159819）动能积聚-ETF火线",
@@ -145,13 +135,13 @@
       "summaryZh": ""
     },
     {
-      "title": "EDA工具AI芯片Coding加速落地，看好EDA工具需求扩张——华泰计算机",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZeE9wTjhEWnZiZWhsYjI4Y0sxbFppM3MzQ0ZEZDg3b2xpV29XZnNMR0lrRlNsZXkzX3hjcFZocXZQdVMxdWtSSTJCWUZPOVlSTldMZU1UYXJmYWNmZG4ycmJn?oc=5",
-      "source": "腾讯新闻",
+      "title": "诺安基金邓心怡：AI产业进入商业化落地新阶段 把握算力与应用双向机遇",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43TFNaZmJrUU5ZWVRReGIwSVNQck1fNlV0S0MyRlNFZ3RWWlFlN2Jha2pHRE1xR0dzbWZvZXJIWGwxTlBkUEYzYUVPZHk2NjVZ?oc=5",
+      "source": "凤凰财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-04T01:08:00.000Z",
-      "summary": "EDA工具AI芯片Coding加速落地，AI+芯片设计需求扩张，看好工具市场增长。",
+      "pubDate": "2026-11-04T08:36:02.000Z",
+      "summary": "AI产业商业化落地加速，诺安基金把握算力与应用机遇。",
       "summaryZh": ""
     },
     {
@@ -165,13 +155,23 @@
       "summaryZh": ""
     },
     {
+      "title": "英飞凌五族功率器件地图：48V人形机器人关节 & 800V AI机柜电源选型手册（附瑞萨对照）",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tc3U4b3JldHA1TDdNdm9rZVFvNFZadUxvMk10OUdxVmFaelo1QkxYajV1cUpHS2NnOWRzLTEtUjd4OGg5QVBma3V4dDItR2xCYjJUcEktMA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-04T02:21:56.000Z",
+      "summary": "英飞凌发布五族功率器件地图，涵盖48V人形机器人关节和800V AI机柜电源选型。",
+      "summaryZh": ""
+    },
+    {
       "title": "Robotics Startup Radar 2026",
       "link": "https://www.therobotreport.com/robotics-startup-radar-2026/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-04T16:08:46.000Z",
-      "summary": "2026年《机器人报告》发布第二年度创业公司雷达，聚焦商业机器人及相关技术新公司。",
+      "summary": "2026年《机器人报告》发布第二届机器人创业公司雷达，聚焦创新技术和商业应用。",
       "summaryZh": "",
       "titleZh": "机器人初创雷达 2026"
     },
@@ -182,9 +182,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-04T15:22:55.000Z",
-      "summary": "GlobalLogic助力Haystack Robotics打造紫外线消毒机器人。",
+      "summary": "GlobalLogic助力Haystack Robotics研发紫外线消毒机器人。",
       "summaryZh": "",
       "titleZh": "GlobalLogic 如何帮助 Haystack Robotics 打造紫外线消毒机器人"
+    },
+    {
+      "title": "银河通用机器人等成立北京睿银寰宇机器人有限公司，含AI相关业务",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPQkhIMFZONUY1emFSbUN4WjRzMHhUWm9MaXdFTF90SF8yRWxzZFhzekJTb1ZsUjA5ZjNCVDJEZUR3Y3Nqd3FoMndmMXlLOFJPakRn?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-04T07:49:55.000Z",
+      "summary": "银河通用机器人等成立北京睿银寰宇机器人有限公司，涉AI业务。",
+      "summaryZh": ""
     },
     {
       "title": "宇树王兴兴：2027年大概率成机器人行业临界点，卡点在“最后几毫米”",
@@ -202,29 +212,29 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-04T13:49:51.000Z",
-      "summary": "英国官员称AI将增4000亿经济，主要数据来自谷歌，后修正为1200亿。",
+      "summary": "英国官员称AI将增4000亿英镑经济，主要数据来源为谷歌报告。",
       "summaryZh": "",
       "titleZh": "英国官员称人工智能将为经济增加 4000 亿英镑。该数字主要来自谷歌"
     },
     {
-      "title": "Are Drone Ports the Next Annoying Tech Neighbor?",
-      "link": "https://spectrum.ieee.org/drone-delivery-noise",
-      "source": "IEEE Spectrum Robotics",
+      "title": "The CFO’s Guide to LLMjacking: When Stolen AI Becomes a 7-Figure Cloud Bill",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/the-cfos-guide-to-llmjacking-when-stolen-ai-becomes-a-7-figure-cloud-bill/",
+      "source": "PYMNTS",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-04T18:47:21.000Z",
-      "summary": "无人机港口噪音引发公众对科技接受度限制的讨论。",
+      "pubDate": "2026-11-04T21:38:26.000Z",
+      "summary": "企业AI凭证被黑客窃取，导致受害者面临数十万美元的云服务账单。",
       "summaryZh": "",
-      "titleZh": "无人机端口是下一个令人讨厌的科技邻居吗？"
+      "titleZh": "首席财务官的 LLM 劫持指南：当被盗的人工智能变成 7 位数的云账单时"
     },
     {
-      "title": "王兴兴称目前人类最大价值转向评价AI或为AI设定目标，2027年很大概率成具身智能临界点",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrWmhjQndzMjJoWDFwOTRvUTF5S1NaRWlXMHlyTmg5MDJaY0JiQm1DUjYxaXZXTGhmVFRhbk9xcjZuNndncWo5dEZiTzFGdmlHaVVWajJFMGRLeE8yaUQxd3N2blJRempJVDhCZWF0MkJfeXlC?oc=5",
-      "source": "金融界",
+      "title": "去年我国具身智能市场规模约9150亿元增长20.4%",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56Uk5HTHhVSnRWNVhWRWxFdG9XcVdIaW82Y2JReHlOMlA2Rk41QjNsZzE1eXBFRVA0eExSQV9ldF9XOXF4bktrTl9EdGpYeEcxNDY5MVNVM2ZSZTkyVVB6YmxOX3lBUQ?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-04T04:19:43.000Z",
-      "summary": "王兴兴认为评价AI或设定目标成人类最大价值，2027年或为具身智能临界点。",
+      "pubDate": "2026-11-04T20:54:44.000Z",
+      "summary": "我国具身智能市场规模去年达9150亿元，同比增长20.4%。",
       "summaryZh": ""
     }
   ]
