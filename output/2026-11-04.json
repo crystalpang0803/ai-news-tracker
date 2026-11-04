@@ -1,17 +1,7 @@
 {
   "date": "2026-11-04",
-  "generatedAt": "2026-11-04T02:43:40.326Z",
+  "generatedAt": "2026-11-04T06:32:18.850Z",
   "items": [
-    {
-      "title": "OpenAI 证实：ChatGPT 搜索查询量已达谷歌 20%",
-      "link": "https://www.ithome.com/1/021/885.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-03T23:16:23.000Z",
-      "summary": "ChatGPT搜索查询量达谷歌20%，OpenAI证实挑战初见成效。",
-      "summaryZh": ""
-    },
     {
       "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
       "link": "https://www.qbitai.com/2026/11/507507.html",
@@ -19,17 +9,37 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-03T13:57:11.000Z",
-      "summary": "极智嘉推出24/7自主智能仓计划，目标实现7×24小时仓库自主运行。",
+      "summary": "极智嘉推出24/7自主智能仓计划，目标实现仓库全流程自动化和AI自主运行。",
       "summaryZh": ""
     },
     {
-      "title": "谷歌调整 K-12 教育 AI 政策：Gemini、搜索等服务默认关闭",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xTGpRZWpPWHNnazdTdnJLNy1LVnpqZGdPcHRzSVIyQUdVelBtcXN5SHN1SEVTN3RZZkwyY3d1MThqZGV0cmJEZThXOWc?oc=5",
+      "title": "宇树王兴兴：大概率明年是机器人行业或机器人模型临界点",
+      "link": "https://www.ithome.com/1/022/026.htm",
       "source": "IT之家",
       "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-04T04:06:48.000Z",
+      "summary": "王兴兴预测明年或为机器人行业临界点。",
+      "summaryZh": ""
+    },
+    {
+      "title": "6 台智元机器人直播在便利店 24 小时打工，4 台成功“转正”",
+      "link": "https://www.ithome.com/1/022/015.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-04T03:51:32.000Z",
+      "summary": "6台智元机器人便利店24小时直播打工，4台成功转正。",
+      "summaryZh": ""
+    },
+    {
+      "title": "ETF盘中资讯|重磅！苹果接入国产大模型——阿里通义千问！端侧AI受提振，科创人工智能ETF华宝（589520）资金关注度高！-E点即通",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9reFBQQ0FoTjFDbEExNXdlS25aLTI0T2RWS2hMUXRyWVNxb1hUOVc1SnAxRl8tYS1FdVBvWjFIV2kzMmk4WjBPX0VZSmJlODBHbldhYnB6TjRtREo0RUR3eHQxUkZFZDBjVVYxOG5RTXk?oc=5",
+      "source": "金融界",
+      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-03T22:47:23.000Z",
-      "summary": "谷歌调整K-12教育AI政策，Gemini、搜索等服务默认关闭需管理员启用。",
+      "pubDate": "2026-11-04T02:48:39.000Z",
+      "summary": "苹果接入阿里通义千问大模型，端侧AI概念股受提振，科创人工智能ETF华宝资金关注度上升。",
       "summaryZh": ""
     },
     {
@@ -39,28 +49,38 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-03T18:30:42.000Z",
-      "summary": "OpenAI称ChatGPT在搜索领域追赶谷歌。",
+      "summary": "OpenAI称ChatGPT在搜索方面追赶Google。",
       "summaryZh": "",
       "titleZh": "OpenAI 表示 ChatGPT 在搜索领域正在追赶 Google"
     },
     {
-      "title": "银河通用机器人与保利发展控股达成战略合作",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04bHc3dFNwLUpDYjlMUFlMY0JZSndSdnFsdGs0UWVPMlpsVVRKTnZqdjRlLWNEUF9scWlsSlVYTGVfMHN2T3NZQUpyWHlsdnkzd3NF?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-03T13:54:09.000Z",
-      "summary": "银河通用机器人与保利发展控股签署战略合作，共同探索具身智能在城市建设中的应用。",
-      "summaryZh": ""
-    },
-    {
-      "title": "刚刚，Anthropic开源FlashProve，给大模型办了一张防伪身份证-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jMnAxNHYtQi1qMUtYd1FkWUxxYjZtT1F3MnJBM1ppOWxNRDVMcHo0ZFNOYjg0MGhpVGM1WlUzd2h4MTlhUXpEbVZQMm9Yd1hm?oc=5",
+      "title": "硬氪首发丨快手系AI芯片公司凌川科技完成10亿元B轮融资，3D芯片已回片，明年规模出货-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lbnE2T0J5Rkg5NWtmR0l0RU5ITGhZalRUdS1Ca05FZDlaTGFiWFhYcWxmX3M4ejlsN3RaVm9uNDFYSzI2ZVB5MTQ3Q0hvVWc?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-03T23:59:55.000Z",
-      "summary": "Anthropic开源FlashProve，为大型语言模型提供零知识证明技术，确保模型身份验证。",
+      "pubDate": "2026-11-04T01:35:04.000Z",
+      "summary": "凌川科技完成10亿元B轮融资，3D芯片回片，明年规模出货。",
+      "summaryZh": ""
+    },
+    {
+      "title": "普林斯顿AI Lab出题，空间智能大考：人类83.3%，大模型最高39.7%-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pZjg5UkkxTVRaMjVGbkdnck1sX0tlZ3o4b0NaUmpXQjk0eE1NN3EzMDFEajJsTWdJT3FpTGhVR2owRFl5MDFDdXBtalVvcHlh?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-03T07:52:00.000Z",
+      "summary": "普林斯顿AI Lab空间智能大考，人类准确率83.3%，大模型最高39.7%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "中国正推动世界人工智能合作组织实体化运行进程",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IZVZWY1BGcUhXY3FESGU5dnZTM3lpNGFxaHppOVZfQkc3bWZYYjN1WFZqY3lfN3ByOWRRNUV3ZE13WFJCTS15QVJhYUJfc2pIY2JBNEcxWEVIUQ?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-03T09:24:00.000Z",
+      "summary": "中国推动世界人工智能合作组织实体化，38国加入创始成员。",
       "summaryZh": ""
     },
     {
@@ -74,34 +94,13 @@
       "summaryZh": ""
     },
     {
-      "title": "曙光云首个政企可信桌面级AI智能体OneBox发布",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KMmdSZ1JLZnJxVUlRZl9EdmN4MmRiMXFKRkQwLTlGQzQ1VTBLamFub0RmMzVyNFhBNWR4SEU5a1ludFdGNjB0bWdlV2ViNzRiVWJCSDhmNTJiZw?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-03T07:14:00.000Z",
-      "summary": "曙光云发布首个政企可信桌面级AI智能体OneBox。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Humanoid Robots in Warehouses vs AMRs: Which Automation Makes Sense in 2026?",
-      "link": "https://roboticsandautomationnews.com/2026/11/03/humanoid-robots-in-warehouses-vs-amrs-which-automation-makes-sense-in-2026/106685/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-03T22:46:09.000Z",
-      "summary": "2026年，仓储自动化：人形机器人与AMR应用场景不同。",
-      "summaryZh": "",
-      "titleZh": "仓库中的人形机器人与 AMR：2026 年哪种自动化更有意义？"
-    },
-    {
       "title": "曝OpenAI拿下超6.7亿年单！打“骨折”、送额度、配工程师，就为了抢Anthropic客户",
       "link": "https://zhidx.com/p/606670.html",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-03T12:00:39.000Z",
-      "summary": "OpenAI以折扣和额外服务策略赢得超过6.7亿人民币年单，争夺Anthropic客户。",
+      "summary": "OpenAI以折扣、额度赠送和工程师支持等策略，成功从Anthropic手中抢得超过6.7亿人民币的年单。",
       "summaryZh": ""
     },
     {
@@ -121,37 +120,68 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-04T02:28:43.000Z",
-      "summary": "人工智能ETF华富连续3天净流入，北美云厂商密集发债，AI投资价值验证。",
+      "summary": "人工智能ETF华富连续3天净流入，北美云厂商密集发债，AI投资价值验证期到来。",
       "summaryZh": ""
     },
     {
-      "title": "AI融资快出现明斯基时刻了吗？",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nd1lWQXh0d1JockszWXNnc3V5SnhFRTlYaEdfamJhR1pZc2FKaEY1aXZVektTU1B6ZEN1alBQbVZxZ2tBYzRMT2dBdFhYQ1JvTUxN?oc=5",
+      "title": "科技巨头AI需求放缓？算力产业链企业回应：没有下调迹象 有订单价格上调",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3ZFdkSVJLdUsyM21QYk5JaFNtNm16bDJrTFpGdWNKYXhVWWZKcVBGbURMRmwwN3RZcnlYUDQ3TElkQ1JCa0JENlNCMmRjTFNlWE1J?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-03T05:04:07.000Z",
-      "summary": "AI行业面临巨额投资与债务融资困境，引发潜在风险担忧。",
+      "pubDate": "2026-11-04T00:35:13.000Z",
+      "summary": "算力产业链企业回应：AI需求未放缓，订单充足且价格上调。",
       "summaryZh": ""
     },
     {
-      "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
-      "link": "https://www.qbitai.com/2026/11/507419.html",
-      "source": "量子位",
+      "title": "“太空AI时代”很快到来？马斯克重磅预测：2029年轨道算力将碾压地面！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GdkZ2TWZkT0tsQWt3LU9BSmJYaGduanppbGhmdF9uMWozb2NFM3RtaVdXb25NTzJLUUNzVExDMTVYSHhrbENuLQ?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-03T06:55:30.000Z",
-      "summary": "纯语音Personal Agent Orilo发布，提供自然交互体验，有望成为乔布斯心中的Siri。",
+      "pubDate": "2026-11-03T21:20:43.000Z",
+      "summary": "马斯克预测2029年轨道算力将超过地面算力。",
       "summaryZh": ""
     },
     {
-      "title": "广交会观察：机器人、AI算法层见叠出 中国智能化适老产品“出海”走俏",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xSURESllRRm9CQjdzYkJUZGRyRzUwVjdPYlVlYzAtcDhWVUtramdjWXptbVNxX3hFbUVubDFrY09FSjBtWGJhdDN3cHZQMTFSUU84UjRJekhpLUhGNVhtYlRNcjRUeVdt?oc=5",
-      "source": "中国新闻网",
+      "title": "Humanoid Robots in Warehouses vs AMRs: Which Automation Makes Sense in 2026?",
+      "link": "https://roboticsandautomationnews.com/2026/11/03/humanoid-robots-in-warehouses-vs-amrs-which-automation-makes-sense-in-2026/106685/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-03T22:46:09.000Z",
+      "summary": "2026年，仓储自动化：人形机器人与AMR应用场景不同。",
+      "summaryZh": "",
+      "titleZh": "仓库中的人形机器人与 AMR：2026 年哪种自动化更有意义？"
+    },
+    {
+      "title": "新石器华东智能无人车总部项目落地惠山经开区",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PQzQzVkpZUUxvcmQ2TUh4VHdlNXdhR01INE1CUG44SGJHMlE0QUp1dVhzUUl3ZGtsUWM4amNaSDhjMEtiUWFpY1dhVjRBSFNBUE4wb2RSZE90VUxxRmdfRDhPd09ROUhYN1MwZ0d2RkNMN1JE?oc=5",
+      "source": "新华社",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-04T03:26:08.000Z",
+      "summary": "新石器智能无人车总部项目在惠山经开区落地，总投资10亿元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "英飞凌五族功率器件地图：48V人形机器人关节 & 800V AI机柜电源选型手册（附瑞萨对照）",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tc3U4b3JldHA1TDdNdm9rZVFvNFZadUxvMk10OUdxVmFaelo1QkxYajV1cUpHS2NnOWRzLTEtUjd4OGg5QVBma3V4dDItR2xCYjJUcEktMA?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-03T05:02:29.000Z",
-      "summary": "广交会上中国智能化适老产品受海外市场欢迎。",
+      "pubDate": "2026-11-04T02:21:56.000Z",
+      "summary": "英飞凌发布五族功率器件地图，涵盖48V人形机器人关节和800V AI机柜电源选型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人生意，造不如租",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hdzlFYUdTTmFIZGJxcFpRUTkzMlNTOUdiU3pPQXN1bzRpdlgzWWpEVDNHUTJNY2F6TlhQWV81TFNpRTJodHR1d3M4ejJmWFdaVTRfQ2NmSQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-04T04:00:13.000Z",
+      "summary": "机器人租赁业务兴起，购买成本高，租赁更经济。",
       "summaryZh": ""
     },
     {
@@ -161,19 +191,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-03T17:20:06.000Z",
-      "summary": "优化模糊逻辑控制器在模拟中使机器人手臂跟踪误差平均降低89%。",
+      "summary": "优化模糊逻辑控制器在模拟中使机器人臂跟踪误差平均降低89%。",
       "summaryZh": "",
       "titleZh": "优化的模糊逻辑控制器将模拟中的平均机械臂跟踪误差降低了 89%"
-    },
-    {
-      "title": "宇树科技Q3净利环比降近五成，现金流“腰斩”",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uT0hrMF9IXzhLRXNiNTdKQ19WdjdmNzdHQ3pwYnZlbU9vLUx2V3pPQlFsUEM2dnhtUE9TV1I2QzFscWh6cmstMmRKZTlzMnoycjEtVy0xTQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-03T06:06:35.000Z",
-      "summary": "宇树科技Q3净利润环比下降近五成，现金流减少一半。",
-      "summaryZh": ""
     },
     {
       "title": "Robot hand learns nimble moves with fewer dropped objects",
@@ -193,20 +213,20 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-03T18:55:24.000Z",
-      "summary": "人形机器人制造商追踪产出但未计算回报。",
+      "summary": "机器人制造商追踪产出但未计算回报。",
       "summaryZh": "",
       "titleZh": "人形机器人制造商跟踪产出但不跟踪回报"
     },
     {
-      "title": "Tutor Intelligence raises $75 million to scale robot workforce",
-      "link": "https://roboticsandautomationnews.com/2026/11/03/tutor-intelligence-raises-75-million-to-scale-robot-workforce/106645/",
+      "title": "From human experience to robot action: LiberAI launches Liber-0 world-action model",
+      "link": "https://roboticsandautomationnews.com/2026/11/04/from-human-experience-to-robot-action-liberai-launches-liber-0-world-action-model/106378/",
       "source": "Robotics & Automation News",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-03T08:41:59.000Z",
-      "summary": "Tutor Intelligence获7500万美元融资，扩大机器人劳动力规模。",
+      "pubDate": "2026-11-04T02:00:32.000Z",
+      "summary": "LiberAI推出基于220万小时人类经验的Liber-0世界行动模型，助力机器人学习物理世界交互。",
       "summaryZh": "",
-      "titleZh": "Tutor Intelligence 融资 7500 万美元以扩大机器人劳动力规模"
+      "titleZh": "从人类经验到机器人行动：LiberAI推出Liber-0世界行动模型"
     }
   ]
 }
