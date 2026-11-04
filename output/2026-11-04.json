@@ -1,15 +1,25 @@
 {
   "date": "2026-11-04",
-  "generatedAt": "2026-11-03T23:13:49.210Z",
+  "generatedAt": "2026-11-04T00:11:56.855Z",
   "items": [
     {
-      "title": "OpenAI ChatGPT 最新数据：周活跃用户达 12 亿，两个月新增 2 亿",
-      "link": "https://www.ithome.com/1/021/878.htm",
+      "title": "OpenAI 证实：ChatGPT 搜索查询量已达谷歌 20%",
+      "link": "https://www.ithome.com/1/021/885.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-03T22:39:56.000Z",
-      "summary": "ChatGPT周活跃用户达12亿，两个月新增2亿。",
+      "pubDate": "2026-11-03T23:16:23.000Z",
+      "summary": "ChatGPT搜索查询量达谷歌20%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "谷歌调整 K-12 教育 AI 政策：Gemini、搜索等服务默认关闭",
+      "link": "https://www.ithome.com/1/021/880.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-03T22:47:23.000Z",
+      "summary": "谷歌调整K-12教育AI政策，Gemini、搜索等服务默认关闭需管理员授权。",
       "summaryZh": ""
     },
     {
@@ -19,17 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-03T13:57:11.000Z",
-      "summary": "极智嘉推出24/7自主智能仓计划，目标实现仓库全流程自动化和AI自主决策。",
-      "summaryZh": ""
-    },
-    {
-      "title": "优必选发布具身智能仿真平台Thinker-Sim 物理AI及数据采集再迎催化",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KbndzMnJxb01DUEhxWDV1Wm9ham5GY2hTT1JDRTc1Y0pwRzZ2Y2c3VFA1cWl0blJac0tYY3liR08tSGR3X204YQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-02T23:55:00.000Z",
-      "summary": "优必选发布Thinker-Sim仿真平台，助力物理AI和数据采集发展。",
+      "summary": "极智嘉推出24/7自主智能仓计划，目标实现仓库全流程自动化和AI自主运行。",
       "summaryZh": ""
     },
     {
@@ -53,22 +53,13 @@
       "summaryZh": ""
     },
     {
-      "title": "操控400万账号薅AI算力，男子获刑三年",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DVUpJT0ZFb0huZnl5ZGlOeWpKMEF4eURqcmFCMHp3TVY3ZTVpSVFTSmFEVDlhbjNUa2FVWWpwUnRWcGVvR2Nocm1TSlBLZw?oc=5",
+      "title": "大模型时代，如何维系持续学习的能力？-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TclBfS0lKMUpvMjlsUklmOGk1YUdXVHlZOVUycS1IVG04WGc2aWU0ODRabzNmS3VZZkJneGZocm1sWmNEcmdURFFGQ1gxTWc?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-03T13:06:53.000Z",
-      "summary": ""
-    },
-    {
-      "title": "德银：SpaceX年底AI算力有望达2.7GW，云算力租赁业务前景强劲-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DWmlXUWxZNk9JX2FaUGVXMmJpUXNwV1ZsS3hVanl0Ti1oNkxyLUpwSVFPT0VJQjhPRXRvU1pEQmRLYnJHVG0tanY0R3JFQ1B0aDFZa25CYmJHYWJMSFE?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-03T10:53:58.000Z",
-      "summary": "SpaceX年底AI算力预计达2.7GW，云算力租赁业务前景看好。",
+      "pubDate": "2026-11-03T23:20:10.000Z",
+      "summary": "大模型时代，如何通过苏格拉底式导师法重获深度学习能力。",
       "summaryZh": ""
     },
     {
@@ -78,17 +69,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-03T09:24:00.000Z",
-      "summary": "中国推动世界人工智能合作组织实体化运行，38国加入创始成员国。",
+      "summary": "中国推动世界人工智能合作组织实体化，38国加入创始成员。",
       "summaryZh": ""
     },
     {
-      "title": "广东：加快发展“人工智能+消费”，推动人工智能手机和电脑、智能机器人等高端化发展",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfbXBNNWJmc2RhT01EZW00cHdIaE1iUWNpWU1HNjRNbS1aZTUxV2IxeXBCaVNsOU4zaXMxaEdQTG4zRVphdTVzSkxHR0w5VExFcEs2UzUzMlo?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-03T07:22:39.000Z",
-      "summary": "广东推动人工智能手机、电脑等高端化发展。",
+      "title": "Humanoid Robots in Warehouses vs AMRs: Which Automation Makes Sense in 2026?",
+      "link": "https://roboticsandautomationnews.com/2026/11/03/humanoid-robots-in-warehouses-vs-amrs-which-automation-makes-sense-in-2026/106685/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-03T22:46:09.000Z",
+      "summary": "2026年，仓库自动化：人形机器人与AMR技术成熟度不同，应用场景各异。",
       "summaryZh": ""
     },
     {
@@ -98,7 +89,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-03T03:37:15.000Z",
-      "summary": "发改委部署“人工智能+”深化拓展，制定应用场景指引。",
+      "summary": "发改委部署“人工智能+”深化拓展，细化实施方案和制度支撑。",
       "summaryZh": ""
     },
     {
@@ -112,15 +103,14 @@
       "summaryZh": ""
     },
     {
-      "title": "Humanoid Robots in Warehouses vs AMRs: Which Automation Makes Sense in 2026?",
-      "link": "https://roboticsandautomationnews.com/2026/11/03/humanoid-robots-in-warehouses-vs-amrs-which-automation-makes-sense-in-2026/106685/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-03T22:46:09.000Z",
-      "summary": "2026年，仓储自动化：人形机器人与AMR应用场景不同。",
-      "summaryZh": "",
-      "titleZh": "仓库中的人形机器人与 AMR：2026 年哪种自动化更有意义？"
+      "title": "三项目齐发、总投资85亿元！科翔股份押注AI算力PCB",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yN0c2WXZkQ1Baam40dmNDR2piTkZhUTJvUmVKQ1o5d0xVMmotSHpKQ3g3Rl9oWVFGXzdGRHdRMEVZSWM3UnEwMw?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-03T22:03:08.000Z",
+      "summary": "科翔股份投资85亿元布局AI算力PCB项目。",
+      "summaryZh": ""
     },
     {
       "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
@@ -129,17 +119,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-03T06:55:30.000Z",
-      "summary": "纯语音Personal Agent Orilo问世，提供自然交互体验，有望成为乔布斯心中的Siri。",
-      "summaryZh": ""
-    },
-    {
-      "title": "我国人工智能发展速度及应用规模全球领先",
-      "link": "https://www.ithome.com/1/021/840.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-03T15:07:54.000Z",
-      "summary": "我国人工智能发展速度和应用规模居全球首位。",
+      "summary": "纯语音Personal Agent Orilo问世，提供自然交互体验。",
       "summaryZh": ""
     },
     {
@@ -149,28 +129,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-03T08:22:37.000Z",
-      "summary": "SpaceX旗下AI产品Grok Bot因成本过高开始限制用户额度，马斯克承认难以持续。",
+      "summary": "Grok Bot因成本过高开始限制用户额度，马斯克承认难以持续。",
       "summaryZh": ""
     },
     {
-      "title": "研究发现红色爱心等视觉符号会改变大模型代码生成策略并引发隐式引导担忧",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85dWczYWhmU2hTU0FFVXR5cWVia2drZjU1UkVOdWUwOTNsdEpwWEdscW5HSWtQT290VUtHbUZxVlI4dFdkWG1lS3diVGVjSWlLZ3NnNS04QWtyR3RrYTQw?oc=5",
-      "source": "虎嗅",
+      "title": "43分41秒，宇树科技交出“机器狗爬泰山”成绩单",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XZkEtQ1pWMTZSeTdXSG1QYUpGQXdMMnc4QU4wT01oTElyT05kNFd3d1R0N3NFWDRYSmxPNGNNdjk3Umg4YjlUaFZWU1diOWxSekpWUzRwZVBjQzRVVHBEOVJR?oc=5",
+      "source": "中国经营网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-03T10:07:35.000Z",
-      "summary": "研究发现视觉符号如红色爱心可改变AI代码生成策略，引发隐式引导担忧。",
-      "summaryZh": ""
-    },
-    {
-      "title": "年轻人爱上云养“AI宠物”",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HdFVFa29fdU85elpXdENSN1JvSkJ6UlRrZERGXzY2RWJfLS1ZNmVuZzZiN1k0R2NwV3VVd3lCMWNFOThiaG5mdmJiSGY0VXY1U0d0aWtRcFE1anBHclRWaUVGSWUwQjU4?oc=5",
-      "source": "中国新闻网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-02T23:49:10.000Z",
-      "summary": "年轻人热衷于云养AI宠物，相关短视频成为新兴创业赛道。",
-      "summaryZh": ""
+      "category": "robotics",
+      "pubDate": "2026-11-03T03:51:00.000Z",
+      "summary": ""
     },
     {
       "title": "Optimized fuzzy logic controller cuts average robotic arm tracking error by 89% in simulations",
@@ -179,9 +148,8 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-03T17:20:06.000Z",
-      "summary": "优化模糊逻辑控制器在模拟中使机器人臂跟踪误差平均降低89%。",
-      "summaryZh": "",
-      "titleZh": "优化的模糊逻辑控制器将模拟中的平均机械臂跟踪误差降低了 89%"
+      "summary": "优化模糊逻辑控制器在模拟中使机器人手臂跟踪误差平均降低89%。",
+      "summaryZh": ""
     },
     {
       "title": "Robot hand learns nimble moves with fewer dropped objects",
@@ -190,9 +158,8 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-03T19:30:05.000Z",
-      "summary": "机器人手通过学习实现灵活操作，减少掉落物体。",
-      "summaryZh": "",
-      "titleZh": "机器人手通过更少的掉落物体来学习灵活的动作"
+      "summary": "机器人手通过减少掉落物体学会灵活操作。",
+      "summaryZh": ""
     },
     {
       "title": "Tutor Intelligence raises $75 million to scale robot workforce",
@@ -202,8 +169,7 @@
       "category": "robotics",
       "pubDate": "2026-11-03T08:41:59.000Z",
       "summary": "Tutor Intelligence获7500万美元融资，扩大机器人劳动力规模。",
-      "summaryZh": "",
-      "titleZh": "Tutor Intelligence 融资 7500 万美元以扩大机器人劳动力规模"
+      "summaryZh": ""
     },
     {
       "title": "What Makes a Robot Truly Autonomous?",
@@ -212,9 +178,8 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-03T17:41:00.000Z",
-      "summary": "机器人自主性涉及评估能力、可靠性和地图构建，对多样化实际场景有效部署至关重要。",
-      "summaryZh": "",
-      "titleZh": "是什么让机器人真正实现自主？"
+      "summary": "机器人自主性涉及评估能力、可靠性和地图构建，对多样化实际场景应用至关重要。",
+      "summaryZh": ""
     }
   ]
 }
