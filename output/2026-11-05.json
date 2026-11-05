@@ -1,7 +1,17 @@
 {
   "date": "2026-11-05",
-  "generatedAt": "2026-11-04T23:34:43.279Z",
+  "generatedAt": "2026-11-05T00:32:00.356Z",
   "items": [
+    {
+      "title": "OpenAI 升级 ChatGPT 图片能力，支持直接生成和编辑 GIF 动画",
+      "link": "https://www.ithome.com/1/022/486.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-04T23:41:17.000Z",
+      "summary": "ChatGPT升级支持直接生成和编辑GIF动画。",
+      "summaryZh": ""
+    },
     {
       "title": "大模型时代，智驾芯片的算力赢学失效了",
       "link": "https://www.tmtpost.com/8193596.html",
@@ -13,12 +23,32 @@
       "summaryZh": ""
     },
     {
+      "title": "月之暗面 2.8 万亿参数 Kimi K3.1 Pro 开放权重，登顶 Agent Arena 开源模型榜",
+      "link": "https://www.ithome.com/1/022/490.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-05T00:00:15.000Z",
+      "summary": "月之暗面Kimi K3.1 Pro模型权重开放，登顶Agent Arena开源模型榜。",
+      "summaryZh": ""
+    },
+    {
+      "title": "网易智企发布企业级AI Agent平台“帝王蟹”三项升级",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wXy1VZzBNSHp2c2tWNFZaTGZwcVRNV0ZmOTd6emZjb2lBZEFzRnYtdU9vcmhiUTlGY2UtZGpaS0oxTmhLTUR4ZkNFQUN3ZGZqb3c3d0l6cUw?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-04T07:52:40.000Z",
+      "summary": "网易智企发布AI Agent平台“帝王蟹”升级，推出智能工牌及两项新能力。",
+      "summaryZh": ""
+    },
+    {
       "title": "Adobe Integrates Marketing AI Agent in ChatGPT and Claude",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/adobe-integrates-marketing-ai-agent-in-chatgpt-and-claude/",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaXdmSGkwWVNocmdvNklPU3pGRHlLVFViU2s5cE9fRXlkOXdfaE1JQkJQd0lyNmc1NTg4Z3hqeHZpZldJalJlRmdoVWZPODl2c05YQlg2RzhWQmozQWlWQ2FJMmxGb3h0YlE4YVVZQ0QyNXZtTWtZTkxTeV9ndnl6Zkl2RUZPQS1vallkek9HaU00UnVJWksweFNOVy16X3Etam1fX3ZvTl9zRk5kUURjMDVsU0FvUQ?oc=5",
       "source": "PYMNTS",
       "lang": "en",
       "category": "ai",
-      "pubDate": "2026-11-04T21:58:42.000Z",
+      "pubDate": "2026-11-04T22:10:26.000Z",
       "summary": "Adobe将营销AI代理集成至ChatGPT和Claude等AI平台。",
       "summaryZh": "",
       "titleZh": "Adobe 将营销 AI 代理集成到 ChatGPT 和 Claude 中"
@@ -30,7 +60,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-04T10:04:44.000Z",
-      "summary": "游族网络斥资42亿采购GPU，跨界AI算力市场面临挑战。",
+      "summary": "游族网络以42亿采购GPU，跨界AI算力市场面临挑战。",
+      "summaryZh": ""
+    },
+    {
+      "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
+      "link": "https://www.qbitai.com/2026/11/507647.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-04T16:13:23.000Z",
+      "summary": "百度Apollo推出全新世界模型ApolloWorld，实现虚拟路测效率提升，一天模拟里程相当于真实测试车行驶三年。",
       "summaryZh": ""
     },
     {
@@ -44,44 +84,13 @@
       "summaryZh": ""
     },
     {
-      "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
-      "link": "https://www.qbitai.com/2026/11/507647.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-04T16:13:23.000Z",
-      "summary": "百度Apollo推出全新世界模型ApolloWorld，实现虚拟路测效率提升，一天相当于真实路测三年。",
-      "summaryZh": ""
-    },
-    {
-      "title": "蔚来李斌：自动驾驶不应让出租车和网约车司机失去工作",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RaWFFSlRHUGhrOXJFT25sM2t0ZnQ1QmtJQ003eXFuLUtOeWd1SV96ZHpKSFhLRVZyTWNMRVlWczNxYVBHOUQ1OQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-04T12:10:13.000Z",
-      "summary": "蔚来李斌强调自动驾驶应解放司机，而非取代其工作。",
-      "summaryZh": ""
-    },
-    {
-      "title": "韩国政府与AMD就AI芯片合作展开后续磋商",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VamJlS0hCeUR1M0pDaDNXZ3BidHVEUFZnd3pTM0g4NkZMR1NucnVUQWVOMjVHMTRjNjFJdlNRdnN5dF9IU2JSOHdjTk9jZWZoMkR5ZXJwMkthREREa1E?oc=5",
+      "title": "Claude工程师Agent大教程：如何防止被AI养废",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sNVlpSnpzUUloaWd1WFZPNHhJenlnTXNPY2tGWGxhNzdyYUtlZmVSRkEzYkZmYW16ZDhPNjdaNFQyRDI0TC1hT1hZand2dw?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-04T01:51:48.000Z",
-      "summary": "韩国政府与AMD就AI芯片合作协议进行后续磋商。",
-      "summaryZh": ""
-    },
-    {
-      "title": "2026年国内端侧AI芯片企业深度解析：国科微成AI视觉赛道优选",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1nNGc0XzNRTjRFVUp1NDQ1MFB6emVGVWV2SDQ0cGVmSnFQcFk3X3oxS3l2MUVUN0toNl9zbGd1Z1dwbWRmZ2RXTUNwaVY?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-04T14:27:40.000Z",
-      "summary": "国科微凭借全栈自研和规模量产能力，成为AI视觉赛道优选企业，2026年上半年AI视觉芯片收入增长超两倍。",
-      "summaryZh": ""
+      "pubDate": "2026-11-05T00:12:59.000Z",
+      "summary": ""
     },
     {
       "title": "从Agent到机器人，乌镇探讨AI治理中国方案",
@@ -110,38 +119,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-04T01:10:39.000Z",
-      "summary": "AMD数据中心营收翻倍，预计明年收入占比将超80%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "ChatGPT will now make you animated GIFs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-04T18:00:00.000Z",
-      "summary": "ChatGPT新增生成动态GIF功能。",
-      "summaryZh": "",
-      "titleZh": "ChatGPT 现在将为您制作动画 GIF"
-    },
-    {
-      "title": "政策密集加码AI应用加速落地人工智能ETF易方达（159819）动能积聚-ETF火线",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yZ0NWRlhKQU4zeG9vX0xXLW02Z2tDN0ZEelZNUjUtMkRpOW00RzRpMUJvZ2I3Q0xNTW9WalVIS0dSWGwyRFVVU1N5QXJ2SWVKUlZQbXZtUzdVOEZyMmtFRFJXVEZjMHFkdzkyelJ2Nm4?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-04T02:44:57.000Z",
-      "summary": "政策支持AI应用加速，易方达人工智能ETF动能积聚。",
-      "summaryZh": ""
-    },
-    {
-      "title": "诺安基金邓心怡：AI产业进入商业化落地新阶段 把握算力与应用双向机遇",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43TFNaZmJrUU5ZWVRReGIwSVNQck1fNlV0S0MyRlNFZ3RWWlFlN2Jha2pHRE1xR0dzbWZvZXJIWGwxTlBkUEYzYUVPZHk2NjVZ?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-04T08:36:02.000Z",
-      "summary": "AI产业商业化落地加速，诺安基金把握算力与应用机遇。",
+      "summary": "AMD数据中心营收近乎翻倍，预计明年收入占比将超80%。",
       "summaryZh": ""
     },
     {
@@ -171,7 +149,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-04T16:08:46.000Z",
-      "summary": "2026年《机器人报告》发布第二届机器人创业公司雷达，聚焦创新技术和商业应用。",
+      "summary": "2026年《机器人报告》发布第二年度创业公司雷达，聚焦商业机器人及相关技术新公司。",
       "summaryZh": "",
       "titleZh": "机器人初创雷达 2026"
     },
@@ -182,28 +160,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-04T15:22:55.000Z",
-      "summary": "GlobalLogic助力Haystack Robotics研发紫外线消毒机器人。",
+      "summary": "GlobalLogic助力Haystack Robotics打造紫外线消毒机器人。",
       "summaryZh": "",
       "titleZh": "GlobalLogic 如何帮助 Haystack Robotics 打造紫外线消毒机器人"
     },
     {
-      "title": "银河通用机器人等成立北京睿银寰宇机器人有限公司，含AI相关业务",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPQkhIMFZONUY1emFSbUN4WjRzMHhUWm9MaXdFTF90SF8yRWxzZFhzekJTb1ZsUjA5ZjNCVDJEZUR3Y3Nqd3FoMndmMXlLOFJPakRn?oc=5",
-      "source": "虎嗅",
+      "title": "宇树用利润换时间，具身智能离物理AI临界点还有多远？-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4VUNIWThhQ2hDRHpwUTdtaml5Yjk2UUxWYTBpN2M5MEVxR2FXZzdGNEREZDA4OGMtS2pVelBMYmRRXzlxNlJBTjdGdmVDYVVG?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-04T07:49:55.000Z",
-      "summary": "银河通用机器人等成立北京睿银寰宇机器人有限公司，涉AI业务。",
+      "pubDate": "2026-11-04T08:16:00.000Z",
+      "summary": "宇树以利润投入研发，具身智能行业面临物理AI对齐难题。",
       "summaryZh": ""
-    },
-    {
-      "title": "宇树王兴兴：2027年大概率成机器人行业临界点，卡点在“最后几毫米”",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BX3dNZEJDaWNvOHppb0M2NGV4X1ZtcWVOM1N1SjgwRVdCZzFUMF9vaEhtYThFZ2c5YWExcWhtOHpvOXRHNnFlbUpSdlJvTlh4b1BJ?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-04T20:28:34.000Z",
-      "summary": ""
     },
     {
       "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
@@ -217,15 +186,15 @@
       "titleZh": "英国官员称人工智能将为经济增加 4000 亿英镑。该数字主要来自谷歌"
     },
     {
-      "title": "The CFO’s Guide to LLMjacking: When Stolen AI Becomes a 7-Figure Cloud Bill",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/the-cfos-guide-to-llmjacking-when-stolen-ai-becomes-a-7-figure-cloud-bill/",
-      "source": "PYMNTS",
+      "title": "Are Drone Ports the Next Annoying Tech Neighbor?",
+      "link": "https://spectrum.ieee.org/drone-delivery-noise",
+      "source": "IEEE Spectrum Robotics",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-04T21:38:26.000Z",
-      "summary": "企业AI凭证被黑客窃取，导致受害者面临数十万美元的云服务账单。",
+      "pubDate": "2026-11-04T18:47:21.000Z",
+      "summary": "无人机港口噪音引发公众对科技接受度限制的担忧。",
       "summaryZh": "",
-      "titleZh": "首席财务官的 LLM 劫持指南：当被盗的人工智能变成 7 位数的云账单时"
+      "titleZh": "无人机端口是下一个令人讨厌的科技邻居吗？"
     },
     {
       "title": "去年我国具身智能市场规模约9150亿元增长20.4%",
@@ -235,6 +204,16 @@
       "category": "robotics",
       "pubDate": "2026-11-04T20:54:44.000Z",
       "summary": "我国具身智能市场规模去年达9150亿元，同比增长20.4%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "智能仿生手 奏响生活新声",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5weV9xTHNOenFZeHp6MWVQNFpyR01XTjhOUHhIUlNMWlJhdi1pM0diSDhjVHBTME9yQ3VBNGpPbTJKMGZOeUFSdW5ZU1h5OXUxZ1NWWVBpeUhnSkNUTmFrRnp0NEJKMDRDeHFpNHozSzM?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-04T14:13:11.000Z",
+      "summary": "智能仿生手在互联网大会上展示，脑机接口技术助力康复助残。",
       "summaryZh": ""
     }
   ]
