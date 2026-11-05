@@ -1,47 +1,7 @@
 {
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T06:54:44.272Z",
+  "generatedAt": "2026-11-05T11:28:16.450Z",
   "items": [
-    {
-      "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
-      "link": "https://www.qbitai.com/2026/11/507696.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-05T02:01:51.000Z",
-      "summary": "智能体完整落地链路在上海举办技术实践分享会。",
-      "summaryZh": ""
-    },
-    {
-      "title": "丰田成立机器人部门，整合研发资源加速技术落地",
-      "link": "https://www.ithome.com/1/022/709.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-05T06:38:55.000Z",
-      "summary": "丰田成立机器人部门，整合资源加速技术落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI 总裁布罗克曼：目前公司大部分营收来自企业客户，明年具备上市条件",
-      "link": "https://www.ithome.com/1/022/734.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-05T06:46:53.000Z",
-      "summary": "OpenAI总裁称公司营收主要来自企业客户，预计明年可上市。",
-      "summaryZh": ""
-    },
-    {
-      "title": "刚刚，Claude Code产品一姐加入OpenAI！",
-      "link": "https://zhidx.com/p/607599.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-05T04:05:50.000Z",
-      "summary": "Claude Code产品负责人Cat Wu加入OpenAI。",
-      "summaryZh": ""
-    },
     {
       "title": "让组织AI落地：致远互联入选全球企业级AI Agent优秀厂商图谱",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyUnFrZFFyRVczQW8zV0kzRG5hXy1hM0t0WHNqSW5SRnBZV0xONE50MTVkLU5VYmZDOXpvSUxoRkdpd2ppeFFFNnk5UGdJZE5rR2RTRmZiOHFFSFU1N0FQbExR?oc=5",
@@ -58,7 +18,7 @@
       "source": "第一财经",
       "lang": "zh",
       "category": "application",
-      "pubDate": "2026-11-05T06:00:00.000Z",
+      "pubDate": "2026-11-05T04:34:08.000Z",
       "summary": "佛山照明AI跌倒监测灯具在多个养老院及居家养老项目落地。",
       "summaryZh": ""
     },
@@ -70,8 +30,7 @@
       "category": "ai",
       "pubDate": "2026-11-04T22:10:26.000Z",
       "summary": "Adobe将营销AI代理集成至ChatGPT和Claude等AI平台。",
-      "summaryZh": "",
-      "titleZh": "Adobe 将营销 AI 代理集成到 ChatGPT 和 Claude 中"
+      "summaryZh": ""
     },
     {
       "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
@@ -84,13 +43,33 @@
       "summaryZh": ""
     },
     {
-      "title": "网易智企帝王蟹乌镇升级，推出Agent Team、知识引擎“万典”，首发智能工牌",
-      "link": "https://zhidx.com/p/607408.html",
+      "title": "机器人，开始卷K12了",
+      "link": "https://www.tmtpost.com/8194643.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-05T10:30:34.000Z",
+      "summary": "机器人教育产品开始面向K12学生市场。",
+      "summaryZh": ""
+    },
+    {
+      "title": "月之暗面 2.8 万亿参数 Kimi K3.1 Pro 开放权重，登顶 Agent Arena 开源模型榜",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BS3oxTnl0U1dFTVpCcF9MeHpvNE55YU9rUW1HMy1fOEZZU2NWOUpyeVVQd2hfUlRqWXItVzY3bktQUXFpUDBsakhwUnc?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-05T00:00:15.000Z",
+      "summary": "Kimi K3.1 Pro 开放权重，登顶 Agent Arena 开源模型榜。",
+      "summaryZh": ""
+    },
+    {
+      "title": "智象创始人梅涛演讲：提出构建智能体化的全模态世界模型",
+      "link": "https://zhidx.com/p/607782.html",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-04T09:54:57.000Z",
-      "summary": "网易智企帝王蟹乌镇升级，推出智能工牌、知识引擎“万典”和Agent Team。",
+      "pubDate": "2026-11-05T10:19:02.000Z",
+      "summary": "梅涛提出构建智能体化的全模态世界模型，推动AI迈向下一代世界智能。",
       "summaryZh": ""
     },
     {
@@ -100,48 +79,45 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-05T00:01:00.000Z",
-      "summary": "Claude在14亿美元英国消费者AI市场中缩小了与ChatGPT的差距。",
-      "summaryZh": "",
-      "titleZh": "Claude 缩小了 ChatGPT 在 14 亿美元英国消费者人工智能市场的领先地位"
+      "summary": "Claude缩小了ChatGPT在英国14亿消费者AI市场的领先优势。",
+      "summaryZh": ""
     },
     {
-      "title": "ST新元成立智慧科技公司 含AI及机器人业务",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FYkVNZ211VXk4cEpRYUZMZVFDckFzYUZiZjM4bC1neHA5WExMaHBZb0JzMkpheXpNY1RTWTFfNE1MS0ZBcWp1cw?oc=5",
-      "source": "财联社",
+      "title": "闪电快讯 | 菜鸟发布与AI及具身智能产业合作计划，开放全球仓网",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CcXlzRlptdGhVZ09NS29hcnJuUlIwUVBxQ3huTU9xLXVweFNEY0lQeGZqUzhaaTdQeVlRVmpGY2p3NHdGTkZteWpiczZ5TkZFbkxLcHdZZ0M?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-05T03:41:03.000Z",
-      "summary": "ST新元成立智慧科技公司，专注AI及机器人业务。",
+      "pubDate": "2026-11-05T10:35:26.000Z",
+      "summary": "菜鸟发布AI及具身智能产业合作计划，开放全球仓网，打造AI物流训练集群。",
       "summaryZh": ""
     },
     {
-      "title": "AI Agent 重构商业交易，从流量入口到支付授权",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxT2tuMHZoWk9KZkZyYmlTcTNLamFKZDRLNkdXQUhUMEI1MnQxSGFLZWJkLVpoM0dBX1V5TjBRYTFjbi04eGNFNWhMNF8?oc=5",
-      "source": "钛媒体",
+      "title": "AI影像功能要收费了？手机厂商云端Token成本攀升，强化端侧算力是正道",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5weG5pRFFrcExKRWxVTmV4ZS1IRTFZU1FwNEpXVzVyUVZwV1hhMmh5Ukl3QkxOVmg1aG5wSGkySGlyZGNvbFljS25wTEhzUQ?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-04T08:14:00.000Z",
-      "summary": "AI Agent重构商业交易流程，推动支付授权和交互方式变革。",
-      "summaryZh": ""
+      "pubDate": "2026-11-04T19:04:00.000Z",
+      "summary": ""
     },
     {
-      "title": "AI走上粤港澳招商的主位：终端、算力和材料",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NVEFtUk9zd1B0cGc5Z0lmdFIxRGtiWmo4TTkyV0NHV1c4QTdtS2J0QnozUW1lcHJNM2JnUUdWT3JSXzB4NEUzOElKdGtFMmktQjdfcGlrRVk?oc=5",
-      "source": "界面新闻",
+      "title": "百度上线模型交易平台“词元所”，汇集42款大模型",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xZEFrSmY4eGZBcy1tcHhKdlBtOVJKbl8zTVNqeTZDWFlrQmtQU2FYWXI4c05SVUdxdmdJcnJfYVZhM3ZhbDVxX1hBd1hZUQ?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-05T03:51:27.000Z",
-      "summary": "粤港澳招商大会聚焦AI产业链，投资额达1974亿元。",
-      "summaryZh": ""
+      "pubDate": "2026-11-04T12:34:00.000Z",
+      "summary": ""
     },
     {
-      "title": "中信建投：AI算力链增长突出，估值消化后聚焦业绩兑现",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfYlZvUnZJTDNqakU1RDZpQWlQWHFYRzRzY3hmSEdydDA2cVJJRENleG9sTU5lQzFhbkNpU0ZNcV9sa2pWeGh4bEFhYl9BeUZwTER1YkllNDE?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-05T00:44:33.000Z",
-      "summary": "中信建投研报指出，AI算力链增长显著，估值消化后市场关注业绩兑现。",
+      "title": "Robotics Startup Radar 2026",
+      "link": "https://www.therobotreport.com/robotics-startup-radar-2026/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-04T16:08:46.000Z",
+      "summary": "2026年，《机器人报告》发布第二届机器人创业公司雷达，聚焦创新商业机器人及相关技术。",
       "summaryZh": ""
     },
     {
@@ -152,17 +128,7 @@
       "category": "robotics",
       "pubDate": "2026-11-04T15:22:55.000Z",
       "summary": "GlobalLogic助力Haystack Robotics打造紫外线消毒机器人。",
-      "summaryZh": "",
-      "titleZh": "GlobalLogic 如何帮助 Haystack Robotics 打造紫外线消毒机器人"
-    },
-    {
-      "title": "银河通用机器人等成立北京睿银寰宇机器人有限公司，含AI相关业务",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPQkhIMFZONUY1emFSbUN4WjRzMHhUWm9MaXdFTF90SF8yRWxzZFhzekJTb1ZsUjA5ZjNCVDJEZUR3Y3Nqd3FoMndmMXlLOFJPakRn?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-04T07:49:55.000Z",
-      "summary": ""
+      "summaryZh": ""
     },
     {
       "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
@@ -171,9 +137,8 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-04T13:49:51.000Z",
-      "summary": "英国官员称AI将增4000亿经济贡献，主要数据来自谷歌报告。",
-      "summaryZh": "",
-      "titleZh": "英国官员称人工智能将为经济增加 4000 亿英镑。该数字主要来自谷歌"
+      "summary": "英国官员称AI将增4000亿英镑经济，主要数据来自谷歌报告。",
+      "summaryZh": ""
     },
     {
       "title": "Are Drone Ports the Next Annoying Tech Neighbor?",
@@ -182,29 +147,18 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-04T18:47:21.000Z",
-      "summary": "无人机港口噪音引发公众对科技接受度限制的讨论。",
-      "summaryZh": "",
-      "titleZh": "无人机端口是下一个令人讨厌的科技邻居吗？"
+      "summary": "无人机港口噪音引发公众对科技接受度的担忧。",
+      "summaryZh": ""
     },
     {
-      "title": "LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action",
-      "link": "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-04T15:02:57.000Z",
-      "summary": "LiberAI发布Liber-0，基于220万小时人类经验训练的机器人动作模型。",
-      "summaryZh": "",
-      "titleZh": "LiberAI 推出 Liber-0，一种基于人类机器人动作经验的世界动作模型"
-    },
-    {
-      "title": "宇树王兴兴：2027年大概率成机器人行业临界点，卡点在“最后几毫米”",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BX3dNZEJDaWNvOHppb0M2NGV4X1ZtcWVOM1N1SjgwRVdCZzFUMF9vaEhtYThFZ2c5YWExcWhtOHpvOXRHNnFlbUpSdlJvTlh4b1BJ?oc=5",
-      "source": "华尔街见闻",
+      "title": "天舟文化喻宇汉：AI将成文旅数字化基础生产力 文旅研学是确定性较强赛道",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BYkZoZmUtdmVwOTNROTk4dW4yTXJhdUhHYVYteE0wbzZudmxMRWh5VVZOYkMxRWJ6Sk9YZnVzRG03RTR0ZnduSDI1MEt3LXBp?oc=5",
+      "source": "凤凰财经",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-04T20:28:34.000Z",
-      "summary": ""
+      "category": "application",
+      "pubDate": "2026-11-05T10:52:05.000Z",
+      "summary": "AI技术将成文旅数字化基础生产力，文旅研学成确定性细分赛道。",
+      "summaryZh": ""
     }
   ]
 }
