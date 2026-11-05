@@ -1,17 +1,7 @@
 {
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T01:30:52.583Z",
+  "generatedAt": "2026-11-05T02:49:36.022Z",
   "items": [
-    {
-      "title": "OpenAI 推出 Images 2.6 模型，ChatGPT 支持直接生成和编辑 GIF 动画",
-      "link": "https://www.ithome.com/1/022/486.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-04T23:41:17.000Z",
-      "summary": "OpenAI更新ChatGPT，支持直接生成和编辑GIF动画。",
-      "summaryZh": ""
-    },
     {
       "title": "曝 OpenAI 新一代 GPT-6.2 Astra、Sol 及 Cyber 网安模型最快周五发布",
       "link": "https://www.ithome.com/1/022/522.htm",
@@ -54,13 +44,43 @@
       "titleZh": "Adobe 将营销 AI 代理集成到 ChatGPT 和 Claude 中"
     },
     {
+      "title": "启元 T1 机器人首次 OTA 明日推送：智能识别楼梯并自动变形、远程音视频通话",
+      "link": "https://www.ithome.com/1/022/530.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-05T01:51:00.000Z",
+      "summary": "启元T1机器人OTA更新，新增楼梯识别变形和远程通话功能。",
+      "summaryZh": ""
+    },
+    {
       "title": "42亿GPU采购背后，游族网络跨界AI算力生意",
       "link": "https://www.tmtpost.com/8193553.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-04T10:04:44.000Z",
-      "summary": "游族网络以42亿采购GPU，跨界AI算力市场，面临资金与交付挑战。",
+      "summary": "游族网络斥资42亿采购GPU，跨界AI算力市场面临挑战。",
+      "summaryZh": ""
+    },
+    {
+      "title": "网易智企帝王蟹乌镇升级，推出Agent Team、知识引擎“万典”，首发智能工牌",
+      "link": "https://zhidx.com/p/607408.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-04T09:54:57.000Z",
+      "summary": "网易智企帝王蟹乌镇升级，发布智能工牌及Agent Team、知识引擎“万典”。",
+      "summaryZh": ""
+    },
+    {
+      "title": "腾讯Hy4开眼了！抢先实测操作微信、3D建模，价格看齐DeepSeek，开源生态已联动",
+      "link": "https://zhidx.com/p/607071.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-04T06:30:57.000Z",
+      "summary": "腾讯Hy4模型发布，支持微信操作和3D建模，性能与DeepSeek相当，开源生态已联动。",
       "summaryZh": ""
     },
     {
@@ -70,7 +90,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-04T16:13:23.000Z",
-      "summary": "百度Apollo推出虚拟世界模型ApolloWorld，一天虚拟路测里程相当于真实测试车行驶三年。",
+      "summary": "百度Apollo推出虚拟世界模型ApolloWorld，一天虚拟路测里程相当于真实测试车连续行驶三年。",
       "summaryZh": ""
     },
     {
@@ -80,7 +100,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-04T12:54:41.000Z",
-      "summary": "腾讯混元发布新一代大语言模型Hy4。",
+      "summary": "腾讯混元发布最新一代大语言模型Hy4。",
       "summaryZh": ""
     },
     {
@@ -90,36 +110,38 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-04T02:49:54.000Z",
-      "summary": "苹果接入阿里通义千问，端侧AI概念股受提振，科创人工智能ETF华宝资金关注度上升。",
+      "summary": "苹果接入阿里通义千问大模型，端侧AI概念股受提振，科创人工智能ETF华宝资金关注度提升。",
       "summaryZh": ""
     },
     {
-      "title": "Claude工程师Agent大教程：如何防止被AI养废-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aNXBMSTlmdnp3Y0RGWXlJWVlNVUgzbE4tM1lXdlNOQ0psLXFzX3lvNnJ1eVFpb0E5SkJaUnpSQ29iSTZwcF91MzJKSQ?oc=5",
+      "title": "Claude Lowers ChatGPT’s Lead in $1.4 Billion UK Consumer AI Market",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1ZXTER1MVhYX1A5SkVQMlphb21aS3JJbTgxNGpxTWJSS0M5WGxHMWJmRUZER3Q5TFVBM3ZKLU85MHl0ZzJ4ZmhadkloZmE1VEdTdnM4eHAwWTZSZnY1QTU1dlM2ejdoSTYwMlpqQlhyZXo0Q2RqS3JYaHk2ZEtVc2VESzY5MUZiS04tdDF5Q2dzXzdRUWdoR1htVENFR1pJQVNsQjBWelFOZnVtM0FaSFhhdVI?oc=5",
+      "source": "Bloomberg",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-05T00:01:00.000Z",
+      "summary": "Claude缩小了ChatGPT在英国14亿美元消费者AI市场的领先优势。",
+      "summaryZh": "",
+      "titleZh": "Claude 降低了 ChatGPT 在价值 14 亿美元的英国消费者人工智能市场中的领先地位"
+    },
+    {
+      "title": "中国AI爆款诞生：Sand.ai融资2亿美元-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUaHQ0T1NWVmVMVEttaFJESWdWZDdlRV9VbTVqb0NlbnFIQzY5YTJ1UC1qblM5NWxtTzBNRm9QSUZRQ3ZUNDdUcmx1VWhCR1dB?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-05T00:12:28.000Z",
-      "summary": ""
-    },
-    {
-      "title": "从Agent到机器人，乌镇探讨AI治理中国方案",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpNnEzZDNudG1tSG5xS2NmNWRUUDVyOEJrVGZQU3FDS2pfOU80RmN2RDdNaW9BZ0pCdVdRdnVaLWhKZWIzVWJZMnB6M0t1eGpNdzM5cGZzQ2g?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-04T12:47:46.000Z",
-      "summary": "乌镇峰会探讨AI治理，聚焦智能体安全与责任边界。",
+      "pubDate": "2026-11-05T02:47:37.000Z",
+      "summary": "Sand.ai完成2亿美元A+轮融资，跻身独角兽行列。",
       "summaryZh": ""
     },
     {
-      "title": "从美国到欧洲，AI融资热下暗藏“债券过剩”风险？",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPN0cwOEpXVlFzZFpidEREcUt4V1hkcHluckRkeHNFbXpUSUZNYjI4YXgwNXJsMW5uejZjQkFOczBDdmYwQnQ3dHZJTm9wTXNSSWxv?oc=5",
-      "source": "第一财经",
+      "title": "科创人工智能ETF富国(589380)跟踪指数上证科创板人工智能指数上涨2.04%，跟踪指数已处近1年估值低位",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tNjgzcUFYMFIyaDNoRHhRUFBpMnlkN0JydEFlZzVqcGZOS2VJT3QyN0JUWUs4MXBGZ3p2OGIwUVdsSW12Tm82NExnOTViX25yMy1qemFSeWE?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-04T11:00:32.000Z",
-      "summary": "AI融资热潮下，美欧市场面临债券过剩风险。",
+      "pubDate": "2026-11-05T01:44:00.000Z",
+      "summary": "科创人工智能ETF富国上涨2.04%，跟踪指数估值处近一年低位。",
       "summaryZh": ""
     },
     {
@@ -133,13 +155,13 @@
       "summaryZh": ""
     },
     {
-      "title": "英飞凌五族功率器件地图：48V人形机器人关节 & 800V AI机柜电源选型手册（附瑞萨对照）",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tc3U4b3JldHA1TDdNdm9rZVFvNFZadUxvMk10OUdxVmFaelo1QkxYajV1cUpHS2NnOWRzLTEtUjd4OGg5QVBma3V4dDItR2xCYjJUcEktMA?oc=5",
-      "source": "与非网",
+      "title": "AI赋能机器人，具身智能如何从“炫技”走向“干活”？",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DWlFfOEtHeThlQzVvdkFMRnp6dmRWMEtnbWVLaEZXb0R0T1RRUE9icFoyaHNqZHcyOGxoVXp6cGg5MnBvbXFnNW5ZQ0JSTHlpWFNOblpnNGstZzlHa1RsbTlROVNfQQ?oc=5",
+      "source": "光明网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-04T02:21:56.000Z",
-      "summary": "英飞凌发布五族功率器件地图，涵盖48V人形机器人关节和800V AI机柜电源选型。",
+      "pubDate": "2026-11-05T01:30:41.000Z",
+      "summary": "世界互联网大会探讨AI赋能机器人具身智能规模化应用与挑战。",
       "summaryZh": ""
     },
     {
@@ -160,18 +182,18 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-04T15:22:55.000Z",
-      "summary": "GlobalLogic助力Haystack Robotics打造紫外线消毒机器人。",
+      "summary": "GlobalLogic助力Haystack Robotics研发紫外线消毒机器人。",
       "summaryZh": "",
       "titleZh": "GlobalLogic 如何帮助 Haystack Robotics 打造紫外线消毒机器人"
     },
     {
-      "title": "宇树用利润换时间，具身智能离物理AI临界点还有多远？-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4VUNIWThhQ2hDRHpwUTdtaml5Yjk2UUxWYTBpN2M5MEVxR2FXZzdGNEREZDA4OGMtS2pVelBMYmRRXzlxNlJBTjdGdmVDYVVG?oc=5",
-      "source": "36氪",
+      "title": "银河通用机器人等成立北京睿银寰宇机器人有限公司，含AI相关业务",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPQkhIMFZONUY1emFSbUN4WjRzMHhUWm9MaXdFTF90SF8yRWxzZFhzekJTb1ZsUjA5ZjNCVDJEZUR3Y3Nqd3FoMndmMXlLOFJPakRn?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-04T08:16:00.000Z",
-      "summary": "宇树以利润投入研发，具身智能行业面临“最后几毫米”对齐难题。",
+      "pubDate": "2026-11-04T07:49:55.000Z",
+      "summary": "银河通用机器人等成立北京睿银寰宇机器人有限公司，涉AI业务。",
       "summaryZh": ""
     },
     {
@@ -181,7 +203,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-04T13:49:51.000Z",
-      "summary": "英国官员称AI将增4000亿经济贡献，主要数据来源为谷歌报告。",
+      "summary": "英国官员称AI将增4000亿英镑经济，主要数据来源为谷歌报告。",
       "summaryZh": "",
       "titleZh": "英国官员称人工智能将为经济增加 4000 亿英镑。该数字主要来自谷歌"
     },
@@ -192,7 +214,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-04T18:47:21.000Z",
-      "summary": "无人机港口噪音引发公众对科技接受度限制的讨论。",
+      "summary": "无人机港口噪音引发公众对科技接受度限制的担忧。",
       "summaryZh": "",
       "titleZh": "无人机端口是下一个令人讨厌的科技邻居吗？"
     },
@@ -204,16 +226,6 @@
       "category": "robotics",
       "pubDate": "2026-11-04T20:54:44.000Z",
       "summary": "我国具身智能市场规模去年达9150亿元，同比增长20.4%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智能仿生手 奏响生活新声",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5weV9xTHNOenFZeHp6MWVQNFpyR01XTjhOUHhIUlNMWlJhdi1pM0diSDhjVHBTME9yQ3VBNGpPbTJKMGZOeUFSdW5ZU1h5OXUxZ1NWWVBpeUhnSkNUTmFrRnp0NEJKMDRDeHFpNHozSzM?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-04T14:13:11.000Z",
-      "summary": "智能仿生手在互联网大会上展示，脑机接口技术助力康复助残。",
       "summaryZh": ""
     }
   ]
