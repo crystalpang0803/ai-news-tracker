@@ -1,15 +1,25 @@
 {
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T00:32:00.356Z",
+  "generatedAt": "2026-11-05T01:30:52.583Z",
   "items": [
     {
-      "title": "OpenAI 升级 ChatGPT 图片能力，支持直接生成和编辑 GIF 动画",
+      "title": "OpenAI 推出 Images 2.6 模型，ChatGPT 支持直接生成和编辑 GIF 动画",
       "link": "https://www.ithome.com/1/022/486.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-04T23:41:17.000Z",
-      "summary": "ChatGPT升级支持直接生成和编辑GIF动画。",
+      "summary": "OpenAI更新ChatGPT，支持直接生成和编辑GIF动画。",
+      "summaryZh": ""
+    },
+    {
+      "title": "曝 OpenAI 新一代 GPT-6.2 Astra、Sol 及 Cyber 网安模型最快周五发布",
+      "link": "https://www.ithome.com/1/022/522.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-05T01:28:58.000Z",
+      "summary": "OpenAI新一代GPT-6.2 Astra、Sol及Cyber网安模型最快周五发布。",
       "summaryZh": ""
     },
     {
@@ -23,23 +33,13 @@
       "summaryZh": ""
     },
     {
-      "title": "月之暗面 2.8 万亿参数 Kimi K3.1 Pro 开放权重，登顶 Agent Arena 开源模型榜",
-      "link": "https://www.ithome.com/1/022/490.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-05T00:00:15.000Z",
-      "summary": "月之暗面Kimi K3.1 Pro模型权重开放，登顶Agent Arena开源模型榜。",
-      "summaryZh": ""
-    },
-    {
       "title": "网易智企发布企业级AI Agent平台“帝王蟹”三项升级",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wXy1VZzBNSHp2c2tWNFZaTGZwcVRNV0ZmOTd6emZjb2lBZEFzRnYtdU9vcmhiUTlGY2UtZGpaS0oxTmhLTUR4ZkNFQUN3ZGZqb3c3d0l6cUw?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-04T07:52:40.000Z",
-      "summary": "网易智企发布AI Agent平台“帝王蟹”升级，推出智能工牌及两项新能力。",
+      "summary": "网易智企发布AI Agent平台“帝王蟹”升级，推出智能工牌及新能力。",
       "summaryZh": ""
     },
     {
@@ -60,7 +60,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-04T10:04:44.000Z",
-      "summary": "游族网络以42亿采购GPU，跨界AI算力市场面临挑战。",
+      "summary": "游族网络以42亿采购GPU，跨界AI算力市场，面临资金与交付挑战。",
       "summaryZh": ""
     },
     {
@@ -70,7 +70,17 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-04T16:13:23.000Z",
-      "summary": "百度Apollo推出全新世界模型ApolloWorld，实现虚拟路测效率提升，一天模拟里程相当于真实测试车行驶三年。",
+      "summary": "百度Apollo推出虚拟世界模型ApolloWorld，一天虚拟路测里程相当于真实测试车行驶三年。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI进化速递丨腾讯混元发布最新一代大语言模型Hy4",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vSDg5SHdudFNldzBpZ2ItS2ptemROYWlnVmh4Y1pjY0hXR0gzbjAwMzZGNHRPVENsSWIzYXI5RFZVaDVYdEFtdU9UdGcwWF9mby1v?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-04T12:54:41.000Z",
+      "summary": "腾讯混元发布新一代大语言模型Hy4。",
       "summaryZh": ""
     },
     {
@@ -80,16 +90,16 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-04T02:49:54.000Z",
-      "summary": "苹果接入阿里通义千问，端侧AI概念股受提振，科创人工智能ETF华宝（589520）资金关注度上升。",
+      "summary": "苹果接入阿里通义千问，端侧AI概念股受提振，科创人工智能ETF华宝资金关注度上升。",
       "summaryZh": ""
     },
     {
-      "title": "Claude工程师Agent大教程：如何防止被AI养废",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sNVlpSnpzUUloaWd1WFZPNHhJenlnTXNPY2tGWGxhNzdyYUtlZmVSRkEzYkZmYW16ZDhPNjdaNFQyRDI0TC1hT1hZand2dw?oc=5",
+      "title": "Claude工程师Agent大教程：如何防止被AI养废-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aNXBMSTlmdnp3Y0RGWXlJWVlNVUgzbE4tM1lXdlNOQ0psLXFzX3lvNnJ1eVFpb0E5SkJaUnpSQ29iSTZwcF91MzJKSQ?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-05T00:12:59.000Z",
+      "pubDate": "2026-11-05T00:12:28.000Z",
       "summary": ""
     },
     {
@@ -110,16 +120,6 @@
       "category": "ai",
       "pubDate": "2026-11-04T11:00:32.000Z",
       "summary": "AI融资热潮下，美欧市场面临债券过剩风险。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI算力爆发！AMD财报会：数据中心营收近乎翻倍 明年收入占比将破80%",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE41WFhfeW56VXBYQnJKMGhiSG9pN0hINGRsTC1tS2ZZUWVFaDhPaU9kOGFnMUY3cmFFODNwdWRkaEpGUzJBR3c?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-04T01:10:39.000Z",
-      "summary": "AMD数据中心营收近乎翻倍，预计明年收入占比将超80%。",
       "summaryZh": ""
     },
     {
@@ -171,7 +171,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-04T08:16:00.000Z",
-      "summary": "宇树以利润投入研发，具身智能行业面临物理AI对齐难题。",
+      "summary": "宇树以利润投入研发，具身智能行业面临“最后几毫米”对齐难题。",
       "summaryZh": ""
     },
     {
@@ -181,7 +181,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-04T13:49:51.000Z",
-      "summary": "英国官员称AI将增4000亿英镑经济，主要数据来源为谷歌报告。",
+      "summary": "英国官员称AI将增4000亿经济贡献，主要数据来源为谷歌报告。",
       "summaryZh": "",
       "titleZh": "英国官员称人工智能将为经济增加 4000 亿英镑。该数字主要来自谷歌"
     },
@@ -192,7 +192,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-04T18:47:21.000Z",
-      "summary": "无人机港口噪音引发公众对科技接受度限制的担忧。",
+      "summary": "无人机港口噪音引发公众对科技接受度限制的讨论。",
       "summaryZh": "",
       "titleZh": "无人机端口是下一个令人讨厌的科技邻居吗？"
     },
