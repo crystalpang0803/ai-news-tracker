@@ -1,35 +1,65 @@
 {
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T02:49:36.022Z",
+  "generatedAt": "2026-11-05T06:54:44.272Z",
   "items": [
     {
-      "title": "曝 OpenAI 新一代 GPT-6.2 Astra、Sol 及 Cyber 网安模型最快周五发布",
-      "link": "https://www.ithome.com/1/022/522.htm",
+      "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+      "link": "https://www.qbitai.com/2026/11/507696.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-05T02:01:51.000Z",
+      "summary": "智能体完整落地链路在上海举办技术实践分享会。",
+      "summaryZh": ""
+    },
+    {
+      "title": "丰田成立机器人部门，整合研发资源加速技术落地",
+      "link": "https://www.ithome.com/1/022/709.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-05T06:38:55.000Z",
+      "summary": "丰田成立机器人部门，整合资源加速技术落地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI 总裁布罗克曼：目前公司大部分营收来自企业客户，明年具备上市条件",
+      "link": "https://www.ithome.com/1/022/734.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-05T01:28:58.000Z",
-      "summary": "OpenAI新一代GPT-6.2 Astra、Sol及Cyber网安模型最快周五发布。",
+      "pubDate": "2026-11-05T06:46:53.000Z",
+      "summary": "OpenAI总裁称公司营收主要来自企业客户，预计明年可上市。",
       "summaryZh": ""
     },
     {
-      "title": "大模型时代，智驾芯片的算力赢学失效了",
-      "link": "https://www.tmtpost.com/8193596.html",
-      "source": "钛媒体",
+      "title": "刚刚，Claude Code产品一姐加入OpenAI！",
+      "link": "https://zhidx.com/p/607599.html",
+      "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-04T10:44:24.000Z",
-      "summary": "智驾芯片算力赢学在大模型时代失效，行业转向关注实际利用率和能效。",
+      "pubDate": "2026-11-05T04:05:50.000Z",
+      "summary": "Claude Code产品负责人Cat Wu加入OpenAI。",
       "summaryZh": ""
     },
     {
-      "title": "网易智企发布企业级AI Agent平台“帝王蟹”三项升级",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wXy1VZzBNSHp2c2tWNFZaTGZwcVRNV0ZmOTd6emZjb2lBZEFzRnYtdU9vcmhiUTlGY2UtZGpaS0oxTmhLTUR4ZkNFQUN3ZGZqb3c3d0l6cUw?oc=5",
-      "source": "界面新闻",
+      "title": "让组织AI落地：致远互联入选全球企业级AI Agent优秀厂商图谱",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyUnFrZFFyRVczQW8zV0kzRG5hXy1hM0t0WHNqSW5SRnBZV0xONE50MTVkLU5VYmZDOXpvSUxoRkdpd2ppeFFFNnk5UGdJZE5rR2RTRmZiOHFFSFU1N0FQbExR?oc=5",
+      "source": "同花顺财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-04T07:52:40.000Z",
-      "summary": "网易智企发布AI Agent平台“帝王蟹”升级，推出智能工牌及新能力。",
+      "pubDate": "2026-11-05T04:16:21.000Z",
+      "summary": "致远互联入选全球企业级AI Agent优秀厂商图谱，聚焦政务和智慧办公领域。",
+      "summaryZh": ""
+    },
+    {
+      "title": "佛山照明：AI跌倒监测灯具已落地多个养老院及居家养老项目",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43ZzhEd18zcHFuUGVCUlR6LU5tU01EcklOemY4SDFxY1EwUWRYZTlyY2N1LVh5Z2x2OVBOTlZpUmJtOC1LRW1teEgzMVo0RHdwcFQw?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-05T06:00:00.000Z",
+      "summary": "佛山照明AI跌倒监测灯具在多个养老院及居家养老项目落地。",
       "summaryZh": ""
     },
     {
@@ -44,23 +74,13 @@
       "titleZh": "Adobe 将营销 AI 代理集成到 ChatGPT 和 Claude 中"
     },
     {
-      "title": "启元 T1 机器人首次 OTA 明日推送：智能识别楼梯并自动变形、远程音视频通话",
-      "link": "https://www.ithome.com/1/022/530.htm",
-      "source": "IT之家",
+      "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+      "link": "https://www.qbitai.com/2026/11/507767.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-05T01:51:00.000Z",
-      "summary": "启元T1机器人OTA更新，新增楼梯识别变形和远程通话功能。",
-      "summaryZh": ""
-    },
-    {
-      "title": "42亿GPU采购背后，游族网络跨界AI算力生意",
-      "link": "https://www.tmtpost.com/8193553.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-04T10:04:44.000Z",
-      "summary": "游族网络斥资42亿采购GPU，跨界AI算力市场面临挑战。",
+      "pubDate": "2026-11-05T05:25:37.000Z",
+      "summary": "XROGO在CeMAT ASIA发布机器人到岗计划，聚焦制造上下料和巡检值守场景。",
       "summaryZh": ""
     },
     {
@@ -70,110 +90,59 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-04T09:54:57.000Z",
-      "summary": "网易智企帝王蟹乌镇升级，发布智能工牌及Agent Team、知识引擎“万典”。",
+      "summary": "网易智企帝王蟹乌镇升级，推出智能工牌、知识引擎“万典”和Agent Team。",
       "summaryZh": ""
     },
     {
-      "title": "腾讯Hy4开眼了！抢先实测操作微信、3D建模，价格看齐DeepSeek，开源生态已联动",
-      "link": "https://zhidx.com/p/607071.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-04T06:30:57.000Z",
-      "summary": "腾讯Hy4模型发布，支持微信操作和3D建模，性能与DeepSeek相当，开源生态已联动。",
-      "summaryZh": ""
-    },
-    {
-      "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
-      "link": "https://www.qbitai.com/2026/11/507647.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-04T16:13:23.000Z",
-      "summary": "百度Apollo推出虚拟世界模型ApolloWorld，一天虚拟路测里程相当于真实测试车连续行驶三年。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI进化速递丨腾讯混元发布最新一代大语言模型Hy4",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vSDg5SHdudFNldzBpZ2ItS2ptemROYWlnVmh4Y1pjY0hXR0gzbjAwMzZGNHRPVENsSWIzYXI5RFZVaDVYdEFtdU9UdGcwWF9mby1v?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-04T12:54:41.000Z",
-      "summary": "腾讯混元发布最新一代大语言模型Hy4。",
-      "summaryZh": ""
-    },
-    {
-      "title": "重磅！苹果接入国产大模型——阿里通义千问！端侧AI受提振，科创人工智能ETF华宝（589520）资金关注度高！",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa3J3RWx2SHhpeXVIdzVORzlHMEhVQm5ScFdIU3J5NzZveGJFZ01sTW1aNjBvU2tQYVloemhUUGpCM3Q4MHh2TjhXNjBjTzE0TkZER2tZRGJLdktaVDlaelU1X2JTc1JEUmxqNXAzd2t4TklvcjJ5NjJEcXliNmgzZ3V0emN0Zw?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-04T02:49:54.000Z",
-      "summary": "苹果接入阿里通义千问大模型，端侧AI概念股受提振，科创人工智能ETF华宝资金关注度提升。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Claude Lowers ChatGPT’s Lead in $1.4 Billion UK Consumer AI Market",
+      "title": "Claude Narrows ChatGPT’s Lead in $1.4 Billion UK Consumer AI Market",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1ZXTER1MVhYX1A5SkVQMlphb21aS3JJbTgxNGpxTWJSS0M5WGxHMWJmRUZER3Q5TFVBM3ZKLU85MHl0ZzJ4ZmhadkloZmE1VEdTdnM4eHAwWTZSZnY1QTU1dlM2ejdoSTYwMlpqQlhyZXo0Q2RqS3JYaHk2ZEtVc2VESzY5MUZiS04tdDF5Q2dzXzdRUWdoR1htVENFR1pJQVNsQjBWelFOZnVtM0FaSFhhdVI?oc=5",
       "source": "Bloomberg",
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-05T00:01:00.000Z",
-      "summary": "Claude缩小了ChatGPT在英国14亿美元消费者AI市场的领先优势。",
+      "summary": "Claude在14亿美元英国消费者AI市场中缩小了与ChatGPT的差距。",
       "summaryZh": "",
-      "titleZh": "Claude 降低了 ChatGPT 在价值 14 亿美元的英国消费者人工智能市场中的领先地位"
+      "titleZh": "Claude 缩小了 ChatGPT 在 14 亿美元英国消费者人工智能市场的领先地位"
     },
     {
-      "title": "中国AI爆款诞生：Sand.ai融资2亿美元-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUaHQ0T1NWVmVMVEttaFJESWdWZDdlRV9VbTVqb0NlbnFIQzY5YTJ1UC1qblM5NWxtTzBNRm9QSUZRQ3ZUNDdUcmx1VWhCR1dB?oc=5",
-      "source": "36氪",
+      "title": "ST新元成立智慧科技公司 含AI及机器人业务",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FYkVNZ211VXk4cEpRYUZMZVFDckFzYUZiZjM4bC1neHA5WExMaHBZb0JzMkpheXpNY1RTWTFfNE1MS0ZBcWp1cw?oc=5",
+      "source": "财联社",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-05T02:47:37.000Z",
-      "summary": "Sand.ai完成2亿美元A+轮融资，跻身独角兽行列。",
+      "category": "robotics",
+      "pubDate": "2026-11-05T03:41:03.000Z",
+      "summary": "ST新元成立智慧科技公司，专注AI及机器人业务。",
       "summaryZh": ""
     },
     {
-      "title": "科创人工智能ETF富国(589380)跟踪指数上证科创板人工智能指数上涨2.04%，跟踪指数已处近1年估值低位",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tNjgzcUFYMFIyaDNoRHhRUFBpMnlkN0JydEFlZzVqcGZOS2VJT3QyN0JUWUs4MXBGZ3p2OGIwUVdsSW12Tm82NExnOTViX25yMy1qemFSeWE?oc=5",
+      "title": "AI Agent 重构商业交易，从流量入口到支付授权",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxT2tuMHZoWk9KZkZyYmlTcTNLamFKZDRLNkdXQUhUMEI1MnQxSGFLZWJkLVpoM0dBX1V5TjBRYTFjbi04eGNFNWhMNF8?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-04T08:14:00.000Z",
+      "summary": "AI Agent重构商业交易流程，推动支付授权和交互方式变革。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI走上粤港澳招商的主位：终端、算力和材料",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NVEFtUk9zd1B0cGc5Z0lmdFIxRGtiWmo4TTkyV0NHV1c4QTdtS2J0QnozUW1lcHJNM2JnUUdWT3JSXzB4NEUzOElKdGtFMmktQjdfcGlrRVk?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-05T01:44:00.000Z",
-      "summary": "科创人工智能ETF富国上涨2.04%，跟踪指数估值处近一年低位。",
+      "pubDate": "2026-11-05T03:51:27.000Z",
+      "summary": "粤港澳招商大会聚焦AI产业链，投资额达1974亿元。",
       "summaryZh": ""
     },
     {
-      "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
-      "link": "https://www.qbitai.com/2026/11/507574.html",
-      "source": "量子位",
+      "title": "中信建投：AI算力链增长突出，估值消化后聚焦业绩兑现",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfYlZvUnZJTDNqakU1RDZpQWlQWHFYRzRzY3hmSEdydDA2cVJJRENleG9sTU5lQzFhbkNpU0ZNcV9sa2pWeGh4bEFhYl9BeUZwTER1YkllNDE?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-04T08:59:57.000Z",
-      "summary": "超维动力全栈矩阵亮相香港金融科技周，展示具身智能硬科技。",
+      "category": "ai",
+      "pubDate": "2026-11-05T00:44:33.000Z",
+      "summary": "中信建投研报指出，AI算力链增长显著，估值消化后市场关注业绩兑现。",
       "summaryZh": ""
-    },
-    {
-      "title": "AI赋能机器人，具身智能如何从“炫技”走向“干活”？",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DWlFfOEtHeThlQzVvdkFMRnp6dmRWMEtnbWVLaEZXb0R0T1RRUE9icFoyaHNqZHcyOGxoVXp6cGg5MnBvbXFnNW5ZQ0JSTHlpWFNOblpnNGstZzlHa1RsbTlROVNfQQ?oc=5",
-      "source": "光明网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-05T01:30:41.000Z",
-      "summary": "世界互联网大会探讨AI赋能机器人具身智能规模化应用与挑战。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Robotics Startup Radar 2026",
-      "link": "https://www.therobotreport.com/robotics-startup-radar-2026/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-04T16:08:46.000Z",
-      "summary": "2026年《机器人报告》发布第二年度创业公司雷达，聚焦商业机器人及相关技术新公司。",
-      "summaryZh": "",
-      "titleZh": "机器人初创雷达 2026"
     },
     {
       "title": "How GlobalLogic helped Haystack Robotics build a UV disinfection robot",
@@ -182,7 +151,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-04T15:22:55.000Z",
-      "summary": "GlobalLogic助力Haystack Robotics研发紫外线消毒机器人。",
+      "summary": "GlobalLogic助力Haystack Robotics打造紫外线消毒机器人。",
       "summaryZh": "",
       "titleZh": "GlobalLogic 如何帮助 Haystack Robotics 打造紫外线消毒机器人"
     },
@@ -193,8 +162,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-04T07:49:55.000Z",
-      "summary": "银河通用机器人等成立北京睿银寰宇机器人有限公司，涉AI业务。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
@@ -203,7 +171,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-04T13:49:51.000Z",
-      "summary": "英国官员称AI将增4000亿英镑经济，主要数据来源为谷歌报告。",
+      "summary": "英国官员称AI将增4000亿经济贡献，主要数据来自谷歌报告。",
       "summaryZh": "",
       "titleZh": "英国官员称人工智能将为经济增加 4000 亿英镑。该数字主要来自谷歌"
     },
@@ -214,19 +182,29 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-04T18:47:21.000Z",
-      "summary": "无人机港口噪音引发公众对科技接受度限制的担忧。",
+      "summary": "无人机港口噪音引发公众对科技接受度限制的讨论。",
       "summaryZh": "",
       "titleZh": "无人机端口是下一个令人讨厌的科技邻居吗？"
     },
     {
-      "title": "去年我国具身智能市场规模约9150亿元增长20.4%",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56Uk5HTHhVSnRWNVhWRWxFdG9XcVdIaW82Y2JReHlOMlA2Rk41QjNsZzE1eXBFRVA0eExSQV9ldF9XOXF4bktrTl9EdGpYeEcxNDY5MVNVM2ZSZTkyVVB6YmxOX3lBUQ?oc=5",
-      "source": "东方财富网",
+      "title": "LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action",
+      "link": "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-04T15:02:57.000Z",
+      "summary": "LiberAI发布Liber-0，基于220万小时人类经验训练的机器人动作模型。",
+      "summaryZh": "",
+      "titleZh": "LiberAI 推出 Liber-0，一种基于人类机器人动作经验的世界动作模型"
+    },
+    {
+      "title": "宇树王兴兴：2027年大概率成机器人行业临界点，卡点在“最后几毫米”",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BX3dNZEJDaWNvOHppb0M2NGV4X1ZtcWVOM1N1SjgwRVdCZzFUMF9vaEhtYThFZ2c5YWExcWhtOHpvOXRHNnFlbUpSdlJvTlh4b1BJ?oc=5",
+      "source": "华尔街见闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-04T20:54:44.000Z",
-      "summary": "我国具身智能市场规模去年达9150亿元，同比增长20.4%。",
-      "summaryZh": ""
+      "pubDate": "2026-11-04T20:28:34.000Z",
+      "summary": ""
     }
   ]
 }
