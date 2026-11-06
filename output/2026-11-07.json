@@ -1,35 +1,25 @@
 {
   "date": "2026-11-07",
-  "generatedAt": "2026-11-06T23:01:14.528Z",
+  "generatedAt": "2026-11-06T23:48:34.609Z",
   "items": [
     {
-      "title": "OpenAI推出GPT-6 Cyber，网络安全AI能力显著升级，科创AIETF博时(588790)盘中成交额超1亿元",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ha2JXODVRS2JJQmdsRkJHekZvd0xPWlA5R0lQeDhMYm5TZFV5dGpHZlVQS2VsdVdlNE1mSlh5dW9oX1pfT1dTY2xUdXR5UlVBUE5pajczdWk?oc=5",
-      "source": "界面新闻",
+      "title": "中国银行人工智能体验区亮相第九届进博会 综合金融服务助推AI产业落地",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJUnQ5TmRjSEpDSmFia2xzQUIwcUJvblo1SlY3UENaSzNLSW0zMUZxOFV1Umg5X2o3Z0ExX0hMXzRqTFUtbGdiN1FMc0VfeGs3bTk5YQ?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-06T03:02:00.000Z",
-      "summary": "OpenAI发布GPT-6 Cyber，网络安全AI能力提升，科创AIETF博时成交额超1亿元。",
+      "pubDate": "2026-11-06T14:44:45.000Z",
+      "summary": "中国银行在进博会上展示人工智能体验区，提供综合金融服务助力AI产业落地。",
       "summaryZh": ""
     },
     {
-      "title": "前OpenAI CTO推新模型，让用户自己训AI！创企估值被曝冲刺2600亿",
-      "link": "https://zhidx.com/p/608120.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-06T12:24:02.000Z",
-      "summary": "前OpenAI CTO推出新AI模型，支持用户自定义训练，创企估值达2600亿。",
-      "summaryZh": ""
-    },
-    {
-      "title": "《星闪短距与具身智能技术需求蓝皮书》正式上线，华为、中兴、鼎桥等参编",
-      "link": "https://www.ithome.com/1/023/546.htm",
+      "title": "消息称 OpenAI 完成 110 亿美元首期新融资，估值 1.25 万亿美元",
+      "link": "https://www.ithome.com/1/023/612.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-06T13:29:37.000Z",
-      "summary": "《星闪短距与具身智能技术需求蓝皮书》上线，华为等企业参编。",
+      "category": "ai",
+      "pubDate": "2026-11-06T23:24:12.000Z",
+      "summary": "OpenAI完成110亿美元首轮融资，估值达1.25万亿美元。",
       "summaryZh": ""
     },
     {
@@ -39,7 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-06T01:41:43.000Z",
-      "summary": "美首家人形机器人上市公司诞生，隔夜美股AI板块暴跌。",
+      "summary": "美首家人形机器人上市公司成立，隔夜美股AI板块暴跌12%。",
       "summaryZh": ""
     },
     {
@@ -53,13 +43,24 @@
       "summaryZh": ""
     },
     {
+      "title": "Anthropic 研究称 Claude AI 智能体可以靠“做梦”变得更聪明",
+      "link": "https://www.ithome.com/1/023/613.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-06T23:25:14.000Z",
+      "summary": "Anthropic研究发现，Claude AI智能体通过“做梦”机制可提升长周期任务表现。",
+      "summaryZh": ""
+    },
+    {
       "title": "财联社11月7日电，OpenAI首席财务官表示，无论选举结果如何，OpenAI都将持续投资于AI数据中心。",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rS2FfLWxYLUMydS1WZ2tjTS1zcmtIVU1wU0RicEJyMVNsVlNwR29qcW5zSDNtVm5oNkhKRkcybzdUclI4bzFnTA?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-06T16:27:52.000Z",
-      "summary": ""
+      "summary": "OpenAI将不受选举影响，持续投资AI数据中心。",
+      "summaryZh": ""
     },
     {
       "title": "Fourier’s Meta Prototype Puts a Spotlight on an 8-Billion-Yuan Robotics Bet",
@@ -68,7 +69,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-06T09:57:04.000Z",
-      "summary": "上海Fourier Intelligence为Meta定制人形机器人，估值达80亿人民币。",
+      "summary": "上海Fourier Intelligence为Meta定制人形机器人，估值约80亿元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "英伟达重磅发布VFlash，Jim Fan直呼新时代来了！机器人动作解码提速12倍",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9tMTZFcFQ3d2c5S254b3g5eG9FOG8zUDNFX3hnN3VSSUNoZEV6UWNEaUgyZ19rM3VLXzZfNjhuYlV2azZFaVE?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-06T05:36:09.000Z",
+      "summary": "英伟达发布VFlash，机器人动作解码速度提升12倍。",
       "summaryZh": ""
     },
     {
@@ -81,78 +92,25 @@
       "summary": ""
     },
     {
-      "title": "OpenAI CEO 奥尔特曼警示：未来人类可能无法从 AI 手中夺回控制权",
-      "link": "https://www.ithome.com/1/023/596.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-06T15:13:11.000Z",
-      "summary": "OpenAI CEO 奥尔特曼警告AI失控风险，称人类可能无法夺回控制权。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-06T06:28:32.000Z",
-      "summary": "Palo Alto Networks拟以5亿美元收购AI安全初创公司Clutch。",
-      "summaryZh": "",
-      "titleZh": "Palo Alto Networks 正在洽谈以 5 亿美元收购人工智能代理安全初创公司 Clutch"
-    },
-    {
-      "title": "Agent，“重做”数据库",
-      "link": "https://www.tmtpost.com/8196378.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-06T09:28:11.000Z",
-      "summary": "企业AI应用推动数据库重构，市场规模持续扩大。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-06T22:53:46.000Z",
-      "summary": "OpenAI在最新一轮融资中筹集了110亿美元，估值达1.25万亿美元。",
-      "summaryZh": "",
-      "titleZh": "据报道 OpenAI 额外融资 110 亿美元，估值 1.25 万亿美元"
-    },
-    {
       "title": "Industry experts discuss China blocking SoftBank acquisition of ABB Robotics",
       "link": "https://www.therobotreport.com/industry-experts-discuss-china-blocking-softbank-acquisition-abb-robotics/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-06T20:41:17.000Z",
-      "summary": "中国官方阻止软银收购ABB机器人。",
+      "summary": "中国阻止软银收购ABB机器人。",
       "summaryZh": "",
       "titleZh": "行业专家讨论中国阻止软银收购ABB机器人"
     },
     {
-      "title": "乌镇声音｜纪朝晖：深耕端侧算力，定义智能体主机新品类",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6Y3pTRzBWaWI4bXZFRmFhSEM2UUZaVnlDaGZBM0RNelpvTU8wT2hONG92MTRCQzlVblJUZ1ZmNFZmMlY1UWQ2dXZTVzRtRk9nMmNRZUhEWmxzZkRrSXctRGpjamEyUQ?oc=5",
-      "source": "光明网",
+      "title": "阿里千问Qwen4系列大模型发布在即",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45QTNHY01hT1psT2RJOE5hQ3IxVXVBSXpVQmpJb0hoNU9OVEFrbXJkNC04TVFvQmdySWNOVmNYdWwwUFFBOXVHNXA0eUJLdTNIcFQzZ3F1eHRkcjltY18tVkdB?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-06T03:06:18.000Z",
-      "summary": "AMD副总裁纪朝晖在乌镇峰会提出端侧AI算力新概念，定义智能体主机新品类。",
+      "pubDate": "2026-11-06T14:24:00.000Z",
+      "summary": "阿里千问Qwen4系列大模型即将发布，参数量或超3万亿。",
       "summaryZh": ""
-    },
-    {
-      "title": "ChatGPT’s Effect on Young People and OpenAI Could Look Away From Consumers | Behind the Numbers",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOckh3cTVvczB0Z1lxUVFjLXdNaFctQTZpbHVZQWRhUWVtdGZlelFsWDBQeHlyeks2X3dyVlkzTklveTdIVXZoY1JxQUlBNUxhNXdUWmJlZThZOEZjTFMycWFCRldsbjJPUUxsUG50WlhvRVpxTHAtOEFDRmJBSC1aUVZxMUxnTDMwTWdsMi1lM3pydXJ0czMyS0lYYUYzZnJ5NmVsMFYxck00c2lxVmFGT0pfaThzR0VBelVrbWV2OA?oc=5",
-      "source": "eMarketer",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-06T05:13:56.000Z",
-      "summary": "ChatGPT对年轻人影响显著，OpenAI可能转向关注消费者。",
-      "summaryZh": "",
-      "titleZh": "ChatGPT 对年轻人的影响和 OpenAI 可能会忽视消费者 |数字背后"
     },
     {
       "title": "美芯晟：摩托罗拉首款搭载Qira AI智能手表采用公司光学追踪传感器MT3503",
@@ -175,6 +133,46 @@
       "summaryZh": ""
     },
     {
+      "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41NmFLbmxPT2JXSTVQM3dadWNyQlN1T2hTTFV2UlFVZy1nWm12U2Z3dTlWdlloQ3FtRmxGcHlOU2tCREhmUlR4TTNjR3JadHpyM2lwcQ?oc=5",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-06T09:25:59.000Z",
+      "summary": "Personal Agent 需要独立“云电脑”以支持长时间运行和执行任务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "何立峰在北京调研时指出：加大对AI及算力网建设金融支持",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mMmdjTlB4VDNQeExHOWU2LVJMb0duMXdSdEN6Z2RCWUt3cVFhOUZmTzJkaUwxN0tGeHdGSEMyakM5TEZEWTBPNml3Y1FTM0JSY0I5aEZKTnphNUNZZmNzUWpGOWZSdw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-06T02:00:00.000Z",
+      "summary": "何立峰强调加大金融支持AI及算力网建设。",
+      "summaryZh": ""
+    },
+    {
+      "title": "“探店”不“到店”！记者实测“AI探店”：花不到10元 视频出炉！有公司月流水达800万",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkbWZpUFRxVHR4LWo1N2c3QVJ5eThnSnhQSzJlM2RTYlQzSnRPOWpWZGhLZmhLNXVDQ19jRmpYYUpiUWRQYmk1WWxOczR4WEdnMmVBSlBrY0FaTUtYcTRxNm5wMm43Zw?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-06T14:38:45.000Z",
+      "summary": "AI探店视频成本低至0.1元，月流水达800万，行业规范待明确。",
+      "summaryZh": ""
+    },
+    {
+      "title": "[正点财经]关注AI探店 “探店”不“到店” 如何厘清AI探店边界？",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sR01idzM3eDdEb0U2Wm0tUWo3bXJoUUdMQmJhQ1BWaHVJd1Y1R2Q4T09DZE1RYWpmUmlONmtKNTB6SXFOS3JkdDVVeEs0d09zNVdIVjQ2TWRyd3MzUExpbmlSMmVhVV93RDBwY1dJc0JEWk5MWXc?oc=5",
+      "source": "央视网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-06T06:31:00.000Z",
+      "summary": "探讨AI探店边界，厘清“探店”与“到店”区别。",
+      "summaryZh": ""
+    },
+    {
       "title": "科技新秀资本布局 | 智元机器人：靠直投打造完整生态链 反哺高瓴创投、慕华科创",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeW1qc0lXTG5kYkVCbTZsbG1kLWFLdXZJeWFHTE4yYzNhTUZELUVRNzlwZ1Z0Mm1TRVIyS3d5SVRYTUJ1eVlrcTU1VzZwdVl4X0xDUXZ4V1Q3X2Z5RjFsNHdCUEJvRVFLeGJnYkpDTEZNQTVJbUFJZzcwS21tTElNU2hfRmY?oc=5",
       "source": "新浪财经",
@@ -182,16 +180,6 @@
       "category": "robotics",
       "pubDate": "2026-11-06T07:34:19.000Z",
       "summary": "智元机器人通过直接投资构建完整生态链，反哺高瓴创投、慕华科创。",
-      "summaryZh": ""
-    },
-    {
-      "title": "启元机器人完成首次OTA升级",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HenNlTGF6TzVIeGtwb1YzS05yVXBRcUUwdzJYeGtXRmtqX3N3Y3A1d3hiaFRnMzBCSDlZeTRScFJUM3hraUx2UTJNOXpOaUlhY25JaHV3?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-06T05:15:00.000Z",
-      "summary": "启元Q1、启元T1机器人完成首次OTA升级，新增多项功能。",
       "summaryZh": ""
     },
     {
@@ -211,7 +199,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-06T18:38:55.000Z",
-      "summary": "“互联网之光”博览会现场，AI按摩机器人吸引体验者关注。",
+      "summary": "“互联网之光”博览会现场体验AI按摩机器人手法。",
       "summaryZh": ""
     },
     {
@@ -224,6 +212,17 @@
       "summary": "机器人视频展示家用缆绳机器人清洁家居。",
       "summaryZh": "",
       "titleZh": "斯特林曼能比幼儿更好地收拾东西吗？再加上万圣节机器人的乐趣"
+    },
+    {
+      "title": "Q&A: How is American manufacturing evolving with AI and robotics?",
+      "link": "https://techxplore.com/news/2026-11-qa-american-evolving-ai-robotics.html",
+      "source": "Tech Xplore",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-06T16:40:05.000Z",
+      "summary": "美国制造业正通过人工智能和机器人技术进行演变。",
+      "summaryZh": "",
+      "titleZh": "问答：美国制造业如何随着人工智能和机器人技术的发展而发展？"
     }
   ]
 }
