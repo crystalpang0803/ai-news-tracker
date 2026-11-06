@@ -1,26 +1,55 @@
 {
   "date": "2026-11-06",
-  "generatedAt": "2026-11-06T02:51:02.881Z",
+  "generatedAt": "2026-11-06T06:54:21.341Z",
   "items": [
     {
-      "title": "OpenAI 最强网安AI 模型：GPT-6 Cyber 登场，性能提高51%、发现火狐Firefox 浏览器81 个新漏洞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhSHhZYXAyeTZ6VkFRcHJZWGNVZHI0Q18xXzVJQlp6bVdXMWktcHF6MHFycTFvb00wT1lhcGdyS3E2MTZMUUJmV2JNQUE?oc=5",
-      "source": "IT之家",
+      "title": "中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber",
+      "link": "http://www.geekpark.net/news/373554",
+      "source": "极客公园",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-05T23:22:55.000Z",
-      "summary": "OpenAI发布GPT-6 Cyber模型，性能提升51%，发现Firefox 81个新漏洞。",
+      "pubDate": "2026-11-06T01:01:57.000Z",
+      "summary": "美国芯片股暴跌，纳指重挫5.52%，民主党推动禁止AI法案，OpenAI发布GPT-6 Cyber。",
       "summaryZh": ""
     },
     {
-      "title": "具身智能产业化加速落地；AI安全开启增量赛道；电解液龙头再签大单",
+      "title": "工信部等六部门：加快推进具身智能、大语言模型、脑机接口、外骨骼等在养老领域应用，鼓励电商平台设立银发消费板块",
+      "link": "https://www.ithome.com/1/023/230.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-06T05:38:55.000Z",
+      "summary": "工信部等六部门推进智能技术在养老领域应用，鼓励电商平台设银发消费板块。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI推出GPT-6 Cyber，网络安全AI能力显著升级，科创AIETF博时(588790)盘中成交额超1亿元",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ha2JXODVRS2JJQmdsRkJHekZvd0xPWlA5R0lQeDhMYm5TZFV5dGpHZlVQS2VsdVdlNE1mSlh5dW9oX1pfT1dTY2xUdXR5UlVBUE5pajczdWk?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-06T03:02:00.000Z",
+      "summary": "OpenAI发布GPT-6 Cyber，网络安全AI能力升级，科创AIETF博时成交额超1亿元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "[ 盘前点金 具身智能产业化加速落地；AI安全开启增量赛道；电解液龙头再签大单",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3Q3JOaUZZeDRVNDRfdU9uMjZyYXIxeXc1bTVHOFBtcHRuSlBqQ3RTZk5YWTdRSnVjeDNzUjhfeThJb1NFLTB2dXVNbzZfN1dKMXhhQW9YTW8?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-05T23:05:00.000Z",
-      "summary": "具身智能产业化加速，AI安全增赛道，电解液龙头续签大单。",
+      "pubDate": "2026-11-05T23:11:23.000Z",
+      "summary": "具身智能产业化加速，AI安全增赛道，电解液龙头签大单。",
       "summaryZh": ""
+    },
+    {
+      "title": "国产AI芯片融资密集落地",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BTEpnV2htalZLZXVZNG5WVTJSVE05LTVKZDFOa1M2NThGcUZkUlBHc3lCYV9fcU9YelZlREJOdE9JTDA4aEw1Wlpjc3Y4UQ?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-05T11:00:00.000Z",
+      "summary": ""
     },
     {
       "title": "前华为盘古负责人王云鹤，创业做RSI，掏出1250亿参数智能体大模型",
@@ -29,17 +58,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-05T13:34:52.000Z",
-      "summary": "前华为盘古负责人王云鹤创业公司推出1250亿参数智能体大模型NeoHorse-1.5-Flash Preview。",
-      "summaryZh": ""
-    },
-    {
-      "title": "刚刚，Claude Code产品一姐加入OpenAI！",
-      "link": "https://zhidx.com/p/607599.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-05T04:05:50.000Z",
-      "summary": "Claude Code产品负责人Cat Wu加入OpenAI。",
+      "summary": "前华为盘古负责人王云鹤创立RSI公司，推出1250亿参数智能体大模型NeoHorse-1.5-Flash Preview。",
       "summaryZh": ""
     },
     {
@@ -49,95 +68,69 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-05T12:25:00.000Z",
-      "summary": ""
+      "summary": "芯片企业进博会展示可部署算力系统，聚焦AI数据中心需求。",
+      "summaryZh": ""
     },
     {
-      "title": "11.6盘前哨AI监管恐慌引爆，隔夜费半暴跌12%！美首家人形机器人上市公司诞生",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uYnEyMFM4WV8zd0lQQ0xSd3lMSVdpRlRZM2ZMQnBwMWVaVUpzbU5PQkYzRnlFcVhLZDd1dm5Ga3FxNTdIVTJ3VnhSZFNpWFVic1k1aFRBV0s?oc=5",
-      "source": "界面新闻",
+      "title": "开盘大涨近80%！美国人形机器人第一股来了",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDeWFibk5PSU41U21wOTFlYjVzM3IyWGwtRnFTSXgyZWdxeXVEYkxELVlfcmRJa25YblhqNnplY0V5Qmo5THR3TA?oc=5",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-06T01:41:43.000Z",
-      "summary": "美首家人形机器人上市公司成立，隔夜美股AI板块暴跌。",
+      "pubDate": "2026-11-05T15:12:33.000Z",
+      "summary": "美国人形机器人公司Agility Robotics在纳斯达克上市，股价首日大涨近80%。",
       "summaryZh": ""
     },
     {
-      "title": "刚刚，GPT-6 Cyber 正式发布，AI 最强的矛也成了最强的盾",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3TkFyaktwMXVhbk5wRnR5cVlpS29iT3VOQUlNMk9vQi1uVWZWMllkdTVXTy1nNTE1UkVna3FJSkRJSGtyT0FGalZMSU5kUQ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-05T23:49:04.000Z",
-      "summary": ""
-    },
-    {
-      "title": "DeepSeek融资中最低调的一笔钱，16.5亿元，来自一桌浙江实业家",
-      "link": "https://www.tmtpost.com/8195423.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-06T02:01:00.000Z",
-      "summary": "浙江实业家以16.5亿元低调投资DeepSeek第二轮融资。",
-      "summaryZh": ""
-    },
-    {
-      "title": "三星 SDS 龟尾 AI 数据中心动工，为三星系机器人业务提供算力支持",
-      "link": "https://www.ithome.com/1/023/080.htm",
+      "title": "长城欧拉 5GT 和运动款燃油版 / 混动版激光雷达版开放下订，全车搭载 27 个辅助驾驶传感器",
+      "link": "https://www.ithome.com/1/023/263.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-06T02:00:07.000Z",
-      "summary": "三星SDS龟尾AI数据中心动工，为机器人业务提供算力支持。",
+      "category": "robotics",
+      "pubDate": "2026-11-06T06:09:13.000Z",
+      "summary": "欧拉5GT及运动款燃油/混动激光雷达版开放预订，配备27个辅助驾驶传感器。",
       "summaryZh": ""
     },
     {
-      "title": "AI算力景气主线强化，南方基金旗下科创人工智能ETF南方(589230)跟踪标的指数昨日收涨3.05%",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KZzRXLWMwQ1gxc0FaNHd5ZHRCZ0hoSjVFQm9Ubll5NTRBcHZ1b3RLWktDRld6ZE10UGdtenVZS3dsWTM1aFk4aFp3QVY1RTlpcUpzOVhwbWU?oc=5",
-      "source": "界面新闻",
+      "title": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uZzcyZ0V0OGstSDZVWk9WMElyVjJ1MjFSQ3gzeEdhZ1JxS25OT3l2SDZRQmllSHhTZWd5SmtNbmw1RFZyOHZZanNBS055UHM4X2dKWQ?oc=5",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-06T02:40:03.000Z",
-      "summary": "南方基金旗下科创人工智能ETF南方(589230)跟踪指数昨日上涨3.05%。",
+      "pubDate": "2026-11-05T09:37:40.000Z",
+      "summary": "梅涛提出AI技术路线将合流，构建智能体化世界模型。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "title": "网易发力互动式讲题Agent：有道“欧拉讲题”上线，推翻行业“搜题生意”，开卷“讲题力”",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KYXVaTnd6Unh4UnVTSjJFZVg3V09WZ3h0ZGg1UkZVN2Rid2JEYWJDdFdEUzZyNEUwOU9TQTRtOGN5dndXX3VPWk5pMXZVankyaUJ1Mw?oc=5",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-05T08:48:32.000Z",
+      "summary": "网易有道推出互动式数学讲题Agent“欧拉讲题”，创新交互讲题方式。",
+      "summaryZh": ""
+    },
+    {
+      "title": "景旺电子：AI算力领域订单没有减少或延期的情况",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85R1I4S2FLZW91WnFTTllOWndhOVFaMk0tUkNQMGF6cTB1bWJ0VXV6djNablYzMWJWb21INVB1WDVrRXNaZ0xGTGFYZ0dmbi12OWow?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-05T09:21:55.000Z",
+      "summary": "景旺电子AI算力领域订单保持旺盛，无减少或延期情况。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
       "source": "TechCrunch",
       "lang": "en",
       "category": "ai",
-      "pubDate": "2026-11-05T18:02:27.000Z",
-      "summary": "OpenAI总裁Greg Brockman表示公司可能在2027年准备IPO。",
+      "pubDate": "2026-11-06T06:28:32.000Z",
+      "summary": "Palo Alto Networks拟以5亿美元收购AI安全初创公司Clutch。",
       "summaryZh": "",
-      "titleZh": "OpenAI 总裁 Greg Brockman 表示公司可能会在 2027 年做好 IPO 的准备"
-    },
-    {
-      "title": "ST新元成立智慧科技公司 含AI及机器人业务",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FYkVNZ211VXk4cEpRYUZMZVFDckFzYUZiZjM4bC1neHA5WExMaHBZb0JzMkpheXpNY1RTWTFfNE1MS0ZBcWp1cw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-05T03:41:03.000Z",
-      "summary": ""
-    },
-    {
-      "title": "美股AI硬件继续下挫；广电总局：扶持真人剧，规范AI剧；全球首个仿生人形机器人新闻主播亮相；春节连休9天！2027年放假安排来了",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByVExWNW02YWZjc2hrQklnMDhUR3ljX2JyVkdNQmdYQjBsaVpSRk1wTUctTlU2bk54Z2Z0X2wwdEl4VDVkNWNTSU9CTE5xeERlZ3MzNVpNakhtXzRZa1hXZEJCTUQydw?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-05T14:36:00.000Z",
-      "summary": "美股AI硬件下跌，广电总局规范AI剧，全球首个仿生人形机器人新闻主播亮相，2027年春节连休9天。",
-      "summaryZh": ""
-    },
-    {
-      "title": "车心智能自研Ai Agent，解决汽车行业用户运营难题",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uTHdTMzhWd0U1QVcwX0FPN1hVT2pTWjdmNUdnakVpbnBqbGgxRHRoYWZhUy1xNHBMbmRtM0JWcmFqaFBpN3FoWTVrOA?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-05T06:55:13.000Z",
-      "summary": ""
+      "titleZh": "Palo Alto Networks 正在洽谈以 5 亿美元收购人工智能代理安全初创公司 Clutch"
     },
     {
       "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
@@ -146,7 +139,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-05T12:00:41.000Z",
-      "summary": "Agility Robotics在纳斯达克上市引发对人形机器人市场的审视。",
+      "summary": "Agility Robotics在纳斯达克上市，引发对人形机器人市场的审视。",
       "summaryZh": "",
       "titleZh": "Agility Robotics 纳斯达克首秀引发人形机器人市场审视"
     },
@@ -157,17 +150,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-06T02:14:30.000Z",
-      "summary": "中旅国际CTO周源邵称，AI在文旅行业从辅助工具转向核心组织能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "中石油将与宇树科技新设合营企业，聚焦工业具身机器人解决方案",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40blJpY21fbVRCRHY5QmJ4TFZrc3ZhdWZrbGhYVUc3N2lMWDc1VVFJcF9aSTVjaDdSNUprM2RxNWwzeU9jcEJ5Y0t6YVlyZ1dEVVFjR3FNMmN6aE5RX2QyT2x3dms?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-05T10:23:00.000Z",
-      "summary": "中石油与宇树科技新设合营企业，专注工业机器人解决方案。",
+      "summary": "中旅国际首席技术官周源邵提出，AI正从辅助工具转变为文旅企业的核心组织能力。",
       "summaryZh": ""
     },
     {
@@ -188,7 +171,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-05T22:48:14.000Z",
-      "summary": "Agility Robotics首日上市，股价波动后收盘略涨。",
+      "summary": "Agility Robotics首日上市股价波动，收盘略涨2%。",
       "summaryZh": "",
       "titleZh": "Agility Robotics上市首日表现如何？"
     },
@@ -199,19 +182,28 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-05T16:50:23.000Z",
-      "summary": "Ambi Robotics助客户应对旺季，AmbiSort B系列自动化提升末端配送效率。",
+      "summary": "Ambi Robotics助力客户应对旺季，提高物流效率。",
       "summaryZh": "",
       "titleZh": "Ambi Robotics 如何帮助客户为旺季做好准备"
     },
     {
-      "title": "天亿马布局具身智能领域，股价基本面支撑不足估值偏高",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LTDRUNkNweEl2QldvQXQyLXE3QmRvRElvVng4djhURENxSWQ1RmU4Z1RHZGJCeFZqbTdBSy00a2puZHFLMUh3SXFKeWZjQ09WOVltdVdmZ3I?oc=5",
-      "source": "经济观察网",
+      "title": "面对面｜熊友军：真机、仿真、互联网视频三类数据，人形机器人该怎么选？",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DbXY2c3pGTklmeXZBRGJmZXRwNWJLT1BJWlRzUi16eTJSaVdkc1lqVF9ZSUVzQ011RGFITVZ1TWw4UnEySjA5aHlXMHlwRmRoUEthNHdLYTB1ejYzSWR1RE44bnk?oc=5",
+      "source": "财新网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-05T07:44:00.000Z",
-      "summary": "天亿马布局具身智能，业绩增收不增利，估值偏高。",
+      "pubDate": "2026-11-06T05:34:00.000Z",
+      "summary": "熊友军探讨人形机器人数据选择，认为真机、仿真、视频数据互补递进。",
       "summaryZh": ""
+    },
+    {
+      "title": "中石油将与宇树科技新设合营企业，聚焦工业具身机器人解决方案",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40blJpY21fbVRCRHY5QmJ4TFZrc3ZhdWZrbGhYVUc3N2lMWDc1VVFJcF9aSTVjaDdSNUprM2RxNWwzeU9jcEJ5Y0t6YVlyZ1dEVVFjR3FNMmN6aE5RX2QyT2x3dms?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-05T10:23:00.000Z",
+      "summary": ""
     },
     {
       "title": "观察丨亚太地区65岁及以上老人超5亿，AI能接得住养老吗？",
@@ -221,16 +213,6 @@
       "category": "application",
       "pubDate": "2026-11-06T01:03:09.000Z",
       "summary": "亚太地区老龄化加剧，AI在养老领域应用面临挑战。",
-      "summaryZh": ""
-    },
-    {
-      "title": "涪陵三方签约：无人车从“设备”变“公共服务资源”，这张网能跑通吗？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sYko3MHZaMTB4ZmN1NDFKeTVKd1RfSHdibGpDR1MzWGlYaDFsNWsxZWpvbGFFa29HLV9PbTdHbmVHRUJjb3ZrTmc0M3RlR3BHbE91anllOA?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-05T05:02:06.000Z",
-      "summary": "涪陵无人车项目签约，探索将无人车转变为公共服务资源。",
       "summaryZh": ""
     },
     {
@@ -244,33 +226,13 @@
       "summaryZh": ""
     },
     {
-      "title": "ETF今日收评 | 半导体设备相关ETF涨超5%，影视、机器人相关ETF跌超4%",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FWVIyMlpwdmZCbFNqcVEyN1dOd21mYTNqS21LZjlDd0cwc2JvVjhfcWJnRmlZMFJtenVtdnFoazhNR2ZYR0o2RjNmeWRGTnEycnUwTUp3?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-05T20:27:07.000Z",
-      "summary": "半导体设备ETF涨超5%，影视、机器人ETF跌超4%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智元机器人入股原动力智能 后者含AI及机器人业务",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jRlIwR3VIOFJIMnozRGtLSWFvYjczb0pDLWt5R0xfclduUGlYYmhLM01GRnI3c1NKdF85dV9wYmlTeXVFckUwNEtQV3JnYTRH?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-05T06:30:32.000Z",
-      "summary": "智元机器人成为原动力智能股东，后者专注AI及机器人业务。",
-      "summaryZh": ""
-    },
-    {
       "title": "Florida grocery chain Fresco Supermarkets opens 7th in-store liquor shop",
       "link": "https://www.grocerydive.com/news/florida-grocery-chain-fresco-supermarkets-opens-7th-liquor-shop/873817/",
       "source": "Grocery Dive",
       "lang": "en",
       "category": "application",
       "pubDate": "2026-11-05T15:24:00.000Z",
-      "summary": "佛罗里达杂货连锁Fresco Supermarkets在Hialeah开设了第七家店内酒类专卖店Fresco Liquor。",
+      "summary": "佛罗里达连锁超市Fresco Supermarkets开设第七家店内酒类店。",
       "summaryZh": "",
       "titleZh": "佛罗里达杂货连锁店 Fresco Supermarkets 开设第七家店内酒类商店"
     }
