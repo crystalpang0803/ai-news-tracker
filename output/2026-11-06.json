@@ -1,17 +1,7 @@
 {
   "date": "2026-11-06",
-  "generatedAt": "2026-11-06T00:33:10.372Z",
+  "generatedAt": "2026-11-06T01:38:50.545Z",
   "items": [
-    {
-      "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
-      "link": "https://www.qbitai.com/2026/11/507696.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-05T02:01:51.000Z",
-      "summary": "智能体完整落地链路在上海举办，多位专家分享实践案例。",
-      "summaryZh": ""
-    },
     {
       "title": "OpenAI 最强网安 AI 模型：GPT-6 Cyber 登场，性能提高 51%、发现火狐 Firefox 浏览器 81 个新漏洞",
       "link": "https://www.ithome.com/1/023/038.htm",
@@ -19,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-05T23:22:55.000Z",
-      "summary": "OpenAI发布GPT-6 Cyber模型，性能提升51%，发现Firefox 81个新漏洞。",
+      "summary": "OpenAI发布GPT-6 Cyber，性能提升51%，发现Firefox 81个新漏洞。",
       "summaryZh": ""
     },
     {
@@ -29,17 +19,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-05T23:11:23.000Z",
-      "summary": "具身智能产业化加速，AI安全增赛道，电解液龙头签大单。",
+      "summary": "具身智能产业化加速，AI安全增赛道，电解液龙头续签大单。",
       "summaryZh": ""
     },
     {
-      "title": "前华为盘古负责人王云鹤，创业做RSI，掏出1250亿参数智能体大模型",
-      "link": "https://zhidx.com/p/607781.html",
+      "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+      "link": "https://www.qbitai.com/2026/11/507707.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-05T01:59:37.000Z",
+      "summary": "GPT-Image-2.6全量上线，支持GIF和SVG导出，6.2 Astra同步发布。",
+      "summaryZh": ""
+    },
+    {
+      "title": "刚刚，Claude Code产品一姐加入OpenAI！",
+      "link": "https://zhidx.com/p/607599.html",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-05T13:34:52.000Z",
-      "summary": "前华为盘古负责人王云鹤创业公司推出1250亿参数智能体大模型NeoHorse-1.5-Flash Preview。",
+      "pubDate": "2026-11-05T04:05:50.000Z",
+      "summary": "Claude Code产品负责人Cat Wu加入OpenAI，负责核心产品管理。",
       "summaryZh": ""
     },
     {
@@ -78,7 +78,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-05T11:58:11.000Z",
-      "summary": "阿里AI向善报告显示，数据中心算力密度两年增近5倍，绿电占比达73.6%。",
+      "summary": "阿里AI向善报告2026发布，数据中心算力密度两年增近5倍，绿电占比73.6%。",
       "summaryZh": ""
     },
     {
@@ -93,6 +93,15 @@
       "titleZh": "OpenAI 总裁 Greg Brockman 表示公司可能会在 2027 年做好 IPO 的准备"
     },
     {
+      "title": "OpenAI发布GPT-6 Cyber：网络安全AI能力跃升，已协助发现数百个高危漏洞",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fV2REQ0pZZHQzQV85RGE4Sk1wNmJuQ2xOcjRKajNrRWd4MExBNWpnakNsZzFjQnk0UjFZcHZ5STJGS201cEZWc3hlRk1vcEwzaWRv?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-05T19:25:08.000Z",
+      "summary": ""
+    },
+    {
       "title": "日本的自动驾驶发展路线站上十字路口",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03b3ZGZzdGSFVEVGVBY204ZjN5NmRDU3RYblJfamZhbUhPdHoyRUZ3bFd4aEZiZ1FuZ2hjd2ZKd19MRVFHRVc4N0RYcXFGdw?oc=5",
       "source": "36氪",
@@ -102,43 +111,13 @@
       "summary": ""
     },
     {
-      "title": "ST新元成立智慧科技公司 含AI及机器人业务",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FYkVNZ211VXk4cEpRYUZMZVFDckFzYUZiZjM4bC1neHA5WExMaHBZb0JzMkpheXpNY1RTWTFfNE1MS0ZBcWp1cw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-05T03:41:03.000Z",
-      "summary": "ST新元成立智慧科技公司，专注AI及机器人业务。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智元机器人入股原动力智能公司",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PcDdxT1VHcjZ3a1hwenZyMTNLeEVvN1VuOVhRMmlJdFJIZW92VVJEUjhPbG5RSXdqSk0tbkpldVVpOFc5YUpmMQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-05T04:00:39.000Z",
-      "summary": "智元机器人成为原动力智能公司新股东，注册资本增至114.44万人民币。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
-      "link": "https://www.qbitai.com/2026/11/507697.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-05T01:54:44.000Z",
-      "summary": "OpenAI利用AI技术发现Linux内核948个漏洞，花费120万美元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "钛晨报国务院关于金融工作情况的报告；OpenAI总裁称公司大部分收入已来自企业业务， 预计2027年具备上市条件；国内航线燃油附加费11月5日起上调",
-      "link": "https://www.tmtpost.com/8195163.html",
+      "title": "国务院关于金融工作情况的报告：探索人工智能在金融管理和服务领域的应用，防范模型应用风险",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ybHQ4UWI3QjNuMDlvSE1TLTA5YVc3Y2pSQWV5OW1HbjBCdGpfSWRPOG1pbkw4dHIyNlM3M28zdnhoQmdwNlBQNlpPYTRyblR4cWlUTDZZN1lZQQ?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-05T23:20:00.000Z",
-      "summary": "国务院发布金融工作报告，OpenAI预计2027年上市，国内航线燃油附加费上调。",
+      "pubDate": "2026-11-05T04:50:00.000Z",
+      "summary": "国务院报告探索AI在金融应用，防范模型风险。",
       "summaryZh": ""
     },
     {
@@ -162,17 +141,6 @@
       "summaryZh": ""
     },
     {
-      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-      "link": "https://www.wired.com/story/aina-smart-ring/",
-      "source": "Wired",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-05T14:00:00.000Z",
-      "summary": "Aina智能戒指可一键控制AI代理行动。",
-      "summaryZh": "",
-      "titleZh": "独家：Aina 的智能指环希望成为人工智能代理的远程控制"
-    },
-    {
       "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
       "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
       "source": "Ars Technica",
@@ -184,13 +152,34 @@
       "titleZh": "Agility Robotics 纳斯达克首秀引发人形机器人市场审视"
     },
     {
-      "title": "具身智能，变天了",
-      "link": "https://www.tmtpost.com/8194393.html",
-      "source": "钛媒体",
+      "title": "Serve Robotics launches new business to become the AWS for robots",
+      "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-05T21:15:00.000Z",
+      "summary": "Serve Robotics推出新业务，旨在成为机器人领域的AWS。",
+      "summaryZh": "",
+      "titleZh": "Serve Robotics 推出新业务，成为机器人的 AWS"
+    },
+    {
+      "title": "中石油将与宇树科技新设合营企业，聚焦工业具身机器人解决方案",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40blJpY21fbVRCRHY5QmJ4TFZrc3ZhdWZrbGhYVUc3N2lMWDc1VVFJcF9aSTVjaDdSNUprM2RxNWwzeU9jcEJ5Y0t6YVlyZ1dEVVFjR3FNMmN6aE5RX2QyT2x3dms?oc=5",
+      "source": "新京报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-05T10:31:01.000Z",
-      "summary": "具身智能行业受Astra发布影响，面临变革与挑战。",
+      "pubDate": "2026-11-05T10:23:00.000Z",
+      "summary": "中石油与宇树科技新设合营企业，专注工业机器人解决方案。",
+      "summaryZh": ""
+    },
+    {
+      "title": "观察丨亚太地区65岁及以上老人超5亿，AI能接得住养老吗？",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBERGZoX0pmcTUzWi1LV3B5aHhYYk5Zb1VCMVJGekgzcVNldDBUYzJiRHcwNGF0WENQMmdhU2pHemVaVUZRTU1MTW1FODhGTnRNQ19WOVI1TEZoaml3WGlIZw?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-06T01:03:09.000Z",
+      "summary": "亚太地区老龄化加剧，AI在养老领域应用面临挑战。",
       "summaryZh": ""
     },
     {
@@ -220,7 +209,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-05T07:44:00.000Z",
-      "summary": "天亿马布局具身智能领域，股价估值偏高，前三季度增收不增利。",
+      "summary": "天亿马布局具身智能，前三季度增收不增利，估值偏高。",
       "summaryZh": ""
     },
     {
@@ -233,45 +222,13 @@
       "summary": "拒绝AI流水线内容，微综艺解锁山西文旅新表达 #山西文旅 #微综艺 #山西 #ai代替不了人类。"
     },
     {
-      "title": "7亿人口，一国一关：自动驾驶企业如何闯东盟？",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtdlRObl9na0tVUHpSMW5fRTlrUWY2NVI1ZHNpdElnZzVMMDBleGNLNFZLVi1kOElmbXZDd2FHU3dSNUt5akVwQ1pTNGlfYURFNDlfQUhNT3RvVElzc0E?oc=5",
-      "source": "财新网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-05T09:00:00.000Z",
-      "summary": "自动驾驶企业闯东盟需应对多国法规与市场差异。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Humble Robotics raises $51M for cabless hauler pilots",
-      "link": "https://www.freightwaves.com/news/humble-robotics-51m-series-a-cabless-hauler",
-      "source": "FreightWaves",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-05T17:05:13.000Z",
-      "summary": "Humble Robotics获得5100万美元投资用于无顶卡车试点项目。",
-      "summaryZh": "",
-      "titleZh": "Humble Robotics 为无缆运输机飞行员筹集了 5100 万美元"
-    },
-    {
-      "title": "Pudu Robotics unveils ‘One Brain, Multiple Embodiments’ strategy and showcases full portfolio in European first",
-      "link": "https://roboticsandautomationnews.com/2026/11/05/pudu-robotics-unveils-one-brain-multiple-embodiments-strategy-and-showcases-full-portfolio-in-european-first/106725/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-05T12:02:02.000Z",
-      "summary": "Pudu Robotics在阿姆斯特丹欧洲合作伙伴峰会上首次展示“一脑多体”战略及全产品线。",
-      "summaryZh": "",
-      "titleZh": "Pudu Robotics 推出“一个大脑，多个实施例”战略，并在欧洲首次展示完整产品组合"
-    },
-    {
       "title": "Florida grocery chain Fresco Supermarkets opens 7th in-store liquor shop",
       "link": "https://www.grocerydive.com/news/florida-grocery-chain-fresco-supermarkets-opens-7th-liquor-shop/873817/",
       "source": "Grocery Dive",
       "lang": "en",
       "category": "application",
       "pubDate": "2026-11-05T15:24:00.000Z",
-      "summary": "佛罗里达连锁超市Fresco Supermarkets开设第七家店内酒类专卖店。",
+      "summary": "佛罗里达连锁超市Fresco Supermarkets在Hialeah开设第七家店内酒类店Fresco Liquor。",
       "summaryZh": "",
       "titleZh": "佛罗里达杂货连锁店 Fresco Supermarkets 开设第七家店内酒类商店"
     }
