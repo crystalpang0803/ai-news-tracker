@@ -1,7 +1,17 @@
 {
   "date": "2026-11-06",
-  "generatedAt": "2026-11-05T23:34:01.476Z",
+  "generatedAt": "2026-11-06T00:33:10.372Z",
   "items": [
+    {
+      "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+      "link": "https://www.qbitai.com/2026/11/507696.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-05T02:01:51.000Z",
+      "summary": "智能体完整落地链路在上海举办，多位专家分享实践案例。",
+      "summaryZh": ""
+    },
     {
       "title": "OpenAI 最强网安 AI 模型：GPT-6 Cyber 登场，性能提高 51%、发现火狐 Firefox 浏览器 81 个新漏洞",
       "link": "https://www.ithome.com/1/023/038.htm",
@@ -9,27 +19,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-05T23:22:55.000Z",
-      "summary": "OpenAI发布GPT-6 Cyber网安模型，性能提升51%，发现Firefox 81个新漏洞。",
+      "summary": "OpenAI发布GPT-6 Cyber模型，性能提升51%，发现Firefox 81个新漏洞。",
       "summaryZh": ""
     },
     {
-      "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
-      "link": "https://www.qbitai.com/2026/11/507707.html",
-      "source": "量子位",
+      "title": "[ 盘前点金 具身智能产业化加速落地；AI安全开启增量赛道；电解液龙头再签大单",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3Q3JOaUZZeDRVNDRfdU9uMjZyYXIxeXc1bTVHOFBtcHRuSlBqQ3RTZk5YWTdRSnVjeDNzUjhfeThJb1NFLTB2dXVNbzZfN1dKMXhhQW9YTW8?oc=5",
+      "source": "第一财经",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-05T01:59:37.000Z",
-      "summary": "GPT-Image-2.6全量上线，支持GIF和SVG导出，6.2 Astra同步发布。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI 视频模型卷出新高度：谷歌 Gemini Omni 1.2 Flash 发布，原生 15 秒生成、较 1.1 降价 30%",
-      "link": "https://www.ithome.com/1/023/026.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-05T22:44:41.000Z",
-      "summary": "谷歌发布Gemini Omni 1.2 Flash，15秒原生生成视频，价格降30%。",
+      "category": "robotics",
+      "pubDate": "2026-11-05T23:11:23.000Z",
+      "summary": "具身智能产业化加速，AI安全增赛道，电解液龙头签大单。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-05T13:34:52.000Z",
-      "summary": "前华为盘古负责人王云鹤创业公司推出1250亿参数智能体大模型。",
+      "summary": "前华为盘古负责人王云鹤创业公司推出1250亿参数智能体大模型NeoHorse-1.5-Flash Preview。",
       "summaryZh": ""
     },
     {
@@ -53,23 +53,32 @@
       "summaryZh": ""
     },
     {
-      "title": "从一张照片到万千可能：Sharpa以灵巧操作焕新进博体验，开启机器人商业化未来图景",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DNDdUeTd1MEVDRmpVRm9VTHZJdXFZUUZZdTZqZmhNdDNDeGFsNmRwczU5aDk5TGhrUHZkalJRTDJlRVJyOTBYZ0g2MkJNdU54?oc=5",
-      "source": "36氪",
+      "title": "京东物流“狼族”机器人升级：智狼取货提速、保姆狼实现无人分拣",
+      "link": "https://www.ithome.com/1/023/048.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-05T09:55:59.000Z",
-      "summary": "Sharpa机器人亮相进博会，展示灵巧操作技术，探索商业化应用前景。",
+      "pubDate": "2026-11-06T00:28:56.000Z",
+      "summary": "京东物流“狼族”机器人升级，智狼取货提速，保姆狼实现无人分拣。",
       "summaryZh": ""
     },
     {
-      "title": "锁定1276亿大单！谷歌出手担保，Anthropic算力提供方的巨型数据中心开建",
-      "link": "https://zhidx.com/p/607644.html",
+      "title": "刚刚，GPT-6 Cyber 正式发布，AI 最强的矛也成了最强的盾",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3TkFyaktwMXVhbk5wRnR5cVlpS29iT3VOQUlNMk9vQi1uVWZWMllkdTVXTy1nNTE1UkVna3FJSkRJSGtyT0FGalZMSU5kUQ?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-05T23:49:04.000Z",
+      "summary": ""
+    },
+    {
+      "title": "阿里发布AI向善报告2026：数据中心算力密度两年增近5倍，绿电占比73.6%",
+      "link": "https://zhidx.com/p/607791.html",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-05T05:00:39.000Z",
-      "summary": "谷歌担保1276亿大单，Anthropic算力提供方数据中心开建。",
+      "pubDate": "2026-11-05T11:58:11.000Z",
+      "summary": "阿里AI向善报告显示，数据中心算力密度两年增近5倍，绿电占比达73.6%。",
       "summaryZh": ""
     },
     {
@@ -84,33 +93,52 @@
       "titleZh": "OpenAI 总裁 Greg Brockman 表示公司可能会在 2027 年做好 IPO 的准备"
     },
     {
+      "title": "日本的自动驾驶发展路线站上十字路口",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03b3ZGZzdGSFVEVGVBY204ZjN5NmRDU3RYblJfamZhbUhPdHoyRUZ3bFd4aEZiZ1FuZ2hjd2ZKd19MRVFHRVc4N0RYcXFGdw?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-05T10:56:23.000Z",
+      "summary": ""
+    },
+    {
       "title": "ST新元成立智慧科技公司 含AI及机器人业务",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FYkVNZ211VXk4cEpRYUZMZVFDckFzYUZiZjM4bC1neHA5WExMaHBZb0JzMkpheXpNY1RTWTFfNE1MS0ZBcWp1cw?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-05T03:41:03.000Z",
-      "summary": "ST新元成立智慧科技公司，涉AI及机器人业务。",
+      "summary": "ST新元成立智慧科技公司，专注AI及机器人业务。",
       "summaryZh": ""
     },
     {
-      "title": "中信建投：AI算力链增长突出，估值消化后聚焦业绩兑现",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nUDBFUW1VYVFFMFpVWnprTVl2Skp0SDFFVUJaYkNZY3NieU9kaWdiYVBLbFhSc3BxNmNfM3poUkhQb3BCamFLOXFRaXFfNmR5U2dVVWZtNk1DaXJJOHlmTG1SSnhDb0U?oc=5",
-      "source": "钛媒体",
+      "title": "智元机器人入股原动力智能公司",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PcDdxT1VHcjZ3a1hwenZyMTNLeEVvN1VuOVhRMmlJdFJIZW92VVJEUjhPbG5RSXdqSk0tbkpldVVpOFc5YUpmMQ?oc=5",
+      "source": "财联社",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-05T00:11:00.000Z",
-      "summary": "中信建投研报显示，AI算力链增长显著，估值消化后市场关注业绩兑现。",
+      "category": "robotics",
+      "pubDate": "2026-11-05T04:00:39.000Z",
+      "summary": "智元机器人成为原动力智能公司新股东，注册资本增至114.44万人民币。",
       "summaryZh": ""
     },
     {
-      "title": "国务院关于金融工作情况的报告：探索人工智能在金融管理和服务领域的应用，防范模型应用风险",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ybHQ4UWI3QjNuMDlvSE1TLTA5YVc3Y2pSQWV5OW1HbjBCdGpfSWRPOG1pbkw4dHIyNlM3M28zdnhoQmdwNlBQNlpPYTRyblR4cWlUTDZZN1lZQQ?oc=5",
+      "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+      "link": "https://www.qbitai.com/2026/11/507697.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-05T01:54:44.000Z",
+      "summary": "OpenAI利用AI技术发现Linux内核948个漏洞，花费120万美元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "钛晨报国务院关于金融工作情况的报告；OpenAI总裁称公司大部分收入已来自企业业务， 预计2027年具备上市条件；国内航线燃油附加费11月5日起上调",
+      "link": "https://www.tmtpost.com/8195163.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-05T04:50:00.000Z",
-      "summary": "报告提出探索AI在金融领域的应用，防范模型风险。",
+      "pubDate": "2026-11-05T23:20:00.000Z",
+      "summary": "国务院发布金融工作报告，OpenAI预计2027年上市，国内航线燃油附加费上调。",
       "summaryZh": ""
     },
     {
@@ -124,48 +152,46 @@
       "summaryZh": ""
     },
     {
+      "title": "景旺电子：AI算力领域订单没有减少或延期的情况",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85R1I4S2FLZW91WnFTTllOWndhOVFaMk0tUkNQMGF6cTB1bWJ0VXV6djNablYzMWJWb21INVB1WDVrRXNaZ0xGTGFYZ0dmbi12OWow?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-05T09:21:55.000Z",
+      "summary": "景旺电子AI算力领域订单持续增长，无减少或延期情况。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "link": "https://www.wired.com/story/aina-smart-ring/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-05T14:00:00.000Z",
+      "summary": "Aina智能戒指可一键控制AI代理行动。",
+      "summaryZh": "",
+      "titleZh": "独家：Aina 的智能指环希望成为人工智能代理的远程控制"
+    },
+    {
       "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
       "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
       "source": "Ars Technica",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-05T12:00:41.000Z",
-      "summary": "Agility Robotics在纳斯达克上市，引发对人形机器人市场的审视。",
+      "summary": "Agility Robotics在纳斯达克上市引发对人形机器人市场的审视。",
       "summaryZh": "",
       "titleZh": "Agility Robotics 纳斯达克首秀引发人形机器人市场审视"
     },
     {
-      "title": "Serve Robotics launches new business to become the AWS for robots",
-      "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-      "source": "TechCrunch",
-      "lang": "en",
+      "title": "具身智能，变天了",
+      "link": "https://www.tmtpost.com/8194393.html",
+      "source": "钛媒体",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-05T21:15:00.000Z",
-      "summary": "Serve Robotics推出新业务，旨在成为机器人领域的AWS。",
-      "summaryZh": "",
-      "titleZh": "Serve Robotics 推出新业务，成为机器人的 AWS"
-    },
-    {
-      "title": "How did Agility Robotics perform on its first day on the stock market?",
-      "link": "https://www.therobotreport.com/how-did-agility-robotics-perform-on-its-first-day-on-the-stock-market/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-05T22:48:14.000Z",
-      "summary": "Agility Robotics首日上市股价波动，收盘略涨2%。",
-      "summaryZh": "",
-      "titleZh": "Agility Robotics上市首日表现如何？"
-    },
-    {
-      "title": "Chinese regulators block SoftBank’s $5.4B acquisition of ABB Robotics",
-      "link": "https://www.therobotreport.com/chinese-regulators-block-softbanks-5-4b-acquisition-of-abb-robotics/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-05T16:25:46.000Z",
-      "summary": "中国监管部门阻止软银54亿美元收购ABB机器人。",
-      "summaryZh": "",
-      "titleZh": "中国监管机构阻止软银以 5.4 亿美元收购 ABB Robotics"
+      "pubDate": "2026-11-05T10:31:01.000Z",
+      "summary": "具身智能行业受Astra发布影响，面临变革与挑战。",
+      "summaryZh": ""
     },
     {
       "title": "“探店”不再“到店” 如何厘清AI探店边界？",
@@ -178,13 +204,42 @@
       "summaryZh": ""
     },
     {
+      "title": "宇树科技王兴兴：物理AI的核心挑战在于模型与物理世界的对齐",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVlY2cHlpMWpUcXhpSkR5WkdsMlhaMVBjWXhOMlFPVDlTRXJRUW15WkVBSkl1QkdfY09vRnRVQnJGV0NmOXE2NGE5Q09jVWN4N3pmMko3bVBVOXdnRWpvdi1UVXdRSUtYRWxKcWItUDEtam0yWTB3TlF5bWtuSVNxZ0tRbkZkSk83VldUR3NPWQ?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-05T07:40:00.000Z",
+      "summary": "宇树科技王兴兴指出物理AI挑战在于模型与物理世界对齐。",
+      "summaryZh": ""
+    },
+    {
+      "title": "天亿马布局具身智能领域，股价基本面支撑不足估值偏高",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LTDRUNkNweEl2QldvQXQyLXE3QmRvRElvVng4djhURENxSWQ1RmU4Z1RHZGJCeFZqbTdBSy00a2puZHFLMUh3SXFKeWZjQ09WOVltdVdmZ3I?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-05T07:44:00.000Z",
+      "summary": "天亿马布局具身智能领域，股价估值偏高，前三季度增收不增利。",
+      "summaryZh": ""
+    },
+    {
+      "title": "拒绝AI流水线内容，微综艺解锁山西文旅新表达",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nc094MGltMGxIc1A0dXFnOHlhWmhnQVdaNU5wZmF6TjNRZEl4d0gxSUJHSHhhWlB2ZVpVRzN1X2hiQnZKaXRySWNrOXd6NGtLTVZ6TkJn?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-05T11:21:26.000Z",
+      "summary": "拒绝AI流水线内容，微综艺解锁山西文旅新表达 #山西文旅 #微综艺 #山西 #ai代替不了人类。"
+    },
+    {
       "title": "7亿人口，一国一关：自动驾驶企业如何闯东盟？",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtdlRObl9na0tVUHpSMW5fRTlrUWY2NVI1ZHNpdElnZzVMMDBleGNLNFZLVi1kOElmbXZDd2FHU3dSNUt5akVwQ1pTNGlfYURFNDlfQUhNT3RvVElzc0E?oc=5",
       "source": "财新网",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-05T09:00:00.000Z",
-      "summary": "自动驾驶企业闯东盟需跨越多国门槛，建立信任与合规挑战。",
+      "summary": "自动驾驶企业闯东盟需应对多国法规与市场差异。",
       "summaryZh": ""
     },
     {
@@ -199,13 +254,24 @@
       "titleZh": "Humble Robotics 为无缆运输机飞行员筹集了 5100 万美元"
     },
     {
+      "title": "Pudu Robotics unveils ‘One Brain, Multiple Embodiments’ strategy and showcases full portfolio in European first",
+      "link": "https://roboticsandautomationnews.com/2026/11/05/pudu-robotics-unveils-one-brain-multiple-embodiments-strategy-and-showcases-full-portfolio-in-european-first/106725/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-05T12:02:02.000Z",
+      "summary": "Pudu Robotics在阿姆斯特丹欧洲合作伙伴峰会上首次展示“一脑多体”战略及全产品线。",
+      "summaryZh": "",
+      "titleZh": "Pudu Robotics 推出“一个大脑，多个实施例”战略，并在欧洲首次展示完整产品组合"
+    },
+    {
       "title": "Florida grocery chain Fresco Supermarkets opens 7th in-store liquor shop",
       "link": "https://www.grocerydive.com/news/florida-grocery-chain-fresco-supermarkets-opens-7th-liquor-shop/873817/",
       "source": "Grocery Dive",
       "lang": "en",
       "category": "application",
       "pubDate": "2026-11-05T15:24:00.000Z",
-      "summary": "佛罗里达杂货连锁Fresco Supermarkets在Hialeah开设了第七家店内酒类店Fresco Liquor。",
+      "summary": "佛罗里达连锁超市Fresco Supermarkets开设第七家店内酒类专卖店。",
       "summaryZh": "",
       "titleZh": "佛罗里达杂货连锁店 Fresco Supermarkets 开设第七家店内酒类商店"
     }
