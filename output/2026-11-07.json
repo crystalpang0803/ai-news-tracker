@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "generatedAt": "2026-11-07T06:05:24.785Z",
+  "generatedAt": "2026-11-07T10:39:36.031Z",
   "items": [
     {
       "title": "中国银行人工智能体验区亮相第九届进博会 综合金融服务助推AI产业落地",
@@ -13,43 +13,23 @@
       "summaryZh": ""
     },
     {
-      "title": "端侧大模型落地参考：RK3572-LLM大语言模型应用",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BY1lfODVEX0hlNkNNQzZOMHk5MFh4ZXJyX3NaT3dCZFFGYzdUdGdLbFhlMmdOOUo3cHQ0b280d0lTNmNZQkpXb2xOQU9sdUdlREF1M2NRRQ?oc=5",
-      "source": "与非网",
+      "title": "“不想打工”的人形机器人，在仓库里吃灰",
+      "link": "https://www.tmtpost.com/8196856.html",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-07T02:00:12.000Z",
-      "summary": "RK3572-LLM大语言模型成功应用于端侧。",
+      "category": "robotics",
+      "pubDate": "2026-11-07T08:36:29.000Z",
+      "summary": "人形机器人市场热度降温，商业化遇阻，产能过剩导致价格下跌。",
       "summaryZh": ""
     },
     {
-      "title": "宇树科技联合巨星传奇发布首款消费级收藏机器狗 UNI-DOGGIE，首发价 43900 元",
-      "link": "https://www.ithome.com/1/023/636.htm",
+      "title": "苹果披露人形机器人 HALO 系统：6 个未建图环境测试 360 次单项任务，平均成功率 91%",
+      "link": "https://www.ithome.com/1/023/767.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-07T01:29:10.000Z",
-      "summary": "宇树科技与巨星传奇联合推出首款消费级机器狗UNI-DOGGIE，售价43900元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "刚刚，OpenAI被曝又拿730亿，估值超8.3万亿",
-      "link": "https://zhidx.com/p/608157.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-07T02:01:51.000Z",
-      "summary": "OpenAI完成新一轮融资，估值达8.3万亿人民币。",
-      "summaryZh": ""
-    },
-    {
-      "title": "前OpenAI CTO推新模型，让用户自己训AI！创企估值被曝冲刺2600亿",
-      "link": "https://zhidx.com/p/608120.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-06T12:24:02.000Z",
-      "summary": "前OpenAI CTO推出新AI模型，支持用户自行训练，创企估值达2600亿。",
+      "pubDate": "2026-11-07T09:40:17.000Z",
+      "summary": "苹果人形机器人HALO系统在未建图环境中测试平均成功率91%。",
       "summaryZh": ""
     },
     {
@@ -63,13 +43,13 @@
       "summaryZh": ""
     },
     {
-      "title": "马斯克：特斯拉 Optimus 机器人考虑只租不卖，生产力是人类的 5 倍、初期造价约 3 万美元",
-      "link": "https://www.ithome.com/1/023/675.htm",
-      "source": "IT之家",
+      "title": "更大负载，更强通行：云深处科技四足机器人绝影X50正式发布",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TMnIzNGd1NTZMcXJBUGJOVWZnTGliU0tQT0QwTmlPNDduNTFOX1dnd2p4VDBVV3hESUJFblplS25udEhRVENvRw?oc=5",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-07T05:32:39.000Z",
-      "summary": "特斯拉Optimus机器人考虑租赁模式，初期造价约3万美元。",
+      "pubDate": "2026-11-07T09:39:17.000Z",
+      "summary": "云深处科技发布四足机器人绝影X50，负载和通行能力提升。",
       "summaryZh": ""
     },
     {
@@ -83,65 +63,44 @@
       "summaryZh": ""
     },
     {
-      "title": "财联社11月7日电，OpenAI首席财务官表示，无论选举结果如何，OpenAI都将持续投资于AI数据中心。",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rS2FfLWxYLUMydS1WZ2tjTS1zcmtIVU1wU0RicEJyMVNsVlNwR29qcW5zSDNtVm5oNkhKRkcybzdUclI4bzFnTA?oc=5",
+      "title": "“超视距安全预警”可识别结冰等危险路况并提示，吉利发布首个车道级气象环境监测大模型",
+      "link": "https://www.ithome.com/1/023/749.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-07T08:02:15.000Z",
+      "summary": "吉利发布车道级气象环境监测大模型，可识别结冰等危险路况并提示。",
+      "summaryZh": ""
+    },
+    {
+      "title": "星源智：依托双世界模型技术 构筑具身智能全新产业底座",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FQTlLLTNwdWh6Z0d1TUxzVmFoZHY0aG5Tb1U5YnozQWtpMkNZajFnS2pMLVF3eHdkR1ZPNVdJZmROemplV2tHNS1OT1lPLS1UVFZXdDNsdGQ?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-06T14:35:28.000Z",
+      "summary": "星源智推出双世界模型技术，构建具身智能产业底座。",
+      "summaryZh": ""
+    },
+    {
+      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+      "link": "https://www.qbitai.com/2026/11/508264.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-07T05:01:17.000Z",
+      "summary": "硅谷华人团队推出下一代AI超级智能体Agent Harness，实现多Agent并行工作与自主调度。",
+      "summaryZh": ""
+    },
+    {
+      "title": "不愿为旧芯片买单？微软据报逐步终止甲骨文算力租约",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0cUNhRUFPOElMa0ZEUjF2N3VpTlBsbUtOR3FDdHpGYjhYQkxsdXc5RmhWLW00MHRsZ25tTVRNWWItSTJGZjJnNQ?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-06T16:27:52.000Z",
-      "summary": "OpenAI将不受选举影响，持续投资AI数据中心。",
+      "pubDate": "2026-11-07T03:03:56.000Z",
+      "summary": "微软逐步终止与甲骨文的算力租约，转向新芯片和按时交付。",
       "summaryZh": ""
-    },
-    {
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-06T23:46:18.000Z",
-      "summary": "OpenAI估值达1.25万亿美元，竞争对手Anthropic即将IPO。",
-      "summaryZh": "",
-      "titleZh": "竞争对手 Anthropic 即将 IPO，OpenAI 估值达 1.25 万亿美元"
-    },
-    {
-      "title": "Fourier’s Meta Prototype Puts a Spotlight on an 8-Billion-Yuan Robotics Bet",
-      "link": "https://www.tmtpost.com/8196543.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-06T09:57:04.000Z",
-      "summary": "上海Fourier Intelligence为Meta定制人形机器人，估值达80亿人民币。",
-      "summaryZh": ""
-    },
-    {
-      "title": "北京：加快布局人工智能、量子信息、6G等前沿领域技术转化、试验验证、中试熟化等共性技术赋能中心",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wa2tnZU1zbHJ6ekJ1Qkl0MFpVZ3FHQlNKRTFYcWVJZHVOaXBJOXhoNHRiWEJNRTI5XzhldElIVlFHWjNEbk1NNExPY0pBWWowOTgydlllRHg?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-06T10:35:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "三个哈佛女孩勇闯AI创业圈，她融资过亿美元-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85U2czbFJPb3VqM0t2UWthU09OcHJVSFhkaGNLWENaT3VCalZ2RXc2THU4bnVvd2ZEUkZTSEQwU0w5SjJmanZja2NiS2w1dDA?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-06T11:05:41.000Z",
-      "summary": "哈佛女孩郭文景创立AI视频生成公司Pika，融资超1亿美元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-06T06:28:32.000Z",
-      "summary": "Palo Alto Networks拟以5亿美元收购AI安全初创公司Clutch。",
-      "summaryZh": "",
-      "titleZh": "Palo Alto Networks 正在洽谈以 5 亿美元收购人工智能代理安全初创公司 Clutch"
     },
     {
       "title": "智能体终端准入新规落地 端侧AI迈入全链条合规时代",
@@ -154,45 +113,33 @@
       "summaryZh": ""
     },
     {
-      "title": "国家超算互联网推出算力普惠举措 助力科研AI技术落地",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LdXBHNnUwRU96RVY3b2NsV3dqeUhOT3d5aGZSbkhSakczSnhDZ0JXSkh0S1MzOHVwX2VTVGZkNlRTeUhxallKZGNRYXpuLXdYNGlCSm1iX3d2MWZIYnhmQg?oc=5",
-      "source": "光明网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-06T09:40:51.000Z",
-      "summary": "国家超算互联网推出算力普惠服务，助力AI技术在科研领域落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "更大负载，更强通行：云深处科技四足机器人绝影X50正式发布",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KY0VUQ3JvN3JGOVJWZEpXVHpwTkV0bHV4Ti0tb1JUWVk0dzU5OEdCYUJ5Ynl2NjFzT0JJTjZYM2JsSVY0aVhQd21xOS10TnkwSDhoci1iSQ?oc=5",
-      "source": "与非网",
+      "title": "新一代智能制造怎么落地，南京将亮出答案",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LWV9CU184OW5WV3hnazlLa3FnYTQxem1SblRpTElNVHF4bV9MZWhZdmpIdGI0cFdUSGF4QWY5Qjl5akIxUE9uU1lXd0hDLVlKLVRLNUVsVWJmbEtCV3YxU2ZFNzJRWFA3WmNfd2phRGU?oc=5",
+      "source": "科技日报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-06T09:30:50.000Z",
-      "summary": "云深处科技发布四足机器人绝影X50，负载能力提升。",
+      "pubDate": "2026-11-07T07:23:18.000Z",
+      "summary": "南京将举办世界智能制造大会，探讨新一代智能制造落地路径。",
       "summaryZh": ""
     },
     {
-      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtWWF2SWdNbGVyR2ttR1U0UEY4NzRfWDcwbmx2ZWdTd3RXUW5TbUxUUDJFLVJpSkRTaTI2VDI3Y0JYNXJfNlJtVUpXNlNnUlJaZHVNYQ?oc=5",
-      "source": "量子位",
+      "title": "刚刚，Gemini Omini 1.2登顶了，360p视频每秒0.07美元，还能升4K-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41WlpGR3RfYkxYdnFyS3VJcXMzdnRHbkhndHFnQXlxcWtrQmdPRWpSdF9YVHdoenNweU5VTzZYb3NVVVdyb2ZjbUg0MzhValE?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-07T05:01:17.000Z",
-      "summary": "硅谷华人团队推出下一代AI超级智能体Agent Harness。",
+      "pubDate": "2026-11-06T11:53:12.000Z",
+      "summary": "Gemini Omini 1.2发布，360p视频每秒0.07美元，支持升4K。",
       "summaryZh": ""
     },
     {
-      "title": "How Point One turned GPS accuracy into a robotics platform",
-      "link": "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-06T21:47:35.000Z",
-      "summary": "Point One将GPS精度转化为机器人平台技术。",
-      "summaryZh": "",
-      "titleZh": "Point One 如何将 GPS 精度转变为机器人平台"
+      "title": "OpenAI称AI在数学、计算机科学与物理学领域取得三项科学突破",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NbGRadE9tNjgzVEZ5YXNucGN1X3Jzc216bHZSbEZNbUZPWHlWWS1HMHE2anJ1WUZ1ZUF1em1CMkNUWm5CMXhoTEY4YzE4SzFFU0I4?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-06T19:36:56.000Z",
+      "summary": ""
     },
     {
       "title": "Industry experts discuss China blocking SoftBank acquisition of ABB Robotics",
@@ -206,25 +153,14 @@
       "titleZh": "行业专家讨论中国阻止软银收购ABB机器人"
     },
     {
-      "title": "机器人与具身智能论坛在浙江乌镇举办",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JNFVWaGp3YWpqUk0zZ042RVFkNVRodloyQXIwT1JHQnVBV21Yc3NUQWZSYUFzVGlHZG1Wck16UjNCdUd5d1R4aUhvOWh2UGdMLUxvMDFCYXVRWTJTVkRWQmstUFEwWVVBM1lZb3pXOA?oc=5",
-      "source": "中国经济网",
+      "title": "AI基础设施融资链条承压：CoreWeave CDS创纪录与OpenAI估值下调说明什么",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oNWFoUW5RMFN0X1QxWk9mYk5vWmdweTM2cUVHREFJUEQzU2pHVUYwa2NnaTB1UDh6VnZoZUc5MVJnaFUtbXdzaW1Ec1I4Y3hHbHRaaDNfNTU3aWE1NTduYQ?oc=5",
+      "source": "同花顺财经",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-06T07:49:00.000Z",
-      "summary": "浙江乌镇举办机器人与具身智能论坛，探讨前沿技术与真实场景结合。",
+      "category": "ai",
+      "pubDate": "2026-11-07T00:28:08.000Z",
+      "summary": "AI基础设施融资链条承压，CoreWeave CDS利差创新高，OpenAI估值下调。",
       "summaryZh": ""
-    },
-    {
-      "title": "The Best Automatic Litter Box of 2026: Petkit and Litter-Robot",
-      "link": "https://www.wired.com/gallery/best-automatic-cat-litter-boxes/",
-      "source": "Wired",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-06T12:05:00.000Z",
-      "summary": "2026年两款最佳自动猫砂盆：Petkit Purobot Max Pro 2和Litter-Robot 4。",
-      "summaryZh": "",
-      "titleZh": "2026 年最佳自动垃圾箱：Petkit 和垃圾机器人"
     },
     {
       "title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
@@ -233,9 +169,20 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-06T17:00:03.000Z",
-      "summary": "家用缆绳驱动机器人进行室内清洁。",
+      "summary": "研究人员展示了一款可在家中通过电缆驱动的清洁机器人。",
       "summaryZh": "",
       "titleZh": "周五视频：房间规模的电缆驱动家用机器人清理工作"
+    },
+    {
+      "title": "Boston Dynamics built Stretch Gen 2 for reliable, consistent performance",
+      "link": "https://www.therobotreport.com/boston-dynamics-built-stretch-gen-2-for-reliable-consistent-performance/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-06T21:34:44.000Z",
+      "summary": "Boston Dynamics发布第二代Stretch机器人，提升可靠性和一致性。",
+      "summaryZh": "",
+      "titleZh": "波士顿动力打造的 Stretch Gen 2 具有可靠、一致的性能"
     },
     {
       "title": "“探店”不“到店”！记者实测“AI探店”：花不到10元 视频出炉！有公司月流水达800万",
@@ -244,27 +191,27 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-06T14:38:45.000Z",
-      "summary": "AI探店视频成本低至几元，月流水达800万，引发虚假宣传和法律风险担忧。",
+      "summary": "AI探店视频成本低至0.1元，月流水达800万，行业规范待明确。",
       "summaryZh": ""
     },
     {
-      "title": "[正点财经]关注AI探店 “探店”不“到店” 如何厘清AI探店边界？",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sR01idzM3eDdEb0U2Wm0tUWo3bXJoUUdMQmJhQ1BWaHVJd1Y1R2Q4T09DZE1RYWpmUmlONmtKNTB6SXFOS3JkdDVVeEs0d09zNVdIVjQ2TWRyd3MzUExpbmlSMmVhVV93RDBwY1dJc0JEWk5MWXc?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-06T06:31:00.000Z",
-      "summary": "探讨AI探店边界，厘清“探店”与“到店”区别。",
-      "summaryZh": ""
-    },
-    {
-      "title": "科技新秀资本布局 | 智元机器人：靠直投打造完整生态链 反哺高瓴创投、慕华科创",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeW1qc0lXTG5kYkVCbTZsbG1kLWFLdXZJeWFHTE4yYzNhTUZELUVRNzlwZ1Z0Mm1TRVIyS3d5SVRYTUJ1eVlrcTU1VzZwdVl4X0xDUXZ4V1Q3X2Z5RjFsNHdCUEJvRVFLeGJnYkpDTEZNQTVJbUFJZzcwS21tTElNU2hfRmY?oc=5",
-      "source": "新浪财经",
+      "title": "激光焊接机器人选型：功率、填丝、跟踪、通讯四组耦合关系",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80MHh4U1dhRW1tVFlVUU14bVdlcWs3TFRqZDFMakZLV0ZqMlEyZjVoSG1YdHBzSlRleWpNWk9LMVhhU3piRFRiZnZDaW9PY0VoSmdndDF4SQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-06T07:34:19.000Z",
-      "summary": "智元机器人通过直接投资构建完整生态链，反哺高瓴创投、慕华科创。",
+      "pubDate": "2026-11-07T03:38:36.000Z",
+      "summary": "激光焊接机器人选型需考虑功率、填丝、跟踪、通讯四方面耦合关系。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人关节专用改性PEEK轴套注塑方案—高耐磨、自润滑塑料轴套",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WX1ZNc0wyekp0OFVOQXZuZU1zSGdlYmJaNUhCbkMxYzktOE5LdFdYMXNxVjFaQmdwSW5FOHZ5Wkx2U3BSSzh5b0FDT3phUTRVUk1mOU5wVQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-07T02:39:44.000Z",
+      "summary": "机器人关节专用PEEK轴套注塑方案实现高耐磨、自润滑。",
       "summaryZh": ""
     }
   ]
