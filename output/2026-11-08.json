@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "generatedAt": "2026-11-07T20:10:19.917Z",
+  "generatedAt": "2026-11-07T21:43:56.237Z",
   "items": [
     {
       "title": "端侧大模型落地参考：RK3572-LLM大语言模型应用",
@@ -70,7 +70,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-07T10:56:18.000Z",
-      "summary": "西门子在中国工厂AI应用市场推出多款工业AI应用案例，与约40家中国企业签署合作协议。",
+      "summary": "西门子在中国工厂AI应用市场推出多行业案例，与40家中国企业签约。",
       "summaryZh": ""
     },
     {
@@ -80,7 +80,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-07T09:21:57.000Z",
-      "summary": "苹果研究团队机器人“大脑”测试平均成功率达91%。",
+      "summary": "苹果研究团队机器人“大脑”测试平均成功率91%。",
       "summaryZh": ""
     },
     {
@@ -139,7 +139,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-06T21:47:35.000Z",
-      "summary": "Point One Navigation利用高精度GPS打造机器人平台。",
+      "summary": "Point One Navigation将GPS精度转化为机器人平台技术。",
       "summaryZh": "",
       "titleZh": "Point One 如何将 GPS 精度转变为机器人平台"
     },
@@ -150,7 +150,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-07T14:00:36.000Z",
-      "summary": "中国移动杭州研发中心携“灵犀机器人家族”亮相，展示多款机器人完成复杂任务。",
+      "summary": "“灵犀机器人家族”亮相移动网络大会，展示多领域应用及创新技术。",
       "summaryZh": ""
     },
     {
@@ -165,13 +165,14 @@
       "titleZh": "机器人集成为中端市场制造商带来高精度生产"
     },
     {
-      "title": "“探店”不“到店” 如何厘清AI探店边界？业内人士：制作AI探店视频成本大幅下降",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqT3dsSnVnVWdaYnNmOEtuNUdaendqQ0dSbDlBS2FwWThzWXNPWkZQaG5DcGNoSXMzeG43M0hmU1J4cWNDeFpwUzJlWF9tb1hOVzhKSmxR?oc=5",
+      "title": "被AI高频推荐，这两家酒店做对了什么？",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nNnlvakY5VEZMVFhVNWF1N3JzanQyTXZhd2RNRTZNOGUyVFNzMDlVRk55R2dsSmRkZXNUNzJsYkFfbHBJOHJQQ19iajB0R1RxdlY4RThR?oc=5",
       "source": "腾讯新闻",
       "lang": "zh",
       "category": "application",
-      "pubDate": "2026-11-07T00:36:11.000Z",
-      "summary": "“探店”不“到店” 如何厘清AI探店边界？"
+      "pubDate": "2026-11-07T01:22:00.000Z",
+      "summary": "上海外滩华尔道夫和北京王府井文华东方因差异化定位和高度一致的信息在AI推荐中表现优异。",
+      "summaryZh": ""
     },
     {
       "title": "康谋分享 |一文吃透激光雷达-相机联合标定：从几何原理到重卡实测闭环",
@@ -190,7 +191,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-07T10:58:00.000Z",
-      "summary": "四川舰成功实现隐身无人机“攻击-21”首次起降。",
+      "summary": "四川舰成功完成隐身无人机“攻击-21”首次起降。",
       "summaryZh": ""
     },
     {
