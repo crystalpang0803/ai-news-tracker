@@ -1,25 +1,25 @@
 {
   "date": "2026-11-07",
-  "generatedAt": "2026-11-07T02:23:03.348Z",
+  "generatedAt": "2026-11-07T06:05:24.785Z",
   "items": [
     {
-      "title": "美国“空中外卖”竞争白热化：谷歌系 Wing 投资 1.25 亿美元建无人机厂，瞄准 270 家沃尔玛门店",
-      "link": "https://www.ithome.com/1/023/629.htm",
-      "source": "IT之家",
+      "title": "中国银行人工智能体验区亮相第九届进博会 综合金融服务助推AI产业落地",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJUnQ5TmRjSEpDSmFia2xzQUIwcUJvblo1SlY3UENaSzNLSW0zMUZxOFV1Umg5X2o3Z0ExX0hMXzRqTFUtbGdiN1FMc0VfeGs3bTk5YQ?oc=5",
+      "source": "第一财经",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-07T00:48:43.000Z",
-      "summary": "谷歌旗下Wing投资1.25亿美元建无人机厂，服务沃尔玛270家门店。",
+      "category": "ai",
+      "pubDate": "2026-11-06T14:44:45.000Z",
+      "summary": "中国银行在进博会上展示人工智能体验区，提供综合金融服务助力AI产业落地。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI推出GPT-6 Cyber，网络安全AI能力显著升级，科创AIETF博时(588790)盘中成交额超1亿元",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ha2JXODVRS2JJQmdsRkJHekZvd0xPWlA5R0lQeDhMYm5TZFV5dGpHZlVQS2VsdVdlNE1mSlh5dW9oX1pfT1dTY2xUdXR5UlVBUE5pajczdWk?oc=5",
-      "source": "界面新闻",
+      "title": "端侧大模型落地参考：RK3572-LLM大语言模型应用",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BY1lfODVEX0hlNkNNQzZOMHk5MFh4ZXJyX3NaT3dCZFFGYzdUdGdLbFhlMmdOOUo3cHQ0b280d0lTNmNZQkpXb2xOQU9sdUdlREF1M2NRRQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-06T03:02:00.000Z",
-      "summary": "OpenAI发布GPT-6 Cyber，网络安全AI能力升级，科创AIETF博时成交额超1亿元。",
+      "pubDate": "2026-11-07T02:00:12.000Z",
+      "summary": "RK3572-LLM大语言模型成功应用于端侧。",
       "summaryZh": ""
     },
     {
@@ -29,7 +29,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-07T01:29:10.000Z",
-      "summary": "宇树科技与巨星传奇联合推出首款消费级收藏机器狗UNI-DOGGIE，售价43900元。",
+      "summary": "宇树科技与巨星传奇联合推出首款消费级机器狗UNI-DOGGIE，售价43900元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "刚刚，OpenAI被曝又拿730亿，估值超8.3万亿",
+      "link": "https://zhidx.com/p/608157.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-07T02:01:51.000Z",
+      "summary": "OpenAI完成新一轮融资，估值达8.3万亿人民币。",
       "summaryZh": ""
     },
     {
@@ -39,7 +49,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-06T12:24:02.000Z",
-      "summary": "前OpenAI CTO推出新AI模型，支持用户自定义训练，创企估值达2600亿。",
+      "summary": "前OpenAI CTO推出新AI模型，支持用户自行训练，创企估值达2600亿。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人行业卸下租赁“缓冲垫”",
+      "link": "https://www.tmtpost.com/8196810.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-07T05:56:37.000Z",
+      "summary": "机器人租赁市场租金大幅下降，行业面临转型挑战。",
+      "summaryZh": ""
+    },
+    {
+      "title": "马斯克：特斯拉 Optimus 机器人考虑只租不卖，生产力是人类的 5 倍、初期造价约 3 万美元",
+      "link": "https://www.ithome.com/1/023/675.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-07T05:32:39.000Z",
+      "summary": "特斯拉Optimus机器人考虑租赁模式，初期造价约3万美元。",
       "summaryZh": ""
     },
     {
@@ -53,24 +83,44 @@
       "summaryZh": ""
     },
     {
-      "title": "AI算力景气主线强化，南方基金旗下科创人工智能ETF南方(589230)跟踪标的指数昨日收涨3.05%",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KZzRXLWMwQ1gxc0FaNHd5ZHRCZ0hoSjVFQm9Ubll5NTRBcHZ1b3RLWktDRld6ZE10UGdtenVZS3dsWTM1aFk4aFp3QVY1RTlpcUpzOVhwbWU?oc=5",
-      "source": "界面新闻",
+      "title": "财联社11月7日电，OpenAI首席财务官表示，无论选举结果如何，OpenAI都将持续投资于AI数据中心。",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rS2FfLWxYLUMydS1WZ2tjTS1zcmtIVU1wU0RicEJyMVNsVlNwR29qcW5zSDNtVm5oNkhKRkcybzdUclI4bzFnTA?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-06T02:39:59.000Z",
-      "summary": "南方基金旗下科创人工智能ETF南方(589230)跟踪指数昨日上涨3.05%。",
+      "pubDate": "2026-11-06T16:27:52.000Z",
+      "summary": "OpenAI将不受选举影响，持续投资AI数据中心。",
       "summaryZh": ""
     },
     {
-      "title": "英伟达重磅发布VFlash，Jim Fan直呼新时代来了！机器人动作解码提速12倍",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9tMTZFcFQ3d2c5S254b3g5eG9FOG8zUDNFX3hnN3VSSUNoZEV6UWNEaUgyZ19rM3VLXzZfNjhuYlV2azZFaVE?oc=5",
-      "source": "智东西",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-06T23:46:18.000Z",
+      "summary": "OpenAI估值达1.25万亿美元，竞争对手Anthropic即将IPO。",
+      "summaryZh": "",
+      "titleZh": "竞争对手 Anthropic 即将 IPO，OpenAI 估值达 1.25 万亿美元"
+    },
+    {
+      "title": "Fourier’s Meta Prototype Puts a Spotlight on an 8-Billion-Yuan Robotics Bet",
+      "link": "https://www.tmtpost.com/8196543.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-06T05:36:09.000Z",
-      "summary": "英伟达发布VFlash，机器人动作解码速度提升12倍。",
+      "pubDate": "2026-11-06T09:57:04.000Z",
+      "summary": "上海Fourier Intelligence为Meta定制人形机器人，估值达80亿人民币。",
       "summaryZh": ""
+    },
+    {
+      "title": "北京：加快布局人工智能、量子信息、6G等前沿领域技术转化、试验验证、中试熟化等共性技术赋能中心",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wa2tnZU1zbHJ6ekJ1Qkl0MFpVZ3FHQlNKRTFYcWVJZHVOaXBJOXhoNHRiWEJNRTI5XzhldElIVlFHWjNEbk1NNExPY0pBWWowOTgydlllRHg?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-06T10:35:00.000Z",
+      "summary": ""
     },
     {
       "title": "三个哈佛女孩勇闯AI创业圈，她融资过亿美元-36氪",
@@ -83,25 +133,6 @@
       "summaryZh": ""
     },
     {
-      "title": "微软据悉逐步终止从甲骨文租用AI云算力的安排",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5LVVxWGNmUUNna09KbXJsUFVCVHRCc09icm9peUdhaGE0Y1ptbEZLWUJGTDRNX25ackMydmFmSG41VWx4R2oyekp2UVplV3lXdzA4YzcwY2k?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-06T08:30:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "5天3板润建股份：AI、算力、词元等业务占公司总营收比重仍然较低",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tQmZTc3JXWXlpcUJ4NGcxZm5jMzJFY0RUa3RvdTFuV2p0azNVek4xUGRGaTJqZUF2V1dKS3pFNVNsVWd1SkdhNVRiN042TnBaWkEtbEJJOFZSdw?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-06T11:49:00.000Z",
-      "summary": "润建股份AI等新业务营收占比低，市场竞争激烈。",
-      "summaryZh": ""
-    },
-    {
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
       "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
       "source": "TechCrunch",
@@ -111,6 +142,16 @@
       "summary": "Palo Alto Networks拟以5亿美元收购AI安全初创公司Clutch。",
       "summaryZh": "",
       "titleZh": "Palo Alto Networks 正在洽谈以 5 亿美元收购人工智能代理安全初创公司 Clutch"
+    },
+    {
+      "title": "智能体终端准入新规落地 端侧AI迈入全链条合规时代",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4YVdtT3Mwd2lPanlpbXVGd0JmT3QySFdiME8wV2JmeWpSNXhuUlgyWmxETEprZHE0UjlPQ2luc0FoRXBCY1dzVmw3YXpmRXJCTGtLWEZwSHR1SUdObDJuTXRpOXUtUQ?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-07T04:44:24.000Z",
+      "summary": "智能体终端新规实施，端侧AI进入全链条合规监管时代。",
+      "summaryZh": ""
     },
     {
       "title": "国家超算互联网推出算力普惠举措 助力科研AI技术落地",
@@ -133,13 +174,23 @@
       "summaryZh": ""
     },
     {
+      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtWWF2SWdNbGVyR2ttR1U0UEY4NzRfWDcwbmx2ZWdTd3RXUW5TbUxUUDJFLVJpSkRTaTI2VDI3Y0JYNXJfNlJtVUpXNlNnUlJaZHVNYQ?oc=5",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-07T05:01:17.000Z",
+      "summary": "硅谷华人团队推出下一代AI超级智能体Agent Harness。",
+      "summaryZh": ""
+    },
+    {
       "title": "How Point One turned GPS accuracy into a robotics platform",
       "link": "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform/",
       "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-06T21:47:35.000Z",
-      "summary": "Point One Navigation将GPS精度转化为机器人平台技术。",
+      "summary": "Point One将GPS精度转化为机器人平台技术。",
       "summaryZh": "",
       "titleZh": "Point One 如何将 GPS 精度转变为机器人平台"
     },
@@ -155,13 +206,13 @@
       "titleZh": "行业专家讨论中国阻止软银收购ABB机器人"
     },
     {
-      "title": "面对面｜熊友军：真机、仿真、互联网视频三类数据，人形机器人该怎么选？",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DbXY2c3pGTklmeXZBRGJmZXRwNWJLT1BJWlRzUi16eTJSaVdkc1lqVF9ZSUVzQ011RGFITVZ1TWw4UnEySjA5aHlXMHlwRmRoUEthNHdLYTB1ejYzSWR1RE44bnk?oc=5",
-      "source": "财新网",
+      "title": "机器人与具身智能论坛在浙江乌镇举办",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JNFVWaGp3YWpqUk0zZ042RVFkNVRodloyQXIwT1JHQnVBV21Yc3NUQWZSYUFzVGlHZG1Wck16UjNCdUd5d1R4aUhvOWh2UGdMLUxvMDFCYXVRWTJTVkRWQmstUFEwWVVBM1lZb3pXOA?oc=5",
+      "source": "中国经济网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-06T05:34:00.000Z",
-      "summary": "熊友军谈人形机器人数据选择：真机、仿真、视频互补递进。",
+      "pubDate": "2026-11-06T07:49:00.000Z",
+      "summary": "浙江乌镇举办机器人与具身智能论坛，探讨前沿技术与真实场景结合。",
       "summaryZh": ""
     },
     {
@@ -171,7 +222,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-06T12:05:00.000Z",
-      "summary": "2026年最佳自动猫砂盆：Petkit和Litter-Robot脱颖而出。",
+      "summary": "2026年两款最佳自动猫砂盆：Petkit Purobot Max Pro 2和Litter-Robot 4。",
       "summaryZh": "",
       "titleZh": "2026 年最佳自动垃圾箱：Petkit 和垃圾机器人"
     },
@@ -182,7 +233,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-06T17:00:03.000Z",
-      "summary": "研究人员展示了一款可在家中通过电缆驱动的清洁机器人。",
+      "summary": "家用缆绳驱动机器人进行室内清洁。",
       "summaryZh": "",
       "titleZh": "周五视频：房间规模的电缆驱动家用机器人清理工作"
     },
@@ -193,17 +244,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-06T14:38:45.000Z",
-      "summary": "AI探店视频成本低至几元，月流水达800万，行业规范待明确。",
-      "summaryZh": ""
-    },
-    {
-      "title": "蔡司三坐标在机器人精密零件加工生产中的作用",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3cTkyWC1CQlhFSk1YZHpkX1hvakFwNmpoVWNDenIxN3FZR3Q3UTZtTjdCenhyajVyd3U3aTBsM3FyLXE2NWxCbXF5YnRiT1JwRkxSeHNhRQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-06T03:28:49.000Z",
-      "summary": "蔡司三坐标助力机器人精密零件加工生产。",
+      "summary": "AI探店视频成本低至几元，月流水达800万，引发虚假宣传和法律风险担忧。",
       "summaryZh": ""
     },
     {
@@ -213,7 +254,17 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-06T06:31:00.000Z",
-      "summary": "探讨AI探店边界，厘清“探店”与“到店”差异。",
+      "summary": "探讨AI探店边界，厘清“探店”与“到店”区别。",
+      "summaryZh": ""
+    },
+    {
+      "title": "科技新秀资本布局 | 智元机器人：靠直投打造完整生态链 反哺高瓴创投、慕华科创",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeW1qc0lXTG5kYkVCbTZsbG1kLWFLdXZJeWFHTE4yYzNhTUZELUVRNzlwZ1Z0Mm1TRVIyS3d5SVRYTUJ1eVlrcTU1VzZwdVl4X0xDUXZ4V1Q3X2Z5RjFsNHdCUEJvRVFLeGJnYkpDTEZNQTVJbUFJZzcwS21tTElNU2hfRmY?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-06T07:34:19.000Z",
+      "summary": "智元机器人通过直接投资构建完整生态链，反哺高瓴创投、慕华科创。",
       "summaryZh": ""
     }
   ]
