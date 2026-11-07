@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "generatedAt": "2026-11-07T21:43:56.237Z",
+  "generatedAt": "2026-11-07T22:59:24.404Z",
   "items": [
     {
       "title": "端侧大模型落地参考：RK3572-LLM大语言模型应用",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-07T02:00:12.000Z",
-      "summary": "RK3572-LLM大语言模型成功落地应用。",
+      "summary": "RK3572-LLM大语言模型成功应用于端侧设备。",
       "summaryZh": ""
     },
     {
@@ -39,7 +39,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-07T09:38:56.000Z",
-      "summary": "GitHub服务故障频发，OpenAI等公司自研代码托管工具。",
+      "summary": "GitHub服务故障频发，OpenAI等公司自研或收购代码托管工具以应对AI编程需求激增。",
       "summaryZh": ""
     },
     {
@@ -53,24 +53,13 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-06T23:46:18.000Z",
-      "summary": "OpenAI估值达1.25万亿美元，竞争对手Anthropic即将IPO。",
-      "summaryZh": "",
-      "titleZh": "竞争对手 Anthropic 即将 IPO，OpenAI 估值达 1.25 万亿美元"
-    },
-    {
       "title": "从奶粉生产到机器人上下料，西门子押注中国工厂AI应用市场",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DT2FRemFiaV9yNjNzSEdwcWJpNDJtem1jN2xrVUhzcm9FUzR1enhmZ01tbHprS3h1cmlDX0tnbHRjWmhlaExJUGNpZmtjcGJXR09V?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-07T10:56:18.000Z",
-      "summary": "西门子在中国工厂AI应用市场推出多行业案例，与40家中国企业签约。",
+      "summary": "西门子在中国工厂AI应用市场推出多款工业AI应用案例，与约40家中国企业签署合作协议。",
       "summaryZh": ""
     },
     {
@@ -84,15 +73,6 @@
       "summaryZh": ""
     },
     {
-      "title": "雅诗兰黛集团启幕第九届进博会展台领驭肌肤长寿科学创新平台全球首发，人工智能战略合作持续深化，开放共创成果集中亮相",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RcjR4UURiY3lySmJBR3kyTUQyeGFnaHZlQ0l3OFd3Q2w3aTFOY25jMVdKT0tLT0JjVXJGYUtKZ25ETWxWNFRCcEJ2TQ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-07T10:56:34.000Z",
-      "summary": ""
-    },
-    {
       "title": "《“人工智能+媒体”全球发展年度蓝皮书（2026）》智库报告发布",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fOUplY2dZNnAyU001ZnVmTnVLZXZsWWVsZGFKZ1ZtcnVnUDB5RkRfMm1BUUt3eTJQSm9DbUZyN3B2d0ZEUE41UlpsdmhIZUVMVWEtZldaVEh6QQ?oc=5",
       "source": "钛媒体",
@@ -103,13 +83,13 @@
       "summaryZh": ""
     },
     {
-      "title": "Claude Max 订阅套餐使用额度被指“虚标”，Anthropic 辩词未获法官采纳",
-      "link": "https://www.ithome.com/1/023/824.htm",
-      "source": "IT之家",
+      "title": "北京：加快布局人工智能、量子信息、6G等前沿领域技术转化、试验验证、中试熟化等共性技术赋能中心",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XUHJGbTllVl9HMTlVVDBQemFTVWF3R1FSQ2pwVnNYa2o2ZFJ3bUI3UzZsU2gtNlAxX1FuRWNEX3YyZXFzVmpHcXY0ZHZES3JreVNtMDVSSFo2QQ?oc=5",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-07T14:57:42.000Z",
-      "summary": "法官驳回Anthropic关于Claude Max套餐使用额度宣传的辩词。",
+      "pubDate": "2026-11-07T03:11:00.000Z",
+      "summary": "北京经开区加快布局人工智能等前沿技术转化和试验验证中心。",
       "summaryZh": ""
     },
     {
@@ -123,6 +103,25 @@
       "summaryZh": ""
     },
     {
+      "title": "掘金生成式视频算力赛道，凌川科技打造多模态大模型国产算力底座",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KbHBsbUxCRzR3bG9VTG9tQXhHWjNsdlVITjJTVktvQnRZbFpBcnZMTE9vVk90c1VjdUhJZkhjNUZiUU1xU0c3eFo5Q2JsWGVMaW9fY21qbDRBeDBFdS1zZ0p1eE9JcW05U1VObjJuRDRHOXM?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-07T14:39:30.000Z",
+      "summary": "凌川科技获10亿B轮融资，打造多模态大模型国产算力底座。",
+      "summaryZh": ""
+    },
+    {
+      "title": "智能体加速落地 AI安全生意逻辑生变",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ebkc1UlpYTFNBaUJDc2FNZlBUNXh5QWp6OGxmOExJS243NDBBY19kZTk4eUJuOG1FX3J2TkMzamk1WjNpbkpXbFZ3OFBaTmFOZVVPNDNOWUVfWkxCMXhXRnlR?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-07T09:36:00.000Z",
+      "summary": ""
+    },
+    {
       "title": "一只43900元，这款赛博机器狗来了！巨星传奇CFO赖国辉：看好IP与AI、具身机器人结合",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QMFNhc2dMSjFhdWxBZXdyWW5WMnUwOGtCTEwwX3dOWUlORFVYS0JvS0J6b3JIU0RicTZNazUzNG1ybnZIdUc4c3Zqb3REVW84czZmMjRxZGFRV2QxamtmeGQ5blZBdw?oc=5",
       "source": "每日经济新闻",
@@ -133,15 +132,14 @@
       "summaryZh": ""
     },
     {
-      "title": "How Point One turned GPS accuracy into a robotics platform",
-      "link": "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-06T21:47:35.000Z",
-      "summary": "Point One Navigation将GPS精度转化为机器人平台技术。",
-      "summaryZh": "",
-      "titleZh": "Point One 如何将 GPS 精度转变为机器人平台"
+      "title": "DeepSeek Harness 日活154万，官方开始给插件作者发Token：Agent 生态要靠开发者了",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SV3l4eTExaThOQXRBUURqYnE5UDkyN3BXaGxVTmR1YlFSSnFHdEliM2hJd0RkbW91WkpWVjRvRFBQc19UaVE3eXA5WkJLMGs?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-07T00:50:48.000Z",
+      "summary": "DeepSeek Harness 日活154万，官方推出Token激励开发者构建插件生态。",
+      "summaryZh": ""
     },
     {
       "title": "“灵犀机器人家族”集中亮相 “十八般武艺”秀出硬核真功夫",
@@ -150,7 +148,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-07T14:00:36.000Z",
-      "summary": "“灵犀机器人家族”亮相移动网络大会，展示多领域应用及创新技术。",
+      "summary": "中国移动杭州研发中心携“灵犀机器人家族”亮相，展示多款机器人完成咖啡制作、家庭服务等任务。",
       "summaryZh": ""
     },
     {
@@ -163,16 +161,6 @@
       "summary": "机器人集成技术让中端市场制造商实现高精度生产。",
       "summaryZh": "",
       "titleZh": "机器人集成为中端市场制造商带来高精度生产"
-    },
-    {
-      "title": "被AI高频推荐，这两家酒店做对了什么？",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nNnlvakY5VEZMVFhVNWF1N3JzanQyTXZhd2RNRTZNOGUyVFNzMDlVRk55R2dsSmRkZXNUNzJsYkFfbHBJOHJQQ19iajB0R1RxdlY4RThR?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-07T01:22:00.000Z",
-      "summary": "上海外滩华尔道夫和北京王府井文华东方因差异化定位和高度一致的信息在AI推荐中表现优异。",
-      "summaryZh": ""
     },
     {
       "title": "康谋分享 |一文吃透激光雷达-相机联合标定：从几何原理到重卡实测闭环",
@@ -191,7 +179,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-07T10:58:00.000Z",
-      "summary": "四川舰成功完成隐身无人机“攻击-21”首次起降。",
+      "summary": "四川舰成功实现隐身无人机“攻击-21”首次起降。",
       "summaryZh": ""
     },
     {
