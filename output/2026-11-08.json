@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "generatedAt": "2026-11-07T22:59:24.404Z",
+  "generatedAt": "2026-11-08T00:46:40.260Z",
   "items": [
     {
       "title": "端侧大模型落地参考：RK3572-LLM大语言模型应用",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-07T02:00:12.000Z",
-      "summary": "RK3572-LLM大语言模型成功应用于端侧设备。",
+      "summary": "RK3572-LLM大语言模型成功应用于端侧。",
       "summaryZh": ""
     },
     {
@@ -20,6 +20,16 @@
       "category": "robotics",
       "pubDate": "2026-11-07T05:24:34.000Z",
       "summary": "宇树科技王兴兴看好安保机器人市场潜力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "人形机器人开始上岗，老牌材料企业瞄准新生意",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5waEIxUmVRVzlJNmNmZzZfMGNZbXMyaHlkOFg0YUtLZjJUWE1UVUJkZ2l4VGxFaGZVREpPb1hIeWRQNXVVQ0lOUkVvMTh5bWloSlVBdlppQlI?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-07T10:17:51.000Z",
+      "summary": "汉高拓展人形机器人材料业务，提供多领域解决方案。",
       "summaryZh": ""
     },
     {
@@ -39,7 +49,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-07T09:38:56.000Z",
-      "summary": "GitHub服务故障频发，OpenAI等公司自研或收购代码托管工具以应对AI编程需求激增。",
+      "summary": "GitHub服务故障频发，多家公司自研代码托管工具。",
       "summaryZh": ""
     },
     {
@@ -73,6 +83,15 @@
       "summaryZh": ""
     },
     {
+      "title": "雅诗兰黛集团启幕第九届进博会展台领驭肌肤长寿科学创新平台全球首发，人工智能战略合作持续深化，开放共创成果集中亮相",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RcjR4UURiY3lySmJBR3kyTUQyeGFnaHZlQ0l3OFd3Q2w3aTFOY25jMVdKT0tLT0JjVXJGYUtKZ25ETWxWNFRCcEJ2TQ?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-07T10:56:34.000Z",
+      "summary": ""
+    },
+    {
       "title": "《“人工智能+媒体”全球发展年度蓝皮书（2026）》智库报告发布",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fOUplY2dZNnAyU001ZnVmTnVLZXZsWWVsZGFKZ1ZtcnVnUDB5RkRfMm1BUUt3eTJQSm9DbUZyN3B2d0ZEUE41UlpsdmhIZUVMVWEtZldaVEh6QQ?oc=5",
       "source": "钛媒体",
@@ -89,17 +108,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-07T03:11:00.000Z",
-      "summary": "北京经开区加快布局人工智能等前沿技术转化和试验验证中心。",
+      "summary": "北京加快布局人工智能等前沿技术转化和试验验证中心。",
       "summaryZh": ""
     },
     {
-      "title": "跨国材料巨头争当算力基础设施“卖铲人”",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42dFY0UHNIaFcxTk5SSEJKYndYZElTMU9SQ0FlVTJfMnhfYmRFeXVMOUFDX21yMk01WlMya1BscGFXU01ORWo2RThMS3dRM0FPTllDS2cyLUQ?oc=5",
-      "source": "界面新闻",
+      "title": "Claude Max 订阅套餐使用额度被指“虚标”，Anthropic 辩词未获法官采纳",
+      "link": "https://www.ithome.com/1/023/824.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-07T11:48:26.000Z",
-      "summary": "跨国材料企业积极布局算力基础设施材料市场。",
+      "pubDate": "2026-11-07T14:57:42.000Z",
+      "summary": "法官驳回Anthropic关于Claude Max套餐使用额度宣传的辩词。",
+      "summaryZh": ""
+    },
+    {
+      "title": "上海发布“人工智能+交通运输”行动方案 多项重磅成果落地",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kNi1XZHVFQUJPMUwyYlNZOWxialRWSnZKQ0xfaUVvZzhXUjNxTDZvWlBuaGw3VFEweTFhYUx4akt1dmhnRG5iZ09wcXV5c1NINTQ2MGIwTmxQSDNxVnpMcw?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-08T00:45:59.000Z",
+      "summary": "上海发布“人工智能+交通运输”行动方案，推动AI规模化落地。",
       "summaryZh": ""
     },
     {
@@ -109,17 +138,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-07T14:39:30.000Z",
-      "summary": "凌川科技获10亿B轮融资，打造多模态大模型国产算力底座。",
+      "summary": "凌川科技获10亿元B轮融资，打造多模态大模型国产算力底座。",
       "summaryZh": ""
-    },
-    {
-      "title": "智能体加速落地 AI安全生意逻辑生变",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ebkc1UlpYTFNBaUJDc2FNZlBUNXh5QWp6OGxmOExJS243NDBBY19kZTk4eUJuOG1FX3J2TkMzamk1WjNpbkpXbFZ3OFBaTmFOZVVPNDNOWUVfWkxCMXhXRnlR?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-07T09:36:00.000Z",
-      "summary": ""
     },
     {
       "title": "一只43900元，这款赛博机器狗来了！巨星传奇CFO赖国辉：看好IP与AI、具身机器人结合",
@@ -128,27 +148,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-07T13:04:00.000Z",
-      "summary": "赛博机器狗售价43900元，巨星传奇CFO看好IP与AI结合。",
+      "summary": "赛博机器狗售价43900元，赖国辉看好IP与AI结合。",
       "summaryZh": ""
     },
     {
-      "title": "DeepSeek Harness 日活154万，官方开始给插件作者发Token：Agent 生态要靠开发者了",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SV3l4eTExaThOQXRBUURqYnE5UDkyN3BXaGxVTmR1YlFSSnFHdEliM2hJd0RkbW91WkpWVjRvRFBQc19UaVE3eXA5WkJLMGs?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-07T00:50:48.000Z",
-      "summary": "DeepSeek Harness 日活154万，官方推出Token激励开发者构建插件生态。",
-      "summaryZh": ""
-    },
-    {
-      "title": "“灵犀机器人家族”集中亮相 “十八般武艺”秀出硬核真功夫",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RbW1qaTMtQ2JTMWhFRUNuNHFTZlFhTnVGZ1lzMU1zTzNUM0Y4dFhCeU1TRlhsb18ybVMzcTF5ZjdHR0NCNW1tNDZkVnBzc21lbDQxZ1ptX2ltVjRtc2dHTHlTaDZUQk9JRjQtTDNpai0?oc=5",
-      "source": "科技日报",
+      "title": "九赴进博，日立中国总代表汤次善麿谈物理AI：自家工厂先当“零号客户”，从人形机器人搬料做起",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ1V5VnFYVHZGQnRvQnRWelgwMWJMWDNLV003MDhrUnF1ZVZKZXVyaXZtamRjeGJJTUlNbDljU21BdUU3bmtWam95XzR4ZzJLRW5jbmxGeWlxSENQWXpSelUxR2dsc2RqV2RPRU8td0tGVVhHbGVCYUhDQzlTTHdWclFQY1Rad2FlLWlZc2toVQ?oc=5",
+      "source": "21财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-07T14:00:36.000Z",
-      "summary": "中国移动杭州研发中心携“灵犀机器人家族”亮相，展示多款机器人完成咖啡制作、家庭服务等任务。",
+      "pubDate": "2026-11-07T22:55:00.000Z",
+      "summary": "日立中国总代表汤次善麿表示，自家工厂先作为物理AI“零号客户”，从人形机器人搬料做起。",
       "summaryZh": ""
     },
     {
@@ -161,6 +171,16 @@
       "summary": "机器人集成技术让中端市场制造商实现高精度生产。",
       "summaryZh": "",
       "titleZh": "机器人集成为中端市场制造商带来高精度生产"
+    },
+    {
+      "title": "“灵犀机器人家族”集中亮相 “十八般武艺”秀出硬核真功夫",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RbW1qaTMtQ2JTMWhFRUNuNHFTZlFhTnVGZ1lzMU1zTzNUM0Y4dFhCeU1TRlhsb18ybVMzcTF5ZjdHR0NCNW1tNDZkVnBzc21lbDQxZ1ptX2ltVjRtc2dHTHlTaDZUQk9JRjQtTDNpai0?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-07T14:00:36.000Z",
+      "summary": "中国移动杭州研发中心携“灵犀机器人家族”亮相，展示多款机器人完成复杂任务。",
+      "summaryZh": ""
     },
     {
       "title": "康谋分享 |一文吃透激光雷达-相机联合标定：从几何原理到重卡实测闭环",
@@ -179,7 +199,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-07T10:58:00.000Z",
-      "summary": "四川舰成功实现隐身无人机“攻击-21”首次起降。",
+      "summary": "四川舰成功完成“攻击-21”隐身无人机首次起降。",
       "summaryZh": ""
     },
     {
