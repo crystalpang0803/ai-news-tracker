@@ -1,25 +1,15 @@
 {
   "date": "2026-11-08",
-  "generatedAt": "2026-11-08T01:51:39.748Z",
+  "generatedAt": "2026-11-08T06:08:54.759Z",
   "items": [
     {
-      "title": "端侧大模型落地参考：RK3572-LLM大语言模型应用",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BY1lfODVEX0hlNkNNQzZOMHk5MFh4ZXJyX3NaT3dCZFFGYzdUdGdLbFhlMmdOOUo3cHQ0b280d0lTNmNZQkpXb2xOQU9sdUdlREF1M2NRRQ?oc=5",
-      "source": "与非网",
+      "title": "特斯拉更新 AI 加速器路线图：SI6 算力达 HW4 的 80 倍，Dojo D3 将面向太空部署",
+      "link": "https://www.ithome.com/1/023/876.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-07T02:00:12.000Z",
-      "summary": "RK3572-LLM大语言模型成功应用于端侧设备。",
-      "summaryZh": ""
-    },
-    {
-      "title": "宇树科技王兴兴：安保机器人将是行业下一个爆发点",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lWmFqZHNlZDZOWGR6STBPNkJZcmhuQjJta0NuNGc4SzNoazIwbnowNFpjSDhHXzlJUThuMFpTVGNzeFV2TW5LXy1ZREkzREc0ODR2MlY3bkU?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-07T05:24:34.000Z",
-      "summary": "宇树科技王兴兴看好安保机器人市场潜力。",
+      "pubDate": "2026-11-08T03:31:15.000Z",
+      "summary": "特斯拉发布AI加速器新路线图，SI6算力提升至HW4的80倍，Dojo D3将用于太空部署。",
       "summaryZh": ""
     },
     {
@@ -29,7 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-07T10:17:51.000Z",
-      "summary": "汉高拓展人形机器人材料业务，提供灵巧手、电子皮肤等解决方案。",
+      "summary": "汉高拓展人形机器人材料业务，提供多领域解决方案。",
       "summaryZh": ""
     },
     {
@@ -43,82 +33,33 @@
       "summaryZh": ""
     },
     {
-      "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPSzZrUmJlcWtkUUNiM0V2MWtrb0JUaF94U3lpU2I1QXZiNHBYd1AwSEU2TVFEM3VMSGdDemNRUU1MUG5NX2QxSlNEa2ZXQXFvOWxBNg?oc=5",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-07T09:38:56.000Z",
-      "summary": "GitHub服务故障频发，OpenAI等公司寻求自研替代方案。",
-      "summaryZh": ""
-    },
-    {
-      "title": "GitHub 推出新 Git 存储架构：内部测试单个代码仓库支持 5000 个智能体同时协作，每秒处理 7200 次推送",
-      "link": "https://www.ithome.com/1/023/823.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-07T14:57:23.000Z",
-      "summary": "GitHub推出新Git存储架构，支持5000个智能体同时协作，每秒处理7200次推送。",
-      "summaryZh": ""
-    },
-    {
       "title": "从奶粉生产到机器人上下料，西门子押注中国工厂AI应用市场",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DT2FRemFiaV9yNjNzSEdwcWJpNDJtem1jN2xrVUhzcm9FUzR1enhmZ01tbHprS3h1cmlDX0tnbHRjWmhlaExJUGNpZmtjcGJXR09V?oc=5",
       "source": "第一财经",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-07T10:56:18.000Z",
-      "summary": "西门子在中国工厂AI应用市场推出多款工业AI应用案例，与约40家中国企业签署合作协议。",
+      "summary": "西门子在中国工厂AI应用市场推出多项工业AI案例，与约40家中国企业签署合作协议。",
       "summaryZh": ""
     },
     {
-      "title": "苹果研究团队披露机器人“大脑”进展 单项任务测试平均成功率为91%",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE41NHdhbGw4ZUdTY2Q0U1R6TThESGxGQkxPUko0aWRRellBOG05ai0zbGxJRVZUUVhrM0p1QVdBSVlRbnJVNU9xSA?oc=5",
+      "title": "跨国材料巨头争当算力基础设施“卖铲人”",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42dFY0UHNIaFcxTk5SSEJKYndYZElTMU9SQ0FlVTJfMnhfYmRFeXVMOUFDX21yMk01WlMya1BscGFXU01ORWo2RThMS3dRM0FPTllDS2cyLUQ?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-07T11:48:26.000Z",
+      "summary": "跨国材料企业积极布局算力基础设施材料市场。",
+      "summaryZh": ""
+    },
+    {
+      "title": "进博观察｜新一代通讯的下一站：6G、AI算力与后量子安全",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtMkVPLWZrUm5EMVBNcWFSbHVLbUxsMDNXR2owR0ZxLW1Pa29OM3RVNUZfZHdVV09rMDh6al81d1NfZkZyNlRfQw?oc=5",
       "source": "财联社",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-07T09:21:57.000Z",
-      "summary": "苹果研究团队机器人“大脑”测试平均成功率91%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "雅诗兰黛集团启幕第九届进博会展台领驭肌肤长寿科学创新平台全球首发，人工智能战略合作持续深化，开放共创成果集中亮相",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RcjR4UURiY3lySmJBR3kyTUQyeGFnaHZlQ0l3OFd3Q2w3aTFOY25jMVdKT0tLT0JjVXJGYUtKZ25ETWxWNFRCcEJ2TQ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-07T10:56:34.000Z",
-      "summary": ""
-    },
-    {
-      "title": "《“人工智能+媒体”全球发展年度蓝皮书（2026）》智库报告发布",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fOUplY2dZNnAyU001ZnVmTnVLZXZsWWVsZGFKZ1ZtcnVnUDB5RkRfMm1BUUt3eTJQSm9DbUZyN3B2d0ZEUE41UlpsdmhIZUVMVWEtZldaVEh6QQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-07T11:37:00.000Z",
-      "summary": "《“人工智能+媒体”全球发展年度蓝皮书（2026）》发布，探讨AI对媒体的影响与挑战。",
-      "summaryZh": ""
-    },
-    {
-      "title": "北京：加快布局人工智能、量子信息、6G等前沿领域技术转化、试验验证、中试熟化等共性技术赋能中心",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XUHJGbTllVl9HMTlVVDBQemFTVWF3R1FSQ2pwVnNYa2o2ZFJ3bUI3UzZsU2gtNlAxX1FuRWNEX3YyZXFzVmpHcXY0ZHZES3JreVNtMDVSSFo2QQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-07T03:11:00.000Z",
-      "summary": "北京加快布局人工智能等前沿领域技术转化和试验验证。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Claude Max 订阅套餐使用额度被指“虚标”，Anthropic 辩词未获法官采纳",
-      "link": "https://www.ithome.com/1/023/824.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-07T14:57:42.000Z",
-      "summary": "法官驳回Anthropic关于Claude Max套餐使用额度宣传的辩词。",
+      "pubDate": "2026-11-07T07:41:00.000Z",
+      "summary": "6G技术加速应用，AI算力需求激增，后量子安全成焦点。",
       "summaryZh": ""
     },
     {
@@ -142,6 +83,25 @@
       "summaryZh": ""
     },
     {
+      "title": "智能体加速落地 AI安全生意逻辑生变",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ebkc1UlpYTFNBaUJDc2FNZlBUNXh5QWp6OGxmOExJS243NDBBY19kZTk4eUJuOG1FX3J2TkMzamk1WjNpbkpXbFZ3OFBaTmFOZVVPNDNOWUVfWkxCMXhXRnlR?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-07T09:36:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "科学家研发石墨烯能量采集器：可从环境电磁辐射中“隔空取电”，为传感器供电",
+      "link": "https://www.ithome.com/1/023/882.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-08T04:33:18.000Z",
+      "summary": "石墨烯能量采集器可从环境电磁辐射中获取电能，为传感器供电。",
+      "summaryZh": ""
+    },
+    {
       "title": "一只43900元，这款赛博机器狗来了！巨星传奇CFO赖国辉：看好IP与AI、具身机器人结合",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QMFNhc2dMSjFhdWxBZXdyWW5WMnUwOGtCTEwwX3dOWUlORFVYS0JvS0J6b3JIU0RicTZNazUzNG1ybnZIdUc4c3Zqb3REVW84czZmMjRxZGFRV2QxamtmeGQ5blZBdw?oc=5",
       "source": "每日经济新闻",
@@ -152,25 +112,53 @@
       "summaryZh": ""
     },
     {
-      "title": "九赴进博，日立中国总代表汤次善麿谈物理AI：自家工厂先当“零号客户”，从人形机器人搬料做起",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ1V5VnFYVHZGQnRvQnRWelgwMWJMWDNLV003MDhrUnF1ZVZKZXVyaXZtamRjeGJJTUlNbDljU21BdUU3bmtWam95XzR4ZzJLRW5jbmxGeWlxSENQWXpSelUxR2dsc2RqV2RPRU8td0tGVVhHbGVCYUhDQzlTTHdWclFQY1Rad2FlLWlZc2toVQ?oc=5",
-      "source": "21财经",
+      "title": "已完成股份制改造 兔展智能依托国产算力与多模态模型加速AI设计商业化",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Pc2tvYnlWZUFWYzNvZVJQaUZBTmJXVkVrNXh4YjRqVnFBMGExUy1ITFJQYzNTZndqVDNiU09YODd1Z3prVG1Eb01GMzRBQ2l5Q0xTam45aW1oUFQxVU9JalNsV1ctTHk4YThj?oc=5",
+      "source": "中国经济网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-07T22:55:00.000Z",
-      "summary": "日立中国总代表汤次善麿在进博会上表示，日立工厂率先使用人形机器人搬料，以验证物理AI技术。",
+      "category": "ai",
+      "pubDate": "2026-11-07T07:21:00.000Z",
+      "summary": "兔展智能完成股份制改造，推出工业级AI设计工具RabbitVis，加速AI设计商业化。",
       "summaryZh": ""
     },
     {
-      "title": "Robot integration brings high-precision production to midmarket manufacturers",
-      "link": "https://www.therobotreport.com/robot-integration-brings-high-precision-production-to-midmarket-manufacturers/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-07T13:32:59.000Z",
-      "summary": "机器人集成技术使中端市场制造商实现高精度生产。",
-      "summaryZh": "",
-      "titleZh": "机器人集成为中端市场制造商带来高精度生产"
+      "title": "美议员提议暂停先进AI研发引发市场波动，数据中心扩张与算力投资回报受关注",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2SjIzN0ZBY1RlX0ZSU1ZxZlJRbjg3c0VnbHRqREplRzNBZXNSdDFBRGlpY18zWEtjQWtYbzlhN3lyWEJYUW1CcmdIaXo3OHhQV3BVSg?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-07T12:25:46.000Z",
+      "summary": ""
+    },
+    {
+      "title": "富士胶片投资约100亿日元扩产数据磁带，以满足生成式AI带来的海量归档需求",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wdUhIQUVQVGJpVTVremhUbmpHaW12ZFlaRnFfOWZTNDQ3S0NHNWwzSXBBbjlLRTZzM3pRUzRrbEk3YTVJTldpR0lXb0twVzJLSlFmMg?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-07T07:43:45.000Z",
+      "summary": "富士胶片投资百亿日元扩产数据磁带，应对AI时代海量数据归档需求。",
+      "summaryZh": ""
+    },
+    {
+      "title": "欧洲央行考虑审查银行对数据中心的贷款，以评估人工智能相关风险",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50LW9oS0lMVlhTTWhKb2g3WFhzY215SU1EY0toN2VEUDNWMmQ3UXZlNXVBaDlKMDJuZ3ZrczNOa2VuLXd6Z0RSeHBQQzRoUDNDQ2EyVUgyOW5fQQ?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-07T07:04:00.000Z",
+      "summary": "欧洲央行拟审查银行数据中心贷款，评估AI风险。",
+      "summaryZh": ""
+    },
+    {
+      "title": "元示科技与华大智造子公司达成战略合作 共建细胞大模型干湿闭环基础设施",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56bXRGUkxHLUZWVDl4emRoQWt5anRpR09OckZUYkM5YTZYcXNDbTF4VjZta0ZWaVBnaEZVR0N2NVUwd1hxcnB1TVd6czZiYURFSnlTV2JldmJYQk8ybHRiLXBheFJzdw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-08T05:02:00.000Z",
+      "summary": "元示科技与华大智造子公司合作，共建细胞大模型干湿闭环基础设施。",
+      "summaryZh": ""
     },
     {
       "title": "“灵犀机器人家族”集中亮相 “十八般武艺”秀出硬核真功夫",
@@ -179,7 +167,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-07T14:00:36.000Z",
-      "summary": "“灵犀机器人家族”亮相移动网络大会，展示多款机器人应用于日常生活。",
+      "summary": "“灵犀机器人家族”亮相移动网络大会，展示多领域应用及技术创新。",
       "summaryZh": ""
     },
     {
@@ -193,16 +181,6 @@
       "summaryZh": ""
     },
     {
-      "title": "康谋分享 |一文吃透激光雷达-相机联合标定：从几何原理到重卡实测闭环",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0UHZITklWX1duVzE3NUJHTHVneS1wTWFnWnJSTFM5RHRZbUdzRExZQVREcWF1eXRlQWk1c2RTR0ZJS0JqalRyUEkyODZQMVRySUpCdUNzMA?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-07T03:33:46.000Z",
-      "summary": "激光雷达-相机联合标定技术应用于重卡实测闭环。",
-      "summaryZh": ""
-    },
-    {
       "title": "[共同关注]四川舰 隐身无人机“攻击-21”首次成功起降",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sNTFPU0hqYk1iME53OWN2YUpEbFlXSWkwMm90WjRWMUJJc2tsRjlWLVdiNF8xakctcHRmSDJXdFFNRmRpNjk1UHUwNkFiTFBHSlZXeGlRbFQ4SWRnS1RMTlo4Q3lpMGNibjFRcEo2NFRkZGUxZEE?oc=5",
       "source": "央视网",
@@ -211,6 +189,15 @@
       "pubDate": "2026-11-07T10:58:00.000Z",
       "summary": "四川舰成功实现隐身无人机“攻击-21”首次起降。",
       "summaryZh": ""
+    },
+    {
+      "title": "宇树科技创始人王兴兴:AI是最好的“平权”工具，人人都可以使用Al，自我学习自我进步",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fcnVrcGtsbUM5YlNTUkNCNzJlSk8zY21GSl9iRTQtNXBJdi14eEQ5M0JKVHIwTG1JbHJwWnZuUkVfTEZrYXRzWFJzQkJjMmRTTGlwVHFR?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-07T07:10:00.000Z",
+      "summary": "宇树科技创始人王兴兴:AI是最好的“平权”工具，人人都可以使用Al，自我学习自我进步 #宇树 #王兴兴 #观点 #科技。"
     }
   ]
 }
