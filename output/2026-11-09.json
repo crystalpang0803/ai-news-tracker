@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "generatedAt": "2026-11-08T21:58:00.977Z",
+  "generatedAt": "2026-11-08T23:07:55.310Z",
   "items": [
     {
       "title": "GPT-6之后，具身大模型画地为牢！明年自研预算估计悬了-36氪",
@@ -9,17 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-08T08:29:47.000Z",
-      "summary": "GPT-6发布后，具身大模型面临挑战，自研预算或受影响。",
-      "summaryZh": ""
-    },
-    {
-      "title": "中国移动云公司与智谱签署合作协议，围绕国产算力、大模型服务和 AI 商业化合作",
-      "link": "https://www.ithome.com/1/023/937.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-08T09:53:08.000Z",
-      "summary": "中国移动云公司与智谱签署合作协议，深化国产算力、大模型服务和AI商业化合作。",
+      "summary": "GPT-6发布后，具身大模型面临挑战，明年自研预算可能缩减。",
       "summaryZh": ""
     },
     {
@@ -49,7 +39,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-08T12:09:29.000Z",
-      "summary": "中石油60%控股，与宇树、泛界合设公司，确保油气机器人验收权不外放。",
+      "summary": "中石油60%控股新公司，与宇树、泛界合作研发油气机器人，确保验收权不外放。",
+      "summaryZh": ""
+    },
+    {
+      "title": "亚马逊成立新团队专攻家用机器人，剑指“前所未有”的新产品",
+      "link": "https://www.ithome.com/1/024/012.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-08T15:24:09.000Z",
+      "summary": "亚马逊成立新团队研发家用机器人，目标打造前所未有的新产品。",
       "summaryZh": ""
     },
     {
@@ -59,18 +59,56 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-08T12:41:38.000Z",
-      "summary": "友望U280扫拖机器人降至1069元新低，支持80°C热水洗地。",
+      "summary": "友望U280扫拖机器人降至1069元新低。",
       "summaryZh": ""
     },
     {
-      "title": "告别“聊天机器人”：AI商业化如何完成业务闭环？",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAzU3NhNzJLTTM1bnhubGJsQWtOQm5MV0RjRUczWDdrNVNZNEExRU5hajk3YnZVWlB5MzJEM2RNcUt3eUg3UVE?oc=5",
+      "title": "欧洲多国抗议数据中心扩张，中国西部依托东数西算加速算力落地",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83VjdaWlVCMW5TWkhZSWpucDJEeEdVVjBQdUc2YWs4OC1qV2RaN2VLYzVBdnYxMlROTE5FOXFWcFY4QmE1QjVRNFFaN2lqTEplMkt5UWdUYmtRY25qdzVj?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-08T14:52:06.000Z",
+      "summary": ""
+    },
+    {
+      "title": "华为、OpenAI、字节等科技巨头为何都要插手制药？",
+      "link": "https://www.tmtpost.com/8197608.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-08T12:13:38.000Z",
+      "summary": "科技巨头纷纷涉足制药领域，探索AI在药物研发中的应用。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI算力采购潮起 公募数智化转型提速",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aNWxGUWJkTE5OeXdhaGR0SldsRVpTUXhkN2JVSDJyOGJRMGtJajUxa0FDWUlrVDBDWDh0QkQzeVc5QmR0U0NYdg?oc=5",
       "source": "财联社",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-07T22:24:00.000Z",
-      "summary": "AI商业化转向可验证业务闭环，需关注任务完成率等指标。",
+      "category": "ai",
+      "pubDate": "2026-11-08T22:18:50.000Z",
+      "summary": "公募基金加速采购AI算力，推动行业数智化转型。",
       "summaryZh": ""
+    },
+    {
+      "title": "物流AI分化前夜：G7易流月均Token消耗量增至7700亿，行业规模化落地者仅一成，谁能穿越落地鸿沟？",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwamJaVzRJVXl4SlY0ZU1jckRiSDMyOEUzUDVCUF9xX3pBLXFlZGJqLUlRRmI4VlFxTWRMX3hPZnNfMkF2OE15T0VObEZLTGtJcS1BQjd5c3RxMGNKTXRSYjVPdTBjQQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-08T14:14:00.000Z",
+      "summary": "物流AI行业Token消耗激增，规模化落地者仅一成。",
+      "summaryZh": ""
+    },
+    {
+      "title": "11月8日，广西贺州，2026广西人工智能应用文旅产业成果展会上，机器人组成乐队演出",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mMllKVjktLVg4ZkVQZ2lhcjZkX1ZnUVVKVUpkTVdFcVdfNmlDQTdoQTIxeTRvU0Jrb05Zem41RF9zZWozVEZyc09tWXloUi1JZTlVOFhn?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-08T02:45:00.000Z",
+      "summary": ""
     },
     {
       "title": "德适科技携手邕江实验室，推动中国医疗影像大模型落地东盟、普惠出海",
@@ -83,24 +121,14 @@
       "summaryZh": ""
     },
     {
-      "title": "物流AI分化前夜：G7易流月均Token消耗量增至7700亿，行业规模化落地者仅一成，谁能穿越落地鸿沟？",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwamJaVzRJVXl4SlY0ZU1jckRiSDMyOEUzUDVCUF9xX3pBLXFlZGJqLUlRRmI4VlFxTWRMX3hPZnNfMkF2OE15T0VObEZLTGtJcS1BQjd5c3RxMGNKTXRSYjVPdTBjQQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-08T14:14:00.000Z",
-      "summary": ""
-    },
-    {
       "title": "DeepSeek’s AI Agent Platform Hits 1.54 Million Daily Users",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXBLN3Nwd181RFJQQzBkdGo0TUFhbGZpQ1Zxb0dPWXBORHdzeG5US1ZIOGtGUTFfc2ZSVktjMktVMmtSOUZ0SkVkZ2s4cEJWWWgyQVpSRDVGTUlqWnJ6bjdybkhHaTM5czBaZXpvelNlNTZ4WUd4Y0trdk1RQlpxZXd1MFRMb0dSckw3SXpPU2RFWG9JTFlhOVcyVzVJNjFHaUpsUFNZTC10blFqVWc?oc=5",
       "source": "Bloomberg",
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-08T18:01:43.000Z",
-      "summary": "DeepSeek的AI平台日活跃用户突破154万。",
-      "summaryZh": "",
-      "titleZh": "DeepSeek 的 AI 代理平台日用户量达到 154 万"
+      "summary": "DeepSeek的AI代理平台日活跃用户突破154万。",
+      "summaryZh": ""
     },
     {
       "title": "通用人工智能环伺，教育垂直大模型能否跑通“C端”商业化？",
@@ -139,7 +167,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-08T11:05:23.000Z",
-      "summary": "终端侧AI技术从单点应用向智能体体验演进，MoE模型助力提升端侧AI智能水平。",
+      "summary": "终端侧AI技术从单点应用向智能体体验演进，MoE模型助力提升端侧智能水平。",
+      "summaryZh": ""
+    },
+    {
+      "title": "清华联合无问芯穹、智元提出具身智能群体经验学习范式",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05R2NVWXMwX0VNMGE1c3FoR211T1AyRDRDcldkbjlQMGRkTDFHNjJtek5lY001RXN0SnBFTDJUekY2VW1uYWV4Uzc0dw?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-08T02:37:08.000Z",
+      "summary": "清华等机构提出群体经验学习新范式，机器人集群测试成功率超人类操作员。",
       "summaryZh": ""
     },
     {
@@ -149,39 +187,48 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-08T13:48:00.000Z",
-      "summary": "具身智能数据供需差距巨大，百万小时供给难满足上亿小时需求。",
+      "summary": "具身智能数据供需严重失衡，百万小时供给难以满足上亿小时需求。",
       "summaryZh": ""
     },
     {
-      "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
-      "link": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
-      "source": "CNBC Tech",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-08T14:14:11.000Z",
-      "summary": "AI团队协作实验揭示企业内部机器“团队合作”存在风险。",
-      "summaryZh": "",
-      "titleZh": "最近的人工智能代理实验揭示了企业内部机器“团队合作”的危险未来"
-    },
-    {
-      "title": "马斯克中选后要被“秋后算账”？德银：算力越紧张SpaceX越赚钱，政治风险被高估",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WNUVZYVk2cVZQdEZqanlnU2pJQ3hNQ25ncVQ1R2otR0V3VUlVNjR6dkFoUGNYSTN0WHBFWTZTcWNGM1luN2o1bnFsLVhtekNDWmNR?oc=5",
-      "source": "华尔街见闻",
+      "title": "黑湖科技创始人周宇翔：工业场景AI和机器人暂未带来失业风险",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMmd2UW5qVmI4d0ZSVk9UNkNxMDFiXzRZUUhDd1draXV0M0djODJiZW43RmJVNHhVekZpYTIyekNMRFR4WVo2b2tYRlpia3dCaVQ3cUJTT2tFM2kySjlZd0I4OFVqNzdyZVU3Q0psQWw2YXB3T3Uwc3ZudWg3ejhyQV9jdjNVN3QwTGlkYzh5QkRZaGx4?oc=5",
+      "source": "21财经",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-08T12:00:09.000Z",
-      "summary": ""
+      "category": "robotics",
+      "pubDate": "2026-11-08T15:01:31.000Z",
+      "summary": "周宇翔：工业场景AI和机器人短期未致失业风险。",
+      "summaryZh": ""
     },
     {
-      "title": "Four Payments Executives Define Where Automation Still Needs Human Approval",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0wwRHpZUS1zRllhdzNxT1BLa0F2d01TcXcxdmlGSDk3ejg1Rno3bEhpSzlneklHTXdESkx5eDBEMDNicE84aU1uM0ZOenlqemlIT1FTd0NBMzBuS3MyUkF4MHJSNXBQVzVJTFBCWWNJcGtrWmxva3R0ZWk0Q2tBb0lSYW5kOE1Bb0dFNTdaSXFfOGhROTIwM2NpbzY5WGRSMFMtblIxaEFxeUZCMHZGTFpn?oc=5",
-      "source": "PYMNTS",
-      "lang": "en",
+      "title": "跳舞、夹东西、石头剪刀布，这只螃蟹机器人有点“萌”",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqaDJUWlhZVGhtTTI5U3pmb25Cb29XUUxYMy1YTi13REtHSlBfVDMzN3NXcVZtaHpLTGVaNmFoVGxYSjdrTTdjZGJlRkRheUh5NGMybGdnOVpIRmhKVFFyTG9lNWo?oc=5",
+      "source": "光明网",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-08T19:28:02.000Z",
-      "summary": "四位支付高管阐述自动化仍需人工审批的领域。",
-      "summaryZh": "",
-      "titleZh": "四位支付高管定义了自动化仍需要人工批准的领域"
+      "pubDate": "2026-11-08T14:35:42.000Z",
+      "summary": "螃蟹机器人“跳跳”在互联网大会上展示跳舞、夹物、互动等技能。",
+      "summaryZh": ""
+    },
+    {
+      "title": "直通进博会丨从手术室到养老院 AI拓展医疗健康服务新场景",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFQmI4c3FvZ3I2T3JSYTZTTlNXYnJxdTNhZ29jUXI5Ul9wQXZES1lWYnpuOWJJVFYwNjhHNGFQMktFMmphRktpY0k0N0tzdlUzRkU1djhSUXlVWHdmVDk1VjA1Q09Va3MydUxZajhRNA?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-08T09:29:31.000Z",
+      "summary": "AI技术在医疗健康领域拓展至手术室和养老院等场景。",
+      "summaryZh": ""
+    },
+    {
+      "title": "具身智能产业生态共建交流会暨眸深智能战略发布会在沪举行",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3Z0o5MGY1cFE3Rmkyc1B4UjdfeTl4cDdBb3h6Z0FTdl9rQXU0VFMtd1VyQWJzXzBPcjVBaFdqWjFvR09NRmNodHVRM09ULTNTbzZER0xiOXpJVUFfUHh0MjMtQnZ0SHBsbzRZc2MzRjY?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-08T03:13:56.000Z",
+      "summary": "眸深智能在上海发布战略，推动具身智能生态共建。",
+      "summaryZh": ""
     }
   ]
 }
