@@ -1,15 +1,15 @@
 {
   "date": "2026-11-09",
-  "generatedAt": "2026-11-09T06:42:42.206Z",
+  "generatedAt": "2026-11-09T12:04:00.844Z",
   "items": [
     {
-      "title": "GPT-6之后，具身大模型画地为牢！明年自研预算估计悬了-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RazlJc0Y1UTJiN2x1YVVTQm9MdFJmWlAwSU4xeF9YOENUOHd0X0hQRGVxMUtfN1N3RlUtWm82eUZ6VE8wWG15U2RFMS1PNFZG?oc=5",
-      "source": "36氪",
+      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+      "link": "https://www.qbitai.com/2026/11/507843.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-08T08:29:47.000Z",
-      "summary": "GPT-6发布后，具身大模型面临挑战，自研预算可能缩减。",
+      "pubDate": "2026-11-09T08:44:00.000Z",
+      "summary": "腾讯混元Hy4模型成为最强开源模型，多模态Agent交付力显著提升。",
       "summaryZh": ""
     },
     {
@@ -18,38 +18,77 @@
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-09T04:08:37.000Z",
+      "pubDate": "2026-11-09T04:16:37.000Z",
       "summary": "清洁机器人出口面临高库存、高税率和高门槛挑战。",
       "summaryZh": ""
     },
     {
-      "title": "机器人“大脑”再添新变量 规模上岗还差“最后几毫米”？",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNNnRJdGkxbldwNVNYMVA5NkVJeEhEX1NHVzd1eGh0dDQtQ3ppaU1jUWZGOXZoUGEzeEhlNmFSMkNJUE4xOGFsVQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-08T10:03:12.000Z",
-      "summary": "机器人“大脑”技术取得进展，但规模上岗仍面临挑战。",
-      "summaryZh": ""
-    },
-    {
-      "title": "欧美AI基建大崩盘：算力之争转向成本战，中国AI的机会来了？",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVcGM2V0I5UDJPRXRGbnY2N1VwNmRWbk5YQ0NJYVhpeHMwR05DR29aODcxejlnUzdsUVZxTndjdU0xUkgwWVdyRGEzY0RUUQ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-09T05:37:09.000Z",
-      "summary": ""
-    },
-    {
-      "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5UEZhSVMzc081aEdxaUhIWFF4RWZPQUUtMFJJOENyTzd5NzdGNG5IaXpuWlk0VmJfZ24yRVRmaENYdGNRYnhHX3YySUlNQ29CVXJLYQ?oc=5",
+      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+      "link": "https://www.qbitai.com/2026/11/508694.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-09T05:09:23.000Z",
-      "summary": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代。",
+      "pubDate": "2026-11-09T08:34:03.000Z",
+      "summary": "千问办公2.0推出Team Agent，支持多人与Agent协作。",
       "summaryZh": ""
+    },
+    {
+      "title": "消息称 Sakana AI 最早 2027 秋 IPO，有望开日本人工智能实验室先河",
+      "link": "https://www.ithome.com/1/024/383.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-09T09:46:03.000Z",
+      "summary": "Sakana AI 预计 2027 年秋 IPO，成日本首个人工智能领域上市公司。",
+      "summaryZh": ""
+    },
+    {
+      "title": "薛澜：中国人工智能的优势：研究、人才和算力数据",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DVzNpazBtTEhtOGxQRkUzSXJIOVVpYjJaR2g5ODlCTklYeFJDaTZ0WUJJdXZreVV0ZjdnUmk3cXVHdkxOVGNNNWNiMkZNY3FFS3FQQg?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-09T08:22:42.000Z",
+      "summary": "薛澜指出中国AI优势在于研究、人才和算力数据。",
+      "summaryZh": ""
+    },
+    {
+      "title": "一台机器人犯过的错，怎样才能让另一台机器人少走弯路？",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xdVRlcGNZLUMwN0hmcnpxSFowR290b1ZJaF8zS0N3Q1pULV9qaWF3djNQd3B1d1dnVjlfSDJ0WkNXa3FsYXd1VQ?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-09T09:35:13.000Z",
+      "summary": "机器人经验积累与迁移研究推动智能发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "智元机器人入股机器人关节研发商泉智博",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LdHd4dHVNdHVKanlxbmx0TkFiY1d3XzhHNGVpLWxnTlJjSVNlOVZDODNBX055bWMtSGIxMm5UWW9ubHpaY09uRw?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-09T05:53:58.000Z",
+      "summary": "智元机器人成为泉智博科技新股东，注册资本增至1250.35万元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "David Navarro：从人工智能到物理智能，机器人正迎来黄金时代",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zZmxObUlyZi1ONGk1YlRDTm1lMXZrclB4S1Vaem84Uk5yZmg1RDV5VGMtZFpndHktZXJscmJJOGRCUElHanpfMmlxTDNWQQ?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-09T10:30:48.000Z",
+      "summary": ""
+    },
+    {
+      "title": "通用大模型逼近，谁来为世界模型买单？",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oQ2Zrc1c5UWZ1MWsxNzJYcmpYdzJVYmlhbWVuaVlGMXJlNnA4MG9uRDRnRkR5LXN5WE9QclZsLW1IeGVfamtxcnlZbjg4Zw?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-08T16:01:00.000Z",
+      "summary": ""
     },
     {
       "title": "美国中期选举后民主党掌控两院：英伟达对华AI芯片出口管制收紧，国产大模型算力承压",
@@ -58,8 +97,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-09T05:49:49.000Z",
-      "summary": "民主党掌控两院后，英伟达对华AI芯片出口管制收紧，国产大模型算力承压。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "智合AI正式发布Agent 3.5本地端，AI Skills全球开源",
@@ -72,62 +110,72 @@
       "summaryZh": ""
     },
     {
-      "title": "国家统计局：10月产能治理有序推进、人工智能快速发展带动部分原材料及装备制造行业价格上行",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IM05lLUxfM1VyM000VGI0bUM5akRjWmhHY25CWVcya3RjVzZFcTVLZ1c4RG1sVFFUaXhPT3hKVkxWc1JFLWNTS3FFLTRkQUx4UjBCVkxtYXhzUQ?oc=5",
+      "title": "外交部：中国率先批准《关于成立世界人工智能合作组织的协定》体现真诚意愿和坚定承诺",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QVEtzN2JOOUdEMEZJeVRwRUNuZG5iLWd2QXdhS0tQdEhrUFUzeGpSMGFFcWZUUlZmaXF1VWNvR1U2cG03WnhPaVV5NDVUc0UwUmg0dDhXbUZ3Zw?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-09T01:51:00.000Z",
-      "summary": "10月产能治理推进，人工智能发展推高部分原材料及装备制造行业价格。",
+      "pubDate": "2026-11-09T07:32:00.000Z",
+      "summary": "中国率先批准《关于成立世界人工智能合作组织的协定》，展现推进合作组织筹建的真诚意愿和坚定承诺。",
       "summaryZh": ""
     },
     {
-      "title": "Anthropic 揭秘科学家用 Claude 都干啥：大多用来分析数据和写作",
-      "link": "https://www.ithome.com/1/024/111.htm",
+      "title": "网信办：互联网新技术新应用信息服务备案系统上线，可一体化开展生成式人工智能、算法等备案",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmRzhqaGNSMnNDTzhRcDBiTjVvNUJ2R1hmVWZMcGlCV3JIZzBMbzZJYV9qRUh4N0k1ZXJnNXdFMzEtbnpzMjE1SVdIekk?oc=5",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-09T03:41:26.000Z",
-      "summary": "科学家主要用 Claude 进行数据分析和写作。",
+      "pubDate": "2026-11-09T07:40:28.000Z",
+      "summary": "网信办上线互联网新技术新应用信息服务备案系统，支持一体化备案。",
       "summaryZh": ""
     },
     {
-      "title": "壹评级：微软终止甲骨文部分租约，AI算力进入K型分化期",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vYTViMlJ4eHJBRG5mRjdSRm4yMzJIZkNEQXJvUm9fREx6aEZqZWVQX3dNNVNYMTJaZ01ibnhTRDA4MlVEVmJsWlJ1UFlYUVpNQ3BB?oc=5",
-      "source": "第一财经",
+      "title": "应用搭台，算力唱戏，AI双子星“159363+589520”获关注！国产芯片迎内需锚定机会，光模块看海外景气修复",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpTnM3N05oMHBNSUd5WG9XYnhWNUZsNVQxZzRBenR2LXpDMnJGaG1GdW96dlc4R0xBbHRTVmxCMHdHbGJYckg5amozdW5fMDJieHlxSHhR?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-09T01:40:32.000Z",
-      "summary": "微软终止甲骨文部分租约，AI算力市场进入K型分化期。",
+      "pubDate": "2026-11-09T10:04:37.000Z",
+      "summary": "AI双子星ETF涨超3%，国产芯片迎内需机会，光模块看海外景气修复。",
       "summaryZh": ""
     },
     {
-      "title": "黑龙江“一键玩龙江”智慧文旅小程序11月8日焕新上线",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zWkVudFFZNlVFZ0dJYlVhMXYxcDl6YmdEODZCemd4X3c3Y09zS0w2Wjl3dk5Sd0dzLU9qUkZiU2FkOTc0SWJXNTc4LWQ1bjBFUUZ4ajNR?oc=5",
-      "source": "腾讯新闻",
+      "title": "AI人工智能ETF平安(512930)标的指数涨超1.4%，台积电考虑进军先进存储芯片制造领域",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KVDlBNlJzdmdra01lYmp6SXJCS3FPbzNrZWJpUmo5eWJGdHpnYzAwRUJVZHEwWUp0b2Vzbzlod2xMRXRlSHplU3JYOWdUM2ZXTlhkMFp3Nko?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-08T12:43:00.000Z",
-      "summary": "黑龙江“一键玩龙江”智慧文旅小程序焕新上线，提供AI定制路线、地图导航、云游体验及暖心服务。",
+      "category": "ai",
+      "pubDate": "2026-11-09T03:51:16.000Z",
+      "summary": "AI人工智能ETF平安涨超1.4%，台积电考虑进入先进存储芯片制造。",
       "summaryZh": ""
     },
     {
-      "title": "三方深化战略合作 共同打造新一代健康养老智慧社区",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqeXRPTjlRSlB4emJOZWFzc2thcHZ5U29FSUdLWEtqaHVvb1ZKU29XMmlpRG9UdjBIbFg2ZkhIRDJ3MWd0M1BPS0tKV2JnMGNpWDlHRl9OQ0VOSkIzcXE0TXUzOA?oc=5",
+      "title": "今日上市！美国人形机器人第一股来了",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRbWI1ZWhZQ2F1V2NrOXlvcjE3cDhpVDBuUzBheHYxaTlUQ01tcVZRR2tKS21Nd3JuVS1NazNiYWRPS3hYUWVLZGp4clZNUVBDRnNkSHBQQQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-09T02:56:28.000Z",
+      "summary": "美国人形机器人公司今日上市。",
+      "summaryZh": ""
+    },
+    {
+      "title": "首批机器人进厂实干近半年，它石智航与安波福进一步深化工业具身智能合作",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tTmNJT0doalV2RHIzak40RHFVOExtWUs3eG4yb2NRbGE2ODBhN2dGTl9HU19YQ2pzU3VRcmFRTXRBSGZvTUdZVzJVcFF1bEc0bGhVekYzWWpnQi1aNWxMSm1yYw?oc=5",
       "source": "中国经营网",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-09T03:51:00.000Z",
+      "category": "robotics",
+      "pubDate": "2026-11-09T06:12:00.000Z",
       "summary": ""
     },
     {
-      "title": "IDC：2026 年全球灵巧手出货量约 2.5 万台，中国厂商占比超 85%",
-      "link": "https://www.ithome.com/1/024/146.htm",
-      "source": "IT之家",
+      "title": "具身智能数据赛道“变天” 百万小时供给难解上亿小时需求",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RLWRBSXFnUVNuLVNXdFd5V2pfVHFlZzRzSVRtbERnY05nOVhmWmV0aTUyZkJhWWhSa29MR2RqaHktMDlJU2JkUQ?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-09T05:08:01.000Z",
-      "summary": "2026年全球灵巧手出货量约2.5万台，中国厂商占比超85%。",
+      "pubDate": "2026-11-08T13:48:00.000Z",
+      "summary": "具身智能数据供需严重失衡，百万小时供给难以满足上亿小时需求。",
       "summaryZh": ""
     },
     {
@@ -137,7 +185,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-08T15:01:31.000Z",
-      "summary": "周宇翔认为工业场景AI和机器人短期内未带来失业风险。",
+      "summary": "周宇翔认为工业场景AI和机器人短期内未带来失业风险，更多是填补劳动力缺口。",
+      "summaryZh": ""
+    },
+    {
+      "title": "瑞凌股份(300154)受机器人题材与业绩因素交织 股价反复波动",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LY2hWRkExWXJhc0dPbWpIdGFjY1ZSanlPWlpoOGsxRl9iTUpjMW5aVzhZMW9Ed0J1cHoyQzNsSXp1NVNGdzlSMVNOZVZMQ1Q0ZDdBX0xaYVktZw?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-09T01:59:00.000Z",
+      "summary": "瑞凌股份股价因机器人题材与业绩波动。",
       "summaryZh": ""
     },
     {
@@ -151,56 +209,24 @@
       "summaryZh": ""
     },
     {
-      "title": "直通进博会丨从手术室到养老院 AI拓展医疗健康服务新场景",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFQmI4c3FvZ3I2T3JSYTZTTlNXYnJxdTNhZ29jUXI5Ul9wQXZES1lWYnpuOWJJVFYwNjhHNGFQMktFMmphRktpY0k0N0tzdlUzRkU1djhSUXlVWHdmVDk1VjA1Q09Va3MydUxZajhRNA?oc=5",
-      "source": "央广网",
+      "title": "山东宠物食品产业：正用AI改写传统研发逻辑",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pWUpWaHVKZ00zMXhQMDZOR1NLblF6WUxsYWhtUzBSX1FzdEdOWlBMd0xQVlp2MEpQNW5tUEZqMC1Ga1dvX1VXMlVKTFJyTE0ycnN6NjU2S1ZUanVYbU1iSl8yams4VnlnVmJQQlFwZTRqYzFI?oc=5",
+      "source": "新华社",
       "lang": "zh",
       "category": "application",
-      "pubDate": "2026-11-08T09:29:31.000Z",
-      "summary": "AI技术在医疗健康领域拓展至手术室和养老院等场景。",
+      "pubDate": "2026-11-09T08:06:20.000Z",
+      "summary": "山东宠物食品产业借助AI技术，实现研发效率提升和产业链智能化。",
       "summaryZh": ""
     },
     {
-      "title": "Micropolis Ai Robotics(MCRP)受板块波动联动走势 独立定价能力较弱",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83M0xpZFdfenN1NTVlazlPNFZJeGVYVXN0ZldQdHdrM0RnWjhmQmtJM0E3NnI1QTNpcGY0Y3BfbTExdjR4dWhuelRXZTZaT21BaGV1aldvaEk?oc=5",
-      "source": "经济观察网",
+      "title": "告别单点比拼，机器人赛道进入体系能力之争",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OYV9fRUZkay1tdm1hWDZHTlpOeTVpYnlIMFBNV1I3MmpfS2FlNENGdmcyaUFKYXl5cUJpZzc4VXdPUTdxSjZaMEdISDkwdzgyZFpYck9tSGt1UmhuYTZSYVpfLXc5VlhZV29wRzZlX0s?oc=5",
+      "source": "科技日报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-08T13:35:00.000Z",
-      "summary": "Micropolis Ai Robotics（MCRP）股价受AI硬件板块波动影响，独立定价能力较弱。",
+      "pubDate": "2026-11-09T10:33:08.000Z",
+      "summary": "机器人行业从单点能力比拼转向体系能力竞争。",
       "summaryZh": ""
-    },
-    {
-      "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
-      "link": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
-      "source": "CNBC Tech",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-08T13:00:01.000Z",
-      "summary": "亚马逊再推新家用机器人，前代产品Astro受挫。",
-      "summaryZh": "",
-      "titleZh": "亚马逊的 Astro 家用机器人拥有粉丝，但看起来注定会被扔进“垃圾堆”。为什么又要尝试"
-    },
-    {
-      "title": "湖北成立政务领域无人机大队",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LSTFkWWdrNzhQazVLNzNTdFozWlc5Y1BoN0JkSjAtRjZfMjJKVjBNbUFrVldiNm9FTVN2bHFmLW1NbExwSjA4eU96SkRrMFZ2VnpCZGl4eVVNbnBOSHBLdlBwUlRyc2tmR3RWVHNYV1FYZw?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-09T00:10:31.000Z",
-      "summary": "湖北成立政务领域无人机大队，覆盖全省1.3万平方公里。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Four Payments Executives Define Where Automation Still Needs Human Approval",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0wwRHpZUS1zRllhdzNxT1BLa0F2d01TcXcxdmlGSDk3ejg1Rno3bEhpSzlneklHTXdESkx5eDBEMDNicE84aU1uM0ZOenlqemlIT1FTd0NBMzBuS3MyUkF4MHJSNXBQVzVJTFBCWWNJcGtrWmxva3R0ZWk0Q2tBb0lSYW5kOE1Bb0dFNTdaSXFfOGhROTIwM2NpbzY5WGRSMFMtblIxaEFxeUZCMHZGTFpn?oc=5",
-      "source": "PYMNTS",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-09T01:28:02.000Z",
-      "summary": "四位支付高管阐述自动化仍需人工审批的领域。",
-      "summaryZh": "",
-      "titleZh": "四位支付高管定义了自动化仍需要人工批准的领域"
     }
   ]
 }
