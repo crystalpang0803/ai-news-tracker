@@ -1,176 +1,133 @@
 {
   "date": "2026-11-09",
-  "generatedAt": "2026-11-09T01:59:52.477Z",
+  "generatedAt": "2026-11-09T06:42:42.206Z",
   "items": [
     {
-      "title": "西门子九赴进博会：从算力到产线，AI如何落地？",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LM25MWV9KQTNENTk4dUZ2STZFVEtNcklsbnQwM1RpM2Q0UnAzYjZsX3JSdlN0TUhFTzVGNU1uRjRJOTJWSExDZlRMRFBpeW4wQ2lOcHp0SmtiVEtoeHktWQ?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-08T06:53:18.000Z",
-      "summary": "西门子进博会展示数据中心、机器人等，探讨AI落地基础设施。",
-      "summaryZh": ""
-    },
-    {
-      "title": "中石油60%控股，与宇树、泛界合设公司，油气机器人“验收权”不能交给外部厂商",
-      "link": "https://www.tmtpost.com/8197535.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-08T12:09:29.000Z",
-      "summary": "中石油60%控股合设公司，油气机器人验收权不外放。",
-      "summaryZh": ""
-    },
-    {
-      "title": "2027 款领克 08 EM-P 将支持选装 EVA 实体机器人，年内更新 FlymeAuto 2.5.0",
-      "link": "https://www.ithome.com/1/024/055.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-09T01:53:50.000Z",
-      "summary": "2027款领克08 EM-P将支持选装EVA机器人，年内升级FlymeAuto 2.5.0系统。",
-      "summaryZh": ""
-    },
-    {
-      "title": "华泰证券：全球AI算力侧投资加码有望驱动光通信板块归母净利润延续高增长-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aUDFKdkNaVjYyUF9Idmp6empaMjFhbjZQX2diWmNHUGVZekhEY09mYW5KOUFvcW9mckIxZHJudjRLV1YyT2R4Y3RhVmRYYk9NLVk2bldDVF8?oc=5",
+      "title": "GPT-6之后，具身大模型画地为牢！明年自研预算估计悬了-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RazlJc0Y1UTJiN2x1YVVTQm9MdFJmWlAwSU4xeF9YOENUOHd0X0hQRGVxMUtfN1N3RlUtWm82eUZ6VE8wWG15U2RFMS1PNFZG?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-09T01:00:22.000Z",
-      "summary": ""
-    },
-    {
-      "title": "华为、OpenAI、字节等科技巨头为何都要插手制药？",
-      "link": "https://www.tmtpost.com/8197608.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-08T12:13:38.000Z",
-      "summary": "科技巨头纷纷涉足制药领域，探索AI在药物研发中的应用。",
+      "pubDate": "2026-11-08T08:29:47.000Z",
+      "summary": "GPT-6发布后，具身大模型面临挑战，自研预算可能缩减。",
       "summaryZh": ""
     },
     {
-      "title": "中信建投：维持对北美算力和国产AI算力产业链长期看好",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rM1pnOHk3M2l2NndtVjVrSUlGNm5lZG9TbV9PaXRrS3lTV1BNQ1UzaVJoSXllSHVUNUNvNEQ4TmRaYlVwM1lzQmZ2SUpCeERveDJIblc5RGE?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-08T11:31:09.000Z",
-      "summary": "中信建投持续看好北美及国产AI算力产业链发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "张亚勤追问大模型护城河，姚顺雨：壁垒在产品层",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81eEN2SUVtcFp2WnF0Q21xUldQekdhcnJSOXppM0Fmc09McWlicUFPOXIyVTRwYm93ckFwYW53Nk1vYWo2MUMtTTlNbzdodXNseDlB?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-08T09:41:56.000Z",
-      "summary": "张亚勤与姚顺雨探讨大模型护城河，姚认为产品层壁垒更关键。",
-      "summaryZh": ""
-    },
-    {
-      "title": "中国移动与智谱达成战略合作，加速国产AI从算力、模型到商业化应用落地",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mMGtIdE1DMkt1SmFmQmhKZWV0QWlCcmdzd01BV0RHdk1wV3p4c2xidmdtQ2JGZ2ZWc291SG9PeUVDcXRoSmRSZW5rVHR6VVplbzZiZGxfNjRuSnZ5RzhMRFc3ckN2Q2tuTG40?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-08T11:44:48.000Z",
-      "summary": "中国移动与智谱合作，加速国产AI算力、模型及商业化应用落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "DeepSeek’s AI Agent Platform Hits 1.54 Million Daily Users",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXBLN3Nwd181RFJQQzBkdGo0TUFhbGZpQ1Zxb0dPWXBORHdzeG5US1ZIOGtGUTFfc2ZSVktjMktVMmtSOUZ0SkVkZ2s4cEJWWWgyQVpSRDVGTUlqWnJ6bjdybkhHaTM5czBaZXpvelNlNTZ4WUd4Y0trdk1RQlpxZXd1MFRMb0dSckw3SXpPU2RFWG9JTFlhOVcyVzVJNjFHaUpsUFNZTC10blFqVWc?oc=5",
-      "source": "Bloomberg",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-08T18:01:43.000Z",
-      "summary": "DeepSeek的AI代理平台日活跃用户突破154万。",
-      "summaryZh": "",
-      "titleZh": "DeepSeek 的 AI 代理平台日用户量达到 154 万"
-    },
-    {
-      "title": "Anthropic斥资34亿美元采购燃气发电设备，锁定1.7吉瓦电力产能；突然大规模封号，OpenAI回应：可通过申诉渠道申请复核",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FTEVBd2t4S29Gc1NSemJqQ2x0bmNOdXQxZEJ5Sy1qLUdrZTdKb1FLT0pnQXUtZGV1RFdLOTFuRFNBb2VjYnRreFExSERJclQtQ082NEIzYmlQQ1JhemR4UG1WZnBPQQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-08T23:44:00.000Z",
-      "summary": "Anthropic购34亿设备增产能，OpenAI大规模封号后回应申诉。",
-      "summaryZh": ""
-    },
-    {
-      "title": "清华联合无问芯穹、智元提出具身智能群体经验学习范式",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05R2NVWXMwX0VNMGE1c3FoR211T1AyRDRDcldkbjlQMGRkTDFHNjJtek5lY001RXN0SnBFTDJUekY2VW1uYWV4Uzc0dw?oc=5",
-      "source": "智东西",
+      "title": "清洁机器人出海患上三高：高库存、高税率、高门槛",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DWVRiT0dnNEkzVUg2Ym9GN1laeDQyb1JvaXk1WE1UblJaQllDdWprRkhfVk8xbl9MdnUyeUdOc1ppOUswdzZzWTJUUG4wbkhHcnUyY1hqVQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-08T02:37:08.000Z",
-      "summary": "清华等机构提出群体经验学习新范式，机器人集群测试成功率超人类操作员。",
+      "pubDate": "2026-11-09T04:08:37.000Z",
+      "summary": "清洁机器人出口面临高库存、高税率和高门槛挑战。",
       "summaryZh": ""
     },
     {
-      "title": "具身智能数据赛道“变天” 百万小时供给难解上亿小时需求",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RLWRBSXFnUVNuLVNXdFd5V2pfVHFlZzRzSVRtbERnY05nOVhmWmV0aTUyZkJhWWhSa29MR2RqaHktMDlJU2JkUQ?oc=5",
+      "title": "机器人“大脑”再添新变量 规模上岗还差“最后几毫米”？",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNNnRJdGkxbldwNVNYMVA5NkVJeEhEX1NHVzd1eGh0dDQtQ3ppaU1jUWZGOXZoUGEzeEhlNmFSMkNJUE4xOGFsVQ?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-08T13:48:00.000Z",
-      "summary": "具身智能数据供需严重失衡，百万小时供给难以满足上亿小时需求。",
+      "pubDate": "2026-11-08T10:03:12.000Z",
+      "summary": "机器人“大脑”技术取得进展，但规模上岗仍面临挑战。",
       "summaryZh": ""
     },
     {
-      "title": "MiniMax怎样实现AGI？闫俊杰的办法是抄“后”路",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KN3g0eXg0c3lRMy1QMWRkR1E2WjlWT1g5NDdPRUt6WUFPTnF3TW9yWWpneVpiV0J1SEhENE9vdjd5N191S2d3blJ4WDV0Vmc?oc=5",
+      "title": "欧美AI基建大崩盘：算力之争转向成本战，中国AI的机会来了？",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVcGM2V0I5UDJPRXRGbnY2N1VwNmRWbk5YQ0NJYVhpeHMwR05DR29aODcxejlnUzdsUVZxTndjdU0xUkgwWVdyRGEzY0RUUQ?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-08T07:59:26.000Z",
-      "summary": "MiniMax创始人闫俊杰提出通过降低推理成本和后训练提升模型能力，以实现AGI。",
+      "pubDate": "2026-11-09T05:37:09.000Z",
+      "summary": ""
+    },
+    {
+      "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5UEZhSVMzc081aEdxaUhIWFF4RWZPQUUtMFJJOENyTzd5NzdGNG5IaXpuWlk0VmJfZ24yRVRmaENYdGNRYnhHX3YySUlNQ29CVXJLYQ?oc=5",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-09T05:09:23.000Z",
+      "summary": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代。",
       "summaryZh": ""
     },
     {
-      "title": "马斯克预测SpaceX年化收入两年内超5000亿美元，并披露Terafab与太空算力计划",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kOHJoXzV1dG9PRFRvcWZ5V1FpNTB6VFprX1NjNU1jV1V0MURuMVVOZVkweWIyNUpJZk80YlkyV1I2OXlMeFR6c1I5VDR6anBUaUZQcw?oc=5",
+      "title": "美国中期选举后民主党掌控两院：英伟达对华AI芯片出口管制收紧，国产大模型算力承压",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5UjN6bUlSRUQ2TnFjS0FUUkppeTJjZXhmbVVLMzEwTUljMGpkRDJwU0NLUjUzSmI1U3o2a0ozNkJraWx1RzBkLThrS05xM1lLZGY0eQ?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-08T05:25:33.000Z",
-      "summary": "马斯克预测SpaceX年化收入两年内超5000亿美元，并披露Terafab与太空算力计划。",
+      "pubDate": "2026-11-09T05:49:49.000Z",
+      "summary": "民主党掌控两院后，英伟达对华AI芯片出口管制收紧，国产大模型算力承压。",
       "summaryZh": ""
     },
     {
-      "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
-      "link": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
-      "source": "CNBC Tech",
-      "lang": "en",
+      "title": "智合AI正式发布Agent 3.5本地端，AI Skills全球开源",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yU0puYVJTM3h4MlRtUlhBZ0QwX0JuQVNpVTJoZUhHbjFmVjhSRU9LNk9NbXNURkk3b1hERGpHUFVIRnFUMXZobjdPTXVrQmlkZlNMbTBlVlM2dw?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-08T14:14:11.000Z",
-      "summary": "AI团队协作实验揭示企业内部机器“团队合作”存在风险。",
-      "summaryZh": "",
-      "titleZh": "最近的人工智能代理实验揭示了企业内部机器“团队合作”的危险未来"
+      "pubDate": "2026-11-09T02:20:00.000Z",
+      "summary": "智合AI发布Agent 3.5本地端，AI Skills全球开源。",
+      "summaryZh": ""
     },
     {
-      "title": "蔚来李斌：自动驾驶不应让司机失业",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SSVdJUHk0NDVOVi1kdXBPa19tczEycFhKcjJTOS01LVdUQzl4anpDLV9KMEpUUGxHRUVFaGpUMGxHT1BneEl3ZnNDdjRzQWRLaFVvSGJrbURFRzF6R2xJbw?oc=5",
-      "source": "澎湃新闻科技",
+      "title": "国家统计局：10月产能治理有序推进、人工智能快速发展带动部分原材料及装备制造行业价格上行",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IM05lLUxfM1VyM000VGI0bUM5akRjWmhHY25CWVcya3RjVzZFcTVLZ1c4RG1sVFFUaXhPT3hKVkxWc1JFLWNTS3FFLTRkQUx4UjBCVkxtYXhzUQ?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-09T01:51:00.000Z",
+      "summary": "10月产能治理推进，人工智能发展推高部分原材料及装备制造行业价格。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Anthropic 揭秘科学家用 Claude 都干啥：大多用来分析数据和写作",
+      "link": "https://www.ithome.com/1/024/111.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-09T03:41:26.000Z",
+      "summary": "科学家主要用 Claude 进行数据分析和写作。",
+      "summaryZh": ""
+    },
+    {
+      "title": "壹评级：微软终止甲骨文部分租约，AI算力进入K型分化期",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vYTViMlJ4eHJBRG5mRjdSRm4yMzJIZkNEQXJvUm9fREx6aEZqZWVQX3dNNVNYMTJaZ01ibnhTRDA4MlVEVmJsWlJ1UFlYUVpNQ3BB?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-09T01:40:32.000Z",
+      "summary": "微软终止甲骨文部分租约，AI算力市场进入K型分化期。",
+      "summaryZh": ""
+    },
+    {
+      "title": "黑龙江“一键玩龙江”智慧文旅小程序11月8日焕新上线",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zWkVudFFZNlVFZ0dJYlVhMXYxcDl6YmdEODZCemd4X3c3Y09zS0w2Wjl3dk5Sd0dzLU9qUkZiU2FkOTc0SWJXNTc4LWQ1bjBFUUZ4ajNR?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-08T12:43:00.000Z",
+      "summary": "黑龙江“一键玩龙江”智慧文旅小程序焕新上线，提供AI定制路线、地图导航、云游体验及暖心服务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "三方深化战略合作 共同打造新一代健康养老智慧社区",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqeXRPTjlRSlB4emJOZWFzc2thcHZ5U29FSUdLWEtqaHVvb1ZKU29XMmlpRG9UdjBIbFg2ZkhIRDJ3MWd0M1BPS0tKV2JnMGNpWDlHRl9OQ0VOSkIzcXE0TXUzOA?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-09T03:51:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "IDC：2026 年全球灵巧手出货量约 2.5 万台，中国厂商占比超 85%",
+      "link": "https://www.ithome.com/1/024/146.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-08T15:25:00.000Z",
-      "summary": "蔚来李斌强调自动驾驶旨在解放司机精力，减少事故，而非取代司机工作。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI算力东风下 高景气何以加速兑现？解码深市半导体企业三季报",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFcXhCY3puR09aNnVqbllNblhjNnlQdm9sYmlMVUVCME1DcVdOSVhJejZJZDBuZXc4TVpGblhKV3JUU1VYMmxDY0dRQUlJY3dCSGtFbVJGRmZDdzNVZHpnR1lzUQ?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-08T14:17:59.000Z",
-      "summary": "深市半导体企业三季报显示，AI算力推动下，存储链、设备材料环节景气度提升，新上市企业表现亮眼。",
+      "pubDate": "2026-11-09T05:08:01.000Z",
+      "summary": "2026年全球灵巧手出货量约2.5万台，中国厂商占比超85%。",
       "summaryZh": ""
     },
     {
@@ -180,17 +137,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-08T15:01:31.000Z",
-      "summary": "周宇翔：工业场景AI和机器人短期未带来失业风险。",
+      "summary": "周宇翔认为工业场景AI和机器人短期内未带来失业风险。",
       "summaryZh": ""
     },
     {
-      "title": "跳舞、夹东西、石头剪刀布，这只螃蟹机器人有点“萌”",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqaDJUWlhZVGhtTTI5U3pmb25Cb29XUUxYMy1YTi13REtHSlBfVDMzN3NXcVZtaHpLTGVaNmFoVGxYSjdrTTdjZGJlRkRheUh5NGMybGdnOVpIRmhKVFFyTG9lNWo?oc=5",
-      "source": "光明网",
+      "title": "AI数据中心建设暂缓仍带来担忧 机器人及国产链获资金关注",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51N2gxM0xjcXptM3YwRmVlc0ZNemFOc1drbzlGZnNEZUVXRG5uNXdoWm1mLU81Q05FcHBlc0hRdTVoMHJoUjNJT29YTzZHc2VKZmdXTTRFbzdPMGNWT2Y0ZkN3?oc=5",
+      "source": "同花顺财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-08T14:35:42.000Z",
-      "summary": "螃蟹机器人“跳跳”在互联网大会上展示跳舞、夹物、互动等功能。",
+      "pubDate": "2026-11-09T02:51:33.000Z",
+      "summary": "AI数据中心建设暂缓，机器人及国产链受资金关注。",
+      "summaryZh": ""
+    },
+    {
+      "title": "直通进博会丨从手术室到养老院 AI拓展医疗健康服务新场景",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFQmI4c3FvZ3I2T3JSYTZTTlNXYnJxdTNhZ29jUXI5Ul9wQXZES1lWYnpuOWJJVFYwNjhHNGFQMktFMmphRktpY0k0N0tzdlUzRkU1djhSUXlVWHdmVDk1VjA1Q09Va3MydUxZajhRNA?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-08T09:29:31.000Z",
+      "summary": "AI技术在医疗健康领域拓展至手术室和养老院等场景。",
       "summaryZh": ""
     },
     {
@@ -200,19 +167,40 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-08T13:35:00.000Z",
-      "summary": "Micropolis Ai Robotics股价受AI硬件板块波动影响，独立定价能力较弱。",
+      "summary": "Micropolis Ai Robotics（MCRP）股价受AI硬件板块波动影响，独立定价能力较弱。",
       "summaryZh": ""
     },
     {
-      "title": "Robotics technology",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VOWVCeWYtTFNveVRfSWNPMkM2Q0J1cHNjRXBOV1VQU3FPREpJR21rMzhyY25BcDZEZndaT0wyWExhUWdaUTFULWRHSHRWMm1qLXlxWnljb292V3FDc0Fsd2pCbzFXb2dxS3pwMXJhLUgyQQ?oc=5",
-      "source": "Retail Tech Innovation Hub",
+      "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
+      "link": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
+      "source": "CNBC Tech",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-08T09:14:28.000Z",
-      "summary": "2026年零售技术创新中心发布机器人技术周数据。",
+      "pubDate": "2026-11-08T13:00:01.000Z",
+      "summary": "亚马逊再推新家用机器人，前代产品Astro受挫。",
       "summaryZh": "",
-      "titleZh": "机器人技术"
+      "titleZh": "亚马逊的 Astro 家用机器人拥有粉丝，但看起来注定会被扔进“垃圾堆”。为什么又要尝试"
+    },
+    {
+      "title": "湖北成立政务领域无人机大队",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LSTFkWWdrNzhQazVLNzNTdFozWlc5Y1BoN0JkSjAtRjZfMjJKVjBNbUFrVldiNm9FTVN2bHFmLW1NbExwSjA4eU96SkRrMFZ2VnpCZGl4eVVNbnBOSHBLdlBwUlRyc2tmR3RWVHNYV1FYZw?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-09T00:10:31.000Z",
+      "summary": "湖北成立政务领域无人机大队，覆盖全省1.3万平方公里。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Four Payments Executives Define Where Automation Still Needs Human Approval",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0wwRHpZUS1zRllhdzNxT1BLa0F2d01TcXcxdmlGSDk3ejg1Rno3bEhpSzlneklHTXdESkx5eDBEMDNicE84aU1uM0ZOenlqemlIT1FTd0NBMzBuS3MyUkF4MHJSNXBQVzVJTFBCWWNJcGtrWmxva3R0ZWk0Q2tBb0lSYW5kOE1Bb0dFNTdaSXFfOGhROTIwM2NpbzY5WGRSMFMtblIxaEFxeUZCMHZGTFpn?oc=5",
+      "source": "PYMNTS",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-09T01:28:02.000Z",
+      "summary": "四位支付高管阐述自动化仍需人工审批的领域。",
+      "summaryZh": "",
+      "titleZh": "四位支付高管定义了自动化仍需要人工批准的领域"
     }
   ]
 }
