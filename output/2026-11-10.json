@@ -1,25 +1,15 @@
 {
   "date": "2026-11-10",
-  "generatedAt": "2026-11-10T02:23:05.397Z",
+  "generatedAt": "2026-11-10T03:39:05.887Z",
   "items": [
     {
-      "title": "钛晨报“星云星座计划”发布，中国太空算力网加快部署；对冲基金以史上最快的速度之一抛售全球科技股；谷歌推出两款新TPU芯片，加码与英伟达竞争",
-      "link": "https://www.tmtpost.com/8198851.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-09T23:20:00.000Z",
-      "summary": "中国发布“星云星座计划”，加速太空算力网部署，对冲基金抛售全球科技股，谷歌推新TPU芯片竞争英伟达。",
-      "summaryZh": ""
-    },
-    {
-      "title": "联想万全混合词元工厂发布：母本工厂落地张家口，2027 年建成 15000P 异构算力集群",
-      "link": "https://www.ithome.com/1/024/640.htm",
+      "title": "波士顿动力给 Atlas 人形机器人装上轮子，可以跳起来转一圈",
+      "link": "https://www.ithome.com/1/024/697.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-10T02:10:04.000Z",
-      "summary": "联想万全混合词元工厂在张家口落地，2027年将建成15000P异构算力集群。",
+      "category": "robotics",
+      "pubDate": "2026-11-10T02:32:02.000Z",
+      "summary": "波士顿动力Atlas人形机器人装轮子，可跳圈转体。",
       "summaryZh": ""
     },
     {
@@ -29,7 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-09T08:31:35.000Z",
-      "summary": "中国电信孵化公司联合宇树推出人形机器人移动操作测评框架。",
+      "summary": "中国电信孵化公司联合宇树推出人形机器人移动操作测评框架LocoManiLab。",
       "summaryZh": ""
     },
     {
@@ -43,33 +33,73 @@
       "summaryZh": ""
     },
     {
-      "title": "超节点走向规模交付，算力军备升级了",
-      "link": "https://www.tmtpost.com/8198808.html",
+      "title": "Australia tightens AI oversight rules after OpenAI agent breached government website",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVJXX0F6amhIRlpRZGpsTmNHenBVYndTci03aEFma05jOHYtNElITWF6TnVscnNfTndvaHFjeEVHNTRfSGZubWxESVlLQ295RWNCb3ZWMmpBdDJ0aVNYYktyb1RVTVRaZTFQVmRORXZ2TmpfakRQWm1aNGdlS0J3d3pENXc3NmNoSDN4Rms4UDNkYzFLNkFBSjJJSHRoNUhhYktVNl9XYmdNdFZVNjdTdk9YQlR4bDRpcmc?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-10T01:30:00.000Z",
+      "summary": "",
+      "titleZh": "OpenAI 代理入侵政府网站后，澳大利亚收紧​​人工智能监管规则"
+    },
+    {
+      "title": "瑞士医疗科技企业Biped Robotics研发智能导航肩带，辅助视障人士独立出行",
+      "link": "https://www.tmtpost.com/8199232.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-10T03:07:23.000Z",
+      "summary": "瑞士Biped Robotics研发智能导航肩带，助视障人士独立出行。",
+      "summaryZh": ""
+    },
+    {
+      "title": "恩智浦推出统一机器人平台，加速可信物理AI部署",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zN3A3WlhudjRUVUZhM1N0eGRQYWFJQ19GS3Q2eVlodnVHUWFZM0I2RTREb05JdHItWWtDejlNeHRNRVZVenNVWnNZOWZHSHd6QkJTQU9Oaw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-09T08:00:59.000Z",
+      "summary": "恩智浦发布统一机器人平台，助力可信物理AI应用加速部署。",
+      "summaryZh": ""
+    },
+    {
+      "title": "高盛看好甲骨文：AI融资担忧或过度放大，在建项目风险可控",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92WloyY3VpMVp4cVc4S1BudElmRVFZNHl2SFY2LVdhWmx1cktqaGpYSklQeVkzV1cwZ3BXd0doUUs5Vk1aSllYbXpWdU4yQ1phQzRMa3hibjFHQQ?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-10T01:35:06.000Z",
-      "summary": "超节点规模化交付，推动算力基础设施竞争升级。",
+      "pubDate": "2026-11-09T13:04:00.000Z",
+      "summary": "高盛维持甲骨文“买入”评级，认为AI融资担忧过度，项目风险可控。",
       "summaryZh": ""
     },
     {
-      "title": "上海水下机器人公司，融了数千万",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rZ0EzY1hRQVI3c1IzVDRPN3RJTFgtNFVQOXhjREVKRmM1N2dOOW45VTJKWFlmM09lbXg2Y20zc0dFVXdNeTBaVQ?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-09T13:50:17.000Z",
-      "summary": "上海水下机器人公司泊展机器人完成数千万元首轮机构融资。",
-      "summaryZh": ""
-    },
-    {
-      "title": "人工智能将迎来背水一战！今年剩下的唯一要事就是Anthropic的IPO",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xU2RleXJuSWNpd200MGJ2UV9ob1Q5SVBqZUIxZGRRZzhiN0I3Um10a2ZaRTVVREJNMFBFU1Jpdzc4ZTgyV0N5Zg?oc=5",
-      "source": "财联社",
+      "title": "人工智能ETF华富(515980)标的指数早盘冲高涨超2%，AI投资叙事正在从基础设施建设走向智能规模扩张",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VUDFEenVBZ3gteWJGWmJUZlo5VldyT2xDV1gySExvR2ktcEt3M0RQcU9kSzItOEpHM2FtYmpVQjVMUExqZ2RxcjJZb2pZMzlPQW5ob3ZiblM?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-09T02:25:03.000Z",
-      "summary": "Anthropic计划IPO，估值下调，面临市场抛售与投资者谨慎。",
+      "pubDate": "2026-11-10T02:06:07.000Z",
+      "summary": "人工智能ETF华富(515980)标的指数冲高，AI投资转向智能规模扩张。",
+      "summaryZh": ""
+    },
+    {
+      "title": "科创人工智能ETF富国(589380)跟踪指数上证科创板人工智能指数上涨2.23%，跟踪指数已处近1年估值低位",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44VjlGX1VlMUVsSm92cGFZYUdvanR6b1AyRU5wOERTWXdBVk81MXhOakg4VTlJVG9Ic2JQMFFYdzdYaHhQZVkweEs2QTVuMVZpVUNyZ0Rydzc?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-10T01:32:00.000Z",
+      "summary": "科创人工智能ETF富国上涨2.23%，跟踪指数估值处近一年低位。",
+      "summaryZh": ""
+    },
+    {
+      "title": "壹评级：情绪扰动大于实质，AI算力基本面未恶化",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FV0dXVWVOTEszT0dwcDI3NUY1akduNzFKUWl5T25VR3Z2dzcwTEg1TTNHSUw0WHdicGdGZkJ0TGFIR0lMNmlVd0M2bldOV2ZQbWpNNg?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-10T01:34:00.000Z",
+      "summary": "AI算力基本面未恶化，市场存在过度反应。",
       "summaryZh": ""
     },
     {
@@ -83,33 +113,33 @@
       "summaryZh": ""
     },
     {
-      "title": "华泰柏瑞ETF SKILL上线：把ETF数据能力向AI Agent生态开放",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lUEQ5Z1RlYVhHbi10Qm1KRzlSRkJRTzRPak1aOWwycndBNTNMMXdkOWNrM2c3R1V6YzlOellfWnRNV0xNVk1GWEdxeVdlMHZva2l2ZjlCenp0WVdKcE9LTXBTSUtha0RDMnFCMGhMQQ?oc=5",
-      "source": "央广网",
+      "title": "事关AI算力扩张成本！两党能源法案闯关参议院，为“蓝色国会”监管定调？",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBXajg5dmY0RVhmUWpPOGU5WVp6bUVxb2hjV2RPaUl1UHJnUllVQS13QUZkUDZYclM0ZmdVbEw3RnJtOGFtZ2c?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-09T03:14:38.000Z",
-      "summary": "华泰柏瑞ETF SKILL上线，开放ETF数据能力至AI Agent生态。",
+      "pubDate": "2026-11-09T08:16:00.000Z",
+      "summary": "美国参议院审议两党能源法案，旨在降低数据中心电费并加快电网升级。",
       "summaryZh": ""
     },
     {
       "title": "人工智能+交通运输场景加速落地",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MZlVDU1R4emRUWWx6RHpGNUNnRTkxaThXeXE2bTJ2RkhIbjIwd1U0Y3BITGd5Um9SOFprZUplamFNQ29CRng4ekFHRm5tN2pHbks2TVRyamxFZ0NKaWw0ZG1rUXNOTGdQWFpxZ1k3dw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHOGJ4UUZrSE9TbUNKM01lbFh4aFhJVTNJWFVqSkp5VTV3WGg5Y2o5RGkwRFhxZkIxOFFUQVFuTEotb2swanh4RGNuYVUtcWtsYWNwRGRWMlFxTlpsempsXw?oc=5",
       "source": "中国经济网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-09T22:39:00.000Z",
-      "summary": "人工智能技术加速在交通运输领域落地应用，提升物流配送和公路管养效率。",
+      "pubDate": "2026-11-10T01:10:00.000Z",
+      "summary": "人工智能在交通运输领域应用加速，提升物流配送和公路管养效率。",
       "summaryZh": ""
     },
     {
-      "title": "宇树科技股价涨超 10%，此前已连续 2 个交易日收涨",
-      "link": "https://www.ithome.com/1/024/660.htm",
+      "title": "长城欧拉 7 更多信息公布：双电机布局 + 激光雷达，将于近期上市",
+      "link": "https://www.ithome.com/1/024/692.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-10T02:20:01.000Z",
-      "summary": "宇树科技股价连续三日上涨，最高涨幅超12%。",
+      "pubDate": "2026-11-10T02:28:39.000Z",
+      "summary": "长城欧拉7双电机版配置公布，激光雷达辅助，即将上市。",
       "summaryZh": ""
     },
     {
@@ -119,7 +149,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-09T13:45:03.000Z",
-      "summary": "AI研发AI突破“终极超级智能”，停建全球机房也阻止不了。",
+      "summary": "AI研发AI冲线“终极超级智能”，停建全球机房也晚了。",
       "summaryZh": ""
     },
     {
@@ -129,30 +159,36 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-09T03:57:03.000Z",
-      "summary": "腾讯混元大模型Hy4实测表现良好，但与顶尖闭源模型仍有差距。",
+      "summary": "腾讯混元Hy4模型实测表现良好，在开源模型中排名靠前，但与顶尖闭源模型仍有差距。",
       "summaryZh": ""
     },
     {
-      "title": "Can Agentic Robotics Solve Robotics’ Data Scaling Problem?",
-      "link": "https://spectrum.ieee.org/agentic-robotics",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
+      "title": "优理奇机器人（UniX AI）完成5亿元Pre-A轮融资",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vcnd1TktRMzM1OEJCeFNvV01TRHVhaWFxbXh5Nm5CXzZFUkZmWTdlTHNLQ0k5dGhuVDUzT1kwYnRuX3puRjA1WjFaeXdRREo2RUlyZFdqeDdLTW5ray1UVWxHYnYxUQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-09T14:00:02.000Z",
-      "summary": "研究称代理机器人可能解决机器人数据扩展问题。",
-      "summaryZh": "",
-      "titleZh": "代理机器人技术可以解决机器人技术的数据扩展问题吗？"
+      "pubDate": "2026-11-10T03:30:00.000Z",
+      "summary": "优理奇机器人完成5亿元Pre-A轮融资，多机构参与投资。",
+      "summaryZh": ""
     },
     {
-      "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
-      "link": "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/",
-      "source": "The Robot Report",
-      "lang": "en",
+      "title": "科技行业26全A三季报分析科技篇：AI硬件景气延续 机器人业绩迎来修复",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTVlwdTZBTXg4NnR4dExTM2ZJV0tGWDRMYjlfeDdQb3puOVNMOEgtOHNhS3FXVjY3VWRCYVM0NlNJaC1GNkhHQ25KYlI0b0hndWZfeUwxbjlfT1pIOXBrX1VfVXhPOHZ0eGRCbE51N1FINnRBdTFmSUJDc1lraHlVeEd0bk95T2haYlF1SHRSSnBzakx4aXlJ?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-09T18:34:38.000Z",
-      "summary": "波士顿动力为Atlas人形机器人添加轮子，测试全身控制能力。",
-      "summaryZh": "",
-      "titleZh": "波士顿动力公司为 Atlas 人形机器人添加轮子以测试全身控制"
+      "pubDate": "2026-11-09T06:45:41.000Z",
+      "summary": ""
+    },
+    {
+      "title": "又一模型大厂入局物理AI，赛道迎新突破，机器人ETF易方达（159530）标的指数涨超3%-ETF火线",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoRDJNRE02ZmdNSnJIMTlzdGRRQVJGcEZjYjJvcTVScTAwSTFBakdPM09laFVFd0M1OXBkeHhFdmNXNjFIQVVPWW0wcWVmYk00a3cxWWVMRnM0RGFfdVYzaTRDQXZzZG8zWDFDbzNwVFA?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-10T02:14:51.000Z",
+      "summary": ""
     },
     {
       "title": "“成都高新造”机器人将亮相APEC",
@@ -165,14 +201,24 @@
       "summaryZh": ""
     },
     {
-      "title": "Impossible Metals says it has successfully tested AI seabed mining robot",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV1M4ajA4SWJ0OUxmWnBNZFhVaGJaVmxmNXY1eGR0dU5ERDVTd0lzcHBLYnNJTjZicFhvbWxDaGlOZ1FLekZQM3pIUTFpRnFNTHRIRkpPS2k5aEllNEtBNUhXaldQTnJYWTdPaG1MQVd0OXFjRlVEUnZCQ0dGOHp4UXdFSVdiY2F0NkI3SGRIekZoeTRZT2F4MlNaSlA1cmw0cjZTQnR2em9LUHFXUjRMZlhPMGtSNXNra09J?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
+      "title": "2026健康管理、护理与养老智能创新发展国际论坛在沪举行",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0WkxMUHZfSzQzQngtSWkwRlNOT016WmtxSnZaMDF2SVd1X3k2NHNzamh6NjVlcnBrX3haYnBBQWZjdkpkTGtEeWswWHo2bHNoLXc5N1U0YTJBYlZmME1JRGFqNW9vRS1SdVprM3Z5M3l6UQ?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-09T11:34:00.000Z",
+      "summary": "2026健康管理、护理与养老智能创新发展国际论坛在上海举行，探讨AI在医疗领域的应用。",
+      "summaryZh": ""
+    },
+    {
+      "title": "142拍！AI自主决策机器人乒乓对打破纪录",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SUk5GamJWTmNONWR5QVlDMEsxYVZWN2xxT0xkTThMQ01kd3FjMTVnNVF4cTFiSUNLVEtvYzN5NzI3N2RzMFZXYy1ZTzlpcjYxQmc4ZlhfT0RsUkJZakN6MjFrc0xWWlctQ05rTnZWUQ?oc=5",
+      "source": "中国经济网",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-09T17:07:45.000Z",
-      "summary": "",
-      "titleZh": "Impossible Metals表示已成功测试AI海底采矿机器人"
+      "pubDate": "2026-11-10T02:32:00.000Z",
+      "summary": "AI自主决策机器人打破142拍乒乓球对打世界纪录。",
+      "summaryZh": ""
     }
   ]
 }
