@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generatedAt": "2026-11-10T00:12:03.570Z",
+  "generatedAt": "2026-11-10T01:27:09.382Z",
   "items": [
     {
       "title": "研究显示 OpenAI ChatGPT 占全球 AI 聊天机器人流量超 81%，断层领跑",
@@ -13,13 +13,23 @@
       "summaryZh": ""
     },
     {
-      "title": "Waymo 自动驾驶车辆遇到校车“超车成性”，NHTSA 展开召回整改效果调查",
-      "link": "https://www.ithome.com/1/024/549.htm",
+      "title": "钛晨报“星云星座计划”发布，中国太空算力网加快部署；对冲基金以史上最快的速度之一抛售全球科技股；谷歌推出两款新TPU芯片，加码与英伟达竞争",
+      "link": "https://www.tmtpost.com/8198851.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-09T23:20:00.000Z",
+      "summary": "中国发布“星云星座计划”，加速太空算力网部署，对冲基金抛售全球科技股，谷歌推新TPU芯片竞争英伟达。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Meta 推出轻量级 AI 模型 Muse Ember：跑分媲美 Claude Haiku 5.5，单任务成本仅 1/3",
+      "link": "https://www.ithome.com/1/024/604.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-09T13:55:56.000Z",
-      "summary": "NHTSA调查Waymo自动驾驶车辆超车校车违规事件，评估软件修复效果。",
+      "category": "ai",
+      "pubDate": "2026-11-10T00:59:26.000Z",
+      "summary": "Meta发布轻量级AI模型Muse Ember，性能与Claude Haiku 5.5相当，成本降低至1/3。",
       "summaryZh": ""
     },
     {
@@ -29,7 +39,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-09T08:31:35.000Z",
-      "summary": "中国电信孵化的具身公司联合宇树推出人形机器人移动操作测评框架。",
+      "summary": "中国电信孵化公司联合宇树推出人形机器人移动操作测评框架。",
       "summaryZh": ""
     },
     {
@@ -62,13 +72,13 @@
       "summary": ""
     },
     {
-      "title": "亚马逊：AWS承诺投入1亿美元用于人工智能和云技术",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hdVlJa2RPRXd3UHJSLS1XamkzWFFtR09VUzRxUzI5UW16RmVxU1VfOE03dl9qTkhSSzVtRnlVVkNTZGJLeGpKTk00SWN3c2E3OGNGb1ZPZ0NJdw?oc=5",
+      "title": "高盛看好甲骨文：AI融资担忧或过度放大，在建项目风险可控",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92WloyY3VpMVp4cVc4S1BudElmRVFZNHl2SFY2LVdhWmx1cktqaGpYSklQeVkzV1cwZ3BXd0doUUs5Vk1aSllYbXpWdU4yQ1phQzRMa3hibjFHQQ?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-09T14:04:00.000Z",
-      "summary": "亚马逊AWS承诺投入1亿美元发展人工智能和云技术。",
+      "pubDate": "2026-11-09T13:04:00.000Z",
+      "summary": "高盛维持甲骨文“买入”评级，看好其AI融资及在建项目风险可控。",
       "summaryZh": ""
     },
     {
@@ -78,7 +88,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-09T02:25:03.000Z",
-      "summary": "Anthropic计划IPO，估值下调，面临市场抛售与投资者谨慎。",
+      "summary": "Anthropic计划IPO，估值下调，市场对AI股谨慎。",
       "summaryZh": ""
     },
     {
@@ -108,8 +118,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-09T03:14:38.000Z",
-      "summary": "华泰柏瑞ETF SKILL上线，开放ETF数据能力至AI Agent生态。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "人工智能+交通运输场景加速落地",
@@ -118,7 +127,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-09T22:39:00.000Z",
-      "summary": "人工智能在交通运输领域应用加速，提升物流配送和公路管养效率。",
+      "summary": "人工智能在交通运输领域应用加速，推动物流配送和公路管养智能化。",
       "summaryZh": ""
     },
     {
@@ -137,17 +146,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-09T13:45:03.000Z",
-      "summary": "AI研发AI突破至“终极超级智能”，停建全球机房也阻止不了。",
-      "summaryZh": ""
-    },
-    {
-      "title": "实测 HY4：腾讯最夯大模型，离一线还有多远？",
-      "link": "http://www.geekpark.net/news/373644",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-09T03:57:03.000Z",
-      "summary": "腾讯混元Hy4模型在开源模型中进入第一梯队，但与顶尖闭源模型仍有差距。",
+      "summary": "AI研发AI冲线“终极超级智能”，停建全球机房也晚了。",
       "summaryZh": ""
     },
     {
@@ -157,7 +156,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-09T14:00:02.000Z",
-      "summary": "研究称代理机器人可能解决机器人数据扩展问题。",
+      "summary": "研究称，代理机器人可能解决机器人数据扩展问题。",
       "summaryZh": "",
       "titleZh": "代理机器人技术可以解决机器人技术的数据扩展问题吗？"
     },
@@ -168,17 +167,37 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-09T09:01:13.000Z",
-      "summary": "菜鸟在香港智慧港推出AI及具身智能产业合作，开放全球仓网打造物流实景训练集群。",
+      "summary": "菜鸟在香港智慧港开放全球仓网，助力AI与具身智能企业物流实训及出海。",
       "summaryZh": ""
     },
     {
-      "title": "欧盟拟对社交媒体成瘾功能与AI机器人功能出手整治",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ieklmN0VaY1RuVENKR3owcXVwM1Nrb21CcXl1bkQ4LS16X3FtdTFrcGhyaVRsYTJRSGxENGhNdl9lYTdxRDdNZy1fbVBNTjF0YnVyZDBZYWViaEVPRGZ6WTlFcE81SlI4N1JZMjNZaw?oc=5",
-      "source": "金融界",
+      "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
+      "link": "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-09T18:34:38.000Z",
+      "summary": "Boston Dynamics为Atlas人形机器人添加轮子，测试全身控制能力。",
+      "summaryZh": "",
+      "titleZh": "波士顿动力公司为 Atlas 人形机器人添加轮子以测试全身控制"
+    },
+    {
+      "title": "科技行业26全A三季报分析科技篇：AI硬件景气延续 机器人业绩迎来修复",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTVlwdTZBTXg4NnR4dExTM2ZJV0tGWDRMYjlfeDdQb3puOVNMOEgtOHNhS3FXVjY3VWRCYVM0NlNJaC1GNkhHQ25KYlI0b0hndWZfeUwxbjlfT1pIOXBrX1VfVXhPOHZ0eGRCbE51N1FINnRBdTFmSUJDc1lraHlVeEd0bk95T2haYlF1SHRSSnBzakx4aXlJ?oc=5",
+      "source": "新浪财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-09T15:24:06.000Z",
-      "summary": "欧盟计划限制社交媒体成瘾功能和AI机器人，企业违规将面临巨额罚款。",
+      "pubDate": "2026-11-09T06:45:41.000Z",
+      "summary": ""
+    },
+    {
+      "title": "优理奇机器人完成5亿元Pre-A轮融资",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pV3hHaUVGbWR0dElNbmZfeWg0Vkkxc3lYSlpNZTVDUXhXY0t2dGF4SGIxczdOdk1HWEFERzhXVWZtWG01aWpqTXZPSW8wM2NmNzhjeUtDNy1mUQ?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-09T11:07:00.000Z",
+      "summary": "优理奇机器人获得5亿元Pre-A轮融资，多机构参与投资。",
       "summaryZh": ""
     },
     {
@@ -188,41 +207,18 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-09T02:18:55.000Z",
-      "summary": "具身智能模型API开放，支持跨本体迁移和适应新任务。",
+      "summary": "具身智能模型开始开放API，支持跨本体迁移和适应新任务。",
       "summaryZh": ""
     },
     {
-      "title": "From TractEasy to TLD Robotics: A new chapter in autonomous airport operations",
-      "link": "https://roboticsandautomationnews.com/2026/11/09/from-tracteasy-to-tld-robotics-a-new-chapter-in-autonomous-airport-operations/106859/",
-      "source": "Robotics & Automation News",
+      "title": "Impossible Metals says it has successfully tested AI seabed mining robot",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV1M4ajA4SWJ0OUxmWnBNZFhVaGJaVmxmNXY1eGR0dU5ERDVTd0lzcHBLYnNJTjZicFhvbWxDaGlOZ1FLekZQM3pIUTFpRnFNTHRIRkpPS2k5aEllNEtBNUhXaldQTnJYWTdPaG1MQVd0OXFjRlVEUnZCQ0dGOHp4UXdFSVdiY2F0NkI3SGRIekZoeTRZT2F4MlNaSlA1cmw0cjZTQnR2em9LUHFXUjRMZlhPMGtSNXNra09J?oc=5",
+      "source": "Reuters Technology",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-09T19:55:36.000Z",
-      "summary": "TLD Robotics成立，标志着机场自主运营新篇章开启。",
-      "summaryZh": "",
-      "titleZh": "从 TractEasy 到 TLD Robotics：自主机场运营的新篇章"
-    },
-    {
-      "title": "Opinion: Supervised autonomy in robotics starts with the robot’s worst day",
-      "link": "https://roboticsandautomationnews.com/2026/11/09/opinion-supervised-autonomy-in-robotics-starts-with-the-robots-worst-day/106840/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-09T18:17:27.000Z",
-      "summary": "机器人监督自主性设计需从其最糟糕的一天开始考虑。",
-      "summaryZh": "",
-      "titleZh": "观点：机器人技术的监督自主从机器人最糟糕的一天开始"
-    },
-    {
-      "title": "Zipline raises $1.5B, plans US drone manufacturing expansion",
-      "link": "https://www.supplychaindive.com/news/zipline-raises-15b-plans-us-drone-manufacturing-expansion/874009/",
-      "source": "Supply Chain Dive",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-09T16:01:00.000Z",
-      "summary": "Zipline融资15亿美元，计划扩大美国无人机制造。",
-      "summaryZh": "",
-      "titleZh": "Zipline 融资 $1.5B，计划扩张美国无人机制造"
+      "pubDate": "2026-11-09T17:07:45.000Z",
+      "summary": "",
+      "titleZh": "Impossible Metals表示已成功测试AI海底采矿机器人"
     }
   ]
 }
