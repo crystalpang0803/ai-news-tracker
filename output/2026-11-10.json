@@ -1,25 +1,25 @@
 {
   "date": "2026-11-10",
-  "generatedAt": "2026-11-10T07:25:06.651Z",
+  "generatedAt": "2026-11-10T11:42:58.264Z",
   "items": [
     {
-      "title": "全球最强 AI 模型：Claude Fable 5.2 登场，编程超 GPT-6 Astra、登顶多项基准",
-      "link": "https://www.ithome.com/1/024/796.htm",
-      "source": "IT之家",
+      "title": "Token卷到触觉了！机器人终于有了通用手感",
+      "link": "https://www.qbitai.com/2026/11/508919.html",
+      "source": "量子位",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-10T05:52:12.000Z",
-      "summary": "Claude Fable 5.2 AI模型发布，编程能力超越GPT-6 Astra，登顶多项基准测试。",
+      "category": "robotics",
+      "pubDate": "2026-11-10T07:26:53.000Z",
+      "summary": "机器人触觉技术取得突破，蚂蚁灵波开源触觉预训练模型LingBot-Touch提升操作成功率。",
       "summaryZh": ""
     },
     {
-      "title": "50℃ 热水喷淋定点拖地：小米米家扫拖机器人 7 Max 国补后 4999 → 3602 元",
-      "link": "https://www.ithome.com/1/024/828.htm",
+      "title": "《汽车总动员》照进现实？迪士尼测试 AI 停车机器人",
+      "link": "https://www.ithome.com/1/025/044.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-10T06:45:20.000Z",
-      "summary": "小米米家扫拖机器人7 Max国补后降至3602元。",
+      "pubDate": "2026-11-10T10:39:14.000Z",
+      "summary": "迪士尼测试AI停车机器人，灵感来自《汽车总动员》。",
       "summaryZh": ""
     },
     {
@@ -33,13 +33,23 @@
       "summaryZh": ""
     },
     {
-      "title": "天翼电信终端与优必选合作，未来三年推10万台仿生人形机器人规模化销售",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xSnl1TDBQNmtIWnJHeDV2Z05zZ1dhdEhjVEFzZXZWaUtNTXVLZEk5SDRhcXR4ZkwtTWNTQ3FMMnVlSnNKVWFBTk81aHdYelpDWERQQV9HakVWeUxaX1ZCdm9R?oc=5",
-      "source": "新京报",
+      "title": "AI的收费站正在搬家：端侧抢的不是算力，是云端的收银台",
+      "link": "https://www.tmtpost.com/8199775.html",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-09T10:25:00.000Z",
-      "summary": "天翼电信终端与优必选合作，未来三年将推出10万台仿生人形机器人。",
+      "category": "ai",
+      "pubDate": "2026-11-10T08:34:58.000Z",
+      "summary": "端侧AI芯片抢夺云端按token计费的收银台，AI收费站搬家。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI算力需求延续高景气，南方基金旗下创业板人工智能ETF南方(159382)跟踪指数涨超3%",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tVXZ4Y09KMTZlTWVfOV9iQjZMQ3p0M0xGQ1luU3ZkV19waFk4cEduLUVHaVk2UXhDeGtuU1VlNjcwM1VZZElES3M2Wk5kbGpXa0FYWmtTOTg?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-10T02:06:07.000Z",
+      "summary": "南方基金创业板人工智能ETF跟踪指数涨超3%，AI算力需求持续旺盛。",
       "summaryZh": ""
     },
     {
@@ -53,43 +63,13 @@
       "summaryZh": ""
     },
     {
-      "title": "诺亦腾机器人高精度手部数据开放",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WdUluSWlQV2ZmTjNmMl9wSW1zNFlTX3JkMjN6X2VMLU5zSm1uemVDWkhxcnJ1QWpneTVfT0t2TWNKaGRBcmVvR0R5VQ?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-10T05:10:02.000Z",
-      "summary": "诺亦腾机器人开放高精度手部动作捕捉数据集HiPHI-Hand，支持机器人学习和三维手部重建研究。",
-      "summaryZh": ""
-    },
-    {
-      "title": "又一模型大厂入局物理AI，赛道迎新突破，机器人ETF易方达（159530）标的指数涨超3%",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZTjlSVjhiV185TWpaU1NYVzZhQ3VKVlRib2dsb25Xc2o0dWpkSWdQMVFVR1R4MHJoTW13Y3ZjNWFla0MzTFlZSg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-10T03:02:23.000Z",
-      "summary": "模型大厂入局物理AI，机器人ETF易方达（159530）标的指数涨超3%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI算力拉动订单高增，PCB产业链迎来量价齐升-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BWWE3NEU3RnVOb1Myd19kY1VsMFh1WmE0RXV6Yk1rYmdZdU1oTS1qal85eE1VNHRzRmZwcGExeElrWndCZzJjSndhWXhXNjNPZUx3aXRJX3U?oc=5",
+      "title": "谷歌发布新AI芯片，HBM带宽翻倍",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5czFtQ1ZiZkdsVVVIdFA2bzVGN0FjcEdiWGdJV0tPc25PNHFKN29pQzl4a2FnRFlOY2NzVjd1bF9FdW1qX19sVUE1UzNXZw?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-09T07:38:00.000Z",
+      "pubDate": "2026-11-09T11:54:00.000Z",
       "summary": ""
-    },
-    {
-      "title": "百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sVWJteGZhRDQzOUlvOW9mQ3ZMM1hMQTVoN1RqM0hrd002bWpJRklncUJ1TTV2THYtUEFaNU4yOTZCUXFCLXZZRkFtTFA5a3dqQVNkbQ?oc=5",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-09T09:48:04.000Z",
-      "summary": "百度文心发布ERNIE Evolve，用于文心5.5 Flash研发，优化推理性能。",
-      "summaryZh": ""
     },
     {
       "title": "高盛看好甲骨文：AI融资担忧或过度放大，在建项目风险可控",
@@ -102,13 +82,33 @@
       "summaryZh": ""
     },
     {
-      "title": "亚马逊：AWS承诺投入1亿美元用于人工智能和云技术",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hdVlJa2RPRXd3UHJSLS1XamkzWFFtR09VUzRxUzI5UW16RmVxU1VfOE03dl9qTkhSSzVtRnlVVkNTZGJLeGpKTk00SWN3c2E3OGNGb1ZPZ0NJdw?oc=5",
-      "source": "钛媒体",
+      "title": "AI人工智能ETF平安(512930)标的指数涨超2.1%，Anthropic公布新版Fable和Mythos模型",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RVlRTRlV3WHhTNUd1bEF3OWJKcHhaZW5Qa0dSSlkyQzZ3ZlU1cG44UE1LenBGcjI4bUpybmNtRXh6Rl9tenRmSGh1UllLRjBJTUk1MUl2SWg?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-09T14:04:00.000Z",
-      "summary": "亚马逊AWS计划投入1亿美元发展人工智能和云技术。",
+      "pubDate": "2026-11-10T02:51:00.000Z",
+      "summary": "AI人工智能ETF平安指数上涨，Anthropic发布新AI模型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "宠物硬件集体转向，AI开始接管宠物健康",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96ckl4dktWWTZPZ1l0bUtUR3RwYTZSWjV1RU5uOHNCX3pkQ1F6SFI3c09IOUs4NEUzZk5QVUNGblBQdFV2TlZDeUNyWGVfVjlV?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-09T13:25:06.000Z",
+      "summary": "宠物硬件企业转向AI，以数据服务提升宠物健康管理。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI算力拉动订单高增 PCB产业链迎来量价齐升",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40ZmVPZWNFUmRaMUpGZWhUc211VzUzaEl5d3NLc3piMVlOYXlpeUVQVm51THBNWHBHbmNjNTctSTRrTzh3dWRma1UwR01Xd3dTemY0?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-09T23:43:25.000Z",
+      "summary": "AI算力推动PCB订单激增，产业链量价齐升。",
       "summaryZh": ""
     },
     {
@@ -118,28 +118,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-10T01:34:00.000Z",
-      "summary": "AI算力板块情绪扰动大，基本面未恶化，市场存在过度反应。",
+      "summary": "AI算力基本面未恶化，市场存在过度反应。",
       "summaryZh": ""
     },
     {
-      "title": "恩智浦推出统一机器人平台，加速可信物理AI部署",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zN3A3WlhudjRUVUZhM1N0eGRQYWFJQ19GS3Q2eVlodnVHUWFZM0I2RTREb05JdHItWWtDejlNeHRNRVZVenNVWnNZOWZHSHd6QkJTQU9Oaw?oc=5",
-      "source": "与非网",
+      "title": "Anthropic、英伟达同日上新 机器人真的要“长脑子”了？",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04cThQbUxtbjFBdTc4SjA1SmtJQXRxdnN0YVhBVlg2dE5sVU4wNGduX29FOExHNTdDUVhJOTZVdTZGa243eEowSA?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-09T08:00:59.000Z",
-      "summary": "恩智浦发布统一机器人平台，助力可信物理AI应用加速部署。",
+      "pubDate": "2026-11-10T06:09:00.000Z",
+      "summary": "Anthropic和英伟达发布新品，机器人控制能力显著提升。",
       "summaryZh": ""
     },
     {
-      "title": "凭算力采购合同换来贷款 河北首笔“词元贷”在廊坊落地",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51cjBObzdGZHRsUm94UTJWREhJYTZLcUdkQnBueEcwYlpnbk1QTnQtZ1RYeFdRbGlDZWRreUtnWEJmVXlRMXR0RmFwWDZPRXZ2ci1mbEQxOGhnSkZCb2M0Y1dqS3N4TkUw?oc=5",
-      "source": "中国新闻网",
+      "title": "从投研、短剧到知识检索，拆完这几个Agent，我才知道AI落地卡在哪- 生活家",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYY1pUaGdqbTdtWjlrVm1vUHo3N0J6MmNBaU85ajlvWnNyZ2R6ZHQzQmplWl80eG1XU2dwcjZiZTYtemJuQVBUQ3N3OHU1RUZuZ1BZ?oc=5",
+      "source": "华尔街见闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-09T09:46:52.000Z",
-      "summary": "河北首笔“词元贷”通过算力采购合同获得80万元贷款。",
-      "summaryZh": ""
+      "pubDate": "2026-11-10T09:00:00.000Z",
+      "summary": ""
     },
     {
       "title": "人工智能+交通运输场景加速落地",
@@ -148,38 +147,30 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-10T01:10:00.000Z",
-      "summary": "人工智能在交通运输领域应用加速，提升物流配送和公路管养效率。",
+      "summary": "人工智能在交通运输领域应用加速，提升物流配送效率和公路管养科学性。",
       "summaryZh": ""
     },
     {
-      "title": "前OpenAI员工看吐，AI研发AI冲线“终极超级智能”，停建全球机房也晚了",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OMWdaTmpXOUpBVk04bDZYRHBJdEZSNV9SQzhhUlJUTVM0SDk3ZjV5bXhRVVFmb2hiR3BZaGhiRWNwZ1ZNUGc0Mlh6SWZobE5z?oc=5",
-      "source": "36氪",
-      "lang": "zh",
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "source": "Ars Technica",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-11-09T13:45:03.000Z",
-      "summary": "AI研发AI突破至“终极超级智能”，停建全球机房也阻止不了。",
-      "summaryZh": ""
+      "pubDate": "2026-11-09T17:24:26.000Z",
+      "summary": "Claude Code在GitHub上意外泄露大量敏感信息。",
+      "summaryZh": "",
+      "titleZh": "Claude Code 不小心在 GitHub 上泄露了秘密"
     },
     {
-      "title": "Can Agentic Robotics Solve Robotics’ Data Scaling Problem?",
+      "title": "Can Agentic Robotics Solve Robotics’ Data-Scaling Problem?",
       "link": "https://spectrum.ieee.org/agentic-robotics",
       "source": "IEEE Spectrum Robotics",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-09T14:00:02.000Z",
-      "summary": "研究：代理机器人或可解决机器人数据扩展难题。",
+      "summary": "研究称代理机器人或可解决机器人数据扩展问题。",
       "summaryZh": "",
       "titleZh": "代理机器人技术可以解决机器人技术的数据扩展问题吗？"
-    },
-    {
-      "title": "能控制机器人拧瓶盖、解魔方和画画！Fable 5.2的具身智能能力实现“惊人跃迁”",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WdWU0OXNadDB4c0laakRWRm8tMXc5QTJVdXlKTm00TDNqMW5XVzFUZkxNalBIdl9DOGJJR09uSngzOG9RdXdLWUtEeU5FV0xSOUxJ?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-10T02:57:40.000Z",
-      "summary": ""
     },
     {
       "title": "具身智能机器人直流供电系统如何应对频发的瞬态负载突变问题_电路方案",
@@ -192,43 +183,33 @@
       "summaryZh": ""
     },
     {
-      "title": "午评：创业板指涨1.49% AI影视、人形机器人等概念板块走强",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yZ0FBbjBJT0VZN2ZuNF9RZkZ6T1NvNDBjeVZWSEJMYUwxd0VaX3o5Wnh6eEU1N05GS3RnWVFRcXo1WXZiNEphNFc5ZHdRZWtl?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-10T03:35:34.000Z",
-      "summary": "创业板指涨1.49%，AI影视、人形机器人等概念板块走强。",
-      "summaryZh": ""
-    },
-    {
       "title": "钶锐锶上市：布局半导体、AI服务器、人形机器人等赛道未来可期",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vdFR4RkNlZTVkam9qSmtWTEYybFdIMlRuVG5ZUEx6Tjc0QUo5RHcxY0tjUWluVEwyV3R4VnpfU29xOVV3MkU5U0ZtbEZ2OEUw?oc=5",
       "source": "凤凰财经",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-10T03:15:08.000Z",
-      "summary": "钶锐锶上市，布局半导体等赛道，业绩持续增长。",
+      "summary": "钶锐锶上市，布局全直驱数控机床与PWM型数控系统，助力高端制造升级。",
       "summaryZh": ""
     },
     {
-      "title": "2026健康管理、护理与养老智能创新发展国际论坛在沪举行",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0WkxMUHZfSzQzQngtSWkwRlNOT016WmtxSnZaMDF2SVd1X3k2NHNzamh6NjVlcnBrX3haYnBBQWZjdkpkTGtEeWswWHo2bHNoLXc5N1U0YTJBYlZmME1JRGFqNW9vRS1SdVprM3Z5M3l6UQ?oc=5",
-      "source": "中国新闻网",
+      "title": "以AI服务AI，拓斯达全球开放日人形机器人等多项合作集中签约",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Zc0I1SzdLRXF0djlXWloySDEtVkNXV2swdmRDTDVxMEFfMUk3dkJZSV9ZQ2JIdzNPc2pxcGxaREI0WXZ3YjFyRTR4Qi11UXZpa1g0QXFWLWRpT3R2aTNKZjJjdkh4X21MNk51X255cFhtM0ZTOEIteVJTYUtsZw?oc=5",
+      "source": "央广网",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-09T11:34:00.000Z",
-      "summary": "2026健康管理、护理与养老智能创新发展国际论坛在上海举行，探讨AI在医疗领域的应用。",
+      "category": "robotics",
+      "pubDate": "2026-11-10T00:34:40.000Z",
+      "summary": "拓斯达全球开放日集中签约多项AI服务AI合作。",
       "summaryZh": ""
     },
     {
-      "title": "品质驱动 新一代智慧物流产品及解决方案发布",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96SWR6VEdwNldBeGVvaDZ4QnpoWGhqbE9GYVdHanZ3YUp0RjJFelRGdUlTWGpSZGt3NTJqbXg0US1VWTVjSTFBRmx4eDg3SjZEdE83WDFiZUpiUEJxbnE3YXBxLTBjTFlHdUU2bkpaeDM?oc=5",
-      "source": "科技日报",
+      "title": "做AI漫剧全部亏损，不如送外卖？专家揭秘钱去哪儿了",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XTThuM2ljRFlVSzB0LUpVYVNJVm94VjJSRlhDamhvdWRuNzNSMkRPTXhNdFVVdkZoMmdUY3hXVjBrRmxqS2ZhUjV2YnlocHYzRmR2aHlnY3NxaFNBSnhDNXhB?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
       "category": "application",
-      "pubDate": "2026-11-09T10:25:06.000Z",
-      "summary": "新一代智慧物流产品及解决方案在上海CeMAT ASIA 2026展会上发布。",
+      "pubDate": "2026-11-09T14:03:00.000Z",
+      "summary": "AI漫剧制作成本高，投流占九成，专家称不如送外卖。",
       "summaryZh": ""
     }
   ]
