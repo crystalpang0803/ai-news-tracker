@@ -1,15 +1,15 @@
 {
   "date": "2026-11-11",
-  "generatedAt": "2026-11-10T21:46:46.207Z",
+  "generatedAt": "2026-11-10T23:11:37.653Z",
   "items": [
     {
-      "title": "全球最强 AI 模型：Claude Fable 5.2 登场，编程超 GPT-6 Astra、登顶多项基准",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jODVab3NxbkNubXVOQWp5QjQwbmZDZ0NnYzRiWjJQWnRySGc2WmVRWEtvX3RkZU9NSjNFOEtvcjRUMkZEM2ZqRUpzOXQ?oc=5",
+      "title": "谷歌联合 Artificial Analysis 推出 MKA 基准测试：Gemini 4 Carbon 多模态知识工作测试获第二，任务成本仅为第一名六分之一",
+      "link": "https://www.ithome.com/1/025/205.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-10T05:52:12.000Z",
-      "summary": "Claude Fable 5.2 AI模型发布，编程能力超越GPT-6 Astra，登顶多项基准测试。",
+      "pubDate": "2026-11-10T22:48:50.000Z",
+      "summary": "谷歌Gemini 4 Carbon在MKA多模态知识工作测试中排名第二，成本仅为第一名六分之一。",
       "summaryZh": ""
     },
     {
@@ -21,6 +21,17 @@
       "pubDate": "2026-11-10T18:03:43.000Z",
       "summary": "",
       "titleZh": "OpenAI 让企业索取 ChatGPT 配置文件，为美国电子商务公司添加人工智能代理"
+    },
+    {
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-10T18:49:52.000Z",
+      "summary": "OpenAI推出新商业档案，使ChatGPT更接近谷歌。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 推出新的业务配置文件，使 ChatGPT 更像 Google 一点"
     },
     {
       "title": "蚂蚁灵波又放大招！机器人通用大脑学会共享“手感”",
@@ -53,13 +64,13 @@
       "summaryZh": ""
     },
     {
-      "title": "嵌入式 x86 算力天花板：AMD 霄龙嵌入式 9006 系列 SP7 处理器发布，吞吐量飙升 1.8 倍",
-      "link": "https://www.ithome.com/1/025/195.htm",
-      "source": "IT之家",
+      "title": "IBM与微软推出AI智能体平台Imagine Enterprise",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PbXRWQlVPN3JTanBqeGhXRUdWTFFPaTlGR284X3c3UmoyYmVqdXUyNjhtNi0yX0thUnRpNVA0Q1JCTGcyUy01RXR6SWdpRmlpaU56TGlZU01FQQ?oc=5",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-10T17:05:05.000Z",
-      "summary": "AMD发布霄龙9006系列SP7处理器，嵌入式x86算力提升1.8倍。",
+      "pubDate": "2026-11-10T13:22:00.000Z",
+      "summary": "IBM与微软联合发布AI智能体平台Imagine Enterprise。",
       "summaryZh": ""
     },
     {
@@ -80,7 +91,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-10T05:10:02.000Z",
-      "summary": "诺亦腾开放高精度手部动作捕捉数据集HiPHI-Hand，支持机器人学习等研究。",
+      "summary": "诺亦腾机器人开放高精度手部动作捕捉数据集HiPHI-Hand，支持机器人学习和三维手部重建研究。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI漫剧与机器人概念轮番上涨 谁的持续性更强？",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JRXBGRGxXREZUSXNJVXFCYzdyQjF1bEJrRjdxeGkxN3loenpmZzVFRjlpdVp5eU9uTUZLcy1uQUFhMEt0R1JxT0p2MmNaZ0ZZZDNNZQ?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-10T06:30:07.000Z",
+      "summary": "AI漫剧与机器人概念轮番上涨，持续性存疑。",
       "summaryZh": ""
     },
     {
@@ -120,101 +141,89 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-10T02:29:00.000Z",
-      "summary": "中国大模型周调用量连续28周领跑全球，科创AIETF博时涨超2.5%。",
+      "summary": "中国大模型周调用量连续28周领跑全球，四款国产模型占据前五席位。",
       "summaryZh": ""
     },
     {
-      "title": "科创人工智能ETF富国(589380)跟踪指数上证科创板人工智能指数上涨2.23%，跟踪指数已处近1年估值低位",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44VjlGX1VlMUVsSm92cGFZYUdvanR6b1AyRU5wOERTWXdBVk81MXhOakg4VTlJVG9Ic2JQMFFYdzdYaHhQZVkweEs2QTVuMVZpVUNyZ0Rydzc?oc=5",
+      "title": "人工智能ETF华富(515980)标的指数早盘冲高涨超2%，AI投资叙事正在从基础设施建设走向智能规模扩张",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VUDFEenVBZ3gteWJGWmJUZlo5VldyT2xDV1gySExvR2ktcEt3M0RQcU9kSzItOEpHM2FtYmpVQjVMUExqZ2RxcjJZb2pZMzlPQW5ob3ZiblM?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-10T01:32:00.000Z",
-      "summary": "科创人工智能ETF富国上涨2.23%，跟踪指数估值处近一年低位。",
+      "pubDate": "2026-11-10T02:06:07.000Z",
+      "summary": "人工智能ETF华富（515980）标的指数冲高，AI投资转向智能规模扩张。",
       "summaryZh": ""
     },
     {
-      "title": "事关AI算力扩张成本！两党能源法案闯关参议院，为“蓝色国会”监管定调？",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBXajg5dmY0RVhmUWpPOGU5WVp6bUVxb2hjV2RPaUl1UHJnUllVQS13QUZkUDZYclM0ZmdVbEw3RnJtOGFtZ2c?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-10T00:16:00.000Z",
-      "summary": "美国参议院审议两党能源法案，旨在降低数据中心电费并加快电网升级。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Google Gemini 4 Carbon is now publicly available — and it undercuts Claude Fable 5.2 and Opus 5.5 on API price",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjR5SzFCUEJCS0phWGJKT2FDREJBQnA3U094UHh2azF6VVYtUENId29Zb3Iya3dLT29vdVNFMkJTMTdVS1dYYWJ5VmNaMlp1TG1qbUtUYVp3cEx1TzI0NFRLS3hROE1wall1eThWMnVzZ1pnc290OUpPd1FTVHR3OTJ3UmowSnQ2NUhDS21JYV8zNkoyWmw4RDk1Ql94d3VCeFRUemZ1YUprVmNWUGVFRnhKS0RNaEFtc25zN2lqQzdwMGJ5SzdSeFNaczJZZGhxclhJanJSeWd2bTQ?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-10T16:06:12.000Z",
-      "summary": "Google Gemini 4 Carbon API价格低于Claude Fable 5.2和Opus 5.5，现已公开发布。",
-      "summaryZh": "",
-      "titleZh": "Google Gemini 4 Carbon 现已公开发售，其 API 价格低于 Claude Fable 5.2 和 Opus 5.5"
-    },
-    {
-      "title": "AI算力需求带动电子树脂赛道升温 行业景气度已落地至上市企业财报",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ST2lkWjBtWUk5X241VUxldFl1SGhOVUpidzBJemY3Z1VCUEpDZC03Wm5QWWpuWDA0a3kxSkhsSWoxengxWXJ5VTJRQmxibktlSG9pOVBXMUx5VEJVTWNvekR3YzR0WDlxTlJWRUlaNlRfOTB6U3c?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-10T01:43:52.000Z",
-      "summary": "AI算力需求推动电子树脂行业景气度提升，企业财报体现增长趋势。",
-      "summaryZh": ""
-    },
-    {
-      "title": "欧盟拟向“成瘾设计”开刀：社交媒体、AI聊天机器人面临新规",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXd3ZBRnhGWkR3OWpTaHZGdnJwWWVteXdZbE51WUxkb1RjTFdjTUctNHVYc3g5dmZORUNmVlZVUGRlRm13cFFINGdySEswZk83cy1xRUNB?oc=5",
-      "source": "腾讯新闻",
+      "title": "能控制机器人拧瓶盖、解魔方和画画！Fable 5.2的具身智能能力实现“惊人跃迁”",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WdWU0OXNadDB4c0laakRWRm8tMXc5QTJVdXlKTm00TDNqMW5XVzFUZkxNalBIdl9DOGJJR09uSngzOG9RdXdLWUtEeU5FV0xSOUxJ?oc=5",
+      "source": "华尔街见闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-10T01:53:00.000Z",
-      "summary": "欧盟拟对社交媒体和AI聊天机器人的“成瘾设计”实施新规，违规企业可能面临高额罚款。",
+      "pubDate": "2026-11-10T02:57:40.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-10T22:35:01.000Z",
+      "summary": "亚马逊推出AI安防无人机和机器人，Ring摄像头实现移动监控。",
+      "summaryZh": "",
+      "titleZh": "亚马逊推出人工智能驱动的安全无人机和机器人，环形摄像机开始移动"
+    },
+    {
+      "title": "昨日A股四大指数集体收涨 资金聚焦人形机器人、AI短剧两大赛道",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpX0xZQ0dDM1VpdnlES01iMzNRNFYyN1prUXFZSEM4NnpIWWVjOElZMXZsQmpvcURYRXYyM1huRWtCeDhFV3lRMHpzYWl1ekl1WXdKVGZWT2phSFdlWkViUVFzQQ?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-10T18:13:32.000Z",
+      "summary": "A股四大指数上涨，资金流入人形机器人和AI短剧领域。",
       "summaryZh": ""
     },
     {
-      "title": "京东成立乾源科技公司，含AI及机器人业务",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aUk9jTy14Y09TQ0ZiV0lzR0FLMFpnTkVoUDR5NS13X21rc2tfSFNiM0ZEb2ltY2ZacHVnS3VYZ0FZZDliZ0lLcXpTaDZ0a3FU?oc=5",
+      "title": "[第一时间]物理AI新风向 机器人共享“大脑” 具身智能探索“跨本体”调度新模式",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81WjZNNG5NQkNoYVpIVmpITm14ODc2MVRNc3ZSbkFWT3lhODNiTUh3NnQ2eWJzNG4wdnFiRXRHcUF4UWNIQkRpbHdFek5zWEFFZnQ4WlNldG5FNlFzMjFTQm81b0x0dnRROE1JYzZ2cEhmdEpZakE?oc=5",
+      "source": "央视网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-10T00:14:00.000Z",
+      "summary": "机器人共享“大脑”探索跨本体调度新模式。",
+      "summaryZh": ""
+    },
+    {
+      "title": "午评：创业板指涨1.49% AI影视、人形机器人等概念板块走强",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yZ0FBbjBJT0VZN2ZuNF9RZkZ6T1NvNDBjeVZWSEJMYUwxd0VaX3o5Wnh6eEU1N05GS3RnWVFRcXo1WXZiNEphNFc5ZHdRZWtl?oc=5",
       "source": "凤凰财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-10T05:51:17.000Z",
-      "summary": "京东成立乾源科技公司，专注AI及机器人业务。",
+      "pubDate": "2026-11-10T03:35:34.000Z",
+      "summary": "创业板指涨1.49%，AI影视、人形机器人等概念板块涨幅居前。",
       "summaryZh": ""
     },
     {
-      "title": "142拍！AI自主决策机器人乒乓对打破纪录",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SUk5GamJWTmNONWR5QVlDMEsxYVZWN2xxT0xkTThMQ01kd3FjMTVnNVF4cTFiSUNLVEtvYzN5NzI3N2RzMFZXYy1ZTzlpcjYxQmc4ZlhfT0RsUkJZakN6MjFrc0xWWlctQ05rTnZWUQ?oc=5",
-      "source": "中国经济网",
+      "title": "优理奇机器人（UniX AI）完成5亿元Pre-A轮融资",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vcnd1TktRMzM1OEJCeFNvV01TRHVhaWFxbXh5Nm5CXzZFUkZmWTdlTHNLQ0k5dGhuVDUzT1kwYnRuX3puRjA1WjFaeXdRREo2RUlyZFdqeDdLTW5ray1UVWxHYnYxUQ?oc=5",
+      "source": "每日经济新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-10T02:32:00.000Z",
-      "summary": "AI自主决策机器人乒乓对打破142拍世界纪录。",
+      "pubDate": "2026-11-10T03:30:00.000Z",
+      "summary": "优理奇机器人完成5亿元Pre-A轮融资，多机构参与投资。",
       "summaryZh": ""
     },
     {
-      "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
-      "link": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
-      "source": "CNBC Tech",
+      "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
+      "link": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
+      "source": "Wired",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-10T19:43:59.000Z",
-      "summary": "亚马逊Ring发布飞行无人机和机器人巡逻家庭和企业。",
+      "pubDate": "2026-11-10T13:30:00.000Z",
+      "summary": "Ring推出新款室内无人机摄像头，搭载AI技术，售价250美元。",
       "summaryZh": "",
-      "titleZh": "亚马逊的 Ring 推出飞行无人机和机器人来巡逻家庭和企业"
-    },
-    {
-      "title": "Automation And Robotics Will Not Solve Your Workforce Problem. They Will Move It.",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUm5VTDZWXzRfY2tSOGJMTGJucmJMem9TT3BRMExsaDY1WGlhc0lrZXB1Q2k5eFpqOHV1V3JlZ19tTUVnUFNRQS1KWVJKT1hFT2FTOUUxT0VVTm5WZXNwSjBoVlZIS3Y0MFhWOS10X0RkbVRDSDRuSWRvUktjR2JmRnN4akF2VGJkbFU0NTVJSHBoYnBpbDdaY2VCYlktanRYbTFlNG9qaklyUjlCMW1QdEV5RG4yU0FTWXdkbkp5VFFJak56b2VBNUJkNkdEc1BubzlZd3FYU2FsMms?oc=5",
-      "source": "Automation World",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-10T16:32:42.000Z",
-      "summary": "自动化和机器人技术转移而非解决劳动力问题。",
-      "summaryZh": "",
-      "titleZh": "自动化和机器人技术无法解决您的劳动力问题。他们会移动它。"
+      "titleZh": "Ring 的室内无人机摄像头回归，现在由人工智能提供支持"
     },
     {
       "title": "跑得快，还要赚得到：无人车出海的长期账",
@@ -223,8 +232,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-10T09:00:00.000Z",
-      "summary": "无人车出海需关注单车经济性、融资与现金管理，以实现长期盈利。",
-      "summaryZh": ""
+      "summary": "一辆无人出租车，在海外一年能跑出多少流水？"
     }
   ]
 }
