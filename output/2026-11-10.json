@@ -1,17 +1,7 @@
 {
   "date": "2026-11-10",
-  "generatedAt": "2026-11-10T01:27:09.382Z",
+  "generatedAt": "2026-11-10T02:23:05.397Z",
   "items": [
-    {
-      "title": "研究显示 OpenAI ChatGPT 占全球 AI 聊天机器人流量超 81%，断层领跑",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FOXNtWjlhWXZreVBXTER4aEQ2cHZUWk1FYllSSlBoLUNub3pNWldmazNsU1VscTRKNkpiVU1pXy12WEtCdzU5c0xCMmQ?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-09T13:32:43.000Z",
-      "summary": "OpenAI ChatGPT 占全球AI聊天机器人流量超81%，领跑市场。",
-      "summaryZh": ""
-    },
     {
       "title": "钛晨报“星云星座计划”发布，中国太空算力网加快部署；对冲基金以史上最快的速度之一抛售全球科技股；谷歌推出两款新TPU芯片，加码与英伟达竞争",
       "link": "https://www.tmtpost.com/8198851.html",
@@ -23,13 +13,13 @@
       "summaryZh": ""
     },
     {
-      "title": "Meta 推出轻量级 AI 模型 Muse Ember：跑分媲美 Claude Haiku 5.5，单任务成本仅 1/3",
-      "link": "https://www.ithome.com/1/024/604.htm",
+      "title": "联想万全混合词元工厂发布：母本工厂落地张家口，2027 年建成 15000P 异构算力集群",
+      "link": "https://www.ithome.com/1/024/640.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-10T00:59:26.000Z",
-      "summary": "Meta发布轻量级AI模型Muse Ember，性能与Claude Haiku 5.5相当，成本降低至1/3。",
+      "pubDate": "2026-11-10T02:10:04.000Z",
+      "summary": "联想万全混合词元工厂在张家口落地，2027年将建成15000P异构算力集群。",
       "summaryZh": ""
     },
     {
@@ -53,6 +43,16 @@
       "summaryZh": ""
     },
     {
+      "title": "超节点走向规模交付，算力军备升级了",
+      "link": "https://www.tmtpost.com/8198808.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-10T01:35:06.000Z",
+      "summary": "超节点规模化交付，推动算力基础设施竞争升级。",
+      "summaryZh": ""
+    },
+    {
       "title": "上海水下机器人公司，融了数千万",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rZ0EzY1hRQVI3c1IzVDRPN3RJTFgtNFVQOXhjREVKRmM1N2dOOW45VTJKWFlmM09lbXg2Y20zc0dFVXdNeTBaVQ?oc=5",
       "source": "智东西",
@@ -63,52 +63,23 @@
       "summaryZh": ""
     },
     {
-      "title": "AI算力拉动订单高增，PCB产业链迎来量价齐升-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BWWE3NEU3RnVOb1Myd19kY1VsMFh1WmE0RXV6Yk1rYmdZdU1oTS1qal85eE1VNHRzRmZwcGExeElrWndCZzJjSndhWXhXNjNPZUx3aXRJX3U?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-09T23:53:47.000Z",
-      "summary": ""
-    },
-    {
-      "title": "高盛看好甲骨文：AI融资担忧或过度放大，在建项目风险可控",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92WloyY3VpMVp4cVc4S1BudElmRVFZNHl2SFY2LVdhWmx1cktqaGpYSklQeVkzV1cwZ3BXd0doUUs5Vk1aSllYbXpWdU4yQ1phQzRMa3hibjFHQQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-09T13:04:00.000Z",
-      "summary": "高盛维持甲骨文“买入”评级，看好其AI融资及在建项目风险可控。",
-      "summaryZh": ""
-    },
-    {
       "title": "人工智能将迎来背水一战！今年剩下的唯一要事就是Anthropic的IPO",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xU2RleXJuSWNpd200MGJ2UV9ob1Q5SVBqZUIxZGRRZzhiN0I3Um10a2ZaRTVVREJNMFBFU1Jpdzc4ZTgyV0N5Zg?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-09T02:25:03.000Z",
-      "summary": "Anthropic计划IPO，估值下调，市场对AI股谨慎。",
+      "summary": "Anthropic计划IPO，估值下调，面临市场抛售与投资者谨慎。",
       "summaryZh": ""
     },
     {
-      "title": "宏达电子再抛10亿元定增预案 布局AI算力配套元器件产能",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fb0FtaXFIWjZNdnRzdkwwZlBlSVJmREU0X0M5Tlh5UUU5NDhLcUhiUjlTcExwZkVRVEkzWUZWRnRrZVRtdThzag?oc=5",
+      "title": "财联社11月9日电，Rosenblatt证券将AI芯片公司Cerebras目标价从300美元下调至170美元。",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hQ1NxVHUwcWhaaHVoMFlpSlc0VEFRbWVQNGlpU0ZqanNEV3hOVmwycVoxUGs0U2NNbTlHOVRfRmpya0RIcm1RVg?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-09T08:54:00.000Z",
-      "summary": "宏达电子拟10亿元定增布局AI算力元器件产能。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI刷新估值规模，坚定算力投入赋能AI板块",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15ZDV2UkZyMk8ybGpZMC1pckU3U2FCSXVvWEc2ZnRhcks4a25oTXVmMGFzUkctMkNmMHNHRjNmdktnTGdCbEdETFJqUWZjVzQwdTB2SWRBLTVmZVRQcG05X2dIM2pKUQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-09T01:46:00.000Z",
-      "summary": "OpenAI完成110亿美元融资，估值达1.25万亿美元，持续加大算力投入。",
+      "pubDate": "2026-11-09T12:10:13.000Z",
+      "summary": "Rosenblatt证券下调AI芯片公司Cerebras目标价至170美元。",
       "summaryZh": ""
     },
     {
@@ -118,7 +89,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-09T03:14:38.000Z",
-      "summary": ""
+      "summary": "华泰柏瑞ETF SKILL上线，开放ETF数据能力至AI Agent生态。",
+      "summaryZh": ""
     },
     {
       "title": "人工智能+交通运输场景加速落地",
@@ -127,17 +99,18 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-09T22:39:00.000Z",
-      "summary": "人工智能在交通运输领域应用加速，推动物流配送和公路管养智能化。",
+      "summary": "人工智能技术加速在交通运输领域落地应用，提升物流配送和公路管养效率。",
       "summaryZh": ""
     },
     {
-      "title": "三方深化战略合作 共同打造新一代健康养老智慧社区",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqeXRPTjlRSlB4emJOZWFzc2thcHZ5U29FSUdLWEtqaHVvb1ZKU29XMmlpRG9UdjBIbFg2ZkhIRDJ3MWd0M1BPS0tKV2JnMGNpWDlHRl9OQ0VOSkIzcXE0TXUzOA?oc=5",
-      "source": "中国经营网",
+      "title": "宇树科技股价涨超 10%，此前已连续 2 个交易日收涨",
+      "link": "https://www.ithome.com/1/024/660.htm",
+      "source": "IT之家",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-09T03:51:00.000Z",
-      "summary": ""
+      "category": "robotics",
+      "pubDate": "2026-11-10T02:20:01.000Z",
+      "summary": "宇树科技股价连续三日上涨，最高涨幅超12%。",
+      "summaryZh": ""
     },
     {
       "title": "前OpenAI员工看吐，AI研发AI冲线“终极超级智能”，停建全球机房也晚了",
@@ -146,7 +119,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-09T13:45:03.000Z",
-      "summary": "AI研发AI冲线“终极超级智能”，停建全球机房也晚了。",
+      "summary": "AI研发AI突破“终极超级智能”，停建全球机房也阻止不了。",
+      "summaryZh": ""
+    },
+    {
+      "title": "实测 HY4：腾讯最夯大模型，离一线还有多远？",
+      "link": "http://www.geekpark.net/news/373644",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-09T03:57:03.000Z",
+      "summary": "腾讯混元大模型Hy4实测表现良好，但与顶尖闭源模型仍有差距。",
       "summaryZh": ""
     },
     {
@@ -156,19 +139,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-09T14:00:02.000Z",
-      "summary": "研究称，代理机器人可能解决机器人数据扩展问题。",
+      "summary": "研究称代理机器人可能解决机器人数据扩展问题。",
       "summaryZh": "",
       "titleZh": "代理机器人技术可以解决机器人技术的数据扩展问题吗？"
-    },
-    {
-      "title": "具身智能出海，物流先行",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YeEFuMUZMRmFjOHdydzc1R2lYS0JvMDRqSGcxMWUzY0VIWEVwTFU0OFZHQmV4bGNPNTlVRXh1ZHFNNHlHNFZjU21pWWdUVHFOLWRRdg?oc=5",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-09T09:01:13.000Z",
-      "summary": "菜鸟在香港智慧港开放全球仓网，助力AI与具身智能企业物流实训及出海。",
-      "summaryZh": ""
     },
     {
       "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
@@ -177,37 +150,18 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-09T18:34:38.000Z",
-      "summary": "Boston Dynamics为Atlas人形机器人添加轮子，测试全身控制能力。",
+      "summary": "波士顿动力为Atlas人形机器人添加轮子，测试全身控制能力。",
       "summaryZh": "",
       "titleZh": "波士顿动力公司为 Atlas 人形机器人添加轮子以测试全身控制"
     },
     {
-      "title": "科技行业26全A三季报分析科技篇：AI硬件景气延续 机器人业绩迎来修复",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTVlwdTZBTXg4NnR4dExTM2ZJV0tGWDRMYjlfeDdQb3puOVNMOEgtOHNhS3FXVjY3VWRCYVM0NlNJaC1GNkhHQ25KYlI0b0hndWZfeUwxbjlfT1pIOXBrX1VfVXhPOHZ0eGRCbE51N1FINnRBdTFmSUJDc1lraHlVeEd0bk95T2haYlF1SHRSSnBzakx4aXlJ?oc=5",
-      "source": "新浪财经",
+      "title": "“成都高新造”机器人将亮相APEC",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkS3VLd2NKSVdnTFJGb09oWTJZRmdlQW81bDV3eWNDeE5kM0Vhc2t0eVBkSzFJa0dKX3VwX1B1TTFkbGRhMG4xazVPQUU5TkxLMVpZVUM3clVtZ0VBZndobzA3a3d5Qll0eEczN1R0VQ?oc=5",
+      "source": "央广网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-09T06:45:41.000Z",
-      "summary": ""
-    },
-    {
-      "title": "优理奇机器人完成5亿元Pre-A轮融资",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pV3hHaUVGbWR0dElNbmZfeWg0Vkkxc3lYSlpNZTVDUXhXY0t2dGF4SGIxczdOdk1HWEFERzhXVWZtWG01aWpqTXZPSW8wM2NmNzhjeUtDNy1mUQ?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-09T11:07:00.000Z",
-      "summary": "优理奇机器人获得5亿元Pre-A轮融资，多机构参与投资。",
-      "summaryZh": ""
-    },
-    {
-      "title": "具身智能，也到了 API 时刻？",
-      "link": "http://www.geekpark.net/news/373683",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-09T02:18:55.000Z",
-      "summary": "具身智能模型开始开放API，支持跨本体迁移和适应新任务。",
+      "pubDate": "2026-11-09T10:13:20.000Z",
+      "summary": "成都高新造机器人Ultra亮相APEC活动。",
       "summaryZh": ""
     },
     {
