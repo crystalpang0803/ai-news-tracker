@@ -1,45 +1,87 @@
 {
   "date": "2026-11-11",
-  "generatedAt": "2026-11-11T06:32:52.465Z",
+  "generatedAt": "2026-11-11T11:25:35.388Z",
   "items": [
     {
-      "title": "北京：建立具身智能机器人企业上市“一对一”服务机制，培育优势龙头企业",
-      "link": "https://www.ithome.com/1/025/432.htm",
-      "source": "IT之家",
+      "title": "国产AI Agent推荐丨香港金融科技周热议AI落地，九科信息分享bit-Agent智能体的企业实践",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VSzBZNGpaYi12c1FCOE1SSzJnaHhzMjdsOVFEdjlIYkRvV1pqQ3FMT2MtZTlycTV4aEYyQWFfR2FWQ1ZiUm81cG1uME1wYm9FdDZGaTlESnc?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-11T06:04:35.000Z",
-      "summary": "北京推出具身智能机器人企业上市“一对一”服务机制，培育优势龙头企业。",
+      "category": "ai",
+      "pubDate": "2026-11-11T09:03:16.000Z",
+      "summary": "九科信息在香港金融科技周分享bit-Agent智能体在企业中的应用实践。",
       "summaryZh": ""
     },
     {
-      "title": "特斯拉推出 Cybertruck 遥控模型车、2.5 代人形机器人摆件，199 元起",
-      "link": "https://www.ithome.com/1/025/401.htm",
-      "source": "IT之家",
+      "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeDdpWXlJb3hWWUhMQ3RPNnJ2MU9YeTFYYWVNdzBJZGoydVFxRDJOY2JPTkhaVWd5Y3ZmUzdVMWxZWGtOcmMyeGxDSndwQTJhMG9rLUgtZmdJQlFXdFd0dGppY05RTWZOMFplQlhUTFY1STNybWJjOW5rcWdkY2drWlRaRjI3NTRGdk5IbXlkeWUtSER5QVc4TnB2b3Vhand3cmY5MGJQZXBIaGhPOUVyU1M4VWZHcEZJVG83ZXM4Nml6aG5HeXc?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-10T18:03:43.000Z",
+      "summary": "",
+      "titleZh": "OpenAI 让企业索取 ChatGPT 配置文件，为美国电子商务公司添加人工智能代理"
+    },
+    {
+      "title": "机器人接管酒店洗衣！双脑协同+RSI，顶级Astra驾驶员来了",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15OFk4amk2Vi02bkd3U2ZuaXFZeW1GaW5GYWpVSWRIVEtnRklsTUZJRXZhVzRMRHNVY0pMeXFrMjg1LTZOcC1vNjFSWkVrS2syNHNPbw?oc=5",
+      "source": "量子位",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-11T05:21:50.000Z",
-      "summary": "特斯拉推出Cybertruck遥控模型车和2.5代人形机器人摆件，售价199元起。",
+      "pubDate": "2026-11-11T09:58:49.000Z",
+      "summary": "酒店洗衣服务由机器人接管，采用双脑协同和RSI技术。",
       "summaryZh": ""
     },
     {
-      "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
-      "link": "https://www.qbitai.com/2026/11/508998.html",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-10T18:49:52.000Z",
+      "summary": "OpenAI推出新商业档案，使ChatGPT更类似谷歌。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 推出新的业务配置文件，使 ChatGPT 更像 Google 一点"
+    },
+    {
+      "title": "OpenAI lets you claim your business in ChatGPT and set up a custom agentic AI customer sales rep",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1k2TE9PS2pnenpoREV0aWhNbFJWeFFRbFBIWEF2dzBxNTdJS2RtenhLZUF6dWxwejg3SnBxRVYtSUxmdUlQUXUzcjgxdXY4TjNqMVJVNGVWOTNFWl83NGhYTEkydkN0Q1RMbEpISl85V0RrT0VtSmN1bnQ2MURLa2VQMjJyUVlnNkFkSTF0YzZ5NlJEZTBjZXpIdzNzX21Fc3otZzNyUVNNU2RWcjNwYzZVMVByOFlZeVFGd21tdGFBZXlUWkF0R1FXNA?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-10T21:49:35.000Z",
+      "summary": "OpenAI推出ChatGPT企业认证及定制AI销售代表功能。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 可让您在 ChatGPT 中认领您的业务并设置自定义代理 AI 客户销售代表"
+    },
+    {
+      "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+      "link": "https://www.qbitai.com/2026/11/509085.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-10T07:56:29.000Z",
-      "summary": "openJiuwen推出TTSE经验学习框架，助力Agent实现双轨自演进。",
+      "pubDate": "2026-11-11T06:18:09.000Z",
+      "summary": "大模型厂商在天猫双11活动期间推出5折优惠。",
       "summaryZh": ""
     },
     {
-      "title": "八年平头哥闯关港股，阿里分拆背后的算力资本局",
-      "link": "https://www.tmtpost.com/8200942.html",
-      "source": "钛媒体",
+      "title": "消息称字节跳动发力智能体赛道，计划推出类似 Meta Muse 的 AI 助手",
+      "link": "https://www.ithome.com/1/025/726.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-11T05:26:13.000Z",
-      "summary": "阿里巴巴分拆平头哥独立上市，寻求独立融资以支持芯片业务发展。",
+      "pubDate": "2026-11-11T10:45:49.000Z",
+      "summary": "字节跳动计划推出类似Meta Muse的AI助手，强化AI视频生成领域优势。",
+      "summaryZh": ""
+    },
+    {
+      "title": "因上调财年营收预期 人工智能算力提供商CoreWeave美股盘前涨超19%",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPZ0xhSHhrNEx6Z2tSN1JEYUkteWlxbXVrU2tuampScnJJUzMzQUtyanN1MmFoUGtzeW5aaGVUdFdyaDVoRjVzeQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-11T09:03:49.000Z",
+      "summary": "CoreWeave因上调财年营收预期，美股盘前股价涨超19%。",
       "summaryZh": ""
     },
     {
@@ -53,6 +95,36 @@
       "summaryZh": ""
     },
     {
+      "title": "从芯片到系统，MPS如何破解机器人量产背后的底层硬件难题？",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1pRDBleXRKQWNXZGtrX1Bxb1ZCOEN4MnZta3h4RWUybkdNQnhRekRjbk9Db05vUmJNYkRvSnZUSjVkOHdvaWc?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-11T08:41:52.000Z",
+      "summary": "MPS通过技术突破，助力机器人底层硬件量产。",
+      "summaryZh": ""
+    },
+    {
+      "title": "谷歌端出最强机器人VLA！奔驰车间实测，干活成功率96%",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xa29DQm9Xa25NNC1Ta2puVUdCMnF4LXRLRXQxbzB3SWMteXFFT0t6N1BoNElKVnhGdmVuSmZSbDljMV9LbmRHXw?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-10T23:32:55.000Z",
+      "summary": "谷歌发布Gemini Robotics 2.5模型，在奔驰车间测试中，机器人干活成功率高达96%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "机器人行情助攻，11月第一只翻倍股来了！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1VR1l5VjhPUDRQWlpJeUJ0cldKb05Yakg3aWRiSHF5VDhoSk1JNTFYamNsMlZkQUgtNmJNOXF5Z2tBcUVIYXF6bQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-10T14:06:00.000Z",
+      "summary": "闽发铝业11月股价翻倍，成为A股首只月涨幅达101.61%的股票。",
+      "summaryZh": ""
+    },
+    {
       "title": "艾图科技CEO张瀚文：具身智能工业落地路径更清晰 客户核心逻辑是算投资账",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ycFowWXlyMkxaNExTcThMREQzWmw2ajJCSnM3bGdLVDFoZnI1R1p3d1NEZmJPYjVrRXpsdnNiRHVCbnNMRV9NdFZNY0c1cHVyUENDWXdBV1pNUnFNUzZEUHZR?oc=5",
       "source": "中国经营网",
@@ -62,41 +134,63 @@
       "summary": ""
     },
     {
-      "title": "Anthropic估值缩水，压力给到国内大模型公司",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qN1FZelNfa2dPRUpJejB5WXpTNXZETmFPYURjbm00N2k4UmRmWXhLOGZFUll6ZHdLOHlIUWc5U0lBTVBhbUdBcEpEelVBZw?oc=5",
+      "title": "大模型没有护城河，只有场景",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JU0tUYnhOTHVWWG5rNG1DU2daMzdMS0xZV3YzMTY5VU1TRnZPTDNWU01uLXZRTldwYy1mMmxpdjRhNFBjb1RnMy1La3lnZw?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-10T11:14:00.000Z",
+      "pubDate": "2026-11-10T15:51:00.000Z",
       "summary": ""
     },
     {
-      "title": "Anthropic进军人工智能办公软件，IPO前与微软谷歌竞争升温-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41SVNyTFRib3hEVHdxVzY3WHBmM3pjLW1HYVROd2RPYzBGeUZ2RTg1M0tiNzF1Mkp3c3JtS2V1MFNBaWl5ZEJnTGJUU1JhaHhmYUZFLTFpb00?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-11T01:05:38.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Token首次成天猫双11独立品类，大模型厂商今日打5折",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vazQxdDJwemN0cDYxaVpyVFAxUjVvckFJeDlROTFxc3dZYzlkNHZ0djdUVGhuM1NfckpTUW5OUWk3Z2h0elljcjNvU0FSdlFCWXNNMHdNbkZqQQ?oc=5",
+      "title": "Kimi开始\"出租\"数字员工：Agent计价锚点，正从软件预算滑向人力预算",
+      "link": "https://www.tmtpost.com/8201187.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-11T04:35:00.000Z",
-      "summary": "天猫双11 Token充值活动开启，大模型厂商参与5折促销。",
+      "pubDate": "2026-11-11T08:42:32.000Z",
+      "summary": "Kimi推出数字员工租赁服务，企业预算从软件转向人力。",
       "summaryZh": ""
     },
     {
-      "title": "科创人工智能ETF富国(589380)跟踪指数已处近1年估值低位",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nNGVzTTV5ZjhkWVZjcHRTeVBMU0xTdzBnWFVNSzNkZXhOb1N3VjNRVU0xMm5oYVNGNEZTR3NBUlhnSzZ2SjJjMFhwanlySS1LZ0hhS09MR04?oc=5",
-      "source": "界面新闻",
+      "title": "国内首个具身智能压力表全自动检定装置研发成功：效率提升 3.5 倍以上，中国石化牵头",
+      "link": "https://www.ithome.com/1/025/612.htm",
+      "source": "IT之家",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-11T05:47:00.000Z",
-      "summary": "科创人工智能ETF富国跟踪指数估值处于近一年低位。",
+      "category": "robotics",
+      "pubDate": "2026-11-11T09:15:18.000Z",
+      "summary": "中国石化研发成功首个智能压力表全自动检定装置，效率提升3.5倍以上。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-10T22:35:01.000Z",
+      "summary": "亚马逊推出AI安防无人机和机器人，Ring摄像头实现移动监控。",
+      "summaryZh": "",
+      "titleZh": "亚马逊推出人工智能驱动的安全无人机和机器人，环形摄像机开始移动"
+    },
+    {
+      "title": "ABB机器人推出AI Robot Trainer简化机器视觉编程",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXNDFZRDB1SEhud3E4WUVqcEpZNXVJZTJDZnI4ajVfeHBVWFdxUjctU1FGamkwaUdxblJhSXBFTGxCTEhFdk1LQUc3S29NWHNzWUt3WTNLUWtlQi1uTzhnWQ?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-11T05:51:56.000Z",
+      "summary": "ABB推出AI Robot Trainer简化机器视觉编程，助力非专业人员快速部署AI视觉应用。",
+      "summaryZh": ""
+    },
+    {
+      "title": "具身智能机器人产业链全景图（11月版）",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90bVFOaXU4VzNaLTM0Q3hDNGExaGx5UUVEYVYwWFk2dHljY013QmJJbWktaWw1dlpSUG80SEM0cF9NZW5xWU9Pa3lHSGRnNEt0c0MwaTRVVQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-11T02:15:08.000Z",
+      "summary": "具身智能机器人产业链全景图（11月版）发布。",
       "summaryZh": ""
     },
     {
@@ -110,44 +204,26 @@
       "summaryZh": ""
     },
     {
-      "title": "总投资2.8亿，立讯科技机器人项目落户广州",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hZk9GaEYzbW4xSi1JaFhHOU5JQkQ0U0tNNkROTGNUb2xwNWNoRFN6X3ZVdnZKeENOSkZyYk1BbldqVUZTd0MydGtfeUdJck8xYXJ0bno4bw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
+      "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
+      "link": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
+      "source": "Wired",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-11T02:07:50.000Z",
-      "summary": "立讯科技2.8亿机器人项目落户广州。",
-      "summaryZh": ""
+      "pubDate": "2026-11-10T13:30:00.000Z",
+      "summary": "Ring推出带AI功能的室内无人机摄像头，售价250美元。",
+      "summaryZh": "",
+      "titleZh": "Ring 的室内无人机摄像头回归，现在由人工智能提供支持"
     },
     {
-      "title": "模型大厂加速入场开启物理AI新叙事，机器人发展跨入新阶段，机器人ETF易方达（159530）月内获16.6亿元资金净流入",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Wb0VpXzgtNXVVVzZqalFMWW9kSWktUlI4M0JpQmV6N2FQa0RuazBMSmhvdlV4eHhnLXotV1BzNFMwZnJ5VWhsUmNuM1hSYmFKUDZoN3VGaVkxdE0yaVZ5Vzc1VkN4RzMwTEhYSk1qaGo?oc=5",
-      "source": "金融界",
-      "lang": "zh",
+      "title": "Oversonic Robotics takes RoBee R20 humanoid robot to Munich and Lisbon",
+      "link": "https://roboticsandautomationnews.com/2026/11/10/oversonic-robotics-takes-robee-r20-humanoid-robot-to-munich-and-lisbon/106938/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-11T02:05:05.000Z",
-      "summary": "模型大厂推动物理AI发展，机器人ETF易方达月内吸金16.6亿。",
-      "summaryZh": ""
-    },
-    {
-      "title": "禾赛Q3财报：物理AI业务翻倍，机器人动力模组累计出货超3.5万套",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96ZlhCb2NkZmVaZ3p6R0xaOXo0bVJOSXRJV0F1T1gtTXZTSldpdi1zWE8xYWxPMnlkS0FaQklaeFIyeHJSZTdTcmROenZBS2xJU0FtUXBieWQ?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-10T09:25:00.000Z",
-      "summary": "禾赛Q3财报显示物理AI业务翻倍，机器人动力模组出货超3.5万套。",
-      "summaryZh": ""
-    },
-    {
-      "title": "跑得快，还要赚得到：无人车出海的长期账",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FUHZLODBtMVVfYkRuTW1Vd2dfTWhvRnUtTTdlbEdUOXVYTVpXenNsdW5MMXJHdFUzMUUzc09fbFZMdzFDMTJacjdUVUFnYTFkX2FQNmxTVy1VblMwZmc?oc=5",
-      "source": "财新网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-10T09:00:00.000Z",
-      "summary": "无人车出海需平衡技术、成本与融资，实现可持续盈利。",
-      "summaryZh": ""
+      "pubDate": "2026-11-10T15:58:20.000Z",
+      "summary": "Oversonic Robotics携RoBee R20人形机器人亮相慕尼黑和里斯本两大欧洲科技展。",
+      "summaryZh": "",
+      "titleZh": "Oversonic Robotics 将 RoBee R20 人形机器人带到慕尼黑和里斯本"
     }
   ]
 }
