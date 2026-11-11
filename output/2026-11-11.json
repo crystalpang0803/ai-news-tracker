@@ -1,7 +1,17 @@
 {
   "date": "2026-11-11",
-  "generatedAt": "2026-11-11T00:13:58.437Z",
+  "generatedAt": "2026-11-11T01:18:36.294Z",
   "items": [
+    {
+      "title": "OpenAI 收购旅游初创公司 Odessia，探索 AI 旅行智能体业务",
+      "link": "https://www.ithome.com/1/025/202.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-10T22:43:22.000Z",
+      "summary": "OpenAI收购Odessia，探索AI旅行智能体业务。",
+      "summaryZh": ""
+    },
     {
       "title": "谷歌联合 Artificial Analysis 推出 MKA 基准测试：Gemini 4 Carbon 多模态知识工作测试获第二，任务成本仅为第一名六分之一",
       "link": "https://www.ithome.com/1/025/205.htm",
@@ -9,26 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-10T22:48:50.000Z",
-      "summary": "谷歌Gemini 4 Carbon在MKA基准测试中获第二，成本仅为第一名六分之一。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeDdpWXlJb3hWWUhMQ3RPNnJ2MU9YeTFYYWVNdzBJZGoydVFxRDJOY2JPTkhaVWd5Y3ZmUzdVMWxZWGtOcmMyeGxDSndwQTJhMG9rLUgtZmdJQlFXdFd0dGppY05RTWZOMFplQlhUTFY1STNybWJjOW5rcWdkY2drWlRaRjI3NTRGdk5IbXlkeWUtSER5QVc4TnB2b3Vhand3cmY5MGJQZXBIaGhPOUVyU1M4VWZHcEZJVG83ZXM4Nml6aG5HeXc?oc=5",
-      "source": "Reuters Technology",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-10T18:03:43.000Z",
-      "summary": ""
-    },
-    {
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-10T18:49:52.000Z",
-      "summary": "OpenAI推出新商业档案，使ChatGPT更类似谷歌。",
+      "summary": "谷歌Gemini 4 Carbon在MKA多模态知识工作测试中排名第二，成本仅为第一名六分之一。",
       "summaryZh": ""
     },
     {
@@ -39,16 +30,6 @@
       "category": "robotics",
       "pubDate": "2026-11-10T07:31:48.000Z",
       "summary": "蚂蚁灵波推出触觉预训练模型LingBot-Touch，实现机器人灵巧手共享“手感”。",
-      "summaryZh": ""
-    },
-    {
-      "title": "从物理AI到非人形机器人：仓储物流与服装行业为何被列为率先落地场景",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TbFlwQXRVdVR6SC1abHRSbzM0VE1fN01zZVIyckJLQWYzSWpXcXFzUFZMSGNseF85SFJxVnNBVXNkSHpxRzBZa0F2NUI4WVNXNnlZS3N6VmdVdGxmWGUxbg?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-10T16:57:50.000Z",
-      "summary": "物理AI在仓储物流和服装行业被列为率先落地场景，但具体案例和证据尚待披露。",
       "summaryZh": ""
     },
     {
@@ -72,16 +53,6 @@
       "summaryZh": ""
     },
     {
-      "title": "ChatGPT is getting verified AI ‘Business Agents’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-10T18:00:00.000Z",
-      "summary": "ChatGPT获得认证AI“商业代理”。",
-      "summaryZh": ""
-    },
-    {
       "title": "诺亦腾机器人高精度手部数据开放",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WdUluSWlQV2ZmTjNmMl9wSW1zNFlTX3JkMjN6X2VMLU5zSm1uemVDWkhxcnJ1QWpneTVfT0t2TWNKaGRBcmVvR0R5VQ?oc=5",
       "source": "智东西",
@@ -89,16 +60,6 @@
       "category": "robotics",
       "pubDate": "2026-11-10T05:10:02.000Z",
       "summary": "诺亦腾机器人开放高精度手部动作捕捉数据集HiPHI-Hand，支持机器人学习和三维手部重建研究。",
-      "summaryZh": ""
-    },
-    {
-      "title": "从AI眼镜到机器人，年轻人的职业机会在哪里？",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5odXo5WWpnLUY3ZHZxZHRSUW5RWFlueExpRlczclc2dV9namlhbVl0YXhiT0NsV0pPRlljMlE3Q1A0TEoyempjZ0pBTGhDdm1MUEFyTFYzckI?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-10T09:32:39.000Z",
-      "summary": "中国智能制造企业寻求融合AI技术的全球化人才。",
       "summaryZh": ""
     },
     {
@@ -112,16 +73,6 @@
       "summaryZh": ""
     },
     {
-      "title": "又一模型大厂入局物理AI，赛道迎新突破，机器人ETF易方达（159530）标的指数涨超3%",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZTjlSVjhiV185TWpaU1NYVzZhQ3VKVlRib2dsb25Xc2o0dWpkSWdQMVFVR1R4MHJoTW13Y3ZjNWFla0MzTFlZSg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-10T03:02:23.000Z",
-      "summary": "模型大厂入局物理AI，机器人ETF易方达标的指数涨超3%。",
-      "summaryZh": ""
-    },
-    {
       "title": "别把大模型当实习生：用“高度、深度、广度”三步重构人机协作",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LUWpiSjBJTk12M09PdVRwbFFFcFpVdEpma09yQjlqMDgxMUhnbFJpbERmb3NPWXJTcWNDR1BCTHVmZk9zM2RidWhhSldLZw?oc=5",
       "source": "36氪",
@@ -131,14 +82,13 @@
       "summary": ""
     },
     {
-      "title": "芯片巨头的“算力大战”，打到了电力端-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2WENkMWJVOHRuaXlsSmU4Z1hybk16aUt1aWI2SkEwNTRVbFZUT2hVWUhUMlBkeDJQUWctZDNaXy1XYnVPMkMwSDJoMHM0eEhq?oc=5",
+      "title": "Anthropic进军人工智能办公软件，IPO前与微软谷歌竞争升温-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41SVNyTFRib3hEVHdxVzY3WHBmM3pjLW1HYVROd2RPYzBGeUZ2RTg1M0tiNzF1Mkp3c3JtS2V1MFNBaWl5ZEJnTGJUU1JhaHhmYUZFLTFpb00?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-11T00:08:13.000Z",
-      "summary": "芯片巨头算力竞争转向电力端，关注成本与效率。",
-      "summaryZh": ""
+      "pubDate": "2026-11-11T01:05:38.000Z",
+      "summary": ""
     },
     {
       "title": "中信建投证券于海宁：AI算力板块定价趋于理性，市场关注点转向业绩兑现与增长持续性",
@@ -148,6 +98,16 @@
       "category": "ai",
       "pubDate": "2026-11-10T12:01:00.000Z",
       "summary": "AI算力板块定价理性，市场关注业绩与增长。",
+      "summaryZh": ""
+    },
+    {
+      "title": "冲刺IPO前夕，Anthropic发布新一代“地球最强大模型”",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RMlI5eEhzaWdJVE8wZmNaNEZrbHpCbHgtVkdEN1FhSHA5VHc0TzdraTdLZkpZZ3dmOG9yM0NzR3BSbXV3dUFqbGRrZGtQVXNKY3RYZ1VRNms?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-10T02:06:04.000Z",
+      "summary": "Anthropic发布新一代“地球最强大模型”，冲刺IPO前夕展示技术实力。",
       "summaryZh": ""
     },
     {
@@ -161,43 +121,35 @@
       "summaryZh": ""
     },
     {
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "source": "Ars Technica",
+      "title": "词元工厂落子张家口，算力生意开始算经济账",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wdVE4MENGdnRuZDhMMHB4TVZZajRYNUFkSUtJNlFlSTI4Qm1QZWpSdGNyRHllOUVOZ2hfSzRaS0hBRS1mV1ZOYUpOblkwVGtzUDRN?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-10T12:13:43.000Z",
+      "summary": "张家口成为算力产业新焦点，词元工厂探索新型算力服务模式。",
+      "summaryZh": ""
+    },
+    {
+      "title": "周三你需要知道的隔夜全球要闻：英伟达近两日累跌超9%；Anthropic进军Office市场；美国AI算力期货遭推迟批准",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE00a2FaY3BEUTc5Y01LYlBNSGVyenBGN3JDME1mNTFZU3Y2bEJEdDN1Wk9PcWpzcVZpWjdLeVdCYXNMdjVFZXJOMw?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-10T22:20:29.000Z",
+      "summary": "英伟达股价两日累跌超9%，Anthropic进军Office市场，美国AI算力期货审批推迟。",
+      "summaryZh": ""
+    },
+    {
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYkdJblVLLTVHVVBiaVJ5dENmXzI3WXhvQk50TjlKTnVrREJKYTJ1Zlg5dmlwYUI3Wndic0lPWTRZX1E1V1hsTWx2X1ZPVVNJQXcyVHc5ZFlSM2dmdHViQVZJak80amZ5dWFyQ2JHWlZwT0ttQTZQQUVJdTdrSVcxdnNpRUZiczRzeWtwUVVxbURkNlFjM1dxcHl3?oc=5",
+      "source": "The Verge",
       "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-10T22:35:01.000Z",
-      "summary": "亚马逊推出AI安防无人机和机器人，Ring摄像头实现移动监控。",
-      "summaryZh": ""
-    },
-    {
-      "title": "能控制机器人拧瓶盖、解魔方和画画！Fable 5.2的具身智能能力实现“惊人跃迁”",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WdWU0OXNadDB4c0laakRWRm8tMXc5QTJVdXlKTm00TDNqMW5XVzFUZkxNalBIdl9DOGJJR09uSngzOG9RdXdLWUtEeU5FV0xSOUxJ?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-10T02:57:40.000Z",
-      "summary": ""
-    },
-    {
-      "title": "昨日A股四大指数集体收涨 资金聚焦人形机器人、AI短剧两大赛道",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpX0xZQ0dDM1VpdnlES01iMzNRNFYyN1prUXFZSEM4NnpIWWVjOElZMXZsQmpvcURYRXYyM1huRWtCeDhFV3lRMHpzYWl1ekl1WXdKVGZWT2phSFdlWkViUVFzQQ?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-10T18:13:32.000Z",
-      "summary": "A股四大指数上涨，资金流入人形机器人和AI短剧领域。",
-      "summaryZh": ""
-    },
-    {
-      "title": "[第一时间]物理AI新风向 机器人共享“大脑” 具身智能探索“跨本体”调度新模式",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81WjZNNG5NQkNoYVpIVmpITm14ODc2MVRNc3ZSbkFWT3lhODNiTUh3NnQ2eWJzNG4wdnFiRXRHcUF4UWNIQkRpbHdFek5zWEFFZnQ4WlNldG5FNlFzMjFTQm81b0x0dnRROE1JYzZ2cEhmdEpZakE?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-10T00:14:00.000Z",
-      "summary": "机器人共享“大脑”探索跨本体调度新模式。",
-      "summaryZh": ""
+      "category": "ai",
+      "pubDate": "2026-11-10T18:00:46.000Z",
+      "summary": "ChatGPT获得认证AI“商业代理”。",
+      "summaryZh": "",
+      "titleZh": "ChatGPT 正在获得经过验证的人工智能“业务代理”"
     },
     {
       "title": "优理奇机器人（UniX AI）完成5亿元Pre-A轮融资",
@@ -206,7 +158,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-10T03:30:00.000Z",
-      "summary": "优理奇机器人完成5亿元Pre-A轮融资，多机构参与投资。",
+      "summary": "优理奇机器人完成5亿元Pre-A轮融资，引入多家新投资机构。",
       "summaryZh": ""
     },
     {
@@ -217,7 +169,40 @@
       "category": "robotics",
       "pubDate": "2026-11-10T13:30:00.000Z",
       "summary": "Ring推出新型室内无人机摄像头，搭载AI技术，售价250美元。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "Ring 的室内无人机摄像头回归，现在由人工智能提供支持"
+    },
+    {
+      "title": "Europe can compete in robotics and physical AI, top chipmaker CEOs say",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMXAxVGN4VW9UTDVUVEZNcG9sS25IcVJNR0RxRE9IZFZwQ3NSMjI0SUktbWVNN3RWaWlUWFlpSUN1czB4T2RvdE5xeHQ1dG5zX2lGNEN5c0RUbGxoOEh6d2cxTkFQY19kOWE2aXhSMjlwaW9LS3VTYVQxdU1mU1d6cWE5UmFBOFY2WnVYZWhfaUJNWVJRTjNta1lSYmlCdTBiVU5LNzNIb2VLWEk?oc=5",
+      "source": "Reuters Technology",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-10T07:15:00.000Z",
+      "summary": "",
+      "titleZh": "顶级芯片制造商首席执行官表示，欧洲可以在机器人和物理人工智能领域展开竞争"
+    },
+    {
+      "title": "Oversonic Robotics takes RoBee R20 humanoid robot to Munich and Lisbon",
+      "link": "https://roboticsandautomationnews.com/2026/11/10/oversonic-robotics-takes-robee-r20-humanoid-robot-to-munich-and-lisbon/106938/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-10T15:58:20.000Z",
+      "summary": "Oversonic Robotics携RoBee R20人形机器人亮相慕尼黑和里斯本两大欧洲科技展。",
+      "summaryZh": "",
+      "titleZh": "Oversonic Robotics 将 RoBee R20 人形机器人带到慕尼黑和里斯本"
+    },
+    {
+      "title": "ASICS cuts inventory recovery time 60 percent using Corvus Robotics drones",
+      "link": "https://roboticsandautomationnews.com/2026/11/10/asics-cuts-inventory-recovery-time-60-percent-using-corvus-robotics-drones/106934/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-10T14:51:38.000Z",
+      "summary": "ASICS利用Corvus无人机缩短库存恢复时间60%。",
+      "summaryZh": "",
+      "titleZh": "ASICS 使用 Corvus Robotics 无人机将库存回收时间缩短 60%"
     },
     {
       "title": "跑得快，还要赚得到：无人车出海的长期账",
