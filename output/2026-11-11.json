@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "generatedAt": "2026-11-10T23:11:37.653Z",
+  "generatedAt": "2026-11-11T00:13:58.437Z",
   "items": [
     {
       "title": "谷歌联合 Artificial Analysis 推出 MKA 基准测试：Gemini 4 Carbon 多模态知识工作测试获第二，任务成本仅为第一名六分之一",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-10T22:48:50.000Z",
-      "summary": "谷歌Gemini 4 Carbon在MKA多模态知识工作测试中排名第二，成本仅为第一名六分之一。",
+      "summary": "谷歌Gemini 4 Carbon在MKA基准测试中获第二，成本仅为第一名六分之一。",
       "summaryZh": ""
     },
     {
@@ -19,8 +19,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-10T18:03:43.000Z",
-      "summary": "",
-      "titleZh": "OpenAI 让企业索取 ChatGPT 配置文件，为美国电子商务公司添加人工智能代理"
+      "summary": ""
     },
     {
       "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
@@ -29,9 +28,8 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-10T18:49:52.000Z",
-      "summary": "OpenAI推出新商业档案，使ChatGPT更接近谷歌。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 推出新的业务配置文件，使 ChatGPT 更像 Google 一点"
+      "summary": "OpenAI推出新商业档案，使ChatGPT更类似谷歌。",
+      "summaryZh": ""
     },
     {
       "title": "蚂蚁灵波又放大招！机器人通用大脑学会共享“手感”",
@@ -81,8 +79,7 @@
       "category": "ai",
       "pubDate": "2026-11-10T18:00:00.000Z",
       "summary": "ChatGPT获得认证AI“商业代理”。",
-      "summaryZh": "",
-      "titleZh": "ChatGPT 正在获得经过验证的人工智能“业务代理”"
+      "summaryZh": ""
     },
     {
       "title": "诺亦腾机器人高精度手部数据开放",
@@ -92,6 +89,16 @@
       "category": "robotics",
       "pubDate": "2026-11-10T05:10:02.000Z",
       "summary": "诺亦腾机器人开放高精度手部动作捕捉数据集HiPHI-Hand，支持机器人学习和三维手部重建研究。",
+      "summaryZh": ""
+    },
+    {
+      "title": "从AI眼镜到机器人，年轻人的职业机会在哪里？",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5odXo5WWpnLUY3ZHZxZHRSUW5RWFlueExpRlczclc2dV9namlhbVl0YXhiT0NsV0pPRlljMlE3Q1A0TEoyempjZ0pBTGhDdm1MUEFyTFYzckI?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-10T09:32:39.000Z",
+      "summary": "中国智能制造企业寻求融合AI技术的全球化人才。",
       "summaryZh": ""
     },
     {
@@ -115,13 +122,22 @@
       "summaryZh": ""
     },
     {
-      "title": "谷歌发布新AI芯片，HBM带宽翻倍-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42cWtYR19TTTBLYUtSQ2ZEazBaNnF4bVRTekwxel9RRmhwNDRXbjRESmNyUkU3RDEzcm9CRzRibFN5M0YzZXRVN1g2cVZYNzg?oc=5",
+      "title": "别把大模型当实习生：用“高度、深度、广度”三步重构人机协作",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LUWpiSjBJTk12M09PdVRwbFFFcFpVdEpma09yQjlqMDgxMUhnbFJpbERmb3NPWXJTcWNDR1BCTHVmZk9zM2RidWhhSldLZw?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-10T03:56:52.000Z",
-      "summary": "谷歌发布两款新型TPU芯片，HBM带宽翻倍，旨在提升AI算力和安全性。",
+      "pubDate": "2026-11-10T07:18:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "芯片巨头的“算力大战”，打到了电力端-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2WENkMWJVOHRuaXlsSmU4Z1hybk16aUt1aWI2SkEwNTRVbFZUT2hVWUhUMlBkeDJQUWctZDNaXy1XYnVPMkMwSDJoMHM0eEhq?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-11T00:08:13.000Z",
+      "summary": "芯片巨头算力竞争转向电力端，关注成本与效率。",
       "summaryZh": ""
     },
     {
@@ -141,17 +157,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-10T02:29:00.000Z",
-      "summary": "中国大模型周调用量连续28周领跑全球，四款国产模型占据前五席位。",
+      "summary": "中国大模型周调用量连续28周领跑全球，科创AIETF博时涨超2.5%。",
       "summaryZh": ""
     },
     {
-      "title": "人工智能ETF华富(515980)标的指数早盘冲高涨超2%，AI投资叙事正在从基础设施建设走向智能规模扩张",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VUDFEenVBZ3gteWJGWmJUZlo5VldyT2xDV1gySExvR2ktcEt3M0RQcU9kSzItOEpHM2FtYmpVQjVMUExqZ2RxcjJZb2pZMzlPQW5ob3ZiblM?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-10T02:06:07.000Z",
-      "summary": "人工智能ETF华富（515980）标的指数冲高，AI投资转向智能规模扩张。",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-10T22:35:01.000Z",
+      "summary": "亚马逊推出AI安防无人机和机器人，Ring摄像头实现移动监控。",
       "summaryZh": ""
     },
     {
@@ -162,17 +178,6 @@
       "category": "robotics",
       "pubDate": "2026-11-10T02:57:40.000Z",
       "summary": ""
-    },
-    {
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-10T22:35:01.000Z",
-      "summary": "亚马逊推出AI安防无人机和机器人，Ring摄像头实现移动监控。",
-      "summaryZh": "",
-      "titleZh": "亚马逊推出人工智能驱动的安全无人机和机器人，环形摄像机开始移动"
     },
     {
       "title": "昨日A股四大指数集体收涨 资金聚焦人形机器人、AI短剧两大赛道",
@@ -195,16 +200,6 @@
       "summaryZh": ""
     },
     {
-      "title": "午评：创业板指涨1.49% AI影视、人形机器人等概念板块走强",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yZ0FBbjBJT0VZN2ZuNF9RZkZ6T1NvNDBjeVZWSEJMYUwxd0VaX3o5Wnh6eEU1N05GS3RnWVFRcXo1WXZiNEphNFc5ZHdRZWtl?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-10T03:35:34.000Z",
-      "summary": "创业板指涨1.49%，AI影视、人形机器人等概念板块涨幅居前。",
-      "summaryZh": ""
-    },
-    {
       "title": "优理奇机器人（UniX AI）完成5亿元Pre-A轮融资",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vcnd1TktRMzM1OEJCeFNvV01TRHVhaWFxbXh5Nm5CXzZFUkZmWTdlTHNLQ0k5dGhuVDUzT1kwYnRuX3puRjA1WjFaeXdRREo2RUlyZFdqeDdLTW5ray1UVWxHYnYxUQ?oc=5",
       "source": "每日经济新闻",
@@ -221,9 +216,8 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-10T13:30:00.000Z",
-      "summary": "Ring推出新款室内无人机摄像头，搭载AI技术，售价250美元。",
-      "summaryZh": "",
-      "titleZh": "Ring 的室内无人机摄像头回归，现在由人工智能提供支持"
+      "summary": "Ring推出新型室内无人机摄像头，搭载AI技术，售价250美元。",
+      "summaryZh": ""
     },
     {
       "title": "跑得快，还要赚得到：无人车出海的长期账",
@@ -232,7 +226,8 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-10T09:00:00.000Z",
-      "summary": "一辆无人出租车，在海外一年能跑出多少流水？"
+      "summary": "无人车出海需关注单车经济性、融资与现金管理。",
+      "summaryZh": ""
     }
   ]
 }
