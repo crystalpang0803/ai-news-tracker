@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "generatedAt": "2026-11-11T22:38:58.863Z",
+  "generatedAt": "2026-11-12T00:31:24.418Z",
   "items": [
     {
       "title": "奇袭Claude！谷歌Gemini新旗舰全面上线，一夜复刻OpenCode桌面应用",
@@ -9,26 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-11T03:00:48.000Z",
-      "summary": "谷歌推出新AI模型Gemini 4 Carbon，在多任务中表现优异，价格优惠。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智谱、Deepseek大模型token包在京东低至1折，豆包百万token包9.9元-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfeW9kdnE2NkU4MVFHT0Q2OUd1V3h0ZTAtZFlGbHNzbWFWb0pjS1B6SERzV1ZmTk9LOWVTNlFhTmNWZFBLd3VqNWRlazdEVWFvOUlGZ3pXVUxlQmpqcFN4ZA?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-11T11:15:02.000Z",
-      "summary": ""
-    },
-    {
-      "title": "曝OpenAI三季度收入突破670亿！",
-      "link": "https://zhidx.com/p/609335.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-11T10:32:46.000Z",
-      "summary": "OpenAI第三季度收入达672亿元，亏损扩大但寻求新一轮融资。",
+      "summary": "谷歌推出新AI模型Gemini 4 Carbon，在多个基准测试中表现优异。",
       "summaryZh": ""
     },
     {
@@ -38,28 +19,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-11T13:46:31.000Z",
-      "summary": "沐曦与优必选合资公司曦选创智完成5亿元融资，用于具身芯片研发。",
+      "summary": "沐曦与优必选合资公司曦选创智融资5亿元，用于具身芯片研发。",
       "summaryZh": ""
     },
     {
-      "title": "纳斯达克指数高开1.5%，资金重返AI板块 ；我国成功发射探源计划探路者卫星；长城汽车：警惕假冒召回短信；优必选首次披露超仿生人形机器人大额订单",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50YmJCSVI5eVlOcS1xcDVuQkdKcjk5OGpxXy12UTM5N2ZBWUxCenRTQTFOaTZ0bWlqSWdLVFB5b292TDV2bExrZENwcjAxeEhHaVdPZlRnUWd3ampEanE0ZDdmRWNLUQ?oc=5",
-      "source": "每日经济新闻",
+      "title": "前三季度营收近24亿元！九号孵化的割草机器人公司，借款5亿",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OTHREMzdXU1JHQ1NZWUxLMUhFV1RacEVDb3NLbzRDYjBTemRLZ3RmdXlyTFlVc0w5ekRMYkM0V0dRVC1NZUI5Nw?oc=5",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-11T14:38:00.000Z",
-      "summary": "纳斯达克指数上涨，AI板块受资金青睐，我国发射探路者卫星，长城汽车提醒警惕假冒召回短信，优必选披露超仿生机器人订单。",
+      "pubDate": "2026-11-11T05:56:41.000Z",
+      "summary": "九号公司孵化割草机器人公司前三季度营收23.75亿，借款5亿用于经营发展。",
       "summaryZh": ""
     },
     {
-      "title": "阿里全新一代千问大模型 Qwen4 即将发布，预览版已首发上线",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HV2FHcDFGOXdueTRTck5BZWpiM1BXSnd0M3lkZFRlTVJuTGM0UUxfMzRwV2dHbU9lU3RQY1RRWmJFcDFGb2xibHZPUEI?oc=5",
-      "source": "IT之家",
+      "title": "AI算力公司CoreWeave股价飙升，债务担忧缓解",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00LW9Ndzh3Z0tQZjNkOU1NNC1HVkpianFDdnFhYjJTTHNGcTdyVGo0SmJIVlFVT3J3amhUWUhlanF0THpBVGdXb25CYmRteVdYNlNiMm9GcFE?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-11T02:10:29.000Z",
-      "summary": "阿里全新千问大模型Qwen4预览版上线，支持多场景应用。",
-      "summaryZh": ""
+      "pubDate": "2026-11-11T07:46:00.000Z",
+      "summary": ""
     },
     {
       "title": "大模型没有护城河，只有场景-36氪",
@@ -68,27 +48,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-11T07:55:59.000Z",
-      "summary": "AI应用核心壁垒在于高频刚需付费场景，模型强大不等于用户留存。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Token首次成天猫双11独立品类，大模型厂商今日打5折",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vazQxdDJwemN0cDYxaVpyVFAxUjVvckFJeDlROTFxc3dZYzlkNHZ0djdUVGhuM1NfckpTUW5OUWk3Z2h0elljcjNvU0FSdlFCWXNNMHdNbkZqQQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-11T04:35:00.000Z",
-      "summary": "天猫双11 Token充值活动开启，大模型厂商参与5折促销。",
-      "summaryZh": ""
-    },
-    {
-      "title": "大模型厂商扎堆天猫，Token成了双11爆款",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MRzB0T0pYVmdsbXFWVTNrb0tmZW1XeGtCQlpveWQya1ZhNTBFSHJnUlJBdlhTWllZTTB6NFBmWjlBdHNEb2wtM2xMMXU?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-11T10:29:00.000Z",
-      "summary": "大模型厂商Token在天猫双11大促中成为爆款，AI服务消费模式转变。",
+      "summary": "AI应用核心壁垒在于高频刚需付费场景，而非模型本身。",
       "summaryZh": ""
     },
     {
@@ -108,9 +68,9 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-11T15:00:00.000Z",
-      "summary": "Databricks发布AI代理Genie新版本，可执行多步骤任务并辅助CEO进行决策。",
+      "summary": "Databricks发布AI代理Genie新版本，可执行多步骤任务并自主完成。",
       "summaryZh": "",
-      "titleZh": "Databricks 的新 AI 代理向首席执行官 Ali Ghodsi 透露了赤裸裸的真相"
+      "titleZh": "Databricks 的新 AI 代理向首席执行官 Ali Ghodsi 讲述了赤裸裸的真相"
     },
     {
       "title": "United won’t let your AI agent book your flight",
@@ -135,13 +95,23 @@
       "titleZh": "ChatGPT 正在获得经过验证的人工智能“业务代理”"
     },
     {
+      "title": "第九届中国高校计算机大赛人工智能创意赛全国总决赛落地南京大学，62 支菁英队伍角逐创新桂冠",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pV1pKRFl6UG1IQzdCTmNKTmV5ZHV5cUJrZUU5SDJwZ3RudlpJLWVydWg2VzFOTHFvSVpHbl9hN0ZZc0JyOUxrdGphYW55OUFWNkozb0pTN1VuT2NUV1pRX09R?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-11T06:34:00.000Z",
+      "summary": "南京大学举办第九届中国高校计算机大赛人工智能创意赛全国总决赛，62支队伍角逐创新桂冠。",
+      "summaryZh": ""
+    },
+    {
       "title": "SpaceX新一代太空AI卫星峰值算力达400千瓦，2028年将部署1万组英伟达GPU机架",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xazUwZTFZemI3UjVoXzhMNVpnNVRKUkFhdmYyNWQxN3NSOURYcGNlNnBrX1RkTEhmQU9wM3p4RDhweloxZjZuVkZYekZPaW9VcVQydWtn?oc=5",
       "source": "腾讯新闻",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-11T02:18:00.000Z",
-      "summary": "SpaceX新一代AI卫星峰值算力达400千瓦，2028年将部署1万组英伟达GPU机架。",
+      "summary": "SpaceX计划2028年部署1万组英伟达GPU机架，新一代AI卫星峰值算力达400千瓦。",
       "summaryZh": ""
     },
     {
@@ -151,7 +121,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-11T19:55:54.000Z",
-      "summary": "AI模型助力虚拟Microduck机器人模仿猫的行为。",
+      "summary": "AI模型助力虚拟Microduck机器人学会追逐猫，展现未来机器人技术潜力。",
       "summaryZh": "",
       "titleZh": "我在一只追逐我的猫的虚拟鸭子中看到了机器人技术的未来"
     },
@@ -162,7 +132,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-11T13:43:29.000Z",
-      "summary": "Serve Robotics推出机器人配送网络API，供开发者调用其自动驾驶机器人。",
+      "summary": "Serve Robotics推出机器人配送网络API，供开发者调用其配送机器人。",
       "summaryZh": "",
       "titleZh": "Serve Robotics 开放机器人配送网络供其他人构建"
     },
@@ -177,15 +147,14 @@
       "summaryZh": ""
     },
     {
-      "title": "FMC³ Robotics introduces Doceo system to help industrial robots learn from factory workers",
-      "link": "https://roboticsandautomationnews.com/2026/11/11/fmc%c2%b3-robotics-introduces-doceo-system-to-help-industrial-robots-learn-from-factory-workers/107021/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
+      "title": "总投资2.8亿，立讯科技机器人项目落户广州",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hZk9GaEYzbW4xSi1JaFhHOU5JQkQ0U0tNNkROTGNUb2xwNWNoRFN6X3ZVdnZKeENOSkZyYk1BbldqVUZTd0MydGtfeUdJck8xYXJ0bno4bw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-11T22:38:23.000Z",
-      "summary": "FMC³ Robotics推出Doceo系统，助力工业机器人从工人学习制造任务。",
-      "summaryZh": "",
-      "titleZh": "FMC³ Robotics 推出 Doceo 系统，帮助工业机器人向工厂工人学习"
+      "pubDate": "2026-11-11T02:07:50.000Z",
+      "summary": "立讯科技2.8亿机器人项目落户广州。",
+      "summaryZh": ""
     },
     {
       "title": "华北五省（市、自治区）大学生机器人大赛天津赛区竞赛举行",
@@ -216,6 +185,27 @@
       "pubDate": "2026-11-11T14:18:33.000Z",
       "summary": "",
       "titleZh": "自动化初创公司 Rox 融资 1 亿美元，估值 13 亿美元"
+    },
+    {
+      "title": "Agility Robotics completes merger and secures $465 million in capital ahead of Nasdaq listing",
+      "link": "https://roboticsandautomationnews.com/2026/11/11/agility-robotics-completes-merger-and-secures-465-million-in-capital-ahead-of-nasdaq-listing/107039/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-11T23:21:07.000Z",
+      "summary": "Agility Robotics完成合并，融资4.65亿美元，即将在纳斯达克上市。",
+      "summaryZh": "",
+      "titleZh": "Agility Robotics 在纳斯达克上市前完成合并并获得 4.65 亿美元资本"
+    },
+    {
+      "title": "“机器鸭”爆火折射具身智能发展新动向",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZXZPVGhuYW5hamFUcWg2dkZ5cDNOTU5FdlRYMWtKejFSU0ZlVTFuU3FNdmw5ekdod0pvb1dOZXFRaUwyX092TncydXBBTUE0VnVUSllZS05iTlh2ZmVqU1A0R1NvazJmVDRHTDRCUXlKd3VrdU9CLVAtXzVHVXYzd05INEg1QQ?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-11T08:04:40.000Z",
+      "summary": "“机器鸭”低成本、开源的AI机器人走红，推动具身智能从科研走向大众创新。",
+      "summaryZh": ""
     }
   ]
 }
