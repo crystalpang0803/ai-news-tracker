@@ -1,7 +1,17 @@
 {
   "date": "2026-11-13",
-  "generatedAt": "2026-11-12T22:12:44.825Z",
+  "generatedAt": "2026-11-12T23:31:11.952Z",
   "items": [
+    {
+      "title": "谷歌发布 Gemini 4 Hydrogen 模型：主打日常编程与智能体工作流，百万 Token 输入 1.5 美元",
+      "link": "https://www.ithome.com/1/026/446.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-12T18:17:17.000Z",
+      "summary": "谷歌推出 Gemini 4 Hydrogen 模型，主打编程与智能体工作流，每百万 Token 输入 1.5 美元。",
+      "summaryZh": ""
+    },
     {
       "title": "上下水版 2999 → 678 元：科沃斯全能基站扫拖机器人“地宝 mini2”破冰新低",
       "link": "https://www.ithome.com/1/026/367.htm",
@@ -19,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-12T11:36:20.000Z",
-      "summary": "MiniMax开源SOTA生图模型H3-Image，原生4K，一张两毛，可生成复杂图像及CAD图纸。",
+      "summary": "MiniMax开源SOTA生图模型H3-Image，原生4K，生成一张仅需两毛。",
       "summaryZh": ""
     },
     {
@@ -43,6 +53,15 @@
       "summaryZh": ""
     },
     {
+      "title": "蚂蚁灵波独立融资后发布触觉模型，具身智能商业化面临落地考验",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PZWRjcmYxN1ZKOTRiVHlOdEpYTjFLOFNzcUdzYUxJZi1WQmVZQjl4emJndjVzeTcxa0h0ZUxTZEROVTlaNW1SbVA2MUxRTzlRMHB5WA?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-12T12:54:39.000Z",
+      "summary": ""
+    },
+    {
       "title": "具身智能落地有瓶颈 如何发挥行业潜力？",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXOXlpcEZPZzZ2cE94b2xTc2w3QUdZR0RyRGxzSExnV1JnbGlaVjJRN3lhRVR2SzRiWmdPOFNfdG5KNC1sZFlzN2h3LUlMOFFnZFpiUG5uMFVIZmRKSm1yeg?oc=5",
       "source": "财新网",
@@ -59,7 +78,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-12T03:25:00.000Z",
-      "summary": "福建省发布行动方案，加速人工智能在各行业应用。",
+      "summary": "福建省发布《人工智能+行动方案》，推动AI赋能重点行业领域。",
       "summaryZh": ""
     },
     {
@@ -70,16 +89,6 @@
       "category": "ai",
       "pubDate": "2026-11-12T05:55:55.000Z",
       "summary": "中国大模型周调用量连续28周领跑全球，恒生科技ETF华泰柏瑞助力大模型商业化加速。",
-      "summaryZh": ""
-    },
-    {
-      "title": "算力租金一年翻倍，AI时代的基础研究有多贵？",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03dnNETkZxTUZ5dHN0RExRSDR2VDlrUFVhR2Y1M2ZCTGdQdUZCQ0YzTUw5Nk9tYXJVeUt3TVpiQU1CMk8wQmR2SHNiMm9XLUJGd2V3?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-12T00:56:45.000Z",
-      "summary": "AI时代基础研究算力租金翻倍，社会力量探索长期投资模式。",
       "summaryZh": ""
     },
     {
@@ -110,27 +119,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-12T01:46:05.000Z",
-      "summary": "联发科与NVIDIA合作推出RTX Spark芯片，加速Windows 11 PC本地AI智能体应用。",
-      "summaryZh": ""
-    },
-    {
-      "title": "大摩研报：人形机器人商业化推迟1年",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PSXlmU2Q1MVpxRGE0V3NYR1F5RkNOMnNhYXdTVVNDNHg3NlRYdXVSMVFsY2VrcllIUVUzQWRoVWdFWFozei1sNUNzOTEtUzVLT2RMazllTQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-12T03:18:53.000Z",
-      "summary": "大摩研报预测人形机器人商业化推迟至2025年。",
+      "summary": "联发科与NVIDIA合作推出RTX Spark芯片，助力Windows 11 PC本地AI智能体加速落地。",
       "summaryZh": ""
     },
     {
       "title": "张一鸣再谈字节AI：最早2029年追平OpenAI与Anthropic",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16NE5CZm16OHE5dWI2c3dXbER1VDBCMUtkaTJHZ0wxVF9qRTVCRGdtd1V2YXFPamNQVjZfZC1CQ3BiU0Q5OTJIT1F1a3VhNFU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmSHk3UURWQVJXejBIdUZrS2NVc2gxTTFSTVdLN2ZLU2YwT3NacF9BWFpoYmNqa0I2V3hudTRIX0hEaG5RYWpKYXZad09uMnVY?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-12T10:50:28.000Z",
       "summary": "张一鸣称字节AI最早2029年可追平OpenAI与Anthropic。",
+      "summaryZh": ""
+    },
+    {
+      "title": "前OpenAI研究员改口：超级AI研究员可能明年就来",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SaDFLeUlMcDhVbUZzMk1vZTZLaDFDNlloUkxBQlBOQ1F1aVZFOXA1LXRCYmVLdjFUbk5kWTQ1YXpBTm9vSHZOcVhnME50eEE?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-12T03:29:53.000Z",
+      "summary": "前OpenAI研究员预测，超级AI研究员可能于2027年出现。",
       "summaryZh": ""
     },
     {
@@ -151,9 +160,18 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-12T13:30:31.000Z",
-      "summary": "Viam推出软件平台，旨在加速机器人部署。",
+      "summary": "Viam Launchpad软件平台旨在加速机器人部署。",
       "summaryZh": "",
       "titleZh": "Viam Launchpad 旨在加速机器人技术部署"
+    },
+    {
+      "title": "体验跟拍机器人Beni：谁不想要一个不会喊累还会拍照的出行搭子",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WbUpTY25HNHFXLXkzQkNhM21WZjFIclktX0I3VGNuNWsta0dZYmhpX1NfTE9sVzVrTzNodTNGUWUzb1dsTFc4VWFlczc?oc=5",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-12T05:18:54.000Z",
+      "summary": ""
     },
     {
       "title": "中国电信以数据要素助力商用车智能制造迭代跃升",
@@ -166,13 +184,34 @@
       "summaryZh": ""
     },
     {
+      "title": "What Robotics Experts Think of Tesla’s Optimus Robot",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcXJDR3R3elFscjlnNkk3cGc3R3VNcGZGZHFuZDROUjc5ODE2bTI0TGJYSS1pUGlpQnlMMWRUNFdsd0czVHpTQnF3NmktQldmTnNWYVRuTHJTU2pVM0xncW8wMU0xak1HclhvcU02SmR4cWNLemgyd1JmT2RhRkU5V2dhQmRNOGMyNWx2ZGV5RDNNNmJrZEZZYnRUM0Q3Zm1Hc3BOOWFFTzh2dGphb0gzdGNxVWU1ZzYwb3pMMW0wYVRmZWVpZ3MwS2VjOUtvbkVsRFpFczFWWVR3d0dMeEZBWjhXQzBVN0MyQnhIck51b09qYUItX3lFRjNka2ZRUlMxVlJ6YTVaRUtVaUVVVkd0MDB5cU5Vdw?oc=5",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-12T06:59:27.000Z",
+      "summary": "特斯拉Optimus机器人引发机器人专家热议。",
+      "summaryZh": "",
+      "titleZh": "机器人专家对特斯拉擎天柱机器人的看法"
+    },
+    {
+      "title": "航天十一院自研！我国首款商用级纯太阳能无人机首飞成功",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NUnN1Yy1kZ2hmWVRMOHV1UVZfd3VaRGdDY1ZEdFFzTmdYZlFWdVNYcEMyODFleWZzZDV5LXR6cGY2RlBBSl9yTFZCSTVlaDhLYTJoUUhnTQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-12T02:12:19.000Z",
+      "summary": "我国首款商用级纯太阳能无人机成功首飞。",
+      "summaryZh": ""
+    },
+    {
       "title": "从赛场迈向生活 智能机器人加速融入现实场景",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiZkFQNWwzU04yUmZBQTRvczIwZk9CUnZvYUY4XzA3VkV4RDFVVXJSTFNNS25FRnI5MGUzY2FOSEZJNFFYWDUyZXdLUE81aFV3NUdNODJTclFKVzNPNml4ZzZONko2d1RvZjhqQ2JvdG0?oc=5",
       "source": "央广网",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-12T01:26:19.000Z",
-      "summary": "智能机器人产业快速发展，加速融入现实生活场景。",
+      "summary": "智能机器人产业加速发展，应用场景不断拓展。",
       "summaryZh": ""
     },
     {
@@ -182,42 +221,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-12T11:12:32.000Z",
-      "summary": "Ring确认其无人机在CBS新闻演示中坠毁后，将不再提供手动控制功能。",
+      "summary": "Ring确认其无人机在CBS新闻演示中坠毁后，将不具备手动控制功能。",
       "summaryZh": "",
       "titleZh": "Ring 证实其无人机在坠毁后将无法手动控制 CBS 新闻"
-    },
-    {
-      "title": "German AI robotics startup valued at $8.5 billion after new fundraising",
-      "link": "https://techxplore.com/news/2026-11-german-ai-robotics-startup-valued.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-12T19:20:01.000Z",
-      "summary": "德国人工智能机器人初创公司完成新一轮融资，估值达85亿美元。",
-      "summaryZh": "",
-      "titleZh": "德国人工智能机器人初创公司新一轮融资后估值达 85 亿美元"
-    },
-    {
-      "title": "ESTUN Robotics integrates RoboDK simulation software to accelerate European expansion",
-      "link": "https://roboticsandautomationnews.com/2026/11/12/estun-robotics-and-robodk-announce-strategic-partnership-at-dfactory-barcelona-to-simplify-and-accelerate-the-adoption-of-industrial-robots-in-europe/107047/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-12T00:40:29.000Z",
-      "summary": "ESTUN Robotics与RoboDK合作，加速欧洲市场扩张。",
-      "summaryZh": "",
-      "titleZh": "埃斯顿机器人集成RoboDK仿真软件加速欧洲扩张"
-    },
-    {
-      "title": "Agility Robotics completes merger and secures $465 million in capital ahead of Nasdaq listing",
-      "link": "https://roboticsandautomationnews.com/2026/11/11/agility-robotics-completes-merger-and-secures-465-million-in-capital-ahead-of-nasdaq-listing/107039/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-11T23:21:07.000Z",
-      "summary": "Agility Robotics完成合并，融资4.65亿美元，即将在纳斯达克上市。",
-      "summaryZh": "",
-      "titleZh": "Agility Robotics 在纳斯达克上市前完成合并并获得 4.65 亿美元资本"
     }
   ]
 }
