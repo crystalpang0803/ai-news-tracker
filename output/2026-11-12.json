@@ -1,35 +1,44 @@
 {
   "date": "2026-11-12",
-  "generatedAt": "2026-11-12T00:31:24.418Z",
+  "generatedAt": "2026-11-12T01:40:19.323Z",
   "items": [
     {
-      "title": "奇袭Claude！谷歌Gemini新旗舰全面上线，一夜复刻OpenCode桌面应用",
-      "link": "https://zhidx.com/p/608996.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-11T03:00:48.000Z",
-      "summary": "谷歌推出新AI模型Gemini 4 Carbon，在多个基准测试中表现优异。",
-      "summaryZh": ""
-    },
-    {
-      "title": "沐曦和优必选联姻造具身芯片，消息称合资公司曦选创智融资 5 亿元",
-      "link": "https://www.ithome.com/1/025/807.htm",
+      "title": "谷歌推出 Gemini Decisions API 快速多模态决策，基于 Gemini Decision 1 模型",
+      "link": "https://www.ithome.com/1/025/858.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-11T13:46:31.000Z",
-      "summary": "沐曦与优必选合资公司曦选创智融资5亿元，用于具身芯片研发。",
+      "category": "ai",
+      "pubDate": "2026-11-12T00:55:39.000Z",
+      "summary": "谷歌推出基于 Gemini Decision 1 模型的 Gemini Decisions API，实现快速多模态决策。",
       "summaryZh": ""
     },
     {
-      "title": "前三季度营收近24亿元！九号孵化的割草机器人公司，借款5亿",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OTHREMzdXU1JHQ1NZWUxLMUhFV1RacEVDb3NLbzRDYjBTemRLZ3RmdXlyTFlVc0w5ekRMYkM0V0dRVC1NZUI5Nw?oc=5",
+      "title": "机器人进酒店洗衣房，57小时完成165轮真机实验！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5MMk5Ta1FsQk03dVZ6WnZwSEd4Y2c0bGRzRW9LdEpyUTNXU0xiNjRwOXcybnU3QXJmZjhCRGdOU08xRG9GQWtVNQ?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-11T05:56:41.000Z",
-      "summary": "九号公司孵化割草机器人公司前三季度营收23.75亿，借款5亿用于经营发展。",
+      "pubDate": "2026-11-11T08:56:01.000Z",
+      "summary": "大晓机器人57小时完成165轮酒店洗衣房真机实验，牛仔裤残留率显著降低。",
+      "summaryZh": ""
+    },
+    {
+      "title": "估值1300亿，字节背后的算力独角兽，要赴美IPO了",
+      "link": "https://www.tmtpost.com/8201448.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-12T01:02:00.000Z",
+      "summary": "字节核心算力供应商DayOne递交招股书。"
+    },
+    {
+      "title": "Anthropic Claude 仅用 3 天完成 AI 模型适配 AMD GPU，英伟达 CUDA 护城河遇挑战",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE13a3R4RFZjZ2w3NWQ4TnFIeHNUNU9DQU5yZzRRMGthQ25vaFRMLVZXQWZtb0Y2WkRuTVlBcU1JdEZqYlEySUhwcGZ5dlo?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-11T11:26:23.000Z",
+      "summary": "Anthropic Claude 3天适配AMD GPU，挑战英伟达CUDA生态。",
       "summaryZh": ""
     },
     {
@@ -48,8 +57,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-11T07:55:59.000Z",
-      "summary": "AI应用核心壁垒在于高频刚需付费场景，而非模型本身。",
+      "summary": "AI应用核心壁垒在于高频刚需付费场景，模型强大不等于用户留存。",
       "summaryZh": ""
+    },
+    {
+      "title": "生图又快又便宜，MiniMax为什么还是没赢GPT？",
+      "link": "https://www.tmtpost.com/8201577.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-12T01:15:00.000Z",
+      "summary": "真拿来干活，差距就出来了。"
     },
     {
       "title": "科创人工智能ETF富国(589380)跟踪指数已处近1年估值低位",
@@ -59,6 +77,16 @@
       "category": "ai",
       "pubDate": "2026-11-11T05:47:00.000Z",
       "summary": "科创人工智能ETF富国跟踪指数估值处于近一年低位。",
+      "summaryZh": ""
+    },
+    {
+      "title": "算力租金一年翻倍，AI时代的基础研究有多贵？",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03dnNETkZxTUZ5dHN0RExRSDR2VDlrUFVhR2Y1M2ZCTGdQdUZCQ0YzTUw5Nk9tYXJVeUt3TVpiQU1CMk8wQmR2SHNiMm9XLUJGd2V3?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-12T00:56:45.000Z",
+      "summary": "AI时代基础研究算力租金翻倍，社会力量探索长期投资模式。",
       "summaryZh": ""
     },
     {
@@ -95,23 +123,13 @@
       "titleZh": "ChatGPT 正在获得经过验证的人工智能“业务代理”"
     },
     {
-      "title": "第九届中国高校计算机大赛人工智能创意赛全国总决赛落地南京大学，62 支菁英队伍角逐创新桂冠",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pV1pKRFl6UG1IQzdCTmNKTmV5ZHV5cUJrZUU5SDJwZ3RudlpJLWVydWg2VzFOTHFvSVpHbl9hN0ZZc0JyOUxrdGphYW55OUFWNkozb0pTN1VuT2NUV1pRX09R?oc=5",
-      "source": "腾讯新闻",
+      "title": "AI商业化落地提速 物理AI与端侧AI打开增量空间 人工智能ETF易方达（159819）热度攀升",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MZnhlUGFVekI5Z2lCLTNoakIxVHdiUUZPQVdrMVV4aXZmZ1RQRlhyRmM3Vm1tMmRTY0JwNFBoX0FaTXJWN3N4U2dNVEc4bWdo?oc=5",
+      "source": "凤凰财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-11T06:34:00.000Z",
-      "summary": "南京大学举办第九届中国高校计算机大赛人工智能创意赛全国总决赛，62支队伍角逐创新桂冠。",
-      "summaryZh": ""
-    },
-    {
-      "title": "SpaceX新一代太空AI卫星峰值算力达400千瓦，2028年将部署1万组英伟达GPU机架",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xazUwZTFZemI3UjVoXzhMNVpnNVRKUkFhdmYyNWQxN3NSOURYcGNlNnBrX1RkTEhmQU9wM3p4RDhweloxZjZuVkZYekZPaW9VcVQydWtn?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-11T02:18:00.000Z",
-      "summary": "SpaceX计划2028年部署1万组英伟达GPU机架，新一代AI卫星峰值算力达400千瓦。",
+      "pubDate": "2026-11-11T06:50:52.000Z",
+      "summary": "AI商业化加速，物理AI与端侧AI领域增量空间扩大，易方达人工智能ETF热度上升。",
       "summaryZh": ""
     },
     {
@@ -121,7 +139,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-11T19:55:54.000Z",
-      "summary": "AI模型助力虚拟Microduck机器人学会追逐猫，展现未来机器人技术潜力。",
+      "summary": "AI模型助力虚拟Microduck机器人学习追逐猫的行为。",
       "summaryZh": "",
       "titleZh": "我在一只追逐我的猫的虚拟鸭子中看到了机器人技术的未来"
     },
@@ -132,29 +150,18 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-11T13:43:29.000Z",
-      "summary": "Serve Robotics推出机器人配送网络API，供开发者调用其配送机器人。",
+      "summary": "Serve Robotics推出机器人配送网络API，供开发者调用其自动驾驶机器人。",
       "summaryZh": "",
       "titleZh": "Serve Robotics 开放机器人配送网络供其他人构建"
     },
     {
-      "title": "腔镜手术机器人AI平台影响力品牌榜（2026年11月）",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16N2FOZGFLTkdaMS1TM205YzdscjV0RU9FTTVERE16NG94UVFaOEhHREtLQVBNVHYxWXRfdEpRcUQ2cTFGamNQQkRwV2lKaFFGNWRBMFFIZnJTSTJlLXE5WVdNNXE3ZkZPMUhn?oc=5",
-      "source": "东方财富网",
+      "title": "外媒：从AI导购到机器人热卖，中国双11正在检验AI的吸金能力",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5ZlR6NlBYNkJhb1ZoWDg2ZU9Yd0k2WmxvWENqNmthandlN180M181dW1Zb3ltdldQekE5MEFsTHRmR05xRS1BeDVOMDgwZnByN0x6eWZRb2VjZklncXp3SkFnXzJ6cnI5TEJNMHdHZXpacC1T?oc=5",
+      "source": "金融界",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-11T10:54:00.000Z",
-      "summary": "2026年11月腔镜手术机器人AI平台影响力品牌榜发布，精锋医疗、微创等品牌领先。",
-      "summaryZh": ""
-    },
-    {
-      "title": "总投资2.8亿，立讯科技机器人项目落户广州",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hZk9GaEYzbW4xSi1JaFhHOU5JQkQ0U0tNNkROTGNUb2xwNWNoRFN6X3ZVdnZKeENOSkZyYk1BbldqVUZTd0MydGtfeUdJck8xYXJ0bno4bw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-11T02:07:50.000Z",
-      "summary": "立讯科技2.8亿机器人项目落户广州。",
-      "summaryZh": ""
+      "pubDate": "2026-11-12T01:17:45.000Z",
+      "summary": ""
     },
     {
       "title": "华北五省（市、自治区）大学生机器人大赛天津赛区竞赛举行",
@@ -173,7 +180,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-11T12:24:23.000Z",
-      "summary": "AI技术深度融入文旅消费全链路，推动旅游业变革。",
+      "summary": "AI技术深度融入文旅消费全链路，重塑旅游业发展模式。",
       "summaryZh": ""
     },
     {
@@ -187,25 +194,25 @@
       "titleZh": "自动化初创公司 Rox 融资 1 亿美元，估值 13 亿美元"
     },
     {
-      "title": "Agility Robotics completes merger and secures $465 million in capital ahead of Nasdaq listing",
-      "link": "https://roboticsandautomationnews.com/2026/11/11/agility-robotics-completes-merger-and-secures-465-million-in-capital-ahead-of-nasdaq-listing/107039/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-11T23:21:07.000Z",
-      "summary": "Agility Robotics完成合并，融资4.65亿美元，即将在纳斯达克上市。",
-      "summaryZh": "",
-      "titleZh": "Agility Robotics 在纳斯达克上市前完成合并并获得 4.65 亿美元资本"
-    },
-    {
       "title": "“机器鸭”爆火折射具身智能发展新动向",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZXZPVGhuYW5hamFUcWg2dkZ5cDNOTU5FdlRYMWtKejFSU0ZlVTFuU3FNdmw5ekdod0pvb1dOZXFRaUwyX092TncydXBBTUE0VnVUSllZS05iTlh2ZmVqU1A0R1NvazJmVDRHTDRCUXlKd3VrdU9CLVAtXzVHVXYzd05INEg1QQ?oc=5",
       "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-11T08:04:40.000Z",
-      "summary": "“机器鸭”低成本、开源的AI机器人走红，推动具身智能从科研走向大众创新。",
+      "summary": "“机器鸭”低成本、开源模式推动具身智能市场发展。",
       "summaryZh": ""
+    },
+    {
+      "title": "Humanoid robot start-up backed by Eric Trump in talks with Israel’s military",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGJxdXNLcWwtZGYxNmpla0VGbVE0OU0yN1NaaWgzZUxmZW93NkVLcFFfMTVUOGl4SVRyZnVfa1pNQS1vSkVVQU5yd1AwQU1EZHoxaFJjdDFNcDZObTNxR3Z3SUlMQWRkcTFnb2FpMHkxUzQ0cTh4VUlTdDI0SUR3WnY0NGo?oc=5",
+      "source": "Financial Times",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-11T16:00:06.000Z",
+      "summary": "埃里克·特朗普支持的人形机器人初创公司与以色列军方洽谈合作。",
+      "summaryZh": "",
+      "titleZh": "埃里克·特朗普支持的人形机器人初创公司正在与以色列军方进行谈判"
     }
   ]
 }
