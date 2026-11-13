@@ -1,15 +1,25 @@
 {
   "date": "2026-11-13",
-  "generatedAt": "2026-11-12T23:31:11.952Z",
+  "generatedAt": "2026-11-13T00:40:51.233Z",
   "items": [
     {
-      "title": "谷歌发布 Gemini 4 Hydrogen 模型：主打日常编程与智能体工作流，百万 Token 输入 1.5 美元",
-      "link": "https://www.ithome.com/1/026/446.htm",
-      "source": "IT之家",
+      "title": "输出不要钱？100个问题仅用0.41秒！谷歌Gemini Decisions API上线",
+      "link": "https://zhidx.com/p/609608.html",
+      "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-12T18:17:17.000Z",
-      "summary": "谷歌推出 Gemini 4 Hydrogen 模型，主打编程与智能体工作流，每百万 Token 输入 1.5 美元。",
+      "pubDate": "2026-11-12T04:00:16.000Z",
+      "summary": "谷歌推出Gemini Decisions API，支持多模态输入，输出Token免费。",
+      "summaryZh": ""
+    },
+    {
+      "title": "贾跃亭法拉第未来 FFR 机器人业务 2026 年前九个月收入约 230 万美元，计划 2027 年一季度进入芝加哥和达拉斯",
+      "link": "https://www.ithome.com/1/026/471.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-13T00:04:39.000Z",
+      "summary": "法拉第未来机器人业务2026年前九个月收入约230万美元，计划2027年一季度进入芝加哥和达拉斯。",
       "summaryZh": ""
     },
     {
@@ -20,16 +30,6 @@
       "category": "robotics",
       "pubDate": "2026-11-12T11:58:23.000Z",
       "summary": "科沃斯全能基站扫拖机器人“地宝 mini2”上下水版降至678元新低。",
-      "summaryZh": ""
-    },
-    {
-      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
-      "link": "https://www.qbitai.com/2026/11/509440.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-12T11:36:20.000Z",
-      "summary": "MiniMax开源SOTA生图模型H3-Image，原生4K，生成一张仅需两毛。",
       "summaryZh": ""
     },
     {
@@ -53,15 +53,6 @@
       "summaryZh": ""
     },
     {
-      "title": "蚂蚁灵波独立融资后发布触觉模型，具身智能商业化面临落地考验",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PZWRjcmYxN1ZKOTRiVHlOdEpYTjFLOFNzcUdzYUxJZi1WQmVZQjl4emJndjVzeTcxa0h0ZUxTZEROVTlaNW1SbVA2MUxRTzlRMHB5WA?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-12T12:54:39.000Z",
-      "summary": ""
-    },
-    {
       "title": "具身智能落地有瓶颈 如何发挥行业潜力？",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXOXlpcEZPZzZ2cE94b2xTc2w3QUdZR0RyRGxzSExnV1JnbGlaVjJRN3lhRVR2SzRiWmdPOFNfdG5KNC1sZFlzN2h3LUlMOFFnZFpiUG5uMFVIZmRKSm1yeg?oc=5",
       "source": "财新网",
@@ -78,7 +69,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-12T03:25:00.000Z",
-      "summary": "福建省发布《人工智能+行动方案》，推动AI赋能重点行业领域。",
+      "summary": "福建省发布《人工智能+行动方案》，推动人工智能赋能重点行业领域。",
       "summaryZh": ""
     },
     {
@@ -92,39 +83,29 @@
       "summaryZh": ""
     },
     {
+      "title": "谷歌推出Android XR智能眼镜 AI芯片公司Cerebras盘后大涨",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5taEE2V3ZtSThBMDBQaW9jZGxGdlJIeG84OUFCWGlZS3pNOUhPdTMzOVVjYng4MDFDNFJrdmo0MVJCRThwREE?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-12T07:40:00.000Z",
+      "summary": "谷歌发布Android XR智能眼镜，Cerebras盘后股价上涨18%。",
+      "summaryZh": ""
+    },
+    {
       "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
       "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
       "source": "TechCrunch",
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-12T19:11:00.000Z",
-      "summary": "Nectar推出AI代理，自动化品牌创作者发现和联系。",
+      "summary": "Nectar推出AI代理，自动化品牌创作者发现和联络。",
       "summaryZh": "",
       "titleZh": "Nectar 推出人工智能代理，以自动化创作者发现和品牌推广"
     },
     {
-      "title": "张家港行：通过部署私有化大模型，有效提升了现有研发资源的产出效率",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RTFlzU0poOTRYYXY3RktrLTZoRFZDdUY4NGVzSkxyOUpKZFNUQmtkVXdlbDVHMTd6b2xYTEhKNlVrNll4WGhRRWVKWVZIZjRDdDNpWWJ1cXFmZmZ4NkRfLThXeXJPUQ?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-12T12:10:54.000Z",
-      "summary": "张家港行部署私有化大模型，提升研发资源产出效率。",
-      "summaryZh": ""
-    },
-    {
-      "title": "联发科携手NVIDIA RTX Spark登陆Windows 11 PC：本地AI智能体加速落地",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jaGFYd2dUejV6VE9QR3h2RWk5WGU0djNoSFFUbE83Rm83OXN5V00yRWxqc3hHYWJPYTFfRUhZMDhMVzU0WTNBMzhLQ3c0N3dmTUZEZU1Fak14WWF0OUVZbDVmNy0tNVJYZ1czTUcxdDFUeF9sbEpXeVJYLXhKWGc?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-12T01:46:05.000Z",
-      "summary": "联发科与NVIDIA合作推出RTX Spark芯片，助力Windows 11 PC本地AI智能体加速落地。",
-      "summaryZh": ""
-    },
-    {
       "title": "张一鸣再谈字节AI：最早2029年追平OpenAI与Anthropic",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmSHk3UURWQVJXejBIdUZrS2NVc2gxTTFSTVdLN2ZLU2YwT3NacF9BWFpoYmNqa0I2V3hudTRIX0hEaG5RYWpKYXZad09uMnVY?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16NE5CZm16OHE5dWI2c3dXbER1VDBCMUtkaTJHZ0wxVF9qRTVCRGdtd1V2YXFPamNQVjZfZC1CQ3BiU0Q5OTJIT1F1a3VhNFU?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
@@ -140,6 +121,16 @@
       "category": "ai",
       "pubDate": "2026-11-12T03:29:53.000Z",
       "summary": "前OpenAI研究员预测，超级AI研究员可能于2027年出现。",
+      "summaryZh": ""
+    },
+    {
+      "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
+      "link": "https://www.qbitai.com/2026/11/509355.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-12T10:08:24.000Z",
+      "summary": "马斯克旗下公司SpaceX和特斯拉工资绩效数据在Grok应用中泄露。",
       "summaryZh": ""
     },
     {
@@ -171,37 +162,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-12T05:18:54.000Z",
-      "summary": ""
-    },
-    {
-      "title": "中国电信以数据要素助力商用车智能制造迭代跃升",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHSGQ2aFhRVnRvYXhrNUV3ckZfNkVmeTlJN1NzY2tRMVExQy1MZ2NoSjZ4SkZKZ0c3blpwM0lZVHlrenItMzFNQjlBNW5jZ3AxcE42M0tJOFkzdC1abEJudlBrckZRUQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-12T11:40:00.000Z",
-      "summary": "中国电信数据赋能商用车智能制造，助力产业链数智化跃升。",
+      "summary": "跟拍机器人Beni正式开售，售价4999元，可拍摄专业视角照片。",
       "summaryZh": ""
     },
     {
-      "title": "What Robotics Experts Think of Tesla’s Optimus Robot",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcXJDR3R3elFscjlnNkk3cGc3R3VNcGZGZHFuZDROUjc5ODE2bTI0TGJYSS1pUGlpQnlMMWRUNFdsd0czVHpTQnF3NmktQldmTnNWYVRuTHJTU2pVM0xncW8wMU0xak1HclhvcU02SmR4cWNLemgyd1JmT2RhRkU5V2dhQmRNOGMyNWx2ZGV5RDNNNmJrZEZZYnRUM0Q3Zm1Hc3BOOWFFTzh2dGphb0gzdGNxVWU1ZzYwb3pMMW0wYVRmZWVpZ3MwS2VjOUtvbkVsRFpFczFWWVR3d0dMeEZBWjhXQzBVN0MyQnhIck51b09qYUItX3lFRjNka2ZRUlMxVlJ6YTVaRUtVaUVVVkd0MDB5cU5Vdw?oc=5",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-12T06:59:27.000Z",
-      "summary": "特斯拉Optimus机器人引发机器人专家热议。",
-      "summaryZh": "",
-      "titleZh": "机器人专家对特斯拉擎天柱机器人的看法"
-    },
-    {
-      "title": "航天十一院自研！我国首款商用级纯太阳能无人机首飞成功",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NUnN1Yy1kZ2hmWVRMOHV1UVZfd3VaRGdDY1ZEdFFzTmdYZlFWdVNYcEMyODFleWZzZDV5LXR6cGY2RlBBSl9yTFZCSTVlaDhLYTJoUUhnTQ?oc=5",
+      "title": "日本《支持自动驾驶社会的通信基础设施战略》",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LQWJ1TXd4Ym9qSl9Pb0NlMGNfZDVNaC1UOXhEWEdsNkY0eWRwZHp5Y3RJSk1YS0ctMEZHWE9VS0k5VGM5eHFsb0RFZ0tBVF91dVhiSVU3dw?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-12T02:12:19.000Z",
-      "summary": "我国首款商用级纯太阳能无人机成功首飞。",
+      "pubDate": "2026-11-12T02:26:59.000Z",
+      "summary": "日本发布自动驾驶社会通信基础设施战略。",
+      "summaryZh": ""
+    },
+    {
+      "title": "“物理AI”大热 机器人投资不再只盯“本体”",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94R0dVc2tITGMyS0tHMklxV0tQZWhDcE1pYkNQOVB5Rlg0cFNnUjFzTXo5YlQwTkE5dmdVbjd4NW9zVndWdGs3RG1HY0V0RjV1VmZYUzJQV3VYTC12bjBqVFVwNEQ0RjFlOWVDQ2lNbmtXQnRBX1RGZA?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-12T23:00:00.000Z",
+      "summary": "机器人投资转向“物理AI”领域，关注点从“本体”扩展至模拟平台与感知端设备。",
       "summaryZh": ""
     },
     {
@@ -211,7 +192,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-12T01:26:19.000Z",
-      "summary": "智能机器人产业加速发展，应用场景不断拓展。",
+      "summary": "智能机器人产业快速发展，加速融入日常生活场景。",
       "summaryZh": ""
     },
     {
@@ -224,6 +205,17 @@
       "summary": "Ring确认其无人机在CBS新闻演示中坠毁后，将不具备手动控制功能。",
       "summaryZh": "",
       "titleZh": "Ring 证实其无人机在坠毁后将无法手动控制 CBS 新闻"
+    },
+    {
+      "title": "The Robot Vacuum I Refuse to Part With Is on Sale Right Now",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc3VueExob1VwTVJXQ3dGYndSQktESlRhZ00wdGZ1ZjlEbW9Wa2xpM1E5Wno2TGF3OHZiT1llVWZPYWFIa2IxTV9SaTdxVng0dVBWTHBrMHZjb1ZfSEVkaXg2cGlCN01iOVplRjlnV3I2dnJPaTFhM1dqMTV2VkRkLTNXbjVCY2Y0bmpULVZB?oc=5",
+      "source": "Wired",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-12T23:54:00.000Z",
+      "summary": "Roborock Qrevo 2 Pro和Qrevo Curv 2两款机器人吸尘器提前打折，价格低于700美元。",
+      "summaryZh": "",
+      "titleZh": "我舍不得放弃的扫地机器人现在正在促销"
     }
   ]
 }
