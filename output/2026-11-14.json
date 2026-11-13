@@ -1,17 +1,7 @@
 {
   "date": "2026-11-14",
-  "generatedAt": "2026-11-13T21:56:27.788Z",
+  "generatedAt": "2026-11-13T23:28:42.778Z",
   "items": [
-    {
-      "title": "让智能体帮你购物，OpenAI 推出支付功能 ChatGPT Wallet",
-      "link": "https://www.ithome.com/1/026/994.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-13T15:49:08.000Z",
-      "summary": "OpenAI推出ChatGPT Wallet支付功能，dot智能体可代用户购物。",
-      "summaryZh": ""
-    },
     {
       "title": "中富通：AI政务服务机器人业务尚未量产，对业绩无实质影响",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SWTdFYXRrcFFFeGtDSWlCdnZCaTV5RVB6N2Jlam9aQkcyTkRxSlA4d3Z2YzB3UXpJcDBWaFd3a19yS2hEbDJjOWtHczROTXZXQmxaNWFVRjdGdw?oc=5",
@@ -29,7 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-13T06:29:23.000Z",
-      "summary": "中国机器人学会研发隔墙“递眼色”技术，成功率达100%。",
+      "summary": "中国机器人学会研发出隔墙“递眼色”技术，成功率达100%。",
       "summaryZh": ""
     },
     {
@@ -39,7 +29,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-13T11:05:05.000Z",
-      "summary": "北京黑客松现场，60支极客小队用40小时打造创新Demo。",
+      "summary": "北京黑客松上演60支极客团队创意Demo，机器人主持婚礼、变脸。",
       "summaryZh": ""
     },
     {
@@ -59,7 +49,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-13T06:54:44.000Z",
-      "summary": "openJiuwen发布RSI原生AgentOS，实现Agent自由变身和持续迭代。",
+      "summary": "openJiuwen发布RSI原生AgentOS，实现Agent自由变身与持续迭代。",
       "summaryZh": ""
     },
     {
@@ -69,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-13T14:29:06.000Z",
-      "summary": "DeepSeek发布全家桶应用API，开发者可1:1复刻完整App。",
+      "summary": "DeepSeek推出全家桶应用API，开发者可复刻完整App。",
       "summaryZh": ""
     },
     {
@@ -127,17 +117,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-13T03:07:39.000Z",
-      "summary": "云深处人形机器人以109万价格售予浙大。",
+      "summary": "云深处人形机器人以109万价格售予浙江大学。",
       "summaryZh": ""
     },
     {
-      "title": "“物理AI”大热 机器人投资不再只盯“本体”",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94R0dVc2tITGMyS0tHMklxV0tQZWhDcE1pYkNQOVB5Rlg0cFNnUjFzTXo5YlQwTkE5dmdVbjd4NW9zVndWdGs3RG1HY0V0RjV1VmZYUzJQV3VYTC12bjBqVFVwNEQ0RjFlOWVDQ2lNbmtXQnRBX1RGZA?oc=5",
-      "source": "新浪财经",
+      "title": "领益智造：拟8.16亿元增资立敏达，强化AI液冷布局，物理AI机器人已量产",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YaDd3dGJGeEtZMkpxVlM4ZVJHaVdLSldscUpreTdPNVBUX1dPMjBBSi1rWTdnWkx0Tk9kS1hSdjFyXzdPanlQUHpVVEZsWWVUWjAyaTdR?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-12T23:00:00.000Z",
-      "summary": "机器人投资转向“物理AI”领域，关注点从“本体”扩展至模拟平台与感知设备。",
+      "pubDate": "2026-11-13T05:16:00.000Z",
+      "summary": "领益智造拟增资立敏达8.16亿元，强化AI液冷布局，物理AI机器人量产。",
       "summaryZh": ""
     },
     {
@@ -169,7 +159,8 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-13T11:48:05.000Z",
-      "summary": ""
+      "summary": "",
+      "titleZh": "PODCAST：微软宕机、英伟达的影响和乌克兰无人机疏散"
     },
     {
       "title": "影视、AI成为新流量入口，浙江旅游业寻找跨界增量",
@@ -178,27 +169,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-13T12:43:43.000Z",
-      "summary": "浙江旅游业探索“剧游”模式，以影视、AI赋能，寻求跨界增量。",
-      "summaryZh": ""
-    },
-    {
-      "title": "领益智造：拟8.16亿元增资立敏达，强化AI液冷布局，物理AI机器人已量产",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YaDd3dGJGeEtZMkpxVlM4ZVJHaVdLSldscUpreTdPNVBUX1dPMjBBSi1rWTdnWkx0Tk9kS1hSdjFyXzdPanlQUHpVVEZsWWVUWjAyaTdR?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-13T05:16:00.000Z",
-      "summary": "领益智造拟增资8.16亿立敏达，强化AI液冷布局，物理AI机器人量产。",
-      "summaryZh": ""
-    },
-    {
-      "title": "警惕！海南曝光4起AI虚假宣传：从酒店到培训",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vRnJlRUVmY3NSbEx1MUN2S1EzSS1TTlZpOTYwVXRUUl9LN3FGXzhiSFgwQkd4eWtaVHRsZ3lBaFUtYUVKNEstZ1EyekxFc0VrTjJ0b2k3ek5sR2tJblRn?oc=5",
-      "source": "光明网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-13T10:11:00.000Z",
-      "summary": "海南曝光4起AI虚假宣传案例，涉及酒店、培训等领域。",
+      "summary": "浙江旅游业探索“剧游”模式，以影视、AI赋能，寻求跨界增长。",
       "summaryZh": ""
     },
     {
@@ -208,7 +179,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-13T12:28:43.000Z",
-      "summary": "2026全球智能制造与电子产品博览会澳门发布会举行，聚焦前沿科技与产业合作。",
+      "summary": "2026全球智能制造与电子产品博览会澳门发布会举行，展示超2万件新品。",
       "summaryZh": ""
     },
     {
@@ -219,6 +190,17 @@
       "category": "robotics",
       "pubDate": "2026-11-13T08:43:00.000Z",
       "summary": ""
+    },
+    {
+      "title": "The Robot Vacuum I Refuse to Part With Is on Sale Right Now",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc3VueExob1VwTVJXQ3dGYndSQktESlRhZ00wdGZ1ZjlEbW9Wa2xpM1E5Wno2TGF3OHZiT1llVWZPYWFIa2IxTV9SaTdxVng0dVBWTHBrMHZjb1ZfSEVkaXg2cGlCN01iOVplRjlnV3I2dnJPaTFhM1dqMTV2VkRkLTNXbjVCY2Y0bmpULVZB?oc=5",
+      "source": "Wired",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-12T23:54:00.000Z",
+      "summary": "Roborock部分机器人吸尘器型号提前打折，价格低于700美元。",
+      "summaryZh": "",
+      "titleZh": "我舍不得用的扫地机器人现在正在促销"
     },
     {
       "title": "从卖车到卖运力无人车迎来资本加码-中国经营网",
