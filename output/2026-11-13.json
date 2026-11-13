@@ -1,26 +1,35 @@
 {
   "date": "2026-11-13",
-  "generatedAt": "2026-11-13T06:51:48.977Z",
+  "generatedAt": "2026-11-13T11:29:47.884Z",
   "items": [
     {
-      "title": "海康威视：海康机器人已完成股份制改制及上市辅导备案",
-      "link": "https://www.ithome.com/1/026/667.htm",
+      "title": "Gentle Monster / Warby Parker 将于下月推出 Android XR 智能眼镜：均搭载高通 AR1 芯片，接入谷歌 Gemini",
+      "link": "https://www.ithome.com/1/026/931.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-13T04:16:39.000Z",
-      "summary": "海康机器人完成股份制改制及上市辅导备案。",
+      "category": "ai",
+      "pubDate": "2026-11-13T11:07:01.000Z",
+      "summary": "Gentle Monster和Warby Parker将推出搭载高通AR1芯片的Android XR智能眼镜。",
       "summaryZh": ""
     },
     {
-      "title": "566亿人形机器人独角兽诞生！曝软银、英伟达投了哈工大学霸",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YZDRZU1U5NUlRdDZoR2F3QVo5WE9xU2tCWjJiTDZ4WVJqMXg2WndvbHVuSVZFQUQ0SmVoMDVldG93a2lrQTBQdQ?oc=5",
+      "title": "为Agent全生命周期量身定制！海光掏出全家桶方案，打通Agent落地每一层",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBya2dlZ3p2YjdnaGVyTEZrbkxRSkZZRjhWZDBNaTZodmV3dDBKQmNMcGpCWVB6U2U4aFNURUxrYkZmZHRJTDZreA?oc=5",
       "source": "智东西",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-12T08:14:04.000Z",
-      "summary": "思灵机器人完成5亿美元融资，估值达566亿人民币，由软银、英伟达等投资。",
+      "category": "ai",
+      "pubDate": "2026-11-13T10:34:55.000Z",
+      "summary": "海光推出全家桶方案，助力Agent全生命周期落地。",
       "summaryZh": ""
+    },
+    {
+      "title": "谷歌六周连发三款大模型，压力给到OpenAI",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91X0F2YUpBZ1VOT1JOTVhHbkgwSXFleHZaU0ZSQ195WGMwODZXejQ1Q3RXU3BPZlE4WGV3MTY1aTloVGV0QkZFVTUzMzViUUdhdkhZ?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-13T04:50:36.000Z",
+      "summary": ""
     },
     {
       "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
@@ -29,17 +38,37 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-12T11:36:20.000Z",
-      "summary": "MiniMax开源SOTA生图模型H3-Image，原生4K，一张两毛。",
+      "summary": "MiniMax开源SOTA生图模型H3-Image，原生4K，生成一张仅需两毛。",
       "summaryZh": ""
     },
     {
-      "title": "国星宇航“星算”计划 03 组卫星下线、近期择机发射，目标 2800 颗算力卫星组网",
-      "link": "https://www.ithome.com/1/026/676.htm",
+      "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KOVVzVVZaYy04TEl1YnBTS2s1cGM0a0t6aEE5Nks5SXFVS1ZEWHNNRlBmMlVGa0tqTEd3SDJQT1FPMkJrN0tTdTdzd2JiSEZBOGh5bQ?oc=5",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-13T07:06:32.000Z",
+      "summary": "无界前沿开源生物信息大模型Fx-Bio-1031，在盲测中超越GPT-6-Astra与Opus-5。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Anthropic想给算力债“找下家”",
+      "link": "https://www.tmtpost.com/8203967.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-13T09:56:33.000Z",
+      "summary": "Anthropic计划通过IPO将算力债务转嫁给公开市场投资者。",
+      "summaryZh": ""
+    },
+    {
+      "title": "腾讯混元发布实时语音模型 Hy Realtime：能说会唱、还能调用工具，已在元宝语音通话、腾讯客服等上线",
+      "link": "https://www.ithome.com/1/026/825.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-13T05:07:59.000Z",
-      "summary": "国星宇航“星算”计划03组卫星下线，目标2800颗卫星组网。",
+      "pubDate": "2026-11-13T08:41:34.000Z",
+      "summary": "腾讯混元发布Hy Realtime实时语音模型，支持语音交互、工具调用和唱歌。",
       "summaryZh": ""
     },
     {
@@ -49,7 +78,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-13T05:04:00.000Z",
-      "summary": ""
+      "summary": "AI算力需求旺盛，AI人工智能ETF平安受关注。",
+      "summaryZh": ""
     },
     {
       "title": "蚂蚁灵波独立融资后发布触觉模型，具身智能商业化面临落地考验",
@@ -61,83 +91,82 @@
       "summary": ""
     },
     {
-      "title": "大模型都能控机器人，Human Data还得怎么卷？",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zcjlpLXpmczQzX2VEYS1ZYWRTNkJIWk5xMFJobGl4R3hvMWU0WjAwUXl6QnZYU1BfWXZhRG1XNTFyUWpON0NWV3BzaVlfTV9DdndSWA?oc=5",
-      "source": "量子位",
+      "title": "数亿元战略融资落地 擎天租加速布局机器人生产力新生态",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhR1dqanUwVEROZkJzNmFyMzNyZFd3LWFBUzczTXpqbFY2dEI5aTRyYnpwMGUyRXZmanhQUFZlajNjNDc5VzBUWVp4UkxLYnR0N0FGOWJGaHotQVowQUtOTHFB?oc=5",
+      "source": "中国经营网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-13T03:31:25.000Z",
-      "summary": "大模型控制机器人技术发展迅速，Human Data采集面临挑战。",
-      "summaryZh": ""
+      "category": "robotics",
+      "pubDate": "2026-11-13T07:15:00.000Z",
+      "summary": ""
     },
     {
       "title": "机构：随着生成式AI快速发展，2026年AI软件收入将突破2000亿美元",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RVmlybW81VkY4RlRycVVmSXFRQmE1UXRicmNlcXFNc1F3TUZkcXNrc09OVHdLTzBJNm5fcnpIOGwzT1Q1ZVREaFVwdVVnOEN2b09xYm44cXM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OVjl2QVdFZVQ0NmJ0ekJ5M2FmVld0RnNQSEd2OU1OYlJyWGVCbWw3LVYzcFhBcTRRUlJkeE56QjBJd2YyNEJuVEpWaHAtOWttSy1hdmludjEwd2ZheGc?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-13T06:33:16.000Z",
+      "summary": "2026年AI软件收入预计将突破2000亿美元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "英伟达新掌门AI融资动向引关注曾砍半2500亿数据中心担保遭黄仁勋嘲讽“只会财务”是“惊弓之鹿”",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRMlRiZnNfX1UxdWcyYzd4bHJIbVVDUWRjWWtrNElTTW12dklzSFJNRUFnUHhfY0ZTSmtIYjV4M0Jwbkx5emtzQlg3cFg0OFRxa1pv?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-12T16:36:00.000Z",
+      "summary": "英伟达新掌门削减数据中心担保，黄仁勋离职引发AI融资变局。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI芯片公司Cerebras美股盘前大涨近20%",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYVWVuTU42cnZwU2lDTjRUZjJtOFZmZk8tYnNPYnFvOUQ5RlozLW9peGk0MS1UcElzSWdVVktmcDNzTXFYYjh6SXNQRkt2Q29NeTh3ZlBfZHpBUQ?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-13T09:26:00.000Z",
+      "summary": "AI芯片公司Cerebras美股盘前股价上涨近20%，第三季度营收增长70%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "科创人工智能ETF富国(589380)跟踪指数已处近1年估值低位",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kaW54d05FNDRnUUZfUHk5YkRLdFpIUlFOU1JoMjJjVXd5VmNiMV9YUmJrdU00VlAzQ2d6OGZzQm5MS01MOGJOdEhVeS1JbnFqR0I5a1l3Vmw?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-13T04:35:22.000Z",
-      "summary": ""
-    },
-    {
-      "title": "1113国产AI芯片方向早盘快速冲高，能否结构性走强？（市场人士左剑明）",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oN0hVSjJxTHVTMG5jTkludFplZmY3Y01uVW1KOU1RV3pIaWgzeEpkbC03VWphWDl3MkZvem5GOHdzYWNyeGE5QkxnWnZBQS1jTTU4Qg?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-13T02:24:45.000Z",
-      "summary": "1113国产AI芯片方向早盘冲高，市场关注其结构性走强可能性。",
+      "pubDate": "2026-11-13T01:52:00.000Z",
+      "summary": "科创人工智能ETF富国跟踪指数估值处于近一年低位。",
       "summaryZh": ""
     },
     {
-      "title": "谷歌推出Android XR智能眼镜 AI芯片公司Cerebras盘后大涨",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5taEE2V3ZtSThBMDBQaW9jZGxGdlJIeG84OUFCWGlZS3pNOUhPdTMzOVVjYng4MDFDNFJrdmo0MVJCRThwREE?oc=5",
-      "source": "财联社",
+      "title": "AI规模化落地的下一站：范式智能构建全链路AI运行底座",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BWnJuamlCcmNUaFVDNE5udnNTVnRtRU1tOFpGMncyWlN5M0JtYXYtS3lWYlM2Ul9aWEs5V0ZjUG44bFQ5YmwzcHBZTEdiNjk1amR3MFFMazN5MXpoOU1BUEln?oc=5",
+      "source": "中国经营网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-12T07:40:00.000Z",
+      "category": "application",
+      "pubDate": "2026-11-13T07:15:00.000Z",
       "summary": ""
     },
     {
-      "title": "财联社11月12日电，美股液冷龙头Vertiv推出中压电力系统，帮助AI数据中心更快接入电网，并释放室内空间用于算力。",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Mb1lNbE1NWHRkVThyOGI3QnhMcFJPY18tX1JBRjNmd280MmF0MWctZFh6VmxqcU96SVp2VnUzS2FfSTJjcGd5UA?oc=5",
-      "source": "财联社",
+      "title": "2025年全球自主人形机器人销量约7000台，工业和专业用途为主",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KQUtDQXMwWFYyVXZTSEdtSWtpbjd5OHVSN3FNaG1YYXJmNHZiV0d1YkVRVlYybTZFS0dvd2J1c3dHTUlvTmFUbzBQblJ5RW8ybjUw?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-12T13:32:52.000Z",
-      "summary": "Vertiv推出中压电力系统，助力AI数据中心快速接入电网并优化空间。",
-      "summaryZh": ""
+      "category": "robotics",
+      "pubDate": "2026-11-12T11:46:26.000Z",
+      "summary": ""
     },
     {
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "source": "TechCrunch",
+      "title": "NVIDIA replaces CEO amid China AI and robotics concerns",
+      "link": "https://www.therobotreport.com/nvidia-replaces-ceo-amid-china-ai-and-robotics-concerns/",
+      "source": "The Robot Report",
       "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-12T19:11:00.000Z",
-      "summary": "Nectar推出AI代理，自动化品牌创作者发现和联系。",
+      "category": "robotics",
+      "pubDate": "2026-11-12T16:33:17.000Z",
+      "summary": "NVIDIA因中国AI和机器人领域担忧更换CEO。",
       "summaryZh": "",
-      "titleZh": "Nectar 推出人工智能代理，以自动化创作者发现和品牌推广"
-    },
-    {
-      "title": "张家港行：通过部署私有化大模型，有效提升了现有研发资源的产出效率",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RTFlzU0poOTRYYXY3RktrLTZoRFZDdUY4NGVzSkxyOUpKZFNUQmtkVXdlbDVHMTd6b2xYTEhKNlVrNll4WGhRRWVKWVZIZjRDdDNpWWJ1cXFmZmZ4NkRfLThXeXJPUQ?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-12T12:10:54.000Z",
-      "summary": "张家港行部署私有化大模型，提升研发资源产出效率。",
-      "summaryZh": ""
-    },
-    {
-      "title": "百度世界2026聚焦“智能组织” 智能体落地办公场景呼唤成熟语音入口",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TeWRDUTduVDh3WDhLLUItbnVweng3TkhtaGw5ajhZQS1KTzhaZkpfYWZ4WHNZNHR1d3NiQXZxcF9ZOWlVTGQtY0RvVG1GdVgyUlJVcVcwZGcyOEZRRXVKbTd3RDBpTk9ORno5b3pR?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-13T01:08:12.000Z",
-      "summary": "百度世界2026聚焦智能组织，AI技术应用于办公场景。",
-      "summaryZh": ""
+      "titleZh": "由于对中国人工智能和机器人技术的担忧，英伟达更换了首席执行官"
     },
     {
       "title": "Viam Launchpad aims to accelerate robotics deployments",
@@ -146,40 +175,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-12T13:30:31.000Z",
-      "summary": "Viam Launchpad软件平台旨在加速机器人部署。",
+      "summary": "Viam推出软件平台，旨在加速机器人部署。",
       "summaryZh": "",
       "titleZh": "Viam Launchpad 旨在加速机器人技术部署"
     },
     {
-      "title": "基于启扬RV1126B的桌面陪伴机器人应用解决方案",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8ycVl1UzAzOUxoU1YxbFhhd0EwQWl3QTNpUkVuRkhOcExHaTBvbXJncHYtdDBMSGpwSDg0cXVhRFRKTHFZRVRrLVVsQ2pOSHlQeU9OeTlWcw?oc=5",
-      "source": "与非网",
+      "title": "答题闯关！从“机器人谷”到华强北，这套考卷全是\"科技狠活\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UZTF0c010S3NXVEJibUxJdW1xVzdGUVgzaVVnMEdGWVZOS0JEaG82QVQ1ZmVISDlHZEhmWVpkd1BQSUNHUnFyTGl3N0RiMkx0WGYzSU1SSmNwQjBRNFdPNkpaTDVTNEg4cW9KSUhNN00?oc=5",
+      "source": "央广网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-13T00:38:58.000Z",
-      "summary": "启扬RV1126B助力桌面陪伴机器人解决方案问世。",
+      "pubDate": "2026-11-13T02:36:41.000Z",
+      "summary": "APEC会议期间，华强北推出科技知识考卷，涵盖人工智能、机器人等前沿科技。",
       "summaryZh": ""
-    },
-    {
-      "title": "“物理AI”大热 机器人投资不再只盯“本体”",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94R0dVc2tITGMyS0tHMklxV0tQZWhDcE1pYkNQOVB5Rlg0cFNnUjFzTXo5YlQwTkE5dmdVbjd4NW9zVndWdGs3RG1HY0V0RjV1VmZYUzJQV3VYTC12bjBqVFVwNEQ0RjFlOWVDQ2lNbmtXQnRBX1RGZA?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-12T23:00:00.000Z",
-      "summary": "机器人投资转向“物理AI”领域，关注点从“本体”扩展至模拟平台与感知设备。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTGpBNlVjY0hLcHlrSFl3WllrRTcwU3loV2EyWU1KY3BvaGRmZlVCcG5MSHZCNFcwSjNLVzl1STB3bWlTekJTTHJPV0M4aXREVklhamNaQ1FyTkdNNVV5dEU0TlVrMnNKMXNJMkVzQTY0VENQVldHTmZsWEZOSkhKbg?oc=5",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-12T11:12:32.000Z",
-      "summary": "Ring确认其无人机在CBS新闻演示中坠毁后，将不具备手动控制功能。",
-      "summaryZh": "",
-      "titleZh": "Ring 证实其无人机在坠毁后将无法手动控制 CBS 新闻"
     },
     {
       "title": "German AI robotics startup valued at $8.5 billion after new fundraising",
@@ -199,7 +207,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-12T16:46:00.000Z",
-      "summary": "沃尔玛将无人机配送站点数量增加两倍，与Zipline合作扩展快速空中配送服务。",
+      "summary": "沃尔玛将无人机配送站点数量增加两倍，与Zipline合作扩大快速空中配送服务。",
       "summaryZh": "",
       "titleZh": "沃尔玛将计划的无人机送货地点增加了一倍多"
     },
