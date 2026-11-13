@@ -1,56 +1,55 @@
 {
   "date": "2026-11-13",
-  "generatedAt": "2026-11-13T02:56:09.065Z",
+  "generatedAt": "2026-11-13T06:51:48.977Z",
   "items": [
     {
-      "title": "OpenAI 最新一轮私募融资 150 亿美元，融前估值 1.25 万亿美元",
-      "link": "https://www.ithome.com/1/026/495.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-13T01:36:46.000Z",
-      "summary": "OpenAI最新一轮私募融资150亿美元，估值达1.25万亿美元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "输出不要钱？100个问题仅用0.41秒！谷歌Gemini Decisions API上线",
-      "link": "https://zhidx.com/p/609608.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-12T04:00:16.000Z",
-      "summary": "谷歌推出Gemini Decisions API，支持多模态输入，输出Token免费。",
-      "summaryZh": ""
-    },
-    {
-      "title": "贾跃亭法拉第未来 FFR 机器人业务 2026 年前九个月收入约 230 万美元，计划 2027 年一季度进入芝加哥和达拉斯",
-      "link": "https://www.ithome.com/1/026/471.htm",
+      "title": "海康威视：海康机器人已完成股份制改制及上市辅导备案",
+      "link": "https://www.ithome.com/1/026/667.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-13T00:04:39.000Z",
-      "summary": "法拉第未来机器人业务2026年前九个月收入约230万美元，计划2027年一季度进入芝加哥和达拉斯。",
+      "pubDate": "2026-11-13T04:16:39.000Z",
+      "summary": "海康机器人完成股份制改制及上市辅导备案。",
       "summaryZh": ""
     },
     {
-      "title": "今天起，豆包工作接入更多模型了",
-      "link": "https://www.tmtpost.com/8202629.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-12T13:23:33.000Z",
-      "summary": "豆包工作接入多款第三方模型并推限时优惠。",
-      "summaryZh": ""
-    },
-    {
-      "title": "千亿美元AI云市场，算力军备竞赛之后拼什么？",
-      "link": "https://zhidx.com/p/609492.html",
+      "title": "566亿人形机器人独角兽诞生！曝软银、英伟达投了哈工大学霸",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YZDRZU1U5NUlRdDZoR2F3QVo5WE9xU2tCWjJiTDZ4WVJqMXg2WndvbHVuSVZFQUQ0SmVoMDVldG93a2lrQTBQdQ?oc=5",
       "source": "智东西",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-12T10:00:45.000Z",
-      "summary": "AI云市场从算力规模竞争转向资源组织调度能力竞争。",
+      "category": "robotics",
+      "pubDate": "2026-11-12T08:14:04.000Z",
+      "summary": "思灵机器人完成5亿美元融资，估值达566亿人民币，由软银、英伟达等投资。",
       "summaryZh": ""
+    },
+    {
+      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+      "link": "https://www.qbitai.com/2026/11/509440.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-12T11:36:20.000Z",
+      "summary": "MiniMax开源SOTA生图模型H3-Image，原生4K，一张两毛。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国星宇航“星算”计划 03 组卫星下线、近期择机发射，目标 2800 颗算力卫星组网",
+      "link": "https://www.ithome.com/1/026/676.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-13T05:07:59.000Z",
+      "summary": "国星宇航“星算”计划03组卫星下线，目标2800颗卫星组网。",
+      "summaryZh": ""
+    },
+    {
+      "title": "人工智能算力需求供不应求，AI人工智能ETF平安(512930)备受关注",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GYXczZUkxYTgxdFE4aG55cXp0eXV4aWhDN1UzbEpuR2NGSnB2dEs3ZktlUVJYVjJQUXJvc3NYN3h6RGFfWVByS0llajlVdDljSUpOdXJCTGE?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-13T05:04:00.000Z",
+      "summary": ""
     },
     {
       "title": "蚂蚁灵波独立融资后发布触觉模型，具身智能商业化面临落地考验",
@@ -62,33 +61,51 @@
       "summary": ""
     },
     {
-      "title": "具身智能落地有瓶颈 如何发挥行业潜力？",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXOXlpcEZPZzZ2cE94b2xTc2w3QUdZR0RyRGxzSExnV1JnbGlaVjJRN3lhRVR2SzRiWmdPOFNfdG5KNC1sZFlzN2h3LUlMOFFnZFpiUG5uMFVIZmRKSm1yeg?oc=5",
-      "source": "财新网",
+      "title": "大模型都能控机器人，Human Data还得怎么卷？",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zcjlpLXpmczQzX2VEYS1ZYWRTNkJIWk5xMFJobGl4R3hvMWU0WjAwUXl6QnZYU1BfWXZhRG1XNTFyUWpON0NWV3BzaVlfTV9DdndSWA?oc=5",
+      "source": "量子位",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-12T13:52:00.000Z",
-      "summary": "具身智能应用受限于真实数据获取，工业场景应用为主。",
+      "category": "ai",
+      "pubDate": "2026-11-13T03:31:25.000Z",
+      "summary": "大模型控制机器人技术发展迅速，Human Data采集面临挑战。",
       "summaryZh": ""
     },
     {
-      "title": "Gemini 4 Hydrogen来了，所有人都能用",
-      "link": "https://www.tmtpost.com/8203746.html",
-      "source": "钛媒体",
+      "title": "机构：随着生成式AI快速发展，2026年AI软件收入将突破2000亿美元",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RVmlybW81VkY4RlRycVVmSXFRQmE1UXRicmNlcXFNc1F3TUZkcXNrc09OVHdLTzBJNm5fcnpIOGwzT1Q1ZVREaFVwdVVnOEN2b09xYm44cXM?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-13T01:17:46.000Z",
-      "summary": "谷歌推出面向所有人的Gemini 4 Hydrogen模型，主打速度和执行效率。",
+      "pubDate": "2026-11-13T04:35:22.000Z",
+      "summary": ""
+    },
+    {
+      "title": "1113国产AI芯片方向早盘快速冲高，能否结构性走强？（市场人士左剑明）",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oN0hVSjJxTHVTMG5jTkludFplZmY3Y01uVW1KOU1RV3pIaWgzeEpkbC03VWphWDl3MkZvem5GOHdzYWNyeGE5QkxnWnZBQS1jTTU4Qg?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-13T02:24:45.000Z",
+      "summary": "1113国产AI芯片方向早盘冲高，市场关注其结构性走强可能性。",
       "summaryZh": ""
     },
     {
-      "title": "张家港行：通过部署私有化大模型，有效提升了现有研发资源的产出效率",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RTFlzU0poOTRYYXY3RktrLTZoRFZDdUY4NGVzSkxyOUpKZFNUQmtkVXdlbDVHMTd6b2xYTEhKNlVrNll4WGhRRWVKWVZIZjRDdDNpWWJ1cXFmZmZ4NkRfLThXeXJPUQ?oc=5",
-      "source": "东方财富网",
+      "title": "谷歌推出Android XR智能眼镜 AI芯片公司Cerebras盘后大涨",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5taEE2V3ZtSThBMDBQaW9jZGxGdlJIeG84OUFCWGlZS3pNOUhPdTMzOVVjYng4MDFDNFJrdmo0MVJCRThwREE?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-12T12:10:54.000Z",
-      "summary": "张家港行部署私有化大模型，提升研发资源产出效率。",
+      "pubDate": "2026-11-12T07:40:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "财联社11月12日电，美股液冷龙头Vertiv推出中压电力系统，帮助AI数据中心更快接入电网，并释放室内空间用于算力。",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Mb1lNbE1NWHRkVThyOGI3QnhMcFJPY18tX1JBRjNmd280MmF0MWctZFh6VmxqcU96SVp2VnUzS2FfSTJjcGd5UA?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-12T13:32:52.000Z",
+      "summary": "Vertiv推出中压电力系统，助力AI数据中心快速接入电网并优化空间。",
       "summaryZh": ""
     },
     {
@@ -103,6 +120,16 @@
       "titleZh": "Nectar 推出人工智能代理，以自动化创作者发现和品牌推广"
     },
     {
+      "title": "张家港行：通过部署私有化大模型，有效提升了现有研发资源的产出效率",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RTFlzU0poOTRYYXY3RktrLTZoRFZDdUY4NGVzSkxyOUpKZFNUQmtkVXdlbDVHMTd6b2xYTEhKNlVrNll4WGhRRWVKWVZIZjRDdDNpWWJ1cXFmZmZ4NkRfLThXeXJPUQ?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-12T12:10:54.000Z",
+      "summary": "张家港行部署私有化大模型，提升研发资源产出效率。",
+      "summaryZh": ""
+    },
+    {
       "title": "百度世界2026聚焦“智能组织” 智能体落地办公场景呼唤成熟语音入口",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TeWRDUTduVDh3WDhLLUItbnVweng3TkhtaGw5ajhZQS1KTzhaZkpfYWZ4WHNZNHR1d3NiQXZxcF9ZOWlVTGQtY0RvVG1GdVgyUlJVcVcwZGcyOEZRRXVKbTd3RDBpTk9ORno5b3pR?oc=5",
       "source": "央广网",
@@ -113,65 +140,25 @@
       "summaryZh": ""
     },
     {
-      "title": "体验跟拍机器人Beni：谁不想要一个不会喊累还会拍照的出行搭子",
-      "link": "http://www.geekpark.net/news/373860",
-      "source": "极客公园",
-      "lang": "zh",
+      "title": "Viam Launchpad aims to accelerate robotics deployments",
+      "link": "https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/",
+      "source": "The Robot Report",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-12T03:44:41.000Z",
-      "summary": "跟拍机器人Beni正式开售，售价4999元，可拍摄专业视角影像。",
-      "summaryZh": ""
+      "pubDate": "2026-11-12T13:30:31.000Z",
+      "summary": "Viam Launchpad软件平台旨在加速机器人部署。",
+      "summaryZh": "",
+      "titleZh": "Viam Launchpad 旨在加速机器人技术部署"
     },
     {
-      "title": "大摩研报：人形机器人商业化推迟1年",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PSXlmU2Q1MVpxRGE0V3NYR1F5RkNOMnNhYXdTVVNDNHg3NlRYdXVSMVFsY2VrcllIUVUzQWRoVWdFWFozei1sNUNzOTEtUzVLT2RMazllTQ?oc=5",
+      "title": "基于启扬RV1126B的桌面陪伴机器人应用解决方案",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8ycVl1UzAzOUxoU1YxbFhhd0EwQWl3QTNpUkVuRkhOcExHaTBvbXJncHYtdDBMSGpwSDg0cXVhRFRKTHFZRVRrLVVsQ2pOSHlQeU9OeTlWcw?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-12T03:18:53.000Z",
-      "summary": "大摩研报预测人形机器人商业化推迟至2025年。",
+      "pubDate": "2026-11-13T00:38:58.000Z",
+      "summary": "启扬RV1126B助力桌面陪伴机器人解决方案问世。",
       "summaryZh": ""
-    },
-    {
-      "title": "张一鸣再谈字节AI：最早2029年追平OpenAI与Anthropic",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmSHk3UURWQVJXejBIdUZrS2NVc2gxTTFSTVdLN2ZLU2YwT3NacF9BWFpoYmNqa0I2V3hudTRIX0hEaG5RYWpKYXZad09uMnVY?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-12T10:50:28.000Z",
-      "summary": "字节跳动计划最早2029年追平OpenAI与Anthropic的AI技术。",
-      "summaryZh": ""
-    },
-    {
-      "title": "前OpenAI研究员改口：超级AI研究员可能明年就来",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SaDFLeUlMcDhVbUZzMk1vZTZLaDFDNlloUkxBQlBOQ1F1aVZFOXA1LXRCYmVLdjFUbk5kWTQ1YXpBTm9vSHZOcVhnME50eEE?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-12T03:29:53.000Z",
-      "summary": "前OpenAI研究员预测，超级AI研究员可能于2027年出现。",
-      "summaryZh": ""
-    },
-    {
-      "title": "聚焦人工智能垂类大模型企业，成都“进解优促”面对面专场活动举行",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CdUtrY0MwYmRJejVCS1dvR0tobjllaDhFN3l1UHF6OS1XSXo5X2c2MFV4QkdWX2h5S2lNclRhNUlxMWhnbzQyYVFqUzJlTWE3ZVVNdVdCQXo3c0ZwUV9ZRVlpdTNIUQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-12T14:14:00.000Z",
-      "summary": "成都举办人工智能垂类大模型企业“进解优促”专场活动，政企共商产业发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Google’s new Gemini model is better at understanding complicated questions",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-12T21:55:32.000Z",
-      "summary": "Google推出新Gemini模型，更擅长理解复杂问题。",
-      "summaryZh": "",
-      "titleZh": "谷歌新的 Gemini 模型更擅长理解复杂问题"
     },
     {
       "title": "“物理AI”大热 机器人投资不再只盯“本体”",
@@ -180,17 +167,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-12T23:00:00.000Z",
-      "summary": "机器人投资转向“物理AI”领域，关注点从“本体”扩展至模拟平台与感知端设备。",
-      "summaryZh": ""
-    },
-    {
-      "title": "答题闯关！从“机器人谷”到华强北，这套考卷全是\"科技狠活\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UZTF0c010S3NXVEJibUxJdW1xVzdGUVgzaVVnMEdGWVZOS0JEaG82QVQ1ZmVISDlHZEhmWVpkd1BQSUNHUnFyTGl3N0RiMkx0WGYzSU1SSmNwQjBRNFdPNkpaTDVTNEg4cW9KSUhNN00?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-13T02:36:41.000Z",
-      "summary": "APEC会议期间，华强北推出科技知识考卷，涵盖人工智能、机器人等前沿科技。",
+      "summary": "机器人投资转向“物理AI”领域，关注点从“本体”扩展至模拟平台与感知设备。",
       "summaryZh": ""
     },
     {
@@ -200,7 +177,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-12T11:12:32.000Z",
-      "summary": "Ring确认其无人机因在CBS新闻演示中坠毁后，将不再配备手动控制功能。",
+      "summary": "Ring确认其无人机在CBS新闻演示中坠毁后，将不具备手动控制功能。",
       "summaryZh": "",
       "titleZh": "Ring 证实其无人机在坠毁后将无法手动控制 CBS 新闻"
     },
@@ -222,7 +199,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-12T16:46:00.000Z",
-      "summary": "沃尔玛将无人机配送站点数量增加两倍，与Zipline合作扩大快速空中配送服务。",
+      "summary": "沃尔玛将无人机配送站点数量增加两倍，与Zipline合作扩展快速空中配送服务。",
       "summaryZh": "",
       "titleZh": "沃尔玛将计划的无人机送货地点增加了一倍多"
     },
@@ -236,16 +213,6 @@
       "summary": "早期测试中，手势和振动腰带实现无视觉反馈的无人机操控。",
       "summaryZh": "",
       "titleZh": "在早期测试中，手势和振动带无需视觉反馈即可实现无人机控制"
-    },
-    {
-      "title": "减负、提速、降门槛：东集SEV400视觉传感器如何重塑3C智造的“眼睛”？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aZXF1bHNNQjhKaGw1aUxJZU85V0pxRDdyYVRkZWNjUm1JWVZzT2tWZGsySVZMSDlvOTFlUXdPV0hITnB5LVRGZHdLT1lBd1dkRnJTSGxFaw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-12T06:25:23.000Z",
-      "summary": "东集SEV400视觉传感器助力3C智造提升效率与安全性。",
-      "summaryZh": ""
     }
   ]
 }
