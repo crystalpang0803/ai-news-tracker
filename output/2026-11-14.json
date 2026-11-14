@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "generatedAt": "2026-11-14T06:31:55.357Z",
+  "generatedAt": "2026-11-14T10:53:28.587Z",
   "items": [
     {
       "title": "中富通：AI政务服务机器人业务尚未量产，对业绩无实质影响",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-13T13:57:00.000Z",
-      "summary": "中富通AI政务服务机器人业务研发中，未量产，对业绩无影响。",
+      "summary": "中富通AI政务服务机器人业务研发中，未量产，不影响业绩。",
       "summaryZh": ""
     },
     {
@@ -18,18 +18,28 @@
       "source": "财联社",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-14T01:46:50.000Z",
+      "pubDate": "2026-11-14T09:48:26.000Z",
       "summary": "苹果发布人形机器人自主控制系统HALO，物理AI技术加速应用落地。",
       "summaryZh": ""
     },
     {
-      "title": "特斯拉 Cybercab 面向个人用户开放销售：售 29990 美元，每月还需支付 299 美元自动驾驶订阅费用",
-      "link": "https://www.ithome.com/1/027/034.htm",
+      "title": "要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uRWJtcDVJRl9qTEpSSURMUTFzX3psMzZTdFlXbVJ5WFlGVnQ4U1g1bUxTMWE1a0FtdWE4YXYtRkMzajlEQTBGdEVFUTc?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-13T23:17:38.000Z",
+      "summary": "OpenAI重组具身智能团队，旨在将通用AI如GPT-6 Astra作为机器人“大脑”。",
+      "summaryZh": ""
+    },
+    {
+      "title": "299 美元月费约为 1% 车价：马斯克回应 Cybercab 自动驾驶订阅费太高，应在 115 美元左右",
+      "link": "https://www.ithome.com/1/027/159.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-14T00:59:11.000Z",
-      "summary": "特斯拉Cybercab个人版售价29990美元，每月需额外支付299美元自动驾驶订阅费。",
+      "pubDate": "2026-11-14T07:46:58.000Z",
+      "summary": "马斯克认为Cybercab自动驾驶订阅费过高，建议降至每月115美元。",
       "summaryZh": ""
     },
     {
@@ -39,57 +49,27 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-13T11:05:05.000Z",
-      "summary": "北京黑客松上演60支极客团队创意Demo，机器人主持婚礼、变脸。",
+      "summary": "北京黑客松现场，60支极客小队用40小时打造创新项目。",
       "summaryZh": ""
     },
     {
-      "title": "从丰田 Walk Me 四足代步机器人，看机器人精密结构件如何支撑仿生足式机器人落地",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xeW1CaG81RXJxSnU3LUdtc2RfMXVZX25kdGRvVmQwZUlhZzNjLVhjQnNIZWUyV25LMVUzdlVyelVxMTZkVVlLTVdkbUhfOU9faVR0dGFOOA?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-13T08:02:01.000Z",
-      "summary": "丰田Walk Me四足代步机器人展示精密结构件在仿生足式机器人中的应用。",
-      "summaryZh": ""
-    },
-    {
-      "title": "无人机接驳机器人 “成都高新造”空地一体无人配送系统成功试运行",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mYUI5aGFxWk5fNXFvX25kOEpPVVRuUXFDM1ZNeE9CSi1vd0wxTnRpU1U1UVdpaXFuYWc4Yms5MkNqYnZYY096RV94cTBKTjQ3cmhwb0NWcU5tMWpMd1hFVUFZdEY0RmZPd3FKcEhiaXNCNnpCWFE?oc=5",
-      "source": "新华社",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-13T08:18:31.000Z",
-      "summary": "成都高新区“越凡创新”研发的空地一体无人配送系统成功试运行。",
-      "summaryZh": ""
-    },
-    {
-      "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
-      "link": "https://www.qbitai.com/2026/11/509653.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-13T06:54:44.000Z",
-      "summary": "openJiuwen发布RSI原生AgentOS，实现Agent自由变身和持续迭代。",
-      "summaryZh": ""
-    },
-    {
-      "title": "DeepSeek 前端代码出现“额度耗尽”提示，开发者猜测将首次推出 C 端付费方案",
-      "link": "https://www.ithome.com/1/027/038.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-14T01:20:21.000Z",
-      "summary": "DeepSeek前端代码出现“额度耗尽”提示，开发者猜测将推出C端付费方案。",
-      "summaryZh": ""
-    },
-    {
-      "title": "88比12！在攻克癌症这件事上，垂类AI比国际主流通用大模型和人类医生都在行？",
-      "link": "https://zhidx.com/p/609636.html",
+      "title": "OpenAI组织调整，解散机器人团队！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xcGR2NUtPQTc5RE1wUGxidGtTSWt0WmJsQW9wc2ZRTnYyaEFvNlE5aTlBYnkyczhSaktXZFZvRTBtdEYyeThzWg?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-13T10:00:12.000Z",
-      "summary": "垂类AI在攻克癌症方面表现优于通用大模型和人类医生。",
+      "pubDate": "2026-11-14T04:36:07.000Z",
+      "summary": "OpenAI解散独立机器人团队，相关研究人员并入其他团队。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Anthropic：已部署修复方案以解决Claude认证问题",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11aTVXVmRKWlRIandvVWRnQTNGWFROc0lDVENiZzJpMW9UZXIwckhZWm0wOVNMUWZwRU1sZFVKRWxNb0NHcjJjd2ZGQzdOZEs5TDBPczd3R1Y?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-13T12:00:00.000Z",
+      "summary": "Anthropic已部署修复方案解决Claude认证问题。",
       "summaryZh": ""
     },
     {
@@ -113,6 +93,16 @@
       "summaryZh": ""
     },
     {
+      "title": "物理AI技术加速突破 灵巧手有望成为产业趋势中核心增量环节",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZQjFsR1pXNjdXMGZrRFB4aXJkd21Pc2NYMzFpcnh6Tm1UbkFLekh1dlo5UnBFV2xYbWFpdzUzRzBBejhpd0hkTg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-13T21:58:49.000Z",
+      "summary": "物理AI技术突破，灵巧手成产业趋势核心增量环节。",
+      "summaryZh": ""
+    },
+    {
       "title": "百度“词元所”：给大模型立一把尺子",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6eE1lVlU4V1JrcHFjaDVMbl9Xb1ZBaC16VVJndE0wTVJpVjFNLU1pU2x1SWRVYzROWWc2MHFnZUJTN25tZE5lamRDQnZpV0k?oc=5",
       "source": "36氪",
@@ -123,43 +113,33 @@
       "summaryZh": ""
     },
     {
-      "title": "英伟达新掌门会给AI融资踩刹车？她曾将2500亿美元数据中心担保砍半，被黄仁勋嘲讽“只会做财务”，是“惊弓之鹿”",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GSmw0cTdnZVNZcDU5c0hLQkpuSWFkcUFfQ0ExOXpqT1FfWjRCdU1kQVpERmFkdFdOXzBhUUdrYW9CTEcyWFlCaUxIZnI0QWgt?oc=5",
+      "title": "华尔街：算力生态下一轮融资将更难、更贵……",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKTkdrWE1ScDQzdFZ0UVFqSlI0RHNZM3NheTJ2YV83dEU2S2kybUVIZ0dhNXdEVjlSRzZ0T3NoeDFESnNDeXBJRlJhNmRUZ216?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-13T08:39:40.000Z",
-      "summary": "英伟达新掌门Colette Kress曾削减数据中心担保，引发AI融资不确定性。",
+      "pubDate": "2026-11-13T12:20:03.000Z",
+      "summary": "华尔街预计算力生态下一轮融资难度和成本将增加。",
       "summaryZh": ""
     },
     {
-      "title": "黄仁勋离职后英伟达AI融资承诺面临重估：5000亿美元平台三个月未落地首笔交易",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wTm5aU3lLS2R3dUhPeVlXSDFkRU5sdDZHQVVWZ0R3eHY2d2hoRlVKSGs5RmRRVGNiX05xclJLMFpieDFRT2k3QnZnTFpjbThpOWc3Qg?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-13T11:29:36.000Z",
-      "summary": "英伟达AI融资承诺受黄仁勋离职影响，预计下一轮融资更难、更贵。",
-      "summaryZh": ""
-    },
-    {
-      "title": "免前置建图、开机即作业：太乙机器人携太乙·九灵助力智慧环卫降本增效",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52OXdsbGo5YUc2STloeHNmeUtlak1VZ0ZleWVOSWRTcVFYTXctNmQxX1FhSkV6czByMzZhRnBxWG4wSmlGM0tUQUVERWFuQTJwaFVMZElvQnA?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-13T09:23:26.000Z",
-      "summary": "太乙机器人推出太乙·九灵智能清扫机器人，助力智慧环卫降本增效。",
-      "summaryZh": ""
-    },
-    {
-      "title": "地瓜机器人与无问芯穹达成战略合作，旭日全系与RoboGo软硬协同，承载具身智能基础设施开源矩阵",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QSHpXV2pMU051VGZtdWFEakdJX3pHYTNZejBsWEhUZzlkWDAzUFY1bEcxYUJ5TUJ6Qk9EbTN6eGFabmdQUUNnd3pMNm8tUFhmWEpHR1l6bw?oc=5",
+      "title": "工业机器人多轴实时同步，时钟系统怎么做到零误差",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CMzJEbF9xaEFaMzQxQWZXUEY3SWhPTkxUNjFMV1JYVFR1eFJOY0FEQ1hmZjY2UmlERURiWjBNSmZoT1hqZ3NEVWZaTWRwQ2tZazFsTE1SSQ?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-13T10:01:41.000Z",
-      "summary": "地瓜机器人与无问芯穹合作，旭日全系与RoboGo软硬协同，共同构建具身智能基础设施开源矩阵。",
+      "pubDate": "2026-11-14T01:46:23.000Z",
+      "summary": "工业机器人多轴同步时钟系统实现零误差验证。",
+      "summaryZh": ""
+    },
+    {
+      "title": "人形机器人零件没有IATF16949 真接不到量产订单吗？真相出乎预料",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sc3E1UkF2NWdSeTQxQjBlQ2ZKeUtNSzM0Y1piOHEydFZBUXRiSGNKcTNRZzFXZHVLQ3Z1elEycjhHNFc5NWZXeVc4NlpqaE91MXB4aGlQWQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-14T06:46:36.000Z",
+      "summary": "人形机器人零件未获IATF16949认证，却意外获得量产订单。",
       "summaryZh": ""
     },
     {
@@ -169,8 +149,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-14T04:21:00.000Z",
-      "summary": "AI时代普通商品质量下降，消费者不满情绪加剧。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "Narwal builds robot vacuums to serve regional needs",
@@ -201,28 +180,47 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-13T12:43:43.000Z",
-      "summary": "浙江旅游业探索“剧游”模式，以影视、AI赋能，寻求跨界增量。",
+      "summary": "浙江旅游业探索“剧游”模式，以影视、AI赋能，寻求跨界发展新机遇。",
       "summaryZh": ""
     },
     {
-      "title": "杭叉集团(603298)：2026Q3净利润同比-8.9% 看好垂类叉车机器人发展",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYm5LZmdFSS01REVUeFR3U0tfSUgwY3VPTGdnLUszNzR4ZjVtUHpTbG5aS29OMXZhZ3ZhT09WQW14OGhnRTBlb2pKa1FaZlZXTG0zWUI1T3B4MklXc0N6eVFZQW5ITEtsWTVtbTJZckgyTHlNUGRUWGc1NDBQT3JGNEdMUGFMODUxMjBRQWFRMThlaGhMV05XRzZlWlJlU1hxcDBiXw?oc=5",
-      "source": "新浪财经",
+      "title": "市场最前沿·工厂探“新”丨三一重工：智能焊接机器人上岗 工厂加速智能跃迁",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHBkaFhJLXliNEt6c0tmUnVpMlB4YjQ4U1FnSEdhY3c1OHVIS3RuaHBYanRjM0hkd19remRuTUxTbzU5UGFHZnNNdHVYQlVYOWNFSU13OG0xMktwUWkyWnVYSzBuVnduOUQ1cFF4S09rdThfUFlkeHRIcHRFNjNzeXNPZGhLSUdl?oc=5",
+      "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-13T08:15:35.000Z",
-      "summary": "杭叉集团2026Q3净利润同比下降8.9%，看好叉车机器人市场。",
+      "pubDate": "2026-11-14T08:32:30.000Z",
+      "summary": "三一重工智能焊接机器人上岗，推动工厂智能制造加速。",
       "summaryZh": ""
     },
     {
-      "title": "创业板IPO过会！国产精密行星减速器头部企业冲刺A股",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tdUxNeWFsQTJaUzZNYzNsMkM0dmdIalhPVTVYZzhKYjExaUFwVGlxcDhSLVU0LTNvLXVjOGNlLWVVbFFKMEJDRWRfR3dXdFBMYi1qOUcyS1FzOGo4RWlNNVYxMXdpODdsNmRVNDN1b1JLZzhxTFhaZQ?oc=5",
-      "source": "新浪财经",
+      "title": "新一代灵犀机器狗发布 拓展智慧家庭新空间",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82cWRhNUVlMWhEM1Q1UFJPZFN6YW53VnJsck9SbE1lY25KUmcxNzVRWjk2bUlxdE5aS3F2b0R6Q2VLejg2a24zdzFNZVpBbmlzQl9OZ2hlSThqWjZHU2FyQ2hUM2FJbG5aUU5aS0t6V2Y?oc=5",
+      "source": "科技日报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-13T13:20:01.000Z",
-      "summary": "纽氏达特行星传动系统技术股份有限公司创业板IPO成功过会。",
+      "pubDate": "2026-11-14T03:43:28.000Z",
+      "summary": "新一代灵犀机器狗发布，主打家庭陪伴与看护。",
       "summaryZh": ""
+    },
+    {
+      "title": "2026全球智能制造与电子产品博览会澳门发布会举行",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKeDJZNzVTZUphWmhneHpLcHJkVm5vWEwzYkJUcUx2UVNHaTJNZVY5WW91cmNpZHBfbk9seFFVX2FqMzFyUjQ1YW0zVkY1QnE2RGRqOUpKdzVaODNISE8yc0VFSkxwc1dDaTVGVy14b0Q?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-13T12:28:43.000Z",
+      "summary": "2026全球智能制造与电子产品博览会澳门发布会举行，聚焦前沿技术及产业合作。",
+      "summaryZh": ""
+    },
+    {
+      "title": "从卖车到卖运力 无人车迎来资本加码",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zNVBtYlM2WnZhbi1UQkU1VE8xcmY0OU9OY1loQnIwRkNSYVFoUWNLcEpHcFJtRGVfYXA1VTNIQUdiZ0hwUnV5T25RZ2VONmgtNXpTTTN4NTE2N1BYN0RjMGo0OWQ?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-14T03:28:00.000Z",
+      "summary": ""
     }
   ]
 }
