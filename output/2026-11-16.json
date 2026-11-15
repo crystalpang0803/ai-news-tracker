@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "generatedAt": "2026-11-15T22:44:27.809Z",
+  "generatedAt": "2026-11-15T23:30:59.666Z",
   "items": [
     {
       "title": "黄光裕的哥哥，已经在商用机器人上赚了40倍",
@@ -10,6 +10,26 @@
       "category": "robotics",
       "pubDate": "2026-11-15T16:38:27.000Z",
       "summary": ""
+    },
+    {
+      "title": "重磅落地！俐麸自研大模型平台上线，打通企业GEO从知识沉淀到AI回答观测全链路",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uWEVBNDhPMlN0eG5URHJFN0xHRTkzX2dXU1pIYUdmTXAyTDluMmpscFRNMUowRjAtR2dJMFFYN0s5b3lwU0dzX2ZFN2Q?oc=5",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-15T08:09:52.000Z",
+      "summary": "俐麸自研大模型平台上线，实现企业GEO全链路AI观测。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI 版拓麻歌子来了：日常物品秒变需要被照顾的虚拟宠物",
+      "link": "https://www.ithome.com/1/027/443.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-15T12:43:54.000Z",
+      "summary": "AI技术让日常物品化身虚拟宠物，需用户实时照顾。",
+      "summaryZh": ""
     },
     {
       "title": "上海交大校友造建筑机器人，获超亿元融资",
@@ -22,13 +42,23 @@
       "summaryZh": ""
     },
     {
-      "title": "黄仁勋走了，“算力央行”还开得下去吗？",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TQ3F4M2lrbVQ5RWcyS1pIazZGaTlBbHVvelV4M0tPV1h0VTRoeEdXNFFQemlFRGE5VFlCSDljTXNRandKS2ZkYmVwbUw?oc=5",
-      "source": "钛媒体",
+      "title": "Uber财报显示外部AI助手一周仅完成4趟叫车，AI Agent接入生活服务仍处早期",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMTFNBZXY3QktPOG1TajhWY2c1OXNlRVFMY2lSQkwwMVRlMzd4eHV6NTl3MTlHM2tCNFAwa2FiUGozVnV1NEQzMk9WVkZ2WmRYQXdiaw?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-15T07:00:00.000Z",
-      "summary": "英伟达创始人黄仁勋离职，AI算力央行未来存疑。",
+      "pubDate": "2026-11-15T10:41:46.000Z",
+      "summary": "Uber财报显示AI助手一周仅完成4趟叫车，生活服务AI仍处早期阶段。",
+      "summaryZh": ""
+    },
+    {
+      "title": "英伟达风波冲击全球算力格局，国产算力有望迎来重估契机",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRcVM4QTI5SWNRZTVmRFZ3VXA5UG1EdE15TGJ3ZjFfWUgtMGpBTDllQnFLZUU2UjNVNWdjUDJoVGFMUlJsZGtTazJvcFRJUWRtcXljRFRBaTU?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-15T23:14:01.000Z",
+      "summary": "英伟达风波影响全球算力，国产算力或迎重估机遇。",
       "summaryZh": ""
     },
     {
@@ -42,25 +72,6 @@
       "summaryZh": ""
     },
     {
-      "title": "打破多项纪录！第二届世界人形机器人运动会在比什么？",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SZ29sZ3daVV9yR3lkcDJ1czdHT2NvSHdEdmgwV1hta3lHN1N5NmRZVC1oRXFGWVgxb2wyWXRBZmx6ZUFnLWt1Umdpa1B0ODdJMjhhRGcyNC1xT3lsUVpUT2pZSHY?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-15T07:10:19.000Z",
-      "summary": "第二届世界人形机器人运动会打破多项纪录，展示全球机器人产业发展水平。",
-      "summaryZh": ""
-    },
-    {
-      "title": "买了跑步机却还得付钱看视频？国外老哥一怒之下决定用Claude破解-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rTzZaWnJCd0ZtdWpHUk9icU9ESTljZTdVOXc1Z041U0RDTW1KWlpEdDNaOXBISTFPZ3VWUGEwdGU1MXZJZldsTi04UQ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-15T09:03:10.000Z",
-      "summary": ""
-    },
-    {
       "title": "OpenAI撤销成立166天的机器人团队，将研究人员并入模型主线",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6T0FRWWh0dGppMmhscVRTV2Y4ckJBU2tpOGtaLXpVNDBYUHVhd19lMjlxNW5JMElnUHc5a0NMejc0T0pTb3p5RzlqeTg0T2JkUWUwaQ?oc=5",
       "source": "虎嗅",
@@ -68,17 +79,6 @@
       "category": "ai",
       "pubDate": "2026-11-15T06:50:53.000Z",
       "summary": ""
-    },
-    {
-      "title": "One compromised MCP server can trick an AI agent into misusing tools you already trust",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmkwanhHbjBxWlFHSTFMMTBsV05hWHM3NHRfTFYxZS1xVTVOTXh5aWRUTkxSNTJ2WEtyeU5aOUdKT1F0V0dBa3BUSUozcE9hcjYtWlFRWUtYaW4yb3BCbC0wWDhsWjNrbVJlOEM3X0FqRmU4dlNWb2FaNThQei1KbVZwVExuRTNaZFNiMEc0R05FcTNObHNLdGFhQm1PeHpWdGxGeEVONHhQeUlfaHlfcWZzZHNlYzRudmJpZVVMc3Rmdw?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-15T20:00:00.000Z",
-      "summary": "一被入侵的MCP服务器可诱使AI代理滥用信任的工具。",
-      "summaryZh": "",
-      "titleZh": "一台受损的 MCP 服务器可以诱骗 AI 代理滥用您已经信任的工具"
     },
     {
       "title": "摆脱“拼算力、拼模型”思维—— “广西集成”推动人工智能差异化发展",
@@ -91,24 +91,15 @@
       "summaryZh": ""
     },
     {
-      "title": "EMNLP 2026 杰出论文 | 大模型训练，数据配比难？日本NICT团队提出最优分布向量合并",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UYzQyX0d3ck1aVzBnVFlrZVpXWFI0eDN2ak9tNlp5cGpVTlhobjJRTExGNjZ3NmtEcVZza3RhclROQlVqc2MyLVRua0VnVldDbWxfS29B?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
+      "title": "One compromised MCP server can trick an AI agent into misusing tools you already trust",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmkwanhHbjBxWlFHSTFMMTBsV05hWHM3NHRfTFYxZS1xVTVOTXh5aWRUTkxSNTJ2WEtyeU5aOUdKT1F0V0dBa3BUSUozcE9hcjYtWlFRWUtYaW4yb3BCbC0wWDhsWjNrbVJlOEM3X0FqRmU4dlNWb2FaNThQei1KbVZwVExuRTNaZFNiMEc0R05FcTNObHNLdGFhQm1PeHpWdGxGeEVONHhQeUlfaHlfcWZzZHNlYzRudmJpZVVMc3Rmdw?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-11-15T09:51:00.000Z",
-      "summary": "日本NICT团队提出最优分布向量合并方法，提升大模型训练效率。",
-      "summaryZh": ""
-    },
-    {
-      "title": "考生读过考卷！Claude疑心一年都在被考，生意输给GPT",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JVjNNREJSbEQtNnhJaWZUcUpXUFFMRFZjUURLSW0tTllPUXdGWF84ZnRPb3NsdGhMRi1jRnl6QV9HSWNUMjRpX0M5emNra3luYll0R0pB?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-15T06:48:00.000Z",
-      "summary": "AI Claude模拟自动售货机生意，成绩输给GPT，疑虑考卷真实性。",
-      "summaryZh": ""
+      "pubDate": "2026-11-15T20:00:00.000Z",
+      "summary": "一受损MCP服务器可诱使AI代理滥用信任的工具。",
+      "summaryZh": "",
+      "titleZh": "一台受感染的 MCP 服务器可以诱骗 AI 代理滥用您已经信任的工具"
     },
     {
       "title": "大普微电子取得大语言模型相关专利，该方法可消除大模型高并发推理的计算冗余",
@@ -117,101 +108,47 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-15T01:24:57.000Z",
-      "summary": "大普微电子获大语言模型相关专利，可消除高并发推理计算冗余。",
+      "summary": "大普微电子获大语言模型专利，可消除高并发推理计算冗余。",
       "summaryZh": ""
     },
     {
-      "title": "河北省推动机器人产业延链补链强链",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XOXpMd1E0ZTZYaTZuTVlIWEVNbFhENjMwb1ZUXzBzNU8wZG5wQ2EyODZnS0dqT2tTVkh0LWFwNXhHeXNnVHA0ZjMzRDl2cVRWWG5mZ1N5Z1gybENWR1RYUjNBVldkWWVvVXhsRVZoSVpPSmp4ZGJseHNpbS0?oc=5",
-      "source": "新华网科技",
+      "title": "核心观点 | 李彦宏：人工智能的下一幕是智能组织，将迎来三大机会",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hOTJrajJQN3ZKcVhrZlhlZld5cHVqSHpRWVVCaVJ3OU51VndGb3d3VFRRcWZKemtOTW9VVWJQUXNtdUJwMTZXV2N1SlN3dWlydHY3QXRUSjA?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-15T08:53:06.000Z",
-      "summary": "河北省加速构建机器人产业新生态，推动产业链升级。",
+      "category": "ai",
+      "pubDate": "2026-11-15T09:34:21.000Z",
+      "summary": "李彦宏提出人工智能下一幕是智能组织，企业需重新设计组织以迎接三大机会。",
       "summaryZh": ""
     },
     {
-      "title": "[第一时间]主题乐园看消费 广东珠海：新型主题乐园亮相 机器人成“互动主角”",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BQ2tYY3o0Z0dsMUYxb0dlVEtoYlZZa3NIeWpTYW02eDl6bkhwSGp0U0xWcXlQQ1VMYWw5NmZsU3pTTzhkYUJtWS1NbmE0RXlEdXJ6bERJcktfX281dk5IX3FNRmp2dnZ3UzlLLTRsdmF0Q0Fja0E?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-15T00:12:00.000Z",
-      "summary": "珠海新型主题乐园亮相，机器人成为互动主角。",
-      "summaryZh": ""
-    },
-    {
-      "title": "光大证券：机器人与材料共振 物理AI时代轻量化材料未来可期",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfSllQRFowZVdrZXJCNFlldkpETjBoN3BzZTVuN2J6clVhbEJlTldhUUljWlk0M3VnR2ptcHdpZFQyUzdqU0Q4OGUzcGdIWFFSZVJsS09aYUVJM1EydHNhdFQwQUdiZnphekVJbkhkVXVHNzN4?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-15T06:01:48.000Z",
-      "summary": "光大证券研报指出，机器人轻量化需求推动新材料如超高分子量聚乙烯、PPA等应用扩容。",
-      "summaryZh": ""
-    },
-    {
-      "title": "The Sony Aibo was a robot revolution dressed like a dog",
-      "link": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-15T13:57:30.000Z",
-      "summary": "索尼Aibo成为以狗形机器人引领的科技革命。",
-      "summaryZh": "",
-      "titleZh": "索尼 Aibo 是一场机器人革命，打扮得像狗"
-    },
-    {
-      "title": "Why Skydio Built a Lopsided Drone",
-      "link": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-15T14:00:02.000Z",
-      "summary": "Skydio推出不对称设计的F10 Lightrunner无人机以消除盲区。",
-      "summaryZh": "",
-      "titleZh": "为什么 Skydio 制造了一架不平衡的无人机"
-    },
-    {
-      "title": "002600，多个机器人产线投产！机构扎堆调研股曝光",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51alJfZ0xzaTNsd1M0YllxUEpmLWRwdGg3aXhzeVB0cWJ4cTNMT2ZJa3lTcEo1Nm1uTmZ4bHptWmpscFpWMUMyUjAwa0tZR3VO?oc=5",
-      "source": "凤凰财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-14T23:30:00.000Z",
-      "summary": "002600机器人产线投产，机构调研密集，业务拓展至AI算力设备。",
-      "summaryZh": ""
-    },
-    {
-      "title": "DHL Supply Chain pilots adaptive robotics and AI orchestration in warehouse operations",
-      "link": "https://roboticsandautomationnews.com/2026/11/15/dhl-supply-chain-pilots-adaptive-robotics-and-ai-orchestration-in-warehouse-operations/107189/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-15T19:17:41.000Z",
-      "summary": "DHL Supply Chain在仓库运营中试点自适应机器人和AI编排技术。",
-      "summaryZh": "",
-      "titleZh": "DHL 供应链在仓库运营中试点自适应机器人和人工智能编排"
-    },
-    {
-      "title": "Avride reaches one million robot deliveries as network expands across US",
-      "link": "https://roboticsandautomationnews.com/2026/11/15/avride-reaches-one-million-robot-deliveries-as-network-expands-across-us/107179/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-15T16:10:13.000Z",
-      "summary": "Avride在美国完成百万次无人配送，业务覆盖30多个城市。",
-      "summaryZh": "",
-      "titleZh": "随着网络在美国扩张，Avride 机器人送货量达到 100 万次"
-    },
-    {
-      "title": "伊朗称击落一架轨道飞行器无人机",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpcXFldHlTbjdxN0xMZk9nUkxSODJTYTRoa0V5TzlIMGg1OTA4S2lTSDhlbkswUVBUcmNadnpXSEcwbXJqb2pwUkxLVGRYZ2s3VEJRb0V1dFF6cGoxeGN2OWhrNHY4QQ?oc=5",
+      "title": "证监会主席吴清：A股2亿多投资者8亿多基金持有人全球市场对A股影响愈发明显六个深化提到市场稳定和人工智能",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTdFVXdFh6MG1hN2t3aTdfTnJEWm80MmJ1U3gwRjBPR0VRbWgzdlplY2xkMU1MQUxqNkR3d0hOZUJMSTJlaWFKOHpQeUtyQVZqM0ZOd2pMV0xkZDF3WTNmdG9hYVJ2dw?oc=5",
       "source": "每日经济新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-15T13:24:00.000Z",
-      "summary": "伊朗击落一架“轨道飞行器-4”型号无人机。",
+      "category": "ai",
+      "pubDate": "2026-11-15T04:10:00.000Z",
+      "summary": "证监会主席强调A股投资者规模扩大，全球市场影响显著，并提及市场稳定与人工智能深化。",
+      "summaryZh": ""
+    },
+    {
+      "title": "中国人工智能开源生态蓝皮书发布",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZmVodU43c25vaW9HN2lnRDhJUlBiMEh3ekhPQUVNQk9QbGhfUWVwU3FUeFVFRE9mU1drMnFMcEtlUW8yalZ6ZTNGZHM5THphWWZILU5ZbUVoSFdVMFREVEd4VGtIRER0ZjRCMC1pbXFsWFRpYkZsV1hJU1M3cllUOXdB?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-15T01:57:15.000Z",
+      "summary": "《中国人工智能开源生态蓝皮书》在杭州中国开源年会COSCon'26上发布。",
+      "summaryZh": ""
+    },
+    {
+      "title": "电规总院解读《APEC人工智能与能源双向赋能政策推荐（2026—2030年）》成果丨“共筑亚太能源共同体”专栏③",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rTWdsaGtwbHJ1c1JWcmx6QmN4bG1KSkNCLXplSkVEeXF6dkVnRDBoNVZXVnZHTklvbTRLMGl4UTg5eC1XMkp4ZVRwdjIxQ2RoSGlhcF9mZzFUUGtfQkRtQkNCeEh5eTdGRWJhVTZmWTQ4TWNFbkE?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-15T01:00:00.000Z",
+      "summary": "电规总院解读APEC人工智能与能源双向赋能政策，共筑亚太能源共同体。",
       "summaryZh": ""
     }
   ]
