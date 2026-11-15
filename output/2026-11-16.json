@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "generatedAt": "2026-11-15T20:59:38.399Z",
+  "generatedAt": "2026-11-15T22:44:27.809Z",
   "items": [
     {
       "title": "黄光裕的哥哥，已经在商用机器人上赚了40倍",
@@ -10,26 +10,6 @@
       "category": "robotics",
       "pubDate": "2026-11-15T16:38:27.000Z",
       "summary": ""
-    },
-    {
-      "title": "开源盘古模型 openPangu-2.1-Pro 上线华为云，围绕 Agent 开发、AI 编码、推理优化方向能力升级",
-      "link": "https://www.ithome.com/1/027/450.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-15T13:16:54.000Z",
-      "summary": "华为云上线开源盘古模型openPangu-2.1-Pro，提升AI编码和推理优化能力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI 版拓麻歌子来了：日常物品秒变需要被照顾的虚拟宠物",
-      "link": "https://www.ithome.com/1/027/443.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-15T12:43:54.000Z",
-      "summary": "AI技术让日常物品化身虚拟宠物，需用户实时照顾。",
-      "summaryZh": ""
     },
     {
       "title": "上海交大校友造建筑机器人，获超亿元融资",
@@ -42,23 +22,13 @@
       "summaryZh": ""
     },
     {
-      "title": "Uber财报显示外部AI助手一周仅完成4趟叫车，AI Agent接入生活服务仍处早期",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMTFNBZXY3QktPOG1TajhWY2c1OXNlRVFMY2lSQkwwMVRlMzd4eHV6NTl3MTlHM2tCNFAwa2FiUGozVnV1NEQzMk9WVkZ2WmRYQXdiaw?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-15T10:41:46.000Z",
-      "summary": "Uber财报显示AI助手一周仅完成4趟叫车，生活服务AI仍处早期阶段。",
-      "summaryZh": ""
-    },
-    {
-      "title": "海亮科服HaiModel：从“会回答”到“会教学”，教育大模型走进真实课堂",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xOGRYZEktR3VJMUxpS0J4YVltSlYwUWozSjVWOEp3THM5V0oxN0ctRFdNczRrVUpqVU5USWI1Z3VERENacVJ5ZVdLSUU?oc=5",
+      "title": "黄仁勋走了，“算力央行”还开得下去吗？",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TQ3F4M2lrbVQ5RWcyS1pIazZGaTlBbHVvelV4M0tPV1h0VTRoeEdXNFFQemlFRGE5VFlCSDljTXNRandKS2ZkYmVwbUw?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-15T05:13:00.000Z",
-      "summary": "海亮科服HaiModel教育大模型通过备案，实现从“会回答”到“会教学”，助力真实课堂教学。",
+      "pubDate": "2026-11-15T07:00:00.000Z",
+      "summary": "英伟达创始人黄仁勋离职，AI算力央行未来存疑。",
       "summaryZh": ""
     },
     {
@@ -68,27 +38,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-15T04:30:17.000Z",
-      "summary": "英伟达创始人黄仁勋闪电离职，引发行业关注。",
-      "summaryZh": ""
-    },
-    {
-      "title": "谷歌推出Android XR智能眼镜 AI芯片公司Cerebras盘后大涨",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yRzBiSGEzdE1QdF9tYVpyY002Ymh5cF91T3A3bzBTcFdacFk4QjBDWGtOQmZuRUo3dERZbTJ5N0ZXZVJaRVZBUg?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-14T21:33:40.000Z",
-      "summary": "谷歌发布Android XR智能眼镜，AI芯片公司Cerebras盘后股价上涨18%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI落地一线：算力、模型、场景协同发力",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yWlZnRDRQWWUyUWR5MDU3QmQ4OFFkR3BXVHdwMHBWTTFPYVpsSWY1MUR3NERpZGw4emMzWHpwN0x4YVJuWUQ0TnB1SG5yRkJ0QV9HLUU2T0pZV21GR2VXMw?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-15T00:13:37.000Z",
-      "summary": "浙江AI应用加速落地，算力、模型、场景协同推进。",
+      "summary": "英伟达创始人黄仁勋辞职，引发行业关注。",
       "summaryZh": ""
     },
     {
@@ -111,15 +61,24 @@
       "summary": ""
     },
     {
+      "title": "OpenAI撤销成立166天的机器人团队，将研究人员并入模型主线",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6T0FRWWh0dGppMmhscVRTV2Y4ckJBU2tpOGtaLXpVNDBYUHVhd19lMjlxNW5JMElnUHc5a0NMejc0T0pTb3p5RzlqeTg0T2JkUWUwaQ?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-15T06:50:53.000Z",
+      "summary": ""
+    },
+    {
       "title": "One compromised MCP server can trick an AI agent into misusing tools you already trust",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmkwanhHbjBxWlFHSTFMMTBsV05hWHM3NHRfTFYxZS1xVTVOTXh5aWRUTkxSNTJ2WEtyeU5aOUdKT1F0V0dBa3BUSUozcE9hcjYtWlFRWUtYaW4yb3BCbC0wWDhsWjNrbVJlOEM3X0FqRmU4dlNWb2FaNThQei1KbVZwVExuRTNaZFNiMEc0R05FcTNObHNLdGFhQm1PeHpWdGxGeEVONHhQeUlfaHlfcWZzZHNlYzRudmJpZVVMc3Rmdw?oc=5",
       "source": "VentureBeat",
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-15T20:00:00.000Z",
-      "summary": "被入侵的MCP服务器可诱使AI滥用信任的工具。",
+      "summary": "一被入侵的MCP服务器可诱使AI代理滥用信任的工具。",
       "summaryZh": "",
-      "titleZh": "一台受感染的 MCP 服务器可以诱骗 AI 代理滥用您已经信任的工具"
+      "titleZh": "一台受损的 MCP 服务器可以诱骗 AI 代理滥用您已经信任的工具"
     },
     {
       "title": "摆脱“拼算力、拼模型”思维—— “广西集成”推动人工智能差异化发展",
@@ -132,13 +91,43 @@
       "summaryZh": ""
     },
     {
+      "title": "EMNLP 2026 杰出论文 | 大模型训练，数据配比难？日本NICT团队提出最优分布向量合并",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UYzQyX0d3ck1aVzBnVFlrZVpXWFI0eDN2ak9tNlp5cGpVTlhobjJRTExGNjZ3NmtEcVZza3RhclROQlVqc2MyLVRua0VnVldDbWxfS29B?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-15T09:51:00.000Z",
+      "summary": "日本NICT团队提出最优分布向量合并方法，提升大模型训练效率。",
+      "summaryZh": ""
+    },
+    {
+      "title": "考生读过考卷！Claude疑心一年都在被考，生意输给GPT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JVjNNREJSbEQtNnhJaWZUcUpXUFFMRFZjUURLSW0tTllPUXdGWF84ZnRPb3NsdGhMRi1jRnl6QV9HSWNUMjRpX0M5emNra3luYll0R0pB?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-15T06:48:00.000Z",
+      "summary": "AI Claude模拟自动售货机生意，成绩输给GPT，疑虑考卷真实性。",
+      "summaryZh": ""
+    },
+    {
+      "title": "大普微电子取得大语言模型相关专利，该方法可消除大模型高并发推理的计算冗余",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4UUpfcVFDTUZrN19SaEtOY05kN0hJQ1pJa3I3bE1MeWtSZmw3TDVCZzBJUTZpQVdBWTRoRmY4bFJEOTJvc1ltZTVwNm4ycnVy?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-15T01:24:57.000Z",
+      "summary": "大普微电子获大语言模型相关专利，可消除高并发推理计算冗余。",
+      "summaryZh": ""
+    },
+    {
       "title": "河北省推动机器人产业延链补链强链",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XOXpMd1E0ZTZYaTZuTVlIWEVNbFhENjMwb1ZUXzBzNU8wZG5wQ2EyODZnS0dqT2tTVkh0LWFwNXhHeXNnVHA0ZjMzRDl2cVRWWG5mZ1N5Z1gybENWR1RYUjNBVldkWWVvVXhsRVZoSVpPSmp4ZGJseHNpbS0?oc=5",
       "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-15T08:53:06.000Z",
-      "summary": "河北省加速构建“北京大脑、河北转化”新模式，推动机器人产业延链补链强链。",
+      "summary": "河北省加速构建机器人产业新生态，推动产业链升级。",
       "summaryZh": ""
     },
     {
@@ -148,7 +137,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-15T00:12:00.000Z",
-      "summary": "广东珠海新型主题乐园亮相，机器人成为互动主角。",
+      "summary": "珠海新型主题乐园亮相，机器人成为互动主角。",
       "summaryZh": ""
     },
     {
@@ -158,7 +147,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-15T06:01:48.000Z",
-      "summary": "光大证券研报指出，机器人轻量化需求增长推动新材料扩容，PEEK等材料应用前景广阔。",
+      "summary": "光大证券研报指出，机器人轻量化需求推动新材料如超高分子量聚乙烯、PPA等应用扩容。",
       "summaryZh": ""
     },
     {
@@ -190,7 +179,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-14T23:30:00.000Z",
-      "summary": "002600机器人产线投产，机构调研密集。",
+      "summary": "002600机器人产线投产，机构调研密集，业务拓展至AI算力设备。",
       "summaryZh": ""
     },
     {
@@ -200,7 +189,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-15T19:17:41.000Z",
-      "summary": "DHL Supply Chain测试自适应AI机器人及AI编排技术，应用于仓库运营。",
+      "summary": "DHL Supply Chain在仓库运营中试点自适应机器人和AI编排技术。",
       "summaryZh": "",
       "titleZh": "DHL 供应链在仓库运营中试点自适应机器人和人工智能编排"
     },
@@ -211,20 +200,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-15T16:10:13.000Z",
-      "summary": "Avride在美国完成百万次无人配送，业务覆盖30多个市场。",
+      "summary": "Avride在美国完成百万次无人配送，业务覆盖30多个城市。",
       "summaryZh": "",
       "titleZh": "随着网络在美国扩张，Avride 机器人送货量达到 100 万次"
     },
     {
-      "title": "Estonia Says Russia Behind Failed Arson Attempt on Drone-Maker",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeW1fVUx5bUF2dWVuM3UzTGk5SndncS1CWGF6Wi1Nd3Zwb25TLW5rNlRxZVRoRWtxUVlWODNZZzJjS2M0djZQWmVrZC1EeGlXSjNrYWowWnF3MnMzcVBsalFTbVVvd3dUMXJNWFFHNkZlMlN4UURrVWpYWF9wSjAwYTR4OVZFZzNPeHQtc3RXbkUwb0RCSmo1cU81c3J5eFFzM2swSXZfRDZqMklhczRhT0hDcw?oc=5",
-      "source": "Bloomberg",
-      "lang": "en",
+      "title": "伊朗称击落一架轨道飞行器无人机",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpcXFldHlTbjdxN0xMZk9nUkxSODJTYTRoa0V5TzlIMGg1OTA4S2lTSDhlbkswUVBUcmNadnpXSEcwbXJqb2pwUkxLVGRYZ2s3VEJRb0V1dFF6cGoxeGN2OWhrNHY4QQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-15T16:33:32.000Z",
-      "summary": "爱沙尼亚称俄罗斯是未遂纵火袭击无人机制造商的幕后黑手。",
-      "summaryZh": "",
-      "titleZh": "爱沙尼亚称俄罗斯是纵火无人机制造商未遂事件的幕后黑手"
+      "pubDate": "2026-11-15T13:24:00.000Z",
+      "summary": "伊朗击落一架“轨道飞行器-4”型号无人机。",
+      "summaryZh": ""
     }
   ]
 }
