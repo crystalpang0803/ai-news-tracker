@@ -1,17 +1,7 @@
 {
   "date": "2026-11-15",
-  "generatedAt": "2026-11-14T23:23:12.911Z",
+  "generatedAt": "2026-11-15T01:07:25.616Z",
   "items": [
-    {
-      "title": "智能体帮你联络商家或保险公司，Meta 旗下 Muse 上线代打电话功能",
-      "link": "https://www.ithome.com/1/027/238.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-14T13:46:56.000Z",
-      "summary": "Meta旗下AI智能体Muse推出代打电话功能，支持用户联系商家和保险公司。",
-      "summaryZh": ""
-    },
     {
       "title": "Kimi、DeepSeek、智谱占美国企业开源AI支出近九成，但中国模型不想只卖API了",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RQUExMGlNX3ZIREduNV9DblAteS1KNFozZUpMQU1Cb3g0VFdUNHNyak52OTJ1dG10ajFVUmNfQ2ZHaGF0dm1LVA?oc=5",
@@ -19,8 +9,26 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-14T02:26:44.000Z",
-      "summary": "中国模型产品占据美国企业开源AI支出近九成，但寻求多元化商业化路径。",
+      "summary": "中国模型产品占据美国企业开源AI支出近九成，但开始寻求多元化商业化。",
       "summaryZh": ""
+    },
+    {
+      "title": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0eFVZWjlEWGFwem1IWGxvQUFJTGZXR0JyT2dHR0hPd0Uwb05lSEc1bkpqLWhIa3ZnUzZWb0Zna2RMdXJiR1pyaV8xMWtJdw?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-14T07:12:52.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Figure AI机器人走进30户陌生家庭",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Vb3h1VWhOVVpaTV9EVWZsYXFGSUlEcE9mV3Z3Z2pGX3dfWkxwRjNGLXo3OW4tVGs4cWJhcWZGd0M1R1pCcUJPV0JhcWg5cWd6RFNVR3N3?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-14T07:36:00.000Z",
+      "summary": "Figure AI机器人走进30户陌生家庭。"
     },
     {
       "title": "“史上最严”湿实验预测基准发布：推理拉满、算力翻5倍也白搭",
@@ -31,15 +39,6 @@
       "pubDate": "2026-11-14T09:52:00.000Z",
       "summary": "发布“史上最严”湿实验预测基准，AI模型预测能力面临挑战。",
       "summaryZh": ""
-    },
-    {
-      "title": "豆包工作上线，AI巨头狂卷办公场景，独立客户端成标配？",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5MVBBTVM0OTVTRmxnQzVCMkV5S2pWemZ2enR2WEgzSEFmMmxTVFc2cFFMRnZxYWtqVWxwMnZJRnl2Nmd1bm1ON3FLSEMwdw?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-14T18:29:13.000Z",
-      "summary": ""
     },
     {
       "title": "浙江算力规模超198EFLOPS，智算占比96%，AI正走进乡村、医院和路口",
@@ -61,13 +60,13 @@
       "summary": ""
     },
     {
-      "title": "“像一大群蜜蜂”：亚马逊 Prime Air 送货无人机噪音过大，遭当地居民投诉",
-      "link": "https://www.ithome.com/1/027/239.htm",
+      "title": "SpaceX 星舰飞船首次被发射塔机械臂捕获回收，马斯克将建 AI 数据中心星座",
+      "link": "https://www.ithome.com/1/027/253.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-14T14:09:32.000Z",
-      "summary": "亚马逊Prime Air无人机噪音问题引发当地居民投诉。",
+      "pubDate": "2026-11-14T23:26:58.000Z",
+      "summary": "SpaceX首次用发射塔机械臂捕获回收星舰飞船，马斯克计划建AI数据中心星座。",
       "summaryZh": ""
     },
     {
@@ -77,7 +76,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-14T02:39:56.000Z",
-      "summary": "DeepSeek开放全家桶API，开发者可自由组合调用，支持独立接口和计费。",
+      "summary": "DeepSeek开放全家桶API，开发者可自由组合调用，包括语音识别、合成等接口。",
       "summaryZh": ""
     },
     {
@@ -87,7 +86,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-14T01:31:00.000Z",
-      "summary": "MiniMax、OpenAI和字节跳动在AI生图领域密集更新，竞相推出新模型。",
+      "summary": "MiniMax、OpenAI和字节跳动在AI生图赛道密集更新，竞相发布新模型。",
       "summaryZh": ""
     },
     {
@@ -97,20 +96,9 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-14T15:00:00.000Z",
-      "summary": "OpenAI董事表示，我们仍不能信任AI首席执行官。",
+      "summary": "OpenAI董事表示，我们仍无法信任AI首席执行官。",
       "summaryZh": "",
       "titleZh": "解雇萨姆·奥尔特曼 (Sam Altman) 的 OpenAI 董事会成员表示，我们仍然不能信任人工智能首席执行官"
-    },
-    {
-      "title": "OpenAI Gives AI Agents a Wallet While Blocking Them From Seeing the Card",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSTVrbGxtV2JYcE9oZ01ETGtMUmtuWVdUdVlyNmZuUWdPQ0ttNEdHbGItNDFzeFpFUDhZTlI5ckJjREtoVjlZQ3hxd1dHeF96SEFnbnpjTGllTzZMRXppYjlIRGNIOTBCSTlpYU9VRjhENDF2Rk5kaXFmVkYxd3psb2VScE9xRHBkQnJlcV9IU3NZczJYX25fLXdFdFhOZ2piU1dJLVV0dklfYUF3QjM0VEg3blkwdnJwaXlEX0Z2OWpucXBENlM4NzNB?oc=5",
-      "source": "PYMNTS",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-14T00:20:07.000Z",
-      "summary": "OpenAI推出ChatGPT钱包，允许AI代理支付但无法查看用户卡信息。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 为 AI 代理提供钱包，同时阻止他们看到卡片"
     },
     {
       "title": "摆脱“拼算力、拼模型”思维—— “广西集成”推动人工智能差异化发展",
@@ -119,7 +107,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-14T22:15:50.000Z",
-      "summary": "广西以“北上广研发+广西集成+东盟应用”模式，推动人工智能差异化发展。",
+      "summary": "广西以“北上广研发+广西集成+东盟应用”模式，推动人工智能差异化发展，产业增加值增长12.2%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "字节跳动设立大模型安全与对齐部门 聚焦Agent安全与前沿风险",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MVHBXbHJOOVdZYkd1XzJPU3VQdlVMX19rWkxiLWhiVGo5Mm1ieGd1NGhkbDltb19uUWMzZGpUZ0ExODJtakhQd2U4VDczb0M2Rld5UnN3Z3Y4VklfSnBQMg?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-14T19:47:53.000Z",
+      "summary": "字节跳动成立新部门专注大模型安全与风险防控。",
       "summaryZh": ""
     },
     {
@@ -129,7 +127,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-14T02:05:55.000Z",
-      "summary": "极目机器人企业信息页面进行安全验证后可继续浏览。",
+      "summary": "极目机器人企业信息页面实施安全验证，验证通过后自动跳转。",
       "summaryZh": ""
     },
     {
@@ -140,6 +138,26 @@
       "category": "robotics",
       "pubDate": "2026-11-14T01:48:58.000Z",
       "summary": "机械加工厂家在机器人研发频繁改图时难以适应。",
+      "summaryZh": ""
+    },
+    {
+      "title": "引入《西游记》IP，无芯科技熊猫安安探索疗愈AI机器人多元应用",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tTGJfMGY3QXd1TkRtNnJlRDMtaXZES0tJMV9HWlBWQl9fRF9jUWtON0Q2aUhOaWFOQWxFY0ZhTUtyaE9DQkZ3MC1LQ05UZFl6MWh4V0tNaUFpQmQ0MGMyMVpTQUlJWUlQMDh5Z0l0NElFbDhUWnlJdkxuMW4?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-14T06:17:06.000Z",
+      "summary": "无芯科技熊猫安安引入《西游记》IP，探索疗愈AI机器人多元应用。",
+      "summaryZh": ""
+    },
+    {
+      "title": "002600，多个机器人产线投产！机构扎堆调研股曝光",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51alJfZ0xzaTNsd1M0YllxUEpmLWRwdGg3aXhzeVB0cWJ4cTNMT2ZJa3lTcEo1Nm1uTmZ4bHptWmpscFpWMUMyUjAwa0tZR3VO?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-14T23:30:00.000Z",
+      "summary": "002600机器人产线投产，机构调研密集，业务拓展至AI算力设备。",
       "summaryZh": ""
     },
     {
@@ -159,8 +177,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-14T07:44:00.000Z",
-      "summary": "453支队伍参加2026年北京市学生机器人智能大赛。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "Humble Robotics raises $51 million to expand autonomous electric freight operations",
@@ -169,7 +186,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-14T04:27:34.000Z",
-      "summary": "Humble Robotics获5100万美元投资，扩大自主电动货运业务。",
+      "summary": "Humble Robotics获5100万美元投资，拓展自动驾驶电动货运业务。",
       "summaryZh": "",
       "titleZh": "Humble Robotics 融资 5100 万美元，用于扩大自主电动货运业务"
     },
@@ -183,46 +200,6 @@
       "summary": "机器人初创公司Foundation因创始人挪用资金购房导致资金链断裂，无法支付员工工资。",
       "summaryZh": "",
       "titleZh": "埃里克·特朗普支持的机器人士兵初创公司创始人向公司借款 460 万美元买房后无法支付员工工资"
-    },
-    {
-      "title": "Wing invests $125 million in US drone manufacturing to support nationwide expansion",
-      "link": "https://roboticsandautomationnews.com/2026/11/14/wing-invests-125-million-in-us-drone-manufacturing-to-support-nationwide-expansion/107107/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-14T04:04:48.000Z",
-      "summary": "Wing投资1.25亿美元扩大美国无人机制造，支持全国扩张。",
-      "summaryZh": "",
-      "titleZh": "Wing 投资 1.25 亿美元在美国无人机制造领域支持全国扩张"
-    },
-    {
-      "title": "APEC朋友圈丨中国无人机如何改变智利农田",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiNERVTUl6T0tzNk9PUUJjamNVVTEyQmRnUmJ4aWg3MEY4dXd0VUp2SmRtSGtqNVpRVVMydEozNmNud2FJcTVIMzBYbWc2cmw5OGRmdnNJT2hreDhYay10bWZ3?oc=5",
-      "source": "光明网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-14T13:11:11.000Z",
-      "summary": "中国无人机技术助力智利农业数字化转型，降低成本，提高效率。",
-      "summaryZh": ""
-    },
-    {
-      "title": "常州首所少年警校办起AI科技课：红领巾遇见机器狗与航天梦",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TcG50OUdUd2hyeUg5ekdHY0ZJbWhRcEtDYmFjTWFFa1p4SHczUjJCcFc3bnRIY1ZsbVN6U3ZCSFpFTGxtSS1zaURXbnJyTWo1eC1TbDdXcW5PVlRaWjlJUDNwelZ0R1V3eWY2T0RsU0g?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-14T03:51:04.000Z",
-      "summary": "常州少年警校引入AI科技课程，少先队员体验机器狗与航天科技。",
-      "summaryZh": ""
-    },
-    {
-      "title": "高阶智驾加速下探 896线激光雷达下放20万级车型",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iaXJoRmNyS01FZ1dLR0JmNUFWV0pTaGZWTXpUWmNvYzBNR0x3dXlGMHIxWEo3UmxkVWZqVXFQQUYxZ0JNcURXdDM2UzRRb0NzT3dPV1pIeld5RUNoelJ6eXhFSQ?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-14T14:43:00.000Z",
-      "summary": ""
     }
   ]
 }
