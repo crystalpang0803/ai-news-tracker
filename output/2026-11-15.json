@@ -1,84 +1,74 @@
 {
   "date": "2026-11-15",
-  "generatedAt": "2026-11-15T02:08:23.900Z",
+  "generatedAt": "2026-11-15T06:41:12.432Z",
   "items": [
     {
-      "title": "苹果憋了近10年的人形机器人，最后用上了宇树",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhTGp5bi0wZ3pPRUJMY1ItYy1uam9ERXBEME1UTVd6NlZ0R3QyYlhHcFpnbGJXdlRvQXlzSU5zclowYU5ld2ZXX1ktcjc?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-14T02:21:00.000Z",
-      "summary": "苹果HALO人形机器人采用宇树G1机器人本体，搭载Mac mini M4 Pro和阿里千问大模型。",
-      "summaryZh": ""
-    },
-    {
-      "title": "辅助驾驶≠自动驾驶：男子载一家四口在高速启用“智驾”玩手机、躺睡被处罚",
-      "link": "https://www.ithome.com/1/027/276.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-15T02:07:18.000Z",
-      "summary": "男子高速使用“智驾”玩手机、躺睡被处罚。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Kimi、DeepSeek、智谱占美国企业开源AI支出近九成，但中国模型不想只卖API了",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RQUExMGlNX3ZIREduNV9DblAteS1KNFozZUpMQU1Cb3g0VFdUNHNyak52OTJ1dG10ajFVUmNfQ2ZHaGF0dm1LVA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-14T02:26:44.000Z",
-      "summary": "中国模型产品占据美国企业开源AI支出近九成，但开始寻求更多商业化路径。",
-      "summaryZh": ""
-    },
-    {
-      "title": "德马科技携手生态伙伴共话具身智能场景落地与规模化破局",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoUHRjSXJoeC1NNkNHamVkQnlPTF9LMjhWQTM1Y3k5WkgxUmNZclF4aGRUN2JQZlRDNVRCakNyNTR1ek1xcnhRUlBkbDF6ek1CdzFhS0gyVmJwbV9PVVVkcTlR?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-14T02:42:42.000Z",
-      "summary": "德马科技与生态伙伴探讨具身智能在物流场景的规模化落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "“史上最严”湿实验预测基准发布：推理拉满、算力翻5倍也白搭",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jSVpTN2xyM01xU1RWT3RvWUxZQ1ZuOFNSaGt6XzNBd2theHZveGN3dGdLSzYwLUJLVmJYU2NVZHljZ0VYMnJuWTBzRlN5OFBpN0hv?oc=5",
+      "title": "36氪首发丨具身智能建筑机器人企业完成超亿级融资，连续三年订单复合增长率超100%",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wYW5ER0JUR3ZYWURYT0tFU0FBN2RUcmtHY3BRdXltUG0tOGhBNzM5SndPYm40TEhndEZWUnZMX3otbUlQajFqdHJKY1lFdw?oc=5",
       "source": "36氪",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-14T09:52:00.000Z",
-      "summary": "“史上最严”湿实验预测基准发布，AI预测性能远未达标。",
-      "summaryZh": ""
-    },
-    {
-      "title": "豆包工作上线，AI巨头狂卷办公场景，独立客户端成标配？",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5MVBBTVM0OTVTRmxnQzVCMkV5S2pWemZ2enR2WEgzSEFmMmxTVFc2cFFMRnZxYWtqVWxwMnZJRnl2Nmd1bm1ON3FLSEMwdw?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-14T18:29:13.000Z",
+      "category": "robotics",
+      "pubDate": "2026-11-14T13:19:00.000Z",
       "summary": ""
     },
     {
-      "title": "浙江算力规模超198EFLOPS，智算占比96%，AI正走进乡村、医院和路口",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LT3NwdDlUbF9Bb1ROSHd0bGQ1RzBtOGgwNndLVVVkYngwNjBWSzFZUHFvRkhlck0tdm9yNjlRMkFsVzFWV1RhRQ?oc=5",
-      "source": "财联社",
+      "title": "NINJUTSO 推出 TEN AIR PRO 鼠标：搭载 50K 传感器，599 元",
+      "link": "https://www.ithome.com/1/027/280.htm",
+      "source": "IT之家",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-14T05:47:31.000Z",
-      "summary": "浙江算力规模超198EFLOPS，智算占比96%，AI应用拓展至乡村、医疗等领域。",
+      "category": "robotics",
+      "pubDate": "2026-11-15T02:15:48.000Z",
+      "summary": "NINJUTSO发布TEN AIR PRO鼠标，50K传感器，售价599元。",
       "summaryZh": ""
     },
     {
-      "title": "三券首发、百景发布：江苏“人工智能+”环省行扬州站推动AI文旅落地",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmOGdHLUJOUnZLM1RMbUdJOVRoVC1vT3NGZmlKUWVTazFOaDdkRUNmZVRWUmtHS0NkRE51Sm1sSmxTMlBONVE5T0NNSDJ4d0xud3I5WjE4c010cWFldlNGNVdQdG4?oc=5",
-      "source": "东方财富网",
+      "title": "算力狂飙而净利率跌破5%：为什么工业AI算不出实体企业的真利润？",
+      "link": "https://www.tmtpost.com/8205381.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-14T09:58:38.000Z",
-      "summary": "江苏扬州举办“人工智能+”环省行活动，推动AI文旅落地。",
+      "pubDate": "2026-11-15T02:30:45.000Z",
+      "summary": "工业AI算力提升，却难以准确计算实体企业真实利润。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Kimi估值500亿美元，月之暗面为什么急着拆掉海外架构？",
+      "link": "https://www.tmtpost.com/8205584.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-15T02:30:39.000Z",
+      "summary": "Kimi开发商月之暗面拆掉海外架构，为港股IPO做准备。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI进化速递 | OpenAI转向通用AI模型直接控制机器人",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6cTBrQkEzdWpuYmN5UGRMNXRhNW1Nc0t5U1Y3bV9DeUdNM05xQWlyMkNUVFR6RVZnNzlDZlAtQWRmbU5MNzQtSl9jNXZ4MmV3S2NZ?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-14T11:56:08.000Z",
+      "summary": "OpenAI转向通用AI模型，直接控制机器人。",
+      "summaryZh": ""
+    },
+    {
+      "title": "黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB2ODUyXy1WTVZKRjZLbENLSVFVSTRQRjU5Y25LTW1XemZQR2JTUUFRMVBrbVBVd1NYaWFJVFA5N1dEWmJiSHpZ?oc=5",
+      "source": "晚点LatePost",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-15T04:30:17.000Z",
+      "summary": "英伟达创始人黄仁勋闪电离职，引发行业关注。",
+      "summaryZh": ""
+    },
+    {
+      "title": "谷歌推出Android XR智能眼镜 AI芯片公司Cerebras盘后大涨",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yRzBiSGEzdE1QdF9tYVpyY002Ymh5cF91T3A3bzBTcFdacFk4QjBDWGtOQmZuRUo3dERZbTJ5N0ZXZVJaRVZBUg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-14T21:33:40.000Z",
+      "summary": "谷歌发布Android XR智能眼镜，AI芯片公司Cerebras盘后股价上涨18%。",
       "summaryZh": ""
     },
     {
@@ -89,16 +79,6 @@
       "category": "ai",
       "pubDate": "2026-11-14T11:23:00.000Z",
       "summary": ""
-    },
-    {
-      "title": "突发！DeepSeek开放全家桶API",
-      "link": "https://www.qbitai.com/2026/11/510003.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-14T02:39:56.000Z",
-      "summary": "DeepSeek开放全家桶API，开发者可自由组合调用，支持独立接口和计费。",
-      "summaryZh": ""
     },
     {
       "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
@@ -117,38 +97,37 @@
       "source": "东方财富网",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-14T22:15:50.000Z",
-      "summary": "广西以“北上广研发+广西集成+东盟应用”模式，推动人工智能差异化发展。",
+      "pubDate": "2026-11-14T23:05:15.000Z",
+      "summary": "广西集成推动人工智能差异化发展，实现产业数据积累与场景应用。",
       "summaryZh": ""
     },
     {
-      "title": "自动驾驶 | SSTG-Nav 深度解析：把一次环境测绘变成可反复调用的物体导航基础设施",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNWWVDTWJRQmh5SzJoMkhybWlrTW9oSHoyS2VFeTZGUzdqMFNHZl9Gb1ZpeEdMQUNSRkxhMm40V19BT1NLT0pMRGtYSWZUWXNUYU9ubl9hTQ?oc=5",
-      "source": "与非网",
+      "title": "专访 | 帮我吧AI研究院院长张焕强博士：谈AI驱动的智能制造售后服务变革",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wWDQwLWY4enNJZlFObkZ3NUJPYlVuTnFsWFowZDVrM1NqWml5eVptajVfSmlmNk90RUR2VVBsUUdCS25qbFRURUxKSk4?oc=5",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-14T02:52:15.000Z",
-      "summary": "SSTG-Nav技术将环境测绘转化为可重复使用的导航基础设施。",
+      "pubDate": "2026-11-14T13:31:42.000Z",
+      "summary": "AI技术推动智能制造售后服务从被动响应转向预测性维护。",
       "summaryZh": ""
     },
     {
-      "title": "[第一时间]主题乐园看消费 广东珠海：新型主题乐园亮相 机器人成“互动主角”",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BQ2tYY3o0Z0dsMUYxb0dlVEtoYlZZa3NIeWpTYW02eDl6bkhwSGp0U0xWcXlQQ1VMYWw5NmZsU3pTTzhkYUJtWS1NbmE0RXlEdXJ6bERJcktfX281dk5IX3FNRmp2dnZ3UzlLLTRsdmF0Q0Fja0E?oc=5",
-      "source": "央视网",
+      "title": "美国得州阿比林因星际之门数据中心面临噪声与房租上涨，中国乌兰察布算力园区以更低成本更快交付",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91YkFpbFZSSUZtNjU2WjJ5aFhNVVZUbUdTVTcwV1hEQVdZU2JyQnlQZzV5VW1fdWZ6emdqYWw0OFEtY05OQm1Eejk5U0NtTFhBYlE?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-15T00:12:00.000Z",
-      "summary": "广东珠海新型主题乐园亮相，机器人成为互动主角。",
-      "summaryZh": ""
+      "category": "ai",
+      "pubDate": "2026-11-14T06:49:18.000Z",
+      "summary": ""
     },
     {
-      "title": "引入《西游记》IP，无芯科技熊猫安安探索疗愈AI机器人多元应用",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tTGJfMGY3QXd1TkRtNnJlRDMtaXZES0tJMV9HWlBWQl9fRF9jUWtON0Q2aUhOaWFOQWxFY0ZhTUtyaE9DQkZ3MC1LQ05UZFl6MWh4V0tNaUFpQmQ0MGMyMVpTQUlJWUlQMDh5Z0l0NElFbDhUWnlJdkxuMW4?oc=5",
-      "source": "新浪财经",
+      "title": "中国人工智能开源生态蓝皮书发布",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZmVodU43c25vaW9HN2lnRDhJUlBiMEh3ekhPQUVNQk9QbGhfUWVwU3FUeFVFRE9mU1drMnFMcEtlUW8yalZ6ZTNGZHM5THphWWZILU5ZbUVoSFdVMFREVEd4VGtIRER0ZjRCMC1pbXFsWFRpYkZsV1hJU1M3cllUOXdB?oc=5",
+      "source": "新华网科技",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-14T06:17:06.000Z",
-      "summary": "无芯科技熊猫安安引入《西游记》IP，探索疗愈AI机器人多元应用。",
+      "category": "ai",
+      "pubDate": "2026-11-15T01:57:15.000Z",
+      "summary": "中国人工智能开源生态蓝皮书在杭州中国开源年会COSCon'26上发布。",
       "summaryZh": ""
     },
     {
@@ -163,11 +142,11 @@
     },
     {
       "title": "002600，多个机器人产线投产！机构扎堆调研股曝光",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51alJfZ0xzaTNsd1M0YllxUEpmLWRwdGg3aXhzeVB0cWJ4cTNMT2ZJa3lTcEo1Nm1uTmZ4bHptWmpscFpWMUMyUjAwa0tZR3VO?oc=5",
-      "source": "凤凰财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcEZka2RJRlJGYWJQbHZIa1BFeEREUVZNSFF4c0RIU3dneUZJZFhXNER0SkIteWgwREJabGpSZng3OGFGcTBaSWdQdUdYSVBfUC1DVloxaHhWSzMxNU5kZlY0X0M4SlB4UC1QNlFvUlYxakxmck9IRkV5NDljTTRlZzBMU2JlVEQ5aV8zSkk0Yw?oc=5",
+      "source": "21财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-14T23:30:00.000Z",
+      "pubDate": "2026-11-15T01:46:00.000Z",
       "summary": "002600机器人产线投产，机构调研密集，业务拓展至AI算力设备。",
       "summaryZh": ""
     },
@@ -182,26 +161,25 @@
       "summaryZh": ""
     },
     {
-      "title": "Humble Robotics raises $51 million to expand autonomous electric freight operations",
-      "link": "https://roboticsandautomationnews.com/2026/11/14/humble-robotics-raises-51-million-to-expand-autonomous-electric-freight-operations/107110/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-14T04:27:34.000Z",
-      "summary": "Humble Robotics获5100万美元投资，扩大自主电动货运业务。",
-      "summaryZh": "",
-      "titleZh": "Humble Robotics 融资 5100 万美元，用于扩大自主电动货运业务"
-    },
-    {
       "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
       "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
       "source": "CNBC Tech",
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-14T12:00:01.000Z",
-      "summary": "机器人初创公司Foundation因创始人挪用资金购房而无法支付员工工资。",
+      "summary": "机器人初创公司Foundation因创始人挪用资金购房导致资金链断裂，无法支付员工工资。",
       "summaryZh": "",
       "titleZh": "埃里克·特朗普支持的机器人士兵初创公司创始人向公司借款 460 万美元买房后无法支付员工工资"
+    },
+    {
+      "title": "一文看懂10种传感器输出信号",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsNC1jWFhRVjNpUDlUY3ZUQjh6S2xwQm9QNjc2V19iYWFUZWozc3UzZkMwRGhqWlNkdVRmVjlyTEZtWElaY1J4Z05wWGxydW5EM1JJTV82MA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-14T06:53:39.000Z",
+      "summary": "本文介绍10种传感器输出信号的特点及验证过程。",
+      "summaryZh": ""
     }
   ]
 }
