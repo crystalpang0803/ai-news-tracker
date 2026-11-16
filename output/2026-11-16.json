@@ -1,35 +1,24 @@
 {
   "date": "2026-11-16",
-  "generatedAt": "2026-11-16T02:23:52.474Z",
+  "generatedAt": "2026-11-16T06:37:58.245Z",
   "items": [
     {
-      "title": "腾讯 WorkBuddy 国际版上线 Gemini 4 Carbon 大模型：支持百万 Token 上下文，暂仅限 Pro 用户使用",
-      "link": "https://www.ithome.com/1/027/487.htm",
+      "title": "人类给AI做心理咨询，GPT、Grok、Gemini都emo了，集体讲“原生家庭创伤”_精彩视频为您呈现",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHdnVaQVNCMlYySjZHQnlHd1FRNEZ2akFZcXF1MEMzY3dWQlYyOFJxWUdGWHg2UHBuWXl3YlJLZTlGZnRjazNNY25LQ0Npb2ZUNGpnU0lR?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-16T04:47:42.000Z",
+      "summary": ""
+    },
+    {
+      "title": "算力承压：曝 DeepSeek 应用及网页端实施限额，长对话与日额度双双受限",
+      "link": "https://www.ithome.com/1/027/597.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-16T00:44:37.000Z",
-      "summary": "腾讯WorkBuddy国际版上线支持百万Token上下文的Gemini 4 Carbon大模型，目前仅限Pro用户使用。",
-      "summaryZh": ""
-    },
-    {
-      "title": "汽车激光雷达厂商，又开始抢机器人关节的生意了",
-      "link": "https://www.tmtpost.com/8205984.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-16T01:12:19.000Z",
-      "summary": "汽车激光雷达厂商禾赛科技加大机器人关节业务投入，与关联方Sharpa签订3亿元供应协议。",
-      "summaryZh": ""
-    },
-    {
-      "title": "不调用图像模型，Anthropic Claude Fable 5.2 用 Python 代码模拟真实画笔作画",
-      "link": "https://www.ithome.com/1/027/490.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-16T01:01:05.000Z",
-      "summary": "Anthropic Claude Fable 5.2 不依赖图像模型，用Python代码模拟真实画笔作画。",
+      "pubDate": "2026-11-16T03:44:18.000Z",
+      "summary": "DeepSeek应用及网页端长对话功能实施使用限额。",
       "summaryZh": ""
     },
     {
@@ -39,17 +28,18 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-16T02:00:25.000Z",
-      "summary": "退货处理机器人开始直接抓取、识别和分拣商品，人机分工在仓库中发生变化。",
+      "summary": "退货处理中，机器人从搬运箱子转向直接抓取、识别和分拣商品。",
       "summaryZh": ""
     },
     {
-      "title": "物理AI基础设施精一微感完成两轮数千万融资，海南芯动联科等投资，MEMS 路线六维力先行者，机器人腕部、指尖触觉同步量产",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vb1ZXT04wRTgybkpGMExqeXV5SEE0V2NtbGo4d0Z5S2x6M1EzdzJ6LTY0bFNGVEhPaEpkd3RrRXhzN2RhMFVmWmpBSWpDUQ?oc=5",
-      "source": "36氪",
+      "title": "河南：探索发布一批物流领域人工智能大模型",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EOHZ5WWwzTER1MzRmVnRjX2dzVjlVWUJHWlJJVzUwOUNheS1zWFgtcmltRUVxREVlU1JQVU1fRGFiNV8wWHNxRXdZTmNFQ0hXdzV2bktn?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-16T02:22:29.000Z",
-      "summary": ""
+      "category": "ai",
+      "pubDate": "2026-11-16T03:57:44.000Z",
+      "summary": "河南省发布物流领域人工智能大模型，推动物流网建设。",
+      "summaryZh": ""
     },
     {
       "title": "上海交大校友造建筑机器人，获超亿元融资",
@@ -62,33 +52,31 @@
       "summaryZh": ""
     },
     {
+      "title": "拆飞机供电？AI公司的算力焦虑已经卷到电力端",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZMmo0UGRZT3B1UEgxNXJzZ1NqS2dlSnBDVDczSW0xdXNUcEV0dkljbHQ5bmJ0OV8xUVMzRXpqUEoyVy13X1U4VjhEMzFodw?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-15T10:35:00.000Z",
+      "summary": ""
+    },
+    {
       "title": "Uber财报显示外部AI助手一周仅完成4趟叫车，AI Agent接入生活服务仍处早期",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMTFNBZXY3QktPOG1TajhWY2c1OXNlRVFMY2lSQkwwMVRlMzd4eHV6NTl3MTlHM2tCNFAwa2FiUGozVnV1NEQzMk9WVkZ2WmRYQXdiaw?oc=5",
       "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-15T10:41:46.000Z",
-      "summary": "Uber财报显示外部AI助手在Uber Eats和叫车服务中订单量极低，生活服务AI助手仍处于演示阶段。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
-      "title": "AI产业链表现分化，南方基金旗下恒生科技ETF南方(520570)关注订单兑现与国产算力进展",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wT0dYc05iOFJuT1Z4VjhPWGZfcU5QTXdLT3F2VEszcC1HbVhyRmJTR3JqdUFsQlVfd0pVZWVnTThKdnZsY09tVzQzckFfSkdtR3BHdkpXMy0?oc=5",
-      "source": "界面新闻",
+      "title": "新疆加速人工智能产业落地",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWkhPTUxXMzV0NnY4MFo1WFBxcDFNZ0hxVjdhR0ZRM040dzVsNDlzbGZXbVpVQzBpaFd1MVd3Wm5OYWdKeUxaOWw5RlJ2ZVk1c2hoZkttaFBKWEJMUHk3SndESkVLRjhPWHZtRFZTSXZ4Z0FFX3p2d012RDZ0WjlqNXVB?oc=5",
+      "source": "新华网科技",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-16T02:05:48.000Z",
-      "summary": "南方基金恒生科技ETF关注AI产业链分化，聚焦订单与国产算力进展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "软通智算率先落地“Day-1商用支持”标准：全量通过某头部大模型官方商用认证",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NdWxua3dlN2N6MjhIWkJvMDU0bzZCaDhiZGRqbmVMOGMxeXJ6dDBNR0ZVWWtId2hEQnppN3FuSVgyXzNTX3dvQUJRRXUtUEk3eG93MEFJR0I4Sm5WaGxIdktR?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-16T02:13:12.000Z",
-      "summary": "软通智算两款旗舰模型通过头部大模型官方商用认证，成为独立服务供应商。",
+      "pubDate": "2026-11-16T02:47:30.000Z",
+      "summary": "新疆加速人工智能产业落地，夯实算力、数据、算法三大科技底座。",
       "summaryZh": ""
     },
     {
@@ -101,34 +89,13 @@
       "summary": ""
     },
     {
-      "title": "中国10月规上工业增加值同比放缓至4.8%，3D打印设备、锂电池、工业机器人产量增长较快",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SdUU0YXBqQWh4aG9LcndFdlJGS2xaMTNvSkd1TXZZOE9EeU0xS1dsOExYeDhCbnVrQ3huSkFLeFBkSzdVUEVLbEw1WDg4Y0RRNU13?oc=5",
-      "source": "华尔街见闻",
+      "title": "斯坦福AI100报告：生成式AI进入规模化时代，算力与数据约束显现",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFSHd3TV9xeVhFd0I3Q2dhU0djeWlsN1VGUlNTWVphUzVRRDY2NXlwSm9Pa2tCcXA0WXQ1R1JXaDhGV0JnR1lIZFhIaTl3bnh0Z1NsRA?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-16T02:00:24.000Z",
+      "category": "ai",
+      "pubDate": "2026-11-16T02:54:37.000Z",
       "summary": ""
-    },
-    {
-      "title": "曝黄仁勋考虑重返英伟达担任CEO；苹果计划明年发布首款智能眼镜；OpenAI 撤销独立机器人研究团队",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5dTJvWS1lb1ZxbVhtaHdROXpTbUJkOENmRERZNW1qMkJNdTZFOUowTVp1S3FYOXUzRmNnSDdWVUgyQTF6cl9qRktaRno?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-16T00:48:52.000Z",
-      "summary": "黄仁勋考虑重返英伟达，苹果计划明年发布智能眼镜，OpenAI撤销机器人研究团队。",
-      "summaryZh": ""
-    },
-    {
-      "title": "One compromised MCP server can trick an AI agent into misusing tools you already trust",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmkwanhHbjBxWlFHSTFMMTBsV05hWHM3NHRfTFYxZS1xVTVOTXh5aWRUTkxSNTJ2WEtyeU5aOUdKT1F0V0dBa3BUSUozcE9hcjYtWlFRWUtYaW4yb3BCbC0wWDhsWjNrbVJlOEM3X0FqRmU4dlNWb2FaNThQei1KbVZwVExuRTNaZFNiMEc0R05FcTNObHNLdGFhQm1PeHpWdGxGeEVONHhQeUlfaHlfcWZzZHNlYzRudmJpZVVMc3Rmdw?oc=5",
-      "source": "VentureBeat",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-15T20:00:00.000Z",
-      "summary": "一受损MCP服务器可诱使AI代理滥用受信任工具。",
-      "summaryZh": "",
-      "titleZh": "一台受损的 MCP 服务器可以诱骗 AI 代理滥用您已经信任的工具"
     },
     {
       "title": "摆脱“拼算力、拼模型”思维—— “广西集成”推动人工智能差异化发展",
@@ -137,69 +104,103 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-15T07:16:00.000Z",
-      "summary": "广西集成推动人工智能差异化发展，实现“北上广研发+广西集成+东盟应用”路径。",
+      "summary": "广西以“北上广研发+广西集成+东盟应用”模式，推动人工智能差异化发展。",
       "summaryZh": ""
     },
     {
-      "title": "打破多项纪录！第二届世界人形机器人运动会在比什么？",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SZ29sZ3daVV9yR3lkcDJ1czdHT2NvSHdEdmgwV1hta3lHN1N5NmRZVC1oRXFGWVgxb2wyWXRBZmx6ZUFnLWt1Umdpa1B0ODdJMjhhRGcyNC1xT3lsUVpUT2pZSHY?oc=5",
-      "source": "新京报",
+      "title": "EMNLP 2026 杰出论文 | 大模型训练，数据配比难？日本NICT团队提出最优分布向量合并",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UYzQyX0d3ck1aVzBnVFlrZVpXWFI0eDN2ak9tNlp5cGpVTlhobjJRTExGNjZ3NmtEcVZza3RhclROQlVqc2MyLVRua0VnVldDbWxfS29B?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-15T09:51:00.000Z",
+      "summary": "日本NICT团队提出最优分布向量合并方法，提升大模型训练效率。",
+      "summaryZh": ""
+    },
+    {
+      "title": "居家机器人，何时进家门？",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WVElNMDNPcURtWDdOWHUzWEdIX3pQUmJSdlVJUjdPYktjYnMtekRRTXd3VHF2d1VHQ1J6dG5aTFZCSGRaZ09FRUd5dTlJckNhRzNyNWxKd3NYTmVnQkY1czlXUTZ6V3FTcmEwV1lvSVc?oc=5",
+      "source": "科技日报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-15T07:10:19.000Z",
-      "summary": "第二届世界人形机器人运动会打破多项纪录，机器人技能与科技迭代突破显著。",
+      "pubDate": "2026-11-16T05:17:54.000Z",
+      "summary": "居家机器人技术尚在发展阶段，面临智能、安全、成本等多重挑战。",
       "summaryZh": ""
     },
     {
-      "title": "从AI大脑到具身厨房 橡鹿机器人WRC发布下一代烹饪机器人技术体系",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxcWhadHA5ZTdjSzJxbE5lTEd4UmpWQlFST0JROHpDY0xYbXRDZmN2Q2ZESHZhckYtNUpRd1lpbmZTNzBsd2tZRXpHMDB1czZNeUYwaTNsMG1TdjBxcXdSSg?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
+      "title": "Why Skydio Built a Lopsided Drone",
+      "link": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+      "source": "IEEE Spectrum Robotics",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-15T14:22:30.000Z",
-      "summary": "橡鹿机器人发布下一代烹饪机器人技术体系。",
-      "summaryZh": ""
+      "pubDate": "2026-11-15T14:00:02.000Z",
+      "summary": "Skydio推出不对称设计的F10 Lightrunner无人机以消除盲区。",
+      "summaryZh": "",
+      "titleZh": "为什么 Skydio 制造了一架不平衡的无人机"
     },
     {
-      "title": "河北省推动机器人产业延链补链强链",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XOXpMd1E0ZTZYaTZuTVlIWEVNbFhENjMwb1ZUXzBzNU8wZG5wQ2EyODZnS0dqT2tTVkh0LWFwNXhHeXNnVHA0ZjMzRDl2cVRWWG5mZ1N5Z1gybENWR1RYUjNBVldkWWVvVXhsRVZoSVpPSmp4ZGJseHNpbS0?oc=5",
+      "title": "打通算力应用“最后一公里”",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeUtvM3l3MVBSeTNxVjg3MzBCLWJubVRhVHE3NVhZNGR0ZlhKRjA3YWF5aDd3T3BsVjF6ck1pUVZRc2k3d2xQb2pPTjRmRDJ5UFJKNExHTXRyYXhDblVsR0lPS3BxcHBPLWF3SFQ2VVFuYkpDaWN3WEx3ZjQwQXVfT3FWUVFBZ3YwWll3?oc=5",
       "source": "新华网科技",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-15T08:53:06.000Z",
-      "summary": "河北省加速构建机器人产业新生态，推动产业链升级。",
+      "category": "ai",
+      "pubDate": "2026-11-16T00:01:35.000Z",
+      "summary": "我国加速推进算力基础设施建设，助力人工智能规模化应用。",
       "summaryZh": ""
     },
     {
-      "title": "机器人及物理AI板块11月行情持续性及投资方向如何看待?",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oZm5DM2ZYbklBeGE4eFdnWlNFVjE1MEFCcUY4VjVpckxLZDZOX0NzUmdmRVRaMkEyTFFsaUFTOHhNaWVqZkVqT0lQZk05YmJ3QV9UMkJKUWNNY2V1QUx1OFZpcC1kaHlwLUdJeVlwNVdnTzZqeWxSSQ?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-15T12:08:56.000Z",
-      "summary": "11月机器人及物理AI板块行情持续，投资关注T链及核心材料。",
-      "summaryZh": ""
-    },
-    {
-      "title": "给“机器人进家”多点耐心",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aNERvR1RNYi1LZm14enlZVFQ0YUdhZm5YTzBPUlFXNkpYdFpjdi1MYkdxSUcwc0hCb0FSaWhGZlAycEFITWlVQ1N2QllON1FMaFN1aXAzTTBYanRHUXVmSjUyYUJPZzh6RWRZ?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-16T01:29:33.000Z",
-      "summary": "机器人进家需耐心，技术发展需时间与空间。",
-      "summaryZh": ""
-    },
-    {
-      "title": "DHL Supply Chain pilots adaptive robotics and AI orchestration in warehouse operations",
-      "link": "https://roboticsandautomationnews.com/2026/11/15/dhl-supply-chain-pilots-adaptive-robotics-and-ai-orchestration-in-warehouse-operations/107189/",
+      "title": "Avride reaches one million robot deliveries as network expands across US",
+      "link": "https://roboticsandautomationnews.com/2026/11/15/avride-reaches-one-million-robot-deliveries-as-network-expands-across-us/107179/",
       "source": "Robotics & Automation News",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-15T19:17:41.000Z",
-      "summary": "DHL Supply Chain在仓库运营中试点自适应机器人和AI编排技术。",
+      "pubDate": "2026-11-15T16:10:13.000Z",
+      "summary": "Avride在美国完成百万次无人配送，业务覆盖超30个城市。",
       "summaryZh": "",
-      "titleZh": "DHL 供应链在仓库运营中试点自适应机器人和人工智能编排"
+      "titleZh": "随着网络在美国扩张，Avride 机器人送货量达到 100 万次"
+    },
+    {
+      "title": "一根风筝线，戳中了智能驾驶传感器的软肋？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YRTFTNnozbWZyV3lBZzFGYUhkdnZscVdkYTdRNFk5NmJRb2FYcnM5VmhBVTFxWEt1a0VGcjg3VmdZYVpobEhaZmVqVU1mRXJkMXFJWDdaTQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-16T01:39:28.000Z",
+      "summary": "智能驾驶传感器被风筝线测试出安全漏洞。",
+      "summaryZh": ""
+    },
+    {
+      "title": "A3 Business Forum 2027 to examine economic outlook and automation industry trends",
+      "link": "https://roboticsandautomationnews.com/2026/11/15/a3-business-forum-2027-to-examine-economic-outlook-and-automation-industry-trends/107182/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-15T18:46:34.000Z",
+      "summary": "2027年A3商业论坛将探讨经济展望和自动化行业趋势。",
+      "summaryZh": "",
+      "titleZh": "A3商业论坛2027探讨经济前景和自动化行业趋势"
+    },
+    {
+      "title": "SAP and VF Corporation test out AI and automation technology powered S.Fashion physical store",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON2NnRm9Mb0J2WUpIeDljcldRWWpOVy1jeG5kUWxZLXFCLVRqMXNqLWFETnFWT1FUTDNzbUhxRkZTSFZsblR3ZzB2REkycjEtN1NybWR6QVJpSmVDelVGc19PZmZ3c191WTVrYy05aGZ2VXdoUGFLODZhVUF6aFJsbjFnTFd4dFFUMDdjQUNfa2lVU2hLTng5Tm16UXVLRzZCMDhueG1KelhzUFpneG1DZzBGUGN2NVlWNkNvY21hamRKbGVvcUdmOTlKWXZMOWZXWFpTRlV4UWNGZDRK?oc=5",
+      "source": "Retail Tech Innovation Hub",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-16T05:39:06.000Z",
+      "summary": "SAP与VF Corporation在德国沃尔多夫SAP总部开设S.Fashion实体店，测试AI和自动化技术。",
+      "summaryZh": "",
+      "titleZh": "SAP 和 VF 公司测试人工智能和自动化技术支持的 S.Fashion 实体店"
+    },
+    {
+      "title": "Wing and Walmart take drone delivery coast to coast: last week's most read retail technology articles",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaDU1blRYY1J0WW8tWkdSV2Z4WWIxTWhLNEg5TVc1bUJrOE5XTWU3ZVlwZ3d4RnJ1VU9qZm9EV2kteVNmclFaMFAyRXFZZWFTTDEyelVjakx2UlI1T2MxajlzTlhrMmdzU2o0RWhzRTRsS2VQcVdnOFJjWlpwT0hnUVc5Q2NoR0tNU3pxS2ZPMGtCREpheDZyMVpIXzRYdHl4UjA0Q19UUXlzQ3hhOXJucnhVZlpTQ1BKUWVrMW5zTlNqSUZmSl9XOWJSd3FPWGhWck1weDROSmt6YUtGUnpkNjV4Wm1MUQ?oc=5",
+      "source": "Retail Tech Innovation Hub",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-16T05:29:32.000Z",
+      "summary": "Wing与沃尔玛实现跨美国大陆无人机送货。",
+      "summaryZh": "",
+      "titleZh": "Wing 和沃尔玛将无人机送货从东海岸带到西海岸：上周阅读量最大的零售技术文章"
     }
   ]
 }
