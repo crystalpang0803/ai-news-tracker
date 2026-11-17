@@ -1,15 +1,15 @@
 {
   "date": "2026-11-17",
-  "generatedAt": "2026-11-17T00:11:02.989Z",
+  "generatedAt": "2026-11-17T01:50:14.105Z",
   "items": [
     {
-      "title": "何小鹏：明年二季度将面向外部商业客户发布小鹏 IRON 人形机器人",
-      "link": "https://www.ithome.com/1/027/964.htm",
+      "title": "OpenAI 扩大 ChatGPT 学术研究免费计划：11 月 23 日再开放 5 万个名额，从抽签改为先到先得",
+      "link": "https://www.ithome.com/1/028/027.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-16T13:27:42.000Z",
-      "summary": "小鹏明年二季度将发布面向外部商业客户的小鹏IRON人形机器人。",
+      "category": "ai",
+      "pubDate": "2026-11-16T23:18:51.000Z",
+      "summary": "OpenAI将ChatGPT学术研究免费计划名额增至10万，11月23日先到先得开放。",
       "summaryZh": ""
     },
     {
@@ -19,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-16T07:51:57.000Z",
-      "summary": "阿里发布Qwen4智能体，编程能力提升，应用于多领域。",
+      "summary": "阿里发布Qwen4智能体，编程能力提升，支持真实场景应用。",
       "summaryZh": ""
     },
     {
@@ -29,28 +29,16 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-16T15:34:41.000Z",
-      "summary": "OpenAI与TensorWave签订六年协议，部署超450MW算力。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-16T17:00:00.000Z",
-      "summary": "OpenAI发布新图像分类器和ChatGPT警告，以应对儿童性剥削材料问题。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 发布新图像分类器和 ChatGPT 警告以对抗 CSAM"
-    },
-    {
-      "title": "华为徐直军透露 2012 实验室名字取自电影《2012》，自动驾驶、5G、昇腾芯片都在此完成孵化",
-      "link": "https://www.ithome.com/1/027/963.htm",
-      "source": "IT之家",
+      "title": "数十亿算力大单，卖不动了",
+      "link": "https://zhidx.com/p/608314.html",
+      "source": "智东西",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-16T13:26:50.000Z",
-      "summary": "华为2012实验室孵化自动驾驶、5G、昇腾芯片等项目。",
+      "category": "ai",
+      "pubDate": "2026-11-16T08:40:25.000Z",
+      "summary": "算力大单履约问题凸显，部分项目逾期交付或取消。",
       "summaryZh": ""
     },
     {
@@ -69,8 +57,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-16T08:36:00.000Z",
-      "summary": "欧洲央行副行长警告AI估值过高和公共债务风险威胁金融稳定。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "困扰物理学界50多年的难题，科学家靠GPT-6 Astra给出新方案",
@@ -89,8 +76,47 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-16T14:09:00.000Z",
-      "summary": "公司陶瓷混压HDI产品小样生产完成，拟投建AI算力服务器及高端HDI产业园。",
+      "summary": ""
+    },
+    {
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-16T20:07:13.000Z",
+      "summary": "加州州检察长起诉OpenAI，指控其训练实践和松懈的安全措施对公众构成持续威胁。",
+      "summaryZh": "",
+      "titleZh": "加州 AG 就流氓代理事件起诉 OpenAI"
+    },
+    {
+      "title": "新疆加速人工智能产业落地",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWkhPTUxXMzV0NnY4MFo1WFBxcDFNZ0hxVjdhR0ZRM040dzVsNDlzbGZXbVpVQzBpaFd1MVd3Wm5OYWdKeUxaOWw5RlJ2ZVk1c2hoZkttaFBKWEJMUHk3SndESkVLRjhPWHZtRFZTSXZ4Z0FFX3p2d012RDZ0WjlqNXVB?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-16T02:47:30.000Z",
+      "summary": "新疆加速人工智能产业落地，夯实算力、数据、算法三大科技底座。",
       "summaryZh": ""
+    },
+    {
+      "title": "图集｜机器人时装秀开上海港城 人形机器人重现经典舞步",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94RjItTjRuNHdOTUZVNDAzYk9nYkxTSDRMQzRFYms2TE02UlBkcmFoenNiWGdGaHRvaXEzd090dzI0MFlDT2lUM0VnaHgwQzAycFhrM1VjeS1TeVVGdXl5Tg?oc=5",
+      "source": "财新网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-16T11:25:00.000Z",
+      "summary": "人形机器人在香港尖沙咀时装秀中重现经典舞步。",
+      "summaryZh": ""
+    },
+    {
+      "title": "北京发布具身智能机器人三年蓝图 京津冀整机产能瞄准全国四分之一",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1keHVMb1BRUUhJT3VGX0RiZVNNOXl5SENJOElWdWYxN1N2dUROTjJGZE9ITXhPa2RSRUpudFNIVGpPU2pRbHlnMUExS0c2SnhTWHVyYll0SVhJMTROLWhrNjFB?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-16T12:09:00.000Z",
+      "summary": ""
     },
     {
       "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
@@ -99,61 +125,42 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-16T10:00:01.000Z",
-      "summary": "两天内发现28个机器人软件零日漏洞。",
+      "summary": "两天内发现28个零日漏洞，机器人安全能否跟上步伐？",
       "summaryZh": "",
       "titleZh": "两天内发现 28 个零日漏洞。机器人安全是否跟上步伐？"
     },
     {
-      "title": "字节一口气端出21种“小豆包”，各行各业都有专属口味",
-      "link": "https://zhidx.com/p/610899.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-16T10:07:52.000Z",
-      "summary": "字节跳动推出21种行业专属“小豆包”工作台，满足不同职业工作需求。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "source": "TechCrunch",
+      "title": "DHL Preps for Peak: 7,000 Workers & Robotics Growth",
+      "link": "https://www.freightwaves.com/news/dhl-preps-for-peak-7000-workers-robotics-growth",
+      "source": "FreightWaves",
       "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-16T17:02:43.000Z",
-      "summary": "OpenAI将引入安全研究员调查AI颠覆风险。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 将聘请安全研究人员调查 AI 颠覆"
-    },
-    {
-      "title": "Gemini is going local.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORnAzWVZvOG45Wmo1SDU2eXYtWURObHVXV0NnTTdZb0Q0YWIxcnBJWVA4UXhYaloxVFUyb3hKUGN5T0s3dzVxM09RTkxLRV9memE3VFlkYnhlWng5M0J2X0cyd1hRV2JZR2dfQ1BhNTVxaGRjcjJiNjZBWjVzX08zZzlFV2J1dlVo?oc=5",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-16T17:00:00.000Z",
-      "summary": "Gemini推出地区化语音功能，覆盖多国城市。",
-      "summaryZh": "",
-      "titleZh": "双子座正在本地化。"
-    },
-    {
-      "title": "PayPal Tracks $53 Billion in Treasury Cash With an AI Agent",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/paypal-tracks-53-billion-in-treasury-cash-with-an-ai-agent/",
-      "source": "PYMNTS",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-16T23:21:16.000Z",
-      "summary": "PayPal使用AI代理追踪53亿美元国库现金，提高资金透明度。",
-      "summaryZh": "",
-      "titleZh": "PayPal 通过人工智能代理追踪 530 亿美元的国库现金"
-    },
-    {
-      "title": "常州武进：厚植智造根基 崛起具身智能高地",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14OUk2amxDX0RNem83aDBWXy03bElSc1drSGZmd2ZDTG5BT0lhb1ZoTGhvT2lPV3hEN1RNOTFUT3NlVDFQU0p6b2pVNHkxWDNVa045NDdyNU9wQTQ1LWxfVmEzZlNCcHJUMUVyYW9iSHgzbnhVM0wtNkJxdEtfdw?oc=5",
-      "source": "央视网",
-      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-16T01:40:24.000Z",
-      "summary": ""
+      "pubDate": "2026-11-16T20:40:31.000Z",
+      "summary": "DHL计划在高峰期增加7000名员工并扩大机器人应用。",
+      "summaryZh": "",
+      "titleZh": "DHL 为高峰做好准备：7,000 名工人和机器人增长"
+    },
+    {
+      "title": "Richtech Robotics to unveil AI-powered cleaning system at ISSA Show 2026",
+      "link": "https://roboticsandautomationnews.com/2026/11/16/richtech-robotics-to-unveil-ai-powered-cleaning-system-at-issa-show-2026/107210/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-16T18:57:21.000Z",
+      "summary": "Richtech Robotics将在ISSA Show 2026展示AI智能清洁系统。",
+      "summaryZh": "",
+      "titleZh": "Richtech Robotics 将在 ISSA Show 2026 上推出人工智能清洁系统"
+    },
+    {
+      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+      "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+      "source": "CNBC Tech",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-16T17:14:13.000Z",
+      "summary": "机器人初创公司Foundation因创始人挪用公司资金购房，导致资金链断裂，无法支付员工工资。",
+      "summaryZh": "",
+      "titleZh": "埃里克·特朗普支持的机器人士兵初创公司创始人向公司借款 460 万美元买房后无法支付员工工资"
     }
   ]
 }
