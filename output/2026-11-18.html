@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI & 机器人日报 · 2026-11-18</title>
+<style>
+  :root{color-scheme:light;--ink:#14171c;--muted:#6b7280;--line:#e7e9ec;--bg:#f2f3f5;--card:#ffffff;--accent:#e5484d;}
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans SC",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased;}
+  a{color:inherit;text-decoration:none;}
+  .topbar{background:#111418;color:#fff;border-bottom:3px solid var(--accent);}
+  .topbar-inner{max-width:1120px;margin:0 auto;padding:0.95rem 1.5rem;display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
+  .brand{font-size:1.4rem;font-weight:800;letter-spacing:-0.02em;display:flex;align-items:center;gap:0.5rem;}
+  .brand .dot{color:var(--accent);}
+  .masthead-meta{font-size:0.8rem;color:#a9afb8;font-variant-numeric:tabular-nums;}
+  .nav{max-width:1120px;margin:0 auto;padding:0.6rem 1.5rem;display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap;font-size:0.82rem;}
+  .nav a,.nav input{background:#fff;border:1px solid var(--line);border-radius:8px;padding:0.35rem 0.85rem;color:#374151;font-weight:600;transition:all .15s;}
+  .nav a:hover{border-color:var(--accent);color:var(--accent);}
+  .nav .spacer{flex:1;}
+  .wrap{max-width:1120px;margin:0 auto;padding:1.4rem 1.5rem 3rem;}
+
+  .hero{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:1.7rem 1.9rem;box-shadow:0 1px 2px rgba(16,24,40,.05);}
+  .hero .kicker{display:inline-flex;align-items:center;gap:.4rem;font-size:0.72rem;font-weight:800;letter-spacing:.08em;color:#fff;background:var(--accent);padding:0.24rem 0.65rem;border-radius:6px;margin-bottom:0.9rem;}
+  .hero h2{font-size:1.75rem;line-height:1.25;font-weight:800;letter-spacing:-0.015em;}
+  .hero .trans{margin-top:0.5rem;}
+  .hero .head{margin-top:0.95rem;}
+
+  /* Sticky jump-tab bar */
+  .tabs{position:sticky;top:0;z-index:20;display:flex;gap:0.5rem;flex-wrap:wrap;background:var(--bg);padding:0.8rem 0 0.7rem;margin:0.8rem 0 0.2rem;border-bottom:1px solid var(--line);}
+  .tab{background:#fff;border:1px solid var(--line);border-radius:999px;padding:0.5rem 1.05rem;font-family:inherit;font-size:0.94rem;font-weight:700;color:#4b5563;cursor:pointer;display:flex;align-items:center;gap:0.5rem;transition:all .15s;}
+  .tab:hover{border-color:#c7cbd1;color:var(--ink);}
+  .tab .ic{font-size:1rem;}
+  .tab .n{font-size:0.72rem;font-weight:800;opacity:.65;font-variant-numeric:tabular-nums;}
+  .tab.active{color:#fff;border-color:transparent;box-shadow:0 2px 8px rgba(16,24,40,.12);}
+  .tab.active .n{opacity:.95;}
+  .tab[data-cat="ai"].active{background:#2563eb;}
+  .tab[data-cat="robotics"].active{background:#7c3aed;}
+  .tab[data-cat="application"].active{background:#0d9488;}
+
+  /* Stacked sections */
+  .section{scroll-margin-top:72px;margin-top:1.7rem;}
+  .sec-head{display:flex;align-items:center;gap:0.5rem;margin-bottom:0.95rem;font-size:1.18rem;font-weight:800;letter-spacing:-0.01em;}
+  .sec-head .bar{width:4px;height:1.2rem;border-radius:2px;flex:none;}
+  .sec-head .ic{font-size:1.15rem;}
+  .sec-head .n{margin-left:0.15rem;font-size:0.74rem;font-weight:800;color:var(--muted);background:#eceef1;border-radius:999px;padding:0.08rem 0.55rem;}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:0.85rem;}
+
+  .item{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:0.95rem 1.1rem;transition:border-color .15s,box-shadow .15s,transform .15s;}
+  .item:hover{border-color:#d3d6db;box-shadow:0 6px 18px rgba(16,24,40,.07);transform:translateY(-1px);}
+  .head{display:flex;align-items:center;gap:0.45rem;font-size:0.74rem;color:var(--muted);margin-bottom:0.5rem;}
+  .head .cdot{width:7px;height:7px;border-radius:50%;flex:none;}
+  .head .src{font-weight:700;color:#4b5563;}
+  .head .sep{color:#cbd0d6;}
+  .head .time{color:#9aa1ab;font-variant-numeric:tabular-nums;}
+  .title{font-size:1.02rem;font-weight:680;line-height:1.42;color:var(--ink);display:block;}
+  .item:hover .title{color:var(--accent);}
+  .trans{display:block;margin-top:0.4rem;font-size:0.85rem;line-height:1.5;color:#8b9199;font-style:italic;}
+  .trans b{font-style:normal;font-weight:700;color:#9aa1ab;background:#f1f2f4;padding:0.02rem 0.4rem;border-radius:4px;margin-right:0.45rem;font-size:0.72rem;letter-spacing:.02em;}
+  .desc{margin-top:0.5rem;font-size:0.85rem;line-height:1.55;color:#565d68;}
+  .hero .desc{font-size:0.98rem;color:#3a4150;margin-top:0.65rem;}
+
+  footer{max-width:1120px;margin:0 auto;padding:1.5rem;text-align:center;color:#9aa1ab;font-size:0.78rem;border-top:1px solid var(--line);}
+  @media(max-width:760px){.grid{grid-template-columns:1fr;}.hero h2{font-size:1.35rem;}.wrap{padding:1rem;}}
+</style>
+</head>
+<body>
+<div class="topbar"><div class="topbar-inner">
+  <a href="../index.html" class="brand"><span class="dot">●</span> AI &amp; 机器人日报</a>
+  <span class="masthead-meta">2026-11-18 · 每日精选 18 条</span>
+</div></div>
+<div class="nav">
+  <a href="../index.html">🏠 首页</a>
+  <a href="2026-11-17.html">← 前一天</a>
+  <a href="2026-11-19.html">后一天 →</a>
+  <span class="spacer"></span>
+  <input type="date" value="2026-11-18" onchange="if(this.value)window.location.href=this.value+'.html'">
+</div>
+<div class="wrap">
+  <div class="hero"><span class="kicker">🔥 今日头条</span><h2><a href="https://www.ithome.com/1/028/577.htm" target="_blank" rel="noopener">Anthropic 上市前夕 OpenAI 空降双模型 GPT-6.2 Astra 和 Sol：部分领域超越 Fable 5.2 且成本大降，金融、科研刷新纪录</a></h2><p class="desc">OpenAI发布GPT-6.2 Astra和Sol模型，部分性能超越Fable 5.2，成本大幅降低。</p><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">IT之家</span><span class="sep">·</span><span class="time">2026-11-18</span></div></div>
+  <div class="tabs"><a class="tab active" data-cat="ai" href="#sec-ai"><span class="ic">🖥️</span>AI 人工智能<span class="n">10</span></a><a class="tab" data-cat="robotics" href="#sec-robotics"><span class="ic">🤖</span>机器人<span class="n">7</span></a></div>
+  <section class="section" id="sec-ai" data-cat="ai">
+      <div class="sec-head"><span class="bar" style="background:#2563eb"></span><span class="ic">🖥️</span>AI 人工智能<span class="n">10 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">TechCrunch</span><span class="sep">·</span><span class="time">2026-11-18</span></div><a class="title" href="https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/" target="_blank" rel="noopener">Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop</a><span class="trans"><b>中文翻译</b>Proton 的 Lumo 是 ChatGPT 和 Claude 的注重隐私的替代品，现已登陆桌面</span><p class="desc">Proton推出隐私优先的AI应用Lumo，支持Windows、macOS和Linux操作系统。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-11-17</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIcjVROHoydGV5R0dhUnc3bFl0ZkxIRDUzWEw2QW1IdU4wQWtWd1VMcjZ4U3Mxa09jRGxSV3J0cTBLYzg2c0RYWjNxOWRzZ3ZsajNLNklQSjB4a190Tmc?oc=5" target="_blank" rel="noopener">工信部批准《人工智能 关键基础技术 具身智能数据生成系统技术要求》等274项行业标准</a><p class="desc">工信部批准274项行业标准，涵盖多个行业。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">钛媒体</span><span class="sep">·</span><span class="time">2026-11-17</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oMGFtSjd1UDVGaExvQ0hUTV8ycVZLTWlZckFqRF9NaVVsVERkc19rd1V2RXM2QWRwWTQwQmxEbGQwT3R3ZFpiWERVeFI?oc=5" target="_blank" rel="noopener">美国纳管AI算力远程获取，海外数据中心出租算力将须许可</a><p class="desc">美国将远程获取AI算力纳入出口管制，海外数据中心出租算力需许可。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">智东西</span><span class="sep">·</span><span class="time">2026-11-17</span></div><a class="title" href="https://zhidx.com/p/611480.html" target="_blank" rel="noopener">科学家拿AI干什么？OpenAI新报告揭秘：阅读写作最多，编程提效最猛</a><p class="desc">OpenAI报告显示，科学家主要用AI进行阅读写作，编程效率提升显著。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">界面新闻</span><span class="sep">·</span><span class="time">2026-11-17</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyWWh5V2p0OFhYWDJxV05hcGdHOWN3OU1mLWFidEZ3NTkydVpQR0hYcS1OaFpRRDZpUVZsRlJVaFhSZjd5Z1dNcGx3RUhsemFhMzVCRU1rd1M?oc=5" target="_blank" rel="noopener">SpaceX拟通过债务融资采购AI芯片，部分债券最早本周开始发售</a><p class="desc">SpaceX计划通过债务融资采购AI芯片，部分债券本周发售。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">财联社</span><span class="sep">·</span><span class="time">2026-11-17</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYNW1yamVNYnE2cTV3WnQ2azcwZG9oampJTTJvQ01pR0ozOGUyVkI3Y0dIWWxmVlJqN3FSOVB3eE5JdDZNUGFiaA?oc=5" target="_blank" rel="noopener">中国银行董事长葛海蛟：中行对人工智能产业链金融资源投入已超7000亿元</a><p class="desc">中行对人工智能产业链金融资源投入已超7000亿元。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">TechCrunch</span><span class="sep">·</span><span class="time">2026-11-18</span></div><a class="title" href="https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/" target="_blank" rel="noopener">Daydream’s new AI agent acts as your personal stylist — and can shop for you, too</a><span class="trans"><b>中文翻译</b>Daydream 的新人工智能代理将充当您的私人造型师，还可以为您购物</span><p class="desc">Daydream推出AI个人造型师，可提供购物建议。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">经济观察网</span><span class="sep">·</span><span class="time">2026-11-17</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IOE5yOHBBTGFNMGU3MGRScjJMd2d4TTgxMThMQkNNdUdtOVRaRk50bloxSVg1eGNBTlV1bzhaSWRkbVVVemFKMjY0aUdvOGpGM0lDQnA2QUI?oc=5" target="_blank" rel="noopener">豆包工作上线“工作台”功能；阿里巴巴发布全新一代基座大模型Qwen4-Max</a><p class="desc">豆包工作推出“工作台”功能，阿里巴巴发布新一代基座大模型Qwen4-Max。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">虎嗅</span><span class="sep">·</span><span class="time">2026-11-17</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LdERvcnZpWU1vaU1YLUlKd1plSjRoN2Y4QzdGZVBBVTFNX1o3UlNxcmw3Z0VnYy1qRTJOdW5RMVhIejBxcElfSmxsWU5YdVNmaE9FNg?oc=5" target="_blank" rel="noopener">Anthropic与OpenAI推进AI个人财务服务，中国AI金融更强调持牌机构合作</a></div><div class="item"><div class="head"><span class="cdot" style="background:#2563eb"></span><span class="src">每日经济新闻</span><span class="sep">·</span><span class="time">2026-11-17</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwLXIxZVRhOGdTM19xRTdCSDU3QWg5M29uemNLNWYxUjBxVTlpRVhLRVVlWHlMUTRLZ0Q4TGFQQjU4empleUVHMC1hSGVZaFhSaVRrbk9sR2dFM0poTDc3Q1JmU2JCUQ?oc=5" target="_blank" rel="noopener">数字广东建设“十五五”规划：构建工业领域行业通识、知识语料库 打造工业大模型和智能体</a><p class="desc">广东省发布“十五五”规划，旨在构建工业领域知识库，打造工业大模型和智能体。</p></div></div>
+    </section><section class="section" id="sec-robotics" data-cat="robotics">
+      <div class="sec-head"><span class="bar" style="background:#7c3aed"></span><span class="ic">🤖</span>机器人<span class="n">7 条</span></div>
+      <div class="grid"><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">IT之家</span><span class="sep">·</span><span class="time">2026-11-17</span></div><a class="title" href="https://www.ithome.com/1/028/561.htm" target="_blank" rel="noopener">靠机器人缓解成本压力，通用汽车计划到 2028 年将北美工厂自动化规模提升 20%</a><p class="desc">通用汽车计划到2028年提升北美工厂自动化规模20%。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">中国经营网</span><span class="sep">·</span><span class="time">2026-11-17</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kdFVQdTBjYk1SV29YNmFReDlROWppNG1vY1A5TmhDaWg0WldMQzlfY1BzRHRXOVdncXNHc0x1MDNFVWNqM2JwZ3FQSkd2Q01oRk1LSk5oZVRqMU9LZHRBbDNR?oc=5" target="_blank" rel="noopener">星动纪元公布“人形机器人+物流分拣”进展：落地广东八城、效率超1500件/小时</a></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">36氪</span><span class="sep">·</span><span class="time">2026-11-17</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNQkxlOVIzVmdoS3dHSmV4RWV4Vk53Wlk5TzRQQVR3ZjRqUTNSSng0SjJqQllWaWkzVGo0SjA2Q1Y1b29jRlZKUlp6Ym5sRVo3?oc=5" target="_blank" rel="noopener">出海+机器人，小鹏在找车企困局的新出路-36氪</a><p class="desc">小鹏汽车通过拓展海外市场和布局机器人领域寻求车企发展新路径。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">每日经济新闻</span><span class="sep">·</span><span class="time">2026-11-17</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zSU43bklqUkFySmpZMzJUY1RTOF9mLTJKVGRnSDhiQkpZWDJNMG5RLVVPSHVEQktSQktNR2Z3bGJPRVFEMXZVX3RjMThaMHhCZUtXXzlMQ3A3a29sR0cwblRwNDZiQQ?oc=5" target="_blank" rel="noopener">一杯机器人制作的奶茶，一套AI全能报道助手：APEC探寻亚太普惠AI落地路径</a><p class="desc">APEC峰会展示AI应用，探讨亚太普惠AI落地路径。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">The Verge</span><span class="sep">·</span><span class="time">2026-11-18</span></div><a class="title" href="https://www.theverge.com/policy/1035869/whats-next-majority-democrats-conference-denver-jeffries" target="_blank" rel="noopener">Democrats try to figure out how not to get swept away by the blue wave</a><span class="trans"><b>中文翻译</b>民主党人试图找出如何不被蓝色浪潮席卷的方法</span><p class="desc">民主党寻求避免被蓝色浪潮淹没的策略。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">21财经</span><span class="sep">·</span><span class="time">2026-11-17</span></div><a class="title" href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPdUJTT3ZiTUZlSzNTdC1ybmtGVFFvTTlId0gzYjFLUEhKWFFXcUFpU3A4ODhBdVZMOGdzU2xJVjFFc2lfd1hyVVVYYUtSeDFhNVhUb0tkdVk3ZV90T2RKMTZMdldkcl9helpxaExaR0psVHR1ZzQ2V3gwaF8zdmE5VFBTT0NVMWhENWVlTXZkaw?oc=5" target="_blank" rel="noopener">李彦宏谈AI：最大价值在应用层，自动驾驶安全性或超人类10倍</a><p class="desc">李彦宏认为AI最大价值在应用层，自动驾驶安全性可能超人类10倍。</p></div><div class="item"><div class="head"><span class="cdot" style="background:#7c3aed"></span><span class="src">中国经营网</span><span class="sep">·</span><span class="time">2026-11-17</span></div><a class="title" href="https://news.google.com/rss/articles/CBMiYkFVX3lxTFBucW03cDZFc3ZCUHdmVndjWV9Za21XVjFYWVV0ZlZDX1VseG9hYlZkM19XMlVkbXhPRGNtRkR0NFBZRUg0ZkwybU1jVDF5dFEwOWQ3T08yX0FQSTBCaTN5RWRR?oc=5" target="_blank" rel="noopener">灵途科技B轮获基康技术投资 布局机器人近场感知</a></div></div>
+    </section>
+</div>
+<footer>数据来源：80+ 中英文科技与产业媒体（中文优先）· 自动生成于 2026/11/18 07:28:43（北京时间）</footer>
+<script>
+  (function(){
+    var tabs = Array.prototype.slice.call(document.querySelectorAll('.tab'));
+    var map = {}; tabs.forEach(function(t){ map[t.getAttribute('data-cat')] = t; });
+    var secs = Array.prototype.slice.call(document.querySelectorAll('.section'));
+    if(!secs.length || !('IntersectionObserver' in window)) return;
+    var obs = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){
+        if(en.isIntersecting){
+          var cat = en.target.getAttribute('data-cat');
+          tabs.forEach(function(x){ x.classList.remove('active'); });
+          if(map[cat]) map[cat].classList.add('active');
+        }
+      });
+    }, { rootMargin: '-72px 0px -55% 0px', threshold: 0 });
+    secs.forEach(function(s){ obs.observe(s); });
+  })();
+</script>
+</body>
+</html>
