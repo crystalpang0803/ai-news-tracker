@@ -1,27 +1,16 @@
 {
   "date": "2026-11-17",
-  "generatedAt": "2026-11-17T04:00:03.080Z",
+  "generatedAt": "2026-11-17T04:48:01.321Z",
   "items": [
     {
-      "title": "OpenAI 推出儿童性虐待内容检测工具，加强儿童网络安全防护",
-      "link": "https://www.ithome.com/1/028/066.htm",
-      "source": "IT之家",
+      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+      "link": "https://www.qbitai.com/2026/11/510486.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-17T01:49:31.000Z",
-      "summary": "OpenAI推出儿童性虐待内容检测工具，旨在加强网络安全防护。",
+      "pubDate": "2026-11-16T07:51:57.000Z",
+      "summary": "阿里发布Qwen4智能体，编程能力提升，支持真实场景应用。",
       "summaryZh": ""
-    },
-    {
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-16T17:00:00.000Z",
-      "summary": "OpenAI发布新图像分类器和ChatGPT警告，以应对儿童色情材料。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 发布新图像分类器和 ChatGPT 警告以对抗 CSAM"
     },
     {
       "title": "美国纳管AI算力远程获取，海外数据中心出租算力将须许可",
@@ -40,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-17T00:43:27.000Z",
-      "summary": "华为发布首个具身世界模型，国产算力训练，在评测中获双冠。",
+      "summary": "华为推出首个具身世界模型，国产算力训练，在评测中获双冠。",
       "summaryZh": ""
     },
     {
@@ -54,14 +43,13 @@
       "summaryZh": ""
     },
     {
-      "title": "财联社11月16日电，据报道，OpenAI曾探讨以50多亿美元收购一家解码AI“思维”方式的初创公司。",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkRktoY1RaQXRBU2ZhWktzZlV6a3FBOUZlUnltbGx1UUljbHNrb1lxVmxBZnNQdERFVlJpcmdOaDIxRHhpNTlWeg?oc=5",
-      "source": "财联社",
+      "title": "一财主播说| DeepSeek突然限额 大模型免费时代画上句号?",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kVDBzVmpHak91SjhtT3FVdDJvaWdOdEpHd3lfc19YSmIzQnRxNkVwR3ZBZnljeHNFMDF0anZlbzRaUHR2NEdSX01lWUlaMkMyTi13Ng?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-16T15:53:00.000Z",
-      "summary": "OpenAI曾考虑以50多亿美元收购一家AI思维解码初创公司。",
-      "summaryZh": ""
+      "pubDate": "2026-11-17T04:21:12.000Z",
+      "summary": ""
     },
     {
       "title": "AI芯片预期，被大幅下调",
@@ -92,23 +80,23 @@
       "summary": ""
     },
     {
-      "title": "福建：深化AI专业大模型在电网、发电、油气等行业深度应用，鼓励企业实施数字化升级",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wV0dDNUtTTHpUM2pMZmJxY3AyM2FqWkVzcWdWc1pJY3MzdGZLNmJ4UXVwYXV1NnZXUlpOZDktVWVCckVXUVphNUpzdjlGQmp3UUlaODhn?oc=5",
-      "source": "界面新闻",
+      "title": "PCB+AI服务器+先进封装！公司陶瓷混压HDI产品已实现小样生产，拟30亿投建AI算力服务器项目，后续计划加投70亿建高端HDI产业园",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OLXEwS1JyS0l5WGZiNnJWRjdnRkpvODlKenQxTm9WSlBiVXVWcTBwSVI3V0VieHlISjVoTHU5Y21VYXRHOFFvT3ZScmJCUHdqaHAxeXNwWDc?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-17T01:15:21.000Z",
-      "summary": "福建推动AI大模型在能源行业应用，助力企业数字化升级。",
+      "pubDate": "2026-11-16T14:09:00.000Z",
+      "summary": "公司陶瓷混压HDI产品小样生产完成，拟投建30亿AI算力服务器项目及70亿高端HDI产业园。",
       "summaryZh": ""
     },
     {
-      "title": "AI科研火热，离“ChatGPT时刻”还有多远？",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0waFQtMlUyTEdrVm1yWE5xeXVwSDVPQ1hBd0ItaHRRcy1WejBGTW9KNEdOeW51UmF3TFozOWg1dXJubFd0dlBJZmI3ZVJyUkJ5cldWVkUxczI?oc=5",
-      "source": "界面新闻",
+      "title": "OpenAI再签6年算力长约，AI云服务厂商持续斩获订单",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BREF2WUNwYWh5UzdielYzMzBzdlJfd0RiUE51N0todlQ0QjQybTJSSUpVelYxVUJJYk52Z1VGTmw4SHFWdzBZTlI4bm5nd2hndVo2WXJmVWdibU1iekhOdw?oc=5",
+      "source": "同花顺财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-17T03:42:41.000Z",
-      "summary": "AI科研加速，离ChatGPT独立科研尚远。",
+      "pubDate": "2026-11-17T01:38:20.000Z",
+      "summary": "OpenAI与TensorWave签署六年算力合约，AI云服务厂商订单持续增加。",
       "summaryZh": ""
     },
     {
@@ -122,64 +110,13 @@
       "summaryZh": ""
     },
     {
-      "title": "AI打开企业市场空间 业内人士：人形机器人会成为全球第一大行业",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCRjhFelY5b1NTVWxNeGdwN2o1VmpfbnVzX2NBSnIwMlhSLUpMNjNwVXBZbEt0eUd3SW5rMDlHOXlKMkJtcmJBaU9NdzNLUWxh?oc=5",
-      "source": "凤凰财经",
+      "title": "腾讯混元Hy4 Flash发布，科创人工智能ETF华夏（589010）盘中震荡调整",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxSG5Bc0ItenkzV3V1T25kOVF2c1R4cUhrVWxDcXdoRG9ZOW1kY0RaU1JHNkx5ZUFmY2s2bnQ5azEtNUIxZjY3VEZRbUVndnRIcTd1cjlhQzRLMjY5a1VSWGRR?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-17T02:35:51.000Z",
-      "summary": "人形机器人预计将超越汽车成为全球第一大行业。",
-      "summaryZh": ""
-    },
-    {
-      "title": "图集｜机器人时装秀开上海港城 人形机器人重现经典舞步",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94RjItTjRuNHdOTUZVNDAzYk9nYkxTSDRMQzRFYms2TE02UlBkcmFoenNiWGdGaHRvaXEzd090dzI0MFlDT2lUM0VnaHgwQzAycFhrM1VjeS1TeVVGdXl5Tg?oc=5",
-      "source": "财新网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-16T11:25:00.000Z",
-      "summary": "人形机器人在香港尖沙咀时装秀中重现经典舞步。",
-      "summaryZh": ""
-    },
-    {
-      "title": "北京发布具身智能机器人三年蓝图 京津冀整机产能瞄准全国四分之一",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1keHVMb1BRUUhJT3VGX0RiZVNNOXl5SENJOElWdWYxN1N2dUROTjJGZE9ITXhPa2RSRUpudFNIVGpPU2pRbHlnMUExS0c2SnhTWHVyYll0SVhJMTROLWhrNjFB?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-16T12:09:00.000Z",
+      "category": "ai",
+      "pubDate": "2026-11-16T13:06:03.000Z",
       "summary": ""
-    },
-    {
-      "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
-      "link": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-16T10:00:01.000Z",
-      "summary": "两天内发现28个机器人软件零日漏洞。",
-      "summaryZh": "",
-      "titleZh": "两天内发现 28 个零日漏洞。机器人安全是否跟上步伐？"
-    },
-    {
-      "title": "李彦宏谈AI：最大价值在应用层，自动驾驶安全性或超人类10倍",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdUJTT3ZiTUZlSzNTdC1ybmtGVFFvTTlId0gzYjFLUEhKWFFXcUFpU3A4ODhBdVZMOGdzU2xJVjFFc2lfd1hyVVVYYUtSeDFhNVhUb0tkdVk3ZV90T2RKMTZMdldkcl9helpxaExaR0psVHR1ZzQ2V3gwaF8zdmE5VFBTT0NVMWhENWVlTXZkaw?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-17T03:25:00.000Z",
-      "summary": "李彦宏认为AI最大价值在应用层，自动驾驶安全性或超人类10倍。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI Finds 28 Zero-Day Flaws In Physical Robotics Software",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2tpMGdtXzNMRndYX3lGRHBmOUV5ZFVwdUJnYlVvY1lIQi16MFM2dlRRS2JMRS1vVHJCeWRpQ1RKSG80dnBrM2ktUU01S2I1RU9CWVNGN2JLek9VbklReWlhZFM0UTFmSDZKd1dYdW85dmpmWFlaZ2ZrNWl4Q3BEYQ?oc=5",
-      "source": "IEEE Spectrum Robotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-16T10:02:36.000Z",
-      "summary": "",
-      "titleZh": "AI 在物理机器人软件中发现 28 个零日缺陷"
     },
     {
       "title": "《消费新主张》 20261116 AI养老新探索",
@@ -190,25 +127,6 @@
       "pubDate": "2026-11-16T12:20:00.000Z",
       "summary": "民政部等部门推动AI养老，市场涌现多样化适老化产品。",
       "summaryZh": ""
-    },
-    {
-      "title": "[消费新主张]百岁老人居家养老 AI守护智慧康养",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmYnZ6RUVBTDhoQ1FJQnZJRlVxc0xQMEhNUGVoVFBFNjZmTWx2VkhsdXhWWm9IN1U4YXZ6MDNqREN6cmNHZ0FiMV9fYlNwbjdxUjV6Y015bFpNelhQcDBLYUVZYmxjb044YUY4dS1OX3d4bUFUTEE?oc=5",
-      "source": "央视网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-16T13:58:00.000Z",
-      "summary": "百岁老人居家养老，AI技术助力智慧康养。",
-      "summaryZh": ""
-    },
-    {
-      "title": "会跳舞的跑车、陪散步的机器人：看APEC如何链接你的生活？",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKal9leERncW9wYUN5LXpiWk9mUEtjN2FZT1YxRmNnRko1OWUxWGdJLWtLT2drTzNuR3EySFhtTDFsQ1VsT0tZNmVLWk04dHIwUFZ2a0xuVlhsSUpzMzcwdWNzY1Q?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-17T01:39:00.000Z",
-      "summary": ""
     },
     {
       "title": "DHL Preps for Peak: 7,000 Workers & Robotics Growth",
@@ -228,7 +146,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-16T18:57:21.000Z",
-      "summary": "Richtech Robotics将在ISSA Show 2026展示其AI智能清洁系统。",
+      "summary": "Richtech Robotics将在ISSA Show 2026展示AI智能清洁系统。",
       "summaryZh": "",
       "titleZh": "Richtech Robotics 将在 ISSA Show 2026 上推出人工智能清洁系统"
     },
@@ -239,9 +157,30 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-16T17:14:13.000Z",
-      "summary": "机器人初创公司Foundation因创始人挪用资金购房导致资金链断裂，无法支付员工工资。",
+      "summary": "机器人初创公司Foundation因创始人挪用资金购房而陷入财务困境，无法支付员工工资。",
       "summaryZh": "",
       "titleZh": "埃里克·特朗普支持的机器人士兵初创公司创始人向公司借款 460 万美元买房后无法支付员工工资"
+    },
+    {
+      "title": "Meeting the Engineering Challenges of Humanoid Robot Design",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUTdEUmVtM1RicVV4ZUh5TDBJRE16V1RNek8ycEZEall5LVhmTUpZbHowWF9DMzNkQVRxWWl2bHg4TDlHQjhlSXpoZzYzejFNLUFvQURKVDQtNFFxVGgyU0lRRDlzSXFtTjZwWmdyd2VEb2d6OFNwLUJjT0lTajNVSHhPWDN3MVZmb29IOGFxUE42bUFyU2FoTWlNZ200RVBhT1V4bEVWMk9QQnZMRDU3cnR4emRLWHB6b0FXOGdxMllJcFRtd0Rr?oc=5",
+      "source": "Automation World",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-16T17:02:46.000Z",
+      "summary": "探索人形机器人设计中的工程挑战及解决方案。",
+      "summaryZh": "",
+      "titleZh": "应对人形机器人设计的工程挑战"
+    },
+    {
+      "title": "[消费新主张]AI适老产品集中亮相 AI康养前景广阔",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ENmt5ekpSdlE3am94RWtzZGJ1UFp2SVNOTVpCVThuVnZ6dGMtZWlzY1RNOGlHYWpfdS1fSEdDU05tdE5ER1NMQjhfTEZWMWVfUnFQXzRmQlN0b0tsRDE2eEhnMzRmSlYxamM0bVJ2ZG5KcldReHc?oc=5",
+      "source": "央视网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-16T14:02:00.000Z",
+      "summary": "AI适老产品亮相，康养市场潜力巨大。",
+      "summaryZh": ""
     }
   ]
 }
