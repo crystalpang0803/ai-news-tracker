@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generatedAt": "2026-11-17T02:36:53.808Z",
+  "generatedAt": "2026-11-17T04:00:03.080Z",
   "items": [
     {
       "title": "OpenAI 推出儿童性虐待内容检测工具，加强儿童网络安全防护",
@@ -9,17 +9,28 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-17T01:49:31.000Z",
-      "summary": "OpenAI发布CSAM检测工具，旨在提升儿童网络安全。",
+      "summary": "OpenAI推出儿童性虐待内容检测工具，旨在加强网络安全防护。",
       "summaryZh": ""
     },
     {
-      "title": "英特尔 350W 新卡 D270 亮剑，金融算力较英伟达 600W 加速卡飙升 5.9 倍",
-      "link": "https://www.ithome.com/1/027/972.htm",
-      "source": "IT之家",
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-16T17:00:00.000Z",
+      "summary": "OpenAI发布新图像分类器和ChatGPT警告，以应对儿童色情材料。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 发布新图像分类器和 ChatGPT 警告以对抗 CSAM"
+    },
+    {
+      "title": "美国纳管AI算力远程获取，海外数据中心出租算力将须许可",
+      "link": "https://www.tmtpost.com/8207829.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-17T00:06:31.000Z",
-      "summary": "英特尔D270新卡金融算力超英伟达600W加速卡5.9倍。",
+      "pubDate": "2026-11-17T03:32:00.000Z",
+      "summary": "美国将管制AI算力远程获取，海外数据中心出租算力需许可。",
       "summaryZh": ""
     },
     {
@@ -43,32 +54,92 @@
       "summaryZh": ""
     },
     {
-      "title": "PCB+AI服务器+先进封装！公司陶瓷混压HDI产品已实现小样生产，拟30亿投建AI算力服务器项目，后续计划加投70亿建高端HDI产业园",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OLXEwS1JyS0l5WGZiNnJWRjdnRkpvODlKenQxTm9WSlBiVXVWcTBwSVI3V0VieHlISjVoTHU5Y21VYXRHOFFvT3ZScmJCUHdqaHAxeXNwWDc?oc=5",
-      "source": "第一财经",
+      "title": "财联社11月16日电，据报道，OpenAI曾探讨以50多亿美元收购一家解码AI“思维”方式的初创公司。",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkRktoY1RaQXRBU2ZhWktzZlV6a3FBOUZlUnltbGx1UUljbHNrb1lxVmxBZnNQdERFVlJpcmdOaDIxRHhpNTlWeg?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-16T14:09:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "OpenAI再签6年算力长约，AI云服务厂商持续斩获订单",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BREF2WUNwYWh5UzdielYzMzBzdlJfd0RiUE51N0todlQ0QjQybTJSSUpVelYxVUJJYk52Z1VGTmw4SHFWdzBZTlI4bm5nd2hndVo2WXJmVWdibU1iekhOdw?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-17T01:38:20.000Z",
-      "summary": "OpenAI与TensorWave签署六年算力合约，AI云服务厂商订单持续增加。",
+      "pubDate": "2026-11-16T15:53:00.000Z",
+      "summary": "OpenAI曾考虑以50多亿美元收购一家AI思维解码初创公司。",
       "summaryZh": ""
     },
     {
-      "title": "人形机器人爆火背后，物理AI如何突围？",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uRlM1N05zcGNORy1MS2JRWG92ckZQUmJfazBYR3BJNzJvdndWTTQxRVRrakkxLVUtOVl4SHdqd1daTTQza3lia1JoMXRlSFRLb2VSam5WTzN1QUNmTkNvd1dHV1VTa0p3S3UwWk5Qa1REZw?oc=5",
-      "source": "新浪财经",
+      "title": "AI芯片预期，被大幅下调",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yUTA4ZHRNU1hKOFl0RnRDbW5EU011UnVidlc4b0VaQk5aem9zcEVBRUdSaS1qd1VQazF1UWFVTUxEVldyVUg2Z3BLajZHdw?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-16T09:41:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "SemiAnalysis大幅下修AI算力预测：2028年资本开支预测下调近三成，五年硅片出货面积下调17%-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2QnpaVTIydDB6ZHN4WWhRM2V3MEl4dWlTZ1BxbHZYZ3E3QW9Sb0RZWnFJOWJiTWVvTXdQcnZSYW9tYk01c2stVzZfbEdtMURLSjJiejFOWnc1bGtodUE?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-16T12:35:02.000Z",
+      "summary": "SemiAnalysis下调AI算力预测，2028年资本开支预测下调近三成。",
+      "summaryZh": ""
+    },
+    {
+      "title": "欧洲央行副行长警告：人工智能估值过高及公共债务高企威胁金融稳定",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ab3hwNlNMRW1Hb18yMFMxRkRJRDdFbVgtOWdSSGtjenBURTVnLXJBX2lHRDFuazhXUWczQkxvVmp2cG5CandIVXR0WTNiUlQ3LWwzOUlLT1VxUQ?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-16T08:36:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "福建：深化AI专业大模型在电网、发电、油气等行业深度应用，鼓励企业实施数字化升级",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wV0dDNUtTTHpUM2pMZmJxY3AyM2FqWkVzcWdWc1pJY3MzdGZLNmJ4UXVwYXV1NnZXUlpOZDktVWVCckVXUVphNUpzdjlGQmp3UUlaODhn?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-17T01:15:21.000Z",
+      "summary": "福建推动AI大模型在能源行业应用，助力企业数字化升级。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI科研火热，离“ChatGPT时刻”还有多远？",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0waFQtMlUyTEdrVm1yWE5xeXVwSDVPQ1hBd0ItaHRRcy1WejBGTW9KNEdOeW51UmF3TFozOWg1dXJubFd0dlBJZmI3ZVJyUkJ5cldWVkUxczI?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-17T03:42:41.000Z",
+      "summary": "AI科研加速，离ChatGPT独立科研尚远。",
+      "summaryZh": ""
+    },
+    {
+      "title": "我国自研大型运投无人机“长鹰-8”完成运输投送试验，能装 3.5 吨货的“空中重卡”",
+      "link": "https://www.ithome.com/1/028/105.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-16T09:46:06.000Z",
-      "summary": ""
+      "pubDate": "2026-11-17T02:49:21.000Z",
+      "summary": "我国自研大型运投无人机“长鹰-8”完成运输投送试验，载重3.5吨。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI打开企业市场空间 业内人士：人形机器人会成为全球第一大行业",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCRjhFelY5b1NTVWxNeGdwN2o1VmpfbnVzX2NBSnIwMlhSLUpMNjNwVXBZbEt0eUd3SW5rMDlHOXlKMkJtcmJBaU9NdzNLUWxh?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-17T02:35:51.000Z",
+      "summary": "人形机器人预计将超越汽车成为全球第一大行业。",
+      "summaryZh": ""
+    },
+    {
+      "title": "图集｜机器人时装秀开上海港城 人形机器人重现经典舞步",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94RjItTjRuNHdOTUZVNDAzYk9nYkxTSDRMQzRFYms2TE02UlBkcmFoenNiWGdGaHRvaXEzd090dzI0MFlDT2lUM0VnaHgwQzAycFhrM1VjeS1TeVVGdXl5Tg?oc=5",
+      "source": "财新网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-16T11:25:00.000Z",
+      "summary": "人形机器人在香港尖沙咀时装秀中重现经典舞步。",
+      "summaryZh": ""
     },
     {
       "title": "北京发布具身智能机器人三年蓝图 京津冀整机产能瞄准全国四分之一",
@@ -77,8 +148,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-16T12:09:00.000Z",
-      "summary": "北京发布三年蓝图，京津冀机器人产能目标全国四分之一。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
@@ -92,24 +162,13 @@
       "titleZh": "两天内发现 28 个零日漏洞。机器人安全是否跟上步伐？"
     },
     {
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-16T17:02:43.000Z",
-      "summary": "OpenAI将引入外部安全研究员调查AI颠覆风险。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 将聘请安全研究人员调查 AI 颠覆"
-    },
-    {
-      "title": "巨星传奇牵手权志龙经纪公司，AI机器人业务再扩容",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zUldsQzhQZWI3aDBibDY2Q1dYSnZ2bTF4ZDFoRE1HTFZnTkxWb0w5S2tmcFhXcEJoeGZCUlc5NkowclhKVWw1RGdsUWV2VkVZQWh4WHZHb0RjenFzZ19ESm9jYmE?oc=5",
-      "source": "新京报",
+      "title": "李彦宏谈AI：最大价值在应用层，自动驾驶安全性或超人类10倍",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdUJTT3ZiTUZlSzNTdC1ybmtGVFFvTTlId0gzYjFLUEhKWFFXcUFpU3A4ODhBdVZMOGdzU2xJVjFFc2lfd1hyVVVYYUtSeDFhNVhUb0tkdVk3ZV90T2RKMTZMdldkcl9helpxaExaR0psVHR1ZzQ2V3gwaF8zdmE5VFBTT0NVMWhENWVlTXZkaw?oc=5",
+      "source": "21财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-16T11:08:00.000Z",
-      "summary": "巨星传奇与权志龙经纪公司合作，AI机器人业务拓展。",
+      "pubDate": "2026-11-17T03:25:00.000Z",
+      "summary": "李彦宏认为AI最大价值在应用层，自动驾驶安全性或超人类10倍。",
       "summaryZh": ""
     },
     {
@@ -123,33 +182,33 @@
       "titleZh": "AI 在物理机器人软件中发现 28 个零日缺陷"
     },
     {
-      "title": "亚马逊阻止Meta购物助手Muse接入，沃尔玛推出Agent Gateway开放AI代理购物",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SY09mTlIzanVZY3Y3bElyeGc3VW96OEtiZVB1Q2EtZnN1VUZXaTZFNmY4RFVzY29OTlFFNHJEVHFZNnRhelp2WGw0VWFtRjFnVVFfSg?oc=5",
-      "source": "虎嗅",
+      "title": "《消费新主张》 20261116 AI养老新探索",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EZ1FUQkhkamlNVVI3amZ3b3lSLVhFUlBoWlRneWtwWDJvY0xtSXlZaTIzclcyNF9vVExTSGticDFZY2RVempZanJoenB6dnFGbDhpUlFnd2M1WnprdGFNUThQaVA0WXRyc29HMEJLSFhYZzZfeGc?oc=5",
+      "source": "央视网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-16T11:13:19.000Z",
-      "summary": "亚马逊限制Meta购物助手接入，沃尔玛推出AI代理购物平台。",
+      "category": "application",
+      "pubDate": "2026-11-16T12:20:00.000Z",
+      "summary": "民政部等部门推动AI养老，市场涌现多样化适老化产品。",
       "summaryZh": ""
     },
     {
-      "title": "美国BIS发布临时最终规则，全面封堵中企获取境外先进AI算力路径",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zTTFCOElaNGRMVlYxQ296S1ZnYkwyV0RYbXVkY3dUOE5IY0djTjAwaG9rWEJ4UDJvRE12UFo2YlkzZUdSMF95QWhEV1cyV2xyVXNLZw?oc=5",
-      "source": "虎嗅",
+      "title": "[消费新主张]百岁老人居家养老 AI守护智慧康养",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmYnZ6RUVBTDhoQ1FJQnZJRlVxc0xQMEhNUGVoVFBFNjZmTWx2VkhsdXhWWm9IN1U4YXZ6MDNqREN6cmNHZ0FiMV9fYlNwbjdxUjV6Y015bFpNelhQcDBLYUVZYmxjb044YUY4dS1OX3d4bUFUTEE?oc=5",
+      "source": "央视网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-17T00:33:06.000Z",
+      "category": "application",
+      "pubDate": "2026-11-16T13:58:00.000Z",
+      "summary": "百岁老人居家养老，AI技术助力智慧康养。",
+      "summaryZh": ""
+    },
+    {
+      "title": "会跳舞的跑车、陪散步的机器人：看APEC如何链接你的生活？",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKal9leERncW9wYUN5LXpiWk9mUEtjN2FZT1YxRmNnRko1OWUxWGdJLWtLT2drTzNuR3EySFhtTDFsQ1VsT0tZNmVLWk04dHIwUFZ2a0xuVlhsSUpzMzcwdWNzY1Q?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-17T01:39:00.000Z",
       "summary": ""
-    },
-    {
-      "title": "中信建投：物理AI是人工智能下一波浪潮 建议聚焦优质环节",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80ZE1UOHEtajB2ZmdLcUlTN2x0ZFFlU2xHb20wSWhIU21nRi05Tk9Nc1czbk9sMl9VaEdRMkFtTmZfQVhNczY4QkxISUwwTlFFcHpJ?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-17T00:04:04.000Z",
-      "summary": "中信建投看好物理AI发展，建议投资者关注相关优质环节。",
-      "summaryZh": ""
     },
     {
       "title": "DHL Preps for Peak: 7,000 Workers & Robotics Growth",
@@ -158,7 +217,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-16T20:40:31.000Z",
-      "summary": "DHL计划在高峰期增加7000名员工和扩大机器人应用。",
+      "summary": "DHL计划在高峰期增加7000名员工并扩大机器人应用。",
       "summaryZh": "",
       "titleZh": "DHL 为高峰做好准备：7,000 名工人和机器人增长"
     },
