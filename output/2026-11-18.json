@@ -1,15 +1,45 @@
 {
   "date": "2026-11-18",
-  "generatedAt": "2026-11-18T07:36:08.203Z",
+  "generatedAt": "2026-11-18T12:12:11.143Z",
   "items": [
     {
-      "title": "Pulsar 发布 X2 CrazyLight 2 鼠标：延续低矮宽大对称设计，升级 XS-2 传感器",
-      "link": "https://www.ithome.com/1/028/774.htm",
+      "title": "智元王闯：会干活才是人形机器人的真本事，长隆具身智能乐园已部署近 500 台机器人",
+      "link": "https://www.ithome.com/1/028/996.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-18T05:52:19.000Z",
-      "summary": "Pulsar发布X2 CrazyLight 2鼠标，升级XS-2传感器，售价849元。",
+      "pubDate": "2026-11-18T10:07:11.000Z",
+      "summary": "长隆具身智能乐园部署近500台机器人，智元强调机器人需会干活。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI掏出GPT‑6.2 Astra：“史上最会做PPT的大模型”！",
+      "link": "https://zhidx.com/p/611628.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-18T00:43:58.000Z",
+      "summary": "OpenAI发布GPT-6.2 Astra和Sol模型，在PPT制作等任务上表现优异。",
+      "summaryZh": ""
+    },
+    {
+      "title": "美团“无人机外卖”加速出海，索降版航线落地迪拜",
+      "link": "https://www.ithome.com/1/029/014.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-18T10:44:51.000Z",
+      "summary": "美团无人机索降版航线在迪拜正式投入使用。",
+      "summaryZh": ""
+    },
+    {
+      "title": "第一批打工的人形机器人，有的已经失业了",
+      "link": "https://www.tmtpost.com/8209375.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-18T09:51:37.000Z",
+      "summary": "人形机器人因工作失误在便利店被淘汰。",
       "summaryZh": ""
     },
     {
@@ -24,23 +54,24 @@
       "titleZh": "Proton 的 Lumo 是 ChatGPT 和 Claude 的注重隐私的替代品，现已登陆桌面"
     },
     {
-      "title": "董明珠 APEC 现场求合作，称格力研发机器人十几年了",
-      "link": "https://www.ithome.com/1/028/713.htm",
-      "source": "IT之家",
+      "title": "Claude关联计费测试上线，第三方应用AI消费能“按需结算”",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xTm9yUDdUUzMwWXFzRGtfWTJwVzFTUXV1Y0VhMF9RV2pqZ2pjemZ4MFNpSzBGeVZ1WE9JR2NZOENHSDlnYS1CTVd2algxUU42Q2FJbEpOMDRxdw?oc=5",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-18T05:11:00.000Z",
-      "summary": "董明珠在APEC峰会寻求机器人领域合作，称格力研发机器人已十几年。",
+      "category": "ai",
+      "pubDate": "2026-11-18T04:02:00.000Z",
+      "summary": "Claude平台推出关联计费测试，第三方AI应用消费可按需结算。",
       "summaryZh": ""
     },
     {
-      "title": "星动纪元公布“人形机器人+物流分拣”进展：落地广东八城、效率超1500件/小时",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kdFVQdTBjYk1SV29YNmFReDlROWppNG1vY1A5TmhDaWg0WldMQzlfY1BzRHRXOVdncXNHc0x1MDNFVWNqM2JwZ3FQSkd2Q01oRk1LSk5oZVRqMU9LZHRBbDNR?oc=5",
-      "source": "中国经营网",
+      "title": "AI算力回暖！算力租赁领涨吸金，光模块龙头活跃，创业板人工智能ETF(159363)标的指数低位反弹近2%",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5QkxTcTMyQlM0a1VQVjdMczJLamhBY3NwaWVVVG1CZ0trZjlpTDV5amh2X0NBX0xEMTRuMDl3akM1SkZJZm5XNXdmQmNrZWdVeWxuUndmejc?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-17T09:05:00.000Z",
-      "summary": ""
+      "category": "ai",
+      "pubDate": "2026-11-18T09:42:54.000Z",
+      "summary": "AI算力回暖，算力租赁领涨，创业板人工智能ETF指数低位反弹近2%。",
+      "summaryZh": ""
     },
     {
       "title": "大模型带动计算机视觉市场增长，创新奇智稳居中国市场份额第三",
@@ -49,27 +80,37 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-18T06:45:25.000Z",
-      "summary": "创新奇智稳居中国计算机视觉市场份额第三，大模型技术推动市场增长。",
+      "summary": "创新奇智稳居中国计算机视觉市场份额第三，大模型技术助力市场增长。",
       "summaryZh": ""
     },
     {
-      "title": "Astra让机器人开发提速100倍！万字对谈英伟达机器人负责人",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBEanEwMW1CR0MyeEFtQmJGVG55SUNpcFFlVjcycUxUZk5kcUl4SDZuaWZGalhHVzFxWmdoQ1M1d1dFRHJOcHNBeg?oc=5",
-      "source": "智东西",
+      "title": "微软推自研模型，正面挑战OpenAI与Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96YWdyblUzZllrMklLUFFPTGoyWWg3TEFCM2Vmd3JKb3QxWmc5YmVKVWw1UHhXbXp4Y2ZKRWgwUUZ0YkRkd0l3WkNDVk1QcWh5Ul9R?oc=5",
+      "source": "第一财经",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-17T10:44:12.000Z",
-      "summary": "英伟达Astra技术大幅提升机器人开发效率。",
+      "category": "ai",
+      "pubDate": "2026-11-18T03:46:10.000Z",
+      "summary": "微软推出自研模型MAI Code 2与MAI Code 2 Flash，挑战OpenAI与Anthropic。",
       "summaryZh": ""
     },
     {
-      "title": "融资33亿！英伟达、AMD，投出估值230亿机器人独角兽",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82a1l6V2VfWjhaeWxXbTNlTkdPaWN4ZXNaNDFqaDBfQTZhQjVzSHlDYW1yYXBlend0NVV1T1BzYml3aE4zVGFEaA?oc=5",
-      "source": "智东西",
+      "title": "品高股份：品原AI一体机已支持DeepSeek-V4-Flash、MiniMax-H3等多款国产主流大模型的本地部署和推理",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TU2kyTnZRZ2NIUFFnRzFxOE1zaktHZWdsWXRoeWFtQXlWM0dHbm80Y0ZJQTJKczd6dGlCcmd0SjBMQWQxT2NsMmp2Y25idTVVVnlETy1OMFRzNlFqM182eW5ucFF5ZjZm?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-18T09:38:24.000Z",
+      "summary": "品高股份品原AI一体机支持多款国产大模型本地部署和推理。",
+      "summaryZh": ""
+    },
+    {
+      "title": "一财主播说丨韩娱公司将推机器人女团 粉丝会愿意为“赛博女团”买单吗？",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MVDlUYWQzR3hKaEpKWkJCd0dWSHVWR0t0cUdUdmh3VXl1bHhmLXJKM2p0d2hRNDAtWGtqdU9lVTlsZGF4eVFndHlLaVYwRzY2NkR4Vw?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-18T01:16:27.000Z",
-      "summary": "英伟达、AMD等投资33亿，助力机器人独角兽估值达230亿。",
+      "pubDate": "2026-11-18T07:16:42.000Z",
+      "summary": "韩国将推机器人女团，探索K-pop演艺新模式。",
       "summaryZh": ""
     },
     {
@@ -79,7 +120,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-17T16:16:22.000Z",
-      "summary": "科技企业家探讨AI与机器人发展，聚焦应用层落地与产业规模。",
+      "summary": "科技企业家在深圳APEC峰会探讨AI与机器人未来，聚焦应用层落地与智能组织构建。",
       "summaryZh": ""
     },
     {
@@ -93,75 +134,25 @@
       "summaryZh": ""
     },
     {
-      "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
-      "link": "https://www.qbitai.com/2026/11/510707.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-18T00:49:14.000Z",
-      "summary": "OpenAI发布GPT-6.2 Astra和Sol，Astra在3D生成领域登顶。",
-      "summaryZh": ""
-    },
-    {
-      "title": "宇树科技创始人王兴兴：AI与机器人进展惊人 算力需求将远超想象",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fODJId2VwR25tQWRxUk1oNm9qb3pkUE1SUTk3V3dXOUtHU2dwdXdsQVR5bnRyQnBYcmFSLWo0WjNlQ2t5ZUNNVURQNGtBdFBPSk1MZQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-17T08:12:00.000Z",
-      "summary": "宇树科技创始人王兴兴称AI与机器人进展惊人，算力需求将远超想象。",
-      "summaryZh": ""
-    },
-    {
-      "title": "英伟达财报大超预期，大摩：中国AI市场正进入商业化阶段，人工智能ETF华富(515980)标的指数午后翻红",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nWFZmU1NTQkF4dWI2TTdPVUZvLUJKVzhWaVhHZndMYzA4V0ZHc0lYV0V4TDhMWWVJQ0RhVlJhRjdnajRubkxkYkFTNzRhUnBpWk1FQ2pxalA?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-18T05:20:00.000Z",
-      "summary": "英伟达财报超预期，大摩看好中国AI商业化，人工智能ETF华富指数午后上涨。",
-      "summaryZh": ""
-    },
-    {
-      "title": "中国银行董事长葛海蛟：中行对人工智能产业链金融资源投入已超7000亿元",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYNW1yamVNYnE2cTV3WnQ2azcwZG9oampJTTJvQ01pR0ozOGUyVkI3Y0dIWWxmVlJqN3FSOVB3eE5JdDZNUGFiaA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-17T10:09:07.000Z",
-      "summary": "中行对人工智能产业链金融资源投入已超7000亿元。",
-      "summaryZh": ""
-    },
-    {
       "title": "一杯机器人制作的奶茶，一套AI全能报道助手：APEC探寻亚太普惠AI落地路径",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zSU43bklqUkFySmpZMzJUY1RTOF9mLTJKVGRnSDhiQkpZWDJNMG5RLVVPSHVEQktSQktNR2Z3bGJPRVFEMXZVX3RjMThaMHhCZUtXXzlMQ3A3a29sR0cwblRwNDZiQQ?oc=5",
       "source": "每日经济新闻",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-17T12:30:00.000Z",
-      "summary": "APEC峰会探讨亚太地区AI普惠落地，展示AI在新闻和餐饮领域的应用。",
+      "summary": "APEC峰会展示AI应用，探讨亚太普惠AI落地路径。",
       "summaryZh": ""
     },
     {
-      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-      "source": "TechCrunch",
+      "title": "OpenAI releases its updated GPT-6.2 Astra model.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV25RSG42aGpTMVZ6VVdFMmZqTjNJbnJpdGJMMjZiNVpFM3Ezc2RkYVU0b1FiTHdWSTNyZndteVBwN3hHRU5teGc1QzZzbVh4NzZ4MEo4LTI4a2llZ1cxVVpQeTY5bmg2NTQteE55ZzdGZ3Y5Uk1DWUpZNjlCSm91YmlveTdnTnBFSDlpMXJ3?oc=5",
+      "source": "The Verge",
       "lang": "en",
       "category": "ai",
-      "pubDate": "2026-11-17T16:32:55.000Z",
-      "summary": "Daydream推出AI个人造型师，可虚拟试衣和购物推荐。",
+      "pubDate": "2026-11-17T17:45:00.000Z",
+      "summary": "OpenAI发布更新版GPT-6.2 Astra模型，提升文档和编程能力。",
       "summaryZh": "",
-      "titleZh": "Daydream 的新人工智能代理将充当您的私人造型师，还可以为您购物"
-    },
-    {
-      "title": "从“听懂”到“做到”，物理AI如何破解机器人落地难题？",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvNElmbHN4R1h5SzN4QTg5R3VQSWlwLWl3REswZlZ5VXl6bWdDbklGQndjQUwyNEo2XzFMUmVMQi16TC1wV2hBVGZMQjYyeUlENXJjbXJUWllzMXgyblhMMDJvZUlENTdPNG55d2puN3I?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-18T01:50:31.000Z",
-      "summary": "物理AI技术助力机器人从理解指令到完成动作，解决落地难题。",
-      "summaryZh": ""
+      "titleZh": "OpenAI 发布了更新的 GPT-6.2 Astra 模型。"
     },
     {
       "title": "广和通推进平台型模组落地 机器人视觉方案实现量产交付",
@@ -170,29 +161,29 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-18T01:46:00.000Z",
-      "summary": "广和通机器人视觉方案实现量产交付，模组产品升级及机器人业务落地。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
-      "title": "Learn how AI is changing supply chain robotics",
-      "link": "https://www.therobotreport.com/learn-how-ai-is-changing-supply-chain-robotics/",
-      "source": "The Robot Report",
+      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "source": "TechCrunch",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-17T19:58:18.000Z",
-      "summary": "人工智能技术正推动供应链机器人领域快速发展。",
+      "pubDate": "2026-11-18T11:30:00.000Z",
+      "summary": "印度Humyn Labs获4700万美元融资，为美国机器人公司提供训练数据。",
       "summaryZh": "",
-      "titleZh": "了解人工智能如何改变供应链机器人"
+      "titleZh": "印度 Humyn Labs 融资 4700 万美元，为美国机器人公司提供所需数据"
     },
     {
-      "title": "雷军：AI走向物理世界将带来巨大机会，具身智能机器人想象力或超汽车产业",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YM29aZEJubGZ3T09rRG1FWS1IVEVBUEZobktYY3c1bV9WSFRBU1lSSmlWRmpuZTBNUkZKVFllTFdWZU44WWZub1h0STR2SlBrNG50OU15Yjg1VWpYWjlPbQ?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-17T08:47:41.000Z",
-      "summary": "雷军认为AI走向物理世界将带来巨大机会，具身智能机器人潜力超汽车产业。",
-      "summaryZh": ""
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWWU3aGFiSEZaZy1MSTBMN2J0eVZjQWRCSGhXVGhUQ0Ffdmp0X3R2UDFzVnV4VU5tVHlBbVBFeTR5VGFVRG5Bbm1qeHIxbXpYQ2FBWnZ3MVJCUU4ySnRIcWJIeUJQZGQtVFlpVF9MX0NZUQ?oc=5",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-17T18:58:01.000Z",
+      "summary": "Google推出免费AI助手“Tasks”。",
+      "summaryZh": "",
+      "titleZh": "谷歌的 Spark AI 代理变成了“任务”——现在它是免费的"
     },
     {
       "title": "合作供应链AI与物流机器人 菜鸟牵手越南邮政",
@@ -201,16 +192,29 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-17T20:24:39.000Z",
-      "summary": ""
+      "summary": "菜鸟与越南邮政达成战略合作，共同推进物流数字化和自动化升级。",
+      "summaryZh": ""
     },
     {
-      "title": "[正点财经]用AI制定旅游攻略：需求提充分 核实不能少",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPczAtM19lcEF4bmNtMWwxZXpaSmZxVWxfTVR5UDBwX2RCbE54RDdHWEpWaUpHSlhhVkU5VHBvdV9mVHJ6ck9JMElpUzJINUYyd20xdkxlNmlMWVcyZlBTTVJLQVRYVm1vTGlMWG84XzVqLVI0OEUwYTZXakg5aUQ5NENaQS1YcWFkZ1duNFlaeEV2T1h5cXFF?oc=5",
-      "source": "央视网",
+      "title": "优必选张钜：机器人企业必须在工厂实际场景中学习",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WRGpHTlMzNzQ1UGtOWDBhVU1VUUQ1c0cteC1ZV2NEZTJaQ0JwMWhUZWM3VmI4QjBBZ3A5aVVONHFES09Nc2xPMzFWemJzb01oVlFST1lUN3JxYms0WERTNg?oc=5",
+      "source": "财新网",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-17T10:27:46.000Z",
-      "summary": ""
+      "category": "robotics",
+      "pubDate": "2026-11-17T23:06:00.000Z",
+      "summary": "优必选张钜强调机器人企业需在工厂实际场景中学习以提升技术。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Boston Dynamics’ Atlas humanoid lands first non-automotive trial",
+      "link": "https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-17T14:49:05.000Z",
+      "summary": "Boston Dynamics Atlas人形机器人首次在非汽车行业进行试用。",
+      "summaryZh": "",
+      "titleZh": "波士顿动力公司的 Atlas 人形机器人首次进行非汽车试验"
     }
   ]
 }
