@@ -1,38 +1,7 @@
 {
   "date": "2026-11-18",
-  "generatedAt": "2026-11-17T23:28:43.372Z",
+  "generatedAt": "2026-11-18T00:54:25.846Z",
   "items": [
-    {
-      "title": "Anthropic 上市前夕 OpenAI 空降双模型 GPT-6.2 Astra 和 Sol：部分领域超越 Fable 5.2 且成本大降，金融、科研刷新纪录",
-      "link": "https://www.ithome.com/1/028/577.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-17T22:23:42.000Z",
-      "summary": "OpenAI发布GPT-6.2 Astra和Sol模型，部分性能超越Fable 5.2，成本大幅降低。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-17T17:32:25.000Z",
-      "summary": "Proton推出隐私优先的AI应用Lumo，支持Windows、macOS和Linux操作系统。",
-      "summaryZh": "",
-      "titleZh": "Proton 的 Lumo 是 ChatGPT 和 Claude 的注重隐私的替代品，现已登陆桌面"
-    },
-    {
-      "title": "靠机器人缓解成本压力，通用汽车计划到 2028 年将北美工厂自动化规模提升 20%",
-      "link": "https://www.ithome.com/1/028/561.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-17T15:12:11.000Z",
-      "summary": "通用汽车计划到2028年提升北美工厂自动化规模20%。",
-      "summaryZh": ""
-    },
     {
       "title": "星动纪元公布“人形机器人+物流分拣”进展：落地广东八城、效率超1500件/小时",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kdFVQdTBjYk1SV29YNmFReDlROWppNG1vY1A5TmhDaWg0WldMQzlfY1BzRHRXOVdncXNHc0x1MDNFVWNqM2JwZ3FQSkd2Q01oRk1LSk5oZVRqMU9LZHRBbDNR?oc=5",
@@ -43,13 +12,64 @@
       "summary": ""
     },
     {
-      "title": "出海+机器人，小鹏在找车企困局的新出路-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNQkxlOVIzVmdoS3dHSmV4RWV4Vk53Wlk5TzRQQVR3ZjRqUTNSSng0SjJqQllWaWkzVGo0SjA2Q1Y1b29jRlZKUlp6Ym5sRVo3?oc=5",
-      "source": "36氪",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-17T17:32:25.000Z",
+      "summary": "Proton推出隐私优先的AI应用Lumo，支持桌面操作。",
+      "summaryZh": "",
+      "titleZh": "Proton 的 Lumo 是 ChatGPT 和 Claude 的注重隐私的替代品，现已登陆桌面"
+    },
+    {
+      "title": "OpenAI推出新的Astra AI模型",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51X1AzOWJMUmpfRVp3Sng0YWZnRXhmbllXYUlCZ1hlbjFRME9oUDVnSnUzMWxXdXpwX1R4dGdpRzlCalI5R3c?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-17T01:45:00.000Z",
+      "summary": "OpenAI发布新Astra AI模型，GPT-6.2 Astra面向Plus、Pro、Enterprise和Edu用户开放。",
+      "summaryZh": ""
+    },
+    {
+      "title": "渐进式智造升级，为什么可以从一台机器人开始？",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrM2JZTHVkd0xCbTZaM0VfTXRVY3dFQ1dkX2JINk00T3FhQmRYMEZfQkEwdllBNGgzdlI5QXZEalBUcXZNZHNqLQ?oc=5",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-17T09:11:29.000Z",
-      "summary": "小鹏汽车通过拓展海外市场和布局机器人领域寻求车企发展新路径。",
+      "pubDate": "2026-11-17T11:59:42.000Z",
+      "summary": "一台单体智能机器人可满足中小场景物流搬运需求。",
+      "summaryZh": ""
+    },
+    {
+      "title": "雷军APEC谈AI：下一步是走进物理世界，小米机器人已完成连续8小时作业",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56TTBwWUdQTlhueEtDRlY1TVZhWlMzNmlvTUpvd2ZHVWZFWGNYODdWSjFOYXJPU3NIZEkwc1JOSXBGZmIxRFZVRTJjZTVnX3ZlX0t2czFWbGI?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-17T13:43:55.000Z",
+      "summary": "雷军APEC峰会谈AI，小米机器人完成连续8小时作业。",
+      "summaryZh": ""
+    },
+    {
+      "title": "雷军、李彦宏、王兴兴、曾毓群等齐聚，再谈AI与机器人未来",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBIWXZvR2JqWGxUQ1Y0VkpWd1NOOG1RYks0b3U3a19HdzRtYkhKSG1mYVNMaE5hSVVRYXEwQlJTMXJzTGpWcFE?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-17T16:16:22.000Z",
+      "summary": "科技企业家在深圳APEC峰会探讨AI与机器人未来，聚焦应用层落地与产业规模。",
+      "summaryZh": ""
+    },
+    {
+      "title": "一杯机器人制作的奶茶，一套AI全能报道助手：APEC探寻亚太普惠AI落地路径",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zSU43bklqUkFySmpZMzJUY1RTOF9mLTJKVGRnSDhiQkpZWDJNMG5RLVVPSHVEQktSQktNR2Z3bGJPRVFEMXZVX3RjMThaMHhCZUtXXzlMQ3A3a29sR0cwblRwNDZiQQ?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-17T12:30:00.000Z",
+      "summary": "APEC峰会展示AI应用，探讨亚太普惠AI落地路径。",
       "summaryZh": ""
     },
     {
@@ -63,13 +83,23 @@
       "summaryZh": ""
     },
     {
-      "title": "美国纳管AI算力远程获取，海外数据中心出租算力将须许可",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oMGFtSjd1UDVGaExvQ0hUTV8ycVZLTWlZckFqRF9NaVVsVERkc19rd1V2RXM2QWRwWTQwQmxEbGQwT3R3ZFpiWERVeFI?oc=5",
+      "title": "宇树科技创始人王兴兴：AI与机器人进展惊人 算力需求将远超想象",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fODJId2VwR25tQWRxUk1oNm9qb3pkUE1SUTk3V3dXOUtHU2dwdXdsQVR5bnRyQnBYcmFSLWo0WjNlQ2t5ZUNNVURQNGtBdFBPSk1MZQ?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-17T03:32:00.000Z",
-      "summary": "美国将远程获取AI算力纳入出口管制，海外数据中心出租算力需许可。",
+      "pubDate": "2026-11-17T08:12:00.000Z",
+      "summary": "宇树科技创始人王兴兴称AI与机器人进展惊人，算力需求远超想象。",
+      "summaryZh": ""
+    },
+    {
+      "title": "黄仁勋事变之后，AI算力建设进入垃圾时间了吗？",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wUlZUT0Jmcno5Z0ZoUFg1Y0QzNlQzemtidENxUVJOWlNrMmpZZFJ0Wk5GWTIwaVllclhPYy1JQnA1N2hIVUpvYmkyS1Q?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-18T00:44:00.000Z",
+      "summary": "AI算力建设面临调整期，但非进入垃圾时间。",
       "summaryZh": ""
     },
     {
@@ -93,75 +123,87 @@
       "summaryZh": ""
     },
     {
-      "title": "中国银行董事长葛海蛟：中行对人工智能产业链金融资源投入已超7000亿元",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYNW1yamVNYnE2cTV3WnQ2azcwZG9oampJTTJvQ01pR0ozOGUyVkI3Y0dIWWxmVlJqN3FSOVB3eE5JdDZNUGFiaA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-17T10:09:07.000Z",
-      "summary": "中行对人工智能产业链金融资源投入已超7000亿元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "一杯机器人制作的奶茶，一套AI全能报道助手：APEC探寻亚太普惠AI落地路径",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zSU43bklqUkFySmpZMzJUY1RTOF9mLTJKVGRnSDhiQkpZWDJNMG5RLVVPSHVEQktSQktNR2Z3bGJPRVFEMXZVX3RjMThaMHhCZUtXXzlMQ3A3a29sR0cwblRwNDZiQQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-17T12:30:00.000Z",
-      "summary": "APEC峰会展示AI应用，探讨亚太普惠AI落地路径。",
-      "summaryZh": ""
-    },
-    {
       "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
       "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
       "source": "TechCrunch",
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-17T16:32:55.000Z",
-      "summary": "Daydream推出AI个人造型师，可提供购物建议。",
+      "summary": "Daydream推出AI个人造型师，可虚拟试衣和购物推荐。",
       "summaryZh": "",
       "titleZh": "Daydream 的新人工智能代理将充当您的私人造型师，还可以为您购物"
     },
     {
-      "title": "豆包工作上线“工作台”功能；阿里巴巴发布全新一代基座大模型Qwen4-Max",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IOE5yOHBBTGFNMGU3MGRScjJMd2d4TTgxMThMQkNNdUdtOVRaRk50bloxSVg1eGNBTlV1bzhaSWRkbVVVemFKMjY0aUdvOGpGM0lDQnA2QUI?oc=5",
-      "source": "经济观察网",
+      "title": "雷军：AI走向物理世界将带来巨大机会，具身智能机器人想象力或超汽车产业",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YM29aZEJubGZ3T09rRG1FWS1IVEVBUEZobktYY3c1bV9WSFRBU1lSSmlWRmpuZTBNUkZKVFllTFdWZU44WWZub1h0STR2SlBrNG50OU15Yjg1VWpYWjlPbQ?oc=5",
+      "source": "澎湃新闻科技",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-16T23:59:00.000Z",
-      "summary": "豆包工作推出“工作台”功能，阿里巴巴发布新一代基座大模型Qwen4-Max。",
+      "category": "robotics",
+      "pubDate": "2026-11-17T08:47:41.000Z",
+      "summary": "雷军认为AI走向物理世界将带来巨大机会，具身智能机器人想象力可能超过汽车产业。",
       "summaryZh": ""
     },
     {
-      "title": "Anthropic与OpenAI推进AI个人财务服务，中国AI金融更强调持牌机构合作",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LdERvcnZpWU1vaU1YLUlKd1plSjRoN2Y4QzdGZVBBVTFNX1o3UlNxcmw3Z0VnYy1qRTJOdW5RMVhIejBxcElfSmxsWU5YdVNmaE9FNg?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-17T03:40:05.000Z",
-      "summary": ""
-    },
-    {
-      "title": "数字广东建设“十五五”规划：构建工业领域行业通识、知识语料库 打造工业大模型和智能体",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwLXIxZVRhOGdTM19xRTdCSDU3QWg5M29uemNLNWYxUjBxVTlpRVhLRVVlWHlMUTRLZ0Q4TGFQQjU4empleUVHMC1hSGVZaFhSaVRrbk9sR2dFM0poTDc3Q1JmU2JCUQ?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-17T09:19:00.000Z",
-      "summary": "广东省发布“十五五”规划，旨在构建工业领域知识库，打造工业大模型和智能体。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Democrats try to figure out how not to get swept away by the blue wave",
-      "link": "https://www.theverge.com/policy/1035869/whats-next-majority-democrats-conference-denver-jeffries",
-      "source": "The Verge",
+      "title": "Learn how AI is changing supply chain robotics",
+      "link": "https://www.therobotreport.com/learn-how-ai-is-changing-supply-chain-robotics/",
+      "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-17T20:30:00.000Z",
-      "summary": "民主党寻求避免被蓝色浪潮淹没的策略。",
+      "pubDate": "2026-11-17T19:58:18.000Z",
+      "summary": "人工智能技术正推动供应链机器人领域快速发展。",
       "summaryZh": "",
-      "titleZh": "民主党人试图找出如何不被蓝色浪潮席卷的方法"
+      "titleZh": "了解人工智能如何改变供应链机器人"
+    },
+    {
+      "title": "合作供应链AI与物流机器人 菜鸟牵手越南邮政",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NNnVQTVFxRzlZY3Z5ZklzMG9IcUJLVGNyNzVwMjFxYVRablBlMWlRU3M1VmhwTlpKTUotMkRRVEYtNDVtTWtJYTQ3ak5DLU9rT3YxVmpvZ0dCVk5hWVA4OHBnRQ?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-17T20:24:39.000Z",
+      "summary": "菜鸟与越南邮政达成物流AI与机器人合作，共同推进越南邮政数字化升级。",
+      "summaryZh": ""
+    },
+    {
+      "title": "小米雷军APEC谈具身智能：机器人是AI进入物理世界的突破口",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01UXNOVzVkdEhKanpBZ3E4YlB1RVFGY0RBdk1GVjlJZERKek1oRzhjNThhNEhpX3JISmVxbkV6XzdkMWFneWpqS0RzZzBza3FsbG82LUJNOERwLW56Zk9iZEJ1aWNENC0xVl8ydTl3bGRjVUFXOU5kbA?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-17T11:24:52.000Z",
+      "summary": "雷军认为机器人是AI进入物理世界的突破口。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Boston Dynamics’ Atlas humanoid lands first non-automotive trial",
+      "link": "https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-17T14:49:05.000Z",
+      "summary": "Boston Dynamics Atlas人形机器人首次在非汽车行业进行试用。",
+      "summaryZh": "",
+      "titleZh": "波士顿动力公司的 Atlas 人形机器人首次进行非汽车试验"
+    },
+    {
+      "title": "王兴兴：合作共赢是主旋律，这样才能把AI与机器人的蛋糕做大",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CODMydEhrM0t0QXk4eGpoQkdJVTJzdm5VWHRFcHk4dHoxNVhVLU9MTkQzZWVzNkFVbVJadlZvVEVhdXEtOVc5bUw3RzVTMjM4YU5feVB1TXNRQ01RVHBFRg?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-17T05:36:22.000Z",
+      "summary": "王兴兴强调合作共赢是AI与机器人行业发展主旋律。",
+      "summaryZh": ""
+    },
+    {
+      "title": "[正点财经]用AI制定旅游攻略：需求提充分 核实不能少",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPczAtM19lcEF4bmNtMWwxZXpaSmZxVWxfTVR5UDBwX2RCbE54RDdHWEpWaUpHSlhhVkU5VHBvdV9mVHJ6ck9JMElpUzJINUYyd20xdkxlNmlMWVcyZlBTTVJLQVRYVm1vTGlMWG84XzVqLVI0OEUwYTZXakg5aUQ5NENaQS1YcWFkZ1duNFlaeEV2T1h5cXFF?oc=5",
+      "source": "央视网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-17T10:27:46.000Z",
+      "summary": "AI技术助力旅游攻略制定，需确保信息核实准确。",
+      "summaryZh": ""
     },
     {
       "title": "李彦宏谈AI：最大价值在应用层，自动驾驶安全性或超人类10倍",
@@ -172,15 +214,6 @@
       "pubDate": "2026-11-17T03:25:00.000Z",
       "summary": "李彦宏认为AI最大价值在应用层，自动驾驶安全性可能超人类10倍。",
       "summaryZh": ""
-    },
-    {
-      "title": "灵途科技B轮获基康技术投资 布局机器人近场感知",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBucW03cDZFc3ZCUHdmVndjWV9Za21XVjFYWVV0ZlZDX1VseG9hYlZkM19XMlVkbXhPRGNtRkR0NFBZRUg0ZkwybU1jVDF5dFEwOWQ3T08yX0FQSTBCaTN5RWRR?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-17T09:05:00.000Z",
-      "summary": ""
     }
   ]
 }
