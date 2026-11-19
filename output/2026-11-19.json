@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "generatedAt": "2026-11-19T01:28:43.273Z",
+  "generatedAt": "2026-11-19T02:40:23.976Z",
   "items": [
     {
       "title": "谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数超 Claude Opus 5.5 排第一",
@@ -13,23 +13,24 @@
       "summaryZh": ""
     },
     {
-      "title": "供应链确认 OpenAI 首款 AI 硬件年底启动出货：前苹果设计师 Jony Ive 合作打造，立讯精密等中国厂商深度参与",
-      "link": "https://www.ithome.com/1/029/152.htm",
+      "title": "格罗方德扩大与波士顿动力合作：扩大 Spot 部署，2027 年初启动 Atlas 现场测试",
+      "link": "https://www.ithome.com/1/029/164.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-19T00:36:12.000Z",
-      "summary": "OpenAI首款AI硬件年底出货，立讯精密等中国厂商深度参与制造。",
+      "category": "robotics",
+      "pubDate": "2026-11-19T01:18:15.000Z",
+      "summary": "格罗方德与波士顿动力扩大合作，扩展Spot部署并启动Atlas现场测试。",
       "summaryZh": ""
     },
     {
-      "title": "美团“妙手到店餐饮版”：让AI帮商家分担琐事，把时间留给菜品和顾客",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZMnZhZ2tOdHcybU1oVXgtVENnRmlHVDZTalNscW5PNDVOQzZxUFJOMEgtREI3REViRDBvSDExV3NfYjRVRGp3QU5TV3lQdw?oc=5",
+      "title": "英伟达RTX Spark迷你AI工作站上市，最高支持本地运行1200亿参数大模型",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oaVZGc2tCR29XV2pXUU93cUxiM2x3Sm1HeGtnMldYRWE3S2M3UFoyMmpjbjE4RlJNcGNibkVwU3lQZkQ4OXo0R2pnTDJNLWVxeEJ4M2lscE5yZlp0WXc?oc=5",
       "source": "36氪",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-18T13:47:59.000Z",
-      "summary": ""
+      "category": "ai",
+      "pubDate": "2026-11-18T23:54:35.000Z",
+      "summary": "英伟达RTX Spark迷你AI工作站上市，支持本地运行1200亿参数大模型。",
+      "summaryZh": ""
     },
     {
       "title": "SpaceX最快本周启动400亿美元AI芯片债务融资的部分发行",
@@ -48,16 +49,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-18T06:26:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "AMD，收购一家把大模型“焊”进芯片的创企",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE80ZXBfQ1BJSkd1ZTVtbjBPc3B2bzJJNkVoVjZrSDh1ajBCZTB5U283MUkxZ0Z1ckZKM3VCeHl0a1VabjZVd2lrNQ?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-18T05:01:14.000Z",
-      "summary": "AMD收购将AI模型集成芯片的初创公司Taalas。",
+      "summary": "招商局（深圳）成立50亿人工智能产业私募股权投资基金。",
       "summaryZh": ""
     },
     {
@@ -78,16 +70,6 @@
       "category": "ai",
       "pubDate": "2026-11-18T08:33:13.000Z",
       "summary": "三星电机与英伟达深化AI芯片组件合作，共同扩建生产设施。",
-      "summaryZh": ""
-    },
-    {
-      "title": "浑水宣布做空英伟达，AI算力融资链条谁来托底？",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9udDJVV2NyMFdFN0MzZFE3cVFYUVV4WTNIc1JKOEhQVU5Kb1JlbmxncW9Ob1BERUdjaldGR0syUlhqV3lXbGhuT21WeUNrWWJCVkpv?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-18T15:49:37.000Z",
-      "summary": "浑水宣布做空英伟达，质疑其AI算力融资链条风险。",
       "summaryZh": ""
     },
     {
@@ -141,18 +123,8 @@
       "summaryZh": ""
     },
     {
-      "title": "想让机器人可靠干活，到底要具备哪些能力？",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5eEp0eVdQNmRZZlVQYTdtTkdSa1RaYXhSZk45aDhsby1hNzVCbjNPTnNIVTJoSHBtSHBHUG1KcURzMVI2LVpqUjBmTXR3cmJfYjFfZ3hyWG0yWDhIQmxnQmR5Y0ZJcTBEbW11SU0wVkM0ajR5dWc?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-18T01:45:00.000Z",
-      "summary": "机器人可靠工作需具备感知、决策、执行等综合能力。",
-      "summaryZh": ""
-    },
-    {
       "title": "海南造“体检机器人”开启全球旅程",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1VjJxeENjZ2VIOEowOEluM1VLTGVZR1ZJZTYtb0Z6eC1DNkVaOHdSZXdEOHp2ZmdIMklidl9uSW92MDdRbmRUSWRpbzhwSlVQb1lVVnF4U01STGNmUGFiQkMwXzdNU29FZ3hv?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mSG14V2pUYzVxYXhNUGtiWC1qSmNLcjM4aDlvU3RtdkktWHl3QWRVWDhGUDFoaWdiUllTWlFBUXM1MVJMcWlmME5SSlcyYUcyQzQybldGZUJObHduTWVqN09NWTdrZ0xyeXdyag?oc=5",
       "source": "中国新闻网",
       "lang": "zh",
       "category": "robotics",
@@ -177,19 +149,9 @@
       "lang": "en",
       "category": "application",
       "pubDate": "2026-11-18T19:31:17.000Z",
-      "summary": "Best Buy恢复在线和店内销售Blu-ray光盘。",
+      "summary": "Best Buy重启在线和店内销售Blu-ray光盘。",
       "summaryZh": "",
       "titleZh": "百思买再次在网上和店内销售蓝光光盘"
-    },
-    {
-      "title": "AI替代大量人类工作后干什么？携程梁建章：未来更多人会去旅游",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16Z0ExMS02NVpHc0dWc0V0QkxWWTk0X2lRT0RYdVdRSGFWUUdEX0JzTGlNVU44N2JMZXV6RFhlanA0dXdKWDB1QWFZSlNRYzBydWo1c2s4ZGpsY2JqS2hBS0lfaEdSSm8wbEVhdWc1TklHb2ZFZmotUmhqSS1rTWM?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-18T23:49:19.000Z",
-      "summary": "携程梁建章预测AI时代旅游业将成长期增长行业，更多人将选择旅游。",
-      "summaryZh": ""
     },
     {
       "title": "深化数智赋能 共绘旅游发展新图景",
@@ -198,7 +160,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-19T01:17:02.000Z",
-      "summary": "2026年旅游行业高峰论坛聚焦数智赋能，共谋新发展。",
+      "summary": "2026年旅游行业数智化赋能大会召开，探讨行业转型升级。",
       "summaryZh": ""
     },
     {
@@ -217,7 +179,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-18T21:24:01.000Z",
-      "summary": "川崎机器人推出集安全与网络安全于一体的F系列S型控制器。",
+      "summary": "Kawasaki Robotics推出集安全与网络安全功能于一体的F系列S型机器人控制器。",
       "summaryZh": "",
       "titleZh": "川崎机器人推出具有集成安全和网络安全功能的 F 系列 S 型控制器"
     },
@@ -228,7 +190,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-18T21:17:26.000Z",
-      "summary": "自动化程度高的工厂对自动化前景更乐观。",
+      "summary": "RobCo研究发现，已采用机器人技术的工厂对自动化前景更乐观。",
       "summaryZh": "",
       "titleZh": "RobCo 研究发现，已经使用机器人的工厂对自动化更加乐观"
     },
@@ -249,7 +211,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-18T19:00:25.000Z",
-      "summary": "轻量级飞行机器人携带自用传感器和计算机。",
+      "summary": "轻量级飞行机器人搭载自用传感器和计算机。",
       "summaryZh": "",
       "titleZh": "羽量级飞行机器人携带自己的传感器和计算机"
     },
