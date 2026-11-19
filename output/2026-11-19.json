@@ -1,17 +1,7 @@
 {
   "date": "2026-11-19",
-  "generatedAt": "2026-11-19T02:40:23.976Z",
+  "generatedAt": "2026-11-19T03:51:52.352Z",
   "items": [
-    {
-      "title": "谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数超 Claude Opus 5.5 排第一",
-      "link": "https://www.ithome.com/1/029/144.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-18T23:53:51.000Z",
-      "summary": "谷歌推出编程AI模型Gemini 4 Neon，性能超越Claude Opus 5.5。",
-      "summaryZh": ""
-    },
     {
       "title": "格罗方德扩大与波士顿动力合作：扩大 Spot 部署，2027 年初启动 Atlas 现场测试",
       "link": "https://www.ithome.com/1/029/164.htm",
@@ -19,7 +9,37 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-19T01:18:15.000Z",
-      "summary": "格罗方德与波士顿动力扩大合作，扩展Spot部署并启动Atlas现场测试。",
+      "summary": "格罗方德与波士顿动力扩大合作，扩大Spot部署并启动Atlas现场测试。",
+      "summaryZh": ""
+    },
+    {
+      "title": "兄弟联手创业，做金融AI Agent，融资17亿",
+      "link": "https://zhidx.com/p/611750.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-18T05:35:21.000Z",
+      "summary": "英国金融AI公司Model ML完成2.5亿美元B轮融资，估值达15亿美元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "GPT-6.2难产！OpenAI怕了",
+      "link": "https://www.qbitai.com/2026/11/510914.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-18T07:53:29.000Z",
+      "summary": "OpenAI因安全问题推迟GPT-6.2发布，引发社区热议。",
+      "summaryZh": ""
+    },
+    {
+      "title": "工信部5项人形机器人标准落地｜精密五轴加工，护航机器人关节壳体规范化量产",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54ZldpQVl5Z0xQUWxGTFRrTTI5RFYzNVF5bk1JZFZkSlRzOENXVTVhVE5VeE9hZWRCYmlKeGNRZ0l1RGh5Sy1jNEROWUpjVFBWNTJtcXR5VQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-19T01:37:47.000Z",
+      "summary": "工信部发布5项人形机器人标准，推动关节壳体量产规范化。",
       "summaryZh": ""
     },
     {
@@ -29,48 +49,48 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-18T23:54:35.000Z",
-      "summary": "英伟达RTX Spark迷你AI工作站上市，支持本地运行1200亿参数大模型。",
+      "summary": "英伟达RTX Spark迷你AI工作站支持本地运行1200亿参数大模型。",
       "summaryZh": ""
     },
     {
-      "title": "SpaceX最快本周启动400亿美元AI芯片债务融资的部分发行",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zYl9ic2J2d3NjUnZfY0pTelp1alZwdzRaMVdIbzhWYTN3eHY3a2pMLTd3emtFcjRhVU5ydHJNVmIta01KYzhmdDVOTlhuY1lMVVV5aWxqTGJTQQ?oc=5",
-      "source": "钛媒体",
+      "title": "美团“妙手到店餐饮版”：让AI帮商家分担琐事，把时间留给菜品和顾客",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZMnZhZ2tOdHcybU1oVXgtVENnRmlHVDZTalNscW5PNDVOQzZxUFJOMEgtREI3REViRDBvSDExV3NfYjRVRGp3QU5TV3lQdw?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-18T13:47:59.000Z",
+      "summary": ""
+    },
+    {
+      "title": "浑水宣布做空英伟达，AI算力融资链条谁来托底？",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9udDJVV2NyMFdFN0MzZFE3cVFYUVV4WTNIc1JKOEhQVU5Kb1JlbmxncW9Ob1BERUdjaldGR0syUlhqV3lXbGhuT21WeUNrWWJCVkpv?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-18T04:04:00.000Z",
-      "summary": "SpaceX最快本周启动400亿美元AI芯片债务融资部分发行。",
+      "pubDate": "2026-11-18T15:49:37.000Z",
+      "summary": "浑水宣布做空英伟达，AI算力融资链条风险加剧。",
       "summaryZh": ""
     },
     {
-      "title": "招商局（深圳）人工智能产业私募股权投资基金合伙企业成立，出资额50亿",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ya3ZpRXpCRlEwTlQ0VEFaVHNaNmFxblZnOER0Mjh4ZFlUbFZTR1ZjRnNPVEFDbk1JLXMyb3o2NFBfMFhlRUpDR1NjajVUV0F1WjZyVmUtYjA5dw?oc=5",
-      "source": "钛媒体",
+      "title": "腾讯高管：预计2028年AI投入产出效率改善 得益于基础设施复用、硬件降价与算力效率提升",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fR2FxcDFIMWVqeDNxcS1fbEk1ZWlCbkZLYjVTemtLOElISDJrMWRXQ1dlc0QyYnZiQ0NsUVJKNVU2MVpLNWt3WQ?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-18T06:26:00.000Z",
-      "summary": "招商局（深圳）成立50亿人工智能产业私募股权投资基金。",
+      "pubDate": "2026-11-18T20:17:57.000Z",
+      "summary": "腾讯高管预计2028年AI投入产出效率将因基础设施复用、硬件降价和算力提升而改善。",
       "summaryZh": ""
     },
     {
-      "title": "英伟达财报大超预期，大摩：中国AI市场正进入商业化阶段，人工智能ETF华富(515980)标的指数午后翻红",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nWFZmU1NTQkF4dWI2TTdPVUZvLUJKVzhWaVhHZndMYzA4V0ZHc0lYV0V4TDhMWWVJQ0RhVlJhRjdnajRubkxkYkFTNzRhUnBpWk1FQ2pxalA?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "source": "TechCrunch",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-11-18T05:20:00.000Z",
-      "summary": "英伟达财报超预期，大摩看好中国AI商业化，AIETF华富指数午后上涨。",
-      "summaryZh": ""
-    },
-    {
-      "title": "三星电机与英伟达扩大AI芯片组件合作",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IX3hPUUpkU29pM3l6OWVPUmdMNW9SNVg5cEZxT08yN0dITjFHNHlhMTMyWXF3bmJNTzZ2N2pJZmVrS3F1X2VpZ2xqdEl3MUtFV1BvdE1JY0w?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-18T08:33:13.000Z",
-      "summary": "三星电机与英伟达深化AI芯片组件合作，共同扩建生产设施。",
-      "summaryZh": ""
+      "pubDate": "2026-11-18T16:14:09.000Z",
+      "summary": "OpenAI CEO Altman表示，AI行业难以想象没有黄仁勋。",
+      "summaryZh": "",
+      "titleZh": "OpenAI 首席执行官 Sam Altman 表示“很难想象没有 Jensen 的人工智能行业”"
     },
     {
       "title": "From Commercial Scale to Embodied Intelligence: The Next Challenge for Robotics",
@@ -84,22 +104,44 @@
       "titleZh": "从商业规模到实体智能：机器人技术的下一个挑战"
     },
     {
-      "title": "瞄准企业AI规模化落地 亚马逊云科技升级在华技术布局",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IWlcySGFJZFZqVWRLem1UQWRUcm8wMmRlTGgxd3BLYmpqczVuMDhIVm9RTTJfVzBEM0ZxNDFxU2lkREwtR3Q2QzlnWXZRVExDblhyMERhRnN2OUNJQjhwWVJR?oc=5",
-      "source": "中国经营网",
+      "title": "新华读报｜“人工智能+”加速规模化落地",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd2tlRTM2Ml9jaWRFTFhuZTZuY1pjZ0JsLWV0SVZRVHNOZlBCdzVaVDdvV01JcDVSd0piMjlBUzVyVm5PVkxRTDJvdDVZQ1EtRzFWYjktZ1VRVEw5T2ZnX0QxVTRiQ2NXLUVXM1NqaFo0bzVnelRhTUU2eVp2OTdzb2NwdHY?oc=5",
+      "source": "新华网科技",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-18T23:31:00.000Z",
-      "summary": ""
+      "category": "ai",
+      "pubDate": "2026-11-19T00:57:59.000Z",
+      "summary": "我国“人工智能+”应用从示范走向规模落地，30余个国家基地助力企业降门槛降成本。",
+      "summaryZh": ""
     },
     {
-      "title": "机器人女团明年1月出道，具身智能正密集走向舞台",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96M1pGb2FtTnlyZ2FndDMxc1JwSnJFeHQ5Y0J6emRHQ2hoTUxVSXRHZHRlN2gwWVBQanNQeXpmQnNZMVZDNVpiYTgxWEE3cnJFRHZj?oc=5",
-      "source": "华尔街见闻",
+      "title": "Sweetgreen Launches Agentic Ordering through Claude and ChatGPT",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFU4cFV0cHVBazdURlN0bTdNZ3RFQ0pncTdaS2RzR18tMzhhLWhTTEtBWUtBYTBiOGZZcS0tQ1owcHN0WlhYazkyaUV2dU4yYXBvUWx6NzJieFpZLVVyYmxhTFo2R3lkdlZORXpLXzlORXIwQjBZOWtIV3RacERzWjh5Q1hvNjJubTl4aEo5enpYVENqWUFQTlk4WDNxUQ?oc=5",
+      "source": "QSR Magazine",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-18T14:23:37.000Z",
+      "summary": "",
+      "titleZh": "Sweetgreen 通过 Claude 和 ChatGPT 推出代理订购"
+    },
+    {
+      "title": "阿维塔 06T Max 先锋版 11 月 25 日上市：保留 896 线激光雷达与 ADS 5，取消主驾零重力座椅",
+      "link": "https://www.ithome.com/1/029/213.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-18T09:22:20.000Z",
-      "summary": ""
+      "pubDate": "2026-11-19T03:30:05.000Z",
+      "summary": "阿维塔 06T Max 先锋版 11 月 25 日上市，保留激光雷达与辅助驾驶，取消主驾零重力座椅。",
+      "summaryZh": ""
+    },
+    {
+      "title": "奥尔特曼：OpenAI也计划上市 很难想象没有黄仁勋的AI行业",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9nWEtEeEFIWnJkWk1UeEdCVUJaWE5TWjdLWUlSY3dMT0ZhXzdmNXhRaGhhc1UzRC1nbGxfMUdYMkdhcUh1eWlSTg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-19T00:17:00.000Z",
+      "summary": "OpenAI计划上市，CEO奥尔特曼称黄仁勋对AI行业至关重要。",
+      "summaryZh": ""
     },
     {
       "title": "Humyn Labs raises $47M to collect real-world data for robotics",
@@ -113,23 +155,13 @@
       "titleZh": "Humyn Labs 筹集了 4700 万美元来收集机器人的真实数据"
     },
     {
-      "title": "消息称英伟达安抚机器人生态伙伴 “物理 AI”投资不会急刹车",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10a2FWTE1xbW4wdWVqdTQ2emZYd1hUT3NYUEtpY3BBaXBjTkhhRkZGUnYwdHlNVF9oY1R1dnRoX3Z1cjd4UlduY2pNcEpzaTJDV1hNWDRNd2NMSGVKRWF4Xw?oc=5",
-      "source": "东方财富网",
+      "title": "“木头姐”深度对话华宝基金：聊天机器人及AI Coding之外，AI应用的最大蛋糕在哪？-E点即通",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53bWdFc1loY3BWb2xvR0d6S0VQYXphMjNaaUM5VUZScDdHUVZpRmliNnZSRjI2VWxGSVBzZG11RkdTRnFEcFFXdlBTYW44ZkxlTGo2QXBpT1Jpc0xNWmtUMDA5cUF4aF9IYlZoSWQ5c1g?oc=5",
+      "source": "金融界",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-18T03:43:02.000Z",
-      "summary": "英伟达安抚机器人生态伙伴，承诺“物理AI”投资持续。",
-      "summaryZh": ""
-    },
-    {
-      "title": "海南造“体检机器人”开启全球旅程",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mSG14V2pUYzVxYXhNUGtiWC1qSmNLcjM4aDlvU3RtdkktWHl3QWRVWDhGUDFoaWdiUllTWlFBUXM1MVJMcWlmME5SSlcyYUcyQzQybldGZUJObHduTWVqN09NWTdrZ0xyeXdyag?oc=5",
-      "source": "中国新闻网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-19T00:33:00.000Z",
-      "summary": "海南研发的体检机器人开启全球市场推广。",
+      "pubDate": "2026-11-19T02:46:30.000Z",
+      "summary": "木头姐与华宝基金探讨AI在医疗健康领域的应用前景及投资机会。",
       "summaryZh": ""
     },
     {
@@ -149,7 +181,7 @@
       "lang": "en",
       "category": "application",
       "pubDate": "2026-11-18T19:31:17.000Z",
-      "summary": "Best Buy重启在线和店内销售Blu-ray光盘。",
+      "summary": "Best Buy恢复在线和店内销售Blu-ray光盘。",
       "summaryZh": "",
       "titleZh": "百思买再次在网上和店内销售蓝光光盘"
     },
@@ -160,17 +192,8 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-19T01:17:02.000Z",
-      "summary": "2026年旅游行业数智化赋能大会召开，探讨行业转型升级。",
+      "summary": "2026年旅游行业数智化赋能论坛召开，探讨行业转型升级。",
       "summaryZh": ""
-    },
-    {
-      "title": "“硅基赡养比”新命题 专家建议AI新增产出应纳入养老保障框架",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BSmpWZTNDZkdpTnVBUG9KVkQ2TWdldjVVNjdwc05QMk04ak02LUZwNFZtb2hWU05USEpkSkdKS29LT3JyRDZDaXdoa2RuUUJOY1B3WWt5NkdKNVNscmpRUEJ3?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-18T10:16:00.000Z",
-      "summary": ""
     },
     {
       "title": "Kawasaki Robotics launches F Series S-type controller with integrated safety and cybersecurity",
@@ -179,7 +202,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-18T21:24:01.000Z",
-      "summary": "Kawasaki Robotics推出集安全与网络安全功能于一体的F系列S型机器人控制器。",
+      "summary": "川崎机器人推出集安全与网络安全于一体的F系列S型控制器。",
       "summaryZh": "",
       "titleZh": "川崎机器人推出具有集成安全和网络安全功能的 F 系列 S 型控制器"
     },
@@ -190,7 +213,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-18T21:17:26.000Z",
-      "summary": "RobCo研究发现，已采用机器人技术的工厂对自动化前景更乐观。",
+      "summary": "自动化程度高的企业对剩余手动流程的自动化更有信心。",
       "summaryZh": "",
       "titleZh": "RobCo 研究发现，已经使用机器人的工厂对自动化更加乐观"
     },
@@ -205,26 +228,15 @@
       "summaryZh": ""
     },
     {
-      "title": "Featherweight flying robot carries its own sensors and computers",
-      "link": "https://techxplore.com/news/2026-11-featherweight-flying-robot-sensors.html",
-      "source": "Tech Xplore",
+      "title": "Why Successful Industrial Automation Starts With Understanding Operator Needs",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTXFYQU0wTThvOUZ1WjBicWlMcGlRVFZjZ0l5MktIX3RONVctZ2tDeS1XR3FrV0RDMXVUUFVFU3RoM25rV0k2OEtLRllRQnZzMzUtQTZRTlM3Y2p5T0pGVUIzN0RhSlJLMmpQVE92ZWZXYkVGbUNOTng2UmZVLWpCVmJqQ3RLemRNQ1Fzb01DWER2VERCNFpSY1NldG9DdC1pMF9WUDV6OWNGWnd3OFNEcWdmVXVQUmFWcWQ2MXVsNWhwX1BMd2NQUTBlQzBsNTdhVmVIbWEzY0Y3UEVJcExmME1SRWM2YTJJSHJuNFVB?oc=5",
+      "source": "Automation World",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-18T19:00:25.000Z",
-      "summary": "轻量级飞行机器人搭载自用传感器和计算机。",
+      "pubDate": "2026-11-18T17:52:54.000Z",
+      "summary": "成功工业自动化需从理解操作员需求开始。",
       "summaryZh": "",
-      "titleZh": "羽量级飞行机器人携带自己的传感器和计算机"
-    },
-    {
-      "title": "The fastest soft robot ever built doesn't need electronics to function",
-      "link": "https://techxplore.com/news/2026-11-fastest-soft-robot-built-doesnt.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-18T19:00:16.000Z",
-      "summary": "全球最快软体机器人无需电子元件即可运作。",
-      "summaryZh": "",
-      "titleZh": "有史以来最快的软机器人不需要电子设备即可运行"
+      "titleZh": "为什么成功的工业自动化首先要了解操作员的需求"
     }
   ]
 }
