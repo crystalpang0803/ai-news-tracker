@@ -1,75 +1,25 @@
 {
   "date": "2026-11-19",
-  "generatedAt": "2026-11-19T00:15:28.104Z",
+  "generatedAt": "2026-11-19T01:28:43.273Z",
   "items": [
     {
-      "title": "谷歌推出 Gemini 4 Neon 模型，AA 编程 AI 智能体指数超 Claude Opus 5.5 排第一",
+      "title": "谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数超 Claude Opus 5.5 排第一",
       "link": "https://www.ithome.com/1/029/144.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-18T23:53:51.000Z",
-      "summary": "谷歌推出 Gemini 4 Neon 模型，编程 AI 智能体指数超 Claude Opus 5.5 排第一。",
+      "summary": "谷歌推出编程AI模型Gemini 4 Neon，性能超越Claude Opus 5.5。",
       "summaryZh": ""
     },
     {
-      "title": "兄弟联手创业，做金融AI Agent，融资17亿",
-      "link": "https://zhidx.com/p/611750.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-18T05:35:21.000Z",
-      "summary": "英国金融AI公司Model ML完成2.5亿美元B轮融资，估值达15亿美元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI进化速递 | OpenAI发布GPT-6.2 Astra",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUWkdiSXNNMkpPZ1ZUN2d0UDRYQ1VHOUlEOEVneWJXT09Jb2xJZWNfRFAybXZzUzFvSTNtMm9hSFAxaF84ZThEakVSX3llR1pKaUx3?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-18T12:56:13.000Z",
-      "summary": "OpenAI发布GPT-6.2 Astra和GPT-6.2 Sol等AI模型。",
-      "summaryZh": ""
-    },
-    {
-      "title": "继GPT后，Claude 、Qwen最新模型3D能力提升 大语言模型正向物理世界延伸？",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hSHBxaWRmLWEtUDJMYTBrVXlUM3IzNG9MMnNoMnFiTG04cmNLMFlSSFdBZEEtY2JKZVpjV1hNMmRfSkJNSTZxU1FtOWc1aE9TUndXMWZxU2FlNThJSUI2VWZjUk1Ldw?oc=5",
-      "source": "每日经济新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-18T06:07:00.000Z",
-      "summary": "Claude、Qwen等大语言模型3D能力显著提升，正向物理世界延伸。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
-      "link": "https://www.qbitai.com/2026/11/510922.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-18T09:41:55.000Z",
-      "summary": "Gemini新模型Neon标识出现在Gemini网页应用代码中，引发网友对命名规律的讨论。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI 发布芯片设计最新成果：AMD 旗舰 GPU PPA 最高提升 14%，自研芯片 Jalapeño 面积最高减少 13%",
-      "link": "https://www.ithome.com/1/029/135.htm",
+      "title": "供应链确认 OpenAI 首款 AI 硬件年底启动出货：前苹果设计师 Jony Ive 合作打造，立讯精密等中国厂商深度参与",
+      "link": "https://www.ithome.com/1/029/152.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-18T23:07:38.000Z",
-      "summary": "OpenAI AI模型优化AMD GPU和自研芯片，提升性能和降低面积。",
-      "summaryZh": ""
-    },
-    {
-      "title": "融资33亿！英伟达、AMD，投出估值230亿机器人独角兽",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82a1l6V2VfWjhaeWxXbTNlTkdPaWN4ZXNaNDFqaDBfQTZhQjVzSHlDYW1yYXBlend0NVV1T1BzYml3aE4zVGFEaA?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-18T01:16:27.000Z",
-      "summary": "英伟达、AMD等投资33亿，助力机器人独角兽估值达230亿。",
+      "pubDate": "2026-11-19T00:36:12.000Z",
+      "summary": "OpenAI首款AI硬件年底出货，立讯精密等中国厂商深度参与制造。",
       "summaryZh": ""
     },
     {
@@ -92,13 +42,22 @@
       "summaryZh": ""
     },
     {
-      "title": "黄仁勋事变之后，AI算力建设进入垃圾时间了吗？",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wUlZUT0Jmcno5Z0ZoUFg1Y0QzNlQzemtidENxUVJOWlNrMmpZZFJ0Wk5GWTIwaVllclhPYy1JQnA1N2hIVUpvYmkyS1Q?oc=5",
+      "title": "招商局（深圳）人工智能产业私募股权投资基金合伙企业成立，出资额50亿",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ya3ZpRXpCRlEwTlQ0VEFaVHNaNmFxblZnOER0Mjh4ZFlUbFZTR1ZjRnNPVEFDbk1JLXMyb3o2NFBfMFhlRUpDR1NjajVUV0F1WjZyVmUtYjA5dw?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-18T00:44:00.000Z",
-      "summary": "AI算力建设未进入垃圾时间，仍需关注供需平衡。",
+      "pubDate": "2026-11-18T06:26:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "AMD，收购一家把大模型“焊”进芯片的创企",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE80ZXBfQ1BJSkd1ZTVtbjBPc3B2bzJJNkVoVjZrSDh1ajBCZTB5U283MUkxZ0Z1ckZKM3VCeHl0a1VabjZVd2lrNQ?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-18T05:01:14.000Z",
+      "summary": "AMD收购将AI模型集成芯片的初创公司Taalas。",
       "summaryZh": ""
     },
     {
@@ -112,13 +71,13 @@
       "summaryZh": ""
     },
     {
-      "title": "AI人工智能ETF平安(512930)连续3天净流入，可灵AI全新一代图像创作模型Kling Image 4.0正式上线",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43MFlRLXllSlE0bkxDRjVocHpJZGVrSDdYY2tnZy1qSXJYV0s1cnBTNTZXcE1sTGRwSkd0eVpmSTI4QnRWWV9LOTEtYkJUcUYzMUM5clkzaTM?oc=5",
+      "title": "三星电机与英伟达扩大AI芯片组件合作",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IX3hPUUpkU29pM3l6OWVPUmdMNW9SNVg5cEZxT08yN0dITjFHNHlhMTMyWXF3bmJNTzZ2N2pJZmVrS3F1X2VpZ2xqdEl3MUtFV1BvdE1JY0w?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-18T02:47:00.000Z",
-      "summary": "AI人工智能ETF平安连续3天净流入，可灵AI发布新一代图像创作模型Kling Image 4.0。",
+      "pubDate": "2026-11-18T08:33:13.000Z",
+      "summary": "三星电机与英伟达深化AI芯片组件合作，共同扩建生产设施。",
       "summaryZh": ""
     },
     {
@@ -128,17 +87,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-18T15:49:37.000Z",
-      "summary": "浑水宣布做空英伟达，AI算力融资链条风险加剧。",
-      "summaryZh": ""
-    },
-    {
-      "title": "腾讯高管：预计2028年AI投入产出效率改善 得益于基础设施复用、硬件降价与算力效率提升",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fR2FxcDFIMWVqeDNxcS1fbEk1ZWlCbkZLYjVTemtLOElISDJrMWRXQ1dlc0QyYnZiQ0NsUVJKNVU2MVpLNWt3WQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-18T13:40:09.000Z",
-      "summary": "腾讯预计2028年AI投入产出效率将因基础设施复用、硬件降价和算力提升而改善。",
+      "summary": "浑水宣布做空英伟达，质疑其AI算力融资链条风险。",
       "summaryZh": ""
     },
     {
@@ -192,13 +141,23 @@
       "summaryZh": ""
     },
     {
-      "title": "从无人驾驶出租车到智能机器人 深圳科创亮点吸引外媒目光",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52N2VzSnhMVnM4eXo1c0NCSFlpQ05RVXJqWG05MFJkSkpXa2lkc0l6YnBFTjBOY1d5MUdROXRNWnRPSFZtUzZmNUo5U3N4SVBjaVUxZ2N6S2hEWUVlYkVFY3NTX0tYR0tIdVJhc20xelc?oc=5",
-      "source": "科技日报",
+      "title": "想让机器人可靠干活，到底要具备哪些能力？",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5eEp0eVdQNmRZZlVQYTdtTkdSa1RaYXhSZk45aDhsby1hNzVCbjNPTnNIVTJoSHBtSHBHUG1KcURzMVI2LVpqUjBmTXR3cmJfYjFfZ3hyWG0yWDhIQmxnQmR5Y0ZJcTBEbW11SU0wVkM0ajR5dWc?oc=5",
+      "source": "央广网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-18T01:23:44.000Z",
-      "summary": "深圳科创亮点如无人驾驶出租车和智能机器人等吸引外媒关注。",
+      "pubDate": "2026-11-18T01:45:00.000Z",
+      "summary": "机器人可靠工作需具备感知、决策、执行等综合能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "海南造“体检机器人”开启全球旅程",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1VjJxeENjZ2VIOEowOEluM1VLTGVZR1ZJZTYtb0Z6eC1DNkVaOHdSZXdEOHp2ZmdIMklidl9uSW92MDdRbmRUSWRpbzhwSlVQb1lVVnF4U01STGNmUGFiQkMwXzdNU29FZ3hv?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-19T00:33:00.000Z",
+      "summary": "海南研发的体检机器人开启全球市场推广。",
       "summaryZh": ""
     },
     {
@@ -209,6 +168,37 @@
       "category": "robotics",
       "pubDate": "2026-11-18T14:23:00.000Z",
       "summary": "华强北90元可制作AI机器人。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Best Buy sells Blu-rays online and in-store again",
+      "link": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+      "source": "Ars Technica",
+      "lang": "en",
+      "category": "application",
+      "pubDate": "2026-11-18T19:31:17.000Z",
+      "summary": "Best Buy恢复在线和店内销售Blu-ray光盘。",
+      "summaryZh": "",
+      "titleZh": "百思买再次在网上和店内销售蓝光光盘"
+    },
+    {
+      "title": "AI替代大量人类工作后干什么？携程梁建章：未来更多人会去旅游",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16Z0ExMS02NVpHc0dWc0V0QkxWWTk0X2lRT0RYdVdRSGFWUUdEX0JzTGlNVU44N2JMZXV6RFhlanA0dXdKWDB1QWFZSlNRYzBydWo1c2s4ZGpsY2JqS2hBS0lfaEdSSm8wbEVhdWc1TklHb2ZFZmotUmhqSS1rTWM?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-18T23:49:19.000Z",
+      "summary": "携程梁建章预测AI时代旅游业将成长期增长行业，更多人将选择旅游。",
+      "summaryZh": ""
+    },
+    {
+      "title": "深化数智赋能 共绘旅游发展新图景",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00R3NlSDc5N2taeHBodXdPZmdfdHhJUVhrQW5xUEtNZ3dHbU5ndlU2ZmtLUEFkTmZDWTdiczZnTExpMFZsSnhpZklUNDJXLW9zbTBlTVFOV2ctbVFvV1psWXJ4UjU3VFF1elVlcUVfSWk?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-19T01:17:02.000Z",
+      "summary": "2026年旅游行业高峰论坛聚焦数智赋能，共谋新发展。",
       "summaryZh": ""
     },
     {
@@ -227,7 +217,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-18T21:24:01.000Z",
-      "summary": "Kawasaki Robotics推出集安全与网络安全于一体的F系列S型控制器。",
+      "summary": "川崎机器人推出集安全与网络安全于一体的F系列S型控制器。",
       "summaryZh": "",
       "titleZh": "川崎机器人推出具有集成安全和网络安全功能的 F 系列 S 型控制器"
     },
@@ -259,7 +249,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-18T19:00:25.000Z",
-      "summary": "轻量级飞行机器人搭载自备传感器和计算机。",
+      "summary": "轻量级飞行机器人携带自用传感器和计算机。",
       "summaryZh": "",
       "titleZh": "羽量级飞行机器人携带自己的传感器和计算机"
     },
