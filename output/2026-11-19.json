@@ -1,25 +1,45 @@
 {
   "date": "2026-11-19",
-  "generatedAt": "2026-11-19T07:31:51.916Z",
+  "generatedAt": "2026-11-19T12:05:58.009Z",
   "items": [
     {
-      "title": "美团发布商家AI助手“妙手到店餐饮版”，面向全国餐饮商家开放",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96NjNpVldxZ0dPcXFEWUE2WU96ZGRmS1IxUnZoQi1vZlVSeTVZMVZzWUZaUDFxUUJhMnAzYVIzVTREUlMtNVNWVUJIeEhoUGR1U2x4Qk1ya1c?oc=5",
-      "source": "界面新闻",
+      "title": "OpenAI最新进展印证DeepSeek梁文锋AI行业预言 前沿技术预判精准落地",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ycjBZeVgxakxVbTM0bXQ3U0kyd3Brd1dBWUJQUkhxRDZLMDk4U21wLTRzWkNqWlhCNkNvbGtPUlBvQ2lXTVA2ZjJOMmdZMnVwajlz?oc=5",
+      "source": "36氪",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-19T03:14:25.000Z",
-      "summary": "美团推出面向全国餐饮商家的AI助手“妙手到店餐饮版”。",
+      "category": "ai",
+      "pubDate": "2026-11-18T19:14:00.000Z",
+      "summary": "OpenAI通用模型在机器人控制上取得突破，印证梁文锋AI行业预言。",
       "summaryZh": ""
     },
     {
-      "title": "思特威推出 3200 万像素图像传感器 SC303HS，主打手机前摄与超广角",
-      "link": "https://www.ithome.com/1/029/289.htm",
+      "title": "马斯克：预计未来 12-18 个月 Optimus 人形机器人能做家务劳动",
+      "link": "https://www.ithome.com/1/029/616.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-19T06:32:09.000Z",
-      "summary": "思特威发布3200万像素图像传感器SC303HS，主打手机前摄与超广角。",
+      "pubDate": "2026-11-19T10:01:52.000Z",
+      "summary": "马斯克预计Optimus人形机器人12-18个月内能做家务劳动。",
+      "summaryZh": ""
+    },
+    {
+      "title": "奇袭GPT-6.2！谷歌迄今最强Gemini登场，7周内第四发，RSI时代真来了",
+      "link": "https://zhidx.com/p/612128.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-19T01:03:51.000Z",
+      "summary": "谷歌发布Gemini 4 Neon模型，7周内第四款，主打复杂任务处理。",
+      "summaryZh": ""
+    },
+    {
+      "title": "特斯拉 Cybercab 自动驾驶订阅费高昂，用车四年后总成本将超 Model 3",
+      "link": "https://www.ithome.com/1/029/647.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-19T11:05:28.000Z",
+      "summary": "特斯拉Cybercab自动驾驶订阅费高，四年后总成本超Model 3。",
       "summaryZh": ""
     },
     {
@@ -33,33 +53,42 @@
       "summaryZh": ""
     },
     {
-      "title": "比亚迪投的深海机器人公司，完成股改！",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Ld3FnNTExSEVrY0t3dDNLNl9YX2c2emJzdzQ4S2Y1R3F1c0FHX3FEVFpPdU9fQkZDcnpkVk5SVUFVZzd2emhxeA?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-19T03:29:23.000Z",
-      "summary": "比亚迪投资深海机器人公司完成股份制改造。",
-      "summaryZh": ""
-    },
-    {
-      "title": "英伟达RTX Spark迷你AI工作站上市，最高支持本地运行1200亿参数大模型",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oaVZGc2tCR29XV2pXUU93cUxiM2x3Sm1HeGtnMldYRWE3S2M3UFoyMmpjbjE4RlJNcGNibkVwU3lQZkQ4OXo0R2pnTDJNLWVxeEJ4M2lscE5yZlp0WXc?oc=5",
+      "title": "Claude开AI工厂：7周造38个模型，狂揽5.5万下载",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aQWpYQ2o1WURybXVyUmZNUFVlRWlWZnNQSmg1Q0NqNVp5SG1rMVc1QmF4a1hSQUlaMWdDTnNuYS1HZnNTWXlLZFZ1aXA0QQ?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-18T23:54:35.000Z",
-      "summary": "英伟达RTX Spark迷你AI工作站支持本地运行1200亿参数大模型。",
+      "pubDate": "2026-11-18T18:31:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+      "link": "https://www.qbitai.com/2026/11/511071.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-19T03:01:45.000Z",
+      "summary": "范式智能推出双模型Phai-A1和Phai-M1，实现国产算力全链路训练。",
       "summaryZh": ""
     },
     {
-      "title": "三星电机与英伟达扩大AI芯片组件合作",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KbnRXQV9fb1hBS1BwYnFYQzJPTFJpckctU0pJbFFaQmFnQmt1NzYzWW4wQm9iSHpQRU1FRWhBVmllRDRweE51LWthUjcxc0I2eTQzekc3bVRaUQ?oc=5",
+      "title": "优必选周剑：人形机器人泛化能力尚待时日",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMTDJzZm1ZRDN2TnN0d2thTjdENUhmeW5lUFB3M1RDWVg0em1EQVdraGkxckQyNEZRVkVpLW1sTFR4MkF6b1BJT19IWkttOWFpTi1wUUlVVQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-19T06:56:57.000Z",
+      "summary": "优必选CEO周剑表示人形机器人泛化能力尚需时间发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "中国自主研发酶设计基座大模型“按需定制”工业酶",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpQ0NZT1lmTXZaZW00ZWhzbXFhU0VIUGhfd2RvcU9ySF9wWVpmQnlyLXdRVEcwN1NJSFVTQmQxMzhqMlpoVExvQVpDZzBjUEZJNjFHNklKZGhiQQ?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-18T08:32:00.000Z",
-      "summary": "三星电机与英伟达深化AI芯片组件合作，共同扩建生产设施。",
+      "pubDate": "2026-11-19T11:32:00.000Z",
+      "summary": "中国发布“天华开物”酶设计大模型，实现工业酶按需定制。",
       "summaryZh": ""
     },
     {
@@ -73,22 +102,23 @@
       "summaryZh": ""
     },
     {
-      "title": "美团“妙手到店餐饮版”：让AI帮商家分担琐事，把时间留给菜品和顾客",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZMnZhZ2tOdHcybU1oVXgtVENnRmlHVDZTalNscW5PNDVOQzZxUFJOMEgtREI3REViRDBvSDExV3NfYjRVRGp3QU5TV3lQdw?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-18T13:47:59.000Z",
-      "summary": ""
-    },
-    {
-      "title": "财联社11月19日电，马斯克称，特斯拉将在未来两个月内进行Optimus机器人演示。SpaceX正在开发AI模型Grok 4.8。",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE96eWtrYzIxdVVsajk1Zndnd1NscHhEWmNtR29BUmFlQzFrYi1lNzhGNy11RWZQMDVHLUdURjVMUTZVOHd2cHc?oc=5",
-      "source": "财联社",
+      "title": "万得与华泰证券签署人工智能战略合作协议",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lTlU3M184Q05vc0wzc2tPZHgzaFI1blJZOHNpd21hd0lJMlFNSk1aNzl0Y3BHekwtZ1hFYU53WFg5WjdfdzV4NUJMeEZaajlGM1pXemhTR2k?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-18T07:59:00.000Z",
-      "summary": "马斯克宣布特斯拉两个月内演示Optimus机器人，SpaceX开发AI模型Grok 4.8。",
+      "pubDate": "2026-11-19T08:41:33.000Z",
+      "summary": "万得与华泰证券签署AI战略合作协议，共同探索金融AI创新应用。",
+      "summaryZh": ""
+    },
+    {
+      "title": "联想集团杨元庆：对AI算力需求的长期增长充满信心",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoUmI4ODZMZXBMY2Y1R010cFpCUVRINzdELW4xWHJrbEdMRGV1cnQ2Q0RhQ3lxY0stb3hWTEZyRE9jNHE3ZGVfQURRdXdYM0o0YjlkdnJpTnY?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-19T04:41:13.000Z",
+      "summary": "联想集团杨元庆表示对AI算力需求长期增长充满信心。",
       "summaryZh": ""
     },
     {
@@ -98,7 +128,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-18T20:17:57.000Z",
-      "summary": "腾讯预计2028年AI投入产出效率将因基础设施复用、硬件降价和算力提升而改善。",
+      "summary": "腾讯高管预计2028年AI投入产出效率将因基础设施复用、硬件降价和算力提升而改善。",
       "summaryZh": ""
     },
     {
@@ -124,6 +154,56 @@
       "titleZh": "从商业规模到实体智能：机器人技术的下一个挑战"
     },
     {
+      "title": "美团发布商家AI助手“妙手到店餐饮版”，面向全国餐饮商家开放",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UMVp2RGNqcHhBT3RrVGt3V3pFTnRmcXF4RzhpalA0bmgtb0w3cUx0THNhb3pJM3pPLUNuajlQc2M5eWtJcEJqejAtb2pmQzBROW01SjVycjRpZ0FlNXdTYTU0SHloQVhsbVRsX1VMdEdXOTV1Zm14Z00weEI?oc=5",
+      "source": "新华社",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-19T09:05:52.000Z",
+      "summary": "美团推出面向全国餐饮商家的AI助手“妙手到店餐饮版”，助力商家智能管理。",
+      "summaryZh": ""
+    },
+    {
+      "title": "瞄准企业AI规模化落地 亚马逊云科技升级在华技术布局",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IWlcySGFJZFZqVWRLem1UQWRUcm8wMmRlTGgxd3BLYmpqczVuMDhIVm9RTTJfVzBEM0ZxNDFxU2lkREwtR3Q2QzlnWXZRVExDblhyMERhRnN2OUNJQjhwWVJR?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-18T23:31:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Humyn Labs raises $47M to collect real-world data for robotics",
+      "link": "https://www.therobotreport.com/humyn-labs-raises-47m-to-collect-real-world-data-for-robotics/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-18T22:43:06.000Z",
+      "summary": "Humyn Labs获4700万美元投资，用于收集机器人真实世界数据。",
+      "summaryZh": "",
+      "titleZh": "Humyn Labs 筹集了 4700 万美元来收集机器人的真实数据"
+    },
+    {
+      "title": "梁建章：旅行不可能被AI或者机器人替代，中国入境游的增长潜力非常大",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IQW10N2M0cG5IcE1FeUNwUzFHelFSem01Q01RQTJVa1NHUnRxblp6SzdsdlgxeHl3cHFKREJkREZ6RHo3UHVWenNPemVBQUs1QkZtRWF6SDEzMVoyd2p2cw?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-19T03:14:26.000Z",
+      "summary": "梁建章认为中国入境游增长潜力大，携程将投入150亿宣传推广。",
+      "summaryZh": ""
+    },
+    {
+      "title": "天津港：智能运输机器人跑出新效率",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUklUeWh2S09id3NzS2pVVFUwSXdOTE15U3U0c25sYURiRmNIY3B5X0V6cE9UamVCZVRuSVpWWHZ4Y01fdkRIRHhNYXpxLWR3cU1fX3hSOExDSGxzajJLaDV2STlQQzlPblZUNy0tcDBZenNYTmdYUHBiTl9xcFJqUmFQMUZjVERS?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-19T07:38:13.000Z",
+      "summary": "天津港智能运输机器人提升效率，实现“重去重回”优化作业流程。",
+      "summaryZh": ""
+    },
+    {
       "title": "Litter-Robot Promo Codes: Up to $150 Off",
       "link": "https://www.wired.com/story/litter-robot-promo-code/",
       "source": "Wired",
@@ -146,13 +226,34 @@
       "titleZh": "百思买再次在网上和店内销售蓝光光盘"
     },
     {
-      "title": "雪榕生物新设智能科技公司 含AI及机器人业务",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JN09TOXktcUVHTUxrRElnRWNsSnlNMmR3c2F5bVYzMVRCVC1ZelZJV1dHcm9vYW05THJuSVJMY2pZc2o5RWxMQ0ZNdFJLeXRjMS1BOW9DeUlXR2xMbVE?oc=5",
-      "source": "同花顺财经",
+      "title": "云南绿春：哈尼长街古宴开席 机器人方队首次亮相",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBTU9jLWwwZmN1QWtLZGc3eVVvZFVLdnFFRmVFMUd1VDl6WEdjNjlpeGNuUlpSX01JQ0ctSFFteHp1OHJBSDBFYmx4M3dQMWZCdEZzWGY5NzhRVXhpdGRDM2Vocl9sOGtoX0xZM1QxbEV2NGktMDNsTXBfOXdpeHc?oc=5",
+      "source": "新华网科技",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-19T05:07:22.000Z",
-      "summary": ""
+      "pubDate": "2026-11-18T12:35:21.000Z",
+      "summary": "云南绿春哈尼长街古宴开席，机器人方队首次加入巡游。",
+      "summaryZh": ""
+    },
+    {
+      "title": "雪榕生物新设智能科技公司 含AI及机器人业务",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfOW5CNGx0QlRIdWFYVkF2WHVKYjFxWkFaQlNTLVplZV95RjdEd2ptMW5xRHB2cHFWeXZvNEhCNUdjS3Rka2s1cmFDMHRjbWJS?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-19T04:57:03.000Z",
+      "summary": "雪榕生物成立智能科技公司，涉AI及机器人业务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "科技观察｜通用AI席卷千行百业，为何自动驾驶是个例外",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YcGNxbnlVcm84c1dYcXBnV3YzcVk2Tm1QLXBMcWx6VGJGNXkyOWRGa3hTbHI0RDZJbmVIVFlNUHM4LXl6a1dZVVk3dFRpWmctWFhGLWtoc1pRZkFmZTdSNQ?oc=5",
+      "source": "光明网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-19T07:41:30.000Z",
+      "summary": "通用AI技术虽广泛渗透，但自动驾驶领域因安全要求高而成为例外。",
+      "summaryZh": ""
     },
     {
       "title": "深化数智赋能 共绘旅游发展新图景",
@@ -161,27 +262,8 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-19T01:17:02.000Z",
-      "summary": ""
-    },
-    {
-      "title": "“硅基赡养比”新命题 专家建议AI新增产出应纳入养老保障框架",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BSmpWZTNDZkdpTnVBUG9KVkQ2TWdldjVVNjdwc05QMk04ak02LUZwNFZtb2hWU05USEpkSkdKS29LT3JyRDZDaXdoa2RuUUJOY1B3WWt5NkdKNVNscmpRUEJ3?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-18T10:16:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Factories already using robots more optimistic about automation, finds RobCo study",
-      "link": "https://roboticsandautomationnews.com/2026/11/18/factories-already-using-robots-more-optimistic-about-automation-finds-robco-study/107316/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-18T21:17:26.000Z",
-      "summary": "自动化程度高的企业对剩余手动流程的自动化更有信心。",
-      "summaryZh": "",
-      "titleZh": "RobCo 研究发现，已经使用机器人的工厂对自动化更加乐观"
+      "summary": "2026年旅游行业高峰论坛聚焦数智赋能，共谋发展新路径。",
+      "summaryZh": ""
     }
   ]
 }
