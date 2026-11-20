@@ -1,25 +1,15 @@
 {
   "date": "2026-11-20",
-  "generatedAt": "2026-11-20T07:23:38.532Z",
+  "generatedAt": "2026-11-20T12:07:45.452Z",
   "items": [
     {
-      "title": "消息称英伟达将豪掷逾 5 亿美元，收购“比 ChatGPT 更快的 AI”公司 Inception",
-      "link": "https://www.ithome.com/1/029/886.htm",
-      "source": "IT之家",
+      "title": "阿里发布2027年Q2财报：阿里云AI收入增长53%，即时零售减亏",
+      "link": "https://www.tmtpost.com/8212798.html",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-20T06:15:40.000Z",
-      "summary": "英伟达拟收购AI公司Inception，交易估值超5亿美元。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI 邀部分 Plus 用户体验 dots AI 智能体，移动版 ChatGPT 将为其设独立标签页",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xNzhmX3JOaGViWmoxTnh5UzJFTVZ5NXRVbGh2Qm9fNVlsRnJQVlF5MkhBWHpXdkV2WGRvZFY5RDk5WjdiNUZZc29GV20?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-20T01:20:21.000Z",
-      "summary": "OpenAI邀请部分Plus用户测试dots AI智能体，移动版ChatGPT将设独立标签页。",
+      "category": "application",
+      "pubDate": "2026-11-20T10:31:54.000Z",
+      "summary": "阿里云AI收入增长53%，即时零售减亏，Q2营收2715.19亿元。",
       "summaryZh": ""
     },
     {
@@ -33,13 +23,33 @@
       "summaryZh": ""
     },
     {
-      "title": "北汽押注千TOPS算力芯片，舱驾融合还有多远？",
-      "link": "https://www.tmtpost.com/8210564.html",
-      "source": "钛媒体",
+      "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+      "link": "https://www.qbitai.com/2026/11/511610.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-20T03:50:49.000Z",
-      "summary": "北汽与新紫光合作研发千TOPS算力芯片，探索舱驾融合技术。",
+      "pubDate": "2026-11-20T08:04:58.000Z",
+      "summary": "华为云开源双榜第一的具身世界模型，基于昇腾算力实现软硬件协同优化。",
+      "summaryZh": ""
+    },
+    {
+      "title": "微软公布 USB4 多 Win11 电脑协同 AI 方案，搭积木式叠加内存 / 显卡算力跑本地模型",
+      "link": "https://www.ithome.com/1/030/081.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-20T08:25:51.000Z",
+      "summary": "微软推出基于USB4的Win11电脑协同AI方案，实现多机内存/显卡算力叠加运行本地模型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频",
+      "link": "https://zhidx.com/p/612799.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-20T10:54:15.000Z",
+      "summary": "开源团队推出插件，DeepSeek Harness学会制作视频动效。",
       "summaryZh": ""
     },
     {
@@ -49,7 +59,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-19T15:46:37.000Z",
-      "summary": "Anthropic高管称75%算力资源用于研发活动。",
+      "summary": "Anthropic将75%算力资源用于研发活动。",
       "summaryZh": ""
     },
     {
@@ -64,32 +74,62 @@
       "titleZh": "独家：OpenAI 推出 Performance Factory，这是一个由 Codex 支持的软件优化系统，可保持 ChatGPT 的快速运行"
     },
     {
-      "title": "从Anthropic敲钟，看中国大模型怎么定价？",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PVmUtdGM1Y2hkYlRWeTdVQ0t3WUlZX3d4MUFmYUE4a2c4R3gtUDZwbGJpMGJVLWZmRjVtUVdOT3YyT1VOM1BvdXo2QnVzdw?oc=5",
-      "source": "36氪",
-      "lang": "zh",
+      "title": "Apple Working on Own AI Agent to Rival OpenAI and Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQzRPX3FrZlMybjdvY2FJVWhVOHU5M2lTTGNPazZYUW0zVlA3ZkVRcWxERk9XM2FvXzgzVDVUaTYwTzVzOXg0TGQtN25fOE9aeTRtUXhqTGE2Q01zQ21iTUg1dmFTNGZQRV9hTDVBV3BjWW4tUzYxXzBVTzA1UzkyOEtySVhfbWZlbmRXSFd1bVZLZElzSThUMmlQVnAyOHJIWUs0YTBNVTBIM29HV2ZieUtzQ1d0SDVIVTA2VTRTYk4?oc=5",
+      "source": "Bloomberg",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-11-19T11:02:00.000Z",
-      "summary": ""
+      "pubDate": "2026-11-19T21:44:56.000Z",
+      "summary": "苹果公司正在开发自己的AI代理以竞争OpenAI和Anthropic。",
+      "summaryZh": "",
+      "titleZh": "苹果正在开发自己的 AI 代理来对抗 OpenAI 和 Anthropic"
     },
     {
-      "title": "DeepSeek限额：免费用户成了AGI的“拦路虎”？",
-      "link": "https://www.tmtpost.com/8212022.html",
-      "source": "钛媒体",
+      "title": "海天精工新设智能装备公司 含AI及机器人业务",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5wSlVBQl9hREdJNm9rTVRNLThqMDM5Wk9pTFhQaWRaZ2J3bmZVbEgtS2tDMUhPQ1hQcERlUG9JVjlrNmFOS2c?oc=5",
+      "source": "财联社",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-20T03:39:27.000Z",
-      "summary": "DeepSeek对免费用户实施限额，转向以付费API服务开发者和企业客户。",
+      "category": "robotics",
+      "pubDate": "2026-11-19T18:08:00.000Z",
+      "summary": "海天精工成立智能装备公司，涉AI及机器人业务。",
       "summaryZh": ""
     },
     {
-      "title": "又一家估值千亿的Agent巨头诞生！",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKaVN4MURHSkstVnhwQ1FxdGEwbTBWcVdkTUtJZUlHcEpaT1VHRlBILTZOSGhGNDFVVVdOcnh4U1piMFlPdTEwTw?oc=5",
+      "title": "AI比人贵了…OpenAI：内部Agent开销已达研究员薪酬两倍",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IeFN6dlZ4MXNRZDBLTmlPX05OYkpQZzFOb0VWUzNHMUt2M2pEeGpZYzZWbk1pWEN5anBxd2FPZ044N241X0hwSW5PbjJIQQ?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-19T15:41:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "腾讯姚顺雨重返清华姚班：聊大模型不靠“赛马”拼指标，RSI要落到具体工程",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fNDZ1RlVEZndHR0Z4QmtQdTYwMVdfNFNxUW1rVEQ4cGI3eEFVU2ZMQzMxT1FZanVmNkNyLWU4c19jaEdFTVBHWG40ajhjUQ?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-19T19:11:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "SpaceX拟于周四发行至少320亿美元AI芯片债务",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IY2pqdUZiLWRleTctZ0hITUkwY2lObThBMTJhTmxlUm12cXhENF93Q3pBbFpjb0dCRU1jU2lEZ09INVBmQUEzR0E2WDBhTV80V2RNSWxYMXVfdw?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-19T14:59:00.000Z",
+      "summary": "SpaceX计划周四发行至少320亿美元AI芯片债务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "近2亿！江苏AI芯片创企获新融资，背靠国产GPU龙头",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TX19Xb0pKb3A2cXlkdTdwOXNCcHNVaHJSVldiWFdlSTU1cVJqajAzc21iaFlGRHFMb2Zsa1ZXV2VTZk9ieWgyMQ?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-19T10:29:06.000Z",
-      "summary": "美国AI创企Sierra融资15亿美元，估值达300亿美元。",
+      "pubDate": "2026-11-20T06:37:05.000Z",
+      "summary": "江苏AI芯片创企诚恒微获近2亿人民币A轮融资，资金将用于业务拓展和芯片量产。",
       "summaryZh": ""
     },
     {
@@ -103,85 +143,32 @@
       "summaryZh": ""
     },
     {
-      "title": "国金证券：AI芯片功耗与热点密度持续提升 推动高导热散热材料需求增长",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6RV9GSDVaLXA0Mm1FNzJPdHhtVTdrTHc0eVprYTlOUFp4Ylc2RzFETWk3LUp3TFhQZmplZlJ1dUxVMEpiMWtHTGR0aU9CT3NXd2lJ?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-19T23:53:22.000Z",
-      "summary": "AI芯片功耗提升推动高导热散热材料需求增长。",
-      "summaryZh": ""
-    },
-    {
-      "title": "巨头AI基建资本开支高增长，创业板算力ETF易方达（158050）获资金关注",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tdHpPSU9vbWVvMnF6Nlc0SEhtQUM0VzR1QkdGMjRDOWYwNWdaTlN1aWVQbmViNENoMWs3d0ZXN1ZCcTUwcUNEOQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-20T05:46:39.000Z",
-      "summary": "易方达创业板算力ETF（158050）本周获约1.7亿元资金净流入。",
-      "summaryZh": ""
-    },
-    {
-      "title": "快手 CEO 程一笑：Kling 4.0 模型已经进入游戏和具身智能等场景",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBc1lPRm9lVG5FanoyM21ERkQ4RW5xdWY1VFJXVm5OcVJ2VGJ0T0kwcDZsNXdjd0xzeFBpLXZBMmFyN2ltZTZVb2Q3WGozRTBabVdHTXN4NWpjNldDNVVNbkU5d0wwcW1LZ1lNVHFvbC1nSEZnODdTRVQ2RUxibmM?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-19T13:36:29.000Z",
-      "summary": "快手 Kling 4.0 模型应用于游戏和具身智能等领域。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI赋能山海文旅 宁德“技能夜校”解锁文旅宣传新方式",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByRlpWak91UV83SFdZc0lRNlBwOTlIRnhqTzFkeTR5ZmhUSG8tQ2hNOGJ3NXdCOXBMZ2RHUnVCTkZpWnZFc1F6SEtuQVdEM2VZR0FwaFZTQXdYMWxuSHZDcFZ3aW9mcWhhMFVZYThJeTNsQQ?oc=5",
-      "source": "中国新闻网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-19T11:48:03.000Z",
-      "summary": "宁德“技能夜校”利用AI技术开展文旅宣传培训，助力文旅产业发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Serve Robotics opens its physical AI technology to other robot companies",
-      "link": "https://roboticsandautomationnews.com/2026/11/19/serve-robotics-opens-its-physical-ai-technology-to-other-robot-companies/107358/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-19T17:50:35.000Z",
-      "summary": "Serve Robotics向其他机器人公司开放其物理AI技术。",
-      "summaryZh": "",
-      "titleZh": "Serve Robotics向其他机器人公司开放其物理人工智能技术"
-    },
-    {
-      "title": "Boston Dynamics launches next-generation Stretch robot with major reliability upgrades",
-      "link": "https://roboticsandautomationnews.com/2026/11/19/boston-dynamics-launches-next-generation-stretch-robot-with-major-reliability-upgrades/107354/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-19T17:41:28.000Z",
-      "summary": "Boston Dynamics发布新一代Stretch机器人，可靠性大幅提升。",
-      "summaryZh": "",
-      "titleZh": "波士顿动力推出新一代 Stretch 机器人，可靠性大幅提升"
-    },
-    {
-      "title": "6600万！优必选两周连中三标，包揽学校、化工厂、国资平台",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLUmIyOS1qTVE0Nkd4cTJVVm5PTEU2LXlUc3dzajJjaTkwRG5LdGExdE0zdjRGQVkxWGtzOVgyX0d6OFdJZFlvM042ejlqdE42V3pJMmNGcw?oc=5",
+      "title": "客户案例 | 机器人出海欧盟，艾体宝ONEKEY如何构建固件安全管理能力？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fU1FDNEhYT1oySDlXT1Y5Nk1FOVA4eFlBYU9kX0s3YmkxWV9UNU92c1BleEdVODAzdnVyb1RwMFE3UFZET3M0UWtKUFE1d3NCeGR2UWtrSQ?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-19T09:13:49.000Z",
-      "summary": "优必选两周内接连中标，涵盖教育、化工和国资领域。",
+      "pubDate": "2026-11-20T08:49:29.000Z",
+      "summary": "艾体宝ONEKEY机器人固件安全验证技术助力欧盟市场。",
       "summaryZh": ""
     },
     {
-      "title": "国内首个能源化工行业具身智能数据集建成",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqQjdVMElSc1VDWnpZQmREd0R3bGR2dTktSUZmSDkzTmpMYXVUWlk3blVfRWFUWlNBN0Nwc0RpZ3Y2Zndyc1A3S25kdlc5aUNROVRlYTNvQ2VrQ0o0VkRVUlJXNVVXZzZiN2ItM2pUVlg4bjY3OXc?oc=5",
-      "source": "新浪财经",
+      "title": "新松机器人前三季度增收不增利",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VOGtRS0lDenRFdTRUWDVQQXlGc2ZlODN3UzZkOFc4S1FKdHBIME1mNDE3Q29yMFVUdUZNTEc4VGZPV3BBcFhOSE1MR28xeThJZEZjMGoyUk1jVlBZYmk1WkNn?oc=5",
+      "source": "中国经营网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-19T15:34:58.000Z",
-      "summary": "国内首个能源化工行业具身智能数据集建成，为行业模型训练提供数据支撑。",
+      "pubDate": "2026-11-19T15:28:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "智汇金陵聚势能，造领未来启新程 2026第十一届世界智能制造博览会在南京开幕",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BTWVXTkNpS2xKNGtIZUdEYmRhMDVKM1hxLXhRd2VUNmgxZUtBNHd3WFFBT3dDdTBHVUc4N0pvRXRuWnJPYTQwaDc1YzdSd0ZWTG1mRzZjWQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-20T08:36:53.000Z",
+      "summary": "2026第十一届世界智能制造博览会在南京开幕。",
       "summaryZh": ""
     },
     {
@@ -196,26 +183,34 @@
       "titleZh": "六英寸机器人可以检查传统相机无法到达的核废料管道"
     },
     {
-      "title": "Three Industrial AI Trends Reshaping Manufacturing Automation In 2027",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVEdiMDlpZERVTXJBNUNYSmEzMlVlSFA4OWxjZF9WMjVQZm9kSjN3Z3ZfMzdIYjloVFlBeG1tdU10c0Q1TTF1VzJGMnVYazZoMjh1QW1FYlN2NDR3c0RJQkxiVldtcjdSTHh5eHJieHZXbS03M0xHWVJfLV9kc0lfZDNhY0tSQmN5cDJVOTZLOHhHU0hWclY1T3lQaVJCR3RPdUFwOV9fYm9LQTBOWWd4UWViUjZyTF9aSGJWdGdlQUZIYWZQY0RBcmliV2RMOTVWMGc0Z3F4bDQxSUVTS1RaaXVMMA?oc=5",
-      "source": "Automation World",
-      "lang": "en",
+      "title": "福建省首个具身智能创新中心在鼓楼揭牌",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13cHpwY1ZDaHNaTENmVUNYR3NjQ0lfXzVmOXkyRndrV1M0VVRfQmFqU0RmS1I3YndLUWp4aG5HTU55Uy03SUlnODg4aFI3a1hIZkhYR2Q5S0FiVEZRTkQ1cnhGVS1ZeHdIc0hDQ1I1SDBBQUtUVm1hZ0hB?oc=5",
+      "source": "央视网",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-19T15:52:58.000Z",
-      "summary": "2027年三大工业AI趋势重塑制造业自动化。",
-      "summaryZh": "",
-      "titleZh": "工业人工智能三大趋势重塑2027年制造自动化"
+      "pubDate": "2026-11-20T02:09:40.000Z",
+      "summary": "福建省鼓楼区揭牌首个具身智能创新中心，聚焦产业生态建设。",
+      "summaryZh": ""
     },
     {
-      "title": "Insect-Inspired Hexapod Robot Achieves 95% Recovery Rate in Tests",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0LVhvOW5iS281N2ZsMlhOTzlVZ24zanlkV1NrWm5aalNrYVB4TGdWOEt6WllKakthV3pPcmEwY3BkMFZ6MVFsbXVCcUlzMUVITU1VSDRyYUJkdG02VjJF?oc=5",
-      "source": "AZoRobotics",
+      "title": "国内首个能源化工行业具身智能数据集建成",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqQjdVMElSc1VDWnpZQmREd0R3bGR2dTktSUZmSDkzTmpMYXVUWlk3blVfRWFUWlNBN0Nwc0RpZ3Y2Zndyc1A3S25kdlc5aUNROVRlYTNvQ2VrQ0o0VkRVUlJXNVVXZzZiN2ItM2pUVlg4bjY3OXc?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-19T15:34:58.000Z",
+      "summary": "国内首个能源化工行业具身智能数据集建成，为行业模型训练提供数据支撑。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Exclusive | Nestle Teams Up With Microsoft, Boston Dynamics on AI in Factories and Products",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUFvdy1NOXphTWxlN25CWVV2TlppczdLSERycm44cVJmNmF5Q1g5Y184Tmoyak96ekgyZDd4N1h2d3diVUktU1E5aGNtSm1hV2JyNUltOENIU3NLdW1OcEdKVUk0THhOWF94aVlhMUFrNTBULW5hckZ4eWppTG1uMmU1TW1zdmZzSC14QmZySElQbm53dWE1bnhoMVhYNEtCV3ViMGp1bTl3MzB3QnhnVjdGbVJmUQ?oc=5",
+      "source": "WSJ Tech",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-19T15:02:00.000Z",
-      "summary": "昆虫灵感六足机器人测试中恢复率达到95%。",
-      "summaryZh": "",
-      "titleZh": "受昆虫启发的六足机器人在测试中实现了 95% 的恢复率"
+      "pubDate": "2026-11-20T07:10:00.000Z",
+      "summary": "",
+      "titleZh": "独家|雀巢与微软、波士顿动力公司合作开发工厂和产品中的人工智能"
     }
   ]
 }
