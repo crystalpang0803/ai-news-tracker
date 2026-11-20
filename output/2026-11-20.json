@@ -1,25 +1,15 @@
 {
   "date": "2026-11-20",
-  "generatedAt": "2026-11-19T23:00:57.736Z",
+  "generatedAt": "2026-11-20T00:33:45.793Z",
   "items": [
     {
-      "title": "千亿融资落地！梁文锋隔离个人份额，31家机构入局DeepSeek",
-      "link": "https://zhidx.com/p/612352.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-19T10:30:15.000Z",
-      "summary": "DeepSeek完成千亿融资，31家机构入局，梁文锋隔离个人份额。",
-      "summaryZh": ""
-    },
-    {
-      "title": "快手 CEO 程一笑：Kling 4.0 模型已经进入游戏和具身智能等场景",
-      "link": "https://www.ithome.com/1/029/686.htm",
+      "title": "苹果正自研 AI 智能体：可操控设备、浏览网页、编写代码，以期与 OpenAI、Anthropic 竞争",
+      "link": "https://www.ithome.com/1/029/750.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-19T13:36:29.000Z",
-      "summary": "快手 Kling 4.0 模型应用于游戏和具身智能等领域。",
+      "category": "ai",
+      "pubDate": "2026-11-19T22:56:00.000Z",
+      "summary": "苹果自研AI智能体，旨在操控设备、浏览网页、编写代码，与OpenAI、Anthropic竞争。",
       "summaryZh": ""
     },
     {
@@ -33,63 +23,135 @@
       "summaryZh": ""
     },
     {
-      "title": "安谋科技发布“星辰100e”平台，搭最新Cortex-M42，给出AIoT算力新解",
-      "link": "https://zhidx.com/p/612074.html",
+      "title": "又一家估值千亿的Agent巨头诞生！",
+      "link": "https://zhidx.com/p/612230.html",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-19T00:00:00.000Z",
-      "summary": "安谋科技推出“星辰100e”平台，搭载Cortex-M42处理器，为AIoT提供高效算力解决方案。",
+      "pubDate": "2026-11-19T03:08:30.000Z",
+      "summary": "美国AI创企Sierra融资15亿美元，估值达300亿美元。",
       "summaryZh": ""
     },
     {
-      "title": "SpaceX拟于周四发行至少320亿美元AI芯片债务",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IY2pqdUZiLWRleTctZ0hITUkwY2lObThBMTJhTmxlUm12cXhENF93Q3pBbFpjb0dCRU1jU2lEZ09INVBmQUEzR0E2WDBhTV80V2RNSWxYMXVfdw?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-19T14:59:00.000Z",
-      "summary": "SpaceX计划周四发行至少320亿美元AI芯片债务。",
-      "summaryZh": ""
-    },
-    {
-      "title": "吴泳铭：平头哥自研AI芯片加速放量，承载内外部模型训练、推理需求",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yOWpYUzVtbUhFNjNWdEtjMF9POTdEM1BBY1JORUl0RE5PcjJqdURoWkZjV2s0c2YzWGJFR0M5YWx6ZHRqVF83NEd5a0M1OG03UEdzOFFlcERrUQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-19T12:13:00.000Z",
-      "summary": "平头哥AI芯片加速量产，支持内外部模型训练与推理。",
-      "summaryZh": ""
-    },
-    {
-      "title": "谷歌签约贝索斯旗下蓝色起源 计划2029年一季度发射多颗太空AI算力卫星",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4xM0tDMGMzU3dJM3NhWGFKUTBvRFk1bHZrX2FxSVdTdUtMM1lQYTlDWTB6VFZVaE5ENjRucl8xdUd1bTlLMkE?oc=5",
+      "title": "财联社11月19日电，人工智能公司Anthropic高管Rao表示，公司目前75%的算力资源分配给研发活动。",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0aURCTGo3Q3kwQU9xUnI4RUV3by1FU1Q1TkJKejNvX1R3S0xKcGdEM1lMWEd4NHhuZTc5UnZYXzlZOTU2U2lxLQ?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-18T23:20:00.000Z",
-      "summary": "谷歌与蓝色起源合作，计划2029年发射多颗AI算力卫星。",
+      "pubDate": "2026-11-19T15:46:37.000Z",
+      "summary": "Anthropic高管称75%算力资源用于研发。",
       "summaryZh": ""
     },
     {
-      "title": "新华读报｜“人工智能+”加速规模化落地",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd2tlRTM2Ml9jaWRFTFhuZTZuY1pjZ0JsLWV0SVZRVHNOZlBCdzVaVDdvV01JcDVSd0piMjlBUzVyVm5PVkxRTDJvdDVZQ1EtRzFWYjktZ1VRVEw5T2ZnX0QxVTRiQ2NXLUVXM1NqaFo0bzVnelRhTUU2eVp2OTdzb2NwdHY?oc=5",
-      "source": "新华网科技",
+      "title": "微软高管：Claude 和 ChatGPT 能做的，Copilot 能做的更好且更便宜",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xeHEyOGFDdmVvU3FJTi0yMEtUNlJid3FTenVoWFQ0OHVJZ1FES21pcWItZU5SV1pPcUx5RENlS01hTjRqenBwUXNyWTVpNU8zbDV2c3ZB?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-19T00:57:59.000Z",
-      "summary": "我国“人工智能+”应用从示范走向规模落地，30余个国家基地助力企业降门槛降成本。",
+      "pubDate": "2026-11-19T08:20:09.000Z",
+      "summary": "微软高管称Copilot功能优于Claude和ChatGPT，且成本更低。",
       "summaryZh": ""
     },
     {
-      "title": "大模型落地转向实体赛道：人形机器人爆发，精密五轴加工筑牢机器人关节壳体制造根基",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53d09QQ2xZVXEtcmltdzRBcUprUE1UUlRIQnkyTS1JbGtlRjV4SkZEV0ZPSzRVQkcwS2RNbU4tVjM4Q2tMUUdWTy05RVhjMEVvYkp6V0lRdw?oc=5",
+      "title": "深圳APEC李彦宏与王兴兴激辩AI与机器人落地瓶颈",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tVm05cTh1cEdERkxjZ3R6c3cwdkc3RUMtU0RVNXJLY1dhbmFiQ3hSZVIxUlZHU0w4YXJkS2FPMEZrdDFFMk1Lb3FZR2ZBNG1Bc0NUbXN3?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-19T04:26:24.000Z",
+      "summary": "深圳APEC李彦宏与王兴兴激辩AI与机器人落地瓶颈。"
+    },
+    {
+      "title": "OpenAI印证了梁文锋的“预言”",
+      "link": "https://www.tmtpost.com/8211368.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-20T00:05:00.000Z",
+      "summary": "OpenAI转向通用模型研发，机器人团队并入主要研究团队。",
+      "summaryZh": ""
+    },
+    {
+      "title": "大模型下沉撞上“内存墙”， 这颗国产3D TPU尝试给出解法",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzYzYwOGlqcUdSZ1RkRUthbXZERXhyRXJ4V3NWU3FVbmpDd1NiTTRyUXE5WVl2b05yMU1icjlJR0JURmF3Q2hvNg?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-19T06:13:21.000Z",
+      "summary": "国产3D TPU芯片迈特芯MEGA188解决大模型端侧推理内存墙问题。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国金证券：AI芯片功耗与热点密度持续提升 推动高导热散热材料需求增长",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6RV9GSDVaLXA0Mm1FNzJPdHhtVTdrTHc0eVprYTlOUFp4Ylc2RzFETWk3LUp3TFhQZmplZlJ1dUxVMEpiMWtHTGR0aU9CT3NXd2lJ?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-19T23:53:22.000Z",
+      "summary": "AI芯片功耗提升推动高导热散热材料需求增长。",
+      "summaryZh": ""
+    },
+    {
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-19T21:42:31.000Z",
+      "summary": "美科技巨头近期遭遇大规模技术故障，影响日常生活。",
+      "summaryZh": "",
+      "titleZh": "这些技术中断正在给千年虫、人工智能代理风格带来影响"
+    },
+    {
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-19T17:38:40.000Z",
+      "summary": "Meta AI代理Muse混淆对话或泄露用户隐私。",
+      "summaryZh": "",
+      "titleZh": "报告称，Meta 的人工智能代理 Muse 正在混淆对话，可能会泄露私人数据"
+    },
+    {
+      "title": "深圳APEC，机器人大佬们在聊啥？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WNzJqdnk4c0RHQ2lWSzNQVWVEQV8zcjlwd1ZDVGFHc2lTWjhnUEI4TzY4ZzhpM3ZFOEtaYmU5WHd6LWsweUg0Rzg3NEswY0d6cUd1TnpUTQ?oc=5",
       "source": "与非网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-19T06:11:24.000Z",
-      "summary": "人形机器人爆发，精密加工技术助力机器人关节壳体制造。",
+      "category": "robotics",
+      "pubDate": "2026-11-19T02:43:48.000Z",
+      "summary": "深圳APEC机器人大佬讨论人工智能安全与验证。",
+      "summaryZh": ""
+    },
+    {
+      "title": "红外技术：机器人的第二视觉",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UY29kOWY2YllYR1l4d1Q0R0k1b0dXb0ZMNS1jOFI0S2I3T1M1SVJVVjAwbEFVaHRuNS1mcjIzM2U0SV8zTVo1WGt0azRDVi1tVWRfT0xQNA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-19T05:24:11.000Z",
+      "summary": "红外技术助力机器人实现类似人类视觉的功能。",
+      "summaryZh": ""
+    },
+    {
+      "title": "What industrial drone deployments reveal about real-world autonomy challenges",
+      "link": "https://www.therobotreport.com/what-industrial-drone-deployments-reveal-about-real-world-autonomy-challenges/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-19T17:01:55.000Z",
+      "summary": "工业无人机部署揭示现实自主性挑战。",
+      "summaryZh": "",
+      "titleZh": "工业无人机的部署揭示了现实世界的自主挑战"
+    },
+    {
+      "title": "AI替代大量人类工作后干什么？携程梁建章：未来更多人会去旅游",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LWGVqQUdDU2Q4dGFNZmdSR2lmcUZIZXhLeF9wel90V2t4c0d5NzhiclF2eU82NnBXSnVDczJvNzhEbEdlSVZObTFhcVRpR09XV1pYRjQwMUNHTTRwM2VQUTdkb2lPNmtXX1RSZWw4a3d5YlYybTJiTkZ5S0I5dVk?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-19T02:45:00.000Z",
+      "summary": "携程梁建章预测AI时代旅游业将成长期增长行业。",
       "summaryZh": ""
     },
     {
@@ -114,27 +176,6 @@
       "titleZh": "Serve Robotics向其他机器人公司开放其物理人工智能技术"
     },
     {
-      "title": "Boston Dynamics launches next-generation Stretch robot with major reliability upgrades",
-      "link": "https://roboticsandautomationnews.com/2026/11/19/boston-dynamics-launches-next-generation-stretch-robot-with-major-reliability-upgrades/107354/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-19T17:41:28.000Z",
-      "summary": "Boston Dynamics发布第二代Stretch机器人，大幅提升可靠性和维护性。",
-      "summaryZh": "",
-      "titleZh": "波士顿动力推出新一代 Stretch 机器人，可靠性大幅提升"
-    },
-    {
-      "title": "6600万！优必选两周连中三标，包揽学校、化工厂、国资平台",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLUmIyOS1qTVE0Nkd4cTJVVm5PTEU2LXlUc3dzajJjaTkwRG5LdGExdE0zdjRGQVkxWGtzOVgyX0d6OFdJZFlvM042ejlqdE42V3pJMmNGcw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-19T09:13:49.000Z",
-      "summary": "优必选两周内连续中标，涵盖教育、化工和国资领域。",
-      "summaryZh": ""
-    },
-    {
       "title": "Six-inch robot could inspect nuclear waste pipes beyond reach of conventional cameras",
       "link": "https://techxplore.com/news/2026-11-inch-robot-nuclear-pipes-conventional.html",
       "source": "Tech Xplore",
@@ -144,38 +185,6 @@
       "summary": "六英寸机器人可检查常规摄像头无法触及的核废料管道。",
       "summaryZh": "",
       "titleZh": "六英寸机器人可以检查传统相机无法到达的核废料管道"
-    },
-    {
-      "title": "Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWFFQXhWNzlaWHRMZ2E5dWdTY0pIa2dVci0wa0VETFVvZXRzS2Z3Vm9uenBueTdiNFVpQmxXTHBGUm1IS04tdEJuaTJKY0hoVHhsSWVhOGNFeUcyc09LSlV3aG05bzMycGZDa29JM3hvRFp1bm1UV1ZLblBFdzBMdVdMSzh4Zlk3M1drZm8tNUIyQ00?oc=5",
-      "source": "WSJ Tech",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-19T21:41:03.000Z",
-      "summary": "",
-      "titleZh": "独家|机器人初创公司 Genesis AI 融资 5 亿美元"
-    },
-    {
-      "title": "Three Industrial AI Trends Reshaping Manufacturing Automation In 2027",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVEdiMDlpZERVTXJBNUNYSmEzMlVlSFA4OWxjZF9WMjVQZm9kSjN3Z3ZfMzdIYjloVFlBeG1tdU10c0Q1TTF1VzJGMnVYazZoMjh1QW1FYlN2NDR3c0RJQkxiVldtcjdSTHh5eHJieHZXbS03M0xHWVJfLV9kc0lfZDNhY0tSQmN5cDJVOTZLOHhHU0hWclY1T3lQaVJCR3RPdUFwOV9fYm9LQTBOWWd4UWViUjZyTF9aSGJWdGdlQUZIYWZQY0RBcmliV2RMOTVWMGc0Z3F4bDQxSUVTS1RaaXVMMA?oc=5",
-      "source": "Automation World",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-19T15:52:58.000Z",
-      "summary": "2027年三大工业AI趋势重塑制造业自动化。",
-      "summaryZh": "",
-      "titleZh": "工业人工智能三大趋势重塑2027年制造自动化"
-    },
-    {
-      "title": "Insect-Inspired Hexapod Robot Achieves 95% Recovery Rate in Tests",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0LVhvOW5iS281N2ZsMlhOTzlVZ24zanlkV1NrWm5aalNrYVB4TGdWOEt6WllKakthV3pPcmEwY3BkMFZ6MVFsbXVCcUlzMUVITU1VSDRyYUJkdG02VjJF?oc=5",
-      "source": "AZoRobotics",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-19T15:02:00.000Z",
-      "summary": "昆虫灵感六足机器人测试中恢复率达95%。",
-      "summaryZh": "",
-      "titleZh": "受昆虫启发的六足机器人在测试中实现了 95% 的恢复率"
     }
   ]
 }
