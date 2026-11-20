@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "generatedAt": "2026-11-20T01:26:44.986Z",
+  "generatedAt": "2026-11-20T02:25:06.672Z",
   "items": [
     {
       "title": "OpenAI 邀部分 Plus 用户体验 dots AI 智能体，移动版 ChatGPT 将为其设独立标签页",
@@ -10,6 +10,16 @@
       "category": "ai",
       "pubDate": "2026-11-20T01:20:21.000Z",
       "summary": "OpenAI邀请部分Plus用户测试dots AI智能体，移动版ChatGPT将设独立标签页。",
+      "summaryZh": ""
+    },
+    {
+      "title": "千亿融资落地！梁文锋隔离个人份额，31家机构入局DeepSeek",
+      "link": "https://zhidx.com/p/612352.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-19T10:30:15.000Z",
+      "summary": "DeepSeek完成千亿融资，31家机构入局，梁文锋隔离个人份额。",
       "summaryZh": ""
     },
     {
@@ -29,7 +39,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-20T00:00:26.000Z",
-      "summary": "1-10月智能眼镜销售额增长1倍，具身智能机器人销售额增长25.2%。",
+      "summary": "1-10月智能眼镜销售额翻倍，具身智能机器人销售额增25.2%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+      "link": "https://www.qbitai.com/2026/11/511426.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-20T01:07:38.000Z",
+      "summary": "华为云CloudRobo发布具身世界模型，助力机器人从实验室走向真实现场。",
       "summaryZh": ""
     },
     {
@@ -58,7 +78,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-19T15:46:37.000Z",
-      "summary": "Anthropic高管称75%算力资源用于研发。",
+      "summary": "Anthropic将75%算力资源用于研发活动。",
+      "summaryZh": ""
+    },
+    {
+      "title": "微软高管：Claude 和 ChatGPT 能做的，Copilot 能做的更好且更便宜",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xeHEyOGFDdmVvU3FJTi0yMEtUNlJid3FTenVoWFQ0OHVJZ1FES21pcWItZU5SV1pPcUx5RENlS01hTjRqenBwUXNyWTVpNU8zbDV2c3ZB?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-19T08:20:09.000Z",
+      "summary": "微软高管称Copilot在成本和性能上优于Claude和ChatGPT。",
       "summaryZh": ""
     },
     {
@@ -68,18 +98,18 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-19T17:00:00.000Z",
-      "summary": "OpenAI推出基于Codex的软件优化系统“性能工厂”，以保持ChatGPT运行速度。",
+      "summary": "OpenAI推出基于Codex的软件优化系统Performance Factory，以保持ChatGPT运行速度。",
       "summaryZh": "",
       "titleZh": "独家：OpenAI 推出 Performance Factory，这是一个由 Codex 支持的软件优化系统，可保持 ChatGPT 的快速运行"
     },
     {
-      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkQUpLWFg5MkNRWUR2THlia3RVYkh2NzNtZzVkTWZJNFVxaDEzYU40RGpwR3ZZQXFheWlYN0tpUGxOMERzVGx3OXFGUnlEaS1qbkgtcQ?oc=5",
-      "source": "量子位",
+      "title": "壹评级：AI云成为阿里巴巴收入支柱，自研芯片重塑算力定价权",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93RTdIMkFnUy1hbHkxOTJmd1ZRNWtzaTd5Wm1uNXBZcWxSaGRpSC14dm1pU2ZmYXp6clNrQVZVemoyRGFFTHA5S0ljaHVZd0lIaWhr?oc=5",
+      "source": "第一财经",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-20T01:07:38.000Z",
-      "summary": "华为云CloudRobo发布具身世界模型，助力机器人从实验室走向真实现场。",
+      "category": "ai",
+      "pubDate": "2026-11-20T01:39:37.000Z",
+      "summary": "阿里巴巴AI云业务成为收入支柱，自研芯片助力算力定价权提升。",
       "summaryZh": ""
     },
     {
@@ -89,7 +119,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-19T23:53:22.000Z",
-      "summary": "AI芯片功耗提升带动高导热散热材料需求增长。",
+      "summary": "AI芯片功耗提升推动高导热散热材料需求增长。",
+      "summaryZh": ""
+    },
+    {
+      "title": "苹果正自研AI智能体 正面挑战OpenAI和Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB6b1h0OXRBMVNvWkdIX2wyU2duckQyanZSR2U5NEItNnJqM0VWZlpXWFI3eFRtVFozc0NMY3R4QUZyb0cwVFE?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-19T09:17:00.000Z",
+      "summary": "苹果研发自主AI代理，挑战OpenAI和Anthropic。",
       "summaryZh": ""
     },
     {
@@ -110,29 +150,18 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-19T21:42:31.000Z",
-      "summary": "美国多企业近期遭遇技术故障，影响日常生活。",
+      "summary": "美科技巨头近期遭遇大规模技术故障，影响日常生活。",
       "summaryZh": "",
-      "titleZh": "这些技术中断正在带来千年虫、人工智能代理风格"
+      "titleZh": "这些技术中断正在给千年虫、人工智能代理风格带来影响"
     },
     {
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-19T22:31:41.000Z",
-      "summary": "苹果招聘工程师打造自研AI代理。",
-      "summaryZh": "",
-      "titleZh": "苹果正在招聘工程师来构建自己的人工智能代理"
-    },
-    {
-      "title": "白鸽在线：深化险企战略合作，AI风控大模型加速规模化落地",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iYkM4alhJTk1oYTNUQ1V0aTFQRk9iLUpGU0RUbkEzVEVudENCbzhfOTcwR3pKWVoxakpJcmVnTjdMcHF6U1RZMUx4MVpKNDB4NFlmTU5OcDJGRkVQVHoySg?oc=5",
-      "source": "同花顺财经",
+      "title": "优必选的美女帅哥们，想进家门再等等",
+      "link": "https://www.tmtpost.com/8211613.html",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-19T09:08:33.000Z",
-      "summary": "白鸽在线与三家保险公司合作，AI风控大模型加速保险科技落地。",
+      "category": "robotics",
+      "pubDate": "2026-11-20T01:31:25.000Z",
+      "summary": "优必选人形机器人U1 Pro虽获大订单，但尚未进入家庭市场。",
       "summaryZh": ""
     },
     {
@@ -143,16 +172,6 @@
       "category": "robotics",
       "pubDate": "2026-11-19T07:21:27.000Z",
       "summary": "晶尊微SC01B芯片实现割草机器人隔壳式雨水检测技术。",
-      "summaryZh": ""
-    },
-    {
-      "title": "深圳APEC，机器人大佬们在聊啥？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WNzJqdnk4c0RHQ2lWSzNQVWVEQV8zcjlwd1ZDVGFHc2lTWjhnUEI4TzY4ZzhpM3ZFOEtaYmU5WHd6LWsweUg0Rzg3NEswY0d6cUd1TnpUTQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-19T02:43:48.000Z",
-      "summary": "深圳APEC机器人大佬讨论安全验证技术。",
       "summaryZh": ""
     },
     {
@@ -183,8 +202,17 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-19T11:48:03.000Z",
-      "summary": "宁德“技能夜校”利用AI技术开启文旅宣传新模式。",
+      "summary": "宁德“技能夜校”利用AI技术开启文旅宣传新途径。",
       "summaryZh": ""
+    },
+    {
+      "title": "新松机器人前三季度增收不增利",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VOGtRS0lDenRFdTRUWDVQQXlGc2ZlODN3UzZkOFc4S1FKdHBIME1mNDE3Q29yMFVUdUZNTEc4VGZPV3BBcFhOSE1MR28xeThJZEZjMGoyUk1jVlBZYmk1WkNn?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-19T15:28:00.000Z",
+      "summary": ""
     },
     {
       "title": "Serve Robotics opens its physical AI technology to other robot companies",
@@ -196,6 +224,28 @@
       "summary": "Serve Robotics向其他机器人公司开放其物理AI技术。",
       "summaryZh": "",
       "titleZh": "Serve Robotics向其他机器人公司开放其物理人工智能技术"
+    },
+    {
+      "title": "Boston Dynamics launches next-generation Stretch robot with major reliability upgrades",
+      "link": "https://roboticsandautomationnews.com/2026/11/19/boston-dynamics-launches-next-generation-stretch-robot-with-major-reliability-upgrades/107354/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-19T17:41:28.000Z",
+      "summary": "Boston Dynamics发布新一代Stretch机器人，可靠性大幅提升。",
+      "summaryZh": "",
+      "titleZh": "波士顿动力推出新一代 Stretch 机器人，可靠性大幅提升"
+    },
+    {
+      "title": "Six-inch robot could inspect nuclear waste pipes beyond reach of conventional cameras",
+      "link": "https://techxplore.com/news/2026-11-inch-robot-nuclear-pipes-conventional.html",
+      "source": "Tech Xplore",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-19T16:40:04.000Z",
+      "summary": "六英寸机器人可检查常规摄像头无法触及的核废料管道。",
+      "summaryZh": "",
+      "titleZh": "六英寸机器人可以检查传统相机无法到达的核废料管道"
     }
   ]
 }
