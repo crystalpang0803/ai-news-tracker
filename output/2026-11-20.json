@@ -1,7 +1,17 @@
 {
   "date": "2026-11-20",
-  "generatedAt": "2026-11-20T03:44:24.296Z",
+  "generatedAt": "2026-11-20T07:23:38.532Z",
   "items": [
+    {
+      "title": "消息称英伟达将豪掷逾 5 亿美元，收购“比 ChatGPT 更快的 AI”公司 Inception",
+      "link": "https://www.ithome.com/1/029/886.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-20T06:15:40.000Z",
+      "summary": "英伟达拟收购AI公司Inception，交易估值超5亿美元。",
+      "summaryZh": ""
+    },
     {
       "title": "OpenAI 邀部分 Plus 用户体验 dots AI 智能体，移动版 ChatGPT 将为其设独立标签页",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xNzhmX3JOaGViWmoxTnh5UzJFTVZ5NXRVbGh2Qm9fNVlsRnJQVlF5MkhBWHpXdkV2WGRvZFY5RDk5WjdiNUZZc29GV20?oc=5",
@@ -10,16 +20,6 @@
       "category": "ai",
       "pubDate": "2026-11-20T01:20:21.000Z",
       "summary": "OpenAI邀请部分Plus用户测试dots AI智能体，移动版ChatGPT将设独立标签页。",
-      "summaryZh": ""
-    },
-    {
-      "title": "千亿融资落地！梁文锋隔离个人份额，31家机构入局DeepSeek",
-      "link": "https://zhidx.com/p/612352.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-19T10:30:15.000Z",
-      "summary": "DeepSeek完成千亿融资，31家机构加入，梁文锋退出直接合伙人。",
       "summaryZh": ""
     },
     {
@@ -33,32 +33,23 @@
       "summaryZh": ""
     },
     {
-      "title": "GPT-6.2 Astra机械臂测试登顶，OpenAI调整机器人团队并转向通用模型路线",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxdW9HTDhSMU03S0JwRml5ZGhCTDYtVFZQb1QtUUJueE9yMjJDdDBBazFNaXRnNVo2RWhUaUtRbWl4NWJ1VVhXdkVWNFlMMm52OG12Rw?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-19T13:07:04.000Z",
-      "summary": ""
-    },
-    {
-      "title": "高开又跳水，巨头组团押注 Anthropic：AI 大模型的公开市场考题才刚刚开始",
-      "link": "https://www.tmtpost.com/8212110.html",
+      "title": "北汽押注千TOPS算力芯片，舱驾融合还有多远？",
+      "link": "https://www.tmtpost.com/8210564.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-20T02:58:50.000Z",
-      "summary": "巨头押注AI大模型公司Anthropic，公开市场定价权首次显现。",
+      "pubDate": "2026-11-20T03:50:49.000Z",
+      "summary": "北汽与新紫光合作研发千TOPS算力芯片，探索舱驾融合技术。",
       "summaryZh": ""
     },
     {
-      "title": "微软高管：Claude 和 ChatGPT 能做的，Copilot 能做的更好且更便宜",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xeHEyOGFDdmVvU3FJTi0yMEtUNlJid3FTenVoWFQ0OHVJZ1FES21pcWItZU5SV1pPcUx5RENlS01hTjRqenBwUXNyWTVpNU8zbDV2c3ZB?oc=5",
-      "source": "腾讯新闻",
+      "title": "财联社11月19日电，人工智能公司Anthropic高管Rao表示，公司目前75%的算力资源分配给研发活动。",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0aURCTGo3Q3kwQU9xUnI4RUV3by1FU1Q1TkJKejNvX1R3S0xKcGdEM1lMWEd4NHhuZTc5UnZYXzlZOTU2U2lxLQ?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-19T08:20:09.000Z",
-      "summary": "微软高管称Copilot性能优于Claude和ChatGPT且成本更低。",
+      "pubDate": "2026-11-19T15:46:37.000Z",
+      "summary": "Anthropic高管称75%算力资源用于研发活动。",
       "summaryZh": ""
     },
     {
@@ -68,7 +59,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-19T17:00:00.000Z",
-      "summary": "OpenAI推出基于Codex的软件优化系统Performance Factory，提升ChatGPT运行速度。",
+      "summary": "OpenAI推出基于Codex的软件优化系统“性能工厂”，以保持ChatGPT运行速度。",
       "summaryZh": "",
       "titleZh": "独家：OpenAI 推出 Performance Factory，这是一个由 Codex 支持的软件优化系统，可保持 ChatGPT 的快速运行"
     },
@@ -82,33 +73,23 @@
       "summary": ""
     },
     {
-      "title": "SpaceX拟于周四发行至少320亿美元AI芯片债务",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IY2pqdUZiLWRleTctZ0hITUkwY2lObThBMTJhTmxlUm12cXhENF93Q3pBbFpjb0dCRU1jU2lEZ09INVBmQUEzR0E2WDBhTV80V2RNSWxYMXVfdw?oc=5",
+      "title": "DeepSeek限额：免费用户成了AGI的“拦路虎”？",
+      "link": "https://www.tmtpost.com/8212022.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-19T14:59:00.000Z",
-      "summary": "SpaceX计划周四发行至少320亿美元AI芯片债务。",
+      "pubDate": "2026-11-20T03:39:27.000Z",
+      "summary": "DeepSeek对免费用户实施限额，转向以付费API服务开发者和企业客户。",
       "summaryZh": ""
     },
     {
-      "title": "苹果正自研 AI 智能体：可操控设备、浏览网页、编写代码，以期与 OpenAI、Anthropic 竞争",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WeUFuLW9maU42ZmJHc3NxeXl0MnZGcXJFWjdSN2RLUmpxQ0F0ZU1mUTl6bUUwcVhBVEtldEpJNW5TR3VGa1pITW13a3o?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-19T22:56:00.000Z",
-      "summary": "苹果研发自主AI智能体，旨在操控设备、浏览网页、编写代码，与OpenAI等竞争。",
-      "summaryZh": ""
-    },
-    {
-      "title": "大模型下沉撞上“内存墙”， 这颗国产3D TPU尝试给出解法",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzYzYwOGlqcUdSZ1RkRUthbXZERXhyRXJ4V3NWU3FVbmpDd1NiTTRyUXE5WVl2b05yMU1icjlJR0JURmF3Q2hvNg?oc=5",
+      "title": "又一家估值千亿的Agent巨头诞生！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKaVN4MURHSkstVnhwQ1FxdGEwbTBWcVdkTUtJZUlHcEpaT1VHRlBILTZOSGhGNDFVVVdOcnh4U1piMFlPdTEwTw?oc=5",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-19T06:13:21.000Z",
-      "summary": "迈特芯推出国产3D TPU芯片，解决大模型端侧推理内存带宽问题。",
+      "pubDate": "2026-11-19T10:29:06.000Z",
+      "summary": "美国AI创企Sierra融资15亿美元，估值达300亿美元。",
       "summaryZh": ""
     },
     {
@@ -132,35 +113,24 @@
       "summaryZh": ""
     },
     {
-      "title": "红外技术：机器人的第二视觉",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UY29kOWY2YllYR1l4d1Q0R0k1b0dXb0ZMNS1jOFI0S2I3T1M1SVJVVjAwbEFVaHRuNS1mcjIzM2U0SV8zTVo1WGt0azRDVi1tVWRfT0xQNA?oc=5",
-      "source": "与非网",
+      "title": "巨头AI基建资本开支高增长，创业板算力ETF易方达（158050）获资金关注",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tdHpPSU9vbWVvMnF6Nlc0SEhtQUM0VzR1QkdGMjRDOWYwNWdaTlN1aWVQbmViNENoMWs3d0ZXN1ZCcTUwcUNEOQ?oc=5",
+      "source": "财联社",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-19T05:24:11.000Z",
-      "summary": "红外技术助力机器人实现类似人类视觉的安全验证功能。",
+      "category": "ai",
+      "pubDate": "2026-11-20T05:46:39.000Z",
+      "summary": "易方达创业板算力ETF（158050）本周获约1.7亿元资金净流入。",
       "summaryZh": ""
     },
     {
-      "title": "[消费新主张]不止是玩伴！能识情绪的AI机器人 还是个居家小帮手",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JcXdJNWpmYlo5LXBfVUZyNXRsRmFCYkdlN1pDMDQ5czVKQ2o4T2lpQ1c3RC1ZYjFtMXhjTldURmJaN1drUXBYS3BMZzJkRmR4SEtWT3ZVRThOdWpFTWVMWUJvaGM0U2ozN241aDRpcUFFTDNvWXc?oc=5",
-      "source": "央视网",
+      "title": "快手 CEO 程一笑：Kling 4.0 模型已经进入游戏和具身智能等场景",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBc1lPRm9lVG5FanoyM21ERkQ4RW5xdWY1VFJXVm5OcVJ2VGJ0T0kwcDZsNXdjd0xzeFBpLXZBMmFyN2ltZTZVb2Q3WGozRTBabVdHTXN4NWpjNldDNVVNbkU5d0wwcW1LZ1lNVHFvbC1nSEZnODdTRVQ2RUxibmM?oc=5",
+      "source": "新浪财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-19T14:20:00.000Z",
-      "summary": "AI机器人能识情绪，成为居家小帮手。",
+      "pubDate": "2026-11-19T13:36:29.000Z",
+      "summary": "快手 Kling 4.0 模型应用于游戏和具身智能等领域。",
       "summaryZh": ""
-    },
-    {
-      "title": "What industrial drone deployments reveal about real-world autonomy challenges",
-      "link": "https://www.therobotreport.com/what-industrial-drone-deployments-reveal-about-real-world-autonomy-challenges/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-19T17:01:55.000Z",
-      "summary": "工业无人机部署揭示现实世界自主性挑战。",
-      "summaryZh": "",
-      "titleZh": "工业无人机的部署揭示了现实世界的自主挑战"
     },
     {
       "title": "AI赋能山海文旅 宁德“技能夜校”解锁文旅宣传新方式",
@@ -169,7 +139,7 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-19T11:48:03.000Z",
-      "summary": "宁德“技能夜校”利用AI技术开启文旅宣传新模式。",
+      "summary": "宁德“技能夜校”利用AI技术开展文旅宣传培训，助力文旅产业发展。",
       "summaryZh": ""
     },
     {
@@ -179,9 +149,40 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-19T17:50:35.000Z",
-      "summary": "Serve Robotics推出物理AI服务，向其他机器人公司开放其技术。",
+      "summary": "Serve Robotics向其他机器人公司开放其物理AI技术。",
       "summaryZh": "",
       "titleZh": "Serve Robotics向其他机器人公司开放其物理人工智能技术"
+    },
+    {
+      "title": "Boston Dynamics launches next-generation Stretch robot with major reliability upgrades",
+      "link": "https://roboticsandautomationnews.com/2026/11/19/boston-dynamics-launches-next-generation-stretch-robot-with-major-reliability-upgrades/107354/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-19T17:41:28.000Z",
+      "summary": "Boston Dynamics发布新一代Stretch机器人，可靠性大幅提升。",
+      "summaryZh": "",
+      "titleZh": "波士顿动力推出新一代 Stretch 机器人，可靠性大幅提升"
+    },
+    {
+      "title": "6600万！优必选两周连中三标，包揽学校、化工厂、国资平台",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLUmIyOS1qTVE0Nkd4cTJVVm5PTEU2LXlUc3dzajJjaTkwRG5LdGExdE0zdjRGQVkxWGtzOVgyX0d6OFdJZFlvM042ejlqdE42V3pJMmNGcw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-19T09:13:49.000Z",
+      "summary": "优必选两周内接连中标，涵盖教育、化工和国资领域。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国内首个能源化工行业具身智能数据集建成",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqQjdVMElSc1VDWnpZQmREd0R3bGR2dTktSUZmSDkzTmpMYXVUWlk3blVfRWFUWlNBN0Nwc0RpZ3Y2Zndyc1A3S25kdlc5aUNROVRlYTNvQ2VrQ0o0VkRVUlJXNVVXZzZiN2ItM2pUVlg4bjY3OXc?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-19T15:34:58.000Z",
+      "summary": "国内首个能源化工行业具身智能数据集建成，为行业模型训练提供数据支撑。",
+      "summaryZh": ""
     },
     {
       "title": "Six-inch robot could inspect nuclear waste pipes beyond reach of conventional cameras",
@@ -201,7 +202,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-19T15:52:58.000Z",
-      "summary": "2027年三大工业AI趋势重塑制造自动化。",
+      "summary": "2027年三大工业AI趋势重塑制造业自动化。",
       "summaryZh": "",
       "titleZh": "工业人工智能三大趋势重塑2027年制造自动化"
     },
@@ -212,7 +213,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-19T15:02:00.000Z",
-      "summary": "仿昆虫六足机器人测试中恢复率达95%。",
+      "summary": "昆虫灵感六足机器人测试中恢复率达到95%。",
       "summaryZh": "",
       "titleZh": "受昆虫启发的六足机器人在测试中实现了 95% 的恢复率"
     }
