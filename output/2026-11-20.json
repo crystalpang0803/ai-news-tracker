@@ -1,26 +1,45 @@
 {
   "date": "2026-11-20",
-  "generatedAt": "2026-11-20T00:33:45.793Z",
+  "generatedAt": "2026-11-20T01:26:44.986Z",
   "items": [
     {
-      "title": "苹果正自研 AI 智能体：可操控设备、浏览网页、编写代码，以期与 OpenAI、Anthropic 竞争",
-      "link": "https://www.ithome.com/1/029/750.htm",
+      "title": "OpenAI 邀部分 Plus 用户体验 dots AI 智能体，移动版 ChatGPT 将为其设独立标签页",
+      "link": "https://www.ithome.com/1/029/784.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-19T22:56:00.000Z",
-      "summary": "苹果自研AI智能体，旨在操控设备、浏览网页、编写代码，与OpenAI、Anthropic竞争。",
+      "pubDate": "2026-11-20T01:20:21.000Z",
+      "summary": "OpenAI邀请部分Plus用户测试dots AI智能体，移动版ChatGPT将设独立标签页。",
       "summaryZh": ""
     },
     {
-      "title": "ChatGPT 新增“实时听写”功能：对着麦克风说话，语音能即时变文字",
-      "link": "https://www.ithome.com/1/029/707.htm",
+      "title": "人形机器人“卖铲人”先富了，然后呢？",
+      "link": "https://www.tmtpost.com/8211616.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-20T01:14:00.000Z",
+      "summary": "具身智能机器人产业链中，零部件厂商先于整机厂盈利。",
+      "summaryZh": ""
+    },
+    {
+      "title": "商务部：1-10 月重点平台智能眼镜销售额增长 1 倍，具身智能机器人销售额增长 25.2%",
+      "link": "https://www.ithome.com/1/029/762.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-19T15:28:10.000Z",
-      "summary": "ChatGPT新增实时听写功能，语音即时转文字。",
+      "category": "robotics",
+      "pubDate": "2026-11-20T00:00:26.000Z",
+      "summary": "1-10月智能眼镜销售额增长1倍，具身智能机器人销售额增长25.2%。",
       "summaryZh": ""
+    },
+    {
+      "title": "GPT-6.2 Astra机械臂测试登顶，OpenAI调整机器人团队并转向通用模型路线",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxdW9HTDhSMU03S0JwRml5ZGhCTDYtVFZQb1QtUUJueE9yMjJDdDBBazFNaXRnNVo2RWhUaUtRbWl4NWJ1VVhXdkVWNFlMMm52OG12Rw?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-19T13:07:04.000Z",
+      "summary": ""
     },
     {
       "title": "又一家估值千亿的Agent巨头诞生！",
@@ -43,42 +62,24 @@
       "summaryZh": ""
     },
     {
-      "title": "微软高管：Claude 和 ChatGPT 能做的，Copilot 能做的更好且更便宜",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xeHEyOGFDdmVvU3FJTi0yMEtUNlJid3FTenVoWFQ0OHVJZ1FES21pcWItZU5SV1pPcUx5RENlS01hTjRqenBwUXNyWTVpNU8zbDV2c3ZB?oc=5",
-      "source": "腾讯新闻",
-      "lang": "zh",
+      "title": "Exclusive: OpenAI reveals Performance Factory, a Codex-powered software optimization system that keeps ChatGPT fast",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRmktQ2JEUXFSZmVLaTl4WE9RLWJzRUtscEZXdnF1Q3B3LVFUTV9rSkFUVUppWXFIanQ3aGcxVTRBcGdJd1ZOdkgzYmVDTzJONW5PRExPeDNzWFp5T1FyUEFJQ05pZ19XQ2oyeEdMMkFoUlE1aDg1WUFTRkxyaUQ2cDV5T0dDeXBRa3ZkR0ktdDlDaVVXUlVLUEFfaWxveTJJWHdfNGVsSVdXekVSRGJmdGN1ODlEaGlULWtUOHRFODJIRVh5ckpCVEplUXFxb1FtNzE5MkNKLVN6YlhQSlNJUkN3ZzlBUQ?oc=5",
+      "source": "VentureBeat",
+      "lang": "en",
       "category": "ai",
-      "pubDate": "2026-11-19T08:20:09.000Z",
-      "summary": "微软高管称Copilot功能优于Claude和ChatGPT，且成本更低。",
-      "summaryZh": ""
+      "pubDate": "2026-11-19T17:00:00.000Z",
+      "summary": "OpenAI推出基于Codex的软件优化系统“性能工厂”，以保持ChatGPT运行速度。",
+      "summaryZh": "",
+      "titleZh": "独家：OpenAI 推出 Performance Factory，这是一个由 Codex 支持的软件优化系统，可保持 ChatGPT 的快速运行"
     },
     {
-      "title": "深圳APEC李彦宏与王兴兴激辩AI与机器人落地瓶颈",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tVm05cTh1cEdERkxjZ3R6c3cwdkc3RUMtU0RVNXJLY1dhbmFiQ3hSZVIxUlZHU0w4YXJkS2FPMEZrdDFFMk1Lb3FZR2ZBNG1Bc0NUbXN3?oc=5",
-      "source": "腾讯新闻",
+      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkQUpLWFg5MkNRWUR2THlia3RVYkh2NzNtZzVkTWZJNFVxaDEzYU40RGpwR3ZZQXFheWlYN0tpUGxOMERzVGx3OXFGUnlEaS1qbkgtcQ?oc=5",
+      "source": "量子位",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-19T04:26:24.000Z",
-      "summary": "深圳APEC李彦宏与王兴兴激辩AI与机器人落地瓶颈。"
-    },
-    {
-      "title": "OpenAI印证了梁文锋的“预言”",
-      "link": "https://www.tmtpost.com/8211368.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-20T00:05:00.000Z",
-      "summary": "OpenAI转向通用模型研发，机器人团队并入主要研究团队。",
-      "summaryZh": ""
-    },
-    {
-      "title": "大模型下沉撞上“内存墙”， 这颗国产3D TPU尝试给出解法",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzYzYwOGlqcUdSZ1RkRUthbXZERXhyRXJ4V3NWU3FVbmpDd1NiTTRyUXE5WVl2b05yMU1icjlJR0JURmF3Q2hvNg?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-19T06:13:21.000Z",
-      "summary": "国产3D TPU芯片迈特芯MEGA188解决大模型端侧推理内存墙问题。",
+      "pubDate": "2026-11-20T01:07:38.000Z",
+      "summary": "华为云CloudRobo发布具身世界模型，助力机器人从实验室走向真实现场。",
       "summaryZh": ""
     },
     {
@@ -88,8 +89,19 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-19T23:53:22.000Z",
-      "summary": "AI芯片功耗提升推动高导热散热材料需求增长。",
+      "summary": "AI芯片功耗提升带动高导热散热材料需求增长。",
       "summaryZh": ""
+    },
+    {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source": "TechCrunch",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-20T00:56:01.000Z",
+      "summary": "苹果可能正在开发自己的AI代理，以在Mac上执行用户任务。",
+      "summaryZh": "",
+      "titleZh": "苹果可能正在开发自己的人工智能代理来运行你的Mac"
     },
     {
       "title": "These tech outages are giving Y2K, AI agent style",
@@ -98,20 +110,40 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-19T21:42:31.000Z",
-      "summary": "美科技巨头近期遭遇大规模技术故障，影响日常生活。",
+      "summary": "美国多企业近期遭遇技术故障，影响日常生活。",
       "summaryZh": "",
-      "titleZh": "这些技术中断正在给千年虫、人工智能代理风格带来影响"
+      "titleZh": "这些技术中断正在带来千年虫、人工智能代理风格"
     },
     {
-      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "source": "TechCrunch",
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "source": "The Verge",
       "lang": "en",
       "category": "ai",
-      "pubDate": "2026-11-19T17:38:40.000Z",
-      "summary": "Meta AI代理Muse混淆对话或泄露用户隐私。",
+      "pubDate": "2026-11-19T22:31:41.000Z",
+      "summary": "苹果招聘工程师打造自研AI代理。",
       "summaryZh": "",
-      "titleZh": "报告称，Meta 的人工智能代理 Muse 正在混淆对话，可能会泄露私人数据"
+      "titleZh": "苹果正在招聘工程师来构建自己的人工智能代理"
+    },
+    {
+      "title": "白鸽在线：深化险企战略合作，AI风控大模型加速规模化落地",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iYkM4alhJTk1oYTNUQ1V0aTFQRk9iLUpGU0RUbkEzVEVudENCbzhfOTcwR3pKWVoxakpJcmVnTjdMcHF6U1RZMUx4MVpKNDB4NFlmTU5OcDJGRkVQVHoySg?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-19T09:08:33.000Z",
+      "summary": "白鸽在线与三家保险公司合作，AI风控大模型加速保险科技落地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "晶尊微SC01B电容液位芯片，实现割草机器人隔壳式雨水检测_技术资料",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHNGF1WGN2TnBrTmlXNWd3eFZYT0JXeS13VFRXOU42cmdUZkFNZ1JRaHpEd0tHeFQ0RlZjSWZMMjNQNDAwYmN3V3R2bWJKYk1PUUZleS1kUXU?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-19T07:21:27.000Z",
+      "summary": "晶尊微SC01B芯片实现割草机器人隔壳式雨水检测技术。",
+      "summaryZh": ""
     },
     {
       "title": "深圳APEC，机器人大佬们在聊啥？",
@@ -120,17 +152,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-19T02:43:48.000Z",
-      "summary": "深圳APEC机器人大佬讨论人工智能安全与验证。",
-      "summaryZh": ""
-    },
-    {
-      "title": "红外技术：机器人的第二视觉",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UY29kOWY2YllYR1l4d1Q0R0k1b0dXb0ZMNS1jOFI0S2I3T1M1SVJVVjAwbEFVaHRuNS1mcjIzM2U0SV8zTVo1WGt0azRDVi1tVWRfT0xQNA?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-19T05:24:11.000Z",
-      "summary": "红外技术助力机器人实现类似人类视觉的功能。",
+      "summary": "深圳APEC机器人大佬讨论安全验证技术。",
       "summaryZh": ""
     },
     {
@@ -174,17 +196,6 @@
       "summary": "Serve Robotics向其他机器人公司开放其物理AI技术。",
       "summaryZh": "",
       "titleZh": "Serve Robotics向其他机器人公司开放其物理人工智能技术"
-    },
-    {
-      "title": "Six-inch robot could inspect nuclear waste pipes beyond reach of conventional cameras",
-      "link": "https://techxplore.com/news/2026-11-inch-robot-nuclear-pipes-conventional.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-19T16:40:04.000Z",
-      "summary": "六英寸机器人可检查常规摄像头无法触及的核废料管道。",
-      "summaryZh": "",
-      "titleZh": "六英寸机器人可以检查传统相机无法到达的核废料管道"
     }
   ]
 }
