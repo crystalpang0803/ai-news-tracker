@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "generatedAt": "2026-11-21T02:31:38.100Z",
+  "generatedAt": "2026-11-21T03:30:25.948Z",
   "items": [
     {
       "title": "Claude开发商Anthropic上市：史上最大IPO落地华尔街如何给大模型定价？丨20261120从华尔街到陆家嘴",
@@ -13,13 +13,13 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI 宣布向 ChatGPT Plus 用户开放 Spaces 协作空间，支持多人共同编辑",
-      "link": "https://www.ithome.com/1/030/288.htm",
+      "title": "OpenAI 公布反蒸馏防护进展：GPT-6.2 Astra 思考链提取成功率从 54% 降至 0.2%",
+      "link": "https://www.ithome.com/1/030/319.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-20T22:57:39.000Z",
-      "summary": "OpenAI向ChatGPT Plus用户开放Spaces协作空间，支持多人共同编辑。",
+      "pubDate": "2026-11-21T01:45:22.000Z",
+      "summary": "OpenAI发布GPT-6.2 Astra反蒸馏防护，思考链提取成功率降至0.2%。",
       "summaryZh": ""
     },
     {
@@ -29,46 +29,37 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-20T10:58:48.000Z",
-      "summary": "小鹏汽车预计海外销量超10万辆，涂鸦智能AI Energy方案在欧洲多国部署，美团无人机迪拜首秀。",
+      "summary": "小鹏汽车预计海外销量破10万辆，涂鸦智能AI Energy方案在欧洲多国部署，美团无人机迪拜首秀。",
       "summaryZh": ""
     },
     {
-      "title": "让机器人技能开发更高效：鹿明携NexCore亮相2026世界智能制造博览会",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIN2plZGp0YXNmUGxKVlhyN1VQdlgxSnpVQkdOaTlDMGNsT1d3UWd6Y0lhcjh6dU4yUGlwdUUya3NwTFFqQUNESg?oc=5",
+      "title": "27B！穆拉蒂开源“循环脑”模型：笔记本跑Agent起飞！",
+      "link": "https://zhidx.com/p/613053.html",
       "source": "智东西",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-20T08:16:51.000Z",
-      "summary": "鹿明携NexCore亮相2026世界智能制造博览会，展示高效机器人技能开发技术。",
+      "category": "ai",
+      "pubDate": "2026-11-21T01:56:30.000Z",
+      "summary": "穆拉蒂开源27B“循环脑”模型，可在笔记本上运行。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI推出MedChemBench基准，评估AI辅助药物研发能力",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yR01TSFdjck5pblFRcUJKc2VKMkRQWFZTMTFxeVlRQ2JXVHF1Z0I4OXFSUGM5LXpSRW9sblo2bno2YVdZVHk5c2tfTGNHdTBSVUlqUWdKRFBlZw?oc=5",
+      "title": "外卖翻篇，阿里把钱砸向AI",
+      "link": "https://www.tmtpost.com/8213142.html",
       "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-21T01:20:00.000Z",
-      "summary": "OpenAI发布MedChemBench基准，评估AI药物研发能力。",
+      "category": "application",
+      "pubDate": "2026-11-21T03:01:42.000Z",
+      "summary": "阿里将外卖业务转向AI，加大AI基础设施建设投入。",
       "summaryZh": ""
     },
     {
-      "title": "AI供电前史： 照明、汽车与工业电子如何汇入算力基础设施",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2NEtITm1fYnRZVmFzREZXQk52WTdxNENoR3lGY2dXR0REaktyVDFFMUdBWk9XclYzSEhpZ2M3RkJ6dlk1YW9ob2ZWOXdDQQ?oc=5",
-      "source": "36氪",
+      "title": "杭叉集团加速推动具身智能落地",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CSkxUMmZ2SFpfQzRIa0RsTkpybWNzWkpVZzVocEMySU1qUTRvQThHNlJubndabGtlc3pfdEswNnp2VnlrMnh6cTlpSzRkLTdEWmJCZ09WS1hZcGQ1U2dBSVdaZEc4YV9XTENlQUtfSndxOHFRN0pj?oc=5",
+      "source": "中国经济网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-20T09:05:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "欧洲央行行长：欧洲应提前布局AI算力建设，2030年相关投资或需1.3万亿欧元-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NV1hMTHVmQ21jZlM3Q0JaQmJBNXBDRkI1ME5YTjZBX3BkNFNXTU5zSHRRbjBKYy1IaWx5d1FJNHFtTjFSQkphQ2tJdTZvZ0NmWUFVMkhaSDAtX1l0dGc?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-20T09:00:05.000Z",
-      "summary": "欧洲央行行长建议2030年前投资1.3万亿欧元布局AI算力建设。",
+      "category": "robotics",
+      "pubDate": "2026-11-20T23:37:00.000Z",
+      "summary": "杭叉集团加速推进具身智能研发与应用，提升工业车辆智能化水平。",
       "summaryZh": ""
     },
     {
@@ -92,13 +83,43 @@
       "summaryZh": ""
     },
     {
-      "title": "移卡与Mastercard签署合作协议，共同探索AI Agent商业交易",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTWhrUzNjYXRHeXJGaV9oTEJyMXQ3Z1NGOWlCd2hfa2pvVktVdmk3Vk9QTUh1TU9zX0dKY2ladHZxZ2ZxSlZnUGtmbWc0VUhvV0M4N2h3a1c?oc=5",
-      "source": "经济观察网",
+      "title": "AI智能体终端再添玩家：华为新品牌星芒首秀 推出首款鸿蒙AI手机",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DbThjZGxRLS1zNXgwaElaRklCcjEyekx6MVFzams3NG9DbUpvTjBzQk9yTkdvbHBkUXk5QkVocHNkX0xUUWYxUw?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-20T02:50:00.000Z",
-      "summary": "移卡与Mastercard合作探索AI Agent商业交易。",
+      "pubDate": "2026-11-20T12:15:27.000Z",
+      "summary": "华为新品牌星芒发布首款鸿蒙AI手机，搭载麒麟9030S芯片。",
+      "summaryZh": ""
+    },
+    {
+      "title": "巨头AI基建资本开支高增长，创业板算力ETF易方达（158050）获资金关注",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tdHpPSU9vbWVvMnF6Nlc0SEhtQUM0VzR1QkdGMjRDOWYwNWdaTlN1aWVQbmViNENoMWs3d0ZXN1ZCcTUwcUNEOQ?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-20T05:46:39.000Z",
+      "summary": "易方达创业板算力ETF（158050）本周获约1.7亿元资金净流入。",
+      "summaryZh": ""
+    },
+    {
+      "title": "全球最大IPO落地引发AI安全讨论，专家：评估大模型安全的体系还不成熟",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2T09fUjZteEFtcGxTY0N0QnJYbjN0UXpvaTVYdVFiczFETFJsSWlEU1dlR2JhcXByT0tzcmE3dUFGRE5KdG10cnZUV2hDSHNyMzA5M1B0cmJfenBCenFMZA?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-20T15:52:31.000Z",
+      "summary": "全球最大IPO公司Anthropic上市，AI安全评估体系尚不成熟引发讨论。",
+      "summaryZh": ""
+    },
+    {
+      "title": "ChatGPT越改越卡？OpenAI派AI自己查，揪出600多个病根",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JVkxzbGFXT3BudnpNZTJsZnE0aW1GNmhIQ1lzUEg5V180SGkwRHdjSXJrTVc5SzZrRWQ4c3lfQ1ZnVV9uNWo5UklQR0VKQ2RFaWVxUTEtZjNEeVRqblE5cVA1SEdLWFVqaFQ5X2REQWhTSWdKOEJNM0VZakk?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-20T14:38:40.000Z",
+      "summary": "OpenAI利用AI系统“性能工厂”排查ChatGPT故障，揪出600多个问题。",
       "summaryZh": ""
     },
     {
@@ -112,16 +133,6 @@
       "summaryZh": ""
     },
     {
-      "title": "2.2万个智能体在武汉5700个场景落地",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHVWFfU2tpcGx4S3RRWUJEUDVfQ3ZLSGZWeEswcm1QNjVJVmV0ZzlqZWVuWUVGQjczYl9XYUsxVnl2SnBlSmhiRXo2ekFnVGVsazY1TUtkLWJqdG1iVG54ajMzaUpBYzQ1LVFrSkpFZXItWWVmZ1RpRg?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-21T00:37:10.000Z",
-      "summary": "武汉智能体应用覆盖5700场景，服务超18万家企业。",
-      "summaryZh": ""
-    },
-    {
       "title": "伊春市创新推出“AI+森林文旅”智慧应用 打造文旅数字化标杆",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tWGFfN3JBbnZCUU15NG55alU4Q3RqN25GbUF1N1hQX211MFh2SkJuQ2E4cDBxemJGRTBEVVh4c0ZHRUM1Y0pKUk5nN2lKbHVUTUZVVWthekw5bEVwSFhQNTdWS0dYczFVNXFMSkdXNA?oc=5",
       "source": "中国新闻网",
@@ -132,13 +143,23 @@
       "summaryZh": ""
     },
     {
+      "title": "阿里受芯片管制下调短期云业务增速预期 即时零售明显减亏",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WWHgybU90U204OW5CZjdUeW03a3FzVUx5bUpnVUMtNTJyZGFKLV93b3JPUGtuMTBvRmdnYkp0dmM5NGlXVlZnVGpXMHdqZWRTWGVUY2VBd1F5dnlBcDEyMnl1b1M?oc=5",
+      "source": "财新网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-20T08:48:00.000Z",
+      "summary": "阿里受芯片管制影响，下调云业务增速预期，即时零售减亏明显。",
+      "summaryZh": ""
+    },
+    {
       "title": "英国 BAE 研发“幽灵雷达”：不主动“出声”也能追踪无人机，可装进 SUV、成本低至同类 1/10",
       "link": "https://www.ithome.com/1/030/305.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-21T00:32:55.000Z",
-      "summary": "英国BAE研发低成本“幽灵雷达”，可追踪无人机，装SUV成本低至同类1/10。",
+      "summary": "英国BAE研发低成本“幽灵雷达”，可装SUV追踪无人机。",
       "summaryZh": ""
     },
     {
@@ -148,20 +169,19 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-20T17:04:28.000Z",
-      "summary": "MassRobotics在波士顿港启动海洋机器人设施。",
+      "summary": "MassRobotics将在波士顿港启动海洋机器人设施。",
       "summaryZh": "",
       "titleZh": "MassRobotics 在波士顿港推出海洋机器人设施"
     },
     {
-      "title": "Robotics enters its post-Jensen Huang era",
-      "link": "https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/",
-      "source": "The Robot Report",
-      "lang": "en",
+      "title": "追光丨零下几十摄氏度 看机器人如何“冰雪总动员”",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVFRWV21kdVFCbDlidUhQTjh5QWRXQVpRZ05UVGdVLWh0Y2ZJZVpxWGpOaC14anBXOEloMzZHQXZmYy0yV081b1ZOZjRzcGNRaHZON2lXelRaeURNXzFNTm5YZTZsZ2xrZC1KaUlWTkdPVmVvcmI5MEVqUzNyVjR6S1N3?oc=5",
+      "source": "新华网科技",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-20T03:06:28.000Z",
-      "summary": "黄仁勋时代后，机器人行业迎来新篇章。",
-      "summaryZh": "",
-      "titleZh": "机器人技术进入后黄仁勋时代"
+      "pubDate": "2026-11-20T09:00:54.000Z",
+      "summary": "第二届黑龙江省冰雪运动超级联赛将举办机器人冰雪竞赛，多所高校和企业参与。",
+      "summaryZh": ""
     },
     {
       "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
@@ -175,6 +195,17 @@
       "titleZh": "周五视频：无人机挤压自己以适应狭窄的空间"
     },
     {
+      "title": "Medtronic’s Hugo surgical robot ready for bigger operation",
+      "link": "https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-21T00:55:45.000Z",
+      "summary": "Medtronic的Hugo手术机器人获FDA批准，可用于腹部手术。",
+      "summaryZh": "",
+      "titleZh": "美敦力 (Medtronic) 的 Hugo 手术机器人已准备好进行更大的手术"
+    },
+    {
       "title": "AI中国｜秋假遇雪假！小假期打开大课堂 激活文旅消费新活力",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEOFNtMUFOT1lVc1M4cnJBWE1ObDNjY2xHY1IwT1NUdFJNWmVFQ19CcVZlSWFKclJVcEs5QXhlT0QxYTVnWHlYcVZGaElPRXpnRjJIWXdsOEFYbEdrU09QQnBxREJOZ2Jj?oc=5",
       "source": "央广网",
@@ -185,13 +216,33 @@
       "summaryZh": ""
     },
     {
+      "title": "念念仙携AI+宠物新文化亮相上海",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TUDJyZV9TUlgtSjVmSjd1UmhwZnNVUEU3S2pCS09vUzlhVzg1WUpsb1RGekx2aHRrVlVNTFNqTlZpWEJPWHQ4OEY2OGh1ckpoaFYtTlRqdFY2el9TRTh0SXJHNXhqWm9YYTdtSXhiaWtRcGw0MVJB?oc=5",
+      "source": "中国经济网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-20T08:24:00.000Z",
+      "summary": "念念仙在长三角文博会推介AI+宠物情感陪伴数字内容矩阵。",
+      "summaryZh": ""
+    },
+    {
       "title": "视频丨科技新国货成“深圳特产” AI眼镜、翻译耳机、无人机圈粉世界",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hLVRValVsbnhoV3N2Z0RTdVg0c0xlbkN6ZnV0S21wOWZFYi1STDdRZnRkNzVHV29EdXJtdkZaUllKT2wxQ0M4UTMwdVZUbEc3bW5JRw?oc=5",
       "source": "腾讯科技",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-20T08:42:28.000Z",
-      "summary": "深圳华强北科技产品吸引众多外籍客商，AI眼镜等成“特产”。",
+      "summary": "深圳华强北科技产品吸引大量外籍客商，AI眼镜等成为“新特产”。",
+      "summaryZh": ""
+    },
+    {
+      "title": "从点云到实景：激光雷达如何构建动态移动地图",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zNzFfZHJfRmVzanRwYTFac1NCQXNQeWk2ZVBaOWJQdENjWFI4aXE0TEJsOTVaYlRvanBGSTM3VzM3cWt1NE9Mcnh5RjNmam1reGQyY0lMbw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-21T02:22:48.000Z",
+      "summary": "激光雷达技术助力构建动态移动地图。",
       "summaryZh": ""
     },
     {
@@ -201,7 +252,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-20T13:33:55.000Z",
-      "summary": "Sebastian Castro探讨开源软件在机器人任务规划和行为编程中的应用。",
+      "summary": "Sebastian Castro分享开源软件开发机器人任务规划和行为。",
       "summaryZh": "",
       "titleZh": "机器人谈话第 171 集 – 与塞巴斯蒂安·卡斯特罗一起编程机器人行为"
     },
@@ -212,7 +263,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-20T16:00:28.000Z",
-      "summary": "无人机飞行路径作为移动尺子的户外3D追踪技术问世。",
+      "summary": "户外3D追踪技术利用无人机飞行路径作为动态标尺。",
       "summaryZh": "",
       "titleZh": "户外3D跟踪技术使用无人机的飞行路径作为“移动标尺”"
     },
@@ -223,30 +274,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-20T22:07:02.000Z",
-      "summary": "ABB宣布Wasome赢得2026年中国初创企业挑战赛AI自动化解决方案奖项。",
+      "summary": "ABB宣布Wasome赢得2026年中国初创企业AI自动化挑战赛。",
       "summaryZh": "",
       "titleZh": "ABB 授予 Wasome 人工智能自动化解决方案中国创业挑战赛冠军"
-    },
-    {
-      "title": "How to prototype robot control logic before committing to industrial hardware",
-      "link": "https://roboticsandautomationnews.com/2026/11/20/how-to-prototype-robot-control-logic-before-committing-to-industrial-hardware/107401/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-20T17:30:04.000Z",
-      "summary": "在购买工业硬件前，可使用Arduino原型机器人控制逻辑。",
-      "summaryZh": "",
-      "titleZh": "在致力于工业硬件之前如何对机器人控制逻辑进行原型设计"
-    },
-    {
-      "title": "Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWFFQXhWNzlaWHRMZ2E5dWdTY0pIa2dVci0wa0VETFVvZXRzS2Z3Vm9uenBueTdiNFVpQmxXTHBGUm1IS04tdEJuaTJKY0hoVHhsSWVhOGNFeUcyc09LSlV3aG05bzMycGZDa29JM3hvRFp1bm1UV1ZLblBFdzBMdVdMSzh4Zlk3M1drZm8tNUIyQ00?oc=5",
-      "source": "WSJ Tech",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-21T02:05:52.000Z",
-      "summary": "",
-      "titleZh": "独家|机器人初创公司 Genesis AI 融资 5 亿美元"
     }
   ]
 }
