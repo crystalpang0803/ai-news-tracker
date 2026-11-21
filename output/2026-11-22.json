@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "generatedAt": "2026-11-21T21:37:13.731Z",
+  "generatedAt": "2026-11-21T23:05:21.838Z",
   "items": [
     {
       "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
@@ -9,7 +9,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-21T11:24:29.000Z",
-      "summary": "Karpo开源新决策模型，浏览器Agent实现速效双赢。",
+      "summary": "Karpo开源新决策模型，浏览器Agent性能大幅提升。",
       "summaryZh": ""
     },
     {
@@ -23,6 +23,16 @@
       "summaryZh": ""
     },
     {
+      "title": "南水北调“天河”大模型完成升级",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qRTkzUE5kd0dfaWc1RFVPNWl5S0d3OV9GNWphVElGeU5FYzQ1ZW0wWVNkcTVzZVJsZ1BpUVdzZmhXbHY0ZHBFaVNVNTJ3TXAtMzVGNVdCSE9lUQ?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-21T08:02:00.000Z",
+      "summary": "南水北调“天河”大模型V2升级发布，推动水网管理智能化。",
+      "summaryZh": ""
+    },
+    {
       "title": "云端AI推理芯片细分领域领先者曲速科技：从芯片到算力服务构建完整闭环",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iQmpJcHZvMmZjRFl4Q2h3MGQzajdTRjdqWXlqTzg4OXFEempaSWFtV2c5aDRpdmdIeVRWc1pReUt6WmhzZEVuLWQxdFA?oc=5",
       "source": "IT之家",
@@ -33,13 +43,23 @@
       "summaryZh": ""
     },
     {
-      "title": "当大模型开始替客户筛选品牌，出海企业如何进入推荐名单？专访MagUp CTO栗钊",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3azI1cllrdjdyb2JMMGZCX1BDdTV5NFZmYWxIYVU1cGxUOFhmN0dCeWY4cmlfNEl6TDFsbEloMk9iWFdrVDNDM0NqNzE?oc=5",
-      "source": "IT之家",
+      "title": "财跃星辰发布金融智能体FinWork V1.0",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yNFJsYm9yRXQ1M3RmY2NmdW1kSFExVzZoZ3kxX1VVakpiMkRLNEtQVkNuSUZVdDNuOU1QZmFObFZhbG5MTUVIUQ?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-21T08:20:37.000Z",
-      "summary": "大模型筛选品牌时代，出海企业需重视GEO优化以进入AI推荐名单。",
+      "pubDate": "2026-11-21T02:06:14.000Z",
+      "summary": "财跃星辰发布金融智能体FinWork V1.0，具备AI桌面助手和220余项金融Skill。",
+      "summaryZh": ""
+    },
+    {
+      "title": "SpaceX计划周四进行至少320亿美元AI芯片相关债务融资",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZOTM3MExQcl9ZZHVSNUlIX2pPVGhGQ0pkUk1za25ZU2JKWi1kUzVUWFRoUi1YRXV6RHNQMjAzbDNwR2d3cGlueg?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-21T03:59:11.000Z",
+      "summary": "SpaceX计划周四进行至少320亿美元AI芯片相关债务融资。",
       "summaryZh": ""
     },
     {
@@ -59,7 +79,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-21T00:37:10.000Z",
-      "summary": "武汉2.2万个智能体在5700场景落地，覆盖医疗、教育等领域。",
+      "summary": "武汉2.2万个智能体在5700场景落地，覆盖医疗、教育等多个领域。",
       "summaryZh": ""
     },
     {
@@ -88,7 +108,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-21T05:25:19.000Z",
-      "summary": ""
+      "summary": "Anthropic数学家Alpöge与Claude合作证明黎曼猜想，代码规模超Mathlib4八倍，独立验证基本通过。",
+      "summaryZh": ""
     },
     {
       "title": "Seedance、MiniMax和Qwen image修改能力测试：3轮连改，谁更好用？",
@@ -101,13 +122,23 @@
       "summaryZh": ""
     },
     {
-      "title": "AI进化速递丨甲骨文称已筹集履行与OpenAI合同所需全部资金",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iU1lQZlNQSjRScTVOVHlHMWdiN2taSnY1UDVkRVJXeEtXMzByQ3hfdzFMRkJYUFc2TU9iTlFFTXR2WnB3ZVVhQ1FQRlMwb1JUMFVR?oc=5",
-      "source": "第一财经",
+      "title": "深圳APEC盛会见证：机器人炫技落幕，价值交付登场",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04R0pvVkZVM3ZMU3lxUDIxcjJWWXBNRHRaWnQyVV9DUWpDNV9kWGVZeWtNemUxUUw2N1BIdV9PaV9ZX2VLNVByd2w3dTRxNlN3WG12MlU0aw?oc=5",
+      "source": "与非网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-21T12:50:54.000Z",
-      "summary": "甲骨文已筹集履行与OpenAI合同所需全部资金。",
+      "category": "robotics",
+      "pubDate": "2026-11-21T02:00:50.000Z",
+      "summary": "深圳APEC盛会机器人展示结束，价值交付成为焦点。",
+      "summaryZh": ""
+    },
+    {
+      "title": "珞石机器人启动A股上市：上半年营收4亿 市值102亿港元",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PM18ybDRER25fajI4LXRCT1hRd1ZJNVA2SHNEaTZEU1N6ZXF6WjNraVBXQ2t3NG9xMGFraTZMcThuaDJkRE9tRE12aTRhVEpF?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-21T04:16:56.000Z",
+      "summary": "珞石机器人启动A股上市，上半年营收4亿，市值达102亿港元。",
       "summaryZh": ""
     },
     {
@@ -122,35 +153,14 @@
       "titleZh": "美敦力 (Medtronic) 的 Hugo 手术机器人已准备好进行更大的手术"
     },
     {
-      "title": "从点云到实景：激光雷达如何构建动态移动地图",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zNzFfZHJfRmVzanRwYTFac1NCQXNQeWk2ZVBaOWJQdENjWFI4aXE0TEJsOTVaYlRvanBGSTM3VzM3cWt1NE9Mcnh5RjNmam1reGQyY0lMbw?oc=5",
-      "source": "与非网",
+      "title": "科技新国货成“深圳特产”！AI眼镜、翻译耳机、无人机圈粉世界",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbW02bGhxUnQ5T0c3RmlYWUF3MjJ0VV9rVVE5YnRRcEpSWGNqd3FIVW5RaDBldUJGcFgtcnJxQTRSd1lDN1ZxTERHM0s3QnhfdjhxZzFVbXFxekVfMlNEVDBSX18tUXF2MnY0UkdnSHJzUF82aE84U2VNdVo4ZDVfNEZwV3ZTYTBLQkJyMGdOcw?oc=5",
+      "source": "21财经",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-21T02:22:48.000Z",
-      "summary": "激光雷达技术助力构建动态移动地图。",
+      "pubDate": "2026-11-21T22:15:00.000Z",
+      "summary": "深圳AI眼镜等科技产品成为外国游客“新特产”。",
       "summaryZh": ""
-    },
-    {
-      "title": "EXSENSE高可靠NTC温度传感器助力AI液冷服务器实时温控",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMTnZveTRleV81RnZfLTl6RTl5Znc5c3dmMEthV2Y4M0dtdFRjVk84dV9xTUdYUElpU1ptYWFtcC16ZHVrZ3JFM0MyQkNOTDdVUnp4QXA0UQ?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-21T06:45:43.000Z",
-      "summary": "EXSENSE高可靠NTC温度传感器应用于AI液冷服务器实现实时温控。",
-      "summaryZh": ""
-    },
-    {
-      "title": "ABB names Wasome winner of China startup challenge for AI automation solution",
-      "link": "https://roboticsandautomationnews.com/2026/11/20/abb-names-wasome-winner-of-china-startup-challenge-for-ai-automation-solution/107417/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-20T22:07:02.000Z",
-      "summary": "ABB宣布Wasome赢得2026年中国初创企业AI自动化挑战赛。",
-      "summaryZh": "",
-      "titleZh": "ABB 授予 Wasome 人工智能自动化解决方案中国创业挑战赛冠军"
     },
     {
       "title": "Four Payments Executives Define Where Automation Still Needs Human Approval",
