@@ -1,7 +1,17 @@
 {
   "date": "2026-11-21",
-  "generatedAt": "2026-11-21T00:57:46.770Z",
+  "generatedAt": "2026-11-21T02:31:38.100Z",
   "items": [
+    {
+      "title": "Claude开发商Anthropic上市：史上最大IPO落地华尔街如何给大模型定价？丨20261120从华尔街到陆家嘴",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQUXUwZkw3aUhoQkVkYXVLRXJYaVlWQXE0LWlHOW9RVE13NVE4eTRucnM0eUxFM2J5WkZUZmlxZ2NMZFZDdXBMRi0zQnJMamRhZ2h5aw?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-20T04:58:33.000Z",
+      "summary": "Anthropic上市，创美股最大IPO融资规模纪录。",
+      "summaryZh": ""
+    },
     {
       "title": "OpenAI 宣布向 ChatGPT Plus 用户开放 Spaces 协作空间，支持多人共同编辑",
       "link": "https://www.ithome.com/1/030/288.htm",
@@ -9,17 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-20T22:57:39.000Z",
-      "summary": "OpenAI 向 ChatGPT Plus 用户开放 Spaces 协作空间，支持多人共同编辑。",
-      "summaryZh": ""
-    },
-    {
-      "title": "OpenAI 推出 MedChemBench 基准，评估 AI 辅助药物研发能力",
-      "link": "https://www.ithome.com/1/030/301.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-21T00:06:12.000Z",
-      "summary": "OpenAI发布MedChemBench基准，评估AI在药物研发中的推理能力。",
+      "summary": "OpenAI向ChatGPT Plus用户开放Spaces协作空间，支持多人共同编辑。",
       "summaryZh": ""
     },
     {
@@ -33,34 +33,124 @@
       "summaryZh": ""
     },
     {
-      "title": "前DeepSeek研究员，开源本地版Muse，实现token自由",
-      "link": "https://zhidx.com/p/612775.html",
+      "title": "让机器人技能开发更高效：鹿明携NexCore亮相2026世界智能制造博览会",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIN2plZGp0YXNmUGxKVlhyN1VQdlgxSnpVQkdOaTlDMGNsT1d3UWd6Y0lhcjh6dU4yUGlwdUUya3NwTFFqQUNESg?oc=5",
       "source": "智东西",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-20T09:42:40.000Z",
-      "summary": "前DeepSeek研究员开源本地版Muse，实现AI运行在个人电脑上。",
+      "category": "robotics",
+      "pubDate": "2026-11-20T08:16:51.000Z",
+      "summary": "鹿明携NexCore亮相2026世界智能制造博览会，展示高效机器人技能开发技术。",
       "summaryZh": ""
     },
     {
-      "title": "估值 410 亿美元，贝佐斯打造物理世界的 OpenAI",
-      "link": "http://www.geekpark.net/news/374282",
-      "source": "极客公园",
+      "title": "OpenAI推出MedChemBench基准，评估AI辅助药物研发能力",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yR01TSFdjck5pblFRcUJKc2VKMkRQWFZTMTFxeVlRQ2JXVHF1Z0I4OXFSUGM5LXpSRW9sblo2bno2YVdZVHk5c2tfTGNHdTBSVUlqUWdKRFBlZw?oc=5",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-20T08:24:30.000Z",
-      "summary": "贝佐斯创立AI初创公司Prometheus，旨在用AI重构实体制造业。",
+      "pubDate": "2026-11-21T01:20:00.000Z",
+      "summary": "OpenAI发布MedChemBench基准，评估AI药物研发能力。",
       "summaryZh": ""
     },
     {
-      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
-      "link": "https://www.qbitai.com/2026/11/511582.html",
-      "source": "量子位",
+      "title": "AI供电前史： 照明、汽车与工业电子如何汇入算力基础设施",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2NEtITm1fYnRZVmFzREZXQk52WTdxNENoR3lGY2dXR0REaktyVDFFMUdBWk9XclYzSEhpZ2M3RkJ6dlk1YW9ob2ZWOXdDQQ?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-20T05:24:11.000Z",
-      "summary": "Agnes Harness通过双系统决策和双层自进化技术，显著提升Agent效率并降低成本。",
+      "pubDate": "2026-11-20T09:05:00.000Z",
+      "summary": ""
+    },
+    {
+      "title": "欧洲央行行长：欧洲应提前布局AI算力建设，2030年相关投资或需1.3万亿欧元-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NV1hMTHVmQ21jZlM3Q0JaQmJBNXBDRkI1ME5YTjZBX3BkNFNXTU5zSHRRbjBKYy1IaWx5d1FJNHFtTjFSQkphQ2tJdTZvZ0NmWUFVMkhaSDAtX1l0dGc?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-20T09:00:05.000Z",
+      "summary": "欧洲央行行长建议2030年前投资1.3万亿欧元布局AI算力建设。",
       "summaryZh": ""
+    },
+    {
+      "title": "中国信通院人工智能研究所：个别机构假借名义开展AI数据质量评估技术服务",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTb2RwOWs1a1FPdEhzZl8yNE5GTHlyb2JjanctalJteWZSVFV0a09USDU2eXdrM2JaWlpZX2NVRDJfRm9IUy1IZUZZblZWWnVubWdDSHNfbGk?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-20T08:01:24.000Z",
+      "summary": "中国信通院人工智能研究所声明：个别机构冒用其名义开展AI数据质量评估技术服务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "SpaceX周四拟进行至少320亿美元AI芯片相关债务融资",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hS3kxZjNwMzJpX1hEWW5zSTRmU011M3NzSktZVWFKMHc3eWFQWjA2eThlY01tVFFGX0FmdzR0b1FZc0V5N2RiSDBjSVFMYlc0SzZzdE5HNXg?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-20T04:52:39.000Z",
+      "summary": "SpaceX计划周四进行至少320亿美元AI芯片相关债务融资。",
+      "summaryZh": ""
+    },
+    {
+      "title": "移卡与Mastercard签署合作协议，共同探索AI Agent商业交易",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTWhrUzNjYXRHeXJGaV9oTEJyMXQ3Z1NGOWlCd2hfa2pvVktVdmk3Vk9QTUh1TU9zX0dKY2ladHZxZ2ZxSlZnUGtmbWc0VUhvV0M4N2h3a1c?oc=5",
+      "source": "经济观察网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-20T02:50:00.000Z",
+      "summary": "移卡与Mastercard合作探索AI Agent商业交易。",
+      "summaryZh": ""
+    },
+    {
+      "title": "绿盟科技：公司AI安全相关产品及解决方案已在政府、运营商、金融、能源、科教文卫、企业等六大行业实现规模化落地",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDWFNqcTFqT2F1REdueERSMXhLNnFNUy1MYmUwQXcxejlHVjFEOWJxZDlhbDFLWl9zS2dIMi1GNmw1Ni1yWDAxZXZLb29WWkYwUl9OLTRvMVkxMHM1OVV5YmZIaUJVRkla?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-20T14:26:25.000Z",
+      "summary": "绿盟科技AI安全产品在六大行业实现规模化落地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "2.2万个智能体在武汉5700个场景落地",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHVWFfU2tpcGx4S3RRWUJEUDVfQ3ZLSGZWeEswcm1QNjVJVmV0ZzlqZWVuWUVGQjczYl9XYUsxVnl2SnBlSmhiRXo2ekFnVGVsazY1TUtkLWJqdG1iVG54ajMzaUpBYzQ1LVFrSkpFZXItWWVmZ1RpRg?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-21T00:37:10.000Z",
+      "summary": "武汉智能体应用覆盖5700场景，服务超18万家企业。",
+      "summaryZh": ""
+    },
+    {
+      "title": "伊春市创新推出“AI+森林文旅”智慧应用 打造文旅数字化标杆",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tWGFfN3JBbnZCUU15NG55alU4Q3RqN25GbUF1N1hQX211MFh2SkJuQ2E4cDBxemJGRTBEVVh4c0ZHRUM1Y0pKUk5nN2lKbHVUTUZVVWthekw5bEVwSFhQNTdWS0dYczFVNXFMSkdXNA?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-20T12:27:00.000Z",
+      "summary": "伊春市推出“AI+森林文旅”智慧应用，打造文旅数字化标杆。",
+      "summaryZh": ""
+    },
+    {
+      "title": "英国 BAE 研发“幽灵雷达”：不主动“出声”也能追踪无人机，可装进 SUV、成本低至同类 1/10",
+      "link": "https://www.ithome.com/1/030/305.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-21T00:32:55.000Z",
+      "summary": "英国BAE研发低成本“幽灵雷达”，可追踪无人机，装SUV成本低至同类1/10。",
+      "summaryZh": ""
+    },
+    {
+      "title": "MassRobotics launching marine robotics facility on Boston Harbor",
+      "link": "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-20T17:04:28.000Z",
+      "summary": "MassRobotics在波士顿港启动海洋机器人设施。",
+      "summaryZh": "",
+      "titleZh": "MassRobotics 在波士顿港推出海洋机器人设施"
     },
     {
       "title": "Robotics enters its post-Jensen Huang era",
@@ -70,17 +160,8 @@
       "category": "robotics",
       "pubDate": "2026-11-20T03:06:28.000Z",
       "summary": "黄仁勋时代后，机器人行业迎来新篇章。",
-      "summaryZh": ""
-    },
-    {
-      "title": "“DeepSeek们”都在退场：限额并非免费AI的终结？",
-      "link": "https://www.tmtpost.com/8212818.html",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-20T10:23:37.000Z",
-      "summary": "DeepSeek实施限额，免费无限量AI服务面临挑战。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "机器人技术进入后黄仁勋时代"
     },
     {
       "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
@@ -90,6 +171,27 @@
       "category": "robotics",
       "pubDate": "2026-11-20T17:30:03.000Z",
       "summary": "无人机巧妙通过狭窄空间。",
+      "summaryZh": "",
+      "titleZh": "周五视频：无人机挤压自己以适应狭窄的空间"
+    },
+    {
+      "title": "AI中国｜秋假遇雪假！小假期打开大课堂 激活文旅消费新活力",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEOFNtMUFOT1lVc1M4cnJBWE1ObDNjY2xHY1IwT1NUdFJNWmVFQ19CcVZlSWFKclJVcEs5QXhlT0QxYTVnWHlYcVZGaElPRXpnRjJIWXdsOEFYbEdrU09QQnBxREJOZ2Jj?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-21T00:00:24.000Z",
+      "summary": "小假期AI课堂激活文旅消费新活力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "视频丨科技新国货成“深圳特产” AI眼镜、翻译耳机、无人机圈粉世界",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hLVRValVsbnhoV3N2Z0RTdVg0c0xlbkN6ZnV0S21wOWZFYi1STDdRZnRkNzVHV29EdXJtdkZaUllKT2wxQ0M4UTMwdVZUbEc3bW5JRw?oc=5",
+      "source": "腾讯科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-20T08:42:28.000Z",
+      "summary": "深圳华强北科技产品吸引众多外籍客商，AI眼镜等成“特产”。",
       "summaryZh": ""
     },
     {
@@ -99,8 +201,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-20T13:33:55.000Z",
-      "summary": "Sebastian Castro分享开源软件开发机器人任务规划和行为。",
-      "summaryZh": ""
+      "summary": "Sebastian Castro探讨开源软件在机器人任务规划和行为编程中的应用。",
+      "summaryZh": "",
+      "titleZh": "机器人谈话第 171 集 – 与塞巴斯蒂安·卡斯特罗一起编程机器人行为"
     },
     {
       "title": "Outdoor 3D tracking technology uses a drone's flight path as a 'moving ruler'",
@@ -109,8 +212,41 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-20T16:00:28.000Z",
-      "summary": "户外3D追踪技术利用无人机飞行路径作为动态尺子。",
-      "summaryZh": ""
+      "summary": "无人机飞行路径作为移动尺子的户外3D追踪技术问世。",
+      "summaryZh": "",
+      "titleZh": "户外3D跟踪技术使用无人机的飞行路径作为“移动标尺”"
+    },
+    {
+      "title": "ABB names Wasome winner of China startup challenge for AI automation solution",
+      "link": "https://roboticsandautomationnews.com/2026/11/20/abb-names-wasome-winner-of-china-startup-challenge-for-ai-automation-solution/107417/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-20T22:07:02.000Z",
+      "summary": "ABB宣布Wasome赢得2026年中国初创企业挑战赛AI自动化解决方案奖项。",
+      "summaryZh": "",
+      "titleZh": "ABB 授予 Wasome 人工智能自动化解决方案中国创业挑战赛冠军"
+    },
+    {
+      "title": "How to prototype robot control logic before committing to industrial hardware",
+      "link": "https://roboticsandautomationnews.com/2026/11/20/how-to-prototype-robot-control-logic-before-committing-to-industrial-hardware/107401/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-20T17:30:04.000Z",
+      "summary": "在购买工业硬件前，可使用Arduino原型机器人控制逻辑。",
+      "summaryZh": "",
+      "titleZh": "在致力于工业硬件之前如何对机器人控制逻辑进行原型设计"
+    },
+    {
+      "title": "Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWFFQXhWNzlaWHRMZ2E5dWdTY0pIa2dVci0wa0VETFVvZXRzS2Z3Vm9uenBueTdiNFVpQmxXTHBGUm1IS04tdEJuaTJKY0hoVHhsSWVhOGNFeUcyc09LSlV3aG05bzMycGZDa29JM3hvRFp1bm1UV1ZLblBFdzBMdVdMSzh4Zlk3M1drZm8tNUIyQ00?oc=5",
+      "source": "WSJ Tech",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-21T02:05:52.000Z",
+      "summary": "",
+      "titleZh": "独家|机器人初创公司 Genesis AI 融资 5 亿美元"
     }
   ]
 }
