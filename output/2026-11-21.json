@@ -1,7 +1,27 @@
 {
   "date": "2026-11-21",
-  "generatedAt": "2026-11-20T23:57:19.814Z",
+  "generatedAt": "2026-11-21T00:57:46.770Z",
   "items": [
+    {
+      "title": "OpenAI 宣布向 ChatGPT Plus 用户开放 Spaces 协作空间，支持多人共同编辑",
+      "link": "https://www.ithome.com/1/030/288.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-20T22:57:39.000Z",
+      "summary": "OpenAI 向 ChatGPT Plus 用户开放 Spaces 协作空间，支持多人共同编辑。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI 推出 MedChemBench 基准，评估 AI 辅助药物研发能力",
+      "link": "https://www.ithome.com/1/030/301.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-21T00:06:12.000Z",
+      "summary": "OpenAI发布MedChemBench基准，评估AI在药物研发中的推理能力。",
+      "summaryZh": ""
+    },
     {
       "title": "小鹏预计全年海外销量破10万辆；涂鸦智能AI Energy方案在欧洲多国部署；美团索降无人机迪拜首秀",
       "link": "https://www.tmtpost.com/8213045.html",
@@ -13,156 +33,34 @@
       "summaryZh": ""
     },
     {
-      "title": "让机器人技能开发更高效：鹿明携NexCore亮相2026世界智能制造博览会",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIN2plZGp0YXNmUGxKVlhyN1VQdlgxSnpVQkdOaTlDMGNsT1d3UWd6Y0lhcjh6dU4yUGlwdUUya3NwTFFqQUNESg?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-20T08:16:51.000Z",
-      "summary": "鹿明携NexCore亮相2026世界智能制造博览会，展示高效机器人技能开发技术。",
-      "summaryZh": ""
-    },
-    {
       "title": "前DeepSeek研究员，开源本地版Muse，实现token自由",
       "link": "https://zhidx.com/p/612775.html",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-20T09:42:40.000Z",
-      "summary": "前DeepSeek研究员开源本地版Muse，实现AI模型在个人电脑上运行。",
+      "summary": "前DeepSeek研究员开源本地版Muse，实现AI运行在个人电脑上。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI推出MedChemBench基准，评估AI辅助药物研发能力",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyRmtzcHktRjk1YUxMcXhWSTBXbERPX2VHbnJHZFFJT2xHeDBkLUd2WjNNSVljb3JESTQ4ZlRnaHNPY25vR0dPNl8yZkJMalR2Z3A4eFFLdWo?oc=5",
-      "source": "界面新闻",
+      "title": "估值 410 亿美元，贝佐斯打造物理世界的 OpenAI",
+      "link": "http://www.geekpark.net/news/374282",
+      "source": "极客公园",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-20T23:43:52.000Z",
-      "summary": "OpenAI发布MedChemBench基准，评估AI在药物研发中的推理能力。",
+      "pubDate": "2026-11-20T08:24:30.000Z",
+      "summary": "贝佐斯创立AI初创公司Prometheus，旨在用AI重构实体制造业。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI is testing a new design for mobile ChatGPT.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSFVxTkR3UE9rUzhyNEdQNG1xXzMxT29oYWpRU2RleGVLQ1BXQUpjMUVEOXNBaWszVVFGRk5wa0V4ZmJpbDdxbDFmTmN1Z3Z0Y2lBcG13cGtVNkpjTzlYWFVOeFB6V25RX0xtQ2hVbkRZNEMxTFpPSDFnVFhYVjNXVDZTVHdacV9oWWtsTVhrXzI1RlZiTEZndjlpelBWSUhjTl95Vi1naGFpemR3OHc?oc=5",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-20T00:59:00.000Z",
-      "summary": "OpenAI测试新设计的移动版ChatGPT。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 正在测试移动 ChatGPT 的新设计。"
-    },
-    {
-      "title": "杭叉集团加速推动具身智能落地",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CSkxUMmZ2SFpfQzRIa0RsTkpybWNzWkpVZzVocEMySU1qUTRvQThHNlJubndabGtlc3pfdEswNnp2VnlrMnh6cTlpSzRkLTdEWmJCZ09WS1hZcGQ1U2dBSVdaZEc4YV9XTENlQUtfSndxOHFRN0pj?oc=5",
-      "source": "中国经济网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-20T23:37:00.000Z",
-      "summary": "杭叉集团加速推进具身智能研发与应用，提升工业车辆智能化水平。",
-      "summaryZh": ""
-    },
-    {
-      "title": "欧洲央行行长：欧洲应提前布局AI算力建设，2030年相关投资或需1.3万亿欧元-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NV1hMTHVmQ21jZlM3Q0JaQmJBNXBDRkI1ME5YTjZBX3BkNFNXTU5zSHRRbjBKYy1IaWx5d1FJNHFtTjFSQkphQ2tJdTZvZ0NmWUFVMkhaSDAtX1l0dGc?oc=5",
-      "source": "36氪",
+      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
+      "link": "https://www.qbitai.com/2026/11/511582.html",
+      "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-20T09:00:05.000Z",
-      "summary": "欧洲央行行长建议2030年前投资1.3万亿欧元布局AI算力建设。",
+      "pubDate": "2026-11-20T05:24:11.000Z",
+      "summary": "Agnes Harness通过双系统决策和双层自进化技术，显著提升Agent效率并降低成本。",
       "summaryZh": ""
-    },
-    {
-      "title": "从Anthropic敲钟，看中国大模型怎么定价？",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GREsxZ2FFX3g4Y01jRFhXN3JxektIUXlnSkZ6ZkRSVU9QbTZTOTFETWw1SGxrbzBWcWk0eURwczU5X1gyb3VlNDNJQ0pDRlVu?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-20T03:05:11.000Z",
-      "summary": "Anthropic上市，中国AI圈关注大模型定价策略。",
-      "summaryZh": ""
-    },
-    {
-      "title": "IDC：2027年，中国部署AI智能体的城市将达70%",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EdzlvZkdWbElBZW40RU9aYkVrMi14el92ZlNjYnY4ek1xN0RDOTRaRmFWWk9leEZaTGs5em9HMUpKTjlKRThQYUlzT2k0eGdtN1ZqUDRyUXBVQQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-20T13:08:00.000Z",
-      "summary": "2027年中国70%城市将部署AI智能体。",
-      "summaryZh": ""
-    },
-    {
-      "title": "中国信通院人工智能研究所：个别机构假借名义开展AI数据质量评估技术服务",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTb2RwOWs1a1FPdEhzZl8yNE5GTHlyb2JjanctalJteWZSVFV0a09USDU2eXdrM2JaWlpZX2NVRDJfRm9IUy1IZUZZblZWWnVubWdDSHNfbGk?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-20T08:01:24.000Z",
-      "summary": "中国信通院人工智能研究所声明：个别机构假借其名义开展AI数据质量评估技术服务。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI智能体终端再添玩家：华为新品牌星芒首秀 推出首款鸿蒙AI手机",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DbThjZGxRLS1zNXgwaElaRklCcjEyekx6MVFzams3NG9DbUpvTjBzQk9yTkdvbHBkUXk5QkVocHNkX0xUUWYxUw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-20T12:15:27.000Z",
-      "summary": "华为新品牌星芒发布首款鸿蒙AI手机，搭载麒麟9030S芯片。",
-      "summaryZh": ""
-    },
-    {
-      "title": "巨头AI基建资本开支高增长，创业板算力ETF易方达（158050）获资金关注",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tdHpPSU9vbWVvMnF6Nlc0SEhtQUM0VzR1QkdGMjRDOWYwNWdaTlN1aWVQbmViNENoMWs3d0ZXN1ZCcTUwcUNEOQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-20T05:46:39.000Z",
-      "summary": "易方达创业板算力ETF（158050）本周获约1.7亿元资金净流入。",
-      "summaryZh": ""
-    },
-    {
-      "title": "绿盟科技：公司AI安全相关产品及解决方案已在政府、运营商、金融、能源、科教文卫、企业等六大行业实现规模化落地",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDWFNqcTFqT2F1REdueERSMXhLNnFNUy1MYmUwQXcxejlHVjFEOWJxZDlhbDFLWl9zS2dIMi1GNmw1Ni1yWDAxZXZLb29WWkYwUl9OLTRvMVkxMHM1OVV5YmZIaUJVRkla?oc=5",
-      "source": "同花顺财经",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-20T14:26:25.000Z",
-      "summary": "绿盟科技AI安全产品在六大行业实现规模化落地。",
-      "summaryZh": ""
-    },
-    {
-      "title": "伊春市创新推出“AI+森林文旅”智慧应用 打造文旅数字化标杆",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tWGFfN3JBbnZCUU15NG55alU4Q3RqN25GbUF1N1hQX211MFh2SkJuQ2E4cDBxemJGRTBEVVh4c0ZHRUM1Y0pKUk5nN2lKbHVUTUZVVWthekw5bEVwSFhQNTdWS0dYczFVNXFMSkdXNA?oc=5",
-      "source": "中国新闻网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-20T12:27:00.000Z",
-      "summary": "伊春市推出“AI+森林文旅”智慧应用，打造文旅数字化标杆。",
-      "summaryZh": ""
-    },
-    {
-      "title": "阿里受芯片管制下调短期云业务增速预期 即时零售明显减亏",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WWHgybU90U204OW5CZjdUeW03a3FzVUx5bUpnVUMtNTJyZGFKLV93b3JPUGtuMTBvRmdnYkp0dmM5NGlXVlZnVGpXMHdqZWRTWGVUY2VBd1F5dnlBcDEyMnl1b1M?oc=5",
-      "source": "财新网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-20T08:48:00.000Z",
-      "summary": "阿里受芯片管制影响，下调云业务增速预期，即时零售减亏明显。",
-      "summaryZh": ""
-    },
-    {
-      "title": "MassRobotics launching marine robotics facility on Boston Harbor",
-      "link": "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-20T17:04:28.000Z",
-      "summary": "MassRobotics在波士顿港启动海洋机器人设施。",
-      "summaryZh": "",
-      "titleZh": "MassRobotics 在波士顿港推出海洋机器人设施"
     },
     {
       "title": "Robotics enters its post-Jensen Huang era",
@@ -172,8 +70,17 @@
       "category": "robotics",
       "pubDate": "2026-11-20T03:06:28.000Z",
       "summary": "黄仁勋时代后，机器人行业迎来新篇章。",
-      "summaryZh": "",
-      "titleZh": "机器人技术进入后黄仁勋时代"
+      "summaryZh": ""
+    },
+    {
+      "title": "“DeepSeek们”都在退场：限额并非免费AI的终结？",
+      "link": "https://www.tmtpost.com/8212818.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-20T10:23:37.000Z",
+      "summary": "DeepSeek实施限额，免费无限量AI服务面临挑战。",
+      "summaryZh": ""
     },
     {
       "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
@@ -183,47 +90,6 @@
       "category": "robotics",
       "pubDate": "2026-11-20T17:30:03.000Z",
       "summary": "无人机巧妙通过狭窄空间。",
-      "summaryZh": "",
-      "titleZh": "周五视频：无人机挤压自己以适应狭窄的空间"
-    },
-    {
-      "title": "念念仙携AI+宠物新文化亮相上海",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TUDJyZV9TUlgtSjVmSjd1UmhwZnNVUEU3S2pCS09vUzlhVzg1WUpsb1RGekx2aHRrVlVNTFNqTlZpWEJPWHQ4OEY2OGh1ckpoaFYtTlRqdFY2el9TRTh0SXJHNXhqWm9YYTdtSXhiaWtRcGw0MVJB?oc=5",
-      "source": "中国经济网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-20T08:24:00.000Z",
-      "summary": "念念仙在长三角文博会推介AI+宠物情感陪伴数字内容矩阵。",
-      "summaryZh": ""
-    },
-    {
-      "title": "视频丨科技新国货成“深圳特产” AI眼镜、翻译耳机、无人机圈粉世界",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hLVRValVsbnhoV3N2Z0RTdVg0c0xlbkN6ZnV0S21wOWZFYi1STDdRZnRkNzVHV29EdXJtdkZaUllKT2wxQ0M4UTMwdVZUbEc3bW5JRw?oc=5",
-      "source": "腾讯科技",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-20T08:42:28.000Z",
-      "summary": "深圳华强北科技产品吸引大量外籍客商，AI眼镜等成为“新特产”。",
-      "summaryZh": ""
-    },
-    {
-      "title": "政产学研协同发力 香港加速布局具身智能新赛道",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qb0h1dU9GUVM3ME9VNlZiOE1LR25KOVYydW1VRTBQMlJRT0FWcFBzVFd1Z3BGZW1TeEttZ0E3dXEzeEVLc3A1a3k2d1dGUWYtdDIzY2I2dDlMRk56b2JJclA1T3MzZjZqNVNuM3FxeHNVSjAwNldKMA?oc=5",
-      "source": "新浪财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-20T00:37:32.000Z",
-      "summary": "香港加速布局具身智能新赛道，政产学研协同推动技术从实验室走向产业应用。",
-      "summaryZh": ""
-    },
-    {
-      "title": "洋河，为何能用“一瓶酒”站上世界智能制造博览会舞台？",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ubG1rWGpvN1RZdGFPenZwdmg1TF8waVFoMTNzcTJxbERnNXJ1bUNub2xXek91UGtwRlJHeDNteDZzWWxMVmRxeXd5YmE1cDVOZm02UFMyOEFicmd2dmxSLVpmeXQ?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-20T10:09:00.000Z",
-      "summary": "洋河凭借全产业链深度协同的白酒智能制造，成为江苏白酒行业首家入选国家级智能工厂项目企业。",
       "summaryZh": ""
     },
     {
@@ -233,9 +99,8 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-20T13:33:55.000Z",
-      "summary": "Sebastian Castro分享开发开源软件以规划机器人行为和任务。",
-      "summaryZh": "",
-      "titleZh": "机器人谈话第 171 集 – 与塞巴斯蒂安·卡斯特罗一起编程机器人行为"
+      "summary": "Sebastian Castro分享开源软件开发机器人任务规划和行为。",
+      "summaryZh": ""
     },
     {
       "title": "Outdoor 3D tracking technology uses a drone's flight path as a 'moving ruler'",
@@ -244,20 +109,8 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-20T16:00:28.000Z",
-      "summary": "无人机飞行路径作为动态尺子应用于户外3D追踪技术。",
-      "summaryZh": "",
-      "titleZh": "户外3D跟踪技术使用无人机的飞行路径作为“移动标尺”"
-    },
-    {
-      "title": "ABB names Wasome winner of China startup challenge for AI automation solution",
-      "link": "https://roboticsandautomationnews.com/2026/11/20/abb-names-wasome-winner-of-china-startup-challenge-for-ai-automation-solution/107417/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-20T22:07:02.000Z",
-      "summary": "ABB宣布Wasome赢得2026年中国初创企业AI自动化挑战赛。",
-      "summaryZh": "",
-      "titleZh": "ABB 授予 Wasome 人工智能自动化解决方案中国创业挑战赛冠军"
+      "summary": "户外3D追踪技术利用无人机飞行路径作为动态尺子。",
+      "summaryZh": ""
     }
   ]
 }
