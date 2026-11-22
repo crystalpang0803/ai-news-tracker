@@ -1,24 +1,15 @@
 {
   "date": "2026-11-22",
-  "generatedAt": "2026-11-21T23:55:43.132Z",
+  "generatedAt": "2026-11-22T01:26:26.324Z",
   "items": [
     {
-      "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sQ2NKclJOSjlJWlRPdDEwOE9LVk5jRTcyTHpoMVVsVWRTZmZWd3otT3M2eEswQmVpc1lEQXNVYUZrbldpeGNiZmFRQlBHVnhvTHkxSA?oc=5",
+      "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+      "link": "https://www.qbitai.com/2026/11/511757.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-21T11:24:29.000Z",
-      "summary": ""
-    },
-    {
-      "title": "财联社11月21日电，OpenAI推出MedChemBench，评估AI模型在源自药物化学研究的推理任务上的表现。",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqbzN4VzdaZllNWkR1SE5KNFQ2ZnJqcWk0VEd5dVZtbkthVHFvRUR1c0hDWXRQd2hFTE40TUE5dFR0NnRleXUxOQ?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-21T02:10:00.000Z",
-      "summary": "OpenAI发布MedChemBench评估AI在药物化学推理任务表现。",
+      "pubDate": "2026-11-21T06:30:55.000Z",
+      "summary": "混元团队在Reddit上透露，Hy小模型已纳入路线图，并计划面向24GB显存的模型。",
       "summaryZh": ""
     },
     {
@@ -28,17 +19,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-21T02:43:36.000Z",
-      "summary": "马斯克预测12-18个月内机器人可做家务，机器人ETF汇添富跌近4%资金逆势涌入。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI供电前史： 照明、汽车与工业电子如何汇入算力基础设施-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9McndFa2Jpc2dISHdzQm9mVVRRWFEyaVpyUDFmZmVZWmtrVy1DSGhlOTRwUDZZeEVGM2pmRWtpQW9QQ1ljeHVILXhqekI2Z3M?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-21T01:07:19.000Z",
-      "summary": "照明、汽车与工业电子技术汇入AI算力基础设施供电系统。",
+      "summary": "马斯克预测12-18月内机器人可做家务，机器人ETF汇添富跌近4%资金逆势流入。",
       "summaryZh": ""
     },
     {
@@ -48,7 +29,18 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-21T11:40:11.000Z",
-      "summary": ""
+      "summary": "腾讯元宝与KCL发布首个基于群聊构建的Agent记忆基准，测试AI在群聊中的记忆与使用能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "南水北调“天河”大模型完成升级",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qRTkzUE5kd0dfaWc1RFVPNWl5S0d3OV9GNWphVElGeU5FYzQ1ZW0wWVNkcTVzZVJsZ1BpUVdzZmhXbHY0ZHBFaVNVNTJ3TXAtMzVGNVdCSE9lUQ?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-21T08:02:00.000Z",
+      "summary": "南水北调“天河”大模型V2升级发布，推动水网管理智能化。",
+      "summaryZh": ""
     },
     {
       "title": "云端AI推理芯片细分领域领先者曲速科技：从芯片到算力服务构建完整闭环",
@@ -67,7 +59,37 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-21T08:20:37.000Z",
-      "summary": "AI筛选品牌时代，出海企业需优化GEO策略以进入推荐名单。",
+      "summary": "大模型筛选品牌时代，出海企业需重视GEO优化以进入AI推荐名单。",
+      "summaryZh": ""
+    },
+    {
+      "title": "国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mZmZoamh3ZkQ4WlRvSkRxbkFsZER2RFotVGxvMXJGVEU1VEJoRkpwbWtXei0wcEQ4dVlWbDloZzNYeWdCUlg4TEF1RnFXNjAtdnVreVBKb0U?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-22T01:17:38.000Z",
+      "summary": "国家中医药管理局认证中心声明未与任何大模型企业合作或开展测评。",
+      "summaryZh": ""
+    },
+    {
+      "title": "外卖翻篇，阿里把钱砸向AI",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Qd0tERTE0MlNyankxTEJsaGtab2hOYWhaOVhVTXZ4eUkxVE1sa0dSY3Z0S3pIaV84TWd6SVdIeEFUTzhqYXZfdGNRbko?oc=5",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-21T03:01:00.000Z",
+      "summary": "阿里将外卖业务利润转向AI基础设施建设投入。",
+      "summaryZh": ""
+    },
+    {
+      "title": "姚顺雨团队回应近百个问题：不刻意刷榜、将训练更大模型",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96TnJjdWgxWmkxWU9ZcHp2a1hJV1JoVUoyMFdObGlsS255X1U2QV9hTUpUWllETnBuNUpJVXgyS1dfVWtZVXRFMVhqTGQ5QkxHZWN3?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-22T00:40:42.000Z",
+      "summary": "姚顺雨团队回应混元大模型研发方向，强调不刻意刷榜，将训练更大模型。",
       "summaryZh": ""
     },
     {
@@ -81,13 +103,13 @@
       "summaryZh": ""
     },
     {
-      "title": "AI融资压力缓解的信号! 甲骨文(ORCL.US)重磅官宣OpenAI大单履约资金落实，盘后股价强劲反弹",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOazhEN3BWRHNWZDFsX1FtNkYyS0k1aHJVZkljOUNEbzJwZ3F3T3hyT0xsSHgyRHhTNWxvb01OVTFsX3R0YURWd2x2aWRNUkhld244RnptZ054RDZLM2Fqa2c1QUJFakV2QklXaHFpdVV3cTBiU25JY3pVS1Jndi1MbE5xWXdhd0ZPb0hxLWxR?oc=5",
-      "source": "新浪财经",
+      "title": "SpaceX计划周四进行至少320亿美元AI芯片相关债务融资",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZOTM3MExQcl9ZZHVSNUlIX2pPVGhGQ0pkUk1za25ZU2JKWi1kUzVUWFRoUi1YRXV6RHNQMjAzbDNwR2d3cGlueg?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-21T06:31:47.000Z",
-      "summary": "甲骨文宣布OpenAI大单履约资金落实，盘后股价强劲反弹。",
+      "pubDate": "2026-11-21T03:59:11.000Z",
+      "summary": "SpaceX计划周四进行至少320亿美元AI芯片相关债务融资。",
       "summaryZh": ""
     },
     {
@@ -98,16 +120,6 @@
       "category": "ai",
       "pubDate": "2026-11-21T09:05:00.000Z",
       "summary": ""
-    },
-    {
-      "title": "2.2万个智能体在武汉5700个场景落地",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHVWFfU2tpcGx4S3RRWUJEUDVfQ3ZLSGZWeEswcm1QNjVJVmV0ZzlqZWVuWUVGQjczYl9XYUsxVnl2SnBlSmhiRXo2ekFnVGVsazY1TUtkLWJqdG1iVG54ajMzaUpBYzQ1LVFrSkpFZXItWWVmZ1RpRg?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-21T00:37:10.000Z",
-      "summary": "武汉智能体应用覆盖5700场景，服务超18万家企业。",
-      "summaryZh": ""
     },
     {
       "title": "5G-A赋能深港汇智慧示范园区 多台人形机器人协同巡检",
@@ -139,16 +151,6 @@
       "summaryZh": ""
     },
     {
-      "title": "Genesis AI 发布Eno：机器人商业化，可能不需要先长得像人",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXSzB4M19PM0ROZ2ZPTThSZ2N4ZFN2dnR3dmJVSm9ya3U4UGlUUEFXVGQ2NHprc2JIQTc5eWdBSHl4TVdxX0E4aVVUbUZhT0R4cW1USkU2Y1AxMXZGM0FuWW9n?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-21T11:46:46.000Z",
-      "summary": "Genesis AI发布Eno，机器人商业化设计不再局限于人类形态。",
-      "summaryZh": ""
-    },
-    {
       "title": "深圳APEC盛会见证：机器人炫技落幕，价值交付登场",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04R0pvVkZVM3ZMU3lxUDIxcjJWWXBNRHRaWnQyVV9DUWpDNV9kWGVZeWtNemUxUUw2N1BIdV9PaV9ZX2VLNVByd2w3dTRxNlN3WG12MlU0aw?oc=5",
       "source": "与非网",
@@ -156,16 +158,6 @@
       "category": "robotics",
       "pubDate": "2026-11-21T02:00:50.000Z",
       "summary": "深圳APEC盛会机器人展示结束，价值交付成为焦点。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机器人扔件，拍子不能错，25M、38.4M、50M 晶振选型",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fRFltZXFmZ1NwZkl5dTJ2RF80em9ieWxJQVZsbWl4SXNOdlBpVXA3TEVsbDY4ZUctU2llOG14YWJ6bW8tYlIzOUxBQVlhSDVHWWp4Uk0zZw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-21T06:46:41.000Z",
-      "summary": "机器人精准选型晶振，确保产品性能稳定。",
       "summaryZh": ""
     },
     {
@@ -179,24 +171,14 @@
       "summaryZh": ""
     },
     {
-      "title": "Medtronic’s Hugo surgical robot ready for bigger operation",
-      "link": "https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-21T00:55:45.000Z",
-      "summary": "Medtronic的Hugo手术机器人获FDA批准，可用于腹部手术。",
-      "summaryZh": "",
-      "titleZh": "美敦力 (Medtronic) 的 Hugo 手术机器人已准备好进行更大的手术"
-    },
-    {
-      "title": "机器人上岗手机产线 智元与蓝思科技达成合作",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JdGJMZ3R1N1pKNUdDank4amwzUDhXY1FoNzNGekhtTm12UU42WEJMbjlSaGZJN2FTOGdybXdrR0ZGbEFDd0dOMFVVdWRQSXVXYTJ6bUpFR3dTU0o5LVY5aE1R?oc=5",
-      "source": "中国经营网",
+      "title": "直击银博会 记者带你体验未来养老的“智慧守护”",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLX200ZWNGS0lJNFNLNlp1Z3lzQ0dOVkdXRUFOSDJjczRxRHFoc3dmSWE1Y2lKbTZFb0gtRVctUFdDMDZna25lMnNtSGdrLWlEZlN0VExPcG5DS2tZVTNMOE1UTkxsUlZ6N013?oc=5",
+      "source": "央广网",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-21T11:32:00.000Z",
-      "summary": ""
+      "category": "application",
+      "pubDate": "2026-11-21T16:02:47.000Z",
+      "summary": "银博会展示未来养老“智慧守护”设备，AI技术助力睡眠监测。",
+      "summaryZh": ""
     },
     {
       "title": "科技新国货成“深圳特产”！AI眼镜、翻译耳机、无人机圈粉世界",
@@ -205,29 +187,8 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-21T22:15:00.000Z",
-      "summary": "深圳AI眼镜等科技产品成为外国游客“新特产”，带动离境退税增长。",
+      "summary": "深圳AI眼镜等科技产品成为外国游客“新特产”。",
       "summaryZh": ""
-    },
-    {
-      "title": "Four Payments Executives Define Where Automation Still Needs Human Approval",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0wwRHpZUS1zRllhdzNxT1BLa0F2d01TcXcxdmlGSDk3ejg1Rno3bEhpSzlneklHTXdESkx5eDBEMDNicE84aU1uM0ZOenlqemlIT1FTd0NBMzBuS3MyUkF4MHJSNXBQVzVJTFBCWWNJcGtrWmxva3R0ZWk0Q2tBb0lSYW5kOE1Bb0dFNTdaSXFfOGhROTIwM2NpbzY5WGRSMFMtblIxaEFxeUZCMHZGTFpn?oc=5",
-      "source": "PYMNTS",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-21T01:23:47.000Z",
-      "summary": "四位支付高管阐述自动化仍需人工审批的领域。",
-      "summaryZh": "",
-      "titleZh": "四位支付高管定义了自动化仍需要人工批准的领域"
-    },
-    {
-      "title": "P&G to Cut Up to 30% of Product-Supply Workers Amid Automation Push",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOWNEUUhHMUFTQjdHbDF1dVlhWmwxbjkyNzBXM2JBRXdqVFRlcjMwTG9lWWRWRTV2bXlzQkdUX2lyUE1zT2pUSzVmTDF2akJKVjNtWFhfRVhQSXhwdEpZb3FOSWcwYnFiSTlCYWNwLWNfVXdweC1XVzg5Y1hRaE56M2diNWV1OTRiMzhZUV9KUm1ZYjZnQXlEN3phejJaMkJPaUVQQWxRNA?oc=5",
-      "source": "WSJ Tech",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-21T22:27:50.000Z",
-      "summary": "",
-      "titleZh": "宝洁公司将在自动化推动下裁减多达 30% 的产品供应工人"
     },
     {
       "title": "Russia and Ukraine’s drone war sends optical fibre prices soaring",
@@ -235,7 +196,7 @@
       "source": "Financial Times",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-21T05:01:04.000Z",
+      "pubDate": "2026-11-21T05:00:08.000Z",
       "summary": "俄乌无人机战推高光纤价格。",
       "summaryZh": "",
       "titleZh": "俄罗斯和乌克兰无人机战争导致光纤价格飙升"
