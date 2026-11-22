@@ -1,93 +1,87 @@
 {
   "date": "2026-11-22",
-  "generatedAt": "2026-11-22T06:57:27.985Z",
+  "generatedAt": "2026-11-22T11:57:25.362Z",
   "items": [
     {
-      "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sQ2NKclJOSjlJWlRPdDEwOE9LVk5jRTcyTHpoMVVsVWRTZmZWd3otT3M2eEswQmVpc1lEQXNVYUZrbldpeGNiZmFRQlBHVnhvTHkxSA?oc=5",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-21T11:24:29.000Z",
-      "summary": "Karpo开源新决策模型Karpo Decision 31B，浏览器Agent决策能力大幅提升。",
-      "summaryZh": ""
-    },
-    {
-      "title": "无需游戏引擎！马斯克称特斯拉 FSD v15 实景视图仅动用 AI4 芯片一个 TRIP 加速器一半算力",
-      "link": "https://www.ithome.com/1/030/563.htm",
+      "title": "开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI",
+      "link": "https://www.ithome.com/1/030/699.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-22T04:18:50.000Z",
-      "summary": "特斯拉FSD v15实景视图仅用AI4芯片一半算力。",
+      "pubDate": "2026-11-22T11:24:43.000Z",
+      "summary": "开发者将微型 Transformer 模型压缩至软盘，使 486 老电脑可运行 AI。",
       "summaryZh": ""
     },
     {
-      "title": "腾讯、阿里同时下注，小鹏机器人凭什么值 430 亿元",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53ZndrYXBWZWFsV3M2NFhCcmJOSEswUTdIQV9wQndJN3Bpay1PRExMLTZwNUxVVGtPN3Vxby1zamJiX0dvb202YkRGdFdCdw?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-21T21:44:31.000Z",
-      "summary": ""
-    },
-    {
-      "title": "马斯克押注FSD V15，版本号能否兑现自动驾驶",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pNS1wWXFld2phWmFMZnNpcDNyVmd4Z01IU0lHNkhYNVBkZllOREpGSm5qa1RCWkVCb1YwT2ZKWTFZS2xxM0sxWDVVdkptS1lNUE5YMVI4UWFrV0hhR0E?oc=5",
+      "title": "Gemini上线AI动图功能 可直接生成3秒循环GIF",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wb29DZkYtNU56M0JIRGwwOFpjREJQdW5JYW54Y3QyMGhTNWQ2YWEyS0xtUGkwckF6bmhUS25jU0NFcXpxTXdNMExiS2txTUVjVlE5Mg?oc=5",
       "source": "钛媒体",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-21T07:55:00.000Z",
-      "summary": "马斯克发布FSD V15，自动驾驶功能备受关注。",
+      "category": "ai",
+      "pubDate": "2026-11-22T07:41:00.000Z",
+      "summary": "Gemini推出AI动图功能，可生成3秒循环GIF。",
       "summaryZh": ""
     },
     {
-      "title": "四川具身科技冯振宇：在具身智能落地期，数据飞轮与生态构建极为关键",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aWk5WWjB1M1FxTUc2ZXpMREZ2QlN1SnZTbHdreVNQSGhpek9FX3RwWkFSal9nN253b3lleExmaWh0UjNlaVN0ZDMtRmlHZHFwX1NhRGxYMFFUOGV4TmkxT193?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-22T01:10:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "国家中医药管理局认证中心：未与任何大模型企业合作 亦未开展测评",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15UnB4bEZQbEN1azUxY3RHYzRFVGItYWg3RkZGQ0Y2SnVzakxUUFU4YmN4dF9DcE1XOHJFbVRDUkdMMmsyVThxNThaR2lJY2pMM25Kc1U5d2p1N2s?oc=5",
+      "title": "国家中医药管理局认证中心：未与任何大模型企业合作 亦未开展测评-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoaUFTOUdrbUZabHVoZjhkdEZLbmNYQWFfcndDOUhmc3N5X0JBVHNocF8xNlNoS0ZBMGk3NWdkSWZ2d0hOb1M1TkFSTVNnYkdMcXdsdnVsU3RhSzd6Z2c?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-21T10:45:00.000Z",
-      "summary": ""
+      "pubDate": "2026-11-22T03:12:05.000Z",
+      "summary": "国家中医药管理局认证中心未与任何大模型企业合作，也未开展测评。",
+      "summaryZh": ""
     },
     {
-      "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LZ2x1Zk15amF5MU94Qk8xSjFVd1dOU28wYlJIei1WVFZ2LUQ3ZXdZVHZBRWdXaGRtdG5CQnM5YXpmLW1DNE8yb200YlhJZ1VfYXppUw?oc=5",
-      "source": "量子位",
+      "title": "亚马逊用接近75亿美元收购以色列AI芯片初创公司，目标是对付英伟达",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNYWpmcFlUMGRfRXp5azJjR0dKZE05TXRwZ2prcWlHdWFCbXZCMVgzMWNrbG5ZWVU3dExqQVY0UVFtS2JDLUx0bUVrNjF4c1V3WmwxLXZTeXI4Zw?oc=5",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-21T11:40:11.000Z",
-      "summary": "腾讯元宝与KCL发布首个基于群聊构建的Agent记忆基准，测试AI助手在群聊中的记忆应用能力。",
+      "pubDate": "2026-11-22T02:54:00.000Z",
+      "summary": "亚马逊拟以75亿美元收购以色列AI芯片初创公司Decart，以增强与英伟达的竞争。",
+      "summaryZh": ""
+    },
+    {
+      "title": "关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切",
+      "link": "http://www.geekpark.net/news/374301",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-22T01:56:28.000Z",
+      "summary": "姚顺雨就混元4模型等AI技术问题回应开发者关切。",
       "summaryZh": ""
     },
     {
       "title": "南水北调“天河”大模型完成升级",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qRTkzUE5kd0dfaWc1RFVPNWl5S0d3OV9GNWphVElGeU5FYzQ1ZW0wWVNkcTVzZVJsZ1BpUVdzZmhXbHY0ZHBFaVNVNTJ3TXAtMzVGNVdCSE9lUQ?oc=5",
-      "source": "钛媒体",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5paVZKZlcteEtwOTVLc29KSlU4TDNacUxkYjNSa0dqOHhSQ2RXeWlYN0R4cTUxM3Nxcl9mdVh1Vm8xNFcxandHNWJ1R3E5T0Y4NjM4?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-21T08:02:00.000Z",
-      "summary": "南水北调“天河”大模型V2升级发布，推动水网管理智能化。",
+      "pubDate": "2026-11-22T08:40:24.000Z",
+      "summary": "南水北调“天河”大模型V2版本发布，升级推动水网管理智能化转型。",
       "summaryZh": ""
     },
     {
-      "title": "云端AI推理芯片细分领域领先者曲速科技：从芯片到算力服务构建完整闭环",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iQmpJcHZvMmZjRFl4Q2h3MGQzajdTRjdqWXlqTzg4OXFEempaSWFtV2c5aDRpdmdIeVRWc1pReUt6WmhzZEVuLWQxdFA?oc=5",
-      "source": "IT之家",
+      "title": "姚顺雨团队回应近百个问题：不刻意刷榜、将训练更大模型",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96TnJjdWgxWmkxWU9ZcHp2a1hJV1JoVUoyMFdObGlsS255X1U2QV9hTUpUWllETnBuNUpJVXgyS1dfVWtZVXRFMVhqTGQ5QkxHZWN3?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-21T10:14:16.000Z",
-      "summary": "曲速科技构建云端AI推理芯片至算力服务完整闭环。",
+      "pubDate": "2026-11-22T00:40:42.000Z",
+      "summary": "姚顺雨团队回应混元大模型研发方向，强调不刻意刷榜，将训练更大模型。",
       "summaryZh": ""
+    },
+    {
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "source": "Wired",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-22T11:00:00.000Z",
+      "summary": "美银等机构禁止第三方AI机器人登录账户，用户需自行承担错误风险。",
+      "summaryZh": "",
+      "titleZh": "银行已经通过人工智能代理做到了这一点"
     },
     {
       "title": "ChatGPT越改越卡？OpenAI派AI自己查，揪出600多个病根",
@@ -100,34 +94,63 @@
       "summaryZh": ""
     },
     {
-      "title": "关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FUjQ4VzgwaENrYWJYcTNqWkVKdTQ2bVhFbDhkODEyZnFTT2xjTW5kSkNRN0dwOWVWZC1NbFJVVjRsemJ0Y2U4QTJkaXU?oc=5",
-      "source": "极客公园",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-22T02:00:00.000Z",
-      "summary": "姚顺雨就混元4模型、算力、刷榜与RSI等话题进行回应。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI进化速递丨甲骨文称已筹集履行与OpenAI合同所需全部资金",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iU1lQZlNQSjRScTVOVHlHMWdiN2taSnY1UDVkRVJXeEtXMzByQ3hfdzFMRkJYUFc2TU9iTlFFTXR2WnB3ZVVhQ1FQRlMwb1JUMFVR?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-21T12:50:54.000Z",
-      "summary": "甲骨文已筹集履行与OpenAI合同所需全部资金。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Genesis AI 发布Eno：机器人商业化，可能不需要先长得像人",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXSzB4M19PM0ROZ2ZPTThSZ2N4ZFN2dnR3dmJVSm9ya3U4UGlUUEFXVGQ2NHprc2JIQTc5eWdBSHl4TVdxX0E4aVVUbUZhT0R4cW1USkU2Y1AxMXZGM0FuWW9n?oc=5",
-      "source": "虎嗅",
+      "title": "马斯克：SpaceX 首个被“筷子”机械臂捕获的星舰上面级将退役，会公开展出",
+      "link": "https://www.ithome.com/1/030/684.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-21T11:46:46.000Z",
-      "summary": "Genesis AI发布Eno，机器人商业化设计不再局限于人类形态。",
+      "pubDate": "2026-11-22T10:20:05.000Z",
+      "summary": "SpaceX首个被机械臂捕获的星舰上面级Ship 42将退役并公开展出。",
       "summaryZh": ""
+    },
+    {
+      "title": "英伟达股价大跌14%，市场担忧云端AI前景！人形机器人、安防视频监控等端侧AI将站上风口？",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wRkxvM0JHZnRLXzNoT1NrSzEzTjdmQ3RQWWVtZXI2NnI3UnJHVFFHYmNYMEtWb0ttdTVaZnRoTzVoWlpXRXdfeDBiTWVtSGktN2Z4cGRtX0dpUjFkNWVYZm4zdGEyZw?oc=5",
+      "source": "每日经济新闻",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-22T06:21:00.000Z",
+      "summary": "英伟达股价大跌，市场担忧云端AI前景。",
+      "summaryZh": ""
+    },
+    {
+      "title": "5G-A赋能深港汇智慧示范园区 多台人形机器人协同巡检",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pNEJ1aXBMdi1melRFcUVMR3FBV0tuQ0FtMnJ3S2Nhc04zU2V2RFdfSkx1dGNKc0hVNXo1emQ1dURyci1Kb3EyN2FTUWtLZFVRZmRFUU5Qa1FpWVVJX3BENGYwdzkyUGx5bDVN?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-21T14:04:00.000Z",
+      "summary": "深港汇智慧示范园区启用5G-A技术，多台人形机器人协同巡检。",
+      "summaryZh": ""
+    },
+    {
+      "title": "刚刚，Claude黎曼猜想证明通过验证！菲尔兹奖得主回应“数学研究不存在了？”-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmRzVBZi1zVE9pQWdpbnhtMm9vUktIZlo5YlNuSjNiYksyNjhFTDdySjh1R3pnUlJEaVlISVQyTlR5dlktdVJ4QS0ycGFBSThn?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-22T05:14:17.000Z",
+      "summary": "黎曼猜想证明通过验证，菲尔兹奖得主认为数学研究未终结。",
+      "summaryZh": ""
+    },
+    {
+      "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+      "link": "https://www.qbitai.com/2026/11/511870.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-22T06:03:54.000Z",
+      "summary": "A社数学家与Claude合作证明Navier–Stokes方程无外力有限时间爆破，引发数学界关注。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Lean与Mathlib社区正式确认Alpöge与Claude合作的黎曼猜想形式化证明正确",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91cWtWcGFGZEQ3b3hOY19DTkxPZFVuNlU4SExmOXBhcm9nVjgzYk9oM0szdVp1UHh3VXZyal9oV3N1QXRiM202bGxwVjhXYkhkWEh2ZA?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-22T04:59:17.000Z",
+      "summary": ""
     },
     {
       "title": "Suppliers: Pitsco Education & Tetrix Robotics",
@@ -140,6 +163,16 @@
       "titleZh": "供应商：Pitsco Education 和 Tetrix Robotics"
     },
     {
+      "title": "《中国旅游教育蓝皮书》：AI已成为重要的育人基础设施",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByOHRXWEZVYUM0eHB0RThKd1BxZkd4aFlSLWwwQzVydVd3SGpPM3VBTUR5cUV0V1RCM09LQnRUdTlOblpQdl85OEVpZW1KakNFMVg3cnc5STZWTWRFbEdEb3Vqbng3bVFQMmRLa0E4YTlQbE1LQ1E?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-21T12:00:00.000Z",
+      "summary": "中国旅游教育蓝皮书指出，AI已成为旅游教育的重要育人基础设施。",
+      "summaryZh": ""
+    },
+    {
       "title": "直击银博会 记者带你体验未来养老的“智慧守护”",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLX200ZWNGS0lJNFNLNlp1Z3lzQ0dOVkdXRUFOSDJjczRxRHFoc3dmSWE1Y2lKbTZFb0gtRVctUFdDMDZna25lMnNtSGdrLWlEZlN0VExPcG5DS2tZVTNMOE1UTkxsUlZ6N013?oc=5",
       "source": "央广网",
@@ -150,23 +183,33 @@
       "summaryZh": ""
     },
     {
-      "title": "科技新国货成“深圳特产”！AI眼镜、翻译耳机、无人机圈粉世界",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55QUF2SFpzQTNBSEVJWFVmSGNiZnFTeFhUdnNONkhTRF9WTERFaEVwY2FBQksxVTJfY0xtbXBTU2stWjlkN0lKX0EyUjVpcHJvQmhWT2JLUVRmZHN5RUppVkxTbnFhdw?oc=5",
-      "source": "21财经",
+      "title": "从APEC会场到海外订单：中国具身智能走向全球市场",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LbHE0dTRvRjBIckhPUjU5SnE3emszdVA4OXhIaldhWGY4SVlIbzlEQkN6c0oxOUpRRDZQVnNwQVg1ZlZBT19wUXljelktQ0RnQjFlVlZLUXB2ZENqSExpS3RCWWNUSWN5MkNVQ1dMUHMxcW9RWkE?oc=5",
+      "source": "中国经营网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-21T23:20:54.000Z",
+      "pubDate": "2026-11-22T08:01:14.000Z",
       "summary": ""
     },
     {
-      "title": "Exclusive | Genesis AI, a Robotics Startup, Raises $500 Million",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWFFQXhWNzlaWHRMZ2E5dWdTY0pIa2dVci0wa0VETFVvZXRzS2Z3Vm9uenBueTdiNFVpQmxXTHBGUm1IS04tdEJuaTJKY0hoVHhsSWVhOGNFeUcyc09LSlV3aG05bzMycGZDa29JM3hvRFp1bm1UV1ZLblBFdzBMdVdMSzh4Zlk3M1drZm8tNUIyQ00?oc=5",
-      "source": "WSJ Tech",
-      "lang": "en",
+      "title": "科技新国货成“深圳特产”！AI眼镜、翻译耳机、无人机圈粉世界",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbW02bGhxUnQ5T0c3RmlYWUF3MjJ0VV9rVVE5YnRRcEpSWGNqd3FIVW5RaDBldUJGcFgtcnJxQTRSd1lDN1ZxTERHM0s3QnhfdjhxZzFVbXFxekVfMlNEVDBSX18tUXF2MnY0UkdnSHJzUF82aE84U2VNdVo4ZDVfNEZwV3ZTYTBLQkJyMGdOcw?oc=5",
+      "source": "21财经",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-22T05:01:18.000Z",
-      "summary": "",
-      "titleZh": "独家|机器人初创公司 Genesis AI 融资 5 亿美元"
+      "pubDate": "2026-11-21T22:15:00.000Z",
+      "summary": "深圳AI眼镜等科技产品成为外国游客“新特产”。",
+      "summaryZh": ""
+    },
+    {
+      "title": "具身智能助城轨运营迈入人机协同新阶段",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wMVdlUUJ6blEtV0xCVGJMUzVta3BMOGVLUFRVX3dLNlh3RGw1N2xQa2oxRVFMZmZzQkNLSWU0bUROaF9rYzRjLWRIeFgzLTVEeURnX2NzWGpveW43RUcxeg?oc=5",
+      "source": "光明网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-22T10:02:09.000Z",
+      "summary": "具身智能技术助力城轨运营实现人机协同，提升效率与安全性。",
+      "summaryZh": ""
     }
   ]
 }
