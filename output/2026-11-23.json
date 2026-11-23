@@ -1,17 +1,7 @@
 {
   "date": "2026-11-23",
-  "generatedAt": "2026-11-22T23:33:14.196Z",
+  "generatedAt": "2026-11-23T00:28:59.248Z",
   "items": [
-    {
-      "title": "资本开始为10万台人形机器人“落地能力”定价",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MdHBGNW5vRVhKMkZCRS01S3N1emNGdlhLa2drMDhUTHp4VEJGaDBoaUdTZHpkRzRvZ1BPM3Q0TWd1eG12b0p3Z0hIdDBKQjdDTHZvZmZocUl1X2tUVF9UTDJZdVhDdEp3RnY5NmlERQ?oc=5",
-      "source": "央广网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-22T12:29:42.000Z",
-      "summary": "10万台人形机器人“落地能力”资本定价启动。",
-      "summaryZh": ""
-    },
     {
       "title": "B站就“AI 大肥鱼”智能体账号泛滥发布调查问卷，征集治理意见",
       "link": "https://www.ithome.com/1/030/702.htm",
@@ -23,63 +13,24 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI首席科学家提议建立行业统一AI安全标准，预计2027年预训练技术或迎重大突破",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUMW8tQ3NXZVZ0YU5NOGxldjE3WmlsSnFjLWJreHVnSy1uSElyWjRqcGV5QUZQSk9rcWpNM3lGUXRwOGFYdmoyUTJ5bnpKWmt1amNjQ0dB?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-22T23:21:51.000Z",
-      "summary": "OpenAI首席科学家提议建立AI安全标准，预计2027年预训练技术将迎重大突破。",
-      "summaryZh": ""
-    },
-    {
-      "title": "史上最大规模GPU租赁融资落地，SpaceX租英伟达GPU扩建地面算力",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtOHp1M2JpaU0xczVkcE9uZnhOc3c5VUliWFBxXzlYd3NnUk1DeTdyZ3NDa09jUk9LWjZ4M0l4YzdTQ1VFeVpDYXdzRHotM0VxcXg0UkdBT1U?oc=5",
-      "source": "经济观察网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-22T09:08:00.000Z",
-      "summary": "SpaceX以440亿美元融资租赁英伟达GPU，扩建地面算力。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Nomadic 无人机停高压电线上就能充电，每架可负责监测 25 公里电网线路",
-      "link": "https://www.ithome.com/1/030/708.htm",
+      "title": "OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限",
+      "link": "https://www.ithome.com/1/030/720.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-22T12:56:39.000Z",
-      "summary": "Nomadic无人机可停高压电线充电，监测25公里电网线路。",
+      "category": "ai",
+      "pubDate": "2026-11-22T22:50:46.000Z",
+      "summary": "OpenAI首席科学家警告AI可能在2027年加速发展，呼吁设限以保障安全。",
       "summaryZh": ""
     },
     {
-      "title": "全球首场人形机器人拳击金腰带争霸赛在雄安上演",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jUjAxc0RxOTRwaks0dHc3RW5wTlE4cUpQQlZQeUM4ZnJvNHVNT3c1NmNZQk1DMW1JX3RjY1lIUWMyZVpPQURTSjhVQU5vb3VLVmE3OEZ0aG5pM3BQVHkzcXNBRDU0Y1VXMFRGbF9vOUc?oc=5",
-      "source": "科技日报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-22T01:35:51.000Z",
-      "summary": "全球首场人形机器人拳击金腰带争霸赛在雄安落幕，宇树机器人夺冠。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Anthropic开出2.7亿天价疯抢CS本科生！OpenAI迎史上最惨一周-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJbnFFemFFMVVXLUw4UlZ1Tzg4di1iUHpaMTA2YlZOUFpQVHA2M0NTSnBHeTY0NEg1SlZjbEdGUFZaMjNmRDRsRVJ6Tk8tSkU?oc=5",
-      "source": "36氪",
+      "title": "Oracle：已确保履行与 OpenAI 合同全部所需资金",
+      "link": "https://www.ithome.com/1/030/715.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-22T08:05:02.000Z",
-      "summary": "Anthropic以2.7亿人民币年薪抢夺CS本科生，OpenAI遭遇行业低谷。",
+      "pubDate": "2026-11-22T14:24:17.000Z",
+      "summary": "Oracle已筹集履行与OpenAI合同全部所需资金。",
       "summaryZh": ""
-    },
-    {
-      "title": "前OpenAI研究员发布取证报告：六款中国前沿模型被识别出英伟达Blackwell训练痕迹",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00YnVsbFJXcnduNGpJYjdNaW1Ka1FBRURDU2E0ZWx6b3hXclQyYzZUaUtaQU05MlpOUVNpMER5U1VMZXpnRlg0R1JtQ29EWGM2REVZNQ?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-22T15:46:46.000Z",
-      "summary": ""
     },
     {
       "title": "跨境收款之后，中国公司盯上智能体支付的新生意",
@@ -88,111 +39,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-22T08:19:16.000Z",
-      "summary": "中国公司聚焦智能体支付，拓展企业支付解决方案。",
+      "summary": "中国公司聚焦智能体支付，拓展企业支付新领域。",
       "summaryZh": ""
-    },
-    {
-      "title": "黎曼猜想证明获认证：Claude参与攻克百年数学难题",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LVFFpSk9QT1ExNXdPOFZVMVJGbjNJem90ckRQNmZqektON19IWnFnYzBDOGZpYVRJMTRMNi1IeGl0NGQweWhSdTRmeGhPaUN0LWtn?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-22T12:55:02.000Z",
-      "summary": "数学家与AI合作证明黎曼猜想获形式化认证。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Anthropic首秀“高开低走”，港美AI股承压，OpenAI面临新定价",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83b0NpNWRtT2dWRWFWZXJ0aFZyTFJLbmViMi1lWk5ETWE2b1BrbXZOeXYzQ1BYbzBwMmZXSUxTbDlsTFNURVdVMkc3eEx4SlV5dHVJ?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-22T10:07:27.000Z",
-      "summary": "Anthropic上市首日股价波动，港美AI股承压，OpenAI面临新定价挑战。",
-      "summaryZh": ""
-    },
-    {
-      "title": "别家冲万亿参数，混元7700亿。腾讯首席AI科学家姚顺雨直言：扎实小模型也能打赢大模型，全力压榨现有资源追赶前沿",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PZzQ1ZUlhb1ozTERKR2J2dE5RRkk0dXFMb0dlbDc3cEUtRGJraEVMMEViQnpLaGRxTmcyaUk0NERoOFYya2RLb1dsM2huQ3hfVnlYYkZsSEUwZkRkbUhZa25DUVpoeE5ObEcw?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-22T03:18:00.000Z",
-      "summary": "腾讯AI科学家姚顺雨强调小模型潜力，全力优化资源追赶AI前沿。",
-      "summaryZh": ""
-    },
-    {
-      "title": "华山开启“AI+文旅”全民共创全球创作者大赛启动",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yd1VmVWNLYzRDc0xjVGIyTmlaWDQxTFVHYWI2Yzh4bFd1dUxad0IyRFl1YkN3ZWhRLWNNQzdWUTJTOEpISjFvOTR4SU8wNW92MkxMVkFOWUVqSlFLQ2NRdg?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-22T07:30:58.000Z",
-      "summary": "华山举办“AI+文旅”全球创作者大赛，鼓励多元创作解读华山文化。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Multiway Robotics showcases wheeled humanoid and autonomous forklifts at CeMAT Asia 2026",
-      "link": "https://roboticsandautomationnews.com/2026/11/22/multiway-robotics-showcases-wheeled-humanoid-and-autonomous-forklifts-at-cemat-asia-2026/107492/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-22T21:48:50.000Z",
-      "summary": "Multiway Robotics在CeMAT Asia 2026展示轮式人形机器人和自动叉车。",
-      "summaryZh": "",
-      "titleZh": "Multiway Robotics 在 CeMAT Asia 2026 上展示轮式人形机器人和自动叉车"
-    },
-    {
-      "title": "Robotics investment set to reach $60.7 billion in 2026, but funding boom raises concerns",
-      "link": "https://roboticsandautomationnews.com/2026/11/22/robotics-investment-set-to-reach-60-7-billion-in-2026-but-funding-boom-raises-concerns/107478/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-22T20:11:05.000Z",
-      "summary": "2026年机器人投资预计达607亿美元，但资金热潮引发担忧。",
-      "summaryZh": "",
-      "titleZh": "2026年机器人投资将达607亿美元，但融资热潮引发担忧"
-    },
-    {
-      "title": "毛利率持续走低拓普集团押注具身智能谋突围",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WWTJ4azkyR1FxcmV1bGZWYW95eXUwYUV1cS1DZUREMXVKd29JUGdmaUxMS3FTWi1pS2x5d3FtM0Q0OGRqSFVSYnpsY1cwdVE4ODJjbUk5ZzVkQl9rVVJjRVNVY0k2WXR3Z1hSMHRad2tmY1BtVFE?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-22T08:01:42.000Z",
-      "summary": "拓普集团毛利率下降，押注具身智能寻求突破。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-      "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-      "source": "CNBC Tech",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-22T18:55:05.000Z",
-      "summary": "Foundation机器人公司员工健康福利被取消，公司财务困境加剧。",
-      "summaryZh": "",
-      "titleZh": "随着公司现金紧缩加剧，埃里克·特朗普支持的机器人初创公司的员工失去了健康福利"
-    },
-    {
-      "title": "A New Figure Emerges in the Nvidia Chip-Smuggling Saga",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUlhNXzR5WjJQLVh5WHE1dW1mdFE4MmZreUtrNHRhOVh1NEd5d2p5cjNkSlZRYzY0eU9wZUlfNms4NXM2Z1VnUDdUdnZkR20tekRUX1B4Mm01ZEJTVmFyMWdEdnFjVWFiMkFNZm5tTWtPVmJZV3ktMmdjQjdKQWY0blA1V210MGl3Q0ExTnRsZHpiakQyNWEw?oc=5",
-      "source": "WSJ Tech",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-22T16:46:00.000Z",
-      "summary": "",
-      "titleZh": "英伟达芯片走私传奇中出现新人物"
-    },
-    {
-      "title": "Delta Resolves Automation Outage that Led to Over 1,000 Flight Delays",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVFRFaTNyYWprQlBYbnJBQTVnTVExUnhoc0lTRjlRYWc3Rk9oV084QlIxdkg4bFE1RnIzV3VvTXl6eXduMlV5RjgzRmRwRmp4X2tRc3lxYlptNXZZZmc3T3BzZjN0d0xlQ21OZjJQa3NzZWlOaWpFSmhoTERqcm14MVZQS2ZfNEh3bW1qSTUwYnFlUmpicjExbmxlOFlROTQ?oc=5",
-      "source": "WSJ Tech",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-22T21:49:00.000Z",
-      "summary": "",
-      "titleZh": "达美航空解决了导致 1,000 多次航班延误的自动化中断问题"
     }
   ]
 }
