@@ -1,45 +1,35 @@
 {
   "date": "2026-11-24",
-  "generatedAt": "2026-11-24T09:59:21.937Z",
+  "generatedAt": "2026-11-24T14:14:15.015Z",
   "items": [
     {
-      "title": "小摩：人形机器人及实体AI进入加速执行阶段 上调宇树科技及优必选目标价",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wc3JzWkJaWXZUUzhzOVVBaTl2UTBJOGQxQ2ZCZ2xUM3VySlNONHpCc2lSVjZWdWQ4b1dpNjBsVFdBdFNxV2ZCMw?oc=5",
-      "source": "财联社",
+      "title": "小鹏放出 IRON 人形机器人预热视频：可自主拿起书本、倒酒、充电",
+      "link": "https://www.ithome.com/1/031/818.htm",
+      "source": "IT之家",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-24T07:27:24.000Z",
-      "summary": "摩根大通上调宇树科技及优必选目标价，看好人形机器人及实体AI加速发展。",
+      "pubDate": "2026-11-24T11:46:56.000Z",
+      "summary": "小鹏发布人形机器人IRON预热视频，展示自主拿起书本、倒酒、充电等生活化操作。",
       "summaryZh": ""
     },
     {
-      "title": "GPT、Claude、Gemini同台竞技，最新成绩来了！",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TWG8yYUdlMzZuMkpqcVB4SE4xdlFVNTB2bG0tcWlkYXkwbGVHbFJkVXdkeHotWENQU3pIbHdnbGNmaV9JSHNsRw?oc=5",
-      "source": "智东西",
+      "title": "别盲目追大模型，企业真正该落地的是 “小AI”",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5laGp2cmRkWUM3dVBTNy04cDVYUnhibGI3bXV4TGlqZVJyNjhVVHlvSVFYNFRIRjhqdTVTQUxac3dlaXJSZ2tPcWNtMUJHcjQ?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-24T03:50:51.000Z",
-      "summary": "GPT、Claude、Gemini等大模型在RoboChallenge Zero评测中，机器人操作任务成功率仅为44.85%。",
+      "pubDate": "2026-11-24T04:56:42.000Z",
+      "summary": "企业应聚焦“小AI”落地，满足特定场景需求。",
       "summaryZh": ""
     },
     {
-      "title": "Qt Creator 21 正式发布：强化 AI Agent 集成，新增华为 HarmonyOS 设备支持",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rUlQ4LXhoVVU3LXJ5X0ZwNU52dVFPX2RCTDNqSUhFMG9tSlRFM0tGUUhwNFhRZWFHVFItYTlrSFMtMUF2NEJDRU1EdFk?oc=5",
+      "title": "消息称 OpenAI 与 Anthropic 员工警告：内部 AI 模型能力过于强大，无法安全发布",
+      "link": "https://www.ithome.com/1/031/811.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-24T04:35:19.000Z",
-      "summary": "Qt Creator 21发布，强化AI集成，支持华为HarmonyOS设备。",
-      "summaryZh": ""
-    },
-    {
-      "title": "我用GLM‑5.4“帮黄仁勋夺回英伟达”！智谱打响泛Coding第一枪，将Loop Transformer焊进模型",
-      "link": "https://zhidx.com/p/613498.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-24T06:17:18.000Z",
-      "summary": "智谱发布GLM-5.4模型，引入Loop Transformer架构，强化泛Coding能力。",
+      "pubDate": "2026-11-24T11:18:56.000Z",
+      "summary": "OpenAI与Anthropic员工警告：内部AI模型能力过强，无法安全发布。",
       "summaryZh": ""
     },
     {
@@ -49,57 +39,47 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-23T22:05:50.000Z",
-      "summary": "Anthropic推出Claude Ship，AI可自动审查、修复和批准代码更改。",
+      "summary": "Anthropic推出Claude Ship，AI代理可审查、修复和批准代码更改。",
       "summaryZh": "",
       "titleZh": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改"
     },
     {
-      "title": "AI办公，不再只拼大模型",
-      "link": "https://www.tmtpost.com/8215293.html",
+      "title": "10.5亿现金全资拿下银球科技，斯菱智驱机器人转型再下重注",
+      "link": "https://www.tmtpost.com/8216503.html",
       "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-24T09:21:45.000Z",
-      "summary": "AI办公市场转向多模型竞争，大厂开放接入第三方模型。",
+      "category": "robotics",
+      "pubDate": "2026-11-24T11:02:50.000Z",
+      "summary": "斯菱智驱以10.5亿现金全资收购银球科技，拓展机器人零部件业务。",
       "summaryZh": ""
     },
     {
-      "title": "腾讯发布混元翻译模型 HyMT3：翻译结果更准确、更完整、更遵循用户指令",
-      "link": "https://www.ithome.com/1/031/681.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-24T09:12:15.000Z",
-      "summary": "腾讯发布混元翻译模型HyMT3，翻译结果更准确、完整，遵循用户指令。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国产大模型的黄仁勋变量",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqYlVHSzNfMmZ2bVFGMkV4bzhNdE5Dbjh0dFBlT2NBbUMxNkc1d1o5TnNHTjVld3Q3WXNPZENld3JDazVMcnJHSVMwcWhhUQ?oc=5",
+      "title": "不做“一统江湖”的单点软件：大模型下半场，德适科技想修一条医疗AI的“底层铁轨”",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EMERWTFJrREc2UkY5Q3FOS3pzTHVLNVF5amdWTXgtOGkxekN3WFRQRmlaMmlhbmZxbGx6VFlCdDMyQVFYVXRiN083bw?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-23T12:26:00.000Z",
+      "pubDate": "2026-11-24T11:07:14.000Z",
       "summary": ""
     },
     {
-      "title": "我国牵头推动全球首个生成式人工智能治理国际标准提案",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZVUFPU29KZkZ2aUZ1ZXN2bVktbmZma2JIVmJRamVMT1NvV0dORW1EYjItaldCSGs4aU10ODhFZmNwQnJ1Y3NWLU1XWFlpNjdmQVI0VEtEdHFkNmNDNGc?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-24T09:40:55.000Z",
-      "summary": "我国牵头研制全球首个生成式人工智能治理国际标准。",
-      "summaryZh": ""
-    },
-    {
-      "title": "荷兰AI芯片公司Axelera洽谈融资4亿美元，并寻求数亿欧元欧盟补贴",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82WGkzWWhQUkM0Z0JlaTFFdHFDaFY1UTh3OEgwcVh5X29GcFZBVFFucVV6MldjTGh1WllaSTFpT2RNaENxeG1RRmp2VzhaaE40a2gxdlpQNWY?oc=5",
+      "title": "市场监管总局：我国牵头制定的人工智能数据质量国际标准被欧盟采纳",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01WXh5bDYzaXlkZWRVS05QX2JGMmdpMEVMbVA2ekcxVDF5Q1Zmc1ZuTUh6RW9JbGJUUWNDZHppMDJjdjVsTWF0WHhKeHVBZkFoRExYU3U5bko?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-24T07:41:15.000Z",
-      "summary": "荷兰AI芯片公司Axelera洽谈4亿美元融资，并寻求数亿欧元欧盟补贴。",
+      "pubDate": "2026-11-24T09:26:14.000Z",
+      "summary": "我国牵头制定的人工智能数据质量国际标准被欧盟采纳。",
+      "summaryZh": ""
+    },
+    {
+      "title": "四川航信中标彭州市“人工智能+仓储”建设项目",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmOEh2LTVXRWx3dm9KZnNGaEJBOWEzdkx1TEptYm1UWlVfVHNFN1JaOGJqa3hhb2NJZ3YzRzhzRmVMdFJjd1NsZGFaRHdPd0ZheWd3?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T10:01:06.000Z",
+      "summary": "四川航信中标彭州市“人工智能+仓储”建设项目。",
       "summaryZh": ""
     },
     {
@@ -108,18 +88,18 @@
       "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-24T08:39:32.000Z",
+      "pubDate": "2026-11-24T07:39:32.000Z",
       "summary": "医疗大模型评测成绩佳，但临床应用仍面临多重挑战。",
       "summaryZh": ""
     },
     {
-      "title": "俄罗斯外贸银行“俄罗斯在召唤！”论坛将聚焦“投资增长与经济发展的驱动因素、人工智能、北极开发”议题",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaamc4NTh0UnVoYzVRSUs0WnpnZl9oSTJsUk55NTNpUkN0eTd4OXh5T1dmMHd3VjVRTE5nNUdNUHZoM2pjOUl3djFIYlpvdXNKZlJj?oc=5",
-      "source": "第一财经",
+      "title": "Anthropic称Claude协助发现黎曼猜想证明，同日数学家发布人类完成证明",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCdzZKdThLTmNRQWQ1Zk9RMjZpdU1CVFViRlBJOVBOMjFoeUhIOWNPS2t6MWlxUjNBbDg0empDT3FKMDd6WlVFaHBRNGgweFpSOTlURw?oc=5",
+      "source": "虎嗅",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-23T13:55:36.000Z",
-      "summary": "俄罗斯外贸银行“俄罗斯在召唤！",
+      "pubDate": "2026-11-24T04:55:10.000Z",
+      "summary": "Anthropic与AI合作提出黎曼猜想证明，同日人类数学家也发布手写证明，两份证明均待验证。",
       "summaryZh": ""
     },
     {
@@ -130,6 +110,16 @@
       "category": "ai",
       "pubDate": "2026-11-24T06:26:04.000Z",
       "summary": ""
+    },
+    {
+      "title": "黄仁勋重返英伟达，市值涨31.48%；马斯克：AI 研发落后对手，出租算力比自研更赚钱；新一代 AI 模型更爱爆粗口",
+      "link": "http://www.geekpark.net/news/374375",
+      "source": "极客公园",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T00:28:30.000Z",
+      "summary": "黄仁勋回归英伟达，马斯克称AI研发落后，出租算力更赚钱。",
+      "summaryZh": ""
     },
     {
       "title": "Figure AI patents wearable system for teaching humanoid robots through human movement",
@@ -143,45 +133,73 @@
       "titleZh": "Figure AI 获得可穿戴系统专利，用于通过人体运动来教学人形机器人"
     },
     {
-      "title": "​三一重工智能焊接机器人上岗 工厂加速智能跃迁",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBscnp4ZVNPNUhxWnJ1dGV2OG5tdG1OQ2JqU0oxVmk0eEdNdXZOZjlIX292Y09pZk16ak8wRWk3QU1TU3gyVnJ3SWswa3JLUGFwanVob05Jb2JzV0lJdzVPQ1hHdmV1cWRaY0ZPMDViZ2I?oc=5",
-      "source": "科技日报",
+      "title": "Anthropic向企业交出AI数据控制权，Claude Ship同步上线",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NQ3VQSzIxWHpTNUJtakotckduXzFpeGJ5RDM3dTNvMGhhREhlU3g2T01xa29QRXFlMTlwQlQ0WlU0TTd6aG9hWVprQm9Bb2JvMWVZ?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-23T21:11:57.000Z",
+      "summary": ""
+    },
+    {
+      "title": "刚刚，Anthropic内部Claude模型独立攻克代数版P/NP问题，全篇Lean机器验证通过",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XR2FOV0UzYjBoSHNsYU8yV2FBdUVqa09GbV9YTC1sc1VES1ZyTmhqZF9zRjlXeWNZNlhQVnJOMGdNaUQ5Q1lFV2tOWTR5eklBM3Bv?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T02:55:08.000Z",
+      "summary": ""
+    },
+    {
+      "title": "欢迎黄仁勋归来！沈向洋近3小时硬核演讲，灵巧手是人类在AI面前最后的尊严",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtamRsNjg1cVJVc2dsZDRNa3NZMW9XUHlqMzBrVFVIVG13NTRrU2ptMkkzYXhsOUpGMTQ5aHN0U3FWQWRrQUpMWg?oc=5",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-24T04:01:56.000Z",
-      "summary": "三一重工智能焊接机器人应用于生产，提升工厂智能化水平。",
+      "pubDate": "2026-11-24T09:53:04.000Z",
+      "summary": "沈向洋在IDEA大会上演讲，强调灵巧手是人类在AI面前的尊严。",
       "summaryZh": ""
     },
     {
-      "title": "多公司深耕康养机器人赛道",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZYW1abGFKME1WWVNmTzFkRklsTHJ3VWpZNzVDUXgtbTJZaUduOGE3d3NPNmxUTTV1eXljNW95cC1OMHA1eWdJZmFfOVZJTXE2R3RXamFmcy1vVWxzWmVpWFRnNkUzTUMyVXVSck5QZEE1MzRSeDVj?oc=5",
-      "source": "中国经济网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-23T23:25:00.000Z",
-      "summary": "多家企业加速研发康养机器人，布局养老市场。",
-      "summaryZh": ""
-    },
-    {
-      "title": "通则康威：公司不从事物理AI核心算法或机器人本体的研发生产",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95aTBVcUlWRTZCdWI5a0tJX0pJV3N1SUZxc3FvX3ozVXA3X05yNHEzZzJKeW14R2JWQ3lPcmc4U1FrLUhDX2VpT2x0TWt3MmJuR0g0WGd0b0RlcFN2a19ranlYUzM?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-23T13:31:00.000Z",
-      "summary": "通则康威不研发生产物理AI核心算法和机器人本体。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Ati Robotics adopts SimScale AI simulation for autonomous vehicle development",
-      "link": "https://roboticsandautomationnews.com/2026/11/24/ati-robotics-adopts-simscale-ai-simulation-for-autonomous-vehicle-development/107602/",
-      "source": "Robotics & Automation News",
+      "title": "Special Report: Engineering Focus on Motion Control",
+      "link": "https://www.therobotreport.com/special-report-engineering-focus-on-motion-control/",
+      "source": "The Robot Report",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-24T09:03:17.000Z",
-      "summary": "Ati Robotics采用SimScale AI模拟技术进行自主移动机器人Sherpa的硬件验证。",
+      "pubDate": "2026-11-23T15:16:26.000Z",
+      "summary": "运动控制技术推动机器人系统发展，工程师应对复杂挑战。",
       "summaryZh": "",
-      "titleZh": "Ati Robotics 采用 SimScale AI 仿真进行自动驾驶汽车开发"
+      "titleZh": "特别报告：工程聚焦运动控制"
+    },
+    {
+      "title": "解码唐源电气：押注“AI+机器人”底气何来",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoX0lIQ3lJMEJHeEJ2UkY0NDZ0OWJTeXVKVTd1OTVNLTM2QVNITjlwdG1CY2lKQlZ1WW5LdWZqcG1zTUUxTEpMdFJWTXREWDlnLWpBT1BWUDF6M2ZtRkxCcw?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-23T17:41:36.000Z",
+      "summary": "唐源电气以AI和机器人技术推动轨交运维智能化，依托海量数据和多年技术积累。",
+      "summaryZh": ""
+    },
+    {
+      "title": "量产与交付！5家机器人公司密集官宣时间节点",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yTVNIQ1lESE13cE8xemtyNDJGeEM5Slowc2c1UU9LcXdycmVqTU1YdlJYbHNPUHpScjBudHRVWHlqSG5abWRjWTRPZ1k0aE5Sa2hQTXpvOA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-24T08:55:24.000Z",
+      "summary": "五家机器人公司密集公布量产与交付时间。",
+      "summaryZh": ""
+    },
+    {
+      "title": "给智元、优必选造关节的公司，走到IPO门口了",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0a1kxS0pXYy1lTmdCT1ZMd2R0eGRQSXRKRHVCMTdYTGVmX1IyeWxPNXB5ek5MZVltTVAteUFTeVBOX1YtLXVCRjhQQVlLbHZDaXp5dmxubw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-24T08:56:07.000Z",
+      "summary": "安全验证通过后，智元、优必选关节制造商IPO进程即将启动。",
+      "summaryZh": ""
     },
     {
       "title": "Walgreens scales micro-fulfillment strategy with Pennsylvania site",
@@ -190,42 +208,9 @@
       "lang": "en",
       "category": "application",
       "pubDate": "2026-11-23T15:19:16.000Z",
-      "summary": "沃尔格林在宾夕法尼亚州开设第15个微型配送中心，年处理2800万份处方。",
+      "summary": "沃尔格林在宾夕法尼亚州开设了第15个微型配送中心，年处理2800万份处方。",
       "summaryZh": "",
       "titleZh": "沃尔格林 (Walgreens) 在宾夕法尼亚州工厂扩展微履行战略"
-    },
-    {
-      "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
-      "source": "CNBC Tech",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-23T14:40:11.000Z",
-      "summary": "美国调查Megaspeed和Alice Huang，涉Nvidia芯片案新人物浮现。",
-      "summaryZh": "",
-      "titleZh": "英伟达芯片盒中出现新人物，美国对 Megaspeed 和 Alice Huang 展开调查"
-    },
-    {
-      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-      "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-      "source": "CNBC Tech",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-23T23:28:19.000Z",
-      "summary": "Foundation机器人公司员工健康福利被取消，公司财务困境加剧。",
-      "summaryZh": "",
-      "titleZh": "随着公司现金紧缩加剧，埃里克·特朗普支持的机器人初创公司的员工失去了健康福利"
-    },
-    {
-      "title": "Human Stories Behind the Robot: from bold ideas to real-world impact",
-      "link": "https://robohub.org/human-stories-behind-the-robot-from-bold-ideas-to-real-world-impact/",
-      "source": "Robohub",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-23T12:32:08.000Z",
-      "summary": "科学家Sabine Hauert分享从实验室实验到实际应用的机器人技术发展历程。",
-      "summaryZh": "",
-      "titleZh": "机器人背后的人类故事：从大胆的想法到现实世界的影响"
     }
   ]
 }
