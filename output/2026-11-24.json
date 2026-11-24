@@ -1,15 +1,15 @@
 {
   "date": "2026-11-24",
-  "generatedAt": "2026-11-24T06:25:56.676Z",
+  "generatedAt": "2026-11-24T09:59:21.937Z",
   "items": [
     {
-      "title": "Qt Creator 21 正式发布：强化 AI Agent 集成，新增华为 HarmonyOS 设备支持",
-      "link": "https://www.ithome.com/1/031/463.htm",
-      "source": "IT之家",
+      "title": "小摩：人形机器人及实体AI进入加速执行阶段 上调宇树科技及优必选目标价",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wc3JzWkJaWXZUUzhzOVVBaTl2UTBJOGQxQ2ZCZ2xUM3VySlNONHpCc2lSVjZWdWQ4b1dpNjBsVFdBdFNxV2ZCMw?oc=5",
+      "source": "财联社",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-24T04:35:19.000Z",
-      "summary": "Qt Creator 21发布，强化AI集成，支持华为HarmonyOS设备。",
+      "category": "robotics",
+      "pubDate": "2026-11-24T07:27:24.000Z",
+      "summary": "摩根大通上调宇树科技及优必选目标价，看好人形机器人及实体AI加速发展。",
       "summaryZh": ""
     },
     {
@@ -19,26 +19,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-24T03:50:51.000Z",
-      "summary": "GPT、Claude、Gemini等大模型在RoboChallenge Zero评测中，整体任务成功率44.85%，GPT-6.2 Astra以70%成功率高居榜首。",
+      "summary": "GPT、Claude、Gemini等大模型在RoboChallenge Zero评测中，机器人操作任务成功率仅为44.85%。",
       "summaryZh": ""
     },
     {
-      "title": "别盲目追大模型，企业真正该落地的是 “小AI”",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40TDJIZEEyZmFmaURSWFFOQVB5SFFhY2p1WDhsdXkzY2lzZldlcU1vZVNSMy1GVzN0SVFzN3pyLUQwUWN4TERCRGlJSnBLZw?oc=5",
-      "source": "36氪",
+      "title": "Qt Creator 21 正式发布：强化 AI Agent 集成，新增华为 HarmonyOS 设备支持",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rUlQ4LXhoVVU3LXJ5X0ZwNU52dVFPX2RCTDNqSUhFMG9tSlRFM0tGUUhwNFhRZWFHVFItYTlrSFMtMUF2NEJDRU1EdFk?oc=5",
+      "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-23T12:55:00.000Z",
-      "summary": ""
+      "pubDate": "2026-11-24T04:35:19.000Z",
+      "summary": "Qt Creator 21发布，强化AI集成，支持华为HarmonyOS设备。",
+      "summaryZh": ""
     },
     {
-      "title": "人大高瓴开源AutoMaster：把智能体变“教研主任”，让大模型教得更好",
-      "link": "https://zhidx.com/p/613187.html",
+      "title": "我用GLM‑5.4“帮黄仁勋夺回英伟达”！智谱打响泛Coding第一枪，将Loop Transformer焊进模型",
+      "link": "https://zhidx.com/p/613498.html",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-23T12:16:33.000Z",
-      "summary": "人大高瓴开源AutoMaster，通过Skill-FT技术提升大模型教学效果。",
+      "pubDate": "2026-11-24T06:17:18.000Z",
+      "summary": "智谱发布GLM-5.4模型，引入Loop Transformer架构，强化泛Coding能力。",
       "summaryZh": ""
     },
     {
@@ -48,76 +49,29 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-23T22:05:50.000Z",
-      "summary": "Anthropic推出Claude Ship，AI代理可审查、修复和批准代码更改。",
+      "summary": "Anthropic推出Claude Ship，AI可自动审查、修复和批准代码更改。",
       "summaryZh": "",
       "titleZh": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改"
     },
     {
-      "title": "苹果做智能体，OpenAI做手机",
-      "link": "https://www.tmtpost.com/8215096.html",
+      "title": "AI办公，不再只拼大模型",
+      "link": "https://www.tmtpost.com/8215293.html",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-24T04:46:33.000Z",
-      "summary": "苹果研发AI智能体，OpenAI涉足手机硬件领域。",
+      "pubDate": "2026-11-24T09:21:45.000Z",
+      "summary": "AI办公市场转向多模型竞争，大厂开放接入第三方模型。",
       "summaryZh": ""
     },
     {
-      "title": "商汤发布并开源 SenseNova U1.6 原生多模态模型，能自己修正图片错误",
-      "link": "https://www.ithome.com/1/031/465.htm",
+      "title": "腾讯发布混元翻译模型 HyMT3：翻译结果更准确、更完整、更遵循用户指令",
+      "link": "https://www.ithome.com/1/031/681.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-24T04:58:18.000Z",
-      "summary": "商汤开源SenseNova U1.6模型，具备原生图像自修正功能。",
+      "pubDate": "2026-11-24T09:12:15.000Z",
+      "summary": "腾讯发布混元翻译模型HyMT3，翻译结果更准确、完整，遵循用户指令。",
       "summaryZh": ""
-    },
-    {
-      "title": "AI人工智能ETF平安(512930)标的指数涨超1.9%，蚂蚁百灵医疗健康大模型家族全面开源",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hbHNDX3ZuakhSbDg2bTFXZkdvbHZMUk9Yc2xJWXNOS0NvdkdxeGRja1JVUE9IWGtmWllOalBlVWt1dEdkY0tPNmpFRlJSTHdHWlpDbER3QmQ?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-24T03:19:00.000Z",
-      "summary": "AI人工智能ETF平安涨超1.9%，蚂蚁百灵医疗健康大模型全面开源。",
-      "summaryZh": ""
-    },
-    {
-      "title": "黄仁勋复职有望修复全球AI算力产业链信心，科创人工智能ETF嘉实(589410)标的指数兼顾AI软硬件",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yYWkyUDQxZFFjUjVvclNSdzdpQ2YydWRlMm15aTJPZTdDSG8tUmxhVnRfSHBGb2QyZk9rVmMzYlpLT1BRbzlyRDQyTzlHUGltcXlZMzdTdlc?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-24T03:42:40.000Z",
-      "summary": "黄仁勋复职提振AI算力产业链信心，科创人工智能ETF嘉实(589410)兼顾AI软硬件。",
-      "summaryZh": ""
-    },
-    {
-      "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtOWJ1NTJ1WnRiUW5vbE82MzVDMVJoY2l4NjdtS0VTQWh3d0E0TmpRSENCYllLemw3NFprbUdyRzF1QmRmaF9ReA?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-23T19:52:22.000Z",
-      "summary": ""
-    },
-    {
-      "title": "日本工业机器人制造商安川电机：AI 人形机器人将在 2030 年正式推出",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jcTVVLWx2Z21sNVVNVUhLWFFTdE80YkZVTlZQWDJ4WkpkWG9zZUpXZHBCbXAxeUNndUlid1lQUnFGVGViOFJtbl9iYnZTbW5HaVlWT2k4b05IWV9UaUpMZ3lPRk9EM1VZcjVBNmgtM0Z3dw?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-23T08:38:12.000Z",
-      "summary": ""
-    },
-    {
-      "title": "谋先飞高远：底层自研的底气 让机器人大规模落地“有解”",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZTU5lUGJyUW5waUJScjA1TDBkOGpfeHZuTkpHc2YxSDJWOWd0dzFoWm4xZFJPOVZEM2RtVUxmU0xlSFpUTlh6c19VZ1J1R2llMWFKTFRIOGN0VzF4aEkzOXFB?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-23T10:16:00.000Z",
-      "summary": ""
     },
     {
       "title": "国产大模型的黄仁勋变量",
@@ -129,24 +83,53 @@
       "summary": ""
     },
     {
-      "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
-      "link": "https://www.qbitai.com/2026/11/512004.html",
-      "source": "量子位",
+      "title": "我国牵头推动全球首个生成式人工智能治理国际标准提案",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZVUFPU29KZkZ2aUZ1ZXN2bVktbmZma2JIVmJRamVMT1NvV0dORW1EYjItaldCSGs4aU10ODhFZmNwQnJ1Y3NWLU1XWFlpNjdmQVI0VEtEdHFkNmNDNGc?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-23T06:59:38.000Z",
-      "summary": "AI科学家社区“Agent版arXiv”12周内发布近千篇论文，实现同行评议。",
+      "pubDate": "2026-11-24T09:40:55.000Z",
+      "summary": "我国牵头研制全球首个生成式人工智能治理国际标准。",
       "summaryZh": ""
     },
     {
-      "title": "人形机器人实景实训怎么做？从样机到上岗的零件加工实战指南",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FYnJQMmxXZk5qN2pnekp4NFZEbWpaWTg1NkJ6LWEtUjNIaERhM3pJVkRpYUtITnRqVzJheE4tN2l4VnZlcEN5VFRMTE81QWJVT0Q5QTg5Zw?oc=5",
-      "source": "与非网",
+      "title": "荷兰AI芯片公司Axelera洽谈融资4亿美元，并寻求数亿欧元欧盟补贴",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82WGkzWWhQUkM0Z0JlaTFFdHFDaFY1UTh3OEgwcVh5X29GcFZBVFFucVV6MldjTGh1WllaSTFpT2RNaENxeG1RRmp2VzhaaE40a2gxdlpQNWY?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-23T08:21:32.000Z",
-      "summary": "人形机器人实训指南发布，涵盖样机到上岗的零件加工。",
+      "category": "ai",
+      "pubDate": "2026-11-24T07:41:15.000Z",
+      "summary": "荷兰AI芯片公司Axelera洽谈4亿美元融资，并寻求数亿欧元欧盟补贴。",
       "summaryZh": ""
+    },
+    {
+      "title": "评测成绩亮眼，为何医疗大模型还走不进医院",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zVjYtVTY4U0xoQy1tUFZBRGczWXpDUGt0T3JXNlNSLU9Cd2tZc0p1TE12OUFXdEZEREFObFFPYXp6NDMzbm9Wa0FzM0xwaHJUZWNB?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T08:39:32.000Z",
+      "summary": "医疗大模型评测成绩佳，但临床应用仍面临多重挑战。",
+      "summaryZh": ""
+    },
+    {
+      "title": "俄罗斯外贸银行“俄罗斯在召唤！”论坛将聚焦“投资增长与经济发展的驱动因素、人工智能、北极开发”议题",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaamc4NTh0UnVoYzVRSUs0WnpnZl9oSTJsUk55NTNpUkN0eTd4OXh5T1dmMHd3VjVRTE5nNUdNUHZoM2pjOUl3djFIYlpvdXNKZlJj?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-23T13:55:36.000Z",
+      "summary": "俄罗斯外贸银行“俄罗斯在召唤！",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI公布GPT-3.5以来困惑度曲线，雅库布称最早2027年预训练或出现雪崩",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1aGdjTzVpMVhiajBiUEpwQWs1MlNBOXJkeTVObWo0Nm1hazRtMmRUNTdwRWw4OFRfdHVycmEzeF9uVkRmc0VGQWFiWEhkU1pCUmhNcw?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T06:26:04.000Z",
+      "summary": ""
     },
     {
       "title": "Figure AI patents wearable system for teaching humanoid robots through human movement",
@@ -160,24 +143,23 @@
       "titleZh": "Figure AI 获得可穿戴系统专利，用于通过人体运动来教学人形机器人"
     },
     {
-      "title": "Special Report: Engineering Focus on Motion Control",
-      "link": "https://www.therobotreport.com/special-report-engineering-focus-on-motion-control/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-23T15:16:26.000Z",
-      "summary": "机器人运动控制技术是机器人系统核心，工程挑战与行业进展推动下一代系统发展。",
-      "summaryZh": "",
-      "titleZh": "特别报告：工程聚焦运动控制"
-    },
-    {
-      "title": "荣耀机器人与奥运冠军同台亮相米兰半马",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80TlhvU3FpcUtLVVdLekV6ZnlEMHNlYWhaX3ZpcTY4UEZ0RFlVV1dBT2NVQ3FRTjdYYkY2ZnJvWG4xdWFUUEJQQ0EzVHBmRTdUSUhvUTRjUDVoUjZQQUlVTWhDeTFZV3VVX0c1Z2EzYUo?oc=5",
+      "title": "​三一重工智能焊接机器人上岗 工厂加速智能跃迁",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBscnp4ZVNPNUhxWnJ1dGV2OG5tdG1OQ2JqU0oxVmk0eEdNdXZOZjlIX292Y09pZk16ak8wRWk3QU1TU3gyVnJ3SWswa3JLUGFwanVob05Jb2JzV0lJdzVPQ1hHdmV1cWRaY0ZPMDViZ2I?oc=5",
       "source": "科技日报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-24T04:01:35.000Z",
-      "summary": "荣耀机器人亮相米兰半马，与奥运冠军互动。",
+      "pubDate": "2026-11-24T04:01:56.000Z",
+      "summary": "三一重工智能焊接机器人应用于生产，提升工厂智能化水平。",
+      "summaryZh": ""
+    },
+    {
+      "title": "多公司深耕康养机器人赛道",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZYW1abGFKME1WWVNmTzFkRklsTHJ3VWpZNzVDUXgtbTJZaUduOGE3d3NPNmxUTTV1eXljNW95cC1OMHA1eWdJZmFfOVZJTXE2R3RXamFmcy1vVWxzWmVpWFRnNkUzTUMyVXVSck5QZEE1MzRSeDVj?oc=5",
+      "source": "中国经济网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-23T23:25:00.000Z",
+      "summary": "多家企业加速研发康养机器人，布局养老市场。",
       "summaryZh": ""
     },
     {
@@ -191,15 +173,15 @@
       "summaryZh": ""
     },
     {
-      "title": "Surgical robotics drives demand for closer collaboration between motor and robot designers",
-      "link": "https://roboticsandautomationnews.com/2026/11/23/surgical-robotics-drives-demand-for-closer-collaboration-between-motor-and-robot-designers/107522/",
+      "title": "Ati Robotics adopts SimScale AI simulation for autonomous vehicle development",
+      "link": "https://roboticsandautomationnews.com/2026/11/24/ati-robotics-adopts-simscale-ai-simulation-for-autonomous-vehicle-development/107602/",
       "source": "Robotics & Automation News",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-23T19:08:48.000Z",
-      "summary": "手术机器人推动电机与机器人设计师更紧密合作。",
+      "pubDate": "2026-11-24T09:03:17.000Z",
+      "summary": "Ati Robotics采用SimScale AI模拟技术进行自主移动机器人Sherpa的硬件验证。",
       "summaryZh": "",
-      "titleZh": "手术机器人技术推动了电机和机器人设计师之间更密切合作的需求"
+      "titleZh": "Ati Robotics 采用 SimScale AI 仿真进行自动驾驶汽车开发"
     },
     {
       "title": "Walgreens scales micro-fulfillment strategy with Pennsylvania site",
@@ -208,9 +190,42 @@
       "lang": "en",
       "category": "application",
       "pubDate": "2026-11-23T15:19:16.000Z",
-      "summary": "沃尔格林在宾夕法尼亚州开设了第15个微型配送中心，年处理2800万份处方。",
+      "summary": "沃尔格林在宾夕法尼亚州开设第15个微型配送中心，年处理2800万份处方。",
       "summaryZh": "",
       "titleZh": "沃尔格林 (Walgreens) 在宾夕法尼亚州工厂扩展微履行战略"
+    },
+    {
+      "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
+      "source": "CNBC Tech",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-23T14:40:11.000Z",
+      "summary": "美国调查Megaspeed和Alice Huang，涉Nvidia芯片案新人物浮现。",
+      "summaryZh": "",
+      "titleZh": "英伟达芯片盒中出现新人物，美国对 Megaspeed 和 Alice Huang 展开调查"
+    },
+    {
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "source": "CNBC Tech",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-23T23:28:19.000Z",
+      "summary": "Foundation机器人公司员工健康福利被取消，公司财务困境加剧。",
+      "summaryZh": "",
+      "titleZh": "随着公司现金紧缩加剧，埃里克·特朗普支持的机器人初创公司的员工失去了健康福利"
+    },
+    {
+      "title": "Human Stories Behind the Robot: from bold ideas to real-world impact",
+      "link": "https://robohub.org/human-stories-behind-the-robot-from-bold-ideas-to-real-world-impact/",
+      "source": "Robohub",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-23T12:32:08.000Z",
+      "summary": "科学家Sabine Hauert分享从实验室实验到实际应用的机器人技术发展历程。",
+      "summaryZh": "",
+      "titleZh": "机器人背后的人类故事：从大胆的想法到现实世界的影响"
     }
   ]
 }
