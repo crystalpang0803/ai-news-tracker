@@ -1,17 +1,7 @@
 {
   "date": "2026-11-24",
-  "generatedAt": "2026-11-24T02:52:46.794Z",
+  "generatedAt": "2026-11-24T03:56:40.348Z",
   "items": [
-    {
-      "title": "OpenAI 宣布 GPT-6.2 Sol 登陆 ChatGPT，而 GPT-5.6 Sol、Terra 将于 12 月 23 日退役",
-      "link": "https://www.ithome.com/1/031/271.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-24T00:49:01.000Z",
-      "summary": "OpenAI发布GPT-6.2 Sol，GPT-5.6 Sol和Terra将于12月23日退役。",
-      "summaryZh": ""
-    },
     {
       "title": "人大高瓴开源AutoMaster：把智能体变“教研主任”，让大模型教得更好",
       "link": "https://zhidx.com/p/613187.html",
@@ -40,7 +30,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-24T02:13:33.000Z",
-      "summary": "具身智能企业估值突破200亿，面临技术难题与商业模式挑战。",
+      "summary": "具身智能企业估值过百亿，面临技术难题与商业模式挑战。",
       "summaryZh": ""
     },
     {
@@ -54,23 +44,33 @@
       "summaryZh": ""
     },
     {
-      "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
-      "link": "https://www.qbitai.com/2026/11/511998.html",
-      "source": "量子位",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-23T03:56:34.000Z",
-      "summary": "蚂蚁阿福同款大模型开源，全球医生可便捷使用专业医疗AI。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Anthropic 推出 Claude Ship 测试版：AI 可自动审查、修复及批准代码",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhVDRSWEEzcnBOVjRjNTBsT0piZ2Z0QWZIWmdYMVZFZnh4bnN2YVpaRnBrX2UtWWI0Z01SdEFBR1U2bDRXNVJfVGlrUVI?oc=5",
+      "title": "知乎宣布间接投资 DeepSeek，股价应声大涨 10%",
+      "link": "https://www.ithome.com/1/031/339.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-23T23:49:00.000Z",
-      "summary": "Anthropic推出Claude Ship测试版，AI可自动审查、修复及批准代码。",
+      "pubDate": "2026-11-24T03:26:17.000Z",
+      "summary": "知乎间接投资DeepSeek，股价上涨10%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "我国前三季度数字产业收入 32.41 万亿元：智能算力规模同比增长 146%，生成式 AI 产品应用普及率超 50%",
+      "link": "https://www.ithome.com/1/031/326.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T03:01:05.000Z",
+      "summary": "我国前三季度数字产业收入32.41万亿元，智能算力增长146%，AI产品应用普及率超50%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "黄仁勋复职有望修复全球AI算力产业链信心，科创人工智能ETF嘉实(589410)标的指数兼顾AI软硬件",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yYWkyUDQxZFFjUjVvclNSdzdpQ2YydWRlMm15aTJPZTdDSG8tUmxhVnRfSHBGb2QyZk9rVmMzYlpLT1BRbzlyRDQyTzlHUGltcXlZMzdTdlc?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T03:42:40.000Z",
+      "summary": "黄仁勋复职提振AI算力产业链信心，科创人工智能ETF嘉实(589410)兼顾AI软硬件。",
       "summaryZh": ""
     },
     {
@@ -93,12 +93,12 @@
       "summary": ""
     },
     {
-      "title": "中信建投：国产算力供需共振，AI安全需求持续升级",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51NkkzQk1YNmRGTG9oUDlVMjllajRoR2VyR1pZcXNuUDhzNjYxQlZUc040ZWVKRmJQUWNON0twUGljRGlnOEFzUERVS3dFZTVpZ1B4TkdFTXlmd28?oc=5",
+      "title": "客房AI图，正在毁掉大批酒店",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vZ2xHMjJTMlZwc29mLXA2UVFobmZvU2FoMHI3SEVtVjZkYnBmRlhCaVVMckQzU1hLWkxIMk9qN21pNGFpOXdnRGFkRGxsdw?oc=5",
       "source": "36氪",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-24T00:25:58.000Z",
+      "category": "application",
+      "pubDate": "2026-11-23T10:12:00.000Z",
       "summary": ""
     },
     {
@@ -108,7 +108,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-23T06:59:38.000Z",
-      "summary": "AI科学家社区“Agent版arXiv”12周内发布近千篇论文，实现同行评议。",
+      "summary": "AI科学家社会实验中，936个智能体12周内发布近千篇论文，建立同行评议机制。",
       "summaryZh": ""
     },
     {
@@ -121,13 +121,23 @@
       "summary": ""
     },
     {
-      "title": "中信证券：从算力到Token，重构AI基础设施的投资价值",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMWVpHc2tkcl9ZaXRHeGQzTjNqRGdzdUlKdkRBMlNfTkdBRmpoN0VFbWp2VkM1QWlieENpZlpQNlVndWFSdWZfeTB0cnJ1bFIxUm9ZN3JZUTg?oc=5",
-      "source": "界面新闻",
+      "title": "俄罗斯外贸银行“俄罗斯在召唤！”论坛将聚焦“投资增长与经济发展的驱动因素、人工智能、北极开发”议题",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaamc4NTh0UnVoYzVRSUs0WnpnZl9oSTJsUk55NTNpUkN0eTd4OXh5T1dmMHd3VjVRTE5nNUdNUHZoM2pjOUl3djFIYlpvdXNKZlJj?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-24T00:59:29.000Z",
-      "summary": "中信证券提出Token工厂是AI基础设施关键，预计2030年中国Token服务收入空间达950亿元。",
+      "pubDate": "2026-11-23T13:55:36.000Z",
+      "summary": "俄罗斯外贸银行“俄罗斯在召唤！",
+      "summaryZh": ""
+    },
+    {
+      "title": "中国气象局与欧洲中期天气预报中心召开双边会议 深化数值天气预报、人工智能等领域合作",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90ekg2NGJhclA4WU1vcUJXR05IX0JYQ1NmVlc0MzgwT19ub3FKSzY3R2xBOWxOTV9ERGVJNnZ3Z1F0Q3pnVmZ6QWNCQWtubW5HTDBB?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-23T11:38:03.000Z",
+      "summary": "中国气象局与欧洲中期天气预报中心深化数值天气预报和人工智能等领域合作。",
       "summaryZh": ""
     },
     {
@@ -137,7 +147,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-23T08:21:32.000Z",
-      "summary": "人形机器人实训指南发布，涵盖样机到上岗的零件加工。",
+      "summary": "人形机器人实训指南发布，涵盖样机加工至上岗全过程。",
       "summaryZh": ""
     },
     {
@@ -147,17 +157,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-23T04:14:00.000Z",
-      "summary": "AI漫剧和人形机器人概念股今日集体上涨。",
+      "summary": "AI漫剧和人形机器人概念股集体上涨，带动市场走强。",
       "summaryZh": ""
     },
     {
-      "title": "大厂Agent天团就位！AI智能体盛会即将来袭，同期Harness研讨会议程出炉",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XNnhfV3ZIZUxTMlBRbWpYUEZvSEU5d2RyNnB5ay03eENQdml1NWlKVzU5eGk0My1VcUpQeEItU1ZZN2tMZndONQ?oc=5",
-      "source": "智东西",
+      "title": "黄仁勋重返英伟达，市值涨31.48%；马斯克：AI 研发落后对手，出租算力比自研更赚钱；新一代 AI 模型更爱爆粗口",
+      "link": "http://www.geekpark.net/news/374375",
+      "source": "极客公园",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-23T06:45:56.000Z",
-      "summary": "2026中国AI智能体大会（北京站）将举办，汇聚大厂AI专家探讨前沿技术。",
+      "pubDate": "2026-11-24T00:28:30.000Z",
+      "summary": "黄仁勋回归英伟达，马斯克称AI研发落后，出租算力更赚钱。",
       "summaryZh": ""
     },
     {
@@ -189,17 +199,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-23T17:41:36.000Z",
-      "summary": "唐源电气依托轨交运维经验，以AI和机器人技术推动智慧轨交运维升级。",
+      "summary": "唐源电气以AI和机器人技术推动轨交运维智能化转型。",
       "summaryZh": ""
     },
     {
-      "title": "权志龙的母公司要出机器人女团！硬件来自中国",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GWlh2RW14NXdQZ3BCTG9jUU1HVzh4dGtlZ0o0cDZVMjd2ZVRHZDR3ZjdBM3NxS3BpM1VLWmNEdGFPQXhpSjMxdFp4dVdkZzY2bXJIaWpJOA?oc=5",
+      "title": "智元精灵G2在长电科技临港工厂成功并线，机器人上岗“造芯”",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5WHdGZlZNRElGZ2hTVEgzbnlzbW94Y1NSMURNVFJjODh0WHJTVC1WTUZtLTQ1cnJwNVJ1N0RvdGRoNWx6N0ZsTGlLV2FGX2JnRi1pdnVxYw?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-23T03:04:21.000Z",
-      "summary": "权志龙母公司推出机器人女团，硬件源自中国。",
+      "pubDate": "2026-11-23T09:19:01.000Z",
+      "summary": "智元精灵G2机器人于长电科技临港工厂投入芯片制造。",
       "summaryZh": ""
     },
     {
@@ -228,7 +238,7 @@
       "lang": "en",
       "category": "application",
       "pubDate": "2026-11-23T15:19:16.000Z",
-      "summary": "沃尔格林在宾夕法尼亚州开设第15个微型配送中心，年处理28百万份处方。",
+      "summary": "沃尔格林在宾夕法尼亚州开设第15个微型配送中心，年处理2800万份处方。",
       "summaryZh": "",
       "titleZh": "沃尔格林 (Walgreens) 在宾夕法尼亚州工厂扩展微履行战略"
     }
