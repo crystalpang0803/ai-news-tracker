@@ -1,7 +1,17 @@
 {
   "date": "2026-11-24",
-  "generatedAt": "2026-11-24T04:26:29.248Z",
+  "generatedAt": "2026-11-24T05:22:19.560Z",
   "items": [
+    {
+      "title": "Qt Creator 21 正式发布：强化 AI Agent 集成，新增华为 HarmonyOS 设备支持",
+      "link": "https://www.ithome.com/1/031/463.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T04:35:19.000Z",
+      "summary": "Qt Creator 21发布，强化AI集成，支持华为HarmonyOS设备。",
+      "summaryZh": ""
+    },
     {
       "title": "GPT、Claude、Gemini同台竞技，最新成绩来了！",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TWG8yYUdlMzZuMkpqcVB4SE4xdlFVNTB2bG0tcWlkYXkwbGVHbFJkVXdkeHotWENQU3pIbHdnbGNmaV9JSHNsRw?oc=5",
@@ -9,7 +19,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-24T03:50:51.000Z",
-      "summary": "GPT、Claude、Gemini等大模型在RoboChallenge Zero评测中，整体任务成功率44.85%，GPT-6.2 Astra以70%成功率高居榜首。",
+      "summary": "GPT、Claude、Gemini等大模型在RoboChallenge Zero评测中，整体任务成功率仅44.85%，GPT-6.2 Astra以70%成功率高居榜首。",
+      "summaryZh": ""
+    },
+    {
+      "title": "别盲目追大模型，企业真正该落地的是 “小AI”",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5laGp2cmRkWUM3dVBTNy04cDVYUnhibGI3bXV4TGlqZVJyNjhVVHlvSVFYNFRIRjhqdTVTQUxac3dlaXJSZ2tPcWNtMUJHcjQ?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T04:56:42.000Z",
+      "summary": "企业应聚焦“小AI”落地，满足特定场景需求。",
       "summaryZh": ""
     },
     {
@@ -23,6 +43,15 @@
       "summaryZh": ""
     },
     {
+      "title": "Anthropic加大对澳游说投资 推动AI版权规则落地以布局算力投资",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DVjZzY2ZqQS02M3BzcjMtZXlrNE5TUVJ6bU1DUmZ6eHhIUFFyYmRVTjdwLWU2ZkdQUnFwaUpvUVVXYmV0ZmpOdw?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-23T12:31:36.000Z",
+      "summary": ""
+    },
+    {
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
       "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
       "source": "TechCrunch",
@@ -34,33 +63,23 @@
       "titleZh": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改"
     },
     {
-      "title": "服务机器人怎么听懂人话？机器人对话方案",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UeVMxUjVpYXBIRG16QzBuRkhRMkNnVVBnX29wNEo5Z2FJSUJDN2FyRURaNFl6SGtMbC1uS3NIZDNWNjNfV0NkVUROQWpVa2FKN25YVi0yOA?oc=5",
-      "source": "与非网",
+      "title": "苹果做智能体，OpenAI做手机",
+      "link": "https://www.tmtpost.com/8215096.html",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-23T06:29:00.000Z",
-      "summary": "机器人对话方案实现安全验证，快速确认访问者身份。",
+      "category": "ai",
+      "pubDate": "2026-11-24T04:46:33.000Z",
+      "summary": "苹果研发AI智能体，OpenAI涉足手机硬件领域。",
       "summaryZh": ""
     },
     {
-      "title": "蚂蚁 Ling-3.2-air 模型发布并开源：原生多模态架构，1240 亿总参数",
-      "link": "https://www.ithome.com/1/031/426.htm",
+      "title": "商汤发布并开源 SenseNova U1.6 原生多模态模型，能自己修正图片错误",
+      "link": "https://www.ithome.com/1/031/465.htm",
       "source": "IT之家",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-24T04:01:00.000Z",
-      "summary": "蚂蚁发布开源Ling-3.2-air模型，支持多模态输入，参数达1240亿。",
-      "summaryZh": ""
-    },
-    {
-      "title": "知乎宣布间接投资 DeepSeek，股价应声大涨 10%",
-      "link": "https://www.ithome.com/1/031/339.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-24T03:26:17.000Z",
-      "summary": "知乎间接投资DeepSeek，股价上涨10%。",
+      "pubDate": "2026-11-24T04:58:18.000Z",
+      "summary": "商汤开源SenseNova U1.6模型，具备原生图像自修正功能。",
       "summaryZh": ""
     },
     {
@@ -84,6 +103,16 @@
       "summaryZh": ""
     },
     {
+      "title": "日本工业机器人制造商安川电机：AI 人形机器人将在 2030 年正式推出",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jcTVVLWx2Z21sNVVNVUhLWFFTdE80YkZVTlZQWDJ4WkpkWG9zZUpXZHBCbXAxeUNndUlid1lQUnFGVGViOFJtbl9iYnZTbW5HaVlWT2k4b05IWV9UaUpMZ3lPRk9EM1VZcjVBNmgtM0Z3dw?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-23T08:38:12.000Z",
+      "summary": "安川电机计划2030年推出AI人形机器人。",
+      "summaryZh": ""
+    },
+    {
       "title": "谋先飞高远：底层自研的底气 让机器人大规模落地“有解”",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZTU5lUGJyUW5waUJScjA1TDBkOGpfeHZuTkpHc2YxSDJWOWd0dzFoWm4xZFJPOVZEM2RtVUxmU0xlSFpUTlh6c19VZ1J1R2llMWFKTFRIOGN0VzF4aEkzOXFB?oc=5",
       "source": "中国经营网",
@@ -93,33 +122,22 @@
       "summary": ""
     },
     {
+      "title": "国产大模型的黄仁勋变量",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqYlVHSzNfMmZ2bVFGMkV4bzhNdE5Dbjh0dFBlT2NBbUMxNkc1d1o5TnNHTjVld3Q3WXNPZENld3JDazVMcnJHSVMwcWhhUQ?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-23T12:26:00.000Z",
+      "summary": ""
+    },
+    {
       "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
       "link": "https://www.qbitai.com/2026/11/512004.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-23T06:59:38.000Z",
-      "summary": "AI科学家社区“Agent版arXiv”12周内发布近千篇论文，实现同行评议。",
-      "summaryZh": ""
-    },
-    {
-      "title": "亚马逊将支付75亿美元获取人工智能初创公司Decart的技术",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56OEpyN0FjeVc5OWZtZ0NGUzVYOGtZVFJTUmlSWTBmb2YwLWtFOUVqWXBEUXRmb2hoRElld25oSHo3MjRPaDNiemtDbFBnLWFXdTFxQ0ZBRlFQUQ?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-23T13:51:00.000Z",
-      "summary": "亚马逊以75亿美元收购Decart技术及团队。",
-      "summaryZh": ""
-    },
-    {
-      "title": "中国气象局与欧洲中期天气预报中心召开双边会议 深化数值天气预报、人工智能等领域合作",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90ekg2NGJhclA4WU1vcUJXR05IX0JYQ1NmVlc0MzgwT19ub3FKSzY3R2xBOWxOTV9ERGVJNnZ3Z1F0Q3pnVmZ6QWNCQWtubW5HTDBB?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-23T11:38:03.000Z",
-      "summary": "中国气象局与欧洲中期天气预报中心深化数值天气预报和人工智能合作。",
+      "summary": "AI科学家社会实验中，936个智能体12周内发表近千篇论文，建立同行评议机制。",
       "summaryZh": ""
     },
     {
@@ -129,26 +147,19 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-23T08:21:32.000Z",
-      "summary": "人形机器人实训指南发布，涵盖样机到上岗的零件加工。",
+      "summary": "人形机器人实训指南发布，涵盖从样机到上岗的零件加工。",
       "summaryZh": ""
     },
     {
-      "title": "Anthropic向企业交出AI数据控制权，Claude Ship同步上线",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NQ3VQSzIxWHpTNUJtakotckduXzFpeGJ5RDM3dTNvMGhhREhlU3g2T01xa29QRXFlMTlwQlQ0WlU0TTd6aG9hWVprQm9Bb2JvMWVZ?oc=5",
-      "source": "华尔街见闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-23T21:11:57.000Z",
-      "summary": ""
-    },
-    {
-      "title": "国资加码具身智能 傲意科技完成D轮融资",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xU0xrb3dXTnVPRVNKZjdfaGdrNTFSbWV1OXhDWHcxR292YzVXaHdHaXE0bUFuVGhfMzcxRWpmejFaZDA5Mi1ldHRaYjZ4Rl9vUHgzOE9OWWZqN1dCVkhydjZ3?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
+      "title": "Figure AI patents wearable system for teaching humanoid robots through human movement",
+      "link": "https://roboticsandautomationnews.com/2026/11/23/figure-ai-patents-wearable-system-for-teaching-humanoid-robots-through-human-movement/107567/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-23T12:11:00.000Z",
-      "summary": ""
+      "pubDate": "2026-11-23T22:43:12.000Z",
+      "summary": "Figure AI申请专利，开发可穿戴系统以通过人类动作训练类人机器人。",
+      "summaryZh": "",
+      "titleZh": "Figure AI 获得可穿戴系统专利，用于通过人体运动来教学人形机器人"
     },
     {
       "title": "Special Report: Engineering Focus on Motion Control",
@@ -162,6 +173,26 @@
       "titleZh": "特别报告：工程聚焦运动控制"
     },
     {
+      "title": "荣耀机器人与奥运冠军同台亮相米兰半马",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80TlhvU3FpcUtLVVdLekV6ZnlEMHNlYWhaX3ZpcTY4UEZ0RFlVV1dBT2NVQ3FRTjdYYkY2ZnJvWG4xdWFUUEJQQ0EzVHBmRTdUSUhvUTRjUDVoUjZQQUlVTWhDeTFZV3VVX0c1Z2EzYUo?oc=5",
+      "source": "科技日报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-24T04:01:35.000Z",
+      "summary": "荣耀机器人亮相米兰半马，与奥运冠军互动。",
+      "summaryZh": ""
+    },
+    {
+      "title": "多公司深耕康养机器人赛道",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZYW1abGFKME1WWVNmTzFkRklsTHJ3VWpZNzVDUXgtbTJZaUduOGE3d3NPNmxUTTV1eXljNW95cC1OMHA1eWdJZmFfOVZJTXE2R3RXamFmcy1vVWxzWmVpWFRnNkUzTUMyVXVSck5QZEE1MzRSeDVj?oc=5",
+      "source": "中国经济网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-23T23:25:00.000Z",
+      "summary": "多家企业加速研发康养机器人，布局养老市场。",
+      "summaryZh": ""
+    },
+    {
       "title": "通则康威：公司不从事物理AI核心算法或机器人本体的研发生产",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95aTBVcUlWRTZCdWI5a0tJX0pJV3N1SUZxc3FvX3ozVXA3X05yNHEzZzJKeW14R2JWQ3lPcmc4U1FrLUhDX2VpT2x0TWt3MmJuR0g0WGd0b0RlcFN2a19ranlYUzM?oc=5",
       "source": "新京报",
@@ -169,38 +200,6 @@
       "category": "robotics",
       "pubDate": "2026-11-23T13:31:00.000Z",
       "summary": ""
-    },
-    {
-      "title": "Surgical robotics drives demand for closer collaboration between motor and robot designers",
-      "link": "https://roboticsandautomationnews.com/2026/11/23/surgical-robotics-drives-demand-for-closer-collaboration-between-motor-and-robot-designers/107522/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-23T19:08:48.000Z",
-      "summary": "手术机器人推动电机与机器人设计师更紧密合作。",
-      "summaryZh": "",
-      "titleZh": "手术机器人技术推动了电机和机器人设计师之间更密切合作的需求"
-    },
-    {
-      "title": "Mobile robotics market set for fifteen-fold growth as autonomous picking expands",
-      "link": "https://roboticsandautomationnews.com/2026/11/23/mobile-robotics-market-set-for-fifteen-fold-growth-as-autonomous-picking-expands/107508/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-23T18:43:34.000Z",
-      "summary": "移动机器人市场预计到2046年将增长15倍，自动化拣选应用扩大。",
-      "summaryZh": "",
-      "titleZh": "随着自主拣选的扩大，移动机器人市场将增长十五倍"
-    },
-    {
-      "title": "AI个人助理、AI 手机、具身智能目前都没有找到真需求",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kZU8zOS15UVhSTkM3NjYzeHdseWV6UTYwU0J4V1JlZHltY2VrS19vdFhNRnFOVzQ0VElhWUg2S1QzeDJXS3lobzNvd3hGRjVMbTVPamFEWElBRXE1bVUwUlRB?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-23T07:07:43.000Z",
-      "summary": "AI个人助理、AI手机、具身智能需求未明确。",
-      "summaryZh": ""
     },
     {
       "title": "Walgreens scales micro-fulfillment strategy with Pennsylvania site",
@@ -212,17 +211,6 @@
       "summary": "沃尔格林在宾夕法尼亚州开设第15个微型配送中心，年处理2800万份处方。",
       "summaryZh": "",
       "titleZh": "沃尔格林 (Walgreens) 在宾夕法尼亚州工厂扩展微履行战略"
-    },
-    {
-      "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
-      "source": "CNBC Tech",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-23T14:40:11.000Z",
-      "summary": "美国调查Megaspeed和Alice Huang，涉Nvidia芯片案新人物浮现。",
-      "summaryZh": "",
-      "titleZh": "英伟达芯片盒中出现新人物，美国对 Megaspeed 和 Alice Huang 展开调查"
     }
   ]
 }
