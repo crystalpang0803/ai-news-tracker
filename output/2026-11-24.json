@@ -1,7 +1,17 @@
 {
   "date": "2026-11-24",
-  "generatedAt": "2026-11-24T03:56:40.348Z",
+  "generatedAt": "2026-11-24T04:26:29.248Z",
   "items": [
+    {
+      "title": "GPT、Claude、Gemini同台竞技，最新成绩来了！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TWG8yYUdlMzZuMkpqcVB4SE4xdlFVNTB2bG0tcWlkYXkwbGVHbFJkVXdkeHotWENQU3pIbHdnbGNmaV9JSHNsRw?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T03:50:51.000Z",
+      "summary": "GPT、Claude、Gemini等大模型在RoboChallenge Zero评测中，整体任务成功率44.85%，GPT-6.2 Astra以70%成功率高居榜首。",
+      "summaryZh": ""
+    },
     {
       "title": "人大高瓴开源AutoMaster：把智能体变“教研主任”，让大模型教得更好",
       "link": "https://zhidx.com/p/613187.html",
@@ -9,7 +19,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-23T12:16:33.000Z",
-      "summary": "人大高瓴开源AutoMaster，通过Skill-FT技术提升大模型教学效果。",
+      "summary": "人大高瓴开源AutoMaster系统，通过智能体行为重塑提升大模型教学效果。",
       "summaryZh": ""
     },
     {
@@ -19,28 +29,28 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-23T22:05:50.000Z",
-      "summary": "Anthropic推出Claude Ship，AI代理可审查、修复和批准代码更改。",
+      "summary": "Anthropic推出Claude Ship，AI可审查、修复和批准代码变更。",
       "summaryZh": "",
       "titleZh": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改"
     },
     {
-      "title": "具身智能：200亿估值之后，真正的难题是什么？",
-      "link": "https://www.tmtpost.com/8215279.html",
-      "source": "钛媒体",
+      "title": "服务机器人怎么听懂人话？机器人对话方案",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UeVMxUjVpYXBIRG16QzBuRkhRMkNnVVBnX29wNEo5Z2FJSUJDN2FyRURaNFl6SGtMbC1uS3NIZDNWNjNfV0NkVUROQWpVa2FKN25YVi0yOA?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-24T02:13:33.000Z",
-      "summary": "具身智能企业估值过百亿，面临技术难题与商业模式挑战。",
+      "pubDate": "2026-11-23T06:29:00.000Z",
+      "summary": "机器人对话方案实现安全验证，快速确认访问者身份。",
       "summaryZh": ""
     },
     {
-      "title": "不等英伟达了，机器人公司自己造芯",
-      "link": "https://www.tmtpost.com/8214962.html",
-      "source": "钛媒体",
+      "title": "蚂蚁 Ling-3.2-air 模型发布并开源：原生多模态架构，1240 亿总参数",
+      "link": "https://www.ithome.com/1/031/426.htm",
+      "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-24T01:52:51.000Z",
-      "summary": "机器人公司开始自主研发芯片，以降低对英伟达等供应商的依赖。",
+      "category": "ai",
+      "pubDate": "2026-11-24T04:01:00.000Z",
+      "summary": "蚂蚁发布开源Ling-3.2-air模型，支持多模态输入，参数达1240亿。",
       "summaryZh": ""
     },
     {
@@ -54,16 +64,6 @@
       "summaryZh": ""
     },
     {
-      "title": "我国前三季度数字产业收入 32.41 万亿元：智能算力规模同比增长 146%，生成式 AI 产品应用普及率超 50%",
-      "link": "https://www.ithome.com/1/031/326.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-24T03:01:05.000Z",
-      "summary": "我国前三季度数字产业收入32.41万亿元，智能算力增长146%，AI产品应用普及率超50%。",
-      "summaryZh": ""
-    },
-    {
       "title": "黄仁勋复职有望修复全球AI算力产业链信心，科创人工智能ETF嘉实(589410)标的指数兼顾AI软硬件",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yYWkyUDQxZFFjUjVvclNSdzdpQ2YydWRlMm15aTJPZTdDSG8tUmxhVnRfSHBGb2QyZk9rVmMzYlpLT1BRbzlyRDQyTzlHUGltcXlZMzdTdlc?oc=5",
       "source": "界面新闻",
@@ -74,13 +74,13 @@
       "summaryZh": ""
     },
     {
-      "title": "日本工业机器人制造商安川电机：AI 人形机器人将在 2030 年正式推出",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jcTVVLWx2Z21sNVVNVUhLWFFTdE80YkZVTlZQWDJ4WkpkWG9zZUpXZHBCbXAxeUNndUlid1lQUnFGVGViOFJtbl9iYnZTbW5HaVlWT2k4b05IWV9UaUpMZ3lPRk9EM1VZcjVBNmgtM0Z3dw?oc=5",
-      "source": "金融界",
+      "title": "AI人工智能ETF平安(512930)标的指数涨超1.9%，蚂蚁百灵医疗健康大模型家族全面开源",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hbHNDX3ZuakhSbDg2bTFXZkdvbHZMUk9Yc2xJWXNOS0NvdkdxeGRja1JVUE9IWGtmWllOalBlVWt1dEdkY0tPNmpFRlJSTHdHWlpDbER3QmQ?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-23T08:38:12.000Z",
-      "summary": "安川电机计划2030年推出AI人形机器人。",
+      "category": "ai",
+      "pubDate": "2026-11-24T03:19:00.000Z",
+      "summary": "AI人工智能ETF平安涨超1.9%，蚂蚁百灵医疗健康大模型全面开源。",
       "summaryZh": ""
     },
     {
@@ -93,41 +93,23 @@
       "summary": ""
     },
     {
-      "title": "客房AI图，正在毁掉大批酒店",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vZ2xHMjJTMlZwc29mLXA2UVFobmZvU2FoMHI3SEVtVjZkYnBmRlhCaVVMckQzU1hLWkxIMk9qN21pNGFpOXdnRGFkRGxsdw?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-23T10:12:00.000Z",
-      "summary": ""
-    },
-    {
       "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
       "link": "https://www.qbitai.com/2026/11/512004.html",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-23T06:59:38.000Z",
-      "summary": "AI科学家社会实验中，936个智能体12周内发布近千篇论文，建立同行评议机制。",
+      "summary": "AI科学家社区“Agent版arXiv”12周内发布近千篇论文，实现同行评议。",
       "summaryZh": ""
     },
     {
-      "title": "AI算力推高功率密度，数据中心液冷从风冷替代走向规模落地",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQY09ndXBmLUJfZ0F5U1paWjNyWWk4NWVyZmpfRVdqNmZqX0hoR25nN3RrZDZLQXdvcUtteFhTMHRYVlVaVUh3T25ncXc2am1BVGd0NGh1cFhXR1dx?oc=5",
-      "source": "虎嗅",
+      "title": "亚马逊将支付75亿美元获取人工智能初创公司Decart的技术",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56OEpyN0FjeVc5OWZtZ0NGUzVYOGtZVFJTUmlSWTBmb2YwLWtFOUVqWXBEUXRmb2hoRElld25oSHo3MjRPaDNiemtDbFBnLWFXdTFxQ0ZBRlFQUQ?oc=5",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-23T09:50:47.000Z",
-      "summary": ""
-    },
-    {
-      "title": "俄罗斯外贸银行“俄罗斯在召唤！”论坛将聚焦“投资增长与经济发展的驱动因素、人工智能、北极开发”议题",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaamc4NTh0UnVoYzVRSUs0WnpnZl9oSTJsUk55NTNpUkN0eTd4OXh5T1dmMHd3VjVRTE5nNUdNUHZoM2pjOUl3djFIYlpvdXNKZlJj?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-23T13:55:36.000Z",
-      "summary": "俄罗斯外贸银行“俄罗斯在召唤！",
+      "pubDate": "2026-11-23T13:51:00.000Z",
+      "summary": "亚马逊以75亿美元收购Decart技术及团队。",
       "summaryZh": ""
     },
     {
@@ -137,7 +119,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-23T11:38:03.000Z",
-      "summary": "中国气象局与欧洲中期天气预报中心深化数值天气预报和人工智能等领域合作。",
+      "summary": "中国气象局与欧洲中期天气预报中心深化数值天气预报和人工智能合作。",
       "summaryZh": ""
     },
     {
@@ -147,39 +129,26 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-23T08:21:32.000Z",
-      "summary": "人形机器人实训指南发布，涵盖样机加工至上岗全过程。",
+      "summary": "人形机器人实训指南发布，涵盖样机到上岗的零件加工。",
       "summaryZh": ""
     },
     {
-      "title": "AI漫剧、人形机器人概念，集体走强",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOWM0RDFWeHk2OWc4R3g2WkRsdUZTT09KcE5NdDFMMXowY2ltMVRWS1JYTUtTZnhzRlRPVDhNZk9sTG5ycEdlWDNiZ1Z1bFY4TlpnWER2SW1XVnZtS1ZlSkVMeHJ4NU50Wm5fMVhkNVpBYk9mMWFWcThhNml3TG9CVmFYOF9IUUt2cWpvUlRxTQ?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-23T04:14:00.000Z",
-      "summary": "AI漫剧和人形机器人概念股集体上涨，带动市场走强。",
-      "summaryZh": ""
-    },
-    {
-      "title": "黄仁勋重返英伟达，市值涨31.48%；马斯克：AI 研发落后对手，出租算力比自研更赚钱；新一代 AI 模型更爱爆粗口",
-      "link": "http://www.geekpark.net/news/374375",
-      "source": "极客公园",
+      "title": "Anthropic向企业交出AI数据控制权，Claude Ship同步上线",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NQ3VQSzIxWHpTNUJtakotckduXzFpeGJ5RDM3dTNvMGhhREhlU3g2T01xa29QRXFlMTlwQlQ0WlU0TTd6aG9hWVprQm9Bb2JvMWVZ?oc=5",
+      "source": "华尔街见闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-24T00:28:30.000Z",
-      "summary": "黄仁勋回归英伟达，马斯克称AI研发落后，出租算力更赚钱。",
-      "summaryZh": ""
+      "pubDate": "2026-11-23T21:11:57.000Z",
+      "summary": ""
     },
     {
-      "title": "Figure AI patents wearable system for teaching humanoid robots through human movement",
-      "link": "https://roboticsandautomationnews.com/2026/11/23/figure-ai-patents-wearable-system-for-teaching-humanoid-robots-through-human-movement/107567/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
+      "title": "国资加码具身智能 傲意科技完成D轮融资",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xU0xrb3dXTnVPRVNKZjdfaGdrNTFSbWV1OXhDWHcxR292YzVXaHdHaXE0bUFuVGhfMzcxRWpmejFaZDA5Mi1ldHRaYjZ4Rl9vUHgzOE9OWWZqN1dCVkhydjZ3?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-23T22:43:12.000Z",
-      "summary": "Figure AI申请专利，开发可穿戴系统以通过人类动作训练类人机器人。",
-      "summaryZh": "",
-      "titleZh": "Figure AI 获得可穿戴系统专利，用于通过人体运动来教学人形机器人"
+      "pubDate": "2026-11-23T12:11:00.000Z",
+      "summary": ""
     },
     {
       "title": "Special Report: Engineering Focus on Motion Control",
@@ -193,43 +162,45 @@
       "titleZh": "特别报告：工程聚焦运动控制"
     },
     {
-      "title": "解码唐源电气：押注“AI+机器人”底气何来",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoX0lIQ3lJMEJHeEJ2UkY0NDZ0OWJTeXVKVTd1OTVNLTM2QVNITjlwdG1CY2lKQlZ1WW5LdWZqcG1zTUUxTEpMdFJWTXREWDlnLWpBT1BWUDF6M2ZtRkxCcw?oc=5",
-      "source": "东方财富网",
+      "title": "通则康威：公司不从事物理AI核心算法或机器人本体的研发生产",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95aTBVcUlWRTZCdWI5a0tJX0pJV3N1SUZxc3FvX3ozVXA3X05yNHEzZzJKeW14R2JWQ3lPcmc4U1FrLUhDX2VpT2x0TWt3MmJuR0g0WGd0b0RlcFN2a19ranlYUzM?oc=5",
+      "source": "新京报",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-23T17:41:36.000Z",
-      "summary": "唐源电气以AI和机器人技术推动轨交运维智能化转型。",
-      "summaryZh": ""
-    },
-    {
-      "title": "智元精灵G2在长电科技临港工厂成功并线，机器人上岗“造芯”",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5WHdGZlZNRElGZ2hTVEgzbnlzbW94Y1NSMURNVFJjODh0WHJTVC1WTUZtLTQ1cnJwNVJ1N0RvdGRoNWx6N0ZsTGlLV2FGX2JnRi1pdnVxYw?oc=5",
-      "source": "与非网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-23T09:19:01.000Z",
-      "summary": "智元精灵G2机器人于长电科技临港工厂投入芯片制造。",
-      "summaryZh": ""
-    },
-    {
-      "title": "多公司深耕康养机器人赛道",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZYW1abGFKME1WWVNmTzFkRklsTHJ3VWpZNzVDUXgtbTJZaUduOGE3d3NPNmxUTTV1eXljNW95cC1OMHA1eWdJZmFfOVZJTXE2R3RXamFmcy1vVWxzWmVpWFRnNkUzTUMyVXVSck5QZEE1MzRSeDVj?oc=5",
-      "source": "中国经济网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-23T23:25:00.000Z",
-      "summary": "多家企业加速研发康养机器人，布局养老市场。",
-      "summaryZh": ""
-    },
-    {
-      "title": "国资加码具身智能 傲意科技完成D轮融资",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xU0xrb3dXTnVPRVNKZjdfaGdrNTFSbWV1OXhDWHcxR292YzVXaHdHaXE0bUFuVGhfMzcxRWpmejFaZDA5Mi1ldHRaYjZ4Rl9vUHgzOE9OWWZqN1dCVkhydjZ3?oc=5",
-      "source": "中国经营网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-23T12:11:00.000Z",
+      "pubDate": "2026-11-23T13:31:00.000Z",
       "summary": ""
+    },
+    {
+      "title": "Surgical robotics drives demand for closer collaboration between motor and robot designers",
+      "link": "https://roboticsandautomationnews.com/2026/11/23/surgical-robotics-drives-demand-for-closer-collaboration-between-motor-and-robot-designers/107522/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-23T19:08:48.000Z",
+      "summary": "手术机器人推动电机与机器人设计师更紧密合作。",
+      "summaryZh": "",
+      "titleZh": "手术机器人技术推动了电机和机器人设计师之间更密切合作的需求"
+    },
+    {
+      "title": "Mobile robotics market set for fifteen-fold growth as autonomous picking expands",
+      "link": "https://roboticsandautomationnews.com/2026/11/23/mobile-robotics-market-set-for-fifteen-fold-growth-as-autonomous-picking-expands/107508/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-23T18:43:34.000Z",
+      "summary": "移动机器人市场预计到2046年将增长15倍，自动化拣选应用扩大。",
+      "summaryZh": "",
+      "titleZh": "随着自主拣选的扩大，移动机器人市场将增长十五倍"
+    },
+    {
+      "title": "AI个人助理、AI 手机、具身智能目前都没有找到真需求",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kZU8zOS15UVhSTkM3NjYzeHdseWV6UTYwU0J4V1JlZHltY2VrS19vdFhNRnFOVzQ0VElhWUg2S1QzeDJXS3lobzNvd3hGRjVMbTVPamFEWElBRXE1bVUwUlRB?oc=5",
+      "source": "虎嗅",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-23T07:07:43.000Z",
+      "summary": "AI个人助理、AI手机、具身智能需求未明确。",
+      "summaryZh": ""
     },
     {
       "title": "Walgreens scales micro-fulfillment strategy with Pennsylvania site",
@@ -241,6 +212,17 @@
       "summary": "沃尔格林在宾夕法尼亚州开设第15个微型配送中心，年处理2800万份处方。",
       "summaryZh": "",
       "titleZh": "沃尔格林 (Walgreens) 在宾夕法尼亚州工厂扩展微履行战略"
+    },
+    {
+      "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
+      "source": "CNBC Tech",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-23T14:40:11.000Z",
+      "summary": "美国调查Megaspeed和Alice Huang，涉Nvidia芯片案新人物浮现。",
+      "summaryZh": "",
+      "titleZh": "英伟达芯片盒中出现新人物，美国对 Megaspeed 和 Alice Huang 展开调查"
     }
   ]
 }
