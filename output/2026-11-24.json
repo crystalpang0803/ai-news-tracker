@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "generatedAt": "2026-11-24T05:22:19.560Z",
+  "generatedAt": "2026-11-24T06:25:56.676Z",
   "items": [
     {
       "title": "Qt Creator 21 正式发布：强化 AI Agent 集成，新增华为 HarmonyOS 设备支持",
@@ -19,18 +19,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-24T03:50:51.000Z",
-      "summary": "GPT、Claude、Gemini等大模型在RoboChallenge Zero评测中，整体任务成功率仅44.85%，GPT-6.2 Astra以70%成功率高居榜首。",
+      "summary": "GPT、Claude、Gemini等大模型在RoboChallenge Zero评测中，整体任务成功率44.85%，GPT-6.2 Astra以70%成功率高居榜首。",
       "summaryZh": ""
     },
     {
       "title": "别盲目追大模型，企业真正该落地的是 “小AI”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5laGp2cmRkWUM3dVBTNy04cDVYUnhibGI3bXV4TGlqZVJyNjhVVHlvSVFYNFRIRjhqdTVTQUxac3dlaXJSZ2tPcWNtMUJHcjQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40TDJIZEEyZmFmaURSWFFOQVB5SFFhY2p1WDhsdXkzY2lzZldlcU1vZVNSMy1GVzN0SVFzN3pyLUQwUWN4TERCRGlJSnBLZw?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-24T04:56:42.000Z",
-      "summary": "企业应聚焦“小AI”落地，满足特定场景需求。",
-      "summaryZh": ""
+      "pubDate": "2026-11-23T12:55:00.000Z",
+      "summary": ""
     },
     {
       "title": "人大高瓴开源AutoMaster：把智能体变“教研主任”，让大模型教得更好",
@@ -39,17 +38,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-23T12:16:33.000Z",
-      "summary": "人大高瓴开源AutoMaster系统，通过智能体行为重塑提升大模型教学效果。",
+      "summary": "人大高瓴开源AutoMaster，通过Skill-FT技术提升大模型教学效果。",
       "summaryZh": ""
-    },
-    {
-      "title": "Anthropic加大对澳游说投资 推动AI版权规则落地以布局算力投资",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DVjZzY2ZqQS02M3BzcjMtZXlrNE5TUVJ6bU1DUmZ6eHhIUFFyYmRVTjdwLWU2ZkdQUnFwaUpvUVVXYmV0ZmpOdw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-23T12:31:36.000Z",
-      "summary": ""
     },
     {
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
@@ -58,7 +48,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-23T22:05:50.000Z",
-      "summary": "Anthropic推出Claude Ship，AI可审查、修复和批准代码变更。",
+      "summary": "Anthropic推出Claude Ship，AI代理可审查、修复和批准代码更改。",
       "summaryZh": "",
       "titleZh": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改"
     },
@@ -83,16 +73,6 @@
       "summaryZh": ""
     },
     {
-      "title": "黄仁勋复职有望修复全球AI算力产业链信心，科创人工智能ETF嘉实(589410)标的指数兼顾AI软硬件",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yYWkyUDQxZFFjUjVvclNSdzdpQ2YydWRlMm15aTJPZTdDSG8tUmxhVnRfSHBGb2QyZk9rVmMzYlpLT1BRbzlyRDQyTzlHUGltcXlZMzdTdlc?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-24T03:42:40.000Z",
-      "summary": "黄仁勋复职提振AI算力产业链信心，科创人工智能ETF嘉实(589410)兼顾AI软硬件。",
-      "summaryZh": ""
-    },
-    {
       "title": "AI人工智能ETF平安(512930)标的指数涨超1.9%，蚂蚁百灵医疗健康大模型家族全面开源",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hbHNDX3ZuakhSbDg2bTFXZkdvbHZMUk9Yc2xJWXNOS0NvdkdxeGRja1JVUE9IWGtmWllOalBlVWt1dEdkY0tPNmpFRlJSTHdHWlpDbER3QmQ?oc=5",
       "source": "界面新闻",
@@ -103,14 +83,32 @@
       "summaryZh": ""
     },
     {
+      "title": "黄仁勋复职有望修复全球AI算力产业链信心，科创人工智能ETF嘉实(589410)标的指数兼顾AI软硬件",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yYWkyUDQxZFFjUjVvclNSdzdpQ2YydWRlMm15aTJPZTdDSG8tUmxhVnRfSHBGb2QyZk9rVmMzYlpLT1BRbzlyRDQyTzlHUGltcXlZMzdTdlc?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T03:42:40.000Z",
+      "summary": "黄仁勋复职提振AI算力产业链信心，科创人工智能ETF嘉实(589410)兼顾AI软硬件。",
+      "summaryZh": ""
+    },
+    {
+      "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtOWJ1NTJ1WnRiUW5vbE82MzVDMVJoY2l4NjdtS0VTQWh3d0E0TmpRSENCYllLemw3NFprbUdyRzF1QmRmaF9ReA?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-23T19:52:22.000Z",
+      "summary": ""
+    },
+    {
       "title": "日本工业机器人制造商安川电机：AI 人形机器人将在 2030 年正式推出",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jcTVVLWx2Z21sNVVNVUhLWFFTdE80YkZVTlZQWDJ4WkpkWG9zZUpXZHBCbXAxeUNndUlid1lQUnFGVGViOFJtbl9iYnZTbW5HaVlWT2k4b05IWV9UaUpMZ3lPRk9EM1VZcjVBNmgtM0Z3dw?oc=5",
       "source": "金融界",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-23T08:38:12.000Z",
-      "summary": "安川电机计划2030年推出AI人形机器人。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
       "title": "谋先飞高远：底层自研的底气 让机器人大规模落地“有解”",
@@ -137,7 +135,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-23T06:59:38.000Z",
-      "summary": "AI科学家社会实验中，936个智能体12周内发表近千篇论文，建立同行评议机制。",
+      "summary": "AI科学家社区“Agent版arXiv”12周内发布近千篇论文，实现同行评议。",
       "summaryZh": ""
     },
     {
@@ -147,7 +145,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-23T08:21:32.000Z",
-      "summary": "人形机器人实训指南发布，涵盖从样机到上岗的零件加工。",
+      "summary": "人形机器人实训指南发布，涵盖样机到上岗的零件加工。",
       "summaryZh": ""
     },
     {
@@ -168,7 +166,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-23T15:16:26.000Z",
-      "summary": "运动控制技术推动机器人系统发展。",
+      "summary": "机器人运动控制技术是机器人系统核心，工程挑战与行业进展推动下一代系统发展。",
       "summaryZh": "",
       "titleZh": "特别报告：工程聚焦运动控制"
     },
@@ -183,23 +181,25 @@
       "summaryZh": ""
     },
     {
-      "title": "多公司深耕康养机器人赛道",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZYW1abGFKME1WWVNmTzFkRklsTHJ3VWpZNzVDUXgtbTJZaUduOGE3d3NPNmxUTTV1eXljNW95cC1OMHA1eWdJZmFfOVZJTXE2R3RXamFmcy1vVWxzWmVpWFRnNkUzTUMyVXVSck5QZEE1MzRSeDVj?oc=5",
-      "source": "中国经济网",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-23T23:25:00.000Z",
-      "summary": "多家企业加速研发康养机器人，布局养老市场。",
-      "summaryZh": ""
-    },
-    {
       "title": "通则康威：公司不从事物理AI核心算法或机器人本体的研发生产",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95aTBVcUlWRTZCdWI5a0tJX0pJV3N1SUZxc3FvX3ozVXA3X05yNHEzZzJKeW14R2JWQ3lPcmc4U1FrLUhDX2VpT2x0TWt3MmJuR0g0WGd0b0RlcFN2a19ranlYUzM?oc=5",
       "source": "新京报",
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-23T13:31:00.000Z",
-      "summary": ""
+      "summary": "通则康威不研发生产物理AI核心算法和机器人本体。",
+      "summaryZh": ""
+    },
+    {
+      "title": "Surgical robotics drives demand for closer collaboration between motor and robot designers",
+      "link": "https://roboticsandautomationnews.com/2026/11/23/surgical-robotics-drives-demand-for-closer-collaboration-between-motor-and-robot-designers/107522/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-23T19:08:48.000Z",
+      "summary": "手术机器人推动电机与机器人设计师更紧密合作。",
+      "summaryZh": "",
+      "titleZh": "手术机器人技术推动了电机和机器人设计师之间更密切合作的需求"
     },
     {
       "title": "Walgreens scales micro-fulfillment strategy with Pennsylvania site",
@@ -208,7 +208,7 @@
       "lang": "en",
       "category": "application",
       "pubDate": "2026-11-23T15:19:16.000Z",
-      "summary": "沃尔格林在宾夕法尼亚州开设第15个微型配送中心，年处理2800万份处方。",
+      "summary": "沃尔格林在宾夕法尼亚州开设了第15个微型配送中心，年处理2800万份处方。",
       "summaryZh": "",
       "titleZh": "沃尔格林 (Walgreens) 在宾夕法尼亚州工厂扩展微履行战略"
     }
