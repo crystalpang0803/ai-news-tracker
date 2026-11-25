@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T00:35:36.317Z",
+  "items": [
+    {
+      "title": "Anthropic 推出 Siren 蜜罐系统：诱测 AI 智能体触发越界行为，发现新 Claude 仍有 21~32% 沙盒场景尝试越狱逃逸",
+      "link": "https://www.ithome.com/1/031/919.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-25T00:02:49.000Z",
+      "summary": "Anthropic推出Siren蜜罐系统，发现新Claude在沙盒场景中仍有21~32%尝试越狱逃逸。",
+      "summaryZh": ""
+    },
+    {
+      "title": "GPT、Claude、Gemini同台竞技，最新成绩来了！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TWG8yYUdlMzZuMkpqcVB4SE4xdlFVNTB2bG0tcWlkYXkwbGVHbFJkVXdkeHotWENQU3pIbHdnbGNmaV9JSHNsRw?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T02:21:14.000Z",
+      "summary": "GPT、Claude、Gemini等大模型在RoboChallenge Zero评测中，整体任务成功率仅44.85%，GPT-6.2 Astra以70%成功率高居榜首。",
+      "summaryZh": ""
+    },
+    {
+      "title": "马斯克：特斯拉 AI4 足以实现“超人驾驶”，AI5 优先留给 Optimus 机器人",
+      "link": "https://www.ithome.com/1/031/915.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-24T23:38:21.000Z",
+      "summary": "特斯拉AI5芯片将优先用于Optimus人形机器人。",
+      "summaryZh": ""
+    },
+    {
+      "title": "小摩：人形机器人及实体AI进入加速执行阶段，升宇树科技目标价至1060元及优必选至77港元",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VWlZxQTVzYUViNUl6YVJJc0IxZzhILXl1b3QxOWt6NEV2VmRKR0lzYTdxSXFfSl83TWpIcnZ3blA3OTlJWnZEQm4yZmx1OTM1V3FUU3Zqa3BZanJYbjV0cWQ5cw?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-24T07:18:02.000Z",
+      "summary": "摩根大通上调升宇树科技和优必选目标价，看好人形机器人及实体AI发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI办公，不再只拼大模型",
+      "link": "https://www.tmtpost.com/8215293.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T09:21:45.000Z",
+      "summary": "AI办公市场转向多模型竞争，大厂开放第三方模型以提升产品竞争力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI内部模型能力过强引发安全担忧，OpenAI和Anthropic员工质疑是否应继续发布前沿模型",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03SW0tenA2SHVrZGZSR1UyQWtDT2I5V0duNjMxUk95X3dWYUlIb0ZZTnMtNXBaUm1ma3UzcGFiWVlaS2h5MEFQclBEMk5WWWMtSHFLYnlibmU?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T11:30:57.000Z",
+      "summary": "OpenAI和Anthropic员工因AI模型安全担忧，质疑继续发布前沿模型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "北京特种机器人企业，融了近亿元",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VY2RuTlNTVDdPUElDS2lPUGluVXdkWlI0dEJDSjlJeDdxTFJtQkRMeEZVRkFMckstX2JuZWI3VFZKUXZQeGdnag?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-24T07:06:06.000Z",
+      "summary": "北京特种机器人企业吉泰智能完成近亿元B+轮融资，估值达15亿元。",
+      "summaryZh": ""
+    },
+    {
+      "title": "我国牵头推动全球首个生成式人工智能治理国际标准提案",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZVUFPU29KZkZ2aUZ1ZXN2bVktbmZma2JIVmJRamVMT1NvV0dORW1EYjItaldCSGs4aU10ODhFZmNwQnJ1Y3NWLU1XWFlpNjdmQVI0VEtEdHFkNmNDNGc?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T09:40:55.000Z",
+      "summary": "我国牵头研制全球首个生成式人工智能治理国际标准。",
+      "summaryZh": ""
+    },
+    {
+      "title": "我国在5个自贸试验区开展人工智能标准化自主开放试点",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FT3d3Y1NJX2w1RUROQTNpMkIzd0txSE9DaDNCeEZYVTJnVFJrTzFRdGxfenBlTGVHM2tadmVxSm00SHhJX3kwWm9ndVliN2RBcWY3QzNUTk0?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T09:04:54.000Z",
+      "summary": ""
+    },
+    {
+      "title": "荷兰AI芯片公司Axelera洽谈融资4亿美元，并寻求数亿欧元欧盟补贴",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82WGkzWWhQUkM0Z0JlaTFFdHFDaFY1UTh3OEgwcVh5X29GcFZBVFFucVV6MldjTGh1WllaSTFpT2RNaENxeG1RRmp2VzhaaE40a2gxdlpQNWY?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T07:41:15.000Z",
+      "summary": "荷兰AI芯片公司Axelera洽谈4亿美元融资，并寻求数亿欧元欧盟补贴。",
+      "summaryZh": ""
+    },
+    {
+      "title": "玻璃行业的工业AI智能体，开始真正落地商用了",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mY1Rid0wzWjlYS01XTHZ6b2ptM1hHclFKU3RVU1pDRzJTclk5WnBkbTRiNUl6R1lEa1doa1NsWTFyaEJKLUxtSXRjWS1qeXlo?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T05:44:19.000Z",
+      "summary": "玻璃行业首款工业AI智能体正式商用，助力制造升级。",
+      "summaryZh": ""
+    },
+    {
+      "title": "工业机器人迎来AI时刻，微亿智造能否借IPO打开增长新空间？",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rdDB3NE9vdS1paWdra2JOT3RsMVhBMW83ajhUMTc0SFlFajQ2dW1Fb0V5MTFJNHNqZHI2MzdZQkJuZGEwQjZQcE82YVotM3lk?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-24T09:29:00.000Z",
+      "summary": "微亿智造重启港股招股，AI赋能设备助力工业机器人商业化。",
+      "summaryZh": ""
+    },
+    {
+      "title": "DeepSeek限额，腾讯社交帝国松口气",
+      "link": "https://www.tmtpost.com/8209876.html",
+      "source": "钛媒体",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T11:11:06.000Z",
+      "summary": "DeepSeek对普通用户实施限额，腾讯社交AI对话服务成本问题凸显。",
+      "summaryZh": ""
+    },
+    {
+      "title": "You can now DM your Muse AI agent on Instagram.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTUZRNmJsYmlFRFd6c3Jmd05QMTFONmtxYl9WbzVJS19Zd1RHX1JCTnJOeVNYUDVsQkRmQXBUalBSY1JpRW1laUVMMy1raXdaT3JWUklISWFreG1BVGtYX0hmZ1BmaHJDS1VhNlI4TWl6eE9xMG92U1VocEl6SldoSFBPSkdnei1LWDFOVg?oc=5",
+      "source": "The Verge",
+      "lang": "en",
+      "category": "ai",
+      "pubDate": "2026-11-24T17:20:39.000Z",
+      "summary": "Instagram支持直接消息Muse AI代理。",
+      "summaryZh": "",
+      "titleZh": "您现在可以在 Instagram 上私信您的 Muse AI 代理。"
+    },
+    {
+      "title": "Robotics Summit 2027 opens call for speakers",
+      "link": "https://www.therobotreport.com/robotics-summit-2027-opens-call-for-speakers/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-24T18:03:37.000Z",
+      "summary": "2027机器人峰会征稿，聚焦商业机器人技术发展。",
+      "summaryZh": "",
+      "titleZh": "2027 年机器人峰会开始招募演讲者"
+    },
+    {
+      "title": "SoftBank acquires Marc Raibert’s Robotics and AI Institute",
+      "link": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-24T14:48:57.000Z",
+      "summary": "软银收购了由Marc Raibert创立的机器人与人工智能研究所。",
+      "summaryZh": "",
+      "titleZh": "软银收购马克·雷伯特的机器人和人工智能研究所"
+    },
+    {
+      "title": "“人工智能+”行动全面推进 生成式AI用户规模突破7亿 人工智能ETF易方达（159819）景气度攀升",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VUkhmNjlMWURFMlpBUElvUk9lZHZhaEZrcFR3NkdZUVNmNXVobDZxNWtGaXBtOVFCOC1STklGcjNKQ21CRm5sb3Nacjg0NWhrQk5JYy1GaDEyZE1UQm9nREtpRGp3RmlXb1VJa1l0ZkY?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T05:54:46.000Z",
+      "summary": "生成式AI用户突破7亿，人工智能ETF景气度攀升。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI人工智能ETF平安(512930)标的指数开盘涨近4%，黄仁勋复职有望修复全球AI算力产业链信心",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TTXJpeGN2cVRLQlRPMEt2TjNDNk82V1Ytc3NUTnk5VXhWRXZmeElNR0dRYkdVMHpEMEp4WGVlNTVOeWJJcVd0RlN3d1BGTTAtaDZDRmF3?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T01:48:04.000Z",
+      "summary": "AI人工智能ETF平安开盘涨近4%，黄仁勋复职提振全球AI算力产业链信心。",
+      "summaryZh": ""
+    },
+    {
+      "title": "不等英伟达了，机器人公司自己造芯",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KQzNCblpHeEVWczFyZDhXbG5lM2Y3ZzBGYWMxbFBxMjg1R1pva3JuT2VuQkZ5OV9wNVFJY01vNmdtZEFIal9EbkVkQ3NUMk15MVFTcDBmaw?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-24T06:15:49.000Z",
+      "summary": "机器人公司自主研发芯片，不再依赖英伟达。",
+      "summaryZh": ""
+    },
+    {
+      "title": "破局睡眠“数字盲区”：舒达提出“AI睡眠世界模型”，开启具身智能卧室新范式",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QRkVMcmFsZnFUNUlWeUUtNExoSFRLWGUySWU3Z2xibzczZGlfY0lzcVNvdnE4MzNhY0s4blpHVkpiZGxMdHlPVmpJeU55Q1M0bDBrdDJ5RWVOSjIxdUo0RGlsYVJHNU9wU0JrQ1NR?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-24T10:14:48.000Z",
+      "summary": "舒达推出“AI睡眠世界模型”，引领卧室智能新趋势。",
+      "summaryZh": ""
+    },
+    {
+      "title": "江西上线具身智能软件工厂 推动AI融入生产线",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Odi1aZDNocXdVbVZtR3JxNzJhR1doRXZYSGgxRW92UnotMzlaYkp1VGxqOFNySFNNXzVrb0k4V2Z5c2ZfaHdJVXp4eTRMOXBCWHVqOXAwTGJ1WUI4Q3VYVXNrZTFBa2w1?oc=5",
+      "source": "中国新闻网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-24T08:48:19.000Z",
+      "summary": "江西南昌上线具身智能软件工厂，推动AI技术在制造业应用。",
+      "summaryZh": ""
+    }
+  ]
+}
