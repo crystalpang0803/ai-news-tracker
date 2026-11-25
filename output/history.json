@@ -1,52 +1,4 @@
 {
-  "2026-11-10": {
-    "links": [
-      "https://www.qbitai.com/2026/11/508919.html",
-      "https://www.ithome.com/1/025/044.htm",
-      "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnYlVjVjllZDY4TlE0blZWdmhGQWd3OTBpRHBKOXhhdmNLUjFISF9lQ0NsZFBFeGZkV0hBVWxBaGk5R0RoVnhURg?oc=5",
-      "https://www.tmtpost.com/8199775.html",
-      "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tVXZ4Y09KMTZlTWVfOV9iQjZMQ3p0M0xGQ1luU3ZkV19waFk4cEduLUVHaVk2UXhDeGtuU1VlNjcwM1VZZElES3M2Wk5kbGpXa0FYWmtTOTg?oc=5",
-      "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rZ0EzY1hRQVI3c1IzVDRPN3RJTFgtNFVQOXhjREVKRmM1N2dOOW45VTJKWFlmM09lbXg2Y20zc0dFVXdNeTBaVQ?oc=5",
-      "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5czFtQ1ZiZkdsVVVIdFA2bzVGN0FjcEdiWGdJV0tPc25PNHFKN29pQzl4a2FnRFlOY2NzVjd1bF9FdW1qX19sVUE1UzNXZw?oc=5",
-      "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92WloyY3VpMVp4cVc4S1BudElmRVFZNHl2SFY2LVdhWmx1cktqaGpYSklQeVkzV1cwZ3BXd0doUUs5Vk1aSllYbXpWdU4yQ1phQzRMa3hibjFHQQ?oc=5",
-      "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RVlRTRlV3WHhTNUd1bEF3OWJKcHhaZW5Qa0dSSlkyQzZ3ZlU1cG44UE1LenBGcjI4bUpybmNtRXh6Rl9tenRmSGh1UllLRjBJTUk1MUl2SWg?oc=5",
-      "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96ckl4dktWWTZPZ1l0bUtUR3RwYTZSWjV1RU5uOHNCX3pkQ1F6SFI3c09IOUs4NEUzZk5QVUNGblBQdFV2TlZDeUNyWGVfVjlV?oc=5",
-      "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40ZmVPZWNFUmRaMUpGZWhUc211VzUzaEl5d3NLc3piMVlOYXlpeUVQVm51THBNWHBHbmNjNTctSTRrTzh3dWRma1UwR01Xd3dTemY0?oc=5",
-      "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FV0dXVWVOTEszT0dwcDI3NUY1akduNzFKUWl5T25VR3Z2dzcwTEg1TTNHSUw0WHdicGdGZkJ0TGFIR0lMNmlVd0M2bldOV2ZQbWpNNg?oc=5",
-      "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04cThQbUxtbjFBdTc4SjA1SmtJQXRxdnN0YVhBVlg2dE5sVU4wNGduX29FOExHNTdDUVhJOTZVdTZGa243eEowSA?oc=5",
-      "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYY1pUaGdqbTdtWjlrVm1vUHo3N0J6MmNBaU85ajlvWnNyZ2R6ZHQzQmplWl80eG1XU2dwcjZiZTYtemJuQVBUQ3N3OHU1RUZuZ1BZ?oc=5",
-      "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHOGJ4UUZrSE9TbUNKM01lbFh4aFhJVTNJWFVqSkp5VTV3WGg5Y2o5RGkwRFhxZkIxOFFUQVFuTEotb2swanh4RGNuYVUtcWtsYWNwRGRWMlFxTlpsempsXw?oc=5",
-      "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-      "https://spectrum.ieee.org/agentic-robotics",
-      "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOUjZMWVdwYk9mUnkzbDROaHgwTTBSNi1HbGw5eHJ0cGdkSzRjZVRtT2pnMktlbjVvS0wxVGx4Z1BSV1VkSWJ6Q0Z5TlZuSVdTbEdrNE4xcw?oc=5",
-      "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vdFR4RkNlZTVkam9qSmtWTEYybFdIMlRuVG5ZUEx6Tjc0QUo5RHcxY0tjUWluVEwyV3R4VnpfU29xOVV3MkU5U0ZtbEZ2OEUw?oc=5",
-      "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Zc0I1SzdLRXF0djlXWloySDEtVkNXV2swdmRDTDVxMEFfMUk3dkJZSV9ZQ2JIdzNPc2pxcGxaREI0WXZ3YjFyRTR4Qi11UXZpa1g0QXFWLWRpT3R2aTNKZjJjdkh4X21MNk51X255cFhtM0ZTOEIteVJTYUtsZw?oc=5",
-      "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XTThuM2ljRFlVSzB0LUpVYVNJVm94VjJSRlhDamhvdWRuNzNSMkRPTXhNdFVVdkZoMmdUY3hXVjBrRmxqS2ZhUjV2YnlocHYzRmR2aHlnY3NxaFNBSnhDNXhB?oc=5"
-    ],
-    "titles": [
-      "token卷到触觉了机器人终于有了通用手感",
-      "汽车总动员照进现实迪士尼测试ai停车机器人",
-      "午评创业板指半日涨149人形机器人ai漫剧概念集",
-      "ai的收费站正在搬家端侧抢的不是算力是云端的收银",
-      "ai算力需求延续高景气南方基金旗下创业板人工智能",
-      "上海水下机器人公司融了数千万",
-      "谷歌发布新ai芯片hbm带宽翻倍",
-      "高盛看好甲骨文ai融资担忧或过度放大在建项目风险",
-      "ai人工智能etf平安512930标的指数涨超2",
-      "宠物硬件集体转向ai开始接管宠物健康",
-      "ai算力拉动订单高增pcb产业链迎来量价齐升",
-      "壹评级情绪扰动大于实质ai算力基本面未恶化",
-      "anthropic英伟达同日上新机器人真的要长脑",
-      "从投研短剧到知识检索拆完这几个agent我才知道",
-      "人工智能交通运输场景加速落地",
-      "claudecodeisaccidentally",
-      "canagenticroboticssolver",
-      "具身智能机器人直流供电系统如何应对频发的瞬态负载",
-      "钶锐锶上市布局半导体ai服务器人形机器人等赛道未",
-      "以ai服务ai拓斯达全球开放日人形机器人等多项合",
-      "做ai漫剧全部亏损不如送外卖专家揭秘钱去哪儿了"
-    ]
-  },
   "2026-11-11": {
     "links": [
       "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VSzBZNGpaYi12c1FCOE1SSzJnaHhzMjdsOVFEdjlIYkRvV1pqQ3FMT2MtZTlycTV4aEYyQWFfR2FWQ1ZiUm81cG1uME1wYm9FdDZGaTlESnc?oc=5",
@@ -717,6 +669,54 @@
       "量产与交付5家机器人公司密集官宣时间节点",
       "给智元优必选造关节的公司走到ipo门口了",
       "walgreensscalesmicrofulf"
+    ]
+  },
+  "2026-11-25": {
+    "links": [
+      "https://www.ithome.com/1/031/919.htm",
+      "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TWG8yYUdlMzZuMkpqcVB4SE4xdlFVNTB2bG0tcWlkYXkwbGVHbFJkVXdkeHotWENQU3pIbHdnbGNmaV9JSHNsRw?oc=5",
+      "https://www.ithome.com/1/031/915.htm",
+      "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VWlZxQTVzYUViNUl6YVJJc0IxZzhILXl1b3QxOWt6NEV2VmRKR0lzYTdxSXFfSl83TWpIcnZ3blA3OTlJWnZEQm4yZmx1OTM1V3FUU3Zqa3BZanJYbjV0cWQ5cw?oc=5",
+      "https://www.tmtpost.com/8215293.html",
+      "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03SW0tenA2SHVrZGZSR1UyQWtDT2I5V0duNjMxUk95X3dWYUlIb0ZZTnMtNXBaUm1ma3UzcGFiWVlaS2h5MEFQclBEMk5WWWMtSHFLYnlibmU?oc=5",
+      "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VY2RuTlNTVDdPUElDS2lPUGluVXdkWlI0dEJDSjlJeDdxTFJtQkRMeEZVRkFMckstX2JuZWI3VFZKUXZQeGdnag?oc=5",
+      "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZVUFPU29KZkZ2aUZ1ZXN2bVktbmZma2JIVmJRamVMT1NvV0dORW1EYjItaldCSGs4aU10ODhFZmNwQnJ1Y3NWLU1XWFlpNjdmQVI0VEtEdHFkNmNDNGc?oc=5",
+      "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FT3d3Y1NJX2w1RUROQTNpMkIzd0txSE9DaDNCeEZYVTJnVFJrTzFRdGxfenBlTGVHM2tadmVxSm00SHhJX3kwWm9ndVliN2RBcWY3QzNUTk0?oc=5",
+      "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82WGkzWWhQUkM0Z0JlaTFFdHFDaFY1UTh3OEgwcVh5X29GcFZBVFFucVV6MldjTGh1WllaSTFpT2RNaENxeG1RRmp2VzhaaE40a2gxdlpQNWY?oc=5",
+      "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mY1Rid0wzWjlYS01XTHZ6b2ptM1hHclFKU3RVU1pDRzJTclk5WnBkbTRiNUl6R1lEa1doa1NsWTFyaEJKLUxtSXRjWS1qeXlo?oc=5",
+      "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rdDB3NE9vdS1paWdra2JOT3RsMVhBMW83ajhUMTc0SFlFajQ2dW1Fb0V5MTFJNHNqZHI2MzdZQkJuZGEwQjZQcE82YVotM3lk?oc=5",
+      "https://www.tmtpost.com/8209876.html",
+      "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTUZRNmJsYmlFRFd6c3Jmd05QMTFONmtxYl9WbzVJS19Zd1RHX1JCTnJOeVNYUDVsQkRmQXBUalBSY1JpRW1laUVMMy1raXdaT3JWUklISWFreG1BVGtYX0hmZ1BmaHJDS1VhNlI4TWl6eE9xMG92U1VocEl6SldoSFBPSkdnei1LWDFOVg?oc=5",
+      "https://www.therobotreport.com/robotics-summit-2027-opens-call-for-speakers/",
+      "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
+      "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VUkhmNjlMWURFMlpBUElvUk9lZHZhaEZrcFR3NkdZUVNmNXVobDZxNWtGaXBtOVFCOC1STklGcjNKQ21CRm5sb3Nacjg0NWhrQk5JYy1GaDEyZE1UQm9nREtpRGp3RmlXb1VJa1l0ZkY?oc=5",
+      "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TTXJpeGN2cVRLQlRPMEt2TjNDNk82V1Ytc3NUTnk5VXhWRXZmeElNR0dRYkdVMHpEMEp4WGVlNTVOeWJJcVd0RlN3d1BGTTAtaDZDRmF3?oc=5",
+      "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KQzNCblpHeEVWczFyZDhXbG5lM2Y3ZzBGYWMxbFBxMjg1R1pva3JuT2VuQkZ5OV9wNVFJY01vNmdtZEFIal9EbkVkQ3NUMk15MVFTcDBmaw?oc=5",
+      "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QRkVMcmFsZnFUNUlWeUUtNExoSFRLWGUySWU3Z2xibzczZGlfY0lzcVNvdnE4MzNhY0s4blpHVkpiZGxMdHlPVmpJeU55Q1M0bDBrdDJ5RWVOSjIxdUo0RGlsYVJHNU9wU0JrQ1NR?oc=5",
+      "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Odi1aZDNocXdVbVZtR3JxNzJhR1doRXZYSGgxRW92UnotMzlaYkp1VGxqOFNySFNNXzVrb0k4V2Z5c2ZfaHdJVXp4eTRMOXBCWHVqOXAwTGJ1WUI4Q3VYVXNrZTFBa2w1?oc=5"
+    ],
+    "titles": [
+      "anthropic推出siren蜜罐系统诱测ai",
+      "gptclaudegemini同台竞技最新成绩来",
+      "马斯克特斯拉ai4足以实现超人驾驶ai5优先留给",
+      "小摩人形机器人及实体ai进入加速执行阶段升宇树科",
+      "ai办公不再只拼大模型",
+      "ai内部模型能力过强引发安全担忧openai和a",
+      "北京特种机器人企业融了近亿元",
+      "我国牵头推动全球首个生成式人工智能治理国际标准提",
+      "我国在5个自贸试验区开展人工智能标准化自主开放试",
+      "荷兰ai芯片公司axelera洽谈融资4亿美元并",
+      "玻璃行业的工业ai智能体开始真正落地商用了",
+      "工业机器人迎来ai时刻微亿智造能否借ipo打开增",
+      "deepseek限额腾讯社交帝国松口气",
+      "youcannowdmyourmuseaiage",
+      "roboticssummit2027opensc",
+      "softbankacquiresmarcraib",
+      "人工智能行动全面推进生成式ai用户规模突破7亿人",
+      "ai人工智能etf平安512930标的指数开盘涨",
+      "不等英伟达了机器人公司自己造芯",
+      "破局睡眠数字盲区舒达提出ai睡眠世界模型开启具身",
+      "江西上线具身智能软件工厂推动ai融入生产线"
     ]
   }
 }
