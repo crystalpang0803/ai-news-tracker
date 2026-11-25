@@ -1,53 +1,54 @@
 {
   "date": "2026-11-25",
-  "generatedAt": "2026-11-25T08:42:53.765Z",
+  "generatedAt": "2026-11-25T13:27:08.355Z",
   "items": [
     {
-      "title": "小鹏高阶通用人形机器人 IRON 真机亮相：再秀自然步伐，全身 76 自由度，不同部位软硬度不同",
-      "link": "https://www.ithome.com/1/032/164.htm",
+      "title": "英伟达开放 Nemotron-Labs-Image-30B-A3B 生图 AI 模型权重：某些跑分超 GPT Image 2",
+      "link": "https://www.ithome.com/1/032/444.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-25T07:50:43.000Z",
-      "summary": "小鹏高阶通用人形机器人IRON亮相，具备76自由度，展示自然步伐和仿生设计。",
-      "summaryZh": ""
-    },
-    {
-      "title": "中远海控：推进人工智能技术全业务场景落地应用",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pTy0zUGlMNE1hZmFyTi1hdFZla1FjdkdOZnhLcmhzX3NVY1ZXNVRiN1pfTDVSNVRONkI3bUhrd3NBeEdva3gxVw?oc=5",
-      "source": "财联社",
-      "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-24T11:33:00.000Z",
-      "summary": "中远海控推进人工智能技术在全业务场景应用，提升运营效率和客户体验。",
+      "pubDate": "2026-11-25T10:37:28.000Z",
+      "summary": "英伟达发布Nemotron-Labs-Image-30B-A3B生图AI模型，部分跑分超GPT Image 2。",
       "summaryZh": ""
     },
     {
-      "title": "小鹏发布图灵具身智能架构（VLA 3.0），贯通具身硬件、本能、小脑和大脑",
-      "link": "https://www.ithome.com/1/032/159.htm",
+      "title": "小鹏最新人形机器人来了！今年研发花了30亿，明年1月量产",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mb0dTUVdNdjV6VXdYZXV6aTBndkQ2cDdvbEVObTAyQ2o5N2ZGYTBJU0xOeXY4Q292TG1VQTI4TGFTakNkeTA4cw?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-25T12:01:52.000Z",
+      "summary": "小鹏发布最新人形机器人IRON，明年1月量产，研发投入30亿。",
+      "summaryZh": ""
+    },
+    {
+      "title": "让大模型跑在个人设备上，腾讯混元开源 Hy4 flash GGUF 量化权重及配套推理代码",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Cc250d3FNa3hObXdYd0praThHYjNaN21LbDdhdGFrZjdtbC1nV0RXNUtadGI3NHh5bFlvXzVTZHQ0NVpWT2E2ZlBOdzE?oc=5",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-25T07:41:25.000Z",
-      "summary": "小鹏发布图灵具身智能架构VLA 3.0，实现软硬件贯通与系统优化。",
+      "category": "ai",
+      "pubDate": "2026-11-25T06:58:37.000Z",
+      "summary": "腾讯混元开源Hy4 flash GGUF量化权重及配套推理代码，实现大模型在个人设备上运行。",
       "summaryZh": ""
     },
     {
-      "title": "海外网安龙头业绩高增，大模型、Agent防护成为长期重要增量，信息安全ETF嘉实(159613)汇集A股信息安全概念龙头",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnVndiVXlXWFVxVTdUbThWdHJiNlRXaWtnd2l2LXRKbjZCX0liWWMwYk16a2gwVnJsVEtaQWNhLWZ6NzNTWHV0ZzZCeUkzSjRScVJnaTVNWFE?oc=5",
-      "source": "界面新闻",
+      "title": "机器人AI初创公司Embo完成1.1亿美元种子轮融资，a16z领投、英伟达参投",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSSjRGYlBRamdFTndfVDRVaTZteTh1MEhJb1FFUWJmajBrbG5GQVJPTzFNN2I1bGhSWWJaaWNEaUdDU0Y2TkF2dlgwek1tc2VFRTFmLWdqTll2UQ?oc=5",
+      "source": "钛媒体",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-25T03:26:00.000Z",
-      "summary": ""
+      "category": "robotics",
+      "pubDate": "2026-11-24T14:41:00.000Z",
+      "summary": "机器人AI公司Embo获1.1亿美金融资，a16z和英伟达参投。",
+      "summaryZh": ""
     },
     {
-      "title": "久远银海：公司自研的“银海闻语”大模型已应用于医疗医保、数字政务和智慧城市等领域-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pc2lxS1B2NzItVXZheVZ2X3RMdDcxWXBKbFVfd2ZGcTVRYzh6Q3M5OTJrNGtHRVlteWRTeWNDemdYNGhwalFDOUZzamVmUEhfcXNzb0dRMmo?oc=5",
+      "title": "AI算力越热，氟化冷却液如何跨过环保关？",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84S1p2OS0wem92RmVHNDAtaHZpSHVsdVlvZG5hYmtURHdlX3kxcmx2YlpNajBXYWFiWGZscDhBdnBzRktBTktSd0hiMzdWdw?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-25T04:52:40.000Z",
+      "pubDate": "2026-11-24T20:42:00.000Z",
       "summary": ""
     },
     {
@@ -61,33 +62,13 @@
       "summaryZh": ""
     },
     {
-      "title": "中国在5个自贸试验区开展人工智能标准化自主开放试点",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YeTVvNG9hTHhEdl9FWVNzbVpqME9uWlgxVGs5THEwNVRobzlWOXhJZFdGWV9WZzJ0ZFhGbUVxZWJNRFNncm12SkxUTGdDbV9HVDJVd1lDMmNfdw?oc=5",
-      "source": "钛媒体",
+      "title": "高盈量化推出AI端到端策略框架 实现从“人工因子挖掘”到“大模型智能决策”范式跨越",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xWXhKRTVMck5tZEdWaGY2elIwYm1rQmh1U1ZjZjVkdWItSm9iNC03LTVsZVlCYTdkUWJ3bWZUSktta0ZPM0ROS1VCT2lpTFBCVjI2OUw3eUs?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-24T09:15:00.000Z",
-      "summary": "中国5个自贸试验区启动人工智能标准化自主开放试点。",
-      "summaryZh": ""
-    },
-    {
-      "title": "中国牵头推动全球首个生成式人工智能治理国际标准提案",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83TjEwM1FjZlFrSDYxZkZHYmJmVmM5UEFBU2F0YjV4MDRpV3FycVIzc1dlbWNjN1BIUVk1ZjFNVmFSakE1bTh6Vk5Gd19tUEZ6WGdCSHBhRkhGdw?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-24T09:14:00.000Z",
-      "summary": "中国牵头提出全球首个生成式人工智能治理国际标准提案。",
-      "summaryZh": ""
-    },
-    {
-      "title": "刚刚，华为云开放AgentArts智能体平台，康晓宇：我们不抢流量入口",
-      "link": "https://zhidx.com/p/614006.html",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-24T10:27:20.000Z",
-      "summary": "华为云开放AgentArts智能体平台，强调不与伙伴争抢流量入口。",
+      "pubDate": "2026-11-25T10:03:49.000Z",
+      "summary": "高盈量化推出AI端到端策略框架，实现量化交易从人工挖掘到智能决策的范式转变。",
       "summaryZh": ""
     },
     {
@@ -97,16 +78,37 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-25T02:54:00.000Z",
-      "summary": ""
+      "summary": "我国牵头制定78项AI国际标准，AI人工智能ETF平安交投活跃。",
+      "summaryZh": ""
     },
     {
-      "title": "病理大模型在临港“养成”，诊断服务落地千里之外，揭开智算枢纽的神秘面纱",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Yd3NEWFBFb1pEWG1hTUsxemJxRWp0Umo4TE0zODFVWE9rUC1OckoyRGhSLUFjSmdDUnZydE9XTUJlN1diZ0JmX19ieVRBS2kwMXNMMklB?oc=5",
-      "source": "腾讯新闻",
+      "title": "港股大模型股震荡走低",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oZ3M5NWYyb25TZXVDX0hiYjA0a1pzSG5wd0I3MUw3My1MSHc0YkhzdVJTWnVISDY3N1ByMnBMS3laUzdHb3VwdXg3TkNJM2xXZ0pKVw?oc=5",
+      "source": "第一财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-24T15:18:12.000Z",
-      "summary": "临港智算枢纽助力病理大模型训练，实现远程病理诊断服务。",
+      "pubDate": "2026-11-25T05:04:00.000Z",
+      "summary": "港股大模型股震荡，智谱、MINIMAX等跌超8%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "证券业人工智能应用发展联盟成立 推进技术规范稳妥落地",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxVEkyeDd6S3BiakxVRm1QaDBBYmRPSGJSNlctd3VpVEtPeGViUHNqN2JfeW9jZ1RFT0FBZEJSRFl2OGFOV2NERW1wdGI2dGhyTlBCTXgwazF6Y2hTT0MtaURiNS0zdw?oc=5",
+      "source": "东方财富网",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T18:10:54.000Z",
+      "summary": "证券业人工智能应用发展联盟成立，旨在推进技术规范稳妥落地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "协作机器人时代，工厂为何越来越以人为中心？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14Qkd0UE11cHJVR3pPcTVJN0lRQUlWV0RER0lUcjIxWHVYejkwazROYWtQblBoUFZRdDluX19NYU40Z1prdmRXenVvSVdvTFdDRWtmdjBIOA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-24T23:08:45.000Z",
+      "summary": "工厂在协作机器人时代更加注重人机协作与安全。",
       "summaryZh": ""
     },
     {
@@ -127,36 +129,37 @@
       "category": "robotics",
       "pubDate": "2026-11-24T18:03:37.000Z",
       "summary": "2027机器人峰会征稿，聚焦商业机器人技术发展。",
-      "summaryZh": ""
+      "summaryZh": "",
+      "titleZh": "2027 年机器人峰会开始招募演讲者"
     },
     {
-      "title": "SoftBank acquires Marc Raibert’s Robotics and AI Institute",
-      "link": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-24T14:48:57.000Z",
-      "summary": "软银收购了由Boston Dynamics创始人Marc Raibert创立的机器人与AI研究所。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Agent 时代，为什么我们需要 “算力工厂”？",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9scm5ZVERQS0VTQmhKMVFjZTJhbzNlbmhhNzJqVlJOVUNLOFZ2M0piY2s3MTF1bmtlZ0xUODlVWW1nMUx0YzlEZVZpbGdIYWdCZXNNdU1aYw?oc=5",
-      "source": "与非网",
+      "title": "中国大模型周Token处理量连续30周超过美国，算力租赁长期价值凸显",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SRUVxSmRocUl0YlExWmh0SWRsMndXWS1pVFd1d21Pa3hLcnZKdFFQaGE4UlZyRk5MRVF3OU5fLXVQZGl4ekJjNmpUYzk2VVFxakFUMFJQRXMwVTdPTVpYbVFIdw?oc=5",
+      "source": "金融界",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-24T09:55:16.000Z",
-      "summary": "“算力工厂”在Agent时代提升安全验证效率。",
+      "pubDate": "2026-11-25T00:04:12.000Z",
+      "summary": "中国大模型周Token处理量连续30周超美，算力租赁价值凸显。",
       "summaryZh": ""
     },
     {
-      "title": "网易灵动装载机器人开启量产 AI承担生产任务超85%",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DdW9kN09GUmZMMU9iMlJreFNLOFlOb0Z5RUp0MjVNZ0NUSmtKVDZsaGlLTkthS05BUTNMbjFLYlJvaU9mUngwcW9hSm1zNUFCQ0VfbXJ3?oc=5",
-      "source": "腾讯新闻",
+      "title": "国产算力加速与AI芯片出货扩大共振，芯片ETF易方达（516350）成长空间打开-ETF火线",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YNU1IUlo1Z1d2QTAyb29kTzByeDFZRG1YVTV4SDRKWXlsY21NVUs5VktFZXdFS1kwcWhycGthNnJ5SnpDMUtVX2VRLTFwWjJNZThqOUhTeGRPWno4UWdUR21n?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-25T07:19:27.000Z",
+      "summary": "国产算力加速与AI芯片出货扩大，芯片ETF易方达成长空间打开。",
+      "summaryZh": ""
+    },
+    {
+      "title": "地瓜机器人与西湖数智达成战略合作，Awomo-0.5在RoboGo完成训练并正式上线",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HUUF4cXFfMW1QdGxpQ2dzODVKTTAxV0RaNDNXUzg4Wk5fQmQ4cGJVYmlMU0tZWnEyUTFGNGY4MTdvb3QtS09VdGJOY0k0VmxuU05idmpZcw?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-24T13:56:23.000Z",
-      "summary": "网易灵动AI装载机器人量产，AI承担生产任务超85%。",
+      "pubDate": "2026-11-25T04:25:30.000Z",
+      "summary": "地瓜机器人与西湖数智合作，Awomo-0.5机器人完成训练并上线。",
       "summaryZh": ""
     },
     {
@@ -166,17 +169,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-25T00:26:16.000Z",
-      "summary": "北京医院引入AI机器人全流程辅助患者就诊。",
-      "summaryZh": ""
-    },
-    {
-      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-      "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
-      "source": "Ars Technica",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-24T18:47:57.000Z",
-      "summary": "亚马逊无人机在送货洗发水后坠毁车库，引发美国联邦航空管理局调查。",
+      "summary": "北京医院推出AI机器人全流程陪伴患者就诊服务。",
       "summaryZh": ""
     },
     {
@@ -186,18 +179,29 @@
       "lang": "zh",
       "category": "application",
       "pubDate": "2026-11-25T02:19:09.000Z",
-      "summary": "青岛文旅利用AI技术提升公众体验，打造沉浸式文化新场景。",
+      "summary": "青岛文旅借助AI技术提升服务，打造沉浸式文化体验。",
       "summaryZh": ""
     },
     {
-      "title": "破局睡眠“数字盲区”：舒达提出“AI睡眠世界模型”，开启具身智能卧室新范式",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QRkVMcmFsZnFUNUlWeUUtNExoSFRLWGUySWU3Z2xibzczZGlfY0lzcVNvdnE4MzNhY0s4blpHVkpiZGxMdHlPVmpJeU55Q1M0bDBrdDJ5RWVOSjIxdUo0RGlsYVJHNU9wU0JrQ1NR?oc=5",
+      "title": "九阳股份发布股票交易异动公告：参股AI及机器人相关企业持股比例低 与华为无战略合作关系",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iYlBaMVNNaWtGTi03c2Z2d2pPZU9GZXl2cU5LNmxwTE1MMWw2YXRiQkFic3hTdE82cHFvSWF6SjFXZ1ZKNE8taExOMEZyWW9vNUtYN2xmSjZOYm40ZmM5TF9tWEMwYmJ1dUZEcTFUZw?oc=5",
       "source": "央广网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-24T10:14:48.000Z",
-      "summary": "舒达推出“AI睡眠世界模型”，引领卧室智能新趋势。",
+      "pubDate": "2026-11-25T12:21:06.000Z",
+      "summary": "九阳股份澄清：参股AI企业持股低，与华为无战略合作。",
       "summaryZh": ""
+    },
+    {
+      "title": "Path2 develops online robot cell builder to make automation more accessible",
+      "link": "https://roboticsandautomationnews.com/2026/11/25/path2-develops-online-robot-cell-builder-to-make-automation-more-accessible/107668/",
+      "source": "Robotics & Automation News",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-25T10:01:50.000Z",
+      "summary": "Path2推出在线机器人单元构建器，降低自动化门槛。",
+      "summaryZh": "",
+      "titleZh": "Path2 开发在线机器人单元构建器，使自动化更容易实现"
     },
     {
       "title": "Reliability emerges as the next big challenge for robotics",
@@ -206,18 +210,31 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-25T07:57:30.000Z",
-      "summary": "机器人可靠性成为行业面临的最大挑战。",
-      "summaryZh": ""
+      "summary": "机器人可靠性成为行业最大挑战。",
+      "summaryZh": "",
+      "titleZh": "可靠性成为机器人技术的下一个重大挑战"
     },
     {
-      "title": "Neuryn Robotics develops AI-powered robots to automate fashion returns",
-      "link": "https://roboticsandautomationnews.com/2026/11/25/neuryn-robotics-develops-ai-powered-robots-to-automate-fashion-returns/107641/",
-      "source": "Robotics & Automation News",
+      "title": "Procter & Gamble plans supply chain workforce cuts as automation expands",
+      "link": "https://www.supplychaindive.com/news/procter-gamble-plans-supply-chain-workforce-cuts-as-automation-expands/875533/",
+      "source": "Supply Chain Dive",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-25T07:32:28.000Z",
-      "summary": "Neuryn Robotics开发AI机器人自动化时尚退货处理。",
-      "summaryZh": ""
+      "pubDate": "2026-11-24T17:11:00.000Z",
+      "summary": "宝洁计划到2030年削减30%的产品供应链员工，以扩大自动化应用。",
+      "summaryZh": "",
+      "titleZh": "随着自动化程度的扩大，宝洁公司计划削减供应链劳动力"
+    },
+    {
+      "title": "Medtronic CEO Geoff Martha: AI and robotics have been force multipliers for us",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3pydlREbHlUOU5KMTdKYlRyN3MxcTRlRkxwaEZlMnU3NldQWTFvM2oxN1c5VGNCV05CZFNpSERQUnRKV0xBS2ZjWWVyd1pabEYzLTdlUzE5dkV1Y2tkU2dKalZGVTNta3FyLXM0aUtyT3JrZlM5UldFRTlMWC1DMlNSSS1QZ01zbS03cmRYeTVOOV9RZHpnQVJPaXdta1J0amY3UmVDejRvUnFaNzNYUEpJMVJJRFREd0lObw?oc=5",
+      "source": "CNBC Tech",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-24T17:11:01.000Z",
+      "summary": "Medtronic CEO表示AI和机器人技术成为公司倍增器。",
+      "summaryZh": "",
+      "titleZh": "美敦力首席执行官杰夫·玛莎：人工智能和机器人技术对我们来说是力量倍增器"
     }
   ]
 }
