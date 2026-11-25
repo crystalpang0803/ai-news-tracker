@@ -1,15 +1,35 @@
 {
   "date": "2026-11-25",
-  "generatedAt": "2026-11-25T03:09:49.241Z",
+  "generatedAt": "2026-11-25T04:20:48.708Z",
   "items": [
     {
-      "title": "涂鸦智能发布2026年Q3财报：推动AI原生硬件规模化落地",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ObGhHYlRqYzlJR3BkamRHdkpqWVlQSGIzNDNkTmsza0xqNEx4RjJSU0JYamNETzBpckRsTjMtUHh0MVQwbjIzVWZyMmk?oc=5",
+      "title": "众擎 CEO 赵同阳：人形机器人进入商业化关键阶段，下一阶段比拼的是工程能力",
+      "link": "https://www.ithome.com/1/032/062.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-24T08:16:35.000Z",
-      "summary": "涂鸦智能2026年Q3营收增长19.5%，AI原生硬件规模化落地。",
+      "category": "robotics",
+      "pubDate": "2026-11-25T04:08:36.000Z",
+      "summary": "人形机器人进入商业化关键阶段，竞争转向工程能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "我用GLM‑5.4“帮黄仁勋夺回英伟达”！智谱打响泛Coding第一枪，将Loop Transformer焊进模型",
+      "link": "https://zhidx.com/p/613498.html",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T06:17:18.000Z",
+      "summary": "智谱发布GLM-5.4模型，引入Loop Transformer架构，提升泛Coding能力。",
+      "summaryZh": ""
+    },
+    {
+      "title": "小摩：人形机器人及实体AI进入加速执行阶段，升宇树科技目标价至1060元及优必选至77港元",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VWlZxQTVzYUViNUl6YVJJc0IxZzhILXl1b3QxOWt6NEV2VmRKR0lzYTdxSXFfSl83TWpIcnZ3blA3OTlJWnZEQm4yZmx1OTM1V3FUU3Zqa3BZanJYbjV0cWQ5cw?oc=5",
+      "source": "金融界",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-24T07:18:02.000Z",
+      "summary": "摩根大通上调升宇树科技和优必选目标价，看好人形机器人及实体AI发展。",
       "summaryZh": ""
     },
     {
@@ -19,17 +39,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-24T09:21:45.000Z",
-      "summary": "AI办公市场转向多模型竞争，大厂开放接入第三方模型。",
-      "summaryZh": ""
-    },
-    {
-      "title": "AI内部模型能力过强引发安全担忧，OpenAI和Anthropic员工质疑是否应继续发布前沿模型",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03SW0tenA2SHVrZGZSR1UyQWtDT2I5V0duNjMxUk95X3dWYUlIb0ZZTnMtNXBaUm1ma3UzcGFiWVlaS2h5MEFQclBEMk5WWWMtSHFLYnlibmU?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-24T11:30:57.000Z",
-      "summary": "OpenAI和Anthropic员工因AI模型安全性担忧，质疑继续发布前沿模型。",
+      "summary": "AI办公市场转向多模型竞争，大厂开放第三方模型以提升产品竞争力。",
       "summaryZh": ""
     },
     {
@@ -43,43 +53,53 @@
       "summaryZh": ""
     },
     {
-      "title": "我国牵头推动全球首个生成式人工智能治理国际标准提案",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZVUFPU29KZkZ2aUZ1ZXN2bVktbmZma2JIVmJRamVMT1NvV0dORW1EYjItaldCSGs4aU10ODhFZmNwQnJ1Y3NWLU1XWFlpNjdmQVI0VEtEdHFkNmNDNGc?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-24T09:40:55.000Z",
-      "summary": "我国牵头推动全球首个生成式人工智能治理国际标准提案。",
-      "summaryZh": ""
-    },
-    {
       "title": "中国在5个自贸试验区开展人工智能标准化自主开放试点",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YeTVvNG9hTHhEdl9FWVNzbVpqME9uWlgxVGs5THEwNVRobzlWOXhJZFdGWV9WZzJ0ZFhGbUVxZWJNRFNncm12SkxUTGdDbV9HVDJVd1lDMmNfdw?oc=5",
       "source": "钛媒体",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-24T09:15:00.000Z",
-      "summary": "中国5个自贸试验区试点人工智能标准化自主开放。",
+      "summary": "中国5个自贸试验区启动人工智能标准化自主开放试点。",
       "summaryZh": ""
     },
     {
-      "title": "2026年豆包与百度AI平台GEO优化服务商推荐：可信机构筛选与合作路径",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yRzF4UVpKZDJHMmlJc3JvX1ZUUzhvdVQ4QzJvRDgtSDVHTGt5T0tnUk5LM2NMWGJvdEFEYUxtVjlvdE12MW9QckxrQVE?oc=5",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-24T08:16:44.000Z",
-      "summary": "豆包与百度AI平台推荐GEO优化服务商，提供可信机构筛选与合作路径。",
-      "summaryZh": ""
-    },
-    {
-      "title": "荷兰AI芯片公司Axelera洽谈融资4亿美元，并寻求数亿欧元欧盟补贴",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82WGkzWWhQUkM0Z0JlaTFFdHFDaFY1UTh3OEgwcVh5X29GcFZBVFFucVV6MldjTGh1WllaSTFpT2RNaENxeG1RRmp2VzhaaE40a2gxdlpQNWY?oc=5",
+      "title": "我国牵头制定78项人工智能国际标准，AI人工智能ETF平安(512930)交投活跃",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0c2JEWlIzQkJkNXNDOFdhNUZRS3ZDVW5OSVdlRW8wN1RlTEp0bkpmRldNa1FfUmpza21jdF9BUGRISUE2eE1QZUZMNmdIWmQyb1lJZzhXRkM?oc=5",
       "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-24T07:41:15.000Z",
-      "summary": "荷兰AI芯片公司Axelera洽谈4亿美元融资，并寻求数亿欧元欧盟补贴。",
+      "pubDate": "2026-11-25T02:54:00.000Z",
+      "summary": "我国牵头制定78项AI国际标准，AI人工智能ETF平安交投活跃。",
+      "summaryZh": ""
+    },
+    {
+      "title": "久远银海：依托自研大模型推进AI技术场景落地",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ1MwSzRSNHpNZlI3Y2pfcExzSzE1OEZRMUNfaDFWT1ZUbjhHam8wNkh4eDFWNHdlMzVaVmoweW9FLWJ5ZGp0Q3diTGpINXg3aEV2QUhyeXFLRGotUmZ0VjFHLWh3bmxHYWJaSkJzYV9nZnhRSWVMMDNSSFhvN0hYaGQ4YTgxdVk2Q3dETFd4Nlo?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-25T03:45:04.000Z",
+      "summary": "久远银海自研大模型推进AI技术在民生场景落地。",
+      "summaryZh": ""
+    },
+    {
+      "title": "玻璃行业的工业AI智能体，开始真正落地商用了",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mY1Rid0wzWjlYS01XTHZ6b2ptM1hHclFKU3RVU1pDRzJTclk5WnBkbTRiNUl6R1lEa1doa1NsWTFyaEJKLUxtSXRjWS1qeXlo?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-24T05:44:19.000Z",
+      "summary": "玻璃行业首款工业AI智能体正式商用，实现报价和下单自动化。",
+      "summaryZh": ""
+    },
+    {
+      "title": "富士无反相机 X-T6 曝光：首用 4000 万 RGBW 传感器，夜景拍摄更优秀",
+      "link": "https://www.ithome.com/1/031/964.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-25T02:23:02.000Z",
+      "summary": "富士X-T6相机采用4000万像素RGBW传感器，提升夜景拍摄性能。",
       "summaryZh": ""
     },
     {
@@ -93,13 +113,23 @@
       "summaryZh": ""
     },
     {
+      "title": "工业机器人迎来AI时刻，微亿智造能否借IPO打开增长新空间？",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rdDB3NE9vdS1paWdra2JOT3RsMVhBMW83ajhUMTc0SFlFajQ2dW1Fb0V5MTFJNHNqZHI2MzdZQkJuZGEwQjZQcE82YVotM3lk?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-24T09:29:00.000Z",
+      "summary": "微亿智造重启港股招股，AI赋能设备助力工业机器人商业化。",
+      "summaryZh": ""
+    },
+    {
       "title": "Claude Opus 5.6灰测效果来了",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05QXFhMDdWekNCZVlUekRCcUZLV29RdEJGa1phYmlOUkd4cnk4ZWVCY0I3R1k5X0NPbEd0bFYtTFFEYnIyUUk3Z1MxdG1BQXZocExXMQ?oc=5",
       "source": "量子位",
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-25T02:43:07.000Z",
-      "summary": "Claude Opus 5.6灰测版发布，效率提升至前版本的2到3倍，视觉效果惊艳。",
+      "summary": "Claude Opus 5.6灰测版发布，效率提升至前版本的2至3倍，视觉效果惊艳。",
       "summaryZh": ""
     },
     {
@@ -120,19 +150,9 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-24T14:48:57.000Z",
-      "summary": "软银收购了由Boston Dynamics创始人Marc Raibert创立的机器人与AI研究所。",
+      "summary": "软银收购了由Boston Dynamics创始人Marc Raibert创立的机器人与人工智能研究所。",
       "summaryZh": "",
       "titleZh": "软银收购马克·雷伯特的机器人和人工智能研究所"
-    },
-    {
-      "title": "“人工智能+”行动全面推进 生成式AI用户规模突破7亿 人工智能ETF易方达（159819）景气度攀升",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VUkhmNjlMWURFMlpBUElvUk9lZHZhaEZrcFR3NkdZUVNmNXVobDZxNWtGaXBtOVFCOC1STklGcjNKQ21CRm5sb3Nacjg0NWhrQk5JYy1GaDEyZE1UQm9nREtpRGp3RmlXb1VJa1l0ZkY?oc=5",
-      "source": "金融界",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-24T05:54:46.000Z",
-      "summary": "生成式AI用户突破7亿，人工智能ETF景气度攀升。",
-      "summaryZh": ""
     },
     {
       "title": "ETF盘中资讯|算力芯片+端侧AI携手活跃！寒武纪领涨超6%，科创人工智能ETF华宝（589520）跟踪指数盘中大涨4%",
@@ -145,13 +165,13 @@
       "summaryZh": ""
     },
     {
-      "title": "江西上线具身智能软件工厂 推动AI融入生产线",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Odi1aZDNocXdVbVZtR3JxNzJhR1doRXZYSGgxRW92UnotMzlaYkp1VGxqOFNySFNNXzVrb0k4V2Z5c2ZfaHdJVXp4eTRMOXBCWHVqOXAwTGJ1WUI4Q3VYVXNrZTFBa2w1?oc=5",
-      "source": "中国新闻网",
+      "title": "“人工智能+”行动全面推进 生成式AI用户规模突破7亿 人工智能ETF易方达（159819）景气度攀升",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FTG1tSXZndHFFMFlpNDJhNmdZVXJlQmxvSUgzQUNTX05BYm5leHVHZjhoZVBpaUZMSEZoSFBjcGtVdjNLNTNhc1g4RmxSdml5Y3lIX0N3?oc=5",
+      "source": "腾讯新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-24T08:48:19.000Z",
-      "summary": "江西南昌上线具身智能软件工厂，推动AI技术在制造业应用。",
+      "category": "ai",
+      "pubDate": "2026-11-24T06:03:18.000Z",
+      "summary": "生成式AI用户突破7亿，AI应用场景拓展，AIETF景气度上升。",
       "summaryZh": ""
     },
     {
@@ -161,17 +181,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-24T07:44:15.000Z",
-      "summary": "韩国明年将投入16万亿韩元用于人工智能发展。",
+      "summary": "韩国政府明年将人工智能预算扩大至16万亿韩元。",
       "summaryZh": ""
-    },
-    {
-      "title": "会聊天不等于会陪伴：陪伴Agent的定义、研究证据与银发场景设计难点",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ySnVSOF9fdHhlYUV6OXEtcHdVWlRyc01oNFhpY2pyYWVQdkVOMnRWV0RoOTNMb0ZqR1diYnNVbDFDZkR0YnYwMG5DU3FsOFJfTW5lcw?oc=5",
-      "source": "虎嗅",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-24T17:00:09.000Z",
-      "summary": ""
     },
     {
       "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
@@ -182,50 +193,37 @@
       "pubDate": "2026-11-24T18:47:57.000Z",
       "summary": "亚马逊无人机在送货洗发水后坠毁车库，引发美国联邦航空管理局调查。",
       "summaryZh": "",
-      "titleZh": "亚马逊无人机在运送洗发水后坠毁在车库，引起美国联邦航空局调查"
+      "titleZh": "亚马逊无人机送洗发水后坠毁在车库，引起美国联邦航空局调查"
     },
     {
-      "title": "Ati Robotics adopts SimScale AI simulation for autonomous vehicle development",
-      "link": "https://roboticsandautomationnews.com/2026/11/24/ati-robotics-adopts-simscale-ai-simulation-for-autonomous-vehicle-development/107602/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-24T09:03:17.000Z",
-      "summary": "Ati Robotics采用SimScale AI模拟技术进行自主移动机器人Sherpa的硬件验证。",
-      "summaryZh": "",
-      "titleZh": "Ati Robotics 采用 SimScale AI 仿真进行自动驾驶汽车开发"
-    },
-    {
-      "title": "MassRobotics to open marine robotics facility at Boston Fish Pier",
-      "link": "https://roboticsandautomationnews.com/2026/11/24/massrobotics-to-open-marine-robotics-facility-at-boston-fish-pier/107593/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-24T07:30:39.000Z",
-      "summary": "MassRobotics将在波士顿鱼市码头开设海洋机器人设施。",
-      "summaryZh": "",
-      "titleZh": "MassRobotics 将在波士顿鱼码头开设海洋机器人工厂"
-    },
-    {
-      "title": "黄仁勋回归英伟达，AI与具身智能再提速",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5bExNOHVRU2Q2NTcyMElVSHlYOUFQZG1qR1I4OXRlTllrcGQwTGVJZDVxMFFacGptdGtaTnpTTGFyRUdhODV3c29QaURKeTJ1eFlEdTgwcw?oc=5",
+      "title": "估值16亿美元！至简动力：把智驾工程能力迁移到具身机器人",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lUmd6eFI1WC1kQVdoTmZTelBNSUUwQXJCWkgzY2tMTURVVUNhYmVyaHhoZnNhVzFUQnJ4emdWMXlmcE9vTnV3RVZlcXlmaEltVERLSi16OA?oc=5",
       "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-24T08:20:36.000Z",
-      "summary": "黄仁勋重返英伟达，推动AI与具身智能发展。",
+      "pubDate": "2026-11-24T08:48:48.000Z",
+      "summary": "至简动力估值16亿，将智驾技术应用于具身机器人。",
       "summaryZh": ""
     },
     {
-      "title": "Procter & Gamble plans supply chain workforce cuts as automation expands",
-      "link": "https://www.supplychaindive.com/news/procter-gamble-plans-supply-chain-workforce-cuts-as-automation-expands/875533/",
-      "source": "Supply Chain Dive",
-      "lang": "en",
+      "title": "北京：AI机器人全流程陪伴患者就诊",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uZWd5ZkxXRmZBYWRabEZWS1JIdXFxa0RzVG5jdmdnWWU0ekQ3eHR6YTZCUmpGLXFmN1ZaeHdEaE5jN3hKSklBR0VsNU54UWRWZEhRT3hqcXhWbUJjNF9McEZsQnRWTVlxNF94Z21ESHk?oc=5",
+      "source": "央广网",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-24T17:11:00.000Z",
-      "summary": "宝洁计划到2030年削减30%的产品供应链员工，以扩大自动化应用。",
-      "summaryZh": "",
-      "titleZh": "随着自动化程度的扩大，宝洁公司计划削减供应链劳动力"
+      "pubDate": "2026-11-25T00:26:16.000Z",
+      "summary": "北京医院引入AI机器人全流程辅助患者就诊。",
+      "summaryZh": ""
+    },
+    {
+      "title": "破局睡眠“数字盲区”：舒达提出“AI睡眠世界模型”，开启具身智能卧室新范式",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QRkVMcmFsZnFUNUlWeUUtNExoSFRLWGUySWU3Z2xibzczZGlfY0lzcVNvdnE4MzNhY0s4blpHVkpiZGxMdHlPVmpJeU55Q1M0bDBrdDJ5RWVOSjIxdUo0RGlsYVJHNU9wU0JrQ1NR?oc=5",
+      "source": "央广网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-24T10:14:48.000Z",
+      "summary": "舒达推出“AI睡眠世界模型”，引领卧室智能新趋势。",
+      "summaryZh": ""
     }
   ]
 }
