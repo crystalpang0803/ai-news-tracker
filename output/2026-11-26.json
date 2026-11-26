@@ -1,46 +1,26 @@
 {
   "date": "2026-11-26",
-  "generatedAt": "2026-11-26T01:45:00.154Z",
+  "generatedAt": "2026-11-26T02:26:05.125Z",
   "items": [
     {
-      "title": "Anthropic加大对澳游说投资 推动AI版权规则落地以布局算力投资",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DVjZzY2ZqQS02M3BzcjMtZXlrNE5TUVJ6bU1DUmZ6eHhIUFFyYmRVTjdwLWU2ZkdQUnFwaUpvUVVXYmV0ZmpOdw?oc=5",
-      "source": "财联社",
+      "title": "OpenAI要给GPT做个“翻译官”，让智能体更懂业务",
+      "link": "https://zhidx.com/p/614219.html",
+      "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-25T02:02:46.000Z",
-      "summary": "Anthropic在澳加大游说力度，推动AI版权规则以布局算力投资。",
+      "pubDate": "2026-11-25T08:47:40.000Z",
+      "summary": "OpenAI开发Athena平台，旨在提升GPT在数据分析中的业务理解能力。",
       "summaryZh": ""
     },
     {
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "source": "TechCrunch",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-25T20:03:27.000Z",
-      "summary": "OpenAI宣布ChatGPT合并Chat和Work功能，部分重度用户可能更快触及使用限制。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 表示，随着 Chat 和 Work 的合并，ChatGPT 的大量用户可能会更快达到极限"
-    },
-    {
-      "title": "成功率从19.6%翻倍到41.2%，大摩：AI大脑提速，正在改写人形机器人的落地节奏",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10ZDd2VTNGUTlqODc5YjNDYjRWV201SHhqa1N6ekFFQ214QUo5N3NvWllBSnZ6OGhMb0tWRzFYZTBqQkd6eE03NWFfcDZ1ak1nZUVRTVpDVTYtTFVNTXNwRXRB?oc=5",
-      "source": "同花顺财经",
+      "title": "单卡3小时干翻128张卡7天：伯克利CoRL最佳论文把机器人训练成本砍掉1000倍",
+      "link": "https://www.tmtpost.com/8218079.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-25T15:13:14.000Z",
-      "summary": "人形机器人AI大脑提速，成功率翻倍，加速行业落地节奏。",
+      "pubDate": "2026-11-26T01:43:00.000Z",
+      "summary": "伯克利CoRL最佳论文提出SuperMimic模型，将机器人训练成本降低1000倍。",
       "summaryZh": ""
-    },
-    {
-      "title": "Einsia AI 联合六所高校开源业内首个万级具身 RL 环境，具身智能迈向GPT时刻",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnVmxhUXFPWDU5MGlVbEI5aDY2VGFxZHgzZy0xak1maGhiR2ZOT0JDbVJxUVdWOXhhTnJtS3kzempydFhkaFBuVGtEZ1BiQQ?oc=5",
-      "source": "36氪",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-25T08:31:15.000Z",
-      "summary": ""
     },
     {
       "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
@@ -49,7 +29,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-25T14:32:57.000Z",
-      "summary": "智元灵心平台一年孵化超3万个机器人智能体，降低开发门槛，助力具身智能发展。",
+      "summary": "智元灵心平台一年孵化超3万个机器人智能体，降低开发门槛。",
       "summaryZh": ""
     },
     {
@@ -59,7 +39,27 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-25T14:21:20.000Z",
-      "summary": "九章云极发布物理AI工厂与生态开放计划，聚焦算力基础设施与工具栈服务。",
+      "summary": "九章云极发布物理AI工厂与生态开放计划，聚焦算力与产业化鸿沟。",
+      "summaryZh": ""
+    },
+    {
+      "title": "知乎 CEO 周源回应间接投资 DeepSeek：对长期价值有清晰判断，不会牺牲主营业务发展",
+      "link": "https://www.ithome.com/1/032/582.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-26T01:51:43.000Z",
+      "summary": "知乎CEO周源强调间接投资DeepSeek不会影响主营业务发展。",
+      "summaryZh": ""
+    },
+    {
+      "title": "蔚来李斌谈算力需求：现在卡很贵也买不到，租卡更符合经营模式",
+      "link": "https://www.ithome.com/1/032/581.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-26T01:50:53.000Z",
+      "summary": "蔚来李斌称租用算力卡更符合其经营模式。",
       "summaryZh": ""
     },
     {
@@ -69,7 +69,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-25T12:29:57.000Z",
-      "summary": "崖山科技发布AI数据基础设施新方案，推动数据库从管理确定性数据走向原生管理智能。",
+      "summary": "崖山科技发布AI数据基础设施新方案，推动数据库管理智能体。",
+      "summaryZh": ""
+    },
+    {
+      "title": "八部门：稳妥有序推动云计算、大模型等人工智能相关服务出海",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ab3RWM3hPN01vTUhvallCcm5rMTR0U1oxZmdZc1VjUGNWYmQzVmNHenB2Ykl4enhRT2RMQzI4T0l6TnpCemF0OHZDLWJGQjFvYzRGa08zMmw?oc=5",
+      "source": "界面新闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-26T02:11:37.000Z",
+      "summary": "八部门推动云计算、大模型等AI服务出海，培育新业态。",
       "summaryZh": ""
     },
     {
@@ -103,53 +113,13 @@
       "summaryZh": ""
     },
     {
-      "title": "OpenAI is combining ChatGPT and Codex usage limits.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMVpTZGpPNXprVmZjcVdwLTRtQmE4TmRFZ2JQTTdYdmt1djlaNzh3NUUzYlpMQzdJR19BUk9KRVZLRFFERC1vT1ZNekZGcUkzb0d5YXdTdGNhVF9uS1FuMVZXUWpSanJUV0haVWRKN0l0Y3YyRkhTV2JwMXhaMGtRbDl2S0JRVzBmOUoyX004TmFkdGxjRExOWmNFYXJEZHNKZTVnY1NvN1Nud0dGbHlR?oc=5",
-      "source": "The Verge",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-25T16:39:06.000Z",
-      "summary": "OpenAI将合并ChatGPT和Codex的使用限制。",
-      "summaryZh": "",
-      "titleZh": "OpenAI 结合了 ChatGPT 和 Codex 使用限制。"
-    },
-    {
-      "title": "英伟达机器人研究负责人朱玉可，官宣新去向",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hVk1YZWk5STdDcE1QWTZPYmNOWFdkMkstbnM5bXF0VmVkZWZYUDlPNkFQaW1Ddk5SNE9NbkxmUk1HMDN2LVgtSQ?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-25T12:49:31.000Z",
-      "summary": "朱玉可宣布将于2027年秋季加入普林斯顿大学计算机科学系。",
-      "summaryZh": ""
-    },
-    {
-      "title": "黄仁勋的“光”：详解AI算力背后的光通信产业链、英伟达赌注与技术博弈",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LWHN5ZC04WnpWLVd2RlBqWEFuSzVRSVdKRkpENHpCT3dGRnFtV1VOU3pBWDdkWjdvWU9EOXQwOHVMclVkQTdIckhuNFlydw?oc=5",
-      "source": "36氪",
+      "title": "AI制药迎强力加持？GPT-6展现蛋白质设计能力 无需调用垂直模型",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4yRGhFTVAyV1lHNU5MVHdGMjYyQlJpeG1ZZ3J6MWRSZk9mQk0xQndYblRFT2hkWjk1Qnh3VjM5RDJiVDhMMGc?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-25T12:03:56.000Z",
-      "summary": ""
-    },
-    {
-      "title": "韩国AI芯片出口红利或推动韩元延续升势",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wMWtTY1FNZ1VRZGxBUVVVS2NIRGhRWldBLWFQdzhnY21mRW51dUlqV1hJMm93dnExaUt4aUR2MGNjMmpRQ3lBMGJTUEJJR1FhVWJRcHVTNDhldw?oc=5",
-      "source": "钛媒体",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-25T07:58:00.000Z",
-      "summary": "韩国AI芯片出口收益推动韩元升值预期。",
-      "summaryZh": ""
-    },
-    {
-      "title": "金山软件第三季度营收为24.4亿元，AI应用规模化落地",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01SFpQWW12YW0zRWdUVDNuaHRJdndfTFFzYnk1T2lsSlBlSEt1Wl81LWlRREwtTS1OaDFTSGVJM1BZeFRzdTl4Nld0LVBKdkJnNExyQmpEdHZZUmhVbkRDazhjb3dyUQ?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "application",
-      "pubDate": "2026-11-25T12:27:15.000Z",
-      "summary": "金山软件第三季度营收24.4亿元，AI应用在办公和游戏领域规模化落地。",
+      "pubDate": "2026-11-25T03:26:11.000Z",
+      "summary": "GPT-6模型展现蛋白质设计能力，无需垂直模型。",
       "summaryZh": ""
     },
     {
@@ -159,39 +129,18 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-26T01:34:00.000Z",
-      "summary": "中国具身智能行业遇冷，数采难以独立融资。",
+      "summary": "中国具身智能行业遇冷，数据采集难以独立融资。",
       "summaryZh": ""
     },
     {
-      "title": "恒工精密新设智能制造科技公司 含AI及机器人业务",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqM3dEU2dPTmFkMUxYenJaazRMbWpGYUtZTkxmNnQ4M2wxelpSNUwtUG42OWo4MnVMSm1UeTB6c1AtSGNCQ0EwaGk1OGIzMUlY?oc=5",
-      "source": "凤凰财经",
+      "title": "10月人形机器人采购订单分析",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtejRkZGxIZTkyLXE5d3E1Y0hCbi1waWg5S2o5N2tVeGtsYWFCU3BQci1sbHVGY0NDOWM1SW12M1hWRGFXcnlfRmt2UjBiUmpCVk1keklDSQ?oc=5",
+      "source": "与非网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-26T01:15:09.000Z",
-      "summary": "恒工精密成立子公司，专注智能制造及AI机器人业务。",
+      "pubDate": "2026-11-25T02:54:39.000Z",
+      "summary": "10月人形机器人采购订单分析完成。",
       "summaryZh": ""
-    },
-    {
-      "title": "速腾聚创前三季度机器人激光雷达销量增长423%",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQenZfaWVGRXFtM1pSc3V4cGNRVlNmUVpyUjYxN3g3WEJwWVpuZVZROWdLbFM2NHRIOEVfYy11WWVCMWRISUNGSHZDSTlkeWttX2JXek44Mzk0YmdqUndPNmxTT2g?oc=5",
-      "source": "新京报",
-      "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-25T14:49:00.000Z",
-      "summary": "速腾聚创前三季度机器人激光雷达销量同比增长423%，全球销量第一。",
-      "summaryZh": ""
-    },
-    {
-      "title": "FCC should focus on robot security, not country of origin",
-      "link": "https://www.therobotreport.com/fcc-should-focus-on-robot-security-not-country-of-origin/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-25T17:00:07.000Z",
-      "summary": "FCC应关注机器人安全而非产地。",
-      "summaryZh": "",
-      "titleZh": "FCC 应关注机器人安全，而不是原产国"
     },
     {
       "title": "Space robotics: notes from an IROS 2026 plenary session",
@@ -200,7 +149,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-25T16:36:36.000Z",
-      "summary": "2026年IROS大会上，专家探讨太空机器人技术在月球探索、航天任务及地球应用中的潜力。",
+      "summary": "2026年IROS大会聚焦太空机器人，探讨其在月球探索、航天任务及地球应用中的潜力。",
       "summaryZh": "",
       "titleZh": "太空机器人：IROS 2026 全体会议的笔记"
     },
@@ -222,9 +171,52 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-25T13:56:22.000Z",
-      "summary": "工业自动化对网络基础设施可靠性要求提升，影响未来工业发展。",
+      "summary": "工业自动化依赖可靠网络基础设施，影响未来发展方向。",
       "summaryZh": "",
       "titleZh": "可靠的网络基础设施如何塑造工业自动化的未来"
+    },
+    {
+      "title": "Siemens Expands Automation Portfolio Toward AI-Powered, Autonomous Production",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWXFYY1dwd3VzWTV4REdYMU1UMXBJdm9kZXZ0Ui1XdEs0UkMzUTZqU3lleVAyTHk5RXc0dVdpQVNrRFBKVGRHUTNIbWpkR1dWVGNwbFZIYUtzajdvdnI1cWNhVUZtSFVTZ3E1elg0WG5YYVc1QzZkY3RHVC1SUEVFMXhkS09DaDZfSDgzX0htT1Jyei1HZGk5RGZGaXk0NVpXM1RpamF5LWVhNURqajdrMjRLMGJMRE5tZi1NRjhqQnJIa1VUWk9SMTdIRlNuUU1oNW5BSTliU3BxMHQtczN0UTEwcjdvYm5w?oc=5",
+      "source": "Automation World",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-25T18:15:13.000Z",
+      "summary": "西门子扩展自动化产品线，致力于AI驱动、自主化生产。",
+      "summaryZh": "",
+      "titleZh": "西门子扩展自动化产品组合，迈向人工智能驱动的自主生产"
+    },
+    {
+      "title": "Four Payments Executives Define Where Automation Still Needs Human Approval",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0wwRHpZUS1zRllhdzNxT1BLa0F2d01TcXcxdmlGSDk3ejg1Rno3bEhpSzlneklHTXdESkx5eDBEMDNicE84aU1uM0ZOenlqemlIT1FTd0NBMzBuS3MyUkF4MHJSNXBQVzVJTFBCWWNJcGtrWmxva3R0ZWk0Q2tBb0lSYW5kOE1Bb0dFNTdaSXFfOGhROTIwM2NpbzY5WGRSMFMtblIxaEFxeUZCMHZGTFpn?oc=5",
+      "source": "PYMNTS",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-25T22:28:28.000Z",
+      "summary": "四位支付高管阐述自动化仍需人工审批的领域。",
+      "summaryZh": "",
+      "titleZh": "四位支付高管定义了自动化仍需要人工批准的领域"
+    },
+    {
+      "title": "A New Figure Emerges in the Nvidia Chip-Smuggling Saga",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUlhNXzR5WjJQLVh5WHE1dW1mdFE4MmZreUtrNHRhOVh1NEd5d2p5cjNkSlZRYzY0eU9wZUlfNms4NXM2Z1VnUDdUdnZkR20tekRUX1B4Mm01ZEJTVmFyMWdEdnFjVWFiMkFNZm5tTWtPVmJZV3ktMmdjQjdKQWY0blA1V210MGl3Q0ExTnRsZHpiakQyNWEw?oc=5",
+      "source": "WSJ Tech",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-25T19:25:17.000Z",
+      "summary": "",
+      "titleZh": "英伟达芯片走私传奇中出现新人物"
+    },
+    {
+      "title": "Robot delivery",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8ya294ZHNXYTBmNFdTZWQyVmp0UTE0VmhnLTZrSDNRR181eUxyRmJLbmlDaVVRNXZjdHVXcmd4QVBKSmtBbGJHREZZYVRlMUxpMjVmRG9ENzZrSWJGQl8zcGdKMWZRd1c5WGJGQ0FXXzhVT21RclFtTG9Vdw?oc=5",
+      "source": "Retail Tech Innovation Hub",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-25T13:36:13.000Z",
+      "summary": "Uber Eats与Coco Robotics合作，在欧盟市场推出机器人配送服务，芬兰为首站。",
+      "summaryZh": "",
+      "titleZh": "机器人配送"
     }
   ]
 }
