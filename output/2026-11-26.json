@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generatedAt": "2026-11-26T00:14:33.579Z",
+  "generatedAt": "2026-11-26T01:45:00.154Z",
   "items": [
     {
       "title": "Anthropic加大对澳游说投资 推动AI版权规则落地以布局算力投资",
@@ -19,7 +19,7 @@
       "lang": "en",
       "category": "ai",
       "pubDate": "2026-11-25T20:03:27.000Z",
-      "summary": "OpenAI宣布ChatGPT合并Chat和Work功能，部分重用户可能更快触及使用限制。",
+      "summary": "OpenAI宣布ChatGPT合并Chat和Work功能，部分重度用户可能更快触及使用限制。",
       "summaryZh": "",
       "titleZh": "OpenAI 表示，随着 Chat 和 Work 的合并，ChatGPT 的大量用户可能会更快达到极限"
     },
@@ -59,17 +59,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-25T14:21:20.000Z",
-      "summary": "九章云极发布物理AI工厂与生态开放计划，聚焦算力与产业化鸿沟。",
+      "summary": "九章云极发布物理AI工厂与生态开放计划，聚焦算力基础设施与工具栈服务。",
       "summaryZh": ""
     },
     {
-      "title": "神秘大模型火速杀进OpenCode前三！做MV、开发游戏、3D建模全拿捏，免费可蹬",
-      "link": "https://zhidx.com/p/614323.html",
+      "title": "让数据库管智能体，崖山科技推出企业数据基础设施新方案",
+      "link": "https://zhidx.com/p/614304.html",
       "source": "智东西",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-25T11:15:13.000Z",
-      "summary": "HungerG大模型迅速登顶OpenCode前三，支持多模态输入，免费试用。",
+      "pubDate": "2026-11-25T12:29:57.000Z",
+      "summary": "崖山科技发布AI数据基础设施新方案，推动数据库从管理确定性数据走向原生管理智能。",
       "summaryZh": ""
     },
     {
@@ -80,6 +80,26 @@
       "category": "ai",
       "pubDate": "2026-11-25T13:00:00.000Z",
       "summary": "谷歌为Gemini推出新隐私设置，用户可独立控制聊天记录AI训练。",
+      "summaryZh": ""
+    },
+    {
+      "title": "“模型太强而不敢发布”？OpenAI、Anthropic内部安全争议升温",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nSVZtNWV3cE1aYVB1V1JENjRHTnRNRkt2ZDN5aWlRSFR6aHlKYWYwNURxUmhNV3VwZURrM3QySUJYNld0c1diR3k2clN6Sy0wTmtZ?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-25T07:05:44.000Z",
+      "summary": "OpenAI和Anthropic因模型安全性争议，内部安全争议升温。",
+      "summaryZh": ""
+    },
+    {
+      "title": "胜科纳米董事长李晓旻：AI芯片竞争重心转向性价比 算力基建持续增长需应用接力",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44SGV2NDltNGhvaFkya05rUWRBZDk1cUlxQVowUEVySTBwVmFzeTJzZGZwV3EyMTg4M1pWZHJBZF9EekRnRUstcA?oc=5",
+      "source": "财联社",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-25T18:49:00.000Z",
+      "summary": "胜科纳米董事长李晓旻指出，AI芯片竞争转向性价比，算力基建增长需应用接力。",
       "summaryZh": ""
     },
     {
@@ -100,7 +120,7 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-25T12:49:31.000Z",
-      "summary": "朱玉可宣布将于2027年秋季加入普林斯顿大学计算机科学系，继续领导英伟达GEAR团队。",
+      "summary": "朱玉可宣布将于2027年秋季加入普林斯顿大学计算机科学系。",
       "summaryZh": ""
     },
     {
@@ -123,23 +143,33 @@
       "summaryZh": ""
     },
     {
-      "title": "迈出“全民隐私智能”第一步：OpenAI 开测私有推理，目标打造“零窥探 AI”",
-      "link": "https://www.ithome.com/1/032/543.htm",
-      "source": "IT之家",
+      "title": "金山软件第三季度营收为24.4亿元，AI应用规模化落地",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01SFpQWW12YW0zRWdUVDNuaHRJdndfTFFzYnk1T2lsSlBlSEt1Wl81LWlRREwtTS1OaDFTSGVJM1BZeFRzdTl4Nld0LVBKdkJnNExyQmpEdHZZUmhVbkRDazhjb3dyUQ?oc=5",
+      "source": "东方财富网",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-25T23:45:33.000Z",
-      "summary": "OpenAI 开测私有推理，旨在提升AI模型隐私保护。",
+      "category": "application",
+      "pubDate": "2026-11-25T12:27:15.000Z",
+      "summary": "金山软件第三季度营收24.4亿元，AI应用在办公和游戏领域规模化落地。",
       "summaryZh": ""
     },
     {
-      "title": "10月人形机器人采购订单分析",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtejRkZGxIZTkyLXE5d3E1Y0hCbi1waWg5S2o5N2tVeGtsYWFCU3BQci1sbHVGY0NDOWM1SW12M1hWRGFXcnlfRmt2UjBiUmpCVk1keklDSQ?oc=5",
-      "source": "与非网",
+      "title": "具身智能的下一个风口，为什么在中国吹不起来？",
+      "link": "https://www.tmtpost.com/8217848.html",
+      "source": "钛媒体",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-25T02:54:39.000Z",
-      "summary": "10月人形机器人采购订单分析完成。",
+      "pubDate": "2026-11-26T01:34:00.000Z",
+      "summary": "中国具身智能行业遇冷，数采难以独立融资。",
+      "summaryZh": ""
+    },
+    {
+      "title": "恒工精密新设智能制造科技公司 含AI及机器人业务",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqM3dEU2dPTmFkMUxYenJaazRMbWpGYUtZTkxmNnQ4M2wxelpSNUwtUG42OWo4MnVMSm1UeTB6c1AtSGNCQ0EwaGk1OGIzMUlY?oc=5",
+      "source": "凤凰财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-26T01:15:09.000Z",
+      "summary": "恒工精密成立子公司，专注智能制造及AI机器人业务。",
       "summaryZh": ""
     },
     {
@@ -159,7 +189,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-25T17:00:07.000Z",
-      "summary": "FCC应关注机器人安全性而非产地。",
+      "summary": "FCC应关注机器人安全而非产地。",
       "summaryZh": "",
       "titleZh": "FCC 应关注机器人安全，而不是原产国"
     },
@@ -170,7 +200,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-25T16:36:36.000Z",
-      "summary": "2026年IROS大会聚焦太空机器人，探讨其在月球探索、航天任务和地球应用中的潜力。",
+      "summary": "2026年IROS大会上，专家探讨太空机器人技术在月球探索、航天任务及地球应用中的潜力。",
       "summaryZh": "",
       "titleZh": "太空机器人：IROS 2026 全体会议的笔记"
     },
@@ -181,7 +211,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-25T20:16:24.000Z",
-      "summary": "Angelini Technologies投资Oversonic Robotics，助力其国际扩张。",
+      "summary": "Angelini Technologies投资Oversonic Robotics以支持其国际扩张。",
       "summaryZh": "",
       "titleZh": "Angelini Technologies 收购 Oversonic Robotics 股份以支持国际扩张"
     },
@@ -192,7 +222,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-25T13:56:22.000Z",
-      "summary": "工业自动化依赖可靠网络基础设施，影响深远。",
+      "summary": "工业自动化对网络基础设施可靠性要求提升，影响未来工业发展。",
       "summaryZh": "",
       "titleZh": "可靠的网络基础设施如何塑造工业自动化的未来"
     }
