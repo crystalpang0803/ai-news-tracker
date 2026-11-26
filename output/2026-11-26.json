@@ -1,26 +1,25 @@
 {
   "date": "2026-11-26",
-  "generatedAt": "2026-11-26T02:26:05.125Z",
+  "generatedAt": "2026-11-26T03:39:27.454Z",
   "items": [
     {
-      "title": "OpenAI要给GPT做个“翻译官”，让智能体更懂业务",
-      "link": "https://zhidx.com/p/614219.html",
-      "source": "智东西",
+      "title": "成功率从19.6%翻倍到41.2%，大摩：AI大脑提速，正在改写人形机器人的落地节奏",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10ZDd2VTNGUTlqODc5YjNDYjRWV201SHhqa1N6ekFFQ214QUo5N3NvWllBSnZ6OGhMb0tWRzFYZTBqQkd6eE03NWFfcDZ1ak1nZUVRTVpDVTYtTFVNTXNwRXRB?oc=5",
+      "source": "同花顺财经",
       "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-25T08:47:40.000Z",
-      "summary": "OpenAI开发Athena平台，旨在提升GPT在数据分析中的业务理解能力。",
+      "category": "robotics",
+      "pubDate": "2026-11-25T15:13:14.000Z",
+      "summary": "AI大脑提速，人形机器人成功率翻倍，加速落地节奏。",
       "summaryZh": ""
     },
     {
-      "title": "单卡3小时干翻128张卡7天：伯克利CoRL最佳论文把机器人训练成本砍掉1000倍",
-      "link": "https://www.tmtpost.com/8218079.html",
-      "source": "钛媒体",
+      "title": "Einsia AI 联合六所高校开源业内首个万级具身 RL 环境，具身智能迈向GPT时刻",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnVmxhUXFPWDU5MGlVbEI5aDY2VGFxZHgzZy0xak1maGhiR2ZOT0JDbVJxUVdWOXhhTnJtS3kzempydFhkaFBuVGtEZ1BiQQ?oc=5",
+      "source": "36氪",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-26T01:43:00.000Z",
-      "summary": "伯克利CoRL最佳论文提出SuperMimic模型，将机器人训练成本降低1000倍。",
-      "summaryZh": ""
+      "category": "ai",
+      "pubDate": "2026-11-25T08:31:15.000Z",
+      "summary": ""
     },
     {
       "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
@@ -29,7 +28,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-25T14:32:57.000Z",
-      "summary": "智元灵心平台一年孵化超3万个机器人智能体，降低开发门槛。",
+      "summary": "智元灵心平台一年孵化超3万个机器人智能体，降低开发门槛，拓展应用场景。",
       "summaryZh": ""
     },
     {
@@ -39,7 +38,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-25T14:21:20.000Z",
-      "summary": "九章云极发布物理AI工厂与生态开放计划，聚焦算力与产业化鸿沟。",
+      "summary": "九章云极发布物理AI工厂与生态开放计划，聚焦算力与产业化。",
       "summaryZh": ""
     },
     {
@@ -49,17 +48,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-26T01:51:43.000Z",
-      "summary": "知乎CEO周源强调间接投资DeepSeek不会影响主营业务发展。",
-      "summaryZh": ""
-    },
-    {
-      "title": "蔚来李斌谈算力需求：现在卡很贵也买不到，租卡更符合经营模式",
-      "link": "https://www.ithome.com/1/032/581.htm",
-      "source": "IT之家",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-26T01:50:53.000Z",
-      "summary": "蔚来李斌称租用算力卡更符合其经营模式。",
+      "summary": "知乎CEO周源表示，间接投资DeepSeek不会影响主营业务发展。",
       "summaryZh": ""
     },
     {
@@ -79,7 +68,7 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-26T02:11:37.000Z",
-      "summary": "八部门推动云计算、大模型等AI服务出海，培育新业态。",
+      "summary": "八部门推动人工智能服务出海，培育新业态。",
       "summaryZh": ""
     },
     {
@@ -93,16 +82,6 @@
       "summaryZh": ""
     },
     {
-      "title": "“模型太强而不敢发布”？OpenAI、Anthropic内部安全争议升温",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nSVZtNWV3cE1aYVB1V1JENjRHTnRNRkt2ZDN5aWlRSFR6aHlKYWYwNURxUmhNV3VwZURrM3QySUJYNld0c1diR3k2clN6Sy0wTmtZ?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-25T07:05:44.000Z",
-      "summary": "OpenAI和Anthropic因模型安全性争议，内部安全争议升温。",
-      "summaryZh": ""
-    },
-    {
       "title": "胜科纳米董事长李晓旻：AI芯片竞争重心转向性价比 算力基建持续增长需应用接力",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44SGV2NDltNGhvaFkya05rUWRBZDk1cUlxQVowUEVySTBwVmFzeTJzZGZwV3EyMTg4M1pWZHJBZF9EekRnRUstcA?oc=5",
       "source": "财联社",
@@ -113,45 +92,53 @@
       "summaryZh": ""
     },
     {
-      "title": "AI制药迎强力加持？GPT-6展现蛋白质设计能力 无需调用垂直模型",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4yRGhFTVAyV1lHNU5MVHdGMjYyQlJpeG1ZZ3J6MWRSZk9mQk0xQndYblRFT2hkWjk1Qnh3VjM5RDJiVDhMMGc?oc=5",
-      "source": "财联社",
+      "title": "英伟达机器人研究负责人朱玉可，官宣新去向",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hVk1YZWk5STdDcE1QWTZPYmNOWFdkMkstbnM5bXF0VmVkZWZYUDlPNkFQaW1Ddk5SNE9NbkxmUk1HMDN2LVgtSQ?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-25T12:49:31.000Z",
+      "summary": "朱玉可宣布将于2027年秋季加入普林斯顿大学计算机科学系，继续领导英伟达GEAR团队。",
+      "summaryZh": ""
+    },
+    {
+      "title": "黄仁勋的“光”：详解AI算力背后的光通信产业链、英伟达赌注与技术博弈",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LWHN5ZC04WnpWLVd2RlBqWEFuSzVRSVdKRkpENHpCT3dGRnFtV1VOU3pBWDdkWjdvWU9EOXQwOHVMclVkQTdIckhuNFlydw?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-25T03:26:11.000Z",
-      "summary": "GPT-6模型展现蛋白质设计能力，无需垂直模型。",
-      "summaryZh": ""
+      "pubDate": "2026-11-25T12:03:56.000Z",
+      "summary": ""
     },
     {
-      "title": "具身智能的下一个风口，为什么在中国吹不起来？",
-      "link": "https://www.tmtpost.com/8217848.html",
-      "source": "钛媒体",
+      "title": "中信建投：AI科研取得突破，办公Agent需求增长",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwSndUQUhFMlpXUklpWmd1OEhMTmR6clMtNWRfa0NNRHBIWlZmNC1JbXdlSF9KLXNSSDZmR1F0bGVHMXZnWWFHdllGOTRKRk9PWFlQZWgxN2Y?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-26T01:34:00.000Z",
-      "summary": "中国具身智能行业遇冷，数据采集难以独立融资。",
+      "category": "ai",
+      "pubDate": "2026-11-26T00:15:10.000Z",
+      "summary": "AI科研突破推动办公Agent需求增长。",
       "summaryZh": ""
     },
     {
-      "title": "10月人形机器人采购订单分析",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtejRkZGxIZTkyLXE5d3E1Y0hCbi1waWg5S2o5N2tVeGtsYWFCU3BQci1sbHVGY0NDOWM1SW12M1hWRGFXcnlfRmt2UjBiUmpCVk1keklDSQ?oc=5",
-      "source": "与非网",
+      "title": "久远银海：“银海闻语”大模型已应用于医疗医保、数字政务等领域",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OVGV5NG5WVlpvQzdIVnZ3YldqN24yR21VUkRQSlRMZXRPdlNlaC1hZ0kxanBvWHVwcXRfRFJmRlNTNjBVdnJiVHhEUEd6MExpMEVR?oc=5",
+      "source": "第一财经",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-25T02:54:39.000Z",
-      "summary": "10月人形机器人采购订单分析完成。",
+      "category": "ai",
+      "pubDate": "2026-11-25T04:08:02.000Z",
+      "summary": "久远银海“银海闻语”大模型应用于医疗医保、数字政务等领域。",
       "summaryZh": ""
     },
     {
-      "title": "Space robotics: notes from an IROS 2026 plenary session",
-      "link": "https://robohub.org/space-robotics-notes-from-an-iros-2026-plenary-session/",
-      "source": "Robohub",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-25T16:36:36.000Z",
-      "summary": "2026年IROS大会聚焦太空机器人，探讨其在月球探索、航天任务及地球应用中的潜力。",
-      "summaryZh": "",
-      "titleZh": "太空机器人：IROS 2026 全体会议的笔记"
+      "title": "从养老机构到学校食堂 四川以“互联网+AI”守护“一老一小”舌尖安全",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zejlaVkJ2OXJ3R3huVzdVQkhVa1lTMHh0Z3llUGRwbnNJR1JMNm1sb01QRWVLSTB6TVU3UnFpNWx6MjlHTFlkeW5iakxsX1dicmxiM1lR?oc=5",
+      "source": "腾讯新闻",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-25T10:23:50.000Z",
+      "summary": "四川运用“互联网+AI”技术加强养老机构和学校食堂食品安全监管。",
+      "summaryZh": ""
     },
     {
       "title": "Angelini Technologies acquires stake in Oversonic Robotics to support international expansion",
@@ -171,7 +158,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-25T13:56:22.000Z",
-      "summary": "工业自动化依赖可靠网络基础设施，影响未来发展方向。",
+      "summary": "工业自动化依赖可靠网络基础设施，影响未来工业发展。",
       "summaryZh": "",
       "titleZh": "可靠的网络基础设施如何塑造工业自动化的未来"
     },
@@ -193,7 +180,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-25T22:28:28.000Z",
-      "summary": "四位支付高管阐述自动化仍需人工审批的领域。",
+      "summary": "四位支付高管定义了自动化仍需人工审批的领域。",
       "summaryZh": "",
       "titleZh": "四位支付高管定义了自动化仍需要人工批准的领域"
     },
@@ -209,12 +196,12 @@
     },
     {
       "title": "Robot delivery",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8ya294ZHNXYTBmNFdTZWQyVmp0UTE0VmhnLTZrSDNRR181eUxyRmJLbmlDaVVRNXZjdHVXcmd4QVBKSmtBbGJHREZZYVRlMUxpMjVmRG9ENzZrSWJGQl8zcGdKMWZRd1c5WGJGQ0FXXzhVT21RclFtTG9Vdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlQ0oyaTY0NG8tS0o2RGpTeUJKTEV6eVRKLTA4cFhTSHdSNkRQYUNzVXdpZXFuME1GckdsUFNVUkpMNmZ5VUtRLUt2c2daNjJ6Q2VNenZPS0xqeGczVFUzOFY5SjlDU3pJNVp3M1Q1aTZIWVFyNGV6UlNpbw?oc=5",
       "source": "Retail Tech Innovation Hub",
       "lang": "en",
       "category": "robotics",
-      "pubDate": "2026-11-25T13:36:13.000Z",
-      "summary": "Uber Eats与Coco Robotics合作，在欧盟市场推出机器人配送服务，芬兰为首站。",
+      "pubDate": "2026-11-25T13:33:48.000Z",
+      "summary": "Uber Eats与Coco Robotics合作，将在欧盟市场推出机器人配送服务，芬兰为首站。",
       "summaryZh": "",
       "titleZh": "机器人配送"
     }
