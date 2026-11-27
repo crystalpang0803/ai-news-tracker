@@ -1,7 +1,17 @@
 {
   "date": "2026-11-27",
-  "generatedAt": "2026-11-27T00:31:43.844Z",
+  "generatedAt": "2026-11-27T01:40:06.901Z",
   "items": [
+    {
+      "title": "消费端扩容产业端突围，人工智能应用加速落地",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLaU5lV2dlMU9vbncyZ3NyVU1ONW1BYUlENTdMT0NNOHppSnZxTkxFYlBYMldlOTBSVV94NDZtN0VIcUhHMm5yOUpRTjZSM2N2aFNxZndTc2wxd1FwS2c?oc=5",
+      "source": "36氪",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-26T23:57:46.000Z",
+      "summary": "人工智能应用加速在消费和产业端落地。",
+      "summaryZh": ""
+    },
     {
       "title": "GPT-6.2 额度突然不耐用了？OpenAI 承认计费出错，修复后 Astra 消耗速度加快 40%、Sol 加快 25%",
       "link": "https://www.ithome.com/1/033/138.htm",
@@ -10,6 +20,16 @@
       "category": "ai",
       "pubDate": "2026-11-26T22:59:06.000Z",
       "summary": "OpenAI修复GPT-6.2计费错误，Astra和Sol消耗速度分别提升40%和25%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "OpenAI要给GPT做个“翻译官”，让智能体更懂业务",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yRjlOV1BPSmJyTmtvTXJQWWZkbnNfdDZ4N0o5bzN2b3Z3OE9QQ00zTld0OWlmU2dGQ1VCTFE3VndvUGhoUmk3NA?oc=5",
+      "source": "智东西",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-26T01:55:27.000Z",
+      "summary": "OpenAI开发Athena平台，旨在提升GPT在数据分析中的业务理解能力。",
       "summaryZh": ""
     },
     {
@@ -23,7 +43,7 @@
       "summaryZh": ""
     },
     {
-      "title": "人形机器人产业迈入新阶段 技术与生态协同推动商业落地",
+      "title": "人形机器人产业迈入新阶段技术与生态协同推动商业落地-中国经营网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xejVEWnFDd3ZRdjZDaU5rQVZxSE5ZaEpPT0phVDJoaDJoSW9Vc3ZnOWduWjdYOG1YT0NWUHZXdTExX0pHMkRQR3pRbHFsNDA2T3luMnA5eUdfb2ZLODNFZXdR?oc=5",
       "source": "中国经营网",
       "lang": "zh",
@@ -38,7 +58,8 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-26T12:55:52.000Z",
-      "summary": ""
+      "summary": "OpenAI调查显示，多数研究员愿以团队或算力换取更强编程智能体。",
+      "summaryZh": ""
     },
     {
       "title": "微软发布 Visual Studio Code 1.148：电脑可在智能体运行时保持唤醒",
@@ -51,33 +72,32 @@
       "summaryZh": ""
     },
     {
-      "title": "突发！ChatGPT额度爆砍接近一半？",
-      "link": "https://zhidx.com/p/614548.html",
-      "source": "智东西",
+      "title": "国家统计局：人工智能算力需求持续增加 带动存储芯片和周边制造等相关行业利润持续增长",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE81b2l2MU9yYUw5VndoNm9PZ2RRZEh3NEt3cFJWYUhXSXVWbXBXYTJ1bjQwXzMycXR5MVZESWpHMXVqaFJFTEdLYw?oc=5",
+      "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-26T03:04:36.000Z",
-      "summary": "OpenAI修复ChatGPT额度计算错误，用户实际额度消耗低于预期。",
+      "pubDate": "2026-11-27T01:33:50.000Z",
+      "summary": "人工智能算力需求增长推动存储芯片等行业利润增长。",
       "summaryZh": ""
     },
     {
       "title": "首个农耕文明领域大模型“天稷”发布",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZnBlRzctNE9JYjJ5NDB2UjFWRnNGZ1l4WnprNkcwTzE4MHp1Yzd4WkpadnVVWGs0Ty1NZHdJWE9tdEIzc0UtN3VoeVZmVUU2ZjhYLVNFVkprZw?oc=5",
-      "source": "钛媒体",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xT2lsTVAyZy1GTXhxWHAwWVdmR0lzVjV3WTBQSkNQMHFYR3RXMV9JcWNuSlZZdjcwWGJpS0l3MF9ocUZYdS10MndXNFNHak1KTkxraXpiSnc?oc=5",
+      "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-26T23:16:00.000Z",
-      "summary": "首个农耕文明领域大模型“天稷”发布，涵盖8000万条知识条目，助力农业生产。",
-      "summaryZh": ""
+      "pubDate": "2026-11-26T23:57:43.000Z",
+      "summary": ""
     },
     {
-      "title": "中信建投：国产算力供需共振 AI安全需求持续升级",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvUmV5LW1LQ3h5VG1Ecm1qbXZrTm5SQTZLSXdwOHVxbHl5eEVISVZGYzFXTnRYSDNqM0JGODVuY2NxdVpacUgwbHA1MDF1aEtzVV9R?oc=5",
-      "source": "第一财经",
+      "title": "中信建投：国产算力供需共振，AI安全需求持续升级",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mZGxiOGtPS0lMbEhFVXF2TEhRNW9pVV9NRjV6ZkMyeFV5QXJXSWtaRC1pM1gzWkExWXlyLTh1V1NKa1JqS2FiY0RhalZzWWJna2xvWkFUdXM?oc=5",
+      "source": "界面新闻",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-26T19:46:48.000Z",
-      "summary": "中信建投报告称，国产算力供需共振，AI安全需求持续升级，2027年起有望加速放量。",
+      "pubDate": "2026-11-26T23:45:51.000Z",
+      "summary": "国产算力供需共振，AI安全需求推动国产供应链升级。",
       "summaryZh": ""
     },
     {
@@ -87,59 +107,66 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-26T02:55:10.000Z",
-      "summary": "科创创业人工智能ETF易方达受资金青睐，AI服务出海与交通场景应用推动指数上涨。",
-      "summaryZh": ""
+      "summary": ""
     },
     {
-      "title": "OpenAI与Anthropic内部人士称未发布模型难控，争论是否停止发布或继续训练",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JRXd4SDFnTERwaWxNYlVtczJ2dl9UWVFXeWlIMGVKMUU0SFNELUJEbjhZZlNnVnJYdjZtSUI2V0kybEN4Qms5anMwc0U5Wkh4NzJpQg?oc=5",
-      "source": "虎嗅",
+      "title": "多模态模型开源，AI购物开启测试，港股通互联网ETF永赢（159170）有望受益于AI商业化加速落地",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRDF5Wmd4UWdIQmR4QzFtV19tbTRBcjZSdmJBRUpUZUFjYnBtZmowek1YajF6ckwwbVVmVHBpNG90Y0oteS1OV2JaRUY1NVI1X2RyTzlpVDZlUERFbXRMLVhuUzc2NjBqWHlydXQtWnM5LWRqS2RoeUI2b0psM09FcFBFRm1JVGVqOElwczU3OA?oc=5",
+      "source": "21财经",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-26T11:56:44.000Z",
-      "summary": "OpenAI与Anthropic内部人士担忧未发布模型难以控制，争论是否停止发布或继续训练。",
+      "pubDate": "2026-11-26T05:24:00.000Z",
+      "summary": "多模态模型开源，AI购物测试，港股通互联网ETF永赢（159170）受益AI商业化加速。",
       "summaryZh": ""
     },
     {
-      "title": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
-      "link": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
-      "source": "Wired",
-      "lang": "en",
-      "category": "ai",
-      "pubDate": "2026-11-26T12:00:00.000Z",
-      "summary": "Android Auto新增Gemini AI，导航更智能，支持更广泛查询。",
-      "summaryZh": "",
-      "titleZh": "这是您在 Android Auto 上使用全新 Gemini AI 可以做的一切"
-    },
-    {
-      "title": "王兴兴：OpenAI并未放弃机器人而是技术收敛，物理AI底层没有跨不过的门槛",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5acjBDM19FS3BxZEFPMmFPWWVFSE1MZU9xY2hUUERKMV9DLXVWdWIydFpqRDh0VjNUdnVweDIzZ3VaTVliVkg0d3hMTlc2Qlg0bUVnUEExb3FZeTdqdElxWQ?oc=5",
-      "source": "澎湃新闻科技",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-26T05:49:28.000Z",
-      "summary": "王兴兴称OpenAI机器人团队合并而非撤销，物理AI底层技术有望突破。",
-      "summaryZh": ""
-    },
-    {
-      "title": "微盟集团：计划加大人工智能算力基础设施投入及拓展智算云服务业务",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtT3FRNzBVU3ZPbGZ2aDI1OFhaczdsNmhEUlVwbEdLbG9lMUJudkkxUnF6YVBKZUN2Z0pwalRXb2RfQ2R2QUl1SlJLVUltellpTl9MZFFkVmdMZ0tiQlZyNGlFNUhKZw?oc=5",
-      "source": "东方财富网",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-26T05:41:47.000Z",
-      "summary": "微盟集团计划加大AI算力基础设施投入，拓展智算云服务业务。",
-      "summaryZh": ""
-    },
-    {
-      "title": "机器人制作冰淇淋、跳舞、格斗，AI在福田走进现实",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81OUdTZ3JRWGRIZERjWW5jMTJLX2M0cUhUbTVwU2hZemthdkxVYU9JOHZZTHhOcUpqX1hkYWFTWmk2X3VMQTZ6dzlpTUtBREpsZEY4UnRn?oc=5",
+      "title": "思特威子公司布局本地算力，AI基础设施竞争转向场景落地",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFTXQ1TUZqZnM5cFpiZ29YMlZIRzlRWXhHejlGTFkyaHJHa2g4T3FIcG9HNVJKRnc1YzJJckltbno3NThIT0d0X0hmUEJGdDJwZ3I1SFpB?oc=5",
       "source": "腾讯新闻",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-26T09:03:06.000Z",
-      "summary": "福田高交会展示AI前沿技术，机器人与智能设备互动展示AI创新链条。",
+      "category": "ai",
+      "pubDate": "2026-11-26T06:33:11.000Z",
+      "summary": "思特威子公司推出AI算力产品，布局本地化AI基础设施。",
       "summaryZh": ""
+    },
+    {
+      "title": "当物理AI遇上6G，机器人多边协作完成任务的实现不再遥远",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qbGFadlc0c3NMSVVhNnJqUnRIVG5ka0pYTFlQWWY3Umk4clhZVE5pUkUtY2hZeG84aDBuek5wQ1FmT0RiN0RVTmpWSDNXN1MtbTM4cGhScmlRY183N2RVaQ?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-26T23:21:00.000Z",
+      "summary": "物理AI与6G结合，将实现机器人多边协作任务。",
+      "summaryZh": ""
+    },
+    {
+      "title": "10.51亿买下一座轴承工厂，是冲着机器人关节去的",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aSVFOc0dXQUt3VThyZFlpUkg0TTJLa3pCMWpCbldVVk01ZDVGZERxMGd1akhnUVE3dHlFMWRPTGhLaE5Qa0M2elJQSnNYODNzczVpaUFENA?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-26T07:14:11.000Z",
+      "summary": "企业以10.51亿收购轴承工厂，旨在获取机器人关节技术。",
+      "summaryZh": ""
+    },
+    {
+      "title": "热财经｜从车到机器人，看懂何小鹏的物理AI蓝图",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONjVtMERDcTBWTG1tU0ZENk5PdkFseWRaSFdJNUdZaFNyY3RBZFJ1SF9MdWVON0U0aDJpaUhBa3laN3lqWGJFNUZCNFh0M1M4TzlObEJwMWlDT0hBSUJVUFcxa0pUcmZRN2FEbkdId0pUdWdLeXRlMmk2OFduRDVOZEZSdkJqNFJBdndjamFlNA?oc=5",
+      "source": "21财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-26T13:53:00.000Z",
+      "summary": "小鹏科技何小鹏展示物理AI蓝图，汽车与机器人技术双向进化。",
+      "summaryZh": ""
+    },
+    {
+      "title": "百奥赛图投资成立智能科技公司 含AI及机器人业务",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RcU8xck1CUTB6cERvSFRHLU9QSXVhU3FhZWYxYTZiQW5nRDBQMHN6SmdydW04WTZKLWR2dFAyQ3pwaVlUcjJhZXYySGQ3NkgxVmRaR01HU1kwRkEwNmc?oc=5",
+      "source": "同花顺财经",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-27T01:06:36.000Z",
+      "summary": ""
     },
     {
       "title": "黄立明：以“三智一体”战略 加速向AI原生机器人企业转型",
@@ -148,7 +175,17 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-26T02:32:45.000Z",
-      "summary": "三一智矿以“三智一体”战略加速向AI原生机器人企业转型。",
+      "summary": "三一智矿以“三智一体”战略推动向AI原生机器人企业转型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "具身智能洗牌前夜，一场关于技术与生存的对话",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YemdfckZPQ1l0WG1pR19kSVpfUlk0amRzOXhha096UmxiQU5WNlVTYk51YjFaVmdpMUFWenJWTEtMbGQwdUpSc3UyNl9WaUYwRWJ5enJKYkVqcExoT2Q1X2NlYnY?oc=5",
+      "source": "新京报",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-26T01:56:00.000Z",
+      "summary": "具身智能领域技术路线和商业模式引发行业讨论。",
       "summaryZh": ""
     },
     {
@@ -158,7 +195,8 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-26T04:30:00.000Z",
-      "summary": "",
+      "summary": "小鹏宣布其人形机器人售价将与电动汽车相当。",
+      "summaryZh": "",
       "titleZh": "小鹏汽车表示其人形机器人的成本将与电动汽车相同"
     },
     {
@@ -168,7 +206,7 @@
       "lang": "en",
       "category": "robotics",
       "pubDate": "2026-11-26T14:20:52.000Z",
-      "summary": "埃及水下机器人团队启发教育初创公司Tech in Schools赢得2026年Top Dog新创企业大赛。",
+      "summary": "埃及水下机器人团队启发教育初创公司Tech in Schools获2026年Top Dog新创大赛一等奖。",
       "summaryZh": "",
       "titleZh": "埃及水下机器人团队激励屡获殊荣的教育初创公司"
     },
@@ -184,25 +222,22 @@
       "titleZh": "物理人工智能模型在机器人操纵测试中超过了人类操作员"
     },
     {
-      "title": "Four Payments Executives Define Where Automation Still Needs Human Approval",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0wwRHpZUS1zRllhdzNxT1BLa0F2d01TcXcxdmlGSDk3ejg1Rno3bEhpSzlneklHTXdESkx5eDBEMDNicE84aU1uM0ZOenlqemlIT1FTd0NBMzBuS3MyUkF4MHJSNXBQVzVJTFBCWWNJcGtrWmxva3R0ZWk0Q2tBb0lSYW5kOE1Bb0dFNTdaSXFfOGhROTIwM2NpbzY5WGRSMFMtblIxaEFxeUZCMHZGTFpn?oc=5",
-      "source": "PYMNTS",
-      "lang": "en",
+      "title": "具身智能拉开商业化“淘汰赛”：物流分拣或成最大“战场”，头供规模已经达到二供3倍以上",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnZDRSWTRSLVZtcUxaZzdFcVJSdWdUSTl1V0JFNTBOTzNJWnA1MTRkTzVuMFNGak9FMl9iVkdTRjFsSmp5R0JudVJaQW80czBBcV9RSFZSVmVQemU2UGE4X05n?oc=5",
+      "source": "中国经营网",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-26T18:02:37.000Z",
-      "summary": "四位支付高管阐述自动化仍需人工审批的领域。",
-      "summaryZh": "",
-      "titleZh": "四位支付高管定义了自动化仍需要人工批准的领域"
+      "pubDate": "2026-11-26T05:27:00.000Z",
+      "summary": ""
     },
     {
-      "title": "A New Figure Emerges in the Nvidia Chip-Smuggling Saga",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUlhNXzR5WjJQLVh5WHE1dW1mdFE4MmZreUtrNHRhOVh1NEd5d2p5cjNkSlZRYzY0eU9wZUlfNms4NXM2Z1VnUDdUdnZkR20tekRUX1B4Mm01ZEJTVmFyMWdEdnFjVWFiMkFNZm5tTWtPVmJZV3ktMmdjQjdKQWY0blA1V210MGl3Q0ExTnRsZHpiakQyNWEw?oc=5",
-      "source": "WSJ Tech",
-      "lang": "en",
+      "title": "张哲：海天瑞声正在孵化具身智能数据新公司，构筑长期增长新基石",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uR2d6OFZkVUxLZDV6eVhwVWFBT2c3UFNBZUR2bnpqcHZnOFk3SVN1QVJGMlNXZ0QxRDNfYnA3RlJkT1NvNmxiUHluaDVwczlWMDJpOERWWm1VN2JZTlZRcDR3?oc=5",
+      "source": "新京报",
+      "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-26T13:03:14.000Z",
-      "summary": "",
-      "titleZh": "英伟达芯片走私传奇中出现新人物"
+      "pubDate": "2026-11-26T12:42:00.000Z",
+      "summary": ""
     }
   ]
 }
