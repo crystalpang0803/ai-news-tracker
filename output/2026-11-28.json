@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "generatedAt": "2026-11-28T04:15:37.681Z",
+  "generatedAt": "2026-11-28T07:56:06.202Z",
   "items": [
     {
       "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
@@ -9,37 +9,77 @@
       "lang": "zh",
       "category": "robotics",
       "pubDate": "2026-11-27T14:07:33.000Z",
-      "summary": "众擎机器人推出10亿产业级生态支持计划，助力人形机器人开发者。",
+      "summary": "众擎机器人发布10亿产业级生态支持计划，助力人形机器人开发者协作与成果接续。",
       "summaryZh": ""
     },
     {
-      "title": "影石 Ace Pro 3 被曝采用 1/1.1 英寸方形传感器、双 OLED 屏、2250mAh 电池，12 月 1 日发布",
-      "link": "https://www.ithome.com/1/033/821.htm",
-      "source": "IT之家",
+      "title": "机器人挑战中式刀工天花板！拿下名菜“蓑衣黄瓜”",
+      "link": "https://zhidx.com/p/614041.html",
+      "source": "智东西",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-28T03:14:50.000Z",
-      "summary": "影石Ace Pro 3运动相机12月1日发布，配备1/1.1英寸方形传感器、双OLED屏、2250mAh电池。",
+      "pubDate": "2026-11-28T04:46:00.000Z",
+      "summary": "机器人成功挑战并完成中式名菜“蓑衣黄瓜”的刀工制作。",
       "summaryZh": ""
     },
     {
-      "title": "脑癌治疗新希望：加州理工学院研发纳米机器人 BrainBot，可随血液循环突破血脑屏障向脑内递药",
-      "link": "https://www.ithome.com/1/033/798.htm",
+      "title": "马斯克：谷歌已表示有兴趣从 SpaceX 租用更多算力",
+      "link": "https://www.ithome.com/1/033/898.htm",
       "source": "IT之家",
       "lang": "zh",
-      "category": "robotics",
-      "pubDate": "2026-11-28T01:04:32.000Z",
-      "summary": "加州理工学院研发纳米机器人BrainBot，可突破血脑屏障向脑内递药。",
+      "category": "ai",
+      "pubDate": "2026-11-28T07:31:08.000Z",
+      "summary": "谷歌有意向SpaceX租用更多算力。",
       "summaryZh": ""
     },
     {
-      "title": "威云创达CEO何金：一家图像传感器龙头，为什么下场做AI算力？",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zbTBDQkd6eWcwZ2M2ZzV0SUxmczlKcFlQN2dCOHUwYkNPVVNOZDVHblRkSlRRTVhsVzE4ZUlQdUU2ZTNsenU5UXJLUzd2SFM5?oc=5",
+      "title": "2027 款长城坦克 400 家族上市：24.98 万元起，新增 VLA 辅助驾驶大模型",
+      "link": "https://www.ithome.com/1/033/843.htm",
+      "source": "IT之家",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-28T06:25:43.000Z",
+      "summary": "长城坦克 400 家族上市，售价 24.98 万元起，新增 VLA 辅助驾驶大模型。",
+      "summaryZh": ""
+    },
+    {
+      "title": "AI进化速递 | 腾讯混元发布最新一代3D大模型Hy3D 3.6",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54UGY0ekh1dXc5c1B5MmlPMW9xVzdycmhrQ2NyV3l3U2RjbEtaVHU1MlhHQ19HRGN1QWtMU05TZGdvUDlZSUl5UEp6S3BJNWpXR0o0OQ?oc=5",
+      "source": "第一财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-27T12:49:00.000Z",
+      "summary": "腾讯混元发布3D大模型Hy3D 3.6。",
+      "summaryZh": ""
+    },
+    {
+      "title": "大屏AI规模化落地，创维、海信、TCL等电视上线豆包大模型",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hVE1sMm1wd2EyaVUwQXl3STQycTliOVVaeW85ZmZCTEo4cHBZNllnNnJsTFZJbWstODJpU1A5MVh2ZV9xc0JLLWVEMVZNQ1JrVnNmYklNLW8zX0dqRDJlenJLcTNRMFRmQ19NSFZGaUp1STVHak5wdA?oc=5",
+      "source": "新浪财经",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-27T23:00:00.000Z",
+      "summary": "创维、海信、TCL等电视品牌推出搭载豆包大模型的量产电视。",
+      "summaryZh": ""
+    },
+    {
+      "title": "支付宝AI原生车载智能体“车载助手3.0”发布",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8ycUZzOEZJVXhRVTFDal81M0p0WGRPM1VLYnhPOVhZR3AwbEQyazhGMjFONlo5aUxMeFpOWXRGTEVPSHhFaDFXUlRZV2ltME04QktfOGVyekFGbXE5RXc?oc=5",
       "source": "36氪",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-27T06:11:53.000Z",
-      "summary": "威云创达推出AI算力产品，源于对边缘算力市场需求的洞察。",
+      "pubDate": "2026-11-27T08:48:40.000Z",
+      "summary": "支付宝发布AI车载智能体“车载助手3.0”，实现车内无手机支付。",
+      "summaryZh": ""
+    },
+    {
+      "title": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
+      "link": "https://www.qbitai.com/2026/11/513428.html",
+      "source": "量子位",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-28T05:54:46.000Z",
+      "summary": "卡帕西用Claude AI制作美国版《文明》地图，引发全球网友接力创作。",
       "summaryZh": ""
     },
     {
@@ -49,27 +89,17 @@
       "lang": "zh",
       "category": "ai",
       "pubDate": "2026-11-28T02:53:00.000Z",
-      "summary": "AI公司招聘营销人才，注重产品理解和市场洞察能力。",
+      "summary": "OpenAI、Anthropic和Google DeepMind积极招聘营销人才，聚焦产品推广和客户沟通。",
       "summaryZh": ""
     },
     {
-      "title": "港股大模型股大涨，智谱、MINIMAX-W均涨超20%",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mRGlHYXNEZ3RLYWJEUlFRelVTRzg2S2swVEJpSURKNUtkWV9maFJyNzlwLUU3Ymo2LWFWRmZDLTQxSmNvN3RuWXJibllyMDJaVS1uMExkS0hJQQ?oc=5",
-      "source": "钛媒体",
+      "title": "AI 硬件竞争白热化，OpenAI 反诉苹果窃密；iPhone 18 量产再度推迟；王兴回应美团与小微试点合作",
+      "link": "http://www.geekpark.net/news/374621",
+      "source": "极客公园",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-27T06:14:00.000Z",
-      "summary": "港股大模型股智谱、MINIMAX-W涨超20%。",
-      "summaryZh": ""
-    },
-    {
-      "title": "又一安徽芯片“小巨人”启动IPO！布局AI算力互连",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxdmtGd3dpUVEzaWZ3OHh4V2pHV1JocWF2SDE4S3l4WlU5VC1TMExiSVJ2SlN1blVYT2N5eDlxemhTUUtDaG1JUQ?oc=5",
-      "source": "智东西",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-27T04:30:52.000Z",
-      "summary": "安徽格恩半导体启动A股IPO，布局AI算力互连领域。",
+      "pubDate": "2026-11-28T00:53:50.000Z",
+      "summary": "OpenAI反诉苹果窃密，iPhone 18量产推迟，王兴回应美团合作。",
       "summaryZh": ""
     },
     {
@@ -83,34 +113,23 @@
       "summaryZh": ""
     },
     {
-      "title": "人工智能ETF华富(515980)跟踪指数中证人工智能产业指数上涨9.88%，跟踪指数已处近1年估值低位",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vUGstQ2JBclpZdHVNd2M0TGQ4OGhqcC1Mc0VacTdOeWdUZG5oUF9rM2JiZVltcjd0YUJJd0pKSXpoTDVsWThzUERNWUdEMjFQbXg3cGVPR2I?oc=5",
-      "source": "界面新闻",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-27T07:01:25.000Z",
-      "summary": "华富人工智能ETF跟踪指数上涨9.88%，估值处于近一年低位。",
-      "summaryZh": ""
-    },
-    {
-      "title": "中信建投：国产算力供需共振 AI安全需求持续升级",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvUmV5LW1LQ3h5VG1Ecm1qbXZrTm5SQTZLSXdwOHVxbHl5eEVISVZGYzFXTnRYSDNqM0JGODVuY2NxdVpacUgwbHA1MDF1aEtzVV9R?oc=5",
-      "source": "第一财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-27T04:46:53.000Z",
-      "summary": "中信建投报告称，国产算力供需共振，AI安全需求持续升级，2027年起有望加速放量。",
-      "summaryZh": ""
-    },
-    {
-      "title": "科创50创单日历史第三高涨幅 国产算力领涨 以史为鉴后市怎么看？",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0X1JTMUY5cHhqcFVXSkQweVdxZGVYVkhKZXFmeXh3c0pERDE4ZHotMG0tUUN6LU51amJzYzRCWGRQel9IVTBFaw?oc=5",
+      "title": "OpenAI反诉苹果窃取机密 人工智能设备开发竞赛愈发白热化",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54UDFVVXI4UzNZTldydHFHMHpMLTY5cDdtb3NoUkVZcmxfXzhRN2ZfRzQxWHBKR0E2Ym40elZhUEVVSS1lUlphNA?oc=5",
       "source": "财联社",
       "lang": "zh",
       "category": "ai",
-      "pubDate": "2026-11-27T06:19:00.000Z",
-      "summary": "科创50指数大涨创历史新高，国产算力领涨。",
+      "pubDate": "2026-11-28T05:01:00.000Z",
+      "summary": "OpenAI反诉苹果窃取机密，双方就人工智能设备开发展开诉讼。",
       "summaryZh": ""
+    },
+    {
+      "title": "“AI股神”高喊抄底：AI实验室2027年底年化收入或突破万亿美元，Anthropic被严重低估，机器人ChatGPT时刻明年到来！",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tUi1mTXVUYVIzcjRaTnlfME43Z3RJa0VTRzloaERzQ25pMm0xQzFBWDNjRTg1emhBTVR3UDk0c2hWNl9xRE1aY2pDQ3VlZ25QNW1F?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "ai",
+      "pubDate": "2026-11-28T07:18:48.000Z",
+      "summary": ""
     },
     {
       "title": "跳出云端狂欢，格灵深瞳差异化布局端侧流式多模态：LLaVAOneVision2.5叩响物理AI落地之门",
@@ -123,14 +142,15 @@
       "summaryZh": ""
     },
     {
-      "title": "明略科技携手头部酒企落地FDE模式 加速智能体商业化",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM3c2SllQck93VDVfWEJ4SFJrbFM4b1F5VlF4cWpLYkJ6ck9CZGo0Wm45ZjZsZTJiSGlKTUt0VU0xbzhQSnFlemRXSmk5RnlLNnF5aS04T3B4a3ZJYWp2TnRFU0paa1VGTWFXV0FibjRqSG5CcHB4UmZCMlE5eDJmNjhRWEFzb0NLckUtNlNONA?oc=5",
-      "source": "21财经",
-      "lang": "zh",
-      "category": "ai",
-      "pubDate": "2026-11-27T10:39:00.000Z",
-      "summary": "明略科技与头部酒企合作，落地FDE模式，加速智能体商业化。",
-      "summaryZh": ""
+      "title": "GXO doubling down on robotics in 2027",
+      "link": "https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/",
+      "source": "The Robot Report",
+      "lang": "en",
+      "category": "robotics",
+      "pubDate": "2026-11-27T13:56:43.000Z",
+      "summary": "GXO Logistics计划于2027年在美国加速部署自适应技术，包括自动化物料运输、机器人手臂和AI视觉技术等。",
+      "summaryZh": "",
+      "titleZh": "GXO 将于 2027 年加倍投入机器人技术"
     },
     {
       "title": "当机器人“遇上”无人机 2026香港AI科普周开幕",
@@ -143,34 +163,52 @@
       "summaryZh": ""
     },
     {
-      "title": "GXO doubling down on robotics in 2027",
-      "link": "https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/",
-      "source": "The Robot Report",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-27T13:56:43.000Z",
-      "summary": "GXO Logistics计划于2027年在美国加速部署自适应技术，包括自动化物料运输、机器人手臂和AI视觉技术。",
-      "summaryZh": "",
-      "titleZh": "GXO 将于 2027 年加倍投入机器人技术"
-    },
-    {
-      "title": "印奇：物理AI是中国AI最大的商业化场景之一，自动驾驶就是物理AI的coding",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJU1A2WTZrYjRON0JSQVFuY0RJWktkRWVWeVJDNWJSWWRqRTZnS3VISDc3QTdDakg2dGtPYms0MnhTeUExYkN3VXZKOFE0NU16TGZrcUFQMmhKQjZDMVlQZy1GYWpuNXZHT2ljSElCb0pURlYyMUpTWA?oc=5",
-      "source": "新浪财经",
+      "title": "小鹏科技日：机器人走上台之后，真正的考验才开始",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxUlNJdmYxdlpiMjdwcWZLNklQNkdJemVoTjRBZ0dPeERxS1NGcmVtaFFrQXluLUJSTllCMTFZU2dhamtQSzJWNi0xU00?oc=5",
+      "source": "极客公园",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-28T01:01:00.000Z",
-      "summary": "物理AI被视为中国AI商业化最大场景之一，自动驾驶是其核心应用。",
+      "pubDate": "2026-11-27T11:22:46.000Z",
+      "summary": "小鹏科技日展示机器人IRON，聚焦物理AI协同效率与门店导购应用挑战。",
       "summaryZh": ""
     },
     {
-      "title": "英汉思动力完成B轮融资 加码机器人技术研发与产能扩容",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wYW1lUHg3SDlSR2RHcTNiOG9IMVhnZ0NNZzNMNDBUVW5Oal9RMks1OVVBMTVMdWF5VTREN25lVWJ6VWVVTVZaMUktLWdJRi13cnpEVG5CSTZqLUdCa1V2ODFNSU1jYkkwWm9J?oc=5",
-      "source": "央广网",
+      "title": "千里科技印奇：物理AI是中国AI最大的商业化场景之一，自动驾驶就是物理AI的coding",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MTjVMXzlDdDJIaHk3N1M0R2pXSFU4Y01IandlVnRtZms3MlhfelpzeVIwV1dEUUt5TmxnU3laNTBfV0o3QS1jc1dwSXAxR1R5VkhfX1ZKc29zdk1uZXF0ajJPdFpNUQ?oc=5",
+      "source": "每日经济新闻",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-28T00:48:18.000Z",
-      "summary": "英汉思动力B轮融资，加码机器人技术研发与产能扩容。",
+      "pubDate": "2026-11-27T10:43:00.000Z",
+      "summary": "物理AI被视为中国AI最大商业化场景之一，自动驾驶是其核心应用。",
+      "summaryZh": ""
+    },
+    {
+      "title": "美团电话会：王兴复盘美团优选“重大错误” ，外卖竞争迎来拐点、四季度UE将明显改善，明年AI资本开支将下降",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vRVNtdDIxTlRoOHV4eGRTUGNER294bUgyVkZNd0d2VVJwajNFME1namFvZnA4OE1ZVGExLWowanpwNk9FUlFHUEpHcUp1MHdpcjJz?oc=5",
+      "source": "华尔街见闻",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-27T13:42:48.000Z",
+      "summary": ""
+    },
+    {
+      "title": "美团三季度扭亏为盈，王兴：外卖行业迎来拐点，明年AI相关资本支出将低于今年",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JSlBfWTZLYzZ1RHM0cEttVXRkZE1rVHNNYmZmeVl5RXNxMjNiUnA0ZzVGNFItc2xPMkVpSThUVGt3QnRxUmFFNEFTUDROWVVhcDl2aWszc2FUYm81Q0N0cw?oc=5",
+      "source": "澎湃新闻科技",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-28T05:12:59.000Z",
+      "summary": "美团三季度扭亏为盈，王兴称外卖行业拐点到来，明年AI资本支出将降10%。",
+      "summaryZh": ""
+    },
+    {
+      "title": "CRA的24小时预警怎么赶？艾体宝ONEKEY帮机器人厂商先答出受影响范围",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RMFRWY1QtUWlmX0lCX21hQXBScVBiX3FKQTJJQ2tTb1V2b3AyX0ozelV5ZXlWMUs4Nk1IaFBPTUh5THFMUGUzUDcwaHJZQ011a3JrczVKQQ?oc=5",
+      "source": "与非网",
+      "lang": "zh",
+      "category": "robotics",
+      "pubDate": "2026-11-27T08:37:27.000Z",
+      "summary": "艾体宝ONEKEY助机器人厂商快速识别CRA24小时预警影响范围。",
       "summaryZh": ""
     },
     {
@@ -184,6 +222,16 @@
       "summaryZh": ""
     },
     {
+      "title": "梨花文化亮相SIC老博会 发布新一代适老智能硬件成展会焦点",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SLWZUMElfMi1BOEQ3emtlSFRuZWlhdy1iNjFfejlNazVhcU5ka2Q1LUJSU21La1NKUEN6VkZpTWZXYUNoZ0pQVzRaWVdNb3Y1QkstcmRtUFZod2ZpbV8wOU5XNld3Ml9XaDNtN0VFc1pROEhRMFJnZ1Z2TTA?oc=5",
+      "source": "新华社",
+      "lang": "zh",
+      "category": "application",
+      "pubDate": "2026-11-27T11:00:09.000Z",
+      "summary": "梨花文化在SIC老博会发布新一代适老智能硬件，聚焦老年人学习需求。",
+      "summaryZh": ""
+    },
+    {
       "title": "AI软件如何赋能文旅？四川这场对接会搭起供需“直通车”",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFZ0FJTWN1enV2cGpGMVRYY3JPVzJHd1VnVGVyeHhkS0VTN0h0U0RjYjVTYWs0RVdZLVJOSXY0LThhTEhJMUo1ZkdFalVHY0REc1FObXJzSUh0SGx1emI3VU5xaG5XcDQ4aWtGdw?oc=5",
       "source": "中国新闻网",
@@ -194,57 +242,13 @@
       "summaryZh": ""
     },
     {
-      "title": "每小时200多元降至100多元 机器人数采生意变了",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01MHFnekg2OHdrRmVZV0ZXTEMzR0F0a0NSYWtSWUN3QUpuenRldjdkaS10S1M2c0d4T2NQV1JzWm1sSW5HeEJwNnBBb1ZsOVdRYl92UWtJTWR1cllKUThNcFhB?oc=5",
+      "title": "机器人赛道今明两年“大浪淘沙”趋势已成",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBncFJSaVNXNFphYXl0Sy1tVWNMOFRHRXAyQmE1SndXaW45NlhIaEZEZ3Q5S1h0RmphUWRjMjRESm50OXYyUGhLei1MbUdIaTlnbjlWaGhPV3h1NXo2azV2cjhn?oc=5",
       "source": "中国经营网",
       "lang": "zh",
       "category": "robotics",
-      "pubDate": "2026-11-27T09:32:00.000Z",
+      "pubDate": "2026-11-28T05:29:00.000Z",
       "summary": ""
-    },
-    {
-      "title": "The ‘Iron’ age: XPeng prepares for mass production of its humanoid robot",
-      "link": "https://roboticsandautomationnews.com/2026/11/27/the-iron-age-xpeng-prepares-for-mass-production-of-its-humanoid-robot/107831/",
-      "source": "Robotics & Automation News",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-27T19:14:21.000Z",
-      "summary": "2027年1月，小鹏汽车将开始量产其人形机器人Iron。",
-      "summaryZh": "",
-      "titleZh": "“铁器”时代：小鹏人形机器人量产准备"
-    },
-    {
-      "title": "Robot Talk Episode 172 – Robots that learn like children, with Leticia Mara Berto",
-      "link": "https://robohub.org/robot-talk-episode-172-robots-that-learn-like-children-with-leticia-mara-berto/",
-      "source": "Robohub",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-27T13:33:28.000Z",
-      "summary": "曼彻斯特大学李蒂西亚·玛拉·贝托研究儿童发展灵感，开发机器人认知能力。",
-      "summaryZh": "",
-      "titleZh": "机器人谈话第 172 集 – 像孩子一样学习的机器人，与莱蒂西亚·玛拉·贝托 (Leticia Mara Berto) 一起"
-    },
-    {
-      "title": "From lab to blueberry field: Blueberry-picking robot uses soft silicone bands to selectively harvest ripe fruit",
-      "link": "https://techxplore.com/news/2026-11-lab-blueberry-field-robot-soft.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-27T12:40:01.000Z",
-      "summary": "蓝莓采摘机器人采用软硅胶带选择性收获成熟果实。",
-      "summaryZh": "",
-      "titleZh": "从实验室到蓝莓田：蓝莓采摘机器人使用柔软的硅胶带选择性地收获成熟的果实"
-    },
-    {
-      "title": "Sony's dog robot can't do chores but offers companionship",
-      "link": "https://techxplore.com/news/2026-11-sony-dog-robot-chores-companionship.html",
-      "source": "Tech Xplore",
-      "lang": "en",
-      "category": "robotics",
-      "pubDate": "2026-11-27T10:05:45.000Z",
-      "summary": "索尼推出的狗形机器人无法做家务，但提供陪伴。",
-      "summaryZh": "",
-      "titleZh": "索尼的狗机器人不能做家务，但可以提供陪伴"
     }
   ]
 }
